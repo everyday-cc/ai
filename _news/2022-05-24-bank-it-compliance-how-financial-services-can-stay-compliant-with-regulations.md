@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Verint, Intelligent Voice partner to help financials meet compliance requirements"
+    excerpt: "Verint and speech analysis provider Intelligent Voice have integrated their technologies to offer a new voice biometrics and record-keeping solution."
+    publishedDateTime: 2022-05-26T19:50:00Z
+    webUrl: "https://www.biometricupdate.com/202205/verint-intelligent-voice-partner-to-help-financials-meet-compliance-requirements"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/23162352/voice-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+
 secured: "eQjJ/x3CKhROopQ/20OnvC9qWSFkoJIjIGNmqM92eSkcCQeGHsp+htVa2IFzk+bNXIGfSYcbWVd059xP+FTBuiSPRrK6pAOlKnhjKqnXlNcBJzw++h7pEOCrIeGLhjXhm6L7CqBbek7iLnI+WTxNhRbHwtOPoxMhk0kiVtiXZEkJavYSgjHqfcEUtbQ+a/rpHiInUwbBmE0t/80wS53Hn9aO7RwC82rw6blv9JRry8ITSupFze33L7sbV6K9Hmp9LkfKrSDYHERhe35s/rmhJ7dNet2BVH8Pz15sjU3QijtCsy+5ubm51ygKTdtJdKOb3xExTSCEd+iilhT81vPUth5k2pXriOXAQvQ28ke4p4/8uvK/d/++pRJepUdTV9L1Kd/oCTB8IkLiUDjGNPOZg8/v7nUnm++EsfLpGTvrUAA6AWFwp9K/5UEhJRB4ZI6+HILoNNvlEQucnZSFYdp9OHwNR2K6U4rxV0FQqvT/3NGiAU8w9GsnSY3UEVNsNGuG/A7MZYXV4KGgdQNaw+/RbA==;nj+uftOCPMs64f1DZi8YVA=="
 ---
 

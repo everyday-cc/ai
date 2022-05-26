@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T19:35:00Z
 originalUrl: "https://www.itworldcanada.com/video/itwc-digital-transformation-conference-cindy-gordon-on-ai-ethics-and-performance"
 webUrl: "https://www.itworldcanada.com/video/itwc-digital-transformation-conference-cindy-gordon-on-ai-ethics-and-performance"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: IT World Canada

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T19:30:00Z
 originalUrl: "https://www.thehansindia.com/business/sophisticated-ai-solutions-for-healthcare-sector-745149"
 webUrl: "https://www.thehansindia.com/business/sophisticated-ai-solutions-for-healthcare-sector-745149"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Hans India

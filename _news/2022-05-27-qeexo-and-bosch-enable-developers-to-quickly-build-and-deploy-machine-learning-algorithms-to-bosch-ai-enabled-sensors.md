@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T19:50:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/qeexo-and-bosch-enable-developers-to-quickly-build-and-deploy-machine-learning-algorithms-to-bosch/article_ad9c526b-21d4-563a-9b19-cce6ea05ffc3.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/qeexo-and-bosch-enable-developers-to-quickly-build-and-deploy-machine-learning-algorithms-to-bosch/article_ad9c526b-21d4-563a-9b19-cce6ea05ffc3.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

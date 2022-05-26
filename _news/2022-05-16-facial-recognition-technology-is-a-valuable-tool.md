@@ -3,18 +3,26 @@ category: news
 title: "Facial recognition technology is a valuable tool"
 excerpt: "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place."
 publishedDateTime: 2022-05-15T18:32:00Z
-originalUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
-webUrl: "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
+originalUrl: "https://www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
+webUrl: "https://www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/"
+ampWebUrl: "https://www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/amp/"
+cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/amp/"
 type: article
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: The San Bernardino Sun
+  domain: sbsun.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "CkvYYHfMfcTJIlSb7yRwQMbbcJikeydNokpMKBZ3kZmhbLsRKZ0uhCzjHlOSELV17ntwSnCxiELEnGDtn1l3FX7awLxa60MS1Zk0PZkykhV7+oNgmbjfIiYr/gDmbsEMzhkymL5MR3KMfKR2y/qHKudLiSLZ06IoBoTmxa7GEAq+6feoNmDuGILmOfXM2qA62i3bsZSU0FIs8nzaQ1DUXOCC64ldpoPYY1lbx3Aq2f6YkKs5Roc7wF7TdaBaaqxVRoXZWPr6+sZU8SJy004SvLzrY8e4BEW+spDIsUZNOo/em3IoK6DhCmAOe9TskvVSsWyRU7iRHHaTzb7sZaq/x9wZ+oCYbZb+g1u8Wtf6xZlwWnbIskBNJSuFsDajUzJqHEEEguzIKzPXQQFNxBrYZbAD7MwD/vLRK2SscI1ojRoNkY3WnuCEBVJK3oxTt5rNVx5dtLjt0VsH8x7sZ1ByGk69eaixUZ5y82vod0wkVOJzyQnohXYdiXaQ1dP0k8f9YDslzX9ChiuWPvMGlHELAQ==;0LWLNYl7o0vejKONflxEyw=="
+images:
+  - url: "https://www.sbsun.com/wp-content/uploads/2022/05/AP22129613264258-1.jpg?w=1024&h=682"
+    width: 1024
+    height: 682
+    isCached: true
+
+secured: "j7YlWjoNah3RBas51mTFULKxHoNRXhyRhUML8WO3F1dNdFjRv0Ow67ZIa9kHw1n70cdbfIlO/sLaUfkFuNsUnOB9UND89OnncCoIiq+Z1QlpTqrjLL0Jtym/EjwdLycBrGoWH4KTVcpPdQnIQrN2TBqVGaJ/zDlzUHil2ah7Vt85cNkvcHvqQnLQG4ziD7baX+QYP/oSweo7d2dkj4h3bay+EDAM3uxIAgurhAPjLTe1bKBBua4/Rd5U88+1A8Bjtpw3BE3AVo1xByPt9WnSUDgfMxu2AwwzQ3tyYUTALpaqNxhdh1AnJJLuCIfxeIMWrq3z24uj1ESvRUVc/7icudeVxEfqAxJYNzFqTA+GOnY=;Gb0MOVI41IOM/p0pTd4eKQ=="
 ---
 

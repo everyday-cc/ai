@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T18:13:00Z
 originalUrl: "https://enterprisetalk.com/featured/three-key-artificial-intelligence-adoption-pitfalls-to-avoid-in-2022-and-beyond/"
 webUrl: "https://enterprisetalk.com/featured/three-key-artificial-intelligence-adoption-pitfalls-to-avoid-in-2022-and-beyond/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: enterprisetalk

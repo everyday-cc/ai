@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T19:54:00Z
 originalUrl: "https://thenextweb.com/news/uae-ai-minister-wants-murder-metaverse-real-crime"
 webUrl: "https://thenextweb.com/news/uae-ai-minister-wants-murder-metaverse-real-crime"
 type: article
+quality: 46
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -17,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Microsoft's metaverse rival Meta chooses Azure as strategic cloud provider"
+    excerpt: "Meta, formerly known as Facebook, has chosen Microsoft Azure as a strategic cloud provider for A.I. research and development"
+    publishedDateTime: 2022-05-25T15:53:00Z
+    webUrl: "https://www.onmsft.com/news/meta-chooses-azure-as-strategic-cloud-provider"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 52
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/10/Facebook-to-meta.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "icTxjzKb6J943vJQRruB8q4s6SWa2fIKnZp8fUZC9r07Ijrx9mWhREF3kpw/Hj5NWmd9wIohyqQ1lHG8M2aUnCRxZ4XNa+tC22Tmuga0CNi940HgeE6flGdP9ZxZDZWFgT9y/eCIlhoGpK4SxjoaC3ChXQRV8zZ+QlyuxDbLOYYACeSQxw2FZHyFqiE266Vilraz1XCoW6A18ZM8gDrDBPHWXii9mr6OcsYE+NdNBj/aZABdVHl8eJZem07W5ws2PVxYSZVBS23b5hyUjwA+9oGelbSMJrWoR841HZzaygXPHJMj7mcM+BnwFBAR9Vdgr30smj3IqGc6wwEzpW4DPAC6vI/S7CFATHRFNhY7pZu2jyduzWc+l4MFQyCEgYBtVm5CahnahI1SL3ruUPOT/i0vv6eDCzT9hqON50M74UCo7pOKzajPK3c/zwWh0marKfl+5DgdthTdwkH/QLLWALUMqA473dZ5XPQv/sf/Eya98pRRQpbawUqLmxqOoKPnJDSOTLyDC/BkMq7Yd4ndYQ==;kRr1IcqW/zqGFRCf1QlA7g=="
 ---

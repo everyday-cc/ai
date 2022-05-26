@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Behavior Health Chatbot App Fast-Tracked by FDA"
+    excerpt: "Recently the U.S. Food and Drug Administration (FDA) granted breakthrough device designation to Wysa’s AI-based digital mental health conversational agent that delivers cognitive behavioral therapy (CBT) via a smartphone to adults suffering from ..."
+    publishedDateTime: 2022-05-26T20:36:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic88776.jpg?itok=FgGSLPBQ"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Specialization is key in an exploding AI chatbot market"
     excerpt: "Join AI and data leaders for insightful talks and ... The platform enables brands to improve their customer relationships and start generating revenue from customer service."
     publishedDateTime: 2022-05-24T13:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-e
 webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Baidu Sales Rise After AI Push Helps Offset China Slowdown"
+    excerpt: "Baidu Inc. posted a surprise revenue rise after efforts to expand in areas such as cloud computing and autonomous driving offset weak ad sales in China. Shares of Baidu jumped 5% while its Netflix-style streaming affiliate iQiyi Inc."
+    publishedDateTime: 2022-05-26T19:55:00Z
+    webUrl: "https://www.caixinglobal.com/2022-05-27/baidu-sales-rise-after-ai-push-helps-offset-china-slowdown-101890714.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 34
 
 secured: "1fuR9qBW0KLXsns0bLXhkC/qJ4n7HYbeWuqENB07pW4PAFPpB/jjIPyd2Etqdv6hV9rUADX6qa2H9Hj+K+0Lp8eHAyi72mKW7dXB+0yYPHWocj621hG7/sSYp9pNPZ7HlYi9BzJBekLuFisbL0bmORY3Mz2wPCowIWo+YXgYqt8/HPLFbC/uaHutWwZINPQ/nJB3NA7gQRVtkh3ySMj7dQ2ZfAnVzv5sHdB/xQEupqdbrjBsXTI7GU6CvTlGeAGoKwAU5IWcjQQW0YsWOtlNyWEUA57geFL81IWIGPrTrg5V+oS3HouGk1O8/9qfuEiCphNPBep6ShtueedXwN1iXOAXODdoArJ2TxZMdwAv1Oo=;xYrQybRCQAnOeP35KjRdHQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T18:58:00Z
 originalUrl: "https://venturebeat.com/2022/05/26/ai-weekly-fuzzy-pandas-vs-ais-last-mile/"
 webUrl: "https://venturebeat.com/2022/05/26/ai-weekly-fuzzy-pandas-vs-ais-last-mile/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

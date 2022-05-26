@@ -7,7 +7,7 @@ originalUrl: "https://www.ucdavis.edu/health/news/using-artificial-intelligence-
 webUrl: "https://www.ucdavis.edu/health/news/using-artificial-intelligence-predict-life-threatening-bacterial-disease-dogs"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
-    excerpt: "Veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
-    publishedDateTime: 2022-05-23T19:55:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
   - title: "This bacterial disease can be deadly for your pet. UC Davis is using AI to catch it early"
     excerpt: "Veterinarians and researchers at the University of California, Davis have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs using artifici"
     publishedDateTime: 2022-05-24T11:00:00Z

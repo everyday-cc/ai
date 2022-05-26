@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T19:42:00Z
 originalUrl: "https://www.thehansindia.com/technology/tech-news/rezoai-launches-a-game-changer-for-enterprises-fueling-sales-marketing-and-support-teams-to-boost-revenue-growth-745032"
 webUrl: "https://www.thehansindia.com/technology/tech-news/rezoai-launches-a-game-changer-for-enterprises-fueling-sales-marketing-and-support-teams-to-boost-revenue-growth-745032"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: The Hans India

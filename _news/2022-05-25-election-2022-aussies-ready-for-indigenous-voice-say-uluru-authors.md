@@ -62,6 +62,24 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Aussie religious leaders call for an Indigenous Voice to Parliament"
+    excerpt: "Major faith groups in Australian have united to declare their support for an Indigenous voice in the Constitution. The Catholic, Uniting and Anglican churches, the Australian National Council of Imams and the Executive Council of Australian Jewry on Friday will join Australian Sikhs,"
+    publishedDateTime: 2022-05-26T21:17:00Z
+    webUrl: "https://www.theaustralian.com.au/the-oz/news/aussie-religious-leaders-call-for-an-indigenous-voice-to-parliament/news-story/0f440d4098b87120ef33593ed121ae65"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
+  - title: "Incoming Indigenous Labor MP calls Greens a bigger threat to a Voice to parliament than Coalition"
+    excerpt: "The incoming Indigenous MP for Australias red centre says the Greens are a bigger threat to the voice to parliament than the Coalition, as the left-wing party pushes a treaty between the government and Aboriginal people before any national Indigenous body."
+    publishedDateTime: 2022-05-23T10:34:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/incoming-indigenous-labor-mp-calls-greens-a-bigger-threat-to-a-voice-to-parliament-than-coalition/news-story/6028697104d58c490253d2295a0cb881"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "tmWmnahuHNI4Db1kX4ztuRXamJ7YrxqJ4Dhoo8sqEp6k3poOdL9Yot3TwcGWExLYR8NiVEx+j5RSH9RkQaJIdoRvHKuufn9rG3gJ9741YGWX6C569mYsl6OeUhR2Eby1A9akSHxp3cqBx4ZywqHrNFHRiw8tjrbq3DU+5+uVo+7S+lYsl/q3+Unw59dUZb6pM48ws3C1zdrORlWoDNHRH38CbG+nrkEUQJPvtMQZhigtbF6mGMwhNAT3pj+hc3n0RSQT9LA4q1T4Rb/FgA7i445VGoL0p1VR5Z2wmOXdDLg56YGkWlHfaLiY6+AkOluVj1TA4s3rFK8jgsawdLZqKlSPzoxvTzw1fOqGKlW5ZCpssdHBE3+4Dc4Sh71C0brvVa5bwuFwDl9cvk7bE9d40HtLSparfrVA24jog9PVhSvIC8kCZAJUADhom1gdixqelaM78H8MbkxWSbsTNQLWhjVDufc51CB9rVXaMykTPabcg+8eNf1EIKkIt6IpFSYpf5H3QmFl657Bv5uyBIf+Jw==;wtcfCavcInHzbOANPit4mg=="
 ---

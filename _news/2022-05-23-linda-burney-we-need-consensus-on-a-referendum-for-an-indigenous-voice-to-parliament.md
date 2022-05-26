@@ -63,6 +63,24 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "Aussie religious leaders call for an Indigenous Voice to Parliament"
+    excerpt: "Major faith groups in Australian have united to declare their support for an Indigenous voice in the Constitution. The Catholic, Uniting and Anglican churches, the Australian National Council of Imams and the Executive Council of Australian Jewry on Friday will join Australian Sikhs,"
+    publishedDateTime: 2022-05-26T21:17:00Z
+    webUrl: "https://www.theaustralian.com.au/the-oz/news/aussie-religious-leaders-call-for-an-indigenous-voice-to-parliament/news-story/0f440d4098b87120ef33593ed121ae65"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
+  - title: "Incoming Indigenous Labor MP calls Greens a bigger threat to a Voice to parliament than Coalition"
+    excerpt: "The incoming Indigenous MP for Australias red centre says the Greens are a bigger threat to the voice to parliament than the Coalition, as the left-wing party pushes a treaty between the government and Aboriginal people before any national Indigenous body."
+    publishedDateTime: 2022-05-23T10:34:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/incoming-indigenous-labor-mp-calls-greens-a-bigger-threat-to-a-voice-to-parliament-than-coalition/news-story/6028697104d58c490253d2295a0cb881"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "Lp+0UeXqn5H4GzQb05EozQQ29xO4/NIUjcd0KkBA12eXql8L+8FI6/DsPzMoCqHIHjLwyAaRp7gnmhv2Ux2Ey5PMz5V7H8Po6nKv/18zGfW8lDnat+tAAoIEPgSoxy9kdaaiKdikiMKtauiuISpnZUmqLEGUD73VhY25UI6Ok5Erg0uXA6p+NJL4pMGDk0cFwDGNIdyCpvuPcWxOUjHWJRk+poAgfZMc25+VCuXy2ug9MUx7G5gB8LFm9HoHXRUFH4UOezau+MdxP6VCKV+JVhdADyokup+bKMLs0/aAHhgeC1A9I1IkoTrTb8xyCYUxl6H9LeVRJ8aJXABPY4/qV+kf3p1xc/RWBtTXyn/e4uM=;Aw1iS4+hAdx2NKTsyw2sRA=="
 ---

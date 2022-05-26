@@ -1,29 +1,23 @@
 ---
 category: news
 title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
-publishedDateTime: 2022-05-24T20:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
+excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
+publishedDateTime: 2022-05-24T22:02:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
 type: article
-quality: 61
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft brings support for Arm-based AI chips to Windows"
@@ -199,6 +193,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/05/ezgif-4-e0fc2c5a69.gif?w=600"
         width: 600
         height: 338
+        isCached: true
+  - title: "How Microsoft plans to improve the low-code landscape"
+    excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
+    publishedDateTime: 2022-05-26T20:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/"
+    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Microsoft Build: New AI dev tools turn pictures into apps, summarize text, and write code automatically"
     excerpt: "Build developer conference, which starts Tuesday morning, will provide a new glimpse of the ways that artificial intelligence is automating software development, and helping developers provide AI"
@@ -463,6 +473,15 @@ related:
       name: Stratechery
       domain: stratechery.com
     quality: 34
+  - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
+    excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
+    publishedDateTime: 2022-05-26T18:14:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 32
   - title: "Microsoft Teams and Power Platform to Get AI-Assisted Collaboration Features"
     excerpt: "Microsoft is showing off a number of new features for Teams and Power Platform developers, including the ability to scan photographs"
     publishedDateTime: 2022-05-25T13:41:00Z
@@ -472,7 +491,16 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 31
+  - title: "A look at the announcements from Microsoft Build 2022"
+    excerpt: "This year's edition of Microsoft Build has now wrapped up, but don't worry if you missed it! The event brought us many surprises, so just in case you couldn't tune in live, let's walk through some of the announcements."
+    publishedDateTime: 2022-05-26T18:39:00Z
+    webUrl: "https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2022/05/26/a-look-at-the-announcements-from-microsoft-build-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
 
-secured: "kmePTFQx+sdnmDP/bNXJpEjcQlUFp/6tgDVQR4pqywaQ3UiIdp2Ibj9rsKM7ubDtset5EWzPrGjZpp/rwejVAggieU9qVoD18bZvuRoKIoyl+03+6VvhHKYed/ZqZ7Un6nv0m+xYMz+rGvi2xnmJXm0nhs+O/IqPv+iQM3j/UwXdqBQywaQiXR29zgdlgp1teST83WCyQGdwi4UZmhsrET+nRwdYIHiA10tu8ufNDWiahpkhpME1Jmc4JTr4JZXBhLw55sO5oIg40pjXCiLUXGWj5vaenHW3PKwMgqNGEQliJMw+3aeV1Xplp43KxwYq3VNscsV6fEvQQOrpXTNeCTxPTGzChoVq4PZ6ZbJgyEk=;gul9LE6M1TfTPMPSyN7MVw=="
+secured: "m+0uAQS4Ig4aLAGUVGv4Bj2mNrLVQ/fNVcqdEcPz0uXbB+ARehpU0j82rdBD3jPXysPuqVGPspMdJzzU3S1CuQA4yesr7c3TYS6uIB4ICIVZ3aurRX2QqRLYqkv56zkPcC85drSazZlNhrZE0JFNEIB5mhdw43T7cJIwva1SG5VtqlDYMyTtM66EG5d3VgfE8MfdzGOkkKcwy4DEvGuXy8/9hzDjAJ1lT65avuc+iNLVeuhwVeIb+Z0PJHZ2+YQSmqUEfl5rFUmF7V2KwldV688dSois9soexiplPRL7yh0xAvgTSplys9ZXIlZQkt8FZffUB2CWSYDbj2dgRefrhvUdqBSpyEGteealjOmJF0M=;m+GlrYoZKQ2YiMcGBABQHw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/"
 type: article
 quality: 121
-heat: 441
+heat: 471
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "How Microsoft plans to improve the low-code landscape"
+    excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
+    publishedDateTime: 2022-05-26T20:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/"
+    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Microsoft Build: New AI dev tools turn pictures into apps, summarize text, and write code automatically"
     excerpt: "Build developer conference, which starts Tuesday morning, will provide a new glimpse of the ways that artificial intelligence is automating software development, and helping developers provide AI"
     publishedDateTime: 2022-05-24T15:03:00Z
@@ -305,20 +321,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
-    publishedDateTime: 2022-05-24T20:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 61
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The biggest Azure announcements from Microsoft Build 2022"
     excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
     publishedDateTime: 2022-05-24T20:05:00Z
@@ -407,6 +409,15 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 46
+  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
+    excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
+    publishedDateTime: 2022-05-24T22:02:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z
@@ -467,6 +478,15 @@ related:
       name: Stratechery
       domain: stratechery.com
     quality: 34
+  - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
+    excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
+    publishedDateTime: 2022-05-26T18:14:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 32
   - title: "Microsoft Teams and Power Platform to Get AI-Assisted Collaboration Features"
     excerpt: "Microsoft is showing off a number of new features for Teams and Power Platform developers, including the ability to scan photographs"
     publishedDateTime: 2022-05-25T13:41:00Z
@@ -476,6 +496,15 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 31
+  - title: "A look at the announcements from Microsoft Build 2022"
+    excerpt: "This year's edition of Microsoft Build has now wrapped up, but don't worry if you missed it! The event brought us many surprises, so just in case you couldn't tune in live, let's walk through some of the announcements."
+    publishedDateTime: 2022-05-26T18:39:00Z
+    webUrl: "https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2022/05/26/a-look-at-the-announcements-from-microsoft-build-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
 
 secured: "NuywPxMZCNU1hgM+6mJO7NBHh81TXb70eLIQkjPlItV47762AjVN+R/okbBCzTr6N58R1Rq5VTQVVl5tEkflzIxnSaxVk94QL8zJ5TjPfsBwXx89C9+Z4JjBdPm3MKt9NrJn7tG0f1js1pNA9Pgq+yimQC2NvNYGVXCSWRmn0xf6WGhQ8zQpjUWnSTodL7Dar3p6WZB9cdaidNgipF+onzpJkp2UfZVV2jQAOOQA0hg8CDjj334RXPM1LQx+rBvQdz2rjyYHzk4taS2lpLShb0b7XTRSCtHGvNS9d/tQOiIoOKp1XL137SdOixK45iMLTyoNjBd3Zt2HRAFxlQr4G0UdLYcxzbeL5kjFbWtJAb1csJuBfKH8MuDMPZELnCLc/+nYHDJegMBd/mY1xhab+vvbTQs1rI7vM7Jco07kiFz1zAogcI+gCNmCPeiPBu+lhajE0aHY+8PS9V8r8CHDMLdf8YmnJjnLuG2F1PoR5iZqidJn+/H6lj7OWp5Q9y1KHoNu6K+IaKlSPMCSlmBv0A==;T6d6na8nYBlumzuf3vuWEQ=="
 ---

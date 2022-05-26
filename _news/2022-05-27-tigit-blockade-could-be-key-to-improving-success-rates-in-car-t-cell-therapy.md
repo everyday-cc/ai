@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T19:11:00Z
 originalUrl: "https://www.precisiononcologynews.com/cancer/tigit-blockade-could-be-key-improving-success-rates-car-t-cell-therapy"
 webUrl: "https://www.precisiononcologynews.com/cancer/tigit-blockade-could-be-key-improving-success-rates-car-t-cell-therapy"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: precisiononcologynews

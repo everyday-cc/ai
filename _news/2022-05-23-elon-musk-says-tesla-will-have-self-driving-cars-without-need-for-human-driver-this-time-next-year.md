@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The DMV said it would investigate Tesla over self-driving claims. Then, crickets"
+    excerpt: "Why doesn't the DMV have anything to say about its investigation of Tesla's autonomous driving claims after a full year? The agency isn't talking, and lawmakers are getting impatient."
+    publishedDateTime: 2022-05-26T21:50:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-05-26/dmv-tesla-year-long-slow-walk"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-05-26/dmv-tesla-year-long-slow-walk?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-05-26/dmv-tesla-year-long-slow-walk?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 69
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/24fe7d2/2147483647/strip/true/crop/1871x1251+0+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2F2f%2Fddad095e40d9a5832e02834713aa%2F958471-tn-dpt-me-nb-fatal-collision-1.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Prominent ex-Tesla self-driving car exec leaves Apple for greener pastures"
     excerpt: "Apple has reportedly been working on self-driving car technology since 2014, but it has faced a series of prominent employee departures over the past year. As reported Wednesday by Bloomberg, the latest is CJ Moore,"
     publishedDateTime: 2022-05-25T20:58:00Z

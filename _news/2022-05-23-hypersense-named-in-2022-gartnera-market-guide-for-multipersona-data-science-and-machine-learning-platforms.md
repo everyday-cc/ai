@@ -80,6 +80,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "HyperSense named in 2022 GartnerÂ® Market Guide for Multipersona Data Science and Machine Learning Platforms"
+    excerpt: "It helps enterprises leverage AI across their data value chain through a combination of no-code AI, AutoML and MLOps,\" said Rohit Maheshwari, Head of Strategy and Products at Subex. This report ..."
+    publishedDateTime: 2022-05-26T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1256393&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "qwCjrAj1FUxS7lpdmP8gJjAh9jzJGl6vkrfubS1dP4qgXNFaj9YkAukT7MrzWQN6TNOqhTxiGLVbkGkquxLb8MGwpo8SyhdD3fbw+i0XtZz6JGXIIG7IZ1zrDaEsmmtAdevEV5sqcn4Fjw2eMY+4CCzyBkl9vvxRSLZTNKpOZgZ1tXwqGT1m2aJXbdYdC/+3EDzaJWxcB/SlzLSjpTl+o3AuLi5SSGwd9k3xn7etxBhu062fHcq7XHHELBCaK+j7ksoONzULoP31723jMz4Q3kwgB6bUIVnSoxWQU+NnacquJ88wm4mtJnEeGNMTDSih3yWM0pWlR+xkFI+BWWmccB5uY1lmXTVvCiRwMbWdANU=;Zwtp+vbzGGPffcORvrogfA=="
 ---

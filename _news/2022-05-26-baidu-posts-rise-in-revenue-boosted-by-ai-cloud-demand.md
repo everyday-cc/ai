@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu Sales Rise After AI Push Helps Offset China Slowdown"
+    excerpt: "Baidu Inc. posted a surprise revenue rise after efforts to expand in areas such as cloud computing and autonomous driving offset weak ad sales in China. Shares of Baidu jumped 5% while its Netflix-style streaming affiliate iQiyi Inc."
+    publishedDateTime: 2022-05-26T19:55:00Z
+    webUrl: "https://www.caixinglobal.com/2022-05-27/baidu-sales-rise-after-ai-push-helps-offset-china-slowdown-101890714.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 34
 
 secured: "AN+/CRFF2+7vL68bTKAukp4XBO3hOWpeOpqohPaN4jiD6zkpyB8tojtqT3C4bw2D0SCZCZDIZWvs3FdktvXaXOddTpOCTaGzKRZi4QlGeK1bROtZUdqgQxsIBWAzHVanPk0zLQZgVxMpf6e7mtXatNnnMljpk71MSWIc0FWOMju5cmqgCSSD0ujuk8xSayIlTlEfH7opYxYIjLoAL6NN9YRv2Myv+IRQnIS8Hp8NkEy5SyeFSY8DTFfg5azgz//je9S2TYZImXA81dp8e5RxMBHzGnoN52BqZdufubCenD7LBx0+J2NZejEPZBF4RKQ6VJ25bh3oTi1hwBaW910+fs/1PmdMo9/MxCPK+aA7ZJY=;KByTxvMWtVXHJTMWbMoo7w=="
 ---

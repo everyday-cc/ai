@@ -20,15 +20,6 @@ topics:
 
 related:
   - title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
-    excerpt: "Veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
-    publishedDateTime: 2022-05-23T19:55:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
-  - title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
     excerpt: "UC Davis veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
     publishedDateTime: 2022-05-23T15:43:00Z
     webUrl: "https://www.ucdavis.edu/health/news/using-artificial-intelligence-predict-life-threatening-bacterial-disease-dogs"
