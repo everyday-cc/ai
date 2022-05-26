@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-26-uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence.md",
+      "title": "UAE's MBZUAI, IBM to advance AI research with new centre of excellence",
+      "excerpt": "The collaboration aims to provide real-life applications that seek to further climate and sustainability goals",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence",
+      "originalUrl": "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=ef3c06e2-34f8-56e8-8f82-798a2e72e612&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1",
+      "publishedDateTime": "2022-05-25T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent.md",
       "title": "Report: 92% of HR leaders plan on using AI to acquire talent",
       "excerpt": "Armed with valuable data insights, HR leaders can use AI to augment their processes and build a future of work that's intelligent by design.",
@@ -10,7 +52,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -338,6 +380,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-26-how-ai-ads-are-disrupting-marketing.md",
+      "title": "How AI Ads Are Disrupting Marketing",
+      "excerpt": "AI marketing is a new way to reach customers that is much more personalized, targeted and engaging than traditional methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/425549",
+      "originalUrl": "https://www.entrepreneur.com/article/425549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652888428-GettyImages-1326464894.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-review-identifies-gaps-in-our-understanding-of-how-machine-learning-can-aid-stock-valuation.md",
       "title": "Review identifies gaps in our understanding of how machine learning can aid stock valuation",
       "excerpt": "Over the past two decades, researchers have used big data and machine learning (ML) methods to provide insight relevant for equity valuation. Many of these studies either use or inform on accounting variables.",
@@ -656,7 +750,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -700,7 +794,7 @@
       "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -884,49 +978,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-25-stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities.md",
-      "title": "STX Next acquires Ermlab to enhance AI and machine learning capabilities",
-      "excerpt": "STX Next has acquired Ermlab, a specialist in AI and machine learning software development. The deal will enhance STX Next’s existing AI and ML capabilities, expand the companys",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/",
-      "originalUrl": "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcr-online.biz/wp-content/uploads/business-partnership-mainjpg.jpg",
-          "width": 800,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCR",
-        "domain": "pcr-online.biz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
       "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
       "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
@@ -1014,125 +1065,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-25-nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex.md",
-      "title": "Nvidia Tips New Liquid-Cooled GPU, Jetson AI Devices at Computex",
-      "excerpt": "Peak performance and cooling in ever-smaller spaces matters to data centers, and Nvidia's liquid-cooled A100 card targets that market. The chip giant also detailed new Jetson devices and designs for data-center systems.",
+      "path": "_news/2022-05-25-how-this-startup-is-bringing-smartest-solutions-through-ai.md",
+      "title": "How This Startup Is Bringing Smartest Solutions Through AI",
+      "excerpt": "With an eye on finding the smartest solutions for any problem, Pixis was born. The platform is a codeless AI infrastructure for demand generation and marketing optimization. It was founded in late 2018 by Shubham Mishra (Global CEO),",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex",
-      "originalUrl": "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex",
+      "webUrl": "https://www.entrepreneur.com/article/428229",
+      "originalUrl": "https://www.entrepreneur.com/article/428229",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/00nRHA1EuawfuWOeCRdcubw-1.fit_lim.size_1200x630.v1653362725.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true",
-      "publishedDateTime": "2022-05-24T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-how-amalgamated-learning-could-scale-medical-ai.md",
-      "title": "How amalgamated learning could scale medical AI",
-      "excerpt": "A promising new AI and machine learning technique called amalgamated learning might help overcome these silos to find new cures for diseases, prevent fraud and improve industrial equipment. It may also provide a way to construct digital twins from inconsistent forms of data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/amp/",
-      "publishedDateTime": "2022-05-24T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-mit-researchers-help-robots-navigate-uncertain-environments.md",
-      "title": "MIT researchers help robots navigate uncertain environments",
-      "excerpt": "MIT's research team hopes that its findings could help autonomous robots explore remote exoplanets with unknown conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/",
-      "originalUrl": "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-MIT-trajectories.jpg",
-          "width": 770,
-          "height": 500,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1653456757-Untitleddesign-2022-05-25T110036996.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1142,11 +1089,62 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T14:15:00-07:00",
+      "publishedDateTime": "2022-05-24T22:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-toggle-ai-launches-reimbursement-initiative-with-interactive-brokers.md",
+      "title": "Toggle AI Launches Reimbursement Initiative with Interactive Brokers",
+      "excerpt": "Toggle AI, a fintech company, said on Tuesday that it launched an initiative with Interactive Brokers that enables their customers to trade commission-free.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/",
+      "originalUrl": "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financemagnates.com/static/article-default-image.jpg",
+          "width": 770,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/",
+      "publishedDateTime": "2022-05-24T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1156,7 +1154,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Finance",
         "AI"
       ]
     }

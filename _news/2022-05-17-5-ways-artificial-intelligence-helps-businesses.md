@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://knowtechie.com/wp-content/uploads/2017/04/business-software-1000x600.jpg"

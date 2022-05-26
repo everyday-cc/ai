@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI and low/no code: What they can and can’t do together"
-excerpt: "Venture capital is already starting to flow in this direction. A startup called Sway AI recently launched a drag-and-drop platform that uses open-source AI models to enable low-code and no-code ..."
-publishedDateTime: 2022-05-24T14:00:00Z
-originalUrl: "https://venturebeat.com/2022/05/23/ai-and-low-no-code-what-they-can-and-cant-do-together/"
-webUrl: "https://venturebeat.com/2022/05/23/ai-and-low-no-code-what-they-can-and-cant-do-together/"
-ampWebUrl: "https://venturebeat.com/2022/05/23/ai-and-low-no-code-what-they-can-and-cant-do-together/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/ai-and-low-no-code-what-they-can-and-cant-do-together/amp/"
+excerpt: "Low-code and no-code are intended to make it simpler to create new applications and services, so much so that even nonprogrammers can create the tools they need to complete their own tasks. If this technology can be combined with AI to help guide development efforts,"
+publishedDateTime: 2022-05-24T06:35:00Z
+originalUrl: "https://venturebeat.com/2022/05/23/__trashed-21/"
+webUrl: "https://venturebeat.com/2022/05/23/__trashed-21/"
+ampWebUrl: "https://venturebeat.com/2022/05/23/__trashed-21/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/__trashed-21/amp/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 566
     isCached: true
 
-secured: "wBdr/UxScM+VsvapCvbkNO083UotoZBAqe3URmrrSKI3boNRSoL7GszcQ6mS6FPk4vXJ7rxXDG8hfnkPAbgLkEmIgyTARFn1sxbx3LZDHcZb6CeXqirLuV0kme1A8VFIUulRhsFR9rizODsKjEhtAQf03RlFY0X3I23XNksn5WwGeLsFawTgSy/R8kNiUhFjxNWe82dJSHlqxqSEGwnRtIIPofZbTGoWJ1Cwjxn04426w0ks7EwFs7qZGBXd4uUgIbgKssz8/HGN6TDxzz1DnZkCUuEvIkh4zHP+I7NLoU8hS9eVbomCHg/0uivF6yNZ7xXGve8x0iIUsmEg0LurN5pvGmOycNYBxTZTumot3PU=;kfix/QjvnIR55LbAnZ0ByA=="
+secured: "UAZ+9/ZLZ0GvKgT12yBAo2taHKHR+g/Ifa3eXUfjP+ln06qTp4T2+TReg8fm5Pu2fBTWoVDpc101+YdLe2a7W5+2UGMPFkCnQFNrpKwOotgOqqbampepBgI8O9nvhobENbo/T7yZlCZcxRvNfldqtr0Zqw+H8YdF2GYRGxyV8oo4xwYmCT7e/t+L02vvwYS1NiD8mXaotvHlD4MufFsw7r/BiLD7ERXHa0ySVCits+NnSRyW0yJjdQTMMdrHRdJObtmC3JXrLA7itQWrEkobFZdJRbc+T5kmKYv8gP3T9UmcXItrY0HJlmyhK0O5Uo6xq6mfDM+/dhnvckKBupe3sofywhjs0dKTo7Omfa6p4D4=;f1DFJaHNd3PupQ98jgYAlA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -2,6 +2,195 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-04-04-tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended.md",
+      "title": "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended",
+      "excerpt": "The difference in these cases is that neither Cruise or Waymo are relying on a human to remain continually watchful for danger. Their systems have been developed to a point where regulators are ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/",
+      "originalUrl": "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/10/teslafsdmain.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-03T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-adversarial-ai-and-the-dystopian-future-of-tech.md",
+      "title": "Adversarial AI and the dystopian future of tech",
+      "excerpt": "The occurrence of an adversarial attack on AI or machine learning highlights a deep crack in the AI mechanisms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
+      "originalUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1304572540.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/adversarial-ai-and-the-dystopian-future-of-tech/amp/",
+      "publishedDateTime": "2022-04-03T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-04-gupshup-acquires-activeai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies.md",
+      "title": "Gupshup acquires Active.Ai, the Leading Conversational AI Platform for Banks and Fintech Companies",
+      "excerpt": "Acquisition Brings Advanced, AI powered Omnichannel Conversational Engagement Solutions to BFSI Organizations Gupshup, a global leader in conversational engagement, announced today the acquisition",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2022/04/04/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2022/04/04/gupshup-acquires-active-ai-the-leading-conversational-ai-platform-for-banks-and-fintech-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/82a342fb-gupshup.jpg",
+          "width": 898,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-03T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-ai-algorithms-could-disrupt-our-ability-to-think.md",
+      "title": "AI algorithms could disrupt our ability to think",
+      "excerpt": "We already know AI-powered apps diminish our privacy. If they also diminish our human agency, that could have serious consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
+      "originalUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1263568743.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/03/ai-algorithms-could-disrupt-our-ability-to-think/amp/",
+      "publishedDateTime": "2022-04-03T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-03-datarobots-vision-to-democratize-machine-learning-with-no-code-ai.md",
       "title": "DataRobot’s vision to democratize machine learning with no-code AI",
       "excerpt": "The growing digitization of nearly every aspect of our world and lives has created immense opportunities for the productive application of machine learning and data science. Organizations and ...",
@@ -958,170 +1147,6 @@
         "AI",
         "Machine Learning",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-gastroenterology-technology-5-updates-from-last-30-days.md",
-      "title": "Gastroenterology technology: 5 updates from last 30 days",
-      "excerpt": "Artificial intelligence and other gastroenterology technology developments ... based Surgical Clinic completed the clinic's first Enterra Therapy implant, a device used to treat chronic intractable nausea and vomiting in patients with gastroparesis or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckersasc.com/gastroenterology-and-endoscopy/gastroenterology-technology-5-updates-from-last-30-days.html",
-      "originalUrl": "https://www.beckersasc.com/gastroenterology-and-endoscopy/gastroenterology-technology-5-updates-from-last-30-days.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's ASC",
-        "domain": "beckersasc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-emerging-ai-technologies-in-higher-education.md",
-      "title": "Emerging AI Technologies in Higher Education",
-      "excerpt": "Technologies that utilize artificial intelligence and the cloud can help university networks adapt to the changing networking landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education",
-      "originalUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/k12/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1306194594.jpg?itok=JpUgxd4r",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/k12/article/2022/04/emerging-ai-technologies-higher-education?amp",
-      "publishedDateTime": "2022-04-01T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-face-scanner-clearview-ai-aims-to-branch-out-beyond-police.md",
-      "title": "Face scanner Clearview AI aims to branch out beyond police",
-      "excerpt": "A controversial facial recognition company that’s built a massive photographic dossier of the world’s people for use by police, national governments and the Ukrainian military now plans to offer its t",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_5b9defe112f648c79fe90ad49bf2b37b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/face-scanner-clearview-ai-aims-branch-police-83819522",
-      "publishedDateTime": "2022-04-01T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-02-logingov-plans-to-scale-up-without-facial-recognition-tech-for-now.md",
-      "title": "Login.gov plans to scale up without facial recognition tech – for now",
-      "excerpt": "And although the authentication and identity verification system doesn't currently use facial recognition, budget documents say that Login.gov is still \"exploring ... how to address potential ...",
-      "sourceUrl": null,
-      "webUrl": "https://fcw.com/digital-government/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363948/",
-      "originalUrl": "https://fcw.com/digital-government/2022/04/logingov-plans-scale-without-facial-recognition-tech-now/363948/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Federal Computer Week",
-        "domain": "fcw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

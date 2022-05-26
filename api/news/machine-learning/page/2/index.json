@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-05-16-brainchip-and-edge-impulse-partner-to-accelerate-aiml-deployments.md",
-      "title": "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments",
-      "excerpt": "BrainChip’s Akida TM is a revolutionary advanced neural networking processor architecture that brings AI to the edge in a way that is not feasible for existing technologies, offering high performance, ultra-low power, and on-chip learning. Edge Impulse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments",
-      "originalUrl": "https://www.digitaljournal.com/pr/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/701417/image.png",
-          "width": 1374,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-15T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-05-13-artificial-neural-networks-market-industry-share-size2022-market-research-with-growth-manufacturers-segments-and-2027-forecasts-research.md",
       "title": "Artificial Neural Networks Market Industry Share, Size2022 Market Research with Growth, Manufacturers, Segments and 2027 Forecasts Research",
       "excerpt": "Global Artificial Neural Networks Market (2022-2027) includes Precise company profiling of leading players of the Artificial Neural Networks market. All of the segments studied in the report are analyzed based on different factors such as market share,",
@@ -170,6 +126,49 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030.md",
+      "title": "Artificial Neural Network Market | New Business Opportunities and Investment Research Report 2030",
+      "excerpt": "Furthermore, increasing use of artificial neural network in IoT and data analytics is expected to provide lucrative opportunities to the growth of the artificial neural network market. Major ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T23:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) Market Trajectory & Analytics, 2020-2021 & 2022-2027: Accelerating Pace of Digital Transformation to Benefit Deman"
-    excerpt: "Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. The global market for Artificial Intelligence (AI) estimated at US$46.9 Billion in the year 2020, is projected to reach a revised size of US$341."
-    publishedDateTime: 2022-05-24T20:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=669612"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Automotive Artificial Intelligence Software Market by Global Size, Trends and Research Analysis 2022 predicted to reach USD 53.98 billion by 2030"
     excerpt: "Automotive Artificial Intelligence Software is a system which is used for the altertion, process and functions and others to imitate human mind and absorbs the problem solving capacity automatically. This technology is mainly used in self driving vehicles ..."
     publishedDateTime: 2022-05-25T08:30:00Z

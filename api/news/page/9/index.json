@@ -2,6 +2,109 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-05-16-inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools.md",
+      "title": "Inscribes battles fraud with AI-powered detection and automation tools",
+      "excerpt": "Today every $1 in fraud loss costs U.S. financial services firms $4, according to LexisNexis Risk Solutions. Synthetic identity fraud, when fraudsters create identities not associated with real people,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/",
+      "originalUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/fraud-detection.jpg?fit=600%2C600&strip=all",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/inscribes-battles-fraud-with-ai-powered-detection-and-automation-tools/amp/",
+      "publishedDateTime": "2022-05-16T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-crippling-ai-cyberattacks-are-inevitable-4-ways-security-pros-can-prepare.md",
+      "title": "Crippling AI cyberattacks are inevitable: 4 ways security pros can prepare",
+      "excerpt": "As enterprise companies battle a growing number of major security breaches, they need to prepare for increasingly sophisticated AI-driven cybercrimes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
+      "originalUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1057918132.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
+      "publishedDateTime": "2022-05-16T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-us-cops-kick-back-against-facial-recognition-bans.md",
       "title": "US cops kick back against facial recognition bans",
       "excerpt": "In brief Facial recognition bans passed by US cities are being overturned as law enforcement and lobbyist groups pressure local governments to tackle rising crime rates. In July, the state of Virginia will scrap its ban on the controversial technology after less than a year.",
@@ -530,17 +633,17 @@
     {
       "path": "_news/2022-05-15-facial-recognition-surveillance-is-a-threat-to-civil-liberties.md",
       "title": "Facial recognition surveillance is a threat to civil liberties",
-      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ...",
+      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
-      "originalUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "webUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "originalUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dailynews.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682",
+          "url": "https://www.sbsun.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682",
           "width": 1024,
           "height": 682,
           "title": null,
@@ -550,13 +653,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
+      "ampWebUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
+      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
       "publishedDateTime": "2022-05-15T08:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
+        "name": "The San Bernardino Sun",
+        "domain": "sbsun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -567,8 +670,7 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "Natural Language Processing"
+        "AI"
       ]
     },
     {
@@ -1017,109 +1119,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service.md",
-      "title": "Wyze Rolls Out Facial Recognition, Professional Monitoring with New Service",
-      "excerpt": "Wyze made its $4 monthly Cam Plus Pro subscription service widely available this week. The service introduces facial recognition and 24/7 professional monitoring to existing Wyze cameras, including the Wyze Cam v2, v3 and Pan v1. Cam Plus Pro's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/security/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/",
-      "originalUrl": "https://www.cnet.com/home/security/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/103f379b0431e0aba805ddb6894575d74c7b4e29/2019/10/23/047b0584-2536-49da-aaa2-62299e73c70b/cnet-security-005-wyze-cam-pan.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service/",
-      "publishedDateTime": "2022-05-13T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction.md",
-      "title": "AI Weekly: AI tools for hiring under scrutiny; Clearview AI settlement reaction",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/",
-      "originalUrl": "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1079268358.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/ai-weekly-ai-tools-for-hiring-under-scrutiny-clearview-ai-settlement-reaction/amp/",
-      "publishedDateTime": "2022-05-13T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

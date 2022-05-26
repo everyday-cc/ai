@@ -10,7 +10,7 @@
       "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -603,50 +603,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-15-facial-recognition-surveillance-is-a-threat-to-civil-liberties.md",
-      "title": "Facial recognition surveillance is a threat to civil liberties",
-      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
-      "originalUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailynews.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
-      "publishedDateTime": "2022-05-15T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     },
     {
@@ -1404,6 +1360,50 @@
       "topics": [
         "Facebook AI",
         "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow.md",
+      "title": "Create video subtitles with Amazon Transcribe using this no-code workflow",
+      "excerpt": "Subtitle creation on video content poses challenges no matter how big or small the organization. To address those challenges, Amazon Transcribe has a helpful feature that enables subtitle creation directly within the service. There is no machine learning (ML) or code writing required to get started.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T11:23:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
         "Natural Language Processing"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-rei
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Finance Magnates
@@ -27,29 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Make AI Marketing Initiatives Actually Deliver"
-    excerpt: "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice."
-    publishedDateTime: 2022-05-24T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "How AI Ads Are Disrupting Marketing"
-    excerpt: "Marketing with AI has been proven to be a successful strategy for many businesses. It's is a new way to reach customers and is much more personalized, targeted and engaging than traditional methods. AI marketing can be used for customer service,"
-    publishedDateTime: 2022-05-25T21:10:00Z
-    webUrl: "https://www.chron.com/business/article/How-AI-Ads-Are-Disrupting-Marketing-17199007.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/72/54/22522657/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers"
     excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE's award-winning investment platform who are clients of Interactive Brokers,"
     publishedDateTime: 2022-05-24T12:36:00Z
@@ -59,6 +36,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 19
+  - title: "Observe.AI Launches Auto QA, the Industry’s First Adaptive Automation for Boosting Agent Performance in Contact Centers"
+    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced the launch of Auto QA – the first adaptive automation solution that boosts agent performance to drive faster impact on customer experience and revenue generation."
+    publishedDateTime: 2022-05-24T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-e501d8fa01c343648412b3d7ead9a7ed"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "SmFg+GzT/UbFKs4/DFyePw5khQGH54WOoO6PfDzSZWDa++Kez1oFBYVcLABCsHa+a/K4yoM+ptsvRQYLk/+wetOnwo9GfTN6WDM0Jyaqy8j0OPtFqbaf+V84AxGtINLwI2C9Ea26bH6Fjc565VnU7jRXpXNswX3WKn1dRHFBFmrM7RtMrv7qfjKLdIjhn4xpjGlhfsgHfcfUxufrrmEyhVzi+hHxPkrhEnuIbolykJEM65IybsVrSEvIdibvsNKFSbLomrg9Nqvr4aQsMiNx01ZpG+UayF0ZmcmkGlNeBz4SXgdOMr3D6Ls13t6/LiLGFPDAAvjt5k/pXOjPKhoWAyYnr9wW/ZSw19hoouLU39bk8shqH5612FmSQoesMD/scIhKq8D9ZepPqNswZJeNJJTZqDvIC+lUDP/PaNSFpBK92fOTPAFh8FkFzwf7sMYUnes+xhitchnZmIcD7VK+0H8bmvZLmO46RLt+1jl0DqTKsHJ7WBlWGahhLj9Lljj7bGjexQy8ME7i5TKB4vgnzA==;51qThNB490uj49nh5vB+WQ=="
 ---

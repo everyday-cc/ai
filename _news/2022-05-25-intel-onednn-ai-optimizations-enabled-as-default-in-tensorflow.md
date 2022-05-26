@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-6109704a0
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

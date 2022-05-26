@@ -71,15 +71,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Artificial Intelligence Robotic Arm Market 2022 - Industry Size, Statistics Data, Top Operating Vendors and Forecast to 2028"
-    excerpt: "The MarketsandResearch.biz has published the Global Artificial Intelligence Robotic Arm Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2028 research report after an exhaustive study and analysis of the market."
-    publishedDateTime: 2022-05-22T23:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotic-arm-market-2022---industry-size-statistics-data-top-operating-vendors-and-forecast-to-2028-2022-05-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
   - title: "AI in Medical Imaging Market Size in 2022 : 45% CAGR with Top Countries Data, Key Regions and Growth Forecast to 2031"
     excerpt: "The global AI in medical imaging market in terms of value is expected to register a CAGR of ~45% between 2022 and 2031. Artificial intelligence is"
     publishedDateTime: 2022-05-26T02:54:00Z

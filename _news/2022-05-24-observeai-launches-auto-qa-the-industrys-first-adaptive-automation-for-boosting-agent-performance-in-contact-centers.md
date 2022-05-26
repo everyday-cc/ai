@@ -24,29 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom to Acquire Conversational AI and Automation Platform Solvvy"
-    excerpt: "Zoom Video Communications announced it has entered into a definitive agreement to acquire Solvvy, a leading conversational AI and automation platform for customer support. Together, Zoom and Solvvy will offer elevated customer service experiences to a global enterprise base and work quickly to capitalize on new opportunities in contact center and customer support."
-    publishedDateTime: 2022-05-24T00:44:00Z
-    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/25068-zoom-to-acquire-conversational-ai-and-automation-platform-solvvy"
+  - title: "Toggle AI Launches Reimbursement Initiative with Interactive Brokers"
+    excerpt: "Toggle AI, a fintech company, said on Tuesday that it launched an initiative with Interactive Brokers that enables their customers to trade commission-free."
+    publishedDateTime: 2022-05-24T23:48:00Z
+    webUrl: "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/"
+    ampWebUrl: "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/"
+    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
+      name: Finance Magnates
+      domain: financemagnates.com
+    quality: 59
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/a63986d97df5d35d8f051e87176e056d.jpg?t=20220524_004131"
-        width: 752
-        height: 408
+      - url: "https://images.financemagnates.com/static/article-default-image.jpg"
+        width: 770
+        height: 428
         isCached: true
-  - title: "European business communications provider Dstny acquires Tactful AI to accelerate its position in the Customer Experience Platform market."
-    excerpt: "The acquisition takes Dstny to the next level in customer engagement, enabling companies to employ Artificial Intelligence and data in their customer experience operations with minimum effort. \"With Tactful onboard,"
-    publishedDateTime: 2022-05-25T08:17:00Z
-    webUrl: "https://who13.com/business/press-releases/cision/20220525LN64844/european-business-communications-provider-dstny-acquires-tactful-ai-to-accelerate-its-position-in-the-customer-experience-platform-market/"
+  - title: "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers"
+    excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE's award-winning investment platform who are clients of Interactive Brokers,"
+    publishedDateTime: 2022-05-24T12:36:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers"
     type: article
     provider:
-      name: who13
-      domain: who13.com
-    quality: 0
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
 
 secured: "d31a+QXAXvOiPDISfOMPdal/fUZpH/1LX+fglFD8dhARLiSpNbIcYa5+vc1/3an/sUuWNzJduB4q1hwW/FxZHTjdwNscebUcXHi1aK1ntLpGLsvfNIgZNxf0+fqsIIos1boEdMPTezXQu4RZQCzgInB0eRlk2Jgox7KNqndgJkqWXdXt/qBfRIFgqHa4yjxzuytEQSi/NCQmhJIWm+NQQQxMlh41ud3OvbDr9ACH276pkwYX7Uu92zMkLEqaHlYdpNWJo9pjRgyuAX0udNQj2LN5UcpqcYxnUrAoLaL68bcUToGwwdAZX/h9IWKVwz0xchQfQ6zXOVuehFGEOoU5c5ANnzPRWrUTKTX2fIiQJb0=;PmsEWzSxiu59GNJl8jHQoA=="
 ---

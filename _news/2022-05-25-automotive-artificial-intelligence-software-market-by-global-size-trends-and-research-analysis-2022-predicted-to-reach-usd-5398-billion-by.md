@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Market Trajectory & Analytics, 2020-2021 & 2022-2027: Accelerating Pace of Digital Transformation to Benefit Deman"
-    excerpt: "Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. The global market for Artificial Intelligence (AI) estimated at US$46.9 Billion in the year 2020, is projected to reach a revised size of US$341."
-    publishedDateTime: 2022-05-24T20:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=669612"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "AI Smart Baby Monitors Market 2022 : Global Rise Due to Innovation in Technology by Its Latest Trends, Smart Services and Solution Forecast by 2028"
     excerpt: "The AI Smart Baby Monitors Market size is projected to reach $2.5 billion by 2028, growing at a CAGR of 6.2% from 2022 to 2028.This press release was"
     publishedDateTime: 2022-05-25T16:06:00Z

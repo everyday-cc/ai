@@ -2,6 +2,204 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-03-04-its-time-to-use-ai-and-machine-learning-like-bar-charts.md",
+      "title": "It’s Time to Use AI and Machine Learning Like Bar Charts.",
+      "excerpt": "Organizations need to deploy AI and machine learning more widely, beyond just data science teams. Yes, democratizing ML will lead to imperfect models, and sometimes even the wrong decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/its-time-use-ai-machine-learning-like-bar-charts-einblick-analytics",
+      "originalUrl": "https://www.linkedin.com/pulse/its-time-use-ai-machine-learning-like-bar-charts-einblick-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFBLtpOByIVqg/article-cover_image-shrink_600_2000/0/1646345423282?e=1653523200&v=beta&t=wPjr-542OXXkegyDVeTbpONPtgc8tXJ3PcOL7CZgZY4",
+          "width": 793,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-this-ai-college-president-is-another-reason-to-drop-out.md",
+      "title": "This AI college president is another reason to drop out",
+      "excerpt": "A digital college president has been unleashed on the students of UNLV. I asked the AI about university life -- and some unnerving answers.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-college-president-is-another-reason-to-drop-out-unlv-keith-whitfield",
+      "originalUrl": "https://thenextweb.com/news/ai-college-president-is-another-reason-to-drop-out-unlv-keith-whitfield",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2FUntitled-design-2-1.jpg&signature=b4103762c86645c59aebc3f276d6e519",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-c3ai-ceo-tom-siebel-says-the-stock-is-a-screaming-buy-heres-why.md",
+      "title": "C3.ai CEO Tom Siebel Says the Stock Is a ‘Screaming Buy.’ Here’s Why.",
+      "excerpt": "Shares of enterprise artificial intelligence software firm C3.ai are higher on a strong fiscal-third-quarter report. CEO Tom Siebel says, 'We killed it.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/c3-ai-stock-earnings-ceo-51646328476",
+      "originalUrl": "https://www.barrons.com/articles/c3-ai-stock-earnings-ceo-51646328476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-497252/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/c3-ai-stock-earnings-ceo-51646328476",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-stock-earnings-ceo-51646328476",
+      "publishedDateTime": "2022-03-03T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-04-how-ai-protects-machine-identities-in-a-zero-trust-world.md",
+      "title": "How AI protects machine identities in a zero-trust world",
+      "excerpt": "By scanning enterprise networks, bad actors often find unprotected machine identities to exploit, making them a favored attack surface.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/5-How-AI-Is-Protecting-Machine-Identities-In-A-Zero-Trust-World.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/how-ai-protects-machine-identities-in-a-zero-trust-world/amp/",
+      "publishedDateTime": "2022-03-03T13:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-04-ai-brings-greater-resilience-to-self-healing-endpoints.md",
       "title": "AI brings greater resilience to self-healing endpoints",
       "excerpt": "Self-healing endpoints regenerate their OS and apps while using AI and ML to identify suspected breach attempts and thwart them.",
@@ -992,196 +1190,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-tesla-and-the-ethics-of-self-driving-cars.md",
-      "title": "Tesla and the ethics of self-driving cars",
-      "excerpt": "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars",
-      "originalUrl": "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
-          "width": 942,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KUOW",
-        "domain": "kuow.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-artificial-intelligence-medical-imaging-startup-lands-24-investors-for-new-investment-round.md",
-      "title": "Artificial intelligence-medical imaging startup lands 24 investors for new investment round",
-      "excerpt": "Gradient Health, a startup aiming to improve medical imaging through the use of artificial intelligence, is finding plenty of investors for a new round of capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/",
-      "originalUrl": "https://wraltechwire.com/2022/03/03/artificial-intelligence-medical-imaging-startup-lands-24-investors-for-new-investment-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000",
-          "width": 1799,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-cardinalops-raises-175m-for-ai-threat-detection-solution.md",
-      "title": "CardinalOps raises $17.5M for AI threat detection solution",
-      "excerpt": "CardinalOps says its solution provides enterprises with a cloud-based AI platform that automatically generates best practice recommendations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million-for-ai-threat-detection-solution/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million-for-ai-threat-detection-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1054070700-e1646261553941.jpg?fit=750%2C370&#038;strip=all",
-          "width": 749,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-03T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m.md",
-      "title": "Luminous Computing, which is developing a light-based AI accelerator chip, raises $105M",
-      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. According to some experts, the growth in the compute power necessary to develop future AI systems might run up against a wall with mainstream chip technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/",
-      "originalUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 258,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/",
-      "publishedDateTime": "2022-03-03T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Natural Language Processing"
       ]
     }
   ],

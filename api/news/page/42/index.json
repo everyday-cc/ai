@@ -2,6 +2,188 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-04-17-ai-chip-market-size-share-analysis-revenue-price-growth-rate-and-forecast-by-2030.md",
+      "title": "AI Chip Market, Size, Share, Analysis, Revenue, Price, Growth Rate, And Forecast By 2030",
+      "excerpt": "Apr 17, 2022 (AmericaNewsHour) -- The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030, owing to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-market-size-share-analysis-revenue-price-growth-rate-and-forecast-by-2030-2022-04-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-market-size-share-analysis-revenue-price-growth-rate-and-forecast-by-2030-2022-04-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-17T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-maryjane-rees-center-speech-and-language-clinic.md",
+      "title": "Maryjane Rees Center- Speech and Language Clinic",
+      "excerpt": "NEURO SERVICE ALLiANCE (NeuroSA) is designed espe­cially for adults with acquired neurogenic communication and/or cognitive disorders. Within NeuroSA, a broad range of services are available including traditional therapy provided by supervised graduate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csus.edu/college/health-human-services/community-services/language-speech-hearing-center.html",
+      "originalUrl": "https://www.csus.edu/college/health-human-services/community-services/language-speech-hearing-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-17T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento State University",
+        "domain": "csus.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-ibm-amd-embrace-israeli-artificial-intelligence-technology.md",
+      "title": "IBM, AMD embrace Israeli artificial intelligence technology",
+      "excerpt": "The artificial intelligence that powers Amazon’s virtual assistant ... The game-changing platform, which will be launched in 2023, targets public safety, e-commerce, healthcare, retail and other high-volume uses of AI. With its next-generation hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/",
+      "originalUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2022/04/NeuReality-IBM-TOI.jpg",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/spotlight/ibm-amd-embrace-israeli-artificial-intelligence-technology/amp/",
+      "publishedDateTime": "2022-04-17T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-17-build-tensorflow-lite-for-android.md",
+      "title": "Build TensorFlow Lite for Android",
+      "excerpt": "This document describes how to build TensorFlow Lite Android library on your own. Normally, you do not need to locally build TensorFlow Lite Android library. If you just want to use it, the easiest way is using the TensorFlow Lite AAR hosted at MavenCentral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/lite_build?hl=pt",
+      "originalUrl": "https://www.tensorflow.org/lite/android/lite_build?hl=pt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png?hl=pt",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-04-17-team-uses-ai-and-robotics-to-treat-spinal-cord-injuries.md",
       "title": "Team Uses AI and Robotics to Treat Spinal Cord Injuries",
       "excerpt": "A team of researchers at Rutgers University has employed artificial intelligence (AI) and robotics to formulate therapeutic proteins. The team was able to successfully stabilize an enzyme that can degrade scar tissues resulting from spinal cord injuries.",
@@ -974,197 +1156,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-ukraine-is-using-facial-recognition-to-id-dead-russian-soldiers-and-send-photos-of-corpses-home-to-their-moms-report.md",
-      "title": "Ukraine is using facial recognition to ID dead Russian soldiers and send photos of corpses home to their moms: report",
-      "excerpt": "Facial recognition technology, donated by a controversial US firm, is part of a gruesome campaign to shock everyday Russians into opposing the war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "originalUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62598d9c33c02a0018ca1c52?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "publishedDateTime": "2022-04-15T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-16-tips-to-help-small-businesses-start-leveraging-aiml.md",
-      "title": "16 Tips To Help Small Businesses Start Leveraging AI/ML",
-      "excerpt": "Even if a small business can’t make instantaneous, sweeping changes through AI/ML, it may still be the right time to take the first steps on the journey of building a strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625972dc185b566eb4455d01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/15/16-tips-to-help-small-businesses-start-leveraging-aiml/amp/",
-      "publishedDateTime": "2022-04-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-longmont-high-innovation-center-will-host-ai-competition.md",
-      "title": "Longmont High, Innovation Center will host AI competition",
-      "excerpt": "(Matthew Jonas/Staff Photographer) The DeepRacer Invitational, co-hosted by Longmont High and the Innovation Center, is 9 a.m. to 3 p.m. Saturday at Longmont High, 1040 Sunset St. “We want to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/",
-      "originalUrl": "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timescall.com/wp-content/uploads/2022/04/DCC-L-AI_MJ27797.jpg?w=1024&h=672",
-          "width": 1024,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/amp/",
-      "cdnAmpWebUrl": "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2022/04/15/longmont-high-innovation-center-will-host-ai-competition/amp/",
-      "publishedDateTime": "2022-04-15T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longmont Times-Call",
-        "domain": "timescall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving.md",
-      "title": "Tesla's Optimus Robot Could Arrive As Soon As EV Full Self-Driving",
-      "excerpt": "During Tesla Inc's (NASDAQ: TSLA) most recent earnings call, CEO Elon Musk laid out expectations for achieving full self-driving in 2022, but he",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "originalUrl": "https://www.benzinga.com/news/22/04/26644087/teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/04/14/0x0-kjc_5055-1.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26644087",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26644087",
-      "publishedDateTime": "2022-04-15T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

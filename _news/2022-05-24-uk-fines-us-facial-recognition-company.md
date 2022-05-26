@@ -37,8 +37,8 @@ related:
         isCached: true
   - title: "UK watchdog fines facial recognition firm £7.5m over image collection"
     excerpt: "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database"
-    publishedDateTime: 2022-05-23T16:05:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?ref=biztoc.com&curator=biztoc.com"
+    publishedDateTime: 2022-05-23T10:24:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
     type: article

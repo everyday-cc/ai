@@ -22,131 +22,89 @@ topics:
   - AI
 
 related:
-  - title: "GPU for Deep Learning Market Analysis 2022: Share, Top Key Players Research and Forecast to 2027 with Dominant Sectors and Countries Data"
-    excerpt: "The “GPU for Deep Learning Market” 2022 Research report will make detailed analysis mainly on in-depth research on"
-    publishedDateTime: 2022-05-23T06:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23"
+  - title: "Artificial intelligence (AI) in Logistics Market Size from 2022 to 2028"
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. Worldwide \"Artificial intelligence (AI) in Logistics Market\" latest release provides detailed analysis of Key and Emerging Players,"
+    publishedDateTime: 2022-05-23T11:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-logistics-market-size-from-2022-to-2028-2022-05-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Neural Network (ANN) Market Growth Prospects and Share Analysis, Trends, Top Leaders and Regional Analysis Forecast to 2022-2031"
-    excerpt: "Japan, Japan, Sun, 22 May 2022 22:58:36 / Comserve Inc. / -- The Artificial Neural Network (ANN) market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024 ..."
-    publishedDateTime: 2022-05-23T14:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Share to Witness Significant Revenue Growth during the Forecast Period –2026"
-    excerpt: "Straits Research has published a new report titled “Global Facial Recognition Market Report 2020-2026” into its vast database of research reports. The latest report is committed to delivering an in-depth analysis of the market. Straits Research offers ..."
-    publishedDateTime: 2022-05-25T06:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-share-to-witness-significant-revenue-growth-during-the-forecast-period-2026"
+  - title: "Artificial Intelligence (Ai) Chipset Market [DEMAND] 2022 Size, Share, Future Growth Potential Survey By 2030"
+    excerpt: "Quadintel published a new report on the Artificial Intelligence (Ai) Chipset Market. The research report consists of thorough information about"
+    publishedDateTime: 2022-05-24T06:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 23
+    quality: 54
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/1bd9115c03cae6ad319fc7018288222372e53aea-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Machine Learning 2021 Key Competitors, Major Products and Services, Share Analysis, and Upcoming Trends to 2030"
-    excerpt: "London, United Kingdom, Mon, 23 May 2022 11:12:07 / PhantMedia. / — Global Machine Learning Market Fatpos Global anticipates the Machine Learning market to surpass USD 121.23 Billion by 2030; this is valued at 9.25 billion in 2020 at a compound annual ..."
-    publishedDateTime: 2022-05-23T15:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-2021-key-competitors-major-products-and-services-share-analysis-and-upcoming-trends-to-2030"
+  - title: "Artificial Intelligence (AI) in Education Market to Grow At A CAGR Of 13.2% Through 2028 | 120 Report Pages"
+    excerpt: "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
+    publishedDateTime: 2022-05-23T09:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-13-2-through-2028-120-report-pages"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 19
+    quality: 53
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "AI in Medical Imaging Market Size in 2022 : 45% CAGR with Top Countries Data, Key Regions and Growth Forecast to 2031"
-    excerpt: "The global AI in medical imaging market in terms of value is expected to register a CAGR of ~45% between 2022 and 2031. Artificial intelligence is"
-    publishedDateTime: 2022-05-26T02:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-imaging-market-size-in-2022-45-cagr-with-top-countries-data-key-regions-and-growth-forecast-to-2031"
+  - title: "Artificial Intelligence (Ai) In The Food Beverages Market [TREND] Industry Growth Analysis with Size, Share and Forecast 2022-2030"
+    excerpt: "Quadintel published a new report on the Artificial Intelligence (Ai) In The Food Beverages Market. The research report consists of thorough"
+    publishedDateTime: 2022-05-24T06:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-the-food-beverages-market-trend-industry-growth-analysis-with-size-share-and-forecast-2022-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 14
+    quality: 22
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Diagnostics Market Size Predicted to Increase at a Positive CAGR Of 32.3% from 2022 to 2031"
+    excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth"
+    publishedDateTime: 2022-05-26T02:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-size-predicted-to-increase-at-a-positive-cagr-of-32-3-from-2022-to-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Global Artificial Intelligence in Big Data Analytics and IoT Market Report 2022-2027: How Different Forms of AI May be Best Used for Problem-Solving"
-    excerpt: "DUBLIN, May 23, 2022 /PRNewswire/ -- The \"Artificial Intelligence in Big Data Analytics and IoT: Market for Data Capture, Information and Decision Support Services 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ..."
-    publishedDateTime: 2022-05-23T12:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-artificial-intelligence-in-big-data-analytics-and-iot-market-report-2022-2027-how-different/article_dcd847c1-73c2-5b36-918c-55e512e88501.html"
+  - title: "Global Artificial Intelligence (AI) Market Trajectory & Analytics, 2020-2021 & 2022-2027: Accelerating Pace of Digital Transformation to Benefit Deman"
+    excerpt: "Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. The global market for Artificial Intelligence (AI) estimated at US$46.9 Billion in the year 2020, is projected to reach a revised size of US$341."
+    publishedDateTime: 2022-05-24T20:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=669612"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 13
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Indoor Delivery Robot Market Size with Growth Opportunities, Top Countries Data, Future Trends and Share with Revenue Forecast 2027"
-    excerpt: "artificial intelligence, GPS technologies have made it possible for the companies to ensure fast, secure, and cost-effective delivery of products to the clients. Reduction in labor cost is expected to drive the demand for indoor delivery robots The usage ..."
-    publishedDateTime: 2022-05-24T05:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/indoor-delivery-robot-market-size-with-growth-opportunities-top-countries-data-future-trends-and-share-with-revenue-forecast-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "HD Maps for Autonomous Vehicles Market Emerging Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
-    excerpt: "The global HD maps for autonomous vehicles market is expected to reach a market size of USD 16.51 Billion at a steady CAGR of 34.3% in 2028, according to"
-    publishedDateTime: 2022-05-23T10:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/hd-maps-for-autonomous-vehicles-market-emerging-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Artificial Organs Market To Be Driven By The Growing Demand For Kidney Transplantation In The Forecast Period Of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Artificial Organs Market Report and Forecast 2021-2026’, gives an in-depth analysis of the"
-    publishedDateTime: 2022-05-24T14:08:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-artificial-organs-market-to-be-driven-by-the-growing-demand-for-kidney-transplantation-in-the-forecast-period-of-2021-2026-2"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEhU9Sfkow6E0zoEFkO6ffvXhVLiFZ0sZn1IYCZwt-AE8Rh2cRVL-ck1J6NzXpcjyhDgEYRWGKdivTgxMxVH3jzaUD718TcuuZ5EEzGpcmA56liCRnAmUTeBPOK0HDcgsaaXmdsR5nEmqA9VDyTZNBYANa0k8Sxz5-Upt-LovsqPUcsRjcXL3b4KYX_m"
-        width: 756
-        height: 505
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "fzgHdRfvS2SnTqTEgzV+b333xEGL56kdt2SFBxK1m5crE+SjKDW1cmvNbWjxOGa7ZJQA0ZWJB2Bds++R7QL/VNI57dHgVsCaQlyhVqjWhKF4ide3xU2GkHB1A/2gtU3FOzMSqVFHKE11VIoue24m/aw9l4X65FxU2vQsJV/HMCVzVp2KQdDU5Fk7jBNoL6GOkna+YoXaXYtMAv2EV9lbrcT7BHe5hmBztnRLOzfeCMBn8eKnBuHgV1U/Sl1y/yALrIipEyz/+zfwbVTe9GufWYOnmwDE69kVSaNMH5IHvyO7d19z7AhW7Y6AILWvJjj8PMtvgU2/B6qT8aMLVDO+aZUGxll/iI29YsVllj7IvmI=;GuBeaLakbFqtNVUmkcFCJw=="

@@ -2,6 +2,186 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2022-03-30-get-ready-for-the-industrial-intelligence-revolution.md",
+      "title": "Get Ready For The Industrial Intelligence Revolution",
+      "excerpt": "Industry 4.0 is bringing disruptive changes, converting industrial spaces to smart, connected and intelligent environments. Manufacturing has been irreversibly changed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
+      "publishedDateTime": "2022-03-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain.md",
+      "title": "How The Digital Ecosystem Improves Engagement Across The Manufacturing Value Chain",
+      "excerpt": "Digital transformation is disrupting all industries globally and has accelerated over the last two years during the pandemic. The Industry 4.0 market, currently estimated at $116 billion, is expected to grow at a CAGR of 16.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6242fa6e9eceb44afd4ab6ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/amp/",
+      "publishedDateTime": "2022-03-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise-journey-to-cloud.md",
+      "title": "Palo Alto Networks Launches a Managed Next-Generation Firewall Service for AWS to Accelerate Enterprise Journey to Cloud",
+      "excerpt": "Palo Alto Networks (NASDAQ: PANW), a 10-time leader in network firewalls, today announced that it has teamed up with Amazon Web Services (AWS) to unveil the new Palo Alto Networks Cloud NGFW for AWS — a managed Next-Generation Firewall (NGFW) service designed to simplify securing AWS deployments — enabling organizations to speed their pace of innovation while remaining highly secure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise/article_42fc2de3-2a21-5d7b-b45b-32c5759351ad.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise/article_42fc2de3-2a21-5d7b-b45b-32c5759351ad.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-syniverse-and-koreai-form-partnership-to-offer-cpaas-professional-services-for-enterprises.md",
+      "title": "Syniverse and Kore.ai Form Partnership to Offer CPaaS Professional Services for Enterprises",
+      "excerpt": "Syniverse®, “the world’s most connected company” ®, today said it has formed a global partnership with Kore.ai to complement its Communications Platform-as-a-Service (CPaaS) strategy by providing conversational artificial intelligence (AI) and professional services for Forbes Global 2000 enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_88054479-a0c8-5a20-96e2-232b8574137e.html",
+      "originalUrl": "https://www.eagletribune.com/region/syniverse-and-kore-ai-form-partnership-to-offer-cpaas-professional-services-for-enterprises/article_88054479-a0c8-5a20-96e2-232b8574137e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/d9/8d988135-5218-5ce3-b387-8d6e62d636e9/62444a53293a0.image.jpg?crop=1460%2C767%2C0%2C326&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-ai-powered-building-design-platform-beamup-emerges-from-stealth-with-15m.md",
       "title": "AI-powered building design platform BeamUP emerges from stealth with $15M",
       "excerpt": "BeamUP, a startup developing an AI-powered building design platform, has raised $15 million in a venture round. It plans to use the funds to expand its team.",
@@ -961,168 +1141,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-boostupai-raises-29m-to-better-support-revenue-operations.md",
-      "title": "BoostUp.ai raises $29M to better support revenue operations",
-      "excerpt": "Santa Clara headquartered revenue operations platform BoostUp.ai today raised $28.5 million as part of its series B round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-680315933.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/amp/",
-      "publishedDateTime": "2022-03-29T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-oracle-adds-automl-to-its-mysql-heatwave-service.md",
-      "title": "Oracle adds autoML to its MySQL HeatWave service",
-      "excerpt": "Oracle has added autoML, real-time elasticity, and price-performance trade-offs to Heatwave, the analytics engine it piggybacks on MySQL transactional database. Nipun Agarwal, veep of HeatWave and advanced development at Oracle,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/29/oracle_automl_mysql/?td=amp-keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/03/29/oracle_automl_mysql/?td=amp-keepreading-btm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told.md",
-      "title": "Lisa Smith chose to go to area controlled by ‘demonic’ terrorist group, court told",
-      "excerpt": "Lisa Smith, a former soldier who denies membership of Isis, chose to travel to an area controlled by the “demonic” terrorist organisation having rejected peace and integration to embrace what is militant and violent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishtimes.com/news/crime-and-law/courts/lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told-1.4839460",
-      "originalUrl": "https://www.irishtimes.com/news/crime-and-law/courts/lisa-smith-chose-to-go-to-area-controlled-by-demonic-terrorist-group-court-told-1.4839460",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.irishtimes.com/image-creator/?id=1.4839459&origw=1440",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish Times",
-        "domain": "irishtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16-19-in-santa-clara-california.md",
-      "title": "Embedded Vision Summit® Announces Conference Program for Edge AI and Computer Vision Innovators, May 16-19 in Santa Clara, California",
-      "excerpt": "The premier event for product creators incorporating computer vision and edge AI in products and applications returns—in person!",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16/article_0be0cc89-33f5-5ef4-80dc-f11a3978921a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/embedded-vision-summit-announces-conference-program-for-edge-ai-and-computer-vision-innovators-may-16/article_0be0cc89-33f5-5ef4-80dc-f11a3978921a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

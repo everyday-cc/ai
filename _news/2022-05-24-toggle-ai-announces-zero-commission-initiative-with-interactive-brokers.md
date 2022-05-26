@@ -19,15 +19,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "How To Make AI Marketing Initiatives Actually Deliver"
-    excerpt: "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice."
-    publishedDateTime: 2022-05-24T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Toggle AI Launches Reimbursement Initiative with Interactive Brokers"
     excerpt: "Toggle AI, a fintech company, said on Tuesday that it launched an initiative with Interactive Brokers that enables their customers to trade commission-free."
     publishedDateTime: 2022-05-24T23:48:00Z
@@ -44,19 +35,19 @@ related:
         width: 770
         height: 428
         isCached: true
-  - title: "How AI Ads Are Disrupting Marketing"
-    excerpt: "Marketing with AI has been proven to be a successful strategy for many businesses. It's is a new way to reach customers and is much more personalized, targeted and engaging than traditional methods. AI marketing can be used for customer service,"
-    publishedDateTime: 2022-05-25T21:10:00Z
-    webUrl: "https://www.chron.com/business/article/How-AI-Ads-Are-Disrupting-Marketing-17199007.php"
+  - title: "Observe.AI Launches Auto QA, the Industry’s First Adaptive Automation for Boosting Agent Performance in Contact Centers"
+    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced the launch of Auto QA – the first adaptive automation solution that boosts agent performance to drive faster impact on customer experience and revenue generation."
+    publishedDateTime: 2022-05-24T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-e501d8fa01c343648412b3d7ead9a7ed"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
     images:
-      - url: "https://s.hdnux.com/photos/01/25/72/54/22522657/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "m4T7irPYbJy3lF8Le9wOVxlFG8I1XvollMdKwesEvnf9z0RNZyrkArDrlwOXi16BJXOK4rPxUHh+mbuFWRLwdmiuYz09oeDQ/XnS9cgg0qHZSuVBNWXYYehu2sm90RkplIVUri613XeQFB3FdYDG6mu3CHOHrwdsKbJRv+qLPowc4AgLLDa9pJxUF3mYZ+MwCOhV5VWS2ATbjAyR0t0t05moPDOY63W6LOB8qKn+o7wGSNjagZ/Y+SgxkH0pSobKne6zr76iTiAF0IwISQeuZZeyw/XyLaUmqgHdGybG8Q1xxn5IvZGHegV3DfOG5vdqgULvnmJQj9fvzM5n2Tjli9AXIxBaNZknByIv+C78TJA=;5AtfzQpfNlPwiEj8mnryVg=="

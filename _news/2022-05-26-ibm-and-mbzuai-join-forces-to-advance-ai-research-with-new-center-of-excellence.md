@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "UAE's MBZUAI, IBM to advance AI research with new centre of excellence"
+    excerpt: "The collaboration aims to provide real-life applications that seek to further climate and sustainability goals"
+    publishedDateTime: 2022-05-26T06:54:00Z
+    webUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence"
+    ampWebUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 57
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=ef3c06e2-34f8-56e8-8f82-798a2e72e612&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM and MBZUAI sign agreement to advance AI research with new centre"
     excerpt: "The centre will leverage the talents of IBM researchers and MBZUAI faculty and students and will focus on the advancement of applied research objectives."
     publishedDateTime: 2022-05-26T05:53:00Z

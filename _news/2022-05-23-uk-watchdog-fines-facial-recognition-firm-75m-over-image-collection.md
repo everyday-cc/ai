@@ -2,9 +2,9 @@
 category: news
 title: "UK watchdog fines facial recognition firm £7.5m over image collection"
 excerpt: "Clearview AI hit with penalty for collecting images of people from social media and web to add to global database"
-publishedDateTime: 2022-05-23T16:05:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?ref=biztoc.com&curator=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?ref=biztoc.com&curator=biztoc.com"
+publishedDateTime: 2022-05-23T10:24:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/23/uk-data-watchdog-fines-facial-recognition-firm-clearview-ai-image-collection"
 type: article
@@ -166,6 +166,6 @@ related:
       domain: irishtimes.com
     quality: 19
 
-secured: "TYeWP0lquizxrB8bFpJxMGThWawMdWlgTsVO66GUORIXt6m8z4YwAGvX6mcC9+lfErSklWLVBhVaFrAS5/i7po3lGmNuBwnCLAlLYka3v8NVP2m4gEHVvZHEoXH83IAmRG+O9x0QsdLVlaChcAa4nBePeXK5El8aGnBbBOPIFm8FUinGujSoaWiJKo1phYnYRw5x6GlFx7XsqLgCyhHqxiKRQinNag08bAzsH68dW3e1tAxSmdx3+R8zyB0bX/rHvJa/GbkVYcZv7WFk9E9kXOjiVK7taO/dFVwykBjqbuZw5OmrjvB2Lip35grKvFCYXxmueHl1VlytS92f71MDtmR4G11klawRwNThyZPiLDw=;5UBcUVCztdLUhPCEELSRZw=="
+secured: "u4rgTyRI77ePy1iAxJEMq2LOjbeE18ad6/adoBzGZZifywrfmxmXDg9nDxcwZwUHqEV7l4bqfx6vg4sHOLu6rjShb6l8WuC1TvmwzfOXksF9wP8k6GHk7M01p0WSQ18rCznP/930X4uEwV2po0p8BrMiOmpQ30domNbdpDCGqvqNL8ugtNla1ikZlsbncjABAideOp4+UYbYRlwpHD8/Ob7YU2XU6ZZTKCwIsU9G2hIhCAhmNSUkdKvU6M5M7vRhKm81SoTvhwelwsoIRSR0cTZGIJ3vMwEfidt2KIXwtfdIhfzszaE2Qpku0ioVTh21DZKpBPJ1ojIHjzjT84W3G8/fWcfEwvFUooISR+OXW2E=;BoRK1CDao5y1HxvupwnMOA=="
 ---
 

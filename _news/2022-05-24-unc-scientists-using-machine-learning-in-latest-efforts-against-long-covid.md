@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-lea
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/?amp=1"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Machine Learning Models to Help Identify Long COVID Patients"
-    excerpt: "Machine learning (ML) models help clinicians distinguish characteristics of people with long-COVID and factors that may help identify such patients."
-    publishedDateTime: 2022-05-21T13:47:00Z
-    webUrl: "https://www.medindia.net/news/machine-learning-models-to-help-identify-long-covid-patients-207215-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 19
 
 secured: "CUjkSoqfKZUXKyfmxq4njmdtDqXH5iBuEKqwYWPUjGtFniRk49MEpXJlb6HNLNI4Ojs2tr9ZzpBY06RhDXJLqpN9EcQzNYohEFvZTW80ONhiy8wTdj2u/R9lzWDh/CesWfdlN53updmmoofcgwez7EDCrxlt0z2ggPai+JQdl2QLeU9cNic4npvFssS7wkgPf239ZOqLY1PfRTkkHfjeitvOVe514qTlmOKWDdORwqZostqmbbll8UKkE4SzYXVHAf2j/9ohT9pnjJgeX7j3JfO4i7qWvMjP3FdoZKbpDpxxcqteYV7yRTQytO39MOtmkxNmbxC8m93ErJs9ZGsuq+2wuVM7dPv6MbpNJMjKytaD8tLoym+OqRsHdGhEpdGGB8jfnl1XwrhadU5ufVNNJfhwRu528W8bFX424oemqziHXVCoYElepHKzm6Zpl6U1qoCaz1u2quXdNPfVFSc496UrznbCTYw1EYDpaXqFQLpXM61w7cw9ubvpV0sXl24DIU6IpIyOi8JLZUYDBthIeQ==;cLHMMTljtGZkEc2RNqg/Qg=="
 ---

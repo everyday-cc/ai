@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Visual system brain development implicated in infants who develop autism"
-excerpt: "This research shows that brain changes in the size, white matter integrity and functional connectivity of the visual processing systems of six-month olds are evident well before they show symptoms of autism as toddlers."
-publishedDateTime: 2022-05-26T04:05:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/953763"
-webUrl: "https://www.eurekalert.org/news-releases/953763"
+excerpt: "For the first time, scientists have found that brain differences in the visual brain systems of infants who later are diagnosed with autism are associated with inherited genetic factors."
+publishedDateTime: 2022-05-26T07:29:00Z
+originalUrl: "https://medicalxpress.com/news/2022-05-visual-brain-implicated-infants-autism.html"
+webUrl: "https://medicalxpress.com/news/2022-05-visual-brain-implicated-infants-autism.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-05-visual-brain-implicated-infants-autism.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-visual-brain-implicated-infants-autism.amp"
 type: article
-quality: 38
-heat: 38
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d101831f-6eb7-42f4-9ce9-1605563cc477/Rendition/thumbnail/Content/Public"
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/visual-system-brain-de.jpg"
     width: 300
-    height: 256
+    height: 222
     isCached: true
 
-secured: "iQRkIv+BraGwUQfHOmDfiueWWo/HkQtLfbZHjjjtQ3Somda5FOFgiAFL2pRmL+vrzMymKDbnTj+Pqc5Hl4oeVGBr77ospUnk6EoT6FHmoQsJBAfIQPd//11WteC+aJypeyTkT/vmgZBRZ0ovf1G7W01b/f3XIEdL8P9WJTo5UZp9RQk7Dy8/BCWmj3MEkF9lLWWiLZIVyye+tddhhbwLaxhVSqXOVSVy9DGLoWUaceAuj+bPDw8k/HrS1/m1ssSlg70lKJK+3ferZrOnYmzpAsvMFtPI4i19oumexlHZOgftWiYZzrA+zbOEBnd1SkO4GU7MFdDce+TzVXYbcnc0L/klQILxToA0yD3nukuDZSE=;7cLJ+UTAgXX3LeyWfETSXw=="
+secured: "/W62IdDCjnLpkVLHhjmVumpFHSeSAwnf2G5MXbtBz2jB41+chimOs2mKuR3h0xWc9J4/2uS0qohSKv8ugX3Zz7uctlzrUUa6qJcNIa1OQhfQvcPB8lkbsuy+YVcuxhBb+E1+SOASe52c1LN17cm5HWj7QHCRruyX+KvtyfDLQ25D9e0nTx1L5IoG2abF5Bhs3FnTk4kowVUpuxY+h/sQ8K16RjrzHP6DDXLwDhhyEhB+qbzVN62fXdvXF/cKM1LLz3OU6ESQwIuY6kqTwjQ5jOpVGwvUtVEBw0yH70cXU5p+6vZmUy32nayIk/F6PQqS+R709ykdYlneHcgtyrkrnxqIpkxrVcVGEreLBETUJsY=;HvaD3f4jyALy+1XYO/DJTg=="
 ---
 

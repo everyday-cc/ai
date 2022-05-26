@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Observe.AI Launches Auto QA, the Industry’s First Adaptive Automation for Boosting Agent Performance in Contact Centers"
-    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced the launch of Auto QA – the first adaptive automation solution that boosts agent performance to drive faster impact on customer experience and revenue generation."
-    publishedDateTime: 2022-05-24T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-e501d8fa01c343648412b3d7ead9a7ed"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "European business communications provider Dstny acquires Tactful AI to accelerate its position in the Customer Experience Platform market."
     excerpt: "The acquisition takes Dstny to the next level in customer engagement, enabling companies to employ Artificial Intelligence and data in their customer experience operations with minimum effort. \"With Tactful onboard,"
     publishedDateTime: 2022-05-25T08:17:00Z

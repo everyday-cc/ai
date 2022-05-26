@@ -10,7 +10,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -95,6 +95,49 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-toggle-ai-launches-reimbursement-initiative-with-interactive-brokers.md",
+      "title": "Toggle AI Launches Reimbursement Initiative with Interactive Brokers",
+      "excerpt": "Toggle AI, a fintech company, said on Tuesday that it launched an initiative with Interactive Brokers that enables their customers to trade commission-free.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/",
+      "originalUrl": "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financemagnates.com/static/article-default-image.jpg",
+          "width": 770,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/",
+      "publishedDateTime": "2022-05-24T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1308,40 +1351,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-can-saudi-arabia-unleash-national-success-in-fintech.md",
-      "title": "How can Saudi Arabia unleash national success in fintech?",
-      "excerpt": "Abdullah Al Othman is the founder and chairman of Geidea, a Saudi Arabia-based fintech specialised in payments. It works with over",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
-      "originalUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wamda",
-        "domain": "wamda.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
