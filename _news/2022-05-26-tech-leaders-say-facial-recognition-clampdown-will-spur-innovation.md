@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tech-leaders-say-facial-recognition
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/47c278fa57498f6cb6dfacca66029466bbf0ae82/0_140_4226_2537/master/4226.jpg?width=620&quality=85&auto=format&fit=max&s=a52403bcb19393cd53e562b4af829d1b"
         width: 620
         height: 372
+        isCached: true
+  - title: "Facial recognition used to bet on the ultra rich"
+    excerpt: "For all its controversy, facial recognition is fast becoming a popular tool for convenience, used to unlock phones and, increasingly, to pay for things “It’s an early warning system,” Best adds. Ambassadeurs’ serving staff and croupiers all have phones with the encrypted chat app Wickr."
+    publishedDateTime: 2022-05-26T03:00:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/UvOF7aHRWcZZQxflI5poMnDVlyI6d5YkhDdz8kk19qMcTv6lhEWCSqa6ZzZpI50Yu8xo10QMESFtfjlvZ07h2mPo_H5ipC0cAeN5FarU234xV4Y=s750"
+        width: 750
+        height: 562
         isCached: true
   - title: "Garda to use facial recognition technology"
     excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
@@ -150,6 +166,6 @@ related:
       domain: irishtimes.com
     quality: 19
 
-secured: "2JauJdrc7hrZwB0deycwb/ytCigoLISQW5zxCEAlEGhkTRPLDyXnV5rnQ3XhBpwrJD7oi9+PuehtsXXq+boYTj262mSJbmIvtGRfAi0n2kGQk0srNOx7iXTv2ABo3EWIQuzimsaq6SbgoMGs3SEvg7gQZw2V5X9nypYR4iICP4Qsc934bAXBLFkT1CU8UnzPW7hI/zlj17P59oMQtYX7ZII9AzLNwKFq5Rv3zfryJ9jxqvO/9ol9ec/6FNYzyDjaUqfqtt+60tdtPyFoKnmjakvEL4K/TzTmVqMosox+jziPy7PLhhKEz832/ehNRA2/3ECJTWLm+YUkhluT93L12QfeGNmOT6XtBqdL4+ICdrw=;gwepzunKh2WtWK/jWUuiEg=="
+secured: "r9HspA3d+PAJbf2DPWVCffHEF5RuoVCvN0w55D1u5isljSnQSNTbP97MTJvjGcniCHA1Uf6gsZGprDCXUwVC/dBLmbHVSnSvgaZzlV71sfh8fy2NUC7uwSFFqtTjKDeUu9fzr2YCAtZ2Gf2UXFPCxYhARY4DCjaiz+CSq9B2OOYT5uqz73+NMisRPrd81xgkyDou8El20Xd7tV/bNAAggTZAlu8BsucvCBFz47fFRsuXgFEPBbmagrC4GgjLadfREXlDugfrFPjo0LwMPSG9pnd/Kq2LeaxxU6YsPGXSYYii7+Qud1Rm2t81byNIde2WahgDH/e2/8o2xYUuXXEYB7yhPCmUVSgZEqo6PjX2bk180dSM+/zoE9gawfEGh7i5uX52U2VklQ79PRaZ94PqctTfprGeE3rkNG5GMi/XkU+KkUXDUPPzf60c0joSe5gBWdyiVOFHRBMtXyA3D1REuQYmGaYEfJDEj7FRK/l5vuFRklOEId8ghjsMFv2ocglPqYiHG3rbQE7Ksu8Y1l288A==;6OzG1shltZgA+7ZuTXqTWA=="
 ---
 

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Paystand Launches First NetSuite Self-Driving AR Solution that Puts the Cash Cycle on Auto-Pilot for Faster, Simpler Payments"
-excerpt: "Paystand SuiteApp for NetSuite enables fast, efficient and profitable payments, delivering advanced features for accepting deposits for Quotes & Estimates, auto conversion of quotes to sales orders, instant Cash Sales for Sales Orders,"
-publishedDateTime: 2022-05-25T12:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-25-paystand-launches-first-netsuite-self-driving-ar-solution-that-puts-the-cash-cycle-on-auto-pilot-for-faster-simpler-payments"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-25-paystand-launches-first-netsuite-self-driving-ar-solution-that-puts-the-cash-cycle-on-auto-pilot-for-faster-simpler-payments"
+excerpt: "Paystand, the leader in blockchain-enabled B2B payments, and the maker of the fast growing and most innovative Payment SuiteApp for NetSuite AR, today announces new automatic billing and payment features to provide a faster,"
+publishedDateTime: 2022-05-25T12:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-scotts-valley-blockchain-5b8b6c1af7864a0ab18a70e1bc14d1db"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-scotts-valley-blockchain-5b8b6c1af7864a0ab18a70e1bc14d1db"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Apple Car self-driving expert takes talents to autonomous sensor firm after six months on the job"
@@ -36,6 +42,6 @@ related:
         height: 628
         isCached: true
 
-secured: "0g064xyAcI9naTesr/T1883rX1/bZJzZOAicPURfHCfcHS2gxXCC8QcCebgMUVqblh1rqAnsuRhowto0TNkFdSsKEjQKPoDozVTIdTuCHzUNcmkwiAkMsjMP5RWPNu9mXRVu9rcADwCRBhqPWPIG21vnqWzQhu+zE7a7nUDD3svIiHTKSdB9uF+MveIc4/NqG2oArHMquqlRPoPqf/sNyJOeKsqlWyKZQKh07bTC4Y6W0q6IPOO+mJ3EBTwu4cI478mWpr4ANY9Yevm3iA/hVskEYNZ0KEM44Fa9vto6/Cppy64gc1bHIjWgh+A1CEk6fkhSSnEJiiXmLGWEVP8hFkyiJZ0/azLwTXrd6HxOmZc=;vFhUGPFewAShZBoe9aHs3Q=="
+secured: "H8ow9uHk5tbogHYZTrjGQ2ygyyyiTdmS4QP2gYAY9xnn64ZdbsXwyIr2hv4J2vQmNsN9W7Hc0cDFINwlFjgPX9HhQWuaDYtzlOtJGMnUtnPiciOXJAlTRxhwQEzU+bE2w5DO9okjNNlC/IgwT5szl59A5l6XisT7TiPAcoOYxWoqS8CiTt3fOZ71Sp5ypzc5AIUVm+hoOIcwMWLrov6Nn/ay5Idn7GPKMo5omLj7494r7ukVNOaYtkndPre1b8pHC2aY/RzaEPVNYyH5cu2fLWpWRXoanBj+uYEEJ0yHDp0VQZLxgiIYxoxqTY0jR09XMBZqvleysoH4RqCkSVM+8HcAfyhbNQXh92WXq9WHeHk=;cA/dUvPCAs0dlvWfKOy4Ew=="
 ---
 

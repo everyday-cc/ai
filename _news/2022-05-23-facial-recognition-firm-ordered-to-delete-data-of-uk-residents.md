@@ -57,6 +57,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Facial recognition used to bet on the ultra rich"
+    excerpt: "For all its controversy, facial recognition is fast becoming a popular tool for convenience, used to unlock phones and, increasingly, to pay for things “It’s an early warning system,” Best adds. Ambassadeurs’ serving staff and croupiers all have phones with the encrypted chat app Wickr."
+    publishedDateTime: 2022-05-26T03:00:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/UvOF7aHRWcZZQxflI5poMnDVlyI6d5YkhDdz8kk19qMcTv6lhEWCSqa6ZzZpI50Yu8xo10QMESFtfjlvZ07h2mPo_H5ipC0cAeN5FarU234xV4Y=s750"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Garda to use facial recognition technology"
     excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
     publishedDateTime: 2022-05-24T23:01:00Z

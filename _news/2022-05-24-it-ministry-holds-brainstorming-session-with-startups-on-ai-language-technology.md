@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/it-ministry-holds-brainsto
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Bhashini: MoS IT Rajeev Chandrasekhar brainstorms with firms on AI-based language translation platform"
+    excerpt: "Bhashini aims to curb language barriers in communications and make information accessible in the local language of users."
+    publishedDateTime: 2022-05-26T02:33:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/bhashini-mos-it-rajeev-chandrasekhar-brainstorms-with-firms-on-ai-based-language-translation-platform/91801036"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/bhashini-mos-it-rajeev-chandrasekhar-brainstorms-with-firms-on-ai-based-language-translation-platform/91801036"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/bhashini-mos-it-rajeev-chandrasekhar-brainstorms-with-firms-on-ai-based-language-translation-platform/91801036"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 23
   - title: "MeitY holds Brainstorming with Researchers & Startups to shape strategy for Digital India BHASHINI – India’s AI led language translation platform"
     excerpt: "We see the role of Startups in the Innovation, Development as well as Consumption of Technology”, said Rajeev Chandrasekhar, Minister of State for Electronics and Information Technology and Skill Development & Entrepreneurship,"
     publishedDateTime: 2022-05-24T09:23:00Z

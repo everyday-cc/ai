@@ -24,6 +24,22 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "More Than 2 Billion Shipments of Devices with Machine Learning will Bring On-Device Learning and Inference Directly to Consumers by 2027"
+    excerpt: "Federated, distributed, and few-shot learning can make consumers direct participants in Artificial Intelligence processes NEW YORK, May 25, 2022 /PRNewswire/ -- Artificial Intelligence (AI) is all around us,"
+    publishedDateTime: 2022-05-26T03:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=669826"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 6
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+
 secured: "9/uu0cPpIuBicKJpiw7M3D1K5OlOsszJCAnnFP7bWnpwoynwJz3odXpWJQv9WIKLOsTCu3NSkawDThD9MFmBArVR1Lyvq9rdV45jvjOj96MlWqluS0W4aNJMk9pej5m6wGCiiXl7joA54Dr6GYbehUlpfo8EIqF24n235PXd4JaJxO5b5LNUEXGeSx0jfa6Ql94Rk00uU+wjLGWa2aTRHXdLYKRqEX1iOKNknRJwNjSoArpUGn/8La26zQbTNgaapY0HdJCoyRNz9guh6BD1cF/D90akPZgub5DlTi//NflVoKwUPsk+8SO71Wqh7Vz35VOpEijFA9qgfs4LpjhK4PMxbDwzTEbVOYsFAFiXZB8FWz/5keYF8uLu6nJnlDmXonjBk9jr+QDK3pQaio810SMGQHNCKTM8sQYOwE2FMQjSOaUnutULl09jvRSA5JuCFZOFAg+9Atj18dsP2srEZQ0EnfN1LbvC/+gKqPpa59MNLJpciiL3cj2ubLUSc+xjFUIThmmRe75HG/uL1l8L2A==;x35ABfAzM0Gs9QEpmgaKAw=="
 ---
 

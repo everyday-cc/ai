@@ -22,16 +22,14 @@ topics:
 
 related:
   - title: "AI in Agriculture (2021 to 2030) – by Channel, Application, End-user and Region"
-    excerpt: "Global AI in Agriculture is estimated to grow from USD 893.43 million in 2019 to USD 8342.37 million in 2030 with a CAGR of 22.52% Fatpos Global added a new report into their database named “Segmented"
-    publishedDateTime: 2022-05-24T20:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27383940/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27383940"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27383940"
+    excerpt: "Global AI in Agriculture is estimated to grow from USD 893.43 million in 2019 to USD 8342.37 million in 2030 with a CAGR of 22.52%Fatpos Global added a"
+    publishedDateTime: 2022-05-24T20:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
     images:
       - url: "https://www.abnewswire.com/uploads/1653379726.png"
         width: 411

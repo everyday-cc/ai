@@ -2,20 +2,26 @@
 category: news
 title: "AI Redefined Welcomes New Hires, Continues Commercial & Research Expansion"
 excerpt: "AI Redefined (AIR), a company focused on building software products for human-AI collaboration, has added to its leadership team with two new hires: Jordy Berson, who joins the company as Chief Product Officer,"
-publishedDateTime: 2022-05-25T12:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609111.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609111.htm"
+publishedDateTime: 2022-05-25T12:18:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-alberta-canada-3af4befd08cc482fa43948ec4498fec1"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-alberta-canada-3af4befd08cc482fa43948ec4498fec1"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AI research lab inspired by computer's internal components"
@@ -51,6 +57,6 @@ related:
         height: 1922
         isCached: true
 
-secured: "keYFgVFm3RjPjeSDBuaN3lCnrFZ6iH1Zewze+L0bu0u6sAqAebAOGH6nLyVUcKltrTIMcP5XqZ94nemw23QpIS+t0J9YQy/OMuZp5b5lfIv8Puw2mTo5sza1cTsd+gDzmhaSqyFV2abByX6In3WqKpbibMMKbOuDtSIQ3vMsHmV0XY9p9cVB2BkdI2MeI9Msmf5M+3WwAfqbCvDdnzNoQqlNzPWHOq7EBFkv40ntYYC+p4QpafUq11UX5stbUuM2g8FCvNhzFA9XVb9hhiw5k8AXvgPyLxrbAHRw5wQbn1tUk4U+krmmsL36izOln4mdMZYwfRPYQWHSUy5d48/hUBzimhVZSPfClQ26bD8QR+M=;l3llAs3ijkLi7+3eXnq8zA=="
+secured: "XE1Fr4D2AVNlFjJNXow2QH/kzjFOuCRMTVOEhQbXA/fIRK+H0+QMolrkJcWS66ik293GeEIO/6M20igux+kBGjA6CCFTFSiuVyy6Wgt4xIAlq6xqqFq0l0u3Tc1fufc7rrRii3mnD/v+5GChiozk30ZecPBMprNhg5jm0njk3PIb+B9l8mZZwHL8xsQHjlM4JLLUA+X8mZozSzQANAZLJJP9VWmCUJ8KsLcYYvsFF6egpPB9u9imQ6jLl3ERo4EDJJxSXaggKB3qoeh4gXfe0j74pbegT4mruGP/H7bTrCm1IuN6txno5PEmDiJvNMRA1A+x5gtIEg6mh/LjPjp+52wTPjZfL1m8a9tarrVsAY0=;vYx385V8RkxKebN35n86fw=="
 ---
 

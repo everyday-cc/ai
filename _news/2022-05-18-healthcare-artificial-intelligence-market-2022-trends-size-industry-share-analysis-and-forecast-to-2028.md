@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Healthcare Artificial Intelligence Market 2022, Trends, Size, Industry Share, Analysis and Forecast to 2028"
-excerpt: "Healthcare Artificial Intelligence Market” The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 billion by 2028 from US$ 148 billion in"
+excerpt: "\"Healthcare Artificial Intelligence Market\"The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320"
 publishedDateTime: 2022-05-17T22:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27267404/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-t"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27267404/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-t"
-ampWebUrl: "https://www.benzinga.com/amp/content/27267404"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27267404"
+originalUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028"
+webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
@@ -23,6 +21,6 @@ images:
     height: 440
     isCached: true
 
-secured: "faSn87pumc1EJpjb3MQNx56j6As7WJJJVcyOVeeTZ7DU4cyNVsvz56n4ceFqr94qW/D8fgDCfNmn4zkZKmxXhyTux9+1mYfBIDu8Zt3FA+/eWtgq4M7oyWYTnKdNBEwYGdRSeraTM7UJo926HoUtazC48Avt18zumevZ7JtHBPHebx5akRxHyl8JI4+eYRTHzE0INSln5OTrreQLZQRTFGch0Mk5z8GZW523298GbWtxxij842Gpu5vc9FkxLqeIW0G43IGCC8znbOz/Wp+ppybKdzbV28AEFnHk4XAXwVqFklD7TtCGJfaL6P1OVrGQVa3xR9edpWnrFvdY+1KAsqg0wu67MGFnKb8Lk/JwnnU=;tW5BqWFfwzyIVq8tI2famQ=="
+secured: "i49h8Rb6Ajedd7MaElnGfWvKQrWr8DU8GZ3K6M1NFptQqaivb4vEkii9MqQMBxDLloe8h/0MNncVNvLCnAzlSVsAkB1/rmaD3NdgqXu77X2S3I1A6IoqNIZcMASrMuawJW8EaMXEYKptmMYPKwWu1aSkmxNZHUxLxOom8wF6aSgH1GTdL8p/Nt5JK2+o0Gy9HSt3JB1lrZ6NBoMsSfwz2fN0rj/LvWEWP/fmSI33HHtigTNN28K3E6JUjkucSRYFneWWlYCZwujDyMSrXh4z8lzppO/bFRDjt2yJzzdq5GoPJtKQBqfKB3fYIFkXoC/jmRYgh4ujDmQ5QlqKJ7n73ylNFdYED7rKU1iU+V5nolU=;n6kvBSf2x5UkWRZuu5CxRg=="
 ---
 

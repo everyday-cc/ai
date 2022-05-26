@@ -2,26 +2,26 @@
 category: news
 title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
 excerpt: "Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research published in the journal Science Robotics. Each one is about half a millimeter wide,"
-publishedDateTime: 2022-05-25T21:58:00Z
-originalUrl: "https://www.erienewsnow.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
-webUrl: "https://www.erienewsnow.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
+publishedDateTime: 2022-05-26T03:12:00Z
+originalUrl: "https://www.kake.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
+webUrl: "https://www.kake.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Erie News Now
-  domain: erienewsnow.com
+  name: KAKE.com
+  domain: kake.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://WICU.images.worldnow.com/images/21716717_G.png"
-    width: 1080
-    height: 607
+  - url: "https://CNNWIRE.images.worldnow.com/images/22748984_G.jpg?lastEditedDate=1653515027000"
+    width: 375
+    height: 500
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "m6Xc945uazGzPbotLPC7YKBcevM7vNUpGDBjZBPyAHvVHSp+izquSQ24k/Jw6YMmGMYie+jA3IWszpU23ka1WdI0y5v8LoHx+6w5rYvBGkZl1wpxq5SqKxBLWOlRsX/wksq0KYost+p6EkCuw6tRkx6qV9dFwP1wX3s1uMLAi6nScABrRfNbnmyjGH7phnxdq7gw/iCwQw1D4TT0TTzIFHGFovfacy+OIPRT2aetfq+tAsYs2dznia8RtQuFXn9UiJLTJaRB19taPQba7XiAoY9N/l2gm8eqYr5Y9h7KIlVnvBEaD+cWiW3Id7XL6Zn5+EPDTTziPF8Q1l4psXPaLu6gSSszh9I6XDI+KdP9wfg=;es0SNzcCV4ycE0ZiY2BvpA=="
+secured: "oXST/qO9Itg6cdg8atH/W92V7u3NhGVfwKpcxfRcFcT8He42hDHz/FWQIps63nJymKwdsmJCC7lyjZ8bkL7RanAiwNPnSKnT24QOT8fkxf3cZHSpUku7pNGSqLTwRiBJAAPL9Ca6aCsZ5S+ZZjHSCNdi5n5dn7ZxhNFPPxU7gEC2+XLUodqnD91/vkpvZBZTDlpxDAMSwBCJn5stHe6LJjtBZf4MjzJNpyue1on5gVosHAwwIOeg/5xCKsCRXjoWbtwPbpvgi6X6VF24ygwqGirwSj5XcNWM6EJx+nc1JX3XA7dYlK5MlY87PHhws3WuyRqhCjmsmtnjmQcOgM+htx93vM1QqqOywXWVfWRdvig=;X08hgqf18eAxS+GBfNVaBw=="
 ---
 

@@ -2,26 +2,26 @@
 category: news
 title: "Cowen and MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
 excerpt: "Cowen Inc. (NASDAQ:COWN) (“Cowen” or the “Company”) and MassRobotics today announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
-publishedDateTime: 2022-05-25T12:00:00Z
-originalUrl: "https://www.mywabashvalley.com/business/press-releases/globenewswire/8559131/cowen-and-massrobotics-highlight-the-increasing-role-of-robotics-in-achieving-climate-objectives/"
-webUrl: "https://www.mywabashvalley.com/business/press-releases/globenewswire/8559131/cowen-and-massrobotics-highlight-the-increasing-role-of-robotics-in-achieving-climate-objectives/"
+publishedDateTime: 2022-05-25T12:03:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/climate-technology-robotics-0381a28da30481a0df5bb5e4070f9efd"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/climate-technology-robotics-0381a28da30481a0df5bb5e4070f9efd"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: WTWO
-  domain: mywabashvalley.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.mywabashvalley.com/wp-content/uploads/sites/62/2021/12/mwv.png"
-    width: 2316
-    height: 862
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -197,6 +197,6 @@ related:
       domain: thehansindia.com
     quality: 2
 
-secured: "GwKba2NWWRkoPe6w8pQC0LM9dBDSQhQAjYnXyKALxJ2FCnArKKstQj3YFXT/7wmqcG5K/gWDlG8XfnXJp65VQ5+2mNGipd1xECHujimZk5RAZQBXa0TqD6H1ioJg8kbxrt2fkfoD6oiAWuuqCJ78oSYTLY77QCp5m14lGCD6pZAgbE1nAU5QVIpHL0GIDBQx4j0QeYh7pnIE7taGQF3fsZ06UbofBJ/nuO07Mxqnbi+vv4hviG/WTQr2jiZBJ84JlHz0EnciTeeyiG/fj50qkbA9MHQnIxeRx2Qzw5PMgzcPni8b28mhRHgbGL+LWp3FvQ3CU2MzJPwcBrUj6N0+EQoDvDMMo+Hqo/Kwc3oTquU=;xFotvJpdWcWicbiKRyrVfA=="
+secured: "eTMHxDz6GZYPj2ZrprJaGkBl4nKo0z2sqiqi/ibLIY6jeE9QFrz7Gx33fEgqfn9RXRB6tZITcHyy3H8g0uKUODT6yuTPB0pAzo9+fvmVGnLRWlCqJVtdpiFXCQLM9URR/AWmQWXRa4LzSTZutFD9KpksYh0SyUbpsJ1Oes2h5nRBgyQUGALpQhk/MhSG40nSRYWy7n2Yx8us1lGnh7+MMn2uVD8r2BjIzwgvsDg8DeCUAmGJ2chYEFOs/Nt/E6GceqdBq7GSmX95NbbK3NLBiDlEgO5reb8XdXZmsADKOn7Hsv6IUHuJdYOzQRnNVKnZXzKO8SmfY6l/HoquIL26XwKo67lgd9IU5dh+1POhhwg=;x3nZnmILKAZhwIE3X8a/6w=="
 ---
 

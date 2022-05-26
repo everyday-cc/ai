@@ -31,6 +31,34 @@ images:
     isCached: true
 
 related:
+  - title: "Explainer: What is an Indigenous Voice to Parliament and the Uluru Statement of the Heart?"
+    excerpt: "The establishment of an Indigenous Voice to Parliament has reemerged as a key issue with Prime Minister Anthony Albanese using his victory speech to further cement his commitment to the Uluru Statement of the Heart."
+    publishedDateTime: 2022-05-25T14:30:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7751203/what-is-the-uluru-statement-and-an-indigenous-voice-to-parliament/"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 29
+    images:
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/DaHt57RjVSvtvCBUgFzTWj/cce6a7dc-91dd-430b-ac98-17705af59281.jpg/r0_304_4608_2723_w1200_h630_fmax.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Uluru Statement from the Heart: Voice, Treaty, Truth"
+    excerpt: "On the fifth anniversary of the Uluru Statement from the Heart, we take a look back at this momentous day in Australian history, and explain exactly what the statement asked of all Australians."
+    publishedDateTime: 2022-05-26T02:44:00Z
+    webUrl: "https://www.australiangeographic.com.au/topics/history-culture/2022/05/what-is-the-uluru-statement-from-the-heart/"
+    type: article
+    provider:
+      name: Australian Geographic
+      domain: australiangeographic.com.au
+    quality: 24
+    images:
+      - url: "https://www.australiangeographic.com.au/wp-content/uploads/2022/05/M16W04-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Incoming Indigenous Labor MP calls Greens a bigger threat to a Voice to parliament than Coalition"
     excerpt: "The incoming Indigenous MP for Australias red centre says the Greens are a bigger threat to the voice to parliament than the Coalition, as the left-wing party pushes a treaty between the government and Aboriginal people before any national Indigenous body."
     publishedDateTime: 2022-05-23T10:34:00Z

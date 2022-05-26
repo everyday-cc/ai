@@ -1,20 +1,18 @@
 ---
 category: news
 title: "AI in Agriculture (2021 to 2030) – by Channel, Application, End-user and Region"
-excerpt: "Global AI in Agriculture is estimated to grow from USD 893.43 million in 2019 to USD 8342.37 million in 2030 with a CAGR of 22.52% Fatpos Global added a new report into their database named “Segmented"
-publishedDateTime: 2022-05-24T20:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27383940/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27383940/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region"
-ampWebUrl: "https://www.benzinga.com/amp/content/27383940"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27383940"
+excerpt: "Global AI in Agriculture is estimated to grow from USD 893.43 million in 2019 to USD 8342.37 million in 2030 with a CAGR of 22.52%Fatpos Global added a"
+publishedDateTime: 2022-05-24T20:45:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region"
+webUrl: "https://www.digitaljournal.com/pr/ai-in-agriculture-2021-to-2030-by-channel-application-end-user-and-region"
 type: article
-quality: 53
-heat: 73
-published: true
+quality: 33
+heat: 33
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
@@ -52,6 +50,6 @@ related:
       domain: benzinga.com
     quality: 10
 
-secured: "rwdqGppfcbUU10uSFSMh7k7fdc9gHhqMBRSvHWTjIHGyxzcg5IiwXzzFF2/OZ9JgTIpMXnFrrUDPDsEVoYXoU1JWWCZ9zf37whvFTfpMNRbdTARq1VLqb6s+nYt8acDgXQtewMCCPNdBQM7u827YS5pEsY/JhC+84nLsdDUu0B3Bh0DIRnMLCsbZp7aPwsdT11BIXLE7zu6BFI+tOMa4ixObWiriF/72MW1ddbRVBS/oFgxx9jyADXIznJ1VXh4QdxgLD1XvPjlZYxpcpRJ2bb9xzS+s4BurvFeRYm1mFcjijAWNPAObzDnOJ/skJNP2XQ2nJ21dHJTn1XHcxYLyD/G1zbbm1QxMs9KmvmV1e48=;9mkXloPPw1qGSoUPUurAKw=="
+secured: "n6CoEkllUt5//lf5HYJErWJQbn29neuDZ5enIeRzY1xphBLZhzAPIFs0FXDnZxtVktfVYJIltJbUvGSRA3R7QyxpQVxikdY1o1pAoZ0+my8z/SrsYTUOojItOJT+s2SayQI0cd1f3rl/SPK0FESD/XhnelODyfoM8/mwOZtj3y/ndMRINzxJKjmcu/HFrvJWKeB4KiixaiOvvG2W2n83T4iie8XlGjWndRCYOr1b6CK5sqyIxkYbtwp6Ul5wG921H9OfQPJ/R6S2xwqILQeOPQkTjSrSbUT2xpD1szd5DcYq7r/6hxnxskqIur6Iesjvea/QwK2dXvRrEjeYSj/6xBdvEO5T0V5tiuSUsQsXOAY=;cPDM+QfeyvDbJB03RDiMqw=="
 ---
 

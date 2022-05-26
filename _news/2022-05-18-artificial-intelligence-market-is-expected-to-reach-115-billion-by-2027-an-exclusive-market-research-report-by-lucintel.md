@@ -1,25 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel"
-excerpt: "\"Trends and Forecast for the Global Artificial Intelligence Market\"Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by"
-publishedDateTime: 2022-05-18T14:59:00Z
-originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
-webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
+publishedDateTime: 2022-05-18T14:48:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.abnewswire.com/uploads/1652849737.png"
-    width: 474
-    height: 300
-    isCached: true
-
-secured: "Q8kC6D8fIX+SUGgxa6Yzl0SLkIQpWUBALozhDr3zzs1FnGbgKpkOKpIBj/9w1eHkL/O9YJz05mp/0k6Ge5vDuLr3ttH1u0yoYyHNgK7Bl4A3hzAujq2RtTfcAEPODYIufE2EBOVJB6v0oObj1nVKUXF+3u0LZw/33lRGpP+aldIMGZ0KSSn4v25wbT8VMaVhUlQ5fUs7SoTiA+zG/cnuhli54pLRQZcFqDTkfGD5+rWVP7STRGnIXCgvuIRoZi5DPrSpvhjyDf0tSBrlKdtAKrhHPGe872fBWDzUJ6KdeYdPkSuQBPT8hWVrUqmCsAfu+axCHBG75obPRUbc0eN8S+s1QfCPkMqt2j+P4v3K7h0=;TFT5bxTX65D2wDdpBQowDA=="
+secured: "XLb87N5Cg9pxG7SaMh9H6U3Ro3rr4yzVJPyzf65DrkAfMuIIVjCp0CnQV1ifUG1q6PVEFH2mA5xFByQFiCXF0D4SCJiKLf6YAmyZAQh/H1LCyPhiZmHzoqiw6GUAQ7NJgadzO/MMa19qCYBWdHwb/ijSl64qBEsXvoAy33zKcKTDUX088dvRhpwT7WIMAJjrBaE5E/mclVzvS01fKWTsVJtp3chrgSCc3d+SKs8e2xmfHOW8JK5HRyrsioT0EfB/dPQqFgb6dyq9LU+/4MX/Vlp1JMKnBvajMV5g14enltN4XDEKDpR3qV6t4cgRWS2ji69hxUe1LppX6mPobvlxeh13syu3EXXD/RljFLf6Gz+633UsZP3IOtF7q9moQsceaFBqrgCR2xRjTjJIBqkkUdzQ9sfjo1Dtg4m9n0UDjS8ZRare8qiSKC63L/s/WlZQRqf0m694bPU1dW3XyK//uz8a+pzM7EHdHsZZ4AV9rkStP7sH+7hzVjftOFre7bgiwUoLmKvjbZ0JUenlKyPLkQ==;9FYY5J6IY1/LL6OMu6I/yA=="
 ---
 

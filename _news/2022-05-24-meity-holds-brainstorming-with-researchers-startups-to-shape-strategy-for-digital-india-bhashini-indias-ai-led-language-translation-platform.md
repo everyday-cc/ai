@@ -67,6 +67,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Bhashini: MoS IT Rajeev Chandrasekhar brainstorms with firms on AI-based language translation platform"
+    excerpt: "Bhashini aims to curb language barriers in communications and make information accessible in the local language of users."
+    publishedDateTime: 2022-05-26T02:33:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/bhashini-mos-it-rajeev-chandrasekhar-brainstorms-with-firms-on-ai-based-language-translation-platform/91801036"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/bhashini-mos-it-rajeev-chandrasekhar-brainstorms-with-firms-on-ai-based-language-translation-platform/91801036"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/bhashini-mos-it-rajeev-chandrasekhar-brainstorms-with-firms-on-ai-based-language-translation-platform/91801036"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 23
 
 secured: "hGwx4+0m6SyejH8rt4eXE4nuuYfJ0U2Ee4cBDCsxtZvifgFwWTfgrTeWCo4oZHGzxSKgQyhDpuylZY3Vn2t1mI4PPiAVtMQPTfiDQNBTyZKqTaaPnEE3JBzyTEN2678QoZtZY/8Apy4aSGcYRWfG+HXv6aJ0+hOKCRS5sJePQTdKxOOhm6zhA32A7TYEBBVDH3RM1QFwztztGF3x8EJ3qjdvw+HbRJ3GETmkF/EgCZeDngtsoIyA+jRUR3LqCjO7Yx1777cuXHOTEnEMfCGURjqtA1W6rjBuPqSvdRBoFfNZcl6IPREZXIy47wVPsC4nlyHHoLhSGqLelQ+fisBprA3XchWuvRbaK4Qlkwr9o/oNsuT8BAV4kU2L5822FtpiAgDSIUCFUwg/7O4MTrs3ENDpLfFILe7fvntcW7bxIonI6BBC9+l6chIpqwIU4TyTwNO/rRDETI0D83rBy0FyHuFVXerpriPZtVidmgIW0Hr/toDfEI+NQ0Z6MSd33CLVYqp4FHwr9fy/KwHrxNB4TA==;uIw4XsIPrfGw0a1lCGWYAA=="
 ---

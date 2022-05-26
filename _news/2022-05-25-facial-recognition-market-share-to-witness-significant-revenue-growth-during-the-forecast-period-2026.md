@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Neural Network (ANN) Market Growth Prospects and Share Analysis, Trends, Top Leaders and Regional Analysis Forecast to 2022-2031"
+    excerpt: "Japan, Japan, Sun, 22 May 2022 22:58:36 / Comserve Inc. / -- The Artificial Neural Network (ANN) market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024 ..."
+    publishedDateTime: 2022-05-23T14:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning 2021 Key Competitors, Major Products and Services, Share Analysis, and Upcoming Trends to 2030"
     excerpt: "London, United Kingdom, Mon, 23 May 2022 11:12:07 / PhantMedia. / — Global Machine Learning Market Fatpos Global anticipates the Machine Learning market to surpass USD 121.23 Billion by 2030; this is valued at 9.25 billion in 2020 at a compound annual ..."
     publishedDateTime: 2022-05-23T15:35:00Z
@@ -62,6 +76,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 17
+  - title: "AI in Medical Imaging Market Size in 2022 : 45% CAGR with Top Countries Data, Key Regions and Growth Forecast to 2031"
+    excerpt: "The global AI in medical imaging market in terms of value is expected to register a CAGR of ~45% between 2022 and 2031. Artificial intelligence is"
+    publishedDateTime: 2022-05-26T02:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-imaging-market-size-in-2022-45-cagr-with-top-countries-data-key-regions-and-growth-forecast-to-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Artificial Intelligence in Big Data Analytics and IoT Market Report 2022-2027: How Different Forms of AI May be Best Used for Problem-Solving"
     excerpt: "DUBLIN, May 23, 2022 /PRNewswire/ -- The \"Artificial Intelligence in Big Data Analytics and IoT: Market for Data Capture, Information and Decision Support Services 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ..."
     publishedDateTime: 2022-05-23T12:50:00Z

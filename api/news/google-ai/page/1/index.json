@@ -40,17 +40,17 @@
       "title": "Intel oneDNN AI Optimizations Enabled as Default in TensorFlow",
       "excerpt": "What’s New: In the latest release of TensorFlow 2.9, the performance improvements delivered by the Intel® oneAPI Deep Neural",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow/article_0f06172c-3021-5958-aee4-58a6721d07db.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow/article_0f06172c-3021-5958-aee4-58a6721d07db.html",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
       "featuredContent": null,
       "highlight": null,
       "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -63,8 +63,8 @@
       "publishedDateTime": "2022-05-25T08:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -74,7 +74,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Natural Language Processing",
         "AI",
         "Google AI",
         "TensorFlow"

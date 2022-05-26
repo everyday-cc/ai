@@ -3,12 +3,12 @@ category: news
 title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
 excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
 publishedDateTime: 2022-05-25T20:10:00Z
-originalUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
-webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
+originalUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
+webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 type: article
-quality: 105
+quality: 103
 heat: -1
 published: false
 
@@ -17,10 +17,9 @@ provider:
   domain: theregister.com
 
 topics:
-  - Facebook AI
+  - Microsoft AI
   - AI
   - AWS AI
-  - Microsoft AI
 
 images:
   - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
@@ -451,6 +450,6 @@ related:
       domain: enterprisetalk.com
     quality: 31
 
-secured: "OOPxJ1Ku5UZFxLtEWQmAxCTCjlq7qez4+3N0rdbfEkW5ddtMCnpjZ5cpi885xmzlQLfKhXNGVZ7BRSLjSw5KcuRvi4ZdMboIA4Gt9q8uUKMxntesMZL4LD6+11CKD5xK0hM0rz44j3cJPc5LajOgUl3Ypk+x2MoEGriL4SjLarCFawBSz8Vk+1ic9i8J1Dwidx28rxhsbpSHDD9gIkkv1bzFq1F0FKl2LlvfbRv9iNyKygpwEry7WU1lfgzVB852Gc2RbpwIbYIzpEaxJDoBRWU5DWF9h2SbZlyWfRMK9+1ihz6MNGmmXR+63JHF2n3RPpLnncLK147w2ErJR9rtu0UoaEBE7NMvLsiNQYIW4kw=;ymN6A61d2GQzRYr6OGvFIg=="
+secured: "+TfSbcqpLbEyXlKvBNxwH4YjMOlHi1etwIpo4eN0h/Mk88NapjgyvLMl4aZm3+RYX9jTFNx005l7Erjr6GszILpeu9Cid68AZbscLObb4wg7AM3giILFAaNdsAomlSdCqOXZvPG6ZOpg+k8p1/3iLQFdN/IdYZdmtpjUIARAY5IZl70U2nkJRoqAxVr4t8jzrRxR33qymISIZNGV02UFjnc/xOT2mFzLywBRDVCahHssn0lkeRnCbKZ5Qz5sL16WzPhwK9yo08T8Ek/4Yrlnjcv5d1ERGtCouA5JbL2w39ml4V3v4iHb2fjlOJdgokwgNWNjVdY5tuX9jam8KgBLqKQWs9oxrrKWCTaNAnMjlWw=;zemmYto8fIwLDbE8Cg5kcw=="
 ---
 

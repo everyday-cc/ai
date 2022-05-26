@@ -24,17 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Robotics Market by Global Demand and Latest Technology 2022 – Boston Dynamics, Amazon Robotics, Honda Motor Co. Ltd"
-    excerpt: "The Global Mobile Robotics Market size valued at USD 12.63 billion in 2020 is predicted to reach USD 72.50 billion by 2030, witnessing a CAGR of 21.4%"
-    publishedDateTime: 2022-05-21T15:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-robotics-market-by-global-demand-and-latest-technology-2022-boston-dynamics-amazon-robotics-honda-motor-co-ltd"
+  - title: "Natural Language Processing (NLP) Market 2020 : Quantitative Analysis of the Current Market and Future Estimations 2030"
+    excerpt: "According to the report, the global natural language processing industry was pegged at $11.1 billion in 2020, and is expected to reach $341.5 billion by"
+    publishedDateTime: 2022-05-26T03:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2020-quantitative-analysis-of-the-current-market-and-future-estimations-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 28
+    quality: 30
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/f61db3f7267a4d432d3a30e05a2dc8a5cb53b77e-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Market Trajectory & Analytics, 2020-2021 & 2022-2027: Accelerating Pace of Digital Transformation to Benefit Deman"
+    excerpt: "Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. The global market for Artificial Intelligence (AI) estimated at US$46.9 Billion in the year 2020, is projected to reach a revised size of US$341."
+    publishedDateTime: 2022-05-24T20:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=669612"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Automotive Artificial Intelligence Software Market by Global Size, Trends and Research Analysis 2022 predicted to reach USD 53.98 billion by 2030"
+    excerpt: "Automotive Artificial Intelligence Software is a system which is used for the altertion, process and functions and others to imitate human mind and absorbs the problem solving capacity automatically. This technology is mainly used in self driving vehicles ..."
+    publishedDateTime: 2022-05-25T08:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-software-market-by-global-size-trends-and-research-analysis-2022-predicted-to-reach-usd-53-98-billion-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/1bd9115c03cae6ad319fc7018288222372e53aea-600x337.jpg"
         width: 600
         height: 337
         isCached: true

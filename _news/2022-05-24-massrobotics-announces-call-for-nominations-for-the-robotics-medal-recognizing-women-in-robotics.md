@@ -151,17 +151,17 @@ related:
         isCached: true
   - title: "Cowen and MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
     excerpt: "Cowen Inc. (NASDAQ:COWN) (“Cowen” or the “Company”) and MassRobotics today announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
-    publishedDateTime: 2022-05-25T12:00:00Z
-    webUrl: "https://www.mywabashvalley.com/business/press-releases/globenewswire/8559131/cowen-and-massrobotics-highlight-the-increasing-role-of-robotics-in-achieving-climate-objectives/"
+    publishedDateTime: 2022-05-25T12:03:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/climate-technology-robotics-0381a28da30481a0df5bb5e4070f9efd"
     type: article
     provider:
-      name: WTWO
-      domain: mywabashvalley.com
+      name: Associated Press
+      domain: apnews.com
     quality: 41
     images:
-      - url: "https://www.mywabashvalley.com/wp-content/uploads/sites/62/2021/12/mwv.png"
-        width: 2316
-        height: 862
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Cowen And Massrobotics Highlight The Increasing Role Of Robotics In Achieving Climate Objectives"
     excerpt: "Cowen Inc. (NASDAQ:COWN) (“Cowen” or the“Company”) and MassRobotics today announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
