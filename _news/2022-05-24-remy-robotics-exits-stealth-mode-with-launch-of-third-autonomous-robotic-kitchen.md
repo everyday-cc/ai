@@ -159,6 +159,20 @@ related:
         width: 2316
         height: 862
         isCached: true
+  - title: "Cowen And Massrobotics Highlight The Increasing Role Of Robotics In Achieving Climate Objectives"
+    excerpt: "Cowen Inc. (NASDAQ:COWN) (“Cowen” or the“Company”) and MassRobotics today announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
+    publishedDateTime: 2022-05-25T23:44:00Z
+    webUrl: "https://menafn.com/1104272851/Cowen-And-Massrobotics-Highlight-The-Increasing-Role-Of-Robotics-In-Achieving-Climate-Objectives"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942163"
+        width: 640
+        height: 250
+        isCached: true
   - title: "MassRobotics Announces Call for Nominations for The Robotics Medal Recognizing Women in Robotics"
     excerpt: "MassRobotics, a leading robotics innovation organization, announced a call for nominations for The Robotics Medal, a new annual award presented to a female researcher for substantial achievements and contributions in the field of robotics."
     publishedDateTime: 2022-05-23T19:08:00Z

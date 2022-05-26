@@ -8,7 +8,7 @@ webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 type: article
-quality: 103
+quality: 105
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - Microsoft AI
   - AI
   - AWS AI
+  - Facebook AI
 
 images:
   - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
@@ -248,6 +249,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Startup, Microsoft collaborate to simplify AI healthcare research"
+    excerpt: "An artificial intelligence data security company is collaborating with Microsoft to advance AI healthcare research. BeeKeeperAI, a startup specializing in data confidentiality and intellectual property protection,"
+    publishedDateTime: 2022-05-25T21:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/startup-microsoft-collaborate-to-simplify-ai-healthcare-research.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 71
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+        width: 460
+        height: 460
+        isCached: true
   - title: "Introducing the Microsoft Intelligent Data Platform"
     excerpt: "It’s clear that the fragmentation which exists today between databases, analytics, and governance products must be addressed. To help organizations unlock these new capabilities, we shared several exciting announcements today at Microsoft Build that demonstrate our continued innovation and investment"
     publishedDateTime: 2022-05-24T08:00:01Z
@@ -436,6 +451,6 @@ related:
       domain: enterprisetalk.com
     quality: 31
 
-secured: "hojgK2Y9BTD5T9DvPXeN65wZ6YXJnin73SKEp4lXkbrVALspr0JoqZTBsN7CzRl0eNkiU8MCpqiua1nr4AfcjaDRqUOaUvzcf1IMRB2xDRIriWwYk7fMjNsQ42jtB1NbZtgxoeDRu/1pDOFXai3z3ulSn0jqXP+E3sbxngFRARkSL2vmNlHMsqf9OYrNRLBDR5IWwm33BcG8Ghz+bAZvApejnPerDn4f4w2r4Ef+G6aPpvEUHz/cmX4H0hqWg+BD7+T2G376UdJ0g+SfCwZj3Xq50tf45XgadiBkvVzDvGxJ2U0Z8LNATSjbJMehb5QY6E4dnN91H3GLSoewvq0oS3dad/IWyZiOP+J1RoxB20c=;ShZ7fh2L0hvIFWaefKAsfg=="
+secured: "NPG0KD0o1hFF5UY5yBAn+9J2MoHxCW7wLQ/pG9jQV+h1J3Y9atLg9nvwhqqdheenRhlfoHW32/XBWFekLEDPbAYTKLiKdF5u6kzDOafXHEMt64DEick+CQ4YLxmEVPTsm429+1RUgymbJTK+djlY0L4ITl3eFESsWDi2bMZ5BVLpPcVWQZARGWeJUgZA1/lLBsA5c4BtMcubiN8qD8z4UYFSbrOVy3PNyGjIz94nwL+/L3ar3EFXifyIYko7BG47kl0j8ZKKqRFk250hR6kEWPAMSgMCr040KCMMe4pkLi47w07KOZgCUOsOGpZ9T4jrjyY2pasiWVs4MhsILoPuSRxD6AOvIYRvC+IxoPAx9oLGHnzXzfWA6glTpPOyk+GY1qRUetCiBh9Hh8gujFnlMGCNPuC625NKxfycMAqyQdDHWqbATTjPkBdbS9f3xamOAzKsZspIPZima8/Q0HEsy2aAAYgZ1BuZliqNpUyEqsurV32iwt70AhhVRFQWWHJXZFVxQaKQ8nbymK6hxfjQwQ==;JlzWXFfJfI/pB/0OOAe72Q=="
 ---
 

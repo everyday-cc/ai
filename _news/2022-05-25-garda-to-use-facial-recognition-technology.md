@@ -58,20 +58,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Senators Call For Probe Into ID.me Facial Recognition Database"
-    excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
-    publishedDateTime: 2022-05-21T06:00:00Z
-    webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 41
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
-        width: 1222
-        height: 815
-        isCached: true
   - title: "Facial recognition firm ordered to delete data of UK residents"
     excerpt: "Facial recognition firm Clearview AI has been fined £7.5 million and ordered to delete personal data belonging to UK residents. The Information Commissioner’s Office (ICO) issued an enforcement notice against the US-based firm after a joint ..."
     publishedDateTime: 2022-05-23T11:50:00Z

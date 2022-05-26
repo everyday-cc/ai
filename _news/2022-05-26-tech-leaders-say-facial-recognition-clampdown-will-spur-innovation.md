@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tech-leaders-say-facial-recognition
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/47c278fa57498f6cb6dfacca66029466bbf0ae82/0_140_4226_2537/master/4226.jpg?width=620&quality=85&auto=format&fit=max&s=a52403bcb19393cd53e562b4af829d1b"
         width: 620
         height: 372
-        isCached: true
-  - title: "Senators Call For Probe Into ID.me Facial Recognition Database"
-    excerpt: "\"Everyone should feel comfortable with how their personal information is secured, and we are quickly pursuing short-term options that do not involve facial recognition.” Now, a great of senators have written a letter to the Federal Trade Commission and its chair,"
-    publishedDateTime: 2022-05-21T06:00:00Z
-    webUrl: "https://nationalinterest.org/blog/politics/senators-call-probe-idme-facial-recognition-database-202565"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 41
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2019-10-31T102047Z_1_LYNXMPEF9U0RA_RTROPTP_4_CHINA-SECURITY.JPG%20%281%29.jpg"
-        width: 1222
-        height: 815
         isCached: true
   - title: "Garda to use facial recognition technology"
     excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."

@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Study shows AI deep learning models can detect race in medical imaging"
-excerpt: "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI system, most of our models, were in the 95 to 99%,” Dr. Judy ..."
-publishedDateTime: 2022-05-24T23:01:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-webUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-ampWebUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
-cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+excerpt: "Most of us have experienced some form of medical imaging, whether it was at an eye appointment or after a broken bone. These images might contain more information than meets the eye. Things artificial intelligence can detect."
+publishedDateTime: 2022-05-24T21:57:00Z
+originalUrl: "https://www.wtxl.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+webUrl: "https://www.wtxl.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+ampWebUrl: "https://www.wtxl.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: WTXL ABC 27
+  domain: wtxl.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/aeccbfd/2147483647/strip/true/crop/3253x1830+13+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F96%2Febe196d94b7d93668a2f406ee2ff%2Fstudy-shows-artificial-intelligence-deep-learning-models-can-detect-race-in-medical-imaging.png"
@@ -44,6 +44,6 @@ related:
         height: 400
         isCached: true
 
-secured: "m6j5Ti1hiU2RXqokis2X1uKi3URFz7MQepKexpjM5DmsinXd6tUo4Y6g++AeIBV/8TXyqfsROOOhT5yanHd3BBOT1bfB9gy3DJnuLHJrrLMpEmTcu7EU1RC+g9VumiPdZDxSveFHwKxKb4utLuHpvAKcT0s4BRDuh7LzLt0lnrwEVOCxVVxNfxcWmPPE/nW7HPT8XNeTzNnTgF5AtG8/iB0AuoI88Ta68k6UCJAZtwhNPDcXoAI8C6MplXJ9yEddDzI9EjsSkU9VJG4421u1FeD+JtwDfj7VOEET5HF7mfXDr3F6mRd2CAhuhtjpLlLAek/3q7sn5w/lNXJZSo5i59QoQ/m00SoXbzttqfp0hO4=;hk5oB6TEO5nZ1ifMXD6bFg=="
+secured: "POQa26utP6kuTBB6d0fIfLtHcd9DUm5Eh/9cscmJ77pR0VXfWa9ILX2bMM2zISp+IgMToznqnWKxk4gM/8bUxZwAkQogYaXgdYkP7F0k9qr0e1c7kEwM8asy2Zzl5TkwbEbTD4k/BB7oGqc4qMFC0yXo6f+CUel689nmX4fUF3QfDKxSQ1bkrWlt/gAf4+8ERMye9h8hLHQgy9ZPHHCDR7CCLX4LSMk8Vmm0K8byrwunZb3K3g5bmmZTTkQS9+ZdGKkvFQQaRyEJhLpyJFUKaNcLomJpHcGTiXeAnzxOBlnWxamGVbygDx/x01zuH3DgWP9Zag8ruA7hsxDIrai3O+ghw2y6MyJNJoppDYM5UQ0=;V/2+4jFEBC8ZCfMyocfbOA=="
 ---
 

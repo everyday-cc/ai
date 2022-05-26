@@ -7,7 +7,7 @@ originalUrl: "https://www.breakingnews.ie/ireland/concerns-raised-over-plans-for
 webUrl: "https://www.breakingnews.ie/ireland/concerns-raised-over-plans-for-facial-recognition-technology-to-be-used-by-gardai-1310561.html"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Backlash over law that would let gardai use facial recognition technology"
+    excerpt: "The justice minister has come under pressure to explain the nature of legislation that would allow gardai to use facial recognition technology (FRT).Helen McEnt"
+    publishedDateTime: 2022-05-25T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 53
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9bdafcf6-dc48-11ec-bcbd-e35b52e0266c.jpg?crop=2950%2C1660%2C0%2C154&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Live: Plans for gardaí to use facial recognition technology, Dublin Airport brawl"
     excerpt: "Plans for gardaí to use facial recognition technology. Minister for Jusitce Helen McEntee is set to announce plans for the use of facial recognition technology to tackle crime wh"
     publishedDateTime: 2022-05-25T11:34:00Z

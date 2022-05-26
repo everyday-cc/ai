@@ -121,7 +121,7 @@ related:
     provider:
       name: theregister
       domain: theregister.com
-    quality: 103
+    quality: 105
     images:
       - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
         width: 1000
@@ -250,6 +250,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/microsoft-ai.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Startup, Microsoft collaborate to simplify AI healthcare research"
+    excerpt: "An artificial intelligence data security company is collaborating with Microsoft to advance AI healthcare research. BeeKeeperAI, a startup specializing in data confidentiality and intellectual property protection,"
+    publishedDateTime: 2022-05-25T21:44:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/startup-microsoft-collaborate-to-simplify-ai-healthcare-research.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 71
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+        width: 460
+        height: 460
         isCached: true
   - title: "Introducing the Microsoft Intelligent Data Platform"
     excerpt: "It’s clear that the fragmentation which exists today between databases, analytics, and governance products must be addressed. To help organizations unlock these new capabilities, we shared several exciting announcements today at Microsoft Build that demonstrate our continued innovation and investment"

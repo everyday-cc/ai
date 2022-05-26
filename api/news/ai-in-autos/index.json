@@ -1023,20 +1023,20 @@
     },
     {
       "path": "_news/2022-05-12-google-offers-a-more-modest-vision-of-the-future.md",
-      "title": "Google Offers a More Modest Vision of the Future",
-      "excerpt": "Artificial intelligence is being woven into an array ... a time when Google offered a wondrous vision of the future, with driverless cars, augmented-reality eyewear, unlimited storage of emails ...",
+      "title": "Google offers a more modest vision of the future",
+      "excerpt": "There was a time when Google offered a wondrous vision of the future, with driverless cars ... The company’s biggest bet in artificial intelligence does not, at least for now, mean science ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.html",
+      "webUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
+      "originalUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2022/05/11/multimedia/11economy-briefing-google/11economy-briefing-google-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
+          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2022/05/12/google-presentation-120522-01.jpg/BINARY/google-presentation-120522-01.jpg",
+          "width": 1024,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1044,23 +1044,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/11/technology/google-conference-ai.amp.html",
-      "publishedDateTime": "2022-05-11T15:55:00-07:00",
+      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/technology/2059713",
+      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2059713",
+      "publishedDateTime": "2022-05-11T23:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "bdnews24",
+        "domain": "bdnews24.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

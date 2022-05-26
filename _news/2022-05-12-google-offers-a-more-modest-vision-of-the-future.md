@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Google Offers a More Modest Vision of the Future"
-excerpt: "Artificial intelligence is being woven into an array ... a time when Google offered a wondrous vision of the future, with driverless cars, augmented-reality eyewear, unlimited storage of emails ..."
-publishedDateTime: 2022-05-11T22:55:00Z
-originalUrl: "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.html"
-webUrl: "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.html"
-ampWebUrl: "https://www.nytimes.com/2022/05/11/technology/google-conference-ai.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/11/technology/google-conference-ai.amp.html"
+title: "Google offers a more modest vision of the future"
+excerpt: "There was a time when Google offered a wondrous vision of the future, with driverless cars ... The company’s biggest bet in artificial intelligence does not, at least for now, mean science ..."
+publishedDateTime: 2022-05-12T06:12:00Z
+originalUrl: "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future"
+webUrl: "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future"
+ampWebUrl: "https://m.bdnews24.com/amp/en/detail/technology/2059713"
+cdnAmpWebUrl: "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2059713"
 type: article
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: bdnews24
+  domain: bdnews24.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static01.nyt.com/images/2022/05/11/multimedia/11economy-briefing-google/11economy-briefing-google-facebookJumbo.jpg"
-    width: 1050
-    height: 549
+  - url: "https://d30fl32nd2baj9.cloudfront.net/media/2022/05/12/google-presentation-120522-01.jpg/BINARY/google-presentation-120522-01.jpg"
+    width: 1024
+    height: 640
     isCached: true
 
-secured: "kexqQmkhywDb9+36omT73azFTbBjm7xopNzTX8vnipeQuTe1xWw8jEXPegGqWUSOSh+uJAgjzs7RswCHrAljHsMP70H6oHB6sklyBL0jXOod4Fc1N8b8ymFXEE66YI97iPZoY8eXcbIB+qohf+H0G+dyDiJPX9NR7IWudWOVhDzDw+++Gu62eV1ECuGMAJVHJM3345f5ADwcZhxj/WE39ojdsadxagRe5cin0RtxQTyOhwkvcxeAa7NI8P3VyZTLl5AjP6Ysl+R33767KbT8wjvtA+HldpZswXZ++Dtpld8U9xRvXvXu6lNwrEXPPIMg91p/+b26RPuXFCLvLjZ8BlZwZNT67/qftwHMe0smOwk=;rnEpVbxcRXs6Azof32MoeQ=="
+secured: "6Zh5/3q6ktGWeTmsDFSXFKgfBD5hwbnkcZjL0R8NedEcplVzLoqZtNE2PyyJN+qG8nAVNaemHI9PES3zTumZXIGX3NLjyO947J2WkwIE8YDn10GKQrEHaRccWmkAfQDeEX+EMYgpdAssliNDxOg1E2Hb9sS6rVIRK05Z34j/sDbB6psZosMcv1HaenrM4GXMz4bX24eXwX58h0Ln+tkQa5AydO0gfseANptkI4dPEEx9Y1gKof9/Z/h+IdjQQDpo5JGVKsJ6+vp4kp7C90Zx1CXwl7/HidzHmvzZcf7qObzCAgQq50Snv4BQHgMHtMAbH41OAfkAyWLzSRcp3Z/A3wfuXIkqP4VJ0sLMJ8dHR/U=;8DnlxuncfHP5wQdy+Kf9tg=="
 ---
 

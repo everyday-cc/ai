@@ -60,7 +60,7 @@ related:
   - title: "PIXM Pioneers First Real-Time Computer Vision Solution to Stop Phishing on Mobile Devices"
     excerpt: "PIXM, a Computer Vision cybersecurity startup, today announced the expansion of its anti-phishing products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted and unknown phishing attacks on mobile devices."
     publishedDateTime: 2022-05-25T10:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9608915.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-pixm-pioneers-first-real-time-computer-vision-solution-/2022/05/25/9608915.htm"
     type: article
     provider:
       name: TMCnet

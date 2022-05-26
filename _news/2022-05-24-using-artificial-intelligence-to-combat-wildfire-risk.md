@@ -44,6 +44,22 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "Case Western Reserve signs license agreement to bring groundbreaking AI for helping cancer patients"
+    excerpt: "When Case Western Reserve University research showed that artificial intelligence (AI) could identify which lung cancer patients would benefit from chemotherapy, a national magazine called the finding one of the \"10 Most Incredible Medical Breakthroughs of 2018."
+    publishedDateTime: 2022-05-25T23:44:00Z
+    webUrl: "https://www.news-medical.net/news/20220525/Case-Western-Reserve-signs-license-agreement-to-bring-groundbreaking-AI-for-helping-cancer-patients.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220525/Case-Western-Reserve-signs-license-agreement-to-bring-groundbreaking-AI-for-helping-cancer-patients.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220525/Case-Western-Reserve-signs-license-agreement-to-bring-groundbreaking-AI-for-helping-cancer-patients.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 43
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence"
     excerpt: "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma."
     publishedDateTime: 2022-05-24T18:28:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
-excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
-publishedDateTime: 2022-05-25T13:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
+excerpt: "Corelight, the leader in open network detection and response (NDR), today announced Corelight Investigator, a SaaS-based solution that extends the power of open-source driven network evidence to SOC teams everywhere."
+publishedDateTime: 2022-05-25T13:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-corelight-announces-new-platform-deliver-open-source-powered-/2022/05/25/9609246.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-corelight-announces-new-platform-deliver-open-source-powered-/2022/05/25/9609246.htm"
 type: article
 quality: 5
 heat: 5
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1029859/corelight_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "wplrja4QG23sHrPTmPNxdtVeiyzief7jD+J8nHQn/5dhPvuriEOx+7Q8nwoP6cCzt/AN5is9EZK9MgLleZp6W5gIcOlQo9d79dsOhMQw0PrmAmpLKgtiF+oKiyqI/iC7hEW+OnY6kuVDl+YNEIsJ9WU0VB48eHdd6CHumSGaQqpexHDE5WduMn9oytYahuaZcnqKAFxyFW/0111cIbDToo2h6WOCuLrwNxDHqHe8X1/gMHTmAGOU+3e5h+dTMU3QnXXq/MS2ZuEkELgYsNVYRlD6QdHefqL+yyUQFu1rh+XJFv55OgJ+tjmwH68lxQI7315sm1tbmGJU0tDLjXTZJVJjYErZOdKuOj9HdmPywSw=;hjpUFYAke0eYlkEn54pE5Q=="
+secured: "J1ocgEoPLe+Wj27OTIGpFA8wYbTg7kif5Mhx0aDkL/+EzU1PiAfWcw6AjvcBVJn2e3mt6zdEOqcdTaE7eM9YDWVjApQynLDlZfPwmzp9IDpQcGT/JBOQ3xXbOKc6UV2fGQKFuM+3tNUAzLrVdqWgUOM/bgYrac5mNf1WhgiRX/xtW8g2ONgVVJf15hP3hEJcxSfyK1ZWmzUe1RaUcQwmmOaPl2yG0oghDsE3WCya/7mXvaZXTYxytphaGIEJRrY2IYR0r46Zs5VsCRJZ/Vcy+dQFO67vFBjY6Df0YmUJ/FZvR/jARVWIiE9fQylGaf2H2fUSPCAQIvjrxAb+krWuc6jbjJXroxFUvRviW4wl7vs=;1RuYuCvy0lIlGkXSlakINg=="
 ---
 

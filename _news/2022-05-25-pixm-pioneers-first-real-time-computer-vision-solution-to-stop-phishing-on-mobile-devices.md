@@ -3,8 +3,8 @@ category: news
 title: "PIXM Pioneers First Real-Time Computer Vision Solution to Stop Phishing on Mobile Devices"
 excerpt: "PIXM, a Computer Vision cybersecurity startup, today announced the expansion of its anti-phishing products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted and unknown phishing attacks on mobile devices."
 publishedDateTime: 2022-05-25T10:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9608915.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9608915.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-pixm-pioneers-first-real-time-computer-vision-solution-/2022/05/25/9608915.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pixm-pioneers-first-real-time-computer-vision-solution-/2022/05/25/9608915.htm"
 type: article
 quality: 10
 heat: -1
@@ -66,6 +66,6 @@ related:
         height: 716
         isCached: true
 
-secured: "10XZ1O7+YmaHtEAxXwZxBl3/GpuTohJVcvvCGJDb3jcjqJSiuzG0y08Hvi/CHzPWqw7Ox6z56qtXjtKDBEjFKbsrbDIdTckXmfbJyjNHnZPcckw+yk57oqHBJPiPQYV1VQtlDLYaCU1Q/szSmUIHGwB40NMjnd8A8FWPWNWAwZdJI2Jq7HJLrTNdxRXPe/wpuBEp1KfaDVDrFrcOKiuy8jwUhjhg35T8Z9ln0unzNBwoP5DSn/l60oYOgi51X8QRWc8zOA/oyymgFcqmFQis7EOIfF277h44xim2SrgpXemsTJqkI+wk3msPxudqii/ygqDolDHR/XC5pBZGtL7qPD0s3XKVr8omxFK5Dx0bjPTL6oYImGCBm+G1R8+4CU4JvppomMPhcRfg8CzNEt/ASwj2AMWyvhvGblZrTOLzDluSab+sO7pm23TjeBo7UDQatjCE+qe+j2l4fgtPSRMyao52uifKWDJ6hqD0sZX6RJlelUkyNB40/tBaZHCbTXdN17mm4IMYGyranzVTfqOqjw==;WbMvd7dm76a1a6fBmHzNbw=="
+secured: "WyXOA6SMd4I7BzYbC9qGfjWKrcW1hfC5EHGqsHDeLtT2jAH/6eMqH/schalK5IzTD/3cJvOI8YSzJOHfUXkuIo8z+ftMfLm7lHYcDa8baL9z0tIiqp/91w5MXyACWqoZ7qv5ZYzIaUfBJskSkLNReA6s7kS7soQX6gz2BUxbMSDRUdpSmpQOMQ0YAfuJnTPxgYajk0QdpjLEm0FYZjAFhFCqg6nsIZgsx5mO/jywGOO0ndVXlGoBRURPBBqEo4vc19IxedfpHoxxTs+2eEcksVttxbteFZHiSqxP9XjQn62MA8zm2cg/WJGJ0MKJvgJyiiJQIjOD8dYy+a3u2aH8t2fefQ4Dj1xNzFmnbT+BwrG7x0silrtytYvI2z0lR9xZXXF+Zl4jJMaq+lxha9hPkqcdLG2JPpcsZ2Z9u6ECfHQXbT+zAXCQPyqKVHCcWLZX8bu1dZ+1eR47ysXgYREuLbdHDkuYGxpzAF3R6mUN5u5aoWqWFqB9QGWa7ySQXNvTV0bIK04I3fiKzdhGnTursA==;Ra6uvorxNq1MvLwT4QI3Fg=="
 ---
 

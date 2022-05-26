@@ -77,7 +77,7 @@ related:
     provider:
       name: WBUR
       domain: wbur.org
-    quality: 57
+    quality: 59
     images:
       - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/linderpix-WBUR-OnPoint-6815-web_1000x667-400x267.jpg"
         width: 400

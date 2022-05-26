@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-26-meta-taps-latest-azure-virtual-machines-for-ai-research.md",
+      "title": "Meta Taps Latest Azure Virtual Machines for AI Research",
+      "excerpt": "Meta, formerly known as 'Facebook,' is using the latest Azure virtual machines (VMs) with graphics processing unit (GPU) compute power for its 'large-scale AI research workloads,' Microsoft announced on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorSwirlPinkSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
       "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
       "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
@@ -1283,58 +1327,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-congressional-candidate-greg-raths-website-copied-from-lindsey-grahams-campaign-site-nearly-word-for-word.md",
-      "title": "Congressional candidate Greg Raths' website copied from Lindsey Graham's campaign site nearly word-for-word",
-      "excerpt": "The website for California House GOP candidate Greg Raths copies excerpts from Sen. Lindsey Graham's 2020 campaign website nearly word-for-word in several places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham",
-      "originalUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f73c356a-4992-4416-938a-f0c29380a4ab/749b2469-cce3-4d1e-b045-4341fc5b1e4a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham.amp",
-      "publishedDateTime": "2022-04-15T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

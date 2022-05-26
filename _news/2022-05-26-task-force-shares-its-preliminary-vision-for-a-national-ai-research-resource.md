@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/ai-resource-task-force-vision/"
 webUrl: "https://www.fedscoop.com/ai-resource-task-force-vision/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Taps Latest Azure Virtual Machines for AI Research"
+    excerpt: "Meta, formerly known as 'Facebook,' is using the latest Azure virtual machines (VMs) with graphics processing unit (GPU) compute power for its 'large-scale AI research workloads,' Microsoft announced on Wednesday."
+    publishedDateTime: 2022-05-25T22:19:00Z
+    webUrl: "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 56
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorSwirlPinkSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Startups are likely to get access to the national AI research cloud"
     excerpt: "A task force set up to design a would-be federally-funded resource for AI research published a preliminary report today, urging that access to the service should come along with an ethics review."
     publishedDateTime: 2022-05-25T19:45:00Z
@@ -34,16 +48,7 @@ related:
       name: Protocol
       domain: protocol.com
     quality: 21
-  - title: "Federal Advisory Group Report Focuses On Diversifying AI Research and Development"
-    excerpt: "The National Artificial Intelligence Research Resource Task Force issued a report outlining a framework for national AI research and development, hinting on equitable datasets and computing access."
-    publishedDateTime: 2022-05-25T18:32:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/05/federal-advisory-group-report-focuses-diversifying-ai-research-and-development/367397/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 12
 
-secured: "tc6ljGMqiFIxulqEUrG4yKuM5A2taR2PkvL/NxSqXjwhyfwydEl1S5h+D8rWDzo+hgltahWiZFdmWDpAPZMI42MRjm/7UFj0IehCpEInrl1bPEZTA2hqEVxEDdtxP+U1tUns6u1nz0gypRTKPzej941LNYR4zuZQOuUSL+LcjHTshL8ovCEo0Qsy6jRQzNcJJoc9EXYiYlIbX2J+MJtQw5mTpoTSVKzuUsinleS4BX7qVDYsCbKXCAEi1jBVzvgaQaV+3nUMKCx1YunihPHK/sbPCKncVILNr3Xk7OKHCC+IUZylbhmswsvq5XeDc+yaECZD+0mvilPNxQsjONbkVZ731vNup+5ElVx+dzq+lO4=;huYFSSL77W4eaq33J3vAvg=="
+secured: "KqiVYSeIyD39snjjZeFYrnZvLtduA1c0M9JoMLJEKp4Q2aKzN7F+TzGhO3LwfJlJ8y63pkljMzvILGjIbLeMqwVjE4IyWgqZfRRjrDG/YsL33pLxysl+N8nx4UBYdzVFMzG4Ag8zE7lOsCw9+YTGcz1fe8ORSmClTvY1SsAREhfDig+22JPCzslQ7M/IyWbrtLQ2YU3kmfKVUgSUHPfseS6Qe2jQLEEHWzTtSU19vscBnb6YXtPH7XUmp2vgrgZ2cP6MBu+VeU0PMPL3OjDANGctX0j+4kKPJ5d46et8M/F1z4mzeDrCg2yD8rYy6dXIAuxiDNKZt6iWQQVgXwvEwcKp7D/sA23dWF7FMEh54XuvRImAWv3+enkC7G659UCX92cIu/oWBcj2xkpCpEpn8oYoUBGTiuoOe5WzF4+l6H5OkdlvUgLhLryzg10EY6ElFTXaUAzo/lCmmYqDGBpq6JgUu84vH6IXGZSFoH0Ky7KssouR7MHnyKSpwHohKtKsyR/ZgI7GrnJKa8zyim3wAg==;+R+zyb1Yr5FUSrvb7CcPjw=="
 ---
 

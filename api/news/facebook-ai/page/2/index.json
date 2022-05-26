@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-16-congressional-candidate-greg-raths-website-copied-from-lindsey-grahams-campaign-site-nearly-word-for-word.md",
+      "title": "Congressional candidate Greg Raths' website copied from Lindsey Graham's campaign site nearly word-for-word",
+      "excerpt": "The website for California House GOP candidate Greg Raths copies excerpts from Sen. Lindsey Graham's 2020 campaign website nearly word-for-word in several places.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham",
+      "originalUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f73c356a-4992-4416-938a-f0c29380a4ab/749b2469-cce3-4d1e-b045-4341fc5b1e4a/1280x720/match/720/405/image.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-raths-campaign-website-lindsey-graham.amp",
+      "publishedDateTime": "2022-04-15T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-at-least-150-injured-in-clashes-at-jerusalem-holy-site.md",
       "title": "At Least 150 Injured in Clashes at Jerusalem Holy Site",
       "excerpt": "Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque.",
@@ -1338,49 +1390,6 @@
       "provider": {
         "name": "KXAN",
         "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-jim-isaak-think-more-click-less-to-thwart-ai-manipulation.md",
-      "title": "Jim Isaak: Think more, click less to thwart AI manipulation",
-      "excerpt": "You can choose whom you do business with” — he points out that private businesses like GoFundMe can establish their own guidelines, in this",
-      "sourceUrl": null,
-      "webUrl": "https://www.unionleader.com/opinion/op-eds/jim-isaak-think-more-click-less-to-thwart-ai-manipulation/article_74fd5148-f1a2-52d0-be5f-c324e731474f.html",
-      "originalUrl": "https://www.unionleader.com/opinion/op-eds/jim-isaak-think-more-click-less-to-thwart-ai-manipulation/article_74fd5148-f1a2-52d0-be5f-c324e731474f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/8/57/857171a0-ad1e-5411-919b-2c7a347aabc5/622f633a9359e.image.jpg",
-          "width": 382,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Hampshire Union Leader",
-        "domain": "unionleader.com",
         "images": null,
         "publishers": null,
         "authors": null
