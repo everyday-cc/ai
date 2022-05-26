@@ -2,7 +2,7 @@
 name: "Algolia"
 overview: "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice."
 type: "profile"
-heat: 104
+heat: 153
 
 website: https://www.algolia.com
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=vDsOQ58TrI0"
 
-secured: "tS1hzP15SOZMVoWb+LYyydS/2ABIw8FfgorZMmw2xHRY3zlXWpmk0kwDEjcXDn09KkKdFaqHFmiXYLMrFFPJvBeohwR7jQg5K/7qxng3bwrSsssAbP8yON2Ojuse0bmINELrXtOp+7IhTaEcDzYcxn4S1VKRovKk2XsGaznXYSIYYrl9Ox6kV3E4nqN62v8didxnhOoB2H2OET8aw9wYsynrJtqTnMpdL5eYlqMkksiTReFCNgL1mUSk9o6ccM2Ma83yiUNFexKnW7Szf5xhHXvsueRZ4V5/Expx0fX+L4621LsEFifP7gLyNTZXkEALQG79qwz+TG3aI7LPjKoebs+sm5SYxCxI06NhCXnJNXw8GjK1TqA6M6wq3O3XeFaEgC52sXxqHQV3fqX5Ghbph5SkEohdmF0kA6SS7t+IwpY=;lEod/oCvmes3rxILgdoYyg=="
+secured: "QjIg5eFtZ+wRiB2rn49vE70M5K5huqFcgBiXQYR3B0c2FxdUM79iwhywWmol0N+JKeUhZWVGsnxZLvxEJ5AKVgKfbOpA0rFCmnRfisUrYG7AX2pU+4F+SjDTG6VXt2+6fYdktW/2Q9NVjiaTkb8AxV2TARhKMk3ycSznbClZzCTeSs28FWMKj1t0LU/fw89jb2bRW+Cm6RjB/7gPAJ7/4PeTfMIqTes5Q+zHNl1g0nHZGktuatstdWOk1oTbZX+7xk09fz97l/t0vyjFulUfIH5u+ZmXD76K1C2k8MtKUj/o7eSopvK3HBfY45HfOyb59TcKf9AUpcIC4ngnswQME2TWBXI147f/P3ysnRgTJAZDIVsTd+gGWWblH0rXi5c1DY4t6MYVR95EmzvNWGE7YcHxDH54JkIiIebAOEqUtec=;AmS4CVsQWsm/uQXYiiV4Mg=="
 ---
 

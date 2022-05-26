@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ROSSIntel"
   url: "https://twitter.com/ROSSIntel"
-  followers: 5286
+  followers: 5285
 
 size: 11-50 employees
 yearFounded: 2014
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ZF0J_Q0AK0E"
 
-secured: "QljGiigQzVtwsijdI6A2RBKtq2i8VaowMxtnv6KtJ0Vj9ViE9nIhAR0P3jN3xLH732eCRr5Smyn2d6tnyH7DrkodvkRGG0eMCUPG5+FBKaK3aUxZDbKDUhSVbqa/xCW9x+o9LJ0yWyVQuf5td8vB2HwR1/TS6FLyuYgmZOdgOsBfDazRhPnRyFHlHgSGCIfflhd5v3zVaREOr12DDTMOsWrSl7fFWdm0E/AAxT+/DFKos/JaAFHAIV2PT5chArrA+8h7wvzK4xAEgeWipXeeBGwTV8MkwX1et0kwUplZgnBmkS988InmG3lAv5oPbyxRKV8PAQPG2yOLYX2bW5TZDUzY/YU5upDj5U/OVUQRilrUlcYaugmFXAOqcZf5j0gROfYS9JTKnNqeWz5U0YOUbQ==;dV9Z1W5HP0AaNKL2g487xQ=="
+secured: "xPPDJqdzVx5h0/KnQ6al0a/9V5hktw2/8hbFZTQXQVIks+6g+Brb078ZoQaytjkblrC1I46lpnQNvt4E5i+J9J4G02ux41JwvYR2uHlY5NzExwKeHjwNJSGBNpBlICpEE9epTXOrjW+m364Yww2LxN46YxR9LQiegODfF8XoKLMPmJGuPgbkMT/NUSDoCYCvtZN+PjyploGBBXY260H+SqIxORy8cRgkQLgocPT6QjL80soqhfwxOMpk6PjzTF+XWScmla5lEWx7Q2IiM10565vJ/ApNSWKWEsTlY3rBl8Z3WbFQexn4J3jeDUAim/9QRBCi//qXoiGNJMBoeKC31AjFOicTT/w4WDxzy6v+SMenrBk+yrcicv9JbxBhnSKDDQ4thZF5GG9JYcTekSgEriCW8mWbcuv+GmbdsoGlxgM=;u39jWmssf5J4TjZ51fxg7w=="
 ---
 
