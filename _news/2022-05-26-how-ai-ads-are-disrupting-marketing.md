@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - Facebook AI
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1652888428-GettyImages-1326464894.jpg"
@@ -82,6 +83,6 @@ related:
       domain: arabianbusiness.com
     quality: 17
 
-secured: "wADN7cnW3dqGKmCRsW5HHFjbSsyfQugP4cLee7WPB/zx/HBY0h0F+/oqvFcVftjfflDWIlMNz+ImqlU6/ThvWsXCGmfK7Lw93VqEQS0DWXreqKJpbcDERpe3h21MRy2BQl+nQe66+a9EkIN4HoeIessZYSD3ALPxqL+nXJtMjr9ucsoonBMFjUAj7yf85hbizZZ2o6oD7VajlsDeUZ3sCOoxRnA8KMJzl3nfxO0nrs03uEP6DN90tRwrDs1YVxG2EFnxS701V88kUTQB+l9pSZ3GLYT0RkjYRZIkEDQ2pXo24KpC3bW/wHNusUSgTteA+0DSRkbTBW0Ublidcd/ixhgi9mDXoeVrrvMJ6AUDR7A=;GOlExRRMOZCUaXb3koHoNg=="
+secured: "IqmOcAt4ZaLxh/u2R3/n2ohWN7BAajMRf06YG0GwY6Tw/H06p1xzOWtNEp8MOcbqEjDzwUMZGFhUHnF99GjNhKQhaqRTrpQjyqUaKLrUVEAbArrtK5U3pEFjV1reSwleve2b+KbecMpa01HVewQBaGjlw0YGKgpHlF4nHeF+wNynppGx8VCst/PXuJE/XkW1x/PI+ePHhpBMUgnrvubQ3+5nIT/fI7A5j7HS8SpXdqL/4aQvq/mLBWqmeH/h0wkdZZGMK1IM1Q3/PQn3naNIv4ZeOCbOtOnbAliFKsWPJUvZV4bXF931cGeASpob6BF/rt5hIibze1L1cGHfd6P9d3gFrDrFKntTDrmly+BnndzBLMPUyJbGsk3JIxXun0WVPxUtZ5n7UCD3ybVF44qacP6AccWrDZjp9CIqtuHHEvwag7X6dPGqE9YGUhyu/nntVGtGhDuF97yaetaSLYQOBf7TG9rFMygc3psvtIWl/fXL/D32YaqYRgBKN3PTlcRNhPl97EtYV8/lFmnXonQK+Q==;TFOioZPulsR5PN/O3PFaUQ=="
 ---
 

@@ -1,25 +1,23 @@
 ---
 category: news
 title: "Create Personalized, AI-powered Social Media Content with Predis.ai"
-excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly. PUNE, India , May 19, 2022 /PRNewswire/ -- Social media has brought about a revolutionary change in the way of life and Predis."
+excerpt: "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly.PUNE,"
 publishedDateTime: 2022-05-19T12:06:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-india-social-media-aa5c53006200808283c597860d13c9f8"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-india-social-media-aa5c53006200808283c597860d13c9f8"
+originalUrl: "https://markets.businessinsider.com/news/stocks/create-personalized-ai-powered-social-media-content-with-predis-ai-1031475434"
+webUrl: "https://markets.businessinsider.com/news/stocks/create-personalized-ai-powered-social-media-content-with-predis-ai-1031475434"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "2iS4gk7LD4/3ETwaa7VBG2GAY65MWXbyLWn6gEs+f8Ib9iD81o5RX5XYNY9byZxYWTgFSWzL+kzUhs4e9DYcdw6gOlkK1WyjU6itt1cexeL6vWeXX36tw+hTpx4JkItAUj5O9peXLAv3XAD/JUohxOzxHbmTnYlzGxD+yCtW6G8A7qDA+xK9c/IyPgAfF998d/zIMaUKVrDC8Zpw+c4f14C8E3y4S9GMfghtvca7nRHNZMvJOmnl1J1BLZeSXfHlDmCoQe5OTQmKvmdjI637CDjy4mX817J0EMmMPlyhcgipEz6hBy7+FF3DH85ABb3g5tnq8zh0Ef9w0o6e/xTB1iKhTfI3l84ikr4VNrG5Smw=;x8HHurYb6DiK7CJVqtAk9w=="
+secured: "tafvTU1d71FLrBMBYYzzFRFFEsy5PQC3nNDFt3vhhkFf+MK9NAa9zBidQZGReAYRWeBqSzsH3ZDOhgCDWH4XElESwDb7iLKbx8yrNVsYLTcbIrLfX03bRKIoCau5qAdg+LTrUiZ9RXx8VbEcK+YYEIBf6fji46q6FSlCy5MuAfc5PBZ05RQqRJKo+c5+wu+VqA1bjbEnuC/enOo7/l2z34HKo1eUOTKlQdJg81m/I5hDyyHFM1txA2d+12D/RjE6ZnCredJrafC3R2eSOjkO05UIoJShkxsdvdfJ5CLOMPyOrNiFulTxEozlc1hGCaRy9V2EAc72fUY9TBsqHexyem75wSg24XCrewdjU3+PFeE=;GK43OPtTJTrT4LrFTaFsYw=="
 ---
 

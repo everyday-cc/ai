@@ -1,24 +1,20 @@
 ---
 category: news
 title: "CONTENTGINE EMPLOYS ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TO ANALYZE MOST POPULAR AI CONTENT AMONG B2B DECISION MAKERS"
-excerpt: "RENO, Nev., May 25, 2022 /PRNewswire/ -- Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by ..."
-publishedDateTime: 2022-05-25T13:50:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html"
+excerpt: "Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by its Content Indication Platform (CIP)."
+publishedDateTime: 2022-05-25T13:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-contentgine-employs-artificial-intelligence-machine-learning-analyze-most-/2022/05/25/9609252.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-contentgine-employs-artificial-intelligence-machine-learning-analyze-most-/2022/05/25/9609252.htm"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
 
-secured: "nbN0G3F1O6RjmEd7c/xxaHGX64kX6r3azQdrY07ZFgya/d4o0NL929xIcr+QQP+ilW68G0AdacRTNkR2maLQQNrLSsyLGQ/KVEIFhd+oYOvhVgbB8kN3YlSvjJLTmVEICZWlisYwontVoh9cSCgyVPGACgXOwDKPz8FlkD+x8VC2E3dAEPbpDIESDfDyqJpICaO3Xy4jXnO5zkB8qOYUwUqA17tzZ58GG0GqkCRb6gZWpznFNtLFKcfk+Gs6J1Nh8I/hCrps7egwlQH7TV6dygAla2VY+oudtTwuFWmxjLfvEXjtaDQCpEPmZxHpCOTIU+TfyRmlQwu9Bau//FonYMHBZViaYdIL7kM6zx3Pd0B401Z6kxngp04NJdOYZYHWudIAieYVKGsB5D0JY7ACBxRLwPxQ8c+gS5YQWxnQG/oD4eZjgoagWLfVEN3VTsnZoy8X6jpzsAeIsd95Bv+nXSyy8gx2eRryQu5XY9EnNhEZEDH1D/NzzRQakzqTUL/DPhcCAr4Rl0Vc30HlTxwn2Q==;R6mboHy4b/gbmND8Q6rQPg=="
+secured: "S9cxBvLNDxl/owHsJ5EQQPTW71/1G6SKER0O/fvMFQ1cj4zV98JHWnwHYY8r/q8m4oYdJ4/T0R2Yq1BJ5supcCaaKxtl9PYpj63xT29tPmB/nzfJ3Rn9UEXd+Endht0jQDAFTxNrJ3JbWjLa3lCwWYnhpqcDKSAmQrJbSu4lYl6ABsIeW5K10ybVixFWv4KciQ36gVfMyeNklKK3/ftzvBumaywW73x62LWjyhWvNk47ap5e8n8akxVu6HdJexMJJGXEwabHK5X7xsghCPQhmkkGbx/ulEAbn5Kjfm+SRG4j7T9yDxJZxBwdRV9pn5pHrHVQti1YUZGJ7+SvxlE8n+UTE0Hw+4anCVQSN9Z7Q+4=;GAgVuHGtRGyTYaUs+Ehh+g=="
 ---
 

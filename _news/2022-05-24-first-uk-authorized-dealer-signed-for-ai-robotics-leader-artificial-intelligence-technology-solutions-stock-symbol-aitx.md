@@ -6,9 +6,6 @@ publishedDateTime: 2022-05-24T15:36:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 type: article
-quality: 40
-heat: 40
-published: false
 
 provider:
   name: Daily Herald
@@ -17,8 +14,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
-  - AI in Healthcare
 
-secured: "R1zPEGEKZi1tPWl4hGMzocr1OxREPk8eTsH+GTugd6koVyTvl21BkQvoWCv542WsMMpxpHMJw6GEdLX6jnrzOyMYM8niMWetMcuooc7GJ+HpC8po8ibWI+fNz9tGwxZCrWYapWsGa6HjLrMGX87zj6urceQYB60zW05pNmUMgQB0n5nGY6UPsKRqwVqCYHq8gwqMxL5+JfTkm4Qs3Q97d1xj+HXAuzQ2jn7R7dOCRhHjoTZzOPsl/ZmDWbV+VIXr9TXd4zU71O8ddIWDwoiwWThO53WxXhMOEo5uCSOt6Tg2XJ4OKfIoSU3/j4YZtOxbxS7H1cFTU4BXPuRM+VJ6ZzzbtjZfiHzsC37UxBxlqnXN5WsU8EvGj/Vcwx++uNtZkrLzdnZq5UCuf7iOtG1/F+O6ipPSARyIT48YsRSmP/UPoNh0Cp+VbLv9ePEmKSZU31kb3o0vi3e5lRkcU4ZtqG5SROQgGlfLApcd3N3SnI5psgInsZfQuPmHdYuB7TBpws9Ymme2ZaTshxh3AFEs6w==;cfewyLzezj+1j3Gq7278ig=="
+secured: "C0NWNWhWWbLohGvW+kZ9QTQm9F0xTIb/4sCMDu6Hc9cU9s7pl1/nUZ/RYf0s6iru8Lrxx8uWb0pKm0Agee0GbZds45jeqWxzS45BwNFbmkXnZU1bycNLOwLdMzjJW0fiuVcbu2DjEhzWmYOd3auo01O4DX1NoavMsvofmO09lm17IKKm1X6r/bpLgnMhI8jCZE+uYBhw7/iHFUbAHTolm8L3Cbr+pCGrb4QDA7Z68B565uATc5GKTZ2ihGIZ2RAIu43GXgJinWHfGMtjEFh1CTuFklW5Of3y3NXSpPgMWaV7kWLBat51FwzSoGCS67Jm1vBcH3WC6LnoyhY6IP2APYs3Q96XqkQE8Iy9SU3SWLH8gLkET+43sFWOBIWEEKrrfrMZh2tLMvGTFLzRS5ZOmpUiZlIKFClBA+sNZjq5pVx/4Jo/Vu6pVlbQULdClRhDdSKQ6lp3TMPhvSqCKM/Ex9O4SeW8dfaDTJdl/mPt4IS77+XqJI+yhP5Kfs/Qsx2qsBzBfEcsBT9XUEqFF/NtIg==;cFqIBwumLJR1NRCOCtXgQw=="
 ---
 
