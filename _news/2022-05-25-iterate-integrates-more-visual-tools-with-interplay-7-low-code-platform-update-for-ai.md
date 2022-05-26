@@ -46,19 +46,14 @@ related:
         height: 338
         isCached: true
   - title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
-    excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced the launch and availability of Interplay 7, code-named “Spirit."
-    publishedDateTime: 2022-05-24T17:37:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-8cb31a903be9c442c44450cdbd230729"
+    excerpt: "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All"
+    publishedDateTime: 2022-05-24T17:42:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8559031/iterateai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 1
 
 secured: "G9nFX0iNMPKfybfi3rZIJu5A1ZJFPa0lv8fEvvNajTeyHqZK4X7sIa0NjAmrIWxJ2yVChXw1cdYqR/XVBxrNxnUZlRCftN9zw0qwaJRzmoUBM9iVb3xg9j6D6QYY1TOoZrtmbFRngWyeOVBwoTAyTYFg8QEDjh8XXldnf7M20ZhBQum2XBSnGngnWfGuzojhcUskG5sA+52MoE94UJg9U/0u2JZx8ESR1OoBq8aROcGrhf0k3sQmL2bFBnH5zFonHWNOIQgYXzhOyMhV6JSUfB21oIYvz8q7A4La+xcYT4YkR7Z+k07OGVEEuj2WePX1/iF7RrD6jhmtRM11ONUHw+O7nSfNaIwUkwqlnoCy6gCGBJ57JmJP0J8kFnKvHzWLN3JqSpOh08uc2nrO1ZknNdPfCErqkgF+K0iIMNA6bfF9pBGrIetEDsFxDj/5VdfPExclTX5vqX+ZCPyEBk0Q/ebyj5n3iGk9ll58gPGw0K9Z6VBJzmWOMxDYws22/quaW1oVLSWId/ZR09CKBlTlUg==;onh0RC8igWZzVzT6fczt6Q=="
 ---

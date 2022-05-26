@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/technology/ethical-ai-a-challeng
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "FPGA chips ecosystem mature for diverse AI, mmWave applications"
+    excerpt: "FPGA (field programmable gate array) chips ecosystem is getting comprehensive to fully embrace HPC and wireless communication upgrades, as XilinX and AMD have joined forces to enhance their deployments in the chip segment and Intel has also released new FPGA chipsets for non-consumer applications,"
+    publishedDateTime: 2022-05-26T07:02:00Z
+    webUrl: "https://www.digitimes.com/news/a20220526PD202/computex-2022-fpga.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220526pd202_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "VJFLpz7QoYuXdjx0p23cnNCgEGBVfI0fTdsXcESatXoB63UJsGAf7QkLI8WLslGlVcVAPjtlIuN+WYhwy+p+16pI2d3xEfVKZSr+8aLHjqMFiPcTH+wbLbbeZC34S7qG9d2icLr1fh6ylwXu9Hf1a6/fgTMxrmzlTetA6bs3BY8wuK7wfhZZTRDo8PFhNbzm8msZcIbhcJRqDf2VfB062lmLQNpG8W1vbqlsU6y9DsCBptOpx/WvlWXRdHqCdYlnsJdZxc2CsMFeoJxud6RsKWbac0LVwdhnQG1VS25F6EedBVBH3bDLYjE6gN//f0E7oxJN8rTUZCVKppksvVLuXsQ46Oyd8YloJh8mzaWXhE+ZTS9XLnYWACsNI+6VABdRtctEX6dcRkRV3KMdv2Ui03yjv/YgNKkuX9IWvolrP4v/6pdG12Xqx+QnDCyTdEwExQC8nPCYwJd0oGFaPNXeeYqWngPPBcHJLDnOQ4tBG2ulzKHEaXuBeAK/2RKu+haBPRpN+8fKiru4ZoOBS1cXBw==;wCEHNFKZEjuSNkB6Yo+rHw=="
 ---

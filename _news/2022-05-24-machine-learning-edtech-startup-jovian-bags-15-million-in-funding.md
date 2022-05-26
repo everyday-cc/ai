@@ -29,17 +29,17 @@ images:
 related:
   - title: "SA Edutech Startup FoondaMate Raises $2-Million in Seed Funding"
     excerpt: "South African edutech startup FoondaMate, that offers a chat-based, AI-powered studying platform has announced that it has raised $2-million during a round of seed funding. ‘FoondaMate’ takes its name from the isiZulu word for study (funda) and the English slang for friend."
-    publishedDateTime: 2022-05-26T07:32:00Z
-    webUrl: "https://www.itnewsafrica.com/2022/05/sa-edutech-startup-foondamate-raises-2-million-in-seed-funding/"
+    publishedDateTime: 2022-05-26T08:04:00Z
+    webUrl: "https://za.investing.com/news/sa-edutech-startup-foondamate-raises-2million-in-seed-funding-2561828"
     type: article
     provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
+      name: Investing.com
+      domain: investing.com
     quality: 37
     images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/05/FoondaMate-696x452.jpg"
-        width: 696
-        height: 452
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
         isCached: true
 
 secured: "Moc0m6Xi8rUrL0169oD4wLBjc7mFcIWNIbCYUKdsLXb1vrEWGCBL/5x3X//pdyOp2iKi0eX87txY3i5Swd0cKA/29UaRTUploTQfeQksdNJRa0Ps11yHr5SHKPnOXh8irfOjjgRGIjmFzL4RBYahQV/naFejscSue2jnEOEq/R583wf/ijzx1L1Pd5eEaTLiyXQ98BSYZPNKd7SLIvzl6vYhgciCOCGPFQGsVeQNUfIujLHPWE/wqxA6tzKcqyIpxuIn0Z68TyfRHm8K3eQ6aPX1ceucqJo89lsSIvu1+ds6Rjf00sPwSIG+BzR00tjXBSJrfudQltqXCoqzrywB7U2DWwbFynPbwNY0Xzyr1kDE31tjW/mupk+bZ3xU1GsBt9aBlmkE9qOosqOIIwIvtu4ujFdk5xNW3FZNq7OTp/O5mIQQ4DhMKA9aOfZe02b4m9e/LuyDjiiKWr/B5k2LDaaLeuKAGNv2nXod4QxM7GIi6dgp/0MejWx5TGm2usm4qEGkUCo1t1SZcuLcNXVG8Q==;6MRQvbd7HmizUDRnhjx+CQ=="

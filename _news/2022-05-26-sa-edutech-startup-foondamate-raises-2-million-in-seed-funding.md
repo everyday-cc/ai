@@ -2,25 +2,25 @@
 category: news
 title: "SA Edutech Startup FoondaMate Raises $2-Million in Seed Funding"
 excerpt: "South African edutech startup FoondaMate, that offers a chat-based, AI-powered studying platform has announced that it has raised $2-million during a round of seed funding. ‘FoondaMate’ takes its name from the isiZulu word for study (funda) and the English slang for friend."
-publishedDateTime: 2022-05-26T07:32:00Z
-originalUrl: "https://www.itnewsafrica.com/2022/05/sa-edutech-startup-foondamate-raises-2-million-in-seed-funding/"
-webUrl: "https://www.itnewsafrica.com/2022/05/sa-edutech-startup-foondamate-raises-2-million-in-seed-funding/"
+publishedDateTime: 2022-05-26T08:04:00Z
+originalUrl: "https://za.investing.com/news/sa-edutech-startup-foondamate-raises-2million-in-seed-funding-2561828"
+webUrl: "https://za.investing.com/news/sa-edutech-startup-foondamate-raises-2million-in-seed-funding-2561828"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: IT News Africa
-  domain: itnewsafrica.com
+  name: Investing.com
+  domain: investing.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/05/FoondaMate-696x452.jpg"
-    width: 696
-    height: 452
+  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+    width: 251
+    height: 282
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "sM7JGrKzcDn9bc5Vm02p60fYI5jfKPqQONTL7ONeQE3IQLfrWq9Hs/bfzjc0++C8crWEDymZrrPVozX8fDnpq/DeXS+ewm1x3Yb3NXuNEJhRn4X3jnbbXAJPAYmx/+X2bmEQeCyMPm3LYB/2FgXSylBXhlVzc5apDpivLXOTBS3u+RBaGryD7BPv5pSgYCA58adYuGz0/LNtcNiUWwE1Pc69p+5lV58tW+ZNfRoxkN7sODUG/rCje0o6+qWGZO0kZKI8tzRPe3ANIERc6D/hYF8FE0p3QB3dedu+ostnv2zNiIPw0/tU9uQfKOQMbqhg857pDKiPgGsVc4PxRNatfnZ6axU9mrRL/sqKpdwOrJQ=;noS5mo2S4hTDNg/I5A5jtQ=="
+secured: "p/Hal0JJ9D/9j8ok9fX4d0Zj5+EWxJ/pslqSiq8hTnz+E9EyyGX5z5/RiAh8mOGgViwwBT0BBYDDyaTLCwj/FiXGXCqD4PtY98Gy8GAMu5WvHm4HkkUOtS80F2yzDRk9La4Y+J9LQhQ6gv78Ti4bghqCb/pNwg5iVSdHmuiyyj1FUoGVAtn/MgVpklqbkdPtZjEWx0Rv3Zg86Hk2oS54l3Eg5Kufjmehbi9+8HEwbM5JTBs/ETzlmSsOL+RJLRuv3u9msPORNg4zTEjYunQ1pf/VqgzGD/tRkrfpEJFeJ80/6TGmx/a3Pjl50RPqKWxwE+drbQHp+aP+8BgL9aBMgMivbPPD8zPniaPF+KppPQ8=;ExDXkNG7bhKSWPE2wJp/OQ=="
 ---
 

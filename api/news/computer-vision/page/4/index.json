@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-15-house-panels-probe-government-use-of-facial-recognition-software-following-security-concerns.md",
+      "title": "House panels probe government use of facial recognition software following security concerns",
+      "excerpt": "Facial recognition software was most recently used by the IRS, but that was stopped after lawmakers and privacy advocates raised concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wvtm13.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "originalUrl": "https://www.wvtm13.com/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22083569884056.jpg?crop=1.00xw:0.846xh;0,0.111xh&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wvtm13.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "cdnAmpWebUrl": "https://www-wvtm13-com.cdn.ampproject.org/c/s/www.wvtm13.com/amp/article/house-panels-probe-government-use-of-facial-recognition/39728621",
+      "publishedDateTime": "2022-04-14T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WVTM 13",
+        "domain": "wvtm13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-cogniac-deploys-ai-based-machine-vision-at-melcos-city-of-dreams-manila-integrated-resort.md",
       "title": "Cogniac Deploys AI-Based Machine Vision At Melco's City of Dreams Manila Integrated Resort",
       "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, today announced its partnership with Melco Resorts & Entertainment Limited (“Melco”),",
@@ -1259,49 +1303,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-tsa-continues-facial-recognition-rollout-at-airports.md",
-      "title": "TSA Continues Facial Recognition Rollout at Airports",
-      "excerpt": "For five years, the Transportation Security Administration has tested facial recognition technology at select airports as a method to automate identity verification at checkpoints.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports",
-      "originalUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/e5bdf5f/2147483647/strip/true/crop/940x490+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/tsa-continues-facial-recognition-rollout-at-airports?_amp=true",
-      "publishedDateTime": "2022-03-28T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

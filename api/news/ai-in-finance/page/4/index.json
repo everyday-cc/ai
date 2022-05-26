@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-30-bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow.md",
+      "title": "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow",
+      "excerpt": "March 29, 2022 /PRNewswire/ -- TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox59.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
+      "originalUrl": "https://fox59.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-artificial-intelligence-ai-in-construction.md",
       "title": "Artificial Intelligence (AI) in construction",
       "excerpt": "With the explosion of terms like Artificial Intelligence (AI) and Machine Learning (ML) in construction, AEC Magazine caught up with Senthil Kumar, CTO and head of AI at start-up Slate.ai to discuss how the technology can assist the complexity in the building industry Q: Senthil,",
@@ -1263,59 +1306,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-artificial-intelligence-in-fintech.md",
-      "title": "Artificial Intelligence in Fintech",
-      "excerpt": "What Is Artificial Intelligence in Fintech As artificial intelligence (AI) starts to enter the financial technology (fintech) sector, there is a lot of buzz and excitement around what it could mean for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-fintech-raja-al-mazrouei",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-fintech-raja-al-mazrouei",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGCUzlLrNH1MQ/article-cover_image-shrink_600_2000/0/1647424327619?e=1653523200&v=beta&t=nZUq3B9xcBK7EyvixKj86WTBa5RqSD0x3Ub4xkBqPk4",
-          "width": 1019,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

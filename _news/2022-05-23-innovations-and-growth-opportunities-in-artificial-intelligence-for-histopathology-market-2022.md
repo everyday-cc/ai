@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market 2022 Overview, Demand, New Opportunities & SWOT Analysis by 2030"
+    excerpt: "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in ..."
+    publishedDateTime: 2022-05-25T09:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Training Dataset Market: Business Opportunities & Investment Research Report 2029"
     excerpt: "Rise in adoption of artificial technology across various data-driven applications such as voice recognition and image recognition is the major factor that"
     publishedDateTime: 2022-05-22T00:00:00Z
@@ -52,15 +66,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Image Recognition Market foresee Business Opportunities, Current Trends and Industry scrutiny by 2026"
-    excerpt: "The study on the global market for Image Recognition evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
-    publishedDateTime: 2022-05-23T13:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2026-2022-05-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
 
 secured: "6oAIt2fDlNNsxILHpROcUhE0Cp410Mrsa0EkCIO0MWH9wLpW6kQ3M/SUK7XaQhNrldwBlC59yttqTt5Tuvi9u+jMWMAi0Jmr+LN4jm1Cru/sM5/hdtFLuDEMgBg9YCfc/eNUIBxw/VtA6/nmRBRwC6a8jLGOgVDBQAOGW0keAucsXHdYiH/EIeTqnu6JNPZ8WChy1g49wxKZhAmLEOT8kVmowCAW5bgnnUvzat/TR4OEwv4OrmCPciUpL5/keUyEG+a+ePLXKv8CDxG85epDWHHwU2/riPy4/mykCOKkTDPN8d62tLkM/IFxyopZ7b20N82/s/r28VnH2HBE57NNnjfTpQQB76X26xXwJb5MSD8=;qzftq3gxUwVGjDvXwcNcQA=="
 ---

@@ -50,6 +50,20 @@ related:
         width: 663
         height: 527
         isCached: true
+  - title: "TU Graz and Intel demonstrate significant energy savings using neuromorphic hardware"
+    excerpt: "For the first time TU Graz’s Institute of Theoretical Computer Science and Intel Labs demonstrated experimentally that a large neural network can process sequences such as sentences while ..."
+    publishedDateTime: 2022-05-24T21:02:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/953669"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 17
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/120caed3-e7a4-431d-8e7f-b768ef59e7de/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "F1ZXOXvwAGarP2mRBanjWzYghC/dgQ/R8tz34Fdm+qWAypwcWiyjNjZYf1JAvc7w6VE5gu7XOXOuRoO2GnFsh8qQdW9eo0MwtKnn0ukiFjr6YMN4arts/hZu1PKcH3hVbekSkR6cfMG3oWVb/haTgXqOd8jkVMnN265UvIPKg+j/9+YdqyDUwGuJ+W/2r9bdxW9E6jfPpdC/1VzOSgnLNKPZhK9VU9cTez0ja+dSZiPeBjrguhzRU2RfgZaquIX+AjcEyAQBS2Gm7A9SCXfYIYJwdXqGkTQHhiOrZP/YXz2z3rzBafPFMh8goPkhAHSoU5GmXgMGG4Q8/9fjRFJqFyuThrIwD6R8W6cBZVyCtXQ3KZSU1AQZ1ziKSyyHQ5O7iyK3jsz5bLZFp/xeAT/ICk4nfXqnp9s+xYRots0lnssFKHsLnSXFS7Zwb3qhefAfMhdHlrHmgpcndZWpxfVozo2DLLBVamu3hx09CtWhgvrB/zPR4mANDTI/Atz3i01ZIRB03yI9JA/xG4fl6f3HmA==;58iaJ+Xse56uoiZTqbEVvw=="
 ---

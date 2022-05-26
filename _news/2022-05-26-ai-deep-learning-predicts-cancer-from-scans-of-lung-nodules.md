@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AI Deep Learning Predicts Cancer From Scans of Lung Nodules"
-excerpt: "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale Visual Recognition Challenge and raised the accuracy of AI ..."
+excerpt: "Artificial intelligence (AI) computer vision is making significant adoption as an assistive tool for medical clinicians. A new study published in Radiology shows how AI machine learning can detect whether or not small spots that appear on chest imaging are ..."
 publishedDateTime: 2022-05-25T22:05:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
 webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -17,8 +17,8 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb"
@@ -82,6 +82,20 @@ related:
         width: 700
         height: 347
         isCached: true
+  - title: "AI-Based Tool Helps Physicians To Predict Cancer Risk of Lung Nodules"
+    excerpt: "According to a study, an artificial intelligence tool can help doctors predict the cancer risk in lung nodules seen on CT."
+    publishedDateTime: 2022-05-26T07:41:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/ai-based-tool-helps-physicians-to-predict-cancer-risk-of-lung-nodules-361970"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 37
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361970/ai-based-tool-helps-physicians-to-predict-cancer-risk-of-lung-nodules-361970-640x360.jpg?cb=20220526"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Researchers use AI to predict cancer risk of lung nodules"
     excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study published in the journal Radiology."
     publishedDateTime: 2022-05-24T18:29:00Z
@@ -92,6 +106,6 @@ related:
       domain: medicalxpress.com
     quality: 17
 
-secured: "fgUTLs2f/HtuFsn0fgoysWNG2OjdGk59kkG84DB64P/qig1Cw4Rrk0KoFga17/AalF8hV5/kJYJv5I/zIvsoRRACFJU9pKo07xr85yMEn779Byl1eFjC8hp2/MjGvqMsyY1lDo4wWwe+EI+wiLvGDmNuwhjx5MCzDKJlHLBXhuOH88F7f1Rd79wlxko7M+K+79YmSheuNmNW40QIFVrbOSFLYLVI3Einp+rZ3ZPC7O8899Fb1o4334MyPnriZHxAal0dtONWTIKgM7SHTLUHTUuMJQBIJTkzNHjQVhAgioLEBfTYnqknznvVlQlRLKmsqS7kVB7mSe5ssZVt5e1gEl+Zf3+x9E1H+V5lH+wEhQTJT4DpiOD8zopA4cG33Ab/Q9HjHOIZzx3hEB73k5d/QBb1wIY9ExWIirFlvkyWHafdCvzlEGY7qyFGX/OB3NjVtQi5BM5X4+NwphWmIeupgYXkH0EZFH3GmDVQmz6pArGZ6qh8JxXhV8MceMiTqC2t0qcLMvE61pSIgzSdzpnHSA==;1i/B2EztRUGuhVfRBz3rTw=="
+secured: "u4V1U5YDHbisMu4ts1ecwz7qYl/rFh5uwF9thn0OjB6cNZLXF4l0diZdGWp/PRR20GVC6LYB9g0io8cVt2xNH1I8yZZMS2S8xFOfvt0E5k6JON0gMY2LdT9ZO2JsmDJDLHJk2sU2x0PEY5YuOx6dRYzRVE5H3tcCyAwl3HkDx61AYNhPRDiKrLMfr0Yh7F8t8cj7Q7JmGeQk2dj6VAyeu1m66MHe+rrf0/Bw6RGlP56lMa3NW2PIDwftKuJWZG8A2L4FQtd6nq9JDh3xGWVpwl/NPZIjrJz3PrrsP5Ehllyyf7owAwAau1g/xuPXcN8DleczfaLSYwHy1zZnS1bz/nKsOOyeXeCuL1gFn2HQQyY=;d2dnIZrDXpnhVpi3x50Dpw=="
 ---
 

@@ -106,6 +106,22 @@ related:
         width: 1023
         height: 716
         isCached: true
+  - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
+    excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
+    publishedDateTime: 2022-05-25T20:10:00Z
+    webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 105
+    images:
+      - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
+        width: 1000
+        height: 380
+        isCached: true
   - title: "Microsoft Tips Project Volterra Arm Hardware for Hybrid AI Development"
     excerpt: "At Build, Microsoft also announced new ways to leverage its Teams collaboration platform and Windows 11 operating system. The metaverse got some play, too."
     publishedDateTime: 2022-05-24T15:48:00Z
@@ -121,22 +137,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04QaiwIk3lksY7Zopu4D8dU-6.fit_lim.size_1200x630.v1653405603.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
-    excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
-    publishedDateTime: 2022-05-25T20:10:00Z
-    webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 103
-    images:
-      - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
-        width: 1000
-        height: 380
         isCached: true
   - title: "Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability"
     excerpt: "The post Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability appeared first on The AI Blog.\n"
@@ -271,6 +271,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Meta/Facebook to use dedicated Microsoft Azure cluster for AI supercomputing"
+    excerpt: "Meta first began using Microsoft Azure Virtual Machines for AI research last year, but at a much smaller scale. “We are excited to deepen our collaboration with Azure to advance"
+    publishedDateTime: 2022-05-26T09:28:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-to-use-dedicated-microsoft-azure-cluster-for-ai-supercomputing/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 66
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "From Windows, Microsoft Store to Azure, here are key announcements from Microsoft Build 2022"
     excerpt: "Microsoft has shared a host of announcements across platforms at its flagship event Microsoft Build 2022. Here are a few key updates from the event. Windows 11 . The tech major ha"
     publishedDateTime: 2022-05-25T14:09:00Z

@@ -2,6 +2,249 @@
   "page": 128,
   "value": [
     {
+      "path": "_news/2022-02-04-toyota-built-an-autonomous-self-drifting-sports-car.md",
+      "title": "Toyota built an autonomous self-drifting sports car",
+      "excerpt": "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car",
+      "originalUrl": "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/02/720/405/supra.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp",
+      "publishedDateTime": "2022-02-03T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-the-state-of-ai-ethics-the-principles-the-tools-the-regulations.md",
+      "title": "The state of AI ethics: The principles, the tools, the regulations",
+      "excerpt": "Register here. What do we talk about when we talk about AI ethics? Just like AI itself, definitions for AI ethics seem to abound. A definition that seems to have garnered some consensus is that AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/",
+      "originalUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1256138488-e1643905043558.jpg?fit=800%2C588&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/amp/",
+      "publishedDateTime": "2022-02-03T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-ai-can-be-a-powerful-tool-in-drug-development-discovery-tellius.md",
+      "title": "AI can be a powerful tool in drug development, discovery: Tellius",
+      "excerpt": "AutoML and predictive machine learning can also help prevent workflow delays that impact quality processes. When elevating marketing efforts and boosting market share, AI analytics and decision intelligence are critical to performance tracking, sales force ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2022/02/03/ai-can-be-a-powerful-tool-in-drug-development-discovery",
+      "originalUrl": "https://www.outsourcing-pharma.com/Article/2022/02/03/ai-can-be-a-powerful-tool-in-drug-development-discovery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/ai-can-be-a-powerful-tool-in-drug-development-discovery/13213325-1-eng-GB/AI-can-be-a-powerful-tool-in-drug-development-discovery.jpg",
+          "width": 750,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times.md",
+      "title": "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times",
+      "excerpt": "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights.",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050",
+      "originalUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5cda2e76ce28a417dd3047a1d3ffed6.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp",
+      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp",
+      "publishedDateTime": "2022-02-03T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-artificial-intelligence-and-dental-insurance-it-is-more-than-a-focus-on-radiology-and-fraud.md",
+      "title": "Artificial Intelligence And Dental Insurance – It Is More Than A Focus On Radiology And Fraud",
+      "excerpt": "Over the years, much has been said about artificial intelligence (AI) and the healthcare industry. Much of it has been focused on two extremes. On one hand, there’s the fairly mature use of neural networks for radiological analysis. On the other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y26,safe&fit=crop",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
+      "publishedDateTime": "2022-02-03T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-google-has-lost-2-ethical-ai-researchers-to-a-research-institute-founded-by-ousted-colleague-timnit-gebru.md",
       "title": "Google has lost 2 ethical AI researchers to a research institute founded by ousted colleague Timnit Gebru",
       "excerpt": "Alex Hanna and Dylan Baker will join Timnit Gebru, who left Google at the end of 2020. Gebru launched the DAIR Institute to scrutinize major tech firms' use of AI. Two more members of Google's ethical AI team are leaving the company to join a nonprofit led ...",
@@ -985,240 +1228,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-deepl-and-rozetta-translate-now-fully-managed-in-memsource.md",
-      "title": "DeepL and Rozetta Translate Now Fully Managed in Memsource",
-      "excerpt": "Follow Memsource on Twitter @Memsource. DeepL develops AI products to expand human possibility, overcome language barriers, and bring cultures closer together. DeepL Translator, a machine translation system that, according to blind tests, achieves the ...",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/deepl-and-rozetta-translate-now-fully-managed-in-memsource/",
-      "originalUrl": "https://slator.com/deepl-and-rozetta-translate-now-fully-managed-in-memsource/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2017/01/Memsource_2020_900x600_CD.png",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-the-ai-technology-revolution-in-practical-data-protection-in-finance.md",
-      "title": "The AI technology revolution in practical data protection in Finance",
-      "excerpt": "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential.",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "originalUrl": "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/",
-      "publishedDateTime": "2022-02-03T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028.md",
-      "title": "AI In Computer Vision Market Size, Share, Top Key Players, Industry Growth, Trends and Forecast 2028",
-      "excerpt": "Feb 03, 2022 (Heraldkeepers) -- Global AI In Computer Vision Market report spotlights major statistics of the current industry state and is a beneficial source of developments and opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-top-key-players-industry-growth-trends-and-forecast-2028-2022-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-chip-designer-mimicking-brain-backed-by-sam-altman-gets-25-million-funding.md",
-      "title": "Chip designer mimicking brain, backed by Sam Altman, gets $25 million funding",
-      "excerpt": "(Reuters) - Rain Neuromorphics Inc., a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday it raised $25 million. Gordon Wilson, CEO and co-founder of Rain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/chips-rain-neuromorphics-funding-idCAKBN2K70JB",
-      "originalUrl": "https://www.reuters.com/article/chips-rain-neuromorphics-funding-idCAKBN2K70JB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20220202&t=2&i=1589737556&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI1109U",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2K70JB",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2K70JB",
-      "publishedDateTime": "2022-02-02T20:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-googles-deepmind-says-its-ai-coding-bot-is-competitive-with-humans.md",
-      "title": "Google's DeepMind says its AI coding bot is 'competitive' with humans",
-      "excerpt": "Alphabet-owned AI outfit DeepMind claims it has created an AI that can write programming code, find novel solutions to interesting problems, and do it at the level of the mid-ranking human entrants in coding contests. Dubbed \"AlphaCode\" and detailed in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/03/alphacode_automated_coding/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/03/alphacode_automated_coding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/05/07/shutterstock_robot_typing_using_computer.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/03/alphacode_automated_coding/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/03/alphacode_automated_coding/",
-      "publishedDateTime": "2022-02-02T19:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

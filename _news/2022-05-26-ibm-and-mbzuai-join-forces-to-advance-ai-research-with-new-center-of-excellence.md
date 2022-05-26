@@ -54,6 +54,15 @@ related:
         width: 930
         height: 600
         isCached: true
+  - title: "IBM, MBZUAI join forces to accelerate AI breakthroughs"
+    excerpt: "Natural Language Processing (NLP) including Arabic, AI applications in the healthcare industry, and sustainability. IBM, MBZUAI join forces to accelerate AI breakthroughs. AI, Artificial Intelligence,"
+    publishedDateTime: 2022-05-26T09:11:00Z
+    webUrl: "https://www.itp.net/emergent-tech/ibm-mbzuai-join-forces-to-accelerate-ai-breakthroughs"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "CEue367sVZTu+iFzP5BrPjak7rr5ro04mMO7vaxIbu1tYfzEmSr/pbZHn8ugQiUCDU3Qex2KOPIUS1EvxF7jWM7SPYeT3+em3gG2SdCDXYc3BopfW+mSNZbHQNYhjO2HIW3GD9xV/gLUK5MwVPt/JZLMYWPTnvp1dssIZbckz5bBm2Y0wwQUUbpZyD+l8on050oplvsqbEam+dLpNWcQghBrmHujNPBntIDLmAUywbzxP8GONBdfNH1yWDHPInBZC9GhfM+utxz4LVfGjS/E5XYU97RPVMOBwdLXx+f65fpBUMfhQKXJYdWGSWS4gNsJdx2HMvLR7Q9ZBR+K6OVNIF8s1tn7aux2ColYB0iWtbw=;q6cAJ8jsZDK2pKqvv53TYw=="
 ---

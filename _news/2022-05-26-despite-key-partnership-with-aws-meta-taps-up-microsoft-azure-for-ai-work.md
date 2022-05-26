@@ -3,12 +3,12 @@ category: news
 title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
 excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
 publishedDateTime: 2022-05-25T20:10:00Z
-originalUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
-webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
+originalUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
+webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 type: article
-quality: 103
+quality: 105
 heat: -1
 published: false
 
@@ -17,9 +17,10 @@ provider:
   domain: theregister.com
 
 topics:
-  - Microsoft AI
+  - Facebook AI
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
@@ -271,6 +272,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
+  - title: "Meta/Facebook to use dedicated Microsoft Azure cluster for AI supercomputing"
+    excerpt: "Meta first began using Microsoft Azure Virtual Machines for AI research last year, but at a much smaller scale. “We are excited to deepen our collaboration with Azure to advance"
+    publishedDateTime: 2022-05-26T09:28:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-to-use-dedicated-microsoft-azure-cluster-for-ai-supercomputing/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 66
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "From Windows, Microsoft Store to Azure, here are key announcements from Microsoft Build 2022"
     excerpt: "Microsoft has shared a host of announcements across platforms at its flagship event Microsoft Build 2022. Here are a few key updates from the event. Windows 11 . The tech major ha"
     publishedDateTime: 2022-05-25T14:09:00Z
@@ -450,6 +465,6 @@ related:
       domain: enterprisetalk.com
     quality: 31
 
-secured: "Q/WLbHFplJhi+1h+e6Mf7r0z1bQ5Ot1fjKrmarWboBgQdwCvo1Q2cWeBPgiEOraXyLxtUcB9xa38wTs08M+IijnxbdXG+O8ejILMjelc30xlqE5W75wNq6LfgCUwA44/Oaa2/Q3xFbBmymVpMv6lfr4jZgHyYwChJ7cbG58/ro5hhov/Q5JXrOe4Kf1IEYXhOGlwzJlwaJSQ/Sy+3Bv4F9Mhe3vzjyIB9RC9TaL6sLj7M2nZi7eWlDzOjpUIU/HkTdUJLpUefOVlWdzgDdvDml/MFtCZGT5BFGvmY071c27TnWSxIuZMlVMQU2rN5qSBbh2C6mrxDTzrHP6n17E7ytIaEGR8E2T96PkMPE83cg8=;EaYhmnMSajqYLlpNrYUQ+g=="
+secured: "bL7/Q+TFznPu0nGdTB2TOYxdK+l7PFhlPIGzCHvJKf2p7192UGbqaMF4aqio+Tk+egtAQEKoLJzzAUMSxh0asOGqDRkRavP6zM1vbke7zIjdQ1vC6L1adhfkySrUh9W8KJKjeFZp2UiqJCB+PtciRsF+pv6Imq2bw0yCUn0ch4U1WcGSeERb6DLBJnNxfD0uHI98Igw4duo3TJ32iqQTBB8numT1p/VhGEVoEvfS2kSDacF7XJetFd845jsZ1lH0FyaZM3ECnTEODGx+J/LmLNoZjimZ5+YTGLhJlcpLO5l27OTFz8/u0Zp3/uWARcJkomG6Go52szoFLhaqTQLZFlyjSrhJ6H2jzBuLTWgLT+k=;n75MOmhx2wOfXnnixLtBiQ=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-26-baidu-exceeds-revenue-estimates-on-ai-cloud-services-strength.md",
+      "title": "Baidu exceeds revenue estimates on AI, cloud services strength",
+      "excerpt": "Baidu Inc surpassed quarterly revenue estimates on Thursday as a resurgence of COVID-19 in China and accompanying restrictions drove up demand for its cloud and artificial intelligence products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/",
+      "originalUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/bt56uaK0VeprSa4dkcOzpiHOTlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6AZP3TMSZFJ65FSRIOARA2MSEQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence.md",
       "title": "UAE's MBZUAI, IBM to advance AI research with new centre of excellence",
       "excerpt": "The collaboration aims to provide real-life applications that seek to further climate and sustainability goals",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -288,13 +339,13 @@
     {
       "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
       "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
-      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale Visual Recognition Challenge and raised the accuracy of AI ...",
+      "excerpt": "Artificial intelligence (AI) computer vision is making significant adoption as an assistive tool for medical clinicians. A new study published in Radiology shows how AI machine learning can detect whether or not small spots that appear on chest imaging are ...",
       "sourceUrl": null,
       "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
       "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -324,8 +375,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -569,7 +620,7 @@
       "originalUrl": "https://www.freepressjournal.in/technology/ethical-ai-a-challenge-for-security-spplications",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -794,7 +845,7 @@
       "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -827,7 +878,8 @@
         "Natural Language Processing",
         "AI",
         "Google AI",
-        "TensorFlow"
+        "TensorFlow",
+        "Computer Vision"
       ]
     },
     {
@@ -978,6 +1030,101 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030.md",
+      "title": "Artificial Intelligence Market 2022 Overview, Demand, New Opportunities & SWOT Analysis by 2030",
+      "excerpt": "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities.md",
+      "title": "STX Next acquires Ermlab to enhance AI and machine learning capabilities",
+      "excerpt": "STX Next has acquired Ermlab, a specialist in AI and machine learning software development. The deal will enhance STX Next’s existing AI and ML capabilities, expand the companys",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/",
+      "originalUrl": "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcr-online.biz/wp-content/uploads/business-partnership-mainjpg.jpg",
+          "width": 800,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCR",
+        "domain": "pcr-online.biz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
       "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
       "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
@@ -1019,143 +1166,6 @@
         "AI",
         "Microsoft AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-public-confidence-must-for-using-facial-recognition-with-ai-ktr.md",
-      "title": "Public confidence must for using facial recognition with AI: KTR",
-      "excerpt": "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "originalUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/772421/ktr.jpg?w=570&h=451",
-          "width": 570,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "publishedDateTime": "2022-05-25T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-how-this-startup-is-bringing-smartest-solutions-through-ai.md",
-      "title": "How This Startup Is Bringing Smartest Solutions Through AI",
-      "excerpt": "With an eye on finding the smartest solutions for any problem, Pixis was born. The platform is a codeless AI infrastructure for demand generation and marketing optimization. It was founded in late 2018 by Shubham Mishra (Global CEO),",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/428229",
-      "originalUrl": "https://www.entrepreneur.com/article/428229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1653456757-Untitleddesign-2022-05-25T110036996.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-toggle-ai-launches-reimbursement-initiative-with-interactive-brokers.md",
-      "title": "Toggle AI Launches Reimbursement Initiative with Interactive Brokers",
-      "excerpt": "Toggle AI, a fintech company, said on Tuesday that it launched an initiative with Interactive Brokers that enables their customers to trade commission-free.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/",
-      "originalUrl": "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financemagnates.com/static/article-default-image.jpg",
-          "width": 770,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/",
-      "publishedDateTime": "2022-05-24T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

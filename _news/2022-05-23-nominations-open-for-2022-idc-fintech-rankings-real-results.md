@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "US Fintech Global PayEX Showcases Account Receivable Solutions at Finovate Spring"
-    excerpt: "J.P. Morgan-backed Fintech has processed over $50 billion in transactions through its cloud-native, data-driven, end-to-end AR solutions; Global PayEX’s AI and ML solutions digi"
-    publishedDateTime: 2022-05-23T19:07:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-darien-software-fe36d5f92cc89c8822e8384b2cde9d0b"
+  - title: "Security is at the heart of fintech operations: Highlights from Day 2 of AWS Fintech Forum"
+    excerpt: "a serverless computer vision service. Finally, by utilising Amazon SageMaker, they seamlessly enforce best-in-class MLOps practices."
+    publishedDateTime: 2022-05-25T05:42:00Z
+    webUrl: "https://yourstory.com/2022/05/aws-fintech-forum-day-2-highlights-fintech-operations-security/amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
+      name: Your Story
+      domain: yourstory.com
+    quality: 46
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagezsvz-1653456072913.jpg "
+        width: 800
+        height: 400
         isCached: true
 
 secured: "agxM+DHBIaUu1WNVL6bQC4WFrENxkJcpTuzfAJCB0COLjpUcfkmuQNyAG8LnkLPk11vjqwdBggi5UfZd/dwbQYYvStPDyADRG96hgHsqqOfVwwoCLD29FDQUfJhnTZdnWQJ2HXB1zFbo9PesfJVGNNrjCjdxDB9ckg1oBoaj/9+VOKkChgnB/01VypInQ3rqPqgPK9Ej4wqxMpPAMVACvVhTapMAQVYN2TtS62AsfNMh7F5Zta98YKqnY7+gln2whh4kzkHqDTCEFdRlhyGUCQZdejGB9jMYYV8YyUQD5CbhEXzZHqjEtUKAALl2AAqidM5TCNRaN8SKh8w3a9Rx2lDkCiNyZNMA0PHZnqa6u3s=;ukkEwl5wfNajQZgM1W9nGA=="

@@ -56,13 +56,13 @@
     {
       "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
       "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
-      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale Visual Recognition Challenge and raised the accuracy of AI ...",
+      "excerpt": "Artificial intelligence (AI) computer vision is making significant adoption as an assistive tool for medical clinicians. A new study published in Radiology shows how AI machine learning can detect whether or not small spots that appear on chest imaging are ...",
       "sourceUrl": null,
       "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
       "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -92,8 +92,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -228,6 +228,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities.md",
+      "title": "STX Next acquires Ermlab to enhance AI and machine learning capabilities",
+      "excerpt": "STX Next has acquired Ermlab, a specialist in AI and machine learning software development. The deal will enhance STX Next’s existing AI and ML capabilities, expand the companys",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/",
+      "originalUrl": "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcr-online.biz/wp-content/uploads/business-partnership-mainjpg.jpg",
+          "width": 800,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PCR",
+        "domain": "pcr-online.biz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-how-amalgamated-learning-could-scale-medical-ai.md",
       "title": "How amalgamated learning could scale medical AI",
       "excerpt": "A promising new AI and machine learning technique called amalgamated learning might help overcome these silos to find new cures for diseases, prevent fraud and improve industrial equipment. It may also provide a way to construct digital twins from inconsistent forms of data.",
@@ -288,7 +331,7 @@
       "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1395,50 +1438,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-brainchip-and-edge-impulse-partner-to-accelerate-aiml-deployments.md",
-      "title": "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments",
-      "excerpt": "BrainChip’s Akida TM is a revolutionary advanced neural networking processor architecture that brings AI to the edge in a way that is not feasible for existing technologies, offering high performance, ultra-low power, and on-chip learning. Edge Impulse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments",
-      "originalUrl": "https://www.digitaljournal.com/pr/brainchip-and-edge-impulse-partner-to-accelerate-ai-ml-deployments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/701417/image.png",
-          "width": 1374,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-15T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Machine Learning"
       ]

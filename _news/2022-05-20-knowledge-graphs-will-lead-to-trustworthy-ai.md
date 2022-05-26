@@ -5,6 +5,8 @@ excerpt: "Next-generation systems will optimize the explainability and trustwort
 publishedDateTime: 2022-05-20T13:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/20/knowledge-graphs-will-lead-to-trustworthy-ai/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/20/knowledge-graphs-will-lead-to-trustworthy-ai/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/20/knowledge-graphs-will-lead-to-trustworthy-ai/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/20/knowledge-graphs-will-lead-to-trustworthy-ai/amp/"
 type: article
 quality: 47
 heat: 47
@@ -20,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
-secured: "iyrKQwEAtW6O8J1iw96oeZrOM3TqfMMfAvdA1BlMm7nNPC9qKsEQLS+56X7SiqdXc6IG6qldb0GnAVOnLFIwpmTYWQCweHHyGVrcpKNA8rte2hr6mltIoT+53kK6hd1uwhoysPWlCYsE54hy1RSxdpIdE9V5gA2rBtLsU1i7PFk5PRuYzlHFXDS9sQp151RN4icvSCiL0BZnDve4iJjrYtr2oBYIhBjCRvepDUD1P87OZ7dWvZc8gP2hFF1ndJ2ZL9LV7AJ2lcq/RCjdpyTbAu61hfMZTAGwY6Z3JknJ8PGJ/g58V3Ld+UKc/zeU7Pp/kYaVnsHaeHBGmlHg7LpywkPWIy4iYphZizQAhDynA7jvxZ37maR3h+9nK1/myZd4O1lCXlGPGm2Jy8LkFyF/+Gff2jRctzb3Ctsqx8TSvUswkmeaxEzwHdSN8iA3/bp7daDOUSfeORRBw+KSmaBmszEcY6QP+wRLAfECvdhSTOnexW1hqaQ8dJyGeOzOGgkJBsmY0emHlj8rhGoF0F8XDQ==;YbKHAv6NnoQ4k+aKbCJEXw=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve//60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 645
+    isCached: true
+
+secured: "s3JzcX8lXUnUH19TYYzcvWzkSDHC2XswUcKQ9fWwwRHL77KyXUTCBDX8VPTylFyu2ua/9R15Yb2vbobIxFQL1rNdOiNk3Ch4VFmCQdn+N5uNZ3iR72U559POTkX+ywhMN3iNvE5zPwjDQzEWj2HjcVKFcVjiJTt+E3LQ8+t08WUQEHD6PHzVcHqrxurMf/yvj/CMHJuBKq0rGWwtVXs8ftXbakqSAIrZpBZg+XQrHa/Py59tHu1S+BIeCt+UXSpjGKPdvCQ+t/9qHxp3fueC5ELEcy/vvq1tvx6EJBmGOcnefyB78PMW18hQhuwms2bOj3N0UbU1JFIBbwLS2diRI2GOsZGyMrTOPZwVbkThsic=;tp1xreJlsGfy9xhLaxtK2A=="
 ---
 

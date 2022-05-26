@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
 type: article
 quality: 104
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Liquid-Cooled-GPUs-Press-Graphic.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Innodisk Showcases Innovative Edge AI Computing Capabilities at Computex 2022"
+    excerpt: "In addition to these exciting new products, Innodisk presented a new AI exhibition area to showcase the application results of smart retail, smart factory, smart transportation, and smart infrastructure. Innodisk also showed off these applications through ..."
+    publishedDateTime: 2022-05-26T06:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/26/9609816.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1824504/Innodisk_Computex.jpg"
+        width: 400
+        height: 301
         isCached: true
   - title: "Nvidia to sell liquid-cooled A100 PCIe GPU cards, Equinix trials deployment"
     excerpt: "Nvidia plans to sell a liquid-cooled PCIe card for its A100 server GPU in the third quarter. It will follow this in early 2023 with a liquid-cooled PCIe card for the next-gen H100 chip. The company previously offered liquid-cooled A100s,"

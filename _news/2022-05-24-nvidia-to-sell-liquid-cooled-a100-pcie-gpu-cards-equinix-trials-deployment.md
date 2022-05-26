@@ -65,6 +65,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Innodisk Showcases Innovative Edge AI Computing Capabilities at Computex 2022"
+    excerpt: "In addition to these exciting new products, Innodisk presented a new AI exhibition area to showcase the application results of smart retail, smart factory, smart transportation, and smart infrastructure. Innodisk also showed off these applications through ..."
+    publishedDateTime: 2022-05-26T06:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/26/9609816.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1824504/Innodisk_Computex.jpg"
+        width: 400
+        height: 301
+        isCached: true
   - title: "NVIDIA Unveils Liquid Cooled A100 GPU For Huge Energy Efficiency Uplift In Data Centers"
     excerpt: "NVIDIA is working with Equinix to to qualify the 80GB version of its A100 PCIe GPU in liquid cooled form ... in favor of using GPUs over CPUs for AI and high performance computing (HPC) workloads."
     publishedDateTime: 2022-05-24T12:43:00Z

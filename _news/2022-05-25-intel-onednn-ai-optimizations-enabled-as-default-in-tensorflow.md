@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-25T15:02:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f"
 type: article
-quality: 73
-heat: 74
+quality: 75
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Google AI
   - TensorFlow
+  - Computer Vision
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

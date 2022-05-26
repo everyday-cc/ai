@@ -1,0 +1,50 @@
+---
+category: news
+title: "Baidu exceeds revenue estimates on AI, cloud services strength"
+excerpt: "Baidu Inc surpassed quarterly revenue estimates on Thursday as a resurgence of COVID-19 in China and accompanying restrictions drove up demand for its cloud and artificial intelligence products."
+publishedDateTime: 2022-05-26T07:38:00Z
+originalUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/"
+webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/"
+type: article
+quality: 67
+heat: 77
+published: true
+
+provider:
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/bt56uaK0VeprSa4dkcOzpiHOTlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6AZP3TMSZFJ65FSRIOARA2MSEQ.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+related:
+  - title: "Baidu Posts Rise in Revenue Boosted by AI, Cloud Demand"
+    excerpt: "Shares of Baidu rose Thursday after the Chinese Internet giant reported a slight rise in first-quarter revenue boosted by strong demand for its cloud and artificial intelligence products during China’s ongoing Covid shutdowns."
+    publishedDateTime: 2022-05-26T09:52:00Z
+    webUrl: "https://www.barrons.com/articles/baidu-bidu-earnings-revenue-cloud-51653558724"
+    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-bidu-earnings-revenue-cloud-51653558724"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-bidu-earnings-revenue-cloud-51653558724"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-189460/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "1fuR9qBW0KLXsns0bLXhkC/qJ4n7HYbeWuqENB07pW4PAFPpB/jjIPyd2Etqdv6hV9rUADX6qa2H9Hj+K+0Lp8eHAyi72mKW7dXB+0yYPHWocj621hG7/sSYp9pNPZ7HlYi9BzJBekLuFisbL0bmORY3Mz2wPCowIWo+YXgYqt8/HPLFbC/uaHutWwZINPQ/nJB3NA7gQRVtkh3ySMj7dQ2ZfAnVzv5sHdB/xQEupqdbrjBsXTI7GU6CvTlGeAGoKwAU5IWcjQQW0YsWOtlNyWEUA57geFL81IWIGPrTrg5V+oS3HouGk1O8/9qfuEiCphNPBep6ShtueedXwN1iXOAXODdoArJ2TxZMdwAv1Oo=;xYrQybRCQAnOeP35KjRdHQ=="
+---
+

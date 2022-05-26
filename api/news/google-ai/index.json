@@ -44,7 +44,7 @@
       "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -77,7 +77,8 @@
         "Natural Language Processing",
         "AI",
         "Google AI",
-        "TensorFlow"
+        "TensorFlow",
+        "Computer Vision"
       ]
     },
     {

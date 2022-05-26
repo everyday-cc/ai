@@ -2,6 +2,238 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2022-03-26-a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world.md",
+      "title": "A language of no importance: the consequences of neglecting marginalized languages in the digital world",
+      "excerpt": "Most major platforms and services are still only available or functional in a small number of geopolitically dominant languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openglobalrights.org/a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world/?lang=English",
+      "originalUrl": "https://www.openglobalrights.org/a-language-of-no-importance-the-consequences-of-neglecting-marginalized-languages-in-the-digital-world/?lang=English",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openglobalrights.org/userfiles/image/Rowe_Image_03-24-22.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openglobalrights",
+        "domain": "openglobalrights.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-improve-search-accuracy-with-spell-checker-in-amazon-kendra.md",
+      "title": "Improve search accuracy with Spell Checker in Amazon Kendra",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning. You can receive spelling suggestions for misspelled terms in your queries by utilizing the Amazon Kendra Spell Checker. Spell Checker helps reduce the frequency of queries returning irrelevant results by providing spelling suggestions",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-search-accuracy-with-spell-checker-in-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-search-accuracy-with-spell-checker-in-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/25/ML-8602-image001-resized.jpg",
+          "width": 800,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T11:08:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-26-leveraging-games-and-ai-to-maximize-cultural-intelligence-in-the-workplace.md",
+      "title": "Leveraging games and AI to maximize cultural intelligence in the workplace",
+      "excerpt": "Many of today’s top companies are now turning to games and AI to maximize cultural intelligence in the workplace. Find out how this works.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/25/leveraging-games-and-ai-to-maximize-cultural-intelligence-in-the-workplace/",
+      "originalUrl": "https://venturebeat.com/2022/03/25/leveraging-games-and-ai-to-maximize-cultural-intelligence-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1367787949.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-26-bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award.md",
+      "title": "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award",
+      "excerpt": "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20305538.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20305538.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-26-sandia-researcher-starts-muslim-community-robotics-team.md",
+      "title": "Sandia Researcher Starts Muslim Community Robotics Team",
+      "excerpt": "A research scientist at Sandia National Laboratories, who started the nonprofit Itkan Institute of Technology, has formed four student-led robotics teams in North Texas in hopes of encouraging interest in STEM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
+      "originalUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/b52f988/2147483647/strip/true/crop/6000x3129+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F2e%2Ff5%2F10034c7d449ca15c150596324164%2Fmuslim-robotics.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
+      "publishedDateTime": "2022-03-25T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie.md",
       "title": "AWS is hungry for a bigger slice of the video game pie",
       "excerpt": "and artificial intelligence and machine learning.” AWS already boasts a long list of high-profile customers from the video game sector, including the makers of Fortnite, League of Legends ...",
@@ -933,222 +1165,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-baidu-to-launch-self-driving-taxi-service-in-zhejiang.md",
-      "title": "Baidu to launch self-driving taxi service in Zhejiang",
-      "excerpt": "Chinese tech giant Baidu Inc said it will offer self-driving taxi service in Wuzhen, Zhejiang province, on Saturday, as part of the company's broader drive to accelerate the large-scale commercialization of autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202203/25/WS623d6a6ca310fd2b29e53570.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202203/25/WS623d6a6ca310fd2b29e53570.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202203/25/623d6a6ca310fd2bec7e59fd.jpeg",
-          "width": 714,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-ai-image-recognition-market-key-vendors-trends-analysis-segmentation-forecast-2022-2031.md",
-      "title": "AI Image Recognition Market : Key Vendors, Trends, Analysis, Segmentation, Forecast 2022-2031",
-      "excerpt": "March 2019 - Amazon Rekognition launched enhanced face analysis. This is the fifth model update overall since the service launched. Face analysis generates rich metadata about detected faces in ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103913843/AI-Image-Recognition-Market-Key-Vendors-Trends-Analysis-Segmentation-Forecast-2022-2031",
-      "originalUrl": "https://menafn.com/1103913843/AI-Image-Recognition-Market-Key-Vendors-Trends-Analysis-Segmentation-Forecast-2022-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?323674",
-          "width": 378,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions.md",
-      "title": "Roche announces collaboration with Bristol Myers Squibb to advance personalised healthcare through digital pathology solutions",
-      "excerpt": "Collaboration builds on commitment to advance personalised healthcare by helping to improve access to new treatment options for patients with solid tumoursAdvances in computation and artificial intell",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/roche-announces-collaboration-with-bristol-myers-squibb-to-advance-personalised-healthcare-through-digital-pathology-solutions/article_aef67db4-3b8c-5c77-b53c-fb0839f69b2d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-office-envy-inside-argodesigns-new-hq-robotics-startup-raises-millions.md",
-      "title": "Office Envy: Inside Argodesign's new HQ | Robotics startup raises millions",
-      "excerpt": "Brent: Just before SXSW kicked off a couple weeks back, I had a chance to visit Argodesign's new headquarters, which is just a stone's",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/austin/inno/newsletter/27156396?limit=20&skip=0",
-      "originalUrl": "https://www.bizjournals.com/austin/inno/newsletter/27156396?limit=20&skip=0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-natural-language-processing-market-performance-by-top-companies-revenue-global-demand-and-sales-forecast.md",
-      "title": "Natural Language Processing Market Performance by Top Companies, Revenue, Global Demand and Sales Forecast",
-      "excerpt": "Mar 25, 2022 (The Expresswire) -- Global “Natural Language Processing Market Statistics” report explores comprehensive and insightful Information about various key factors like Regional Growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-performance-by-top-companies-revenue-global-demand-and-sales-forecast-2022-03-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-performance-by-top-companies-revenue-global-demand-and-sales-forecast-2022-03-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 500
         height: 324
         isCached: true
+  - title: "IBM, MBZUAI join forces to accelerate AI breakthroughs"
+    excerpt: "Natural Language Processing (NLP) including Arabic, AI applications in the healthcare industry, and sustainability. IBM, MBZUAI join forces to accelerate AI breakthroughs. AI, Artificial Intelligence,"
+    publishedDateTime: 2022-05-26T09:11:00Z
+    webUrl: "https://www.itp.net/emergent-tech/ibm-mbzuai-join-forces-to-accelerate-ai-breakthroughs"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "JopoaQUsHYb2K3ljyu83fRj+UvHE+QBrx3iQPOHwb0tL4iXy9bWdsvq6jbrYFgjSh2GxnJavpdQUY08vZ3Z5ZhHRehkMMoZwo0GwzXj7RPr1mGqZVqvvoeUz4wzklqUQBmNRYB6YhngI8Gdo8pdUWxaDgokiMqNDVbNoG72AkM2AQY8Khl/JYhdTTKAD4A3nHpQ0N5TQKwuqXZmHBbfs1WUxjTgUlxPOWYE+RUuMko5UGStkQz9Ip4r4qdtVueRRbEDyaUaOSFgPKph5HNFIWNpRS7Q8W24CbGif5gIMBE9doYtcMOh2ZQYSQgHv4wIsY9c9fX1sEBR4zAwyrjFiI0FA1F4OTwH42sCUzKupLts=;wUWoAS+G2Jg6AmYmB+JOUA=="
 ---

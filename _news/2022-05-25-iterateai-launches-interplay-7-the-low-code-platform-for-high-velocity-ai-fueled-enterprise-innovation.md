@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
-excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced the launch and availability of Interplay 7, code-named “Spirit."
-publishedDateTime: 2022-05-24T17:37:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-science-8cb31a903be9c442c44450cdbd230729"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-8cb31a903be9c442c44450cdbd230729"
+excerpt: "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All"
+publishedDateTime: 2022-05-24T17:42:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8559031/iterateai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8559031/iterateai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation"
 type: article
-quality: 19
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
+  - AWS AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI"
@@ -55,6 +50,6 @@ related:
         height: 338
         isCached: true
 
-secured: "4ltZZAYiinHzynI+rbOLo5V3SDItcwWgLP/VUpdG8OyMh85k0mjDaAzldFdTdRfGf/uYPH3L5nQYmNfC14rtBAddVR/HpnNXkMK8SogBCgQXGnquyaeklQ3two7+/UGclUtJZCeGwvsEdOUzJUn67ZxdOUk5WPGCYrXKCuTAeOFTisFBjT4eZ5yus+eMFNY7mJtySiDzHQl/cvKT87oGepEMfk0MZm8LjecYhH1PowTD2R2mLleT8B/nNs+WKr7H0ihakf63aelPU9Bl52RRPJDcolloinI7hO8c7qpF8TRAmCMgPu5U/1LeBt82oDyOvjUetWArudSTNee+ytoDII7QLWsiI/8wHRZSDK6T5NI=;1h5hgaXMipGVW6KlQsgIkg=="
+secured: "s8V7y4hbYCSCQcxrxSwWk6ySYg/yBNmw2AZPHa3JU66UlwO80Qj7btFCrZjCZ39hdPNNz2vq+whUCOAA3816YoPS+KtCIhm/UR8oJuBFLbkjpzBIlXIQ7BLdHV2gQUU+uC9t6Onf4kGn4ej1TsSA9GFsRiZKXWosnXh2pFiOfe96SJpmohKl9femkbanopo7xmCgc7o9yXNSaJYzGvedomh11xUjMeoQlYXpio4FuP9mw4w7z23fsnRN9AVvDoR1qxCCR2s4b9nksn75G2+xspYEuEG8YYDnwKdLKfcqH5EiemJJu02YcJvZXxgl629/xdwxIiXDQnzvfufSamLKYjlqV2fC7w9FFq0eCT4i3PI=;yRnW3dDA/jMXtyJKutl/LA=="
 ---
 
