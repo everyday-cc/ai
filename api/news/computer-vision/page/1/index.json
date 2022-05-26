@@ -148,7 +148,7 @@
       "originalUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
       "featuredContent": null,
       "highlight": null,
-      "heat": 424,
+      "heat": 434,
       "tags": null,
       "images": [
         {
@@ -804,31 +804,22 @@
       "title": "Facial recognition technology is a valuable tool",
       "excerpt": "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place.",
       "sourceUrl": null,
-      "webUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/",
-      "originalUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/",
+      "webUrl": "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/",
+      "originalUrl": "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.sbsun.com/wp-content/uploads/2022/05/AP22129613264258-1.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/amp/",
-      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/amp/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-15T11:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The San Bernardino Sun",
-        "domain": "sbsun.com",
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
         "images": null,
         "publishers": null,
         "authors": null

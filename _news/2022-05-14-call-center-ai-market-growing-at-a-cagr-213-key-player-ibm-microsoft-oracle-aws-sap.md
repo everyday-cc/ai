@@ -1,25 +1,22 @@
 ---
 category: news
 title: "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP"
-excerpt: "The global Call Center AI Market size is to grow from USD 1.6 billion in 2022 to USD 4.1 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 21.3% during the forecast period. The advent of AI in the call center offers enhanced customer support services and better experience coupled with rising development in customer engagement through social media platforms to boost the growth of the call center AI in the market."
-publishedDateTime: 2022-05-13T22:56:00Z
-originalUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13"
-webUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap-2022-05-13"
+excerpt: "In the call center AI market, IBM provides business consulting, technology, financing, industry expertise, and training and skills. It offers Watson Assistant, IBM Voice Agent with Watson ..."
+publishedDateTime: 2022-05-14T04:53:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27204715/call-center-ai-market-growing-at-a-cagr-21-3-key-player-ibm-microsoft-oracle-aws-sap"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27204715/call-center-ai-market-growing-at-a-cagr-21-3-key-player-ibm-microsoft-oracle-aws-sap"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Microsoft AI
+  - IBM AI
   - AI
   - AWS AI
+  - Microsoft AI
 
-secured: "pWCTVHmF4+8WZaOOfijOsz9zE1+VB7Uxh5LGNr/BRc1qAeCteGYaZNXaCdFPa4SaYxUhoX6x8vLkB+x8lBNE56EeSqJAUnfeHQRhXIo0KK2PxsDEB+fp4OwvVIyyUtNJUckRj89SSaW9/1Mm4u7UjLNbLD+SVsRWCeINzg3BH1WMLG8mrMmgjqGouEb8gAksDMMg49SoEw/C7oQEzTyoDsK4NzxKN5fzXo0o6LYqImP+e2cOdLrYM68Zincc/zDXHRpFF0xCTKR7PNXVxnLmrY+6e9MH4R4/9BAapsXeH/QJXQz/6/MDI/jOtjmNOpbZTbOqTrUJESksk6xOlYc9oqPhZGD4miUz8fjXmUzXsoQ=;uK1qDU9xp99po1/3349Ccw=="
+secured: "IhFZtwBxLVcZqIvFUDHxgMrWiMdqX+nvlqHSRvsaGvOUntJ8lV9FFmwza7nR/zNf8lzbxYpBxvrXqoj8ziJa0qK1O/weeCBTskm3yxW0k1Q+c8PlhD6IHUBBiXQWeY9scWa6QI82Ib8/nBnV5EPYeTKOqUpMwq47RsUrazxDbWvf7PhCisoEoTKjVxOciRzeWqc49Y5HUZCTiyP7h0VWiFHvWMOTEmRypEXBEIsTjdgH1N9zamjTUlCujV2SgHtxwHNwrBncONKT1rB4ZL+t6pnhzifr1foZT2tp73g2XUTfN8gumVbNc5IG5dlVGHzU4fCBTKoUbp1LItJngTr5VM4jKWvhoc23zy3bi0o0QMg=;SFl4UwcAu7EGp27rzflIzA=="
 ---
 

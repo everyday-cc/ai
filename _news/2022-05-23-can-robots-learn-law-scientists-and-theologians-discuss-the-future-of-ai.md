@@ -92,6 +92,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "She was the Art in Artificial Intelligence"
+    excerpt: "He created an artificial intelligence helper named ‘Marinette’ also known by his computer as ‘(Mar-AI)’. Where upon realising that Damian doesn't love Marinette and never had, she just starts to become more static."
+    publishedDateTime: 2022-05-26T13:04:00Z
+    webUrl: "https://archiveofourown.org/works/39235794"
+    type: article
+    provider:
+      name: Archive of Our Own
+      domain: archiveofourown.org
+    quality: 17
 
 secured: "fM3ZygNXWzwwKaXG5I9F9nYRKVRWpRp29bqRtnkZ1ku2Tp+yd7jsMmj+M1u1G8c3up/8TbcmRnQXr5RSEJwcfloDs6yqyVsVATWdaOO0EYk9Mvzz2Pp6yl8uwlbHocXUS4DBPqTHqQibHPa11vgcmi51OAxaNofbIDDYMcgS5jUivXOdIOIrLzxQLhL4sSvMqyqsWGKKwDPBjXqt8Rd3IY66Ji09g0/z9Af30A636brW8N1B76bGnOH1JGbKO7+BbHp0bAhx7bsPNv5Q2ye1Mkm5/5mifaUk6X9lA+zyE4f/V4DzMxXbthp3i6+lEbfZWAVKBHBKKmMCOtjqlnuVWUm9g9Nzejl2H3bMtTrOFozjqgEAqd6up3yRFRg8qRVX5KskFQwoeH/Cc+U5ft6cBq9LXRE/dggCoEJFxFtW5yqn5tpYiZyDvsC79O7iCmeqv6r33VyvQbMgRgezcdxMosz6ygmFKbe6fGhfJDMRU5jBQtGwheS9eYdvSSXPtu0kYZVlsa66USTS4Y5jFmgrfA==;wrYbNNt9JNjDgrAtcdx10w=="
 ---

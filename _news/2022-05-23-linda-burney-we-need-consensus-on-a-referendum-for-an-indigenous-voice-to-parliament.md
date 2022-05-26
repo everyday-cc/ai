@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Faith leaders unite to support a constitutional referendum on an Indigenous Voice to Parliament"
+    excerpt: "The leaders of major faiths in Australia will declare their support for an Indigenous voice in the Constitution as the Albanese government tests for the consensus it needs to take the nation to a successful referendum."
+    publishedDateTime: 2022-05-26T13:31:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/faith-leaders-unite-to-support-a-constitutional-referendum-on-an-indigenous-voice-to-parliament/news-story/8716610557037b268faf881a91aed202"
+    ampWebUrl: "https://amp.theaustralian.com.au/nation/faith-leaders-unite-to-support-a-constitutional-referendum-on-an-indigenous-voice-to-parliament/news-story/8716610557037b268faf881a91aed202"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/faith-leaders-unite-to-support-a-constitutional-referendum-on-an-indigenous-voice-to-parliament/news-story/8716610557037b268faf881a91aed202"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 27
   - title: "Incoming minister Linda Burney says Labor’s priority on Voice to Parliament referendum is 'consensus building'"
     excerpt: "The focus of Indigenous leaders has now shifted towards a potential referendum date for a constitutionally enshrined. Ms Burney was asked about the specific da"
     publishedDateTime: 2022-05-24T02:42:00Z
@@ -41,15 +52,17 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘This will change Australia’: Linda Burney says Labor committed to Indigenous Voice"
-    excerpt: "“People are ready for it. They’re ready to finally deal with this issue of a referendum on recognition and a referendum on a Voice. And once this is locked in, you’re going to see a groundswell of support from across the nation,” he said."
-    publishedDateTime: 2022-05-22T19:08:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/this-will-change-australia-linda-burney-says-labor-committed-to-indigenous-voice-20220522-p5aneo.html"
+  - title: "Election 2022: Aussies ready for Indigenous voice, say Uluru authors"
+    excerpt: "Indigenous Australians who have led the campaign for a voice in the Constitution for the past five years say the nation is ready and ask the Albanese government to draft a bill and set a timeline for a referendum."
+    publishedDateTime: 2022-05-25T10:47:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/election-2022-aussies-ready-for-indigenous-voice-say-uluru-authors/news-story/9c2ae5ee45738b962191415bb2631b27"
+    ampWebUrl: "https://amp.theaustralian.com.au/nation/politics/election-2022-aussies-ready-for-indigenous-voice-say-uluru-authors/news-story/9c2ae5ee45738b962191415bb2631b27"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/politics/election-2022-aussies-ready-for-indigenous-voice-say-uluru-authors/news-story/9c2ae5ee45738b962191415bb2631b27"
     type: article
     provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 0
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
 
 secured: "Lp+0UeXqn5H4GzQb05EozQQ29xO4/NIUjcd0KkBA12eXql8L+8FI6/DsPzMoCqHIHjLwyAaRp7gnmhv2Ux2Ey5PMz5V7H8Po6nKv/18zGfW8lDnat+tAAoIEPgSoxy9kdaaiKdikiMKtauiuISpnZUmqLEGUD73VhY25UI6Ok5Erg0uXA6p+NJL4pMGDk0cFwDGNIdyCpvuPcWxOUjHWJRk+poAgfZMc25+VCuXy2ug9MUx7G5gB8LFm9HoHXRUFH4UOezau+MdxP6VCKV+JVhdADyokup+bKMLs0/aAHhgeC1A9I1IkoTrTb8xyCYUxl6H9LeVRJ8aJXABPY4/qV+kf3p1xc/RWBtTXyn/e4uM=;Aw1iS4+hAdx2NKTsyw2sRA=="
 ---

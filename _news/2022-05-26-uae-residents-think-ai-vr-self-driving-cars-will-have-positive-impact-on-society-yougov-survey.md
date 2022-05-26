@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T12:24:00Z
 originalUrl: "https://www.itp.net/emergent-tech/uae-residents-think-ai-vr-self-driving-cars-will-have-positive-impact-on-society-yougov-survey"
 webUrl: "https://www.itp.net/emergent-tech/uae-residents-think-ai-vr-self-driving-cars-will-have-positive-impact-on-society-yougov-survey"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: GDPR fines

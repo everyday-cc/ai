@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI makes developers’ lives easier, and helps everybody learn to develop software"
-    excerpt: "The post How AI makes developers’ lives easier, and helps everybody learn to develop software appeared first on The AI Blog.\n"
-    publishedDateTime: 2022-05-24T15:00:26Z
-    webUrl: "https://blogs.microsoft.com/ai/how-ai-makes-developers-lives-easier-and-helps-everybody-learn-to-develop-software/"
+  - title: "CouponXOO Personalizes in Digital User Experience with Artificial Intelligence and Machine Learning"
+    excerpt: "Since 2022, CouponXOO has concentrated on developing and innovating their digital coupon platform to improve the personalization in user experience on the internet. In April 2022, CouponXOO partly succeeded in the personalization in user experience and this is a promising revolution for both digital users as well as brands and marketers on CouponXOO coupon platform."
+    publishedDateTime: 2022-05-24T11:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-couponxoo-personalizes-digital-user-experience-with-artificial-intelligence-/2022/05/24/9607728.htm"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
     images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/05/AI-is-making-dev-life-easier-social-1024x538.jpg"
-        width: 1024
-        height: 538
+      - url: "https://api.blockchainwire.io/uploads/Etkaan/editor_image/c84c63ba-2979-48f1-a2a7-032cb9fae2c5.png"
+        width: 261
+        height: 264
         isCached: true
 
 secured: "ky0oS0Is3ILvH/DpGZsNNSJ/Q8GHInw2xec/7TLgoENuYOiYSt7DrR627sUTOo4TJPAGjU0stWeocLyPZEbzuWtBweMHGasf9OjgljQVYK2yebnnPlZrXqoVFMS1VL0UXAtCVzWrL8sHYT/d9P0aFCTosbNaxrbIkqtGyzTrnJ3/CU+PrUsa8cv71CYkYFIFfsdKoRfG9cME+l41C4NN0ZCOwgOQqbLr3dRYs7AThTyGtA9pz7DZvPo69OiLPnusp/D4xisVBtwrSz5ellQ+6ah/a+fGpmMeUiSI1523Ey51U9d5NSSfCJ3qaPNAKtvqz38E242+7akEsk1gZq9t/16J3YwTTjLV1Vklb+VfE+ScJYaJLsPP1YIj8BR+N2sdSLNLEhwXPVAnJjF+ocsVCk/t2uyrmCxU5f6K9xdS3ZUBSxauuLOoBC4kU/8vN1uVsRW2/UoKa6R6Hc7OglF4BdzoXtYtlefWxL45up81Td9g7yDQcV4A3xZZV1JebuC4nPLXx+bnRS+bL3qIGAarOw==;4NW46drJxsyMi8pULxvCWQ=="

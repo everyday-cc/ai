@@ -137,6 +137,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Artificial Intelligence In Finance Market to Showcase Dynamic Demand during the Upcoming Years, Forecast Till 2030"
+    excerpt: "The new report on “Artificial Intelligence In Finance Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030”"
+    publishedDateTime: 2022-05-26T13:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-artificial-intelligence-in-finance-market-to-showcase-dynamic-demand-during-the-upcoming-years-forecast-till-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
   - title: "HD Maps for Autonomous Vehicles Market Emerging Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
     excerpt: "The global HD maps for autonomous vehicles market is expected to reach a market size of USD 16.51 Billion at a steady CAGR of 34.3% in 2028, according to"
     publishedDateTime: 2022-05-23T10:58:00Z

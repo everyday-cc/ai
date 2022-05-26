@@ -300,20 +300,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
-    publishedDateTime: 2022-05-24T20:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 61
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The biggest Azure announcements from Microsoft Build 2022"
     excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
     publishedDateTime: 2022-05-24T20:05:00Z
@@ -393,6 +379,24 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure"
+    excerpt: "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators ? SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,"
+    publishedDateTime: 2022-05-26T13:10:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/05/26/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 46
+  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
+    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
+    publishedDateTime: 2022-05-24T20:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z

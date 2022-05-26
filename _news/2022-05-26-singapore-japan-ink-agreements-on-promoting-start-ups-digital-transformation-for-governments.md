@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T13:24:00Z
 originalUrl: "https://www.channelnewsasia.com/singapore/singapore-japan-ink-agreements-promoting-start-ups-digital-transformation-governments-2709716"
 webUrl: "https://www.channelnewsasia.com/singapore/singapore-japan-ink-agreements-promoting-start-ups-digital-transformation-governments-2709716"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Channel NewsAsia Singapore

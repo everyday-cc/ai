@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T13:05:00Z
 originalUrl: "https://venturebeat.com/2022/05/26/how-ai-based-digital-twins-accelerate-point-of-sale-pos-testing/"
 webUrl: "https://venturebeat.com/2022/05/26/how-ai-based-digital-twins-accelerate-point-of-sale-pos-testing/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/technology/ethical-ai-a-challeng
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Watch now: Closing the gap between Theoretically Applied AI and AI Applications"
+    excerpt: "This week we were joined by Anthony Bak, Head of AI Implementation at Palantir, for our latest AI Leaders Lunchtime Lecture."
+    publishedDateTime: 2022-05-26T13:44:00Z
+    webUrl: "https://www.techuk.org/resource/watch-now-closing-the-gap-between-theoretically-applied-ai-and-ai-applications.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 15
 
 secured: "VJFLpz7QoYuXdjx0p23cnNCgEGBVfI0fTdsXcESatXoB63UJsGAf7QkLI8WLslGlVcVAPjtlIuN+WYhwy+p+16pI2d3xEfVKZSr+8aLHjqMFiPcTH+wbLbbeZC34S7qG9d2icLr1fh6ylwXu9Hf1a6/fgTMxrmzlTetA6bs3BY8wuK7wfhZZTRDo8PFhNbzm8msZcIbhcJRqDf2VfB062lmLQNpG8W1vbqlsU6y9DsCBptOpx/WvlWXRdHqCdYlnsJdZxc2CsMFeoJxud6RsKWbac0LVwdhnQG1VS25F6EedBVBH3bDLYjE6gN//f0E7oxJN8rTUZCVKppksvVLuXsQ46Oyd8YloJh8mzaWXhE+ZTS9XLnYWACsNI+6VABdRtctEX6dcRkRV3KMdv2Ui03yjv/YgNKkuX9IWvolrP4v/6pdG12Xqx+QnDCyTdEwExQC8nPCYwJd0oGFaPNXeeYqWngPPBcHJLDnOQ4tBG2ulzKHEaXuBeAK/2RKu+haBPRpN+8fKiru4ZoOBS1cXBw==;wCEHNFKZEjuSNkB6Yo+rHw=="
 ---

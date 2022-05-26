@@ -83,7 +83,7 @@ related:
   - title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last year"
     excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
     publishedDateTime: 2022-05-23T18:00:00Z
-    webUrl: "https://www.just-auto.com/features/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-year-2/"
+    webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-year-2/"
     type: article
     provider:
       name: Just Auto

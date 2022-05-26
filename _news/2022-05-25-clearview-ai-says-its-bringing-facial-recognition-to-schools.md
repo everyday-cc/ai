@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-18489755
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
 type: article
 quality: 104
-heat: 424
+heat: 434
 published: true
 
 provider:
@@ -257,8 +257,8 @@ related:
     quality: 49
   - title: "TechScape: Clearview AI was fined £7.5m for brazenly harvesting your data – does it care?"
     excerpt: "The facial recognition firm earned a heavy fine for scraping millions of pictures of people’s faces from social media. But that doesn’t mean it will change its ways"
-    publishedDateTime: 2022-05-25T10:07:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
+    publishedDateTime: 2022-05-25T11:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
     type: article
@@ -353,7 +353,7 @@ related:
     provider:
       name: Joplin Globe
       domain: joplinglobe.com
-    quality: 27
+    quality: 25
     images:
       - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
         width: 415
@@ -440,6 +440,15 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 9
+  - title: "Clearview’s Selfie Authentication Business Begins Operations"
+    excerpt: "Embattled facial recognition specialist Clearview AI has already started to win business from its expansion into the commercial market."
+    publishedDateTime: 2022-05-26T12:14:00Z
+    webUrl: "https://mobileidworld.com/clearviews-selfie-authentication-business-begins-operations-052602/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 4
 
 secured: "XhnbHn1lNj5cDgMrSa116cmjOwckLV58oBRroUTVB+/xyuCkNIAlaK0XIf9LA1mNtPaTxoxvluYDVDRYPob4Yris2EHKXNhsTM487Aa4eh3LSrZQfHFcvZOVEJT9i61fX2BdphIPBNIJtfquf2ExI585r0g8G7oKaJW15uTE1dFQEyQtrNzxAA5I6EtMetYWCB+W/92M+pOpKKm5tOloz0qBRnvbAV1P5d6W7DSiJihqAdohqHJC9rSgxvRLjtX/0cN++IDS8uMkFMBGFVzVQtSHZEJXccXhifxpa4jwX5wdRhOwci3Tdek6yH+xZ2Sq64aYvpo9K3u9dfraFv3pfHQnluvyUGQTWCwctBt1O1QMLctoVj/Gbz3SqRN8izhVM7uaqqE6vcn/SGrvvMQBRahX0Fn4ehRZfzHWyMBIKhdFAgFclhT/QJ2mUPDqrNWv5i1HXe4KhQEa8bexJcb2+K9GKQMY4tgG3rqti6MDfgs/eRYHEj0fITRJiypm6GguE+PHsv3m8KLq3FTWVgFddQ==;8diLTFpnTlICoHiF3Lux5Q=="
 ---

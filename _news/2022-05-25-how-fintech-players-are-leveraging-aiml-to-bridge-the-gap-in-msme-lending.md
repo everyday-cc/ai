@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 330
     height: 300
     isCached: true
+
+related:
+  - title: "A Look At The Future Of Fintech"
+    excerpt: "Properly managed, many of the economic changes prompted by the pandemic can only benefit traditionally underserved customers and small businesses."
+    publishedDateTime: 2022-05-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/26/a-look-at-the-future-of-fintech/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
 
 secured: "/L0KIC5sbJcXyp2zyWIwfWIq3knWUBPbSRRQJ6ueB/kw7Pi3tUyWcefUBBDjnxqdkvNntb/dmsWQKYRmYbAKDcAYG+zT4ypvN6E5JTwcalIzKSXLYWow10Fo+p21RsE0Arx+wToYX7Bqa3TKnNiRix8yhayw1XsOiezL1ajn0rGsAtPxvSkbsZuUOu5973+OCHaFwveSZ4Eh49l9LvMktJPGBGDBshUo0wCOHkurY1NLCjIfv5MIsiwDKeqqgMsXcm2pyQnTaemey15mLG/QeIETuhlRWKoPX0XqAtlLamLrXNUpY2RYxOt7zeHKGGAwTiJ4Y46vFJWIDorucnhLVsKSOlZo9FbOIP+mcz5qHKk=;xk4eKIYj9wsmbxNAEahKWg=="
 ---

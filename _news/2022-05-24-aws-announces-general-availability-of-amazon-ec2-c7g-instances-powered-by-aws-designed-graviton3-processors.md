@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-23T21:02:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-amazon-ec2-c7g-instances-powered-by-aws-designed-graviton3-processors/article_4b3b4752-26c4-59a8-8118-a0af38cb1e61.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-amazon-ec2-c7g-instances-powered-by-aws-designed-graviton3-processors/article_4b3b4752-26c4-59a8-8118-a0af38cb1e61.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Joplin Globe

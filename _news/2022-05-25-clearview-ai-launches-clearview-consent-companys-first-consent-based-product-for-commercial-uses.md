@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-25T10:57:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_ac316dfe-f089-5a74-9305-dd50401cd4af.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_ac316dfe-f089-5a74-9305-dd50401cd4af.html"
 type: article
-quality: 27
+quality: 25
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-  - Microsoft AI
 
 images:
   - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
@@ -268,8 +267,8 @@ related:
     quality: 49
   - title: "TechScape: Clearview AI was fined £7.5m for brazenly harvesting your data – does it care?"
     excerpt: "The facial recognition firm earned a heavy fine for scraping millions of pictures of people’s faces from social media. But that doesn’t mean it will change its ways"
-    publishedDateTime: 2022-05-25T10:07:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
+    publishedDateTime: 2022-05-25T11:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
     type: article
@@ -437,7 +436,16 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 9
+  - title: "Clearview’s Selfie Authentication Business Begins Operations"
+    excerpt: "Embattled facial recognition specialist Clearview AI has already started to win business from its expansion into the commercial market."
+    publishedDateTime: 2022-05-26T12:14:00Z
+    webUrl: "https://mobileidworld.com/clearviews-selfie-authentication-business-begins-operations-052602/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 4
 
-secured: "k2/vljqOsNJPgLWQMZJPLJB9JS72y5yj/s5eXoYUdWxiLqiGdjIIXqdkKYPd2dhB7PUGWRM3TOSSRiug0J7EHitikUFG6FNLkuqvMsaBM3UiLiwuEPBprmByvV0tOtTQZNTyYQvajxtjdGoo8tTe6MuC5xJJ0xLf8PmiWEsXFKmvvSgp+ajrNLTAgfjB1UqIdknN5zgHUwmrMue9G1XpDOOomCvuAnMdfTBEfLvFRag4v09rEI0df8fgbxt01qf7G8+sYFinJX/g2c+7fz/z0DjfoIX5VuknwAeAFS1jonydSiSUJy/0RGmOoUglMsQsBFed9iXF4aGBPL2rTnMlaFQ8XEBncI9I/kwJrk6P9xwPM+Hih884F0YwExrJjsnp3DfoIGmfzw+7z5vjh/x1/pouV5R6XM/+TXX7M/XhVyRkIM4wDfxLh1uY9dnARvoDrpIGodfU0faC+3xjkf58jeeurw6sMAx1RqJYhBvtqpCi7QPfwSEIF012PVTriosu1BHs2lrNuJvyhKx95IJlHw==;kRRj9zDoNwaWvWnl+sddmw=="
+secured: "Po0Xtl7CI7lhfhF5B28P4hKweWAasjYSSZ4Vd9qtY7NVJ711pX4JPeACwwGGSROEmgUawmEf3/VCZK2fr0x8Tq8SNSbJEk/K1m0f9DK+vpS9yGVA/FqZ5PlAe1XFfdUiY0B8RxY+R1KrtEfUglijkHGZ/tnM6HvIr3d5ErXvIrIoZJOwFZ9nPZ1K6uWIlYQzRA7PCWAzyHYldieARvn2dcvhP+zLHzee1ub8ZB1wXqE2ARJnKj5/EN8s4Lr9I1xwzmwnOC6I8ckBqasPJRVvzKEHaQxbO6Iy5XNcDVcB7h3efVExvp8gBKZ3SaFJNbheI5zUe/tYHP0uplFslaOME+zS7MxyNpSztd36o6w36nY=;jyASGRnujPBARpRodBEufQ=="
 ---
 

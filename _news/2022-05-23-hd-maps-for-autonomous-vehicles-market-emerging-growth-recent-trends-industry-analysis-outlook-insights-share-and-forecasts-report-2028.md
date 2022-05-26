@@ -137,6 +137,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Artificial Intelligence In Finance Market to Showcase Dynamic Demand during the Upcoming Years, Forecast Till 2030"
+    excerpt: "The new report on “Artificial Intelligence In Finance Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030”"
+    publishedDateTime: 2022-05-26T13:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-artificial-intelligence-in-finance-market-to-showcase-dynamic-demand-during-the-upcoming-years-forecast-till-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
   - title: "Global Artificial Organs Market To Be Driven By The Growing Demand For Kidney Transplantation In The Forecast Period Of 2021-2026"
     excerpt: "The new report by Expert Market Research titled, ‘Global Artificial Organs Market Report and Forecast 2021-2026’, gives an in-depth analysis of the"
     publishedDateTime: 2022-05-24T14:08:00Z

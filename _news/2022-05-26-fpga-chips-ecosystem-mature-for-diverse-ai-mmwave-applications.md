@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Watch now: Closing the gap between Theoretically Applied AI and AI Applications"
+    excerpt: "This week we were joined by Anthony Bak, Head of AI Implementation at Palantir, for our latest AI Leaders Lunchtime Lecture."
+    publishedDateTime: 2022-05-26T13:44:00Z
+    webUrl: "https://www.techuk.org/resource/watch-now-closing-the-gap-between-theoretically-applied-ai-and-ai-applications.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 15
 
 secured: "lHiXfQYoTpDXnbimF8lZrtSat5kKekM4X9K6fha5Tz3Mcdkcug4nA/ZGkiGpcculKMFmIbTdZK802CJPuFp0dff6q5Usog6UPDCd8sTvKR9XIt8vaJyhNyUZTTbta8E4cTF33kK0eFIUQwJSYq2bG6bNKKS2FIsYx0TSasstOtbyX9/xrAkTlMuo4gpg7rj4sJrc+GIMcd/9BaCGlCaElxyuaVV0guVtBScmNVB8Xrzd62VUPhEeKN0AjMXBycpfygrMfsqtQBSaB7Gtj5Zrm7DXuA645jacGN2Y7DV2r6BdA6WUa4ZFAEPM6IY0qTi0NysJaxaUM0Qzd8Y36Jp7UfYl3XSFyJZI44bkVgRlsFSRCsicByppX/dT2CvDuzIFmSew+Q23mYYQrKF1HquyYqvwLcFoLHKmJn9ibX6ZAz0gQolXG2RuBSFB7vdUdk7YX3It4dHz61/LbD7GqWEN9EVWjAtLvPN+5bosL0KF77d6e4YfqmX7cKKcrHxiyC+5+7XCN8MoKSvzQZR4KM6pxQ==;v0BwRpAUQwFO5XFhKggHFQ=="
 ---

@@ -25,6 +25,22 @@ images:
     height: 264
     isCached: true
 
+related:
+  - title: "The AI Developer’s Role in Creating Great Customer Experiences"
+    excerpt: "Artificial intelligence (AI) gives retailers a deeper understanding of their customers, enabling them to deliver personalized experiences that keep customers coming back."
+    publishedDateTime: 2022-05-24T12:57:00Z
+    webUrl: "https://www.devprojournal.com/technology-trends/ai/the-ai-developers-role-in-creating-great-customer-experiences/"
+    type: article
+    provider:
+      name: devprojournal
+      domain: devprojournal.com
+    quality: 37
+    images:
+      - url: "https://www.devprojournal.com/wp-content/uploads/2022/05/customer-experience-and-AI.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "7J4brMxz9NCuPaxRSGZo822lDH+O9aEL9Tllf73cLTFESaJWlBQmAbJei7kaSei2LUFBIA3WUsYu6fy+qETXBcjCO5Zc12XPCwcIaIP+bchmD7Nv8vRARXz+NDwy8oKS60/OkipCilRQx0QH1YzIi8+mvVH641yJ/FlCMAyN/QM9cKEk8NwDXUH9TepOr4AkiIFZqBBVYNOATJkmA15y+MPZT/9zTOjKwAXOC96KRAoH960XwXELa9/uYOIQoE3I/QYAlWHZqUCq5Jdllz2uquSlZj2QYBaTj8S1ZRfuBfm+vQJQE/AWXV0gjroZXb4xmBMIvgW79z0/rg3rUtJCgPTvEr4FXW0u0mcKHW57UfQuzRnupFnuqpq7zShQ9NarrNshK16NUksehi1lkCI4Kz2lcfnid63qavhiSM9f3bF6sPj6iAYetzK4bmkMAxoDYmrvaLW3qLq76KaYcTKVsmPZ1sawzcWxq/k3xrJWRdQgQBCDaNj//ui5aGh7+LgJUi5v5NumHPZvoNqcKphvLQ==;gjGFDsjf7E20IwaoqtBA4g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://gulfbusiness.com/wp-content/uploads/2022/05/MBZUAI-IBM-MOU-Signing-Image.jpg"
         width: 930
         height: 600
+        isCached: true
+  - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
+    excerpt: "In a time when the pace of change is accelerating, the presence of creative excellence for businesses is crucial for success. However, it is easier said than done. Creative excellence with humans alone has its setbacks,"
+    publishedDateTime: 2022-05-26T13:36:00Z
+    webUrl: "https://www.chron.com/business/article/Top-7-Ways-to-Cultivate-Creative-Excellence-with-17200357.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/73/22/22525110/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "IBM and MBZUAI join forces to advance AI research with new center of excellence"
     excerpt: "Natural Language Processing (NLP) including Arabic, AI applications in the healthcare industry, and sustainability ABU DHABI, United Arab Emirates, May 25, 2022 /PRNewswire/ -- Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)—the world's first graduate,"

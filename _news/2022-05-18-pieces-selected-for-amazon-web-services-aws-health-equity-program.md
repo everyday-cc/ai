@@ -3,8 +3,8 @@ category: news
 title: "Pieces Selected for Amazon Web Services (AWS) Health Equity Program"
 excerpt: "Pieces, a healthcare AI company, today announced that it has been selected for a new global program from Amazon Web Services (AWS) supporting organizations that are developing solutions to advance health equity."
 publishedDateTime: 2022-05-18T11:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/18/9604351.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/18/9604351.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-pieces-selected-amazon-web-services-aws-health-equity-/2022/05/18/9604351.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pieces-selected-amazon-web-services-aws-health-equity-/2022/05/18/9604351.htm"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "glSB8i5+JgSZQpimoIh0r+BWjF0hrii7gomO3/9BRrNQcBm7vaFX57OZZnMT3YLAEIZxPikGIkheLkukREOPWez4IEKV3MLtQY5c1CECtSA+vPuUQb9gLcPtTtFAICQk6yCcBWR+luyUYXfkWM/tMBzwfMhblJNtnYfh2Nf/3lofT+iVYqRLk9yR6KYuBCguqeMM/9wNB9IGauxtCTdIAYOhhjtQORTo1YUe8ac3RW7iPzucG5D8KVQ1ZpUCl0D+MBaDAsDgcL41pZD+q//lwHmoum8PsjjZDO6v267zkuMLWoU+5cZm+qGMi4oGd7bVErTWtH+SIzLKOkJm/6Sz6HSSrWvDnr+qhmHAf5OmhZ+QnNyZmSGJJpFlYOguLppT+pcEJV52Aa7DU9+0p86neLhIgZOYWvVjEVoNIwIRuB4CBq9gkZfJmpw7doukvRJJb915Yq7Y8mDO6KrrR/pRWnxDu26OWFGPneLgNCwHgbH72X/emzTyd8aiXznh7Oc9UwthTBsVuoKLfhxBH/fe6Q==;iFVgq6mBjGVd9VCyFptiTw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1177522/Pieces_Logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "DhK2gtz3xvKw66E4Ku1XlmOGtXjUOCbdeU9mFOt2cDOtPSN6JKp+5bZ624q4W/GdAjgMcFzfoSBCDlm17Ugs5jVxBnAzJEqxPwqLw+QcKxJgYCAZYcJpCdR9swqDrfciAmaqySmj1oGBgIM08tsfD2BlMlAC3Vtm3KTxAFVul2SG0TfxCXv/+x/WbIaNNstl+1a4dIc5Nl/0O6qNMnTFclISj96jv8ldJWYHT71O9D6RV2twbHxjy0Vz59NoRQAhkpmyr246ptDO+mao1xSnOv7pKAv55jySPEmHj5brsR6asNUeXlDVwwMrOk6M82Fdrkl3L+97Wppxi2Qzwi51kYqCygdQtSsl6pWoCHwOVK8=;hnxw3rpN0xbklx6ceSc/jA=="
 ---
 

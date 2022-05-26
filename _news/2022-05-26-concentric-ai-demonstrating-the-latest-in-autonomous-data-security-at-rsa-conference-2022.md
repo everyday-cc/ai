@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T12:03:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-san-jose-535066c64e4b42c9b6e32019cf0db0c6"
 webUrl: "https://apnews.com/press-release/business-wire/technology-san-jose-535066c64e4b42c9b6e32019cf0db0c6"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Associated Press

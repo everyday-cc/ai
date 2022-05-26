@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-logistics-market-size-from-2022-to-2028-2022-05-23"
 type: article
 quality: 82
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Artificial Intelligence (AI) Governance Market Size, 2021 Segmentation, Demand, Growth, Trend, Opportunity And Forecast To 2030"
+    excerpt: "An estimated 51.4% of the global population or 4 billion people was using internet by the end of 2019 – International Telecommunication Union (ITU"
+    publishedDateTime: 2022-05-26T12:40:00Z
+    webUrl: "https://menafn.com/1104277310/Artificial-Intelligence-AI-Governance-Market-Size-2021-Segmentation-Demand-Growth-Trend-Opportunity-And-Forecast-To-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
 
 secured: "9eVF2U5OAILVjAlZ/dMgKT0nNUcH4y1Jfl5pfry8af2rctCG50u0z+aIgoyfhFWMsiLGXMeY8JCRJ6qy77q87QZtTan6EEIIZ/NTs1Rhxc7ZKFyPoRxfJnJYYnRx+9rtqkDW67U5k4zJ5JdjWqLVCNBE7JZgmmPAIC90U2S6J8y48/TycUPTdBkOFOSSBrVB8FP6+IPM0HpYIGy2snWdsxEtx8/s1etjc8Z7mtMx7pHmYnNOXqjXS6FOZvdZgnDBPPlcPefcXJs5jCzvpepArz7y63wzRU62EpqS3QXj7GL46rLjYDUSP1ILDCOMLByP/rKEPVI3SbJEx850nzZcKz1xVYupgAAqDxYPfQ2iesQ=;YQ/PST1I970kz6SqZh84YA=="
 ---

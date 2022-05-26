@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Making sporting history: EuroLeague selects Israeli startup MindFly to power First-Person Point of View (FPV) content from players"
-excerpt: "MindFly will fit AI-powered bodycams on EuroLeague players to enable fans to watch, hear, and experience everything their favorite player does while on the court"
-publishedDateTime: 2022-05-23T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/making-sporting-history-euroleague-selects-israeli-startup-mindfly-to-power-first-person-point-of-view/article_bc60d207-2580-50d4-828d-cb105e6b7a31.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/making-sporting-history-euroleague-selects-israeli-startup-mindfly-to-power-first-person-point-of-view/article_bc60d207-2580-50d4-828d-cb105e6b7a31.html"
+excerpt: "MindFly will fit AI-powered bodycams on EuroLeague players to enable fans to watch, hear, and experience everything their favorite player does while on the court . Groundbreaking"
+publishedDateTime: 2022-05-23T12:00:00Z
+originalUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220523LN65965/making-sporting-history-euroleague-selects-israeli-startup-mindfly-to-power-first-person-point-of-view-fpv-content-from-players/"
+webUrl: "https://www.wearegreenbay.com/business/press-releases/cision/20220523LN65965/making-sporting-history-euroleague-selects-israeli-startup-mindfly-to-power-first-person-point-of-view-fpv-content-from-players/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: We Are Green Bay
+  domain: wearegreenbay.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2019/07/cropped-WAGB_DOTCOMv2.png"
+    width: 1018
+    height: 340
     isCached: true
 
 related:
@@ -50,6 +50,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "A+vpaC0gKFQULrS6yMpkZljiX3B3wDByUMYgJPtykuO90IwJGIZU/RZEBvUCIgTkSdqhvYf8gm5VL2H75OBLZNmMRC6oli7I+vaLcYcW4FYZbiZJTKVtCLJlWj6vbMBZWSSXO2MXEUzm0ig7eEjxCFlWciGogqRm1+jOsuGO6Crd7ZIX6lNjsGy5UQpoRfA7PJKIxIoxaqHqRncfK2ExTvyYGibYXzA11gYD74yj6mL8BEwkRdPM234GwxnwZ7pmpgvXHXvXX6r8SppffH8ZR5dkMb2+BcJLR1Cniz8ggE6cZffCsWWHjBay78+sYfQ/fLSHtR6gt6nDwUnmnvsPagMX6qtAxRJSeoJIO4yL0jANiB1I4Hf9YYdqkcggYjnMXWiBiOASdSDZSehlWA2oSmFnaCy2YvEx9e53mdu7cNsshEVhppBnkMEOF3UvnO6LbfxbzGm47EpnbaOm2xUYUE1fwKC4bmsa38yIEUCgnXiFxGQz+gK+127O2hu0Rd9wWkSWL/6dr6AtUcyLPXxWdg==;/blOdBhrcFslnnf2ZdzFww=="
+secured: "UqlNyfnWkPW5bhnzE+Xr0gjlE5xx7fSEBS/yMdK29GNaz8z4/ymjI/YPg4gQz7H7GDcDxrE6uxwiUB/fZeXBGnHUC34pgsrl6uruPysVgkJ9wlS2MqGI33yHM2L6h4W/5o6mLDbLGg3i4tzNyWmqAGJfEhY6LFLcyefpVtJp3Vp55Tb52ilcjnWNn3hI1U5KbDdq1XY0AAuXS1DgNLK1WiOAZn04KG4/vW23z9Bd8fHbPsJjt82rIZ6NU5UsWPvzgBVU+y3SMOoNwb27ltOV+/wx2lluFqsPUfvEgeQ3VRYeTaHjCQNKa+7ojv+hVP/sP2BDJ1GuKwTeuEi2qxHzm8W97o7Xb7JKmk29h8u1OeI=;E0xrJm9cBqUxDaoRyqn0mw=="
 ---
 

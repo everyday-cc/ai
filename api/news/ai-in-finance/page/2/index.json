@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-04-28-finbotsai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a.md",
-      "title": "Finbots.AI, a Firm Providing AI for Banks, Financial Services, Raises $3 Million Series A",
-      "excerpt": "Finbots.AI, an \"Artificial Intelligence-envisioned\" firm for financial services, has raised $3 million in a Series A round funded by a single investor -",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Sanjay-Uppal-Founder-and-CEO-Finbots.AI_.jpg",
-          "width": 600,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/04/190385-finbots-ai-a-firm-providing-ai-for-banks-financial-services-raises-3-million-series-a/amp/",
-      "publishedDateTime": "2022-04-27T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2022-04-28-how-can-saudi-arabia-unleash-national-success-in-fintech.md",
       "title": "How can Saudi Arabia unleash national success in fintech?",
       "excerpt": "Abdullah Al Othman is the founder and chairman of Geidea, a Saudi Arabia-based fintech specialised in payments. It works with over",
@@ -1303,6 +1260,49 @@
       "provider": {
         "name": "fintechmagazine",
         "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-14-how-the-banking-sector-can-use-ai-for-risk-mitigation-and-revenue-generation.md",
+      "title": "How the Banking Sector Can Use AI for Risk Mitigation and Revenue Generation",
+      "excerpt": "According to Open Text, “the world’s most successful Financial Services organizations are already considering AI and machine learning to help them address” such issues and functions as payment processing; personalization of customer experiences ...",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation",
+      "originalUrl": "https://biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202204/GettyImages-1225376448.jpg?itok=ipPUXu3Q",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/04/how-banking-sector-can-use-ai-risk-mitigation-and-revenue-generation?amp",
+      "publishedDateTime": "2022-04-13T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -93,6 +93,15 @@ related:
       name: National Catholic Register
       domain: ncregister.com
     quality: 33
+  - title: "She was the Art in Artificial Intelligence"
+    excerpt: "He created an artificial intelligence helper named ‘Marinette’ also known by his computer as ‘(Mar-AI)’. Where upon realising that Damian doesn't love Marinette and never had, she just starts to become more static."
+    publishedDateTime: 2022-05-26T13:04:00Z
+    webUrl: "https://archiveofourown.org/works/39235794"
+    type: article
+    provider:
+      name: Archive of Our Own
+      domain: archiveofourown.org
+    quality: 17
 
 secured: "XMeCT4l7MiGBU2TJwYi+4oLgkg1G69vJGiifVlO6z17BHsxX7Frn8hZZOjNs+2FA9p7yuE4qU6KwA0Yb9Td6eLonNXITWOA4BlugtnsUkntCyrUZmEeYqZbQcoAWHe4ep/2FcF9su7tGSY80F8mI8Txs/YZf6oiDx524dVU4nuGpk1lrfMB7xBhPW4qBtUz33DEi/Vy8KFcrOYKE2O37pboHt4DYADtwScxhYU1NxvQ+RSSK+qub/OoJPQ7urtpiqnW6C4brb2J+AQBqwbQorxsWeXchOqr7gYzIg4jo8Tl4jsIb2kg5wq82OEaAc8hZ1mretdDwUtKvO+qenPDGBo+Xfen+lwQ269r3l5AsKueK7qb0BjMUOMhh/YKYQj/AtbvPJCPRtFBUfrdGZyytcAXG7aB5WBvbfVybTxicxaF/YAiSKKqTCo0DQasvazWS3bowOqmo8dR7hPYuXDWJzQmIBEdA7GOUtgHEPkgCv1txwpYmMUPR9PP5Ojk214i+JgtRsEE4iI+O8tp8bgsJkQ==;OJ661qmzz7ACaYPTDPyyGQ=="
 ---

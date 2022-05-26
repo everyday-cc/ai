@@ -266,8 +266,8 @@ related:
     quality: 49
   - title: "TechScape: Clearview AI was fined £7.5m for brazenly harvesting your data – does it care?"
     excerpt: "The facial recognition firm earned a heavy fine for scraping millions of pictures of people’s faces from social media. But that doesn’t mean it will change its ways"
-    publishedDateTime: 2022-05-25T10:07:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
+    publishedDateTime: 2022-05-25T11:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
     type: article
@@ -348,7 +348,7 @@ related:
     provider:
       name: Joplin Globe
       domain: joplinglobe.com
-    quality: 27
+    quality: 25
     images:
       - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
         width: 415
@@ -435,6 +435,15 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 9
+  - title: "Clearview’s Selfie Authentication Business Begins Operations"
+    excerpt: "Embattled facial recognition specialist Clearview AI has already started to win business from its expansion into the commercial market."
+    publishedDateTime: 2022-05-26T12:14:00Z
+    webUrl: "https://mobileidworld.com/clearviews-selfie-authentication-business-begins-operations-052602/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 4
 
 secured: "MXrUocutvi95R03WZ8tooJMOhle9A2k29e8VclVQtEXkTg1piWuexD8cArfoofiChA8xVV9U2nHM51uIRzmwnnX3LgfQxH/6SYyhRCMgCAewWBrzA8As49jUtkUE7o/QM+ukq21nmhvi5imejc+V7hfQYyGBTB8BNGV2/Unxw6L3GUJpi9KCh3GBwk7y+fe0MIx7TZrE1TDvBb8WgZkI5fAXJ71UO0LBbv6TCedrF6IgRcGQyYEhY48psU1h4mlGQLoFVlDIJ4+IGXm4jXAfSYx4kJE9OCQTYXtx5Ng5hZIXLLuGbkCtNp7Sy87/T+hcmOnLF9F5tLZotseRLicp2IzAsGJI0u5yanN7WO/Pz3u68rFwClMczaRRnkGQdjUxxkasXTRW2gXiKiayktxzVXiDWFRNDNrNZw1CsoeUz+LRejAuwekiwkHb14+9R2jyp7WWOn+ieNKRA/luZyjAN/t1xHGj2NoCbWqkSr15kZo6ziMNE/tvvk7LRbZN7xF5CCfHwUpmEJ7e/d7eaOi/Fg==;dpJ4VouHMjZsPjOn/+3LMA=="
 ---

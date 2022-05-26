@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/urban-indians-want-gov
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Half of UAE residents think the government should invest in Artificial Intelligence and 3D Printing"
+    excerpt: "In recent years, UAE has become one of the world's leading hubs for technological advancement. As emerging technologies continue to impact the lives of the people across the globe, YouGov's latest survey explores the awareness about 16 new technologies amongst UAE residents and highlights their opinions about the future and impact of these technologies on society."
+    publishedDateTime: 2022-05-26T13:34:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/half-of-uae-residents-think-the-government-should-invest-in-artificial-intelligence-and-3d-printing-vyi1v72o"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 5
 
 secured: "oVmUVp69uFnUTAlmQC6hteHTyP1EffCN6twX24CgOsainO3Vxmxp6nfaUnktD2UbGMmgsx3IQ1qlT+cf8+Y+0SkpOCi5kU5eKOlQvh+XJHjN+hChz56rWNezq3+Wip9uBLzO2FAX/XSuyltAHJmZk33g6otHPvlWux+i5uDCzqewTOhxNstsm4s2tUgoNkfP7xr55Ir2Q+/PK67HNYOCLun3jXFK/Dy6I48n9+DHJnBWZ4hIlWQM4CCwIcT/gl/bkytR6TkuFgBwky80pJ0X19X9Ri5fFydgetZMN3PPqIC6znvN8wiV5/PDS1ZKmHH6bvs93siM+lzdkbhs910LOyzIgYcUHWACft5t4H8Xw7U=;Tzt8JKzXSN7jmxY1WhnIKA=="
 ---

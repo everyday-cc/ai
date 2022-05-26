@@ -266,8 +266,8 @@ related:
     quality: 49
   - title: "TechScape: Clearview AI was fined £7.5m for brazenly harvesting your data – does it care?"
     excerpt: "The facial recognition firm earned a heavy fine for scraping millions of pictures of people’s faces from social media. But that doesn’t mean it will change its ways"
-    publishedDateTime: 2022-05-25T10:07:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
+    publishedDateTime: 2022-05-25T11:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
     type: article
@@ -348,7 +348,7 @@ related:
     provider:
       name: Joplin Globe
       domain: joplinglobe.com
-    quality: 27
+    quality: 25
     images:
       - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
         width: 415
@@ -435,6 +435,15 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 9
+  - title: "Clearview’s Selfie Authentication Business Begins Operations"
+    excerpt: "Embattled facial recognition specialist Clearview AI has already started to win business from its expansion into the commercial market."
+    publishedDateTime: 2022-05-26T12:14:00Z
+    webUrl: "https://mobileidworld.com/clearviews-selfie-authentication-business-begins-operations-052602/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 4
 
 secured: "4puRjtRTk4uJ5tvOggmxd7iOr2W0VPnRHiUJ1n8O3+smIThG5yiehTGlddR/qdruViT5/F4kaNdkkedzOQiWLYgJNzRvhDybMIRsVe0vWvNoSDaILBU3RREtNKUZsTV0qFsurLr9OjTZQu8Mvl58ieGNoyMsHtbC29nxX1/Mx9mZ7ZJicV6suXmIW8abloBIwkhUkAP/SwM/D4F82HtuVvAkW6b89XAWd9SOE7lDJgehmi5En7+IbariP3nlmCKoX8EJrP8cyP3d63Fnd7w5+OvQihx0TL0efDrFqawn8I30+ew4s6zdCGBy3go04x7wfWXOVvJ430d7nUJC0DiGWnHKiigy7kD5p+uU5LKilrQ=;4BsjtSBzuze5PazgiNcIpQ=="
 ---

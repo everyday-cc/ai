@@ -54,6 +54,20 @@ related:
         width: 930
         height: 600
         isCached: true
+  - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
+    excerpt: "In a time when the pace of change is accelerating, the presence of creative excellence for businesses is crucial for success. However, it is easier said than done. Creative excellence with humans alone has its setbacks,"
+    publishedDateTime: 2022-05-26T13:36:00Z
+    webUrl: "https://www.chron.com/business/article/Top-7-Ways-to-Cultivate-Creative-Excellence-with-17200357.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/73/22/22525110/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "IBM, MBZUAI join forces to accelerate AI breakthroughs"
     excerpt: "Natural Language Processing (NLP) including Arabic, AI applications in the healthcare industry, and sustainability. IBM, MBZUAI join forces to accelerate AI breakthroughs. AI, Artificial Intelligence,"
     publishedDateTime: 2022-05-26T09:11:00Z

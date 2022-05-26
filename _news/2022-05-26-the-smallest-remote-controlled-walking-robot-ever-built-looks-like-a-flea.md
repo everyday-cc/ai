@@ -31,16 +31,16 @@ related:
   - title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
     excerpt: "By Megan Marples, CNN For these tiny robotic crabs, being small is a virtue. Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking robot,"
     publishedDateTime: 2022-05-25T21:08:00Z
-    webUrl: "https://krdo.com/news/2022/05/25/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
+    webUrl: "https://abc17news.com/news/national-world/cnn-world/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/"
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
+      name: ABC 17 News
+      domain: abc17news.com
     quality: 33
     images:
-      - url: "https://krdo.b-cdn.net/2020/07/krdo_ls.jpg"
-        width: 1280
-        height: 720
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "The smallest remote-controlled robot ever is now this tiny crab"
     excerpt: "The world's smallest remote-controlled robot has been created by engineers from Northwestern University, which takes on crab form."

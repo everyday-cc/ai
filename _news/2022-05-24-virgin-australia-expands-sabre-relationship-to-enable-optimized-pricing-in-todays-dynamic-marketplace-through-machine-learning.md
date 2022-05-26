@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T13:35:00Z
 originalUrl: "https://apnews.com/press-release/PRNewswire/technology-travel-airlines-sabre-corp-ddb2d93c5e622bf86cd763217d9b3d00"
 webUrl: "https://apnews.com/press-release/PRNewswire/technology-travel-airlines-sabre-corp-ddb2d93c5e622bf86cd763217d9b3d00"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

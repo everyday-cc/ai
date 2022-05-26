@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is California Still Investigating Tesla’s Self-Driving Claims?"
+    excerpt: "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ..."
+    publishedDateTime: 2022-05-26T14:53:00Z
+    webUrl: "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims"
+    ampWebUrl: "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/dac6b4f/2147483647/strip/true/crop/1169x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F10%2F047551f6e89d9c93c1029ed26dce%2Fshutterstock-369110243.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Elon Musk says Tesla will have self-driving cars without the need for human drivers this time next year"
     excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
     publishedDateTime: 2022-05-22T18:04:00Z
@@ -89,37 +105,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla to have self-driving cars without human drivers by May 2023, says Elon Musk"
-    excerpt: "Tesla CEO Elon Musk has claimed that the company will have self-driving cars on road around May 2023. Here's what else he said."
-    publishedDateTime: 2022-05-24T11:05:00Z
-    webUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/"
-    ampWebUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
+  - title: "Company testing self-driving trucks on I-576"
+    excerpt: "To get more of these autonomous trucks on the roads, there's some legislation going through Harrisburg right now to get the door open to see more of these when you're out on the roads. Senate Bill 965 and House Bill 2398 would make it easier for autonomous driving in the state."
+    publishedDateTime: 2022-05-23T23:35:00Z
+    webUrl: "https://www.cbsnews.com/pittsburgh/news/company-testing-self-driving-trucks-on-i-576/"
+    ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/company-testing-self-driving-trucks-on-i-576/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/company-testing-self-driving-trucks-on-i-576/"
     type: article
     provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 54
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
     images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/06/Elon-Musk.jpg"
-        width: 1201
-        height: 675
-        isCached: true
-  - title: "Tesla to develop self-driving cars without need for human drivers by 2023: Elon Musk"
-    excerpt: "Tesla chief Elon Musk has now claimed that the company will have self-driving cars without any need for human drivers by the next year, according to reports."
-    publishedDateTime: 2022-05-25T09:18:00Z
-    webUrl: "https://www.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
-    ampWebUrl: "https://amp.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 52
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1696550/tesla.jpg"
-        width: 820
-        height: 547
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2022/05/23/72d25877-790f-402f-9038-6672c0d27eb7/thumbnail/1200x630/08b3dd168f456d96d952a3c154001626/locomation.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
     excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theaustralian.com.au/nation/politics/election-2022-aussi
 cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/politics/election-2022-aussies-ready-for-indigenous-voice-say-uluru-authors/news-story/9c2ae5ee45738b962191415bb2631b27"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,49 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Faith leaders unite to support a constitutional referendum on an Indigenous Voice to Parliament"
+    excerpt: "The leaders of major faiths in Australia will declare their support for an Indigenous voice in the Constitution as the Albanese government tests for the consensus it needs to take the nation to a successful referendum."
+    publishedDateTime: 2022-05-26T13:31:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/faith-leaders-unite-to-support-a-constitutional-referendum-on-an-indigenous-voice-to-parliament/news-story/8716610557037b268faf881a91aed202"
+    ampWebUrl: "https://amp.theaustralian.com.au/nation/faith-leaders-unite-to-support-a-constitutional-referendum-on-an-indigenous-voice-to-parliament/news-story/8716610557037b268faf881a91aed202"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/faith-leaders-unite-to-support-a-constitutional-referendum-on-an-indigenous-voice-to-parliament/news-story/8716610557037b268faf881a91aed202"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 27
+  - title: "Incoming minister Linda Burney says Labor’s priority on Voice to Parliament referendum is 'consensus building'"
+    excerpt: "The focus of Indigenous leaders has now shifted towards a potential referendum date for a constitutionally enshrined. Ms Burney was asked about the specific da"
+    publishedDateTime: 2022-05-24T02:42:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/politics/incoming-minister-linda-burney-says-labors-priority-on-voice-to-parliament-referendum-is-consensus-building/news-story/5da5d3ce7f69980754c6bd7d14db7654"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/incoming-minister-linda-burney-says-labors-priority-on-voice-to-parliament-referendum-is-consensus-building/news-story/5da5d3ce7f69980754c6bd7d14db7654?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/incoming-minister-linda-burney-says-labors-priority-on-voice-to-parliament-referendum-is-consensus-building/news-story/5da5d3ce7f69980754c6bd7d14db7654?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 24
+    images:
+      - url: "https://content.api.news/v3/images/bin/709740d77d76901ac98bab026c8ff000"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Linda Burney: “We need consensus on a referendum for an Indigenous Voice to Parliament”"
+    excerpt: "Labor's Linda Burney is the incoming minister for Indigenous Australians. She speaks to Leigh Sales about the need for consensus for a referendum on constitutional recognition."
+    publishedDateTime: 2022-05-23T10:55:00Z
+    webUrl: "https://www.abc.net.au/7.30/linda-burney:-“we-need-consensus-on-a-referendum/13895144"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 16
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13895148-16x9-large.jpg"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "tmWmnahuHNI4Db1kX4ztuRXamJ7YrxqJ4Dhoo8sqEp6k3poOdL9Yot3TwcGWExLYR8NiVEx+j5RSH9RkQaJIdoRvHKuufn9rG3gJ9741YGWX6C569mYsl6OeUhR2Eby1A9akSHxp3cqBx4ZywqHrNFHRiw8tjrbq3DU+5+uVo+7S+lYsl/q3+Unw59dUZb6pM48ws3C1zdrORlWoDNHRH38CbG+nrkEUQJPvtMQZhigtbF6mGMwhNAT3pj+hc3n0RSQT9LA4q1T4Rb/FgA7i445VGoL0p1VR5Z2wmOXdDLg56YGkWlHfaLiY6+AkOluVj1TA4s3rFK8jgsawdLZqKlSPzoxvTzw1fOqGKlW5ZCpssdHBE3+4Dc4Sh71C0brvVa5bwuFwDl9cvk7bE9d40HtLSparfrVA24jog9PVhSvIC8kCZAJUADhom1gdixqelaM78H8MbkxWSbsTNQLWhjVDufc51CB9rVXaMykTPabcg+8eNf1EIKkIt6IpFSYpf5H3QmFl657Bv5uyBIf+Jw==;wtcfCavcInHzbOANPit4mg=="
 ---

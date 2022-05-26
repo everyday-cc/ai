@@ -2,28 +2,22 @@
 category: news
 title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
 excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
-publishedDateTime: 2022-05-24T20:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
+publishedDateTime: 2022-05-24T20:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
 type: article
-quality: 61
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Microsoft brings support for Arm-based AI chips to Windows"
@@ -394,6 +388,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure"
+    excerpt: "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators ? SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,"
+    publishedDateTime: 2022-05-26T13:10:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/05/26/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 46
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z
@@ -464,6 +467,6 @@ related:
       domain: enterprisetalk.com
     quality: 31
 
-secured: "e25CIrnoyXSciTdK6Gf+W1y9c1GtfABtFYaPvt3NimT0yA6vFlAXdozjzQVZQ+zXuBmyB1O13D6LTKlntJ8t1RMwfXuH2W9vWmef4ceSOQo6Mir61F7tgfgG1v4f9CTNfh4U0+L30ENVCaH9VBFT3Ty819UwzRTAw9EZ4CdCALTjwz8D63j4xxIIEigv+WdRCnQNsrq3sumKdRcyxVS6xB5LPdNX3YGqMnMMOIEExKp94M326hcdJzAY9MFrAtYTuwwGmnMSfpynhnwBGg681ml4ksHXVgmV8tS8rC5VCe5Wf5dviyP3/CZuRXs0Os7MtTex++PUg8JwMGH/aob8sQ7lIRrLnA+DVMFZTkX4ZIo=;IN9rBfZTO36GzkOGbkYVNQ=="
+secured: "9d9qfDMINgPpC38G7CqPD/RCTUK4ursF1BeZeOoKCu21ojMJxfBJ6L/Nqrg1PIbG5Hg+rW8z+LJli3DZLIIVVlxdWHs2mFThOF1AK7WqvEp2ozuQETdWrVjCrbhvAFCEZe6JWnmYTE3oblqmuC+w+JXb7dmrCo/5VoF8MjO7IqhN/hfT0cvayma1ugYyglxLHOSgS+7pa4UNk86CU9kf4zavd9b9W5gtE4DCdlWaqj/JVNzDpJMnu/9nikB+b+fhLLAmwIm6YsOUcgVa12D5XUs/ZdpbyejIWxFpcRKHmIJ2DR5JSjzVpfViwSAW6ubq5rdMkwpXACMu4iXSa5UJUuJSjAX28VXHmZvoIPZtZkw=;Ssfuqx8qF0KO0lPUmaiCdQ=="
 ---
 

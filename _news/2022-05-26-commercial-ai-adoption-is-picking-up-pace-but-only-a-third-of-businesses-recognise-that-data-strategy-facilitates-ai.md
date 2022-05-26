@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T11:00:00Z
 originalUrl: "https://www.localsyr.com/business/press-releases/globenewswire/8560048/commercial-ai-adoption-is-picking-up-pace-but-only-a-third-of-businesses-recognise-that-data-strategy-facilitates-ai/"
 webUrl: "https://www.localsyr.com/business/press-releases/globenewswire/8560048/commercial-ai-adoption-is-picking-up-pace-but-only-a-third-of-businesses-recognise-that-data-strategy-facilitates-ai/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: LocalSYR

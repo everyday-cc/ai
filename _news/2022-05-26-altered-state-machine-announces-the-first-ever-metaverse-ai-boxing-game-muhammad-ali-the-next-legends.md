@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T12:09:00Z
 originalUrl: "https://ktla.com/business/press-releases/cision/20220526NY69946/altered-state-machine-announces-the-first-ever-metaverse-ai-boxing-game-muhammad-ali-the-next-legends/"
 webUrl: "https://ktla.com/business/press-releases/cision/20220526NY69946/altered-state-machine-announces-the-first-ever-metaverse-ai-boxing-game-muhammad-ali-the-next-legends/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KTLA

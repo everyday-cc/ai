@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T12:40:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2022-evaluation/article_57b99b08-fb35-5a39-a12d-e5d7c9c007e9.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2022-evaluation/article_57b99b08-fb35-5a39-a12d-e5d7c9c007e9.html"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: WFMZ-TV
@@ -14,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Meta Tries Making Human Evaluation of Machine Translation More Consistent"
+    excerpt: "Meta proposes new metric for human evaluation of machine translation; addresses challenge in translation QA for low-resource languages."
+    publishedDateTime: 2022-05-23T10:25:00Z
+    webUrl: "https://slator.com/meta-tries-making-human-evaluation-of-machine-translation-more-consistent/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 38
+    images:
+      - url: "https://slator.com/assets/2022/05/Meta-Quality-Estimation-for-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "JWbeiCa0KX35qOUC7olaXqe0ey2iXqPoJAQ+ZMf6a5/Ps4Cyqxh1E5ZdlUv5P0vMUjaFTQuSoKwpCAnTEqSTHhpg/pmv4zqIArB1aFFkb/6Nif/tfz8tgfy84JPVYBrvdEN8CSXWQpSoa2H/D1k8AJ4VlgcbCv5zQIflsi/lI0pJFDTMv0sPiHvBfgHCMz9YB5ZBAodYGX27h5YNHpnIvgCxu+mib9b93Qw22we0WKs/7xfQIhP1lrJrfUMHwR5Nkp8WIkcOlsRxGqGodd0dTY/x2K+VvHx7LTewfP/KCfxIYibBbpl13S1NxUsVtemQgWFUqss5QO6X3iwLSqGvWNwGMbR5ENYwVCsclY7jibcNFdKRQzk2o8hN0cb78JYUGQd4BrJNRBt5W8YRzVRWCXnn8oAW9WBRTkCwn2Ct6h92Pl1CF1SsI87Y41d4qfcXav/FJLTHkBshlHMe+/O8fqtGLyg8SvCcG6BiZINtPjwpRxjTq6f7/E2x0oaNrDTSgv8OwixuFhOCW46jYx43XA==;dJF7D+9yETKl7Ikl4nskww=="
 ---

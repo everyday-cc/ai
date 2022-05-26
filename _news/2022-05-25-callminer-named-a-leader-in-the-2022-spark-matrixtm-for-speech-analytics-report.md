@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
+    excerpt: "Corelight, the leader in open network detection and response (NDR), today announced Corelight Investigator, a SaaS-based solution that extends the power of open-source driven network evidence to SOC teams everywhere."
+    publishedDateTime: 2022-05-25T13:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609246.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "YV934mv7DYtSgPeSWZBsctouQmEvfsYU0QbX7aaQiofPl96hDlaQGzjnDxslSbAjV8z/pLJDAQwEkwUISpEH+dApOS3rH67fzEha1wdpMAhyZLrkVeSkxr+OOvOMkl7B0zUY5cFzIX45bUZXQE4FnbislXFaFYr/95Rmonx0CiXW1lU287fDZcFnwcHhua+EOGGGkbVnJ/JlZptxaGPLhwGJNvawV0n3QcV74oN1YAPLi3TN99qVwh8CRPpH+XzjKShRJUJmVIZLbCYBkfXli0br3krZz3NzNsRLrepTV6jqKTavmcio9nvUwNvGX2yzWY405jxYWTPRYKXhgwNsjuvMtAGA0/yt/I+yxgzEAmE=;d0PzQs71SwLM/MBWAgquRg=="
 ---
 

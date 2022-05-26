@@ -38,6 +38,15 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Ai In Fintech Market [DEMAND] 2022 : Outlook, Size, Share and Growth Stance Forecasted 2030"
+    excerpt: "Quadintel published a new report on the Ai In Fintech Market. The research report consists of thorough information about demand, growth,"
+    publishedDateTime: 2022-05-26T13:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-demand-2022-outlook-size-share-and-growth-stance-forecasted-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
   - title: "Automotive Artificial Intelligence Software Market by Global Size, Trends and Research Analysis 2022 predicted to reach USD 53.98 billion by 2030"
     excerpt: "Automotive Artificial Intelligence Software is a system which is used for the altertion, process and functions and others to imitate human mind and absorbs the problem solving capacity automatically. This technology is mainly used in self driving vehicles ..."
     publishedDateTime: 2022-05-25T08:30:00Z
@@ -52,6 +61,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Ai Development Service Market [GROWTH] 2022 In depth Assessment, Key Trend, Industry Drivers, Future Roadmap by 2030"
+    excerpt: "Quadintel published a new report on the Ai Development Service Market. The research report consists of thorough information about demand,"
+    publishedDateTime: 2022-05-26T13:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-development-service-market-growth-2022-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "Qf5ttvAYmgPt3T0jVoXzds8dIde7zydrOzfHEyCOqa1eHm2sLEnmPPgVSGnoioDF/3nIqESJpET+sAkN5W3OI49hzcvT6SoZ8WIItR8YgECrnmy2Ifonw1WsjxVZ0B3z7AhvUUAttCPbJQMP4c4SMQ5LKS7txLRUT0UDZ6HXvxVV9gxoD/OG5BnZurvnfmPkNLU4gCzAeVrpbDeHkQib17eqrlWJ12Jap1m4i7L8QqO4KJnA3l4Yeb8vtvXbmmKQISNVdir507YXjbdbLfUmSFxGZlWD+Q1OmJnEdRhjm3ygZoGnpbM//P90+x6LYIpjmAwvGWX+lpI+UhG5mNOpRh+Z8E7o4jkoiY1swDB0T4nHXAllM8o+k+vcBNnlB7pohBmdVqIZO56RpHdlxC0TqdQtSMYDKjO6v405ug+mLw/YBKY/D2NkQrvb12FeAm3nxpKrZWVQe4WPAWOiplg2ekTinzJWBk+crvUm7i+NLguwTxYlmYdi//p2mbOgjX6yuqYyjlsSY/PNAYikgh41kw==;daNBLSHtHZV6ey0dPF25oA=="
 ---

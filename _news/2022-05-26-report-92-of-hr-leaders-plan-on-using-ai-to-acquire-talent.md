@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-u
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:
