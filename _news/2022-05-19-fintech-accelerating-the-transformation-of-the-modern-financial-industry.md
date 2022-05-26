@@ -1,20 +1,26 @@
 ---
 category: news
-title: "FinTech: accelerating the transformation of the modern financial industry"
-excerpt: "FinTech is one of the major forces of digital transformation for the financial industry. Emerging technologies and business model innovation have advanced Fintech development for the past decade at an unprecedented pace."
-publishedDateTime: 2022-05-19T04:23:00Z
-originalUrl: "https://www.worldscientific.com/pressroom/2022-05-19-01"
-webUrl: "https://www.worldscientific.com/pressroom/2022-05-19-01"
+title: "FinTech: Accelerating the transformation of the modern financial industry"
+excerpt: "The Future and FinTech: ABCDI and Beyond presents the major building blocks of FinTech, i.e., Artificial Intelligence (AI), Blockchain, Cloud, Big Data, Internet of Things (IoT), abbreviated as ABCDI, in the context of industrial evolution with real-world ..."
+publishedDateTime: 2022-05-19T13:51:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/953271"
+webUrl: "https://www.eurekalert.org/news-releases/953271"
 type: article
 
 provider:
-  name: World Scientific
-  domain: worldscientific.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Ek62VzwDqpGQlglX/6Er9ViaJQQ0R8b9ybTDSa1x599rpwNCtA8LsMpRKv8/phijbSk/TcgTsi9Wo/esfdNY3kff8tGB+XGsMJTpsU9jFvIMkrlFYlEVD54lyCg1f00US/Byl5JTq1yWAjjKPYIGlq/0F3Wvt5wp+qzWf++Ae+p8Ug/9g2rZxELt6//UiN+/DLZ6dG8HXEMtM0CMfF4FAKNJ2v6w61wpMqMCTwQhSgLcUzNHPOqLfgePP/2lYHZAYDmOlR63oKTlB95zwV9aj9zr1AbJNPHpc16IjP24ejSSVmuP0X2tUBQY67z5KXcBuQsDhkTSZy4EjV3HF2nCMY70uwt4TVPePRKMRGKuemE3Aq9BFb9S8dUERoDTx0Xx4q1BN378fxuDESDH/44tfx5d9cw0wzbHpWariU2MUOBRtdFTvAo0wX+s/TCmSRw2RK84kVMsyeZGeXFAaJOyUIQEiKLS8ECtxv5Sg6/LG2LIJwcwWzoKDidSaspKu/XriERl7LD1S/Z4dpNdl402+g==;5Gbn8LgiKjGP3C5bfCE1sg=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6aa79cee-4b24-4245-a619-ffe7b5907318/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 240
+    isCached: true
+
+secured: "MMYTHrB9tXeZRnGkeuwE/Adv56UYHr1zwIOdDjOUE1Znju/NhHfpLS6h7zSU2DeTgAmPHguhfDIL8IIy1TNtgeN5uvGoy7VUtSZPerZ55Lo38W2tHjueRlogUvSNhibrnYIFYYcbH9SpZwZIla5s9PWL4wMOMvyLvRMJG98kV2McI/b7TgUty+m4mjCb/WGzWMBP/VvkTxKsDxJht1Evquv2AZrg1w/4hTZt7G2Dd23+9QSse6vCNumf9Uuwn0FeAlSTaxxiShdcObalOsQDPzfbH1w2/98ouqDnWY9nrkEV0GERppSAvNB3/Y4H3bVqr+wpBnXqm+n1FczAzqgAYC6T8f7CzsT7YcI2J4RBd6U=;zz6FSk15VDGxgRDJoG35ig=="
 ---
 

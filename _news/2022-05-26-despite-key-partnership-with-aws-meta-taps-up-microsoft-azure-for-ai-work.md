@@ -3,12 +3,12 @@ category: news
 title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
 excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
 publishedDateTime: 2022-05-25T20:10:00Z
-originalUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
-webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
+originalUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
+webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 type: article
-quality: 105
+quality: 103
 heat: -1
 published: false
 
@@ -17,10 +17,9 @@ provider:
   domain: theregister.com
 
 topics:
-  - Facebook AI
+  - Microsoft AI
   - AI
   - AWS AI
-  - Microsoft AI
 
 images:
   - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
@@ -465,6 +464,6 @@ related:
       domain: enterprisetalk.com
     quality: 31
 
-secured: "bL7/Q+TFznPu0nGdTB2TOYxdK+l7PFhlPIGzCHvJKf2p7192UGbqaMF4aqio+Tk+egtAQEKoLJzzAUMSxh0asOGqDRkRavP6zM1vbke7zIjdQ1vC6L1adhfkySrUh9W8KJKjeFZp2UiqJCB+PtciRsF+pv6Imq2bw0yCUn0ch4U1WcGSeERb6DLBJnNxfD0uHI98Igw4duo3TJ32iqQTBB8numT1p/VhGEVoEvfS2kSDacF7XJetFd845jsZ1lH0FyaZM3ECnTEODGx+J/LmLNoZjimZ5+YTGLhJlcpLO5l27OTFz8/u0Zp3/uWARcJkomG6Go52szoFLhaqTQLZFlyjSrhJ6H2jzBuLTWgLT+k=;n75MOmhx2wOfXnnixLtBiQ=="
+secured: "jE6Y46/kny9myefpSFIpQbRUup8//umBNPMHngtNxVnhT0IVjnLIV0AYvCWgu6cX3CCx2UHYPhJceDfX2AagUv0zfwDIco6yqExt6/Hilac1mqcHXIk0tYw+8U8qNHHIesDvbFuzdR6wcnksfkYeBsGSSaF3xfKqZ562u2zPuEhMgkz5YiNh5D9lkyK2bmtezZLvvqNH0WAsY9BhsygsJkSTeq/HGCWGaCOSmfMjbR4M7aXNXrZO+oINMdzsE6k4+uHSesWDdj7x0OlxF9WXV/W1CgG7CAhM84R13WtGM4aKS0jWT/Pm3eqwMu9XaPmKET2uqnYeBllZEaiKboqMHpuYc26r29gftUa2n3CwOpQ=;dFE8YLmx5DD5OKSUd1a3pA=="
 ---
 

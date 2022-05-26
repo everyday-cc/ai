@@ -82,15 +82,6 @@ related:
         isCached: true
   - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
     excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
-    publishedDateTime: 2022-05-21T18:38:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255267&cat=PRN"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 16
-  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
-    excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
     publishedDateTime: 2022-05-23T18:37:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255631&cat=PR News Wire"
     type: article

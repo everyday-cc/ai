@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Analysis 2022-2027, Industry Size, Share, Trends and Forecast"
+    excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence in Healthcare Market: Industry Trends, Share, Size, Growth, Opportunity"
+    publishedDateTime: 2022-05-26T10:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-analysis-2022-2027-industry-size-share-trends-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Facial Recognition Market Share to Witness Significant Revenue Growth during the Forecast Period –2026"
     excerpt: "Straits Research has published a new report titled “Global Facial Recognition Market Report 2020-2026” into its vast database of research reports. The latest report is committed to delivering an in-depth analysis of the market. Straits Research offers ..."
     publishedDateTime: 2022-05-25T06:20:00Z

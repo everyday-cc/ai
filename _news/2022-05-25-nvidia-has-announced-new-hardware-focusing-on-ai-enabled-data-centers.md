@@ -57,6 +57,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "NVIDIA liquid-cooled NVIDIA A100 PCIe GPU"
+    excerpt: "In an effort to help companies halt climate change NVIDIA has designed a new liquid called GPU for mainstream servers to help build"
+    publishedDateTime: 2022-05-26T11:36:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-liquid-cooled-nvidia-a100-pcie-gpu-26-05-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/NVIDIA-liquid-cooled-NVIDIA-A100-PCIe-GPU.jpg"
+        width: 700
+        height: 463
+        isCached: true
   - title: "Innodisk Showcases Innovative Edge AI Computing Capabilities at Computex 2022"
     excerpt: "In addition to these exciting new products, Innodisk presented a new AI exhibition area to showcase the application results of smart retail, smart factory, smart transportation, and smart infrastructure. Innodisk also showed off these applications through ..."
     publishedDateTime: 2022-05-26T06:17:00Z

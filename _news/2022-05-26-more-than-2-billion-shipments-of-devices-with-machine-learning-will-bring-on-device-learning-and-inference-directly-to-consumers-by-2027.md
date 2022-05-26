@@ -1,27 +1,29 @@
 ---
 category: news
 title: "More Than 2 Billion Shipments of Devices with Machine Learning will Bring On-Device Learning and Inference Directly to Consumers by 2027"
-excerpt: "Federated, distributed, and few-shot learning can make consumers direct participants in Artificial Intelligence processes NEW YORK, May 25, 2022 /PRNewswire/ -- Artificial Intelligence (AI) is all around us,"
-publishedDateTime: 2022-05-26T03:30:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=669826"
-webUrl: "https://us.acrofan.com/detail.php?number=669826"
+excerpt: "Artificial Intelligence (AI) is all around us, but the processes of inference and learning that form the backbone of AI typically take place in big"
+publishedDateTime: 2022-05-26T09:55:00Z
+originalUrl: "https://www.telecomtv.com/content/ai-analytics-automation/more-than-2-billion-shipments-of-devices-with-machine-learning-will-bring-on-device-learning-and-inference-directly-to-consumers-by-2027-44555/"
+webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/more-than-2-billion-shipments-of-devices-with-machine-learning-will-bring-on-device-learning-and-inference-directly-to-consumers-by-2027-44555/"
+ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/more-than-2-billion-shipments-of-devices-with-machine-learning-will-bring-on-device-learning-and-inference-directly-to-consumers-by-2027-44555/amp/"
+cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/more-than-2-billion-shipments-of-devices-with-machine-learning-will-bring-on-device-learning-and-inference-directly-to-consumers-by-2027-44555/amp/"
 type: article
-quality: 6
-heat: -1
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: TelecomTV
+  domain: telecomtv.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
+  - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 338
         isCached: true
 
-secured: "jhgAg0kj2tkI21fmmL3mQvn2mGziOtCZ1zLFesq0ILo8k2pz9T81M6G/S8Ho2Q3pHSP8CvZLTb25lad8Cb66Orx1ThHgX9pmBEKaaidgRJyPRF3S2+XaMVaLWXojxgmMuYXoFum+ozOO4s2RODSdW1ymjJEo4kp27KEu39BeCJ6AJywlyatWZu9Fh7kDNELLjWSy///TvUIwdUb2rAMSqNy+qYJ66sgDbQ9IAlZRL4Zm/bih1ysJtVSycqdhXxZjb6ufEqVN3RJy7TL4duaPqSC21bXjV+UbTKKkHXnH+yS/Ra0PXQtEnz3wa+l6NHYweFJtbQkbCP7GCg5KEpqZI6hK41E9ZRIwQssetMqzhSo=;ARlgywmPzhVjPvoQIMn96w=="
+secured: "Cv3C2D8wHQRWpFXwVPbZ163VQ75MtZLd6n6CY4XKi/r3WoHqtajb9nJhQF4nvpsBbZMoEnZ+l4oPkQjhmnTRzW+/u0jomK+JDFgYegHCv7L51iIs6X68CrbtsBDkWkQIdMg8EisHY+A+rSYfMCWkdgqKmAjEAVFCkvASbyAijS37i0audMFjnAhqJc3YdqerdcfsU1HfYOtxYGAKI9XND4qOX9FCQAriTIe8rGJJGyIaHVKB67hPF98zwH44V4KjdSKH59KmJSw3bk32/vEtWPMjADlCJYFt94Q3TiSvNZxyMkg51GO4b5zFieUQI7IOrtRjb8k8vnpqsYsyvsEqDRYmG9o6oUtDL4QPNddnedg=;1Qz653UwlYeFesOkF0uGZQ=="
 ---
 

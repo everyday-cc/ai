@@ -33,6 +33,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "April sees hiring boom in apparel machine learning roles"
+    excerpt: "The number of apparel supply chain firms hiring for machine learning-related positions rose in April compared with the same month last year."
+    publishedDateTime: 2022-05-26T10:50:00Z
+    webUrl: "https://www.just-style.com/features/machine-learning-hiring-levels-in-the-apparel-industry-rose-in-april-2022/"
+    type: article
+    provider:
+      name: Companies
+      domain: just-style.com
+    quality: 39
+    images:
+      - url: "https://www.just-style.com/wp-content/uploads/sites/27/2022/05/BlM6G-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Machine learning hiring levels in the retail industry rose in April 2022"
     excerpt: "The proportion of retail companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 32% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-05-24T18:03:00Z

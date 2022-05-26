@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-17-tractian-which-uses-ai-to-monitor-industrial-equipment-raises-15m.md",
+      "title": "Tractian, which uses AI to monitor industrial equipment, raises $15M",
+      "excerpt": "Tractian, a startup developing a product to monitor the ... which Marinelli says is patent pending in the U.S., uses AI to identify mechanical problems a machine might be having by analyzing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/17/2314910/",
+      "originalUrl": "https://techcrunch.com/2022/05/17/2314910/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1022854924.jpg?w=1024",
+          "width": 1024,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/17/2314910/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/2314910/amp/",
+      "publishedDateTime": "2022-05-17T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-ai-in-healthcare-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2025.md",
       "title": "AI in Healthcare Market foresee Business Opportunities, Current Trends and Industry scrutiny by 2025",
       "excerpt": "Global Artificial Intelligence in Healthcare Market valued approximately USD 650 million in 2016 is anticipated",
@@ -299,8 +350,8 @@
       "title": "People Data Labs Joins AWS ISV Accelerate Program",
       "excerpt": "People Data Labs (PDL), which provides 3 billion unique B2B data records for developers, engineers, and data scientists, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor Accelerate (ISVA) Program,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1140,57 +1191,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-crippling-ai-cyberattacks-are-inevitable-4-ways-companies-can-prepare.md",
-      "title": "Crippling AI cyberattacks are inevitable: 4 ways companies can prepare",
-      "excerpt": "As enterprise companies battle a growing number of major security breaches, they need to prepare for increasingly sophisticated AI-driven cybercrimes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-companies-can-prepare/",
-      "originalUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-companies-can-prepare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1057918132.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-companies-can-prepare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-companies-can-prepare/amp/",
-      "publishedDateTime": "2022-05-16T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

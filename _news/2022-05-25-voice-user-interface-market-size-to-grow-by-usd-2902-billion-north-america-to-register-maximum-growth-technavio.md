@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Voice User Interface Market Size to Grow by USD 29.02 billion | North America to Register Maximum Growth | Technavio"
-excerpt: "The voice user interface market size is expected to grow by USD 29.02 billion from 2021 to 2026. Moreover, the growth momentum of"
-publishedDateTime: 2022-05-25T00:45:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-user-interface-market-size-to-grow-by-usd-29-02-billion-north-america-to/article_61705e74-f489-5452-b796-99cb53162c5d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-user-interface-market-size-to-grow-by-usd-29-02-billion-north-america-to/article_61705e74-f489-5452-b796-99cb53162c5d.html"
+excerpt: "Voice User Interface Market Size to Grow by USD 29.02 billion \\| North America to Register Maximum Growth \\| Technavio. NEW YORK, May 24, 2022 /PRNewswire/ -- The voice user interfa"
+publishedDateTime: 2022-05-25T00:50:00Z
+originalUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/24/9608700.htm"
+webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/24/9608700.htm"
 type: article
 quality: 1
 heat: 1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/72/f721cdaa-3654-5612-b4a7-a547e2a8e348/628d7d7fa8fc8.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1823797/Voice_User_Interface_Market_Technavio.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "EPEN5jG6FYjfRdzk7jCVe+lhTKB9AW7i6Bde+N0szsLVg8SHg309j35WoepKkycVbxMTFjZ4KYd//xd6pjino5mIsJSmWXzUSIYW66LXPSTrh2oIlfJGhEfm6au4Nx8Q8ncqF+OpRgG08+cvL95153+VtmBcOo/pzfK9/bfilIC5QM90k047gEJmeeBbFJrmObN9n/uAlCgN1o8C1SZIhkcgECPgzrQmKrELBEx9MZ9m2Ftr83G/Xhchz2JjAfKD2hg8oLT4+uS209a6ClSWSWl09a5hPfiyMocFP5ytPz5KdZl0MkdKxMeWKa+Z6ji21RH3zcKjRm3TjAAM3T9bOi4E+iuKpJDXobFF6XPg20eGrxvShETR4CWpN1PI1m9pKa6L03517++BvWV/lVStvJf8XR33sVnNAt7KVuCDG0mmJEFuLdGKjypaSGKb7ybf0bQKrXiBDZQ+EiWFeLI9po+uFZaB9XyRK8p2apePcFLxbCVdG3HKaAFhAdWvi0cveeAUYAH4G4hBx+pvb/HlKQ==;zDFTKu8dsGXZFGwW2qQ3Dg=="
+secured: "Rf7bTTkjG5xbQDVDT3Xjktgwux4iyucjowE1IWI3sui4o/+53A7fWtIS58WFHPt3qUdh3tW9zZQ4lelxTwJB+OHm+efzOJmHuIeoIGxGXSnkmYzlurLmSTxaNwk6txG34dyqsc6SPp9qL/fHtcj40lgIXXbYgOjkCyu5c+bkqz0iYrWNZPMZplvwqh832Ybci1U7yR6r731W/amFfJJUu/0UdyTLcn+cAgAcXMQZIMOOwCiKHViWy8YTzu/f/Ww3Hs34oUuytTPUJZ+AD4QAE4k1HnHXeVHpWuzszsIQYeNELnKet85A38lleBgnzGDmbcp7OekTWKHVz8idEKNp60i9Gbhy2e97bIzauGEIScY=;6v2dtUnhKZCVYHHTicWI9w=="
 ---
 

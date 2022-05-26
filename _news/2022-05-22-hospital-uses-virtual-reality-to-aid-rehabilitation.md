@@ -7,7 +7,7 @@ originalUrl: "https://lmtribune.com/northwest/hospital-uses-virtual-reality-to-a
 webUrl: "https://lmtribune.com/northwest/hospital-uses-virtual-reality-to-aid-rehabilitation/article_bbdcc6ae-9672-53fa-b1b4-0c1da879678b.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Billings hospital uses virtual reality to aid rehabilitation"
-    excerpt: "Dr. Jose Ortiz counted the minutes he spent in the back of an ambulance transporting him from Red Lodge to Billings. Timely treatment is imperative to"
-    publishedDateTime: 2022-05-21T19:00:00Z
-    webUrl: "https://www.bozemandailychronicle.com/news/health/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_0a4c11a5-6447-5240-927f-fce1b934cdd1.html"
-    ampWebUrl: "https://www.bozemandailychronicle.com/news/health/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_0a4c11a5-6447-5240-927f-fce1b934cdd1.amp.html"
-    cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/news/health/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_0a4c11a5-6447-5240-927f-fce1b934cdd1.amp.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/4/08/4089c07e-ba91-51e3-86c8-d3ca3f05a931/6289426adb5e6.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "ntPNbzpohx22duDEOkkfg2jM9Fwg6MDl482WI+vG/G3slGEsDFRiYoDV15rLYsxGN0hIMp9KA4+27qqNo33FVxHxgJstCp1Dq3AJZKwYTmzdCeQ6HSM0IQ5Fm74ZgqRKLlYD93nq39E1iatRdfFFGC5PIaXpNNr9TV01mdWHAj5apvlvCQ97LHy3Hl0La84Qv+I5IqtAg2C4VXuUQ/s1Klxij3K24dPx5/gpehWxIyYJBGaEfxt3qdwoe0i5HM1lfH3laPuj+YH27frCvlJEb89aGRRJD0U9HiXcxl3Pp8RjnBQcs+64Dx0lJ293s+Qx09YPw0pO7i8BWFHfZjtAqWfGDCew35pu+cXs3En4+b8METtlYCzirIe69X/sGlVjWx+Wcz/Wdu1ALIjrV+7xJtxXeikc1JJERljlxdhvBP/NyV+LrBgoWa9sJ5mJ8jTe3xRVLNGcMTx0wznTqCV4OfmYSQ9zdhgdY5V8rSqZCGozoVVITQdfipAb08JOVNNwKvWTFUu/1OFaXjuFZfeh8g==;lAZM8IX7ptYHAPOK03xi2w=="
 ---

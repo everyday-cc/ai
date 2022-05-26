@@ -105,22 +105,6 @@ related:
         width: 1023
         height: 716
         isCached: true
-  - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
-    excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
-    publishedDateTime: 2022-05-25T20:10:00Z
-    webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 105
-    images:
-      - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
-        width: 1000
-        height: 380
-        isCached: true
   - title: "Microsoft Tips Project Volterra Arm Hardware for Hybrid AI Development"
     excerpt: "At Build, Microsoft also announced new ways to leverage its Teams collaboration platform and Windows 11 operating system. The metaverse got some play, too."
     publishedDateTime: 2022-05-24T15:48:00Z
@@ -136,6 +120,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04QaiwIk3lksY7Zopu4D8dU-6.fit_lim.size_1200x630.v1653405603.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
+    excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
+    publishedDateTime: 2022-05-25T20:10:00Z
+    webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 103
+    images:
+      - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
+        width: 1000
+        height: 380
         isCached: true
   - title: "Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability"
     excerpt: "The post Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability appeared first on The AI Blog.\n"
@@ -463,6 +463,6 @@ related:
       domain: enterprisetalk.com
     quality: 31
 
-secured: "kQv5gAlb3WPZ/mZkTNDRhSKsTV/iPUKjleODb8Q/3lBELK4L/ADF7RB6a5NoaFdH10if9yvAOZlAvH1D1El/vbxPkYTCsBVZuhDpEKilZJ/lo2Clxwhm854sKApVR7sJqqT9gKcGm6e79dd0Z7Sg5iVrz7jos+cHObGF0QITe4hYslhpKe3e15/3fpJKgr2qgpZHLq0t+k4/MAXYz9FXmbHwFfrQKmGeMpmncExcaime2oDXu0q7h3jXtAFlqLdbcNBER9sLEshU9bR0KaDR5nCBAWMvPB2TTSH2ACcegO/kvMjd82icqTaPJhRKaHakUWI4Po75cUBv0KcY7HNGizeSBBVNnP0fuTI+DOWSY6w=;bAdyRWxYKUD0IzQ63S7t3g=="
+secured: "I6xYzinGE7O+wZuNJp6BWWWyRqfgLIpT9wjrw/chInkBFkReiHCeq/FIhaOA0mO3hIRiDMmXE4JVvqs+p4O6M0+aBgMob0baoVTDO3+bNNzLgTZnje+z0YO7q6zNBHinsXr4t6L3WRnxfegnlIkqBNQcO9y2X5/jwv0XTCKC6Pyy27QWtNm2AxaEY3eb41KGZ+GmL5Ubx7M+whtTLGOb9QhQ7zYIb6co1+CKf5rHs4koYPYR3bI4yhsBrN1bHMzYTXZlYF5hgMKfFYXq+z4Y89SE99y9nkm/NqWoPBHCLNCYW9DyJ/LArleQcuEK49Ibt3o/OwClSzrHb2wW4P34k9aIJnkeb9BzyQ68FtU6VZkJDFaFFcL1JvTfi3Vpj7jj0LmfpPYwDc572gX6kbvqrxKAPwPvqfRcWS4fE/6Rg5f1bCne2/HRrA5J84dHTKwXldPluxoW6Q0woORaytVEWhne8I6ac/I0PrDm1DBTvBttTCsThDkSOo9m6L8q3/pZQnHxUsEsgK1deM4BTGB9Hg==;IDJom7Je6GtsPNs3ucrc5Q=="
 ---
 

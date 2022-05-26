@@ -2,6 +2,136 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-04-27-wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings-and-events.md",
+      "title": "Wordly Hits Significant Milestone with One Million Users of AI-Powered Translation at Global Meetings and Events",
+      "excerpt": "Wordly enables people to participate in their native languages across a wide range ... milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings-and-events-301533741.html",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings/article_df2b7aa9-1c8c-5123-95a2-fb37f4b092df.html",
+      "originalUrl": "https://www.victoriaadvocate.com/wordly-hits-significant-milestone-with-one-million-users-of-ai-powered-translation-at-global-meetings/article_df2b7aa9-1c8c-5123-95a2-fb37f4b092df.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/8/32/83274696-5b20-573c-bd50-42ec364bbc9f/6269420a7b950.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-beyond-no-code-using-ai-for-guided-security-automation.md",
+      "title": "Beyond No-Code: Using AI for Guided Security Automation",
+      "excerpt": "SOAR Playbooks Outside of football, the term “playbook” is well understood by a relatively small group of security automation ninjas. In many larger enterprises with extensive security teams, automating mundane and repetitive security tasks has been a priority for a few years.",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/",
+      "originalUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.logichub.com/hubfs/shutterstock_1959094861_%20600x400.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/amp/",
+      "publishedDateTime": "2022-04-27T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Boulevard",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-27-hpe-uses-blockchain-for-distributed-machine-learning-models.md",
+      "title": "HPE uses blockchain for distributed machine learning models",
+      "excerpt": "HPE has lifted the lid on two new AI products, one aimed at enterprises wanting to build and train machine learning (ML) models at scale, and a second that introduces a decentralized ML system to enable distributed or edge deployments to share updates to their models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/27/hpe_new_ai_products/",
+      "originalUrl": "https://www.theregister.com/2022/04/27/hpe_new_ai_products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2015/06/12/chains_834875.jpg",
+          "width": 648,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/",
+      "publishedDateTime": "2022-04-27T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-hewlett-packard-enterprise-used-ai-driven-data-to-help-accelerate-covid-19-vaccine-research.md",
       "title": "Hewlett Packard Enterprise used AI driven data to help accelerate Covid-19 vaccine research",
       "excerpt": "CEO Antonio Neri: “We made available our systems and our patents to be able to process that data at the speed that was required.” © 2022 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and ...",
@@ -1007,146 +1137,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry.md",
-      "title": "The Lithuanian collaboration of iDenfy and Alternative Payments – a safer future for the Fintech industry",
-      "excerpt": "Alternative Payments integrated iDenfy’s full-stack, multilingual ID verification to secure their customers’ dataThe digital platform for identity",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry",
-      "originalUrl": "https://www.digitaljournal.com/pr/the-lithuanian-collaboration-of-idenfy-and-alternative-payments-a-safer-future-for-the-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/f1653d2b223a6200f45edb7f55c9ffc64fd662bb-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws.md",
-      "title": "Build and deploy a scalable machine learning system on Kubernetes with Kubeflow on AWS",
-      "excerpt": "In this post, we demonstrate Kubeflow on AWS (an AWS-specific distribution of Kubeflow) and the value it adds over open-source Kubeflow through the integration of highly optimized, cloud-native, enterprise-ready AWS services. Kubeflow is the open-source machine learning (ML) platform dedicated to making",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-a-scalable-machine-learning-system-on-kubernetes-with-kubeflow-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-8280-image003.jpg",
-          "width": 1289,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T14:30:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-bell-and-amazon-web-services-bring-5g-edge-compute-to-canada.md",
-      "title": "Bell and Amazon Web Services bring 5G Edge Compute to Canada",
-      "excerpt": "CNW Telbec/ - Bell today announced the launch of the first public multi-access edge computing (MEC) with AWS Wavelength in Canada. Building on Bell's agreement with AWS, announced last year, together the two companies are deploying AWS Wavelength Zones throughout the country at the edge of Bell's 5G network starting in Toronto.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/",
-      "originalUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/bell-and-amazon-web-services-bring-5g-edge-compute-to-canada-44283/amp/",
-      "publishedDateTime": "2022-04-26T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

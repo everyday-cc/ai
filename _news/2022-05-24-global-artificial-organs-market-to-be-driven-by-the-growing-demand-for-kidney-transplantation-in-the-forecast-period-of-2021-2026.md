@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Analysis 2022-2027, Industry Size, Share, Trends and Forecast"
+    excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence in Healthcare Market: Industry Trends, Share, Size, Growth, Opportunity"
+    publishedDateTime: 2022-05-26T10:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-analysis-2022-2027-industry-size-share-trends-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Neural Network (ANN) Market Growth Prospects and Share Analysis, Trends, Top Leaders and Regional Analysis Forecast to 2022-2031"
     excerpt: "Japan, Japan, Sun, 22 May 2022 22:58:36 / Comserve Inc. / -- The Artificial Neural Network (ANN) market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024 ..."
     publishedDateTime: 2022-05-23T14:22:00Z

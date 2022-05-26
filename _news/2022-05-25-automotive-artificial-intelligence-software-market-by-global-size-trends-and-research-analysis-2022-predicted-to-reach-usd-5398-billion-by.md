@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market 2020 : Quantitative Analysis of the Current Market and Future Estimations 2030"
-    excerpt: "According to the report, the global natural language processing industry was pegged at $11.1 billion in 2020, and is expected to reach $341.5 billion by"
-    publishedDateTime: 2022-05-26T03:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-2020-quantitative-analysis-of-the-current-market-and-future-estimations-2030"
+  - title: "Artificial Intelligence Chip Market Size, And Analysis, Trends, Recent Developments, And Forecast Till 2030"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 – International Telecommunication Union (ITU) The growth of the global Artificial Intelligence Chip market is ..."
+    publishedDateTime: 2022-05-26T11:37:00Z
+    webUrl: "https://menafn.com/1104277278/Artificial-Intelligence-Chip-Market-Size-And-Analysis-Trends-Recent-Developments-And-Forecast-Till-2030"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?701463"
+        width: 374
+        height: 250
         isCached: true
   - title: "AI Smart Baby Monitors Market 2022 : Global Rise Due to Innovation in Technology by Its Latest Trends, Smart Services and Solution Forecast by 2028"
     excerpt: "The AI Smart Baby Monitors Market size is projected to reach $2.5 billion by 2028, growing at a CAGR of 6.2% from 2022 to 2028.This press release was"

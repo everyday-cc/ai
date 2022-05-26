@@ -70,6 +70,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "NVIDIA liquid-cooled NVIDIA A100 PCIe GPU"
+    excerpt: "In an effort to help companies halt climate change NVIDIA has designed a new liquid called GPU for mainstream servers to help build"
+    publishedDateTime: 2022-05-26T11:36:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-liquid-cooled-nvidia-a100-pcie-gpu-26-05-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/NVIDIA-liquid-cooled-NVIDIA-A100-PCIe-GPU.jpg"
+        width: 700
+        height: 463
+        isCached: true
   - title: "Nvidia to sell liquid-cooled A100 PCIe GPU cards, Equinix trials deployment"
     excerpt: "Nvidia plans to sell a liquid-cooled PCIe card for its A100 server GPU in the third quarter. It will follow this in early 2023 with a liquid-cooled PCIe card for the next-gen H100 chip. The company previously offered liquid-cooled A100s,"
     publishedDateTime: 2022-05-24T12:14:00Z
