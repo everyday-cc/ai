@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27383940"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27383940"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market – Big Changes to Have Big Impact (2022-2027)"
-    excerpt: "Latest published market study on Global Artificial Intelligence (AI) in Oil and Gas Market provides an overview of the current market dynamics in the Artificial Intelligence (AI) in Oil and Gas space,"
-    publishedDateTime: 2022-05-21T07:29:00Z
-    webUrl: "https://xaralite.com/189422/news/artificial-intelligence-ai-in-oil-and-gas-market-big-changes-to-have-big-impact-2022-2027/"
-    type: article
-    provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 20
   - title: "Artificial Intelligence in Agriculture Market is expected to reach the value of 5.24 million USD by the end of 2027."
     excerpt: "As per our research analysis, in 2021, the global Artificial Intelligence in Agriculture Market was valued at US$ 1.52 billion, and by 2027, it is"
     publishedDateTime: 2022-05-23T05:42:00Z

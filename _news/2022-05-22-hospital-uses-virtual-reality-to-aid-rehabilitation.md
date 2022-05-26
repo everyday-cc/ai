@@ -57,15 +57,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Field Robotics for Remote Patient Monitoring and Rehabilitation: Pandemic and Beyond"
-    excerpt: "Worldwide, healthcare systems are at threat of overloading and incurring unmanageably high costs. Healthcare and rehabilitation facilities are not always accessible to frail older adults in rural and underdeveloped areas."
-    publishedDateTime: 2022-05-21T07:10:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/37642/field-robotics-for-remote-patient-monitoring-and-rehabilitation-pandemic-and-beyond"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 27
 
 secured: "ntPNbzpohx22duDEOkkfg2jM9Fwg6MDl482WI+vG/G3slGEsDFRiYoDV15rLYsxGN0hIMp9KA4+27qqNo33FVxHxgJstCp1Dq3AJZKwYTmzdCeQ6HSM0IQ5Fm74ZgqRKLlYD93nq39E1iatRdfFFGC5PIaXpNNr9TV01mdWHAj5apvlvCQ97LHy3Hl0La84Qv+I5IqtAg2C4VXuUQ/s1Klxij3K24dPx5/gpehWxIyYJBGaEfxt3qdwoe0i5HM1lfH3laPuj+YH27frCvlJEb89aGRRJD0U9HiXcxl3Pp8RjnBQcs+64Dx0lJ293s+Qx09YPw0pO7i8BWFHfZjtAqWfGDCew35pu+cXs3En4+b8METtlYCzirIe69X/sGlVjWx+Wcz/Wdu1ALIjrV+7xJtxXeikc1JJERljlxdhvBP/NyV+LrBgoWa9sJ5mJ8jTe3xRVLNGcMTx0wznTqCV4OfmYSQ9zdhgdY5V8rSqZCGozoVVITQdfipAb08JOVNNwKvWTFUu/1OFaXjuFZfeh8g==;lAZM8IX7ptYHAPOK03xi2w=="
 ---

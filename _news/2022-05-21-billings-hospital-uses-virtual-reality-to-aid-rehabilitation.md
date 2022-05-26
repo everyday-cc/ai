@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospi
 cdnAmpWebUrl: "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Field Robotics for Remote Patient Monitoring and Rehabilitation: Pandemic and Beyond"
-    excerpt: "Worldwide, healthcare systems are at threat of overloading and incurring unmanageably high costs. Healthcare and rehabilitation facilities are not always accessible to frail older adults in rural and underdeveloped areas."
-    publishedDateTime: 2022-05-21T07:10:00Z
-    webUrl: "https://www.frontiersin.org/research-topics/37642/field-robotics-for-remote-patient-monitoring-and-rehabilitation-pandemic-and-beyond"
-    type: article
-    provider:
-      name: Frontiers
-      domain: frontiersin.org
-    quality: 27
 
 secured: "w3B6MhEdTZ7TAKUSYPVGsXu/vMTy/xxK/Em4EOQK48oQ2m1F3DWGFl7oGG1MfanqqVHVhPU9YqQ1cKRAmRNLHDAGKMXQYk5nuITWpggasN17n/VhlZ9LEfQLjzV73YhWWRelJ1jWb/iACUJG/u1+6m+Vih4GtUY2Dy5PaK5GPSIsJj59+CgigpLjbQ9L7Kojry7zAl2bpYC7Mfexp6MmKmNAd82aDRZw8nWxTq2KXZYZYx8t/9UWkzO85DLoTmFGD0B5NSNB8lCPL5ppQGSKYvIuQRWNemgwDR+xlQhnMOuzb6vzA3zhdDt/Y8eewKL7RtGX7oO7yogJQNzHURl6D0PuG+d6Ax8sMh+NUS3IIjU=;F0DoLB0nbuuBD61UXvDuSw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
 excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
 publishedDateTime: 2022-05-25T20:10:00Z
-originalUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
-webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
+originalUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
+webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 type: article
@@ -17,10 +17,10 @@ provider:
   domain: theregister.com
 
 topics:
-  - Microsoft AI
+  - Facebook AI
   - AI
   - AWS AI
-  - Facebook AI
+  - Microsoft AI
 
 images:
   - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
@@ -451,6 +451,6 @@ related:
       domain: enterprisetalk.com
     quality: 31
 
-secured: "NPG0KD0o1hFF5UY5yBAn+9J2MoHxCW7wLQ/pG9jQV+h1J3Y9atLg9nvwhqqdheenRhlfoHW32/XBWFekLEDPbAYTKLiKdF5u6kzDOafXHEMt64DEick+CQ4YLxmEVPTsm429+1RUgymbJTK+djlY0L4ITl3eFESsWDi2bMZ5BVLpPcVWQZARGWeJUgZA1/lLBsA5c4BtMcubiN8qD8z4UYFSbrOVy3PNyGjIz94nwL+/L3ar3EFXifyIYko7BG47kl0j8ZKKqRFk250hR6kEWPAMSgMCr040KCMMe4pkLi47w07KOZgCUOsOGpZ9T4jrjyY2pasiWVs4MhsILoPuSRxD6AOvIYRvC+IxoPAx9oLGHnzXzfWA6glTpPOyk+GY1qRUetCiBh9Hh8gujFnlMGCNPuC625NKxfycMAqyQdDHWqbATTjPkBdbS9f3xamOAzKsZspIPZima8/Q0HEsy2aAAYgZ1BuZliqNpUyEqsurV32iwt70AhhVRFQWWHJXZFVxQaKQ8nbymK6hxfjQwQ==;JlzWXFfJfI/pB/0OOAe72Q=="
+secured: "OOPxJ1Ku5UZFxLtEWQmAxCTCjlq7qez4+3N0rdbfEkW5ddtMCnpjZ5cpi885xmzlQLfKhXNGVZ7BRSLjSw5KcuRvi4ZdMboIA4Gt9q8uUKMxntesMZL4LD6+11CKD5xK0hM0rz44j3cJPc5LajOgUl3Ypk+x2MoEGriL4SjLarCFawBSz8Vk+1ic9i8J1Dwidx28rxhsbpSHDD9gIkkv1bzFq1F0FKl2LlvfbRv9iNyKygpwEry7WU1lfgzVB852Gc2RbpwIbYIzpEaxJDoBRWU5DWF9h2SbZlyWfRMK9+1ihz6MNGmmXR+63JHF2n3RPpLnncLK147w2ErJR9rtu0UoaEBE7NMvLsiNQYIW4kw=;ymN6A61d2GQzRYr6OGvFIg=="
 ---
 

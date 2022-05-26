@@ -3,22 +3,22 @@ category: news
 title: "Study shows AI deep learning models can detect race in medical imaging"
 excerpt: "Most of us have experienced some form of medical imaging, whether it was at an eye appointment or after a broken bone. These images might contain more information than meets the eye. Things artificial intelligence can detect."
 publishedDateTime: 2022-05-24T21:57:00Z
-originalUrl: "https://www.wtxl.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-webUrl: "https://www.wtxl.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-ampWebUrl: "https://www.wtxl.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
-cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+originalUrl: "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+webUrl: "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+ampWebUrl: "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: WTXL ABC 27
-  domain: wtxl.com
+  name: KSTU
+  domain: fox13now.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/aeccbfd/2147483647/strip/true/crop/3253x1830+13+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F96%2Febe196d94b7d93668a2f406ee2ff%2Fstudy-shows-artificial-intelligence-deep-learning-models-can-detect-race-in-medical-imaging.png"
@@ -44,6 +44,6 @@ related:
         height: 400
         isCached: true
 
-secured: "POQa26utP6kuTBB6d0fIfLtHcd9DUm5Eh/9cscmJ77pR0VXfWa9ILX2bMM2zISp+IgMToznqnWKxk4gM/8bUxZwAkQogYaXgdYkP7F0k9qr0e1c7kEwM8asy2Zzl5TkwbEbTD4k/BB7oGqc4qMFC0yXo6f+CUel689nmX4fUF3QfDKxSQ1bkrWlt/gAf4+8ERMye9h8hLHQgy9ZPHHCDR7CCLX4LSMk8Vmm0K8byrwunZb3K3g5bmmZTTkQS9+ZdGKkvFQQaRyEJhLpyJFUKaNcLomJpHcGTiXeAnzxOBlnWxamGVbygDx/x01zuH3DgWP9Zag8ruA7hsxDIrai3O+ghw2y6MyJNJoppDYM5UQ0=;V/2+4jFEBC8ZCfMyocfbOA=="
+secured: "Hl4AdVrKzCFUjH/WSVCzg/tWFvF7ZDoSrTmRjet3aqVggAZ86nPBAqr5G1w60TEdYrVFd+Xmb4EJpFHuNhEcaz292Wp2ExiXYr5mPsqjGRPKsTBzym/OVGz/7bYTj9hJMPf57WEPsK61Qu8KzbYvqtmN4NQE3g3oFJf1al6TePjETf25DAesPhjlGv4F85EmojxeQvSpX2kn8YynONjLmACmzHyVliAIRq7IckGVr9PFYqR1/A/EmVYBC92cjElLD2palu9XeFC5hXamwJ2q6SOSHCsUk/blu7RIXh14I/M1cTVJ+o6IIuT5lG6bc5uxZQ7Do1nzpXAGaiE3B0+KZ1UnGehJfARDzCgUshxoWNA=;bGRsUDJkEqWdgyy1abs/tA=="
 ---
 

@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Eufy RoboVac X8 review: Why this sleek robot vacuum should be your go-to for convenient home cleaning"
-excerpt: "If you despise dragging out your cumbersome vacuum, maneuvering it around the house and switching the cord from one outlet to the next as you move from room to room, you’ve probably considered upgrading to a robot vacuum."
+excerpt: "Even though a robot vacuum can run while you’re not at home, it’s best to pick up big items off your floor first, including toys or clothing items. Even though a robot vacuum"
 publishedDateTime: 2022-05-25T15:08:00Z
-originalUrl: "https://www.rochesterfirst.com/reviews/br/home-br/vacuums-br/eufy-robovac-x8-review-why-this-sleek-robot-vacuum-should-be-your-go-to-for-convenient-home-cleaning/"
-webUrl: "https://www.rochesterfirst.com/reviews/br/home-br/vacuums-br/eufy-robovac-x8-review-why-this-sleek-robot-vacuum-should-be-your-go-to-for-convenient-home-cleaning/"
-ampWebUrl: "https://www.rochesterfirst.com/reviews/br/home-br/vacuums-br/eufy-robovac-x8-review-why-this-sleek-robot-vacuum-should-be-your-go-to-for-convenient-home-cleaning/amp/"
-cdnAmpWebUrl: "https://www-rochesterfirst-com.cdn.ampproject.org/c/s/www.rochesterfirst.com/reviews/br/home-br/vacuums-br/eufy-robovac-x8-review-why-this-sleek-robot-vacuum-should-be-your-go-to-for-convenient-home-cleaning/amp/"
+originalUrl: "https://kdvr.com/reviews/br/home-br/vacuums-br/eufy-robovac-x8-review-why-this-sleek-robot-vacuum-should-be-your-go-to-for-convenient-home-cleaning/"
+webUrl: "https://kdvr.com/reviews/br/home-br/vacuums-br/eufy-robovac-x8-review-why-this-sleek-robot-vacuum-should-be-your-go-to-for-convenient-home-cleaning/"
+ampWebUrl: "https://kdvr.com/reviews/br/home-br/vacuums-br/eufy-robovac-x8-review-why-this-sleek-robot-vacuum-should-be-your-go-to-for-convenient-home-cleaning/amp/"
+cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/reviews/br/home-br/vacuums-br/eufy-robovac-x8-review-why-this-sleek-robot-vacuum-should-be-your-go-to-for-convenient-home-cleaning/amp/"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: WROC-TV
-  domain: rochesterfirst.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.rochesterfirst.com/wp-content/uploads/sites/66/2022/05/eufy-robovac-x8-review-why-this-sleek-robot-vacuum-should-be-your-go-to-for-convenient-home-cleaning-cfd81f.jpg?w=1280"
+  - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/05/eufy-robovac-x8-review-why-this-sleek-robot-vacuum-should-be-your-go-to-for-convenient-home-cleaning-cfd81f.jpg?w=1280"
     width: 1040
     height: 585
     isCached: true
 
-secured: "tlHFgEqKFxNlLPRLSMLRyNE2eL5K9uw3s/ZXxR43Z1+BdYDnca6IpCWi5Sy6RU3nnRFBspSJs6kUNxSXGAxN91/6AZ493JsUs6YqMY4d4pXqve49O4EQd6tBdqi3UqTVEInAjHxJFlqxW0RRz87MzcAkA80Zn7zKAQOzqWM+9CpJMSeobxd9iTsUgMDvKFWubtm5sM9xd110dW+d2T8wulArm7eKe4KpOw7rAyQtrpcto3pMZxk89M6RO3m2sv6FsfW8dgyY/rOr/qBDFaeHjMvtxnXrJJRozp0+i+ysLxDqRq5PadcMzX1qLLIjVRvvQ7XltN9+m4nvuO/zKfVSKTjH7efkHZ+9m+Fa2/PMg7YnPugd59ceVWA/IOkgr3khQhbqevawXjUQcNz3cizr82PD2fYS4oycKh8mq/sQhjh+ehVL8Pkw6ZbvfrO8AXfPeaB+ryjPAfs5/kGWo//LQ60bov+VsLHQOniJ2Sl9Y9+F1lWzcwkvPqDHaQ2GLGx8fpp72wquEqiBq0txZnkU7A==;ZEDvO0ExgvAWdrORUKC5YQ=="
+secured: "frvWo9O3zY7ICL9PM/O8uIe6Oa/t3gdpV6Fb3iDLzlaUvldfQfw3s/7/YCtTPez0cd4KHoMxL5el3Miag/kB6/Ro6pStIWFqnG90+R34HRMnoRC8KwUK+Pc3UXgwlh2E0SFknGNOXCOmXQFNsjlYaaaUghoUgpl0++fZenT+zCXxibXy+c2rGGiQD7t4HHyzwi/m9MdiRuaJBoibd3PiBnkB9e7v4P9D4tQWTfiExAiISa23acjoe6o04Ajb653iOBCUKf08IQqJUyIawVaSZjsuEHpP0Zzo/HfzWvK5s8Rx3KDahNFswouOPEBz1gcEzNzqqLkKhBmpxg6QWZhxVkfmrHUSLA4nQ/25xdlMfn8=;zIUahFFnSQZ/Cg+kcGBB0g=="
 ---
 

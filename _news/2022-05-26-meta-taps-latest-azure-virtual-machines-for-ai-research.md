@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-25T22:19:00Z
 originalUrl: "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx"
 webUrl: "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx"
 type: article
-quality: 56
-heat: 76
+quality: 58
+heat: 78
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorSwirlPinkSmall.jpg"
@@ -50,6 +51,6 @@ related:
       domain: protocol.com
     quality: 21
 
-secured: "PCU8gxmny5/bj/7l8T1hOrZ2DL8mdvtQ0LGpI7ul2yRCehFlL9Fp3Q71bLRIqqePij6DP9FEKPvw4ZriQ9DZDj/GqsFzrljoIcJYT8Y5wdfl5tpEe8KLBiH9SSbtfxdDx0P9tWM7c9Qi0skSLM/evh6O5wDssx5cI5epftUWjgcVAQnuLnXTVtPA4ZJ6Rkj6nk6JARGWRM0bTzZFFSJbeGgY8e0b5s3+vq/o/r94X/UVibat8VC2ms/oDoe+/FsyYv49jJr3uTSSVF9HVeeDl7mhhpJTB0DMQd+ZtcdoqPe3GT3an0x98RPtDzznUwgyHyrCfRgJ4DWcx+kagqM0w8lYqjxl0OeblYKsDSx+rf4=;2XMCKh5wF3jiNuBu9QBXpw=="
+secured: "qmepmfGY3fijeI3ehxG/e2CcIcxhdeY68ezV6i+lV9tWc2hTd7VatIu1Qpk5+LM08nHcK7OdN4QnVsGuWMo+9FhWLHmQtGu7Ro82T2a4g2taGgFhUXgOKuKhmfaHdt9YslgMKc6tMgWw1ZySRpGqrdFLTBOezcFtoyFYkCUbXrCxd9+gNKURkMjq93qMUkvr83uq049/ZI9Mo5mxxWkJGGFTRa780qLdDRnKvcLH5vAH6JhGysIg5YNpXOSvllF6tVNlIU52/zpihth4pVEkgFQuyB6SyCLNAGwXlJiaYLtITWC4qIyIA/nam8GPp5JOG9HJ6sDQuS+jfXpGGQzsSfFBPii9Sz8u3y9cjcu+xSI4mvY3ZpaHr7YjYqttRBzs3t55N+BmVStI0VkG6+7PLtyv6d0JWDRi1WiK60S+RpvsYpxxusHHSbYaHG8xCozpaHg50aVFoEP782a3P8L4pOD22ulYeL9uG5mflULRortcir4n+7lThso2BSgctTlW9AmFnG8gKpxv9fDhgUeTmA==;DpdoKlkLsFOyjDwftQ0Ryg=="
 ---
 

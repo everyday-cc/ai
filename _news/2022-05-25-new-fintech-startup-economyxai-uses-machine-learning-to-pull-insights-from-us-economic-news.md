@@ -1,30 +1,30 @@
 ---
 category: news
 title: "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News"
-excerpt: "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May"
-publishedDateTime: 2022-05-25T00:45:00Z
-originalUrl: "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news"
-webUrl: "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news"
+excerpt: "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it's all doing?"
+publishedDateTime: 2022-05-25T03:40:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news/article_6bdb3797-7f37-5ca2-b6ea-d74a8d14903f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news/article_6bdb3797-7f37-5ca2-b6ea-d74a8d14903f.html"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
+  - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png"
-    width: 1500
-    height: 942
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "pA7L26mPhM/c/NtHLgzohN0NgWy9GJ63ZjNSId6jZ5fz//iE6URQbDniVlZCT9sGkDVBmMKW3dcYqbvXMniTAtxd1P+qbC6lLngxdQXuMoSksi5RExs/urhAemSPdleEtAlGzlmsOug4IJIihuaLLg0vQ+6gRfmI4j0XGuOT/ygtSvMH1azfnYrDMUeoLk4uQw1LflRVD/6MdXGI1R0xPV6N7D2HDuEF9N6mxN4NoXJm6tqkp5/00cl50Y+QHjxAx3Od4N54K2/2l8SzSAAC6pZxwEAt2LWG9g7pXm9hK8ib3lLdgXdGvDwqyvg+Ev0DfGd2Rj075T9BmzA1SJpQ/3QUB972F0yjUQS+1p52ePUbT0k5DRMxu9XgwW4CDXaNhQEw0e2jCxNoOCIRZjRew8/7d9f0EDGK4Xc/tQ+UskBNNKCLZlbvrr4V5doswUwMX/nUpLhpBI73nQ5AjYfZwAhGQRX/IRWtbrCxta0L0nabfcLMEPRl+k0ONh5JnRu47MU9mtiYwlNCqPS4nH8ZEQ==;edHZdXeC6/P67QQqWdWP4Q=="
+secured: "5mPSNXFmNG084AKPPqZwL8VgAAr/WGro31zZcsOCrDrlATMCPLnoWOBKYngXSlVJ4NhAWvPeX6qxe68Ql5e4wPysGLz/Xq5Feo+kkmBc7Nwm5bXVZVcCZSe4ppcx8fgF0/RIkQufaDGQRszR++t7FZS4gfDI/fdIb9EV744yaqSWcSVJ0yEL+B9zYMQyR7ZUvo+NC9JreP+Z3HTML9cb2xOszh8KbtIqgYc1A8qmyYxKOAl8PnV4YBaG56KjqeosGkxZYLOx1c7GLM0wjtdlzx6erkVfI9zJhzVHceqzggxMWS+GnllqEB0kBnJDBxeUFyVCHwTILs4O8HLgIRWXke4lClZI2tuYoSCkxMYM21A=;6NeMIEa1XPs6LJwKZWibzg=="
 ---
 

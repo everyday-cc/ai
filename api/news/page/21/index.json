@@ -2,6 +2,57 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-05-04-what-the-high-interest-rates-mean-for-startup-founders.md",
+      "title": "What The High Interest Rates Mean For Startup Founders",
+      "excerpt": "Sure, some AI companies will not be able to deliver the value they've ... Nevertheless, there are good reasons for any startup founder who is depending on raising capital in the coming years to be focused on these three elements. 1. Know your numbers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627114653e082e5a8fa3642a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/amp/",
+      "publishedDateTime": "2022-05-04T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-ex-google-uber-ai-heads-launch-ml-error-detection-platform.md",
       "title": "Ex-Google, Uber AI heads launch ML error-detection platform",
       "excerpt": "Meta releases code for massive language model to AI researchers AMD to offer CPUs with Xilinx AI engine in 2023 Microsoft to ax Azure Video Analyzer in November AI models still racist, even with more balanced training Fixing problems with ML data is the ...",
@@ -1081,57 +1132,6 @@
         "AI",
         "AI in Security",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen.md",
-      "title": "Argo AI, Zoox and Coalition for Reimagined Mobility to discuss what makes a ‘good AV citizen’",
-      "excerpt": "We’re excited to announce that Argo AI’s chief corporate responsibility officer Summer Fowler, Riccardo Giraldi, who is senior director at Zoox and Alisyn Malek, executive director at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/",
-      "originalUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/mobility-2022-building-AVs.jpg?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/amp/",
-      "publishedDateTime": "2022-05-03T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

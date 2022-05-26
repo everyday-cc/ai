@@ -2,26 +2,26 @@
 category: news
 title: "US Fintech Global PayEX Showcases Account Receivable Solutions at Finovate Spring"
 excerpt: "J.P. Morgan-backed Fintech has processed over $50 billion in transactions through its cloud-native, data-driven, end-to-end AR solutions; Global PayEX’s AI and ML solutions digi"
-publishedDateTime: 2022-05-23T22:03:00Z
-originalUrl: "https://ktla.com/business/press-releases/globenewswire/8558170/us-fintech-global-payex-showcases-account-receivable-solutions-at-finovate-spring/"
-webUrl: "https://ktla.com/business/press-releases/globenewswire/8558170/us-fintech-global-payex-showcases-account-receivable-solutions-at-finovate-spring/"
+publishedDateTime: 2022-05-23T19:07:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-darien-software-fe36d5f92cc89c8822e8384b2cde9d0b"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-darien-software-fe36d5f92cc89c8822e8384b2cde9d0b"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: acrofan.com
     quality: 4
 
-secured: "N8xyiJA1sxIItW+MAor7oEbcKY+4xUPTA0XigK15USEaDz6ytke77Wyz80wtkqpjtBDD3erk7FOVdd8HhHiT6caqTclOK7HYlBL3utM+Tnhz7PVugG0rpPb8Fw3AO35VYuUd5wqiBUzGlgkg6/2AkDwIDq0hP1uhapGQm64NSUP2g5OPXkvGhCWD8XLhC3uwUe9jy5IWzbqG9oZB14JWBARuJmXWRGQSR0VwkB9YhHvIUZFiTog5IfwBzyI/BwcMk/EWjxj6KEHsqD6iv3DrE+CA4KYSpHo9nu/zqSV0cHHAezCOz/ohOmgsK/MzSrnLOtWoD4NPIitOuHdhG0+UiBxznEmwQLhxibPrjq+2QTs=;5wh/Ptu832WwD+rl8zSuVw=="
+secured: "V6+p9JgQ5jpw3R87pohdRfgWoQMh7HruUOAlRzPXXU4V6uj8kr9JJyP5Oxpb59vZv5PNeXL8v/Xts/pouLUE9caOC6LDx4NXXWMRonYl95U7lBqSUk4c4PFFpCext8LqUnyDPfIiVZvBNMkyIv/KilYiQVwEZNRMpOPpGnEnlrkovfoQiYt4mPOH/3dRr7wlzrdNfxNRm2l5MTP0qETm9PxS+SWhwnqWaoGRvAJPIBcUfihAwvMm2MMBqeHsBdk0e47gZUtS7Vc8R03dNLYoLVvGBh08xaQwn8zJGl2oQnpgYRclQNfwIFt7RJiUZdZxB9PgKTF/tYCoVgXZBSD1oRqdCVJBAkKBvDXGfIEm/Tk=;jvhmfY46FIc0K7wsCwhXwg=="
 ---
 

@@ -28,7 +28,7 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorSwirlPinkSmall.jpg"
         width: 647

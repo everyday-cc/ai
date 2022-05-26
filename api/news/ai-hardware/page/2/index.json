@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-10-usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life.md",
+      "title": "usmile Announces the Launch of Future One - Its First AI-Powered Sonic Electric Toothbrush with 6 Built-In Chips and 365 Days Battery Life",
+      "excerpt": "HONG KONG - May 10, 2022 - (Newswire.com) usmile (a sub-brand of the Stars Pulse Corporation), an Asia-based, all-round oral care brand driven by the mission to enable healthier o",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-10-usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-5-10-usmile-announces-the-launch-of-future-one-its-first-ai-powered-sonic-electric-toothbrush-with-6-built-in-chips-and-365-days-battery-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-sequitur-labs-showcases-complete-chip-to-cloud-software-and-saas-solution-at-the-embedded-vision-summit.md",
       "title": "Sequitur Labs Showcases Complete Chip-to-Cloud Software and SaaS Solution at the Embedded Vision Summit",
       "excerpt": "May 17 and 18. The Embedded Vision Summit attracts a global audience of technology professionals from companies developing computer vision and edge AI -enabled products, including embedded systems and mobile applications. The Sequitur Labs Security ...",
@@ -1340,58 +1374,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-nvidia-said-to-be-testing-an-rtx-40-series-gpu-that-needs-up-to-900-watts.md",
-      "title": "Nvidia said to be testing an RTX 40 series GPU that needs up to 900 watts",
-      "excerpt": "With the RTX 3090 Ti graphics card, Nvidia squeezed the last bit of performance it could from the Ampere architecture by raising the power limit to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
-      "originalUrl": "https://www.techspot.com/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/04/2022-04-27-image-12.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94373-nvidia-testing-rtx-40-series-gpu-needs-up.html",
-      "publishedDateTime": "2022-04-27T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

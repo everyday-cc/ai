@@ -2,6 +2,57 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-05-04-argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen.md",
+      "title": "Argo AI, Zoox and Coalition for Reimagined Mobility to discuss what makes a ‘good AV citizen’",
+      "excerpt": "We’re excited to announce that Argo AI’s chief corporate responsibility officer Summer Fowler, Riccardo Giraldi, who is senior director at Zoox and Alisyn Malek, executive director at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/",
+      "originalUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/mobility-2022-building-AVs.jpg?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/amp/",
+      "publishedDateTime": "2022-05-03T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-3-leading-us-robotics-clusters-create-alliance.md",
       "title": "3 leading US robotics clusters create alliance",
       "excerpt": "MassRobotics, Pittsburgh Robotics Network and Silicon Valley Robotics have combined forces to create a cluster alliance.",
@@ -1070,39 +1121,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-and-the-metaverse-2-big-reasons-to-buy-meta-platforms-stock.md",
-      "title": "AI and the Metaverse: 2 Big Reasons to Buy Meta Platforms Stock",
-      "excerpt": "Short-form video is the vessel TikTok and Reels use to deliver content, but artificial intelligence (AI) sits in the background curating the entire experience. Social media has become less social -- people open TikTok and rely on the app to know what they ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-and-the-metaverse%3A-2-big-reasons-to-buy-meta-platforms-stock?amp",
-      "publishedDateTime": "2022-05-03T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
