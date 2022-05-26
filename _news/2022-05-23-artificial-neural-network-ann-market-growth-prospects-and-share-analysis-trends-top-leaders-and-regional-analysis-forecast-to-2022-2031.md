@@ -57,6 +57,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI Market Size 2022 with 21.48% CAGR : Innovation Strategies & Recent Industry Developments With Top Players and Forecast Up to 2028"
+    excerpt: "Global “AI Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI market is"
+    publishedDateTime: 2022-05-26T04:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-market-size-2022-with-2148-cagr-innovation-strategies-recent-industry-developments-with-top-players-and-forecast-up-to-2028-2022-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Share to Witness Significant Revenue Growth during the Forecast Period –2026"
     excerpt: "Straits Research has published a new report titled “Global Facial Recognition Market Report 2020-2026” into its vast database of research reports. The latest report is committed to delivering an in-depth analysis of the market. Straits Research offers ..."
     publishedDateTime: 2022-05-25T06:20:00Z

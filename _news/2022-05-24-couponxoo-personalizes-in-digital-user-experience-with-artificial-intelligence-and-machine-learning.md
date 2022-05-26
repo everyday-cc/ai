@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "CouponXOO Personalizes in Digital User Experience with Artificial Intelligence and Machine Learning"
+    excerpt: "CouponXOO has concentrated on developing and innovating their digital coupon platform to improve the personalization in user experience on the"
+    publishedDateTime: 2022-05-26T16:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/couponxoo-personalizes-in-digital-user-experience-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 40
+    images:
+      - url: "https://www.getnews.info/uploads/3e204a6ed40263fb567aa8ecf36e775b.png"
+        width: 281
+        height: 270
+        isCached: true
   - title: "The AI Developer’s Role in Creating Great Customer Experiences"
     excerpt: "Artificial intelligence (AI) gives retailers a deeper understanding of their customers, enabling them to deliver personalized experiences that keep customers coming back."
     publishedDateTime: 2022-05-24T12:57:00Z

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-27-hpe-is-building-a-rapid-ai-supercomputer-powered-by-the-worlds-largest-cpu.md",
+      "title": "HPE is building a rapid AI supercomputer powered by the world's largest CPU",
+      "excerpt": "Hewlett Packard Enterprise (HPE) has announced it is building a powerful new AI supercomputer in collaboration with Cerebras Systems, maker of the world’s largest chip. The new system will be made up of a combination of HPE Superdome Flex servers and Cerebras CS-2 accelerators,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/hpe-is-building-a-rapid-ai-supercomputer-powered-by-the-worlds-largest-cpu",
+      "originalUrl": "https://www.techradar.com/news/hpe-is-building-a-rapid-ai-supercomputer-powered-by-the-worlds-largest-cpu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XBZBxbuMHoHZsPHfA6NZtU-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-researchers-build-worlds-smallest-remote-controlled-walking-robot.md",
+      "title": "Researchers build world's smallest remote-controlled walking robot",
+      "excerpt": "The tiny bot is able to walk, crawl, bend, twist and even jump. According to lead researcher Yonggang Huang, it can walk at an average speed",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
+      "originalUrl": "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-26-image-17.jpg",
+          "width": 2388,
+          "height": 1624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
+      "publishedDateTime": "2022-05-26T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-self-driven-fabric-paired-with-machine-learning-could-help-rectify-posture-in-real-time.md",
       "title": "Self-Driven Fabric Paired with Machine Learning Could Help Rectify Posture in Real-Time",
       "excerpt": "Posture is a vital part of health. Continued poor posture, like leaning to one side or slouching, could result in discomfort and pain. It has also been proven to intensify the risk of strokes, vision problems,",
@@ -446,7 +550,7 @@
       "originalUrl": "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -947,7 +1051,7 @@
       "originalUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
       "featuredContent": null,
       "highlight": null,
-      "heat": 434,
+      "heat": 444,
       "tags": null,
       "images": [
         {
@@ -1072,96 +1176,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow.md",
-      "title": "Intel oneDNN AI Optimizations Enabled as Default in TensorFlow",
-      "excerpt": "What’s New: In the latest release of TensorFlow 2.9, the performance improvements delivered by the Intel® oneAPI Deep Neural",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "TensorFlow",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-aiml-chips.md",
-      "title": "Ayar Labs teams with Nvidia for optical interconnects to speed up AI/ML chips",
-      "excerpt": "AI/ML and other data-heavy interactions, the company said. At least at the outset of their release into the market, the new optical chips will go to CPU and GPU makers (such as Intel, Nvidia ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
-      "originalUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Machine Learning"
       ]

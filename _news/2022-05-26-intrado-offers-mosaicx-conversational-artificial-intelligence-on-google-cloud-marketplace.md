@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Intrado Offers Mosaicx Conversational Artificial Intelligence on Google Cloud Marketplace"
-excerpt: "Intrado Corporation, a global leader in technology-enabled services, today announced Mosaicx, its conversational artificial intelligence (“AI&CloseCurlyDoubleQuote;) solution, is now available on Google Cloud Marketplace."
-publishedDateTime: 2022-05-26T13:44:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/05/26/intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud"
-webUrl: "https://stockhouse.com/news/press-releases/2022/05/26/intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud"
+excerpt: "Intrado Corporation, a global leader in technology-enabled services, today announced Mosaicx, its conversational artificial intelligence (“AI”) solution, is now available on Google Cloud Marketplace."
+publishedDateTime: 2022-05-26T14:08:00Z
+originalUrl: "https://www.koin.com/business/press-releases/globenewswire/8560731/intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace/"
+webUrl: "https://www.koin.com/business/press-releases/globenewswire/8560731/intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace/"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: KOIN 6
+  domain: koin.com
 
 topics:
   - AI
 
-secured: "0bLv7stfQL0QbXwaDrS+zB7EahHLuYVfpZhj6gkiowi1yGYSVqXoEhfTECaouqdPf+e99ZLJh9AWxgxRPIVJELK4kwF0z4pKj515ZdxMUkGKg3BW5PJfvv02PReiLMXI7u6svuiyhZ68xTXns2X7zu2FGs7DkX4PIOHHfzbDo1vjGiWZntePRvNscbT+f1UmbfMfL0g5wxTa/91mKl2MnvoyV7OUxryt9r+5tEP6VMIA0FtTHP7PK/9U2VtKRVII1OpVVrgMX8eq4d5v+kdcFboyqPQ0DRundyAKZF3APtam4dWhO07z/IDCv2hVrxzayxeLoB4roUK4lEM76QHQhhVMKqRgLuW6z7FgsYsO0+IIgcl5I4tTnLb49Zd3sWDtZL7BPvhbOPpLFe1tbdDAG1LQPZKmnb/KOQgEJAd0TbYCdkAjwqCM5x4xumVgb+BIl9EDZ8uEca1pSSFRhrfXeTi1sN/BHAHkORBVMZY5W7/SXriEtPzEPAvg3nde/h8BEWL1cyYz4gjbFF8S4Kz5tg==;5+TueohAvc3aaNkuC3/+8A=="
+images:
+  - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+    width: 800
+    height: 340
+    isCached: true
+
+secured: "BRa0OOgvkh8+IHnXiMgQfHerSyHcM/0aHhr5i0+74T+i2Z5CBUv/rejK52e/+dwihRzSlOKgJrRAKDby6fnHWT+zARLcw9FiTY0yDVLj6OxqHUUJt1/cSFaYjo22KwnkdQkiXi7B2902U15aqSMWnDTG4GrZyS3ZFmH8lH80Y9PgP7Sj9LUbhIfpiriX6wKGpy1uvE5tf7NmadmDlbgbj+gyUR+NVgGw5IKeQNM2njN1bKYeXELvuJrYZUHASLmiiaEON4KI0nBUIyOLuZuHEvq7CklSeMgobghX0q9A0Gs/7V1gOtrzW4gXXnAa7ePuHEbbaPJ2rVXT+ycIgBbr/M4JliR3PxGmyhoLZRuv528=;V5drM/E+W+aGU7bKqa6lQw=="
 ---
 

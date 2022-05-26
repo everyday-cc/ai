@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/robotics/tiny-crab-robot/"
 webUrl: "https://newatlas.com/robotics/tiny-crab-robot/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,37 @@ topics:
   - AI
 
 related:
-  - title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
-    excerpt: "By Megan Marples, CNN For these tiny robotic crabs, being small is a virtue. Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking robot,"
-    publishedDateTime: 2022-05-25T21:08:00Z
-    webUrl: "https://abc17news.com/news/national-world/cnn-world/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/"
+  - title: "Researchers build world's smallest remote-controlled walking robot"
+    excerpt: "The tiny bot is able to walk, crawl, bend, twist and even jump. According to lead researcher Yonggang Huang, it can walk at an average speed"
+    publishedDateTime: 2022-05-26T17:01:00Z
+    webUrl: "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
     type: article
     provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 33
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
     images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-26-image-17.jpg"
+        width: 2388
+        height: 1624
+        isCached: true
+  - title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
+    excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research p"
+    publishedDateTime: 2022-05-26T11:51:00Z
+    webUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.html"
+    ampWebUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.amp.html"
+    cdnAmpWebUrl: "https://www-wfft-com.cdn.ampproject.org/c/s/www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.amp.html"
+    type: article
+    provider:
+      name: wfft
+      domain: wfft.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfft.com/content/tncms/assets/v3/editorial/9/5b/95b4f7e1-5a36-5da1-81d9-3753083419e7/628f9fe5acdc3.image.jpg?resize=1024%2C1366"
         width: 1024
-        height: 576
+        height: 1366
         isCached: true
   - title: "The smallest remote-controlled robot ever is now this tiny crab"
     excerpt: "The world's smallest remote-controlled robot has been created by engineers from Northwestern University, which takes on crab form."

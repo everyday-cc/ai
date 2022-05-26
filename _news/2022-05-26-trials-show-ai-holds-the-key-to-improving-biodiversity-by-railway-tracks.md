@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/954032"
 webUrl: "https://www.eurekalert.org/news-releases/954032"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     height: 300
     isCached: true
 
-secured: "fUzrvZjzmwXH8a9YgCXs2+Z8nFdfeqasnETxsXvm9CSdwD2kWhzc0N8wM6Y965om8lhC021RLw63GZAGT90tF5f17N6njM7X/w6k3AMEe9PNAhibVIkpz7HxYtFars4lrgObI9OyMh8WuyYXcIpnRyNj2XCYKT5Mz0pgj/YmjCS1wpIm3ARo2p+f0lWjZLT45unTW73l2/EVXdYbn7MJKFdeGudcbkmWt1clCf9or12vuItflD2rXDJTUrm/TBElxyRFnsWO2pTZ2f5J54khEfnGuWSpXnMftIaXUqzfRX0/wJkw2PSugTuSDEfMP2ZHh0PGBgaMFyxGSxP/D1Cbi9LkNPvbyHzQLKqIAYY8i/E=;b65dOW83RvbN0l4IwhWnng=="
+related:
+  - title: "Trials show AI holds the key to improving biodiversity next to railway tracks"
+    excerpt: "Trials in using artificial intelligence (AI) to identify species of trees and other plants, from photographs taken by on-train cameras, have proven that lineside vegetation can be monitored safely, cheaply,"
+    publishedDateTime: 2022-05-26T17:33:00Z
+    webUrl: "https://phys.org/news/2022-05-trials-ai-key-biodiversity-railway.html"
+    ampWebUrl: "https://phys.org/news/2022-05-trials-ai-key-biodiversity-railway.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-trials-ai-key-biodiversity-railway.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/trials-show-ai-holds-t.jpg"
+        width: 661
+        height: 679
+        isCached: true
+
+secured: "Gxo2pgdtzb1uze8avyTGbplTtcRPPCVAX59Os3qxMs7E36P2M64PaYHAiYWbNrsI6FbgOuSIPPINXPEK27Pp83x84lrunzu7PMpe3EMQKtQONPK8WspLhFDnst3v4JKdpkNoYCoHKXSxsdfW+ldGBI+lmOiqrVQlq5gVzFb8Hyff0bobw92aipmgCKXQy+eACR4lGJkkX8VmiPiiCw/U2JdLTFH+47thJhqBOYL9PqNvCljQJDw9Zmj61WIBwRiKoPy6JDaVDLqeok9YFvydWZ6g8MBYrJcT2VBENucOGLFg3Bof7YB0TEiS4YU/D3FPpWeMcKZCxvTKPjoqfBbEeF3EQ7tdhQPj5FM+CporkLezrFsGVu2dH39eP1BDoRPsG94lXn18gLbEdN7llYWM8qxecr4neaCsAuJ0IJa6NWcqLJLoLOFK21dDpauv0xwu3SX8VRwacwSluYiM/s4O3gO2xqvYx1Qhq7TD3caUC7QiSiabAbHnPBm4eXwVj84YGkUpuaqu7ZUJF+TYxlF0Og==;4OTeqCdgUvH53aulwxF8bw=="
 ---
 

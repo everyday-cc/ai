@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 603
         isCached: true
+  - title: "Iterate.ai Wins Intellyx 2022 Digital Innovator Award"
+    excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced that Intellyx, an analyst and advisory firm helping business executives and IT leaders untangle the technologies and practices behind digital transformation,"
+    publishedDateTime: 2022-05-26T17:51:00Z
+    webUrl: "https://www.localsyr.com/business/press-releases/globenewswire/8560814/iterate-ai-wins-intellyx-2022-digital-innovator-award/"
+    type: article
+    provider:
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 37
+    images:
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
+        width: 814
+        height: 330
+        isCached: true
   - title: "Conviva Partners With VISUA To Integrate Visual-AI Technology In Its Leading Insights Platform"
     excerpt: "VISUA's Visual-AI suite will enhance the insights delivered to the customers of Conviva's leading platform with key brand insights for streaming & social video."
     publishedDateTime: 2022-05-23T13:45:00Z
@@ -50,6 +64,6 @@ related:
         height: 338
         isCached: true
 
-secured: "OnrmBAaXXmZJFJDn7XbGeP7p0/5bYvIPf2+I6EILHmBjMzvEy0ukOcbDQfEx1ys0JhICxHUVmiVRbV6riFXxwkwkJDA4YPnOBLR7yFcv4rTLyakJZBjA7hz4tm8pscalhC/2BaXH8kzbA3DbWVLIanGxUOo1gUDPTOpPC7b8KUPTjHdtccmbGm21iToWGw5lFKiKOeu1Kc5Q+NKI3HWPORa44MgdkzfWJ2f/0fAa4CkAL5XHqkFwr6ml+DW64tTTOVwY7vbZYB/orsC5/P5T+oF5nJXVpeLL8g0LXIb+E354eKjSXE70N9YUvDDUgmmHkglkK62birSjjuNkR67/uR8pJOL+zO5kdp2VWQfKTuc=;uUr5b6R4BE58/yML52lVOw=="
+secured: "facYdzI77OlZcbu+nChvEhKLQ6fQyBwwDTQwRVY/8Ro93qqg42CCfgFwMaQJNFU+NpjLbeUse0DLDUroAADlzz23dN3LZsTL8+BIIi4bSsr/8T6N/I5nQLlh/lj29InyT+mhRo/HgaAJyAR/QMsEtk17/Sb0f0NIn4a9H8J+RGj3pCxirOXHYOZYFbaaFsR9x41bO7JX6k2a3jsRhAiL7is7yly7BSiM7XV5pSxOGhZJmZT3+n1WfThCRtXtmdrkpB0ylcyavp80uvRf0RRhBM3TmKwKAAE57TlAenEbngh2FhiOiu8tFhGmcEbw+CqdsBqs1K7Gqk5+kVwqPzVz2id0GY0pH4a2PM4a7iq9kYg=;cdTYQFYR9hVfCK/2rWv+9Q=="
 ---
 

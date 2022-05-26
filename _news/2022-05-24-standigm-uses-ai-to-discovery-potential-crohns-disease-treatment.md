@@ -40,15 +40,6 @@ related:
         width: 750
         height: 435
         isCached: true
-  - title: "Artificial intelligence model can predict whether Crohn disease will recur after surgery"
-    excerpt: "Using an artificial intelligence (AI) tool that emulates how humans visualize and is trained to recognize and classify images, investigators constructed a model that predicts the postoperative recurrence of Crohn disease with high accuracy by evaluating histological images."
-    publishedDateTime: 2022-05-22T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220510122434.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 38
 
 secured: "BBNHDTbMkG32sfXRg/B+4wQmq+2IpckZfvg0lBIkPwkxvC9eeD3QwgEzmDb5brexNjtNFGdjjwlcqraqZNxtrdopZUMfwn10qWaPcZZN3MUmjqP48XZqq5I4CNWLli1hMFCGKmuAJCbnKDK/3bud5k1AUeqOcVq3FvIBhxsQ3oXJGOWjuvDhAlDQlrMBpvi8xp6CiznkmtoM8/Mgvs//smed73B6AlYcQ0RrvurUakwLZ/IBo4t0JdpE2tOOUrImzt3NwRV+Y/x73oi/qnioPVvgxJccxnptsWu6NTfA3q4RtdWVc6Hp4jsw0oF4qZacHzLGFLG/aY3ws+f7Id194/PWJ0FcfGLyxCVZN5UCqOIyPFcJiU67PCF6jOHF4C/HZfJ7jwpjLJGrfEpyCOfe3VkmDMtPi7dsSS2KgPr3pIMuI/x3N0JqGRXFaj1PaLFRVXTco7tsPp8J5GKjlD402uXdBnYzBp2/sgTkzCzlq/dWRiE1tUzkepljVqzhTdKBt33hb3vfiYL89McKSUAnww==;D4tFXVJkO9F8K52JrtWSNg=="
 ---

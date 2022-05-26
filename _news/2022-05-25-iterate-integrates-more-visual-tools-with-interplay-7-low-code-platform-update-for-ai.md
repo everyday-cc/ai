@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Iterate.ai Wins Intellyx 2022 Digital Innovator Award"
+    excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced that Intellyx, an analyst and advisory firm helping business executives and IT leaders untangle the technologies and practices behind digital transformation,"
+    publishedDateTime: 2022-05-26T17:51:00Z
+    webUrl: "https://www.localsyr.com/business/press-releases/globenewswire/8560814/iterate-ai-wins-intellyx-2022-digital-innovator-award/"
+    type: article
+    provider:
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 37
+    images:
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
+        width: 814
+        height: 330
+        isCached: true
   - title: "Conviva Partners With VISUA To Integrate Visual-AI Technology In Its Leading Insights Platform"
     excerpt: "VISUA's Visual-AI suite will enhance the insights delivered to the customers of Conviva's leading platform with key brand insights for streaming & social video."
     publishedDateTime: 2022-05-23T13:45:00Z

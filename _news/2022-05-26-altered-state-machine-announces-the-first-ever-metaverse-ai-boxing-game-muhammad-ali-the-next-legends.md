@@ -1,22 +1,28 @@
 ---
 category: news
 title: "ALTERED STATE MACHINE ANNOUNCES THE FIRST-EVER METAVERSE AI BOXING GAME \"MUHAMMAD ALI -- \"THE NEXT LEGENDS\""
-excerpt: "train them and compete for the first time in a fully AI, web3 combat experience. Players will eventually need to unite two NFTs to play the game – an ASM Brain, which is also an NFT, with their ..."
-publishedDateTime: 2022-05-26T12:09:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220526NY69946/altered-state-machine-announces-the-first-ever-metaverse-ai-boxing-game-muhammad-ali-the-next-legends/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220526NY69946/altered-state-machine-announces-the-first-ever-metaverse-ai-boxing-game-muhammad-ali-the-next-legends/"
+excerpt: "IN PARTNERSHIP WITH MUHAMMAD ALI ENTERPRISES AND NON-FUNGIBLE LABS, THE LEADER IN WEB3 ARTIFICIAL INTELLIGENCE USHERS NEW AUDIENCES INTO THE METAVERSE WITH A REVOLUTIONARY AI-DRIV"
+publishedDateTime: 2022-05-26T11:40:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-altered-state-machine-announces-first-ever-metaverse-ai-/2022/05/26/9609993.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-altered-state-machine-announces-first-ever-metaverse-ai-/2022/05/26/9609993.htm"
 type: article
-quality: 0
-heat: 0
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "lOeVZ/GQM/oBYk4MJ7vYtI96ISkQ0F0syg0Skpo372wDCAEdUhwPoEU35KxKz4uIABXdvz0Uev29O2e6USW5kCnUIXV06cof5x+casZ2mWA64SS9MVqMqxIswz6F0DcG3r1ZxSZUnVKsBWlOXrPkYqeC/gVlXCT32IsEhP0/OJVrSAYMaBSTeT79ugyyfwrtI8y6aOjTOpApwxq6OBeQp+Le0f4FbnaT/sl7Uvrk+/Xn75ojNzGO8Ka1QzZTl6AnKo35Xe+kCFcrK17eARh6FOBJkAr6Da/xLyX5ssoBRUgAdvDy7CHEvXl9r7XTEGzh/aiCzPrsxNU7hE6DBUmlAMKjXq2knaP0yxcVwRgln8+dCuDdagOJ0c85/3D/yCW1ENcGufG1JCmy9g8Zn14g77u2AEkAju6PqNEArhcKBB63nLCD8n/lnejoIVPl6uAhpO95DZRQEdq7y/I7xyPpmipfZZzTmSUqRHA/VHHW1/rkQv05x+DH2FQ3Vagu5aq+EhdzF6O7TkF/xYIh5unP7w==;O1XOV4x95G3KfweR/2texQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1826413/Muhammad_Ali___The_Next_Legends_ASSET.jpg"
+    width: 400
+    height: 259
+    isCached: true
+
+secured: "9NkZBc5h3woClsk2XvsrWG1C8CCGQ5MPnJcHqkfzMoDR8IinQfGw8o4X+7C/l0KUTBeEYJ2T0ljQRSoCtyoHPtPv08DRBqWF2tCLJ+hbnDX5rhegl60ts+5FDJay5gpDyicT8EOz/bPSqQ1jMB2SELWjts7rVCzFpAVrdBfOhJQ+pi+9o/+O5lr7idUXhSCvj2rZuGG3TT5pnqYUBunuVanO6+BGynPcbwlcPTb/CsezYHmtMCazKSGFvQ2/V+bs7WYeULCrSheQwtrvAgVbsf2zp9272VpWY821rNu1AlSaqAp4TbuLptdw3WmFHL/Q0YFSmW/F7JbiorwA3TUfJTTN1e79nUATx2rrAXeY6+Y=;4wZU/gxfkLqUwHNsvDcttQ=="
 ---
 

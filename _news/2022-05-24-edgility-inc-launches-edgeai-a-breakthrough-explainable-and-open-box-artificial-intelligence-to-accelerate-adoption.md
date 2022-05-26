@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Edgility, Inc. Launches EdgeAi, a Breakthrough Explainable and Open-Box Artificial Intelligence to Accelerate Adoption"
-excerpt: "Edgility, Inc. launches EdgeAi as healthcare's first operationally embedded AI with Explainability. EdgeAi exposes the internal mechanics of machine learning and deep learning systems in human-understandable terms."
-publishedDateTime: 2022-05-24T10:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-edgility-inc-launches-edgeai-a-breakthrough-explainable-and-open-box-artificial-intelligence-to-accelerate-adoption"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-edgility-inc-launches-edgeai-a-breakthrough-explainable-and-open-box-artificial-intelligence-to-accelerate-adoption"
+excerpt: "Edgility, Inc. launches EdgeAi as healthcare’s first operationally embedded AI with Explainability. EdgeAi exposes the internal mechanics of machine learning and deep learning systems in human-understandable terms."
+publishedDateTime: 2022-05-24T10:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-136154cd61a34dbdaf0377891831fbe5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-136154cd61a34dbdaf0377891831fbe5"
 type: article
-quality: 8
-heat: 8
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "lLnpM7o/PyWytgttBPtcXd5h/OD/Qm9g7qbxYKxZ9d8Xz4CvUR9f2OCFUbpQXoOZLSazrFIR0XiUAEI78UwkBq6o7sdLG+zQ9u/16Lay/cI6WtV+NJ/R3rqYA5vCZUarBq8GyDv7hLJKMYKCEBpU3fMHQV1CGX2epILq6OrBW7nnE6FY4z/pCsE8xC9sCKeQqxl3I1gpth0u0Lv1MgONU+C36yBbI44EsrFeDecrG412J3jv8ttCzK8v855CO0H31gKJhfZXAen7017zKks4ENAVbfBvkco2EUfWnMcwus+/CAWaEGqijd1nfWqS97xl/66Scz349mSsHaMSxRmxJUzED/fqwkq1CEaEXtxM9l0=;+KFrJBGtWKVyubCQYlsOtQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "vrPyrkd/r1FUKQ7S4yXx3wYZXhk06zbxdlj65ddVHwXtARAfEeAiwJXn7zUlo7339LEpIWJwtr7hEGF6bMViw7b0FjFfj7XecRl7SBe+Ot1zWPLuQoQKD0VNBMwuwDaOrHSQ9uscjUrGOdJDGvoyx64caPCaMQAnkk+5IrNfrR7KZ05Zy9fdbKDEellWaQPeA053NTYXLU+kHX5aFANqmd0A2qSt0lRlvVm/7jYrTJTwhBHjb0OF2Njc7Gg61G2xkQjM+OC94rntyF9M46GxPmTqZQNLR0McBRjHCzg/SgqpWWHMaSQmp5drYZ/kjv0HhsP3x+JrDmurqyuwNi+EQzk7iBwWwIt9BQRRjGfgDD4=;aFMMNw/zd8DbZkoFz4vuOg=="
 ---
 

@@ -1,30 +1,48 @@
 ---
 category: news
-title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
-excerpt: "By Megan Marples, CNN For these tiny robotic crabs, being small is a virtue. Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking robot,"
-publishedDateTime: 2022-05-25T21:08:00Z
-originalUrl: "https://abc17news.com/news/national-world/cnn-world/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/"
-webUrl: "https://abc17news.com/news/national-world/cnn-world/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/"
+title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
+excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research p"
+publishedDateTime: 2022-05-26T11:51:00Z
+originalUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.html"
+webUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.html"
+ampWebUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.amp.html"
+cdnAmpWebUrl: "https://www-wfft-com.cdn.ampproject.org/c/s/www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.amp.html"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: ABC 17 News
-  domain: abc17news.com
+  name: wfft
+  domain: wfft.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfft.com/content/tncms/assets/v3/editorial/9/5b/95b4f7e1-5a36-5da1-81d9-3753083419e7/628f9fe5acdc3.image.jpg?resize=1024%2C1366"
     width: 1024
-    height: 576
+    height: 1366
     isCached: true
 
 related:
+  - title: "Researchers build world's smallest remote-controlled walking robot"
+    excerpt: "The tiny bot is able to walk, crawl, bend, twist and even jump. According to lead researcher Yonggang Huang, it can walk at an average speed"
+    publishedDateTime: 2022-05-26T17:01:00Z
+    webUrl: "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-26-image-17.jpg"
+        width: 2388
+        height: 1624
+        isCached: true
   - title: "Smallest-ever remote-control walking robot uses shape-memory alloy"
     excerpt: "Researchers at Northwestern University in Illinois have demonstrated the world's smallest remote-controlled walking robot, at just half a millimeter wide. Such tiny machines can bend, twist, crawl, walk,"
     publishedDateTime: 2022-05-25T18:00:00Z
@@ -53,6 +71,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "ph0hqXma+qmDQ6gE73ACCQemrnmbwHHr0JePFvzXRQaOZ/QHyCX2rwQuQxvArRTkQ0SL4DEe14tnmkfm4/WXrUriXCpYYV9dejjk+PKFXRR+cjOzzTrpJSvvd6YBq1pQrMXxwkhsgA1aJ2valCotS6hJ8lXGGvwtY79MhUFHxfNKE0Zv4jUR85y9EfzaFk3ubnhcFfYdlcHqc7D2sk4Uiphyj5A+ywDywa5AVDC12yXDIagAgmgO2vtpc+LkFE+cPgavzCLkyE6EcEUcIIMz3R07mPpk1FYqCYHIHRLstoIlJRf55yhjAlT8fpqrzaKHUD0v7yimlMM00m/lW6+Nz5Jdm08n/xLenVYVwM75CqI=;xSDqDaJnafe7AvIaj5rjvw=="
+secured: "AJn6YOu/oPOwM29NdoSU+wCRkrfBcImiWNsnefl2cCHj8aR1PSE9qmpNqnJ2jQUUUhprR7F4XRIwyvUc4NNDR+EvH/Zjh6ARmzmj+vfwzksEvjwggKMdNHuKnuQRT4a+sTgwCEwmL+ehpk/hEUFMBVKbj36PvReBjat2HWf1sK0pqBvWkf6dCjvTcghj4ommk10HQx/kzXXRQRNKZvlzbMd7DFv0PFRXkfkmo0DGVieS4VIYdMyWTZvlPqCapZaSIrtqQETbIlPAr707Sk3VNi3uCHm5CSpKzSR4XXlRp0Bq0F3xqLajrkpRU8IXgg+7TMDHk0Hh9jH+70Gm42a38OfYepREOg4Bwp3yMOtWqUs=;zVQvdeXBebCYFze5B0GtoQ=="
 ---
 

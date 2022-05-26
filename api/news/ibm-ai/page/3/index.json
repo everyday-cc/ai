@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-17-influential-mlb-players-inc-partnership-empowers-players-to-become-successful-content-creators.md",
+      "title": "Influential-MLB Players, Inc. Partnership Empowers Players to Become Successful Content Creators",
+      "excerpt": "Influential, the world’s largest influencer marketing company, today announced a partnership with MLB Players, Inc., the business arm of the Major League Baseball Players Association. The agreement gives 1,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/mlb-technology-sports-business-major-league-baseball-players-association-9417eb970ba7aa4b55c87f512b6a517c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/mlb-technology-sports-business-major-league-baseball-players-association-9417eb970ba7aa4b55c87f512b6a517c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-ibm-launches-2-year-global-pro-bono-environmental-program-for-non-profits.md",
       "title": "IBM launches 2-year global pro bono environmental program for non-profits",
       "excerpt": "IBM (NYSE: IBM ) today announced the launch of the IBM Sustainability Accelerator, a global pro bono social impact program that applies IBM technologies, such as hybrid cloud and artificial intelligence,",
@@ -1370,49 +1413,6 @@
         "IBM AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-report-ibm-seeking-to-sell-watson-health-unit-for-1b.md",
-      "title": "Report: IBM seeking to sell Watson Health unit for $1B+",
-      "excerpt": "IBM Corp. has launched a new effort to sell its Watson Health division, Axios reported on Wednesday, and the company is said to be hoping the unit will fetch more than $1 billion. Word that IBM plans to sell Watson Health first emerged last February.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/01/06/report-ibm-seeking-sell-watson-health-unit-1b/",
-      "originalUrl": "https://siliconangle.com/2022/01/06/report-ibm-seeking-sell-watson-health-unit-1b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/IBM.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

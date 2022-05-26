@@ -52,6 +52,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI Market Size 2022 with 21.48% CAGR : Innovation Strategies & Recent Industry Developments With Top Players and Forecast Up to 2028"
+    excerpt: "Global “AI Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI market is"
+    publishedDateTime: 2022-05-26T04:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-market-size-2022-with-2148-cagr-innovation-strategies-recent-industry-developments-with-top-players-and-forecast-up-to-2028-2022-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Neural Network (ANN) Market Growth Prospects and Share Analysis, Trends, Top Leaders and Regional Analysis Forecast to 2022-2031"
     excerpt: "Japan, Japan, Sun, 22 May 2022 22:58:36 / Comserve Inc. / -- The Artificial Neural Network (ANN) market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024 ..."
     publishedDateTime: 2022-05-23T14:22:00Z

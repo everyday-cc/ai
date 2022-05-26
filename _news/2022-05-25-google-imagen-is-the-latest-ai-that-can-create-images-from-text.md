@@ -72,6 +72,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Google's Imagen AI produces photorealistic images from natural text with frightening fidelity"
+    excerpt: "Artificial intelligence is improving fast. Less than a month after OpenAI released its impressive DALL-E 2 text-to-image generator, Google has bested it with Imagen."
+    publishedDateTime: 2022-05-26T16:20:00Z
+    webUrl: "https://www.dpreview.com/news/7952219469/google-s-imagen-ai-produces-photorealistic-images-from-natural-text-with-frightening-fidelity"
+    ampWebUrl: "https://m.dpreview.com/news/7952219469/google-s-imagen-ai-produces-photorealistic-images-from-natural-text-with-frightening-fidelity.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/7952219469/google-s-imagen-ai-produces-photorealistic-images-from-natural-text-with-frightening-fidelity.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 46
+    images:
+      - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/7952219469/google-imagen-brain-toronto-skyline.jpeg"
+        width: 590
+        height: 590
+        isCached: true
   - title: "Google details new cutting-edge image generation AI"
     excerpt: "One of the most sophisticated entries into the category is an AI system called DALL-E 2 that was detailed by OpenAI LLC earlier this year. According to Google, its newly announced Imagen system ..."
     publishedDateTime: 2022-05-24T17:29:00Z

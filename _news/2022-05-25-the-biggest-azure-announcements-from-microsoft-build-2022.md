@@ -315,6 +315,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
+    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
+    publishedDateTime: 2022-05-24T20:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 61
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Hugging Face Endpoints launched on Microsoft Azure"
     excerpt: "Hugging Face has announced a partnership with Microsoft to democratise machine learning through open source collaboration and make the Hugging Face machine learning platform accessible to Microsoft Azure customers."
     publishedDateTime: 2022-05-24T15:08:00Z
@@ -389,15 +403,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 46
-  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
-    publishedDateTime: 2022-05-24T20:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z

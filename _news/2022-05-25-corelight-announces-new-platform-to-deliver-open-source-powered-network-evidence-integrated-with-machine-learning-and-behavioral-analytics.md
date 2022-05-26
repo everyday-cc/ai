@@ -3,10 +3,10 @@ category: news
 title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
 excerpt: "Corelight, the leader in open network detection and response (NDR), today announced Corelight Investigator, a SaaS-based solution that extends the power of open-source driven network evidence to SOC teams everywhere."
 publishedDateTime: 2022-05-25T13:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609246.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609246.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-corelight-announces-new-platform-deliver-open-source-powered-/2022/05/25/9609246.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-corelight-announces-new-platform-deliver-open-source-powered-/2022/05/25/9609246.htm"
 type: article
-quality: 0
+quality: 5
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1029859/corelight_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "CallMiner Named a Leader in the 2022 SPARK MatrixTM for Speech Analytics Report"
@@ -34,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "iPihZ1Rj4uLnKzCBIZJOHtXYBQs2SVS4+ohvAgalSqWqHTZeuQUjoVXay2QfxyJbbrnoEcE/5DKgJvDzOSrY4SCeqis5WJS37zI7EFO2ZAGwRSHWjFEY7YUI1z2Cj9OYmI+eD747cpMoHrjdJj2Y76e2UDSf/7zBfE5jwDPI46pAE2XdqDfH7wBEg4s5AQ9HuQN9Os2Wljyjpbin/TuZOd4SSA7yscY6Bl7u02bUX25L18dArcSPHHpKSjYpf/vHTIDk25CVhEgNkyDve56LaK1RRmzpxuiSsIbUGQUYhfioIs3wwQ3xrlx96iETGaIXr6XWbD9eFiNwBENNlJ35UJ7IvznymqgevejVAPoTeVor6DiFU+JRDrmozLm8OuGgVyWqVFGEqrHdqQNDL3UyRf5IP23w7TNG/59wc9TV+caLhgci02i3LxUsiY+b+LJqHON1mgXs6pquUhlFTRczsFOgvL2MJDKDDk9wakww8dM5VGqe438yi+kcwCZ+PtNbnhF/HP+lR3OWrrQFtzJVCg==;OmIS/f/A7/Y6lzaZotfKMA=="
+secured: "+JtN4iPAelNGiaQiJ9G34paJ5fxHQlV8AKlij6BRG81EpnPtwH2lC5hagfJBpqYbpqo/iCAn62iSxDhrv9CorJDmrT83Dt3H3NS5bPaTF0gvw9G7oyMLW2F2nSpoFrT1cLyyFRiTggP5qy+vqafkBHFpvxn5M4hgjRHrNn81o1TQplr5oMATT4zMrGq097Zk78S1DkCFB8yCC+BFj5iZa95ZnHgJHWCJ0TmMTF5hNbDVl5IbqNubBdCzGsjlFSCdNTRuUvKKUEnLvqh3WEHUFesyxEY/tSGo6lPkeCz+dYgEBJ1fyhqxryo35S/zO/0+Kj/bujpakCvESKvhSmVTK6uMcM68lVbWmxEmlngc9KQ=;EBPkNIHO33rjiqKWBtFXLw=="
 ---
 

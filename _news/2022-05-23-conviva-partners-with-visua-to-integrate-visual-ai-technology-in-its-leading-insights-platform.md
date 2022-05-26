@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 603
         isCached: true
+  - title: "Iterate.ai Wins Intellyx 2022 Digital Innovator Award"
+    excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced that Intellyx, an analyst and advisory firm helping business executives and IT leaders untangle the technologies and practices behind digital transformation,"
+    publishedDateTime: 2022-05-26T17:51:00Z
+    webUrl: "https://www.localsyr.com/business/press-releases/globenewswire/8560814/iterate-ai-wins-intellyx-2022-digital-innovator-award/"
+    type: article
+    provider:
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 37
+    images:
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
+        width: 814
+        height: 330
+        isCached: true
   - title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
     excerpt: "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All"
     publishedDateTime: 2022-05-24T17:42:00Z

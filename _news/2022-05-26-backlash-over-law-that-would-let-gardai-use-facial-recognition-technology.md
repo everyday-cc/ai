@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/backlash-over-law-that-would-le
 webUrl: "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t"
 type: article
 quality: 53
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       - url: "https://www.independent.ie/irish-news/politics/c3f17/41685988.ece/AUTOCROP/w1240h700/rment%20Buildings%20016"
         width: 1240
         height: 700
+        isCached: true
+  - title: "The Irish Times view on gardaí and facial recognition technology: scepticism is warranted"
+    excerpt: "Europe’s highest court has deemed more than once that Ireland has failed to implement the kind of protections Helen McEntee is now promising for facial recognition"
+    publishedDateTime: 2022-05-26T16:23:00Z
+    webUrl: "https://www.irishtimes.com/opinion/editorials/2022/05/26/the-irish-times-view-on-gardai-and-facial-recognition-technology-scepticism-is-warranted/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 30
+    images:
+      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Poll: How do you feel about gardaí using facial recognition technology to identify suspects?"
     excerpt: "GARDAÍ ARE SET to be granted new powers to use facial-recognition technology that could lead to the rapid identification of criminals. The technology enables police forces to carry out automated searches of video footage for suspects in criminal investigations."

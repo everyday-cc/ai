@@ -337,6 +337,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Clearview AI Launches Clearview Consent"
+    excerpt: "Clearview AI, a facial recognition technology company, has launched Clearview Consent, an identity verification solution for commercial enterprises. Clearview Consent will offer Clearview AI's facial recognition technology to companies for use in consent ..."
+    publishedDateTime: 2022-05-26T16:12:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153145"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/145747-0522_CaaS_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Clearview AI Expand Facial Recognition Software To Companies"
     excerpt: "By partnering with Clearview, Vaale is saving about 20% in costs and increasing accuracy and speed by replacing Amazon’s Rekognition service. “We can’t have duplicate accounts and we have to avoid fraud. Without facial recognition, we can’t make ..."
     publishedDateTime: 2022-05-25T19:12:00Z
@@ -446,6 +460,6 @@ related:
       domain: mobileidworld.com
     quality: 4
 
-secured: "Po0Xtl7CI7lhfhF5B28P4hKweWAasjYSSZ4Vd9qtY7NVJ711pX4JPeACwwGGSROEmgUawmEf3/VCZK2fr0x8Tq8SNSbJEk/K1m0f9DK+vpS9yGVA/FqZ5PlAe1XFfdUiY0B8RxY+R1KrtEfUglijkHGZ/tnM6HvIr3d5ErXvIrIoZJOwFZ9nPZ1K6uWIlYQzRA7PCWAzyHYldieARvn2dcvhP+zLHzee1ub8ZB1wXqE2ARJnKj5/EN8s4Lr9I1xwzmwnOC6I8ckBqasPJRVvzKEHaQxbO6Iy5XNcDVcB7h3efVExvp8gBKZ3SaFJNbheI5zUe/tYHP0uplFslaOME+zS7MxyNpSztd36o6w36nY=;jyASGRnujPBARpRodBEufQ=="
+secured: "FMSIzuGdwD6qIveNko8LJkKhtjkk5kNVC1fPLUC/gKcYamFSWWFJLX8gGuPW4aQ7v/Czv5PLAzMHwUwzPBUx2hS9KiwzDRdD1Ga7TZkWd7NasWdAELn9arDecKTLTitE/OY00+RdlLRB5Hh8LKPK/RjvGtB1rgKrwuF5idvCMb6gbVudILAGw0NyA2+0e5CS7yJZmgFc2P5cklkm5lg3nUb2gmJ1tJ1xaQxGxzG5GTWV0e6pvGCQCVc9Osep8DyHTv/MhNf0niH5dYvO1EKnP35LGMAT3heSj+YBbkSZMU+GXlbklYlA5Gm68lHOKzHN6ZwR0MStLO3nTQA9jdHmoF7wmAFpox8UlPBWeJMAX8s=;keNeM4vmScNsz3LdgChhNw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-18489755
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
 type: article
 quality: 104
-heat: 434
+heat: 444
 published: true
 
 provider:
@@ -326,6 +326,20 @@ related:
       - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/4/0/6/15406_clearviewai_83041.jpg"
         width: 1024
         height: 536
+        isCached: true
+  - title: "Clearview AI Launches Clearview Consent"
+    excerpt: "Clearview AI, a facial recognition technology company, has launched Clearview Consent, an identity verification solution for commercial enterprises. Clearview Consent will offer Clearview AI's facial recognition technology to companies for use in consent ..."
+    publishedDateTime: 2022-05-26T16:12:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153145"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/145747-0522_CaaS_480x610-ORG.png"
+        width: 480
+        height: 610
         isCached: true
   - title: "Clearview AI Expand Facial Recognition Software To Companies"
     excerpt: "By partnering with Clearview, Vaale is saving about 20% in costs and increasing accuracy and speed by replacing Amazon’s Rekognition service. “We can’t have duplicate accounts and we have to avoid fraud. Without facial recognition, we can’t make ..."

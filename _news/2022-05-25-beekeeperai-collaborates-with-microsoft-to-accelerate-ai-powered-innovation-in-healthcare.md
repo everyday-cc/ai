@@ -2,22 +2,28 @@
 category: news
 title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
 excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
-publishedDateTime: 2022-05-24T20:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-beekeeperaitrade-collaborates-with-microsoft-accelerate-ai-powered-innovation-/2022/05/24/9608588.htm"
+publishedDateTime: 2022-05-24T20:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft brings support for Arm-based AI chips to Windows"
@@ -467,6 +473,6 @@ related:
       domain: enterprisetalk.com
     quality: 31
 
-secured: "9d9qfDMINgPpC38G7CqPD/RCTUK4ursF1BeZeOoKCu21ojMJxfBJ6L/Nqrg1PIbG5Hg+rW8z+LJli3DZLIIVVlxdWHs2mFThOF1AK7WqvEp2ozuQETdWrVjCrbhvAFCEZe6JWnmYTE3oblqmuC+w+JXb7dmrCo/5VoF8MjO7IqhN/hfT0cvayma1ugYyglxLHOSgS+7pa4UNk86CU9kf4zavd9b9W5gtE4DCdlWaqj/JVNzDpJMnu/9nikB+b+fhLLAmwIm6YsOUcgVa12D5XUs/ZdpbyejIWxFpcRKHmIJ2DR5JSjzVpfViwSAW6ubq5rdMkwpXACMu4iXSa5UJUuJSjAX28VXHmZvoIPZtZkw=;Ssfuqx8qF0KO0lPUmaiCdQ=="
+secured: "kmePTFQx+sdnmDP/bNXJpEjcQlUFp/6tgDVQR4pqywaQ3UiIdp2Ibj9rsKM7ubDtset5EWzPrGjZpp/rwejVAggieU9qVoD18bZvuRoKIoyl+03+6VvhHKYed/ZqZ7Un6nv0m+xYMz+rGvi2xnmJXm0nhs+O/IqPv+iQM3j/UwXdqBQywaQiXR29zgdlgp1teST83WCyQGdwi4UZmhsrET+nRwdYIHiA10tu8ufNDWiahpkhpME1Jmc4JTr4JZXBhLw55sO5oIg40pjXCiLUXGWj5vaenHW3PKwMgqNGEQliJMw+3aeV1Xplp43KxwYq3VNscsV6fEvQQOrpXTNeCTxPTGzChoVq4PZ6ZbJgyEk=;gul9LE6M1TfTPMPSyN7MVw=="
 ---
 

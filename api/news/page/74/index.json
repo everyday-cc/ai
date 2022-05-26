@@ -2,6 +2,126 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-03-22-nvidia-unveils-latest-chip-to-speed-up-ai-computing.md",
+      "title": "Nvidia unveils latest chip to speed up AI computing",
+      "excerpt": "Nvidia Corp on Tuesday unveiled its latest new graphic chip (GPU), dubbed the H100, saying it will increase the computing speed of artificial intelligence algorithms that increasingly require more power to execute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/03/22/nvidia-unveils-latest-chip-to-speed-up-ai-computing",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/03/22/nvidia-unveils-latest-chip-to-speed-up-ai-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/03/22/1524082.jpg",
+          "width": 800,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical.md",
+      "title": "BYJU’S Appoints Former Facebook Tech Lead Majid Yazdani as VP, BYJU’S Lab to Scale Research and Innovation Vertical",
+      "excerpt": "BYJU’S, the world’s leading edtech company, today announced the appointment of Majid Yazdani as Vice President at BYJU’S Lab to propel and further shape the future of education. Working on personalisation and other AI applications to the education sector,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-united-kingdom-4ae59948ea474eba9dada964129826d0",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-united-kingdom-4ae59948ea474eba9dada964129826d0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-adt-commercial-to-showcase-humanoid-robotics-indoor-drones-at-isc-west-2022.md",
+      "title": "ADT Commercial to showcase humanoid robotics, indoor drones at ISC West 2022",
+      "excerpt": "Over the last several years, the world and overall commercial security landscape transform rapidly in response to various threats. As the industry has looked for a path forward, it’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "publishedDateTime": "2022-03-22T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-gigantor-technologies-provides-an-unbounded-future-for-ai.md",
       "title": "Gigantor Technologies’ Provides an Unbounded Future for AI",
       "excerpt": "Gigantor's newest innovation enhances Artificial Intelligence (AI) neural networks by enabling higher frame rates at the highest resolution (HD, 4K, and 8K). In the Patent Title, 'Unbounded ...",
@@ -952,154 +1072,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-meet-the-deepmind-mafia-these-18-alumni-from-googles-ai-research-lab-are-raising-millions-for-their-own-startups-from-climate-to-crypto.md",
-      "title": "Meet the DeepMind mafia: These 18 alumni from Google's AI research lab are raising millions for their own startups, from climate to crypto",
-      "excerpt": "Over the past decade, Google-owned artificial intelligence research lab DeepMind has become a repository for top AI talent. Since Google bought the London-based startup for an estimated $500 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/former-deepmind-employees-who-founded-own-AI-startups-2022-3",
-      "originalUrl": "https://www.businessinsider.com/former-deepmind-employees-who-founded-own-AI-startups-2022-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62349c08c5cf2000184dc442?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-robots-step-into-the-covid-19-danger-zone.md",
-      "title": "Robots Step into the COVID-19 Danger Zone",
-      "excerpt": "mind-numbing and boring jobs. Now they can do jobs in plants while humans are sheltering.” Bogart began by creating robots for movie sets. “We started in the 80s designing robots for motion pictures, mostly motion control. We moved movie cameras and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-step-covid-19-danger-zone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/OB7%20opening%20machine%20door%20%28002%29.jpg",
-          "width": 3264,
-          "height": 1836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-ukraine-and-russia-have-both-weaponized-facial-recognition-in-very-different-ways.md",
-      "title": "Ukraine and Russia have both weaponized facial recognition — in very different ways",
-      "excerpt": "Ukraine is using the technology to ID the dead and find Russian infiltrators. Russia is using it to crush dissent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
-      "originalUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6238d63cd199330018a3626d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-russia-have-both-weaponized-facial-recognition-2022-3?amp",
-      "publishedDateTime": "2022-03-21T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

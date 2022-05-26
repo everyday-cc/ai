@@ -332,6 +332,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Clearview AI Launches Clearview Consent"
+    excerpt: "Clearview AI, a facial recognition technology company, has launched Clearview Consent, an identity verification solution for commercial enterprises. Clearview Consent will offer Clearview AI's facial recognition technology to companies for use in consent ..."
+    publishedDateTime: 2022-05-26T16:12:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153145"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/145747-0522_CaaS_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Facial Recognition Firm Clearview AI Fined $9.4 Million by UK Regulator"
     excerpt: "The UK Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI more than £7.5 million (around $9.4 million) for breaching the UK GDPR. The ICO has also ordered Clearview to stop scraping and using the personal data of UK residents,"
     publishedDateTime: 2022-05-23T13:30:00Z

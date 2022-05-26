@@ -2,19 +2,19 @@
 category: news
 title: "Study shows AI deep learning models can detect race in medical imaging"
 excerpt: "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ..."
-publishedDateTime: 2022-05-24T23:03:00Z
-originalUrl: "https://www.wxyz.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-webUrl: "https://www.wxyz.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-ampWebUrl: "https://www.wxyz.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
-cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+publishedDateTime: 2022-05-24T23:02:00Z
+originalUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+webUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+ampWebUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: WXYZ Detroit
-  domain: wxyz.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
   - Machine Learning
@@ -53,6 +53,6 @@ related:
       domain: wfmz.com
     quality: 10
 
-secured: "EXVtitdlZ84o0eJp9zUyKf2EwGn+8l08m/yrD85gc9VrAOK2nrdfBboNCi73cvH9nmFpCXMeJfmr8OYM/BZrAiYEVeK+wliFYKTY5Iu5ImkU/zLcH0459KS4pHqOJ1+drn0caOzK3rEuGND9Cl/BDv4WPrJ9Rc0hG2KdOVJJsU0LXAsYIQSVL17GMmTv2pblGi4SoLTAa5X34XgxP0QkdZ7QLJ1U8MNOxwU04yS9Irj0EJwcyO25i66diWycBV6tJsswjvsrhgWEvPyUGT+mqvIOWFfaHg9AUaUJD6q8+m15/YyZjngmZacG/d61vW7bZWE1MuOiO9z78HaJ9wFnlSNqyJySyhDGh82KfLXiU3c=;uPndMJ2yPkZnlDf9dYGaJQ=="
+secured: "tbvg05oH5pYmj93AP3ALi3jbPmTgfQUDmG+4Ffw+1o1MB3LvvvR8foA6diHcKSzoorK4v3EAv1CEqDYXbHePwY6oRd+6BtUe8R0Arr7lm5gspv/VyOurtBH/izpzO9eHXy85aNUWLW0QYiZ3ma47F0gMIfJPNuKWm0pNiQ+UTEJ78sDTZn/YMcKaQkHgMRkn+bVPJ7SlzL0vLz43P4f0PjnBzlaORlnIts0zYqNgZjGMrn6E5wlY+E+7AbxMyuhQ8QhVZ2TaQUjKPHMCgtTCfa37jx4X5pw8Ih+39JAddhExsEaR4D9B2ntiPQGk1mUL2uKSqQ7Livbl9ejIylWxZFtRfJ4MrINef1+dnNGh9BU=;ryUJKCR52XhP37YSBVkEUg=="
 ---
 

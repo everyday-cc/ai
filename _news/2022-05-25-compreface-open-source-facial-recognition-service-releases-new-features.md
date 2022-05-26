@@ -34,6 +34,20 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 49
+  - title: "Exadel updates open-source facial recognition service for UI, easier CCTV deployments"
+    excerpt: "Exadel updates its open-source facial recognition service to smooth out the customer experience and broaden its integration with other systems."
+    publishedDateTime: 2022-05-26T16:37:00Z
+    webUrl: "https://www.biometricupdate.com/202205/exadel-updates-open-source-facial-recognition-service-for-ui-easier-cctv-deployments"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
 
 secured: "mCzdNKT4HcnHVi2luouQhZSQfbLM/6DynLSRhPTtcn+DdFCAD9v4qghOigPI9G3mr7YT3Z+KCydwrN2HVrNHhRzWT/eq4Txbkfy2JNxECjIt97BFlBJnwfg3n3zKdG1US2LSwRlVwAxlZgjkDrmVTL11ANyxvLyrbnc1FZCHkFekhKelj0E2W8TPeGvFdaI8VFg7FMdyq9ENKr7nxhjfkfWZ7YXwC0zxfDf0ry3PzLDssgSjxcmLM3HpVkhIVb42eEYN+vNBsD7oy+3oa1AC5QCGOaTAG1eGt6nGJhx0RiNijxH7B1KqcfZCATdtpHFsEG2KUM1QqA2hNSNvl2wnPYPTD4xiQX47d9xJyOoUJDM=;DoUI2B+XGM3Q9iOeRZfpww=="
 ---
