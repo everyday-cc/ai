@@ -21,6 +21,7 @@ topics:
   - AI
   - AI in Robotics
   - Facebook AI
+  - IBM AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2022-05/839615C7-95B3-40CF-B937-BEADE195DE63.jpeg"

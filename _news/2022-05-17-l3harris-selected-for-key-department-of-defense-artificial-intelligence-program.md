@@ -2,21 +2,18 @@
 category: news
 title: "L3Harris Selected for Key Department of Defense Artificial Intelligence Program"
 excerpt: "L3Harris Technologies (NYSE:LHX) has been selected by the U.S. Department of Defense to deliver artificial intelligence services to improve intelligence gathering and collaboration across the defense and intelligence communities."
-publishedDateTime: 2022-05-17T13:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-l3harris-selected-key-department-defense-artificial-intelligence-program-/2022/05/17/9603656.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-l3harris-selected-key-department-defense-artificial-intelligence-program-/2022/05/17/9603656.htm"
+publishedDateTime: 2022-05-17T13:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/l3harris-selected-for-key-department-of-defense-artificial-intelligence-program/article_5049ff65-08f3-5219-a621-9c1aaa21518b.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/l3harris-selected-for-key-department-of-defense-artificial-intelligence-program/article_5049ff65-08f3-5219-a621-9c1aaa21518b.html"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI
 
-secured: "KYTFRc2EGWxMDhALxBxRZryARQgEfPmKvdk8u3Q+P7bYncoB3dM6N+fcU/OsNqN6gr43wXAifdGsFToS1GmgHh+CB4LBzHczhX5R5tMnNHdiaAx2NK+zMUkcaOCbaS4/+sGgvY91GcV7xCAUnIrO5zpu6Oxhji4vBHAIlxaM+PZraYj7jmYC2biVBgEqs+OcaDnwBqloGouDNCbacFf9yh2CzcYcKrHrwpYPJk9plY7Jekhl30Bs60Q2a0jCaoqX0s8kv7e3clxhODXLj3gdUgWxt4KXlVlcDp57LUC0RYKUwHJY9S7/hpH1W7dFC0fp2Bc2xjcqqsdXybVDiJccT0MaMRo8vGHTR2L+aEAkSCg=;ferAMmHUtPuwWbA3MV+AEQ=="
+secured: "hN44rd8ab+oKjFBfjwQtWSlQqak5+q31TPIW3DWz5R1rxGCAaDbAYDVHHg7yfXtcx87ktAXOu0Mq8L+nKCbLNFMMZcVqEWnXVcbz/VhdpyuqGR9F3ePb9isAdNUekVzlyGkgFSNzZ4RaEbQ4Ta1s309UNV3G802NsnpSB7x+tZVGXw7zOfvxgBAK1UTHG7CcCszWoqVZ4tl4L7w4AZytLJrKQ9xTW2TeB1AhyT4P7gbq1MjubB80POM0zZVSez4BG0plbespeQiSrUrQhwXd3tMpQjru4PUJoC4gfbxDhWI2Ota7c9I3RWmaYElE8YFs2caSmZLvP86g9QfXPpvyRD1El0xsElFUl6qhvO3pvCsRRS7GKAwviU8caIFe8vMLZoUXxvThhSjmF2eISAIqTardYXOaiiiNIgA9ew7+3k/dhHWjEeQjFi7SHNdy8NwuojOV9lYl193e9tiMxrfeT0OY59ePVmZdCui0QTEjhk925V9aSRdwbH+CnWDqYjxH+bPpufwDwIXtKY7blgSqew==;dF3Fk5ywi4YIqACoV8BvjQ=="
 ---
 
