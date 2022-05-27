@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/"
 type: article
 quality: 123
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 58
     images:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "New GraphWorld Tool Accelerates Graph Neural-Network Benchmarking"
+    excerpt: "Google AI has recently released GraphWorld, a tool to accelerate performance benchmarking in the area of graph neural networks (GNNs). GraphWorld is a configurable framework to generate graphs with a variety of structural properties like different node degree distributions and Gini index."
+    publishedDateTime: 2022-05-27T16:33:00Z
+    webUrl: "https://www.infoq.com/news/2022/05/new-graphworld-tool/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2022/05/new-graphworld-tool/en/headerimage/new-GraphWorld-Tool-Accelerates-Graph-Neural-Network-Benchmarking-header-1653647754361.jpg"
         width: 1200
         height: 630
         isCached: true

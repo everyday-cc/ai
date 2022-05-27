@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Syapse Unveils Two New Studies on Use of Machine Learning on Real-World Data to Identify and Treat Cancer With Precision at ASCO 2022"
-excerpt: "Two studies that we are presenting align well with this objective, with a focus on how machine learning can be applied to real-world data to better bring identification of patient characteristics, and specific patient cohorts of interest, to scale,” said ..."
-publishedDateTime: 2022-05-27T15:10:00Z
-originalUrl: "https://www.koin.com/business/press-releases/globenewswire/8561124/syapse-unveils-two-new-studies-on-use-of-machine-learning-on-real-world-data-to-identify-and-treat-cancer-with-precision-at-asco-2022/"
-webUrl: "https://www.koin.com/business/press-releases/globenewswire/8561124/syapse-unveils-two-new-studies-on-use-of-machine-learning-on-real-world-data-to-identify-and-treat-cancer-with-precision-at-asco-2022/"
+excerpt: "Syapse®, a leading real-world evidence company dedicated to extinguishing the fear and burden of serious diseases by advancing real-world care, today announced two new studies focused on how the use of machine learning on real-world data can be used to power precision medicine solutions."
+publishedDateTime: 2022-05-27T14:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-health-cancer-cfab69a0f7c400f5c82eb84bc85344a6"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-cancer-cfab69a0f7c400f5c82eb84bc85344a6"
 type: article
 quality: 8
 heat: 8
 published: false
 
 provider:
-  name: KOIN 6
-  domain: koin.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-    width: 800
-    height: 340
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: wivb.com
     quality: 4
 
-secured: "fxmDZExp/d5EEAAg1tRliMx/pTRU9XkuPZeUY4t+WazM+BizuOLRcrRLTj4scr8YH+PqxyT1zqqv3OxUmh+ViRpUY0ZS7uCdcvlWcxc4A4NZmVH3ogTyfe/n2LDKt/S3XDERc2vDujAkBuYkvvquCya1wCkssVAZjKQhmR/pksr7Gowg3uailYh6DhSh2/1c5+pymq9zE7zhLtc48olrJiphMIOlIZmejqQaPCZuSGuJ3+QD0ouzwkqgInUhl4zWYzQsOwvpAOBzK9myGX46rQNt9Oepv4ug1XyvseLA1AuYjPmvgzINx/NgviyGPkoA4VLwpzNa1HLQoaJNJPf8/3TwIyOJYKcq0kWyCvAd1BY=;wlPg1k2qCveUPGLD4wmJLg=="
+secured: "qk7ZUp2yImu6trGoqI8y57RfcQj4lr4E1a0FtU5LCJmfgg0h3kYBk9DEtYF37FBpnNUSVbonv81MJwi8/qoRr08b+43wmXBQruGkR2o+CUA+g8z2rBnVWAUoFCUEH0qpFp5JVEA/r50BZ8uIGjtw5wtqOt7fzErZqeeegq4Izj2e5cn+0gtHZUifq+AyIzxoZV0axohpM33MkJiLR5ojCABwtUxqQVpA/VirqBoAkrHesswKUTfYA4l0cKlUC5P1tmTlN+U8htEUHnLgw5AcCdP0v8zv96+5ncvEONrasCYw6ioVpZdi85sTTJaX2XZhOn9tP3CehlXf+p3Ui+92ParR0UH0SAVqQmDB1YA9zoM=;wPpoDad52PZAGRdqXv3HQA=="
 ---
 

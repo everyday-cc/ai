@@ -1,0 +1,31 @@
+---
+category: news
+title: "Giving voice to those most in need"
+excerpt: "A joint declaration of support from the leaders of major faiths in Australia for an Indigenous voice in the Constitution is further testament to the groundswell of goodwill and support that exists for formal recognition of the nation’s first inhabitants."
+publishedDateTime: 2022-05-27T14:01:00Z
+originalUrl: "https://www.theaustralian.com.au/commentary/editorials/giving-voice-to-those-most-in-need/news-story/b37f998ba859eddf18d18aa2c373c614"
+webUrl: "https://www.theaustralian.com.au/commentary/editorials/giving-voice-to-those-most-in-need/news-story/b37f998ba859eddf18d18aa2c373c614"
+ampWebUrl: "https://amp.theaustralian.com.au/commentary/editorials/giving-voice-to-those-most-in-need/news-story/b37f998ba859eddf18d18aa2c373c614"
+cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/commentary/editorials/giving-voice-to-those-most-in-need/news-story/b37f998ba859eddf18d18aa2c373c614"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: The Australian
+  domain: theaustralian.com.au
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://resources.newscdn.com.au/cs/austemp/article_common/latest/assets/img/logo-sharing.jpg"
+    width: 650
+    height: 366
+    isCached: true
+
+secured: "z8elRCtp/Jkdh+MjympJn1LET8SrTo0YQcklKwTBFfxoKecRcRpoDhAbVihg66GpGpmmYrbrpuuB3cINU357WLyF/uotkWtalEN/ZLyuHB8CgYYyE56MTJeHHNprGdpqUy6wOMDLILbCl50gbcgTQ0/qECT2oc7Lh7x0/IA0k5pyWzZyJanBghwIoCZlA3z1ZoTjQWldtMgKoLKEI1RjcyJ8UH+mykgYvgQgF/zhrspJgqDbqIIVe+xVW2noEftxfBPVfdGmluFr4rqGRKcgFLP+rnA1nK8DKmlDy0Ps0J3yxG88RxSaNXTtnlOODwLmaLVYhXfs9QRije8Fg+Ik2iMYxCP7MBxsw927dbAIgFc=;zd4fp0QulYiabUPZ2yRagA=="
+---
+

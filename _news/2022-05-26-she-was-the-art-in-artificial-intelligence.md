@@ -82,6 +82,17 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Can robots learn law? Scientists and theologians discuss the future of AI"
+    excerpt: "Will robots one day be better at medicine and law than human beings? That was one of the topics discussed by scientists and theologians at a recent gathering in Rome. The “Topology of Intelligence” conference,"
+    publishedDateTime: 2022-05-23T10:41:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+    type: article
+    provider:
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 53
   - title: "Up For Debate: Is AI The Future Of HR?"
     excerpt: "Employers that introduce smart technologies to drive efficiency in HR may stumble on a hidden layer of division in the workforce: some workers are comfortable having their resumes and performance data read by artificial intelligence (AI) – and some workers are fearful of how AI will influence"
     publishedDateTime: 2022-05-25T12:00:00Z
@@ -91,15 +102,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Can Robots Learn Law? Scientists and Theologians Discuss the Future of AI"
-    excerpt: "The conference was organized in three parts around the concepts of expressing, defining, and understanding intelligence."
-    publishedDateTime: 2022-05-23T13:17:00Z
-    webUrl: "https://www.ncregister.com/cna/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
-    type: article
-    provider:
-      name: National Catholic Register
-      domain: ncregister.com
-    quality: 33
 
 secured: "BkfUxNZzTatHxHmNhsl24vhDwg0s01vWiVGXL21JrQaD0hCLcCX7LlK5SU0F4e4DDdqTEStjhEjcP8vffAZmck0XPddtGl83FxqObcfax4O3WuG+CGnx/YHJP5DEPRzN8YihcgcSiOf+nSYMZo7ge5Dke7pHa1dSbPgHP1a1x76D7EEwlcx/JTYdTGodIoULUj4oX5JWiawP87G5nFXMGWrduejfSB0EodcsSwCJOd9DI2YgNXCia+GcbLIkVR0HzG3suOTTL/XHOe+2RzWCStJs4dm6OlciAhMaOdhJYp09L9S2/ekQ3T0AVhd8mga3KKesuGEa5Y1kXvCZywUAeLztE7142UP65zuxHveHbbk=;eeWbznSD8nuIgW1UX1Z+7g=="
 ---

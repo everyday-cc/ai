@@ -861,6 +861,50 @@
       ]
     },
     {
+      "path": "_news/2022-05-11-therapy-with-a-robot-how-ai-could-help-those-struggling-with-mental-health.md",
+      "title": "Therapy with a robot? How AI could help those struggling with mental health",
+      "excerpt": "Mental health start-ups attracted $5.5 billion ... Health and Addictions Service Line. Could a robot, equipped with artificial intelligence, be far behind? Boyle still has obstacles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mycentraljersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/",
+      "originalUrl": "https://www.mycentraljersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/05/06/PAPP/059d41c7-2411-4867-bed2-d8dd3ba24205-050622-MarcoMentalHealthRobot02.JPG?auto=webp&crop=4813,2708,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyCentralJersey",
+        "domain": "mycentraljersey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-video-robots-are-changing-the-way-we-think-about-the-hospitality-industry.md",
       "title": "Video: Robots are changing the way we think about the hospitality industry",
       "excerpt": "If you think about the general labor shortage, that's kind of happened since the pandemic. You know, you focus on the service side of the business and you kind of expand the robotics that are necessary.",
@@ -896,20 +940,20 @@
     },
     {
       "path": "_news/2022-05-11-the-1997-chess-game-that-thrust-ai-into-the-spotlight.md",
-      "title": "The 1997 Chess Game That Thrust AI Into The Spotlight",
+      "title": "The 1997 chess game that thrust AI into the spotlight",
       "excerpt": "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/the-1997-chess-game-that-thrust-ai-into-the-spotlight-01652239509",
-      "originalUrl": "https://www.barrons.com/news/the-1997-chess-game-that-thrust-ai-into-the-spotlight-01652239509",
+      "webUrl": "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1061671791338050567944301835434180170357---1.jpg",
-          "width": 768,
-          "height": 512,
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -917,13 +961,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/the-1997-chess-game-that-thrust-ai-into-the-spotlight-01652239509",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/the-1997-chess-game-that-thrust-ai-into-the-spotlight-01652239509",
-      "publishedDateTime": "2022-05-11T00:20:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp",
+      "publishedDateTime": "2022-05-11T00:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1118,49 +1162,6 @@
         "AI in Finance",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-robots-students-to-compete-in-dallas.md",
-      "title": "Robots students to compete in Dallas",
-      "excerpt": "A robotics team from Portland East Middle School has qualified to compete in the IQ challenge level of the Vex Robotics World Competition in Dallas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lebanondemocrat.com/portland/news/robots-students-to-compete-in-dallas/article_58d70360-9fd2-55c1-9811-eb95214f66ff.html",
-      "originalUrl": "https://www.lebanondemocrat.com/portland/news/robots-students-to-compete-in-dallas/article_58d70360-9fd2-55c1-9811-eb95214f66ff.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/lebanondemocrat.com/content/tncms/assets/v3/editorial/7/5d/75d6f60d-ceb2-5125-a646-c54e8b0a7549/62797123a98b5.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lebanon Democrat",
-        "domain": "lebanondemocrat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

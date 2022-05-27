@@ -2,20 +2,26 @@
 category: news
 title: "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges"
 excerpt: "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca"
-publishedDateTime: 2022-05-24T14:00:00Z
-originalUrl: "https://kfor.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
-webUrl: "https://kfor.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
+publishedDateTime: 2022-05-24T14:45:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-01e294ff3c429e4eaa6c335ba98a8aef"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-01e294ff3c429e4eaa6c335ba98a8aef"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Oklahoma's News
-  domain: kfor.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Report: 92% of HR leaders plan on using AI to acquire talent"
@@ -49,6 +55,6 @@ related:
         height: 250
         isCached: true
 
-secured: "tUu7Z7W06K7zkJ7CmrmTH6jijo+cLPGTTz68HFjMaKRtYEoqfyO0uh73saKOSQ/2+tu91ZQg3FrhWwEWzfd3cLP7bhWw7IzAa7kTBSghAq5SBA7C2KhsAFR6BOn7YEqzaZdLFpIDjSW6+HZV9bNAD5CETWbUcJ+JKx/LU7Mb+GJf6bzMvURO8IA09AmEi+Ep9sZvHpIp4Oh5GG75i9bM6K/RMMSIJ4y2fjxAQ+WIWls6s7c0BB9akO8i2q1ro+tUiF+pOyReDcyKGpribBDErbemkFzjlyU5iLlWvW25VN3uEjnqk7cdFPodvfZT8JxQ6/Q+I0TB2ZAuTOdgWSnVqVgVbg2Qh+gOeKGFTQOUa00=;CkLjiecZ19mDkma8gLNCkg=="
+secured: "j6hEceyz7FsfsdkhQnWCeVHf7IUrPgUklSvTXgqGq2Q7uM8CXGnrHH2+ybZLSrJZbg3zs/4kwa7nlJeyHZ+q6BGXOZQpjm71R3DqZ6qW2TkxUTJpwsa7IVDY5NhREkGIGr/RVrUCCQfkvxzX9zbtavCj1moTxI6j+cQ/o5hF6hm0MmpZkvZLFWz246ywEPJh+etsGFapXpTjUePlrWmpAgX0N8kcBNjo8uXZlV67jwQGFqJHDfhZOszCaOR2GD1I2CydA2238JMUiiXlwfJe9q5s5Q2+He49ClzUae7yymIcugArBc8hmTXUmQhc3WcynLtIaXuEheEN07UMS25/79swvBSxjyMAHMtmQVP8nqU=;BVwJHTzNRi5WNoH7Xog7Fg=="
 ---
 

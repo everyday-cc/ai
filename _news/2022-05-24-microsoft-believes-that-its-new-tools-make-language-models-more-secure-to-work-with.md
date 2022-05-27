@@ -229,10 +229,10 @@ related:
         isCached: true
   - title: "How Microsoft plans to improve the low-code landscape"
     excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
-    publishedDateTime: 2022-05-26T20:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/"
-    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/amp/"
+    publishedDateTime: 2022-05-27T03:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/"
+    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -319,6 +319,20 @@ related:
         width: 460
         height: 460
         isCached: true
+  - title: "Meta/Facebook to use dedicated Microsoft Azure cluster for AI supercomputing"
+    excerpt: "Meta first began using Microsoft Azure Virtual Machines for AI research last year, but at a much smaller scale. “We are excited to deepen our collaboration with Azure to advance"
+    publishedDateTime: 2022-05-26T09:28:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-to-use-dedicated-microsoft-azure-cluster-for-ai-supercomputing/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 68
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Introducing the Microsoft Intelligent Data Platform"
     excerpt: "It’s clear that the fragmentation which exists today between databases, analytics, and governance products must be addressed. To help organizations unlock these new capabilities, we shared several exciting announcements today at Microsoft Build that demonstrate our continued innovation and investment"
     publishedDateTime: 2022-05-24T08:00:01Z
@@ -328,20 +342,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 67
-  - title: "Meta/Facebook to use dedicated Microsoft Azure cluster for AI supercomputing"
-    excerpt: "Meta first began using Microsoft Azure Virtual Machines for AI research last year, but at a much smaller scale. “We are excited to deepen our collaboration with Azure to advance"
-    publishedDateTime: 2022-05-26T09:28:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-to-use-dedicated-microsoft-azure-cluster-for-ai-supercomputing/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 66
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "From Windows, Microsoft Store to Azure, here are key announcements from Microsoft Build 2022"
     excerpt: "Microsoft has shared a host of announcements across platforms at its flagship event Microsoft Build 2022. Here are a few key updates from the event. Windows 11 . The tech major ha"
     publishedDateTime: 2022-05-25T14:09:00Z
@@ -428,10 +428,24 @@ related:
         width: 499
         height: 375
         isCached: true
+  - title: "Microsoft’s New Executives Helping Win At Cloud, AI, Devices"
+    excerpt: "A vice president of products for Azure Cognitive Services, a vice president of global payments ... and Surface PC products are some of the biggest executive hires from Microsoft so far this year. Marco Casalaina, Ajith Thekadath and Ashley Hart are just ..."
+    publishedDateTime: 2022-05-27T16:21:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-new-executives-helping-win-at-cloud-ai-devices"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0273-14ca68934881-e516329f3f1a-1000/microsoft-sign.jpg"
+        width: 608
+        height: 457
+        isCached: true
   - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
     excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
     publishedDateTime: 2022-05-26T18:14:00Z
-    webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
+    webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
     type: article
     provider:
       name: Visual Studio Magazine

@@ -66,15 +66,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Artificial Intelligence Robotic Arm Market 2022 - Industry Size, Statistics Data, Top Operating Vendors and Forecast to 2028"
-    excerpt: "The MarketsandResearch.biz has published the Global Artificial Intelligence Robotic Arm Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2028 research report after an exhaustive study and analysis of the market."
-    publishedDateTime: 2022-05-22T23:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotic-arm-market-2022---industry-size-statistics-data-top-operating-vendors-and-forecast-to-2028-2022-05-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
   - title: "Artificial Intelligence in Diagnostics Market Size Predicted to Increase at a Positive CAGR Of 32.3% from 2022 to 2031"
     excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth"
     publishedDateTime: 2022-05-26T02:54:00Z

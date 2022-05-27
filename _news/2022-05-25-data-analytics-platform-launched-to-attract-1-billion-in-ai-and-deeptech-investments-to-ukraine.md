@@ -114,18 +114,18 @@ related:
       domain: qu.edu
     quality: 19
   - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
-    excerpt: "Corelight, the leader in open network detection and response (NDR), today announced Corelight Investigator, a SaaS-based solution that extends the power of open-source driven network evidence to SOC teams everywhere."
-    publishedDateTime: 2022-05-25T13:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609246.htm"
+    excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
+    publishedDateTime: 2022-05-25T13:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Associated Press
+      domain: apnews.com
     quality: 5
     images:
-      - url: "https://mma.prnewswire.com/media/1029859/corelight_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "KDD 2022 Opens Registration for the Premier International Data Science and Analytics Conference"
     excerpt: "Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD) today announced registration is open for KDD 2022, which will take place Aug. 14-18, 2022 in Washington, D.C. at the Walter E. Washington Convention Center."

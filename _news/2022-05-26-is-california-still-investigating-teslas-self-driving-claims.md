@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/is-california-still-investigating-teslas-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -151,6 +151,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "California DMV said it would investigate Tesla over self-driving claims. Then, crickets"
+    excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city and ..."
+    publishedDateTime: 2022-05-27T17:41:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/05/27/california-silent-after-starting-probe-teslas-self-driving-claims/9959188002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 26
 
 secured: "UdLNZyznOseQ3VlzUwzCIfk1GQBhzqNYN44bcV/xrQHfMHwE9gqQG55pPQVtquqUvn/U3hdaX07Rvv0gRoJW2VzawXBnIXi7PAE8DW21mKLQXgdIZ+L+rCRXwqONClmN0TYF5dVcti1Ttyc53gArGzs6B7SHEtHkmwAXCrVN4idBD1qSd5cfcfVFY2JvTb4TNOJScIgPhTE6/4h74wQR+pg2JxtgCnunOfk8H+Ni7/ezxK2sx2fC6QIaHr0ZdSEA0sEepnKh2cXDf/PGnjOs0lRnIjxCB0A04ZiSZCA2n8iSEEgTaqtIgcQKEO3BWWQxEi97sr1/c/QdfmPgtBMzkfn6FHWExJ8O4U1jIWtnZaS5sAQ+yK3KvjjrHgY57eePQVI23LBWK1kCxyFN0TeM7Hx19eutWtruqLbPxDx1RLLtgBSLpqCA0oJLmCKcR4pPyIpAZA5dlTlxrzX3pjtmv3Dw6Ei/0LZUwYbZbwTksbS5F8tTmDeo/AOGi5S82GXphQIk81ESR9r27t/iavH3/g==;r90ziioq/l9TfwgB0XT3pw=="
 ---

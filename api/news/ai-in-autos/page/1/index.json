@@ -54,7 +54,7 @@
       "originalUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -192,7 +192,7 @@
       "originalUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -867,6 +867,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-16-asia-pacific-self-driving-car-market-2022-recent-developments-competitive-landscape-and-regional-forecast-to-2030.md",
+      "title": "Asia-Pacific Self-driving Car Market 2022 : Recent Developments, Competitive Landscape and Regional Forecast to 2030",
+      "excerpt": "Self-driving or autonomous car will act as a driving factor to minimize accidents and improve vehicle safety. Autonomous cars have gained enough hype in Asia-Pacific. Large tech companies like Alibaba, Baidu, Didi Chuxing and Softbank are investing on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/asia-pacific-self-driving-car-market-2022-recent-developments-competitive-landscape-and-regional-forecast-to-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/asia-pacific-self-driving-car-market-2022-recent-developments-competitive-landscape-and-regional-forecast-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/7f4ec9939f599f648f7fa42abc737a63581e8ed8-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-elon-musk-brags-that-tesla-is-very-close-to-full-level-5-self-driving.md",
       "title": "Elon Musk Brags That Tesla Is “Very Close” to Full, Level 5 Self Driving",
       "excerpt": "The artificial intelligence systems used in self-driving ... have hurt operations and bottom lines for the likes of Tesla and Waymo — but it may have ended up highlighting the importance of ...",
@@ -1353,49 +1396,6 @@
       "provider": {
         "name": "i",
         "domain": "inews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car.md",
-      "title": "Brands matter: Why trusting an existing brand can lure you into buying a driverless car",
-      "excerpt": "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/brands-matter-why-trus.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp",
-      "publishedDateTime": "2022-05-11T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

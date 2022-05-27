@@ -32,6 +32,20 @@ related:
         width: 2489
         height: 1400
         isCached: true
+  - title: "Smarter health: How AI is transforming health care"
+    excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? This is the first episode in our series Smarter health. Read more about the series here."
+    publishedDateTime: 2022-05-27T17:00:00Z
+    webUrl: "https://northcountrypublicradio.org/news/npr/1101781164/smarter-health-how-ai-is-transforming-health-care"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 39
+    images:
+      - url: "https://northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Fintech in Healthcare: Improving Healthcare Affordability Across the Globe"
     excerpt: "Rising service prices, patient number growth, and population aging have always been driving up the cost of healthcare around the globe."
     publishedDateTime: 2022-05-23T13:06:00Z

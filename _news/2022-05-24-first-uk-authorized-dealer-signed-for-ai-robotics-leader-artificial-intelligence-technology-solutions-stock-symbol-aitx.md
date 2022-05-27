@@ -1,30 +1,22 @@
 ---
 category: news
 title: "First UK Authorized Dealer Signed for AI Robotics Leader: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
-excerpt: "Robotic Assistance Devices (RAD) is a high-tech start-up that delivers robotics and artificial intelligence-based solutions that empower organizations to gain new insight, solve complex security challenges, and fuel new business ideas at reduced costs."
-publishedDateTime: 2022-05-24T16:02:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27375720/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solut"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27375720/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solut"
-ampWebUrl: "https://www.benzinga.com/amp/content/27375720"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27375720"
+excerpt: "(RAD) has signed its first authorized dealer in the United Kingdom and has received an order for a ROSA security robot. Additional details, including the name of the new dealer will be released in the future."
+publishedDateTime: 2022-05-24T15:36:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx"
 type: article
-quality: 78
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI
   - AI in Robotics
-
-images:
-  - url: "https://lh6.googleusercontent.com/M1OxQKTUKmexu_qMJWIZJkmS83Vi_TIycMFimESotLhW5g8EADqqnpG2vOFT5hFjGjk5Pirv_qgbIEs8lEvIKGd-VxkWuVsorceloGyE7m8ey7gfRHdj-YUaSqN8ebGrESX4NXdlYwYTKk9fEg"
-    width: 791
-    height: 439
-    isCached: true
+  - AI
 
 related:
   - title: "Lessons Learned About AI From A Healthcare Technology Startup Leader"
@@ -44,6 +36,6 @@ related:
         height: 800
         isCached: true
 
-secured: "qsrfBM3ewxpc2jN+Vh0cbJySrjnYL/y1v4b63xVHw/RdZiwlguNl+hqgCitBAuNqd5arWF7IUS3a6iFLsdeVJcMLHbEo3RNae5B0WQF7IobiA7gcLWNH3d/pCoa2d3YzbQkaEZp6IgFgxN1scFid+ZouKwG2OCkN3LNEy1jDSDr9P39hqQo6aRm8pPp7ckDMTbAZAcwFf4KWKbiTL97xJi6hgX69uWDS6yJMFk9jckfBb8lx69ipTsMtQPdgeKsLU7Du1QW17NfvhTbZm5FjA5Px6zg2LKy/eOqUes63sPTLVZuBDYsMuX/Qxn64V1DZmZeudMCpg1ubX6vq85pyYks8oYNBMcQqCLknNtTjHKw=;n8CI8ZXjbaqvRd8Z8+7Z/Q=="
+secured: "QoTSThIqHikT0B+k/HYE2GFnneJGSEOCMjPPh18USgp2zVhJw8Jf1ug49w/WvPS2D8jLnAygy8ZmCaG42EkaVnsaSUetUYJIQNBePRg4yUtRs8uyvZH/toGsPiT+KVdPl6G1t3vD2BMjMg3hMJkYX9GqpFUz+TR8h1F+LGbZ/4rSf/sblBuvbTiZRS1EL7S60OQw++yRvy5t+LgvYZieTy4JkpY9G582UI9CyS10eEzEX5j/18Kz8a4zn4E6LtcLcDsombXROZqSQG5wcRo3oNeNO+6oqC+hToDrSz8EEEYUb8q1h4dyfozqSpvu3VvAUk0EcLNFjs5TG0Qnx5pScpzVaQxAXcIQXb1sbWb2qI/0iySSt+MjUSEU2r+BOtyBJjTP2LN0EWwqF9D3qkioTOxK+uUteKTDB49hSAl8g2k2QpDJz35HRyuA5NACZgNAMTU/lbiuVI6uHwIOOSSUiBb9iugxKXLUOrKVNm3E64ZNGCnDXdGJk2wo+DOZHEkxOqWpKZ466CIxw3topIOG+Q==;PSsE0TdczlwPiBrGacmBYg=="
 ---
 

@@ -38,6 +38,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "AI, machine learning tool helps diagnose autism in kids"
+    excerpt: "An artificial intelligence-based medical device shows promise in diagnosing cases of autism spectrum disorder in kids 18 months to 3 years old, researchers from six U.S. states say. The software-as-a-medical-device tool uses a machine-learning algorithm that employs data from parent and provider questionnaires and home videos."
+    publishedDateTime: 2022-05-23T22:25:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/ai-machine-learning-tool-helps-diagnose-autism-in-kids.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "y9GXa6YC1cJwKZhVTOc7X4SCSaQZwJMCAEeeTiOQyxaDRG50qoOSIAbNaiQo0VZWt0chOT46WRdBYtbRv+vpfGmXINPFDyzdDA0vb9lewzK0lcOaBYL8XBGcMC8xxXYVOvfx961+8v/40tCN0ggQR5VJhIFlLFNfuDB8+4e/2Q/MYhyoIw4SWfZ4MhSi48E+TRipr7FcnepJBwYRI6aYCxOy+ACjlRy35Y9KonudFSQpNf1UscWdGPSqO6lYKqTW0AqvU3BsLnWhEcT4PyAIUfZktTvKJh06Plw9mHrJDKzDvdnnt5Nc4zq0uiMdpzlBymhgfadWdIx/p4/eOKWZZ9yrYTS5FD41iMts12pip1o=;mXPeDcMW8UhMYYh5LHBqsw=="
 ---

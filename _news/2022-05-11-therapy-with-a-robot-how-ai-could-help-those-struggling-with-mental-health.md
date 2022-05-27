@@ -1,18 +1,15 @@
 ---
 category: news
 title: "Therapy with a robot? How AI could help those struggling with mental health"
-excerpt: "A New Jersey start-up is developing a robot, joining a wave of companies that are using technology to try to ease the mental health crisis."
-publishedDateTime: 2022-05-11T09:02:00Z
-originalUrl: "https://www.northjersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/"
-webUrl: "https://www.northjersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/"
+excerpt: "Mental health start-ups attracted $5.5 billion ... Health and Addictions Service Line. Could a robot, equipped with artificial intelligence, be far behind? Boyle still has obstacles."
+publishedDateTime: 2022-05-11T09:10:00Z
+originalUrl: "https://www.mycentraljersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/"
+webUrl: "https://www.mycentraljersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: NorthJersey.com
-  domain: northjersey.com
+  name: MyCentralJersey
+  domain: mycentraljersey.com
 
 topics:
   - AI in Robotics
@@ -25,6 +22,6 @@ images:
     height: 675
     isCached: true
 
-secured: "L8pXREP8ynM4cWCpSFWfm1fWf+itYKYxvfIuYPH3GiOoU5jfcCgGo2NLfOBw0Z9SIFK2iICzlUK0uWD0v4eUdF0yxN2En73SwJ1LaPJQA+9QcY8XNXF+aMFvyJF0C52aSfkxcaI0lUMhMOyvjXkf17nQdCnuuImtqrdxGG99LrLMvz+W9wAPPNVpSNF9/0GLaboo0rWB66YzwCJ4znQNnu09JCV/NV/cIfnMBjoylfVTUybrarFZi/TIr/6L7ELszL6cguN4DOmBV2tRMo694yXOx1XbalUsNyGyXCUhw79VkGpEys5zLqohm2+c4lpEtkxuSVHpNX9Uf4voUQ/nCutKUwsDtc5vX6TmZqmZwOPsHm15rYUYEaWSDUDUYIRIx8+ipjw+zP1vs7A1oUab+BA+EFfbL/tvGNqkqk8kLSwT4sRS9K9V43y9GcDyi5zhVFXrW8DZwF8oI5efLIzOlC73kbOdBJ/2e97KDcBkRl+apxkfp8x3qXQCgcvpDbfAAtbZfVVto+KkBJA6wc83EQ==;e7FbM9NjykrX14HoEv3ZUw=="
+secured: "eR+/jSBSrljtNjBEig60i4w9ccCsAY5/SP+RHjYm3WJjmSvRghnNkB8FuvRTlCU/OOhCmj8SLAlI0JMMOC7uVAryulHBcWloNCBCdl+fISkIgt1kSA+3MDthoPeZvPzelHynnY8QhF/RoTQBuzZCD3xc43C0IkZILPB5ZRSuRrS4XY8+v2oK0qSanvUREc5/d0tGgebLrlyoy3CVJu1ddSYtXue6ob6/kt5O2KKAgP37qx2o51lpNuvpCwQT0wPzHSmXcT+Ef1XxLsRkB6zicxxtn/uFS2kWxPHsYJe/03BmYytCoJPWppn2auzV1Zxxi8CTxfQbMnp3wxuHS2bppXY4bE00oOYR90Xf+IHhN6Y=;ZgfH/e3ZTJ0VK7AbxjnFZQ=="
 ---
 

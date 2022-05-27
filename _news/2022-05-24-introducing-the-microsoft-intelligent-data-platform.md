@@ -225,10 +225,10 @@ related:
         isCached: true
   - title: "How Microsoft plans to improve the low-code landscape"
     excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
-    publishedDateTime: 2022-05-26T20:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/"
-    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/amp/"
+    publishedDateTime: 2022-05-27T03:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/"
+    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -323,7 +323,7 @@ related:
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
         width: 1200
@@ -415,10 +415,24 @@ related:
         width: 499
         height: 375
         isCached: true
+  - title: "Microsoft’s New Executives Helping Win At Cloud, AI, Devices"
+    excerpt: "A vice president of products for Azure Cognitive Services, a vice president of global payments ... and Surface PC products are some of the biggest executive hires from Microsoft so far this year. Marco Casalaina, Ajith Thekadath and Ashley Hart are just ..."
+    publishedDateTime: 2022-05-27T16:21:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-new-executives-helping-win-at-cloud-ai-devices"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0273-14ca68934881-e516329f3f1a-1000/microsoft-sign.jpg"
+        width: 608
+        height: 457
+        isCached: true
   - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
     excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
     publishedDateTime: 2022-05-26T18:14:00Z
-    webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
+    webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
     type: article
     provider:
       name: Visual Studio Magazine

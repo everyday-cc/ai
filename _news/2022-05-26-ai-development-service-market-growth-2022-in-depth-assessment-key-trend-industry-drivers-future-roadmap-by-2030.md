@@ -55,20 +55,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI Smart Baby Monitors Market 2022 : Global Rise Due to Innovation in Technology by Its Latest Trends, Smart Services and Solution Forecast by 2028"
-    excerpt: "The AI Smart Baby Monitors Market size is projected to reach $2.5 billion by 2028, growing at a CAGR of 6.2% from 2022 to 2028.This press release was"
-    publishedDateTime: 2022-05-25T16:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-smart-baby-monitors-market-2022-global-rise-due-to-innovation-in-technology-by-its-latest-trends-smart-services-and-solution-forecast-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/649120756dfde451d2abe8599eaaaace1a100069-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "iWFuH0aTydE3OfAzthetM2fFTbdw6SO7434vIo2o/q/9GHSuVZ4V+ZE0xeva/0XadRODQ14tBFrz0q8mwAECm2kzEZVPCArPWr/PIDO8VqJJbY/VvbnzFB6D3C9mash+xQ9ZnFdrx9Ie47rd9sNTU4Jer6BO2+ZHrDBp/lZAySZYkdjFunEY+0pdo3q/Oroq1cqonP4+NobJDQOWSwkcXyTf24Q5AYV4dM4+j7647mQIwPje9+lE8Am7Uzcgz7NENDG8yPqLp8xpVPRh6nkptoeB8u28psERiHVq4/t7G7L5jLen1Q4iC68JncEZBGBPanFTVx2rqi1zqRcUfjxuIMTGzGOwiPnEtlywS2aFUzQ=;VuG26e1Ju17cO5Z8gW9Dtw=="
 ---

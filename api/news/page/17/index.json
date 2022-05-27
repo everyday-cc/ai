@@ -2,6 +2,41 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-05-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices.md",
+      "title": "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices",
+      "excerpt": "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three wholly-owned subsidiary Robotic Assistance Devices (RAD),",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study.md",
       "title": "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study",
       "excerpt": "Forrester Total Economic Impact™ study highlights faster time to market, improved decisioning and cost savings brought by SAS and Microsoft",
@@ -1132,40 +1167,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-disprz-partners-with-purple-quarter-to-appoint-alagu-sundaram-m-as-the-vp-of-engineering.md",
-      "title": "Disprz Partners with Purple Quarter to Appoint Alagu Sundaram M as the VP of Engineering",
-      "excerpt": "Bespoke CTO Search firm, Purple Quarter facilitated Disprz, an AI-powered E-learning and cognitive science-based learning platform, in finding the right tech leader by closing on Alagu Sundaram M as the VP of Engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254416&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1254416&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

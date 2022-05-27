@@ -1,30 +1,25 @@
 ---
 category: news
 title: "How AI Ads Are Disrupting Marketing"
-excerpt: "AI marketing is a new way to reach customers that is much more personalized, targeted and engaging than traditional methods."
-publishedDateTime: 2022-05-25T21:00:00Z
-originalUrl: "https://www.entrepreneur.com/article/425549"
-webUrl: "https://www.entrepreneur.com/article/425549"
+excerpt: "Marketing with AI has been proven to be a successful strategy for many businesses. It's is a new way to reach customers and is much more personalized, targeted and engaging than traditional methods. AI marketing can be used for customer service,"
+publishedDateTime: 2022-05-26T01:10:00Z
+originalUrl: "https://www.chron.com/business/article/How-AI-Ads-Are-Disrupting-Marketing-17199007.php"
+webUrl: "https://www.chron.com/business/article/How-AI-Ads-Are-Disrupting-Marketing-17199007.php"
 type: article
-quality: 86
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
   - AI in Marketing
-  - Facebook AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1652888428-GettyImages-1326464894.jpg"
+  - url: "https://s.hdnux.com/photos/01/25/72/54/22522657/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -56,6 +51,6 @@ related:
       domain: arabianbusiness.com
     quality: 17
 
-secured: "IqmOcAt4ZaLxh/u2R3/n2ohWN7BAajMRf06YG0GwY6Tw/H06p1xzOWtNEp8MOcbqEjDzwUMZGFhUHnF99GjNhKQhaqRTrpQjyqUaKLrUVEAbArrtK5U3pEFjV1reSwleve2b+KbecMpa01HVewQBaGjlw0YGKgpHlF4nHeF+wNynppGx8VCst/PXuJE/XkW1x/PI+ePHhpBMUgnrvubQ3+5nIT/fI7A5j7HS8SpXdqL/4aQvq/mLBWqmeH/h0wkdZZGMK1IM1Q3/PQn3naNIv4ZeOCbOtOnbAliFKsWPJUvZV4bXF931cGeASpob6BF/rt5hIibze1L1cGHfd6P9d3gFrDrFKntTDrmly+BnndzBLMPUyJbGsk3JIxXun0WVPxUtZ5n7UCD3ybVF44qacP6AccWrDZjp9CIqtuHHEvwag7X6dPGqE9YGUhyu/nntVGtGhDuF97yaetaSLYQOBf7TG9rFMygc3psvtIWl/fXL/D32YaqYRgBKN3PTlcRNhPl97EtYV8/lFmnXonQK+Q==;TFOioZPulsR5PN/O3PFaUQ=="
+secured: "xealiFwRdENuLX0lD7w4WDTqrsZpS4quph6u2fvN5ZRFLScMhaIP/WXqnm+B7CTFvuAIh4kvvIjxVpYlCHFU61uu5xuMNg+6tz3PwKORpVsob0bYm5j2lmKPH8iWZat8wn6tfCUVznJ1xuCcnW7Tv7vuAXsubHv3xb+1gxvKfAEWSIqoHw7Bhi6GSS6XxUeb7qlcx4MPWcgGkTMAtw2aZPFhDM86XZIB2rbFAA7fadQFrJlQp07vFPav/h8U1hj6O0lL7y+DeoTZbg+VON8mbrb4ioOMbcaytrqv9eDmr+hDjmxUMd+JWp+wwbji7GKUO1mdPu4XtYsLtQ4Sqz7J/qZOLk6MCxeuLKeIxLVKN74=;pzTkNKVNqZijEoh5aNG6ng=="
 ---
 

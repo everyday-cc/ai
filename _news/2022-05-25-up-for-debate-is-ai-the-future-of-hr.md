@@ -86,15 +86,17 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Can Robots Learn Law? Scientists and Theologians Discuss the Future of AI"
-    excerpt: "The conference was organized in three parts around the concepts of expressing, defining, and understanding intelligence."
-    publishedDateTime: 2022-05-23T13:17:00Z
-    webUrl: "https://www.ncregister.com/cna/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+  - title: "Can robots learn law? Scientists and theologians discuss the future of AI"
+    excerpt: "Will robots one day be better at medicine and law than human beings? That was one of the topics discussed by scientists and theologians at a recent gathering in Rome. The “Topology of Intelligence” conference,"
+    publishedDateTime: 2022-05-23T10:41:00Z
+    webUrl: "https://www.catholicnewsagency.com/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
     type: article
     provider:
-      name: National Catholic Register
-      domain: ncregister.com
-    quality: 33
+      name: Catholic News Agency
+      domain: catholicnewsagency.com
+    quality: 53
   - title: "She was the Art in Artificial Intelligence"
     excerpt: "He created an artificial intelligence helper named ‘Marinette’ also known by his computer as ‘(Mar-AI)’. Where upon realising that Damian doesn't love Marinette and never had, she just starts to become more static."
     publishedDateTime: 2022-05-26T13:04:00Z

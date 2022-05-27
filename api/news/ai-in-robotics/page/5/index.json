@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-22-guardforce-ai-announces-initial-us-robotics-solutions-rollout.md",
+      "title": "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited ('Guardforce AI' or the 'Company') (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272502602/guardforce-ai-announces-initial-us-robotics-solutions-rollout",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272502602/guardforce-ai-announces-initial-us-robotics-solutions-rollout",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1650525227063.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-guardforce-ai-announces-initial-us-robotics-solutions-rollout.md",
+      "title": "Guardforce AI Announces Initial U.S. Robotics Solutions Rollout",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / April 21, 2022 / Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI) (NASDAQ:GFAIW), an integrated security solutions provider, today announced the rollout of its robotics services in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-robotics-b60a119ed2ebf7a0b0df4b6bf7d7ae63",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-robotics-b60a119ed2ebf7a0b0df4b6bf7d7ae63",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479.md",
       "title": "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%",
       "excerpt": "Industrial robots generate a huge amount of data ... The key players operating in the artificial intelligence in manufacturing market NVIDIA (US), IBM (US), Intel (US), Siemens (Germany), General Electric (US), Google (US), Microsoft Corporation (US ...",
@@ -1265,92 +1351,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-the-perfect-blend-how-to-successfully-combine-ai-and-human-approaches-to-business.md",
-      "title": "The Perfect Blend: How to Successfully Combine AI and Human Approaches to Business",
-      "excerpt": "Then, when the robot is unable to fit a bowl of water through the bars ... to reimagine your processes and ways to replace them with AI. Then, start collecting data. AI needs a lot of data points, so the sooner you start collecting, the better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/business/article/The-Perfect-Blend-How-to-Successfully-Combine-AI-17078269.php",
-      "originalUrl": "https://www.chron.com/business/article/The-Perfect-Blend-How-to-Successfully-Combine-AI-17078269.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/25/13/72/22331011/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-intelligent-robotics-for-laundries-closes-automation-gap.md",
-      "title": "Intelligent robotics for laundries closes automation gap",
-      "excerpt": "From IDS Imaging Development Systems GmbH Apr 13 2022 The textile and garment industry is facing major challenges with current supply chain and energy issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
-      "originalUrl": "https://www.azooptics.com/News.aspx?newsID=27558",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/news/ImageForNews_27558_16498459994081277.png",
-          "width": 1660,
-          "height": 1660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azooptics.com/amp/news.aspx?newsID=27558",
-      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/news.aspx?newsID=27558",
-      "publishedDateTime": "2022-04-13T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZoOptics",
-        "domain": "azooptics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 773
         isCached: true
+  - title: "New GraphWorld Tool Accelerates Graph Neural-Network Benchmarking"
+    excerpt: "Google AI has recently released GraphWorld, a tool to accelerate performance benchmarking in the area of graph neural networks (GNNs). GraphWorld is a configurable framework to generate graphs with a variety of structural properties like different node degree distributions and Gini index."
+    publishedDateTime: 2022-05-27T16:33:00Z
+    webUrl: "https://www.infoq.com/news/2022/05/new-graphworld-tool/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 24
+    images:
+      - url: "https://res.infoq.com/news/2022/05/new-graphworld-tool/en/headerimage/new-GraphWorld-Tool-Accelerates-Graph-Neural-Network-Benchmarking-header-1653647754361.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GRM6Xv7kp56N/QpPFgI1XUcNYN3xZfPkWjOk44+8nK9WB1eOKQLEk7nRedbiAp5Mc/smSpCwPVA695BWQJEXkbQtW8OyvbbGE0tj8mgmIugMsOafNJq258mGbaf/ZQ4skty19gktgQQvFIriF95HWEGJJlOq/0tnhgECQZ2KKhosNRODciBWKrnponuLGWV6cbKSXnYy6D01xWcfSvK/9ccLOLXvRvlGncKgGkpgiNoIkgFLr2nAKDxa+v4c9jvyNz8uom5eXW5eC0efCiD4O0AaZGyeAopUMREemlv49JMMWHiudG2ostUGkbTqoCbSVh1wk706qoQZkJe6omPHn8D1w9BRdCWe6asb0njN4hs=;7HfX381LHTQZ+O+GpSftQA=="
 ---

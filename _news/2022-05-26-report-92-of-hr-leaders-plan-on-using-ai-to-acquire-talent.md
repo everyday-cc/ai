@@ -46,13 +46,18 @@ related:
         isCached: true
   - title: "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges"
     excerpt: "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca"
-    publishedDateTime: 2022-05-24T14:00:00Z
-    webUrl: "https://kfor.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
+    publishedDateTime: 2022-05-24T14:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-01e294ff3c429e4eaa6c335ba98a8aef"
     type: article
     provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 1
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "C0s3uiQ4MU128cL8I6q+u+GHiPOg7mRhit4kB8bt/4tZpCEVrVmH3kuh08aGzvWTKNmcGndrOKEinwmDySS9h0uOAii2Cwxm792e2AJNc4T0PsjuqFIHn18s38Lp88Xp1PcLGdJ8nSCwVwVFi18dfkLs4DeYRvn2Bl22GRvLBYoicMntky7UANyR+VgOC1aQr9JJPhpa7CcqNgkozZbfqe5NHaIf4xBmXcGzmmzms2yONwhtxeCEeRT40WHl4iWFVDKm+9Jy2UKl+H3V83tc5QvSquDAEbrPFMgLgaP1J+EwguGCvvNCZe+6Ag1EEqVY61PBBWtilmIUvN5SvfgtW0wt4nK74YsycdWXlxd8C3lhbaEhBMHBL5OL+JhaHPIBnwKWXfkvqei7Mfl5+ArGmzmngpyCbSu254MM5AWPpox5WHm/qPf7TcQiY+qFb4naXMB21MQJVbojLpp0lrgAoKG48cOcMEmOmh969I8z0S24PXUcPBSS94xsMZj3mBJwtvD2STFey/ZjkHYiBtQkrg==;4h22/r/sWwxrPcIw1mpYyA=="
 ---

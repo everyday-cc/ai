@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.sbsun.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682"
@@ -23,6 +24,6 @@ images:
     height: 682
     isCached: true
 
-secured: "o2olDZl8nV82ZmlWFkAeJPGyhpMM496xfkkWMpvAxMEYN08gMxqf2G4iHM4rcXUro+8UmW9cUr6olTJkwcR/JxWUGS/QKUppQfNeTowbUW7ceU6T7V/oM4CLZfMQO3nZ7waRCsmwChq4fpAKECwe6SIW327ND8dKZygyFhTtqqpMO2hP4EGyLmRJblwyfZeBWgmVLnrEIuh/K8EndQaS0fAznhoLuzjeoMYx0EbsgWhD5tzkpMLB6nay42w0OWK7dNenvgkDNcdappK9seVp0p+dCgLIgT1YM+axNZFkGN/qFfJH8kh1/ln2NxWwzWtbXNGeCg+m/wohWb8pFBlbL3vPBALzNGDp6J7oUpesGvk=;LiDQPNt2VWH7HRa9jFwFTQ=="
+secured: "a2RnVgu10Wq4av0w6lsgtUawWu63OCplQVDdm28QjcwCqteE74WpcEDVTfJMdwG3qb+7mTQmGSJZg45KNTEmR5Y05JKHWTiA1l0jzuCk/U0kBBCvef1CXyKQwaSBX+UzQJS8Z2Yj2D2c8q1K7+H89vVjBkwLLlkq0WqL1qc9EQ9Tu6ITlQ/tCA4cDpCzDRvNsiwS4xYcZVETBbf9EdotGYODHWbPksAQ7agJb+EQlYTUbyq57TENIJOM8jSPBSLPcrN8Mwvn3Zv9T6XSl6MWHQX52P9p28twgDtvZoZDkY8qd+e/35LjVfLnJqjlqwGXfAmegGH6YMH4ic454ctcSVlgspkcEz1Sd+Tsr24aNX6A7E0ONP9dRItx2lewq/brpTejNmPdsCS1pvo8kJYSQWQL1eGXZkXkXe2WYthnLxyieazBQrohPWj7mDRQAm6CAp30nM/DYznLXm0OwSSO0u9tO9OMUs8LBNG8Z4PgtFq4IUq3mlSej1xKeHZqkNd8po93PGO8sq6NUVGx3sZnMA==;KGDIn3jYWw9VovXo0xbmhA=="
 ---
 

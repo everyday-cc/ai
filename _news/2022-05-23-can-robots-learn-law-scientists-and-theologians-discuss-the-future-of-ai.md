@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Can Robots Learn Law? Scientists and Theologians Discuss the Future of AI"
-excerpt: "The conference was organized in three parts around the concepts of expressing, defining, and understanding intelligence."
-publishedDateTime: 2022-05-23T13:17:00Z
-originalUrl: "https://www.ncregister.com/cna/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
-webUrl: "https://www.ncregister.com/cna/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+title: "Can robots learn law? Scientists and theologians discuss the future of AI"
+excerpt: "Will robots one day be better at medicine and law than human beings? That was one of the topics discussed by scientists and theologians at a recent gathering in Rome. The “Topology of Intelligence” conference,"
+publishedDateTime: 2022-05-23T10:41:00Z
+originalUrl: "https://www.catholicnewsagency.com/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+webUrl: "https://www.catholicnewsagency.com/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+ampWebUrl: "https://www.catholicnewsagency.com/amp/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
+cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: National Catholic Register
-  domain: ncregister.com
+  name: Catholic News Agency
+  domain: catholicnewsagency.com
 
 topics:
   - AI in Robotics
@@ -102,6 +104,6 @@ related:
       domain: archiveofourown.org
     quality: 17
 
-secured: "fM3ZygNXWzwwKaXG5I9F9nYRKVRWpRp29bqRtnkZ1ku2Tp+yd7jsMmj+M1u1G8c3up/8TbcmRnQXr5RSEJwcfloDs6yqyVsVATWdaOO0EYk9Mvzz2Pp6yl8uwlbHocXUS4DBPqTHqQibHPa11vgcmi51OAxaNofbIDDYMcgS5jUivXOdIOIrLzxQLhL4sSvMqyqsWGKKwDPBjXqt8Rd3IY66Ji09g0/z9Af30A636brW8N1B76bGnOH1JGbKO7+BbHp0bAhx7bsPNv5Q2ye1Mkm5/5mifaUk6X9lA+zyE4f/V4DzMxXbthp3i6+lEbfZWAVKBHBKKmMCOtjqlnuVWUm9g9Nzejl2H3bMtTrOFozjqgEAqd6up3yRFRg8qRVX5KskFQwoeH/Cc+U5ft6cBq9LXRE/dggCoEJFxFtW5yqn5tpYiZyDvsC79O7iCmeqv6r33VyvQbMgRgezcdxMosz6ygmFKbe6fGhfJDMRU5jBQtGwheS9eYdvSSXPtu0kYZVlsa66USTS4Y5jFmgrfA==;wrYbNNt9JNjDgrAtcdx10w=="
+secured: "A45if4hkd8A4NMB09Xsldfi/6eBJ6j/tuYfmS6XHEu2cAgwshhUViP2vPoJ0cqPOunJNS8PoVNrn5Lp8vo0wKNVjC7zoQkf7gz+QLE9Lvtw3tF0BROpAFUyFzRQGIG9xTjBD6MTx/XSM0wHsosXVUfSbZ76/pmqxRWGlysSh5eIQC2DKKRBuwkGC00BC1t3ySMF7GT5OBFx9UPdVbs1NFIdCm+iEVU0wYh6E2VkJVzh87ms42OpThu2x3wYLP2Qm17EjJ1yXfiyH52KL9ng1bLS2CAoKBEGFpXLgREF9f0URzPh+uGQYn5zjK/kx3KfTIUZhXzHL92AiHfaBZr2TWJyRKGuQSzmNxTuVFzGYnZQ=;2raNh4UdTuGr3n5wC/BTHw=="
 ---
 

@@ -2,6 +2,108 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-03-02-level-ai-which-provides-call-center-automation-software-raises-20m.md",
+      "title": "Level AI, which provides call center automation software, raises $20M",
+      "excerpt": "Level AI, a company providing call center automation software, has raised $20 million in funding from venture capital investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/",
+      "originalUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/india-call-center-masks.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/02/level-ai-which-provides-call-center-automation-software-raises-20m/amp/",
+      "publishedDateTime": "2022-03-02T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-amid-war-an-independent-russian-radio-station-goes-silent.md",
+      "title": "Amid war, an independent Russian radio station goes silent",
+      "excerpt": "In the days since Russian President Vladimir Putin ordered an invasion of Ukraine on February 24, officials have begun a crackdown on independent media and protesters who have come out in their thousands to decry the war ... of ill fortune, who was ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/",
+      "originalUrl": "https://www.aljazeera.com/news/2022/3/2/amid-war-an-independent-russian-radio-station-goes-silent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/themes/fortune/amp/assets/it_pays_to_know.png",
+          "width": 1250,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/01/russia-ukraine-invasion-war-a-i-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-03-02T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-pepper-the-robot-offers-friendly-face-tackling-crimes-against-children.md",
       "title": "Pepper the robot offers friendly face tackling crimes against children",
       "excerpt": "The semi-humanoid robot Pepper is being used by police in the United Arab Emirates to uncover crimes against children such as abuse and exploitation, a sensitive area where a friendly android face could prove more approachable and less traumatic for those involved.",
@@ -1042,83 +1144,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-injecting-fairness-into-machine-learning-models.md",
-      "title": "Injecting fairness into machine-learning models",
-      "excerpt": "MIT researchers have found that, if a certain type of machine learning model is trained using an unbalanced dataset, the bias that it learns is impossible to fix after the fact. They developed a technique that induces fairness directly into the model,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/945050",
-      "originalUrl": "https://www.eurekalert.org/news-releases/945050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa.md",
-      "title": "Codecademy partners with Black and Brilliant for AI accelerator in Africa",
-      "excerpt": "Codecademy announced that it will be partnering with the Black and Brilliant advocacy group on a new mentorship program and accelerator in Africa. The two organizations joined for",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/",
-      "originalUrl": "https://www.zdnet.com/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/codecademy-partners-with-black-and-brilliant-for-ai-accelerator-in-africa/",
-      "publishedDateTime": "2022-03-01T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
