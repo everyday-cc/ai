@@ -33,6 +33,20 @@ related:
         width: 703
         height: 428
         isCached: true
+  - title: "CAT Financial Products Launch Active Fintech Value Investment Solution with Fintech Influencer"
+    excerpt: "In a partnership with CAT Financial Products AG (CATFP), he gives investors the chance to invest diversified and in a simple way in the global Fintech companies that not only have huge growth potential in the future,"
+    publishedDateTime: 2022-05-27T05:54:00Z
+    webUrl: "https://fintechnews.ch/roboadvisor_onlinewealth/cat-financial-products-launch-active-fintech-value-investment-solution-with-fintech-influencer/53040/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 12
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/05/Spiros-Margaris-and-CAT-Financial-Products-Launch-First-Active-Fintech-Value-Investment-Solution.jpg?x30842"
+        width: 2048
+        height: 1136
+        isCached: true
 
 secured: "RosJXsqu7c6H6DzFX8+mNW+GpTN9XTaFfZUoRDSoL/LYwbo9cLwkmtQ5JAv3+aIHlpVIYoyc96Z5oITbBX9DA+kxtlBVj0i8aNDH6BpghRP5vxDVijJUsNLFLtSt6gFr3Ax1LJUymjzg6S5BxVGLTLB7/puxtCx8Vf+OvJ19rSroEyGf0sZaqJBNyi5h76BWYlK1MMM8hLIQy0vdKfYBf7NjqhQ9sAKEy7JYUBDRhPtN7962ZeVapZmev6HN76rbobfr4McJaeArQ7UXb6faqeebnmFXJHp4GDSuXF53iM4AajAsscoI9HMKchHF0g5RNRNGAyrw3i22xsdwdZlNuJqNrWMftMhe3LdJMOiMnuE69vGHac7x2DG2Phyk8MKOy7mmyzusg9nIP8JsXa2HFzO1axC/+4ZWv7dNFOf2xoA1db9GPVvIOeE4cruphNLl1RRDaZcfJFVrLUuYFZmg+bOrOr2tefVK1Oyozzx/dWeFSffxftFstdSRl0KzG3l3FqjwWHRfKg+PEoYExbj+uw==;BfhXQago46SJlpN9D4HRjQ=="
 ---

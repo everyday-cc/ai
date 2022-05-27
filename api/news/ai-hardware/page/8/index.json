@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-15-growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth.md",
+      "title": "Growing R&D of AI & VR Platforms facilitate Global Graphic Processing Units (GPU) Market Growth",
+      "excerpt": "At the same time, there is a huge need for VR and AI platforms for efficient gaming purposes. This has led to companies launching GPU innovations in the market. For instance, NVidia introduced its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
+      "originalUrl": "https://www.digitaljournal.com/pr/growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1644927092.jpeg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-magewell-executive-predictions-5g-the-cloud-and-gpu-powered-ai.md",
       "title": "Magewell Executive Predictions: 5G, the Cloud, and GPU-Powered AI",
       "excerpt": "As beneficial as 5G can be itself, we believe a combination of 5G, the cloud, and GPU-powered AI will enable revolutionary advances in streaming production. AI-driven algorithms leveraging the computational throughput ?of GPUs will enable higher ...",
@@ -1327,49 +1370,6 @@
       "provider": {
         "name": "FOX8 Cleveland",
         "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu.md",
-      "title": "Backplane Systems Technology Presents Neousys’s Nuvo-8108GC-QD Industrial-grade Edge AI Platform Supporting NVIDIA® RTX A6000/ A4500 GPU",
-      "excerpt": "Backplane Systems Technology is proud to present Neousys’s Nuvo-8108GC-QD, which is an edge AI GPU computing platform supporting an NVIDIA® RTX A6000 or RTX A4500 Ampere GPU cards, and Intel® Xeon® E or 9th/ 8th-Gen Core™ (up to 8-core/ 16-thread ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu/",
-      "originalUrl": "https://www.ferret.com.au/industrial-computers-and-software/backplane-systems-technology-presents-neousyss-nuvo-8108gc-qd-industrial-grade-edge-ai-platform-supporting-nvidia-rtx-a6000-a4500-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ferret.com.au/wp-content/uploads/2022/02/PR-Image-Nuvo-8108GC-QD.jpg",
-          "width": 1500,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ferret Australia's Manufacturing Industrial and Mining Directory",
-        "domain": "ferret.com.au",
         "images": null,
         "publishers": null,
         "authors": null

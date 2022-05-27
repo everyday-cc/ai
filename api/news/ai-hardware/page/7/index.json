@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-25-ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation.md",
+      "title": "IBM, NVIDIA and Bloomberg tout KServe becoming incubation project for LF AI & Data Foundation",
+      "excerpt": "IBM and Bloomberg announced on Thursday that KServe is joining the LF AI & Data Foundation as its latest incubation project. KServe provides a Kubernetes Custom Resource Definitio",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d19ca28ac531ef8f675fd64e4e99a7d409af47f4/2022/02/24/06de4d18-d1b2-4991-852a-4909e53450a9/pasted-image-0-4.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
+      "publishedDateTime": "2022-02-24T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict.md",
       "title": "Semiconductor Watch List: Key Chip Ingredients At Risk in Ukraine Conflict",
       "excerpt": "The alarming prospect of war on the European continent -- in what would be the largest scale conflict since the Yugoslav wars -- has roiled the markets,” wrote Real Money’s Kevin Curran recently. “Meanwhile,",
@@ -1351,49 +1404,6 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth.md",
-      "title": "Growing R&D of AI & VR Platforms facilitate Global Graphic Processing Units (GPU) Market Growth",
-      "excerpt": "At the same time, there is a huge need for VR and AI platforms for efficient gaming purposes. This has led to companies launching GPU innovations in the market. For instance, NVidia introduced its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
-      "originalUrl": "https://www.digitaljournal.com/pr/growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1644927092.jpeg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-27-platinum-jubilee-ai-robot-paints-queens-portrait.md",
+      "title": "Platinum Jubilee: AI robot paints Queen's portrait",
+      "excerpt": "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B895/production/_124935274_mediaitem124935040.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp",
+      "publishedDateTime": "2022-05-26T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-simpleshow-explainer-videos-powered-by-artificial-intelligence.md",
       "title": "simpleshow Explainer Videos Powered by Artificial Intelligence",
       "excerpt": "We all know that artificial intelligence (AI) will have a significant impact on our future. In reality, we can see that AI is already operational in our daily lives and at work. Self-driving cars, vacuum cleaner robots, image analysis, and virtual ...",
@@ -43,49 +86,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee.md",
-      "title": "Robot artist Ai-Da unveils Queen Elizabeth II portrait for platinum jubilee",
-      "excerpt": "Artificial intelligence robot artist Ai-Da has unveiled a portrait of Britain’s Queen Elizabeth II to mark her 70 years on the throne. The portrait, titled Algorithm Queen, shows the queen dressed in a blue-toned coat with a feather in her hat and wearing a pearl necklace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee/",
-      "originalUrl": "https://www.laprensalatina.com/robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.laprensalatina.com/wp-content/uploads/2022/05/d60db7d589402cf6e9f841fdc1e36c0480d5b127w-1024x679.jpg",
-          "width": 1024,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee/amp/",
-      "publishedDateTime": "2022-05-26T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -227,21 +227,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx.md",
-      "title": "First UK Authorized Dealer Signed for AI Robotics Leader: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)",
-      "excerpt": "Robotic Assistance Devices (RAD) is a high-tech start-up that delivers robotics and artificial intelligence-based solutions that empower organizations to gain new insight, solve complex security challenges, and fuel new business ideas at reduced costs.",
+      "path": "_news/2022-05-25-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
+      "title": "Remarkable science: Exploring our AI and robot-supported future",
+      "excerpt": "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27375720/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solut",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27375720/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solut",
+      "webUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "originalUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://lh6.googleusercontent.com/M1OxQKTUKmexu_qMJWIZJkmS83Vi_TIycMFimESotLhW5g8EADqqnpG2vOFT5hFjGjk5Pirv_qgbIEs8lEvIKGd-VxkWuVsorceloGyE7m8ey7gfRHdj-YUaSqN8ebGrESX4NXdlYwYTKk9fEg",
-          "width": 791,
-          "height": 439,
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/04/vertexlogoSOP_R_black-400x264.png",
+          "width": 400,
+          "height": 264,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -249,13 +249,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27375720",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27375720",
-      "publishedDateTime": "2022-05-24T09:02:00-07:00",
+      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "publishedDateTime": "2022-05-24T13:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "WBUR",
+        "domain": "wbur.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -265,6 +265,7 @@
         "news"
       ],
       "topics": [
+        "Facebook AI",
         "AI",
         "AI in Robotics"
       ]

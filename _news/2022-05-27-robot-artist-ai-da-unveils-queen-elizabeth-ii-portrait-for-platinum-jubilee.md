@@ -9,8 +9,8 @@ ampWebUrl: "https://www.laprensalatina.com/robot-artist-ai-da-unveils-queen-eliz
 cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee/amp/"
 type: article
 quality: 72
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: La Prensa Latina
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Platinum Jubilee: AI robot paints Queen's portrait"
+    excerpt: "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm."
+    publishedDateTime: 2022-05-27T04:54:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B895/production/_124935274_mediaitem124935040.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Portrait of the Queen painted by robot artist Ai-Da is unveiled"
     excerpt: "A portrait of the Queen painted by an ultra-realistic humanoid robot artist has been unveiled ahead of the Platinum Jubilee. The painting, titled Algorithm Queen, was painted by Ai-Da Robot – an artificial intelligence robot built in 2019 that creates drawings,"
     publishedDateTime: 2022-05-27T00:07:00Z
@@ -42,6 +58,6 @@ related:
         height: 1339
         isCached: true
 
-secured: "e4p85myZbjW/gvV4Zf0OmSddQXbo2Qzab1GUGf9zRNUS0oJ8ethrrJlPE1UcSMWwivLoOI5Yaa49m9GdZXDMf5C8wb/7F0QQOtFyPTKCAAFDDAhzbVYzbEHzgxJJ6pQSn/AJxvTFrq6jlJTzVVWAh4n+rprl6uB8UD/KyF8UM9P2dRcE9kcObLL+uw6hVjgrSE0m5S5PD8DRUZgkvghqLDxteNW44IZtpqzBnPtLrN2jLdDUcYOs4s6DugEsUiaekUD2+dTgYUhBI95Haz9LCjGB7LvS4hf9hryJRWbqKhBg6Peh2lm1vZTPqthJkwqD490wZeYkHEthcHFo4zmJY8b/IX+pmLPd+FnnLiSp0a4=;BoMlQPWmbY7uM04QjWqPrQ=="
+secured: "2s78gYXrX6dU0w6LqBxEJEGSjNCSF7TjlJKBfY/IfNHeKxu6kFUYA/QQBemWMZbQvHT7mCclVXFXVZuKSHRDqLQPe7Q/CyBS/M1uGouI5h74ZbbGc7Q0S/SaNPdx5ynIXyJeYPQA1Cy2LTnmuX3uBeR+7ak0zVt4ZtgjUknPhxgJunOk3ecKoXDDOF+oF2RDH4n27BGP53FR7gSDEkAkUzt6OHl+K8Nn28Xc+/8U+NFoH/mWVniuVbgsjNWRhUZcYYV3rt85idt4lHdcMq98n0Io7zUTDZINAU9E0sTMfwgxmgbmVMurD3kdHzvk+tprxjt1o9fNu7r9CCbhxpMHOM1CMav0T4GGeWdmdkyL26TFvCGEeAL7SIvR+xBqXSYktNphRu6WCohz3D5njJOjnWmY/DVvmsmX0P6gh6Uk2MqZu3NpWTq9uQj8PUvvRSXtaS8LYzUHnWeVz+9NDFcr/Det5dhv6dBjcdtiJELJ0Gh7wmI9+mcfvHSm7aW/+lYQdxwcJjL/xing0wXBcTQzdQ==;JcbAnqVrTnXXhR7HlSX9kw=="
 ---
 

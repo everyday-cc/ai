@@ -2,6 +2,109 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-03-23-openshift-410-red-hat-teams-with-nvidia-to-add-ai-and-machine-learning.md",
+      "title": "OpenShift 4.10: Red Hat teams with Nvidia to add AI and machine learning",
+      "excerpt": "Red Hat is pulling this off by allying with Nvidia. Specifically, this latest OpenShift version is certified to work with NVIDIA AI Enterprise 2.0. Nvidia AI Enterprise is an AI s",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/red-hat-openshift-for-ai/",
+      "originalUrl": "https://www.zdnet.com/article/red-hat-openshift-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ad6d8154638891877cfc5fbbd7c0e66596230e02/2022/03/22/bc702cea-0e8e-4b50-810b-a34d658b876a/gettyimages-924478844-redhat-sign.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/red-hat-openshift-for-ai/",
+      "publishedDateTime": "2022-03-22T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-could-artificial-intelligence-completely-replace-human-financial-traders.md",
+      "title": "Could Artificial Intelligence Completely Replace Human Financial Traders?",
+      "excerpt": "AI is reshaping the world as we know it. Virtually every business process in every Industry is being transformed by Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/could-artificial-intelligence-completely-replace-",
+      "originalUrl": "https://www.linkedin.com/pulse/could-artificial-intelligence-completely-replace-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEET9K0Dn35yQ/article-cover_image-shrink_600_2000/0/1647973633511?e=1654732800&v=beta&t=VAptDRD8gMp9dd5XwwbnYst6Qm5wJ5cbZoGUOR2PxuU",
+          "width": 546,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models.md",
       "title": "Microsoft improves Translator and Azure AI services with new AI 'Z-code' models",
       "excerpt": "Microsoft's new Z-code models, which use a 'Mixture of Experts' approach, are meant to make Translator and other Microsoft AI services perform better and be more efficient to run.",
@@ -986,92 +1089,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-press-ganeys-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
-      "title": "Press Ganey’s NarrativeDx Named Winner in 2022 Artificial Intelligence Excellence Awards",
-      "excerpt": "The Business Intelligence Group today announced that NarrativeDx, a Press Ganey Solution, was named a winner in its Artificial Intelligence Excellence Awards program. NarrativeDx, Press Ganey’s patented natural language processing (NLP) technology built specifically for the language of healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html",
-      "originalUrl": "https://www.register-herald.com/region/press-ganey-s-narrativedx-named-winner-in-2022-artificial-intelligence-excellence-awards/article_17889521-d48c-5467-b53e-6df7c20c0d67.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/c/2f/c2fe3e5e-68b4-11ec-b5b1-eb6d367dec1b/61cc72a6c74a5.image.jpg",
-          "width": 320,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-how-ai-is-changing-the-world-of-finance.md",
-      "title": "How AI is changing the world of finance",
-      "excerpt": "The financial sector is well-known for seeking every possible edge to maximize its profits — thus, using machine learning and artificial ... financial services has slowly transformed into ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/",
-      "originalUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/how-ai-is-changing-the-world-of-finance/amp/",
-      "publishedDateTime": "2022-03-22T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

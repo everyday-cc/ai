@@ -42,13 +42,18 @@ related:
         isCached: true
   - title: "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges"
     excerpt: "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca"
-    publishedDateTime: 2022-05-24T14:00:00Z
-    webUrl: "https://kfor.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
+    publishedDateTime: 2022-05-24T13:00:00Z
+    webUrl: "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
     type: article
     provider:
-      name: Oklahoma's News
-      domain: kfor.com
-    quality: 1
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 21
+    images:
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
+        width: 814
+        height: 330
+        isCached: true
 
 secured: "iTSL4mBkJvSPn+l3L1WA2loOZdx+F2SZHs700TVtwtN3ZxVdHJq5KXk8THwYJmw+bx1mKNdoaLaAPtMHciw4QfVw4rsqFPnWo5fx1f3vJF7Xyf9aGfYnAbJaFH3R2llN4u/72TK/zpZ0yks+j0mYmtABoRakNNN6WBCMlad6Fsdw96hISBKeOgeq20CW4t7T27gyNNZ+CYH/+jn1R71KTp0dJNofN4Qt7oQisXgRNWL2MCkDVX4hKfgT/hDck+qMD+qAQ23Z4EXqD5IR7k7JYPyWU4vDakzcK1Om3odgWxted7pmuawga6lzMsjdxr5M3ir2TJhGMxjbju7sO/BP4xqN+70oeC510V/dAWNALW4=;uf9ujSEy9YVFPlrm44Fj6A=="
 ---

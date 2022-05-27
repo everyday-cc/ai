@@ -63,6 +63,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "‘Time for healing’: Faith leaders endorse Voice to Parliament"
+    excerpt: "Northern Territory Chief Minister Natasha Fyles says the proposal for an Indigenous Voice to Parliament is very important ... “It is a time for healing and recognition.”"
+    publishedDateTime: 2022-05-27T05:23:00Z
+    webUrl: "https://www.townsvillebulletin.com.au/news/national/time-for-healing-faith-leaders-endorse-voice-to-parliament/video/71dbbc81047477b03e5fba05c4367d56"
+    type: article
+    provider:
+      name: Townsville Bulletin
+      domain: townsvillebulletin.com.au
+    quality: 19
   - title: "Aussie religious leaders call for an Indigenous Voice to Parliament"
     excerpt: "Major faith groups in Australian have united to declare their support for an Indigenous voice in the Constitution. The Catholic, Uniting and Anglican churches, the Australian National Council of Imams and the Executive Council of Australian Jewry on Friday will join Australian Sikhs,"
     publishedDateTime: 2022-05-26T21:17:00Z

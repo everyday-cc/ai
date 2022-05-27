@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -847,15 +847,15 @@
       "title": "Facial recognition technology is a valuable tool",
       "excerpt": "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place.",
       "sourceUrl": null,
-      "webUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/",
-      "originalUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/",
+      "webUrl": "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/",
+      "originalUrl": "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.sbsun.com/wp-content/uploads/2022/05/AP22129613264258-1.jpg?w=1024&h=682",
+          "url": "https://www.ocregister.com/wp-content/uploads/2022/05/AP22129613264258-1.jpg?w=1024&h=682",
           "width": 1024,
           "height": 682,
           "title": null,
@@ -865,13 +865,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/amp/",
-      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/amp/",
+      "ampWebUrl": "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/amp/",
       "publishedDateTime": "2022-05-15T11:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The San Bernardino Sun",
-        "domain": "sbsun.com",
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -888,17 +888,17 @@
     {
       "path": "_news/2022-05-15-facial-recognition-surveillance-is-a-threat-to-civil-liberties.md",
       "title": "Facial recognition surveillance is a threat to civil liberties",
-      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ...",
+      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
-      "originalUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "webUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "originalUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dailynews.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682",
+          "url": "https://www.sbsun.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682",
           "width": 1024,
           "height": 682,
           "title": null,
@@ -908,13 +908,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
+      "ampWebUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
+      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
       "publishedDateTime": "2022-05-15T08:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
+        "name": "The San Bernardino Sun",
+        "domain": "sbsun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -924,9 +924,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Natural Language Processing",
         "AI",
-        "Natural Language Processing"
+        "Computer Vision"
       ]
     },
     {

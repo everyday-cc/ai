@@ -40,14 +40,19 @@ related:
         height: 428
         isCached: true
   - title: "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers"
-    excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE's award-winning investment platform who are clients of Interactive Brokers,"
+    excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE’s award-winning investment platform who are clients of Interactive Brokers,"
     publishedDateTime: 2022-05-24T12:36:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-273554afe13b452089e25da0602b2ec2"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "6O+6loNO5m+P2MoMk1vlXAcDcDOqdktN7RxPDQoY5/qyQL5xCeFQ1uXSCnNKemxs4iTkhpl2cQmmUlPbHry5egYOFdr4QW1SvCkG3LNgVtu0uZHHYdu52bHM4pIV8+YHAzEAWHYZ5ifXgr3M6NYsc8ghrbnk29W5aAsUIpShD0pQDY7U8thAno+k16b2kbiX0nqYMM/g2Y7ARyRxd5ThuG6vu/+LVwe52rSv+W4R+DPu+WzIgZ3YsH0Fcv1ERU+YlM/7a8Owij0CIlY/UNpQM+IPjLt7DlVcq7KPcG/m2nmxDAgRYvhtBABcBbGmpRVDh+E9KUWGhV6ZEY5EUAFiza/CB2E0VhSyLM2ZVXqrGKFpretxl8FjemNDTwlaVQ9SKQnSrMTL1O+SkqIdoMOFj4d+FkrGsTyBH3kBXucpIaclAVWE3Rpcw6fVH/Q5x4wJMG5kiuzd0b7Q/AYrc2RBdlIxtgqXz3BHhTUym6i1d1/xqCaRDcdzli8DG7gPq9E2pIwXlt/ImIsW/hDmWC+n/w==;hagEerh2y9xfLu5R2Lqgjg=="
 ---

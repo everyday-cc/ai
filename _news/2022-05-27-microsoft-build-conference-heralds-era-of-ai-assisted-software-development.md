@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
 excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
 publishedDateTime: 2022-05-26T18:14:00Z
-originalUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
-webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
+originalUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
 type: article
 quality: 52
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: visualstudiomagazine.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
   - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
@@ -105,22 +105,6 @@ related:
         width: 1023
         height: 716
         isCached: true
-  - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
-    excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
-    publishedDateTime: 2022-05-25T20:10:00Z
-    webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 105
-    images:
-      - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
-        width: 1000
-        height: 380
-        isCached: true
   - title: "Microsoft Tips Project Volterra Arm Hardware for Hybrid AI Development"
     excerpt: "At Build, Microsoft also announced new ways to leverage its Teams collaboration platform and Windows 11 operating system. The metaverse got some play, too."
     publishedDateTime: 2022-05-24T15:48:00Z
@@ -136,6 +120,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04QaiwIk3lksY7Zopu4D8dU-6.fit_lim.size_1200x630.v1653405603.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
+    excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
+    publishedDateTime: 2022-05-25T20:10:00Z
+    webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 103
+    images:
+      - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
+        width: 1000
+        height: 380
         isCached: true
   - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
     excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
@@ -527,6 +527,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "Q/O1bAsYhMusMoY4Go0e2iGfuNydFfT/WjwoOc8g41OMiv2SqgiS7SV2oQOkGUI0si3jDFCU5WVnhZwe3/h2F5XSZqH5eVRCowzTg6Z8SkPWyDrJ6m1b8rBkJ6vBYIGX6CFyakm5FnUxJezhEioNEj15RnqOwscr1THqG+ys2UCELOpb3ydlqN3/2r4Lun92DOpvMG5m3XOtMo5IAZMsg+K01iJHCKBfulaY3dQ4CKFfGlUCiSqyQ/RdiPRQfTlW1yBeA3B6O2CaiJeKMbPW9WL547T+c5kyNrw69A2/fqDgw1dMl/1bjBRZxZrxwjru/lp3DNti3hr9zf2wkxySdK7iCmrfhEr9A/QsfDhex5k=;MbrVMMQPx8xHYOcT3jU+kg=="
+secured: "WyJueR5Mqia+M75PvdEZB/g4pUxDKy456MJLjnHEhrkvO13pQ4sxvLlMNVq2KCLgO4LadmFfq83F/Kx/mn62R2zpNQw8khNOUOVgTJcz5OPmyT11MODMD2ET4M3jnquJzY3ukYKEkmlolTMpFYcZNSymlgBSgBtBslNbLfFhGqSpWs2TdMJ3Iap40oh8B1vyH/h31R5UnQMk3bpzIPA7yB8UnP9eMRAFZfUi3alKtOm9asEFAXWaRdQ5gZGOsnzrz9vc4f1s+dFXugqqJkQsNSJAy+56eH/DiHZaY9GVjqudq0o960hcTBk1wORPrlyTUgDyYPGdhRuBlLoPVdBo+o201cAvJ2iPu9LDMctYpJ0=;Rqu3kYxcgM/c+B0GRiCcXw=="
 ---
 

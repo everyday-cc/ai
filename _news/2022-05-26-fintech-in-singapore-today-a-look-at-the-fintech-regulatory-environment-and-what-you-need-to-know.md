@@ -7,7 +7,7 @@ originalUrl: "https://conventuslaw.com/report/fintech-in-singapore-today-a-look-
 webUrl: "https://conventuslaw.com/report/fintech-in-singapore-today-a-look-at-the-fintech-regulatory-environment-and-what-you-need-to-know/"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,28 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Singapore touts need for AI transparency in launch of test toolkit"
+    excerpt: "New pilot framework and toolkit will enable businesses to demonstrate their \"objective and verifiable\" use of artificial intelligence, says the Singapore government, which hopes to drive transparency in AI deployments through technical and process checks."
+    publishedDateTime: 2022-05-27T05:45:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Singapore, Japan ink agreements on promoting start-ups, digital transformation for governments"
+    excerpt: "SINGAPORE: Singapore and Japan have inked two agreements on promoting the flow of entrepreneurship between both countries and enhancing their governments’ digital transformations.  The signing of the"
+    publishedDateTime: 2022-05-26T13:24:00Z
+    webUrl: "https://www.channelnewsasia.com/singapore/singapore-japan-ink-agreements-promoting-start-ups-digital-transformation-governments-2709716"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 0
 
 secured: "PnMMIIPTVbLEZ0v30u053VFBBBXswQ/LxdbNbipygqF1x/8p1+KFmXtUUYV68tRZknjO7YsGLa0dSAOVAbZYWzL9Tefni0aYlGML7dw6CgKBVgIMEhAmhZIS2Yz12CqZ2P9FjJaW2k6Wfu+5yMZsAg+pWNTvQV5E0uCm94HOFwCwnJYVLF2MvDPUnO4kbZlxywbA+MftYbjz4YnpbItmvnTIudbaMwCln+kaCvUe14vaYE3ujtVBYEgmBwl33FxqwwO40zDAP3O4pa7JfePIBbxEO1rs9UZPlwBHfQ5P+/wINAacBSnuSAafWeZMo3N5rB1/0ya8JIu7ZxntBT/qqF04FL1wKcGsIu7jq/Mdi9i7Ahgn+GjXUYlMNadCavs8p7qdO88nBCcT0OzOx5WhkcJtZOL4EFwExhTiC3H+Mfc0E0mDg0rCcPNEhFs6J6fIt1OFihlVmMpQFQb01i2w3mE9zAckKXw6PY8ltd5N4zw9Ihr0NJtVE5L4tyXnIvXRVaZwwnTx6QTXGmd9edLVwg==;RiIjoz3nf/qcMgrvDuO6mg=="
 ---

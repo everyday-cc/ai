@@ -3,12 +3,12 @@ category: news
 title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
 excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
 publishedDateTime: 2022-05-25T20:10:00Z
-originalUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
-webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
+originalUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
+webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
 type: article
-quality: 105
+quality: 103
 heat: -1
 published: false
 
@@ -17,10 +17,9 @@ provider:
   domain: theregister.com
 
 topics:
-  - Facebook AI
+  - Microsoft AI
   - AI
   - AWS AI
-  - Microsoft AI
 
 images:
   - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
@@ -393,7 +392,7 @@ related:
   - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
     excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
     publishedDateTime: 2022-05-26T18:14:00Z
-    webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
+    webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
     type: article
     provider:
       name: Visual Studio Magazine
@@ -529,6 +528,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "INjKSCBJ/6P3+yNk1x/uXB2sScVPfpE/IE7Q+lydM9FGGfqg5PaZZgalpCrTJGwneySBFQXZoXVj7G/wDmGArmW8yqK9mB1jSomcqFZDNd7IDXbIXvgtH9Q2H3CIWEYlwVUfVmYe1lCI4QbOFF9zZ7g/dVX5gUWZVFEH8jr+Lqq1Vl+DdazOiH1iLZ5pUmob64uuQTZmgSRWqo4Xpa3+VMroPL+62LeqLb08Ul4LcJj/9upQwjEv2aUiKDElzOXeJDjwMFmgmZgSAWGaahpcSGKARHuE301/rj5OzaLxoG8OvLQii89uxS9J9qzfO4kWInW9mx2CiOJhV/7MglstFTFNC+3Y1ehEAVi4BbEGlVQ=;CK1niD0UscV6HVatxqGLsQ=="
+secured: "AZCXhgXGe9uQp5FBsK8Uh/DIfjGRZAc0bzqcH0z5nzDv4prjXEYbuR0jgd3QAmgcMd+eVF7N0ra5bp6zglA7iRJ043LkzypySoG5McPtZTPBicTw1WFTWUCE1Z5C02ahVTNvuSbhG/k6jiHSZJndcp08RvgPTjPmR2QNLcoH3fqaFJsdp5SnPKG0VygT1QC231n8pXo22705eoy9lPRlXNq5ywYs6p19WQad1x4hPp3dFnhVyaB0KvgoG/rwBmEMtHUWBAUVzXu6nZs0XnNKL6LDUHO+Gz8pVAmajeNDRbvpNP77IlVP8AvToPNRUQ72sCaP7nLEu/PYkxJFevp043K+446FKkHl0pBPBC/8im8=;1nczHNTCtIs69Jqy9B9gbg=="
 ---
 

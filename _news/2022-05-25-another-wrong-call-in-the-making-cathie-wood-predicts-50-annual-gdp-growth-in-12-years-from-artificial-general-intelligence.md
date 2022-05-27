@@ -7,7 +7,7 @@ originalUrl: "https://thedeepdive.ca/another-wrong-call-in-the-making-cathie-woo
 webUrl: "https://thedeepdive.ca/another-wrong-call-in-the-making-cathie-wood-predicts-50-annual-gdp-growth-in-12-years-from-artificial-general-intelligence/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1117
     height: 628
     isCached: true
-
-related:
-  - title: "Cathie Wood says AI could lead to 50% GDP growth within a decade"
-    excerpt: "ARK Invest founder Cathie Wood says that artificial intelligence could mean unheard of economic growth in as little as six years."
-    publishedDateTime: 2022-05-22T12:42:00Z
-    webUrl: "https://seekingalpha.com/news/3841547-cathie-wood-says-ai-could-lead-to-50-gdp-growth"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
 
 secured: "2VzQOVQKyvcQsEzJa9WqNrVKVyDLpraSel3B2RFP6hWbKMil/Rf3si0c4QkQE9XUh/2XQhoNmO2H91gcmjx+GnMgEBUTwFjNqKDj2Nyoh7F8eghBFbjHs52Jg7Z4BRJQ/Lyv+v+HV0bim3sQtgUO1hh3/md4dAKZgC7b01dISPEMUzNAE+jFldB+M/DRXiHv++TS5Eb7RH1MoXN90BNN4HazRYZgjLTdKIWQyzyyRDGGwOgpnXuuLzvknMppOhjImEADHGGMyUHkoJYzV7l44Hy+ZJhMxEHgsntfscmzlCTK+kErJ/Tl5N05kvV6UvWrYXeaqSGkzz5ka40FYcIligwc5DAQog/CdWiVnbn94ho=;nAINghEL1yt57JaL3aqqWg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

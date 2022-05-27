@@ -1,22 +1,27 @@
 ---
 category: news
 title: "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers"
-excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE's award-winning investment platform who are clients of Interactive Brokers,"
+excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE’s award-winning investment platform who are clients of Interactive Brokers,"
 publishedDateTime: 2022-05-24T12:36:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-273554afe13b452089e25da0602b2ec2"
+webUrl: "https://apnews.com/press-release/business-wire/technology-273554afe13b452089e25da0602b2ec2"
 type: article
-quality: 19
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
-  - AI in Finance
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "How To Make AI Marketing Initiatives Actually Deliver"
@@ -45,6 +50,6 @@ related:
         height: 428
         isCached: true
 
-secured: "m4T7irPYbJy3lF8Le9wOVxlFG8I1XvollMdKwesEvnf9z0RNZyrkArDrlwOXi16BJXOK4rPxUHh+mbuFWRLwdmiuYz09oeDQ/XnS9cgg0qHZSuVBNWXYYehu2sm90RkplIVUri613XeQFB3FdYDG6mu3CHOHrwdsKbJRv+qLPowc4AgLLDa9pJxUF3mYZ+MwCOhV5VWS2ATbjAyR0t0t05moPDOY63W6LOB8qKn+o7wGSNjagZ/Y+SgxkH0pSobKne6zr76iTiAF0IwISQeuZZeyw/XyLaUmqgHdGybG8Q1xxn5IvZGHegV3DfOG5vdqgULvnmJQj9fvzM5n2Tjli9AXIxBaNZknByIv+C78TJA=;5AtfzQpfNlPwiEj8mnryVg=="
+secured: "f2h3YtB2yytPFsbJ4JJ0HhIbf5b0SGiswzy17u5kftwoAWQzXrzsm/ePd/yLvWS9SYl+aOr8Qkfo7N4Pz2bZp5o39blM6R2jc99IwtHi5xaZiSxdm/1hnOr6LCErvrmh1i3n0ZHLtlSWITAMcFBm/eho42q6/ceUH1Ng4oxyPzBcbfIwr2Z2NCI3h8kAI4rKaLPd1enmFsSe9IuywOc/lKkwOVeUW0j3p7ATa/LMv2V5M1lGR/uAuTu1vkjW3LRKXmFeLa2A8X2jFXPB76VFd8uBctZbqau6XJ51O1Tik4qqRipoW17MzDhe2vPjVMGCyGr4k7ggeMuWWMb4VtNABq6r80Af2gI7bF3xSaHl4UM=;/wnTTJADV+bh0QrRCqtkHg=="
 ---
 

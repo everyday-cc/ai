@@ -57,6 +57,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "‘Time for healing’: Faith leaders endorse Voice to Parliament"
+    excerpt: "Northern Territory Chief Minister Natasha Fyles says the proposal for an Indigenous Voice to Parliament is very important ... “It is a time for healing and recognition.”"
+    publishedDateTime: 2022-05-27T05:23:00Z
+    webUrl: "https://www.townsvillebulletin.com.au/news/national/time-for-healing-faith-leaders-endorse-voice-to-parliament/video/71dbbc81047477b03e5fba05c4367d56"
+    type: article
+    provider:
+      name: Townsville Bulletin
+      domain: townsvillebulletin.com.au
+    quality: 19
   - title: "Linda Burney: “We need consensus on a referendum for an Indigenous Voice to Parliament”"
     excerpt: "Labor's Linda Burney is the incoming minister for Indigenous Australians. She speaks to Leigh Sales about the need for consensus for a referendum on constitutional recognition."
     publishedDateTime: 2022-05-23T10:55:00Z

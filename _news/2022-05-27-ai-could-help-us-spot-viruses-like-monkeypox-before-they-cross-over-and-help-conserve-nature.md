@@ -1,30 +1,28 @@
 ---
 category: news
-title: "AI could help us spot viruses like monkeypox before they cross over – and help conserve nature"
-excerpt: "We can use AI to protect nature and human health. But first, we have to expand AI beyond being entirely human-centred."
-publishedDateTime: 2022-05-27T00:25:00Z
-originalUrl: "https://theconversation.com/ai-could-help-us-spot-viruses-like-monkeypox-before-they-cross-over-and-help-conserve-nature-182515"
-webUrl: "https://theconversation.com/ai-could-help-us-spot-viruses-like-monkeypox-before-they-cross-over-and-help-conserve-nature-182515"
-ampWebUrl: "https://theconversation.com/amp/ai-could-help-us-spot-viruses-like-monkeypox-before-they-cross-over-and-help-conserve-nature-182515"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-could-help-us-spot-viruses-like-monkeypox-before-they-cross-over-and-help-conserve-nature-182515"
+title: "AI Could Help Us Spot Viruses Like Monkeypox Before They Cross Over And Help Conserve Nature"
+excerpt: "When a new coronavirus emerged from nature in 2019, it changed the world. But COVID-19 won't be the last disease to jump across from the shrinkin"
+publishedDateTime: 2022-05-27T05:20:00Z
+originalUrl: "https://menafn.com/1104279945/AI-Could-Help-Us-Spot-Viruses-Like-Monkeypox-Before-They-Cross-Over-And-Help-Conserve-Nature"
+webUrl: "https://menafn.com/1104279945/AI-Could-Help-Us-Spot-Viruses-Like-Monkeypox-Before-They-Cross-Over-And-Help-Conserve-Nature"
 type: article
-quality: 45
-heat: 45
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/464182/original/file-20220519-12-ilb0td.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://menafn.com/updates/pr/2022-05/26/TC_ab014image_story.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "BB/u+Ma3ogRtnMe6V+pTpX4Et0odXPa2rY/YU2wyHCvmupm+0xNz1kblYJEVrbZnSujTQ9MXimtAHgEsHzTeGw3q2T8kZOwq8F/sQ1rerQCyEaDsOnhDsvo6ojoHuWdhwV4jDTLq9EmgZ5HrrReK2nWChs5Wv+C+B7rW/wdBVW45a8lI0UtFfyVHoSaJglbS75fnJENzzyrU1q69UlOGtpNM0ZC2U+2sZLGMLnukS5Zcp3hwxm3kJU9lv9TC59Nck7Xuj3EmuqS1y2nB7GuVBWwE5weEbWHR+dMuTMSJ7+84ScJx8D45G6xpPlTqFyTrj7SDFg/mpEcNC5F29ULjwc/BOx9ROCzlW5btBRCpgtIrtsMj7DjFv3N/Z7i2yhihtozwkVGc8ueVMRavbmHN0ELqVbf0WwRVy/eDi1Kd+wM2aZ0vtx0hD2RiDvqSondqW8rfqFmzzknhnjMzY/5MmraJV425Zxigyigo8Gyv/xtchHJHn622LeGEyd2VslmZyZXfWDxHaKyrBGgNS84lPQ==;ABBjqD1qCFxORSIJliVSMA=="
+secured: "CvLOFKMS1sTVdJNne7weVyvnpoFcVYZLwJTFtaZ9/ysDLXFfadR6CPPia0VRK2cFjyi0YekUb7wkn8HhsIjhGe9ZSsK6Q8xxARrAtNy9JOztI0Xqrl5yffwV7+I17ZO1xLCYhqfC9k8R6f0NllIMJhQ8xQ8q5PmfBPR2sWOddOYcxZiA242IBBoSrleu5YFJ7xIS9EsF3hTXAotZPP/WSiyi7XVhFLGe5NmcmfWlw0adcGoIu6HNrQEM8sSkmBbsxmrG5ZoRMAndmaerV6cs4dCik13Vigs7kFBJQ5CpZbqHXaah7dEPv7yfMek+bBvppY0Gei1QV1PUB1VZzqyEcbj7mzHoawdKrGzarVyd5tg=;a+I+F5nGSf0wVM0THil1zg=="
 ---
 

@@ -2,6 +2,100 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-03-24-modex-2022-let-the-cobots-handle-repetitive-labor.md",
+      "title": "MODEX 2022: Let the Cobots Handle Repetitive Labor",
+      "excerpt": "Universal Robots will showcase how its latest robotics platforms are applied in real-world applications at MODEX 2022, which takes place in Atlanta, Ga. (April 28-3). Engineers will be able to see how cobots automate palletizing and piece-picking tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/automation-iiot/article/21237046/universal-robots-usa-inc-modex-2022-let-the-cobots-handle-repetitive-labor",
+      "originalUrl": "https://www.machinedesign.com/automation-iiot/article/21237046/universal-robots-usa-inc-modex-2022-let-the-cobots-handle-repetitive-labor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2022/03/RightHand_Robotics_UR.623c802f25274.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-small-data-big-impact-making-the-most-of-ai-with-less.md",
+      "title": "Small Data, Big Impact: Making The Most Of AI With Less",
+      "excerpt": "Headlines have reiterated that investments in big data have continued to increase, and the big data story they’re selling us on just keeps getting bigger. But it’s time to burst that bubble. For the last decade,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b583afbf6be86c7a2616b/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/small-data-big-impact-making-the-most-of-ai-with-less/amp/",
+      "publishedDateTime": "2022-03-24T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-space-hardware-club-teams-robotic-rover-on-its-way-to-summertime-competition-in-utah.md",
       "title": "Space Hardware Club team’s robotic rover on its way to summertime competition in Utah",
       "excerpt": "After two years of work, a four-function robotic rover developed for use on Mars by a 21-person Space Hardware Club (SHC) team at UAH, will be in summer competition at the University Rover Challenge (URC) finals in the desert of southern Utah.",
@@ -1066,92 +1160,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-new-guideline-will-enhance-oversight-of-research-in-frontier-fields.md",
-      "title": "New guideline will enhance oversight of research in frontier fields",
-      "excerpt": "Zeng Yi, director of the International Research Center for AI Ethics and Governance at the Institute of Automation of the Chinese Academy of Sciences, said the level of research ethics varies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202203/24/WS623bb185a310fd2b29e52dd8.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202203/24/WS623bb185a310fd2b29e52dd8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202203/24/623bc758a310fd2bec7dca12.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-databricks-unified-analytics-platform-supports-automl-toolkit.md",
-      "title": "Databricks' Unified Analytics Platform Supports AutoML Toolkit",
-      "excerpt": "Databricks, the company behind the Apache Spark data analytics engine, recently announced the Unified Data Analytics Platform, including an automated machine learning tool called AutoML Toolkit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2019/10/databricks-automl/",
-      "originalUrl": "https://www.infoq.com/news/2019/10/databricks-automl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2019/10/databricks-automl/en/headerimage/databricks-automl-1570560795654.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

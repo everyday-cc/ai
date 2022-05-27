@@ -568,8 +568,8 @@
       "title": "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
       "excerpt": "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -588,7 +588,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T06:07:00-07:00",
+      "publishedDateTime": "2022-05-16T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",
@@ -609,17 +609,17 @@
     {
       "path": "_news/2022-05-15-facial-recognition-surveillance-is-a-threat-to-civil-liberties.md",
       "title": "Facial recognition surveillance is a threat to civil liberties",
-      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ...",
+      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
-      "originalUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "webUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "originalUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.dailynews.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682",
+          "url": "https://www.sbsun.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682",
           "width": 1024,
           "height": 682,
           "title": null,
@@ -629,13 +629,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
+      "ampWebUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
+      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
       "publishedDateTime": "2022-05-15T08:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
+        "name": "The San Bernardino Sun",
+        "domain": "sbsun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -645,9 +645,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Natural Language Processing",
         "AI",
-        "Natural Language Processing"
+        "Computer Vision"
       ]
     },
     {

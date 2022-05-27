@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-27-singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit.md",
+      "title": "Singapore touts need for AI transparency in launch of test toolkit",
+      "excerpt": "New pilot framework and toolkit will enable businesses to demonstrate their \"objective and verifiable\" use of artificial intelligence, says the Singapore government, which hopes to drive transparency in AI deployments through technical and process checks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "publishedDateTime": "2022-05-26T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-platinum-jubilee-ai-robot-paints-queens-portrait.md",
+      "title": "Platinum Jubilee: AI robot paints Queen's portrait",
+      "excerpt": "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B895/production/_124935274_mediaitem124935040.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp",
+      "publishedDateTime": "2022-05-26T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-simpleshow-explainer-videos-powered-by-artificial-intelligence.md",
       "title": "simpleshow Explainer Videos Powered by Artificial Intelligence",
       "excerpt": "We all know that artificial intelligence (AI) will have a significant impact on our future. In reality, we can see that AI is already operational in our daily lives and at work. Self-driving cars, vacuum cleaner robots, image analysis, and virtual ...",
@@ -43,49 +129,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee.md",
-      "title": "Robot artist Ai-Da unveils Queen Elizabeth II portrait for platinum jubilee",
-      "excerpt": "Artificial intelligence robot artist Ai-Da has unveiled a portrait of Britain’s Queen Elizabeth II to mark her 70 years on the throne. The portrait, titled Algorithm Queen, shows the queen dressed in a blue-toned coat with a feather in her hat and wearing a pearl necklace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.laprensalatina.com/robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee/",
-      "originalUrl": "https://www.laprensalatina.com/robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.laprensalatina.com/wp-content/uploads/2022/05/d60db7d589402cf6e9f841fdc1e36c0480d5b127w-1024x679.jpg",
-          "width": 1024,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.laprensalatina.com/robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee/amp/",
-      "cdnAmpWebUrl": "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/robot-artist-ai-da-unveils-queen-elizabeth-ii-portrait-for-platinum-jubilee/amp/",
-      "publishedDateTime": "2022-05-26T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "La Prensa Latina",
-        "domain": "laprensalatina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -296,7 +339,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -623,7 +666,7 @@
       "originalUrl": "https://www.zdnet.com/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1143,57 +1186,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform.md",
-      "title": "Idiomatic bets on contextual AI as it grows its voice-of-customer platform",
-      "excerpt": "A growing number of customer intelligence platforms are utilizing contextual AI and machine learning to understand structured and unstructured data. Idiomatic aims to set itself apart in the space.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/",
-      "originalUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1366362158.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/",
-      "publishedDateTime": "2022-05-25T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

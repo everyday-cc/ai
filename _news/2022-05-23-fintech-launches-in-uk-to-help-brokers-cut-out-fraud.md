@@ -34,6 +34,20 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 19
+  - title: "CAT Financial Products Launch Active Fintech Value Investment Solution with Fintech Influencer"
+    excerpt: "In a partnership with CAT Financial Products AG (CATFP), he gives investors the chance to invest diversified and in a simple way in the global Fintech companies that not only have huge growth potential in the future,"
+    publishedDateTime: 2022-05-27T05:54:00Z
+    webUrl: "https://fintechnews.ch/roboadvisor_onlinewealth/cat-financial-products-launch-active-fintech-value-investment-solution-with-fintech-influencer/53040/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 12
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/05/Spiros-Margaris-and-CAT-Financial-Products-Launch-First-Active-Fintech-Value-Investment-Solution.jpg?x30842"
+        width: 2048
+        height: 1136
+        isCached: true
 
 secured: "P2NoKq55KdOQD4lm7fVmnFXG9uC8C2QurKdTKt+vM7c5r8R+K+HhhD8aJj6XymumcarZ8cWN0TyNHu+iNvmVvlqhXC8nu9PORnPZ+LEnxgn5QEhhIugTIijystC7VPEmX1t8Q0/emZCc5RsRo6Rpj0M0biF8LPVwzhqWeICfQqiKtnte8bfRWpp1aLhTXpeda+kn3BywRyHFWd7zYU9PVOjkTiSgAxjNFyggf8XBln//1YH89hkVg6l+MTQ6OFPo0w9Gg9FOA0uM6+by2Ow4ZsSWHuNQByRlF6fcTMe6Ty6r88Hyt39NUmYVMVoMAp0aVXQV5zxNANJckGifnwW3vVRhC7CXE0A8396bIay0Yaqgvm9usxWYATQ82Ibefr/bAXB2SEq6btT5s+1Cd4rYMd/1LjC1CQUsG0+IYNB7BT4AtbgjBKD/0oVfwEXEHRPSL8h90OIkX3i1WQeTpBdHFho06hHOPu4DS9ihy95+HM/4ZyYiLxxycRPNWDhfycXk/8rfNzIrM0RBLgTMJFKJxw==;kKtCrxw0rh+UnzElfOlmIg=="
 ---

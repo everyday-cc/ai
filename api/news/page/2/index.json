@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-26-idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform.md",
+      "title": "Idiomatic bets on contextual AI as it grows its voice-of-customer platform",
+      "excerpt": "A growing number of customer intelligence platforms are utilizing contextual AI and machine learning to understand structured and unstructured data. Idiomatic aims to set itself apart in the space.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/",
+      "originalUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1366362158.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/",
+      "publishedDateTime": "2022-05-25T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-tech-leaders-say-facial-recognition-clampdown-will-spur-innovation.md",
       "title": "Tech Leaders Say Facial-Recognition Clampdown Will Spur Innovation",
       "excerpt": "A $10 million fine levied on Clearview AI by the U.K.’s data-privacy watchdog sets clearer ground rules for balancing software innovation with people’s right to privacy, experts say.",
@@ -990,6 +1041,50 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
+      "title": "Remarkable science: Exploring our AI and robot-supported future",
+      "excerpt": "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "originalUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/04/vertexlogoSOP_R_black-400x264.png",
+          "width": 400,
+          "height": 264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "publishedDateTime": "2022-05-24T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-ai-reveals-unsuspected-math-underlying-search-for-exoplanets.md",
       "title": "AI reveals unsuspected math underlying search for exoplanets",
       "excerpt": "Artificial intelligence (AI) algorithms trained on real astronomical observations now outperform astronomers in sifting through massive amounts of data to find new exploding stars, identify new types of galaxies and detect the mergers of massive stars,",
@@ -1081,101 +1176,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
-      "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
-      "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "publishedDateTime": "2022-05-24T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx.md",
-      "title": "First UK Authorized Dealer Signed for AI Robotics Leader: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)",
-      "excerpt": "Robotic Assistance Devices (RAD) is a high-tech start-up that delivers robotics and artificial intelligence-based solutions that empower organizations to gain new insight, solve complex security challenges, and fuel new business ideas at reduced costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27375720/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solut",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27375720/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh6.googleusercontent.com/M1OxQKTUKmexu_qMJWIZJkmS83Vi_TIycMFimESotLhW5g8EADqqnpG2vOFT5hFjGjk5Pirv_qgbIEs8lEvIKGd-VxkWuVsorceloGyE7m8ey7gfRHdj-YUaSqN8ebGrESX4NXdlYwYTKk9fEg",
-          "width": 791,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27375720",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27375720",
-      "publishedDateTime": "2022-05-24T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
