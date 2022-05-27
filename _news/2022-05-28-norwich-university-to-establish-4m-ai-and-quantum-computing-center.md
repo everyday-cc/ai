@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-27T19:50:00Z
 originalUrl: "https://www.wcax.com/2022/05/27/norwich-university-establish-4m-ai-quantum-computing-center/"
 webUrl: "https://www.wcax.com/2022/05/27/norwich-university-establish-4m-ai-quantum-computing-center/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WCAX3

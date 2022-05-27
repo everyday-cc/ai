@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/426406"
 webUrl: "https://www.entrepreneur.com/article/426406"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 500
         height: 324
         isCached: true
+  - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
+    excerpt: "In a time when the pace of change is accelerating, the presence of creative excellence for businesses is crucial for success. However, it is easier said than done. Creative excellence with humans alone has its setbacks,"
+    publishedDateTime: 2022-05-26T17:36:00Z
+    webUrl: "https://www.chron.com/business/article/Top-7-Ways-to-Cultivate-Creative-Excellence-with-17200357.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "3mASaCTf2EJAOmBveonBERem34moq7ifXOD2mNnUM7QU1n7fQrytwV/3h/l5nFdGkX4hIdHnMGmlHRlyBn/8BQJf9XkSsb72zVAyTfVS4B3RHM1NF9/jIRZkr/xXvgo6cIbwgxZNzEfsxlH1uCYWXMOrVOYFAKYxJOAzJdgt5ho3KkcgXQ8UAf59Gn8rPEA/zlxZS0W3+I2AaO3CcRZ/Lx0a2YvBk2xTgKkwm3cF3dlv86SPixYfCoW1PUvbczxY10sorocP5TW9nGlQqvAf8HrtvheaYTIakCDDUT/SQ45w/wq/VYSfkJ3Eo4taTNNYAVT9kTxWi+BQOyUyQ2TyX7D0+ab3+YeCrjp8gbeuQus=;kvzHtubuByt73zo1hCr1Bg=="
 ---

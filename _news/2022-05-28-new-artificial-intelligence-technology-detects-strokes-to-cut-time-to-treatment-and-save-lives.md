@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-27T19:13:00Z
 originalUrl: "https://6abc.com/main-line-health-artificial-intelligence-strokes-well-ahead-philly/11857526/"
 webUrl: "https://6abc.com/main-line-health-artificial-intelligence-strokes-well-ahead-philly/11857526/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: 6abc News

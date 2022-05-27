@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI In Fashion Market Report: Size, Trends, Demands And Progression Status Up To 2022-2031"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, May 22, 2022, 22:34 /Comserve / -- MarketsandMarkets expects the global AI in fashion market to grow from USD 228 million in 20"
-    publishedDateTime: 2022-05-23T04:39:00Z
-    webUrl: "https://menafn.com/1104255404/AI-In-Fashion-Market-Report-Size-Trends-Demands-And-Progression-Status-Up-To-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?695690"
-        width: 450
-        height: 250
-        isCached: true
 
 secured: "j6hEceyz7FsfsdkhQnWCeVHf7IUrPgUklSvTXgqGq2Q7uM8CXGnrHH2+ybZLSrJZbg3zs/4kwa7nlJeyHZ+q6BGXOZQpjm71R3DqZ6qW2TkxUTJpwsa7IVDY5NhREkGIGr/RVrUCCQfkvxzX9zbtavCj1moTxI6j+cQ/o5hF6hm0MmpZkvZLFWz246ywEPJh+etsGFapXpTjUePlrWmpAgX0N8kcBNjo8uXZlV67jwQGFqJHDfhZOszCaOR2GD1I2CydA2238JMUiiXlwfJe9q5s5Q2+He49ClzUae7yymIcugArBc8hmTXUmQhc3WcynLtIaXuEheEN07UMS25/79swvBSxjyMAHMtmQVP8nqU=;BVwJHTzNRi5WNoH7Xog7Fg=="
 ---

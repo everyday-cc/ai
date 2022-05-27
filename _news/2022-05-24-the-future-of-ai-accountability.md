@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all"
         width: 1200
         height: 768
-        isCached: true
-  - title: "The rise of AI chips"
-    excerpt: "What are the different ways in which AI chips are being used in various sectors? What are the recent innovations in the industry?"
-    publishedDateTime: 2022-05-23T05:00:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://www.thehindu.com/incoming/mulfl7/article65446708.ece/alternates/LANDSCAPE_615/iStock-1034901762.jpg"
-        width: 615
-        height: 383
         isCached: true
   - title: "Smarter health: Artificial intelligence and the future of American health care"
     excerpt: "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change that?"
@@ -98,15 +82,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "She was the Art in Artificial Intelligence"
-    excerpt: "He created an artificial intelligence helper named ‘Marinette’ also known by his computer as ‘(Mar-AI)’. Where upon realising that Damian doesn't love Marinette and never had, she just starts to become more static."
-    publishedDateTime: 2022-05-26T13:04:00Z
-    webUrl: "https://archiveofourown.org/works/39235794"
-    type: article
-    provider:
-      name: Archive of Our Own
-      domain: archiveofourown.org
-    quality: 17
 
 secured: "TBdfZ/iOmON9qR4W19XhkgvQpRxHus+3D+hxml/V2rR6JSPuh8/MQWyQnR13wMDQkFIlJ9Y/Xi23h5qLVTBWsqP9whmUOiOA393KvOT6988S0Dblzfe39wc33j3veqcx1iK9DIgpXj5+pgNzJGs3lXMvg6PTnMaGjzMxxXxyG1ZbrJzm/cONX8+m1QeNnKcEr6c3YMPhb9mjxGeYxsKBPqHMsOnWGsOa4pmCvGC4uksHQJALFUSZlWfCxbe+/GMyvzeeKvMmwVAPHrOaf4pxUraZcyV6EFspKA3O3nwmsWW+tCggirvhwS/BZ2WuS1KVsfO1VgljyQj/7d4MLzAtxnIpp1wTNaMW1Pk/ocWtWJTpLcU1BCkkQjI8cKCWEyeruUO+s1ghxoFUqeVm0SmjBsdaghY2MbpXxTTv9vORg6jvrqxoIBL3DbHwXOFUr3ov+jc/IZCdCsBbHMCCrdzPEjBFwqRaX2Yjwxy2z0UUzM0AbWpHeV2OT07KbfC9LZNsE3LZ3pfw/csHbWUE1M7niw==;LP9xW1qfHpz5dpNmnNjq9w=="
 ---

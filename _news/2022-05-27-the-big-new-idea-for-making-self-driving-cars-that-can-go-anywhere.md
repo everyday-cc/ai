@@ -26,6 +26,17 @@ images:
     height: 1688
     isCached: true
 
+related:
+  - title: "Regulations for insuring self-driving cars required sooner rather than later, lawyers say"
+    excerpt: "Canada will need to address potential disruption that automated vehicles may cause from an insurance perspective, lawyers caution."
+    publishedDateTime: 2022-05-27T19:06:00Z
+    webUrl: "https://www.canadianunderwriter.ca/insurance/regulations-for-insuring-self-driving-cars-required-sooner-rather-than-later-lawyers-say-1004221744/"
+    type: article
+    provider:
+      name: Canadian Underwriter
+      domain: canadianunderwriter.ca
+    quality: 0
+
 secured: "vcq2gMTmloYxDDrvmJTeMd6wIUH3u39b9SHzJz5CEDUOSBCnKp8eYLEpAsF4pGnPuUt72m6Ciww/TzdBkBmFJMu0A1kzfJyjRQxj1trOlcuxvSDesAKGCl3ORgUY/ca53/AhK5Aw8ogVe6w5or52Oramf5LzV+eYKwRJPy4uGKdhK712RqwRMxpqukVl5W0X7GJ0/or8ups4ujpf2e9z42k7ycXnNL+Uek7PjKQSX2b/LukZRWm84/L8FvtM5H34k4Q/zGFg5SeBD42SAY6Eit7gIqBwsAMrrgmd8gZPPnusUM55euVxQEYdz8B2hRtsKaBlB+aGd6jGM1vrk7ST+nPWrDmq6q8LMUG8Txlx7Xi8X9V58HXLC2ZBk2EwATKl/UvHXN0LlEBK7yAPbozco/f4449St8BFXCyFY35d/mYLIBc2Wwvxa4vnN1r3jWtKBjNtFPtYj5jHchZC252cCy00ubrL661Z4WS7K/c9Tk5BgGunUesygSBEgIVaS75DilLSg9/hRNfMEsaJ43H9Ig==;6pCTPyy1GzGPg4KAP0BVug=="
 ---
 

@@ -76,7 +76,12 @@ related:
     provider:
       name: FOX8 Cleveland
       domain: fox8.com
-    quality: 1
+    quality: 21
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+        width: 800
+        height: 340
+        isCached: true
 
 secured: "x9JSOh99JtuCra0YjR+dEP5ET2twmq2lEGfOgVvA/HPHjr0fBsYzfLOkW6e1NWPp86cMyTI7oPclj7Q3Rp8i1VqAlb/rmd9OKptD3fbiSxOs9YqG0wwqzUagaao+YucjIvwSXO1QAtd4ASvbdXRIUQRO2izziJaaiNDDdDcV3lMvgxVDQT3kOhIfVKQSpiKBzZ+ydCyS4WPPmGYSTVbkNJRq+rWHR5OQs6RWZH2SIfpAbrxq3WrCwvynhexF0oHCCIyezLDa/xhmFnVoK/pbWC0Pp6r5HNipA0X+h2v2+6aDjOdxzh9pBj2B7f1TTpRu/4flkmo5aI51mclPMRWPNtRiL8CIO5H7B2EpWLnTnWg=;putsudFDIss5UX06r0KDzA=="
 ---

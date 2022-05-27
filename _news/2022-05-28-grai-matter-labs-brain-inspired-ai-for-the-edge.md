@@ -5,7 +5,12 @@ excerpt: "We recently tweeted about the startup GrAI Matter Labs (GML) and recei
 publishedDateTime: 2022-05-27T17:52:00Z
 originalUrl: "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/"
 webUrl: "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/"
+ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/"
 type: article
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: Forbes
@@ -17,7 +22,26 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI Hardware
 
-secured: "PkkDlu5CW1T6wxdXWFJoKotmgRjts9KBACKYP8QkXUCz1cxDqZK5HOWd7d/btLATPImJitlDxKGDvuHEQA63x40bRs2v/f+71myyOiLyUFd6fnySlL3dbU5hJkKh3FcE31Ne5Zn5rSCFI9aH0yF8U/P4GljfsEMbhwUMFs2nLq1PjBkjMzNZakBRRhYuRObo8dEccufzm2yVLhq+nKOmkMPzxUnL0KN86n1PXajZlvB/F3dPxzcSEUHfFDJ1TrUQVbmXnaoKDU2vUG/enONmFLQTjGNwZUNlZp6xm2Uy4wErw0NQ2n27hcM7xbcPvb/Ht86n5/8jFoDkZbN7v9nyJaidXVs7cBRjoxjE4yB2/Hw0uqJM0w7WZcQCTn8gQdnwA55hTXBKDuvQ/204qxwFy81Rv2GeEtYjt/UeVqI2r2uI6cN+CL67+1ScLQRLnTRRVKyQb0aAWJyCJSuiWQQJ6LP1xmKM5b98NxL3O6jX+hkChfj567XCfFqRkoL7dHFVs98wHkTJcpnvIQtuAAmFYA==;0iqnc6yIdxhDiTgdADfmhQ=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve//6290f25b3eeb6d491574921f/0x0.jpg?format=jpg&width=1200"
+    width: 720
+    height: 405
+    isCached: true
+
+related:
+  - title: "She was the Art in Artificial Intelligence"
+    excerpt: "He created an artificial intelligence helper named ‘Marinette’ also known by his computer as ‘(Mar-AI)’. Where upon realising that Damian doesn't love Marinette and never had, she just starts to become more static."
+    publishedDateTime: 2022-05-26T13:04:00Z
+    webUrl: "https://archiveofourown.org/works/39235794"
+    type: article
+    provider:
+      name: Archive of Our Own
+      domain: archiveofourown.org
+    quality: 17
+
+secured: "9LFxcgY1Yc597IRO0xRpQEN8xNmf0SiFktIU1ZoIlH/Nl28tiqRLJ9EckRNk20U9Fi55oY+KlkTkCXs8Qdy5C6v8mvgmFNImq4FjO17nteXGQKi+4qOwWC4EBakIZICqNNJZPullF0Ci+gOSileTR2h2icZdF8PZe05utK6GfYWmwTYYrkHyja6HPFHsqt3JUbMqOcMavods8ejnvda2iwqLgPYxpe6LKvLK5PF/ZeT5WQmG2GD6/AWtjymIJ525jpfuKAVP2/H8iBXHQlLyNCufa6R4uwPZX21RWZ8sitd4sJsn577CVw2oJeHfw4WwLztuomGZm/E6VPzHs2DzFCncdmIS1w5SxfDDFUTw7XM=;YB+uq72qZEQ743P6A3lP3A=="
 ---
 

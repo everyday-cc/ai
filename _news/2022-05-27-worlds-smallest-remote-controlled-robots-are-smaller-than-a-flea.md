@@ -59,22 +59,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Remote-controlled crab-like robot is the smallest ever, university says"
-    excerpt: "Engineers at Northwestern University in Evanston, Ill., announced they have created what they believe is \"the smallest-ever remote-controlled walking robot.\"   The robot resembles a tiny crab and measures just a half-millimeter wide."
-    publishedDateTime: 2022-05-26T20:43:00Z
-    webUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
-    ampWebUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
-    type: article
-    provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Smallest-ever remote-control walking robot uses shape-memory alloy"
     excerpt: "Researchers at Northwestern University in Illinois have demonstrated the world's smallest remote-controlled walking robot, at just half a millimeter wide. Such tiny machines can bend, twist, crawl, walk,"
     publishedDateTime: 2022-05-25T18:00:00Z
@@ -93,6 +77,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Remote-controlled crab-like robot is the smallest ever, university says"
+    excerpt: "Engineers at Northwestern University in Evanston, Ill., announced they have created what they believe is \"the smallest-ever remote-controlled walking robot.\"   The robot resembles a tiny crab and measures just a half-millimeter wide."
+    publishedDateTime: 2022-05-26T20:10:00Z
+    webUrl: "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 19
   - title: "The smallest remote-controlled walking robot ever built looks like a flea"
     excerpt: "Engineers at Northwestern University have built the smallest-ever remote-controlled walking robots. And the current design looks like a cross between a flea and a microchip. Actually, at half a millimeter wide,"
     publishedDateTime: 2022-05-25T18:07:00Z
@@ -102,14 +95,14 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 18
-  - title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
-    excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research p"
-    publishedDateTime: 2022-05-26T11:51:00Z
-    webUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.html"
+  - title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
+    excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking"
+    publishedDateTime: 2022-05-26T09:56:00Z
+    webUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
     type: article
     provider:
-      name: wfft
-      domain: wfft.com
+      name: 7News Miami
+      domain: wsvn.com
     quality: 13
 
 secured: "5h8U5V6MIoY1lrnCaztcEJr1cRLiZ0Se24T+N3hXym5IDAh8U6SaHeMsptp9nm2sFmyKiPZn398FDKoQaGubCyDunNyK9J8GQfx7V5Ng+9USd9y6VVWQzGCEmzUThg/6JvpAuS6BUxE/BLiQEemtnCW8InGlWJsakOqml+wcDLnb702UvYZ8imOXiFl6JRYPD0OfV8s+T+yWtQzg/H06UmLllJF/ayGdr8DP2BpUuqSOWETlY09tDcJlydm/kJ75FAE/ch2oyqAA7Bx7nJjfxM5H0WL312HwOcUZqKs8QaEIHA/VDLWtrQ9c99kT0OMK9vlVHvdXsNYzcVjbV4MpEgBNvj0i/OSh7uzPseXwBdM4oKia/t2cd86/KX5ANtyxrvUiFwMPEmBPQqxSXGE+xhIVY33rbS1iIrvQSGOOUv2GfVCb69IBDNhqup6n+l/BY5qlxcEdDpHN+yDNCbiTCMCQzXTkRubQ+YgzzQKVtXkVMTWE61IAWQnmaQc8RFexEv+DbfzcMjiVvODYg2G/0A==;qz+NXXXgKre2fXlCnwKlFg=="

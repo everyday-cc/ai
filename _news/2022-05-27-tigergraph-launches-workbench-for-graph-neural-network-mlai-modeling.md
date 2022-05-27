@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/"
 type: article
 quality: 123
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "TigerGraph Unveils ML Workbench, Winners of Its ‘Graph For All Million Dollar Challenge’"
+    excerpt: "TigerGraph also says its ML Workbench is plug-and-play ready for Amazon SageMaker, Microsoft Azure ML, and Google Vertex AI. “Graph has proven to accelerate and improve ML learning and performance, but the learning curve to use the APIs and libraries to ..."
+    publishedDateTime: 2022-05-27T21:10:00Z
+    webUrl: "https://www.datanami.com/2022/05/27/tigergraph-unveils-ml-workbench-winners-of-its-graph-for-all-million-dollar-challenge/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 32
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/shutterstock_601297520.jpg"
+        width: 800
+        height: 522
         isCached: true
   - title: "New GraphWorld Tool Accelerates Graph Neural-Network Benchmarking"
     excerpt: "Google AI has recently released GraphWorld, a tool to accelerate performance benchmarking in the area of graph neural networks (GNNs). GraphWorld is a configurable framework to generate graphs with a variety of structural properties like different node degree distributions and Gini index."

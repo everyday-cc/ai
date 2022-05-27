@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-27T18:18:00Z
 originalUrl: "https://www.defenseworld.net/2022/05/27/financial-comparison-zhongchao-nasdaqzcmd-gaotu-techedu-nysegotu.html"
 webUrl: "https://www.defenseworld.net/2022/05/27/financial-comparison-zhongchao-nasdaqzcmd-gaotu-techedu-nysegotu.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Defense World

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-27T16:52:00Z
 originalUrl: "https://knowtechie.com/pimeyes-is-a-facial-recognition-search-engine-scours-the-web-for-matching-images/"
 webUrl: "https://knowtechie.com/pimeyes-is-a-facial-recognition-search-engine-scours-the-web-for-matching-images/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: KnowTechie

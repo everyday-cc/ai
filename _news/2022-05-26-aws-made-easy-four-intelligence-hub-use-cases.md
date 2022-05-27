@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T16:05:00Z
 originalUrl: "https://www.automation.com/en-us/articles/may-2022/aws-made-easy-four-intelligence-hub-use-cases"
 webUrl: "https://www.automation.com/en-us/articles/may-2022/aws-made-easy-four-intelligence-hub-use-cases"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Automation

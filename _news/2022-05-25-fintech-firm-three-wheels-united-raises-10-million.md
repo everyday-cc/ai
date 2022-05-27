@@ -33,6 +33,20 @@ related:
         width: 703
         height: 428
         isCached: true
+  - title: "27/05 – Weekly Fintech Recap"
+    excerpt: "Partnerships Laiye Partners with Accenture to Power Intelligent Automation and Innovation at Scale Laiye, a leading Intelligent Automation (IA) provider, announced a partnership with Accenture, a global professional services company with leading capabilities in digital,"
+    publishedDateTime: 2022-05-27T11:14:00Z
+    webUrl: "https://financialit.net/news/digital-banking/2705-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_13.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "CAT Financial Products Launch Active Fintech Value Investment Solution with Fintech Influencer"
     excerpt: "In a partnership with CAT Financial Products AG (CATFP), he gives investors the chance to invest diversified and in a simple way in the global Fintech companies that not only have huge growth potential in the future,"
     publishedDateTime: 2022-05-27T05:54:00Z

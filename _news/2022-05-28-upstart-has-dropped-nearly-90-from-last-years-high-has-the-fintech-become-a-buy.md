@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-27T18:41:00Z
 originalUrl: "https://seekingalpha.com/news/3843573-upstart-has-dropped-nearly-90-from-last-years-high-has-the-fintech-become-a-buy"
 webUrl: "https://seekingalpha.com/news/3843573-upstart-has-dropped-nearly-90-from-last-years-high-has-the-fintech-become-a-buy"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Seeking Alpha

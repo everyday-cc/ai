@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 768
         isCached: true
-  - title: "The rise of AI chips"
-    excerpt: "What are the different ways in which AI chips are being used in various sectors? What are the recent innovations in the industry?"
-    publishedDateTime: 2022-05-23T05:00:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/the-rise-of-ai-chips/article65446670.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://www.thehindu.com/incoming/mulfl7/article65446708.ece/alternates/LANDSCAPE_615/iStock-1034901762.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Smarter health: Artificial intelligence and the future of American health care"
     excerpt: "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change that?"
     publishedDateTime: 2022-05-25T20:38:00Z
@@ -94,15 +78,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "She was the Art in Artificial Intelligence"
-    excerpt: "He created an artificial intelligence helper named ‘Marinette’ also known by his computer as ‘(Mar-AI)’. Where upon realising that Damian doesn't love Marinette and never had, she just starts to become more static."
-    publishedDateTime: 2022-05-26T13:04:00Z
-    webUrl: "https://archiveofourown.org/works/39235794"
-    type: article
-    provider:
-      name: Archive of Our Own
-      domain: archiveofourown.org
-    quality: 17
 
 secured: "A45if4hkd8A4NMB09Xsldfi/6eBJ6j/tuYfmS6XHEu2cAgwshhUViP2vPoJ0cqPOunJNS8PoVNrn5Lp8vo0wKNVjC7zoQkf7gz+QLE9Lvtw3tF0BROpAFUyFzRQGIG9xTjBD6MTx/XSM0wHsosXVUfSbZ76/pmqxRWGlysSh5eIQC2DKKRBuwkGC00BC1t3ySMF7GT5OBFx9UPdVbs1NFIdCm+iEVU0wYh6E2VkJVzh87ms42OpThu2x3wYLP2Qm17EjJ1yXfiyH52KL9ng1bLS2CAoKBEGFpXLgREF9f0URzPh+uGQYn5zjK/kx3KfTIUZhXzHL92AiHfaBZr2TWJyRKGuQSzmNxTuVFzGYnZQ=;2raNh4UdTuGr3n5wC/BTHw=="
 ---

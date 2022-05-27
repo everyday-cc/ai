@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/railz
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/railz-to-unveil-visualization-tools-for-smb-lenders-at-lendit-fintech-2022/article_b2182d94-c386-55b6-84d5-85093ed4adf2.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Fintech Firm ForwardAI and Fifo Capital to Enhance SMB Loan Underwriting Process"
-    excerpt: "ForwardAI, a Fintech providing aggregated access to accounting & business data and analysis, announced its partnership with Fifo Capital."
-    publishedDateTime: 2022-05-23T03:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg"
-        width: 1280
-        height: 1104
-        isCached: true
-  - title: "27/05 – Weekly Fintech Recap"
-    excerpt: "Partnerships Laiye Partners with Accenture to Power Intelligent Automation and Innovation at Scale Laiye, a leading Intelligent Automation (IA) provider, announced a partnership with Accenture, a global professional services company with leading capabilities in digital,"
-    publishedDateTime: 2022-05-27T11:14:00Z
-    webUrl: "https://financialit.net/news/digital-banking/2705-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_13.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "A9ybtvZWutYiKfZvFsoGvojF3S2+A8/df3pcK4HZ6hqt9T6HHinzFAqMksxgwF1ulfqmz/Vwn0j/M8LO2mmIcpRURBQCiEfIqKEdoT5jA4hON2bYlhkKb2+KO/2uAbvO9dpNdZek0AMoQcmbinRgEE/t9zRFdHMy+f+7eHeGKuRJm8afQU1SS0uJSy42v4obYmKtBVr0Z+usYHwyX6NQrW6ir9VSN6DMmgcTiezP4A9TqMMgJTz7avZONSJ3BSLc7Seo7MtxYNYatmpZ/6l0B/oVlyuMfZvHCVl9rYeI3r1QxZpQXJ2E0HsvVPBqKa6n6dB1Q0pyYKoMU/5BkF2L1SPsaIavypKQGqM9CT0ypBdhHR7IeRcBKhy/3WuT0gfKggqS7nN9wxHPi8dUs9cRSIF1Ax6T7iInvIV1Jaq2k+V1bi52AOspkF1NthIgrwPNwNMYmg/W7/YNNJOTFokVjmPr6Wp9wK/7tUkl9bxR81dwIIoL6JC8wBeoHq8lj9o0EWs+4MA9oTFyRjeLM52M1g==;8kL5PlPsO9wGJRT+SryEKw=="
 ---

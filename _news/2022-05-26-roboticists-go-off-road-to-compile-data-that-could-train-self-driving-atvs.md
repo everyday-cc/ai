@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-05-roboticists-road-self-driving-at
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-roboticists-road-self-driving-atvs.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Carnegie Mellon researchers gather data to train self-driving ATVs"
+    excerpt: "Researchers at Carnegie Mellon University drove an ATV aggressively through an off-road environment near Pittsburgh at 30 miles an hour."
+    publishedDateTime: 2022-05-27T18:43:00Z
+    webUrl: "https://www.therobotreport.com/carnegie-mellon-researchers-gather-data-to-train-self-driving-atvs/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 49
   - title: "Carnegie Mellon Roboticists go off road to compile data that could train self-driving ATVs"
     excerpt: "The researchers believe the data is the largest real-world, multimodal, off-road driving dataset, both in terms of the number of interactions and types of sensors. The five hours of data could be useful for training a self-driving vehicle to navigate off road."
     publishedDateTime: 2022-05-25T12:59:00Z

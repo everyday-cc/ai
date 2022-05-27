@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "27/05 – Weekly Fintech Recap"
+    excerpt: "Partnerships Laiye Partners with Accenture to Power Intelligent Automation and Innovation at Scale Laiye, a leading Intelligent Automation (IA) provider, announced a partnership with Accenture, a global professional services company with leading capabilities in digital,"
+    publishedDateTime: 2022-05-27T11:14:00Z
+    webUrl: "https://financialit.net/news/digital-banking/2705-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_13.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fintech firm Three Wheels United raises $10 million"
     excerpt: "Three Wheels will use the investment to scale its business in India and launch pilots in other emerging markets"
     publishedDateTime: 2022-05-25T13:20:00Z

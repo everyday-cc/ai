@@ -23,6 +23,17 @@ images:
     height: 439
     isCached: true
 
+related:
+  - title: "Progress-Tracking AI Startup Buildots Gains $60M Funding"
+    excerpt: "In a sign of continued interest in technologies for tracking work progress and keeping on schedule, Israel-based startup Buildots announced that it has raised $60 million in a Series C funding round."
+    publishedDateTime: 2022-05-27T17:04:00Z
+    webUrl: "https://www.enr.com/articles/54185-progress-tracking-ai-startup-buildots-gains-60m-funding"
+    type: article
+    provider:
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 17
+
 secured: "Op4tDFkCyS7Gb7QssiwhT6R6ldVEKvEdv0RRe+KbQNw9p/Xc+YOZ6vuo+rEKBMGpttVu3tzbiHWxdXkxw5WKFclBQmGQAOSndeTg/VpYF7bC6FIVmrNLj+Awku8E5UeMOgCyjI7F5O0mX604RZGC6MkrPTMX+TF1Cg1iCj0TdXsD+SA7OwhsF2UeaiKoja6ptvERPzSg9ntfLQRcVws+pU7es/nlQn9SB88O0C0fygb3AOxTNjb93DcMBHKRBaOhD26iX9Be1jfv81DyADCQDo5mlxD1qy7lHPWxXrvTNIQ8AV5byhHp4xRUFrGwBJMPZECZRmeRnLowQbUuEdVNdW5v4O+tpGQH16R0xQ+TrTQ=;ItWRw9OhjXpLYgw7y/3QSA=="
 ---
 

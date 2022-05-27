@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UTSA Researcher Bringing Underrepresented Students to AI"
+    excerpt: "A first-generation U.S. college graduate and director of the Matrix: AI Consortium For Human Well-Being at the University of Texas at San Antonio, Dhireesha Kudithipudi is focused on recruiting diverse talent."
+    publishedDateTime: 2022-05-27T18:13:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/utsa-researcher-bringing-underrepresented-students-to-ai"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "cgCkQqr3QnhnRmnRpzEauu3gDik3ktqK8Q9Km4MBKBXitaxcl1WwVADq22sN3tzJvsviMyfhjjQuiKdutRg0aNiYI0m3miktnWUjpfs7F+e/fJ6dy1JqCDEGl/WiUOPbZEPRKbBjaPz9i8stfPcTZeMs8gaeElUoLOO7DQhI6suiwuV52xVcGGusc6UW5KdHvqFf894hgKsyjkVFaXu6/KRR9dUB9UBZrL0JznU+qZ4ICrq8pD3TMJXsNWL7YdiHy/2ElY2PhNlGQJj0eeSy74r+MZELsoveebj5EioaOOUm8/22ZSMMYfwpFZd3vNcz0PX+mA7lU/vLKSjKOxj2QmJEttYRjHrdDjUTdPXRuBA=;Z34JbRD6p/ya5y9dPEGSQg=="
 ---

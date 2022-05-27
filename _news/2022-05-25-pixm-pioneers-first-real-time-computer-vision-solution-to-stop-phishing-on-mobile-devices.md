@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T10:56:00Z
 originalUrl: "https://www.morningstar.com/news/business-wire/20220525005383/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices"
 webUrl: "https://www.morningstar.com/news/business-wire/20220525005383/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices"
 type: article
+quality: 10
+heat: -1
+published: false
 
 provider:
   name: Morningstar%2c Inc.
@@ -15,6 +18,54 @@ topics:
   - Computer Vision
   - AI
 
-secured: "nzB8QR72frytyF/QF7Lxi7FVX6DXDC373w8sUpw73Hl8X/SyNNdLTz+8MuBS4urbDaSCIWpkDy+wFpMSpIPtAgCaq8JX1jexiTBAdJ2DZLTmatQEVHXWCfr6BLRCpBAFY36gJz0ZZL29LqMr+jVWZ39nksrdsTSsiNl12W164RhhT1u5w8OyQAUjEeUYnEsu8hpW+wXnQJPoOyGQlKh54jEahnyo8Xc2KFYbWVDUI7TXy8jSFOYVbDhJVTz8lSQ8mBH/UG9Sfz91Oo2OxjXSXXHMH6qzcsLpE9vPKF/OjXm3BSb5qOFwQB1FAg4K2QlePhOgNyOxka7s48tUfDukS/QZeyrmUy5lIbYs4RDFP/M=;5i0x3QigGapMvzZHHj6vSA=="
+related:
+  - title: "PIXM releases new computer vision solution for mobile phishing"
+    excerpt: "Computer vision cybersecurity startup PIXM has expanded its line of antiphishing products with the launch of PIXM Mobile, a solution to protect individuals and enterprises from targeted and unknown phishing attacks on mobile devices. The cloud-based mobile ..."
+    publishedDateTime: 2022-05-25T17:01:00Z
+    webUrl: "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.html"
+    ampWebUrl: "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/09/cso_nw_mobile_phone_text_bubble_skull_crossbones_sms_phishing_smishing_by_jane_kelly_gettyimages-669307004_abstract_data_by_spainter_vfx_gettyimages-897166754-100810151-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "PIXM reveals new computer vision solution for mobile phishing"
+    excerpt: "Computer vision cybersecurity startup PIXM has expanded its line of antiphishing products with the launch of PIXM Mobile, a solution to protect individuals and enterprises from targeted and unknown phishing attacks on mobile devices. The cloud-based mobile ..."
+    publishedDateTime: 2022-05-25T17:00:00Z
+    webUrl: "https://www.csoonline.com/article/3661560/pixm-reveals-new-computer-vision-solution-for-mobile-phishing.html"
+    ampWebUrl: "https://www.csoonline.com/article/3661560/pixm-reveals-new-computer-vision-solution-for-mobile-phishing.amp.html"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3661560/pixm-reveals-new-computer-vision-solution-for-mobile-phishing.amp.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/09/cso_nw_mobile_phone_text_bubble_skull_crossbones_sms_phishing_smishing_by_jane_kelly_gettyimages-669307004_abstract_data_by_spainter_vfx_gettyimages-897166754-100810151-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "PIXM brings computer vision phishing protection to mobile devices"
+    excerpt: "Anti-phishing attack startup PIXM Software Inc. today announced an expansion of its products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted and unknown phishing attacks on mobile devices."
+    publishedDateTime: 2022-05-25T10:00:00Z
+    webUrl: "https://siliconangle.com/2022/05/25/pixm-brings-computer-vision-phishing-protection-mobile-devices/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/pixm.png"
+        width: 829
+        height: 716
+        isCached: true
+
+secured: "AQ693GQ2DwJ3PBC/0kuaX5zbd4UgZHCOg+eJqXjtETp4TuqpF1yKYsaFp+IHFPT7uMTSUvR/sqgGJ7KwqGUDl02uNV2mGX+qK788JkwcAgWqRS3tX70VpHSuuHwvrhAqMUZux9ocOjxjqsJXJn8VqxoiJBoPtIg8tsLJGluRc0WD2mrZ6n2Uv3b6d2wO5oM++fouLfirHAE9kx8cj1FO+b42Z/0JQhVl8h8yaHExmxTxQNJw0PtCl2pLabnoUxguCYEspD3JXvXfMJP92rfgpl6eDRt3BhkCyHl+Xwr2XIQBp4teHVLxNGuWhaG6BzUxyBALvylFNi6oqLwqK6fviHRtHd9zxKpemrMGFx0Nv/I=;zpLDM9NCwli6cwIp8gMLEQ=="
 ---
 

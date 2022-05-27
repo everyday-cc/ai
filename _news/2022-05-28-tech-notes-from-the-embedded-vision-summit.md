@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-27T19:09:00Z
 originalUrl: "https://www.securityinfowatch.com/video-surveillance/article/21269346/tech-notes-from-the-embedded-vision-summit"
 webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21269346/tech-notes-from-the-embedded-vision-summit"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Security

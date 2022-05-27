@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "TigerGraph Unveils ML Workbench, Winners of Its ‘Graph For All Million Dollar Challenge’"
+    excerpt: "TigerGraph also says its ML Workbench is plug-and-play ready for Amazon SageMaker, Microsoft Azure ML, and Google Vertex AI. “Graph has proven to accelerate and improve ML learning and performance, but the learning curve to use the APIs and libraries to ..."
+    publishedDateTime: 2022-05-27T21:10:00Z
+    webUrl: "https://www.datanami.com/2022/05/27/tigergraph-unveils-ml-workbench-winners-of-its-graph-for-all-million-dollar-challenge/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 32
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/shutterstock_601297520.jpg"
+        width: 800
+        height: 522
+        isCached: true
 
 secured: "JDah3xVkJ2XamSqFyv7LwNL6/Vgir2jzIkCGBmWZwlNHgI0Ttq13G0/SIz9zQGuxrZCVNEpfkC48VA20cUuDHINHou8cUWZ7Y1mG6dB53PIx9RPMv8HchAGDFLOJ0Es75eYy0J3Wh3TtBKZbXYD7RwluaLp+zOcgFFs3k+ZIpU3X8WQ029LODA3LOeHxQMKFtMnP/bC7abqTg1hizvIIfluel/Uwh0YMdKBRsSoirCznr4lSvtmqDc5kYku0fImNoVQ3zG+HQSY1zIz8CqC5/9gsaWfph/t0U+gVw8sYG8+BSwAixGnlF8VmZW/8Gce1V2gyDOFx705hZejypjJkJZx8C/z4abj1FuVoeSYpeo7MG1GjgQVYUEUejDyVLVAOZTGegF1TMZnzV83X8vc5/Z2vdgYXrAGwMyfxhYp6ih3c4e2kyEkQLSH9CpcEPFrdsjpTgSPxpsGt6+Dbd3Gf2icpJ0B1qG9P4Pd1E0wHew8fJuu7TzTPSWt/UpP8yK9hEvEKDRWz+KsWmwTVltvacw==;W36RLh2YvtDE002TZbR08Q=="
 ---

@@ -25,35 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Firm ForwardAI and Fifo Capital to Enhance SMB Loan Underwriting Process"
-    excerpt: "ForwardAI, a Fintech providing aggregated access to accounting & business data and analysis, announced its partnership with Fifo Capital."
-    publishedDateTime: 2022-05-23T03:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/amp/"
+  - title: "Fintech launches in UK to help brokers cut out fraud"
+    excerpt: "ID Pal a Dublin founded fintech has launched across the UK to help brokers among other financial services professionals combat fraud"
+    publishedDateTime: 2022-05-23T10:18:00Z
+    webUrl: "https://www.ftadviser.com/mortgages/2022/05/23/fintech-launches-in-uk-to-help-brokers-cut-out-fraud/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
+      name: FTAdviser
+      domain: ftadviser.com
+    quality: 24
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg"
-        width: 1280
-        height: 1104
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F1%2F5%2F8%2F1%2F2881851-1-eng-GB%2Fid+pal.JPG%3Fv1?source=ftadviser"
+        width: 703
+        height: 428
         isCached: true
-  - title: "Railz to Unveil Visualization Tools for SMB Lenders at LendIt Fintech 2022"
-    excerpt: "Railz will be showcasing this solution at LendIt Fintech from May 25 to May 26 in New York City ... For more information, visit www.railz.ai."
-    publishedDateTime: 2022-05-25T17:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/railz-to-unveil-visualization-tools-for-smb-lenders-at-lendit-fintech-2022/article_b2182d94-c386-55b6-84d5-85093ed4adf2.html"
+  - title: "Fintech firm Three Wheels United raises $10 million"
+    excerpt: "Three Wheels will use the investment to scale its business in India and launch pilots in other emerging markets"
+    publishedDateTime: 2022-05-25T13:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-firm-three-wheels-united-raises-10-million/articleshow/91792626.cms"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
+      name: India Times
+      domain: indiatimes.com
+    quality: 19
+  - title: "CAT Financial Products Launch Active Fintech Value Investment Solution with Fintech Influencer"
+    excerpt: "In a partnership with CAT Financial Products AG (CATFP), he gives investors the chance to invest diversified and in a simple way in the global Fintech companies that not only have huge growth potential in the future,"
+    publishedDateTime: 2022-05-27T05:54:00Z
+    webUrl: "https://fintechnews.ch/roboadvisor_onlinewealth/cat-financial-products-launch-active-fintech-value-investment-solution-with-fintech-influencer/53040/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 12
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/05/Spiros-Margaris-and-CAT-Financial-Products-Launch-First-Active-Fintech-Value-Investment-Solution.jpg?x30842"
+        width: 2048
+        height: 1136
         isCached: true
 
 secured: "gsHtV3x8CQlOokLCZ6ZvMWaPcgs77uhXE24jwmDJT9d0KxUm+tJ98EU7MugOlz7zam4Dk+e5Zii7GE8HDb64WVWxO8ARZBjQuHlW60osHUgoMWcLQRbkHuD+9ng/hSTtCmsQd6MqoTqxRfX6JmfebnUqArGei0Lg1sX7wsWNcRLqXrvrJ0AycSZfwFoMMxxk1arxHAHlVuQaxg38ngkg4wndwzWF21IBcQ4OwW7FfCjUgHokXu8eRkFZCSe6pl5deubUROMmF9pTUlq3w++3JlkYTEGOz3zXK6v3vE+r4co/FgQTxbjoJbhiviRCd9nFW59acUcfS5ezH7pRhInjQGeXDb+mFWrQU1Ow35RzxGQ=;GdviQ1DZpej9h2Xb4Cbs0A=="

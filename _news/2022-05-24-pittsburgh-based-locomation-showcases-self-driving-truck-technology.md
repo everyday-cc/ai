@@ -24,6 +24,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "U.S. Army Artificial Intelligence Unit Relocates in Pittsburgh"
+    excerpt: "An Army artificial intelligence unit is moving into about 13,000 square feet of space leased by Pittsburgh’s Carnegie Mellon University at Bakery Office Two, according to real estate sources."
+    publishedDateTime: 2022-05-27T18:13:00Z
+    webUrl: "https://www.govtech.com/products/u-s-army-artificial-intelligence-unit-relocates-in-pittsburgh"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
+
 secured: "LCaw4WjBDak9py4wM0VpqhV8nCcV3KM5/aBAFZJs37gLgTO1uEntdvkoa6G7FiHh9gaR+rRI/daLfOZkXsjhwXnslKXbcWL/383R3IRXGmNlMu8pommQV/X24fwOkFhAA/HQZ8c4PAIkQyheQ+VcmkgZ22SzqDSOTkEJKZP4EGyZ2DkgTWW2W3h5oTqHBkt+HMCnGHFgjZhC2xpCoXV1p1h3HK7ZpY0BzT1GcuVOY/CFd+wRuYLNaxNKfCoNgBknZV+FS5wsSiIQV0jiVd/cIAhjae54C9r/dpplz0H04kmsIL+/OWE5K+k4HELxBKSzdysnNrxCquqLLJBn+7HX5ACdlBffWA9B+ELQ9oiBYUZbjKIxfniRxqPvHIuSIxpmZFWonvkQYiWSRmmZzSuI98PZ/kinlzU6bCULaOVcCSuFH7UoW6e74/8Zcik3d8S85bF8tb2jly48j/IvYvphrOLekwNoQ6JrWTjS67bbC/peUxsWbYzREyafBohY71bgEZ9sJf1d+xFWVkjDKCng2g==;hVIBz58h7/q7WO+GAxWnsQ=="
 ---
 
