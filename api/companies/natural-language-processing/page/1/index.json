@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 89362
+        "followers": 89375
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -123,7 +123,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 24899
+        "followers": 24900
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -285,7 +285,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 12891
+        "followers": 12893
       },
       "yearFounded": 0,
       "locations": [
@@ -303,7 +303,7 @@
           "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
         }
       ],
-      "heat": 78,
+      "heat": 77,
       "tags": [
         "Natural Language Generation"
       ],
@@ -758,7 +758,7 @@
       "twitter": {
         "username": "lilthq",
         "url": "https://twitter.com/lilthq",
-        "followers": 5748
+        "followers": 5749
       },
       "size": "2-10 employees",
       "yearFounded": 2015,

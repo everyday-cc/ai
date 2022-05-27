@@ -337,12 +337,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/deepl/</loc>
-    <lastmod>2022-05-23T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/company/aera-technology/</loc>
     <lastmod>2022-05-23T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -356,6 +350,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/arterys/</loc>
+    <lastmod>2022-05-23T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/deepl/</loc>
     <lastmod>2022-05-23T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
