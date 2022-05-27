@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Lessons Learned About AI From A Healthcare Technology Startup Leader"
