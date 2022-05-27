@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-explo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Marketing Market to..."
+    excerpt: "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ..."
+    publishedDateTime: 2022-05-27T07:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27435408"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "AI Behavior Health Chatbot App Fast-Tracked by FDA"
     excerpt: "Cognitive-behavioral therapy is a type of psychological treatment based ... The worldwide market for artificial intelligence in healthcare is expected to grow at a compound annual growth rate (CAGR) of 38.4 percent from 2022 to 2030 to reach USD 308.2 ..."
     publishedDateTime: 2022-05-26T20:36:00Z

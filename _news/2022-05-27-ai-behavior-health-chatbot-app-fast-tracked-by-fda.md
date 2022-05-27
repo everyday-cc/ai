@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial Intelligence in Marketing Market to..."
+    excerpt: "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ..."
+    publishedDateTime: 2022-05-27T07:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27435408"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Exclusive: US tech investing giant Tiger Global leads $14 million Series A round into AI chatbot startup Zowie"
     excerpt: "The startup aims to transform customer queries into sales for ecommerce sites and counts L'Oreal and Avon among its customers."
     publishedDateTime: 2022-05-24T10:27:00Z

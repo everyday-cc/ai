@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "Top 8 predictive analytics tools compared"
+    excerpt: "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot."
+    publishedDateTime: 2022-05-25T17:57:00Z
+    webUrl: "https://www.cio.com/article/193743/top-tools-for-predictive-analytics.html"
+    ampWebUrl: "https://www.cio.com/article/193743/top-tools-for-predictive-analytics.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/193743/top-tools-for-predictive-analytics.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 44
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/05/prediction_predict-the-future_crystal-ball_hand-holding-crystal-ball_by-arthur-ogleznev-via-unsplash-100811997-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Strategy Analytics: US Self-monitored Security Market to Reach $5.3B in 2027"
+    excerpt: "All US Households with Security Will Be Self-monitored by 2027BOSTON--(BUSINESS WIRE)--Consumers’ price sensitivity and a wide range of offerings from well-known security brands such as ADT and Brinks as well as Amazon’s Ring,"
+    publishedDateTime: 2022-05-25T11:58:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=669601"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 38
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "CNA brings data into the cloud, uses AI for predictive analytics"
     excerpt: "He joined CNA in fall 2021 after 13 years as CEO of Catalina’s U.S. and Bermuda units. At CNA, Haase’s greatest concern is better managing the wealth of data the company has from its long history in the insurance business,"
     publishedDateTime: 2022-05-25T10:30:00Z
@@ -52,19 +82,19 @@ related:
         width: 2560
         height: 1710
         isCached: true
-  - title: "ThetaRay Wins \"AML Solution Provider of the Year Award\" at Dubai's Middle East Banking AI & Analytics Summit 2022"
-    excerpt: "ThetaRay, a leading fintech providing AI-powered transaction monitoring technology, today announced it was named winner of the \"AML"
-    publishedDateTime: 2022-05-25T15:29:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/thetaray-wins-aml-solution-provider-of-the-year-award-at-dubai-s-middle-east-banking-ai-amp-analytics-summit-2022-866943029.html"
+  - title: "CallMiner Named a Leader in the 2022 SPARK MatrixTM for Speech Analytics Report"
+    excerpt: "CallMiner, the leading provider of conversation intelligence to drive business improvement, announced today that it has been named a top performer and market leader in the 2022 SPARK Matrix for Speech Analytics by Quadrant Knowledge Solutions."
+    publishedDateTime: 2022-05-25T12:32:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-waltham-c6f5e7440569433da3f3606a209a5425"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 33
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
     images:
-      - url: "https://mma.prnewswire.com/media/1825414/Middle_Eastern_Banking_2022.jpg?p=facebook"
-        width: 2047
-        height: 1072
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Professor earns Fulbright U.S. Scholar award to study data analytics and AI in healthcare in Morocco"
     excerpt: "Rachida Fachtal Parks, associate professor of computer information systems at Quinnipiac, earned a Fulbright U.S. Scholar award and will travel to Morocco this fall to study data analytics and artificial intelligence (AI) and explore how they are used to improve quality and safety in healthcare."
@@ -75,6 +105,20 @@ related:
       name: Quinnipiac University
       domain: qu.edu
     quality: 19
+  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
+    excerpt: "Corelight, the leader in open network detection and response (NDR), today announced Corelight Investigator, a SaaS-based solution that extends the power of open-source driven network evidence to SOC teams everywhere."
+    publishedDateTime: 2022-05-25T13:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9609246.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/1029859/corelight_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
     excerpt: "In a preemptive effort to trigger post-war capital inflow into UkraineLONDON--(BUSINESS WIRE)--Deep Knowledge Analytics (DKA), the flagship subsidiary of Deep Knowledge Group (DKG), today announced the launch of the beta version of a data analytics platform that aims to attract $1 billion in AI and DeepTech investments to Ukraine over a foreseeable period of time."
     publishedDateTime: 2022-05-24T19:48:00Z

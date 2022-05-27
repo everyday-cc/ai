@@ -2,26 +2,26 @@
 category: news
 title: "Remote-controlled crab-like robot is the smallest ever, university says"
 excerpt: "Engineers at Northwestern University in Evanston, Ill., announced they have created what they believe is \"the smallest-ever remote-controlled walking robot.\"   The robot resembles a tiny crab and measures just a half-millimeter wide."
-publishedDateTime: 2022-05-26T20:43:00Z
-originalUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
-webUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
-ampWebUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
-cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
+publishedDateTime: 2022-05-26T20:10:00Z
+originalUrl: "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
+webUrl: "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
+ampWebUrl: "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
+cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Fox 9
-  domain: fox9.com
+  name: FOX 10 Phoenix
+  domain: fox10phoenix.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -98,6 +98,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "dszoCyGySau2jVc+rJiaddp5T2dUWZ2S/pDpBxDyO77hmV1n02m8RL8IWBXIXlBlCrv4jct+hjhf31vJuRaGE64xqGOn6z0kzxrn/RGfPWFcaisDWYU+4j9wa17c0LSH+EErZi4O69/KSfrnB4Tcb7hevio8FSYE/a+MpwNjHyu38uajsYyk9ODQvZ4r49E/DKjIdv0mSDVNg2scKYBfVpOxZl4N+ZUEMHDsCTkLIlX+3/G0vuYzIElr54ioCm1vXm49Ty3WcNBWg1Gf5Jfe82FAHROEtDMBoB54UAWvs8FhiRoh0gyv4zjLBgig9RA9UzMKztnJJ0IRuJ/1Pq/vxoOqSeHc7l877DbIBwcWQKlqthtZivlTztiAT4I02VvDtQ+1gg2h98ECeeF6+FD5k5he66X7sP2bZR87zN4x5poMy402fB153mwBskZMpRboFGjNhPTugWQF4u2UeEwPl/ccRf4528TG9szSlSdUDxUgz0AH3JltypKUmB6CWvibZo8jocFugV5Vluk3Z8sh7Q==;4MUD0SMaUuCK3EWlVmIXrA=="
+secured: "6cmepFmEvTbXkxsJ63XCc48kztPgXFboALTMN6a/dbtsen5y+biLVx3ithZqRRr5GN6jjlx3ivqt3zoEcBYTVyzf33QvEW1xB0z/EDH6+DQJ/LMcXlRXONbcOAz81Pifr6K2JrKBoUV8TscE3mFKQbPiK3au1RSsjFZ8nzR6ajcm4r9ZN53DBNSSqq1HX5Ok/WG5MpKonWyDiAv7bx9ozVnomzpK78bhRRPRMA4Ia/u4bauYhoOgKLrglHs4mu6kWRsAbQ+sYvpBxfv2QOr2Fvf8nsF2r/iCsMOCMk6qKFrFwoelu8uwZ5XdoA9fWwAmo+v21UCD5FJvwf/jl+oL1eGM3ahyqMmBTnDjkCjvObw=;myrNIE6EKYd2E6VBgi12kA=="
 ---
 

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "New Studies At ASCO 2022 Validate Effectiveness Of Lunit AI As Diagnostic Aid In Cancer Treatment'"
-excerpt: "Lunit to showcase 7 poster presentations and 4 online publications, the company's largest publication set at ASCO to date   Findi"
-publishedDateTime: 2022-05-27T05:50:00Z
-originalUrl: "https://menafn.com/1104279745/New-Studies-At-ASCO-2022-Validate-Effectiveness-Of-Lunit-AI-As-Diagnostic-Aid-In-Cancer-Treatment"
-webUrl: "https://menafn.com/1104279745/New-Studies-At-ASCO-2022-Validate-Effectiveness-Of-Lunit-AI-As-Diagnostic-Aid-In-Cancer-Treatment"
+title: "New Studies at ASCO 2022 Validate Effectiveness of Lunit AI as Diagnostic Aid in Cancer Treatment"
+excerpt: "Lunit to showcase 7 poster presentations and 4 online publications, the company's largest publication set at ASCO to date Findings demonstrate the practical effectiveness of Lunit's AI solutions in the pathological assessment of tumors across more than 16 ..."
+publishedDateTime: 2022-05-27T01:07:00Z
+originalUrl: "https://www.wivb.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/"
+webUrl: "https://www.wivb.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/"
 type: article
-quality: 23
-heat: 23
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: WIVB-TV
+  domain: wivb.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-05/26/PN_0832cc87-5_Image_In_Body.jpg"
+  - url: "https://mma.prnewswire.com/media/1827316/Lunit_SCOPE_IO.jpg"
     width: 400
     height: 294
     isCached: true
 
-secured: "ZShVwb/1lFqLlEV9RAXdVK1eVrIXCppt1MuONs+nRXfYveyLuSLtKYXRRh0xPGwsAKXZ7ViEzjHTdo83Ll5wNIM3ZemMPNm6K6YDj3TjVbgR+qfTsAM8UesAErG1/EWJgBM9Ks1lX9LhA6OfKdbOsE7bTvTvl5CYRmAlbcZMDhS4mNhid+UfWrMl6diIWHOYv7Q05qFSFTtUFSYLdI1/iz5Lmyp+ZDlKNHuoO3J6yzsmCwXs/bQSLuq3wX4nt9ydpmwuEa7Fgt759SarRoJz92R4S7Bh6YSuJiTe8RD3CfLxjdK7KBJHukXmhdrsoJ0NtV/1OjW3k1pjs4X5sNMsfWovqRcnjJV43G9d3Wkaylk=;c+pOAbqq8h6khDy9cEMsvw=="
+secured: "eTInFldtQOCB+2XqAPnZpwxrhCpWFGSjCNFF8a6Wiyf6WKI81VoPzgxzuCCU1QMKxfvY0tkQuL4RrgRP5F+mjyIGlr+WElEaOUtHrMiIL1zqckf3+LNSWADpopeGkE5CtzkD6EwR3y/jE82b2Jj/gNIJG653JOe6qPDnvTv+o407iak8IKVd6OCFW3BSsuuJg/GiohnfLjAzm44ED8CFtzxH0+zEuAmxMThTxjBetLjAdE8jRX0P1eTajW4kqmHmF2/+Psh1gh2UOxWv7Urx8znMD/+plk0AXhJ+J1KaOp13Ro4ervssFQiAl9gQeR3rmQIaEmKFogRH64r2bpeaYoyo9JuV7PV6Y/3cQdr8N3Q=;m6gTeXQH0NrJN2S0fpT5uA=="
 ---
 
