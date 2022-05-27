@@ -24,30 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "How To Make AI Marketing Initiatives Actually Deliver"
-    excerpt: "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice."
-    publishedDateTime: 2022-05-24T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/"
+  - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
+    excerpt: "Today's world of work is moving fast, and the most successful leaders have a laser focus on the future, one in which change is constant and inevitable. And as technology and automation continue to transform the way we work,"
+    publishedDateTime: 2022-05-26T13:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/426406"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Toggle AI Launches Reimbursement Initiative with Interactive Brokers"
-    excerpt: "Toggle AI, a fintech company, said on Tuesday that it launched an initiative with Interactive Brokers that enables their customers to trade commission-free."
-    publishedDateTime: 2022-05-24T23:48:00Z
-    webUrl: "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/"
-    ampWebUrl: "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://images.financemagnates.com/static/article-default-image.jpg"
-        width: 770
-        height: 428
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1652821115-GettyImages-454204749.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "UAE's MBZUAI, IBM to advance AI research with new centre of excellence"
+    excerpt: "The collaboration aims to provide real-life applications that seek to further climate and sustainability goals"
+    publishedDateTime: 2022-05-26T06:54:00Z
+    webUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence"
+    ampWebUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 57
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=ef3c06e2-34f8-56e8-8f82-798a2e72e612&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "IBM and MBZUAI join forces to advance AI research with new center of excellence"
+    excerpt: "Natural Language Processing (NLP) including Arabic, AI applications in the healthcare industry, and sustainability ABU DHABI, United Arab Emirates, May 25, 2022 /PRNewswire/ -- Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)—the world's first graduate,"
+    publishedDateTime: 2022-05-25T21:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=669541"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 33
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "f2h3YtB2yytPFsbJ4JJ0HhIbf5b0SGiswzy17u5kftwoAWQzXrzsm/ePd/yLvWS9SYl+aOr8Qkfo7N4Pz2bZp5o39blM6R2jc99IwtHi5xaZiSxdm/1hnOr6LCErvrmh1i3n0ZHLtlSWITAMcFBm/eho42q6/ceUH1Ng4oxyPzBcbfIwr2Z2NCI3h8kAI4rKaLPd1enmFsSe9IuywOc/lKkwOVeUW0j3p7ATa/LMv2V5M1lGR/uAuTu1vkjW3LRKXmFeLa2A8X2jFXPB76VFd8uBctZbqau6XJ51O1Tik4qqRipoW17MzDhe2vPjVMGCyGr4k7ggeMuWWMb4VtNABq6r80Af2gI7bF3xSaHl4UM=;/wnTTJADV+bh0QrRCqtkHg=="

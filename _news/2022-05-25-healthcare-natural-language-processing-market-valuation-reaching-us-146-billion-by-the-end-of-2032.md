@@ -54,6 +54,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
+  - title: "Industrial Robotics Market to Garner US$ 16,847.6 million , Globally, by 2025 at 14.2% CAGR: The Insight Partners"
+    excerpt: "According to our latest market study on “Industrial Robotics Market Forecast to 2025 – Global Analysis – by Types, Function, and Industry,” the industrial"
+    publishedDateTime: 2022-05-27T15:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-to-garner-us-16847-6-million-globally-by-2025-at-14-2-cagr-the-insight-partners"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/7f4ec9939f599f648f7fa42abc737a63581e8ed8-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "D7mz9anPBcEXm3FEggU21AnQWPISyDT9A96C4MBxmyZaKXEw8de4snbq0xjtjogo+rsfIHl137KIC7Kb28QO6fc8DyrdKzi8nCyb4EZonv3z1pICvoM1ypiWRiGCX1GtXj06X9WeNMxB8aG7gtH1B5yJloyy0n6Fm9W3kPkwJca6Cg5Oay7Kgj/Z2jyNqFzSOSK6ICKNgfoynmTLZ5w24Uk/tiH5iSyoJWbGcS/6Slh81XCcTtQTgusUSY+YDMnf1d8S0YazYPfHEU6IBjPzEk387Yi1p/pqdjk1DducLsgLnKy9m4J5qJnjXgGJOteNrU68U+11Lh0WbI0uFbVdnzAC7aEpWyj1hW0/Jrkj0NE=;LYwxxl3AmZ+wyv6hgV6DjA=="
 ---

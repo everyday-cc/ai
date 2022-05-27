@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
 excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
 publishedDateTime: 2022-05-26T18:14:00Z
-originalUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
-webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+originalUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
+webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
 type: article
 quality: 52
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: visualstudiomagazine.com
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
@@ -153,6 +153,17 @@ related:
         width: 894
         height: 534
         isCached: true
+  - title: "Microsoft (MSFT) Azure Selected by Meta to Boost AI Innovation"
+    excerpt: "Thus, using Azure will enable Meta with faster distributed AI training. The Meta- Microsoft collaboration ... learning workloads compared with the company’s last-generation chips — AWS Graviton2 processors. While C7g instances offer enhanced ..."
+    publishedDateTime: 2022-05-27T15:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 101
   - title: "Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability"
     excerpt: "The post Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability appeared first on The AI Blog.\n"
     publishedDateTime: 2022-05-24T15:00:16Z
@@ -374,6 +385,20 @@ related:
         width: 420
         height: 280
         isCached: true
+  - title: "Microsoft and Meta expand their AI partnership"
+    excerpt: "Meta notices how Microsoft keeps expanding its AI services on platforms like Azure. Microsoft and Meta announced the ONNX (Open Neural Network Exchange)"
+    publishedDateTime: 2022-05-27T13:45:00Z
+    webUrl: "https://www.techzine.eu/news/collaboration/79896/microsoft-and-meta-expand-their-ai-partnership/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 56
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/ian-haynes-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Hugging Face Endpoints launched on Microsoft Azure"
     excerpt: "Hugging Face has announced a partnership with Microsoft to democratise machine learning through open source collaboration and make the Hugging Face machine learning platform accessible to Microsoft Azure customers."
     publishedDateTime: 2022-05-24T15:08:00Z
@@ -527,6 +552,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "6SJameNams88weawUlZ2xe7EGkIRrr/pm9GzhtTE68wzVlWGBqsQD+UYosbXblmb5/fJn8t2eNiIHh8Mh4SuzwwYEhdLPyq1NPpWQ5v1S3ONhCUL0ItvbG29CUZ7q6xQdFXuQGmN2+ty/NfAtVxhpW6Wv1Cfh9UXyCma/ZcZ4I7mMy1ukRgeCM6sAT70id6OP++E4ElT9ebaSy6guE1zrN7eyThLLf7D1n8y3xLwol4zREqXSNlcBhjeyO6cy7L1x9mwIWLgyCH6mch6aHl0MuL5D3qGcqNIbFijy/llV20NfIS+WpN/VGBznopyBIMyt5HnXWnFRB0SkatfIxZzXw9SZuLhVfN6sGjc4WFMWPDB2aKLA2ix1L+EMYU2Kh1YSorH1Outvqxab6ags8tTGmtTohkok6m9gy0XuqZsQ2sICSrvT5kHzw+JS64yX3Vo7iv82kVTQxtR4pNlwKDQ3k77f0SJb1sMZudphvfia4/P3Ayk7kVoIUWSbJQDk+EyfFinNds1C/OkMDY0pXOLwA==;tXfnJUpZ2fLHtLoyLZ5cdw=="
+secured: "rA2nEwkOZZlU21RB1oIXo4or+xw47xvBS1sEu2wukTSD0LZRMklZODQWSyi+4WtuAjpMTOur8Vk92AVLAE2e9/zfD9U0iEV4HqQJnxrS2wkP0KXRQpVVkqUU0zH7Q/t9QK62TmNMYNSGktKaz1SyToNYjOrVYAcbYVhR8WrdUqhJFx9bApi65x60/pnGK8Ng60ngLYGYBIh8w5qxGnHr5hDwWoUuV31yUANaH4buJ08Omgb09CxcWAlY9zR+VfU13wNt7QPX1DJYyftXSodKUKXwvTG1Vt5Ov3RUxjajgLIgniGQt5TwGmSfp8nntubeOs1YPGS2Bb6CBhoOuhv0OI3CIyL4rlbIeQqLL+jEJrk=;9HbE+wrMCrFSp/iiFVBrEw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/is-california-still-investigating-teslas-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -70,22 +70,6 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-ponyai.jpg"
         width: 770
         height: 500
-        isCached: true
-  - title: "Elon Musk Explores The Limits Of Tesla’s ‘Self-Driving’ Technology"
-    excerpt: "“Crash Course” includes interviews with various regulators as well as former Tesla employees, such as software engineer Raven Jiang, who make the points that self-driving technology was seen ..."
-    publishedDateTime: 2022-05-22T22:29:00Z
-    webUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/"
-    ampWebUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
-    cdnAmpWebUrl: "https://tampa-cbslocal-com.cdn.ampproject.org/c/s/tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
-    type: article
-    provider:
-      name: CBS Tampa
-      domain: cbslocal.com
-    quality: 59
-    images:
-      - url: "https://tampa.cbslocal.com/wp-content/uploads/sites/15909843/2022/05/hypatia-h_95e1fbe11735d97d17c67c941570c5c6-h_296a49084dcbd41e3bcf9362b22c1e27.jpg?w=1024&h=576&crop=1"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Tesla to soon have self-driving cars without need for human drivers: Musk"
     excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the need for human drivers,"

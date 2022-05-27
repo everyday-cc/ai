@@ -43,6 +43,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Artificial Intelligence to Make Roads in India Safer to Drive"
+    excerpt: "Artificial Intelligence (AI) can soon make roads safer to drive in India, reveals a new study. A unique AI approach that uses the predictive power of AI to identify risks on the road, and a collision alert system to communicate timely alerts to drivers,"
+    publishedDateTime: 2022-05-27T13:56:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/accident.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Minus Zero wants to be the first to bring self-driving cars to India"
     excerpt: "While Tesla is yet to enable its own autonomous self-driving features in their cars, Minus Zero may bring the technology to India as early as next year. The Bengaluru-based startup was able to raise $1."
     publishedDateTime: 2022-05-24T03:15:00Z
@@ -57,6 +73,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Download: Driverless cars’ AI plan, and stretching cells with a robotic shoulder"
+    excerpt: "This was the first time that reinforcement learning—an AI technique that trains a neural network to perform a task via trial and error—had been used to teach a car to drive from scratch on a real road."
+    publishedDateTime: 2022-05-27T12:31:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/27/1052833/download-driverless-cars-ai-stretching-cells-tendon-robotic-shoulder/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/27/1052833/download-driverless-cars-ai-stretching-cells-tendon-robotic-shoulder/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/27/1052833/download-driverless-cars-ai-stretching-cells-tendon-robotic-shoulder/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 47
   - title: "AI To Make Roads In India Safer To Drive"
     excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"
     publishedDateTime: 2022-05-24T11:58:00Z

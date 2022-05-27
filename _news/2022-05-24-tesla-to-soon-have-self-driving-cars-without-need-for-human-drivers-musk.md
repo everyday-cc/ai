@@ -87,22 +87,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Elon Musk Explores The Limits Of Tesla’s ‘Self-Driving’ Technology"
-    excerpt: "“Crash Course” includes interviews with various regulators as well as former Tesla employees, such as software engineer Raven Jiang, who make the points that self-driving technology was seen ..."
-    publishedDateTime: 2022-05-22T22:29:00Z
-    webUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/"
-    ampWebUrl: "https://tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
-    cdnAmpWebUrl: "https://tampa-cbslocal-com.cdn.ampproject.org/c/s/tampa.cbslocal.com/2022/05/22/elon-musk-explores-the-limits-of-teslas-self-driving-technology/?amp"
-    type: article
-    provider:
-      name: CBS Tampa
-      domain: cbslocal.com
-    quality: 59
-    images:
-      - url: "https://tampa.cbslocal.com/wp-content/uploads/sites/15909843/2022/05/hypatia-h_95e1fbe11735d97d17c67c941570c5c6-h_296a49084dcbd41e3bcf9362b22c1e27.jpg?w=1024&h=576&crop=1"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tesla to soon have self-driving cars without need for human drivers: Elon Musk"
     excerpt: "As per the report, Musk has been claiming that Tesla will have 1 million robotaxis on the road by the end of the year since 2020. Recently, Electrek reported that Musk changed Tesla's 1 million robotaxis by end of the year goal to a1 million people in Full Self-Driving (FSD) Beta,"
     publishedDateTime: 2022-05-24T06:30:00Z

@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Remarkable science: Exploring our AI and robot-supported future"
-excerpt: "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,"
-publishedDateTime: 2022-05-24T20:03:00Z
-originalUrl: "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future"
-webUrl: "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future"
+excerpt: "On the public misconceptions about the future of AI and robotics DANIELA RUS: “Let me say that when I usually tell people what I do, I get one of two reactions. So some people start making jokes about Skynet and ask me when their jobs will go away."
+publishedDateTime: 2022-05-25T03:39:00Z
+originalUrl: "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future"
+webUrl: "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: WLRN
+  domain: wlrn.org
 
 topics:
-  - Facebook AI
-  - AI
   - AI in Robotics
+  - AI
 
-secured: "4JzLPDYR2/fm7a6mv1Y0edPgWvwz9tEwyNcjn4pj6kGDqI4oKSHxgcjkwZdv7plc1oYX+xBXSAiR9EKuzIp1/9mYbOqMhe300TpcnWofB5V1bhA/XmmD7frU+xzfV2XYacLo3s804VpGZwws6u4hYIr0IzrLU/8pBSyw6LpWDyU51XCZyF1bMZaE7QtVUOjsYuEyFZxnBI9s1JSaoH//vi2TypsBE7ApS8/uBF5PYZ2O1Elv+BP/pADpYWKe3dDfSWhobJr8UChy6MYeGA6pN+oWphv38pfYIGvMzSzeqfJeiDGWrACXw+fKPMGh86apAA4BBeBn/Hn8g1y0O7XlR5aZfgu9O83Npdy1Fj6vl92BOjuHTrWOscGajNM77g2kYb7tDMza9oa+9cDhGBtMIW7HC+gXI7NRyvLRyzqfQagcfgKA0hdVfOyXX/GvxCbmRg/e2W4aRbcv9xfu5SjMibrTtXhS8nuQ3UdETeNB/t9Mwb+7x4Du0v4qA8AGo2Ook4TDPMbTIDYRrK0+UwD7hw==;A7IqgnAyAkE3Y9K94VJJng=="
+images:
+  - url: "https://npr.brightspotcdn.com/dims4/default/db60692/2147483647/strip/true/crop/2830x1486+0+290/resize/1200x630!/quality/90/?url=https%3A%2F%2Fd279m997dpfwgl.cloudfront.net%2Fwp%2F2022%2F05%2FGettyImages-1231248517.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "odG3vF24U2xHtfXB9ZCX1yIX0HJYJViGvt7pa66TY9R+hEcbgFYkfqzlEyuCpYFomtMSjnB1tX1R+MQmt6vxRgNBJbjVMXNyDPXjtYRmfXZO8GyLfbOSeOyU2n+EfJdbV1V5ZZp7UgCSDjx4GrMd6m/tGrjpQnt14aIiZisEK+OChLZNQxKlzlOAAHfUr67CfcAXbDo1ZArC3VoN2bhI9zcuovJhkpQ4keFvqdqMSVoF3ECdiHoRrujjFTW/k3p8FaYose+5pYF4IlhgFgCTp+evBvZWLE3XHijMLDWtnc6hSeJPohPKuGFfU/F9ICdL6X/2Tc19xCzTPpywLCrwS264YDrhqhozCDUx8yv4tuA=;XG/gVOOMmS7rsd1l7/CMqg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/baidu-bidu-earnings-revenue-clo
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-bidu-earnings-revenue-cloud-51653558724"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Barron's
@@ -27,19 +27,14 @@ images:
 
 related:
   - title: "Baidu exceeds revenue estimates on AI, cloud services strength"
-    excerpt: "Baidu Inc surpassed quarterly revenue estimates on Thursday as a resurgence of COVID-19 in China and accompanying restrictions drove up demand for its cloud and artificial intelligence products."
-    publishedDateTime: 2022-05-26T07:38:00Z
-    webUrl: "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/"
+    excerpt: "Baidu Inc BIDU.O surpassed quarterly revenue estimates on Thursday as a resurgence of COVID-19 in China and accompanying restrictions"
+    publishedDateTime: 2022-05-26T08:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-exceeds-revenue-estimates-on-ai-cloud-services-strength"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/bt56uaK0VeprSa4dkcOzpiHOTlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6AZP3TMSZFJ65FSRIOARA2MSEQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "Baidu Sales Rise After AI Push Helps Offset China Slowdown"
     excerpt: "Baidu Inc. posted a surprise revenue rise after efforts to expand in areas such as cloud computing and autonomous driving offset weak ad sales in China. Shares of Baidu jumped 5% while its Netflix-style streaming affiliate iQiyi Inc."
     publishedDateTime: 2022-05-26T19:55:00Z

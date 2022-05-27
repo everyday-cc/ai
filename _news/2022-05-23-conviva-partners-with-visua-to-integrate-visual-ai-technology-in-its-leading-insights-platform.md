@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 603
         isCached: true
+  - title: "When graduates meet AI interview"
+    excerpt: "This is not a scene from a Hollywood sci-fi movie, but an increasingly popular type of online job interview among many large companies in China. In this type of \"smart\" interviewing, job seekers need to face a robot-interviewer that will evaluate the interviewees' answers through recorded videos."
+    publishedDateTime: 2022-05-27T13:28:00Z
+    webUrl: "https://www.globaltimes.cn/page/202205/1266726.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 39
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-05-27/04143cc7-2bd0-4e3a-bec3-1a250f689a86.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Iterate.ai Wins Intellyx 2022 Digital Innovator Award"
     excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced that Intellyx, an analyst and advisory firm helping business executives and IT leaders untangle the technologies and practices behind digital transformation,"
     publishedDateTime: 2022-05-26T17:51:00Z
@@ -55,19 +69,14 @@ related:
         height: 330
         isCached: true
   - title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
-    excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced the launch and availability of Interplay 7, code-named “Spirit."
-    publishedDateTime: 2022-05-24T17:37:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-8cb31a903be9c442c44450cdbd230729"
+    excerpt: "Data scientists can send trained data created in Interplay 7 for processing in Amazon SageMaker or Google Vertex AI, or can process data in Interplay itself. Building web and mobile applications ..."
+    publishedDateTime: 2022-05-24T18:33:00Z
+    webUrl: "https://fox8.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 1
 
 secured: "x9JSOh99JtuCra0YjR+dEP5ET2twmq2lEGfOgVvA/HPHjr0fBsYzfLOkW6e1NWPp86cMyTI7oPclj7Q3Rp8i1VqAlb/rmd9OKptD3fbiSxOs9YqG0wwqzUagaao+YucjIvwSXO1QAtd4ASvbdXRIUQRO2izziJaaiNDDdDcV3lMvgxVDQT3kOhIfVKQSpiKBzZ+ydCyS4WPPmGYSTVbkNJRq+rWHR5OQs6RWZH2SIfpAbrxq3WrCwvynhexF0oHCCIyezLDa/xhmFnVoK/pbWC0Pp6r5HNipA0X+h2v2+6aDjOdxzh9pBj2B7f1TTpRu/4flkmo5aI51mclPMRWPNtRiL8CIO5H7B2EpWLnTnWg=;putsudFDIss5UX06r0KDzA=="
 ---

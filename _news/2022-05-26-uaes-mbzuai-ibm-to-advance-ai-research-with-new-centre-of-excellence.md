@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
 type: article
 quality: 57
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Khaleej Times
@@ -26,33 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and MBZUAI sign agreement to advance AI research with new centre"
-    excerpt: "The centre will leverage the talents of IBM researchers and MBZUAI faculty and students and will focus on the advancement of applied research objectives."
-    publishedDateTime: 2022-05-26T05:53:00Z
-    webUrl: "https://gulfbusiness.com/ibm-and-mbzuai-sign-agreement-to-advance-ai-research-with-new-centre/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 37
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2022/05/MBZUAI-IBM-MOU-Signing-Image.jpg"
-        width: 930
-        height: 600
-        isCached: true
   - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
-    excerpt: "In a time when the pace of change is accelerating, the presence of creative excellence for businesses is crucial for success. However, it is easier said than done. Creative excellence with humans alone has its setbacks,"
-    publishedDateTime: 2022-05-26T13:36:00Z
-    webUrl: "https://www.chron.com/business/article/Top-7-Ways-to-Cultivate-Creative-Excellence-with-17200357.php"
+    excerpt: "Today's world of work is moving fast, and the most successful leaders have a laser focus on the future, one in which change is constant and inevitable. And as technology and automation continue to transform the way we work,"
+    publishedDateTime: 2022-05-26T13:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/426406"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://s.hdnux.com/photos/01/25/73/22/22525110/3/rawImage.jpg"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1652821115-GettyImages-454204749.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers"
+    excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE’s award-winning investment platform who are clients of Interactive Brokers,"
+    publishedDateTime: 2022-05-24T12:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-273554afe13b452089e25da0602b2ec2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "IBM and MBZUAI join forces to advance AI research with new center of excellence"
     excerpt: "Natural Language Processing (NLP) including Arabic, AI applications in the healthcare industry, and sustainability ABU DHABI, United Arab Emirates, May 25, 2022 /PRNewswire/ -- Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)—the world's first graduate,"
@@ -68,15 +68,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "IBM, MBZUAI join forces to accelerate AI breakthroughs"
-    excerpt: "Natural Language Processing (NLP) including Arabic, AI applications in the healthcare industry, and sustainability. IBM, MBZUAI join forces to accelerate AI breakthroughs. AI, Artificial Intelligence,"
-    publishedDateTime: 2022-05-26T09:11:00Z
-    webUrl: "https://www.itp.net/emergent-tech/ibm-mbzuai-join-forces-to-accelerate-ai-breakthroughs"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
 
 secured: "JopoaQUsHYb2K3ljyu83fRj+UvHE+QBrx3iQPOHwb0tL4iXy9bWdsvq6jbrYFgjSh2GxnJavpdQUY08vZ3Z5ZhHRehkMMoZwo0GwzXj7RPr1mGqZVqvvoeUz4wzklqUQBmNRYB6YhngI8Gdo8pdUWxaDgokiMqNDVbNoG72AkM2AQY8Khl/JYhdTTKAD4A3nHpQ0N5TQKwuqXZmHBbfs1WUxjTgUlxPOWYE+RUuMko5UGStkQz9Ip4r4qdtVueRRbEDyaUaOSFgPKph5HNFIWNpRS7Q8W24CbGif5gIMBE9doYtcMOh2ZQYSQgHv4wIsY9c9fX1sEBR4zAwyrjFiI0FA1F4OTwH42sCUzKupLts=;wUWoAS+G2Jg6AmYmB+JOUA=="
 ---
