@@ -2,6 +2,137 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-04-insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-others.md",
+      "title": "Insights on the Entertainment Robot Global Market to 2026 - Featuring Lego, Sony and Hasbro Among Others",
+      "excerpt": "The \"Entertainment Robot Market - Forecasts from 2021 to 2026\" report has been added to ResearchAndMarkets.com's offering. The entertainment robot market is",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/g26442149/insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-oth",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/g26442149/insights-on-the-entertainment-robot-global-market-to-2026-featuring-lego-sony-and-hasbro-among-oth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26442149",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26442149",
+      "publishedDateTime": "2022-04-04T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-03-ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease.md",
+      "title": "AI and Robotics Uncover Hidden Signatures of Parkinson’s Disease",
+      "excerpt": "A study published in Nature Communications unveils a new platform for discovering cellular signatures of disease that integrates robotic systems for studying  patient cells with artificial intelligence methods for image analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/2022/04/03/ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease/",
+      "originalUrl": "https://insidebigdata.com/2022/04/03/ai-and-robotics-uncover-hidden-signatures-of-parkinsons-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2018/11/shutterstock_527544358-e1542396272432.jpg",
+          "width": 743,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-02-why-its-time-to-address-the-ethical-dilemmas-of-artificial-intelligence.md",
+      "title": "Why it's time to address the ethical dilemmas of artificial intelligence",
+      "excerpt": "AI's perceived risk isn't only from autonomous weapon systems that countries like the US, China, Israel and Turkey produce that can track and target humans and assets without human intervention. It's equally about the deployment of AI and such technologies for mass surveillance,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/articleshow/90599546.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/articleshow/90599546.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/height-450,width-600,imgsize-110988,msid-90599600/.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/why-its-time-to-address-artificial-intelligences-ethical-dilemma/amp_articleshow/90599546.cms",
+      "publishedDateTime": "2022-04-01T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-cyber-security-in-robotics-market-is-expanding-at-a-healthy-110-cagr-for-2022-2029.md",
       "title": "Cyber Security in Robotics Market is Expanding At a Healthy 11.0% CAGR For 2022 – 2029",
       "excerpt": "Sales in the global cyber security in robotics market are slated to top US$ 3.5 Bn in 2022. Expanding at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. The high demand for firewall security services and similar other solutions such as encryption solutions,",
@@ -1252,153 +1383,6 @@
         "name": "Government Technology",
         "domain": "govtech.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-chinas-latest-brainwave-controlling-space-robots-using-mind-power.md",
-      "title": "China’s latest brainwave? Controlling space robots using mind power",
-      "excerpt": "A research team with China’s manned space programme say they have developed technology that will allow astronauts to control robotic equipment ... and Chen Dong used a mind-reading device ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind?module=lead_hero_story&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind?module=lead_hero_story&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/25/ed9c6cc4-01e6-4c1b-86b0-38139667623d_72a3c279.jpg?itok=hLxpK9b5&v=1648220192",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "publishedDateTime": "2022-03-25T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-iit-mandi-to-organise-robotics-ai-summer-camp-for-school-kids.md",
-      "title": "IIT-Mandi to organise Robotics & AI summer camp for school kids",
-      "excerpt": "The Indian Institute of Technology Mandi is organising the summer camp on Robotics and Artificial Intelligence (AI) in collaboration with Himachal Pradesh Kaushal Vikas Nigam (HPKVN), Shimla. This summer camp,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/iit-mandi-to-organise-robotics-ai-summer-camp-for-school-kids/",
-      "originalUrl": "https://analyticsindiamag.com/iit-mandi-to-organise-robotics-ai-summer-camp-for-school-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/Robotics.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-25T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way.md",
-      "title": "This Cheetah Robot Taught Itself How to Sprint in a Weird Way",
-      "excerpt": "Researchers got the machine to run nearly 13 feet per second. It ain't graceful, but this powerful technique is preparing robots for the chaos of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/",
-      "originalUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/623cd76e57d4f7aedf2dbf66/master/pass/minicheetah_stand2-science.jpg",
-          "width": 1348,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-cheetah-robot-taught-itself-how-to-sprint-in-a-weird-way/amp",
-      "publishedDateTime": "2022-03-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

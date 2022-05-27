@@ -1,23 +1,36 @@
 ---
 category: news
-title: "AI And Machine Learning Are Improving Weather Forecasts, But They Won't Replace Human Experts"
-excerpt: "A century ago, English mathematician Lewis Fry Richardson proposed a startling idea for that time: constructing a systematic process based on mat"
-publishedDateTime: 2022-05-26T21:13:00Z
-originalUrl: "https://menafn.com/1104278603/AI-And-Machine-Learning-Are-Improving-Weather-Forecasts-But-They-Wont-Replace-Human-Experts"
-webUrl: "https://menafn.com/1104278603/AI-And-Machine-Learning-Are-Improving-Weather-Forecasts-But-They-Wont-Replace-Human-Experts"
+title: "AI and machine learning are improving weather forecasts, but they won't replace human experts"
+excerpt: "Perhaps some day in the dim future it will be possible to advance the computations faster than the weather advances and at a cost less than the saving to mankind due to the information gained. But that is a dream,"
+publishedDateTime: 2022-05-26T19:04:00Z
+originalUrl: "https://www.seattlepi.com/news/article/AI-and-machine-learning-are-improving-weather-17200300.php"
+webUrl: "https://www.seattlepi.com/news/article/AI-and-machine-learning-are-improving-weather-17200300.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/AI-and-machine-learning-are-improving-weather-17200300.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/AI-and-machine-learning-are-improving-weather-17200300.php"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "mKdXy8BaU7pQZ8SxEZkLNHJsYO5hSnXFLB/6/Ga5lpdCgKz/1GkuFmOdP2vyWUIpgjkYMrVLdwy6K3RuEAjP6kIII372SjV7FlPYQYRegERdYi87LevPdShw2QFZKoHluDcO0cvAYGhyHLC70MFIiWisFZjXR2Lju/Q8e1/4q3ZTU0lJzQEKD7oCwYXf/OBQOI0Q3eb4u6+TRMv7EQbSb3KSNLw5iq1zmcVcjytrcytB93rXMB4ocgE4qnaxforYpkkjXc/veTlWMbaJgqpTw+vpxu8veg65P8KbTl/Bh7Vfg5IpGMLbctJLigy4UmUUz2zsKZDfRT5ftQwhGp5U3KAmjEWBwv3OQCvh1F7QV/hxDPTV8CmWlKHSUMpJAjXSCXbnQvK6if9Zh6b56l3wna0r1DMzsuvJ/0qu7D14jvV7s/J09vOorOr/jyx4Z7hATQxW5Ot5AhtxeoTS14inZylRGn7h2BQTP31KIhm9aGvd4hRv4TfqWlEl+CnMR5yiBM2fK8bCEDaUEPw3zJ1qfg==;v5Nmi3tDugSU2Xh1Jssu4g=="
+related:
+  - title: "Rezo.AI launches a game changer for Enterprises fueling Sales, Marketing and Support teams to boost revenue growth"
+    excerpt: "Rezo.ai, an AI-powered CX Cloud for enterprises that are transforming customer experience, improving agent productivity, and operationalizing real-time intelligence"
+    publishedDateTime: 2022-05-26T19:42:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/rezoai-launches-a-game-changer-for-enterprises-fueling-sales-marketing-and-support-teams-to-boost-revenue-growth-745032"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 29
+
+secured: "VXaGLQyeYFGJXITYLOHCpt4PkqDL5syO0/Ycna/KBPrOTyjIUcaAmYRDjoUa7InUtLd0sBmZ+CecDZ/qOLGcviS0/zcHy67fdPuj8BOzwMeSsVrofrR1dPoZeLmVMGuNG8CS5hPgIPqeoatdtBZ1fzP8wAAbJX6wCZIAUINue1ncpR+59bVQzFtVfHRF8A8Un/Ug0NXqQiig8yFdH1vuAFte8Q1L+WHE0JyLuZmyH31C/8BLCgv2kmpxSQrIcrRbD/ht5ikXNjLBrB38bHWLBVcdcuZBxZfohNBd1FE4UiT0QMeVDXjSTstfZByqAF2+vGwGMPn+Fsin6WRO8mg7uSAzI4U6MmaO1k+S/MfLPME=;TIH0lckidW2vTq4YVSfjDg=="
 ---
 

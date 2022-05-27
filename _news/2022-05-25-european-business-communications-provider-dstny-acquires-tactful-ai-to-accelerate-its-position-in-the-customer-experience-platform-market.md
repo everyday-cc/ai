@@ -2,20 +2,26 @@
 category: news
 title: "European business communications provider Dstny acquires Tactful AI to accelerate its position in the Customer Experience Platform market."
 excerpt: "The acquisition takes Dstny to the next level in customer engagement, enabling companies to employ Artificial Intelligence and data in their customer experience operations with minimum effort. \"With Tactful onboard,"
-publishedDateTime: 2022-05-25T08:17:00Z
-originalUrl: "https://who13.com/business/press-releases/cision/20220525LN64844/european-business-communications-provider-dstny-acquires-tactful-ai-to-accelerate-its-position-in-the-customer-experience-platform-market/"
-webUrl: "https://who13.com/business/press-releases/cision/20220525LN64844/european-business-communications-provider-dstny-acquires-tactful-ai-to-accelerate-its-position-in-the-customer-experience-platform-market/"
+publishedDateTime: 2022-05-25T07:00:00Z
+originalUrl: "https://pix11.com/business/press-releases/cision/20220525LN64844/european-business-communications-provider-dstny-acquires-tactful-ai-to-accelerate-its-position-in-the-customer-experience-platform-market/"
+webUrl: "https://pix11.com/business/press-releases/cision/20220525LN64844/european-business-communications-provider-dstny-acquires-tactful-ai-to-accelerate-its-position-in-the-customer-experience-platform-market/"
 type: article
-quality: 0
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: who13
-  domain: who13.com
+  name: WPIX
+  domain: pix11.com
 
 topics:
   - AI
+
+images:
+  - url: "https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png"
+    width: 600
+    height: 248
+    isCached: true
 
 related:
   - title: "Zoom to Acquire Conversational AI and Automation Platform Solvvy"
@@ -47,6 +53,6 @@ related:
         height: 450
         isCached: true
 
-secured: "QSmSMsA0cEb5mcYIGkhmQtnWDx+bqunes7ghriqCCXmF1pch+q9UnkCq0u8ZYalNazytcQNLQv2tT8aQVvcDQN8VIHqaTyPrCb4bnGUYuB/a1WceoDT+xMXN/LEvoj2FAVs9Zt3xwBR/u+98pQVWq8zb327L8GXPfm9nSGiqX2XpkwsKLit5fC5xVyuaKQVVjQqbYYeUQsxW1M9JeUCMjaNdL8wYPebnkb4CRSuhecrdhRfuOkS/x5iAIZrDnKQyqQZZq/98rRH66Epb4YGGOBYsk4Jv+846Civl+qDlp2HYOi93GsoQN4msSTZsc5PEb6r9x2Z6aqGBPRWyPBXSmpRiC9Raodkf9gDHZVTZSiE=;Adyzb5UJzJkJu0SB+GRajw=="
+secured: "/st7Bb6mTGfWp9E20jpDHHTBec+OZA9eTXQEsomrkuqETodLSgUQXecPMFzVAV+spVETJ6cN2LIcILaR+wWczZfDkUlnak4lGWFCTs/ZUK/8VHyzoL1iD5KKFb47Aug39j7Q/R6GWKs4s1UKp50UiVKUDZwrztZGJYKPTr0sce6RYpA23bWs7W6KeRnUwY52IPo4MiHBpCcoXct04iTvHAVWbld3/Yn53o8S+NaN2WnF1o69x1+Dcih0o5vlKTn32EdZqIKHwqBQU5jhjCgDWFZ+BpCuXAto3VXYg83ufoIhpmxs7fKw4na7FCTr8JWBz+vhw8vvVF3YOdra47LhhtVGqB/GA5L1NzfaQFm2y6I=;Kwy5D0X9lfEogDfMW9+HTg=="
 ---
 

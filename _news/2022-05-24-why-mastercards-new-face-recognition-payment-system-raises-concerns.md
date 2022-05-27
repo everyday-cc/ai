@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/5/2022_5$largeimg_1625092622.jpg"
         width: 724
         height: 483
+        isCached: true
+  - title: "Why Mastercard’s new ‘smile to pay’ face recognition payment system could cause some big problems"
+    excerpt: "Customers install an app which will take their picture & payment information, which will be saved & stored on a 3rd-party provider’s servers"
+    publishedDateTime: 2022-05-27T00:47:00Z
+    webUrl: "https://www.startupdaily.net/topic/fintech/why-mastercards-new-smile-to-pay-face-recognition-payment-system-could-cause-some-big-problems/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 26
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2022/05/AdobeStock_283134518.jpeg"
+        width: 770
+        height: 527
         isCached: true
 
 secured: "EWlpPWBnPWAIBI9nYXabDehdl7BSG57eAtDcL+/wuRZdPzL9OT4O/PELPmoTsUlMyRnGeW2kBbM40DS0P0C/rfeX3+QjkK7DSy3TPLv3nqK8EFOMC3V6ZN+ktYQx5K71XRBgnECJGSrK03WvDO+tGgZKkSYQfiGq+F1nQi3ImXw0gJX7UVvXZTloPC292t8hjXesVUiRiVC2SJrmXHcB1d/Xzz0PDGTaIjet9hH3zgZ0OEpqgdUtVbC14JxC+zyIKdX586X7ITNtYoaB1/HGum0KuordrsnGrprV+EMQtQJrWP7j1PxliNGatuSOK0uOVKnnC6DBgpQ1uHL44Z3bhUimGxQz4IJVKJMY+tVZbWT2NAd80SrRmmlq4W2Kd64PdNzWzvBSbAnwVmAnwCDU+TVn0RpWqlaOoDLgVlGjmBMpNUeJ+r2ZJw9kSP6MegaRubxKrii7E42VsxSxU3Ebs8XHy2t0XrI1/sEVGkqkGjm0ua5Z5eyYsO2L4V27IbiCwglwg5o29RjBrMFjAEZ6Eg==;NAYqCF585Qvbchjk1RJJNw=="

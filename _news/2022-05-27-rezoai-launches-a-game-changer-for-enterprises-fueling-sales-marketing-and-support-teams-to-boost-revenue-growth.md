@@ -7,7 +7,7 @@ originalUrl: "https://www.thehansindia.com/technology/tech-news/rezoai-launches-
 webUrl: "https://www.thehansindia.com/technology/tech-news/rezoai-launches-a-game-changer-for-enterprises-fueling-sales-marketing-and-support-teams-to-boost-revenue-growth-745032"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,19 @@ topics:
   - AI
   - AI in Marketing
   - AI in Sales
+
+related:
+  - title: "AI and machine learning are improving weather forecasts, but they won't replace human experts"
+    excerpt: "Perhaps some day in the dim future it will be possible to advance the computations faster than the weather advances and at a cost less than the saving to mankind due to the information gained. But that is a dream,"
+    publishedDateTime: 2022-05-26T19:04:00Z
+    webUrl: "https://www.seattlepi.com/news/article/AI-and-machine-learning-are-improving-weather-17200300.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/AI-and-machine-learning-are-improving-weather-17200300.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/AI-and-machine-learning-are-improving-weather-17200300.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 43
 
 secured: "u5/zrJeisb3MciRhIgz/jANftRZ36Yo+Y8ON4lCmh3C0bwbBy5NtfqQjmE8EwEAr1a/O8Il93mWz+3k2W5DlMtFTYYRqfyJt+n0s7tsHn1ug8BflyU41pvGB4DI+VOXQ2wX2j1z3djTCMt/x6T/ph2xv+Zh53xA2uftvRFl5FHUqoowLmQWtuMEeWgdUpBXGIopzr+B+TMoMfJqLVCeZFLT3f/uyun3l1/ebi0sZcPKiBP3m2q890lZuZa2fsTDod+FAhgWexgMU9MvghwMt9lXhnBrYonoNSoAcYh1aE0vnTSyaL5yja6l1t3r5NO3yggZ2qBsO15WJ+714/w6kacrKuuX9Ee69gQILYmA2eEajDe/L2OhR96aXuRBvgm2TVHsPF1ovYiIRWETKe0uTEIWaL8FOl/LiP4JICsEguds+ANjZYTyBSsUmni2JxOHpmqHLoi2tUDTzzhw4+BoZ9lAZh1l+NkWO1WcoelJ5Iex9b2edHI41upaffG8N52oyVwz3obM8YarRRW0pb/pwmw==;cUNW+M0obreNE6KvYy4WqQ=="
 ---

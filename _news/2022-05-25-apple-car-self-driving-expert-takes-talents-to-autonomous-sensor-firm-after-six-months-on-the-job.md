@@ -26,22 +26,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Paystand Launches First NetSuite Self-Driving AR Solution that Puts the Cash Cycle on Auto-Pilot for Faster, Simpler Payments"
-    excerpt: "Paystand, the leader in blockchain-enabled B2B payments, and the maker of the fast growing and most innovative Payment SuiteApp for NetSuite AR, today announces new automatic billing and payment features to provide a faster,"
-    publishedDateTime: 2022-05-25T12:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-scotts-valley-blockchain-5b8b6c1af7864a0ab18a70e1bc14d1db"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "p3I+/6amYWv+qQSbFRa558JF+T+bOhBCWhXpofQvLAPGjowNLHLpAU0UxyqNM67bNkT6bVLFdlquYAGyl+vHuCInmDfyns1CTb2IJKfVWmG/MeVmcrAoNFGQf0ZC/UZzpiS9GnK/UWDknFJsgqQUR5U/OIV/qhMdvanIJFHjcMPPEJcW+JFeaJGomnWfxrSxOpaId+2IXAFuznqEr+HeLhRe5W+hXQzFTXuom/hii5prTURLU/Quh2T91ZetunKHm96avrbyS0Lvm3t+azSmEpdMztjt9Vwq0j+u6SVgkRbIIKEaqg7CXVhoLXNWCSF6TaUtjNy/jqe+hw/tL18DwHIU0ff2um/i9ewSzINtOKZ9QUaCJUAjovy+eppIAz9EI6DpGzQ4nrlCFYp+KbY0mxa2h46FaMsWRcPE0LE3KAIEVKBPZsaBi8yjPU4IBhVGe6I5qWHhzScNO0qG0T5Z+V2Vu/VmFtKUL7MlmIQcyM9Oop+nSr6OKMAIDgZ9y+RxOthtq7C/3wUT32YupHYhkQ==;/64b6xLUHw2dpcoXwrvzzw=="
 ---
 

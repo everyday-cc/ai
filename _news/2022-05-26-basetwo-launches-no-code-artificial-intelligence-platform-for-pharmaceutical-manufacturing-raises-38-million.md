@@ -2,20 +2,27 @@
 category: news
 title: "Basetwo Launches No-Code Artificial Intelligence Platform for Pharmaceutical Manufacturing, Raises $3.8 Million"
 excerpt: "Basetwo, a SaaS AI platform for manufacturers, today announced it secured a $3.8M seed round led by Glasswing Ventures and Argon Ventures with additional funding from Caffeinated Capital, Graphite Ventures,"
-publishedDateTime: 2022-05-26T12:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-basetwo-launches-no-code-artificial-intelligence-platform-pharmaceutical-/2022/05/26/9610126.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-basetwo-launches-no-code-artificial-intelligence-platform-pharmaceutical-/2022/05/26/9610126.htm"
+publishedDateTime: 2022-05-26T12:47:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-artificial-intelligence-pharmaceutical-manufacturing-f31278f9d1726ef19aefae99cb62939d"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-artificial-intelligence-pharmaceutical-manufacturing-f31278f9d1726ef19aefae99cb62939d"
 type: article
-quality: 12
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "NextBillion.ai raises $21 million in Series B round"
@@ -65,6 +72,6 @@ related:
         height: 880
         isCached: true
 
-secured: "VpshkdKfTImPJNMA3NzIwsf18ffrwE4DEbCoXm3f0lwDzCXSo5IKxYoLEfuDdK69JVgOrdmcmXgCssi6ArY4LBRdeBIPRjxXRMha2coPAg6+kVG181J4ZSjaDjs3FoPql0AWfDUjBOLLktPNniE68HK4UGrFP6KMWPHfpMZDflZTdmYmYX+YESK+aIP1UC7I8BNk4yPJB/USX8GO9U0YPyvaolQGj2LO6zq63CfY9MY80z27qllG2Jt2hY1wtpABKujjEPgyGHJq3ovmSgpksg3pc2RDhiebrS76KUog2MBdldYm3I0YOlwsxvRqkGIBzU65G9Skv79s6A1k8beFizb5cSANSPJ304akHPaxZTI=;q1pUKBdQW5YUbmKmMc10NQ=="
+secured: "1H0ztfGRFDRaS0Tcpx48N/A1pZ+6/IiCd1GgQWM1st94sxk0XzsH2OXDCDjW7d9d8yALDhiNhSBEkfH0GanwUd6jHlPGz9qbmCE7XdNF6sCNIl8usZuU6Cn/QyOj2yy0pOZredyUTgjgzRS/E8uUWRp8LF6YUif/NoeAIAAIE2WT79gOCUhW1zCPRorEY+JDoZeTw3gEQwvGHlxJ3tMq8PAjonzEocgi+n5+9tD5RRwvdLCCfAx2Pgtdfx6GPaNtVnnY3UFHiTVvTelp5vpnVsIUwCJEjLxWb3zuvHtsOFd4b1f7+1fEr5K+RkCnU/q8rwmKCYdQLo7ITZ5/axzQFUWQCFWMCE0l8o9xWUuiBbA=;UsdJW+p7HbhjPvUcoTdu8g=="
 ---
 

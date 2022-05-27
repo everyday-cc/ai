@@ -2,26 +2,26 @@
 category: news
 title: "Remote-controlled crab-like robot is the smallest ever, university says"
 excerpt: "Engineers at Northwestern University in Evanston, Ill., announced they have created what they believe is \"the smallest-ever remote-controlled walking robot.\"   The robot resembles a tiny crab and measures just a half-millimeter wide."
-publishedDateTime: 2022-05-26T20:10:00Z
-originalUrl: "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
-webUrl: "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
-ampWebUrl: "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
-cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
+publishedDateTime: 2022-05-26T20:43:00Z
+originalUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
+webUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
+ampWebUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
+cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: FOX 10 Phoenix
-  domain: fox10phoenix.com
+  name: Fox 9
+  domain: fox9.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -59,22 +59,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
-    excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research p"
-    publishedDateTime: 2022-05-26T11:51:00Z
-    webUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.html"
-    ampWebUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.amp.html"
-    cdnAmpWebUrl: "https://www-wfft-com.cdn.ampproject.org/c/s/www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.amp.html"
-    type: article
-    provider:
-      name: wfft
-      domain: wfft.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfft.com/content/tncms/assets/v3/editorial/9/5b/95b4f7e1-5a36-5da1-81d9-3753083419e7/628f9fe5acdc3.image.jpg?resize=1024%2C1366"
-        width: 1024
-        height: 1366
-        isCached: true
   - title: "Smallest-ever remote-control walking robot uses shape-memory alloy"
     excerpt: "Researchers at Northwestern University in Illinois have demonstrated the world's smallest remote-controlled walking robot, at just half a millimeter wide. Such tiny machines can bend, twist, crawl, walk,"
     publishedDateTime: 2022-05-25T18:00:00Z
@@ -84,6 +68,17 @@ related:
       name: New Atlas
       domain: newatlas.com
     quality: 49
+  - title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
+    excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking"
+    publishedDateTime: 2022-05-26T09:56:00Z
+    webUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
+    ampWebUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 33
   - title: "The smallest remote-controlled robot ever is now this tiny crab"
     excerpt: "The world's smallest remote-controlled robot has been created by engineers from Northwestern University, which takes on crab form."
     publishedDateTime: 2022-05-26T09:13:00Z
@@ -103,6 +98,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "DZm51FyGe37ShmiNbWYKyEaTt6EAF0Pjn6R2ZMN0SOjMmUBVRI/4Uhw4c8vY0A482DOE5lBbEwyW8JunrH6SBCW2MzQZZF8PTRbOaHViQh20RKM0RtPWEglt5JpUsyfcLe3bEEd3D4xk8jmwWPyM8HByJWtT8Gg6naa4WbF6+jofxwGEt1TuLSmNuaNzq7NuPM18J/cWE3vaH27Ynw1SIrQEcn6e6KGYv6kk4n1hfGoG94SSAlvR1tS8FB3zR0G4Y/T23+QSW6V/ULvDmPcSVyybrpiG53L3+3AFbu0sklB2uH+9g8RR9FsUMu+URleIH5P9TaY5jE3vKP1akvf0XCcxkW8jzEK1CO6huR+v63Y=;nTya7VelfhG7TSZBCn0NYw=="
+secured: "OxdXyFVy46s1R8vtkQCuBo9XaMTBbuPQwMlRNv8AZUEoeErnaAGVIS3u99ljPGKJxYWxfDdbX+Kdvn6W1MD+ZSmnSnbQpK/PQhyJJvZW7ETtZr7iAAJPy38AR2bj4hUA7eyskNBvytpbwl7xESQg+X/y5H1110Cv4H5J+zdaY2on4k1oF5KE+FnCWJkfefNp983FkUcq+OQnM03q+UhSB8/KqUe/AQtpwyEsuHnZlWWwi7wqy7DEXxUi1zso8AhCe0XDLbl0R19B2KCkmSqLQQaThAxtBQRLu1qa/QnkJJ/kb0sWx5akmNVyrEea4ira/RReNk4uh4wV/F3Ice2FDL8SREK+i0TT+ThIW8bHNZw=;QHRBXr7mUAF6JSNzKEUwoA=="
 ---
 

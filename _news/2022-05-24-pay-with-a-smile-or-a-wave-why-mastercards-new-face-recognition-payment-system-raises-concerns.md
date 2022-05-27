@@ -103,6 +103,20 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Why Mastercard’s new ‘smile to pay’ face recognition payment system could cause some big problems"
+    excerpt: "Customers install an app which will take their picture & payment information, which will be saved & stored on a 3rd-party provider’s servers"
+    publishedDateTime: 2022-05-27T00:47:00Z
+    webUrl: "https://www.startupdaily.net/topic/fintech/why-mastercards-new-smile-to-pay-face-recognition-payment-system-could-cause-some-big-problems/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 26
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2022/05/AdobeStock_283134518.jpeg"
+        width: 770
+        height: 527
+        isCached: true
 
 secured: "vFynfMP02xGm0HXx4dhb0TcRWbMzKRPjbYQr96Y4GKqmM76bjR1DQuLMR79J9BPxmlyd3G4uK6O9yXVDpqwuyodd2EqLdYsrZhVekZqhP9VBA7cH7i1ruYYjm6gPt+oA4C5BCeU/fCcPds9B4j+1+8mBmHuZMYkIw9QnmV6sYnO+ip8l6Xo7cTkVhTT/JHOYtHqY+F5MGLquEeXNAGr0zmjx/oWTiUWh/Ku97BEafuG5cvoeNaau07UuEy4unG9VCkIRYR3GEVw16xOVH5YdZXMNyiHA5YiVDmEJQ4Nk/piRRdlAGpJDOiXjqvArC1VQtafa/WcbW8IWCRa7oyuSc83Sup55Asx7rHHx3vPzxfqhPus/chAimOKOAyadIvhxZRp3DXpOmvjJwOpkzzGoOiUA+XPgzXyPBHc6RXj9o0Ukzk7TZtRRFoNP8p7ZqNQdnxs96hdKkuXWCadBwaRJ3R6olUaqalmG2lWfHAaj4DKkoW8u8EWpE5cxsJJZqF9BeHXS97jVU3dlAxXAcluudg==;DgI6yIULc5zEWBmoqfibsw=="
 ---

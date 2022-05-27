@@ -89,6 +89,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "California DMV suspends another Pony.ai test permit"
+    excerpt: "Pony.ai had its permit to test its autonomous vehicle technology with a driver revoked due to the DMV's concerns about its safety drivers."
+    publishedDateTime: 2022-05-26T18:25:00Z
+    webUrl: "https://www.therobotreport.com/california-dmv-suspends-another-pony-ai-test-permit/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 67
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-ponyai.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Tesla to soon have self-driving cars without need for human drivers: Musk"
     excerpt: "Beat Analytics Ibeat 1 Year HTTPS To track article's statistics GrowthRx Analytics GrowthRx 1 Year HTTPS To track visitors to the site and their behaviour Tech billionaire Elon Musk has said that his electric vehicle company Tesla will have self-driving cars without the need for human drivers,"
     publishedDateTime: 2022-05-24T08:48:00Z

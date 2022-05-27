@@ -2,6 +2,176 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-18-temenos-delivers-digital-banking-solutions-on-aws.md",
+      "title": "Temenos Delivers Digital Banking Solutions on AWS",
+      "excerpt": "Temenos and AWS started working together in 2019 to integrate Temenos ... Amazon Connect capabilities include skills-based contact routing, voice and chat recording, built-in artificial intelligence (AI) and machine learning (ML) to personalize ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-a989e1728a344261a06309ce63603287",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-a989e1728a344261a06309ce63603287",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-payments-fintech-banking-circle-maintains-steady-growth-trajectory.md",
+      "title": "Payments Fintech Banking Circle Maintains Steady Growth Trajectory",
+      "excerpt": "We have also sustained investment in the use of AI to enhance the effectiveness of the AML processes ... online lending, and other forms of Fintech. Announcing the Launch of the ConvoyFiCrowdfunding Website ConvoyFi is theFirst Decentralized ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Graph-Growth-Increase-768x1024.jpg",
+          "width": 768,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/",
+      "publishedDateTime": "2022-05-17T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-c3ai-stock-is-close-to-becoming-a-buy.md",
+      "title": "C3.ai Stock Is Close to Becoming a Buy",
+      "excerpt": "Artificial intelligence (AI) has already made an impact on the world. From AI-powered robots to AI-driven cars, it is already changing our lives and work. C3.ai’s (NYSE:AI) AI algorithms can optimize an organization’s operations by bridging the gaps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy?amp",
+      "publishedDateTime": "2022-05-17T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data.md",
+      "title": "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data",
+      "excerpt": "Anthem Inc.’s chief information officer says he is working with Alphabet Inc.’s Google Cloud to create a synthetic data platform that will let the health insurance company better detect fraud and offer personalized care to its members. Anil Bhatt said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_lead_pos13",
+      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_lead_pos13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-545425/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
+      "publishedDateTime": "2022-05-17T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-zmoai-secures-8m-led-by-hillhouse-to-create-ai-generated-fashion-models.md",
       "title": "ZMO.ai secures $8M led by Hillhouse to create AI generated fashion models",
       "excerpt": "With breakthroughs in machine learning, it’s no longer uncommon to see algorithmically generated bodies that can move and talk authentically like real humans. The question is now down to whether startups offering such products can achieve a sustainable business model.",
@@ -152,10 +322,10 @@
     {
       "path": "_news/2022-05-18-healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028.md",
       "title": "Healthcare Artificial Intelligence Market 2022, Trends, Size, Industry Share, Analysis and Forecast to 2028",
-      "excerpt": "\"Healthcare Artificial Intelligence Market\"The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320",
+      "excerpt": "Healthcare Artificial Intelligence Market” The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 billion by 2028 from US$ 148 billion in",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27267404/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-t",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27267404/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-t",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -172,13 +342,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27267404",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27267404",
       "publishedDateTime": "2022-05-17T15:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -188,8 +358,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -846,8 +1016,8 @@
       "title": "People Data Labs Joins AWS ISV Accelerate Program",
       "excerpt": "People Data Labs (PDL), which provides 3 billion unique B2B data records for developers, engineers, and data scientists, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor Accelerate (ISVA) Program,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1020,181 +1190,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-6-business-risks-of-shortchanging-ai-ethics-and-governance.md",
-      "title": "6 business risks of shortchanging AI ethics and governance",
-      "excerpt": "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
-      "originalUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp",
-      "publishedDateTime": "2022-05-17T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-investing-in-ai-doesnt-need-to-be-a-leap-of-faith-how-to-track-your-ai-roi.md",
-      "title": "Investing In AI Doesn’t Need To Be A Leap Of Faith: How To Track Your AI ROI",
-      "excerpt": "Against this backdrop, many executives are keenly aware that they need to get a better handle on AI ROI and risk before they commit even more money. However, for all of the investment in AI, this critical need has yet to be addressed in most companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/17/investing-in-ai-doesnt-need-to-be-a-leap-of-faith-how-to-track-your-ai-roi/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/17/investing-in-ai-doesnt-need-to-be-a-leap-of-faith-how-to-track-your-ai-roi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//1160010882/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/17/investing-in-ai-doesnt-need-to-be-a-leap-of-faith-how-to-track-your-ai-roi/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/17/investing-in-ai-doesnt-need-to-be-a-leap-of-faith-how-to-track-your-ai-roi/amp/",
-      "publishedDateTime": "2022-05-17T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london.md",
-      "title": "Relativity Explores Ethical AI and Unveils New Product Capabilities to Enhance Productivity at Relativity Fest London",
-      "excerpt": "... Translation Relativity will incorporate AI machine translation directly in RelativityOne. Out-of-the-box, users will be able to translate large batches of documents in more than 100 languages and 12,000 language combinations. Relativity is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsav.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/",
-      "originalUrl": "https://www.wsav.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSAV-TV",
-        "domain": "wsav.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-why-are-we-failing-at-the-ethics-of-ai-a-critical-review.md",
-      "title": "Why are we failing at the ethics of AI? A critical review",
-      "excerpt": "Sometimes the AI ethics conversation appears to be a morass of well-meaning platitudes, without forward direction. A notable article via the Carnegie Council for Ethics in International Affairs brings these issues to a head.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/why-are-we-failing-ethics-ai-critical-review",
-      "originalUrl": "https://diginomica.com/why-are-we-failing-ethics-ai-critical-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2015-07/man-in-box.jpg",
-          "width": 1688,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/why-are-we-failing-ethics-ai-critical-review?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-are-we-failing-ethics-ai-critical-review?amp",
-      "publishedDateTime": "2022-05-17T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

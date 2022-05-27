@@ -85,6 +85,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "California DMV suspends another Pony.ai test permit"
+    excerpt: "Pony.ai had its permit to test its autonomous vehicle technology with a driver revoked due to the DMV's concerns about its safety drivers."
+    publishedDateTime: 2022-05-26T18:25:00Z
+    webUrl: "https://www.therobotreport.com/california-dmv-suspends-another-pony-ai-test-permit/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 67
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-ponyai.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Elon Musk Explores The Limits Of Tesla’s ‘Self-Driving’ Technology"
     excerpt: "“Crash Course” includes interviews with various regulators as well as former Tesla employees, such as software engineer Raven Jiang, who make the points that self-driving technology was seen ..."
     publishedDateTime: 2022-05-22T22:29:00Z

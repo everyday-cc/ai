@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,59 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-foursquare-founder-banks-funding-for-mystery-3d-social-network-startup.md",
+      "title": "Foursquare founder banks funding for mystery 3D social network startup",
+      "excerpt": "The excitement around web3 and the metaverse have pulled plenty of entrepreneurs who defined the first generation of native mobile apps to begin questioning what’s next. Foursquare founder Dennis Crowley is on the co-founding team with Matt Miesnieks,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/",
+      "originalUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/disrupt-dennis-crowley-0207.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/amp/",
+      "publishedDateTime": "2022-05-26T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -102,6 +154,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-these-earthworm-inspired-robots-may-one-day-crawl-through-aircraft-engines.md",
+      "title": "These earthworm-inspired robots may one day crawl through aircraft engines",
+      "excerpt": "Researchers developed a robot that uses electrical charges to power \"muscles\" that cause the devices to move through a small pipe, like an earthworm.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/earthworm-robots-aircraft-engines",
+      "originalUrl": "https://interestingengineering.com/earthworm-robots-aircraft-engines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/qrwB17P365/sizes/screen-shot-2022-05-26-at-114723-am_resize_md.png",
+          "width": 744,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/earthworm-robots-aircraft-engines",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/earthworm-robots-aircraft-engines",
+      "publishedDateTime": "2022-05-26T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -398,7 +493,7 @@
       "originalUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1098,93 +1193,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ethical-ai-a-challenge-for-security-applications.md",
-      "title": "Ethical AI – a challenge for security applications?",
-      "excerpt": "Recently, the movement for Ethical AI has been gaining steady momentum from academic researchers, social activists, and lawyers. Ethical AI is the development and use of artificial intelligence systems in a manner that is safe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/technology/ethical-ai-a-challenge-for-security-spplications",
-      "originalUrl": "https://www.freepressjournal.in/technology/ethical-ai-a-challenge-for-security-spplications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2022-05/6c470164-3fbc-4b87-8656-0462e3b8145d/AI.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications",
-      "publishedDateTime": "2022-05-25T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-pixm-releases-new-computer-vision-solution-for-mobile-phishing.md",
-      "title": "PIXM releases new computer vision solution for mobile phishing",
-      "excerpt": "Computer vision cybersecurity startup PIXM has expanded its line of antiphishing products with the launch of PIXM Mobile, a solution to protect individuals and enterprises from targeted and unknown phishing attacks on mobile devices. The cloud-based mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.html",
-      "originalUrl": "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/09/cso_nw_mobile_phone_text_bubble_skull_crossbones_sms_phishing_smishing_by_jane_kelly_gettyimages-669307004_abstract_data_by_spainter_vfx_gettyimages-897166754-100810151-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html",
-      "publishedDateTime": "2022-05-25T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

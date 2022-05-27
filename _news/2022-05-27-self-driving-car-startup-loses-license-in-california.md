@@ -8,7 +8,7 @@ webUrl: "https://www.thestreet.com/lifestyle/self-driving-car-startup-loses-cali
 ampWebUrl: "https://www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg5NzU3MjA2MzgyNTE5OTk2/pony-ai2.jpg"

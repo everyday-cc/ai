@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-27-tigergraph-launches-workbench-for-graph-neural-network-mlai-modeling.md",
+      "title": "TigerGraph launches Workbench for graph neural network ML/AI modeling",
+      "excerpt": "TigerGraph's ML Workbench should enable data scientists to build deep-learning AI models using connected data directly from the business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/",
+      "originalUrl": "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/02/machine-learning-e1653607121457.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/",
+      "publishedDateTime": "2022-05-26T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
       "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
       "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
@@ -408,8 +462,8 @@
       "title": "People Data Labs Joins AWS ISV Accelerate Program",
       "excerpt": "People Data Labs (PDL), which provides 3 billion unique B2B data records for developers, engineers, and data scientists, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor Accelerate (ISVA) Program,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1370,50 +1424,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow.md",
-      "title": "Create video subtitles with Amazon Transcribe using this no-code workflow",
-      "excerpt": "Subtitle creation on video content poses challenges no matter how big or small the organization. To address those challenges, Amazon Transcribe has a helpful feature that enables subtitle creation directly within the service. There is no machine learning (ML) or code writing required to get started.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-video-subtitles-with-amazon-transcribe-using-this-no-code-workflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T11:23:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

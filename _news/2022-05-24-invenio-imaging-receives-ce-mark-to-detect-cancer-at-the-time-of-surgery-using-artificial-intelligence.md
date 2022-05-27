@@ -1,28 +1,79 @@
 ---
 category: news
 title: "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence"
-excerpt: "Dr. Jürgen Beck, Chair of Neurosurgery at the University of Freiburg. \"Applying reliable artificial intelligence to digital pathology appears to me, as a surgeon, to be the missing piece in the ..."
-publishedDateTime: 2022-05-24T16:51:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220524LA66847/invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220524LA66847/invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence/"
+excerpt: "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma."
+publishedDateTime: 2022-05-24T15:28:00Z
+originalUrl: "https://www.rochesterfirst.com/news/business/press-releases/cision/20220524LA66847/invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence/"
+webUrl: "https://www.rochesterfirst.com/news/business/press-releases/cision/20220524LA66847/invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence/"
 type: article
-quality: 21
-heat: 21
+quality: 1
+heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WROC-TV
+  domain: rochesterfirst.com
 
 topics:
   - AI
 
-images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-    width: 600
-    height: 207
-    isCached: true
+related:
+  - title: "Two NHS surgeons are using Azure AI to spot patients facing increased risks during surgery"
+    excerpt: "An NHS trust is exploring how AI could help reduce waiting times, support recommendations from healthcare teams and help patients."
+    publishedDateTime: 2022-05-24T15:31:00Z
+    webUrl: "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 94
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/05/Microsoft_9716b-1-scaled.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
+  - title: "Using Artificial Intelligence To Combat Wildfire Risk"
+    excerpt: "The increasing intensity and frequency of wildfires has government agencies, researchers, and enterprise weather companies, often in collaboration with utilities, investing in new technology and tools to help prevent and mitigate wildfire risks."
+    publishedDateTime: 2022-05-24T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/rennyvandewege/2022/05/24/using-artificial-intelligence-to-combat-wildfire-risk/"
+    ampWebUrl: "https://www.forbes.com/sites/rennyvandewege/2022/05/24/using-artificial-intelligence-to-combat-wildfire-risk/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rennyvandewege/2022/05/24/using-artificial-intelligence-to-combat-wildfire-risk/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628ce3b2679ffd8cb97857e8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 806
+        isCached: true
+  - title: "Case Western Reserve signs license agreement to bring groundbreaking AI for helping cancer patients"
+    excerpt: "When Case Western Reserve University research showed that artificial intelligence (AI) could identify which lung cancer patients would benefit from chemotherapy, a national magazine called the finding one of the \"10 Most Incredible Medical Breakthroughs of 2018."
+    publishedDateTime: 2022-05-25T23:44:00Z
+    webUrl: "https://www.news-medical.net/news/20220525/Case-Western-Reserve-signs-license-agreement-to-bring-groundbreaking-AI-for-helping-cancer-patients.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220525/Case-Western-Reserve-signs-license-agreement-to-bring-groundbreaking-AI-for-helping-cancer-patients.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220525/Case-Western-Reserve-signs-license-agreement-to-bring-groundbreaking-AI-for-helping-cancer-patients.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 43
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence"
+    excerpt: "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma."
+    publishedDateTime: 2022-05-24T18:28:00Z
+    webUrl: "https://fox5sandiego.com/business/press-releases/cision/20220524LA66847/invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 1
 
-secured: "8srIQqlftOWvDatSU1w8YPpoSjuoEEz7KViKvbUPmb7/mFoPmO7i/NBIXfNThqsWphzCSCw38l+zBViECc8kQOmvISvXiQ3NigRGv8YnT5OwnJRGbUIEz93llNf2aEJKUHAStzkMTxKoULvVlfwH2f5eTQbgeDKwt5c066nCal7E4st9iZ4dbeuMfscQ8WCDK5Sld97K1QFXQahVsM+p0NKZyG3HIoWl1hTpUkOi4ZKGTgdp6z5MpALBysT0oH+Xp+yBC1CHTVUZqCkoxE+J5yc/Ht71k6S9SOg/bxBJbu6JhU8oQAKEVWSAzjUArSiePk+sbgIhLpc/sDuak8P5XWhr9UvUAmIhRxJXLcWwM6w=;qlMaRbTy5cESp2D6uVYIeQ=="
+secured: "a4Ktqqjuftiu4I7xBOGZGNObyIb+zbv/9+tNXMnu9AP14kQAAcG/MPg/yG5lCQL1DJumfwMUJJf1w/EnCRKH64HEHMGl3ejGFt7dL/+w5TEOmBRF2Fl28x6JAt5d1h2FEzZDA4SU8PatAmuQvuaCk1MJYhGEK61uFTBzQqrrwJmGAmzHbQTSiyT+LBzp+2UdBlsJN1nArvIvfV6hMQvab5qlpgLuBdLH94bG8ALu5zpf9djs4kbkkKtknqT2WNONJUOb3txs1sbrhRxY1wjvUWOR6vQhNCYpaQZPH333CI3KoFvfYAoNookKPLZm5SOWKXwvW50v0VKU6kF20y+Z2wXYSOaRgT7hbqL2YOS1eKQ=;qfFuAdGMX3YVbgwj6w5Uhw=="
 ---
 

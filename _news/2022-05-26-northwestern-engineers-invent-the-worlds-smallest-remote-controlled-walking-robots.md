@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
-excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research p"
-publishedDateTime: 2022-05-26T11:51:00Z
-originalUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.html"
-webUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.html"
-ampWebUrl: "https://www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.amp.html"
-cdnAmpWebUrl: "https://www-wfft-com.cdn.ampproject.org/c/s/www.wfft.com/news/national/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/article_75c4c7a9-1671-58e0-a2ed-24ac0f016d03.amp.html"
+title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
+excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking"
+publishedDateTime: 2022-05-26T09:56:00Z
+originalUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
+webUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
+ampWebUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
+cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: wfft
-  domain: wfft.com
+  name: 7News Miami
+  domain: wsvn.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfft.com/content/tncms/assets/v3/editorial/9/5b/95b4f7e1-5a36-5da1-81d9-3753083419e7/628f9fe5acdc3.image.jpg?resize=1024%2C1366"
-    width: 1024
-    height: 1366
-    isCached: true
 
 related:
   - title: "Researchers build world's smallest remote-controlled walking robot"
@@ -61,17 +55,17 @@ related:
         isCached: true
   - title: "Remote-controlled crab-like robot is the smallest ever, university says"
     excerpt: "Engineers at Northwestern University in Evanston, Ill., announced they have created what they believe is \"the smallest-ever remote-controlled walking robot.\"   The robot resembles a tiny crab and measures just a half-millimeter wide."
-    publishedDateTime: 2022-05-26T20:10:00Z
-    webUrl: "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
-    ampWebUrl: "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
+    publishedDateTime: 2022-05-26T20:43:00Z
+    webUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
+    ampWebUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
+    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
     type: article
     provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
+      name: Fox 9
+      domain: fox9.com
     quality: 59
     images:
-      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1"
+      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1"
         width: 932
         height: 470
         isCached: true
@@ -103,6 +97,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "t2f82s/zvnGlLVnbGdkjEklCFsKLerkKd0eRT4sO40KahLl9rEktZjwNnPiaHURmcR4yz7lUpJISKLT3ZOZguxWoH+PAwSz0D9HafRXxMeQoQzyC0qtnv/4qMYq7TaifC42wbS0FczN1/Uv16dJ7M32/0IHYgXhY+wLDOuSnxfB4TxbbRqAC2IfjRtiHmMetNz+0LucHvbFK5DQvzarnLv2NUUMwGOhiNvB46SZLmJrjqCPcbVK67/YaXoZAE/Xr7ksS50MYdu3HrXi/ZKWsZNC7yvDIQJdiPHie0Q1SWOTGb9fwnJPs08rKxBwxCv5Oj3OJi09rWmgM/0op4Ju/gJ5Lq8N61HZRQmgzuRmRrvxmYd7m2/GobdVrqobakCFvnPC98ChjKDTiV5iyBJla0B6xFTV5pAAkzaCXfA3C1pRI5ekS1LQRT4OD7jJWvRGD1MGestIe5PFWKzKwqBNQxNeTgOAA1FSbVo2t4qYmm/r5aE6IZklrJN/iLB4IRg3OJstdTCtns1nv4vthNlmokg==;MO6QbRKwh1yChzp9b1n1wQ=="
+secured: "v/NNgKpsB+qe6TU+0DxG+ZW2JLT5O1+gdd2qdJWiGh4IDoqPwEtoHjBlD20FLfEXdg41fIYJTHDw2BJlqNDWvNzjfzsNf0nnzZzfJAucFhEZR8AU8PW+gD9x1wFlOE9QggrglHcLJpLKN2FIX5osgVXee8aUpypHjrq2H4i4oE2XNxf1qqeejqvANI7VC88kiuErLb+saID4Nf0WqIbxe8qyE/oT33th0minqZ2rKblKqucEO7vfIFkfg64qkj+YiB+3Y559dNXGQUu6/mVjUPBT6Hzj95c9Apsieob4nQr5xP29y1lv6BmJf1sZB8lIQiNAEhz1VgpS/w5JGFZOkyohTbbgwGOzCLH6Wtsw5HXhrvTHrtBvyJft2T3/Yu9ifMvKU1GNcN6Ox4kn9WKY9tgBsdiBSL4fUUf3uxjVgz44IGYFGXI263SD5lwI2imTx4eHFOamxUiL3AMYqnOZiZrPXYho3k0z3M5t5WrgyWG/Xf1TBzUdh2zDn1itq4X2QnhjXdYMfs7RFkqO2KA7dA==;EfPzTyiAPIlc40rs6Km4kA=="
 ---
 

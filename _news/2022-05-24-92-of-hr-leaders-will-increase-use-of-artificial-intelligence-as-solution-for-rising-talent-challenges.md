@@ -2,26 +2,20 @@
 category: news
 title: "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges"
 excerpt: "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca"
-publishedDateTime: 2022-05-24T13:00:00Z
-originalUrl: "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
-webUrl: "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
+publishedDateTime: 2022-05-24T14:00:00Z
+originalUrl: "https://kfor.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
+webUrl: "https://kfor.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: LocalSYR
-  domain: localsyr.com
+  name: Oklahoma's News
+  domain: kfor.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
-    width: 814
-    height: 330
-    isCached: true
 
 related:
   - title: "Report: 92% of HR leaders plan on using AI to acquire talent"
@@ -55,6 +49,6 @@ related:
         height: 250
         isCached: true
 
-secured: "RbnmZXkZyvtfq34UEt8xlU12sMUXeTK4JK8hNq151h6ntmrfOoxGiGZUeRS8U/SzgTLViRTkqAbF5eifi7D1YrOSBOvUEAW7Oe79YqygdQAua8rZ+3p7D8Rl6kXjId2FuCn3Cn6QspWmwcJKQEFSikPqqQnEzmA5aWUA1sWK3zuqXND6wLGHx/NV3Pq73IufOymCHutxkSrlwJ8HSm5QBKOjo6SIdCWTVebkm4KS3X4U4h5RchJ9hSNqSoVF7WtKuiRX1UiZsN0Mreb/d2dk2uO30Wt6w1ml4YjvVlSIs002C+dKvPYMY0ACkgkF+ArEW+mtQi3JhC9joA4jtzHv5yGMKGJE3vQ3ltHD8CACq6Y=;EJMsI1gkcCYoDS+0/evp5A=="
+secured: "Lli/pme9sV4qBG46DpKvitdj3gzqLRJM9YZrDKSKJ1s8UDNr5blTBImWy/Sef+hF9ql7nGo8HUsIETYp1Ev3xMoFfpAlru5dhgl1siw5syHYUAxyYxXAb42XbFpQgB8LZCzGxIMJEVdko7MbGqlXT8uQ2Qi3z/sQcPiYn0LUbthVnJPlOg2R6KsIbmK65jN88X13BKIy34i4jpBxzLNyGjs2XUmr20djmIntw+jgpWSK78JtHtD+zhQ9rQzpsx1SGAafzBrndqN4zKdb84bC0gQZysz87grvysDBWc1nGSImN6UYrFODcW2jFANZKzKEs7nuDIqvqIPKycSVslzG8z2UmuMLOyftLjFL5L8u8hk=;aGTy5VwfcRO2ed3IEtbvVw=="
 ---
 

@@ -2,6 +2,198 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-19-how-optimized-object-recognition-is-advancing-tiny-edge-devices.md",
+      "title": "How optimized object recognition is advancing tiny edge devices",
+      "excerpt": "Alif Semiconductor have demonstrated an optimized face detection model running on Alif's Ensemble microcontroller based on Arm IP. The two found it is suitable for enhancing low-power artificial intelligence (AI) at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
+      "originalUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-873875560.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
+      "publishedDateTime": "2022-05-18T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-neuro42-licenses-robot-from-johns-hopkins-university.md",
+      "title": "neuro42 Licenses Robot from Johns Hopkins University",
+      "excerpt": "(“neuro42” or the “Company”), a medical imaging, robotics, and AI technology company, today announced an exclusive licensing agreement with Johns Hopkins University (“Johns Hopkins”) for their MR compatible robot for head,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-san-francisco-robotics-945ca2945fda4759bc37f24dcc7f9269",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-san-francisco-robotics-945ca2945fda4759bc37f24dcc7f9269",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-machine-learning-framework-pytorch-enabling-gpu-accelerated-training-on-apple-silicon-macs.md",
+      "title": "Machine Learning Framework PyTorch Enabling GPU-Accelerated Training on Apple Silicon Macs",
+      "excerpt": "In collaboration with the Metal engineering team at Apple, PyTorch today announced that its open source machine learning framework will soon support GPU-accelerated model training on Apple silicon Macs powered by M1, M1 Pro, or M1 Max chips. Until now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
+      "originalUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/j1xq0VbOUNTowCRcKQkyv9DRnM0=/2000x/article-new/2022/05/pytorch.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet.md",
+      "title": "Too Little Too Late: Apple Reverses Remote Work Policy After Machine Learning Head Decamps to Alphabet",
+      "excerpt": "That job switch marks a major blow for Apple, a company that’s struggled to appease workers at odds with its return to work strategy. Goodfellow, who’s the most senior member known to have jumped ship over remote work so far,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742",
+      "originalUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1df6fad1a744c6167d22b8a2880b1d68.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp",
+      "publishedDateTime": "2022-05-18T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant.md",
       "title": "Univ. of Washington and Meta partner on program linking PhD students to AI mentors at tech giant",
       "excerpt": "Allen School of Computer Science & Engineering to form the Meta AI Mentorship Program ... might engage on such things as representation learning, natural language generation, machine translation, question answering, semantic parsing and large-scale ...",
@@ -150,48 +342,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel.md",
-      "title": "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel",
-      "excerpt": "\"Trends and Forecast for the Global Artificial Intelligence Market\"Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1652849737.png",
-          "width": 474,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-18-artificial-intelligence-ai-hardware-market-size-in-depth-analysis-report-and-global-forecast-to-2027.md",
       "title": "Artificial Intelligence (AI) Hardware Market Size, In-depth Analysis Report and Global Forecast to 2027",
       "excerpt": "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market.",
@@ -239,6 +389,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel.md",
+      "title": "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel",
+      "excerpt": "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -978,176 +1162,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-temenos-delivers-digital-banking-solutions-on-aws.md",
-      "title": "Temenos Delivers Digital Banking Solutions on AWS",
-      "excerpt": "Temenos and AWS started working together in 2019 to integrate Temenos ... Amazon Connect capabilities include skills-based contact routing, voice and chat recording, built-in artificial intelligence (AI) and machine learning (ML) to personalize ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-a989e1728a344261a06309ce63603287",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-a989e1728a344261a06309ce63603287",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-payments-fintech-banking-circle-maintains-steady-growth-trajectory.md",
-      "title": "Payments Fintech Banking Circle Maintains Steady Growth Trajectory",
-      "excerpt": "We have also sustained investment in the use of AI to enhance the effectiveness of the AML processes ... online lending, and other forms of Fintech. Announcing the Launch of the ConvoyFiCrowdfunding Website ConvoyFi is theFirst Decentralized ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Graph-Growth-Increase-768x1024.jpg",
-          "width": 768,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191109-payments-fintech-banking-circle-maintains-steady-growth-trajectory/amp/",
-      "publishedDateTime": "2022-05-17T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-c3ai-stock-is-close-to-becoming-a-buy.md",
-      "title": "C3.ai Stock Is Close to Becoming a Buy",
-      "excerpt": "Artificial intelligence (AI) has already made an impact on the world. From AI-powered robots to AI-driven cars, it is already changing our lives and work. C3.ai’s (NYSE:AI) AI algorithms can optimize an organization’s operations by bridging the gaps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy",
-      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy?amp",
-      "publishedDateTime": "2022-05-17T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data.md",
-      "title": "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data",
-      "excerpt": "Anthem Inc.’s chief information officer says he is working with Alphabet Inc.’s Google Cloud to create a synthetic data platform that will let the health insurance company better detect fraud and offer personalized care to its members. Anil Bhatt said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_lead_pos13",
-      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=tech_lead_pos13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-545425/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
-      "publishedDateTime": "2022-05-17T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -142,8 +142,8 @@ related:
         isCached: true
   - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
     excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-    publishedDateTime: 2022-05-26T22:46:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+    publishedDateTime: 2022-05-26T22:50:00Z
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     type: article
@@ -389,6 +389,20 @@ related:
         width: 499
         height: 375
         isCached: true
+  - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
+    excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
+    publishedDateTime: 2022-05-26T18:14:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 52
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft collaboration to accelerate AI innovations in healthcare"
     excerpt: "Microsoft has partnered with AI healthcare company BeeKeeperAI to develop and validate AI within a confidential computing environment. Through the partnership, algorithm developers and healthcare data experts will have access to a secure collaboration environment operating in Microsoft Azure,"
     publishedDateTime: 2022-05-25T19:10:00Z
@@ -495,15 +509,6 @@ related:
       name: Stratechery
       domain: stratechery.com
     quality: 34
-  - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
-    excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
-    publishedDateTime: 2022-05-26T18:14:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 32
   - title: "Microsoft Teams and Power Platform to Get AI-Assisted Collaboration Features"
     excerpt: "Microsoft is showing off a number of new features for Teams and Power Platform developers, including the ability to scan photographs"
     publishedDateTime: 2022-05-25T13:41:00Z

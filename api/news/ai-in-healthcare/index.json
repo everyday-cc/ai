@@ -366,12 +366,46 @@
       ]
     },
     {
+      "path": "_news/2022-05-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel.md",
+      "title": "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel",
+      "excerpt": "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028.md",
       "title": "Healthcare Artificial Intelligence Market 2022, Trends, Size, Industry Share, Analysis and Forecast to 2028",
-      "excerpt": "\"Healthcare Artificial Intelligence Market\"The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320",
+      "excerpt": "Healthcare Artificial Intelligence Market” The Healthcare Artificial Intelligence Market is projected to grow at a CAGR of 10.12 % to reach US$ 320 billion by 2028 from US$ 148 billion in",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-to-2028",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27267404/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-t",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27267404/healthcare-artificial-intelligence-market-2022-trends-size-industry-share-analysis-and-forecast-t",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -388,13 +422,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27267404",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27267404",
       "publishedDateTime": "2022-05-17T15:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -404,8 +438,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1300,59 +1334,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever.md",
-      "title": "The Ethical Adoption Of AI In Healthcare Requires A Global Effort, Now More Than Ever",
-      "excerpt": "The events of the past two years have made very clear that in an interconnected world, a health crisis in one corner of the globe can soon spell disaster for the rest of it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/",
-      "publishedDateTime": "2022-05-05T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

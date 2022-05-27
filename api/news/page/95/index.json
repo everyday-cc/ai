@@ -2,6 +2,196 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2022-03-03-tesla-and-the-ethics-of-self-driving-cars.md",
+      "title": "Tesla and the ethics of self-driving cars",
+      "excerpt": "Self-driving technology has come a long way in recent years, but it remains far from perfect. And that's partially because of decisions made -- not by the cars -- but by programmers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars",
+      "originalUrl": "https://www.kuow.org/stories/tesla-and-the-ethics-of-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kuow-prod.imgix.net/store/6023b3dacd9aac14703ea05a20f4c3e4.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
+          "width": 942,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KUOW",
+        "domain": "kuow.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-artificial-intelligence-medical-imaging-startup-lands-24-investors-for-new-investment-round.md",
+      "title": "Artificial intelligence-medical imaging startup lands 24 investors for new investment round",
+      "excerpt": "Gradient Health, a startup aiming to improve medical imaging through the use of artificial intelligence, is finding plenty of investors for a new round of capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cedars-sinai.org/newsroom/cedars-sinai-establishes-new-division-artificial--intelligence-in-medicine/",
+      "originalUrl": "https://wraltechwire.com/2022/03/03/artificial-intelligence-medical-imaging-startup-lands-24-investors-for-new-investment-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.presspage.com/uploads/2110/1920_ai-cedarsp-sinai.jpeg?10000",
+          "width": 1799,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-cardinalops-raises-175m-for-ai-threat-detection-solution.md",
+      "title": "CardinalOps raises $17.5M for AI threat detection solution",
+      "excerpt": "CardinalOps says its solution provides enterprises with a cloud-based AI platform that automatically generates best practice recommendations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million-for-ai-threat-detection-solution/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/cardinalops-raises-17-5-million-for-ai-threat-detection-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1054070700-e1646261553941.jpg?fit=750%2C370&#038;strip=all",
+          "width": 749,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-03T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-03-luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m.md",
+      "title": "Luminous Computing, which is developing a light-based AI accelerator chip, raises $105M",
+      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. According to some experts, the growth in the compute power necessary to develop future AI systems might run up against a wall with mainstream chip technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 258,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/luminous-computing-which-is-developing-a-light-based-ai-accelerator-chip-raises-105m/amp/",
+      "publishedDateTime": "2022-03-03T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-three-ways-to-overcome-industrial-ai-roadblocks.md",
       "title": "Three Ways To Overcome Industrial AI Roadblocks",
       "excerpt": "Industrial AI can unlock any number of game-changing benefits for the oil/gas and energy sectors: overhauling inefficient operations, increasing productivity and cost efficiencies, reducing downtime,",
@@ -1027,205 +1217,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-truecircle-scoops-55m-to-use-ai-to-drive-recycling-efficiency.md",
-      "title": "TrueCircle scoops $5.5M to use AI to drive recycling efficiency",
-      "excerpt": "UK-based TrueCircle, a computer vision startup founded just last year, has nabbed $5.5 million in pre-seed funding in a bid to bring data-driven AI to the recycling industry to improve recovery rates and quality — with the overarching goal of transforming the economics of waste reuse to",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/",
-      "originalUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/TrueCircle-Fundraise-Feb-2022.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/02/truecircle-pre-seed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/02/truecircle-pre-seed/amp/",
-      "publishedDateTime": "2022-03-02T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-sanctuary-cognitive-systems-closes-c755-million-us58.md",
-      "title": "Sanctuary Cognitive Systems Closes C$75.5 Million (US$58.…",
-      "excerpt": "Sanctuary Cognitive Systems Corporation, a company focused on creating the world's first human-like intelligence in general-purpose robots, today announced the successful closing of an oversubscribed C$75.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/sanctuary-cognitive-systems-closes-c75-5-million-us58-5-million-series-a-funding-accelerating-its-mission-to-create-the-worlds-first-human-like-intelligence-in-general-purpose-robots-to-address-labour-shortages-around-the-wo-301493034.html",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sanctuary-cognitive-systems-closes-c755-million-us585-million-/2022/03/02/9555699.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1756088/Sanctuary_Cognitive_Systems_Corporation.jpg?p=facebook",
-          "width": 2104,
-          "height": 1102,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness.md",
-      "title": "Doctors Using AI, Supercomputer To Predict And Prevent 50% Of Mental Illness",
-      "excerpt": "If we can identify this early ... we can treat for and alleviate almost 50% of the mental illness that goes into adulthood,” Dr. John Pestian told me recently on the TechFirst podcast. “So catching it young,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621e4a5d3379896af6390743/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1075,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/03/02/doctors-using-ai-supercomputer-to-predict-and-prevent-50-of-mental-illness/amp/",
-      "publishedDateTime": "2022-03-02T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws.md",
-      "title": "Bundesliga Match Fact Skill: Quantifying football player qualities using machine learning on AWS",
-      "excerpt": "In football, as in many sports, discussions about individual players have always been part of the fun. “Who is the best scorer?” or “Who is the king of defenders?” are questions perennially debated by fans, and social media amplifies this debate. Just consider that Erling Haaland, Robert Lewandowski,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-skill-quantifying-football-player-qualities-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/01/skill_impact3-1260x437.png",
-          "width": 1260,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T07:24:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

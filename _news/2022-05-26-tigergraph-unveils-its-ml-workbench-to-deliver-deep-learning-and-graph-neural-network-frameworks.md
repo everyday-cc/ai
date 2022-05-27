@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 121
+    quality: 123
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2017/02/machine-learning-e1653607121457.jpg?w=1200&strip=all"
         width: 1200

@@ -40,6 +40,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
+    excerpt: "“So artificial intelligence, machine learning might help us get even ... in dogs Leptospirosis in dogs is treated with antibiotics, dialysis or hydration therapy. According to the CDC, early treatment will help them recover quickly and reduce the ..."
+    publishedDateTime: 2022-05-27T01:20:00Z
+    webUrl: "https://www.uniondemocrat.com/lifestyle/article_b1bf294c-dd2a-11ec-912f-17bdf866e445.html"
+    type: article
+    provider:
+      name: The Union Democrat
+      domain: uniondemocrat.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/uniondemocrat.com/content/tncms/assets/v3/editorial/d/43/d439312a-dd2a-11ec-85e9-e75dea6e9aeb/628fd64c68777.image.jpg?crop=1294%2C679%2C0%2C92&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "64fS5H5uFNbGYg/zjpQbtuRDdFROH1nDpjcj4XOb1SmTj1iP8EMePZJ160H3DxMi/+35Wfebvr/PcO5mQonKSWCUXl3nQg1cPYfufaZS1IVslyJDVs1dSWXW8Ha83YGpI+e0Kc1RU+kM22J1hcyzZEc6yjvpMf7HkedHkNxujJkhUISEhRy4RNbfWSyTgZFYKAioCMLPDg9ezZQ96TlYlRYsT22FlYbAaD7F370GDsF+0izF9cOpzf8UGyFWOqq8+wVpYzcr5eO0IViKwacyAvA6zaylG/fE1BZjM6b0w98pq65y7tLd3DatiZ06F38ncRMerJhASEZ9Xsg0H2QOIGYCM92xFQEOlnZ5tBw9rXUkc4F0yZv/rGqeE9wyX1pekdfuC/0FDAHzCv+WRtZ2E2ljJxhCXB0+CJH+bmRo5JhsKAw2HuhE5xFdHo9s88EKd6MA2qdX0ymeEPzWDEXvdjGSaAnKXJtr2XyMrHe7p27/9Lc2rPKgkLZXqNmiOt3UUPKjK2lfRQG+eCIAHlVwJg==;N2MklQoLun96b/OQ8CaV7Q=="
 ---

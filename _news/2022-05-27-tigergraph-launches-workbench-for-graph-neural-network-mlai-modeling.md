@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-gr
 ampWebUrl: "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/"
 type: article
-quality: 121
-heat: 131
+quality: 123
+heat: 133
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI
   - Machine Learning
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2017/02/machine-learning-e1653607121457.jpg?w=1200&strip=all"
@@ -47,6 +48,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dLXCZqvnJ/gCt/r6g6oFJHLgh/NhdL8N1YJVodrR4i3uKEBgvbPlQfwyzyQzLagkM/gmUukWKhmqtPSft7w/gad1Hs9wtUMPcm2A4Dd9rN1mXeNntBTvgGwK79Y0ZdsU5lDPnKHyOzGP4yOAEuLirYQq42ZEquramzEXNfWpIxuekWwAL3NobfWoo2FXeBxJeyfJ43fBszm17ZdBmD+oDb80USXNggbNsSpTisHELW/goD75MbItUdTvoe6sVzoGtHer8RmgoCcDqSRHiYNNsQwHSxl4KHkIPK/XoZ/+V4bYmUGvPjUaG6Q4hWULNSW9GqpvQV5EB0sBJQ76tumiwms2iUJWUrmLzJGAToPQLd4=;hZsft7ui6hiYLe6v/8b0bw=="
+secured: "Rf69hTIlE0mnIkCd/JWfsEpww4qPS1ux9e+ZbwzRd3DEQcmHGnz3ubvTHyuSmtVGlw7908FV5k4lFqt0FWwQ9iivQjo3pg8lCg1c1ZC58jlIWHRizIv+N8Dhz7s2mVWkDyrMB8b+iezuqvcxmKOI2pYvPFbCvzcV08HK83FIXoy0Ekg2Q1F8hRggOF8J+3vazsQMOHWgK9vWLy0qXpDPHqQM2Au6eqmQ42nQjJS1ka/yhp+vzVmHPfNTDUxbZnMHvVMFW1wwOElk9bDgrsZ6XyPf3I90LhFvs8kMnKqFNSiiCj5bstbmVeIfGzcPLdeCt0hltPu5cWlLbZhrWZZ6cIs7dkX82LH6beoiYZgtgTb3/V9cKPq/GZAVa2BFleQdSs73q5nZq6HW74kKp1qo4mKNZ21yTB7Px9U2Rz5YkFpt3lvm6hjuwfO0F/QEohGSjJ0kch9KSPQchZI7LoozuX/4XnK0knSHgRb86C94ia13AEO/ymnO7aUz2/mpJjA7AuveSU/ksFLJziPPH1+Wmw==;h/Lr6VhsCBHjlhWVAib3zw=="
 ---
 

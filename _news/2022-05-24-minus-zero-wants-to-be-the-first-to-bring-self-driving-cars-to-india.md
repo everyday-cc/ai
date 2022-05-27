@@ -71,7 +71,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 42
+    quality: 44
     images:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg5NzU3MjA2MzgyNTE5OTk2/pony-ai2.jpg"
         width: 620

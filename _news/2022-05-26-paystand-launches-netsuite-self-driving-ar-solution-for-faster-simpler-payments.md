@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/paystand-launches-netsuite-s
 webUrl: "https://ibsintelligence.com/ibsi-news/paystand-launches-netsuite-self-driving-ar-solution-for-faster-simpler-payments/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,52 @@ images:
     width: 400
     height: 224
     isCached: true
+
+related:
+  - title: "Fintech Paystand Introduces NetSuite Self-Driving AR Solution"
+    excerpt: "Paystand, the maker of the fast growing Payment SuiteApp for NetSuite AR, has announced new automatic billing and payment features."
+    publishedDateTime: 2022-05-27T01:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/05/191541-fintech-paystand-introduces-netsuite-self-driving-ar-solution/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/05/191541-fintech-paystand-introduces-netsuite-self-driving-ar-solution/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191541-fintech-paystand-introduces-netsuite-self-driving-ar-solution/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Drive-Road-Way-Path-Winter-Car-Auto-Speed-Windy-Curve.jpg"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "US Fintech Global PayEX Showcases Account Receivable Solutions at Finovate Spring"
+    excerpt: "J.P. Morgan-backed Fintech has processed over $50 billion in transactions through its cloud-native, data-driven, end-to-end AR solutions; Global PayEX’s AI and ML solutions digi"
+    publishedDateTime: 2022-05-23T19:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-darien-software-fe36d5f92cc89c8822e8384b2cde9d0b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Paystand Launches First NetSuite Self-Driving AR Solution that Puts the Cash Cycle on Auto-Pilot for Faster, Simpler Payments"
+    excerpt: "Paystand, the leader in blockchain-enabled B2B payments, and the maker of the fast growing and most innovative Payment SuiteApp for NetSuite AR, today announces new automatic billing and payment features to provide a faster,"
+    publishedDateTime: 2022-05-25T12:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-scotts-valley-blockchain-5b8b6c1af7864a0ab18a70e1bc14d1db"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "FwfCl9e0zSZc8QWtvInq/ICB8KZOj81lX8DP/iNtX47wB4+h9Mft/bUKOU0lOMF0N/8bTEqdnyoiStqouI3sQsS4Y5jbeQyWW8goS2VGScvC9CNeeMp0hkXD51ogzyMDp5RsMQmBTMpfYKWzBSI2wN/k+JMY3WuTgNuvA9TSwi7k7GYshiu+V4O6X3A06vkrf6KcCWDZFxkgshTe4ct8mLvUL2d3RjdX7bYstNPlorggxKo8iP2io67TOq9mqQ9U95zd2344qKOJdpZhbAntg4xOHxBYhwx6xQrzoSOwgJigLY/8gO73EAA47dkr4ny4qL1HaFmvEND1V6iUWrYHAHoipIkB3Kwrh4UmqUw0o4PAjSGwMr37Vb1XIrQbiWzWpzih9CIsax4vnK9kI0MaGprVHGT2K26aq7unbUNjmD7lzR8/wPFYFggH03ygRLpszBB6THdg2UKIyEQqkVt4FqnI67EdjFVFxnxxwiAculfEeq47Zd4Fvc//NeEKpIUmjDXhbwKMQen95webRzVc3g==;/zOkW+zTkm1CV47EoTGIwg=="
 ---
