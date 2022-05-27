@@ -35,14 +35,19 @@ related:
         height: 1289
         isCached: true
   - title: "Making sporting history: EuroLeague selects Israeli startup MindFly to power First-Person Point of View (FPV) content from players"
-    excerpt: "MindFly will fit AI-powered bodycams on EuroLeague players to enable fans to watch, hear, and experience everything their favorite player does while on the court . Groundbreaking"
-    publishedDateTime: 2022-05-23T12:00:00Z
-    webUrl: "https://www.nwahomepage.com/business/press-releases/cision/20220523LN65965/making-sporting-history-euroleague-selects-israeli-startup-mindfly-to-power-first-person-point-of-view-fpv-content-from-players/"
+    excerpt: "MindFly will fit AI-powered bodycams on EuroLeague players to enable fans to watch, hear, and experience everything their favorite player does while on the court"
+    publishedDateTime: 2022-05-23T11:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_sports/making-sporting-history-euroleague-selects-israeli-startup-mindfly-to-power-first-person-point-of-view/article_bc60d207-2580-50d4-828d-cb105e6b7a31.html"
     type: article
     provider:
-      name: KNWA News
-      domain: nwahomepage.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "QeYVgY4DL4zP/TNAQ274IGwjUjWD23wNsWn2u8FgT8ah6eA9HUdnU6McWdwOwObMizKXCzsmAyjbOho36Pw8emGk9x1m5OvvBWuUh+GPQzfzhY0QHVDZngqce2PMzS4qmlnfBGmrW8chxK0EcArAENBRRTDl+BS3dvmuX5um/UhlSLlEzgvU/zi9PAHJ6RDi81drfFaDD90DrePULra3Kv+/81U9v9nUlfZFXJqCYkg874IoFrtXc9B6v4yWfyJ9p2CJLj3jaBQw/jWTZvf0wvO+huCTZrdhu399+B1pkM/bpcRlQUgePZ2zxbv7qx9deiAW02he9nMIkA8GHlB7jZDPCPSx2A/9ja5R+JmHpAs=;u8wRfSpxNvCINfil5bGK4A=="
 ---

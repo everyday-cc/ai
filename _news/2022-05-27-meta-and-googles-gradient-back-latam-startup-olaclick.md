@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/05/26/meta-and-google-gradient-invest-la
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

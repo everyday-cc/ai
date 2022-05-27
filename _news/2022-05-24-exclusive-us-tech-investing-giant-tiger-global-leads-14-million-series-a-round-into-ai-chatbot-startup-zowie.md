@@ -45,11 +45,11 @@ related:
         height: 600
         isCached: true
   - title: "AI Behavior Health Chatbot App Fast-Tracked by FDA"
-    excerpt: "Recently the U.S. Food and Drug Administration granted breakthrough device designation to Wysa’s AI-based digital mental health conversational agent that delivers cognitive beha"
-    publishedDateTime: 2022-05-26T20:00:00Z
-    webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
-    ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+    excerpt: "Cognitive-behavioral therapy is a type of psychological treatment based ... The worldwide market for artificial intelligence in healthcare is expected to grow at a compound annual growth rate (CAGR) of 38.4 percent from 2022 to 2030 to reach USD 308.2 ..."
+    publishedDateTime: 2022-05-26T20:36:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
     type: article
     provider:
       name: Psychology Today

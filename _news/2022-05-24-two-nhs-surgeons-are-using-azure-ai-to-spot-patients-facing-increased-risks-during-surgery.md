@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-usi
 webUrl: "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/"
 type: article
 quality: 94
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve//628ce3b2679ffd8cb97857e8/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 806
+        isCached: true
+  - title: "Railway industry companies are increasingly innovating in artificial intelligence"
+    excerpt: "Analysis of patent filings shows a growing level of AI related applications in the industry over the past year"
+    publishedDateTime: 2022-05-25T08:00:00Z
+    webUrl: "https://www.railway-technology.com/analysis/railway-industry-companies-are-increasingly-innovating-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 47
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/05/FK6AS-1038x778.png"
+        width: 1038
+        height: 778
         isCached: true
   - title: "Case Western Reserve signs license agreement to bring groundbreaking AI for helping cancer patients"
     excerpt: "When Case Western Reserve University research showed that artificial intelligence (AI) could identify which lung cancer patients would benefit from chemotherapy, a national magazine called the finding one of the \"10 Most Incredible Medical Breakthroughs of 2018."

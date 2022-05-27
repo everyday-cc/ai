@@ -1,18 +1,18 @@
 ---
 category: news
 title: "New Studies at ASCO 2022 Validate Effectiveness of Lunit AI as Diagnostic Aid in Cancer Treatment"
-excerpt: "Lunit to showcase 7 poster presentations and 4 online publications, the company's largest publication set at ASCO to date Findings demonstrate the practical effectiveness of Lunit's AI solutions in the pathological assessment of tumors across more than 16 ..."
-publishedDateTime: 2022-05-27T01:56:00Z
-originalUrl: "https://www.kron4.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/"
-webUrl: "https://www.kron4.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/"
+excerpt: "Lunit to showcase 7 poster presentations and 4 online publications, the company's largest publication set at ASCO to date; Findings demonstrate the practical effectiveness of Luni"
+publishedDateTime: 2022-05-27T03:30:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: KRON4
-  domain: kron4.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 294
     isCached: true
 
-secured: "cpXeyVeVv9KayWspcRGOdncMmAc2CCmMszhsX78EBGYC5JCTpm8UXk9ujkp5ZZJalVo8gOPsLewIXf+PljGQgI/A0wqylcHUFQKb21JUNBFCF6lEob6JS1VDMQmQArT/4k8pzOssQuCUhKvRio6XV4rDejibxgyn1tdW2CMzHr8LZ0TwbVDVuIIqWJ5DG5G6GeTIQrM/EVI703vy9sH1Mp5PQXqvwW/8DERLhNpAUJGHOf91fEJebyUAMXMSGsEZVvpMMaJ0erboV5NDPaZSSgWgrp5iFmIIJykjGM+K2Ld2pcOO+QlcDjyXg5eTZDpARqCyUtdEpHsDhJELNU1PxAAnJmKE6AlD97zJq8zRB68=;2EobW/68mEH5jvgPPA12Og=="
+secured: "i7UDs+EaUF+k701aaBqCsIWO87f4p3ZUB+F72wwYjrHSAqtgn59OMc96KCvHljLbs1nqlWFmpKlhOgYT2518/yu2LJVhzk3719m1Ys71k+OLwsSxd8gBrsIvDykW8zWYlRHQC3cR82IBcehRuNyti5TeyTi+N+e4mL+vs1s2lYCoxqnZmOofZRn9dikJwdawNIkzfXKZXlYq//GDpgmd5bscd5eTj5FC1d0bLdbmB4OdjRkEDatZXkVFezPzp03AS2Q1ezeAkiHdm/uLBz4XSy4pLev+nbLhgtf/RhqWrOFfoQp898+T0OkmB4tnjAvZ26RFFeT0GBCJUipQAMJSji1q3bMXl+tfzm5RC/XLdS8=;c1z4YT+lILsrwjYBvvLCGw=="
 ---
 

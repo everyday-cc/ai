@@ -39,18 +39,18 @@ related:
         height: 408
         isCached: true
   - title: "European business communications provider Dstny acquires Tactful AI to accelerate its position in the Customer Experience Platform market."
-    excerpt: "The acquisition takes Dstny to the next level in customer engagement, enabling companies to employ Artificial Intelligence and data in their customer experience operations with minimum effort. \"With Tactful onboard,"
-    publishedDateTime: 2022-05-25T07:00:00Z
-    webUrl: "https://pix11.com/business/press-releases/cision/20220525LN64844/european-business-communications-provider-dstny-acquires-tactful-ai-to-accelerate-its-position-in-the-customer-experience-platform-market/"
+    excerpt: "With the out of the box, no-code AI-powered automation engine ... Tactful is a perfect match in every way, and we are excited to start working together,\" says Chris Parker, Dstny Group. Dstny is a leading European provider of cloud-based Business ..."
+    publishedDateTime: 2022-05-25T08:11:00Z
+    webUrl: "https://www.wdtn.com/business/press-releases/cision/20220525LN64844/european-business-communications-provider-dstny-acquires-tactful-ai-to-accelerate-its-position-in-the-customer-experience-platform-market/"
     type: article
     provider:
-      name: WPIX
-      domain: pix11.com
+      name: WDTN
+      domain: wdtn.com
     quality: 3
     images:
-      - url: "https://pix11.com/wp-content/uploads/sites/25/2021/02/PIX11_White_600x248.png"
-        width: 600
-        height: 248
+      - url: "https://www.wdtn.com/wp-content/uploads/sites/45/2021/07/cropped-WDTN-Dot-Com.png"
+        width: 3000
+        height: 1243
         isCached: true
 
 secured: "d31a+QXAXvOiPDISfOMPdal/fUZpH/1LX+fglFD8dhARLiSpNbIcYa5+vc1/3an/sUuWNzJduB4q1hwW/FxZHTjdwNscebUcXHi1aK1ntLpGLsvfNIgZNxf0+fqsIIos1boEdMPTezXQu4RZQCzgInB0eRlk2Jgox7KNqndgJkqWXdXt/qBfRIFgqHa4yjxzuytEQSi/NCQmhJIWm+NQQQxMlh41ud3OvbDr9ACH276pkwYX7Uu92zMkLEqaHlYdpNWJo9pjRgyuAX0udNQj2LN5UcpqcYxnUrAoLaL68bcUToGwwdAZX/h9IWKVwz0xchQfQ6zXOVuehFGEOoU5c5ANnzPRWrUTKTX2fIiQJb0=;PmsEWzSxiu59GNJl8jHQoA=="

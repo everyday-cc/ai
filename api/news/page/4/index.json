@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-23-meet-13-robotics-startups-in-denmarks-beyond-beta.md",
+      "title": "Meet 13 robotics startups in Denmark’s Beyond Beta",
+      "excerpt": "The startups will receive coaching and mentoring from robotics experts and exposure through Odense Robotics during the Beyond Beta program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/meet-13-robotics-startups-in-denmarks-beyond-beta/",
+      "originalUrl": "https://www.therobotreport.com/meet-13-robotics-startups-in-denmarks-beyond-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-beyond-beta.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-3-top-ai-stocks-ready-for-bull-runs.md",
       "title": "3 Top AI Stocks Ready for Bull Runs",
       "excerpt": "The lockdown measures also caused people to use more apps and cloud-based services, which drove data centers to install more of its high-end GPUs to process the incoming data with machine learning and AI tools.",
@@ -1081,39 +1124,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-how-ai-can-facilitate-supply-chains.md",
-      "title": "How AI Can Facilitate Supply Chains",
-      "excerpt": "Here’s how artificial intelligence could play a crucial role in supply chain management, and whether it could be part of the sector’s future. Some people might associate artificial intelligence with robots and assume it’s limited to basic applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
-      "originalUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
-      "publishedDateTime": "2022-05-20T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

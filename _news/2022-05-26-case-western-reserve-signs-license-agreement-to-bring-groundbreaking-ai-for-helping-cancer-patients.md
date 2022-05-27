@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 806
         isCached: true
+  - title: "Railway industry companies are increasingly innovating in artificial intelligence"
+    excerpt: "Analysis of patent filings shows a growing level of AI related applications in the industry over the past year"
+    publishedDateTime: 2022-05-25T08:00:00Z
+    webUrl: "https://www.railway-technology.com/analysis/railway-industry-companies-are-increasingly-innovating-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 47
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/05/FK6AS-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence"
     excerpt: "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma."
     publishedDateTime: 2022-05-24T15:28:00Z

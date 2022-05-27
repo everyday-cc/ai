@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/"
 type: article
 quality: 123
-heat: 133
+heat: 134
 published: true
 
 provider:

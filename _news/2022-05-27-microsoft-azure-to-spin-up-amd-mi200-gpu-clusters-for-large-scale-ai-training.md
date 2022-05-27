@@ -108,6 +108,22 @@ related:
         width: 1023
         height: 716
         isCached: true
+  - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
+    excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
+    publishedDateTime: 2022-05-25T20:10:00Z
+    webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 105
+    images:
+      - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
+        width: 1000
+        height: 380
+        isCached: true
   - title: "Microsoft Tips Project Volterra Arm Hardware for Hybrid AI Development"
     excerpt: "At Build, Microsoft also announced new ways to leverage its Teams collaboration platform and Windows 11 operating system. The metaverse got some play, too."
     publishedDateTime: 2022-05-24T15:48:00Z
@@ -123,22 +139,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04QaiwIk3lksY7Zopu4D8dU-6.fit_lim.size_1200x630.v1653405603.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
-    excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
-    publishedDateTime: 2022-05-25T20:10:00Z
-    webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 103
-    images:
-      - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
-        width: 1000
-        height: 380
         isCached: true
   - title: "Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability"
     excerpt: "The post Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability appeared first on The AI Blog.\n"
@@ -392,7 +392,7 @@ related:
   - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
     excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
     publishedDateTime: 2022-05-26T18:14:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+    webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
     type: article
     provider:
       name: Visual Studio Magazine
@@ -528,6 +528,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "ToJP6PY8VoyJ8Hb6T27U0TLjnQfTqubMtArmd4ZCjAPgtwKPiQy7tIhzYtDJFNQKfOPXSHptscl0mWohSMo3U7jiDNLIPk8tBW2ot0MjT8lLfeE7GaBnXfvt54tq+F02vZgNM932fSjyOPCIsATWFvGbaiI0UJ3Xo5kY2gKUVjWseXyKYkv7g5zPRr2vWj8mE6vRnVlH/oKdRdBdOQEEfujyMnQjVoYN2qYYz4qxzbQzjINxvit9nvOn88RcinhXRUuPrg3d2QW/mqnyKyHeTa6NB7qLyrrShGDOorwlBM9XyIMEJIIo9j6iVMUWJnS0Kvg6dXubu6RGp3Da0Td1Jap7K9OPKIgMTfwLHDdQ4Lw=;spt687AnJwRpSlTS5t7t/Q=="
+secured: "LCZrexWuiZCQy+gEgNCJqk4HR65wmctcOQ0w6rjuYfSgMHSfBPTnmAVOCH/b9kULasE2AvmxYB6VMEboJi70/KB/GOmYVP0d3b6qx15vlKbhEIsw/QsywhGlDwaM0LHGrdO0XYRmuRjjRYfuFFpd1MD4QZ2rO4fUtu83IoG07v8LufA+HvYoQkHexh22ze664RAgMzvSl4JHTyYY1j9c+gHy1abSMWE6GGBKW17ahRl7GGSXXRY9FZ6JKkqaqCQnq/8jqpFEDUcU5dkFQFepMq/xQlSAwcmcq+/q0JqCrnrAfg+Nva5fJZTzetEFA/weOAWvdSLBEOu/VezMzmNP99juG8uEhFVzceOTixiV3SLI3or3t/YLDC0aCaP86i7LwOD5jV6PZ+uRrvIF2LzsWfmxHFFEzUT6bUiUUUDIH66sEvC6NxYSrhl2kQuXNaYiEKAY2xy6N2ebq0xD80pNPcWlWNmS+Focl4CcjmBcWTQgWWBO6rNlELkdmozYK7sMbAl/vLdsVM8ZMqYgbbB2bA==;QkhibiZNGxkbKpU6P1D3Cg=="
 ---
 
