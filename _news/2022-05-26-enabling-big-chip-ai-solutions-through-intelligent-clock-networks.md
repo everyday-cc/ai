@@ -39,6 +39,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How Artificial Intelligence is Changing iGaming"
+    excerpt: "Updated: 24 May 2022 2:38 pm Artificial intelligence is playing an increasingly important role in many aspects of daily life, including the online gaming sector. Both land-based and iGaming have evolved and made use of cutting-edge technology to provide a ..."
+    publishedDateTime: 2022-05-24T09:10:00Z
+    webUrl: "https://www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276"
+    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 37
 
 secured: "M99cXN5rBy837Z4NV/vlDY8ILeRWHANgvEk3xxZMt/o7xJNBDEawJoKmi7BASLTyreK3Aq/+D8f2S579eOu9sny5i4q+Wetu4d2tJXOC40ITqs1rrkcrLsK0IF6RPwxr2/4gtkqSCJUpaNub1vnt9abC/w4R83KLmAmkdj2ZTsTpfCkpb/+aE3ygQL5oyZvIkJpK2DYsLMU4oosQEWBr6TZNPVccDc7Xt+vnxSqElkerJ7Ujtf/tlfzFBOB1DelcF6LB1J7hnHDbxUmD3OFQC5I/gXyeFmt9a/aCzloiXjsU+/IeDmcEvBLw6VGVrfzTnFpJmFnwDnKykINPa8aVTQ7baXGfu3zAC9sQAiDxSrd84JHr3XD/0Fh0VGipLNpvE2kRFgx6Es/Uj1CbUt65jQOGuvIkOrYrvJsQ9ap89jfhdjWIgFfcWMBl9zCuAF+VQlhyjhb5iSviDnHYQFRxQz7SuEhFdxfJoiovAhZ6l7Z1fLLSWyOVR96Gh/RmGg+Q8qgnpX1QbNidAOXmMF6w/w==;LyyL3+7F/nDSuP06ArLcVg=="
 ---

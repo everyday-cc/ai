@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/05/屏幕快照-2020-05-07-下午4.16.18.jpg?fit=1200%2C601&ssl=1"
         width: 1200
         height: 601
+        isCached: true
+  - title: "Minus Zero wants to be the first to bring self-driving cars to India"
+    excerpt: "While Tesla is yet to enable its own autonomous self-driving features in their cars, Minus Zero may bring the technology to India as early as next year. The Bengaluru-based startup was able to raise $1."
+    publishedDateTime: 2022-05-24T03:15:00Z
+    webUrl: "https://www.techradar.com/in/news/minus-zero-wants-to-be-the-first-to-bring-self-driving-cars-to-india"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/rE74GZCXXpLivMo5UScv9k-1200-80.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI To Make Roads In India Safer To Drive"
     excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"

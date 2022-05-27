@@ -59,6 +59,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "World’s smallest remote-controlled robots are smaller than a flea"
+    excerpt: "Become a physicist At 9 for every 100 workers, robots are rife in Singapore – so we decided to visit them Watch it go: World's smallest self-folding origami bird that reminds us we were promised nanobots at some point “Because these structures are so tiny,"
+    publishedDateTime: 2022-05-27T07:15:00Z
+    webUrl: "https://www.theregister.com/2022/05/27/worlds_smallest_remotecontrolled_robots_are/?td=amp-keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/27/worlds_smallest_remotecontrolled_robots_are/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/27/worlds_smallest_remotecontrolled_robots_are/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2022/05/27/supplied_robot_crab.jpg"
+        width: 480
+        height: 322
+        isCached: true
   - title: "Smallest-ever remote-control walking robot uses shape-memory alloy"
     excerpt: "Researchers at Northwestern University in Illinois have demonstrated the world's smallest remote-controlled walking robot, at just half a millimeter wide. Such tiny machines can bend, twist, crawl, walk,"
     publishedDateTime: 2022-05-25T18:00:00Z
@@ -98,6 +114,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "6cmepFmEvTbXkxsJ63XCc48kztPgXFboALTMN6a/dbtsen5y+biLVx3ithZqRRr5GN6jjlx3ivqt3zoEcBYTVyzf33QvEW1xB0z/EDH6+DQJ/LMcXlRXONbcOAz81Pifr6K2JrKBoUV8TscE3mFKQbPiK3au1RSsjFZ8nzR6ajcm4r9ZN53DBNSSqq1HX5Ok/WG5MpKonWyDiAv7bx9ozVnomzpK78bhRRPRMA4Ia/u4bauYhoOgKLrglHs4mu6kWRsAbQ+sYvpBxfv2QOr2Fvf8nsF2r/iCsMOCMk6qKFrFwoelu8uwZ5XdoA9fWwAmo+v21UCD5FJvwf/jl+oL1eGM3ahyqMmBTnDjkCjvObw=;myrNIE6EKYd2E6VBgi12kA=="
+secured: "P0+5VeqS+6BO8ELOjXcbFPjXN6vjtvyyyHaoP7/HplA9Fv8sS8nZjIKsuTmga0xKcPpITUzX1QoYplYWE5WlU90HlaO9XvjzZSxMH1JVaCG0GnpQ9tYpCp/5BjGntJNRut2CzCWnR1+dINjTTsICQCQ0qQozD3k4tizmb9i0s63XwOhZVNwohXw/3eHlVtf5W8FVdN++JENyJ2NL9SvIZdzSuTBMf9Sso3276bH2jWQwqmbD0Vd1Yr4eBZ7MVk4w0GGllFNDZ2cQuywdMxwrSEXabiiz6KObJQoobijE4znnRgpiBKu87ifPcz6+PGl3yh4fgTcGlJtKJcg7VjcIFERrQ2mtQBGXJwW8LClVQfZ2qfKhzWsb9hqfa2EuPB+II4Hs768a8C91EZEIl0Zh2x8FQd3Ob7I5k32qd2nIWwbPmk8wjnrXJNrslgLIEr8+RJbJBlcvcOO80YLUArtJ8wb7kcoAqqpjYWnq23bN9Y75wdA3GAI596E4NVBuvkri5IAV/ON0tK7s/MGqF5toPw==;GTrpfMDu3m/abjffUIdhcA=="
 ---
 

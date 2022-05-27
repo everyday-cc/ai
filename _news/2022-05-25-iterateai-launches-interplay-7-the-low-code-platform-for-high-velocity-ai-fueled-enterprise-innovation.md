@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
-excerpt: "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All"
-publishedDateTime: 2022-05-24T17:42:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8559031/iterateai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8559031/iterateai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation"
+excerpt: "Data scientists can send trained data created in Interplay 7 for processing in Amazon SageMaker or Google Vertex AI, or can process data in Interplay itself. Building web and mobile applications ..."
+publishedDateTime: 2022-05-24T18:33:00Z
+originalUrl: "https://fox8.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
+webUrl: "https://fox8.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+    width: 800
+    height: 340
+    isCached: true
 
 related:
   - title: "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI"
@@ -64,6 +70,6 @@ related:
         height: 338
         isCached: true
 
-secured: "OY2ePTMdVKCsQuG44PLBqwqfmWi1GfnesejsDyipCilL50Xpnt/kgtbrAZwUMJuWB5YaAH+kw2woyJ+t9sPxiBy5AUECTE7ypFlqKvtLmfcHajd0Mus2Jzk6wnksc3FF6YMZCe7ppOXiKVPUnMwnZ6za4pVF1Gi7gCvXW5sA7BXxevARQm/0caepbNeTO5JYD3aICIUomynbreS6vFbci4+n+AXk6TrcD4N9LQj6xrQLggaQl9ZqdSjAfV/MXKwm3ztdpZS04b3Gnig4yiBsO9+yYAWraMS6CCA5VBx/PjB+oMHqBFZMxPqoxxIbzp5a8+b7VQdZetYurU7aeHMRCEEnSUQFGwiDNqsigmF3rqY=;L+m4D+gs9fp0m0IilkDUGg=="
+secured: "av8clQQsZ8u+o+nQzPF1qaafeKuhMYImlsjAt7qOTOlAqrcCqX9yUh/OPSWqCEt0Uais5eawyxYxFh6DsnzjNXdccZzy6YPxx0WhZdtn2EgOO4Uk6DKV5oMtA0u6mFF/15OYJJ29WnLrBuYmqE85mImR0q02C+n2zbHgHkJq1WavacqpQdPGdksv9CmIxIycV8e81K++N3O+ztKQgSHIjKTkIrtB/FQhY3/dGSADQSub39ZNJ5CD0jb8qPrPNvWIzgCehLaD/NxSuxPYlglJNTJaFI5ysqgZqe7lVv73ByJX7+SUdqMpb+mIIY+n5LBfXDq0qOJBeic+cV35kZbkuIMnoPUaPXLKloS2hFGX0fI=;qD58VXq2Jh4mlZJFRkkIGw=="
 ---
 

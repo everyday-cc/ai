@@ -20,81 +20,33 @@ topics:
   - AI
 
 related:
-  - title: "AI Ethics Unnervingly Asking Whether AI Biases Are Insidiously Hiding Societal Power Dynamics, Including For AI Self-Driving Cars"
-    excerpt: "A bubbling up theory is that AI biases are reflections of hidden societal power dynamics, which has vital impacts for AI and AI Ethics, including the use case of self-driving cars."
-    publishedDateTime: 2022-05-22T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/"
+  - title: "How This Startup Is Bringing Smartest Solutions Through AI"
+    excerpt: "With an eye on finding the smartest solutions for any problem, Pixis was born. The platform is a codeless AI infrastructure for demand generation and marketing optimization. It was founded in late 2018 by Shubham Mishra (Global CEO),"
+    publishedDateTime: 2022-05-25T05:32:00Z
+    webUrl: "https://www.entrepreneur.com/article/428229"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200"
-        width: 1200
-        height: 809
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1653456757-Untitleddesign-2022-05-25T110036996.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Minus Zero wants to be the first to bring self-driving cars to India"
-    excerpt: "While Tesla is yet to enable its own autonomous self-driving features in their cars, Minus Zero may bring the technology to India as early as next year. The Bengaluru-based startup was able to raise $1."
-    publishedDateTime: 2022-05-24T03:15:00Z
-    webUrl: "https://www.techradar.com/in/news/minus-zero-wants-to-be-the-first-to-bring-self-driving-cars-to-india"
+  - title: "Enabling Big Chip AI Solutions Through Intelligent Clock Networks"
+    excerpt: "Data centers, autonomous vehicles, and computer vision applications are pushing the limits of scalable AI compute. Data center chips face multi-trillion parameter models that continue growing every year."
+    publishedDateTime: 2022-05-26T07:05:00Z
+    webUrl: "https://semiengineering.com/enabling-big-chip-ai-solutions-through-intelligent-clock-networks/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
+      name: Semiconductor Engineering
+      domain: semiengineering.com
     quality: 54
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/rE74GZCXXpLivMo5UScv9k-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ford still focused on self-driving cars as electric cars take off"
-    excerpt: "Ford is rolling out Blue Cruise, its self-driving functionality, and we took a test drive in the Expedition Platinum."
-    publishedDateTime: 2022-05-26T21:29:00Z
-    webUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off"
-    ampWebUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 44
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/05/932/470/ford-Expedition-platinum.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Self-Driving Car Startup Loses License in California"
-    excerpt: "But even so, the push to bring more self-driving cars to the roads has continued its march forward. There are currently around 1,400 self-driving cars, trucks, and other vehicles"
-    publishedDateTime: 2022-05-26T21:36:00Z
-    webUrl: "https://www.thestreet.com/lifestyle/self-driving-car-startup-loses-california-license"
-    ampWebUrl: "https://www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg5NzU3MjA2MzgyNTE5OTk2/pony-ai2.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Self-driving delivery vans heading for UK roads as government launches £40m initiative"
-    excerpt: "Self-driving vans, buses and shuttles could soon hit the UK’s roads following the launch today (23 May) of a £40m funding competition. The move aims to kick-start commercial self-driving services, including delivery vehicles."
-    publishedDateTime: 2022-05-23T15:46:00Z
-    webUrl: "https://motortransport.co.uk/blog/2022/05/23/self-driving-delivery-vans-heading-for-uk-roads-as-government-launches-40m-initiative/"
-    type: article
-    provider:
-      name: Motor Transport
-      domain: motortransport.co.uk
-    quality: 16
-    images:
-      - url: "https://motortransport.co.uk/wp-content/uploads/2022/05/shutterstock_1014530413-2.jpg"
-        width: 800
-        height: 476
+      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/Movellus_Big-Chip-AI-Through-Intelligent-Clock-Networks-fig1.png?fit=503%2C274&#038;ssl=1"
+        width: 503
+        height: 274
         isCached: true
 
 secured: "mLEfsp8n0btDOKU/HwqC4sMzA4YLFe/hQHBuHr4m59WhINb9ZLCWkW/R4Zn/hBr89Nh0PdHxJDxKK6jOrhaO/SmwYMiEnc0s1OJatYQ2VAp1l+jfYZF2ay+1UIuMzNdTJzdrx7dVmSCsy/fbWV688Lv3xa1yrqy2jxPk6Lm6gN2Cv2fS6L4eFxMK1l2npdccpJSFDtHpYnoJ+XJNabgUboimkjMNva4J6/Si0elpwbSm+5LnLOFhnMOiP6oNrAhrMlDwqOWzW/W1/ChUVUqnqbq+CO19WhVhr7tVzhPdCjOwKpvNN1EDolFMeFC743uwzp/XhbseNAUKdXN5vXBTrQvkX/dzv3u9JuFSXgBuCxE=;gwLIU6MsZDLzbU+rrEHp9w=="

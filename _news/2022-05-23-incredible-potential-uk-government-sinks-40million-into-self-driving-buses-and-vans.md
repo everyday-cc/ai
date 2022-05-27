@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Self-driving delivery vans heading for UK roads as government launches £40m initiative"
+    excerpt: "Self-driving vans, buses and shuttles could soon hit the UK’s roads following the launch today (23 May) of a £40m funding competition. The move aims to kick-start commercial self-driving services, including delivery vehicles."
+    publishedDateTime: 2022-05-23T15:46:00Z
+    webUrl: "https://motortransport.co.uk/blog/2022/05/23/self-driving-delivery-vans-heading-for-uk-roads-as-government-launches-40m-initiative/"
+    type: article
+    provider:
+      name: Motor Transport
+      domain: motortransport.co.uk
+    quality: 16
+    images:
+      - url: "https://motortransport.co.uk/wp-content/uploads/2022/05/shutterstock_1014530413-2.jpg"
+        width: 800
+        height: 476
+        isCached: true
   - title: "Self-driving buses, shuttles and delivery vans could soon hit UK roads thanks to £40 million government-funded competition"
     excerpt: "Self-driving delivery vans and buses could be on our streets within three years, say ministers, who are offering firms cash to get projects started."
     publishedDateTime: 2022-05-23T13:48:00Z

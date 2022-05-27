@@ -44,16 +44,16 @@ related:
         height: 679
         isCached: true
   - title: "Portrait of the Queen painted by robot artist Ai-Da is unveiled"
-    excerpt: "A portrait of the Queen painted by an ultra-realistic humanoid robot artist has been unveiled ahead of the Platinum Jubilee. The painting, titled Algorithm Queen, was painted by Ai-Da Robot – an artificial intelligence robot built in 2019 that creates drawings,"
-    publishedDateTime: 2022-05-27T00:07:00Z
-    webUrl: "https://www.dorsetecho.co.uk/news/20169499.portrait-queen-painted-robot-artist-ai-da-unveiled/"
+    excerpt: "The painting, titled Algorithm Queen, was painted by Ai-Da Robot – an artificial intelligence robot built in 2019 that creates drawings, painting, and sculptures. To start, Ai-Da Robot uses cameras in its eyes and its computer memory, before using a ..."
+    publishedDateTime: 2022-05-27T08:33:00Z
+    webUrl: "https://www.richmondandtwickenhamtimes.co.uk/news/national/20169499.portrait-queen-painted-robot-artist-ai-da-unveiled/"
     type: article
     provider:
-      name: Dorset Echo
-      domain: dorsetecho.co.uk
+      name: Richmond and Twickenham Times
+      domain: richmondandtwickenhamtimes.co.uk
     quality: 54
     images:
-      - url: "https://www.dorsetecho.co.uk/resources/images/13823030/"
+      - url: "https://www.richmondandtwickenhamtimes.co.uk/resources/images/13823030/"
         width: 2008
         height: 1339
         isCached: true

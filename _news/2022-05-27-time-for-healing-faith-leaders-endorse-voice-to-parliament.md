@@ -1,18 +1,18 @@
 ---
 category: news
 title: "‘Time for healing’: Faith leaders endorse Voice to Parliament"
-excerpt: "Northern Territory Chief Minister Natasha Fyles says the proposal for an Indigenous Voice to Parliament is very important ... “It is a time for healing and recognition.”"
-publishedDateTime: 2022-05-27T05:23:00Z
-originalUrl: "https://www.townsvillebulletin.com.au/news/national/time-for-healing-faith-leaders-endorse-voice-to-parliament/video/71dbbc81047477b03e5fba05c4367d56"
-webUrl: "https://www.townsvillebulletin.com.au/news/national/time-for-healing-faith-leaders-endorse-voice-to-parliament/video/71dbbc81047477b03e5fba05c4367d56"
+excerpt: "Northern Territory Chief Minister Natasha Fyles says the proposal for an Indigenous Voice to Parliament is very important as it will have a big impact on a large number of Territorians. Ms Fyles said there is still work that needs to be done to achieve a Voice in Parliament."
+publishedDateTime: 2022-05-27T04:57:00Z
+originalUrl: "https://www.news.com.au/national/time-for-healing-faith-leaders-endorse-voice-to-parliament/video/71dbbc81047477b03e5fba05c4367d56"
+webUrl: "https://www.news.com.au/national/time-for-healing-faith-leaders-endorse-voice-to-parliament/video/71dbbc81047477b03e5fba05c4367d56"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Townsville Bulletin
-  domain: townsvillebulletin.com.au
+  name: News.com.au
+  domain: news.com.au
 
 topics:
   - Natural Language Processing
@@ -90,6 +90,6 @@ related:
       domain: theaustralian.com.au
     quality: 0
 
-secured: "upBWNWe3qNYOBzLq1uU6G6tdzcT5PuLGsYSkAQX9YSlT0kO0QFukXfoiyjPUFBvv4knWBeC4oZiIFbg1XFNarxKnRmVNj4sjkU4hx9P4POf46I7JZCtO4a8cK0Vm6z5HPkWwKAhCec0dO7CvHuAN8B7qozCx1kfh3ucHSn2y5Tn8xfv4JGUUA6QJNT9hlfdU7NHToA8bAg9LRna/IqUGK4Eid7QqXI/hM1pVwQsTXnM7j9nD9+EgV/AMtAMSpUMFvTssaPpWVVx94z+CW2ivhMbrr6iNAlUFoOVxOUz9rKvmugpVL/BV7VvgQJImdqR24uHW3eo5lRRyEiGtOr5g7JLv9/KbizE6hwWPCzpWgFveB+b0qlNlffaIUmPSJgITutBciEAtAGyzAFCUBhrByvw/9lSKo/Q8wS7UKmcl3SzIqSY8NC3wIQpDzeMoPpviI7gaD7AwDNou/C2ti1qfmperd1uyzftO7D5dOq1S4E5FChOkVCPsQ8v987u8F3gm7anrFYaoyzBkXWbn+e/0jA==;krnvuIaeI+U/xm+9Is8zig=="
+secured: "UTNA0X003GoNeVRBbG7UZPiKI6msoi4wFgNpfW5x3cZ5lA3TdwfBq97c4zB3KWuK8QXsNMT5xYrMNM6IOkNZVr9r/+M2OaqLHwYnm27rP9+Rvk6YmZrtUrXASwz6L6bOa9tmjVkLHkLO79GLgyAUUi0vXGBGZVccFKT5KyAcY2R7ZG3sE6Ks8ed8gdqb84GTjPn/CG2l2O1Bxm9UQB/fbbrYTm+wereIy4VZvwCs10oh30jma0k9Egp1sSqc116I02N+U/U/YyJfxTmfyEvZHoUbHQnW09sW3KOTVR0tI0X9xzWElXq8eXW+vaO4QWkiygwGaYgACx3KE0of5BX1wdBEJEe2owHpwkN+uu4QkdJ5uEaRxX+5aDwVV+lrIv7Z6mrwqP2fgNdwRuqBFu43MIji4M/n4hrQ7l8PPEmIlq3yP6Wx6n1ARNMzXwTR/i5Ai8/EzgOGJ5VrIJFKNc26IlPOtr+it1GWqigmmEDLvYHgAR9MHLqIflq3WrLiGXHWei4+t253qf6UUK+XUZQQpA==;FCeC+3YSe9CmLT5Gpj8hWw=="
 ---
 

@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Mastercard’s “smile to pay” face recognition payments system is raising privacy, security and bias concerns"
-excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts and is being trialled in Brazil."
-publishedDateTime: 2022-05-26T23:40:00Z
-originalUrl: "https://www.smartcompany.com.au/finance/mastercards-face-recognition-payments-concerns/"
-webUrl: "https://www.smartcompany.com.au/finance/mastercards-face-recognition-payments-concerns/"
+title: "Mastercard’s newly launched face recognition payment system is already raising accuracy concerns"
+excerpt: "Mastercard recently launched a new facial recognition payment system that lets shoppers make payments with their face or hand gestures. This new payment system is being rolled out to biometric payment systems including fingerprint scanning and facial ..."
+publishedDateTime: 2022-05-27T08:24:00Z
+originalUrl: "https://www.businessinsider.in/tech/news/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns/articleshow/91831651.cms"
+webUrl: "https://www.businessinsider.in/tech/news/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns/articleshow/91831651.cms"
 type: article
-quality: 53
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: SmartCompany
-  domain: smartcompany.com.au
+  name: Business Insider India
+  domain: businessinsider.in
 
 topics:
   - Computer Vision
   - AI
-  - AI in Security
 
 images:
-  - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/05/mastercard-resize.jpg"
-    width: 733
-    height: 355
+  - url: "https://www.businessinsider.in/photo/91831651/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns.jpg?imgsize=10764"
+    width: 1200
+    height: 900
     isCached: true
 
 related:
@@ -90,19 +89,19 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Mastercard’s newly launched face recognition payment system is already raising accuracy concerns"
-    excerpt: "Mastercard recently launched a new facial recognition payment system that lets shoppers make payments with their face or hand gestures. This new payment system is being rolled out to biometric payment systems including fingerprint scanning and facial ..."
-    publishedDateTime: 2022-05-27T08:24:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns/articleshow/91831651.cms"
+  - title: "Mastercard’s “smile to pay” face recognition payments system is raising privacy, security and bias concerns"
+    excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts and is being trialled in Brazil."
+    publishedDateTime: 2022-05-26T23:40:00Z
+    webUrl: "https://www.smartcompany.com.au/finance/mastercards-face-recognition-payments-concerns/"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 41
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 53
     images:
-      - url: "https://www.businessinsider.in/photo/91831651/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns.jpg?imgsize=10764"
-        width: 1200
-        height: 900
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/05/mastercard-resize.jpg"
+        width: 733
+        height: 355
         isCached: true
   - title: "Pay ‘with a smile or a wave’: Why Mastercard’s new face recognition payment system raises concerns"
     excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts. It is being trialled in Brazil, with future pilots planned for the Middle East and Asia."
@@ -133,6 +132,6 @@ related:
         height: 527
         isCached: true
 
-secured: "0y2N5045kO1uOr2r+YxQ05u7ic8sV6yuUp59hg5o0Is+7Z/LmOl6ok+k2lBgB4Yo8YxIaQqyamIBSfbIqlyxIWkn8IXMRRgtjk/xHhnHopU+F4L8ATlWZGSv3wA3ezb9m+jkAYfLr6tkH41/NNKDynx1FTu8epzjICEguBNxLq8aHfxPcYnQ3QO8uqh+wTFpWIE8dUGoa5iBq1SMoITf7H+hWuwmx0kPibukX+V08QI6LV7EDIjy2nYVVPlnBKrr4GSazOqwvJSDH2V2HepJLDvnImTK3iTJNlUs1pFd6QSnOktszsEaqyx0onDknHpCQxyH6xeDxbkqj37X+bAAfzBN+vx8RK675WIO21o0VgjnMWSVWTLsQG1PXEgId7Jy7IC71AN26oQOWlZvDQRSbRpCgOSNBAjzdV7yiMYxgDfvqwDjIBJTtfVdaaMelZqBnzSDD7OYm19ZRlTWEklbZrzRkQ2ct341QAdwLaKiYc/cMwDGIunYiNI7qWdNf3CzADSmdYQUkHiRol8z+9umFQ==;fXi8Rh53hP5b8bgGhjDguA=="
+secured: "eMV9wHo7kjGHWRm+elmtWKnu3sI+wxXuu58oXFSoFJcGxkGmCl0x0eIyoVPjok/Ne1G2UmSlFlzuYf87LbcYlUMvHMXp8HXsAEGF2cjXzwtqqVyI4kkwqutFxoL3VcBiyhpmAXsg6ghZIcgMGHRUWgIdh0JiLWLYX/DpuWRIlUygd6d9nj+vlgzwn0jN6rYpf8DWX1NKrg0/fMeVTCGInJF0PP+L01hXlfPlbUN3IzcIu3Z/bJ/rnpfgE21JgPo2y6KIhG6SryPIh0zJhn4CnBPl5TkphuXLdAU6YN221GM2wPuxFu725/mtqQojsJXKj9d7qnrr+qmwUfruYX+y6XErOnLz799xBZa9nUF0Uu0=;4ZyMEOBg2SUpiPuG2PSfSg=="
 ---
 

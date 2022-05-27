@@ -55,14 +55,19 @@ related:
         height: 338
         isCached: true
   - title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
-    excerpt: "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All"
-    publishedDateTime: 2022-05-24T17:42:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8559031/iterateai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation"
+    excerpt: "Data scientists can send trained data created in Interplay 7 for processing in Amazon SageMaker or Google Vertex AI, or can process data in Interplay itself. Building web and mobile applications ..."
+    publishedDateTime: 2022-05-24T18:33:00Z
+    webUrl: "https://fox8.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 1
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 21
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+        width: 800
+        height: 340
+        isCached: true
 
 secured: "5QPgEvVJFlLoUuYSjqLomLqBrGQU0db3c38wkfi2OEUiToO+P2V/LDdDxJIxC2C784mzTL6+Dz1jCPZx2O8b6ZUvJKVwa8tOyLqpkH14gswlcI4uc/Lf3AzWMtudCgRnCyEmiC92OfoogpuhDXWfcFBa/tpHnEw3pLb0WgdLjil7duvp7qi3IQ9FeFsDzVhWmT+/SZOTuflrPOeIC1TUQ0mUl63m29OayB0/im2WDD4ZZi2JuX49wmKji6FmBbLyseOEKFyeflcHOr7pwKDJWtrXb2+m/P0dy2BVA+iBeCEdboVtoWFsF50GJUmKOTmJQiiYjZEhBGZmQsMCHYRw3N1ji6NZgEA+TcJ08sUAIMc=;KWRiJnj1WWh/1k8aBwZEgg=="
 ---

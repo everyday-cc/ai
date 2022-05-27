@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/94734-researchers-build-world-smal
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "World’s smallest remote-controlled robots are smaller than a flea"
+    excerpt: "Become a physicist At 9 for every 100 workers, robots are rife in Singapore – so we decided to visit them Watch it go: World's smallest self-folding origami bird that reminds us we were promised nanobots at some point “Because these structures are so tiny,"
+    publishedDateTime: 2022-05-27T07:15:00Z
+    webUrl: "https://www.theregister.com/2022/05/27/worlds_smallest_remotecontrolled_robots_are/?td=amp-keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/27/worlds_smallest_remotecontrolled_robots_are/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/27/worlds_smallest_remotecontrolled_robots_are/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2022/05/27/supplied_robot_crab.jpg"
+        width: 480
+        height: 322
         isCached: true
   - title: "Smallest-ever remote-control walking robot uses shape-memory alloy"
     excerpt: "Researchers at Northwestern University in Illinois have demonstrated the world's smallest remote-controlled walking robot, at just half a millimeter wide. Such tiny machines can bend, twist, crawl, walk,"

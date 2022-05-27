@@ -25,79 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics Unnervingly Asking Whether AI Biases Are Insidiously Hiding Societal Power Dynamics, Including For AI Self-Driving Cars"
-    excerpt: "A bubbling up theory is that AI biases are reflections of hidden societal power dynamics, which has vital impacts for AI and AI Ethics, including the use case of self-driving cars."
-    publishedDateTime: 2022-05-22T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/"
+  - title: "‘Incredible potential’ - UK Government sinks £40million into self-driving buses and vans"
+    excerpt: "The Government estimates that self-driving vehicle technology could be worth £42 billion to the UK economy by 2035, potentially creating 38,000 new skilled jobs. The first vehicl"
+    publishedDateTime: 2022-05-23T03:01:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1614333/Self-driving-buses-government-investment-competition"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1614333/Self-driving-buses-government-investment-competition/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1614333/Self-driving-buses-government-investment-competition/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: Daily Express
+      domain: express.co.uk
+    quality: 35
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200"
-        width: 1200
-        height: 809
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/The-Government-has-put-millions-toward-a-competition-to-find-driverless-buses-like-this-one-1614333.jpg?r=1653251248257"
+        width: 590
+        height: 350
         isCached: true
-  - title: "Minus Zero wants to be the first to bring self-driving cars to India"
-    excerpt: "While Tesla is yet to enable its own autonomous self-driving features in their cars, Minus Zero may bring the technology to India as early as next year. The Bengaluru-based startup was able to raise $1."
-    publishedDateTime: 2022-05-24T03:15:00Z
-    webUrl: "https://www.techradar.com/in/news/minus-zero-wants-to-be-the-first-to-bring-self-driving-cars-to-india"
+  - title: "Self-driving buses, delivery vans and pods targeted with £40m government competition"
+    excerpt: "A new £40m competition will kick-start commercial self-driving services including autonomous delivery vehicles and passenger buses, the government has said. Launched today (23 May) by minister for investment Lord Grimstone,"
+    publishedDateTime: 2022-05-23T11:24:00Z
+    webUrl: "https://www.imeche.org/news/news-article/self-driving-buses-delivery-vans-and-pods-targeted-with-40m-government-competition"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
+      name: Institution of Mechanical Engineers
+      domain: imeche.org
+    quality: 17
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/rE74GZCXXpLivMo5UScv9k-1200-80.png"
-        width: 1200
-        height: 675
+      - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Ford still focused on self-driving cars as electric cars take off"
-    excerpt: "Ford is rolling out Blue Cruise, its self-driving functionality, and we took a test drive in the Expedition Platinum."
-    publishedDateTime: 2022-05-26T21:29:00Z
-    webUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off"
-    ampWebUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
+  - title: "Government launches £40m competition to jump-start self-driving buses and delivery vans"
+    excerpt: "Ministers are accelerating the introduction of self-driving buses, shuttles and delivery vans onto British roads with a £40m fund that could help create thousands of jobs.   A new government competition is trying to harness the economic potential of autonomous vehicles,"
+    publishedDateTime: 2022-05-23T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2022/05/23/government-launches-40m-competition-jump-start-self-driving/"
     type: article
     provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 44
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 16
     images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/05/932/470/ford-Expedition-platinum.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://www.telegraph.co.uk/content/dam/business/2018/07/20/TELEMMGLPICT000125144398_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
         isCached: true
-  - title: "Self-Driving Car Startup Loses License in California"
-    excerpt: "But even so, the push to bring more self-driving cars to the roads has continued its march forward. There are currently around 1,400 self-driving cars, trucks, and other vehicles"
-    publishedDateTime: 2022-05-26T21:36:00Z
-    webUrl: "https://www.thestreet.com/lifestyle/self-driving-car-startup-loses-california-license"
-    ampWebUrl: "https://www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
+  - title: "Self-driving buses, shuttles and delivery vans could soon hit UK roads thanks to £40 million government-funded competition"
+    excerpt: "Self-driving delivery vans and buses could be on our streets within three years, say ministers, who are offering firms cash to get projects started."
+    publishedDateTime: 2022-05-23T13:48:00Z
+    webUrl: "https://www.kentonline.co.uk/kent/news/self-driving-delivery-vans-and-public-buses-could-be-on-uk-r-267598/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg5NzU3MjA2MzgyNTE5OTk2/pony-ai2.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "How Artificial Intelligence is Changing iGaming"
-    excerpt: "Updated: 24 May 2022 2:38 pm Artificial intelligence is playing an increasingly important role in many aspects of daily life, including the online gaming sector. Both land-based and iGaming have evolved and made use of cutting-edge technology to provide a ..."
-    publishedDateTime: 2022-05-24T09:10:00Z
-    webUrl: "https://www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276"
-    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 37
+      name: Kent Online
+      domain: kentonline.co.uk
+    quality: 0
 
 secured: "tSc6sviOzAVuUbT72YNQ6drWou8tY+mxBLjcNTrBAcTgtJVdg34DzWM4nAcb6b0PMKgUhDdad2EAnn0yJsHNhmCZiB2TOfNJW3508mxcKPgCt2jSovQqeISOGZPKVVN/Ntr+85oZp7daO1iOTAM3LOfJ34RMiXk8akRXU4T/wGI4tWkemrRJKeydZQ7p6f3ryvbL4/B6VD6Ywsv+FyiaxQsye2M+NbKszw2gMiDhwp4a5YFeqkgNlPbSeJ5zunZAey0hynvFQnsD4rUQcfii/kSdRmkqv0n2gONi8ugSukTZthej8XF4JTXl6h2YK7Ntc+seZDdRdsE0x7vuCRnhrBTUFUJaiabtvDZ/23PHMss=;Shh16UwN2Tm6CgSfiNnM4g=="
 ---

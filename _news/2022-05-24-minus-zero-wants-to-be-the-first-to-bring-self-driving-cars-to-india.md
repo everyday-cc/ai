@@ -29,79 +29,84 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics Unnervingly Asking Whether AI Biases Are Insidiously Hiding Societal Power Dynamics, Including For AI Self-Driving Cars"
-    excerpt: "A bubbling up theory is that AI biases are reflections of hidden societal power dynamics, which has vital impacts for AI and AI Ethics, including the use case of self-driving cars."
-    publishedDateTime: 2022-05-22T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/"
+  - title: "A start-up aims to bring driverless cars to Indian roads"
+    excerpt: "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au"
+    publishedDateTime: 2022-05-23T07:52:00Z
+    webUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/"
+    ampWebUrl: "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars"
+    excerpt: "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ..."
+    publishedDateTime: 2022-05-24T00:30:00Z
+    webUrl: "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
+    ampWebUrl: "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 66
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/05/屏幕快照-2020-05-07-下午4.16.18.jpg?fit=1200%2C601&ssl=1"
         width: 1200
-        height: 809
+        height: 601
         isCached: true
-  - title: "Ford still focused on self-driving cars as electric cars take off"
-    excerpt: "Ford is rolling out Blue Cruise, its self-driving functionality, and we took a test drive in the Expedition Platinum."
-    publishedDateTime: 2022-05-26T21:29:00Z
-    webUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off"
-    ampWebUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
+  - title: "AI To Make Roads In India Safer To Drive"
+    excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"
+    publishedDateTime: 2022-05-24T11:58:00Z
+    webUrl: "https://menafn.com/1104265618/AI-To-Make-Roads-In-India-Safer-To-Drive"
     type: article
     provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 44
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/05/932/470/ford-Expedition-platinum.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Self-Driving Car Startup Loses License in California"
-    excerpt: "But even so, the push to bring more self-driving cars to the roads has continued its march forward. There are currently around 1,400 self-driving cars, trucks, and other vehicles"
-    publishedDateTime: 2022-05-26T21:36:00Z
-    webUrl: "https://www.thestreet.com/lifestyle/self-driving-car-startup-loses-california-license"
-    ampWebUrl: "https://www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg5NzU3MjA2MzgyNTE5OTk2/pony-ai2.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "How Artificial Intelligence is Changing iGaming"
-    excerpt: "Updated: 24 May 2022 2:38 pm Artificial intelligence is playing an increasingly important role in many aspects of daily life, including the online gaming sector. Both land-based and iGaming have evolved and made use of cutting-edge technology to provide a ..."
-    publishedDateTime: 2022-05-24T09:10:00Z
-    webUrl: "https://www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276"
-    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 37
-  - title: "Self-driving delivery vans heading for UK roads as government launches £40m initiative"
-    excerpt: "Self-driving vans, buses and shuttles could soon hit the UK’s roads following the launch today (23 May) of a £40m funding competition. The move aims to kick-start commercial self-driving services, including delivery vehicles."
-    publishedDateTime: 2022-05-23T15:46:00Z
-    webUrl: "https://motortransport.co.uk/blog/2022/05/23/self-driving-delivery-vans-heading-for-uk-roads-as-government-launches-40m-initiative/"
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/24/I_6679aimage_story.jpg"
+        width: 400
+        height: 220
+        isCached: true
+  - title: "Argo AI testing fully driverless cars in Florida and Texas right now"
+    excerpt: "Argo AI is backed by both Ford and Volkswagen, now testing fully driverless vehicles in Miami, Florida, and Austin, Texas."
+    publishedDateTime: 2022-05-25T01:29:00Z
+    webUrl: "https://www.tweaktown.com/news/86405/argo-ai-testing-fully-driverless-cars-in-florida-and-texas-right-now/index.html"
     type: article
     provider:
-      name: Motor Transport
-      domain: motortransport.co.uk
-    quality: 16
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+  - title: "Self-Driving Car Start-up to be Introduced in India"
+    excerpt: "Minus Zero is an Indian based start-up that is looking make self-driving cars into the mainstream in the country."
+    publishedDateTime: 2022-05-25T06:55:00Z
+    webUrl: "https://techstory.in/self-driving-car-start-up-to-be-introduced-in-india/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
     images:
-      - url: "https://motortransport.co.uk/wp-content/uploads/2022/05/shutterstock_1014530413-2.jpg"
-        width: 800
-        height: 476
+      - url: "https://techstory.in/wp-content/uploads/2022/05/AMP-62_60fabd243e292-300x225.jpg"
+        width: 300
+        height: 225
         isCached: true
+  - title: "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD"
+    excerpt: "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ..."
+    publishedDateTime: 2022-05-23T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1255631&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
 
 secured: "Z0t09IfAcXOx/5N9vkWwAUVZ6FVOqryBnIWrwJ8ckUWHScNJABZGpgJgHc4YjhA3ltEz1OWdJGsmI113FtQdUH1sgUb1derg/eHqwRqSGc1Kp4qR6L43lbivnyVm3wzK5WkxKOMWtk7Q0Qwyv/6RT+XRztSwNIPAqZ57rZvJewa4TUOQQDkZ9Np/vUncCF7WCo6NW4y8exZBgr6zlIakwk0pwAx0Jpn7gbOc2DjQ7Vocowzo/d2zGVuzS2NmvXC+QymrO0KGtQN+uPbK6JgWaAfmIKpAfyR0SHMOmcGOtlbxCvSXxM6lVPOFaKKSgXzI05kSiIWbSj6CljcybJw8wZJB/fQhknze/T5m9Sl5u5A=;aHuHrQDH40nYHZvWaxIB2w=="
 ---

@@ -1,22 +1,30 @@
 ---
 category: news
-title: "The smallest remote-controlled walking robot ever built looks like a flea"
-excerpt: "Engineers at Northwestern University have built the smallest-ever remote-controlled walking robots. And the current design looks like a cross between a flea and a microchip. Actually, at half a millimeter wide,"
-publishedDateTime: 2022-05-25T18:07:00Z
-originalUrl: "https://www.courthousenews.com/the-smallest-remote-controlled-walking-robot-ever-built-looks-like-a-flea/"
-webUrl: "https://www.courthousenews.com/the-smallest-remote-controlled-walking-robot-ever-built-looks-like-a-flea/"
+title: "World’s smallest remote-controlled robots are smaller than a flea"
+excerpt: "Become a physicist At 9 for every 100 workers, robots are rife in Singapore – so we decided to visit them Watch it go: World's smallest self-folding origami bird that reminds us we were promised nanobots at some point “Because these structures are so tiny,"
+publishedDateTime: 2022-05-27T07:15:00Z
+originalUrl: "https://www.theregister.com/2022/05/27/worlds_smallest_remotecontrolled_robots_are/?td=amp-keepreading-top"
+webUrl: "https://www.theregister.com/2022/05/27/worlds_smallest_remotecontrolled_robots_are/?td=amp-keepreading-top"
+ampWebUrl: "https://www.theregister.com/AMP/2022/05/27/worlds_smallest_remotecontrolled_robots_are/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/27/worlds_smallest_remotecontrolled_robots_are/"
 type: article
-quality: 18
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Courthouse News Service
-  domain: courthousenews.com
+  name: theregister
+  domain: theregister.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://regmedia.co.uk/2022/05/27/supplied_robot_crab.jpg"
+    width: 480
+    height: 322
+    isCached: true
 
 related:
   - title: "Researchers build world's smallest remote-controlled walking robot"
@@ -67,22 +75,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "World’s smallest remote-controlled robots are smaller than a flea"
-    excerpt: "Become a physicist At 9 for every 100 workers, robots are rife in Singapore – so we decided to visit them Watch it go: World's smallest self-folding origami bird that reminds us we were promised nanobots at some point “Because these structures are so tiny,"
-    publishedDateTime: 2022-05-27T07:15:00Z
-    webUrl: "https://www.theregister.com/2022/05/27/worlds_smallest_remotecontrolled_robots_are/?td=amp-keepreading-top"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/27/worlds_smallest_remotecontrolled_robots_are/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/27/worlds_smallest_remotecontrolled_robots_are/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2022/05/27/supplied_robot_crab.jpg"
-        width: 480
-        height: 322
-        isCached: true
   - title: "Smallest-ever remote-control walking robot uses shape-memory alloy"
     excerpt: "Researchers at Northwestern University in Illinois have demonstrated the world's smallest remote-controlled walking robot, at just half a millimeter wide. Such tiny machines can bend, twist, crawl, walk,"
     publishedDateTime: 2022-05-25T18:00:00Z
@@ -112,7 +104,16 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "The smallest remote-controlled walking robot ever built looks like a flea"
+    excerpt: "Engineers at Northwestern University have built the smallest-ever remote-controlled walking robots. And the current design looks like a cross between a flea and a microchip. Actually, at half a millimeter wide,"
+    publishedDateTime: 2022-05-25T18:07:00Z
+    webUrl: "https://www.courthousenews.com/the-smallest-remote-controlled-walking-robot-ever-built-looks-like-a-flea/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 18
 
-secured: "u57vQbQbGy+gJe7pZsdGu8ecGyI1GJsv+qVAhvbE/6kD7HFg/gRSNYTL+65HiI/kDN+uaKZ9H6atMpJncUtNIPytmos4321LVcvqvZqt0fZ4acmbXWsBXuE827pFW6+Xf/OUOdmL1aL/rcAMAUaIWY6D2C+3RimLRHHOYUh+NhNmwNtTQjKtZaC+o1/4sd7tvZFTRDiT639j/BDad1g9TL+cMj0/BUk+AZBhQlTQ5ibMwyi59LhZVmvNG8DPwMp2vmTeX4apBOb5AvlNYhw1FClObUFnXdCaVKPoQi8GySYPv8n+ZET9VPHhc7DZrD40Bev7WFEw+CtIDxDbZwxxGx08KmemVBWr3bNQUSLxoMrmZUihi/cyZdqmaD8d9BTYlTuRf6lB0mQ7xrKSL3XGT7ouTCiqbB7GTlhc83rPslIlR/mnOxiX8QsEHUzEFFH6CJic33O+wl+jmuraMhlerGDgRoFlcY/IRAkGpBNq/Lo1MMSB+ZjvBSmnC07vxDbunmNqcDmOeXEn9UQFihQxSQ==;kl6yfkp+G45AtjYmUSTmYQ=="
+secured: "h7Dy4vEwgj+G4JjPNPNmYgHR8RvhmBjctgiRyKyA6ao1WM+z1pLptKSwlq2qVDueyfjEyco/RivI6dgAtDV3Z7EWa53Tr9YjOpY01WrQpYcm3IZySLXzuiUnc0Q4SIHBXVz/VvdL38JXI0R2UcIDNoCnJ33SZSUb9HuttB9aBJ2wUaU1FInoM2U89/87/kHdv9Re7JMIcvTiQMuH/6G0v99fMZJoECa1CEW4s5h7Ycd93a8ZkhHiSjCljY/ih3SaUBGoo5jAJSXzpj0V8JykvLFVq3o82Gv4r1x6WL6cHGMJxgXRVF/gnew65hp744usDlpU62SnzxzaDjG8XLt35M7ZhiKL6uvn+TYY2ybaDQs=;uF5/I3SMvREq69HD/fyCKg=="
 ---
 

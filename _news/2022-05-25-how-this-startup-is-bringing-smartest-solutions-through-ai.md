@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/428229"
 webUrl: "https://www.entrepreneur.com/article/428229"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
         width: 503
         height: 274
         isCached: true
+  - title: "How Artificial Intelligence is Changing iGaming"
+    excerpt: "Updated: 24 May 2022 2:38 pm Artificial intelligence is playing an increasingly important role in many aspects of daily life, including the online gaming sector. Both land-based and iGaming have evolved and made use of cutting-edge technology to provide a ..."
+    publishedDateTime: 2022-05-24T09:10:00Z
+    webUrl: "https://www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276"
+    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/how-artificial-intelligence-is-changing-igaming-news-198276/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 37
 
 secured: "GubhYJ3+Wmipl8KXETfNLTSBJnIkDIoiap8Bq+4KS24/0m5E/X7Viop97PMpa49ymafIAwMe9ao05L1MwjIaYF/96Cjfz6+TiiVNNI+wIYTuuiFVp2dlMeCINoz6GxlKG50OK8oRfhDPLOBkhx0Pmt8Pbo/zEKpSU91HkBO+BTlu1dXqoTfJGwfsw/CbgAL8d+BXnuEgAIInofZkR5Jo7/FBugwKmiyBHXtirpiZh80/cBYmpYS1DLhqLS+iDh4UThZJYqOv19IH+h27OLAboZDAWb4qi41qSZ72peLj0ljLXfiqK/ep7mDQLjpuePufeNaYLQnJOcDpm2/4e9TW2votBJGK8YJ1RoOUOYuIu6Y=;tXLVVtTtz/5ye5afY9TnYA=="
 ---

@@ -163,6 +163,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ford still focused on self-driving cars as electric cars take off"
+    excerpt: "Ford is rolling out Blue Cruise, its self-driving functionality, and we took a test drive in the Expedition Platinum."
+    publishedDateTime: 2022-05-26T21:29:00Z
+    webUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off"
+    ampWebUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 44
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/05/932/470/ford-Expedition-platinum.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Self-Driving Car Startup Loses License in California"
+    excerpt: "But even so, the push to bring more self-driving cars to the roads has continued its march forward. There are currently around 1,400 self-driving cars, trucks, and other vehicles"
+    publishedDateTime: 2022-05-26T21:36:00Z
+    webUrl: "https://www.thestreet.com/lifestyle/self-driving-car-startup-loses-california-license"
+    ampWebUrl: "https://www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg5NzU3MjA2MzgyNTE5OTk2/pony-ai2.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "LFcCzNGvT2QFRRtDabBpVEE2CNY0hmjsRvPfanLEKeZeazoFkUS79G4KtSg0sbuZyCBmTxLbpx3dUanyTFOHjnH8MXYPa4OH4WU27UHIH97tduzalKHbS3SSyMWbPPMOKThJd2bs/ItoqSVJoPCVk2N1+MxyFUo2sZt8GFp046ifF3DgzyVcbU042JQHsx6hPkvYKc0+5NnlOeibufC6SYWz7oqVois2pBOdZP2lVB6J7HWbI/66lkcu1fkKS8LPjnD44JmEDEQL4d6OalG6BfN5ma5YugHTU2CZUK89JCx6FY0ufMyQAdpqR9wiPYpErNtJ2O2fi0VXWFbnLgEd0BnGBOB0sEyMYCGN81p88SYwOoZsiJihIIDF88TSKzn0h78XoDI52abpMlynLDsoal6VPbwn1zhZpLfcxgEl9lLxwJZPTyEetplIFBhuEm+5sDEQ9D5PMeOpV+NioBNsrL3YET/nTC5z2nGWRuw41sQmy4Tvcnc9hyWCl1v6wA1tLpYvRmSrWK7muEWmclOyWQ==;rDgEOx7U+IDzsS+ChUA5HA=="
 ---
