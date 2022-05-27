@@ -52,6 +52,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Ai In Defense Market [OVERVIEW] 2022 : Report Examines Latest Trends Size, Share and Key Drivers Supporting Growth 2030"
+    excerpt: "Quadintel published a new report on the Ai In Defense Market. The research report consists of thorough information about demand, growth,"
+    publishedDateTime: 2022-05-26T13:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-defense-market-overview-2022-report-examines-latest-trends-size-share-and-key-drivers-supporting-growth-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/baa5cf168f34ffc4cb2551ce1e095c9a5961e919-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "6oAIt2fDlNNsxILHpROcUhE0Cp410Mrsa0EkCIO0MWH9wLpW6kQ3M/SUK7XaQhNrldwBlC59yttqTt5Tuvi9u+jMWMAi0Jmr+LN4jm1Cru/sM5/hdtFLuDEMgBg9YCfc/eNUIBxw/VtA6/nmRBRwC6a8jLGOgVDBQAOGW0keAucsXHdYiH/EIeTqnu6JNPZ8WChy1g49wxKZhAmLEOT8kVmowCAW5bgnnUvzat/TR4OEwv4OrmCPciUpL5/keUyEG+a+ePLXKv8CDxG85epDWHHwU2/riPy4/mykCOKkTDPN8d62tLkM/IFxyopZ7b20N82/s/r28VnH2HBE57NNnjfTpQQB76X26xXwJb5MSD8=;qzftq3gxUwVGjDvXwcNcQA=="
 ---

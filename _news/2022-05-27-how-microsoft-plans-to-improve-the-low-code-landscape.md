@@ -143,6 +143,22 @@ related:
         width: 1000
         height: 380
         isCached: true
+  - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
+    excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
+    publishedDateTime: 2022-05-26T22:46:00Z
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 102
+    images:
+      - url: "https://regmedia.co.uk/2020/11/16/amdmi100.jpg"
+        width: 894
+        height: 534
+        isCached: true
   - title: "Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability"
     excerpt: "The post Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability appeared first on The AI Blog.\n"
     publishedDateTime: 2022-05-24T15:00:16Z
@@ -320,6 +336,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
+    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
+    publishedDateTime: 2022-05-24T20:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 61
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The biggest Azure announcements from Microsoft Build 2022"
     excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
     publishedDateTime: 2022-05-24T20:05:00Z
@@ -408,15 +438,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 46
-  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
-    publishedDateTime: 2022-05-24T22:02:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 41
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z
@@ -505,6 +526,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "Us9yR3JEj0flZDfy4zK5kHXf1FGuQI756NkHAJjkfXkK1OYDguuA5JfVS7RcPRoNxhBLeo7vsGQDXOw+XaJtpO6I4XPCaUyVcrTC87FeJC+hsCgVvk29hdQLr1JKA03Tb6QdXvMqXcXompiHV13qf8RlPOyN7ZfcXShiRiTbExRvkzEkyG1DR9Cntyt6tUPrS2FqFli6u6gEzfdxH8vHsABKJZsv8MiE0Q1l8igO9PkOtLksND0tPp1z8NHBGfvmQeBubVvS2wO3mpL02xiTLYwP1z2bmoO7GQhGI1pz2+/fdhEd0eULLcUi+RMA6TnwDqnAe8TXS68xbdaUoF9tHVZ2uGHmcSeL4FcCyc+RS08=;7guLVFS5+KbO11d7NahTaw=="
+secured: "6Jo2djLUV1z/lXGJwlOGmM4oL08wK4HwUxSrM4QYXh35wwjvVBNOQUypFmjo9yxcgmBaLpzbcc4m0+WDte9IrRi246X5Axy3GT+UiO0l/l/8UsAHIztmFtv2cRJaRzM0Ln55zm2+PHDPhkYOV7Ki1KlGQtgctBzDYoSA/kpuXxD/PV+Ta8Rx97YiJBAQRcxqAu/wdhFlm1Ne2nU7OHulS5/Yn01svhgCrtWKSEAQHARhb62PQs850TmC2Tsgp5sW8ACGWWYrCdCN1TcUUARY4247I7lwrvqrPI4hhS++OJSYdW0gk8M/ItQIYF5J/w7gGU/pBavHk3z+ZKroBQWVehwBut/qigZCPt2QCaYFmkBQ08qQYXu0fNPKJn1zIeE7JO8AVpn2YqPkNZDoCxCvq4vNfkiI84ySOmQr7OL9KQs/rFLtsGgr1EsZ+z/bH1lMQ9u0gCqzH+PW/VuovH/hBUk8d7rQ51ebJoNJaRS5TQqFr1i8I4e1zn/dDrrbdcdeKyQjIreZNYN3GP27/NxCzA==;lQ9ioIgSDRGRpB+8D6ZNgQ=="
 ---
 

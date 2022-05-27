@@ -7,7 +7,7 @@ originalUrl: "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefini
 webUrl: "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefining-the-insurance-industry/"
 type: article
 quality: 54
-heat: 115
+heat: 114
 published: true
 
 provider:

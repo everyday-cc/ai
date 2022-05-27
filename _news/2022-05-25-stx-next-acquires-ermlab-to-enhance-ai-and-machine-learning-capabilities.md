@@ -7,7 +7,7 @@ originalUrl: "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-
 webUrl: "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/"
 type: article
 quality: 68
-heat: 79
+heat: 78
 published: true
 
 provider:

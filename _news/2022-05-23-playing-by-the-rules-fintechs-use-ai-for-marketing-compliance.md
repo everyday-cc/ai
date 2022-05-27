@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fi
 webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg"
         width: 530
         height: 300
+        isCached: true
+  - title: "PEXA buys into AI fintech Elula"
+    excerpt: "PEXA Group – Property Exchange Australia – has taken a 25 percent stack in AI-as-a-service company Elula. Founded by two former Commonwealth Bank executives, Josh Shipman (once CBA’s head of automation and robotics operations) and Sarah Russell (a general manager at the bank),"
+    publishedDateTime: 2022-05-26T22:40:00Z
+    webUrl: "https://www.itnews.com.au/news/pexa-buys-into-ai-fintech-elula-580570"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/mortgage_approved_home_loan.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "Defining “artificial intelligence” for regulation"
     excerpt: "It's commonly stated that there is no agreed definition of 'artificial intelligence'. This causes problems in making policies and regulations about it."

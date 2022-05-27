@@ -54,6 +54,20 @@ related:
         width: 530
         height: 300
         isCached: true
+  - title: "PEXA buys into AI fintech Elula"
+    excerpt: "PEXA Group – Property Exchange Australia – has taken a 25 percent stack in AI-as-a-service company Elula. Founded by two former Commonwealth Bank executives, Josh Shipman (once CBA’s head of automation and robotics operations) and Sarah Russell (a general manager at the bank),"
+    publishedDateTime: 2022-05-26T22:40:00Z
+    webUrl: "https://www.itnews.com.au/news/pexa-buys-into-ai-fintech-elula-580570"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/mortgage_approved_home_loan.jpg"
+        width: 1254
+        height: 836
+        isCached: true
 
 secured: "XoVXZ5CEzvn1/Tph6jv1FX+feyrSMpHxq/a2WpZFJLI+GC7gBMgx/ZIcGJuu0Ghac0LUiRtg6J5F3XtD2En3Si54td7IQGL5XBxnnlJqu1aOLxYg5s0NG4iKGVSpZdhhKwso5Rn4YldmEsUKmYTjtgtuNIh9xlAiii9KeBvdcQJm+MGeBKCw6ugLEPq+P7lMAsW08899fFqRMQdPDJYKsJcNoxnPxygsoKHC0NtjIPy6QvRj+lqdeLHTrvSoG0Ezws6x1EFrXZL68IklUt2vls775bzVzv0kUyt1PZtEsUQP+PZ6+1rwzUw7AKZ+PkV7yGoJi9IwFW7E85qc8MP05j6J2OxSMxDoXRkX0GWdrR0=;INJ5mNPPEbSU7urMeanlUA=="
 ---

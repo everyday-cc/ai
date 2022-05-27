@@ -18,7 +18,14 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
-secured: "EjqM5MhwhqmtwtQvlVCue7XQsNhJ4ZnGhk+2v4U0DpuqyjAAY4TeHqUTlv0jzDY5XCXNCC6OCwrhE5EbulV7zoaaILNIr/JTPctBUIrP20LOJQ/UkKNQ9VF6diIPENdxSjxfTiw0AvA45yTRx8ZUKLyiq8IQ4nEyaJUfnfkKvJ5pHnoKUVtig6p3iWYndNH+4+GMQ41gwUmeUVbCk5LK0RSl2WdkQZE+cu82IOiX7qWvpGKzY2Ja2tOFQrQHRxnKk2OBuSuEgoW2ccmbXZpPErJgjDfZpIZRt4WceQowXftl8o/qOerXaZ7hFTfcSu+Pnp3ue+tWy9tF8NWysCkAfpdSjgcPStm96L5+jdZZfvHwqJZkDHZZE25s6JBJUAiyJuFnxY3qZTKKWGJh+TULCdN+7cOWfslpAz6O8gtIMdEnLe5FZQkvjfdue6RFaC7PKgIK/sj4j+82Xbi3k5LZwxeXglfoLjlZ+BuRBtrxbqBqG/dBValKotwEqoeYGmmYMwSxyUxkXoBzctlbMMaCQw==;XKS2qWWZ7dIxJIj9fo5OXA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1821315/Soft_Robotics_Inc_mGripAI_CPG.jpg"
+    width: 400
+    height: 271
+    isCached: true
+
+secured: "4u4IAtDvcn9j/Lcfjb+8DIzsEHR0sieRHYKzGmEJWG5Hll8ICCuhYs63stExiFMh0ifqhdeIZzjmTCy8NWG3uSpQnLv2VVr8otEeM3FxEk2n63BC4A0Gu0sdRQqHkKoht96BDP5ZV0sa35Q6FqaOqQTdzpSC98ACrHzaxWuDRs7JLQo7pP4JzoLUMfdrJd/Ry0FshtLPmXhQQFKNQRypsG0HzJA5dpcew4McuuDXnF8ijIQ4T2FTwIfAIVaJWX0sNaKK5pbB6QHbMx8yZP7lqokszedMYgZyRx+UTiOJyt4TY9pqzZ/V7St6yS5oy+z/ED8PD38mr/rGkib2D1RY3+bDxcGuF+Zbq7wbCCBpVRI=;qhbS7MmSufwY/tn+OYVpZQ=="
 ---
 

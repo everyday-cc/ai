@@ -2,27 +2,27 @@
 category: news
 title: "Intrado Offers Mosaicx Conversational Artificial Intelligence on Google Cloud Marketplace"
 excerpt: "Intrado Corporation, a global leader in technology-enabled services, today announced Mosaicx, its conversational artificial intelligence (“AI”) solution, is now available on Google Cloud Marketplace."
-publishedDateTime: 2022-05-26T14:08:00Z
-originalUrl: "https://www.koin.com/business/press-releases/globenewswire/8560731/intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace/"
-webUrl: "https://www.koin.com/business/press-releases/globenewswire/8560731/intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace/"
+publishedDateTime: 2022-05-26T13:42:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: KOIN 6
-  domain: koin.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-    width: 800
-    height: 340
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "BRa0OOgvkh8+IHnXiMgQfHerSyHcM/0aHhr5i0+74T+i2Z5CBUv/rejK52e/+dwihRzSlOKgJrRAKDby6fnHWT+zARLcw9FiTY0yDVLj6OxqHUUJt1/cSFaYjo22KwnkdQkiXi7B2902U15aqSMWnDTG4GrZyS3ZFmH8lH80Y9PgP7Sj9LUbhIfpiriX6wKGpy1uvE5tf7NmadmDlbgbj+gyUR+NVgGw5IKeQNM2njN1bKYeXELvuJrYZUHASLmiiaEON4KI0nBUIyOLuZuHEvq7CklSeMgobghX0q9A0Gs/7V1gOtrzW4gXXnAa7ePuHEbbaPJ2rVXT+ycIgBbr/M4JliR3PxGmyhoLZRuv528=;V5drM/E+W+aGU7bKqa6lQw=="
+secured: "fCmpOAjkAiIcMAXLB/a2RtXVwz1TRVaLgXwXkc6z1Z5Ln37ynvTBHL9nH43iR/UEOSFV8NAjkl9h2gk72O4EJBZy3xe2JrBKfD8ldsFPw374KUBEjIE0eSMsmeQz2VVXxQeuY5jtjIfDciV5FdSLbDw3rKKQ0P2KN0bNBldx5tnC//y7GPF5kqdz/55CInnr988f0mkkYGl5exoWI81KsK6uMZTR2LcaoMyjAbDD/b8GJFXop+UABqSOiuLU1jXOIB8TUBstS/j0/AWMeolKTKhFZxJOrztWvsq7YckU1IiTNwJjdKpXMYTpfeonOF0eOqkJ7lsVfQw3tUUc48blY5po066EYlKQWyW9HTjDaRY=;H0WbH64c8hbCDj4KnoA5Bw=="
 ---
 

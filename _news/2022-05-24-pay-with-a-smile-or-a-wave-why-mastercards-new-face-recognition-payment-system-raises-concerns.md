@@ -75,6 +75,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Mastercard’s “smile to pay” face recognition payments system is raising privacy, security and bias concerns"
+    excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts and is being trialled in Brazil."
+    publishedDateTime: 2022-05-26T23:40:00Z
+    webUrl: "https://www.smartcompany.com.au/finance/mastercards-face-recognition-payments-concerns/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 53
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/05/mastercard-resize.jpg"
+        width: 733
+        height: 355
+        isCached: true
   - title: "Pay ‘with a smile or a wave’: Why Mastercard’s new face recognition payment system raises concerns"
     excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts. It is being trialled in Brazil, with future pilots planned for the Middle East and Asia."
     publishedDateTime: 2022-05-25T08:44:00Z

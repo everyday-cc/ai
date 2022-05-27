@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
     quality: 25
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/1bd9115c03cae6ad319fc7018288222372e53aea-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Ai In Defense Market [OVERVIEW] 2022 : Report Examines Latest Trends Size, Share and Key Drivers Supporting Growth 2030"
+    excerpt: "Quadintel published a new report on the Ai In Defense Market. The research report consists of thorough information about demand, growth,"
+    publishedDateTime: 2022-05-26T13:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-defense-market-overview-2022-report-examines-latest-trends-size-share-and-key-drivers-supporting-growth-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/baa5cf168f34ffc4cb2551ce1e095c9a5961e919-600x337.jpg"
         width: 600
         height: 337
         isCached: true

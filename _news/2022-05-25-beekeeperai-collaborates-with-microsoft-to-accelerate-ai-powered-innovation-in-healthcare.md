@@ -1,23 +1,29 @@
 ---
 category: news
 title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-excerpt: "Growing demand for a platform to enable secure collaboration between data stewards and algorithm developers spurs application of zero trust, confidential computing in healthcare BeeKeeperAI, a pioneer in zero trust,"
-publishedDateTime: 2022-05-24T22:02:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-beekeeperai-collaborates-with-microsoft-to-accelerate-ai-powered-innovation-in-healthcare"
+excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
+publishedDateTime: 2022-05-24T20:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Microsoft brings support for Arm-based AI chips to Windows"
@@ -131,6 +137,22 @@ related:
       - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
         width: 1000
         height: 380
+        isCached: true
+  - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
+    excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
+    publishedDateTime: 2022-05-26T22:46:00Z
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 102
+    images:
+      - url: "https://regmedia.co.uk/2020/11/16/amdmi100.jpg"
+        width: 894
+        height: 534
         isCached: true
   - title: "Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability"
     excerpt: "The post Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability appeared first on The AI Blog.\n"
@@ -501,6 +523,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "m+0uAQS4Ig4aLAGUVGv4Bj2mNrLVQ/fNVcqdEcPz0uXbB+ARehpU0j82rdBD3jPXysPuqVGPspMdJzzU3S1CuQA4yesr7c3TYS6uIB4ICIVZ3aurRX2QqRLYqkv56zkPcC85drSazZlNhrZE0JFNEIB5mhdw43T7cJIwva1SG5VtqlDYMyTtM66EG5d3VgfE8MfdzGOkkKcwy4DEvGuXy8/9hzDjAJ1lT65avuc+iNLVeuhwVeIb+Z0PJHZ2+YQSmqUEfl5rFUmF7V2KwldV688dSois9soexiplPRL7yh0xAvgTSplys9ZXIlZQkt8FZffUB2CWSYDbj2dgRefrhvUdqBSpyEGteealjOmJF0M=;m+GlrYoZKQ2YiMcGBABQHw=="
+secured: "aIwHK7esYCm52UZH64LbN6kv1shv+q0NiqpW6t5h63l5B7WQ9LK/UP5LnXXnW+RCFp4wHNR2SuRDO2FVp0kVSImJt/HK67I/VEAW+lXFZ6D8UX//qDeJh2sn/V+kAyDwKprWuIqlcsIQmazoG80BgDX+B0OZES+FFLzqtTZuLo2h0/NYg+wVvUh4FYSCQpBZ39E4VyjQBqu4nNEc4B1OTZUnKWS6oao6fVx/gcg8lx19ZXFhV3oVN0kBoNElOi8RcIMU2GfFsTO1x2VCbXAHbo8jn6oqK4RHhscpmxS4fo+d8LJ3tB4zoyHeNFiX3IoGCFL6yjhLW0oo6A7rvH54hTmdiNM14dCHfHw2Eml8MkU=;AhQcWLMNASo/aCq6xCOEIg=="
 ---
 

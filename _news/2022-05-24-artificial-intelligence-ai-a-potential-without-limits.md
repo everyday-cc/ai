@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telefonica.com/en/communication-room/blog/ai-a-potential
 cdnAmpWebUrl: "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
