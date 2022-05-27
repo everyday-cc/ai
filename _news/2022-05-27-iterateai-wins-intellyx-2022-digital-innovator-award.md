@@ -55,18 +55,18 @@ related:
         height: 338
         isCached: true
   - title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
-    excerpt: "Data scientists can send trained data created in Interplay 7 for processing in Amazon SageMaker or Google Vertex AI, or can process data in Interplay itself. Building web and mobile applications ..."
-    publishedDateTime: 2022-05-24T18:33:00Z
-    webUrl: "https://fox8.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
+    excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced the launch and availability of Interplay 7, code-named “Spirit."
+    publishedDateTime: 2022-05-24T17:37:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-8cb31a903be9c442c44450cdbd230729"
     type: article
     provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 21
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
     images:
-      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-        width: 800
-        height: 340
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "5QPgEvVJFlLoUuYSjqLomLqBrGQU0db3c38wkfi2OEUiToO+P2V/LDdDxJIxC2C784mzTL6+Dz1jCPZx2O8b6ZUvJKVwa8tOyLqpkH14gswlcI4uc/Lf3AzWMtudCgRnCyEmiC92OfoogpuhDXWfcFBa/tpHnEw3pLb0WgdLjil7duvp7qi3IQ9FeFsDzVhWmT+/SZOTuflrPOeIC1TUQ0mUl63m29OayB0/im2WDD4ZZi2JuX49wmKji6FmBbLyseOEKFyeflcHOr7pwKDJWtrXb2+m/P0dy2BVA+iBeCEdboVtoWFsF50GJUmKOTmJQiiYjZEhBGZmQsMCHYRw3N1ji6NZgEA+TcJ08sUAIMc=;KWRiJnj1WWh/1k8aBwZEgg=="

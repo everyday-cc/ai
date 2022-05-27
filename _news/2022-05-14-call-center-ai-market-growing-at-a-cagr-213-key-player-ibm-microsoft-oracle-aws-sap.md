@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP"
-excerpt: "By combining Azure Bot Services, Microsoft Bot Framework, and Azure Cognitive Services, the company provides a strong development environment for creating conversational interfaces. Users can ..."
+excerpt: "In the call center AI market, IBM provides business consulting, technology, financing, industry expertise, and training and skills. It offers Watson Assistant, IBM Voice Agent with Watson ..."
 publishedDateTime: 2022-05-14T04:53:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27204715/call-center-ai-market-growing-at-a-cagr-21-3-key-player-ibm-microsoft-oracle-aws-sap"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27204715/call-center-ai-market-growing-at-a-cagr-21-3-key-player-ibm-microsoft-oracle-aws-sap"
@@ -12,11 +12,11 @@ provider:
   domain: benzinga.com
 
 topics:
-  - Microsoft AI
+  - IBM AI
   - AI
   - AWS AI
-  - IBM AI
+  - Microsoft AI
 
-secured: "g1S2keNKvJLYjlvT0kuPSm/Y87eRcoyvfEgh78wh0NSjQ/vDRK299baZz1NWjFHjrUpXrOXIGdNccuxzPEHpujUufv0p6FkQ9hGQ/I9BVGlJpYoINmvvfvPPjEYD+BDffKzJg6lWNVutAEKKCaFg8wVe4yM9G7Gv10htq08kk37S08zCHb1wcAKp+v1TAj8YGxnlI/aSI5wapmq3w9InZYeWz9hpo9jd3McztujcHFERehKD+rbm3wYiStN1STDk9bKVakosWuBMYjdn+2RXtH6j6Mfgwzg19B5XtqkADwjR90eNMX51Qyw3HgGLZyf3q3SM78urDUJi4XPKneia+xJGYqAzTaS3qr5pA+P7uks=;OhhLdDJnjayjVriRJnqbzA=="
+secured: "e9gUqm/2bAuVx2Fc/07DaZ9TrbGEL8Z21JJfzc6pOCilw4mvvGyc6ut6KqEN9iApt4hNsy6/rrheeNPpMMwGY4NR9DJRRyS2edoLgy6vaZiZzBWPaxhpBNIR5eEcCdDxDXzokqQIkkOz7Oc3dhhS1Ywrlu+/3GdgKdvRrA0UloQtLZR6MYVQxXgEAqMHkxAs6L2oIVAwuYE0WLh1K2Yoi5LSgvtex4931pkz5kyC4rQEXZHfWdQYiKZ3yaVEcIhERc2RHhmjEH4Lo3hMTfzV7aGiA7epgC02wNPIHWEAJAsQnM1Tt9XP5eNgfS9JrJ33JBUG7KgCm9zLcSwuXb33VrWOQCkwD1RUJ1Mgmhzb8U4=;8JGFVikMNv8N96TxoSigZw=="
 ---
 

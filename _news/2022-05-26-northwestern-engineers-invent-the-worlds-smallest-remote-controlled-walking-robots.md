@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
-excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking"
-publishedDateTime: 2022-05-26T09:56:00Z
-originalUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
-webUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
-ampWebUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
-cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
+title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
+excerpt: "Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research published in the journal Science Robotics. Each one is about half a millimeter wide,"
+publishedDateTime: 2022-05-25T21:58:00Z
+originalUrl: "https://www.erienewsnow.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
+webUrl: "https://www.erienewsnow.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: 7News Miami
-  domain: wsvn.com
+  name: Erie News Now
+  domain: erienewsnow.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://CNNWIRE.images.worldnow.com/images/22748984_G.jpg?lastEditedDate=1653515027000"
+    width: 375
+    height: 500
+    isCached: true
 
 related:
   - title: "Researchers build world's smallest remote-controlled walking robot"
@@ -113,6 +117,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "v/NNgKpsB+qe6TU+0DxG+ZW2JLT5O1+gdd2qdJWiGh4IDoqPwEtoHjBlD20FLfEXdg41fIYJTHDw2BJlqNDWvNzjfzsNf0nnzZzfJAucFhEZR8AU8PW+gD9x1wFlOE9QggrglHcLJpLKN2FIX5osgVXee8aUpypHjrq2H4i4oE2XNxf1qqeejqvANI7VC88kiuErLb+saID4Nf0WqIbxe8qyE/oT33th0minqZ2rKblKqucEO7vfIFkfg64qkj+YiB+3Y559dNXGQUu6/mVjUPBT6Hzj95c9Apsieob4nQr5xP29y1lv6BmJf1sZB8lIQiNAEhz1VgpS/w5JGFZOkyohTbbgwGOzCLH6Wtsw5HXhrvTHrtBvyJft2T3/Yu9ifMvKU1GNcN6Ox4kn9WKY9tgBsdiBSL4fUUf3uxjVgz44IGYFGXI263SD5lwI2imTx4eHFOamxUiL3AMYqnOZiZrPXYho3k0z3M5t5WrgyWG/Xf1TBzUdh2zDn1itq4X2QnhjXdYMfs7RFkqO2KA7dA==;EfPzTyiAPIlc40rs6Km4kA=="
+secured: "iZEyIga1tjXXFawALSUVj4YBwUeAT0HIL1TSGybSxHxBoz3RcKLGciZwjRxHS4RUjBowDHKorMDeuM5ryy3FjVrlHwHjXTj/T4wD1Q9izNKYG4cBN/Gh8o1tW3cJGyxSyrKEDKzbYYXe9FsBEAOK4sPq1nIjWJw3vx1rSqG0cf0Jj/6lUfkmrwIuixpn20BQGQwI0tboL2fOsKDcgUnJuoUo4ZoO2H7YZ34Bmdt9hTry4bLNsRJJuOR1q5uJcu9nMY17MHdaGNKu+BQx2feq40ItXOhrpQxuy67RBfitpIzr0J3dKr0IevmY2POTXZU9a7ReeL2EVhkXytejki1YWTmYiOVI2gv78dHCXdB119Q=;Yi6NnfPRvzJRTogaw2ensQ=="
 ---
 

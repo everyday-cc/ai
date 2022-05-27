@@ -92,17 +92,20 @@ related:
       name: New Atlas
       domain: newatlas.com
     quality: 49
-  - title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
-    excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking"
-    publishedDateTime: 2022-05-26T09:56:00Z
-    webUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
-    ampWebUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
+  - title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
+    excerpt: "Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research published in the journal Science Robotics. Each one is about half a millimeter wide,"
+    publishedDateTime: 2022-05-25T21:58:00Z
+    webUrl: "https://www.erienewsnow.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
     type: article
     provider:
-      name: 7News Miami
-      domain: wsvn.com
+      name: Erie News Now
+      domain: erienewsnow.com
     quality: 33
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/22748984_G.jpg?lastEditedDate=1653515027000"
+        width: 375
+        height: 500
+        isCached: true
   - title: "The smallest remote-controlled walking robot ever built looks like a flea"
     excerpt: "Engineers at Northwestern University have built the smallest-ever remote-controlled walking robots. And the current design looks like a cross between a flea and a microchip. Actually, at half a millimeter wide,"
     publishedDateTime: 2022-05-25T18:07:00Z

@@ -84,17 +84,20 @@ related:
       name: New Atlas
       domain: newatlas.com
     quality: 49
-  - title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
-    excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking"
-    publishedDateTime: 2022-05-26T09:56:00Z
-    webUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
-    ampWebUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
+  - title: "Northwestern engineers invent the world's smallest remote-controlled walking robots"
+    excerpt: "Engineers at Northwestern University in Evanston, Illinois, invented the world's smallest remote-controlled walking robot, according to research published in the journal Science Robotics. Each one is about half a millimeter wide,"
+    publishedDateTime: 2022-05-25T21:58:00Z
+    webUrl: "https://www.erienewsnow.com/story/46573556/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots"
     type: article
     provider:
-      name: 7News Miami
-      domain: wsvn.com
+      name: Erie News Now
+      domain: erienewsnow.com
     quality: 33
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/22748984_G.jpg?lastEditedDate=1653515027000"
+        width: 375
+        height: 500
+        isCached: true
   - title: "The smallest remote-controlled robot ever is now this tiny crab"
     excerpt: "The world's smallest remote-controlled robot has been created by engineers from Northwestern University, which takes on crab form."
     publishedDateTime: 2022-05-26T09:13:00Z
@@ -114,6 +117,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "h7Dy4vEwgj+G4JjPNPNmYgHR8RvhmBjctgiRyKyA6ao1WM+z1pLptKSwlq2qVDueyfjEyco/RivI6dgAtDV3Z7EWa53Tr9YjOpY01WrQpYcm3IZySLXzuiUnc0Q4SIHBXVz/VvdL38JXI0R2UcIDNoCnJ33SZSUb9HuttB9aBJ2wUaU1FInoM2U89/87/kHdv9Re7JMIcvTiQMuH/6G0v99fMZJoECa1CEW4s5h7Ycd93a8ZkhHiSjCljY/ih3SaUBGoo5jAJSXzpj0V8JykvLFVq3o82Gv4r1x6WL6cHGMJxgXRVF/gnew65hp744usDlpU62SnzxzaDjG8XLt35M7ZhiKL6uvn+TYY2ybaDQs=;uF5/I3SMvREq69HD/fyCKg=="
+secured: "SAnK4IT6ILLhkAIFKJ5QWBiV/gHbI2g6EjmYdpGMqYWSJy4WlPVT87C72T953oGloUal11ht5PQswM1Kz66qm9TO7bUIRu20MjUzi5SJkLUVEzJeap+18vibgd92DZys+TDlmBENG3CUV/XM5E2wp54qpKmMmFN40phJyzYxDKX3PF9zzLa4Afvt4TYs97ICGlwqU0ZtijkKLnzETvnAUGvL9FIPJ+V/UinqrV/ypKZMAYPHp7qkiYS3hi363BS8u5cpek1VHcIt9+6x8sm+bLtKYgiNPyFX8X998oUiRQIov+MZEQXyaDMWf3N6Rm2In161J9f5bvZs2dcWo67keHIF+Xe9eqritFLhw781XPfA0h7IyRh+Z/Idejz/NVHSVZDCqvT91eVPL7TWFn9zP8nRQA2GnKFWz+gNME7strFMKCJ2Wn3e8+hNGQxNOK7yyyEvf7AjS06mA9CUTcHGROkpcCzSMLq6naN0CyXmLqzRtUU8cSLSihRpdZYRGHDotjEnk7Sv+ThjL9HTp1bCdg==;J+q9Q9uGVd7gJoitMc2hmQ=="
 ---
 

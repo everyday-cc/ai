@@ -2,6 +2,58 @@
   "page": 153,
   "value": [
     {
+      "path": "_news/2022-01-15-4-reasons-to-invest-in-nvidias-ai-in-2022.md",
+      "title": "4 Reasons to Invest in Nvidia's AI in 2022",
+      "excerpt": "In the simplest form that the AI that Nvidia chips enable involves pattern recognition and making associations. This massive computing power that's required is what the GPU provides, essentially ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/13/4-reasons-to-invest-in-nvidias-ai-in-2022/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/13/4-reasons-to-invest-in-nvidias-ai-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/661089/gettyimages-1159763203.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-tensoriot-2021-aws-reinvent-recap.md",
       "title": "TensorIoT 2021 AWS re:Invent Recap",
       "excerpt": "By: Nicholas Burden, Senior Technical Evangelist, TensorIoT  Another year of technical innovation is in the books, and once again the annual Amazon Web Services (AWS) re:Invent 2021 conference announced the latest advancements in Internet of Things (IoT),",
@@ -1140,58 +1192,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-chinas-robotaxis-charged-ahead-in-2021.md",
-      "title": "China’s robotaxis charged ahead in 2021",
-      "excerpt": "Autonomous driving startups in China are in an arms race to put passengers in their machine-driven vehicles. Every few weeks, news arrives that another major player has got the greenlight to launch a new pilot program or a small-scale service.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
-      "originalUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-696723580.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
-      "publishedDateTime": "2022-01-14T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

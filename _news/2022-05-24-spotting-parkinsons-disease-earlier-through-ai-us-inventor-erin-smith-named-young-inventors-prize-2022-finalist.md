@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Spotting Parkinson's disease earlier through AI: U.S. inventor Erin Smith named Young Inventors prize 2022 finalist"
-excerpt: "Erin Smith (22) named as one of three finalists of a new prize awarded by the European Patent Office (EPO) for her AI-powered tool enabling early"
-publishedDateTime: 2022-05-24T12:24:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/spotting-parkinson-s-disease-earlier-through-ai-u-s-inventor-erin-smith-named-young-inventors-prize-2022-finalist-1031484840"
-webUrl: "https://markets.businessinsider.com/news/stocks/spotting-parkinson-s-disease-earlier-through-ai-u-s-inventor-erin-smith-named-young-inventors-prize-2022-finalist-1031484840"
+excerpt: "AI propelling diagnosis Observing these facial ... which can occur up to a decade after changes in facial expressions start to manifest. Smith's innovation paves the way for widespread and ..."
+publishedDateTime: 2022-05-24T12:57:00Z
+originalUrl: "https://ktla.com/business/press-releases/cision/20220524NY66556/spotting-parkinsons-disease-earlier-through-ai-u-s-inventor-erin-smith-named-young-inventors-prize-2022-finalist/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220524NY66556/spotting-parkinsons-disease-earlier-through-ai-u-s-inventor-erin-smith-named-young-inventors-prize-2022-finalist/"
 type: article
-quality: 25
-heat: 25
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - AI
 
-secured: "C0lSuu+7YowviwqlLXd/3kvBzgj5htGL3+6gtl9vu3yUm+L+0ZZZdDeAVDhoe6Vfsp9F/NNfLn4V8dVIJ69fcmuVFAy6CreOFOWCSmsGxXn5bVaejvKP8p3rzF2+2Ln/7wKNL7OMxNdXxqR3PWHk1goiPa4Mdv5nFNOTM2cfKbjsU1cKs+nMcceJh852voRmD1oiLiGOH/TFhqkbkPGdfJ770njPrTUZQbvKNNmSCDE7WI58tOZTAfp38PIN3FbcC9hBJVdfzbJMmovMM+JbEeCDagt7C1iGWAuf615xyuR/xf93JgEBcWO+//P38zEnWNe18CIAANyg3ewtKwpjyaG5bWfK1CYrAitjq1vjdjRI69xiNZMEiuJ8WhWt+55FT/TKaL4t2kJgHBvoFFlMHExAS9RVqIz/h0xWXTHQCirWFMhur5n77zSbEEGYrtT2uCB+kZ/Euz54M8MlS5p1Sk1hDPiVgOyqfGaOOiJZAzCQp7oaANAg6FptBsdtkdQylwM8mIbeAUHcsYbUpPD+aA==;Brn2GnTSDmw7TZI52KOP2w=="
+images:
+  - url: "https://mma.prnewswire.com/media/1824707/SO_Erin_Smith_50__1.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "2sTZYhM4sTe3YC8SCwDCE0QeHZGwFeB7de5DsV6qfG01K5XxA5hqcfe4NEWX8aDlFSx78zfzs1A/l9HdE58CLCWkQG9fR29IheLn00qDq05kz0u/Qb9e7BXiU7PDVskcvl8P/sDAzdx20b2BXfOotLF5s3CZwWSHLE5uCIdy5izuRxEqzj7pJiHB62UDzv3oe/G91jMtTOSyYlSnmtROEbF1/iyKF35Knv+/AxIxKRcsewdrhhW33MV/1u5OUHkSkEtDVN5s+o3xMOfnDO7rLBHqWODq2hw4qBV8bRolvvZFcV/r2xwRusbQvIiLvcUb/T9ioAnwkenEJ1Ckq7MfpXKtmMmKikJATytGD4TPwS8=;/DUivIw74XBXDKu62qYz3Q=="
 ---
 

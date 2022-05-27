@@ -43,22 +43,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Elon Musk says Tesla will have self-driving cars without the need for human drivers this time next year"
-    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
-    publishedDateTime: 2022-05-22T18:04:00Z
-    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
-    ampWebUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Prominent ex-Tesla self-driving car exec leaves Apple for greener pastures"
     excerpt: "Apple has reportedly been working on self-driving car technology since 2014, but it has faced a series of prominent employee departures over the past year. As reported Wednesday by Bloomberg, the latest is CJ Moore,"
     publishedDateTime: 2022-05-25T20:58:00Z
@@ -183,15 +167,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Elon Musk says Tesla will have self-driving cars without need for human driver this time next year"
-    excerpt: "Elon Musk told reporters in Brazil tht Tesla will have self-driving cars without the need for human drivers behind the wheel for supervision or at all really around this time next year. It’s Musk’s latest timeline on Tesla’s full self-driving effort,"
-    publishedDateTime: 2022-05-22T18:04:00Z
-    webUrl: "https://electrek.co/2022/05/22/elon-musk-tesla-self-driving-cars-without-human-driver-next-year/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 35
 
 secured: "OKOaxVouNN5PSOp5ZiJpLM5r6Obuqm6kygORg+ktz0jAU3BPVHlApOHQks/PJcw2T20g2GR0lmcS1FmXcdh8Kfg2ecxuGRpqc402orZxb9IJKab6uXG5mu/rJ2aVV90xo7dWEBbCbSC/SSF5W6JTC2tWpHwmFng2aNg38fwy49hS544v8l+Gifbu5JT6KNGWz3qOXKZwLfknj5K9rRjXQTZxlKm53vKNu7G8Hjpafy2U/qoAkw9dLJTT9pr9nuwXFGMKx/AMn0kXE1WIXxeR0iWic5OaISJVwc8wHX1YehBwv8v7I+xpAJj+kRTFdIGYO0H008ZBIGQsCbF+PtSiEXIuv07UM2J+H63M39bnis+HgRmJAHCPILos/uFLCIhfsoKR2i7I+B8Z6HK9IIY8e35nE0OwVBmfCMHXc+pUPX6OTYtiJ8b48lGrEmrz7MaPIt66/1xozYtK9kcB+c8CERzqBJaTrMua/FV206Qdi7RV2HgIbBgYYHdFWCu3aXlFA2Q7roq6clrIDDk8Lkrw4Q==;of3NDt+WHENx1Our2/h9rQ=="
 ---
