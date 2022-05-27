@@ -5,12 +5,7 @@ excerpt: "A recent study found that AI deep learning models can be trained to id
 publishedDateTime: 2022-05-24T23:02:00Z
 originalUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
 webUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-ampWebUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
-cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
 type: article
-quality: 74
-heat: -1
-published: false
 
 provider:
   name: 7News and TheDenverChannel.com
@@ -20,39 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/aeccbfd/2147483647/strip/true/crop/3253x1830+13+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F96%2Febe196d94b7d93668a2f406ee2ff%2Fstudy-shows-artificial-intelligence-deep-learning-models-can-detect-race-in-medical-imaging.png"
-    width: 1280
-    height: 720
-    isCached: true
-
-related:
-  - title: "How amalgamated learning could scale medical AI"
-    excerpt: "A promising new AI and machine learning technique called amalgamated learning might help overcome these silos to find new cures for diseases, prevent fraud and improve industrial equipment. It may also provide a way to construct digital twins from inconsistent forms of data."
-    publishedDateTime: 2022-05-24T22:50:00Z
-    webUrl: "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Nuance Named Leader in Opus Research 2022 Enterprise-Scale Conversational AI Ranking"
-    excerpt: "Nuance ® Communications, Inc. today announced it was recognized as a Leader in Opus Research's 2022 Decision Makers' Guide to Enterprise Intelligent Assistants report. The report cites Nuance's holistic approach as well as its growing ecosystem of partners and industry collaborators,"
-    publishedDateTime: 2022-05-26T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuance-named-leader-in-opus-research-2022-enterprise-scale-conversational-ai-ranking/article_9806e647-7a9d-5d14-af32-fb26e855608f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 10
-
-secured: "2S2dF5dsZXv4pwzqO3MTj9MfzeZ8ab+6aKmSLZ7+ghI6przF2xOJg6HwYpgybbZvyPGzzeAh5prLzOf27GffH96o1/X8sQSF2Ir9tZdscBuBbjTXQRlSmx0Z8F2VwSMVvLCkoT7EZAxqsS3TwFUXyyl/D+AuF1aIg0pqRuROfL+LKjw1KZo9rsZgUDr9uxwn+h41UhZPno6q4k0KOm4FlrVs+jVtyS9n3/phnT5G+XEkkZbXpE33tD1JGdOkHfwECbO2w6gExKLMerJsS1WYRViVtt6oIV1BDv13IpHqB6zXuAs+tm7hvnM6be+N1vem0+rQc3tbkeXbBXGG79oWh8zq6s4y0DwyJX3J1r2WN/o=;wojmf5Td8QYH0nR6TNI9fw=="
+secured: "PubPleLirrx4AK0LQe5dfZe9t+xcZVX6XYU+fUfJpl+UsioNh4UDE2bFlIuBFBjQZ6Qd6g0JUS83ev4mDB0LLvt4yiV59kzdkM3rC9XCJ5VRr27Rt9SLj6V+oq1W4Mx+NCPQF1dgaATNod4SLG73Ir34mOLNYI4I0p42gIuNw7xAH542vaKxBHUK9z2x5wQKPN0R2MmHESteDq+2Ec3YgiiAE9mXpYiqaazwEMHgVDLtvUp4w8ahuxkXS0uoFZsAyLHW9512wAY0BeUuv9aCw43uT/YGL/pt72O6MlTzj+dvPcx2wrRUncp0PdaCK7Fspq5oxij7asaM6b7aJmcrzSL7SfoXwRSjbl5jPpvHXRs=;fpR6KcTsGjSbxn92z5sJVA=="
 ---
 

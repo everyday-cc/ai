@@ -1,74 +1,20 @@
 ---
 category: news
 title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
-excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced the launch and availability of Interplay 7, code-named “Spirit."
-publishedDateTime: 2022-05-24T17:37:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-science-8cb31a903be9c442c44450cdbd230729"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-8cb31a903be9c442c44450cdbd230729"
+excerpt: "Data scientists can send trained data created in Interplay 7 for processing in Amazon SageMaker or Google Vertex AI, or can process data in Interplay itself. Building web and mobile applications ..."
+publishedDateTime: 2022-05-24T18:33:00Z
+originalUrl: "https://fox8.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
+webUrl: "https://fox8.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
+  - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI"
-    excerpt: "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models."
-    publishedDateTime: 2022-05-24T17:50:00Z
-    webUrl: "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all"
-        width: 1200
-        height: 603
-        isCached: true
-  - title: "Iterate.ai Wins Intellyx 2022 Digital Innovator Award"
-    excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced that Intellyx, an analyst and advisory firm helping business executives and IT leaders untangle the technologies and practices behind digital transformation,"
-    publishedDateTime: 2022-05-26T17:51:00Z
-    webUrl: "https://www.localsyr.com/business/press-releases/globenewswire/8560814/iterate-ai-wins-intellyx-2022-digital-innovator-award/"
-    type: article
-    provider:
-      name: LocalSYR
-      domain: localsyr.com
-    quality: 37
-    images:
-      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
-        width: 814
-        height: 330
-        isCached: true
-  - title: "Conviva Partners With VISUA To Integrate Visual-AI Technology In Its Leading Insights Platform"
-    excerpt: "VISUA's Visual-AI suite will enhance the insights delivered to the customers of Conviva's leading platform with key brand insights for streaming & social video."
-    publishedDateTime: 2022-05-23T13:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/conviva-partners-with-visua-to-integrate-visual-ai-technology-in-its-leading-insights-platform/article_07c78029-3130-539b-9c00-890b37c83e94.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 25
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
-
-secured: "XdMFjl8Cp+JLfrx5zb+ge1N5/71RiICwwAqgojvjh4CPPzUzlX3m7rVfdWDUqTVmw10gnVYHdg7jurGcKjDL2+4EaXrfRxHUFbBqVxbu4zN06z/xHlf5JkBVZlvnLPtOFb8vK5f1wRV2HtAvn+qWI4IiAQcAovqp9ZDi+D0HVdyeeWihbk2D3jjNKSN1uJryIkleXYyfSant/ZGqtqJr3n3MbRYBMN+AsJCUY1GkX+aoP0Xax9LElnOOpaYNVcYgxmj1olqLlFVEqIDt6nQl0CflnAs68Xk4llqIBP6l8RhAGMKLhBVu49Nnkl0MNkK4h5tGMLwNLAYM0DXfNqWtXcFEEhQq6lEe/X8SCtsdZdo=;bIhi87pDAzxvDWThOs86aw=="
+secured: "WNfVj1GsY+ArjSQhw/4UvGOft1urjAtaWCVorRhd+7hhg8JnWVub09vRpOcZu+Pbf3gxf/lBE7gV1hUZ19PPFTu8XXZLHdSdcxCovOjR+ANxarLP1NEe0YpgapZKn8RJSupLsChm/IX3X07lmgAtDQ49rAogIJOIYlMG7iZpuz0wBHXsSZenG5dw4RJXAilWjj+5eXTp2qo6xR9rdE4S6fIXQ43v27PUSSpFjIaySCbMRNWJdUsDpXw2xPHsSh3LJRwfJOnP9JKdPlE3Vs3dZhntzxzNsWAUZh6OctQTO9hXqzkLqKUr2RVQSThUF9VKDWfI2JpVt9UQ+bOsfB//0ZSFMmGIsNRWcz7V8g4Gs1Q=;diknRCA4KA6NmvMlU98GOg=="
 ---
 

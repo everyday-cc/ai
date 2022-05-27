@@ -8,7 +8,7 @@ heat: 787
 twitter:
   username: elonmusk
   url: https://twitter.com/elonmusk
-  followers: 95306312
+  followers: 95321456
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Elon_Musk
