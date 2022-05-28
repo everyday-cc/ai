@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition
 webUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition-company-fined-police-b2085085.html?fr=operanews"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "British regulator fines U.S. facial recognition company $9.4M"
-    excerpt: "A British regulator has fined a U.S. facial recognition company over collecting images of people in Britain in violation of its data protection laws."
-    publishedDateTime: 2022-05-24T18:31:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2022/05/24/British-regulator-fines-US-facial-recognition-company-94M/1441653409831/"
+  - title: "Facial recognition firms should take a look in the mirror"
+    excerpt: "Clearview AI was fined for using internet-sourced images of UK residents in its database – but not before police forces used its service"
+    publishedDateTime: 2022-05-28T14:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2022/may/28/clearview-ai-facial-recognition-database-fine-information-commissioners-office-ico?via=indexdotco"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/may/28/clearview-ai-facial-recognition-database-fine-information-commissioners-office-ico"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/may/28/clearview-ai-facial-recognition-database-fine-information-commissioners-office-ico"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 19
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/47c278fa57498f6cb6dfacca66029466bbf0ae82/0_140_4226_2537/master/4226.jpg?width=620&quality=85&auto=format&fit=max&s=a52403bcb19393cd53e562b4af829d1b"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "TmzxIzT4PXH4aN/esPO04C3b3AQFF9toxpqznkUX3L8MqdMOEjQVhIKWFmzRot6NjcTDUZspe5Y8NZQYshvYAaJenti9ytcZxE7MIOb8aRnjenINu2VARcbj0OI5S/bPaU41UbwNtAHrmTc05/7o9vpKjMvyy8KCQ7twMBb7fATBMbe4e1Ai7eW/e6IVyXL5R2lGviSYZDksq2v/Ghf59nSaLS/whbxQcrQmxEjp55SyC498Ix/tYVddHkB76L9Y+G0bKyk+mZi6U54NkfG6cPaA8VgPf3YcsLtp2pBRbCYdaaXzsf0ngIiMntmKM7g+gIfSYeVkLNvIUXV2HDAwi1PiTUHLkePzUghb+1OYQIMDZasdBsgTDHY+NtEFBx3KZ0Lc24hxEHGmcXOvkfwtB+Po0mt9Uw8vRZBwYP0R0LzFgQx8KiKLRP5OXqmUxAYtDXGbaabqAUKPwzGI/Bn2Em5XeuNaihb7Kr2Nahi2OGVbpfl/IyD4ZIpk5G/0smnT3ZuTSRtVFB3dAY3PRzUh7w==;wR6rL3k98V6hVNIEBESVEw=="
 ---

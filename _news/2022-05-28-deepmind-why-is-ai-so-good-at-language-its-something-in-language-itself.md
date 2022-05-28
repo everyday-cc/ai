@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/deepmind-why-is-ai-so-good-at-language-it
 ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/"
 type: article
-quality: 102
-heat: 102
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/3ffd901c4c60d15791e3a11b786df6f9c59e485d/2022/05/27/ae1ac90a-e2b4-4b21-8343-f18ef904f3c4/deepmind-omniglot-modified-challenge-may-2022.jpg?width=1200&fit=bounds&auto=webp"
@@ -30,6 +31,6 @@ images:
     height: 750
     isCached: true
 
-secured: "kFih74+MoUFI8I6TRGzKMQf9tW3Vj7p1yl36MnYOJcr6uOQI43XXnrHJwMLarvf+bkmyS/mrG+ZvlPjOMA8hqEItYcF7JyI/6XorfU86gxgXuNNckLuaH0w1PongobibS7THh12QGUyimx5cz0dcR9TjTE0k4rUwsnNordy2XyYAlibw2bXNMq0xwcRyy7oFY0g5Ni2FOkO0bYCBcGYtPla6J7PDGhWiJ+1DEuKxBho+OrpSFJOl/RCRSbbtWSGI5TxZ2aRMWgXpqMtH1pNZ6Ejr0HBfz1bteAaxvf74TLXYNe6uhHsg2ZxllpaxXthnUP6IT7Aip84MFi8UaW/Idjwd+R4S3H1Mw3HbcJslX24=;k5LVLv+Oe72JAME84TOEBw=="
+secured: "1i/M7Y1c9nVepuYhS9ctcISs2USBU3E1c1mUFQNOyn0vsmNZH5KeZYSBygyvMZgUtW+sQFe8B568meJdiNHBBaIwHmyzNPlJCmsLb8ndX6557P3QPRjqZwY0pIjLRaY5hAr92R0HxV3xHPPTaVbF5Ideb3+tRQiplO31NH3GpMEfoDmjnvAXPfuKURMJlvHbZ3tcNPbmUDjqnBdFymHDxUZaoUIM9coAYFOc0J/xFVLWONMNR4t7sOxckT4GBOdqbv0TQ11rN/GKfIFjQQZ+mCbI563hq/3pQJsQq3SbzOPJD8HkuxHyNryvCiFALnn2+np33DzgB731BWUyDi3Yt+t0cSryp6wJaiLzcbacgFhQM5oS/D/cXa0OUNjds9E7yYRM8Xsln3BH1qxke1Oke6d5mTR3CjOaAQcuI0YJAXryPlGKyG2JnVON8Jd4TS+qub6f7XCkqEOuhCuHqO37+WLdM+wv/UsGKMuUafI8L5BR6D3fkjznC45uXwxkxvxmZCDO/oqUUokXjOEr4re6xA==;ogXksvyqZa4otLxzFicMyw=="
 ---
 

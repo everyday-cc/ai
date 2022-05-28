@@ -57,6 +57,22 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "PimEyes Is A Facial Recognition Search Engine That’s Disturbingly Accurate And Creepy"
+    excerpt: "In the world of facial recognition tools, PimEyes is one that can be eerily accurate in finding similar photos on the internet from a single uploaded facial image. While the reverse photo lookup ..."
+    publishedDateTime: 2022-05-28T17:10:00Z
+    webUrl: "https://hothardware.com/news/pimeyes-facial-recognition-search-engine-disturbingly-accurate"
+    ampWebUrl: "https://amp.hothardware.com/news/pimeyes-facial-recognition-search-engine-disturbingly-accurate"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/pimeyes-facial-recognition-search-engine-disturbingly-accurate"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 52
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58683/content/facial-recognition.jpg"
+        width: 708
+        height: 419
+        isCached: true
   - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
     excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
     publishedDateTime: 2022-05-25T00:00:00Z

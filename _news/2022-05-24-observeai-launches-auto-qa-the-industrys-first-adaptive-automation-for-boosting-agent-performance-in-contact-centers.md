@@ -24,29 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Zoom to Acquire Conversational AI and Automation Platform Solvvy"
-    excerpt: "Zoom Video Communications announced it has entered into a definitive agreement to acquire Solvvy, a leading conversational AI and automation platform for customer support. Together, Zoom and Solvvy will offer elevated customer service experiences to a global enterprise base and work quickly to capitalize on new opportunities in contact center and customer support."
-    publishedDateTime: 2022-05-24T00:44:00Z
-    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/25068-zoom-to-acquire-conversational-ai-and-automation-platform-solvvy"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 37
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/a63986d97df5d35d8f051e87176e056d.jpg?t=20220524_004131"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "European business communications provider Dstny acquires Tactful AI to accelerate its position in the Customer Experience Platform market."
-    excerpt: "The acquisition takes Dstny to the next level in customer engagement, enabling companies to employ Artificial Intelligence and data in their customer experience operations with minimum effort. BRUSSELS,"
-    publishedDateTime: 2022-05-25T07:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-8e3d1465c2effdaaead43788b95c904e"
+  - title: "Automation Hero Launches The Most Accurate AI to Process Documents"
+    excerpt: "For years, countless science fiction movies have depicted advanced software processing large amounts of documents to find hidden insights that save the day. Today, this is no longer science fiction. Automation Hero launches version 6 of its Hero Platform_ that takes a quantum leap in document processing accuracy and outperforms its competitors."
+    publishedDateTime: 2022-05-26T13:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-2d161fa42c4e8feb67db70e798939a6f"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 3
+    quality: 37
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

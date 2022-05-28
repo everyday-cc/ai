@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars"
-    excerpt: "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ..."
-    publishedDateTime: 2022-05-24T00:30:00Z
-    webUrl: "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
-    ampWebUrl: "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 66
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/05/屏幕快照-2020-05-07-下午4.16.18.jpg?fit=1200%2C601&ssl=1"
-        width: 1200
-        height: 601
-        isCached: true
   - title: "The Download: Driverless cars’ AI plan, and stretching cells with a robotic shoulder"
     excerpt: "This was the first time that reinforcement learning—an AI technique that trains a neural network to perform a task via trial and error—had been used to teach a car to drive from scratch on a real road."
     publishedDateTime: 2022-05-27T12:31:00Z
@@ -52,6 +36,26 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 47
+  - title: "Argo AI testing fully driverless cars in Florida and Texas right now"
+    excerpt: "Argo AI is backed by both Ford and Volkswagen, now testing fully driverless vehicles in Miami, Florida, and Austin, Texas."
+    publishedDateTime: 2022-05-25T01:29:00Z
+    webUrl: "https://www.tweaktown.com/news/86405/argo-ai-testing-fully-driverless-cars-in-florida-and-texas-right-now/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+  - title: "The Download: Google’s AI cuteness overload, and America’s fight for gun control"
+    excerpt: "This cuteness hides a darker side to these tools, one that the public doesn’t get to see because it would reveal the ugly truth about how they are created. Read the full story—and see more pictures created by Imagen—here."
+    publishedDateTime: 2022-05-25T13:14:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 32
 
 secured: "aF6k8DbOFTQwOzvcNvBEYqyXs6eX8OQ9p31saBGdfMxxd5jZhDIKRm8Aises7M1my7kimloZPaA/XI2HJszS3hzQzurS+B9D1BTUKBeqL1bifxr1ASNGxwuyGlM41f/3HEf9hnC2Dy2gCBak16aMW72EXFeE+neYaYmdYI/4DWrp7IyUYnQswMQiEMiOHM2bPgVaWOaVvHvyHxRCISQgcSu7O0jGxUaB5iGrF/hq8T+OWCaPHoFaTQbKJiCr3VIPlguo/oBvx8olE9FhYPud1afzhnOikgzH2Jwc8nYeAuqSpCvQV6YZLvcstOh4Gjzg2mSqJ/wmuQZvRyOycTIbbdLQQ8by2h2fmrE1icQ2xgk=;GmNAIj8AHMqlzl2TV271qw=="
 ---

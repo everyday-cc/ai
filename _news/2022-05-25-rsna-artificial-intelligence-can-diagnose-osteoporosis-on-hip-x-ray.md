@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/rsna-arti
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/rsna-artificial-intelligence-can-diagnose-osteoporosis-on-hip-x-ray/article_e63e82ef-d560-5160-9a87-f76d81c89e4f.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Helps Diagnose Osteoporosis"
+    excerpt: "Artificial intelligence/AI can help diagnose osteoporosis from hip X-rays. One in five men will experience osteoporotic fractures"
+    publishedDateTime: 2022-05-28T16:43:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-diagnoses-osteoporosis-207335-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-diagnoses-osteoporosis-207335-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-diagnoses-osteoporosis-207335-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/osteoporosis1.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+  - title: "New AI Tool May Help Diagnose Post-Covid Lung Problems"
+    excerpt: "A novel Artificial Intelligence (AI)-aided diagnostic tool could help overcome some of the challenges of monitoring lung he"
+    publishedDateTime: 2022-05-24T11:39:00Z
+    webUrl: "https://menafn.com/1104264809/New-AI-Tool-May-Help-Diagnose-Post-Covid-Lung-Problems"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?729286"
+        width: 375
+        height: 250
+        isCached: true
   - title: "AI can diagnose osteoporosis on hip X-ray"
     excerpt: "OAK BROOK, Ill. – A new method that combines imaging information with artificial intelligence (AI) can diagnose osteoporosis from hip X-rays, according to a study in Radiology: Artificial Intelligence. Researchers said the approach could help speed ..."
     publishedDateTime: 2022-05-25T17:00:00Z

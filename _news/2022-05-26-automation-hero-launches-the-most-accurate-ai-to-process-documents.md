@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Observe.AI Launches Auto QA, the Industry’s First Adaptive Automation for Boosting Agent Performance in Contact Centers"
+    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced the launch of Auto QA – the first adaptive automation solution that boosts agent performance to drive faster impact on customer experience and revenue generation."
+    publishedDateTime: 2022-05-24T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-san-francisco-e501d8fa01c343648412b3d7ead9a7ed"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "Hs0zUuq3wLld9zsxKYzCjbOPjvuRB3cH0Euxel/7AYZOeI/KEH0NRfQiNzPWDxRZSi2d5N8W6czu7PqK7HUtWi0qi6Sk4T8lA/70e3ti07K1iI5lrZq7x9fpjWgPRsFGRoIQFhfEqf6vwy0VHqplWmBzLRvkPy2D4EwUA8vcX9nbh2/DBQQxHiU6hD90HCyjey3LPGuzQ2MR71KPLiykdmDKZ8sH1m/oOMX6j9GPTfugwXwXkCa1UCgJX+VxwjOgj/eXIIHuu1WxhiRJh4rwFit8a0nSGOY/NhEEOLaXaFscOn7lSbO+yQN7o7qTIz6kprf3KMKEhayXKsvTV9z0MahakfrSLsvh/z8VaeONdZo=;wbTtFFZ4jAS4WDoFSuWPiQ=="
 ---
 

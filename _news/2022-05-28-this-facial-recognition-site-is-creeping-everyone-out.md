@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://lh3.googleusercontent.com/UvOF7aHRWcZZQxflI5poMnDVlyI6d5YkhDdz8kk19qMcTv6lhEWCSqa6ZzZpI50Yu8xo10QMESFtfjlvZ07h2mPo_H5ipC0cAeN5FarU234xV4Y=s750"
         width: 750
         height: 562
+        isCached: true
+  - title: "PimEyes Is A Facial Recognition Search Engine That’s Disturbingly Accurate And Creepy"
+    excerpt: "In the world of facial recognition tools, PimEyes is one that can be eerily accurate in finding similar photos on the internet from a single uploaded facial image. While the reverse photo lookup ..."
+    publishedDateTime: 2022-05-28T17:10:00Z
+    webUrl: "https://hothardware.com/news/pimeyes-facial-recognition-search-engine-disturbingly-accurate"
+    ampWebUrl: "https://amp.hothardware.com/news/pimeyes-facial-recognition-search-engine-disturbingly-accurate"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/pimeyes-facial-recognition-search-engine-disturbingly-accurate"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 52
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58683/content/facial-recognition.jpg"
+        width: 708
+        height: 419
         isCached: true
   - title: "Mastercard’s newly launched face recognition payment system is already raising accuracy concerns"
     excerpt: "Mastercard recently launched a new facial recognition payment system that lets shoppers make payments with their face or hand gestures. This new payment system is being rolled out to biometric payment systems including fingerprint scanning and facial ..."

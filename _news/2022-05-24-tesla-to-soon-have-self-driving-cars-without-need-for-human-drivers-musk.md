@@ -114,22 +114,6 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 54
-  - title: "Company testing self-driving trucks on I-576"
-    excerpt: "To get more of these autonomous trucks on the roads, there's some legislation going through Harrisburg right now to get the door open to see more of these when you're out on the roads. Senate Bill 965 and House Bill 2398 would make it easier for autonomous driving in the state."
-    publishedDateTime: 2022-05-23T23:35:00Z
-    webUrl: "https://www.cbsnews.com/pittsburgh/news/company-testing-self-driving-trucks-on-i-576/"
-    ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/company-testing-self-driving-trucks-on-i-576/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/company-testing-self-driving-trucks-on-i-576/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2022/05/23/72d25877-790f-402f-9038-6672c0d27eb7/thumbnail/1200x630/08b3dd168f456d96d952a3c154001626/locomation.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ford still focused on self-driving cars as electric cars take off"
     excerpt: "Ford is rolling out Blue Cruise, its self-driving functionality, and we took a test drive in the Expedition Platinum."
     publishedDateTime: 2022-05-26T21:29:00Z
