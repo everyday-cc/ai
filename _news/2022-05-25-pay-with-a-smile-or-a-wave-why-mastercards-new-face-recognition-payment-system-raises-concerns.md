@@ -103,20 +103,6 @@ related:
         width: 733
         height: 355
         isCached: true
-  - title: "Mastercard’s newly launched face recognition payment system is already raising accuracy concerns"
-    excerpt: "Mastercard recently launched a new facial recognition payment system that lets shoppers make payments with their face or hand gestures. This new payment system is being rolled out to biometric payment systems including fingerprint scanning and facial ..."
-    publishedDateTime: 2022-05-27T08:24:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns/articleshow/91831651.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 41
-    images:
-      - url: "https://www.businessinsider.in/photo/91831651/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns.jpg?imgsize=10764"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Why Mastercard’s new ‘smile to pay’ face recognition payment system could cause some big problems"
     excerpt: "Customers install an app which will take their picture & payment information, which will be saved & stored on a 3rd-party provider’s servers"
     publishedDateTime: 2022-05-27T00:47:00Z

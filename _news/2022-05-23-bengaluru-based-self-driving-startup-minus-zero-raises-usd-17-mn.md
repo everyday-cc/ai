@@ -41,22 +41,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Self-driving startup Minus Zero raises $1.7 million in funding led by Chiratae Ventures"
-    excerpt: "The company will use the funding for building an extensive autonomous vehicle research and development, infrastructure and hiring more people."
-    publishedDateTime: 2022-05-23T06:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/articleshow/91735958.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 51
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-299346,msid-91736088/minus-zero-founders.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "UK launches £40m competition to roll out self-driving commercial vehicles"
     excerpt: "The UK Government has launched a £40m competition to kick-start the roll out of commercial self-driving vehicles from 2025. Announced today by investment minister Lord Grimstone, the ‘Commercialising Connected and Automated Mobility’ will provide ..."
     publishedDateTime: 2022-05-23T12:13:00Z

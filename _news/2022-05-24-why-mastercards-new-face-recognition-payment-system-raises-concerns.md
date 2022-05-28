@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.a
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/05/mastercard-resize.jpg"
         width: 733
         height: 355
-        isCached: true
-  - title: "Mastercard’s newly launched face recognition payment system is already raising accuracy concerns"
-    excerpt: "Mastercard recently launched a new facial recognition payment system that lets shoppers make payments with their face or hand gestures. This new payment system is being rolled out to biometric payment systems including fingerprint scanning and facial ..."
-    publishedDateTime: 2022-05-27T08:24:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns/articleshow/91831651.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 41
-    images:
-      - url: "https://www.businessinsider.in/photo/91831651/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns.jpg?imgsize=10764"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Pay ‘with a smile or a wave’: Why Mastercard’s new face recognition payment system raises concerns"
     excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts. It is being trialled in Brazil, with future pilots planned for the Middle East and Asia."

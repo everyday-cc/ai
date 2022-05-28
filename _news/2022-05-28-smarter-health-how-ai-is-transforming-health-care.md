@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Smarter health: How AI is transforming health care"
-excerpt: "Read more about the series here. American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential of AI in health care — from predicting ..."
-publishedDateTime: 2022-05-27T20:52:00Z
-originalUrl: "https://www.wesa.fm/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
-webUrl: "https://www.wesa.fm/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
+excerpt: "Could artificial intelligence change that ... (@oziadias) Also Featured Richard Sharp, director of the biomedical ethics research program at the Mayo Clinic. (@MayoClinic)"
+publishedDateTime: 2022-05-27T17:00:00Z
+originalUrl: "https://northcountrypublicradio.org/news/npr/1101781164/smarter-health-how-ai-is-transforming-health-care"
+webUrl: "https://northcountrypublicradio.org/news/npr/1101781164/smarter-health-how-ai-is-transforming-health-care"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: WESA
-  domain: wesa.fm
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
-  - AI in Healthcare
+  - AI Ethics
   - AI
+
+images:
+  - url: "https://northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+    width: 500
+    height: 500
+    isCached: true
 
 related:
   - title: "Leveraging AI to Improve Patient Outcomes in Healthcare"
@@ -52,6 +58,6 @@ related:
       domain: mddionline.com
     quality: 17
 
-secured: "MxRnAFHxWGpeg8UGlrfMeKFpbwuRp8ccsACYMc5g6JHIUiQ538CvDCuV7xypoczY03ag0zJRz+Sb1OX7rq0YyDYG9fA8eDwlk0ifB6duArQLfqvG/Bz0k32GJ171AYHos/lKzlqkyhRzytZRquUm6mlRVvY1QU+xsCFNHjnzpuTz/QE413JmCelxcJ3x9QwRLZMq30I6k0iQEZlPkvbHJEZ/5MlkXeOD6UYUMvE/+88gY9QAwTsr/3WeO9rljanJ7vz+a2ZCcCSKhivghRl6yEcBQqxuCtXEebUi46HEbvZ9HDM5+xGiZr/Nap4+OOi+DCrjE+EaRQgzPiJ4myj+vlk16zNqDYDhAS8LQmAnAlU=;9cZEX9apdu7OqZ0UvffsOA=="
+secured: "A2XnYLEm0gB8+jqrGsWkpjqVpq1VObdwJGrQxgDzAVadx5uAIlGc3WQvV8MIdFavaepJ0KJBl8iu2iSnpKlDhiTMbTBTbLo0Ioa8hs6wqoNB/3stu0bjPifn4zAPxLwZma6FpcR+aIYT6xG7q9JrcFaOyABmVYcpNOUsz6XIJG1oegPZTcLzeFI0taASdjgjqWAqyHPI/JQiUlexvDZtN9fbogFhg2iZsRT2CL1lYaR4N7slGSJo6o+CTcbpez82l40c1xiCcU6w5cNqwxLaFVBkDI0g6MMOLm+iwiwt8KCSGYXrtkD1goLfShdix4rSVxMv15a4lHpkqId6UA4TsfVbElM9KyPMxgd5sxMC+18=;cLOHlVAIHFFe3ZmL/6f+IQ=="
 ---
 

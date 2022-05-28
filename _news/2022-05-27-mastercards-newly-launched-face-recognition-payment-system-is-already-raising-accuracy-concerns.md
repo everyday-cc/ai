@@ -25,111 +25,92 @@ images:
     isCached: true
 
 related:
-  - title: "Why Mastercard's new face recognition payment system raises concerns"
-    excerpt: "Mastercard's \"smile to pay\" system, announced last week, is supposed to save time for customers at checkouts. It is being trialed in Brazil, with future pilots planned for the Middle East and Asia."
-    publishedDateTime: 2022-05-24T14:26:00Z
-    webUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
+  - title: "This Facial Recognition Site Is Creeping Everyone Out"
+    excerpt: "A facial recognition tool called PimEyes has recently gone from unknown to infamous. PimEyes makes it easy to find pictures of people that are strewn across the internet. That isn't necessarily surprising—reverse image searches have been a thing for years—but it turns out PimEyes is astoundingly good at identifying people with naught but a single photograph."
+    publishedDateTime: 2022-05-27T22:54:00Z
+    webUrl: "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out"
+    ampWebUrl: "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/why-mastercards-new-fa.jpg"
-        width: 1356
-        height: 668
+      - url: "https://i.pcmag.com/imagery/articles/042tAv7BU4awCU1LoifhgMO-1.fit_lim.size_1200x630.v1653691896.jpg"
+        width: 1121
+        height: 630
         isCached: true
-  - title: "Why Mastercard’s New Face Recognition Payment System Raises Concerns"
-    excerpt: "Mastercard’s biometric checkout system will provide customers with facial recognition-based payments, by linking the biometric authentication systems of a number of third-party companies with Mastercard’s own payment systems."
-    publishedDateTime: 2022-05-25T06:05:00Z
-    webUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427"
-    ampWebUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
+  - title: "Facial recognition used to bet on the ultra rich"
+    excerpt: "For all its controversy, facial recognition is fast becoming a popular tool for convenience, used to unlock phones and, increasingly, to pay for things “It’s an early warning system,” Best adds. Ambassadeurs’ serving staff and croupiers all have phones with the encrypted chat app Wickr."
+    publishedDateTime: 2022-05-26T03:00:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 74
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Facial_Recognition_1640922171.jpg"
-        width: 1200
-        height: 675
+      - url: "https://lh3.googleusercontent.com/UvOF7aHRWcZZQxflI5poMnDVlyI6d5YkhDdz8kk19qMcTv6lhEWCSqa6ZzZpI50Yu8xo10QMESFtfjlvZ07h2mPo_H5ipC0cAeN5FarU234xV4Y=s750"
+        width: 750
+        height: 562
         isCached: true
-  - title: "Mastercard's 'smile to pay' raises concerns around face recognition systems"
-    excerpt: "The company argues touch-less technology will help speed up transaction times, shorten lines in shops, heighten security and improve hygiene in businesses"
-    publishedDateTime: 2022-05-25T04:58:00Z
-    webUrl: "https://www.business-standard.com/article/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
+  - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
+    excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
+    publishedDateTime: 2022-05-25T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/a-casino-pioneers-facialrecognition-to-serve-the-ultra-rich/2022/05/25/5938cb2c-dbe8-11ec-bc35-a91d0a94923b_story.html"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 72
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/06/full/1607223506-2559.jpg"
-        width: 620
-        height: 464
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBDGMIG35AI6ZPBVVEOQVFESHM.jpg&w=1440"
+        width: 1440
+        height: 1080
         isCached: true
-  - title: "Pay ‘with a smile or a wave’: why Mastercard’s new face recognition payment system raises concerns"
-    excerpt: "The technology is currently being trialled outside of Australia. It’s one of the first major attempts to bring it to western markets on a large scale."
-    publishedDateTime: 2022-05-24T06:01:00Z
-    webUrl: "https://theconversation.com/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-183447"
-    ampWebUrl: "https://theconversation.com/amp/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-183447"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-183447"
+  - title: "UK fines US facial recognition company"
+    excerpt: "Britain fined U.S. facial recognition company Clearview AI Inc. for more than 7.5 million pounds ($9.4 million) for collecting online images of people without their knowledge, AFP reported. The U.K. data watchdog also ordered the company to stop receiving ..."
+    publishedDateTime: 2022-05-24T05:40:00Z
+    webUrl: "https://news.am/eng/news/703437.html"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 60
-    images:
-      - url: "https://images.theconversation.com/files/464421/original/file-20220520-19-yabkx8.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Mastercard’s “smile to pay” face recognition payments system is raising privacy, security and bias concerns"
-    excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts and is being trialled in Brazil."
-    publishedDateTime: 2022-05-26T23:40:00Z
-    webUrl: "https://www.smartcompany.com.au/finance/mastercards-face-recognition-payments-concerns/"
+      name: News
+      domain: news.am
+    quality: 19
+  - title: "Facial recognition 'like having Guards checking everyone's photo ID'"
+    excerpt: "Garda use of facial recognition technology would be akin to checking everyone's photo ID in a crowd. That's according to Liam Herrick, executive director of the Irish Council of Civil Liberties (ICCL)."
+    publishedDateTime: 2022-05-25T12:19:00Z
+    webUrl: "https://www.newstalk.com/news/facial-recognition-like-having-guards-checking-everyones-photo-id-1347675"
     type: article
     provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 53
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/05/mastercard-resize.jpg"
-        width: 733
-        height: 355
-        isCached: true
-  - title: "Pay ‘with a smile or a wave’: Why Mastercard’s new face recognition payment system raises concerns"
-    excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts. It is being trialled in Brazil, with future pilots planned for the Middle East and Asia."
-    publishedDateTime: 2022-05-25T08:44:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-398014"
+      name: Newstalk
+      domain: newstalk.com
+    quality: 19
+  - title: "This search engine is basically Google but for facial recognition"
+    excerpt: "The new facial recognition tool, PimEyes, seems like something out of a science fiction movie. PimEyes is basically Google but for images of faces. You can upload a face to the website and it will ..."
+    publishedDateTime: 2022-05-27T16:52:00Z
+    webUrl: "https://knowtechie.com/pimeyes-is-a-facial-recognition-search-engine-scours-the-web-for-matching-images/"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 40
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/5/2022_5$largeimg_1625092622.jpg"
-        width: 724
-        height: 483
-        isCached: true
-  - title: "Why Mastercard’s new ‘smile to pay’ face recognition payment system could cause some big problems"
-    excerpt: "Customers install an app which will take their picture & payment information, which will be saved & stored on a 3rd-party provider’s servers"
-    publishedDateTime: 2022-05-27T00:47:00Z
-    webUrl: "https://www.startupdaily.net/topic/fintech/why-mastercards-new-smile-to-pay-face-recognition-payment-system-could-cause-some-big-problems/"
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 19
+  - title: "Commercial AI Adoption is Picking Up Pace But Only A Third of Businesses Recognise that Data Strategy Facilitates AI"
+    excerpt: "Most businesses (90%) now use or plan to use Artificial Intelligence (AI) and even more (98%) have, or intend to, implement a data strategy. Yet new findings suggest that – while the success of each is reliant on the other – only one in three (35%) businesses with a data strategy say it includes provisions for Artificial Intelligence (AI)."
+    publishedDateTime: 2022-05-26T11:03:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-manchester-united-kingdom-artificial-intelligence-ba8fe8fa26ccc1e77b971d84d49307de"
     type: article
     provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
     images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2022/05/AdobeStock_283134518.jpeg"
-        width: 770
-        height: 527
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "insfKRF3obp4e10NQKz5tJR2wd9MtqIAucCkyP1sXKuu/MHbh2rgk3VV9bV4YQZ3d2jKfq0HRgkBGGYHR/LhXuSQMlPJxYKjnhNuDICPNV5dUb4ShlKb6CP0YLcO5ejXpUp5QAgC4BukOSt6LIWRyfJAK5efCGwNhJL/D0ASn6Aogl39U4hvcNSHumvUkVlrzuKvvw5KCU/yc7PR1w3qGEpAuW4li5NNrzbyWR2DiMmNGy72eN+9j9L0G8a92bMyXM1kWgznEZgiIPNQQMhTuM/E7gmhVzb7qjEog8eoqtHQRJhuXKbOy0QvvTA1Jnt8Jk1uVReQjiod6nDJNiC5DCosCRdAUsEWGNufca6jHPdMNtDGfyHOSF22cbuRSUgL0G3YuDma7M7h8iUaeV0GpyR3TppN13AZArUye1O4a1YSkvzQA3bHIOuNsh1TOF8623UEFaEOtI/SziqZlUS6i+/At3nALzQDcTMA9vq3fHWsXR4CqAYRd9RaZK3Ce1/34daT5owvgXxGgmi6zJ31TQ==;bhQLlpQ/51dm0h9AZFVlSA=="

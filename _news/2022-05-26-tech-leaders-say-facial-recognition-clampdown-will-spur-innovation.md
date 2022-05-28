@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tech-leaders-say-facial-recognition
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670"
 type: article
 quality: 74
-heat: 174
+heat: 144
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Facial recognition used to bet on the ultra rich"
-    excerpt: "For all its controversy, facial recognition is fast becoming a popular tool for convenience, used to unlock phones and, increasingly, to pay for things “It’s an early warning system,” Best adds. Ambassadeurs’ serving staff and croupiers all have phones with the encrypted chat app Wickr."
-    publishedDateTime: 2022-05-26T03:00:00Z
-    webUrl: "https://www.businesslive.co.za/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/UvOF7aHRWcZZQxflI5poMnDVlyI6d5YkhDdz8kk19qMcTv6lhEWCSqa6ZzZpI50Yu8xo10QMESFtfjlvZ07h2mPo_H5ipC0cAeN5FarU234xV4Y=s750"
-        width: 750
-        height: 562
-        isCached: true
   - title: "Garda to use facial recognition technology"
     excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
     publishedDateTime: 2022-05-24T23:01:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://static.independent.co.uk/2021/07/21/12/GettyImages-1080200064.jpg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 800
-        isCached: true
-  - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
-    excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
-    publishedDateTime: 2022-05-25T00:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/a-casino-pioneers-facialrecognition-to-serve-the-ultra-rich/2022/05/25/5938cb2c-dbe8-11ec-bc35-a91d0a94923b_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBDGMIG35AI6ZPBVVEOQVFESHM.jpg&w=1440"
-        width: 1440
-        height: 1080
         isCached: true
   - title: "Police use of facial recognition technology could soon be under review"
     excerpt: "Lawmakers who sponsored the bill said artificial intelligence software has become a common part of everyday life despite the potential civil liberty issues it poses."
@@ -147,15 +117,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "UK fines US facial recognition company"
-    excerpt: "Britain fined U.S. facial recognition company Clearview AI Inc. for more than 7.5 million pounds ($9.4 million) for collecting online images of people without their knowledge, AFP reported. The U.K. data watchdog also ordered the company to stop receiving ..."
-    publishedDateTime: 2022-05-24T05:40:00Z
-    webUrl: "https://news.am/eng/news/703437.html"
-    type: article
-    provider:
-      name: News
-      domain: news.am
-    quality: 19
   - title: "Q&A: How will new facial recognition technology be used?"
     excerpt: "Facial recognition technology is touted as one of the most powerful surveillance tools ever invented. It is hailed by proponents as a justified means of catching criminals and terrorists as well as helping to identify victims and the vulnerable."
     publishedDateTime: 2022-05-25T19:23:00Z

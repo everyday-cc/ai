@@ -107,6 +107,17 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "DMV Remains Mum on Safety Probe of Self-Driving Teslas"
+    excerpt: "The investigation by the California Department of Motor Vehicles into safety issues is headed into its sixth month with no end in sight."
+    publishedDateTime: 2022-05-27T22:34:00Z
+    webUrl: "https://www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-self-driving-teslas"
+    ampWebUrl: "https://www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-self-driving-teslas?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-self-driving-teslas?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 54
   - title: "Company testing self-driving trucks on I-576"
     excerpt: "To get more of these autonomous trucks on the roads, there's some legislation going through Harrisburg right now to get the door open to see more of these when you're out on the roads. Senate Bill 965 and House Bill 2398 would make it easier for autonomous driving in the state."
     publishedDateTime: 2022-05-23T23:35:00Z

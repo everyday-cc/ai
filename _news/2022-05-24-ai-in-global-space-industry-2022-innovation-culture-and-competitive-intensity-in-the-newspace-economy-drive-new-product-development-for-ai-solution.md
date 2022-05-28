@@ -23,6 +23,17 @@ images:
     height: 339
     isCached: true
 
+related:
+  - title: "Ai Development Service Market [GROWTH] 2022 In depth Assessment, Key Trend, Industry Drivers, Future Roadmap by 2030"
+    excerpt: "Quadintel published a new report on the Ai Development Service Market. The research report consists of thorough information about demand,"
+    publishedDateTime: 2022-05-26T13:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-development-service-market-growth-2022-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+
 secured: "Su1We0nEcRYLUETFuzf3V/1J73okT7ZZ+gjuRM2A4jDOsPvX+sKzLrXjoqqNX9nIK7w9YQ+jXjp4ACssarpAOnSbk9JoqEtfgs95XGFM84lNm7MWfNWX06aJk5tUjePxeo9qjtxfddummVHGduAN6l07rhVsZeWCsqad0lrizo0WhUk9OsFGrS8Rd4Le2KorXxGnYlc4zy88xFiHcRwcjTxgkzeDiJ2zc3x8uSxKk+ulMS4wQlyhZtlB3nIT/kwATqMhLCbt89IIHVTjkMeZeSBQHSlEpX1ShrkNvNSahZE3NNhoyLR/TgpR9xiHiIaIq80XJ/1ec9OrVikcjigxjeoFa5yT4xJH5KxzY62JuJA=;RBCRuJ637x2Zmo09Scejkw=="
 ---
 

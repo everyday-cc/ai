@@ -35,22 +35,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Self-driving startup Minus Zero raises $1.7 million in funding led by Chiratae Ventures"
-    excerpt: "The company will use the funding for building an extensive autonomous vehicle research and development, infrastructure and hiring more people."
-    publishedDateTime: 2022-05-23T06:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/articleshow/91735958.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/self-driving-startup-minus-zero-raises-1-7-million-in-funding-led-by-chiratae-ventures/amp_articleshow/91735958.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 51
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-299346,msid-91736088/minus-zero-founders.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Bengaluru-based self-driving startup Minus Zero raises USD 1.7 Mn"
     excerpt: "Bengaluru-based self-driving startup Minus Zero has raised USD 1.7 million in seed funding led by tech VC firm Chiratae Ventures."
     publishedDateTime: 2022-05-23T09:49:00Z
