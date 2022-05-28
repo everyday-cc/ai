@@ -47,6 +47,15 @@ related:
         width: 800
         height: 476
         isCached: true
+  - title: "UK launches £40m competition to roll out self-driving commercial vehicles"
+    excerpt: "The UK Government has launched a £40m competition to kick-start the roll out of commercial self-driving vehicles from 2025. Announced today by investment minister Lord Grimstone, the ‘Commercialising Connected and Automated Mobility’ will provide ..."
+    publishedDateTime: 2022-05-23T12:13:00Z
+    webUrl: "https://www.cityam.com/uk-launches-40m-competition-to-roll-out-self-driving-commercial-vehicles/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 3
 
 secured: "mi/g+BZN6wRRUhZjabw5hrAipVBcReolwbtjPL2whBHfbCevJhzniR2xjd6v+RhYweEh6GC3RA57nNgf1zGL08TJEajDn0amSXs2sL0OT2/2P4E9kJXM421NYo0/uTy9dyBZF4OB+qf6RVEyXbOMWgtTZugy2brU0aRS8giLVR77UCW9SwfdgIZrlUW/QeuogbuuXPoJIbXcmJEGF9QvjHWEvlo8YAQoLzccjQbOLKmUtwlZUhCfjckXtdYQIy+YQe0iP1bN8zUaAvyVF98Z9kjefZiiTpkMHkSGeLA9YEGfeKrnTN+lswcz2WPKU9oPlcrMRHNcVTRfCelNcn9zA4YwBe7K0QuRQbmEn9g0mOuAYdu368z7r2GqKCXgZzF37hbXSUfNvFbpR6TZktaaFFE3lGPv/ITDwx+6ETQM+WdYntquHp8yVj6b403PNoD86jN0sK4PM3TGEwAGBZC2ylhH+E/R6e7rGGivhbMfn2/a6RJ1lAnsAYotWj7dNG6bJLf41cQ/5zCjdfYJ8hOlIA==;pW6cwdVaod5B6j8yfHhjzA=="
 ---

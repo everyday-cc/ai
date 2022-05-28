@@ -53,6 +53,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (AI) Governance Market Size, 2021 Segmentation, Demand, Growth, Trend, Opportunity And Forecast To 2030"
+    excerpt: "An estimated 51.4% of the global population or 4 billion people was using internet by the end of 2019 – International Telecommunication Union (ITU"
+    publishedDateTime: 2022-05-26T12:40:00Z
+    webUrl: "https://menafn.com/1104277310/Artificial-Intelligence-AI-Governance-Market-Size-2021-Segmentation-Demand-Growth-Trend-Opportunity-And-Forecast-To-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
 
 secured: "Ejhlx39PpV9PWPC/pxQz6zqrrnA/NyCMmQ/ctGaEzoXLAV5MFvNXwyhL1pbNmTDD+rZws4QlDlGXNL2QVnHrPb4cxyt1ciz0Q/qSVrS/0WHR+gWBoOoqvepDSWbxMT97wluRW00Gf4VGDF0jjz7UcHfj5mslqKCL/CWX1/qehwgmMe+Qeod6uAUYPMFi4lGppGwKmFLe65HsDwonegIKXLO9MDYVZBdPjuGn57/G6h+Ou5BjwA8KA6WgmfngGBi+m1M9lI9+Mh/t9lgcQMQD6SvHoVV7cwPgf9YTLsuFELlPIAUVjJyNEYN0KBtUkgx3GSB7lye5LBnFm/tinNjJXu+9DwFuqW2tcVdLT9NIs7NnpMLaqJjh+gZyb8Se+Fjl9h0EVEbAspKl3edMfMlN0kgMefvPZhHzmv67v071BvHcHHbP/xNvTIyIdyUukickjz1Hb09P9PeFU7dH9TnrF2lmodEi/P3CRY6IASSfiPtvEgoe+1jJyvQ6Ch3BVVFfL6xMjp1CDUM32W6j7MLFmg==;ioCdNuGTDK6AsR3WPe6NLw=="
 ---

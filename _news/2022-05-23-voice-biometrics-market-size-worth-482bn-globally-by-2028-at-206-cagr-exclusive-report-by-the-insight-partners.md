@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners"
-excerpt: "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b"
-publishedDateTime: 2022-05-23T14:26:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9606892.htm"
+excerpt: "The advantages of biometric authentication over speech recognition and the promising development of AI-based voice recognition technology that reduces the risk of replication or hacking provide top-notch biometric security Impact of COVID-19 Pandemic on ..."
+publishedDateTime: 2022-05-23T12:50:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-biometrics-market-size-worth-4-82bn-globally-by-2028-at-20-6-cagr-/article_92bae39d-cd5d-5a57-b08d-35a00e3eb4c1.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-biometrics-market-size-worth-4-82bn-globally-by-2028-at-20-6-cagr-/article_92bae39d-cd5d-5a57-b08d-35a00e3eb4c1.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "wPQHRP7KA63zdHLG7vPz3ih6R/b05wsIQ/gE6YyEzdxDZtsMRaGm/XwjuuQ8uUq0HZM+UA1fhluhbRcng18CTJnML24ov1cBoNKMVjkYRmk9Kh6x4ieD94ShBvQAtigDir2WgYUD10jpOmCBMKs+MgSUBv69CwynYq1yDySKKAChbPHgFBLcE/AUClyeOUSjwOiWh9GiIWGNN7aUIDdWmiGIKouYFj09LHmWqwWsScXpHjiY8y+yktYBCw15fLRCJ2R506rovdmwUP2RR3BUJjMPn6Vt0xnH1zmQ1EFXHOukVaP4zOSmnpjR0wszN4a1JPmepXOyY9hClGNwy1gQrwHimDb6FBO9JBhxLMilw4plCTiITRH8edUBV2G0AsE/gU3lyikYpkX2VVZUDDTN60x3Xlxs7iRe+YWt/i1FTVFK+BpMG+IP4Vxy4P6B6AST3X/rBDJiQKYCW2+oDgKk2KrfArsUdW/qA6fhipVcwBexmwIhGUxZ7iVSk2M4dgenVmm1NtVp+nGE+h/WMaabhA==;pHsKXxU6GkWLyF8hgN6AvA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "ggH+iSpgfQbIMPpdiLH4dah7GmMZ8YQNsFbkyIrVKQZlWfOvDrLcTsywEjGmm7fLoBT1K0w9Rg7tvQDN/+q0iNKgtZ42mPj/dP8cIYYksOjOkcbe+5/Dx2QNNfWMY/foUv6DugBdGQiaNgiCTj6JngQHZz8I7CERwnDFFBMQcXSW/aGRmpNssEF4Y8MZG71h3Ti5148aOaXkZM+bYxyvDE6ip0hLL/acrfU139cOOvAK9F7YfR0RfQPVJ1S5OgLEmaZbqUUyWtXQUP9QiST68Cfgp1MyDNwXggOUeuZqt8dRDiK+XlAR6EmacOOTwY4WgPKccIvbr/1qjIpWsqLhU1YRsr2TKtXTneNv8p7CSDg=;ntcrwfsfb9dCbRUH2cof8A=="
 ---
 

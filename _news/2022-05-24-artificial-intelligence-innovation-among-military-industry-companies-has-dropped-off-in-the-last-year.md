@@ -7,7 +7,7 @@ originalUrl: "https://www.army-technology.com/analysis/artificial-intelligence-i
 webUrl: "https://www.army-technology.com/analysis/artificial-intelligence-innovation-among-military-industry-companies-has-dropped-off-in-the-last-year/"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -16,63 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Machine learning hiring levels in the power industry rose in April 2022"
-    excerpt: "The proportion of power industry operations and technologies companies hiring for machine learning-related positions rose in April 2022"
-    publishedDateTime: 2022-05-23T10:20:00Z
-    webUrl: "https://www.power-technology.com/analysis/machine-learning-hiring-levels-in-the-power-industry-rose-in-april-2022/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 39
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/05/cRtDN-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "April sees hiring boom in apparel machine learning roles"
-    excerpt: "The number of apparel supply chain firms hiring for machine learning-related positions rose in April compared with the same month last year."
-    publishedDateTime: 2022-05-26T10:50:00Z
-    webUrl: "https://www.just-style.com/features/machine-learning-hiring-levels-in-the-apparel-industry-rose-in-april-2022/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 39
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/27/2022/05/BlM6G-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "Machine learning hiring levels in the retail industry rose in April 2022"
-    excerpt: "The proportion of retail companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 32% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-05-24T18:03:00Z
-    webUrl: "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-april-2022/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 33
-  - title: "‘Machine learning’ in beverages – Recruitment levels in Apr 2022 – data"
-    excerpt: "The proportion of beverage companies hiring for ‘machine learning’-related positions rose last month, according to recently-released figures. A total of 30.6% of the companies included in GlobalData’s analysis were recruiting for at least one ..."
-    publishedDateTime: 2022-05-24T12:59:00Z
-    webUrl: "https://www.just-drinks.com/features/machine-learning-in-beverages-recruitment-levels-in-apr-2022-data/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 19
-  - title: "Machine learning hiring levels in the automotive industry rose in April 2022"
-    excerpt: "The proportion of automotive manufacturing and supply companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 41.5% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-05-24T18:00:00Z
-    webUrl: "https://www.just-auto.com/features/machine-learning-hiring-levels-in-the-automotive-industry-rose-in-april-2022/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 16
 
 secured: "AoZKokBe+vdnES88RwnmCg66L0okoPOWWDm9yP/WNIo9nc2DmHlKMdajH2+vepI59F8Msxz4OkCUp79niAyhhyBQ5BQkMjBxuGUnNPy+xxVPNnh8nf6hcLb5PeG+ADk8o83MM+WH2AyThOpPWlzNrhwCIGHc3EQYjSdx6MQTujkzWoWDkUl4XQKWMdJTM73GxSUs4n+Yujvw2+RmyXzrwycY/VY+TBPnJG7w2QkGNNfNji9BiJ0F5f9EH8/EtkgEnOtqz0cgeo5sDqGgAElIAGj+P1drSJ/JYNzPRaQGepivmmXc1TAnPT84UlGl+BRKfpfrWxzPCJ5VCp62IvYSWASTK5dBU+iERUVkbVORGaES0pXO0wUmPWEgVEr5MDuKZ06NDITaq+cGFxdhx09e+6d01b2Uiw2li4KTL+PY/M1VCPHIPJJiZOXqI4Q1rY8NV99MkwDKNHHriKDW5Rt+0AFItA5ZQD8MCLPy5G15Ll3+6186XUY9N6dsF0Kv+t6gWclG9uKr8J8X1xe5XoArGg==;iDkop2LYev3YONzn5ooRpw=="
 ---

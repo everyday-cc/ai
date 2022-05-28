@@ -196,22 +196,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Facial recognition company Clearview AI fined £7.5m for illegally using images of Brits scraped from online"
-    excerpt: "The company is accused of illegally scraping 20 billion images of people's faces from the web without their knowledge or permission, and then using them to form a global facial recognition database."
-    publishedDateTime: 2022-05-23T09:23:00Z
-    webUrl: "https://news.sky.com/story/facial-recognition-company-clearview-ai-fined-16375m-for-illegally-using-images-of-brits-scraped-from-online-12619574"
-    ampWebUrl: "https://news.sky.com/story/amp/facial-recognition-company-clearview-ai-fined-7-5m-for-illegally-using-images-of-brits-scraped-from-online-12619574"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facial-recognition-company-clearview-ai-fined-7-5m-for-illegally-using-images-of-brits-scraped-from-online-12619574"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 56
-    images:
-      - url: "https://e3.365dm.com/22/05/1600x900/skynews-facial-recognition_5781088.jpg?20220523103812"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Clearview AI fined millions in the UK: No 'lawful reason' to collect Brits' images"
     excerpt: "Updated The UK's data protection body today made good on its threat to fine controversial facial recognition company Clearview AI, ordering it to stop scraping the personal data o"
     publishedDateTime: 2022-05-23T12:45:00Z
@@ -227,20 +211,6 @@ related:
       - url: "https://regmedia.co.uk/2019/02/27/shutterstock_facial_recog_crowds.jpg"
         width: 648
         height: 432
-        isCached: true
-  - title: "Tech Digest daily roundup: Clearview AI fined £7.5m for facial recognition breach"
-    excerpt: "Facial recognition company Clearview AI has been fined more than £7.5m by the UK's privacy watchdog for collecting the facial images"
-    publishedDateTime: 2022-05-23T10:54:00Z
-    webUrl: "https://www.techdigest.tv/2022/05/tech-digest-daily-roundup-clearview-ai-fined-7-5m-for-facial-recognition-breach.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 49
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2022/05/facialrecognition-1-1024x576-1.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Clearview AI Ordered to Purge U.K. Face Scans and Pay £7.5 Million Fine"
     excerpt: "The U.K.'s Information Commissioner’s Office determined Clearview violated privacy laws despite no longer offering services to law enforcement."

@@ -39,6 +39,15 @@ related:
         width: 800
         height: 476
         isCached: true
+  - title: "UK launches £40m competition to roll out self-driving commercial vehicles"
+    excerpt: "The UK Government has launched a £40m competition to kick-start the roll out of commercial self-driving vehicles from 2025. Announced today by investment minister Lord Grimstone, the ‘Commercialising Connected and Automated Mobility’ will provide ..."
+    publishedDateTime: 2022-05-23T12:13:00Z
+    webUrl: "https://www.cityam.com/uk-launches-40m-competition-to-roll-out-self-driving-commercial-vehicles/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 3
   - title: "Self-driving buses, shuttles and delivery vans could soon hit UK roads thanks to £40 million government-funded competition"
     excerpt: "Self-driving delivery vans and buses could be on our streets within three years, say ministers, who are offering firms cash to get projects started."
     publishedDateTime: 2022-05-23T13:48:00Z

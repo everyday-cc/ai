@@ -70,17 +70,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Can robots learn law? Scientists and theologians discuss the future of AI"
-    excerpt: "Will robots one day be better at medicine and law than human beings? That was one of the topics discussed by scientists and theologians at a recent gathering in Rome. The “Topology of Intelligence” conference,"
-    publishedDateTime: 2022-05-23T10:41:00Z
-    webUrl: "https://www.catholicnewsagency.com/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
-    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
-    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
-    type: article
-    provider:
-      name: Catholic News Agency
-      domain: catholicnewsagency.com
-    quality: 53
 
 secured: "em3OZHetT318FTn1gWtZiWrmM1P5LBChm9O4igwo27ySXnRpCt/5MXJ8tw9dnKcOklojFnib8TVTMGvCXricv6nuJJjy1JIit8fJxMEmvQqCmszq2ms/93abxXe/PI3SWHsN10IiZGcvT6USLBA9IKB687EgVjp4mR2nmKQs5W3UHkjaYk6Nk9xEaiF/nXy0HCa8KXx3Xg+s7FNqBULqXuka3/Zb4l/ubqcOMd0mqEKTjhU7cY1p3FnzSqybRtiV5mdsI0OyFANuph5bPwYKrnpLo8iF3oZeoVdTc3QTOTom60NOqF3tcohgD6DTr7PgXj17OLxygE0fbY7YwVFLXnUPUiaOU0PLYlV5SVmFwWjt0KufG8cXkMPhp6mOddNvTqOxNeD1WELlk+DF3fckRqrqF4Pav18oL2Kaq6MZJXYPiP5K1gKMjJUyDjpJ4QsJkCoQRsSFii0abkJYs9Duy0ZZr5oYNY8aY86Taw01bUE2Da34juvvp4HTwAUnRuryhTdv8xcgXaH71jJ/GMiViQ==;3mSLkLakHINBuXG65JYoxQ=="
 ---

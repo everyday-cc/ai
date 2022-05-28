@@ -66,29 +66,6 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 19
-  - title: "Linda Burney: “We need consensus on a referendum for an Indigenous Voice to Parliament”"
-    excerpt: "Labor's Linda Burney is the incoming minister for Indigenous Australians. She speaks to Leigh Sales about the need for consensus for a referendum on constitutional recognition."
-    publishedDateTime: 2022-05-23T10:55:00Z
-    webUrl: "https://www.abc.net.au/7.30/linda-burney:-“we-need-consensus-on-a-referendum/13895144"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 16
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13895148-16x9-large.jpg"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Incoming Indigenous Labor MP calls Greens a bigger threat to a Voice to parliament than Coalition"
-    excerpt: "The incoming Indigenous MP for Australias red centre says the Greens are a bigger threat to the voice to parliament than the Coalition, as the left-wing party pushes a treaty between the government and Aboriginal people before any national Indigenous body."
-    publishedDateTime: 2022-05-23T10:34:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/incoming-indigenous-labor-mp-calls-greens-a-bigger-threat-to-a-voice-to-parliament-than-coalition/news-story/6028697104d58c490253d2295a0cb881"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "JcXpaCBU6UuLmE7dOBbU99PlIEL5RmWo58n9/C/vhnAbEfsjwjFo6Geo/qWyLt0L425uD+HXjy1RNFDfDrLLxTfKM/jiQhEmDhIrIfVZY14G3QgXpfEjSdRREzmr8flblB7/5UrXJQ6Dp7MAurQvlib8XlUZoT9+vRXw4m7wIGKhXw5YmtgSsoFBYlCXbcV7gnDzPXLrVRGqNGVmCTpB4D7UXfGcthX05R7bvDs3K92B+JwpTSZ5Dc2AaTQ9bpkqziAed5Xl+8fWmRqifbWhKrZBy6ChuNxilYRY2X1f8YG8r4XuRp5rJIi7pgguUADPRn3fjFGpcz2ei7j4HgGri8ecRMKFpTFYhQrzYnlX+97P4zD6AQgW5nbaPxdplNfkw9YgWZ1bYBtpYKzRp1W/FmL+Y2V23pBwwVDCMJHuHyoY7mJ7XZHtqBc2Y1lqSRc3ENSaKtKYGFEAOMQzW3XWlXqnkBU6JwmCj8lV+Q7nqSHZmmU5/d8fvXK54TljskcaHmT+naRADWJHXxDevLFvUQ==;WZ1FDJyqdIKWhakozpZmlw=="
 ---

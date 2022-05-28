@@ -118,15 +118,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Ai In Fintech Market [DEMAND] 2022 : Outlook, Size, Share and Growth Stance Forecasted 2030"
-    excerpt: "Quadintel published a new report on the Ai In Fintech Market. The research report consists of thorough information about demand, growth,"
-    publishedDateTime: 2022-05-26T13:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-demand-2022-outlook-size-share-and-growth-stance-forecasted-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
   - title: "Yogurt Market CAGR Is Catching Up The Momentum – Forecast Analysis 2022–2032"
     excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032. The global yoghurt industry is fueled primarily by the health benefits of yoghurt intake and a growing public awareness of the need for weight loss."
     publishedDateTime: 2022-05-25T08:43:00Z
@@ -136,20 +127,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 1
-  - title: "HD Maps for Autonomous Vehicles Market Emerging Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
-    excerpt: "The global HD maps for autonomous vehicles market is expected to reach a market size of USD 16.51 Billion at a steady CAGR of 34.3% in 2028, according to"
-    publishedDateTime: 2022-05-23T10:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/hd-maps-for-autonomous-vehicles-market-emerging-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "LnOPUeeOoDjkTDmXsqNxB7QC/gOcxeJrIrrbI/fgstk3kyaf6hIUkZHM4wSJH9VMZ88NClEQF1T8NIR/M4krQqaeHFLBFNDaqO1b9z9orVpNV7TvZ1BqSpDw+oVPNwnppwjua8M4ks4rVCOSyrLRLFJjwfhSJ5bztzxwQYNUX5BeJfimeIHE5tAKsUWB0rIBglu3RzBTbDvYJzDypy8xkVWo4J7/79D7BGGw51/Z+tExVVJJODWEtJy7DiQy+ssNc4CxipLWX0oIEkVg3sMaBbFe6KK+jDR2LR9lbrQ6v1utKl0MojFHp5t0aLzTbq2xbWYX4CYhf2iDMc5Jl6D80+dGy0R7FUWqefjL0tcgOSYBrlTHIcVMpV8JTQMYOF6yZWJb7ULny+zMZV8+lMrs4K/f/3x9UzDSw6+kmEFVzNxJ8Zwz8/oqgQukIjRwxgZcFM814g8LHLNxCcyVRg1YHop1qVtpJ5wxmYf76CWXMRWEF03OmUvUP+murHebG9/6ja+3n0rM3MHMGbznjhIbuQ==;TelNvLMmjZc/s+B4Ar+VBA=="
 ---

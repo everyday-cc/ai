@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New £40m government competition promises to 'revolutionise' self-driving services"
-    excerpt: "Commercial services based on self-driving technologies could soon become a key component of the UK's transport network, according to government ministers speaking at today's launch of the new Commercialising Connected and Automated Mobility funding ..."
-    publishedDateTime: 2022-05-23T09:09:00Z
-    webUrl: "https://www.businessgreen.com/news/4050106/gbp40m-government-competition-promises-revolutionise-self-driving-services"
-    type: article
-    provider:
-      name: Business Green
-      domain: businessgreen.com
-    quality: 19
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/5dc253b/dfc6abf3-8f9d-49d1-a768-154cd9d747df/2/self-driving-iStock-1125799954-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Artificial Intelligence Writes Fanfiction: The Next Generation"
     excerpt: "An AI writes an epic fanfiction about TNG, and other dimensions, and aliens, and warp cores, and the Borg, and Worf rebelling, and apparently everyone wishes they were dead. GPT-3 is an artificial intelligence language model that can produce human-like text."
     publishedDateTime: 2022-05-24T15:18:00Z

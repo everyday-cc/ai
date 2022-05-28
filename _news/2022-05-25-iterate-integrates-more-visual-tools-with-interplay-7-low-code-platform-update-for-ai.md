@@ -75,18 +75,13 @@ related:
         isCached: true
   - title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
     excerpt: "Data scientists can send trained data created in Interplay 7 for processing in Amazon SageMaker or Google Vertex AI, or can process data in Interplay itself. Building web and mobile applications ..."
-    publishedDateTime: 2022-05-24T18:33:00Z
-    webUrl: "https://fox8.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
+    publishedDateTime: 2022-05-24T19:03:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
     type: article
     provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 21
-    images:
-      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-        width: 800
-        height: 340
-        isCached: true
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 1
 
 secured: "G9nFX0iNMPKfybfi3rZIJu5A1ZJFPa0lv8fEvvNajTeyHqZK4X7sIa0NjAmrIWxJ2yVChXw1cdYqR/XVBxrNxnUZlRCftN9zw0qwaJRzmoUBM9iVb3xg9j6D6QYY1TOoZrtmbFRngWyeOVBwoTAyTYFg8QEDjh8XXldnf7M20ZhBQum2XBSnGngnWfGuzojhcUskG5sA+52MoE94UJg9U/0u2JZx8ESR1OoBq8aROcGrhf0k3sQmL2bFBnH5zFonHWNOIQgYXzhOyMhV6JSUfB21oIYvz8q7A4La+xcYT4YkR7Z+k07OGVEEuj2WePX1/iF7RrD6jhmtRM11ONUHw+O7nSfNaIwUkwqlnoCy6gCGBJ57JmJP0J8kFnKvHzWLN3JqSpOh08uc2nrO1ZknNdPfCErqkgF+K0iIMNA6bfF9pBGrIetEDsFxDj/5VdfPExclTX5vqX+ZCPyEBk0Q/ebyj5n3iGk9ll58gPGw0K9Z6VBJzmWOMxDYws22/quaW1oVLSWId/ZR09CKBlTlUg==;onh0RC8igWZzVzT6fczt6Q=="
 ---

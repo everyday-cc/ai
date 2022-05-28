@@ -2,22 +2,22 @@
 category: news
 title: "AWS Announces General Availability of Amazon EC2 C7g Instances Powered by AWS-designed Graviton3 Processors"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) C7g instances, the next generation of compute-optimized instances powered by AWS-designed Graviton3 processors."
-publishedDateTime: 2022-05-23T21:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-amazon-ec2-c7g-instances-powered-by-aws-designed-graviton3-processors/article_4b3b4752-26c4-59a8-8118-a0af38cb1e61.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-amazon-ec2-c7g-instances-powered-by-aws-designed-graviton3-processors/article_4b3b4752-26c4-59a8-8118-a0af38cb1e61.html"
+publishedDateTime: 2022-05-23T22:46:00Z
+originalUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9607396.htm"
+webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/23/9607396.htm"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "yGbxdNxz0RFmfInpDfEEprDYRi9dJopqfBOSEWuF4uNp1lUa0XZ/slC5RJ9ldhk2fg9YMZSo7caDdvJp1Mt5s9KdA+8tIr8z9ExiWTfKgrnh7LVEZIIPyYsT7d5bXcE/R8lLEk4Tg0z2y/b66ab5Y0a/oW/n0L47ePPo253wL4PpghPLOlUtnJxbLnTdWe5FPIbDG0DyhGNSb57V8IxP66b1X4qyQyYw89/InflNnOQLRG2MyNWTPtQRMtWa7e2sDeOb09OqZzDvzBeYC+uxQL2IsmhuwbdwVyApmWm7bXsZQQO+6LbzpQwJZHdzluT2Law+EIKdT2W9zgM/IVyE45ONYxFt02/I1kInCAR5gho09mT3rZeZoHTzVi+Q1d2lhmxjZUlTNhJW0EyOCVhUwROLscAR7Kyu+gBwWvZCXuvmk2QVDLOI9DmbLQQ1Q9zajVksO3FSX9JiTyA7Jal9G4GJNFrUNZJeWwbBU3ja95R1rwSHJ9Tmx9etW/3ayMXSg3v1JdgH5bvDm6eaTPtuAw==;ZtiosvrRz7dP47QpAUM1MQ=="
+secured: "YZLtKv4JNXyFMHnfxc4F5Zk9LfjCT1vOO2d/0Tw8tqxgvljFwpm6se1YkOK7mpkI/yZZU96bRADdfOIPkNAE2E50QQQ1kneZPx52w4gH1fqOl8HCicZrWJloZj82yp8LO2kt5eOYgPBRz2pm8kbE1HJz2AHhGBJXAOU+BZKsHNhzSAT50OKS9xljUM2EaVcKDu1FTY8e4zQHfsf+DwJhk7dUiBMszCT6LD0yoJkMw3wV6jVfawUGdf72FbXef/8r91DbKQWn5QW/WcnRAFnopCK1C3u9orw86RRkeOJ0pITPv8MHrZ9u2iJZxnWnFswB8GxXkQmiwnyiW8h6W0hDs46Z1l2qe9awky84URYFfIEN+a/EiaV7/aO4VITdIBIMFm+3yx2iGQVh2sBGVMsh++YgiFmLie29uZvyDwbUO/Vv3oatpHz1t1vs6jJvQryXki1S/NGct4/IFwutqg5nU4Ni5MiI2fBYFxOQMjNm4ljhGmKBPGT94kSBBRNyJzwLHPT10mHsbC7vHcss/yWUEw==;+kszgLVtzO/2GvZi3N9Ydg=="
 ---
 

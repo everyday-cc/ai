@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (AI) Governance Market Size, 2021 Segmentation, Demand, Growth, Trend, Opportunity And Forecast To 2030"
+    excerpt: "An estimated 51.4% of the global population or 4 billion people was using internet by the end of 2019 – International Telecommunication Union (ITU"
+    publishedDateTime: 2022-05-26T12:40:00Z
+    webUrl: "https://menafn.com/1104277310/Artificial-Intelligence-AI-Governance-Market-Size-2021-Segmentation-Demand-Growth-Trend-Opportunity-And-Forecast-To-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
 
 secured: "+0hjd1nt9mUr4suXXC5qAgDM4z3bUeBuPNXJ14wVyFL2rBFRO5HZ3HN+Oamm7fKqBmgKo8+TvdygHQf6GdKf24a7smeHiHbFw6XWuFFZW+I2NahbQdzXn382Y1sPejH7VqTNOoiORo+tD0amQxYu6aaAFjX5r+LQ3k411ULMi80/D9OSyXvTGdV80NQgLkyNR2MhBRd91uxhfCAzCsohgSZ4Pe2UbbVUMBO0tobK+FiQIVdwrqD+t+54wZ86+S045/Tp5XZRNA6jT8EQuXcsnZCcvf0+Y1s+s8l1l39BVcvsK9ubjlt7SdxIKvsvusOv9nRjb1p14cGphgIgAfoItHoMyUSsxCI8ognZMoUPZQA=;ZVwUetdbukYCyvMTZIc36w=="
 ---

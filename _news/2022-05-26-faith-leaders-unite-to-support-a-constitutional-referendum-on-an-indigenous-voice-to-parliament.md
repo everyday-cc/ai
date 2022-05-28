@@ -57,20 +57,6 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 19
-  - title: "Linda Burney: “We need consensus on a referendum for an Indigenous Voice to Parliament”"
-    excerpt: "Labor's Linda Burney is the incoming minister for Indigenous Australians. She speaks to Leigh Sales about the need for consensus for a referendum on constitutional recognition."
-    publishedDateTime: 2022-05-23T10:55:00Z
-    webUrl: "https://www.abc.net.au/7.30/linda-burney:-“we-need-consensus-on-a-referendum/13895144"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 16
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13895148-16x9-large.jpg"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Aussie religious leaders call for an Indigenous Voice to Parliament"
     excerpt: "Major faith groups in Australian have united to declare their support for an Indigenous voice in the Constitution. The Catholic, Uniting and Anglican churches, the Australian National Council of Imams and the Executive Council of Australian Jewry on Friday will join Australian Sikhs,"
     publishedDateTime: 2022-05-26T21:17:00Z
@@ -80,15 +66,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
-  - title: "Incoming Indigenous Labor MP calls Greens a bigger threat to a Voice to parliament than Coalition"
-    excerpt: "The incoming Indigenous MP for Australias red centre says the Greens are a bigger threat to the voice to parliament than the Coalition, as the left-wing party pushes a treaty between the government and Aboriginal people before any national Indigenous body."
-    publishedDateTime: 2022-05-23T10:34:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/incoming-indigenous-labor-mp-calls-greens-a-bigger-threat-to-a-voice-to-parliament-than-coalition/news-story/6028697104d58c490253d2295a0cb881"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "pHQ8nzutcd2MMjKXnwEAWu/ZIGOtykG1ocKebXWsTsiTvOa4ph2KNnGPzboZfGMsRL1gn0rPT/kAd5IfzYVUGzC0rsuBT/fCcvmL6Sk7d4WTXuXYjBn6uO8LHa5l8mXBQfI4aYTz2ZitjzFkcH241X8YdehWt0EozZGhUDRuEBZ6oQd6teiuYYkO/qmTLJNdLw3dherdLs1QSmOl/sqhsvCPm2GiSwHDhH0k8a6qLNhbodDFAyfC6mz74a9SnM4adQfKBVOekmvpXeyzBmEGD/3e7a2IpS8f78PrfKEMvxC/bynaGsEiGlWJBxYTdaXCpGIO0l41IpKle/FHnZ23vW9o8Y06+xnt/Lk2fChjMR4=;b/fU/SfHLz2SOKCCxAqhjg=="
 ---

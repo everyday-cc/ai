@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 768
         isCached: true
-  - title: "Can robots learn law? Scientists and theologians discuss the future of AI"
-    excerpt: "Will robots one day be better at medicine and law than human beings? That was one of the topics discussed by scientists and theologians at a recent gathering in Rome. The “Topology of Intelligence” conference,"
-    publishedDateTime: 2022-05-23T10:41:00Z
-    webUrl: "https://www.catholicnewsagency.com/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
-    ampWebUrl: "https://www.catholicnewsagency.com/amp/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
-    cdnAmpWebUrl: "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/251328/can-robots-learn-law-scientists-and-theologians-discuss-the-future-of-ai"
-    type: article
-    provider:
-      name: Catholic News Agency
-      domain: catholicnewsagency.com
-    quality: 53
   - title: "Up For Debate: Is AI The Future Of HR?"
     excerpt: "Employers that introduce smart technologies to drive efficiency in HR may stumble on a hidden layer of division in the workforce: some workers are comfortable having their resumes and performance data read by artificial intelligence (AI) – and some workers are fearful of how AI will influence"
     publishedDateTime: 2022-05-25T12:00:00Z

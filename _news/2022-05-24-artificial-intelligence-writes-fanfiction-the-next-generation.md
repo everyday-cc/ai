@@ -32,20 +32,6 @@ related:
         width: 1017
         height: 675
         isCached: true
-  - title: "New £40m government competition promises to 'revolutionise' self-driving services"
-    excerpt: "Commercial services based on self-driving technologies could soon become a key component of the UK's transport network, according to government ministers speaking at today's launch of the new Commercialising Connected and Automated Mobility funding ..."
-    publishedDateTime: 2022-05-23T09:09:00Z
-    webUrl: "https://www.businessgreen.com/news/4050106/gbp40m-government-competition-promises-revolutionise-self-driving-services"
-    type: article
-    provider:
-      name: Business Green
-      domain: businessgreen.com
-    quality: 19
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/5dc253b/dfc6abf3-8f9d-49d1-a768-154cd9d747df/2/self-driving-iStock-1125799954-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "ShgWH3w0pc66L1+tHfNRR1gVi9KmBLXuP+GMNQ+yA90YaL+rc0xw1u5oLYi5rMPi+NMSC3fRVw81mBwwIUVV+LILYD4vFWlQs03bqdjsJ6J86O7gMojrPMFHYFhNwLWGaG8fo6dLUB3zCdpxe4qsro61hCjIMuA1nLnh8o7OhwDmkypk8OupPcN6i0kJnDbJViFqxP3VOPuv47G5yzGOxWWqnGtri9ifw8uq+CXf7ZhSalw4bUVSZUb4CSIdiB2QAbMSM2LcRg49aAIAhDo293S5GfXD7XX8BkWCtge1nrSDahjgjWcLsnZ3HR8L4d8yzkJhLYUGi8KllpOfosYlC20hKpXEOqzlRLIvxtiqt4k=;8uJaN7/VO4hjZiv9fbXvaQ=="
 ---

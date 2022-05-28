@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Facial recognition company used by British police fined £7.5m over unlawful image database"
+    excerpt: "A facial recognition company used by British police forces has been fined more than £7.5m for creating an unlawful database of 20 billion images. The Information Commissioner’s Office said Clearview AI had scraped people’s private photos from social ..."
+    publishedDateTime: 2022-05-26T11:00:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition-company-fined-police-b2085085.html?fr=operanews"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 29
+    images:
+      - url: "https://static.independent.co.uk/2022/05/09/18/Clearview_Facial_Recognition_64258.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "British regulator fines U.S. facial recognition company $9.4M"
     excerpt: "A British regulator has fined a U.S. facial recognition company over collecting images of people in Britain in violation of its data protection laws."
     publishedDateTime: 2022-05-24T18:31:00Z

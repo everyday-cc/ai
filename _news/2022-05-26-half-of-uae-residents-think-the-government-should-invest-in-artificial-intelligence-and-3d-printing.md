@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Iraqi government interested in artificial intelligence"
-    excerpt: "Kadhimi, during his meeting with Professor of artificial intelligence and the president of eSystems Engineering Society, Dhiya al-Jumeily, On Sunday, confirmed the government’s interest in developing artificial intelligence facilities and supporting related scientific researches,"
-    publishedDateTime: 2022-05-23T10:33:00Z
-    webUrl: "https://www.iraqinews.com/iraq/iraqi-government-interested-in-artificial-intelligence/"
+  - title: "UAE residents think AI, VR, self-driving cars will have positive impact on society: YouGov survey"
+    excerpt: "A new YouGov survey explores familiarity among UAE residents of 16 new technologies. UAE residents think AI, VR, self-driving cars will have positive impact on society: YouGov survey. AI, VR. Emergent Tech."
+    publishedDateTime: 2022-05-26T12:24:00Z
+    webUrl: "https://www.itp.net/emergent-tech/uae-residents-think-ai-vr-self-driving-cars-will-have-positive-impact-on-society-yougov-survey"
     type: article
     provider:
-      name: Iraqi News
-      domain: iraqinews.com
-    quality: 37
-    images:
-      - url: "https://www.iraqinews.com/wp-content/uploads/2022/05/Artificial-intelligence-robot.-Al-Ain-news-image..jpeg"
-        width: 768
-        height: 439
-        isCached: true
+      name: GDPR fines
+      domain: itp.net
+    quality: 6
 
 secured: "FhI0NWY30gAE1zeqNXdVg1nG334SxZKTR19SJEx7WKujkk3JxECphvB6C/hpdmwFGegS8jxakpx6a6pcV6lVG46iZFkZsqQhpSJvRF3t1GM+nnB/6yST2WqxqwLqbzmaAIBFEXhCbJhpxaMSxgjuZ5iDWqK5ExGND3X7P4TGkyf+bWDFfGZSj88v4selSk06XMJSzQKT+NbaZOswKvHyVz9aDR/nU46siJulgXQows07lYp3aXUJwXkpgyIRu5yfjUCaZXLKwkh7DPs81C8hDh4QmmBw6IhMqFlbNpFzXnSiNF6QamhPTz9Jl+TGTDC5A6mZ04q/op1Osf9G8FTNrra6z8qZCNdU86NIOXKCVMBFC2uocN/ChLQhizGCyQgOzasCxssi+JwsPbsHXziOPmd6txwDv2R3H1zSGY711RvKfcXn8Fn9SO+OMlz5zn4Pa55fWBAfl0W3WBKmpn3F8tQPTchsUCSUhLNVP6+I5kT/d1PiAB2oRvza0gsDGg6Tz9POztAOmZpcN0Wbyt9wQg==;69BXgDj9zNFnhlNwyK+mbg=="
 ---

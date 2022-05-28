@@ -108,15 +108,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Ai In Fintech Market [DEMAND] 2022 : Outlook, Size, Share and Growth Stance Forecasted 2030"
-    excerpt: "Quadintel published a new report on the Ai In Fintech Market. The research report consists of thorough information about demand, growth,"
-    publishedDateTime: 2022-05-26T13:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-demand-2022-outlook-size-share-and-growth-stance-forecasted-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
   - title: "Automotive Artificial Intelligence Software Market by Global Size, Trends and Research Analysis 2022 predicted to reach USD 53.98 billion by 2030"
     excerpt: "Automotive Artificial Intelligence Software is a system which is used for the altertion, process and functions and others to imitate human mind and absorbs the problem solving capacity automatically. This technology is mainly used in self driving vehicles ..."
     publishedDateTime: 2022-05-25T08:30:00Z
@@ -140,20 +131,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 1
-  - title: "HD Maps for Autonomous Vehicles Market Emerging Growth, Recent Trends, Industry Analysis, Outlook, Insights, Share and Forecasts Report 2028"
-    excerpt: "The global HD maps for autonomous vehicles market is expected to reach a market size of USD 16.51 Billion at a steady CAGR of 34.3% in 2028, according to"
-    publishedDateTime: 2022-05-23T10:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/hd-maps-for-autonomous-vehicles-market-emerging-growth-recent-trends-industry-analysis-outlook-insights-share-and-forecasts-report-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "gA3sc3v+uUgzeCXfvED62r+Mn76yd2kBHmnGL6Ogup6CYgviy831zz+YiO9Qa/IaL0Ed1bugKl/QjCpCvnP6EhMPKeHatFQp9HdYuQsEKwBK9mtk++P2EcnBvOgCoce1fyt0TGpqLwAL4/4OxCm42SWQ7D/cfGD5lz+eDEKvTnhDLV92JFjQQSz87N1f767+W/mUCNb65elsjRJCojueE7IDwuJY61Avdsal3gWamJND2kEZz/wVUCPRL3IpTZOUtwY8d/s+86vRFPJxEfar2PidHvQGNbVngtG/puKKCUkj8SkwZyQhgOAgEtsXIAvVJblZmSAKBxAFoTZ8CPTB2dQo5AchNkkrvySzVOB2urI=;TyDYkWiW6gVyNne/203a4A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.upi.com/Top_News/World-News/2022/05/24/British-regulat
 webUrl: "https://www.upi.com/Top_News/World-News/2022/05/24/British-regulator-fines-US-facial-recognition-company-94M/1441653409831/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Facial recognition company used by British police fined £7.5m over unlawful image database"
+    excerpt: "A facial recognition company used by British police forces has been fined more than £7.5m for creating an unlawful database of 20 billion images. The Information Commissioner’s Office said Clearview AI had scraped people’s private photos from social ..."
+    publishedDateTime: 2022-05-26T11:00:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition-company-fined-police-b2085085.html?fr=operanews"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 29
+    images:
+      - url: "https://static.independent.co.uk/2022/05/09/18/Clearview_Facial_Recognition_64258.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UK Information Rights Regulator Fines US Face Recognition Developer"
     excerpt: "A U.K. office in charge of protecting information rights has fined a facial recognition company from the United States for exploiting photos of individuals in the U.K. and elsewhere to construct witho"
     publishedDateTime: 2022-05-27T19:34:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.just-style.com/features/machine-learning-hiring-levels
 webUrl: "https://www.just-style.com/features/machine-learning-hiring-levels-in-the-apparel-industry-rose-in-april-2022/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning hiring levels in the power industry rose in April 2022"
-    excerpt: "The proportion of power industry operations and technologies companies hiring for machine learning-related positions rose in April 2022"
-    publishedDateTime: 2022-05-23T10:20:00Z
-    webUrl: "https://www.power-technology.com/analysis/machine-learning-hiring-levels-in-the-power-industry-rose-in-april-2022/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 39
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/05/cRtDN-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "Machine learning hiring levels in the retail industry rose in April 2022"
     excerpt: "The proportion of retail companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 32% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-05-24T18:03:00Z
@@ -48,15 +34,6 @@ related:
       name: Verdict Retail
       domain: retail-insight-network.com
     quality: 33
-  - title: "‘Machine learning’ in beverages – Recruitment levels in Apr 2022 – data"
-    excerpt: "The proportion of beverage companies hiring for ‘machine learning’-related positions rose last month, according to recently-released figures. A total of 30.6% of the companies included in GlobalData’s analysis were recruiting for at least one ..."
-    publishedDateTime: 2022-05-24T12:59:00Z
-    webUrl: "https://www.just-drinks.com/features/machine-learning-in-beverages-recruitment-levels-in-apr-2022-data/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 19
   - title: "Machine learning hiring levels in the automotive industry rose in April 2022"
     excerpt: "The proportion of automotive manufacturing and supply companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 41.5% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-05-24T18:00:00Z
@@ -66,15 +43,6 @@ related:
       name: Just Auto
       domain: just-auto.com
     quality: 16
-  - title: "Artificial intelligence innovation among military industry companies has dropped off in the last year"
-    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
-    publishedDateTime: 2022-05-23T18:04:00Z
-    webUrl: "https://www.army-technology.com/analysis/artificial-intelligence-innovation-among-military-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Army Technology
-      domain: army-technology.com
-    quality: 2
 
 secured: "mRnFMLyotgsEavYP39NJt5oz7ecpQtKivgVgUKz+ZUnNCr9sU8GbIGONxpdNHmXarEJRf1sHlH9XpCt41wvrwVcDQZiYVa1oo0C+tBPErvhqdXucvkGQV4f5MPePrjAIXSrLi/4AYRI429CkaJ0sjz6dZkWk5Qoj9C+6maRZBotYNHCw4pPd0si/vnIirJxcec4dLJ1bKXFU4k+QtsMjB/2TYVFZjbxWnaBirCr6ZUYEdB99W2cFXe6bx5esu+aTVwrAbBxl5eMBqbEHzWS3DCsb5mqBP+AKTRSJkPB0Zn7G2fo5ZuHjdMeteZn90keFKsLUzJozUFO3AkKpExPdoYzNe5rOR3pudbQLOoXVrXA=;oBesWEc4c7yfTMyVLHvVsg=="
 ---

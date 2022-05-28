@@ -2,9 +2,9 @@
 category: news
 title: "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 excerpt: "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,"
-publishedDateTime: 2022-05-16T13:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
-webUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
+publishedDateTime: 2022-05-16T13:07:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "NxB4Z4LOOTmMSDc1ynQn1R9WP3bb1u2KIZJScEkonKhdDzeQISWspCQPHFeaANCq/HES2p2F6LcCvBFQgHa7tgRUYMBIFhKnvmZ2mZcv/eRY7iktvKi7Jmg55EXVivLmuoXZDQ3bIVyoDxkm0B9RIRyOGAMIYQr/gOSDipemPl1UJIsiqgx3cZ63ZvKEKkraiGwn1wBLYLm6XSzJrEJnAIaWdNloOkokY68yihc7+G7KHlml0oGuUGitJUm+/qLwKy7T1RYHnxBXuwCXltdTtJfFyhP2mQbIMs2FAGdttLy8706D8eO6gV5R7PZzWVRLMOet66LoR8gksQbtCYxhpZSNoZGgHVje1H8I5OOekyU=;gZxj6y5+AeqFClY0p4DltA=="
+secured: "SAsdUp8Wlin4bJqbbBTyGDromjpZTsNgbf9js1gL33d8XZtYOC1nzHx5bf4Ytkj/TPuR2MIEyRr0HFfBMCqWAtF80IeR2J1SDfDM2ScAzQANbuTrersQ42+m/Xj8XNNw0V2xyq+3a+LfwiVQc6TFCi6EgC1uQPBFsnOPAABZaZBUOUI9UKmpJJ82e8pXGSis92+Qq0HCl0BmnwHiN5sW/s7fjr86ogD00b+W2diNZhBtz442qTX8lb+b5L+slvteJ0m/SVI7QGVDHUpP1+rYMHqsxETC3qJg07Uv3be48SngXn5Rk82XU84nDMVa78Dz4rMkmndvFgyeanewbCPfF3REZLfCSm00qIVCG5bhC7I=;pLVz9ZUzxNBe083El/CloQ=="
 ---
 

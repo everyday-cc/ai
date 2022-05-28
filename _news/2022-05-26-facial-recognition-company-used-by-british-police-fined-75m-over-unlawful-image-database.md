@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition
 webUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition-company-fined-police-b2085085.html?fr=operanews"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "UK Fines US AI Firm ?7.5m Over Mass Image Collection"
-    excerpt: "Britain announced Monday it had fined US facial recognition company Clearview AI Inc more than ?7.5 million ($9.4 million, 8.8 million euros) for amassing online images of people without their knowledge."
-    publishedDateTime: 2022-05-23T10:06:00Z
-    webUrl: "https://www.ibtimes.com/uk-fines-us-ai-firm-75m-over-mass-image-collection-3517275"
+  - title: "British regulator fines U.S. facial recognition company $9.4M"
+    excerpt: "A British regulator has fined a U.S. facial recognition company over collecting images of people in Britain in violation of its data protection laws."
+    publishedDateTime: 2022-05-24T18:31:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2022/05/24/British-regulator-fines-US-facial-recognition-company-94M/1441653409831/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/23/clearview-ai-inc-has-trawled-the-internet-and.jpg"
-        width: 768
-        height: 532
-        isCached: true
+      name: UPI.com
+      domain: upi.com
+    quality: 19
+  - title: "UK Information Rights Regulator Fines US Face Recognition Developer"
+    excerpt: "A U.K. office in charge of protecting information rights has fined a facial recognition company from the United States for exploiting photos of individuals in the U.K. and elsewhere to construct witho"
+    publishedDateTime: 2022-05-27T19:34:00Z
+    webUrl: "https://www.occrp.org/ru/daily/16388-uk-information-rights-regulator-fines-us-face-recognition-developer"
+    type: article
+    provider:
+      name: OCCRP
+      domain: occrp.org
+    quality: 19
 
 secured: "TmzxIzT4PXH4aN/esPO04C3b3AQFF9toxpqznkUX3L8MqdMOEjQVhIKWFmzRot6NjcTDUZspe5Y8NZQYshvYAaJenti9ytcZxE7MIOb8aRnjenINu2VARcbj0OI5S/bPaU41UbwNtAHrmTc05/7o9vpKjMvyy8KCQ7twMBb7fATBMbe4e1Ai7eW/e6IVyXL5R2lGviSYZDksq2v/Ghf59nSaLS/whbxQcrQmxEjp55SyC498Ix/tYVddHkB76L9Y+G0bKyk+mZi6U54NkfG6cPaA8VgPf3YcsLtp2pBRbCYdaaXzsf0ngIiMntmKM7g+gIfSYeVkLNvIUXV2HDAwi1PiTUHLkePzUghb+1OYQIMDZasdBsgTDHY+NtEFBx3KZ0Lc24hxEHGmcXOvkfwtB+Po0mt9Uw8vRZBwYP0R0LzFgQx8KiKLRP5OXqmUxAYtDXGbaabqAUKPwzGI/Bn2Em5XeuNaihb7Kr2Nahi2OGVbpfl/IyD4ZIpk5G/0smnT3ZuTSRtVFB3dAY3PRzUh7w==;wR6rL3k98V6hVNIEBESVEw=="
 ---

@@ -18,89 +18,47 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence (AI) in Logistics Market Size from 2022 to 2028"
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. Worldwide \"Artificial intelligence (AI) in Logistics Market\" latest release provides detailed analysis of Key and Emerging Players,"
-    publishedDateTime: 2022-05-23T11:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-logistics-market-size-from-2022-to-2028-2022-05-23"
+  - title: "Artificial Intelligence Market 2022 Overview, Demand, New Opportunities & SWOT Analysis by 2030"
+    excerpt: "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in ..."
+    publishedDateTime: 2022-05-25T09:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 82
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (Ai) Chipset Market [DEMAND] 2022 Size, Share, Future Growth Potential Survey By 2030"
-    excerpt: "Quadintel published a new report on the Artificial Intelligence (Ai) Chipset Market. The research report consists of thorough information about"
-    publishedDateTime: 2022-05-24T06:35:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030"
+  - title: "Artificial Intelligence Software Market | Key Drivers, Business Insights, and Future Trends by 2026"
+    excerpt: "Adoption of various technologies such as the internet of things (IoT), machine learning, and industry 4.0. is expected to provide lucrative opportunities for the global artificial intelligence software market. The rise in adoption of cloud-based ..."
+    publishedDateTime: 2022-05-25T11:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-software-market-key-drivers-business-insights-and-future-trends-by-2026"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 54
+    quality: 25
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/1bd9115c03cae6ad319fc7018288222372e53aea-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence (AI) in Education Market to Grow At A CAGR Of 13.2% Through 2028 | 120 Report Pages"
-    excerpt: "The report also presents the market competition landscape and a corresponding detailed analysis of the major players in the market. The key players covered in this report: Breakdown data in in Chapter 3."
-    publishedDateTime: 2022-05-23T09:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-grow-at-a-cagr-of-13-2-through-2028-120-report-pages"
+  - title: "Ai In Defense Market [OVERVIEW] 2022 : Report Examines Latest Trends Size, Share and Key Drivers Supporting Growth 2030"
+    excerpt: "Quadintel published a new report on the Ai In Defense Market. The research report consists of thorough information about demand, growth,"
+    publishedDateTime: 2022-05-26T13:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-defense-market-overview-2022-report-examines-latest-trends-size-share-and-key-drivers-supporting-growth-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 53
+    quality: 13
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/baa5cf168f34ffc4cb2551ce1e095c9a5961e919-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Artificial Intelligence (Ai) In The Food Beverages Market [TREND] Industry Growth Analysis with Size, Share and Forecast 2022-2030"
-    excerpt: "Quadintel published a new report on the Artificial Intelligence (Ai) In The Food Beverages Market. The research report consists of thorough"
-    publishedDateTime: 2022-05-24T06:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-the-food-beverages-market-trend-industry-growth-analysis-with-size-share-and-forecast-2022-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence in Diagnostics Market Size Predicted to Increase at a Positive CAGR Of 32.3% from 2022 to 2031"
-    excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth"
-    publishedDateTime: 2022-05-26T02:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-size-predicted-to-increase-at-a-positive-cagr-of-32-3-from-2022-to-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Market Trajectory & Analytics, 2020-2021 & 2022-2027: Accelerating Pace of Digital Transformation to Benefit Deman"
-    excerpt: "Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. The global market for Artificial Intelligence (AI) estimated at US$46.9 Billion in the year 2020, is projected to reach a revised size of US$341."
-    publishedDateTime: 2022-05-24T20:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=669612"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "oUVaVUnXCFfTjGtyMbyZa0q5MdXBUNOsSLSBHwdIUa2BB2Dnu7CChXHhQ+/8ktE5BNZV+XuHUL+XMOsyXqMWuxkGYASTYunpUFhg6thDC0YKWVmf5tT0sHuqDiggCSnu07UepPA1MrDBMGMSIxn45DUxucZQ9jqRv8hXx7SEH4DoSsoDqq2IKQC2ii8h7D1oSDJZAXdebyaVzhrlOJ9PcNjNNmvTI+h93yuxZxWt3iwqK6MnVMWw9XOvzhRVrNDoD92Y4QwTypNTudaKZFo2+UxhjDDM94aGoQd4ryT/yxAVVVstwmKl1Jla24Uqozs+rkRByuYpNFvJ5MKdUoQh3STPXfqn91utvbibkOvjwvs=;jQ0MOI/sRA4KHuv50NIRFQ=="
