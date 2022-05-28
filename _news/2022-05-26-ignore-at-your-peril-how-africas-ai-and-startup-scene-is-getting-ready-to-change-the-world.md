@@ -7,7 +7,7 @@ originalUrl: "https://themediaonline.co.za/2022/05/ignore-at-your-peril-how-afri
 webUrl: "https://themediaonline.co.za/2022/05/ignore-at-your-peril-how-africas-ai-and-startup-scene-is-getting-ready-to-change-the-world/"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 678
     height: 424
     isCached: true
-
-related:
-  - title: "Ignore At Your Peril: How Africa’s AI And Startup Scene Is Getting Ready To Change The World"
-    excerpt: "Embodying entrepreneurship and innovation like no other sector, Africa’s startup ecosystem is blossoming. Innovative thinkers are localising tools such as AI and edge computing, among other technologies,"
-    publishedDateTime: 2022-05-23T08:05:00Z
-    webUrl: "https://za.investing.com/news/ignore-at-your-peril-how-africas-ai-and-startup-scene-is-getting-ready-to-change-the-world-2559616"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 28
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
 
 secured: "w6KYQRmPLSY56vnD/nmjvDnVhbwCapcegWd2VHb6LHBUnk5Vu5ayr3QrWL1OhIe2vYiPhjBn3CAKWz6TKiPVtqGoKAG9UQ2r8kLuOOASVPRFKLPA14DzpKQuqTSN+w3WwDrQ9pKyZ6XhpMuyYTxhF3EMldG31PtlrgtS9dFiSD9m9py3EQEm0TNUQqjHBfReZ59rJG9JPbdxswF6Q+gmJNequmm2ssiiik17NTvQP0zTFAh9qK5dYDbX6JEM4Ndl/SL42diTsu8QAKB+IGd9bwdIQOblzia9nZn2yYbgP4rov76W5ZbOrX7Wyn7/s8tRJ+lF4Zl+KJLTtqjGOBQ7GGOy6R0saOuERNgcTXjGj8w=;tkpLuFaBYcMN6rP0qOFfgg=="
 ---

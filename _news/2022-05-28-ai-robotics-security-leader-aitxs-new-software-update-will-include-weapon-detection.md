@@ -1,18 +1,18 @@
 ---
 category: news
-title: "AI Robotics Security Leader AITX's New Software Update Will Include Weapon Detection"
-excerpt: "With 42 Dealers covering the US, Canada, the U.K. & the European Union, Artificial Intelligence Technology Solutions (Stock Symbol: AITX) is a Sec"
-publishedDateTime: 2022-05-27T23:27:00Z
-originalUrl: "https://menafn.com/1104283876/AI-Robotics-Security-Leader-AITXs-New-Software-Update-Will-Include-Weapon-Detection"
-webUrl: "https://menafn.com/1104283876/AI-Robotics-Security-Leader-AITXs-New-Software-Update-Will-Include-Weapon-Detection"
+title: "AI Robotics Security Leader AITX’s New Software Update will Include Weapon Detection"
+excerpt: "Artificial Intelligence Technology Solutions(OTC ... Video presentations of AITX advancements in AI and Robotics are available via YouTube. On May 24 th AITX announced it had signed U.S. Secure Ventures (USSV) as a new authorized dealer and has received ..."
+publishedDateTime: 2022-05-27T23:01:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection"
+webUrl: "https://www.digitaljournal.com/pr/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Robotics
@@ -20,11 +20,22 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?36870"
-    width: 374
-    height: 250
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Baby-Formula-AFP-1K-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "7KPxdselaOZ2ZlHJHxY3/o0vcoNZ4rNiGEmQRlzwlalpr5P5F+lSsiY5c8Jo78ZzWR74GUQZ3RmOK+MCDvfpCR/MH6A8C8+tyy/r7g7lukG1bfTP4R6zNYHSLNXmr3EVDhc4ETdETD/ULy0kgy/gwx9nW+SeQD7IFDCh0FUqlgUWRfhBesZ0BN5t7lbwbV8qCtmhZA+k0iL7vbkXwrd11kQiHzODbw/Yg6t6sC4lX5bbECC47E4hnbfwH306XYmjFY+RP+6rjg8krhrqALvYbvIxBPCXbhLsq9kegd+ejW0GhtewYwTHoZimfWQ4a5ith4EdoOsikDsUzgU2V/+681rbJFwfqeqtkPhgFwGerU4=;7v+lIfFUezqSaNZJ3HzvRA=="
+related:
+  - title: "AITX subsidiary secures order for AVA and ROSA security robots"
+    excerpt: "Robotic Assistance Devices ((RAD)), a wholly-owned subsidiary of Artificial Intelligence Technology Solutions (AITX), has won an order from Romanian security firm Civitas PSG.As part"
+    publishedDateTime: 2022-05-23T13:17:00Z
+    webUrl: "https://seekingalpha.com/news/3841703-aitx-subsidiary-secures-order-for-ava-and-rosa-security-robots"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 51
+
+secured: "q4OIaQpYg8sAGL9ICBfaNKUv0b2P/Y7NTw6deSNp2k6c2COxHyoJOnxDgAanCuaqRXNiY+srj6SlTevm2M9LKN9PDHrJ4fd4HFMsU48wGCnON+II25e26GWY6rTg6ad4kDjXCg07+qanSjCM7kSdGYCcBJ5enfMUXnbLYNpJ9dhnGKwOcrGoCatClsH+nw5/1mAgKY/gqdvnLb3BjQi7sMbTrdlL8vZENUcdXKN7mHq02KZ102wft58dzOtBG6H/WIYbNA51sr7KnRnkiMHsKqeTOudktQN0lTTqxGpUwam83m7OHJA75usIc7h6kwcmDr0k3N1ga8DJWfYGcJ9XS3RcuHUjctm3IAQNt8zsB4A=;Lq8fAQvysnD5vSrX1CmU1w=="
 ---
 

@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "AI in Global Space Industry 2022: Innovation Culture and Competitive Intensity in the NewSpace Economy Drive New Product Development for AI Solution P"
-    excerpt: "The \"Global Artificial Intelligence in Space Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. The multiple NewSpace start-ups entering the space industry as downstream services providers have created a fragmented market with increasing competition."
-    publishedDateTime: 2022-05-24T10:04:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=668773"
+  - title: "Artificial Intelligence in Retail Industry Growth Curve to Exhibit Upward Trend by 2030"
+    excerpt: "Fatpos Global added the revised report into their database titled “Artificial Intelligence in Retail Market: Market Segments: By Technology (Natural Language Processing, Machine Learning and Deep Learning,"
+    publishedDateTime: 2022-05-26T18:18:00Z
+    webUrl: "https://xaralite.com/285708/news/artificial-intelligence-in-retail-industry-growth-curve-to-exhibit-upward-trend-by-2030/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 26
 
 secured: "iWFuH0aTydE3OfAzthetM2fFTbdw6SO7434vIo2o/q/9GHSuVZ4V+ZE0xeva/0XadRODQ14tBFrz0q8mwAECm2kzEZVPCArPWr/PIDO8VqJJbY/VvbnzFB6D3C9mash+xQ9ZnFdrx9Ie47rd9sNTU4Jer6BO2+ZHrDBp/lZAySZYkdjFunEY+0pdo3q/Oroq1cqonP4+NobJDQOWSwkcXyTf24Q5AYV4dM4+j7647mQIwPje9+lE8Am7Uzcgz7NENDG8yPqLp8xpVPRh6nkptoeB8u28psERiHVq4/t7G7L5jLen1Q4iC68JncEZBGBPanFTVx2rqi1zqRcUfjxuIMTGzGOwiPnEtlywS2aFUzQ=;VuG26e1Ju17cO5Z8gW9Dtw=="
 ---

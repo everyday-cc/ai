@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-suc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve//6287d954542764571a5ca2d7/0x0.jpg?format=jpg&width=1200"
         width: 640
         height: 400
+        isCached: true
+  - title: "How To Make It Easier To Implement AI In Your Business"
+    excerpt: "AI continuously proves to be an asset for businesses and has been revolutionizing the way they operate. It goes a long way in helping to cut operational costs, automate and simplify business processes,"
+    publishedDateTime: 2022-05-27T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628e43a297056cd9dc21d426/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "kUFQ7JECAguRuy33Yx+AtfMB5iIhWbr/wF1bngX+DCYgE12dNCFAi8hG3THqVOOXRshfzceewONGKG+nBTiF81Laj54YFfCfIImUCIE/Rbf42TYKX5AVDBpn6BQuC853n5rnISvR5ttmdEUgL7xhfnVcBX1GwTirdhe1cH6vTmV3KGJOW4U2Mo0LoYuc+peVfF6LympS4mO/BdTto8c4DJd2bYic5MIvk745lLutxQ/DZkKdJx94hDV6LUHQ7OMRH6Rq4HeGtWlrvkB4dfCOxhmWK0WTy4EYm+LR3pZcJfD+LABjHqLaXZV8PE5koPz7sgBYuwToIonXqUQb4TdQb3EERWlefcTzsl2pIHZ9YVs=;8B3AJdYthedYAACPeqkBdA=="

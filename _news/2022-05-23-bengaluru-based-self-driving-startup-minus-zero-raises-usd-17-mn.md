@@ -41,6 +41,34 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Minus Zero wants to be the first to bring self-driving cars to India"
+    excerpt: "While Tesla is yet to enable its own autonomous self-driving features in their cars, Minus Zero may bring the technology to India as early as next year. The Bengaluru-based startup was able to raise $1."
+    publishedDateTime: 2022-05-24T03:15:00Z
+    webUrl: "https://www.techradar.com/in/news/minus-zero-wants-to-be-the-first-to-bring-self-driving-cars-to-india"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/rE74GZCXXpLivMo5UScv9k-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-Driving Car Start-up to be Introduced in India"
+    excerpt: "Minus Zero is an Indian based start-up that is looking make self-driving cars into the mainstream in the country."
+    publishedDateTime: 2022-05-25T06:55:00Z
+    webUrl: "https://techstory.in/self-driving-car-start-up-to-be-introduced-in-india/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/05/AMP-62_60fabd243e292-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "UK launches £40m competition to roll out self-driving commercial vehicles"
     excerpt: "The UK Government has launched a £40m competition to kick-start the roll out of commercial self-driving vehicles from 2025. Announced today by investment minister Lord Grimstone, the ‘Commercialising Connected and Automated Mobility’ will provide ..."
     publishedDateTime: 2022-05-23T12:13:00Z

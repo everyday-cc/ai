@@ -25,51 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "NextBillion.ai raises $21 million in Series B round"
-    excerpt: "The funding round was led by global investment firm Mirae Asset Capital. Existing investors Lightspeed, M12 (Microsoft’s Venture Fund), and Alphawave NextBillion.ai, a spatial data and mapping platform for enterprises, has raised $21 million in a Series ..."
-    publishedDateTime: 2022-05-23T08:20:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece/amp/"
+  - title: "Basetwo raises $3.8M to launch AI platform for pharmaceutical manufacturing"
+    excerpt: "This funding will support today’s launch of the Basetwo AI Platform, which allows engineers to rapidly digitize their manufacturing processes in order to simulate everything that might happen on ..."
+    publishedDateTime: 2022-05-26T17:25:00Z
+    webUrl: "https://siliconangle.com/2022/05/26/basetwo-raises-3-8m-launch-ai-platform-pharmaceutical-manufacturing/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
     images:
-      - url: "https://www.thehindubusinessline.com/incoming/cw7664/article65453262.ece/alternates/LANDSCAPE_615/IMG_IMG_BL11_Fund_2_1_PH_2_1_B89DQ9V9.jpg"
-        width: 615
-        height: 383
-        isCached: true
-  - title: "NextBillion.ai raises $21 million in fresh funding led by Mirae Asset Capital"
-    excerpt: "With this latest round of funding the company plans to expand its market share in building and managing decentralized geospatial technology stacks for enterprises. It plans to expand into North America and Europe."
-    publishedDateTime: 2022-05-23T08:27:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/nextbillion-ai-raises-21-million-in-fresh-funding-led-by-mirae-asset-capital/articleshow/91739345.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/nextbillion-ai-raises-21-million-in-fresh-funding-led-by-mirae-asset-capital/amp_articleshow/91739345.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/nextbillion-ai-raises-21-million-in-fresh-funding-led-by-mirae-asset-capital/amp_articleshow/91739345.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-18284,msid-91739446/nextbillion.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Mapping platform Nextbillion.ai raises USD 21 mn in Series B"
-    excerpt: "Spatial data and mapping platform NextBillion.ai has raised USD 21 million in a Series B round led by Mirae Asset Venture Investment."
-    publishedDateTime: 2022-05-23T07:34:00Z
-    webUrl: "https://analyticsindiamag.com/mapping-platform-nextbillion-ai-raises-usd-21-mn-in-series-b/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Nextbillion_AIM.jpeg"
-        width: 1290
-        height: 880
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/medical-pills-industry-factory-and-production-indoor.jpeg"
+        width: 576
+        height: 384
         isCached: true
 
 secured: "1H0ztfGRFDRaS0Tcpx48N/A1pZ+6/IiCd1GgQWM1st94sxk0XzsH2OXDCDjW7d9d8yALDhiNhSBEkfH0GanwUd6jHlPGz9qbmCE7XdNF6sCNIl8usZuU6Cn/QyOj2yy0pOZredyUTgjgzRS/E8uUWRp8LF6YUif/NoeAIAAIE2WT79gOCUhW1zCPRorEY+JDoZeTw3gEQwvGHlxJ3tMq8PAjonzEocgi+n5+9tD5RRwvdLCCfAx2Pgtdfx6GPaNtVnnY3UFHiTVvTelp5vpnVsIUwCJEjLxWb3zuvHtsOFd4b1f7+1fEr5K+RkCnU/q8rwmKCYdQLo7ITZ5/axzQFUWQCFWMCE0l8o9xWUuiBbA=;UsdJW+p7HbhjPvUcoTdu8g=="

@@ -23,6 +23,22 @@ images:
     height: 384
     isCached: true
 
+related:
+  - title: "Basetwo Launches No-Code Artificial Intelligence Platform for Pharmaceutical Manufacturing, Raises $3.8 Million"
+    excerpt: "Basetwo, a SaaS AI platform for manufacturers, today announced it secured a $3.8M seed round led by Glasswing Ventures and Argon Ventures with additional funding from Caffeinated Capital, Graphite Ventures,"
+    publishedDateTime: 2022-05-26T12:47:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-health-artificial-intelligence-pharmaceutical-manufacturing-f31278f9d1726ef19aefae99cb62939d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "WPR77tPs1orJt4xZKBo1h0qOIb3feSJKGZyIhvt/tNyiCV07anUwz8bV+24XaOHs42YlrZRjcgB+AqvDjRS+siqigU81cJ9hKESODQTuTdIzdjz7E6Ufz/cSWx/GWug31Rtrswu6w03jWWTPMxaLhXDGz8mQ8amlOAdnakN927PVViEFFxzIx+dk+YaE+PPcaUPR3BP8lqeajHyobudNR8D+TKygf7lxgriLvTpS0yyYDkUVZogTBCrFbwKiUnDwJwBLg53KbkwcqIIkkiV3QAxQbVuPWm2x6Jdoqm9Wn1JLMEYTrzDxy8F9blQh2YwX1gVRPizUKLrTDQDA8UJctmI9+MeaYnGeD24MYuEcwZo=;LD5XmvuSbE/W/k29cBg7ng=="
 ---
 

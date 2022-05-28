@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/it-ministry-holds-brainsto
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 23
-  - title: "MeitY holds Brainstorming with Researchers & Startups to shape strategy for Digital India BHASHINI – India’s AI led language translation platform"
-    excerpt: "We see the role of Startups in the Innovation, Development as well as Consumption of Technology”, said Rajeev Chandrasekhar, Minister of State for Electronics and Information Technology and Skill Development & Entrepreneurship,"
-    publishedDateTime: 2022-05-24T09:23:00Z
-    webUrl: "https://orissadiary.com/meity-holds-brainstorming-with-researchers-startups-to-shape-strategy-for-digital-india-bhashini-indias-ai-led-language-translation-platform/"
-    type: article
-    provider:
-      name: Odisha Diary
-      domain: orissadiary.com
-    quality: 0
 
 secured: "srQrtPu/rYST36Az8Y7U697dpXsKCNS5Y3LmtB5mWN9gVX4VkyUckjxqc/cLwT1DemgYuQcKIci0ygu3GVYm9VghH8xHYGVqazf8nevU7DNs0n7pTnExOdmj01mpvoVxprGDQi2w8ik/okKAYADlqtcMlflG6c0j2Im9ZNxIRFlFS9MMkfJsLlkPjvLGLxNV3WUm5D0JkaQPQ2sLzGid9C09NyJfpaLdEc8bgYh7ZyFfAuEjw/X4gXvDn89we8vU9QIMuHxC4ZCPa+GsUDYKN+QBxE47BiIxm+mAb52KMbIEiCcLQhqnyOH+x70y0p40Spq7aOiDJcvufolQ3s3x7pkcYxiDtdCP357l9/t1p2XYdlWkzqcMmLi6fXt86w5grWHZO2ZMhXlZRQCCJiImO6dqBy3cqDB7uolLyTbvBKBSkWJ66IG30L/3JygpPM4hKf93bPBJEfKYBaxh7Zp7xRyOOGELTwPbK9PHi9trrwx5zkU1U54yQ+p2Ysg87l63BtiXLSEtp7J6ZvHGF2/C/Q==;bFqKW7v27BMyH+dp7DeOVQ=="
 ---

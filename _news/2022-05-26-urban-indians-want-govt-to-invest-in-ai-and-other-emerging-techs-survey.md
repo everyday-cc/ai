@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/urban-indians-want-gov
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "Half of UAE residents think the government should invest in Artificial Intelligence and 3D Printing"
-    excerpt: "In recent years, UAE has become one of the world's leading hubs for technological advancement. As emerging technologies continue to impact the lives of the people across the globe, YouGov's latest survey explores the awareness about 16 new technologies amongst UAE residents and highlights their opinions about the future and impact of these technologies on society."
-    publishedDateTime: 2022-05-26T13:34:00Z
-    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/half-of-uae-residents-think-the-government-should-invest-in-artificial-intelligence-and-3d-printing-vyi1v72o"
+  - title: "Artificial Intelligence to Make Roads in India Safer to Drive"
+    excerpt: "Artificial Intelligence (AI) can soon make roads safer to drive in India, reveals a new study. A unique AI approach that uses the predictive power of AI to identify risks on the road, and a collision alert system to communicate timely alerts to drivers,"
+    publishedDateTime: 2022-05-27T13:56:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 5
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/accident.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+  - title: "AI To Make Roads In India Safer To Drive"
+    excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"
+    publishedDateTime: 2022-05-24T11:58:00Z
+    webUrl: "https://menafn.com/1104265618/AI-To-Make-Roads-In-India-Safer-To-Drive"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/24/I_6679aimage_story.jpg"
+        width: 400
+        height: 220
+        isCached: true
+  - title: "MeitY holds Brainstorming with Researchers & Startups to shape strategy for Digital India BHASHINI – India’s AI led language translation platform"
+    excerpt: "We see the role of Startups in the Innovation, Development as well as Consumption of Technology”, said Rajeev Chandrasekhar, Minister of State for Electronics and Information Technology and Skill Development & Entrepreneurship,"
+    publishedDateTime: 2022-05-24T09:23:00Z
+    webUrl: "https://orissadiary.com/meity-holds-brainstorming-with-researchers-startups-to-shape-strategy-for-digital-india-bhashini-indias-ai-led-language-translation-platform/"
+    type: article
+    provider:
+      name: Odisha Diary
+      domain: orissadiary.com
+    quality: 0
 
 secured: "oVmUVp69uFnUTAlmQC6hteHTyP1EffCN6twX24CgOsainO3Vxmxp6nfaUnktD2UbGMmgsx3IQ1qlT+cf8+Y+0SkpOCi5kU5eKOlQvh+XJHjN+hChz56rWNezq3+Wip9uBLzO2FAX/XSuyltAHJmZk33g6otHPvlWux+i5uDCzqewTOhxNstsm4s2tUgoNkfP7xr55Ir2Q+/PK67HNYOCLun3jXFK/Dy6I48n9+DHJnBWZ4hIlWQM4CCwIcT/gl/bkytR6TkuFgBwky80pJ0X19X9Ri5fFydgetZMN3PPqIC6znvN8wiV5/PDS1ZKmHH6bvs93siM+lzdkbhs910LOyzIgYcUHWACft5t4H8Xw7U=;Tzt8JKzXSN7jmxY1WhnIKA=="
 ---

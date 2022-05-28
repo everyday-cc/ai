@@ -371,6 +371,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
+    excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
+    publishedDateTime: 2022-05-27T22:38:00Z
+    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 58
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
+        width: 1522
+        height: 857
+        isCached: true
   - title: "The biggest Azure announcements from Microsoft Build 2022"
     excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
     publishedDateTime: 2022-05-24T20:05:00Z
@@ -398,20 +412,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/03/ian-haynes-300x300.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
-    excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
-    publishedDateTime: 2022-05-27T22:38:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 56
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
-        width: 1522
-        height: 857
         isCached: true
   - title: "The 15 Biggest Azure Announcements At Microsoft Build 2022"
     excerpt: "Microsoft talked about Azure OpenAI Service, Azure Machine Learning, Azure Kubernetes Service, Microsoft Intelligent Data Platform, Azure Cognitive Services, GitHub Copilot, Purview and other tools and services during its annual Build conference this week."

@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2022-05-28-ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection.md",
-      "title": "AI Robotics Security Leader AITX's New Software Update Will Include Weapon Detection",
-      "excerpt": "With 42 Dealers covering the US, Canada, the U.K. & the European Union, Artificial Intelligence Technology Solutions (Stock Symbol: AITX) is a Sec",
+      "title": "AI Robotics Security Leader AITX’s New Software Update will Include Weapon Detection",
+      "excerpt": "Artificial Intelligence Technology Solutions(OTC ... Video presentations of AITX advancements in AI and Robotics are available via YouTube. On May 24 th AITX announced it had signed U.S. Secure Ventures (USSV) as a new authorized dealer and has received ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104283876/AI-Robotics-Security-Leader-AITXs-New-Software-Update-Will-Include-Weapon-Detection",
-      "originalUrl": "https://menafn.com/1104283876/AI-Robotics-Security-Leader-AITXs-New-Software-Update-Will-Include-Weapon-Detection",
+      "webUrl": "https://www.digitaljournal.com/pr/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?36870",
-          "width": 374,
-          "height": 250,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Baby-Formula-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T16:27:00-07:00",
+      "publishedDateTime": "2022-05-27T16:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -233,6 +233,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-artificial-intelligence-to-make-roads-in-india-safer-to-drive.md",
+      "title": "Artificial Intelligence to Make Roads in India Safer to Drive",
+      "excerpt": "Artificial Intelligence (AI) can soon make roads safer to drive in India, reveals a new study. A unique AI approach that uses the predictive power of AI to identify risks on the road, and a collision alert system to communicate timely alerts to drivers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/accident.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm",
+      "publishedDateTime": "2022-05-27T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1140,57 +1182,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-top-7-ways-to-cultivate-creative-excellence-with-ai.md",
-      "title": "Top 7 Ways to Cultivate Creative Excellence with AI",
-      "excerpt": "Today's world of work is moving fast, and the most successful leaders have a laser focus on the future, one in which change is constant and inevitable. And as technology and automation continue to transform the way we work,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426406",
-      "originalUrl": "https://www.entrepreneur.com/article/426406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652821115-GettyImages-454204749.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

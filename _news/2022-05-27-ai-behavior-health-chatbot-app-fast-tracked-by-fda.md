@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI Behavior Health Chatbot App Fast-Tracked by FDA"
-excerpt: "Cognitive-behavioral therapy is a type of psychological treatment based ... The worldwide market for artificial intelligence in healthcare is expected to grow at a compound annual growth rate (CAGR) of 38.4 percent from 2022 to 2030 to reach USD 308.2 ..."
-publishedDateTime: 2022-05-27T00:11:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+excerpt: "Recently the U.S. Food and Drug Administration granted breakthrough device designation to Wysa’s AI-based digital mental health conversational agent that delivers cognitive beha"
+publishedDateTime: 2022-05-26T20:00:00Z
+originalUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
 type: article
 quality: 59
 heat: -1
@@ -83,6 +83,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "bDatsEhCDiFgtT3/aRH/tKt4hNaohl6YpRa8DEYjlAwU3TW7qHrlcUPqoRQKNhWAn8GGGypImgkOUAJknsuPHw0/w0LKy7kntLOi6bIj0gkGxl3nbPRvuw8uwjPNjYeQ2jE73++IEOMgg9yNtlVzlH+W4KT4Z0YOA6pITMQGpnvr/zGWgbyJg+RSiqpTjHvrgQyITBao1W5lhkA8JBfrm0Z8rI60ukovKYE8l15QVeFPKDjE7xVVr+vlbft1gTYXsoSynLBV9JdsnEbdgeI/ZI8DGXgZMuM/ZQK0rxekcj56Mmix9sId+S1oduivxOenCOVxfUxhA2M+p1K0GmqCnQ0hvOkiy059QxdONTmXSU8LOu+VPujp8zCOP2tB7RtYcCf+VmVYHZeYheleNif8N7ocBq2TVHb5B60ZX0Qj3Fqb9vBP1Sxf22hIkIy/MqYj065AmFsAtM9rXomF2CuX7Wa2ezL7+tVkP4vaS/feB/WAdgcGgESD7DU9OLE772Zk1jJk8lqfGE+YKo05rynrDQ==;kDcVSGUVU+z6R+VJOrnXog=="
+secured: "MLgryvL7TksY/pfHhBit8IUvMwZ5VrLyMA1+WvWxz0lEfODLwf5apHpd9JzJTN+/p+4NeryrC6zgb4fg4D8QrVkuyow3Oqe/PF8uwR6YKYBm+0Ab91kd48gU34VEWnZYBw+Y1VOY3hmiZB4nE25Ojb0/f4D+SimGd8cdjOkPI2F88sbf7gIk1sv/Fagkp1Facqh8wWa7m0GZGTpTzyFueHEDTiBpV0xG+jGP5T4DcdgHaY34Gn8K0K6+N5HQ9qCFsP6MtPiQ1g/4IGonDRKLFc2R7g3QWMRIVj2hq0iqnBVXA56CXnbbD/6OMqaGg6gE1eyEKwVPpacek3vBzWdYomDKf1eFp0w2B21Qx4HiBJE=;/CEyqULqjzH+U5JvxyVniQ=="
 ---
 

@@ -34,15 +34,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 1
-  - title: "HyperSense named in 2022 Gartner(R) Market Guide for Multipersona Data Science and Machine Learning Platforms"
-    excerpt: "Subex, a pioneer in the space of Digital Trust, has been named in 2022 Gartner(R) Market Guide for Multipersona Data Science and Machine Learning Platforms (DSML). Through HyperSense, Subex has been listed as a Representative Vendor in the report."
-    publishedDateTime: 2022-05-23T08:17:00Z
-    webUrl: "https://www.newswit.com/en/LdzY"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 0
   - title: "HyperSense named in 2022 GartnerÂ® Market Guide for Multipersona Data Science and Machine Learning Platforms"
     excerpt: "It helps enterprises leverage AI across their data value chain through a combination of no-code AI, AutoML and MLOps,\" said Rohit Maheshwari, Head of Strategy and Products at Subex. This report ..."
     publishedDateTime: 2022-05-24T18:40:00Z

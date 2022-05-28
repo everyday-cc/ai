@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-27T22:38:00Z
 originalUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
 webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
@@ -581,6 +582,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "s2uXSbdTHIINpupaey2KPsAH0SclZa+ryiOWQvdm72m4jGaT5SUQptGB0/1CVDVjKB6CGzhepMA2aiTiGSDdmmsOHBeA9ZywsuMI8TQNrfZ8+Ls74SJrQsDJ60s7Ze0ARDuA7O1DTmq20xR8XdmU3Hz6lvZ6aeUURvHLidlB5YFFCCDZW5vx4sQR9MAzNzKrImtrSV9W+EEMJfs/9pDh455FOca6xv2zeXX2P3onkPRC8xdXsfUTxsdE2C9Cp4CUabBZRPvY2/rTc/uH1Vf7sd3En9WHWeffaW/IJvLECo+DTS5YYBdizYzRxgjy4AgUhAHEB5HdppKJP8ASo2fzZkm5r89Fut6aXkYUUlqPxuA=;YUhO2OixlPzjgcxedO5hSw=="
+secured: "Io+PxLTyoK9Bd5RsWNUXBEQHYCIHUoOM8XzE/1pEPa5+XhQ2uMZnlUicsZcJU0+giYz5Hrc/aGe+vPQpBxqLNbHYS5DQVGOag3W6QXkbFfuNnxNq/adJv39sYl33AVqGOULTGVanp7c/S5IfZcgiJpJ5uMTuZQP7ZXt8zS869zj8pzgQ6v6BxSNNa3PS0gH9+N9rBnxnYPm/wYrrih6N0SxvyY8P2ho8mNR+2cUhkOarSWaVd0vejfG5DV9+/bCo6LnrQgLrNf5jYXB1L8po1wKzw2Hw38U13OOKAGI7SbZgLFE0rQUdKZb76Umda2bJoefObgujpn7qcpnT1lnwvrRE2KHu5tExDncISQMExOMz60BMz17u3ZX5R2JPh8I3tKK2Ni+GVQvMqq2mnyMQj94SXcbxWLoxVP6EveS8cGA8kjTx0Fp6qsvh57qeOZ7L5xiShkGrJHL0VjimHE0Rlj45VY+rNyk9dWZuuKIjjzp25vQF5CTb7zA5OaLp5F8UZBQ8cvzyBT6dbqkdqNw5Ew==;qGRcR1i68zO4hhkbTtDh1g=="
 ---
 

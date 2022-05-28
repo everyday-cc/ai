@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 840
         isCached: true
+  - title: "How To Make It Easier To Implement AI In Your Business"
+    excerpt: "AI continuously proves to be an asset for businesses and has been revolutionizing the way they operate. It goes a long way in helping to cut operational costs, automate and simplify business processes,"
+    publishedDateTime: 2022-05-27T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628e43a297056cd9dc21d426/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "JcXgOoo5WNlC2Hra5JBTMi63sH5+LVW4Qad3fZ/mA7O7ZGwQX5VbXwIVwa+CKYstxNFPiaWwt0bx105On0v99DBNv2RGIIe5vdHR+PewVviYb/CIJtcvNXVxGIu4NneR5X0E54od5aetkUtaPojeSFecbqaWteIvbUpJd8WINCwIPbWppGk/u9enzSMLTq0P5rZ6IkTI/8sBFGNGBpN3SoNBDe6+XyqKEA0SE38b3fcSClYH9zfNSpDySbM7OXSkqgXJ9Rc7yiCnBc+/nMxq7+CGjpbKKMGWrYVKHHBNa/ay7kkoUFkoC0RWrJJ5xMcdiXpsyA+efapIDNeps39ZUYiUorej/2LsgePmHOu7YLafnRDa0duvMS7ENbolo5kdf2I4C9wg0YchCkLFn1smlYS57qKcLR3Aqovq7FPo3j5IqJvuzhtb/yYjfawAgXTCbrPY8bvRsn80LH7cVXU4kTK9EzSDSUby/oC6w4rXqdnZCFvhYmi/Bsatpvvh1Ypv7mKMTMttKc2GIW0zFU58Mw==;oofG5WCaaILiB0/yAUWnTg=="
 ---

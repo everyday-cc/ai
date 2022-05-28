@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Innovations And Growth Opportunities In Artificial Intelligence For Histopathology Market 2022"
-    excerpt: "Artificial intelligence for Histopathology Market NEW YORK, NY, U.S., May 23, 2022 /EINPresswire.com / -- This report studies the Artifici"
-    publishedDateTime: 2022-05-23T08:39:00Z
-    webUrl: "https://menafn.com/1104256728/Innovations-And-Growth-Opportunities-In-Artificial-Intelligence-For-Histopathology-Market-2022"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/23/EP_0fa10image_story.jpeg"
-        width: 259
-        height: 259
-        isCached: true
   - title: "Ai In Defense Market [OVERVIEW] 2022 : Report Examines Latest Trends Size, Share and Key Drivers Supporting Growth 2030"
     excerpt: "Quadintel published a new report on the Ai In Defense Market. The research report consists of thorough information about demand, growth,"
     publishedDateTime: 2022-05-26T13:39:00Z

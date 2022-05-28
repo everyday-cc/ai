@@ -372,6 +372,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
+    excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
+    publishedDateTime: 2022-05-27T22:38:00Z
+    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 58
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
+        width: 1522
+        height: 857
+        isCached: true
   - title: "Microsoft and Meta expand their AI partnership"
     excerpt: "Meta notices how Microsoft keeps expanding its AI services on platforms like Azure. Microsoft and Meta announced the ONNX (Open Neural Network Exchange)"
     publishedDateTime: 2022-05-27T13:45:00Z
@@ -385,20 +399,6 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/03/ian-haynes-300x300.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
-    excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
-    publishedDateTime: 2022-05-27T22:38:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 56
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
-        width: 1522
-        height: 857
         isCached: true
   - title: "Hugging Face Endpoints launched on Microsoft Azure"
     excerpt: "Hugging Face has announced a partnership with Microsoft to democratise machine learning through open source collaboration and make the Hugging Face machine learning platform accessible to Microsoft Azure customers."

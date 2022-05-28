@@ -70,15 +70,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 23
-  - title: "MeitY holds Brainstorming with Researchers & Startups to shape strategy for Digital India BHASHINI – India’s AI led language translation platform"
-    excerpt: "We see the role of Startups in the Innovation, Development as well as Consumption of Technology”, said Rajeev Chandrasekhar, Minister of State for Electronics and Information Technology and Skill Development & Entrepreneurship,"
-    publishedDateTime: 2022-05-24T09:23:00Z
-    webUrl: "https://orissadiary.com/meity-holds-brainstorming-with-researchers-startups-to-shape-strategy-for-digital-india-bhashini-indias-ai-led-language-translation-platform/"
-    type: article
-    provider:
-      name: Odisha Diary
-      domain: orissadiary.com
-    quality: 0
 
 secured: "OmJfZT+97sF2nK6XJxZnJUSXqo1lgSUjpQeYhLosA+Z07xVjYjVvv4Kraq7Vjgk88Zj/XI2MVmKi1HRgrKgngFSHqfnHWfQVk0tyH7SFYiwioQC6Svr0yXQCAT2CDN7hTFZPjp4w6G91rc3TCB6sTqLluMgng0/yOC4BKu1O9y/0GXJI2kccBpwkGaD23/Bf5e2LT27zNoGFb/gs7kOD2EVLJEG+jzF4qvlOLmPJPHx5jtYCGxEIKU4w3yrDzGUIgVFj+mMOImyCGcZghMko/3XWq0U4w5tnLMHKip3c7USddds0AcBPR/9oRoZMdd4dIhEloZrp0mO8d2TUbhE06tU3dlxsSKhvVqvZdWHCyEoZnKhT7pHgB1kE/inDtWYvgKVZgNmco09LvGj7tN+c1iosFILTTYwVAEsrHRh6wszqcDBCVO8O8Vd+UieJHVMHHAlaOb/aZOsejhWpxn80PZD26kREROEeIePkPfhbvEmTQdIAjTEtxjfCxIXYqmad0fLy09EB1dzcAZ89fXq8RQ==;kTPF3jHJrE7umspMGdnXvA=="
 ---
