@@ -1,39 +1,19 @@
 ---
 category: news
-title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
-excerpt: "Veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
-publishedDateTime: 2022-05-23T19:55:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
+title: "Using artificial intelligence to predict life-threatening bacterial disease in dogs"
+excerpt: "Leptospirosis, a disease that dogs can get from drinking water contaminated with Leptospira bacteria, can cause kidney failure, liver disease and severe bleeding into the lungs. Early detection of the disease is crucial and may mean the difference between life and death."
+publishedDateTime: 2022-05-23T18:11:00Z
+originalUrl: "https://phys.org/news/2022-05-artificial-intelligence-life-threatening-bacterial-disease.html"
+webUrl: "https://phys.org/news/2022-05-artificial-intelligence-life-threatening-bacterial-disease.html"
 type: article
-quality: 41
-heat: -1
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
-related:
-  - title: "Jason Bellet: Using AI to Fight Heart and Lung Disease"
-    excerpt: "At Eko, we build smart stethoscopes that use AI to analyze heart and lung sounds, enabling life-threatening cardiac conditions to be detected earlier and with better accuracy. Spiffy: What motivated you to do it? Jason: We started Eko almost 10 years ..."
-    publishedDateTime: 2022-05-26T20:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/jason-bellet%3A-using-ai-to-fight-heart-and-lung-disease"
-    ampWebUrl: "https://www.nasdaq.com/articles/jason-bellet%3A-using-ai-to-fight-heart-and-lung-disease?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/jason-bellet%3A-using-ai-to-fight-heart-and-lung-disease?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-
-secured: "lqKXKtzG9bCj2ycHSGl1scuWJw+1k0zfzZloqZlsFjXe1/C9GCzbjszVYAl9p6f3hLFtMawibNBoAX072+ES3oEa5++aVmnEv5vIa5jlJ/mfZoRMEDCglaVENaztUJFmpRNtMoUWC1BkXEBTbFj8gTAxXz/UVEjrS9WG63IuiYoV3P21WksNbvjonzHAtCeGtViixt3GeqGMYggeffDZUva0HUtz6CN5T9cRnNtHEGTr0xUUn62Q8FPP4UWHBXoM2/ps9CN2ConksI/aCSwSCRTf08xYIc+SzJEZZwJBbmy29YswPQ1zN1PVddYDNngZSt+tJNwKJ/vK5guakeacFp7qPVpaQRK9iW8dYL6N/uc=;hlpIZ0ieUGzPWRMdfNvuJw=="
+secured: "rI2troBpR/slxtFrdQmGkbQqMamnxApKQ8b8A6JwLZixtSWL+7oel4m4MixYWNvULYfyRTM5WD58FMEhk/n+cydDKmS00lxgl7ZF2131n5KYok8vy5y20KpoUqBg9PH4yHalXgRvGYe50DWPxIOed40vEFwcOXsZHYFXifvmGjTzdH2+QKwlnGQvPuy+YB6mV3cIRQdTTqxRzc6Tp6MwY/zEQ9PZ+d+OgU99B1zktWejVQjTTPGvpNzNb549x0qTRNUS9Xdx0ONoq12kVKoo516sQ8LAutePx9EBFNFOdWWGmNOecdiWPr4BD1nq1NxFeCbIYg7Cu+n4brIPyVvBh6DXuQ/IGHroixQMnS8HdVmFvR8SaS6fdV9erNHS1KySKoHgPfejkXXzrSTucVZprl26RuevTi3sOVOzxxDwf+0zUb6TekwibEdv1RV6nZKDkszha3+IVvT1uW9pnQtNDPCFFtnXDMoBsWAC79hquPN9Os0JzM79bfM4auh7qbzovT/jktXr5ir7GfZt0GKL3g==;qfo67HcZd5j14h13j8TOXw=="
 ---
 
