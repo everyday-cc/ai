@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ethical AI – How is AI Redefining the Insurance Industry?"
-    excerpt: "By Antoine de Langlois, Responsible AI Data Scientist at Zelros When Cybersecurity meets Artificial Intelligence, companies and organizations have many new challenges and potential threats to consider."
-    publishedDateTime: 2022-05-23T18:21:00Z
-    webUrl: "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefining-the-insurance-industry/"
+  - title: "April sees hiring boom in apparel machine learning roles"
+    excerpt: "The number of apparel supply chain firms hiring for machine learning-related positions rose in April compared with the same month last year."
+    publishedDateTime: 2022-05-26T10:50:00Z
+    webUrl: "https://www.just-style.com/features/machine-learning-hiring-levels-in-the-apparel-industry-rose-in-april-2022/"
     type: article
     provider:
-      name: Cyber Defense Magazine
-      domain: cyberdefensemagazine.com
-    quality: 54
+      name: Companies
+      domain: just-style.com
+    quality: 39
     images:
-      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/05/Ethical-AI-How-is-AI-Redefining-the-Insurance-Industry.jpg"
-        width: 697
-        height: 526
+      - url: "https://www.just-style.com/wp-content/uploads/sites/27/2022/05/BlM6G-1038x778.png"
+        width: 1038
+        height: 778
         isCached: true
   - title: "North America is seeing a hiring boom in automotive industry AI roles"
     excerpt: "North America extended its dominance for artificial intelligence (AI) hiring among automotive industry companies in the three months ending March. The number of roles in North America made up 48.3% of total AI jobs – up from 43.8% in the same quarter ..."
@@ -52,42 +52,24 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Artificial intelligence innovation among air force industry companies has dropped off in the last year"
-    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
-    publishedDateTime: 2022-05-23T18:00:00Z
-    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-among-air-force-industry-companies-has-dropped-off-in-the-last-year/"
+  - title: "Machine learning hiring levels in the retail industry rose in April 2022"
+    excerpt: "The proportion of retail companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 32% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-05-24T18:03:00Z
+    webUrl: "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-april-2022/"
     type: article
     provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 18
-  - title: "What Happens When The AI Revolution Overruns The Transport Industry?"
-    excerpt: "There is no doubt that transport will continue to evolve as technology advances and AI becomes more important than ever before. We are currently at the beginning of a new technological revolution and it is imperative that we learn how to use AI in the ..."
-    publishedDateTime: 2022-05-24T13:48:00Z
-    webUrl: "https://www.livemint.com/brand-stories/what-happens-when-the-ai-revolution-overruns-the-transport-industry-11653399595211.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 17
-  - title: "Artificial intelligence innovation among retail banking industry companies has dropped off in the last year"
-    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
-    publishedDateTime: 2022-05-23T18:00:00Z
-    webUrl: "https://www.retailbankerinternational.com/analysis/artificial-intelligence-innovation-among-retail-banking-industry-companies-has-dropped-off-in-the-last-year-2/"
-    type: article
-    provider:
-      name: retailbankerinternational
-      domain: retailbankerinternational.com
-    quality: 14
-  - title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last year"
-    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past year"
-    publishedDateTime: 2022-05-23T18:00:00Z
-    webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-year-2/"
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 33
+  - title: "Machine learning hiring levels in the automotive industry rose in April 2022"
+    excerpt: "The proportion of automotive manufacturing and supply companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 41.5% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-05-24T18:00:00Z
+    webUrl: "https://www.just-auto.com/features/machine-learning-hiring-levels-in-the-automotive-industry-rose-in-april-2022/"
     type: article
     provider:
       name: Just Auto
       domain: just-auto.com
-    quality: 1
+    quality: 16
 
 secured: "Gld+Zi/meW2qGXZdOMUq7aG9BlqOX3TLFLtcAVw9EZTQ+UkuWgzdYOZHq3zbFnrQS069MIMa5m7quuf47/JvXCym1Tb+vVUcogIjAm/olY7BYlJ1C9AW5q1X771t9xUMWFAtXGyIS+Pdt+r1yzTCABBdYupOERnVe1dBtsU1rBgaWWvtKmL76LF7SzrxpZ7t0wvme2rW6FXuwa3ATHDj4ACxYTISitC/53uU828LS7c/IqjFvgKMPbe3vpJst5JUb1Hxq8VnBPE+kIayeNoILRJmY83F6H4/CabfuyXMPDyQkuFsqSYpWwcy0aAEnDqgemR3yiQs3xwDuV+X0vIWabqFeDb1CdGSnn0143LjqkRLt+SP7ryK1KGxsEBWykyZUbrH5NxBjQE14RzNnCGSPTxPRSeWgZeYCqaMe+pRro1wI1ZzkqpvXgVNAL9kMq4oMkb/4LTeNi9JRaaqNt4EVKsFd59f4hIAOo3LUlMPIjWflYCH7WYYgowdyG5V/KADouhyKW2BBEIK/EF1Iq63gw==;1EgzN490Jt5h7plAtNLgyQ=="
 ---

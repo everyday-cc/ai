@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -32,15 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Hackers Are Wielding Artificial Intelligence"
-    excerpt: "AI has proven itself to be a value-adding technology across the global economy. As businesses found themselves scrambling to adapt to current events over the last few years, some of them found ways to cram half a decade’s worth – in Frito-Lay’s case – of digital transformations into a much shorter time frame."
-    publishedDateTime: 2022-05-23T17:50:00Z
-    webUrl: "https://www.unite.ai/how-hackers-are-wielding-artificial-intelligence/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 17
   - title: "When self-driving cars crash, who's responsible? Courts and insurers need to know what's inside the 'black box'"
     excerpt: "The first serious accident involving a self-driving car in Australia occurred in March this year. A pedestrian suffered life-threatening injuries when hit by a Tesla Model 3 in \"autopilot\" mode."
     publishedDateTime: 2022-05-25T13:32:00Z

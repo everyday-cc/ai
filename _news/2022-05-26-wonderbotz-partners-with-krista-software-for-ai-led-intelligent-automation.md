@@ -1,21 +1,24 @@
 ---
 category: news
 title: "WonderBotz Partners with Krista Software for AI-led Intelligent Automation"
-excerpt: "The partnership empowers both organizations to deliver better, more valuable automations faster to meet the growing demand for Enterprise Intelligent Automation WonderBotz and Krista deliver AI-led solutions to meet growing demand for enterprise-scale Intelligent Automation \"We strive to bring cutting-edge automation capabilities to our customers,"
-publishedDateTime: 2022-05-26T15:30:00Z
-originalUrl: "https://wgnradio.com/business/press-releases/cision/20220526NY69309/wonderbotz-partners-with-krista-software-for-ai-led-intelligent-automation/"
-webUrl: "https://wgnradio.com/business/press-releases/cision/20220526NY69309/wonderbotz-partners-with-krista-software-for-ai-led-intelligent-automation/"
+excerpt: "The partnership empowers both organizations to deliver better, more valuable automations faster to meet the growing demand for Enterprise"
+publishedDateTime: 2022-05-26T14:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/wonderbotz-partners-with-krista-software-for-ai-led-intelligent-automation-1031491340"
+webUrl: "https://markets.businessinsider.com/news/stocks/wonderbotz-partners-with-krista-software-for-ai-led-intelligent-automation-1031491340"
 type: article
-quality: 37
-heat: 37
+quality: 65
+heat: 65
 published: false
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -24,6 +27,6 @@ images:
     height: 225
     isCached: true
 
-secured: "qePwp1rgROXB9QLfoqYBwtUjNCo3VZ8yV5SRAonr6KP618WfG6AsB2zTCPf4vT8a39UDYGlcxD/V+F2QApu5CojdTk3Sbgm3DkEHhy/5IbQu9U2H2B+BqgI8o48kTNlNGq383XYUg7vJtfQN+U55mDxj3DZlrYoasrbDPbN2lEi9KK1eAvFrvUkDjlTJ8rkKXGE1ZSt3Bqk9IhY/T/gPxr1WdbioZ+07vJ3Ir9s/zbt7vbYANKEari2dE6Pow9GtadwldoAqS0JQ3blG0rzbKbeB99EJ6HUI9pm5uWSngeh+9Co0OQBkFtciXn5P7Ysvky2O95irUoBKIbCoynxZXNG1IkWkBHrwYkauJnASPhapQ4tSM+uqSKnqrVncBve6ZVM4dk3UoMPelXkCJy0I+C4jhdk2TCXlfYC28pBONDnw+PddorTZrdsk/wp/GMESF0A2FolgFP7yIX+B5XLsIKVlj8L3Cgzj1+Jztl9LQAYJaSwLO7OQjXUrPAsIvB/l0jQCKT9qlo1ix+UkqkQBMA==;jmYM7yTuT3b0CBWwNPM26A=="
+secured: "7eSBJQYsOYbdpqC+DoRh1dQybAnqhvlJWyaiTDE+wIC49ccuOUGIy4h2ruwg6zRxSPKWGY49hWxvTw8x1y6jS+mgBugCF/u0f4ln5NwJKCa5Gc4Is8kLnhKHRDWTlIxDws6kLSD8xhIDeJjkCSKAj+6EJyxCTvTsGqtYGekmHbB5nJdew261OdU4uOu+pWHrPElmqJpk+sabXtvpaiO01b45cYNVghfdS+BlY1Fsqha/IXD9yF9210L/j4EBW375pvJRRp0s2ef0l631+u76zISx1sHSGgMRAS7xQzEUma+XibiYQOPOB+vyex9J2/82vF7QwG1OyUU3JXNpoAzHirAb9Qjt1adWFyFhBet8YQM=;+pP0LMvQvJUBbznc/qyzng=="
 ---
 

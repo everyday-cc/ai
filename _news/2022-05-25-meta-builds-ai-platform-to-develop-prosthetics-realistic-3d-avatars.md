@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104272538/Meta-Builds-AI-Platform-To-Develop-P
 webUrl: "https://menafn.com/1104272538/Meta-Builds-AI-Platform-To-Develop-Prosthetics-Realistic-3D-Avatars"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 340
     isCached: true
-
-related:
-  - title: "Meta’s ‘MyoSuite’ AI platform could help doctors develop better prosthetics"
-    excerpt: "One of Meta's ML teams has created a tool that builds realistic musculoskeletal simulations that run up to 4,000 times faster than state-of-the-art prosthetics."
-    publishedDateTime: 2022-05-23T18:38:00Z
-    webUrl: "https://www.engadget.com/meta-myosuite-annoucemed-183850677.html"
-    type: article
-    provider:
-      name: YAHOO!Finance
-      domain: engadget.com
-    quality: 65
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5d9505f0-dac6-11ec-bedc-c448c42adbc5"
-        width: 1600
-        height: 1000
-        isCached: true
 
 secured: "OgmHcfWgmNKdZGB/i44j1anrzrsBHHSLXkkacVPc6PRaV5qpeYPdKZ/78HAjeIoOKL2r+aAc9qt1LOSalISn3WEX6JElK4B9gP7GFyQjWbY/p0On51OntqAyZZhaHZ3ocZfxw3zVqeQcZkaOmTuHaw0RWb8zbRMl94fiOnIf92Md18qUsQIwi1hU08YXpdQYp4IqMFMDYK5nk/KBDDzgmsmTwVnUH+VrGtPY+ZD0EoqOoVRUMze/zGqhZZ5SwwVEpMr2vM4ITc9MnENuZZ0EUdiOhHcNaXrCtzi82Xq2lrHfF+/fABfR8dfc9Y1y8YIwkdx07njUpJP8CVO5eT+GxMwdeOphklpWtNvjWSgwpZU=;B9z2963pS0F1LF7JgGcKQw=="
 ---

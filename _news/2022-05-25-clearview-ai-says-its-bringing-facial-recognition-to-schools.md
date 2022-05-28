@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-18489755
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
 type: article
 quality: 104
-heat: 374
+heat: 344
 published: true
 
 provider:
@@ -251,20 +251,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "ICO fines Clearview AI more than $8M"
-    excerpt: "The U.K.’s Information Commissioner’s Office (ICO) has fined Clearview AI over £7.5 million (nearly U.S. $8.06 million) for collecting people’s images from internet and social media sites without their knowledge or consent to create a global online ..."
-    publishedDateTime: 2022-05-23T17:41:00Z
-    webUrl: "https://www.complianceweek.com/regulatory-enforcement/ico-fines-clearview-ai-more-than-8m/31709.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 37
-    images:
-      - url: "https://d6jxgaftxvagq.cloudfront.net/Pictures/1024x536/4/0/6/15406_clearviewai_83041.jpg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Clearview AI Launches Clearview Consent"
     excerpt: "Clearview AI, a facial recognition technology company, has launched Clearview Consent, an identity verification solution for commercial enterprises. Clearview Consent will offer Clearview AI's facial recognition technology to companies for use in consent ..."
     publishedDateTime: 2022-05-26T16:12:00Z
@@ -320,15 +306,6 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 17
-  - title: "ICO fines Clearview AI $8M over alleged data privacy lapses"
-    excerpt: "The U.K.'s Information Commissioner's Office has fined Clearview AI over £7.5 million (nearly U.S. $8.06 million) for collecting people's images from internet and social media sites without their knowledge or consent to create a global online database that could be used for facial recognition by law enforcement."
-    publishedDateTime: 2022-05-23T17:39:00Z
-    webUrl: "https://www.complianceweek.com/regulatory-enforcement/ico-fines-clearview-ai-8m-over-alleged-data-privacy-lapses/31709.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 17
   - title: "ICO fines Clearview AI $9.4M over alleged data privacy lapses"
     excerpt: "The U.K. Information Commissioner’s Office (ICO) fined Clearview AI more than 7.5 million pounds (U.S. $9.4 million) for collecting people’s images from internet and social media sites without their knowledge or consent to create a global online ..."
     publishedDateTime: 2022-05-24T12:41:00Z
@@ -356,15 +333,6 @@ related:
       name: CSOonline
       domain: csoonline.com
     quality: 10
-  - title: "Clearview CEO laments ‘misrepresentation’ of facial recognition app in response to UK fine"
-    excerpt: "Clearview AI has been fined approximately £7.5 million by the UK Information Commissioner’s Office for breach of data privacy laws."
-    publishedDateTime: 2022-05-23T18:44:00Z
-    webUrl: "https://www.biometricupdate.com/202205/clearview-ceo-laments-misrepresentation-of-facial-recognition-app-in-response-to-uk-fine"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 9
   - title: "Clearview’s Selfie Authentication Business Begins Operations"
     excerpt: "Embattled facial recognition specialist Clearview AI has already started to win business from its expansion into the commercial market."
     publishedDateTime: 2022-05-26T12:14:00Z

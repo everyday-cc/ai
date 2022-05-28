@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Facial recognition surveillance is a threat to civil liberties"
-excerpt: "Washington County Sheriff’s Office Deputy Jeff Talbot demonstrates how his agency used facial recognition software to help solve a crime at th"
+excerpt: "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ..."
 publishedDateTime: 2022-05-15T15:59:00Z
-originalUrl: "https://www.presstelegram.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
-webUrl: "https://www.presstelegram.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
-ampWebUrl: "https://www.presstelegram.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
-cdnAmpWebUrl: "https://www-presstelegram-com.cdn.ampproject.org/c/s/www.presstelegram.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
+originalUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
+webUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
+ampWebUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
 type: article
 
 provider:
-  name: Press-Telegram
-  domain: presstelegram.com
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - Natural Language Processing
@@ -19,11 +19,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://www.presstelegram.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682"
+  - url: "https://www.dailynews.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682"
     width: 1024
     height: 682
     isCached: true
 
-secured: "qaOMau9hGZKnXQJGkOI1+ToiHLpmJZPdvbwxmIccg5nIaI9pObhHezDmdR8pvq5ZF70QntEijn3yFZMxSo5tKiDKOLusJDtm4FLBgUvDe5rY9xrCDV6uhKfaB1pF3JOzwhMZnV7i1Yid6e0l9FE719Pq5kxU9XUTzGBKVkZOROKDZOxJUoLLU4eeknY6WXl+Ew4NZ/RA2rd8Pl4nSiGIXYnnOmi/AAoUneCsZLeOsHeAMitlt1kyipOMQHKGy3UB+bvTqKKenTxMFIuz8MyI0BqEhjMHifQ628C7n2blaytJVRBnuxitf+a8P2ROB+U6ILdKVQHGcvdbyvxM/onKVRfCXPfY0e+Fq31/kQuIrpnUlE5Oc5aPJ6UJ5R2Cp3dUU8qQ2bcbjr6JwbcprlSzTXSPu2rD6aZdAnsIrw3g4RxipsVVraQOQIfhvwn3wmXtAvcGYP5Mc3XvXjIoMBfSUqOKOy9CbCPM2Y2snygvih6YvhINMwnhSPZ5pDhpOAL/95wktzrXzC++z1jHvk1cnA==;uhNVA/2gKcKqdzt8RmrBjA=="
+secured: "HEc76hTaD3JkW2H+SguFqybUSzvFNsP7LORM9GtpFCt/RO3QGKH2JJVfMd/HUMnPDxE5TMgg2oXnZNyf1qCOEWC2wR3mOYnxB9bjI6eMwClH0P2Ea1zDp+FHfVxvJNhknVM4ldBlBC3qr4ywOOdN8qmtEqRyOp5LHWfFUK+dJY1M3Tl+C4A/rIHp/V7vD7MSPA/Zkhxc02L/Mta2PQgsz8fi9DGXX8TCHhrwtWG5fhhMjeZAfnrpGoekOVL0PYIHcLXJXGE98ISalYiaXOd0IOxYxIK4zsCnVxy9I3wWM+41zjB1FRCGzSN+uXDT985nFMuFWi8pe93uu2PCgY0TElp1X9UqcQvK6DWxzqJgT54=;zXUZDG2jjk9qW/DHodElyg=="
 ---
 

@@ -3,11 +3,11 @@ category: news
 title: "Artificial intelligence is breaking patent law"
 excerpt: "The patent system assumes that inventors are human. Inventions devised by machines require their own intellectual property law and an international treaty."
 publishedDateTime: 2022-05-24T00:00:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco"
-webUrl: "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco"
+originalUrl: "https://www.nature.com/articles/d41586-022-01391-x"
+webUrl: "https://www.nature.com/articles/d41586-022-01391-x"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,16 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Is Breaking Patent Law"
-    excerpt: "Within a few years, numerous inventions could involve artificial intelligence (AI), which could create one of the biggest threats patent systems have faced. Patent law is based on the assumption that inventors are human;"
-    publishedDateTime: 2022-05-24T19:57:00Z
-    webUrl: "https://cacm.acm.org/opinion/articles/261304-artificial-intelligence-is-breaking-patent-law/fulltext"
+  - title: "Experts: AI should be recognized as inventors in patent law"
+    excerpt: "In-brief Governments around the world should pass intellectual property laws that grant rights to AI systems, two academics at the University of New South Wales in Australia argued. Alexandra George,"
+    publishedDateTime: 2022-05-28T11:23:00Z
+    webUrl: "https://www.theregister.com/2022/05/28/experts_ai_patent_law/?td=keepreading-top"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/05/28/experts_ai_patent_law/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/28/experts_ai_patent_law/"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2021/02/09/lawyer.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
-secured: "PcppeIyQlyqvTpgDZ3yqE44S5AR8GwftQNukEzBmJIEHj0GWrhFDPtAVJeYGXPqiYIceQvrnkhfsT5dxb2gAgpIetZS0QwZx/bQD6avQ2f4F+RE9ddKzPVGy5WfIeDxIQlgIBelRokhyqE1dDrKrm8HTCO7JK8AEf0vVYosktfAcbO5kqHOn9Vw7UfHw/wh7kNAidGjzBcHbts/4xGXAt0KDBasy4XkM0rGUnh/3T1a6MxnEO6hz0PN8vxgbJxpJxRUMMnSurvxQU2j/RO7gOBrrXLj6KWULnmrr4X9rFTc6SjMwUaMUKvBp0LbDwqliqf7A0XisCJQpGN1oX/nhCffMkPxyc5KnGTVhTHnbV+Q=;1U8vL8tTGCuKxIuaI38ZAw=="
+secured: "HcmQkW4efB8n6PSyy0/IQxtJtJ6sdHX83k//4+hDz5V+YDusyjtmk0n8ZvTcqSno24+OOvd6o35zAisW5jHz/lfAm41wsQbQcxvbBuj1m1zp52OyJsfw/axPUZNAlVNxS4sAVrDPoBWOxr3IaqBuUS2h7oMl0JnXjmoOFLMRs5OoGYOnoTPlp+bK0M8Xaq52/C9XVlrtWuEatKlb4eBhAq2qomYALDxYfYIPImfql+3fYBaa4jcn7NTOBxWfj3WgNeJdlDCBSORckOwoUxPicJLNmIeQYoeTqo/K1MDRyQtBWT3dPTFs0NRzWhAjVoOImeSwYpXjyFjJVOxBuSjO5DEU4WXzh9Vh0O1LI0VdeCk=;jdMHHGwQ5v1F8seaXrc5ug=="
 ---
 

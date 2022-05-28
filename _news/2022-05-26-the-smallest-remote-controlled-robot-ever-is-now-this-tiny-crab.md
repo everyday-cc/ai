@@ -51,6 +51,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Remote-controlled crab-like robot is the smallest ever, university says"
+    excerpt: "Engineers at Northwestern University in Evanston, Ill., announced they have created what they believe is \"the smallest-ever remote-controlled walking robot.\"   The robot resembles a tiny crab and measures just a half-millimeter wide."
+    publishedDateTime: 2022-05-26T20:43:00Z
+    webUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
+    ampWebUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
+    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
+    type: article
+    provider:
+      name: Fox 9
+      domain: fox9.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "World’s smallest remote-controlled robots are smaller than a flea"
     excerpt: "Become a physicist At 9 for every 100 workers, robots are rife in Singapore – so we decided to visit them Watch it go: World's smallest self-folding origami bird that reminds us we were promised nanobots at some point “Because these structures are so tiny,"
     publishedDateTime: 2022-05-27T07:15:00Z
@@ -76,15 +92,6 @@ related:
       name: New Atlas
       domain: newatlas.com
     quality: 49
-  - title: "Remote-controlled crab-like robot is the smallest ever, university says"
-    excerpt: "Engineers at Northwestern University in Evanston, Ill., announced they have created what they believe is \"the smallest-ever remote-controlled walking robot.\"   The robot resembles a tiny crab and measures just a half-millimeter wide."
-    publishedDateTime: 2022-05-26T20:10:00Z
-    webUrl: "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 19
   - title: "The smallest remote-controlled walking robot ever built looks like a flea"
     excerpt: "Engineers at Northwestern University have built the smallest-ever remote-controlled walking robots. And the current design looks like a cross between a flea and a microchip. Actually, at half a millimeter wide,"
     publishedDateTime: 2022-05-25T18:07:00Z
