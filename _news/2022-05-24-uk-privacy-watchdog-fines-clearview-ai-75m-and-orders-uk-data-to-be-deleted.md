@@ -287,15 +287,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 36
-  - title: "Facial Recognition Firm Clearview AI Fined $9.4 Million by UK Regulator"
-    excerpt: "The UK Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI more than £7.5 million (around $9.4 million) for breaching the UK GDPR. The ICO has also ordered Clearview to stop scraping and using the personal data of UK residents,"
-    publishedDateTime: 2022-05-23T13:30:00Z
-    webUrl: "https://www.securityweek.com/facial-recognition-firm-clearview-ai-fined-94-million-uk-regulator"
-    type: article
-    provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 34
   - title: "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses"
     excerpt: "Clearview Consent is available today as a cloud service, with pricing more affordable than other FRT providers such as Amazon Rekognition and Microsoft Azure, while providing much higher performance and accuracy. Clearview Consent is also available for on ..."
     publishedDateTime: 2022-05-25T10:57:00Z

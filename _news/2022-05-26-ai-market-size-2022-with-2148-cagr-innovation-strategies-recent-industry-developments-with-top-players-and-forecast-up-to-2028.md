@@ -28,34 +28,85 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market: $12.92 Billion in 2028 at CAGR of 14.8%"
-    excerpt: "Global Facial Recognition Market Size Future Project Expediency –Report includes a detailed explanation about the past and present trends of the market"
-    publishedDateTime: 2022-05-24T11:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-12-92-billion-in-2028-at-cagr-of-14-8"
+  - title: "Artificial Intelligence in Healthcare Market Analysis 2022-2027, Industry Size, Share, Trends and Forecast"
+    excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence in Healthcare Market: Industry Trends, Share, Size, Growth, Opportunity"
+    publishedDateTime: 2022-05-26T10:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-analysis-2022-2027-industry-size-share-trends-and-forecast"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 39
+    quality: 38
     images:
-      - url: "https://i.ibb.co/VqCsYGs/facial.png"
-        width: 623
-        height: 310
-        isCached: true
-  - title: "Speech Recognition Market to Garner $29.28 Bn, Globally, by 2026 at 19.9% CAGR"
-    excerpt: "Allied Market Research recently published a report, “Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End Use"
-    publishedDateTime: 2022-05-27T03:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-recognition-market-to-garner-29-28-bn-globally-by-2026-at-19-9-cagr-2"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 35
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/7f4ec9939f599f648f7fa42abc737a63581e8ed8-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Chip Market Size, And Analysis, Trends, Recent Developments, And Forecast Till 2030"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 – International Telecommunication Union (ITU) The growth of the global Artificial Intelligence Chip market is ..."
+    publishedDateTime: 2022-05-26T11:37:00Z
+    webUrl: "https://menafn.com/1104277278/Artificial-Intelligence-Chip-Market-Size-And-Analysis-Trends-Recent-Developments-And-Forecast-Till-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?701463"
+        width: 374
+        height: 250
+        isCached: true
+  - title: "Global Artificial Organs Market Share 2022-2027, Bolstered by Significant Growth of Healthcare Industry"
+    excerpt: "According to the latest report by IMARC Group, titled, “Artificial Organs Market Share: Global Industry Trends, Size, Growth, Opportunity"
+    publishedDateTime: 2022-05-25T07:22:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-artificial-organs-market-share-2022-2027-bolstered-by-significant-growth-of-healthcare-industry"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY20phkpUnYiBUaDjlqWCeddEauOre9WRQ1_XC0-9cQis9pD9Xvm3Okn1mAdv6i-dkOaFrBYhSQzmbfeAfsmPoPWR31kHdWpRuHciJTB-7Wi30vlZhNc75oEktszne9de8ZjBVzD2PYIsJocFVXQ1OXMNXqkV2hc5HZmIPNm1Cj0mb0BNl0sHL9tg/s320/Artificial%20Organs%20Market.jpg"
+        width: 320
+        height: 224
+        isCached: true
+  - title: "Indoor Delivery Robot Market Size with Growth Opportunities, Top Countries Data, Future Trends and Share with Revenue Forecast 2027"
+    excerpt: "artificial intelligence, GPS technologies have made it possible for the companies to ensure fast, secure, and cost-effective delivery of products to the clients. Reduction in labor cost is expected to drive the demand for indoor delivery robots The usage ..."
+    publishedDateTime: 2022-05-24T05:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/indoor-delivery-robot-market-size-with-growth-opportunities-top-countries-data-future-trends-and-share-with-revenue-forecast-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Automotive Artificial Intelligence Software Market by Global Size, Trends and Research Analysis 2022 predicted to reach USD 53.98 billion by 2030"
+    excerpt: "Automotive Artificial Intelligence Software is a system which is used for the altertion, process and functions and others to imitate human mind and absorbs the problem solving capacity automatically. This technology is mainly used in self driving vehicles ..."
+    publishedDateTime: 2022-05-25T08:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-software-market-by-global-size-trends-and-research-analysis-2022-predicted-to-reach-usd-53-98-billion-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 2
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/1bd9115c03cae6ad319fc7018288222372e53aea-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Yogurt Market CAGR Is Catching Up The Momentum – Forecast Analysis 2022–2032"
+    excerpt: "From 2022 to 2032, the global yoghurt market is expected to rise at a CAGR of 4.8%, from USD 89.9 Mn in the year 2022 to USD 143.7 Mn in the year 2032. The global yoghurt industry is fueled primarily by the health benefits of yoghurt intake and a growing public awareness of the need for weight loss."
+    publishedDateTime: 2022-05-25T08:43:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/25/yogurt-market-cagr-is-catching-up-the-momentum-forecast-analysis-2022-2032-2/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 1
   - title: "AI Smart Baby Monitors Market 2022 : Global Rise Due to Innovation in Technology by Its Latest Trends, Smart Services and Solution Forecast by 2028"
     excerpt: "The AI Smart Baby Monitors Market size is projected to reach $2.5 billion by 2028, growing at a CAGR of 6.2% from 2022 to 2028.This press release was"
     publishedDateTime: 2022-05-25T16:06:00Z

@@ -47,6 +47,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
+  - title: "Predicting COVID-19 outcomes with artificial intelligence"
+    excerpt: "While COVID-19 vaccines have saved millions of lives, new variants, waxing immunity, unequal rollout and relaxation of mitigation strategies mean that the pandemic will keep on sending shockwaves across healthcare systems."
+    publishedDateTime: 2022-05-24T19:07:00Z
+    webUrl: "https://elifesciences.org/digests/75985/predicting-covid-19-outcomes-with-artificial-intelligence"
+    type: article
+    provider:
+      name: eLife
+      domain: elifesciences.org
+    quality: 19
 
 secured: "gbxOwN4yzlDfaD4/MrvgfUUwVg46AGuKT+7scP/39kkesxKnbGSbsoE63KCCTKKR0iLlKaZFpc5c+Cl9d5AEcnyDc8BRoxTUDi+pG09S1VTS6hcLP6Zxezum0D6RLo5x/mdK7dtYeFR2++kAO6Onowkilts8Y6benR6J/CjIVYsQZ028H1BtoL8QmQ5FDCrRjehXpKhVxEJarcggmUqo4UExlTkncKXxVKkYzALmYnOuO2TXNtdva6wa/vYa0hbwosBIijtDgB9ppE5uFmLLpgh5fEYwyAmzYOfQPLL0agaw8WXrsH2A1Rv/qhKerLKn8ttPWQsY2c7KmrCqPrqP2dE1BkAnodWUppgw0hFyeO0=;KHpIGSZvESkxUiunZiQevg=="
 ---

@@ -298,15 +298,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 36
-  - title: "Facial Recognition Firm Clearview AI Fined $9.4 Million by UK Regulator"
-    excerpt: "The UK Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI more than £7.5 million (around $9.4 million) for breaching the UK GDPR. The ICO has also ordered Clearview to stop scraping and using the personal data of UK residents,"
-    publishedDateTime: 2022-05-23T13:30:00Z
-    webUrl: "https://www.securityweek.com/facial-recognition-firm-clearview-ai-fined-94-million-uk-regulator"
-    type: article
-    provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 34
   - title: "Clearview AI Faces A £7.5m Fine In UK Over Privacy Concerns"
     excerpt: "The UK privacy regulator has imposed a £7.5 million ($9.4 million) fine on Clearview AI over collecting people's images and breaching data privacy laws."
     publishedDateTime: 2022-05-23T19:23:00Z
@@ -380,6 +371,6 @@ related:
       domain: mobileidworld.com
     quality: 4
 
-secured: "NQVULevlQlvTWJuCUHeBL+z//oQoB4xb5sDNAGdfFqIGRflVZ2o11mMrV7Tgls5X70Hb5cNtaYt/rBOlRBGF5vhY6hJiWIxEZKmwRqzhqwOpS1o42OL3o4uWXqsyiiTI8r2nhw6Mklnp+rd50q1RiJAcxpRG9P/RJ1mu/n5KHZJTvPLrnaghvJT4sxYn7imH8ar+ILRj1ki+5jaHOiWAKQuZZkkLhIQbkXj8L91qao+qic7rhHivzQC57Jc+wZz27ZbZtXg96htOSk8n+hW3KYhpDEvIMla9qy94rxmxNDVcktZ9+hWWZxnnPjy459QQvjeTprPj0ZbN943rEclVM8Tg7HeUWMjv92q9LCBYJPsTxp8BGMlQIRBPtUoUu7Irax3uCBab7FPMQq1y5o0a/wIWe61UwFkC6T2K2EZGoc1bt/Axiza2SuMo4wnUKjIfxQBpm8W3MGWq2gY4T57mai1T2kKlZiLyIV/INcwL7TjfPoV9d32j6BUsnp/5XFSVLSIUUzdrjeWMnPcOhF8I6w==;KFbMom6hOljIk3tq8h2Fvg=="
+secured: "JGp8aqK8D8DOUh2ojeOK/NtEBBZG5oxor2/iO+8ePxpfS9DyAlGJYHGyVnomVjGFNkIHeXGBWV/+fnUxCpi2vydrnVwo3Jfi+x/xhXt6pqVRDVB5BBLqIOsvbWf/gFVLx4nOru+p1bzyKl8jk2egbaENu/hOMyv7SLbkeMqwmz2pDyPRh9FmOiHJW3IF3cKl3mjY56SjUpcWtrLgOLDO9RiY7u5fO9RHIIjMMfcJVGreUWvsOsICik4x/NezgkT9JGo18vpab3RklKLOSFeeMZXz9whj5Kca/6iob3XZAHfrnTsRbSaw+dFpOkRiscclPrvOXT0TsUakACoxvFYEUS79Ry6yKImPKDoi72K3zVw=;leCxAkAOHlqb4UyRwOUbOw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-
 webUrl: "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Digital Journal
@@ -26,39 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Surgical Robotics Market Size to Hit US$ 21.3 Billion by 2030"
-    excerpt: "The global surgical robotics market size was valued at US$ 5.36 bn in 2021. This device enables a surgeon to perform complex surgical procedures with higher precision. They are"
-    publishedDateTime: 2022-05-23T14:37:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27348969"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27348969"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-  - title: "Global Service Robotics Market to Reach $110.4 Billion by 2026"
-    excerpt: "While advanced technology is enabling robots to perform diverse tasks, latest concepts like biometric recognition, 5G and artificial intelligence are facilitating virtualization of service robots. Professional service robots are increasingly being ..."
-    publishedDateTime: 2022-05-23T17:52:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27344073/global-service-robotics-market-to-reach-110-4-billion-by-2026"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-  - title: "Industrial Robotics Market to Garner US$ 16,847.6 million , Globally, by 2025 at 14.2% CAGR: The Insight Partners"
-    excerpt: "According to our latest market study on “Industrial Robotics Market Forecast to 2025 – Global Analysis – by Types, Function, and Industry,” the industrial"
-    publishedDateTime: 2022-05-27T15:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-to-garner-us-16847-6-million-globally-by-2025-at-14-2-cagr-the-insight-partners"
+  - title: "Facial Recognition Market: $12.92 Billion in 2028 at CAGR of 14.8%"
+    excerpt: "Global Facial Recognition Market Size Future Project Expediency –Report includes a detailed explanation about the past and present trends of the market"
+    publishedDateTime: 2022-05-24T11:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-12-92-billion-in-2028-at-cagr-of-14-8"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 33
+    quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/7f4ec9939f599f648f7fa42abc737a63581e8ed8-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://i.ibb.co/VqCsYGs/facial.png"
+        width: 623
+        height: 310
         isCached: true
   - title: "Healthcare Natural Language Processing Market valuation reaching US$ 14.6 Billion by the end of 2032"
     excerpt: "The healthcare natural language processing market is expected to rise at a CAGR of 16.7%, with the market valuation reaching US$ 14.6 Bn by the end of 2032. One of the key drivers and investors in the natural language processing business is large corporations."

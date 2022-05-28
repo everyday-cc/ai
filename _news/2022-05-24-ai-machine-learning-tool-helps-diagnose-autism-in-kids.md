@@ -47,6 +47,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Predicting COVID-19 outcomes with artificial intelligence"
+    excerpt: "While COVID-19 vaccines have saved millions of lives, new variants, waxing immunity, unequal rollout and relaxation of mitigation strategies mean that the pandemic will keep on sending shockwaves across healthcare systems."
+    publishedDateTime: 2022-05-24T19:07:00Z
+    webUrl: "https://elifesciences.org/digests/75985/predicting-covid-19-outcomes-with-artificial-intelligence"
+    type: article
+    provider:
+      name: eLife
+      domain: elifesciences.org
+    quality: 19
 
 secured: "D0/1q6JfuKoF7Zw9xDDAfvf/f/diFkW0qWajqDlr9mDi2nTnhHHCCyl2zvbDK2Cmfm2rHTMOOB4NATD30t3h8CArwtrO9L4pslPmivXRLsT0VkSa4ftOLfP3Bc8Ev3R174w27MFpeCiuVHDQqVty/20O8RuYkeX8UwHDS1DUMbPOM4Ut+Yb0npbVwCmY+ZZTsSDAxtsME81YaLrLh9UqwH1DhdkwLvUeaVdt1dipGqeZx76pbsiBSaZ1tuj8AlkBzP6lD7bZUzF6GqECnHl7qcn3tQr0WRIve4XfnjWMWWT76e4s7dem0yNhkCkwIJa1Dg7EI7eoiLAcV/7TArUj2gd7/RqqnKQygCiDk3J/zKQ=;Zeahudl5ZYQF9E5ZON1GVQ=="
 ---

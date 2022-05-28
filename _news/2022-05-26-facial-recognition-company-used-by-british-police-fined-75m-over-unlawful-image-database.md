@@ -34,15 +34,6 @@ related:
       name: UPI.com
       domain: upi.com
     quality: 19
-  - title: "UK Information Rights Regulator Fines US Face Recognition Developer"
-    excerpt: "A U.K. office in charge of protecting information rights has fined a facial recognition company from the United States for exploiting photos of individuals in the U.K. and elsewhere to construct witho"
-    publishedDateTime: 2022-05-27T19:34:00Z
-    webUrl: "https://www.occrp.org/ru/daily/16388-uk-information-rights-regulator-fines-us-face-recognition-developer"
-    type: article
-    provider:
-      name: OCCRP
-      domain: occrp.org
-    quality: 19
 
 secured: "TmzxIzT4PXH4aN/esPO04C3b3AQFF9toxpqznkUX3L8MqdMOEjQVhIKWFmzRot6NjcTDUZspe5Y8NZQYshvYAaJenti9ytcZxE7MIOb8aRnjenINu2VARcbj0OI5S/bPaU41UbwNtAHrmTc05/7o9vpKjMvyy8KCQ7twMBb7fATBMbe4e1Ai7eW/e6IVyXL5R2lGviSYZDksq2v/Ghf59nSaLS/whbxQcrQmxEjp55SyC498Ix/tYVddHkB76L9Y+G0bKyk+mZi6U54NkfG6cPaA8VgPf3YcsLtp2pBRbCYdaaXzsf0ngIiMntmKM7g+gIfSYeVkLNvIUXV2HDAwi1PiTUHLkePzUghb+1OYQIMDZasdBsgTDHY+NtEFBx3KZ0Lc24hxEHGmcXOvkfwtB+Po0mt9Uw8vRZBwYP0R0LzFgQx8KiKLRP5OXqmUxAYtDXGbaabqAUKPwzGI/Bn2Em5XeuNaihb7Kr2Nahi2OGVbpfl/IyD4ZIpk5G/0smnT3ZuTSRtVFB3dAY3PRzUh7w==;wR6rL3k98V6hVNIEBESVEw=="
 ---

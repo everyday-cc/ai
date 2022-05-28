@@ -39,14 +39,14 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Fintech in Healthcare: Improving Healthcare Affordability Across the Globe"
-    excerpt: "Rising service prices, patient number growth, and population aging have always been driving up the cost of healthcare around the globe."
-    publishedDateTime: 2022-05-23T13:06:00Z
-    webUrl: "https://innotechtoday.com/fintech-in-healthcare-improving-healthcare-affordability-across-the-globe/"
+  - title: "Smarter health: How AI is transforming health care"
+    excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
+    publishedDateTime: 2022-05-27T14:00:00Z
+    webUrl: "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
     type: article
     provider:
-      name: Innovation & Tech Today
-      domain: innotechtoday.com
+      name: WWNO
+      domain: wwno.org
     quality: 19
   - title: "Can Transparent AI Analysis Boost IVF Outcomes?"
     excerpt: "Fairtility just raised $15 million in series A funding to support its transparent AI analysis technology for better in vitro fertilization (IVF) outcomes."

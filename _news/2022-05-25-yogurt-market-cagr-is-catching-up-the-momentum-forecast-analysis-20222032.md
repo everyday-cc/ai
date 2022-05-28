@@ -33,6 +33,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI Market Size 2022 with 21.48% CAGR : Innovation Strategies & Recent Industry Developments With Top Players and Forecast Up to 2028"
+    excerpt: "Global “AI Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI market is"
+    publishedDateTime: 2022-05-26T04:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-market-size-2022-with-2148-cagr-innovation-strategies-recent-industry-developments-with-top-players-and-forecast-up-to-2028-2022-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chip Market Size, And Analysis, Trends, Recent Developments, And Forecast Till 2030"
     excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 – International Telecommunication Union (ITU) The growth of the global Artificial Intelligence Chip market is ..."
     publishedDateTime: 2022-05-26T11:37:00Z
@@ -46,20 +60,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?701463"
         width: 374
         height: 250
-        isCached: true
-  - title: "Artificial Neural Network (ANN) Market Growth Prospects and Share Analysis, Trends, Top Leaders and Regional Analysis Forecast to 2022-2031"
-    excerpt: "Japan, Japan, Sun, 22 May 2022 22:58:36 / Comserve Inc. / -- The Artificial Neural Network (ANN) market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024 ..."
-    publishedDateTime: 2022-05-23T14:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Global Artificial Organs Market Share 2022-2027, Bolstered by Significant Growth of Healthcare Industry"
     excerpt: "According to the latest report by IMARC Group, titled, “Artificial Organs Market Share: Global Industry Trends, Size, Growth, Opportunity"
@@ -75,15 +75,6 @@ related:
         width: 320
         height: 224
         isCached: true
-  - title: "Image Recognition Market foresee Business Opportunities, Current Trends and Industry scrutiny by 2026"
-    excerpt: "The study on the global market for Image Recognition evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
-    publishedDateTime: 2022-05-23T13:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-foresee-business-opportunities-current-trends-and-industry-scrutiny-by-2026-2022-05-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
   - title: "Indoor Delivery Robot Market Size with Growth Opportunities, Top Countries Data, Future Trends and Share with Revenue Forecast 2027"
     excerpt: "artificial intelligence, GPS technologies have made it possible for the companies to ensure fast, secure, and cost-effective delivery of products to the clients. Reduction in labor cost is expected to drive the demand for indoor delivery robots The usage ..."
     publishedDateTime: 2022-05-24T05:30:00Z
@@ -109,6 +100,20 @@ related:
     quality: 2
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/1bd9115c03cae6ad319fc7018288222372e53aea-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI Smart Baby Monitors Market 2022 : Global Rise Due to Innovation in Technology by Its Latest Trends, Smart Services and Solution Forecast by 2028"
+    excerpt: "The AI Smart Baby Monitors Market size is projected to reach $2.5 billion by 2028, growing at a CAGR of 6.2% from 2022 to 2028.This press release was"
+    publishedDateTime: 2022-05-25T16:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-smart-baby-monitors-market-2022-global-rise-due-to-innovation-in-technology-by-its-latest-trends-smart-services-and-solution-forecast-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/649120756dfde451d2abe8599eaaaace1a100069-600x337.jpg"
         width: 600
         height: 337
         isCached: true

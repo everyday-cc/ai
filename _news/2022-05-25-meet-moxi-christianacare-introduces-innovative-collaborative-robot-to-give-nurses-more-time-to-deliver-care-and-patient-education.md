@@ -42,15 +42,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "National Institute of Technology signs MoU with Dr. Moopen's Medical College to undertake collaborative research in healthcare"
-    excerpt: "The National Institute of Technology - Calicut NIT-C inked a Memorandum of Understanding MoU with Dr Moopen Medical College DMMC Wayanad on May 16 20"
-    publishedDateTime: 2022-05-23T13:48:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272561693/national-institute-of-technology-signs-mou-with-dr-moopen-medical-college-to-undertake-collaborative-research-in-healthcare"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
 
 secured: "5juL7UAEr9EZiqqeaolgFg3OlhR0lnMiqjESFSpa63GNZ8AsJ/GQgiOX+JCXxwAApVtQNnqs1b1DbfLO8353Q5REW7lFvfu9RyKCSBlmQCr4eS88dTJ3QGknfB9kdIEXQiF+ugOLQllLKNy9ccS+727HTsG1EsS1CJEM+ygn2/+qyt74xRSLXJNf0fMgIViM64+d0tht5koKwcjPMIKpCH5YldtLi7DjObCG3PUx5LCdpsezIdDMRWh/DBNw3lkqXPMvlvZFmW/vHJfjt6Z+6XtulryIxOIsx2ewzpuFidCtIZaAvAEkXqVXmVy6MgG6Ri8SVz7sXK8Z5QhZjxYKRqCDNSxTTLkqtkWEIo8xDY4=;A+AL6TkxlnmwsXPg2OHJqA=="
 ---

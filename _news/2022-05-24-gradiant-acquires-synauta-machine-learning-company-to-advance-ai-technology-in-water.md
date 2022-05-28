@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Gradiant Acquires Synauta, Machine Learning Company, to Advance AI Technology in Water"
+    excerpt: "Gradiant, a global solutions provider and developer for cleantech water, today announced it has acquired Canadian artificial intelligence (AI) water technology company Synauta, to accelerate the use of digital twin technology in water."
+    publishedDateTime: 2022-05-28T06:26:00Z
+    webUrl: "https://ians.in/prwiredetail/gradiant-acquires-synauta-machine-learning-company-to-advance-ai-technology-in-water/B-79022.html"
+    type: article
+    provider:
+      name: IANS
+      domain: ians.in
+    quality: 26
   - title: "Guardforce AI Announces Definitive Agreements to Acquire Eight Companies in China"
     excerpt: "Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, announced today it has entered into two definitive agreements to acquire a total of eight companies in China."
     publishedDateTime: 2022-05-24T11:30:00Z
