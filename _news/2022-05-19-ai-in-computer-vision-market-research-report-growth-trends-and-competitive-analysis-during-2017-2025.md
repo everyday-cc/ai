@@ -18,6 +18,7 @@ topics:
   - AI
   - Computer Vision
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://transparencymarketgeeks.files.wordpress.com/2022/05/ai-in-computer-vision-market.jpg?w=410"

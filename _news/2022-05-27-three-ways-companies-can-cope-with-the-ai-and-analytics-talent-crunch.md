@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-27T03:25:00Z
 originalUrl: "https://www.datanami.com/2022/05/26/three-ways-companies-can-cope-with-the-ai-and-analytics-talent-crunch/"
 webUrl: "https://www.datanami.com/2022/05/26/three-ways-companies-can-cope-with-the-ai-and-analytics-talent-crunch/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/Great-Resignation_shutterstock_Aleutie-scaled.jpg"

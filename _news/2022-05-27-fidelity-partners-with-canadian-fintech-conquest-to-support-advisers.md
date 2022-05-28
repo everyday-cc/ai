@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/92779/fidelity-partners-with
 webUrl: "https://www.finextra.com/pressarticle/92779/fidelity-partners-with-canadian-fintech-conquest-to-support-advisers"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,52 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "27/05 – Weekly Fintech Recap"
-    excerpt: "Partnerships Laiye Partners with Accenture to Power Intelligent Automation and Innovation at Scale Laiye, a leading Intelligent Automation (IA) provider, announced a partnership with Accenture, a global professional services company with leading capabilities in digital,"
-    publishedDateTime: 2022-05-27T11:14:00Z
-    webUrl: "https://financialit.net/news/digital-banking/2705-weekly-fintech-recap"
+  - title: "Serendip, in partnership with BNP Paribas, parades 2022 fintech incubator class"
+    excerpt: "After a series of high-quality applications, SuperTech has invited seven startups to join in the challenge of developing tomorrow’s market leading solutions for the financial industry."
+    publishedDateTime: 2022-05-25T10:54:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92753/serendip-in-partnership-with-bnp-paribas-parades-2022-fintech-incubator-class"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
+      name: Finextra
+      domain: finextra.com
+    quality: 20
     images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_13.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
-  - title: "Fintech firm Three Wheels United raises $10 million"
-    excerpt: "Three Wheels will use the investment to scale its business in India and launch pilots in other emerging markets"
-    publishedDateTime: 2022-05-25T13:20:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-firm-three-wheels-united-raises-10-million/articleshow/91792626.cms"
+  - title: "Tenet Fintech Group Inc.: Tenet Attends Key Canadian Trade Shows to Raise Awareness for its Upcoming Canadian Business Hub"
+    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative AI service provider and operator of the Business Hub"
+    publishedDateTime: 2022-05-24T12:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56136788-tenet-fintech-group-inc-tenet-attends-key-canadian-trade-shows-to-raise-awareness-for-its-upcoming-canadian-business-hub-296.htm"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 19
-  - title: "CAT Financial Products Launch Active Fintech Value Investment Solution with Fintech Influencer"
-    excerpt: "In a partnership with CAT Financial Products AG (CATFP), he gives investors the chance to invest diversified and in a simple way in the global Fintech companies that not only have huge growth potential in the future,"
-    publishedDateTime: 2022-05-27T05:54:00Z
-    webUrl: "https://fintechnews.ch/roboadvisor_onlinewealth/cat-financial-products-launch-active-fintech-value-investment-solution-with-fintech-influencer/53040/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 12
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/05/Spiros-Margaris-and-CAT-Financial-Products-Launch-First-Active-Fintech-Value-Investment-Solution.jpg?x30842"
-        width: 2048
-        height: 1136
-        isCached: true
-  - title: "EvoNexus Expands Silicon Valley FinTech Incubator Effort"
-    excerpt: "EvoNexus, the startup incubator effort which originally had focused on attracting startups to San Diego and Orange County, is expanding its efforts in Silicon Valley, saying that it is looking for new,"
-    publishedDateTime: 2022-05-25T13:15:00Z
-    webUrl: "https://www.socaltech.com/evonexus_expands_silicon_valley_fintech_incubator_effort/s-0082535.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 4
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "lJkA+7J+ZXXj+WIplk09nMhdJY0e71e6ftAoKAgGqvK/suEf+4Zds16xe3XmwRilR9CFor4qHridxq3o6vgK65NLDH+CDVCvaT1Q6cwnC2JgJgxEOFcrrIjNv6qGEuQVEVPBAjiOpnSs1rTsGkIS+28wXVzaZVnT+Vh2rB/bOO5iu/9nGrogbhbphNfR6gmeG7lwebuXe0Rn+oBmQZWejd4fSINFc3Z5c9FYlVwBoEtv9gQNeCeQKE+re14HQRBT1rutMJ0QgEnjwVM2xfOYy5/J2U/+yuDJth/RiFaDvA4ESpj05BhBWEu+5E5bxjdtm/ZKjIey+KiEfHvF2dICb+Mk/K+sSNqyNwmeg/xaLTU=;y5qkPgY5rG6vMWhm8y22EQ=="
 ---

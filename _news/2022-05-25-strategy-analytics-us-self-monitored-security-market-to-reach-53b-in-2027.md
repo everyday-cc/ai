@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Three Ways Companies Can Cope with the AI and Analytics Talent Crunch"
+    excerpt: "With inflation in the United States at a 40-year high and unemployment near a 50-year low, these are tough times to attract and retain employees in just"
+    publishedDateTime: 2022-05-27T03:25:00Z
+    webUrl: "https://www.datanami.com/2022/05/26/three-ways-companies-can-cope-with-the-ai-and-analytics-talent-crunch/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/Great-Resignation_shutterstock_Aleutie-scaled.jpg"
+        width: 2560
+        height: 1710
+        isCached: true
   - title: "CNA brings data into the cloud, uses AI for predictive analytics"
     excerpt: "He joined CNA in fall 2021 after 13 years as CEO of Catalina’s U.S. and Bermuda units. At CNA, Haase’s greatest concern is better managing the wealth of data the company has from its long history in the insurance business,"
     publishedDateTime: 2022-05-25T10:30:00Z
@@ -55,20 +69,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/cf7e928/2147483647/strip/true/crop/690x362+241+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F0b%2Ffa%2Fa8c1b222409b9ec6667302c1ac27%2Fcna-hq-bldg.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Three Ways Companies Can Cope with the AI and Analytics Talent Crunch"
-    excerpt: "With inflation in the United States at a 40-year high and unemployment near a 50-year low, these are tough times to attract and retain employees in just"
-    publishedDateTime: 2022-05-27T03:25:00Z
-    webUrl: "https://www.datanami.com/2022/05/26/three-ways-companies-can-cope-with-the-ai-and-analytics-talent-crunch/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/Great-Resignation_shutterstock_Aleutie-scaled.jpg"
-        width: 2560
-        height: 1710
         isCached: true
   - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
     excerpt: "Deep Knowledge Analytics (DKA), the flagship subsidiary of Deep Knowledge Group (DKG), today announced the launch of the beta version of a data analytics platform that aims to attract $1 billion in AI and DeepTech investments to Ukraine over a foreseeable period of time."

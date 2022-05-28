@@ -5,8 +5,10 @@ excerpt: "Google Brain has revealed its own image-making AI, called Imagen. But 
 publishedDateTime: 2022-05-25T11:56:00Z
 originalUrl: "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/"
 webUrl: "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/"
+ampWebUrl: "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/"
 type: article
-quality: 19
+quality: 61
 heat: -1
 published: false
 
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?w=3000"
+    width: 3000
+    height: 1688
+    isCached: true
 
 related:
   - title: "Google's Text-to-Image AI Can Make Any Wacky Image You Can Imagine"
@@ -112,6 +121,6 @@ related:
         height: 580
         isCached: true
 
-secured: "nu1xv3JJiuQo6DjdX9fiBow/zM1ygZtF5b9KFEHfXJl1ut4ztjAgtE0samMDbzoosJBc0Im17pmwwvvIUVveN5XqKkvyJXOXBNlT3jwp1nKgB+38Y5c97mD1FgZDEApyHWWMU6BqvhcivPf11YQSAg36R3Py8Qqmp2JhN0kAP37KAD8Fw90azBdj7EN5BInXszDCbJQnMADmhU4ikFXYeBRcCTUJXxLk0pw1nB6sJ9GvWPmkGxjUsoOXC4CIXNB8M0eQ4ZaDJy3NSv7zLNMYtyCOBl0U4HxkYvLV0dXo33x8vYV1MqKQdWXrPlRHflUPpMhYYx8mLuU8BNCBwTLOUjdO+jkZ+1KCyhq59lRvXEe5tCzGXpsRwskZKaFnT752sm78xeMPxXdgREBwdDcSz3UdD0XQKwONDDCbunD9UulNfTSC8zmvFXBh8VKwiBUQfMTnIQbDwnkXI7PcGVdKRhgrerlkmA0eU8bSr45YPl5nVpy5v5nydcmq4mVDW/EuQQv3PXHFxGF+eNXtwq79SQ==;fFBb3xrXvyzr3JTEhx4vfQ=="
+secured: "jD3r+IlufoAOsNJaC12aUjaO7y6eFMRIt1uhLAiqUhNWqBaZQhFlo4t56jWah3kMLrxHC8Nneo5Nchby2aeg99l5C4WlJVQiDTmJS48Wsymb8vX1KKuzG9VtGi2RjbFuuw8nUTVnzpaNWiuOuw1Y+xiqkekM9Mbspc5gyDpYAZc2BSaWk8+LGfIpJhdlmNMtw+CNPpSxnL1MTbvddNt2qVIbJP6ySQP9eMhAN1N87BeUG4vIvsIJRdsUWwDuukI6tQLrSImi7uL+FC7hCDKbcJIgENdUrPr1mN2s/c7mYK/IyfpqMHcPjg10PnR+ydH8FDVLk7caRIN5Kv8mi3DpG3oK9NVBVw2KcRUvOxqdc64=;eczHHlnw64xMPP+whaeRrA=="
 ---
 

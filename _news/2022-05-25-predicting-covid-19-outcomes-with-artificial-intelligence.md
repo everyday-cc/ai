@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI helps diagnose post-COVID lung problems"
-    excerpt: "A new AI diagnostic tool developed by KAUST scientists allows doctors to visualize lung damage caused by COVID-19 in more detail. view more . Credit: © 2022 KAUST; Ivan Gr"
-    publishedDateTime: 2022-05-23T15:08:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/953279"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/18824313-6282-4c55-9d67-7655b176b24b/Rendition/low-res/Content/Public"
-        width: 700
-        height: 340
-        isCached: true
   - title: "New AI Tool May Help Diagnose Post-Covid Lung Problems"
     excerpt: "A novel Artificial Intelligence (AI)-aided diagnostic tool could help overcome some of the challenges of monitoring lung he"
     publishedDateTime: 2022-05-24T11:39:00Z

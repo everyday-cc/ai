@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top 10 most innovative companies within AI"
+    excerpt: "Technology Magazine takes a look at innovative, pioneering artificial intelligence companies across the globe. First up, we look at those in Europe"
+    publishedDateTime: 2022-05-28T08:00:00Z
+    webUrl: "https://technologymagazine.com/ai-and-machine-learning/top-10-most-innovative-companies-within-ai"
+    type: article
+    provider:
+      name: technologymagazine
+      domain: technologymagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/bff86804db19bd805277801b23cfc80f:262fb62b88f9207d0f32cbbc1573cb6e/gettyimages-1329183101.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
   - title: "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers"
     excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE’s award-winning investment platform who are clients of Interactive Brokers,"
     publishedDateTime: 2022-05-24T12:36:00Z

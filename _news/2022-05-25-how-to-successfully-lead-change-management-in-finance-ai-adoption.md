@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-suc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Keys To AI Success"
-    excerpt: "AI is everywhere. Companies use it in myriad ways, and we all encounter it in some form every day. But are businesses wringing as much value out of AI as they could be? Some are. The most recent PwC AI Business Survey found that companies that stand out as ..."
-    publishedDateTime: 2022-05-23T16:21:00Z
-    webUrl: "https://www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/"
-    ampWebUrl: "https://www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/pwc-cloud-and-digital-transformation/2022/05/23/3-keys-to-ai-success/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//6287d954542764571a5ca2d7/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 400
-        isCached: true
   - title: "How To Make It Easier To Implement AI In Your Business"
     excerpt: "AI continuously proves to be an asset for businesses and has been revolutionizing the way they operate. It goes a long way in helping to cut operational costs, automate and simplify business processes,"
     publishedDateTime: 2022-05-27T13:15:00Z
@@ -57,7 +41,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve//628e43a297056cd9dc21d426/0x0.jpg?format=jpg&width=1200"
         width: 1200

@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The dark secret behind those cute AI-generated animal images"
+    excerpt: "Google Brain has revealed its own image-making AI, called Imagen. But don't expect to see anything that isn't wholesome."
+    publishedDateTime: 2022-05-25T11:56:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Google Imagen Is The Latest AI That Can Create Images From Text"
     excerpt: "Google unveiled an outstanding text-to-image generator AI. Google imagen is the newest to do so after DALLE-2 open AI."
     publishedDateTime: 2022-05-25T11:27:00Z
@@ -102,15 +118,6 @@ related:
         width: 1024
         height: 580
         isCached: true
-  - title: "The dark secret behind those cute AI-generated animal images"
-    excerpt: "Google Brain has revealed its own image-making AI, called Imagen. But don't expect to see anything that isn't wholesome."
-    publishedDateTime: 2022-05-25T11:56:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "i4toH/E3tqzGy2CKNu1BuwDmYpvxT3JwwHHzTsrULnzT7AD2Wt/HLHv3pykIyWPJ3u+lmr1pnFcb4X19ZFDkclCCOunHB/mm1vL8Sd/gax3MFIWFqJePEJ7IpUcSoTvimdQ6aUio8wOmRo/L187J6udDCOHG5FICB4gtoUL1VjweR2gXFuEQ4VwU2RGe9Ps2tnPk+DNgBzdC9REVWw/y3o9FYPNpY5ueXc4k+sMYirTsWV8u3ftEyiCLrSgG61KbEpIFjA3ULLUK/JNfTvVU6W+oZxWChag3GoLnKy3252zePmwk2gNHlYkwoYRDY6jLcR0LXJG2IK74AKkeQH0YaZKOp8wIReyam2O3DdXz8KEPO/E3Sp8G1m5/NT9shsZCbn3w69gleHcV3t9dh4tbdy+nfWqVYuUpr08XShpzz9bYTDnHpc9yhvY0M1cdy5LHzTYGlwP1zZfWEKq77z7slFawf7M1eQCoWsttT0AbJYOHAruF1L3ZCDAtidviu89wBkgbmInn96dlNTY2HoZovQ==;Ps/FT6Ejr4liYEW1/rPevQ=="
 ---

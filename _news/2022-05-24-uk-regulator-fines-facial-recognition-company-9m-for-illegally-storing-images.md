@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fi
 cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: Washington Examiner
@@ -27,48 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Playing by the Rules: Fintechs Use AI for Marketing Compliance"
-    excerpt: "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,"
-    publishedDateTime: 2022-05-23T16:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
+  - title: "Facial recognition company used by British police fined £7.5m over unlawful image database"
+    excerpt: "A facial recognition company used by British police forces has been fined more than £7.5m for creating an unlawful database of 20 billion images. The Information Commissioner’s Office said Clearview AI had scraped people’s private photos from social ..."
+    publishedDateTime: 2022-05-26T11:00:00Z
+    webUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition-company-fined-police-b2085085.html?fr=operanews"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 56
+      name: The Independent
+      domain: independent.co.uk
+    quality: 29
     images:
-      - url: "https://lh6.googleusercontent.com/XTM3knFbB18Ultf9kkId2-XySe7I71UoEt4VYlNfNr0eSFw_AF0IM6-T-ozQMxrAgBwQUijX_5Q-2JP20wYnU5IxgHWaS9__oPqESXw4wnWgtjOKz0fFImRtMckLFqiGUW0YMiWkY5BRmiucuQ"
-        width: 1600
-        height: 900
+      - url: "https://static.independent.co.uk/2022/05/09/18/Clearview_Facial_Recognition_64258.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "PEXA buys into AI fintech Elula"
-    excerpt: "PEXA Group – Property Exchange Australia – has taken a 25 percent stack in AI-as-a-service company Elula. Founded by two former Commonwealth Bank executives, Josh Shipman (once CBA’s head of automation and robotics operations) and Sarah Russell (a general manager at the bank),"
-    publishedDateTime: 2022-05-26T22:40:00Z
-    webUrl: "https://www.itnews.com.au/news/pexa-buys-into-ai-fintech-elula-580570"
+  - title: "British regulator fines U.S. facial recognition company $9.4M"
+    excerpt: "A British regulator has fined a U.S. facial recognition company over collecting images of people in Britain in violation of its data protection laws."
+    publishedDateTime: 2022-05-24T18:31:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2022/05/24/British-regulator-fines-US-facial-recognition-company-94M/1441653409831/"
     type: article
     provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/mortgage_approved_home_loan.jpg"
-        width: 1254
-        height: 836
-        isCached: true
-  - title: "Defining “artificial intelligence” for regulation"
-    excerpt: "It's commonly stated that there is no agreed definition of 'artificial intelligence'. This causes problems in making policies and regulations about it."
-    publishedDateTime: 2022-05-24T00:15:00Z
-    webUrl: "https://www.themandarin.com.au/190364-defining-artificial-intelligence-for-regulation/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 37
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2022/05/artifical-intelligence-AI.jpg"
-        width: 796
-        height: 530
-        isCached: true
+      name: UPI.com
+      domain: upi.com
+    quality: 19
 
 secured: "J3yEu/sWkve1+6Ln92dv9C3TohSxoWfFkLqZLqSSXuank8LrQ2dTJAiBxNhOQppIOOrlsarFeFg7REuFS1UFwKOY7I8HeyS5GwEfvHPZr8viTwLC3kCO73qoJoO/l2qKDIjbdDbIb2l/9sB4FilDm7i1VjC9ZbBBNPStfEfFaTtrntQG+csM9yG5Y2zzPhTWGxG1o/QVY+pA6F6y+ax7Bq3zn5E8lhZ+DbAqUNxWrvvNCuLGshhDL99HQ2ubWUbdN7J1FJ6E5giKvR6UCn3cKlf4viXT04P0yZEd9GnHdq0XVm3RQyLU7CO0o8pCTUCa1UxbXWa/zoIxnhjvOYXlxqqHDaqV7q4W5AiD7LBMCKNJt8eAH2jqJNlEasrvkUk3vlRmaJbuveI75xTQz2iZjr6qYnbxqmryHMV5JHGNbt6ojTOammsNQ8fOs1WOcfv5pU/ghlyl77p454EdkNc54HqdkKRDYmawbxIIvXriF4/0LpudYrZe13ukWKNOCQfdCTqVBcJiJa9TZBWc9wrl5Q==;lGSSXX/+5bLgbdDZjT0xbw=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 excerpt: "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,"
-publishedDateTime: 2022-05-16T13:07:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-entertainment-canada-montreal-7b63295acf8b47eeafa4529c626627ea"
+publishedDateTime: 2022-05-16T13:03:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
+webUrl: "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "SAsdUp8Wlin4bJqbbBTyGDromjpZTsNgbf9js1gL33d8XZtYOC1nzHx5bf4Ytkj/TPuR2MIEyRr0HFfBMCqWAtF80IeR2J1SDfDM2ScAzQANbuTrersQ42+m/Xj8XNNw0V2xyq+3a+LfwiVQc6TFCi6EgC1uQPBFsnOPAABZaZBUOUI9UKmpJJ82e8pXGSis92+Qq0HCl0BmnwHiN5sW/s7fjr86ogD00b+W2diNZhBtz442qTX8lb+b5L+slvteJ0m/SVI7QGVDHUpP1+rYMHqsxETC3qJg07Uv3be48SngXn5Rk82XU84nDMVa78Dz4rMkmndvFgyeanewbCPfF3REZLfCSm00qIVCG5bhC7I=;pLVz9ZUzxNBe083El/CloQ=="
+secured: "i+ExKMaIWnEQQ1C1d+qV3sREC3/5lPZA19j3qrOV2jQ01bKUCkpP+CLK+TdodgN42fjBupkIGOQVna0+cBxfC+wd3xHYDeLKuamieaC3BmFA/Fzcv76ARb/Wa69+DK2s+q+EYVPVYUqMwlW7k5E+uFRrM30mExbVbxQDH3pXj/bkUL1FXHEdmwnX6lIvrJ11GJu01jmfItR61n0yjdT/PZ49jWLDvkqgvB72BLCS+NGBLLJHFYHJGhhN0VCpK8aUi8fGHEFikCburU7yHFp2UnpRKuhCQPOE48/zocMLud8j71i27PErCZOPr8Xl0eCRocRwI7meVVaV2K8NWd8Hz2ngy2G0pdrmG7y+A2BjjTc=;NeGM6y5GoL1vDGvSvEeDdw=="
 ---
 

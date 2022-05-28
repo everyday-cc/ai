@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/426406"
 webUrl: "https://www.entrepreneur.com/article/426406"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://image.khaleejtimes.com?uuid=ef3c06e2-34f8-56e8-8f82-798a2e72e612&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Top 10 most innovative companies within AI"
+    excerpt: "Technology Magazine takes a look at innovative, pioneering artificial intelligence companies across the globe. First up, we look at those in Europe"
+    publishedDateTime: 2022-05-28T08:00:00Z
+    webUrl: "https://technologymagazine.com/ai-and-machine-learning/top-10-most-innovative-companies-within-ai"
+    type: article
+    provider:
+      name: technologymagazine
+      domain: technologymagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/bff86804db19bd805277801b23cfc80f:262fb62b88f9207d0f32cbbc1573cb6e/gettyimages-1329183101.jpg.jpg"
+        width: 1799
+        height: 1010
         isCached: true
   - title: "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers"
     excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE’s award-winning investment platform who are clients of Interactive Brokers,"

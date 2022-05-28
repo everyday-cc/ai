@@ -5,6 +5,8 @@ excerpt: "DeepMind presented a new “generalist” AI model called Gato. The mo
 publishedDateTime: 2022-05-23T12:18:00Z
 originalUrl: "https://www.technologyreview.com/2022/05/23/1052627/deepmind-gato-ai-model-hype/"
 webUrl: "https://www.technologyreview.com/2022/05/23/1052627/deepmind-gato-ai-model-hype/"
+ampWebUrl: "https://www.technologyreview.com/2022/05/23/1052627/deepmind-gato-ai-model-hype/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/23/1052627/deepmind-gato-ai-model-hype/amp/"
 type: article
 quality: 31
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - Google AI
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/AGI-chatter.jpeg?w=3000"
+    width: 3000
+    height: 1688
+    isCached: true
 
 related:
   - title: "Google’s DeepMind says it is close to achieving ‘human-level’ artificial intelligence"
@@ -34,6 +43,6 @@ related:
         height: 486
         isCached: true
 
-secured: "FOeX2d4pY60o9V8qL4htKhvKBC4Awa8wq8SgNZKy10FNl6FJfEWWc5E79IM4Okdr6gWFdLAlhY5c6KAZNT8I766nKiCoSi9teouLbE6Ny1y9tCgHRoMH03pcr2KiN4tAwjLBeDUKF1XTw/AKVMPftz+IK19ZRGtBrDqlVvCwR/QimMgyjwHNvqNHGesztHbEZB8XgsT6KaCvWxFIFNw38p9J/7NJPvCefkNRvKcIVZRW7h/NQolInq4bS7WvdBKu1OnbaO94qMXhfJ8Ac1OnIQ24SBIHkVMa9WLvrCdvBWmppuEe3UMXTY/jHfcc8MquTlQpXfRpCQoUplnFVPfAC4uG/fjk5VNaSGAdWhh66+bC7DbIStq9xm0OJNEXUtvYqsev4aXV5tgQ8+q8F+FcQlCILhz69QuG3dcFQW6ubB5Q6/Jbs0RO6F8342FHuEjB60ydJyKdSrCLZsI1+C0TS9wu7L2/Z3rWmpuolII2vJNIX7hGfSpip0kGkh3REha1TeIY44FT4nRyIx36X91UDQ==;sUsicm3aQUxguWkHlgPMqg=="
+secured: "T+h1w5pVyhwY8c/EGbbPkYvz43GshymD64FDijjFSoUzKskPDqhhHZOQafp9vAzGk4SrVmwxv6/alBZpV2/tuJZFUj2puBYUzCQdWcO6Gqt7fezr7S0kz7fMBioX0/6pSldPd33io3xeNouK0WwGVSqsbswxuI4xU6cCMof5JmAd8Z4HU6Og88SH0yEsb9OdR/ad4efUqP/ZM3igJ1EFNfgKVNee/K0qXemlMC+brGFd81Nhj5ksjMWZUJPwwKDZQwK+91ADftDHXIWQcB5k8eQKYErnjPFBbpv6RV5nAGv2Tug3rJxX/7h1KFpxeAx1YoW9vRi3eDv1f96Jhi69lZwqb36Lkx1xdk1aMopcOmU=;gNPW9tlqqBf+wQGS0t0eMA=="
 ---
 

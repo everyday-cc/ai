@@ -599,17 +599,17 @@
     {
       "path": "_news/2022-05-17-6-business-risks-of-shortchanging-ai-ethics-and-governance.md",
       "title": "6 business risks of shortchanging AI ethics and governance",
-      "excerpt": "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ...",
+      "excerpt": "Factors inherent to artificial intelligence and its implementation can have dire ramifications for your company if ethics and governance aren’t baked into your AI strategy.",
       "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
-      "originalUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
+      "webUrl": "https://www.cio.com/article/350290/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
+      "originalUrl": "https://www.cio.com/article/350290/6-business-risks-of-shortchanging-ai-ethics-and-governance.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig.jpg?quality=50&strip=all&w=1024",
+          "url": "https://www.cio.com/wp-content/uploads/2022/05/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-orig-2.jpg?quality=50&strip=all&w=1024",
           "width": 1024,
           "height": 682,
           "title": null,
@@ -619,8 +619,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp",
+      "ampWebUrl": "https://www.cio.com/article/350290/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/350290/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp",
       "publishedDateTime": "2022-05-17T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -636,8 +636,7 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "Facebook AI"
+        "AI"
       ]
     },
     {

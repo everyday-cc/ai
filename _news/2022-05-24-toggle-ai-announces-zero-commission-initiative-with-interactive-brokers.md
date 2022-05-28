@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top 10 most innovative companies within AI"
+    excerpt: "Technology Magazine takes a look at innovative, pioneering artificial intelligence companies across the globe. First up, we look at those in Europe"
+    publishedDateTime: 2022-05-28T08:00:00Z
+    webUrl: "https://technologymagazine.com/ai-and-machine-learning/top-10-most-innovative-companies-within-ai"
+    type: article
+    provider:
+      name: technologymagazine
+      domain: technologymagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/bff86804db19bd805277801b23cfc80f:262fb62b88f9207d0f32cbbc1573cb6e/gettyimages-1329183101.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
   - title: "IBM and MBZUAI join forces to advance AI research with new center of excellence"
     excerpt: "Natural Language Processing (NLP) including Arabic, AI applications in the healthcare industry, and sustainability ABU DHABI, United Arab Emirates, May 25, 2022 /PRNewswire/ -- Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)—the world's first graduate,"
     publishedDateTime: 2022-05-25T21:30:00Z

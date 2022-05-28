@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition
 webUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition-company-fined-police-b2085085.html?fr=operanews"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK regulator fines facial recognition company $9M for illegally storing images"
+    excerpt: "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials."
+    publishedDateTime: 2022-05-23T21:22:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images"
+    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg"
+        width: 530
+        height: 300
+        isCached: true
   - title: "British regulator fines U.S. facial recognition company $9.4M"
     excerpt: "A British regulator has fined a U.S. facial recognition company over collecting images of people in Britain in violation of its data protection laws."
     publishedDateTime: 2022-05-24T18:31:00Z

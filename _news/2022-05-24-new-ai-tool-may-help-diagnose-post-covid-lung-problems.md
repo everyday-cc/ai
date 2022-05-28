@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104264809/New-AI-Tool-May-Help-Diagnose-Post-C
 webUrl: "https://menafn.com/1104264809/New-AI-Tool-May-Help-Diagnose-Post-Covid-Lung-Problems"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI helps diagnose post-COVID lung problems"
-    excerpt: "A new AI diagnostic tool developed by KAUST scientists allows doctors to visualize lung damage caused by COVID-19 in more detail. view more . Credit: © 2022 KAUST; Ivan Gr"
-    publishedDateTime: 2022-05-23T15:08:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/953279"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/18824313-6282-4c55-9d67-7655b176b24b/Rendition/low-res/Content/Public"
-        width: 700
-        height: 340
-        isCached: true
   - title: "AI, machine learning tool helps diagnose autism in kids"
     excerpt: "An artificial intelligence-based medical device shows promise in diagnosing cases of autism spectrum disorder in kids 18 months to 3 years old, researchers from six U.S. states say. The software-as-a-medical-device tool uses a machine-learning algorithm that employs data from parent and provider questionnaires and home videos."
     publishedDateTime: 2022-05-23T22:25:00Z

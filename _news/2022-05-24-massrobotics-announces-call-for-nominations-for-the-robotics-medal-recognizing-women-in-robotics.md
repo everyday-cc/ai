@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "New MassRobotics award to honor female robotics researchers"
-    excerpt: "MassRobotics' The Robotics Medal recognizes the wide-ranging impact of female researchers around the development of robotics."
-    publishedDateTime: 2022-05-23T16:58:00Z
-    webUrl: "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/05/massrobotics-the-robotics-medal.jpg"
-        width: 635
-        height: 520
-        isCached: true
-  - title: "Remy Robotics exits stealth mode with launch of third autonomous robotic kitchen"
-    excerpt: "Pioneer in robot-enabled delivery-only restaurants expands its reach and opens to new partners to boost food operators' scalability BARCELONA,"
-    publishedDateTime: 2022-05-24T07:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen-1031483797"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://mma.prnewswire.com/media/1823888/Remy_Robotics.jpg"
-        width: 400
-        height: 229
-        isCached: true
   - title: "Zoho invests in Indian startup Genrobotics that makes robotic scavengers"
     excerpt: "Chennai-headquartered Zoho said that the investment will assist Genrobotics to eradicate manual scavenging in India and provide safety, dignity to workers in the sanitation and oil and gas industries"
     publishedDateTime: 2022-05-25T07:30:00Z
@@ -79,61 +51,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Walmart expands orders for warehouse robotics from Symbotic"
-    excerpt: "Retailer increases adoption of fulfillment technology from 25 warehouses to all 42 regional DCs in its U.S. network."
-    publishedDateTime: 2022-05-23T16:51:00Z
-    webUrl: "https://www.dcvelocity.com/articles/54664-walmart-expands-orders-for-warehouse-robotics-from-symbotic"
+  - title: "Sridhar Vembu joins Anand Mahindra to back manual scavenging robotics startup"
+    excerpt: "SaaS giant Zoho Corp recently invested INR 20 crores (USD 2.5 million) in AI-powered robotics startup Genrobotics."
+    publishedDateTime: 2022-05-25T07:50:00Z
+    webUrl: "https://analyticsindiamag.com/sridhar-vembu-joins-anand-mahindra-to-back-manual-scavenging-robotics-startup/"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 54
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 51
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/2022/05/23/Symbotic-Bots-4.png?height=635&t=1653324728&width=1200"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Massrobotics Launches $50,000 Robotics Competition"
-    excerpt: "MassRobotics launches $50,000 robotics competition . May 24, 2022 by David Edwards Leave a Comment . MassRobotics , a robotics innovation orga"
-    publishedDateTime: 2022-05-24T09:39:00Z
-    webUrl: "https://menafn.com/1104263784/Massrobotics-Launches-50000-Robotics-Competition"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/24/R&AN_33a63image_story.png"
-        width: 800
-        height: 369
-        isCached: true
-  - title: "New Robotics Medal recognizes wide-ranging impact of female researchers"
-    excerpt: "Given by MassRobotics, this first major prize of its kind is hoped to inspire and encourage women in robotics."
-    publishedDateTime: 2022-05-23T22:38:00Z
-    webUrl: "https://www.scmr.com/article/new_robotics_medal_recognizes_wide_ranging_impact_of_female_researchers"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 54
-    images:
-      - url: "https://www.scmr.com/images/2021_article/robotics-award-news-May-23-2022-web.jpg"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "Robotics Medal recognizes wide-ranging impact of female researchers"
-    excerpt: "Given by MassRobotics, this first major prize of its kind is hoped to inspire and encourage women in robotics."
-    publishedDateTime: 2022-05-23T22:27:00Z
-    webUrl: "https://www.scmr.com/article/robotics_medal_recognizes_wide_ranging_impact_of_female_researchers"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 54
-    images:
-      - url: "https://www.scmr.com/images/2021_article/robotics-award-news-May-23-2022-web.jpg"
-        width: 500
-        height: 313
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Untitled-design-2022-05-25T111454.654.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "Zoho Corp. invests in Genrobotics, a deep-tech startup using robotics to end manual scavenging"
     excerpt: "Zoho Corp announced today that it has invested ₹20 crores in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions. Zoho’s investment will assist Genrobotics in its mission to eradicate manual scavenging in India and provide safety and dignity to workers in the sanitation and oil and"
@@ -177,15 +107,20 @@ related:
         width: 640
         height: 250
         isCached: true
-  - title: "How Robosport Is Using Robots to Make Athletes Less Robotic"
-    excerpt: "In recent years, we have witnessed increased discussions on developing robots to be more human and whether robots can surpass human intelligence."
-    publishedDateTime: 2022-05-24T14:21:00Z
-    webUrl: "https://www.ibtimes.com/how-robosport-using-robots-make-athletes-less-robotic-3519135"
+  - title: "Zoho Corp joins Kerala startup Genrobotics' mission to end manual scavenging with Rs 20cr investment"
+    excerpt: "Genrobotics aims to deploy over one lakh Bandicoot robots across the country, and expand their product portfolio to the healthcare sector."
+    publishedDateTime: 2022-05-25T10:44:00Z
+    webUrl: "https://www.onmanorama.com/news/business/2022/05/25/zoho-corp-invests-in-genrobotics.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 19
+      name: onmanorama
+      domain: onmanorama.com
+    quality: 39
+    images:
+      - url: "https://img.onmanorama.com/content/dam/mm/en/news/business/images/2022/5/25/bandicoot-robot-1248.jpg"
+        width: 1248
+        height: 650
+        isCached: true
   - title: "Zoho invests in startup Genrobotics"
     excerpt: "Bengaluru: Tech company Zoho Corporation said on Wednesday that it has invested Rs 20 crore in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions."
     publishedDateTime: 2022-05-25T19:29:00Z

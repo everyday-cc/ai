@@ -7,7 +7,7 @@ originalUrl: "https://www.itnews.com.au/news/pexa-buys-into-ai-fintech-elula-580
 webUrl: "https://www.itnews.com.au/news/pexa-buys-into-ai-fintech-elula-580570"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,50 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Playing by the Rules: Fintechs Use AI for Marketing Compliance"
-    excerpt: "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,"
-    publishedDateTime: 2022-05-23T16:34:00Z
-    webUrl: "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance"
+  - title: "27/05 – Weekly Fintech Recap"
+    excerpt: "Partnerships Laiye Partners with Accenture to Power Intelligent Automation and Innovation at Scale Laiye, a leading Intelligent Automation (IA) provider, announced a partnership with Accenture, a global professional services company with leading capabilities in digital,"
+    publishedDateTime: 2022-05-27T11:14:00Z
+    webUrl: "https://financialit.net/news/digital-banking/2705-weekly-fintech-recap"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 56
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
     images:
-      - url: "https://lh6.googleusercontent.com/XTM3knFbB18Ultf9kkId2-XySe7I71UoEt4VYlNfNr0eSFw_AF0IM6-T-ozQMxrAgBwQUijX_5Q-2JP20wYnU5IxgHWaS9__oPqESXw4wnWgtjOKz0fFImRtMckLFqiGUW0YMiWkY5BRmiucuQ"
-        width: 1600
-        height: 900
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_13.jpeg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "UK regulator fines facial recognition company $9M for illegally storing images"
-    excerpt: "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials."
-    publishedDateTime: 2022-05-23T21:22:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images"
-    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true"
+  - title: "Fintech firm Three Wheels United raises $10 million"
+    excerpt: "Three Wheels will use the investment to scale its business in India and launch pilots in other emerging markets"
+    publishedDateTime: 2022-05-25T13:20:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-firm-three-wheels-united-raises-10-million/articleshow/91792626.cms"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 55
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg"
-        width: 530
-        height: 300
-        isCached: true
-  - title: "Defining “artificial intelligence” for regulation"
-    excerpt: "It's commonly stated that there is no agreed definition of 'artificial intelligence'. This causes problems in making policies and regulations about it."
-    publishedDateTime: 2022-05-24T00:15:00Z
-    webUrl: "https://www.themandarin.com.au/190364-defining-artificial-intelligence-for-regulation/"
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 37
-    images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2022/05/artifical-intelligence-AI.jpg"
-        width: 796
-        height: 530
-        isCached: true
+      name: India Times
+      domain: indiatimes.com
+    quality: 19
 
 secured: "fRbdjK7L7eBK9WCHqA9kvwuGp3t1fvCJWDWhpzGZz263vOrZzpAhkBuawHKHYm+nv+iyn9gNWODiE4mcypGgqGqQJKukLV2Rkg3E6HBaWAI1nEt9fymg6+C70X4KSixrgLHYNQxh20P1c8GhHh/CNs4xxh/ScuW7W9S2wyNd5eBmgOu0YBmswnlVeBMxJeeWiWVq6mr2fGFTFD6wWEQGIMr5z/919lqAKy2SzlfhvyVAAz0+IVtgNmzJ9yEy3JyYsjMMM4IaqfEYf9GoYWwiC4CpA+sCdRpPhamQbe8T78WnpObfItPSSX0JbZ1BmDwCe6kHSpD19MvzZy0+mtIgeYyRcoDxGahSTQlIHkv1api5ppV1e8fWUzGr0U8olWDc3S5xUYCSdxNWJvs5e6pWSMspEOLeKOQNB0NabRHZNKratGxaQ4mlzgBq4AYV4paP2ngHWxMqPJ7qe5g1E99NQbEYTZpzg9OpfpYyw/mIBU8cHSDry2u4F6JQ6t4Int9zfBGXQ+jqBeXabAPtzsPIEg==;PM03hQg8wItYJ0ih66/QWA=="
 ---
