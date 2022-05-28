@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-
 webUrl: "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 21
+  - title: "AI in Supply Chain Market to Extend to USD 20 Billion & Growing at a CAGR of 20.5% by 2028 | BlueWeave Consulting"
+    excerpt: "New Delhi, May 27, 2022 (GLOBE NEWSWIRE) -- The growth of global AI in the supply chain market is aided by the rising attention of artificial intelligence, large statistics & analytics, and the widening implementation of computer vision in each autonomous ..."
+    publishedDateTime: 2022-05-27T15:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27443027/ai-in-supply-chain-market-to-extend-to-usd-20-billion-growing-at-a-cagr-of-20-5-by-2028-blueweave-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "YeOTnsIfiMYslO1RzRqst7vksyERxZ/CQ0gOo1ZqPlTCkLV1cBfSD5ZkbaUQcUJ9XUdusmVloewMQ5UN6V0CYo/jpK4sLee3TonoZwnn1PsWl90JiogKQyd2BrsVD78wtjQdXIv5/xNz3Y0WSpbL2EUZmlod+U/RCtB5hFVvFZfM9cl5h1z1/tIbspoD51vQLuT7HR4ZXGwwZ/YZJd6YMO0BTgN8nYVezNJjpNIKryD4wCuJRFDObM4JaedWsswQRXDGhib07LmchlTqGHG2PzKC7DJt+htb6VpCPSwYotN5ylCAo/jV8Eq0GJ+8OfweLzxLOrg6nM2HTtWy6ASlqyxYGdSKz4pGgnL4rB1xVvY=;B3vjnQxINTHNN/YCyq510g=="
 ---

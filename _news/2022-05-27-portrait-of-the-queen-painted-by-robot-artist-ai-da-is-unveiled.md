@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 679
         isCached: true
+  - title: "AI robot paints Queen’s portrait"
+    excerpt: "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm."
+    publishedDateTime: 2022-05-28T15:21:00Z
+    webUrl: "https://www.khaama.com/ai-robot-paints-queens-portrait/"
+    type: article
+    provider:
+      name: Khaama Press
+      domain: khaama.com
+    quality: 54
+    images:
+      - url: "https://www.khaama.com/wp-content/uploads/2022/05/Algorithm-Queen-Robot-artist-Ai-Da-creates-an-portrait-of-Elizabeth.jpg"
+        width: 634
+        height: 476
+        isCached: true
 
 secured: "52QwlOqlVfqe04XtGwi/0My0OGDq6ZiUY5/jJ8MCADojBvF3lbf42gw5gHEYlRqMifNKTsUWtS0desLPQUJWzQsU9oRFiUq6LzIiBMDyXEaZl+5heULY2zn0GmxAVFcDqdPNtGb5g415tqKg7VqGIalTP5GdbcO0MNkbJSt6CE9P7/noD6KtzRSrEMRxJNcXLwbd9uR6jgr7nyFmzDapUN6KwxXhUlszgPQMwMl6gwT9JqHm5Vxt8aPVU91RFa+kTaIrJxBPrR1b6ARomXM1UJXMeTA/uz4hky3HhiGSYITIxsEJBA0T7dHtXunWIuhE5+NIHlT5WsgQspAxda3GrmnIrlqio9KZpJNOPimg8gk=;++lnmXpGZZ3WT71evwJPbA=="
 ---

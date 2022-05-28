@@ -129,8 +129,8 @@ related:
         isCached: true
   - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
     excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-    publishedDateTime: 2022-05-26T22:50:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
+    publishedDateTime: 2022-05-26T22:46:00Z
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-top"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     type: article
@@ -542,20 +542,6 @@ related:
       name: 9to5Mac
       domain: 9to5mac.com
     quality: 36
-  - title: "Microsoft believes that its new tools make language models more secure to work with"
-    excerpt: "Tools and data sets aimed to audit AI-powered content filtering systems and automatically build test cases indicating possible vulnerabilities have been released by Microsoft ahead of Build 2022. OpenAI’s GPT-3 is an example of a large language model (LLM) that can evaluate and create text with human-level complexity,"
-    publishedDateTime: 2022-05-23T20:08:00Z
-    webUrl: "https://bestgamingpro.com/microsoft-believes-that-its-new-tools-make-language-models-more-secure-to-work-with/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 35
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/05/This-Microsoft-Teams-update-could-solve-all-your-problems-but-youll-never-get-to-use-it-1.png"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Microsoft Build, Thick Versus Thin, AI Platforms"
     excerpt: "Microsoft’s Build keynote was impressive in its clarity; it also emphasized that the thin client model one, mostly."
     publishedDateTime: 2022-05-25T13:40:00Z

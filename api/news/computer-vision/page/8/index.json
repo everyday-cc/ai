@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-23-vision-elements-joins-nvidia-metropolis-partner-program-to-provide-state-of-the-art-development-services-for-vision-ai-applications.md",
+      "title": "Vision Elements Joins NVIDIA Metropolis Partner Program, to Provide State-of-the-Art Development Services for Vision AI Applications",
+      "excerpt": "Vision Elements, a leading service provider offering customized research and algorithm development services for computer vision and artificial intelligence (AI), today announced it has joined the NVIDIA Metropolis Partner Program,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/02/22/9549910.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/02/22/9549910.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.md",
       "title": "Facial recognition company Clearview AI seeks first big deals, discloses research chief",
       "excerpt": "Clearview AI, whose search engine for faces has become an unrivaled police tool, this year is aiming to win its first big U.S. government contracts and expand its team by a third even as the startup fights challenges in the courts and Congress, its chief ...",
@@ -1328,40 +1362,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
-      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
-      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company has developed a computer vision product that can accurately ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indianagazette.com/news/state/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_288b0ea4-9856-5d3f-a2df-c126e9490dee.html",
-      "originalUrl": "https://www.indianagazette.com/news/state/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services/article_288b0ea4-9856-5d3f-a2df-c126e9490dee.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiana Gazette",
-        "domain": "indianagazette.com",
         "images": null,
         "publishers": null,
         "authors": null

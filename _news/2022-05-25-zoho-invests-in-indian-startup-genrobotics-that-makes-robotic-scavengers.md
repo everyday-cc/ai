@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-and-tech/zoho-
 cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers"
 type: article
 quality: 73
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -113,15 +113,6 @@ related:
         width: 1248
         height: 650
         isCached: true
-  - title: "MassRobotics Announces Call for Nominations for The Robotics Medal Recognizing Women in Robotics"
-    excerpt: "MassRobotics, a leading robotics innovation organization, announced a call for nominations for The Robotics Medal, a new annual award presented to a female researcher for substantial achievements and contributions in the field of robotics."
-    publishedDateTime: 2022-05-23T19:08:00Z
-    webUrl: "https://www.automation.com/en-us/articles/may-2022/massrobotics-call-nominations-robotics-medal-women"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 21
   - title: "Zoho invests in startup Genrobotics"
     excerpt: "Bengaluru: Tech company Zoho Corporation said on Wednesday that it has invested Rs 20 crore in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions."
     publishedDateTime: 2022-05-25T19:29:00Z

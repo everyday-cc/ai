@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.richmondandtwickenhamtimes.co.uk/resources/images/13823030/"
         width: 2008
         height: 1339
+        isCached: true
+  - title: "AI robot paints Queen’s portrait"
+    excerpt: "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm."
+    publishedDateTime: 2022-05-28T15:21:00Z
+    webUrl: "https://www.khaama.com/ai-robot-paints-queens-portrait/"
+    type: article
+    provider:
+      name: Khaama Press
+      domain: khaama.com
+    quality: 54
+    images:
+      - url: "https://www.khaama.com/wp-content/uploads/2022/05/Algorithm-Queen-Robot-artist-Ai-Da-creates-an-portrait-of-Elizabeth.jpg"
+        width: 634
+        height: 476
         isCached: true
 
 secured: "Uw/GjiL3N9TlThHBA+b2DN3OapfhmcMxZOL8NSy6P8H/S+L76xF4fV76cBNtPkpFlSiIwIQPdmryxO1/8t20bsNH0CWCRDxLTHdDmkrVKb/0Lr4Wl/mTWdoJPXX0FIlCWXE+ZH7R8W0MGMYredNGpsIKhKJTX/TYmIpz4b7d4WhvCx/cJkD0psL0yXVAe4/2FEHpM+VcKEs6ZkQuMFVfwmKXN8AUPBYdqi54iOBHUUJP7bGFFqWUnWqldqxc4Mbnb0azEGAtT+8nDp6E32v9ZQJAqoSfziBltq2g2toNRtcayJjkBZgjgbQZvjRiQZr1Zd1WjmvUe0PbuTUNiCLDd/Ano1ROcgH5wvuNg/4XTPRKkFJsCcZ6SR4i+6RwIHnc/3GlTjsIapTbz0YpxHdN0kRNPKJAryOx13tebpaE3begGKEK4FQrCMn2wIxpHge0s2hw/zBoF6n+jcsVNbFjwwD4ihsb/830TBlugM4Ck972OJJCMEr0KFWbdG5Uj9/aY5ERPA5YRie3ijdwUVyJCA==;3RPwO6uCiDEfLlIveso6lw=="

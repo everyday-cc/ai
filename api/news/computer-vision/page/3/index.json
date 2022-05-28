@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-28-amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams.md",
+      "title": "Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams",
+      "excerpt": "Today, AWS announced the general availability of Amazon Rekognition Streaming Video Events, a fully managed service for camera manufacturers and service providers that uses machine learning (ML) to detect objects such as people, pets, and packages in live video streams from connected cameras. Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Tangelo-2x-2-tile-image-with-bounding-boxes.png",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T13:41:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-snap-is-fueling-our-selfie-obsessions-with-a-flying-camera.md",
       "title": "Snap Is Fueling Our Selfie Obsessions With a Flying Camera",
       "excerpt": "Snap is mostly known for its sticky social network consisting of fleeting messages and legitimately impressive augmented reality filters. But every so often Snap, which calls itself a “camera company,",
@@ -1322,41 +1375,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station.md",
-      "title": "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station",
-      "excerpt": "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial recognition security software, FaceMe® Security. FaceMe Security now integrates with AXIS Communications’ AXIS Camera Station VMS (video management software),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-software-cddd904b0d6b46ecb76b17445e7e171a",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-software-cddd904b0d6b46ecb76b17445e7e171a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

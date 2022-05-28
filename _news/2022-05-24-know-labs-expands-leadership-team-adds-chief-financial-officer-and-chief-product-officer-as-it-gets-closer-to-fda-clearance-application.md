@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-24T13:02:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-james-anderson-intellectual-property-5af4c1bb3b9149ae9ccb6b2ba4b08bcd"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-james-anderson-intellectual-property-5af4c1bb3b9149ae9ccb6b2ba4b08bcd"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-27T15:08:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/g27443027/ai-in-supply-chain-market-to-extend-to-usd-20-billion-growing-at-a-cagr-of-20-5-by-2028-blueweave-"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/g27443027/ai-in-supply-chain-market-to-extend-to-usd-20-billion-growing-at-a-cagr-of-20-5-by-2028-blueweave-"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -13,6 +16,45 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "At 30.0% CAGR, Deep Learning Chip Market is Emerging with US$ 21.31 Billion by 2027"
+    excerpt: "The Global Deep Learning Chip Market 2021 Research Report is a professional and in-depth study on the current state of Deep Learning Chip Market. With the"
+    publishedDateTime: 2022-05-24T08:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 50
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Facial Recognition Market: $12.92 Billion in 2028 at CAGR of 14.8%"
+    excerpt: "Global Facial Recognition Market Size Future Project Expediency –Report includes a detailed explanation about the past and present trends of the market"
+    publishedDateTime: 2022-05-24T11:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-12-92-billion-in-2028-at-cagr-of-14-8"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://i.ibb.co/VqCsYGs/facial.png"
+        width: 623
+        height: 310
+        isCached: true
+  - title: "Healthcare Natural Language Processing Market valuation reaching US$ 14.6 Billion by the end of 2032"
+    excerpt: "The healthcare natural language processing market is expected to rise at a CAGR of 16.7%, with the market valuation reaching US$ 14.6 Bn by the end of 2032. One of the key drivers and investors in the natural language processing business is large corporations."
+    publishedDateTime: 2022-05-25T09:47:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/25/healthcare-natural-language-processing-market-valuation-reaching-us-14-6-billion-by-the-end-of-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 21
 
 secured: "/9Vg2Mr+WM1MxFFU0uKgIIyFdV2dgFY4YvYFsuNzfgD8HenZq8hIEQVx+hxmQCokLejLBV0szWOYAWNDmcq10O6oFHvcF60jr+9QHqHujkGvEUEnyrhn2d+RzEDmN2+ZM6KSQZNOx0FtZ3mYoCOUHDbZ/zT85Ss5mmhZ7tSLt1gDSBPPMKwM8yinBeLDIY+XvZRwImQ9n4btB5QkkfEK5c1SqNPmNASHJKfGc166+1j7rap46Dee0wxDgSmqwxMhD3QYJO5wQ+W9W8rizQY+2uGwUfFNx4lfemR6c5Niy9wfBe78Y03Aqg/s9C9AK1Q0tQJMZJLtwIC6QnfV8MZ6b11EmZhxCzFL4aSwvKdMt0UI2Cj+5cCe01ACTucuwgIwvu23Mdg78fU+1ghYSr7uu2e1VfyZm65U+9FRNqjeCE9+Xtktok6m5h8HQWKXqHlEuVfkr4cW5p9aL4wDGLN966vZQCAMayWqYD3Luw1NxwthFg1jxKDJlUgGts9Hbzr/yK8pZoQmRh8daEQCu239yw==;MPD5MRMveaewe8rMuEcBrw=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "More Than 2 Billion Shipments of Devices with Machine Learning will Bring On-Device Learning and Inference Directly to Consumers by 2027"
-excerpt: "Artificial Intelligence (AI) is all around us, but the processes of inference and learning that form the backbone of AI typically take place in big"
-publishedDateTime: 2022-05-26T09:55:00Z
-originalUrl: "https://www.telecomtv.com/content/ai-analytics-automation/more-than-2-billion-shipments-of-devices-with-machine-learning-will-bring-on-device-learning-and-inference-directly-to-consumers-by-2027-44555/"
-webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/more-than-2-billion-shipments-of-devices-with-machine-learning-will-bring-on-device-learning-and-inference-directly-to-consumers-by-2027-44555/"
-ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/more-than-2-billion-shipments-of-devices-with-machine-learning-will-bring-on-device-learning-and-inference-directly-to-consumers-by-2027-44555/amp/"
-cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/more-than-2-billion-shipments-of-devices-with-machine-learning-will-bring-on-device-learning-and-inference-directly-to-consumers-by-2027-44555/amp/"
+excerpt: "Federated, distributed, and few-shot learning can make consumers direct participants in Artificial Intelligence processes NEW YORK, May 25, 2022 /PRNewswire/ -- Artificial Intelligence (AI) is all around us,"
+publishedDateTime: 2022-05-26T03:30:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=669826"
+webUrl: "https://us.acrofan.com/detail.php?number=669826"
 type: article
-quality: 26
-heat: 26
+quality: 6
+heat: -1
 published: false
 
 provider:
-  name: TelecomTV
-  domain: telecomtv.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
-    width: 1200
-    height: 675
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
     isCached: true
 
 related:
@@ -42,6 +40,6 @@ related:
         height: 338
         isCached: true
 
-secured: "Cv3C2D8wHQRWpFXwVPbZ163VQ75MtZLd6n6CY4XKi/r3WoHqtajb9nJhQF4nvpsBbZMoEnZ+l4oPkQjhmnTRzW+/u0jomK+JDFgYegHCv7L51iIs6X68CrbtsBDkWkQIdMg8EisHY+A+rSYfMCWkdgqKmAjEAVFCkvASbyAijS37i0audMFjnAhqJc3YdqerdcfsU1HfYOtxYGAKI9XND4qOX9FCQAriTIe8rGJJGyIaHVKB67hPF98zwH44V4KjdSKH59KmJSw3bk32/vEtWPMjADlCJYFt94Q3TiSvNZxyMkg51GO4b5zFieUQI7IOrtRjb8k8vnpqsYsyvsEqDRYmG9o6oUtDL4QPNddnedg=;1Qz653UwlYeFesOkF0uGZQ=="
+secured: "oJnzMax39bhC/broSBgyFIadi9JQXQbz5OGGgkHwobeCTqFgw/ySDiu4l5FYc1jYVdYs3RYP5NM1WvwfdlEY6UhEa541PvALh9uMHq5iz1jkqKspg3poFnmvZ/qO4wVpGwC2X76EEZaPJgeLTYC5EdWsIO2tRm5XxPUXj1JVYx3Ndbftcj7+IXP1u6oKYC6IXKpg4T8fj0W3X0op2zWeBxtgyrfQEZLDkEKiEfNFtECDQ9YAVPb0djxcnJ05WVoTgNO5dkcxCDt2xbEV48AhV1dHVYKtoZYXC8tf7JmHCdGnh3LqV+Grc32IEJhYnChHIWqn7HA93FcaJdWvsGFhXWubgx7qFVgsvoTfZpHsBe4=;L6OSlU6g00Xa0cp8lqWkvA=="
 ---
 

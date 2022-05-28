@@ -2,6 +2,101 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-04-08-study-smart-tvs-gaming-lead-video-accessibility.md",
+      "title": "Study: Smart TVs, gaming lead video accessibility",
+      "excerpt": "According to research by Interpret, smart TV makers and gaming companies have been some of the most aggressive in the entertainment arena to bring new accessibi",
+      "sourceUrl": null,
+      "webUrl": "https://advanced-television.com/2022/04/08/study-smart-tvs-gaming-lead-video-accessibility/",
+      "originalUrl": "https://advanced-television.com/2022/04/08/study-smart-tvs-gaming-lead-video-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advanced-television.com/wp-content/uploads/2020/11/Samsung-Smart-TV-voice-cap_main3.jpg",
+          "width": 1000,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Advanced Television",
+        "domain": "advanced-television.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-how-ai-could-help-enterprises-to-reduce-data-storage-costs.md",
+      "title": "How AI could help enterprises to reduce data storage costs",
+      "excerpt": "AI is emerging as a tool to help enterprises reduce their data storage needs, whether in the cloud or a private data center.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
+      "originalUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/07/how-ai-could-help-enterprises-to-reduce-data-storage-costs/amp/",
+      "publishedDateTime": "2022-04-07T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-le-monde-launches-english-edition-with-ai-translation.md",
       "title": "Le Monde Launches English Edition With AI Translation",
       "excerpt": "One of France’s leading newspapers, Le Monde, launched its first English-language digital edition on Thursday with articles translated in part by artificial intelligence.",
@@ -1029,100 +1124,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-ai-is-explaining-itself-to-humans-and-its-paying-off.md",
-      "title": "AI is explaining itself to humans. And it's paying off",
-      "excerpt": "Microsoft Corp's LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-is-explaining-itself-humans-its-paying-off-2022-04-06/",
-      "originalUrl": "https://www.reuters.com/technology/ai-is-explaining-itself-humans-its-paying-off-2022-04-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/z-sgHrCDLFLhJaQSc1xDQ3jFThc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IVAL5CVXIBOONBVVSKCLRL5B5M.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai.md",
-      "title": "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI",
-      "excerpt": "Grid Dynamics' new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/ac26511788/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/ac26511788/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26511788",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26511788",
-      "publishedDateTime": "2022-04-06T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

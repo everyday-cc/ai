@@ -2,6 +2,92 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-04-23-japan-plans-mind-reading-robots-and-brain-interface-devices-by-2020.md",
+      "title": "Japan plans mind-reading robots and brain interface devices 'by 2020'",
+      "excerpt": "The Japanese government and private sector are, according to the Nikkei, all set to begin work on a collaborative new project to develop thought-controlled gadgets, devices ... and robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2010-04-23-japan-plans-mind-reading-robots-and-brain-interface-devices-by.html",
+      "originalUrl": "https://www.engadget.com/2010-04-23-japan-plans-mind-reading-robots-and-brain-interface-devices-by.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/XYbrXNO7oanMjSOMWhmDlA--~B/aD0zNDA7dz01NjY7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2010/04/23apr10o2353fjapan.jpg",
+          "width": 566,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-23-mind-reading-for-robotic-limb-control.md",
+      "title": "Mind Reading for Robotic Limb Control",
+      "excerpt": "The aim of the research is to develop real-time mind-controlled robotic limbs for the disabled, according to an announcement made at an April 16 symposium in Aichi prefecture. Although brain waves ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2008/04/mind_reading_for_robotic_limb_control.html",
+      "originalUrl": "https://www.medgadget.com/2008/04/mind_reading_for_robotic_limb_control.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-a-new-vision-of-artificial-intelligence-for-the-people.md",
       "title": "A New Vision of Artificial Intelligence for the People",
       "excerpt": "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s",
@@ -1011,91 +1097,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-new-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.md",
-      "title": "New deep learning method aids in the accurate diagnosis of parkinsonian diseases",
-      "excerpt": "A new deep learning method has been created to aid in the diagnosis of parkinsonian diseases, according to research published ahead of print by The Journal of Nuclear Medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220421/New-deep-learning-method-aids-in-the-accurate-diagnosis-of-parkinsonian-diseases.aspx",
-      "publishedDateTime": "2022-04-21T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-ai-fuels-industry-momentum-in-brain-computer-interfaces.md",
-      "title": "AI Fuels Industry Momentum in Brain-Computer Interfaces",
-      "excerpt": "Brain-computer interfaces enable two-way communications between the human brain and a machine. In the field of health care and life sciences, the hope is that brain-computer inter",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-04/pic77264.jpg?itok=m8Deopti",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202204/ai-fuels-industry-momentum-in-brain-computer-interfaces?amp",
-      "publishedDateTime": "2022-04-21T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

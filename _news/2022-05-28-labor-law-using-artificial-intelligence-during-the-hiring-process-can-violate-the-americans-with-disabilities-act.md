@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-28T12:30:00Z
 originalUrl: "https://richmond.com/business/local/labor-law-using-artificial-intelligence-during-the-hiring-process-can-violate-the-americans-with-disabilities/article_ba5172a9-e4f1-5fbc-9f67-a72f2240d2b7.html"
 webUrl: "https://richmond.com/business/local/labor-law-using-artificial-intelligence-during-the-hiring-process-can-violate-the-americans-with-disabilities/article_ba5172a9-e4f1-5fbc-9f67-a72f2240d2b7.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Richmond

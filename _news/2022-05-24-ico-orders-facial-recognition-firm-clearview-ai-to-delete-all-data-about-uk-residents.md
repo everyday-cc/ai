@@ -102,22 +102,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Clearview AI Slapped With A Huge Fine For Illegally Scraping Facial Recognition Images"
-    excerpt: "Earlier this month, Clearview AI reached a settlement agreement with the American Civil Liberties Union (ACLU) over the company’s usage of Illinois citizens' biometric data without their consent."
-    publishedDateTime: 2022-05-23T21:03:00Z
-    webUrl: "https://hothardware.com/news/clearview-ai-slapped-huge-fine-illegally-scraping-facial-recognition-images"
-    ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-slapped-huge-fine-illegally-scraping-facial-recognition-images"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-slapped-huge-fine-illegally-scraping-facial-recognition-images"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 66
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58632/content/clearview-ai-fine-illegally-scraping-facial-recognition-images-news.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "UK orders facial recognition firm Clearview AI to delete images belonging to UK residents"
     excerpt: "The US facial recognition company Clearview AI has been fined £7.5 million (€8.75 million) by the UK’s data protection watchdog over a string of breaches of local privacy laws. Clearview AI has also been given an enforcement notice to stop obtaining ..."
     publishedDateTime: 2022-05-24T15:05:00Z
@@ -180,15 +164,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Clearview AI Ordered to Purge U.K. Face Scans and Pay £7.5 Million Fine"
-    excerpt: "The U.K.'s Information Commissioner’s Office determined Clearview violated privacy laws despite no longer offering services to law enforcement."
-    publishedDateTime: 2022-05-23T19:50:00Z
-    webUrl: "https://gizmodo.com/clearview-ai-facial-recognition-fines-privacy-1848962656"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 49
   - title: "TechScape: Clearview AI was fined £7.5m for brazenly harvesting your data – does it care?"
     excerpt: "The facial recognition firm earned a heavy fine for scraping millions of pictures of people’s faces from social media. But that doesn’t mean it will change its ways"
     publishedDateTime: 2022-05-25T11:07:00Z
@@ -284,15 +259,6 @@ related:
         width: 415
         height: 539
         isCached: true
-  - title: "Clearview AI Faces A £7.5m Fine In UK Over Privacy Concerns"
-    excerpt: "The UK privacy regulator has imposed a £7.5 million ($9.4 million) fine on Clearview AI over collecting people's images and breaching data privacy laws."
-    publishedDateTime: 2022-05-23T19:23:00Z
-    webUrl: "https://www.androidheadlines.com/2022/05/clearview-ai-faces-uk-fines-over-privacy.html"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 17
   - title: "ICO Fines Clearview AI £7.5m for Collecting UK Citizens’ Data"
     excerpt: "The UK’s Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI £7.5m for breaching UK data protection rules. This represents a huge reduction on the £17m fine the ICO initially said it planned to issue US-based Clearview AI in November 2021."
     publishedDateTime: 2022-05-24T09:00:00Z

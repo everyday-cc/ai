@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-developmen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/"
 type: article
 quality: 103
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/05/AI-is-making-dev-life-easier-social-1024x538.jpg"
         width: 1024
         height: 538
-        isCached: true
-  - title: "GitLab introduces new cybersecurity and AI development features"
-    excerpt: "GitLab Inc. today introduced a new release of its software development platform with features that will help companies improve their cybersecurity, build machine learning applications and more easily troubleshoot errors."
-    publishedDateTime: 2022-05-23T20:53:00Z
-    webUrl: "https://siliconangle.com/2022/05/23/gitlab-introduces-new-cybersecurity-ai-development-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/gitlab.png"
-        width: 800
-        height: 450
         isCached: true
   - title: "Comment: Debunking the three biggest AI myths"
     excerpt: "As it stands, There are many companies struggling to convert business data into business impact. Beyond this, there are several commonly held myths and misconceptions around AI that only add fuel to the fire."

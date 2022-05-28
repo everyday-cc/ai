@@ -2,6 +2,92 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-04-28-raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live.md",
+      "title": "Raising monster rounds for self-driving mobility startups on TechCrunch Live",
+      "excerpt": "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
+      "originalUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TCL-2022-05-11-featured-1920x1080-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
+      "publishedDateTime": "2022-04-27T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-how-can-saudi-arabia-unleash-national-success-in-fintech.md",
+      "title": "How can Saudi Arabia unleash national success in fintech?",
+      "excerpt": "Abdullah Al Othman is the founder and chairman of Geidea, a Saudi Arabia-based fintech specialised in payments. It works with over",
+      "sourceUrl": null,
+      "webUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
+      "originalUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wamda",
+        "domain": "wamda.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-procreating-robots-the-next-big-thing-in-cognitive-automation.md",
       "title": "Procreating Robots: The Next Big Thing In Cognitive Automation?",
       "excerpt": "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence.",
@@ -1061,93 +1147,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-beyond-no-code-using-ai-for-guided-security-automation.md",
-      "title": "Beyond No-Code: Using AI for Guided Security Automation",
-      "excerpt": "SOAR Playbooks Outside of football, the term “playbook” is well understood by a relatively small group of security automation ninjas. In many larger enterprises with extensive security teams, automating mundane and repetitive security tasks has been a priority for a few years.",
-      "sourceUrl": null,
-      "webUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/",
-      "originalUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.logichub.com/hubfs/shutterstock_1959094861_%20600x400.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/amp/",
-      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/04/beyond-no-code-using-ai-for-guided-security-automation/amp/",
-      "publishedDateTime": "2022-04-27T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Boulevard",
-        "domain": "securityboulevard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-hpe-uses-blockchain-for-distributed-machine-learning-models.md",
-      "title": "HPE uses blockchain for distributed machine learning models",
-      "excerpt": "HPE has lifted the lid on two new AI products, one aimed at enterprises wanting to build and train machine learning (ML) models at scale, and a second that introduces a decentralized ML system to enable distributed or edge deployments to share updates to their models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/27/hpe_new_ai_products/",
-      "originalUrl": "https://www.theregister.com/2022/04/27/hpe_new_ai_products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2015/06/12/chains_834875.jpg",
-          "width": 648,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/27/hpe_new_ai_products/",
-      "publishedDateTime": "2022-04-27T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-22-why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare.md",
+      "title": "Why Developing Decision Intelligence And Support Is The Crucial Next Step For AI In Healthcare",
+      "excerpt": "To be clear, much of what is commonly dubbed \"artificial intelligence\" today doesn't really live up to the definition. In healthcare, particularly, plenty of purportedly AI-powered solutions merely represent long-overdue IT automation implementations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6205174d5de155a4329ea195/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
+      "publishedDateTime": "2022-02-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-21-artificial-intelligence-the-future-is-data-capture-not-machine-learning.md",
       "title": "Artificial Intelligence: The future is data capture, not machine learning",
       "excerpt": "Adoption of Artificial Intelligence (AI) has accelerated since the pandemic hit as the whole world moved towards digitization. A study by Oxford University and Yale University indicates that AI will outperform humans in many",
@@ -1293,41 +1345,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-how-values-driven-artificial-intelligence-can-reshape-the-way-we-communicate.md",
-      "title": "How values-driven artificial intelligence can reshape the way we communicate",
-      "excerpt": "Ananny understands that, wherever he goes, data about him is being collected, analyzed and monetized by artificial intelligence (AI ... allow for remarkable technological achievements in healthcare, logistics, games, entertainment, criminal justice ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.html",
-      "originalUrl": "https://techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-values-driven-artificial-intelligence-reshape.amp",
-      "publishedDateTime": "2022-02-07T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

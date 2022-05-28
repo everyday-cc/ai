@@ -2,6 +2,104 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-04-30-why-companies-should-stop-trying-to-be-ai-first.md",
+      "title": "Why companies should stop trying to be “AI-first”",
+      "excerpt": "Artificial intelligence has become a buzzword in the tech industry. Companies are eager to present themselves as “AI-first” and use the terms “AI,” “machine learning,” and “deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
+      "originalUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FAI-first-def3.jpg&signature=be9017619396bbe48941e1ffd9fe74d5",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-30-internship-in-the-area-of-logistic-robotics-computer-vision-fmd.md",
+      "title": "Internship in the area of Logistic Robotics Computer Vision (f/m/d)",
+      "excerpt": "We, the (COMPANY NAME), offer you an interesting and various internship in the area of Logistic Robotics Computer Vision. At BMW, we develop a variety of robots that support our internal logistics processes in the production plants. For each robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.absolventa.de/stellenangebote/5241598-b-internship-in-the-area-of-logistic-robotics-computer-vision-f-m-d",
+      "originalUrl": "https://www.absolventa.de/stellenangebote/5241598-b-internship-in-the-area-of-logistic-robotics-computer-vision-f-m-d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uno-production.imgix.net/og_images/trans.png?w=1200&h=628&bg=e8f8f0&fit=crop&auto=format&q=60&fm=jpg&mark64=aHR0cHM6Ly91bm8tcHJvZHVjdGlvbi5pbWdpeC5uZXQvfnRleHQ_dz0xMDAwJnR4dDY0PWFVRm5iM0poSUVWMWNtOXdZUSZ0eHRjbHI9MTBiZjlkJnR4dHNpemU9NjAmdHh0cGFkPTUwJnR4dGZpdD1tYXgmdHh0Zm9udDY0PVNHVnNkbVYwYVdOaExDQkNiMnhrJnR4dGFsaWduPWNlbnRlcg&markalign=middle%2Ccenter&markfit=crop&blend64=aHR0cHM6Ly91bm8tcHJvZHVjdGlvbi5pbWdpeC5uZXQvb2dfaW1hZ2VzL2Fic29sdmVudGEvbG9nby5wbmc_dz0yMTgmaD00MCZmaXQ9Y3JvcCZmbT1wbmc&bw=218&bh=40&bx=942&by=557&bm=normal&bf=crop",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-30T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Absolventa",
+        "domain": "absolventa.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-30-3-lessons-learned-from-building-a-software-startup.md",
       "title": "3 lessons learned from building a software startup",
       "excerpt": "Startup founders must ask themselves ... world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success.",
@@ -1054,91 +1152,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-soundhound-ai-stock-slides-7-in-market-debut-following-spac-merger.md",
-      "title": "SoundHound AI stock slides 7% in market debut following SPAC merger",
-      "excerpt": "Newly public SoundHound AI (SOUN) saw its shares slide 7% during their market debut on Thursday following the company’s merger with SPAC Archimedes Tech SPAC Partners. Shares of SoundHound ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
-      "originalUrl": "https://seekingalpha.com/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1332332945/image_1332332945.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
-      "publishedDateTime": "2022-04-28T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-ibm-announces-elyra-extension-for-jupyter-notebooks.md",
-      "title": "IBM announces Elyra extension for Jupyter Notebooks",
-      "excerpt": "Elyra is a set of open-source extensions for AI for Jupyter Notebooks ... IBM has recently added JupyterLab to new releases of IBM Cloud Pak for Data and Watson Studio. “",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-announces-elyra-extension-for-jupyter-notebooks/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-announces-elyra-extension-for-jupyter-notebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

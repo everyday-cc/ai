@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-28-deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself.md",
+      "title": "DeepMind: Why is AI so good at language? It's something in language itself",
+      "excerpt": "Impressive deep learning programs such as OpenAI's GPT-3 may be exploiting statistical oddities of human language such as polysemy and homonyms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
+      "originalUrl": "https://www.zdnet.com/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3ffd901c4c60d15791e3a11b786df6f9c59e485d/2022/05/27/ae1ac90a-e2b4-4b21-8343-f18ef904f3c4/deepmind-omniglot-modified-challenge-may-2022.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
+      "publishedDateTime": "2022-05-28T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-28-this-facial-recognition-site-is-creeping-everyone-out.md",
       "title": "This Facial Recognition Site Is Creeping Everyone Out",
       "excerpt": "A facial recognition tool called PimEyes has recently gone from unknown to infamous. PimEyes makes it easy to find pictures of people that are strewn across the internet. That isn't necessarily surprising—reverse image searches have been a thing for years—but it turns out PimEyes is astoundingly good at identifying people with naught but a single photograph.",
@@ -492,7 +544,7 @@
       "originalUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -822,39 +874,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-27-jason-bellet-using-ai-to-fight-heart-and-lung-disease.md",
-      "title": "Jason Bellet: Using AI to Fight Heart and Lung Disease",
-      "excerpt": "At Eko, we build smart stethoscopes that use AI to analyze heart and lung sounds, enabling life-threatening cardiac conditions to be detected earlier and with better accuracy. Spiffy: What motivated you to do it? Jason: We started Eko almost 10 years ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/jason-bellet%3A-using-ai-to-fight-heart-and-lung-disease",
-      "originalUrl": "https://www.nasdaq.com/articles/jason-bellet%3A-using-ai-to-fight-heart-and-lung-disease",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/jason-bellet%3A-using-ai-to-fight-heart-and-lung-disease?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/jason-bellet%3A-using-ai-to-fight-heart-and-lung-disease?amp",
-      "publishedDateTime": "2022-05-26T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-27-hpe-is-building-a-rapid-ai-supercomputer-powered-by-the-worlds-largest-cpu.md",
       "title": "HPE is building a rapid AI supercomputer powered by the world's largest CPU",
       "excerpt": "Hewlett Packard Enterprise (HPE) has announced it is building a powerful new AI supercomputer in collaboration with Cerebras Systems, maker of the world’s largest chip. The new system will be made up of a combination of HPE Superdome Flex servers and Cerebras CS-2 accelerators,",
@@ -1010,7 +1029,7 @@
       "originalUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {

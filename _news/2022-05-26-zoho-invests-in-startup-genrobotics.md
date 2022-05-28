@@ -120,15 +120,6 @@ related:
         width: 1248
         height: 650
         isCached: true
-  - title: "MassRobotics Announces Call for Nominations for The Robotics Medal Recognizing Women in Robotics"
-    excerpt: "MassRobotics, a leading robotics innovation organization, announced a call for nominations for The Robotics Medal, a new annual award presented to a female researcher for substantial achievements and contributions in the field of robotics."
-    publishedDateTime: 2022-05-23T19:08:00Z
-    webUrl: "https://www.automation.com/en-us/articles/may-2022/massrobotics-call-nominations-robotics-medal-women"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 21
 
 secured: "T4qcXXKIfQb6czm10zTNZSUvz3vnOs2Y2fyd185y9v5VltO/rQUeYCU47OkPeA8YL7dLobntaYxDWw3hY1HEZNTrcYUl9zKnU2MxP1kwbk6cDy94CK+yhtPWKKrVg6+xasJjFHXlqRlk0lWJ9To3atCQ/VjANLILHHfKcQTEX1q0I29OVio7tjdmSSSRSE0LAgU6MLSNYXcts5sFYJSuwz6BtMwXijOV8JEI/PRC42UlxYA6QvSzUQwhqvlUeUpnD3atEO5fWpJu9qPobrFsdAg2DBdCqqjE1DBTFM8TBY6dH1Kf7YfKUSoZYTTz77+9e+qLtabWlDpsrVc6H2SixWkDFZa1o1WXjvW6rXfQVCrJEqj96d3qnKmDwZPr84B1D9mwWdX5qRRGQBGaVPPvq7w5LqOnKFLaSDmui2wQl+Pl1s+yoLEubZTWUTmxAjy7OqBskTcKijbvIQwScfaNLKqDN7Y57CxP2G+0jA1vP7azL/ogVXvW6gPY3acEQTXVaezMJcXpKjGFRZUai03wZQ==;zdCzkCP7bBJJogQaEnQt/g=="
 ---

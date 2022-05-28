@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-18-generate-positivity-with-machine-learning.md",
+      "title": "Generate Positivity With Machine Learning",
+      "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "originalUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/08/atltvhead-main.png",
+          "width": 1185,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-improving-automations-energy-efficiency-with-neuromorphic-sensor-technology.md",
       "title": "Improving Automation’s Energy Efficiency with Neuromorphic Sensor Technology",
       "excerpt": "According to the Fraunhofer Institute for Photonic Microsystems, this new approach makes use of integrated electronics that allow for the parallel development of models for object recognition and classification that are specially adapted to individual sensors.",
@@ -1324,49 +1368,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-05-brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway.md",
-      "title": "Brazilian civil rights organizations call for facial recognition ban in São Paulo subway",
-      "excerpt": "Entities unite in an attempt to prevent the use of the technology amid concerns over discrimination against black, non-binary and trans individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
-      "originalUrl": "https://www.zdnet.com/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-civil-rights-organizations-call-for-facial-recognition-ban-in-sao-paulo-subway/",
-      "publishedDateTime": "2022-03-04T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

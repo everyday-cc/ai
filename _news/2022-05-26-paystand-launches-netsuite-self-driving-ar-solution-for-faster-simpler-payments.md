@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "US Fintech Global PayEX Showcases Account Receivable Solutions at Finovate Spring"
-    excerpt: "J.P. Morgan-backed Fintech has processed over $50 billion in transactions through its cloud-native, data-driven, end-to-end AR solutions; Global PayEX’s AI and ML solutions digi"
-    publishedDateTime: 2022-05-23T19:07:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-darien-software-fe36d5f92cc89c8822e8384b2cde9d0b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Paystand Launches First NetSuite Self-Driving AR Solution that Puts the Cash Cycle on Auto-Pilot for Faster, Simpler Payments"
     excerpt: "Paystand, the leader in blockchain-enabled B2B payments, and the maker of the fast growing and most innovative Payment SuiteApp for NetSuite AR, today announces new automatic billing and payment features to provide a faster,"
     publishedDateTime: 2022-05-25T12:02:00Z

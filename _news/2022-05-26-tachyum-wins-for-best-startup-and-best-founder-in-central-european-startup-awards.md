@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T14:06:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-slovakia-4cf9b51277ae4960ae0891aa7b282c50"
 webUrl: "https://apnews.com/press-release/business-wire/technology-slovakia-4cf9b51277ae4960ae0891aa7b282c50"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

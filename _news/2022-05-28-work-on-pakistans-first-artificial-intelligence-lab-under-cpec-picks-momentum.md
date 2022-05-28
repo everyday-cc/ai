@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-28T13:38:00Z
 originalUrl: "https://www.pakistantoday.com.pk/2022/05/28/work-on-pakistans-first-artificial-intelligence-lab-under-cpec-picks-momentum/"
 webUrl: "https://www.pakistantoday.com.pk/2022/05/28/work-on-pakistans-first-artificial-intelligence-lab-under-cpec-picks-momentum/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Pakistan Today

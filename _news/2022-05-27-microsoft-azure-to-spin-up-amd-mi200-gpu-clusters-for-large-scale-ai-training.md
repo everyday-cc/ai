@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
 excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-publishedDateTime: 2022-05-26T22:50:00Z
-originalUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
-webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
+publishedDateTime: 2022-05-26T22:46:00Z
+originalUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-top"
+webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 type: article
@@ -539,20 +539,6 @@ related:
       name: 9to5Mac
       domain: 9to5mac.com
     quality: 36
-  - title: "Microsoft believes that its new tools make language models more secure to work with"
-    excerpt: "Tools and data sets aimed to audit AI-powered content filtering systems and automatically build test cases indicating possible vulnerabilities have been released by Microsoft ahead of Build 2022. OpenAI’s GPT-3 is an example of a large language model (LLM) that can evaluate and create text with human-level complexity,"
-    publishedDateTime: 2022-05-23T20:08:00Z
-    webUrl: "https://bestgamingpro.com/microsoft-believes-that-its-new-tools-make-language-models-more-secure-to-work-with/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 35
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/05/This-Microsoft-Teams-update-could-solve-all-your-problems-but-youll-never-get-to-use-it-1.png"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Microsoft Build, Thick Versus Thin, AI Platforms"
     excerpt: "Microsoft’s Build keynote was impressive in its clarity; it also emphasized that the thin client model one, mostly."
     publishedDateTime: 2022-05-25T13:40:00Z
@@ -581,6 +567,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "LCZrexWuiZCQy+gEgNCJqk4HR65wmctcOQ0w6rjuYfSgMHSfBPTnmAVOCH/b9kULasE2AvmxYB6VMEboJi70/KB/GOmYVP0d3b6qx15vlKbhEIsw/QsywhGlDwaM0LHGrdO0XYRmuRjjRYfuFFpd1MD4QZ2rO4fUtu83IoG07v8LufA+HvYoQkHexh22ze664RAgMzvSl4JHTyYY1j9c+gHy1abSMWE6GGBKW17ahRl7GGSXXRY9FZ6JKkqaqCQnq/8jqpFEDUcU5dkFQFepMq/xQlSAwcmcq+/q0JqCrnrAfg+Nva5fJZTzetEFA/weOAWvdSLBEOu/VezMzmNP99juG8uEhFVzceOTixiV3SLI3or3t/YLDC0aCaP86i7LwOD5jV6PZ+uRrvIF2LzsWfmxHFFEzUT6bUiUUUDIH66sEvC6NxYSrhl2kQuXNaYiEKAY2xy6N2ebq0xD80pNPcWlWNmS+Focl4CcjmBcWTQgWWBO6rNlELkdmozYK7sMbAl/vLdsVM8ZMqYgbbB2bA==;QkhibiZNGxkbKpU6P1D3Cg=="
+secured: "hZx9QONt1w4dAFrt0LgMkSgnVLykXbMfsLRUMBOYaFhFQV+5tidUbXyZ0AZKa13bN2wfKShnKN7vt98rhRm8Dgcl9srs6XzxKTaDL94euxagRvYiZ1sadAhICKWlcUTKaLj4oFhruK3Qm9Os1f+4EI7OEak/F3E5nQrV90z+KvVhiXvmIgIOcgd72OaqkVCBFvZv3aWCHX9zn91cMzaRlY/KgnWvkuyXKV6gVwVe6/nP1TCpMsrxT8nSnfJe0AFJ8Wp84EDDTAPMCtn6XZMM6iQI6PXW2rZvFYUsakaK6Ykdor6IxdhJRkK3FYCwg7nxV5tM47d6arWdiA6a0SWVrZWs4lUzi0KydTlR+nCRSSU=;BWykZ2cFbfyAnCw4fE1iDA=="
 ---
 
