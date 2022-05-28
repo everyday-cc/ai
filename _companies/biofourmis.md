@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 78
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "Gisc2ih0nqPbQe7M+tPAI5lkPgFIzp1OGxTbqP2ggEQyd4fp7dGrLFD0D9BCGReJEtDiRUS61z6447g50XY71bVY4rln26U+p+N7tdMWYtrui5da6+O0IA59wI2v5N432QpIYh3y2tpqPzu2vmBydsIX6QF9EVlMSwx84kdgL//qJdApzH0ZhM5bHDkH5sFLdCFgrN9eqsLPe01mOiwpOsBmd0gzZcOzcxlobhNE3zDHvC0fgJbvIdFtaL7wf2b9Fyo1W49dpy3L9IrDNkEZI3Qh8mBdrl8mi/v7QlOnWipRpXWuFxi4DjaIu/LlDg5k5Bj8xS03EyMwP2fUB0ffy1wr12+sMUVqulj9B9oUPZ3pIP3QxP82F/R6jTMPQUEEIiap84yy0iiB0Uu9Q2vIUF33tytv+sozi4mi+GXSBo8=;lq4G5tsZPmdiXfyjHqigpQ=="
+secured: "LDu7i2gjygsObfCR4IoGhDcUtuTkQQflKeZgc2SX2CCYu5G6nm0Tp0ViFxe1H2atLeNi8OmtBr5GzKcB7CpPbTqCqt+RxfgslCbfZPolqSPS3nqLuYphz+4g1WzwkRJZ3Pw6e47vJYP8cYnbeqAtgJ/zM/vsYOj7Ht25tCR+YiLsjYrD8ByaeNK0nG3SLwFIa65Qhd0eMhjU4+EJ8VTwcit35e7gFTthRh3a0mgr5IyKXOiWBaiZh/+wybpMrE/ZPnq3WCx7T7RYSnVHyTXx3myR7YCAslSNhBoHETcZ7/udCpLtuCqee0IUoFNgFUG67Mjq8HgBwHGbnCR47cq0Zj5i/vkAgrWaTeW66tDeXIAZ4whoW+NR6RktiKlD715seAmzqKkwZNaxdy1c9kF9gLvpprKNah75S87oQPGB+o4=;tbzqO0NTeG777tmMY38n8w=="
 ---
 
