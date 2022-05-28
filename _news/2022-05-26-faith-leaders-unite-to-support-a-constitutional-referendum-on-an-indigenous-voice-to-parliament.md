@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Incoming minister Linda Burney says Labor’s priority on Voice to Parliament referendum is 'consensus building'"
-    excerpt: "The focus of Indigenous leaders has now shifted towards a potential referendum date for a constitutionally enshrined. Ms Burney was asked about the specific da"
-    publishedDateTime: 2022-05-24T02:42:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/politics/incoming-minister-linda-burney-says-labors-priority-on-voice-to-parliament-referendum-is-consensus-building/news-story/5da5d3ce7f69980754c6bd7d14db7654"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/incoming-minister-linda-burney-says-labors-priority-on-voice-to-parliament-referendum-is-consensus-building/news-story/5da5d3ce7f69980754c6bd7d14db7654?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/incoming-minister-linda-burney-says-labors-priority-on-voice-to-parliament-referendum-is-consensus-building/news-story/5da5d3ce7f69980754c6bd7d14db7654?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 24
-    images:
-      - url: "https://content.api.news/v3/images/bin/709740d77d76901ac98bab026c8ff000"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Election 2022: Aussies ready for Indigenous voice, say Uluru authors"
     excerpt: "Indigenous Australians who have led the campaign for a voice in the Constitution for the past five years say the nation is ready and ask the Albanese government to draft a bill and set a timeline for a referendum."
     publishedDateTime: 2022-05-25T10:47:00Z

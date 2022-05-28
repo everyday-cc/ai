@@ -7,7 +7,7 @@ originalUrl: "https://www.baltictimes.com/pushing_the_limits_for_digital_eyes__a
 webUrl: "https://www.baltictimes.com/pushing_the_limits_for_digital_eyes__ai_takes_over_the_computer_vision/"
 type: article
 quality: 54
-heat: 74
+heat: 76
 published: true
 
 provider:

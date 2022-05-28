@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-24T08:17:00Z
 originalUrl: "https://www.information-age.com/next-generation-pim-how-ai-can-revolutionise-product-data-123499430/"
 webUrl: "https://www.information-age.com/next-generation-pim-how-ai-can-revolutionise-product-data-123499430/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://s27389.pcdn.co/wp-content/uploads/2022/05/next-generation-pim-how-ai-can-revolutionise-product-data.jpeg.optimal.jpeg"

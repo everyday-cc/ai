@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-27T20:01:00Z
 originalUrl: "https://grbj.com/news/health-care/bamf-health-to-advance-cancer-care-with-new-scanner/"
 webUrl: "https://grbj.com/news/health-care/bamf-health-to-advance-cancer-care-with-new-scanner/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Grand Rapids Business Journal

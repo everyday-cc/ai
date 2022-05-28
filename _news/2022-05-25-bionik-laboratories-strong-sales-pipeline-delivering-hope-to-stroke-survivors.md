@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T15:04:00Z
 originalUrl: "https://apnews.com/press-release/newmediawire/technology-health-richard-russo-stroke-robotics-88098a2c6afeb291709e18fc21eacdc5"
 webUrl: "https://apnews.com/press-release/newmediawire/technology-health-richard-russo-stroke-robotics-88098a2c6afeb291709e18fc21eacdc5"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Associated Press

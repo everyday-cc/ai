@@ -55,22 +55,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "UK privacy watchdog fines Clearview AI £7.5m and orders UK data to be deleted"
-    excerpt: "The orders conclude a two-year joint investigation the ICO carried out with the Office of Australian Information Commissioner."
-    publishedDateTime: 2022-05-24T01:27:00Z
-    webUrl: "https://www.zdnet.com/article/uk-privacy-watchdog-fines-clearview-ai-lb7-5m-and-orders-uk-data-to-be-deleted/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/uk-privacy-watchdog-fines-clearview-ai-lb7-5m-and-orders-uk-data-to-be-deleted/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uk-privacy-watchdog-fines-clearview-ai-lb7-5m-and-orders-uk-data-to-be-deleted/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/614a1badda1105b009022d2311e765283a637252/2022/05/10/b89fdde3-1e06-457f-b854-7c45f072a4d8/clearview-ai.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Clearview expands sales of its facial recognition tools"
     excerpt: "The software isn't exactly what Clearview AI has caught flack for in the past. Since the company's recent settlement with the ACLU bans Clearview from providing social media face"
     publishedDateTime: 2022-05-24T16:03:00Z
@@ -194,20 +178,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/Clearview-AI-.jpg"
         width: 700
         height: 467
-        isCached: true
-  - title: "Clearview AI hit with fine in the UK for illegally storing images"
-    excerpt: "The embattled facial recognition firm Clearview AI Inc. has been fined £7.5 million ($9.4 million) by the U.K.’s privacy watchdog for illegally storing images of people. The company, which has its headquarters in New York City,"
-    publishedDateTime: 2022-05-24T02:47:00Z
-    webUrl: "https://siliconangle.com/2022/05/23/clearview-ai-hit-fine-uk-illegally-storing-images/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/3340932353_c0e4f68dc4_c.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "ICO fines Clearview AI £7.5m over image collection"
     excerpt: "The UK's data protection watchdog has fined facial recognition company Clearview AI £7.5m for illegally collecting images for facial recognition."

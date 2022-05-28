@@ -1,56 +1,39 @@
 ---
 category: news
 title: "Firms Specialized in Financial Technology Reach More Borrowers using AI"
-excerpt: "Fintech businesses are able to produce alternative rating systems for debt repayment for disadvantaged cash advance applicants because they have access to"
-publishedDateTime: 2022-05-27T22:00:00Z
-originalUrl: "https://www.digitaljournal.com/pr/firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
-webUrl: "https://www.digitaljournal.com/pr/firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
+excerpt: "Some online lenders and watchers of the industry believe that the increase in consumer lending creates an opportunity for firms involved in financial technology to flourish by filling the gaps for borrowers who are underrepresented in the market."
+publishedDateTime: 2022-05-27T23:50:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-27-firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-27-firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Baby-Formula-AFP-1K-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
 related:
-  - title: "How Fintech players are leveraging AI/ML to bridge the gap in MSME lending"
-    excerpt: "FinTech is a term which refers to a set of businesses which are leveraging advanced technology as a core ingredient in their business model to drive rapid evolution and transformation of financial services products"
-    publishedDateTime: 2022-05-25T15:44:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
+  - title: "Financial Technology Predictions To Know About In 2022"
+    excerpt: "There was a huge likelihood that the financial technology (fintech) sector would experience a lull in activity due to COVID-19. However, 2021 surprisingly remained a booming year for this sector. KPMG’s Pulse of Fintech report estimated that the total UK fintech investment hit a whopping $37."
+    publishedDateTime: 2022-05-28T09:21:00Z
+    webUrl: "https://www.flushthefashion.com/culture/financial-technology-predictions-to-know-about-in-2022/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: flushthefashion.com
+      domain: flushthefashion.com
+    quality: 24
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://www.flushthefashion.com/wp-content/uploads/2022/05/cryptocurrency-g59466d27c_1280-1-1024x638.jpg"
+        width: 1024
+        height: 638
         isCached: true
-  - title: "A Look At The Future Of Fintech"
-    excerpt: "Properly managed, many of the economic changes prompted by the pandemic can only benefit traditionally underserved customers and small businesses."
-    publishedDateTime: 2022-05-26T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/26/a-look-at-the-future-of-fintech/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
-secured: "rlmTgMcTYUk86DRWFMlNccnXN5LCRV+UuhWHCEob1s9pVo5a3cQ1s1342QHT9mBsJ9SoDYNAdPh+LNxFtFqRHaNbiGrtJrtIR4gwRVlSS+hPGL8U9di5OqRUFfIpgnctxjdbr57jTLEZLS1XSXzlSjMyro18WX4xUjEo3hYcuEh+wq7CQYj47bKSKJgMg62VPbDC3EoEI9yIbKAUoq2k/FMVhbFfv50H8c5Ln3dM71l9FxHYaMLwufkyZL9WZAv44vKCaVNRNLHSIv1onoCkPNXalBBsazDFfa/IgVlFsSSRxmV/TyLp8copDfvWlR3216bA9ku/lXE3HSqZ+YIOzm7vfCJMst9pNd2LZYbz5nU=;Nn5/po+IupcCB+l5fyb9lQ=="
+secured: "X3w5HVi7dV3Cu+GMBJyJVJWoGYzytLZOEwyDmn8t+xOfZFb6/zU4/KqmuvHLc4k/WhsxZkLb/RAA1DDe/uDTgsmglY8DmOZW8eHKFx91hvUDsEqgtPhMDXX8gDCCw5KrmC1hV7Aw3hArYa3pLfddMej19CDU2ziywoCoo6xiahTvnlwS0ot/FSiMRpGzk7NyPpH0eYk3y/P6aNQgUwxAicHIPaC5NIB3fkuWqLd1nxWPCO4/nLVKm70IZoQPBN8+aAZV1/P1rKpigDwmgJ0Ya1GbXReVjG861VmQi8/fKtWHPu0WRzBHhXJ1Iz6mPQxFdhb7NAoWb8We+RMZ3n1jD6/lnwRKuObcyorMeZpk8do=;6bnWcI3o4BJU74CMQ9xqbA=="
 ---
 

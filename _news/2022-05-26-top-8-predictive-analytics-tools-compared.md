@@ -106,20 +106,6 @@ related:
       name: Quinnipiac University
       domain: qu.edu
     quality: 19
-  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
-    excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
-    publishedDateTime: 2022-05-25T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 5
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
     excerpt: "In a preemptive effort to trigger post-war capital inflow into UkraineLONDON--(BUSINESS WIRE)--Deep Knowledge Analytics (DKA), the flagship subsidiary of Deep Knowledge Group (DKG), today announced the launch of the beta version of a data analytics platform that aims to attract $1 billion in AI and DeepTech investments to Ukraine over a foreseeable period of time."
     publishedDateTime: 2022-05-24T19:48:00Z
@@ -137,6 +123,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
+    excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
+    publishedDateTime: 2022-05-25T13:32:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 0
 
 secured: "1hPUoAz5i2elwD7nipr2NjLWIetFAWGDzeN+cILIyYh4aKQURKBW5osORxFm3Z3WhuSTHm4wfXSDFZlOGfTEDD2j9QdNafKMMkCx4ehOG/fKxSLAnTSkwrSmgn9Ih1x5fCdTEE8HBmhCDtbiuqUpIAE15spwTVS5jiE9cDgx/96aHLbqwlICjiqcjTAMiOButWMni0RUbFv2MrB6LJPUM+WegXGaNsCsUI7u+NJ1t8ZUcPB5+A87Nbjj+MdmO9GzcpM56CN/VvqImWGwVGMUpVw47o6ikBkF4Ikmirrs2y7cytws/bO4q35osd2rna6ql4IFCzc1r2bLQEfJ/nBT1JCNIbq25xhX7nGZ+DDLcko=;KhopbtDIcOg0a37wgmkQRg=="

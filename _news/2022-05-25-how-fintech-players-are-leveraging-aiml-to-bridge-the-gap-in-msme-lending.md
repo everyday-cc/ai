@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Firms Specialized in Financial Technology Reach More Borrowers using AI"
-    excerpt: "Fintech businesses are able to produce alternative rating systems for debt repayment for disadvantaged cash advance applicants because they have access to"
-    publishedDateTime: 2022-05-27T22:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Baby-Formula-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "A Look At The Future Of Fintech"
     excerpt: "Properly managed, many of the economic changes prompted by the pandemic can only benefit traditionally underserved customers and small businesses."
     publishedDateTime: 2022-05-26T12:30:00Z

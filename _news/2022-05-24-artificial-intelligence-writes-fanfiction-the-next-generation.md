@@ -26,7 +26,7 @@ related:
     provider:
       name: Information Age
       domain: information-age.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2022/05/next-generation-pim-how-ai-can-revolutionise-product-data.jpeg.optimal.jpeg"
         width: 1017

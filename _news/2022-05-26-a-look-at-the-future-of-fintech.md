@@ -39,20 +39,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Firms Specialized in Financial Technology Reach More Borrowers using AI"
-    excerpt: "Fintech businesses are able to produce alternative rating systems for debt repayment for disadvantaged cash advance applicants because they have access to"
-    publishedDateTime: 2022-05-27T22:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Baby-Formula-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "XZ8GY91H6h+3I22lnotwB0+pJO/slA8/x1EyoVmtzItdbZ5IEYp7cmpH1Uhs2+rg9VZiflLA+xn8KFJZgK41pBPT9QcNGLZkquvAJ/icNU/XDbWIItB8nss715GM3sz6Mg5evs3m/XYwLOG0tUvdoCoSkdGthB4d5kquSdeukp8hh5QDvQNJk7XSNjaqlUDx43eCdAYkxK8engBI2CaMDJWkrK+D7UB5523IeNp1rW4JDWk3pusuQd6fQe0EOIWGgioSu3Y3ggysGMrviMW9mVsGTFRySWK2Sv9B8igYAtwmNZKugbJXwwZQGWMThHU9033vJnzfSOam4FdW1yQ2oXc0VC7AlOxlYxSUljubFC/TFHD+jIz2EvjvfQFvcT6Ky5ZkQ8OgaQgWCCcBjwt9r4HiCLMBKaAQGgHF8BuR/Z2dkVJQubS7+WENPLqI7HyJ/r3gTmfVEBk1A4bnTmy2oyJtOSdLO+QZDnp9TBIBbmKjUWNJ+l2fTqDQ3cVdhs+Tbrhui58/LSEFssjkzIi3Fw==;6Kv53GQVApmW2uHGoc3DZQ=="
 ---

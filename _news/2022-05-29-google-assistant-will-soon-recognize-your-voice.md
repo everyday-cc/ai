@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-28T17:30:00Z
 originalUrl: "https://www.gsmarena.com/google_assistant_will_soon_recognize_your_voice-news-54470.php"
 webUrl: "https://www.gsmarena.com/google_assistant_will_soon_recognize_your_voice-news-54470.php"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: GSM Arena

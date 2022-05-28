@@ -61,6 +61,15 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 19
+  - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
+    excerpt: "Veterinarians and researchers have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs."
+    publishedDateTime: 2022-05-28T18:00:00Z
+    webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 8
 
 secured: "cgCkQqr3QnhnRmnRpzEauu3gDik3ktqK8Q9Km4MBKBXitaxcl1WwVADq22sN3tzJvsviMyfhjjQuiKdutRg0aNiYI0m3miktnWUjpfs7F+e/fJ6dy1JqCDEGl/WiUOPbZEPRKbBjaPz9i8stfPcTZeMs8gaeElUoLOO7DQhI6suiwuV52xVcGGusc6UW5KdHvqFf894hgKsyjkVFaXu6/KRR9dUB9UBZrL0JznU+qZ4ICrq8pD3TMJXsNWL7YdiHy/2ElY2PhNlGQJj0eeSy74r+MZELsoveebj5EioaOOUm8/22ZSMMYfwpFZd3vNcz0PX+mA7lU/vLKSjKOxj2QmJEttYRjHrdDjUTdPXRuBA=;Z34JbRD6p/ya5y9dPEGSQg=="
 ---

@@ -32,22 +32,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 27
-  - title: "Incoming minister Linda Burney says Labor’s priority on Voice to Parliament referendum is 'consensus building'"
-    excerpt: "The focus of Indigenous leaders has now shifted towards a potential referendum date for a constitutionally enshrined. Ms Burney was asked about the specific da"
-    publishedDateTime: 2022-05-24T02:42:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/politics/incoming-minister-linda-burney-says-labors-priority-on-voice-to-parliament-referendum-is-consensus-building/news-story/5da5d3ce7f69980754c6bd7d14db7654"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/incoming-minister-linda-burney-says-labors-priority-on-voice-to-parliament-referendum-is-consensus-building/news-story/5da5d3ce7f69980754c6bd7d14db7654?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/incoming-minister-linda-burney-says-labors-priority-on-voice-to-parliament-referendum-is-consensus-building/news-story/5da5d3ce7f69980754c6bd7d14db7654?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 24
-    images:
-      - url: "https://content.api.news/v3/images/bin/709740d77d76901ac98bab026c8ff000"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "‘Time for healing’: Faith leaders endorse Voice to Parliament"
     excerpt: "Northern Territory Chief Minister Natasha Fyles says the proposal for an Indigenous Voice to Parliament is very important as it will have a big impact on a large number of Territorians. Ms Fyles said there is still work that needs to be done to achieve a Voice in Parliament."
     publishedDateTime: 2022-05-27T04:57:00Z

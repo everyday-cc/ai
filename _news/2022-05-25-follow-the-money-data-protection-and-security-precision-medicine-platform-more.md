@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-25T05:02:00Z
 originalUrl: "https://www.bio-itworld.com/news/2022/05/25/follow-the-money-data-protection-and-security-precision-medicine-platform-more"
 webUrl: "https://www.bio-itworld.com/news/2022/05/25/follow-the-money-data-protection-and-security-precision-medicine-platform-more"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Bio IT World
