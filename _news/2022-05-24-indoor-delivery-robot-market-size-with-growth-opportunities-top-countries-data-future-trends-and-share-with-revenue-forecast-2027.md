@@ -90,20 +90,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 19
-  - title: "Global Artificial Intelligence in Big Data Analytics and IoT Market Report 2022-2027: How Different Forms of AI May be Best Used for Problem-Solving"
-    excerpt: "DUBLIN, May 23, 2022 /PRNewswire/ -- The \"Artificial Intelligence in Big Data Analytics and IoT: Market for Data Capture, Information and Decision Support Services 2022 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ..."
-    publishedDateTime: 2022-05-23T12:50:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-artificial-intelligence-in-big-data-analytics-and-iot-market-report-2022-2027-how-different/article_dcd847c1-73c2-5b36-918c-55e512e88501.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 13
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Automotive Artificial Intelligence Software Market by Global Size, Trends and Research Analysis 2022 predicted to reach USD 53.98 billion by 2030"
     excerpt: "Automotive Artificial Intelligence Software is a system which is used for the altertion, process and functions and others to imitate human mind and absorbs the problem solving capacity automatically. This technology is mainly used in self driving vehicles ..."
     publishedDateTime: 2022-05-25T08:30:00Z

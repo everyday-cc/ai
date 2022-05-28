@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3841703-aitx-subsidiary-secures-orde
 webUrl: "https://seekingalpha.com/news/3841703-aitx-subsidiary-secures-order-for-ava-and-rosa-security-robots"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -20,15 +20,24 @@ topics:
   - AI in Security
 
 related:
-  - title: "AITX’s Subsidiary Robotic Assistance Devices Receives Order for AVA and ROSA Security Robots from Romanian Dealer Civitas Group"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) has received an order from Civitas PSG, one of the largest security companies in Romania for an AVA (Autonomous Verified Access) access control device,"
-    publishedDateTime: 2022-05-23T12:42:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-romania-robotics-83b7b6ef8754f9401d513e0ab067818d"
+  - title: "AI Robotics Security Leader AITX’s New Software Update will Include Weapon Detection"
+    excerpt: "With 42 Dealers covering the US, Canada, the U.K. & the European Union, Artificial Intelligence Technology Solutions (Stock Symbol: AITX) is a Security Force. AITX announced that its wholly owned subsidiary Robotic Assistance Devices,"
+    publishedDateTime: 2022-05-28T01:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-27-ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 59
+  - title: "Micro-Tech Endoscopy Partners with Wision A.I. to Distribute its AI-assisted Polyp Detection Software in the U.S."
+    excerpt: "Tech Endoscopy USA, the U.S. subsidiary of the global medical device company Micro-Tech (Nanjing) Co. Ltd, which develops an"
+    publishedDateTime: 2022-05-23T13:32:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-ann-arbor-artificial-intelligence-8e6c1522e9e64ea6bf9869d1f0a7de3b"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 43
+    quality: 16
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

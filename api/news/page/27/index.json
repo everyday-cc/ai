@@ -2,6 +2,48 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-05-02-artificial-intelligence-but-please-be-trustworthy.md",
+      "title": "Artificial intelligence – but please be trustworthy!",
+      "excerpt": "To date, entrepreneurs have not put a lot of trust in artificial intelligence – many processes are still performed manually. An example of how artificial intelligence and control technology can ...",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news792809",
+      "originalUrl": "https://idw-online.de/de/news792809",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/corona_idw.png",
+          "width": 615,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-p2e-game-drunk-robots-announce-its-ido.md",
       "title": "P2E Game Drunk Robots Announce Its IDO",
       "excerpt": "Start playing with $0 investment Drunk Robots is a brutally fun adventure inspired by post ... As users take part in battles against the AI (PvE mode) and against other users (PvP mode), they earn $METAL tokens and accessories to level up and customize ...",
@@ -1077,49 +1119,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
-      "title": "People in Beijing can now book a taxi with no one at the wheel",
-      "excerpt": "(CNN) — For the first time in China, people will be able to get a taxi ride without anyone behind the wheel. Baidu and autonomous driving startup Pony.ai announced Thursday that they had won the ...",
-      "sourceUrl": null,
-      "webUrl": "https://nbc-2.com/news/2022/04/28/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/",
-      "originalUrl": "https://nbc-2.com/news/2022/04/28/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nbc-2.com/wp-content/uploads/2022/04/taxi1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nbc-2.com/news/2022/04/28/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/",
-      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/2022/04/28/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/",
-      "publishedDateTime": "2022-04-29T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC2",
-        "domain": "nbc-2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -24,20 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "2 tech companies partner to distribute AI polyp detection for colonoscopies"
-    excerpt: "Micro-Tech Endoscopy USA and Wision A.I. partnered to make Micro-Tech the U.S. GI endoscopy distributor of Wision's EndoScreener, an artificial intelligence-assisted polyp detection software used during colonoscopies."
-    publishedDateTime: 2022-05-24T16:40:00Z
-    webUrl: "https://www.beckersasc.com/gastroenterology-and-endoscopy/2-tech-companies-partner-to-distribute-ai-polyp-detection-for-colonoscopies.html"
+  - title: "AI Robotics Security Leader AITX’s New Software Update will Include Weapon Detection"
+    excerpt: "With 42 Dealers covering the US, Canada, the U.K. & the European Union, Artificial Intelligence Technology Solutions (Stock Symbol: AITX) is a Security Force. AITX announced that its wholly owned subsidiary Robotic Assistance Devices,"
+    publishedDateTime: 2022-05-28T01:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-27-ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection"
     type: article
     provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 35
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 59
+  - title: "AITX subsidiary secures order for AVA and ROSA security robots"
+    excerpt: "Robotic Assistance Devices ((RAD)), a wholly-owned subsidiary of Artificial Intelligence Technology Solutions (AITX), has won an order from Romanian security firm Civitas PSG.As part"
+    publishedDateTime: 2022-05-23T13:17:00Z
+    webUrl: "https://seekingalpha.com/news/3841703-aitx-subsidiary-secures-order-for-ava-and-rosa-security-robots"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 51
 
 secured: "vRaXa071wS6OpS7M0xwlB5yOWKxiLmPBNM4Eyv/2aHIWu5Bn+Qz6ULNL/xrSR0a5p+4ILLLu0VmhIrTMq1JYExKUOxFlu7vyP6aXbCkFGu2fwyH9vHod9yTbNTSYbF4hd5hUGAFP50KbQQ2Pah9rdx9vcDY7qgseTE8Ji6BHOP/iBx8963b1F95Tb8K9TCAHkZJj6rqdcqqIbtizYOXvfs5TYlzqgtlE11VWQ+CWh7xbPas2E84XzbHj6hfWI2W/SbC1zKHnYd+X6wwOs+ZAdVlNPgJSWtrss17rkeyDeSbsBCQkq2juOyNUzQKV/SfK5xsmY9S/2EuqhsPafq0U2PiZ4gmQLZl6qRVJteAi6Zs=;bPZyYPLXcNfMC1xAzTcNwQ=="
 ---

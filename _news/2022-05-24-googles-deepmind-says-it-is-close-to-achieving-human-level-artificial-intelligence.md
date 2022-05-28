@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/googles-deepmind-says-it-is-close-to-achievin
 webUrl: "https://techstory.in/googles-deepmind-says-it-is-close-to-achieving-human-level-artificial-intelligence/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 698
     height: 486
     isCached: true
-
-related:
-  - title: "The hype around DeepMind’s new AI model misses what’s actually cool about it"
-    excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
-    publishedDateTime: 2022-05-23T12:18:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/23/1052627/deepmind-gato-ai-model-hype/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 31
 
 secured: "gC/sS3rDtKif5uY2xnmcNZn8qPbSMKZ/CU2wavFZE5p7Irt98GFKxFwFmJdFBpK19UoxlHilnbP110QaGKp6C54z/FoWYLngfHm78B7iPGM9aV9IQIbj5ihfA53oybI1WnMmJsSEYpTiAqEoYLPS3FSF9oSVQ2rRWz6mvXK6tuINzMV00F0fj7WW5KEB3TnFCnJ/Vs+bBOTOmPvolwHYQtWOXy6u0DCvCRL81/LQ7gpdDAXOxCi723Te8uhYS4oS1c3iMpACGYyhuxLRJWsqRxmF2AYx1n224xL+1sigwaZV6Eo56LrzaVs3kLAVKSWMtqExEByEhNXaHaasrBz9spPa5aOUjrX+rWlzTP78UqXDkwfJ5lhSrnvKD9KwrVHYp2yh3BVTaT0Lqy11azzRZ4FXU3TcT0TlTa4jpnH3kVqPO4mGsxPnAd9yf1nH10TgfaPxSzvVxI+SaiV8brG9zeqMOhYEUSRSgdbibNg90vzUDWkY8aJadx1SwJo6oQkRuj1DAUkEQaXTwAefyc9kUg==;sBNv5I+nIOCmPeDv7NYvVg=="
 ---

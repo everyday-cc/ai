@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Smarter health: How AI is transforming health care"
+    excerpt: "Could artificial intelligence change that ... (@oziadias) Also Featured Richard Sharp, director of the biomedical ethics research program at the Mayo Clinic. (@MayoClinic)"
+    publishedDateTime: 2022-05-27T17:00:00Z
+    webUrl: "https://northcountrypublicradio.org/news/npr/1101781164/smarter-health-how-ai-is-transforming-health-care"
+    type: article
+    provider:
+      name: Northcountrypublicradio.org
+      domain: northcountrypublicradio.org
+    quality: 39
+    images:
+      - url: "https://northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Fintech in Healthcare: Improving Healthcare Affordability Across the Globe"
     excerpt: "Rising service prices, patient number growth, and population aging have always been driving up the cost of healthcare around the globe."
     publishedDateTime: 2022-05-23T13:06:00Z
@@ -33,15 +47,6 @@ related:
     provider:
       name: Innovation & Tech Today
       domain: innotechtoday.com
-    quality: 19
-  - title: "Smarter health: How AI is transforming health care"
-    excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
-    publishedDateTime: 2022-05-27T18:00:00Z
-    webUrl: "https://www.wlrn.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
     quality: 19
   - title: "Can Transparent AI Analysis Boost IVF Outcomes?"
     excerpt: "Fairtility just raised $15 million in series A funding to support its transparent AI analysis technology for better in vitro fertilization (IVF) outcomes."

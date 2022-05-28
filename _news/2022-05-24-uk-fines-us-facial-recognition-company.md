@@ -79,6 +79,20 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Why is the Government bucking the trend on facial recognition for policing?"
+    excerpt: "Well-founded concern says use of AI in policing is discriminatory, ineffective and infringes on fundamental rights of citizens"
+    publishedDateTime: 2022-05-28T04:00:00Z
+    webUrl: "https://www.irishtimes.com/opinion/2022/05/28/dangers-of-facial-recognition/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition 'like having Guards checking everyone's photo ID'"
     excerpt: "Garda use of facial recognition technology would be akin to checking everyone's photo ID in a crowd. That's according to Liam Herrick, executive director of the Irish Council of Civil Liberties (ICCL)."
     publishedDateTime: 2022-05-25T12:19:00Z

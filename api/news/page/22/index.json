@@ -2,6 +2,50 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-05-05-computer-vision-in-healthcare-market-2022-growth-development-tends-and-forecast-2030-ge-healthcare-mckesson-allscripts-jointown-sana-oorjit.md",
+      "title": "Computer Vision in Healthcare Market 2022 Growth Development Tends, and Forecast 2030: GE Healthcare, McKesson, Allscripts, Jointown, Sana, Oorjit",
+      "excerpt": "New Jersey, USA Computer Vision in Healthcare Market Overview: The Computer Vision in Healthcare Market research combines a thorough examination of current and future potential to forecast future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-2022-growth-development-tends-and-forecast-2030-ge-healthcare-mckesson-allscripts-jointown-sana-oorjit",
+      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-2022-growth-development-tends-and-forecast-2030-ge-healthcare-mckesson-allscripts-jointown-sana-oorjit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/e3c6eede9f0b92ea738e91a001040ed4ff797a69-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-aible-to-participate-in-the-bake-off-session-at-gartner-data-analytics-summit-may-9-11-in-london.md",
       "title": "Aible to Participate in the 'Bake-Off' Session at Gartner Data & Analytics Summit, May 9-11 in London",
       "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
@@ -1042,49 +1086,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-petuum-unveils-enterprise-mlops-platform.md",
-      "title": "Petuum Unveils Enterprise MLOps Platform",
-      "excerpt": "Tong Wen is an Architect and Director of Engineering at Petuum. Tong joined Petuum from Microsoft where he was a member of the founding team of Azure Machine Learning. Tong has 10+ years of experience in building innovative and high-impact AI/ML and HPC ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

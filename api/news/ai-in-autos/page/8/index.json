@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-17-5-key-themes-in-americans-views-about-ai-and-human-enhancement.md",
+      "title": "5 key themes in Americans’ views about AI and human enhancement",
+      "excerpt": "Americans regard advances in artificial intelligence and human enhancement technologies ... media companies to find false information on their sites and a future with driverless passenger vehicles. It also explores three developments tied to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/fact-tank/2022/03/17/5-key-themes-in-americans-views-about-ai-and-human-enhancement/",
+      "originalUrl": "https://www.pewresearch.org/fact-tank/2022/03/17/5-key-themes-in-americans-views-about-ai-and-human-enhancement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/wp-content/uploads/2022/03/FT_22.03.16_AIHumanEnhancementTakeaways_feature.jpg?w=640",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-matlab-expands-to-reach-self-driving-wireless-markets.md",
       "title": "MATLAB expands to reach self-driving, wireless markets",
       "excerpt": "MathWorks, maker of the long-standing MATLAB suite, is focusing its latest software updates on reaching beyond its traditional scientific base and eyeing up autonomous vehicle developers, makers of devices with wireless communications,",
@@ -1279,58 +1322,6 @@
         "name": "China Daily",
         "domain": "chinadaily.com.cn",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-intel-files-to-take-self-driving-unit-mobileye-public.md",
-      "title": "Intel Files to Take Self-Driving Unit Mobileye Public",
-      "excerpt": "The chip maker said last year that it was going to list the Israel-based business, which by some accounts could fetch a valuation above $50 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536",
-      "originalUrl": "https://www.wsj.com/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-499528/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intel-files-to-take-self-driving-unit-mobileye-public-11646669536",
-      "publishedDateTime": "2022-03-07T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

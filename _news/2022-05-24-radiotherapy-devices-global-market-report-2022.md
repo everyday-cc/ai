@@ -20,17 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Global Machine Vision Market Size And Market Growth Opportunities"
-    excerpt: "Machine Vision Global Market Report 2022 - Market Size, Trends, And Global Forecast 2022-2026 The Global Machine Vision Market Report by"
-    publishedDateTime: 2022-05-23T12:39:00Z
-    webUrl: "https://menafn.com/1104258499/Global-Machine-Vision-Market-Size-And-Market-Growth-Opportunities"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 4
-
 secured: "PgPpZR0nkSN9VQJ8Cwfc+LjhJUkZsHPz2bEFlIYNv6QutwtU1irrHv8AUDjytS0IO3WzonlmikYkqvSqLaMoicF8skE94CguhS4hu0EsAvOe0qhxW94k17IMG7QLHOWNmtZW/81trXNCugk3OExsWIrQFejVVlGyz7rE02dvgCM/99F+OrUXQkYf/GYl/0NvgS9DoYNtGdGd8cba5SgqzsaKuLD2gMbKKvzdHZ1+Ye/6j8qNzFqQcWmXyKAuv/2WLLL4tUbmROFWoa5omKj/H9EzqT+YUlyqGOHXh2RlsP1MRWkdlJNTEOgMChCfWjriuDCVmlpQhb5YWZ6CHW2tN5o97UyWdvTNP3zsXg3xSNU=;2k5gn1dZfauk1lc5Bp5unA=="
 ---
 

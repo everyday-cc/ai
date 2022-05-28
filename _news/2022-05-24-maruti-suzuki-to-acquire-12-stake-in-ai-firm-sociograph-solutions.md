@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/maruti-suzuki-to-acquire-12-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/maruti-suzuki-to-acquire-12-stake-in-ai-firm-sociograph-solutions/amp-11653315429544.html"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Maruti Suzuki to acquire AI firm Sociograph Solutions"
-    excerpt: "SSPL is an artificial intelligence (AI) software company that specialises in visual AI platform predominantly used to help enterprises improve sales experiences and improve efficiency in their business."
-    publishedDateTime: 2022-05-23T11:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/maruti-suzuki-to-acquire-ai-firm-sociograph-solutions-8560731.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/maruti-suzuki-to-acquire-ai-firm-sociograph-solutions-8560731.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/maruti-suzuki-to-acquire-ai-firm-sociograph-solutions-8560731.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/03/maruti-suzuki.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "A8AOdrbl6yP22oULUdLNNoIfzbsRFJtCzxXz/DpwhyIKN7QKcOJa9UAV3Al7jP3okBIQnhs1HoZS35LSJmvOB26Xy3w1QtPfj8VW9+mmh1J9WjFxnJrBra/gd39IUvv25fvIsaVLvGI0eUg0ZdiHHO52LW6mLEvtCnBggAqo9t7I8g0ReR6Wf+69RzxiCD616e366qs7rNl76jRKHkSGgAqGuLjznpcxALHDfK1bueakUcFPl8yGY1dTqT9A2wzGP8V3Xy5OeUAYO0Z/aBUfuVhEbq69q/uQK6cBBNq0fsFuZ/sYx1QsjQAa+TSDO+ilCWKlIasdMXCpMofq2jJoLb7mlw8bTOfd3PkDGdA6wFE=;ao+S2XKcfO22qfD5Qp+rAA=="
 ---

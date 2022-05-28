@@ -24,17 +24,6 @@ images:
     height: 593
     isCached: true
 
-related:
-  - title: "Maxicare, startup Advanced Abilities launch AI-powered x-ray platform"
-    excerpt: "Advanced Abilities says AI Smartscan can detect up to 25 chest pathologies in as fast as two minutes, including tuberculosis, COVID-19, pneumonia, and lung cancer"
-    publishedDateTime: 2022-05-23T12:12:00Z
-    webUrl: "https://www.rappler.com/technology/maxicare-advanced-abilities-xray-ai-smartscan-launch/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 17
-
 secured: "PeBl5l/5O6X96RYAkDWULR4o0B7S2PWC9Pt/cJ/DmKUeenNkcu7hZRaldUD8juyk8foaPhGQEdJdUVJhrD7iMi7OcUKHO54AIavz7s58i5uJzR5fomSiEEINoFdlXr/qn/CobAob56U4WhaSiAVld/21W2NE0V1z1dOzATE7mtp2GJ+dlJycNJOUf+bvaXESGTr4Y8vsEoVb0oaqbYuC8GI+co1hyJsi8vbFBumLHOyl0vDyxxkQwCHZtmcyx/emfW9Un1iXBqrHljrR+OZTekMcNOg5VIa48TZEZo39JjlIjT1iu1kU1zARo2VXIDxN5gdg67Wpxfpy0163YBh/oFEIq8RKeEXXTwr8bICOYAbf/ITk39YIF2lFJVOikFHAapjQElAr7qTTKXVL9eiwjm7wfi/f/7LgyNWWo9D9WEcgt527e7Z9cHJnz9vm50oX+BhXN2iopClLqwnqSDtOzsRsVJcrXsx600KpiBTimzLePPpKn64AxHs24cA7g3vH9B3WhKROlDD1xFuOYA4UCw==;gFcUMyiUOVd82F33Zr5cvQ=="
 ---
 

@@ -2,6 +2,41 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-04-07-how-artificial-intelligence-revolutionizes-multi-level-marketing.md",
+      "title": "How Artificial Intelligence revolutionizes multi-level marketing",
+      "excerpt": "They call it Jenny; a robotic solution with Artificial Intelligence ... sitting on the company’s social media handles- WhatsApp, Facebook, Instagram, Twitter and even on its website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2022/04/how-artificial-intelligence-revolutionizes-multi-level-marketing/",
+      "originalUrl": "https://www.vanguardngr.com/2022/04/how-artificial-intelligence-revolutionizes-multi-level-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-microsoft-launches-its-ai-powered-notetaking-app-journal-as-an-official-windows-app.md",
       "title": "Microsoft launches its AI-powered notetaking app Journal as an official Windows app",
       "excerpt": "A little over a year after its initial release, a digital note-taking app called Journal is making the leap from being an experimental project housed with Microsoft’s internal incubator, Microsoft Garage,",
@@ -1104,49 +1139,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-facial-recognition-by-police-ban-it.md",
-      "title": "Facial recognition by police: Ban it",
-      "excerpt": "About three years ago, as the technology was advancing and law enforcement (figuratively) salivating over it, we took a stand against using facial-recognition programs on police body cameras in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/",
-      "originalUrl": "https://www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailybreeze.com/wp-content/uploads/2022/04/LDN-L-LAPD-CAR-0301-4.jpg?w=1024&h=578",
-          "width": 1024,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/amp/",
-      "cdnAmpWebUrl": "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/amp/",
-      "publishedDateTime": "2022-04-06T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Breeze",
-        "domain": "dailybreeze.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

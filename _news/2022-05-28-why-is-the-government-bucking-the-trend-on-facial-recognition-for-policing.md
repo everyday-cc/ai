@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Facial recognition used to bet on the ultra rich"
-excerpt: "For all its controversy, facial recognition is fast becoming a popular tool for convenience, used to unlock phones and, increasingly, to pay for things “It’s an early warning system,” Best adds. Ambassadeurs’ serving staff and croupiers all have phones with the encrypted chat app Wickr."
-publishedDateTime: 2022-05-26T03:00:00Z
-originalUrl: "https://www.businesslive.co.za/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
-webUrl: "https://www.businesslive.co.za/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
-ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
-cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+title: "Why is the Government bucking the trend on facial recognition for policing?"
+excerpt: "Well-founded concern says use of AI in policing is discriminatory, ineffective and infringes on fundamental rights of citizens"
+publishedDateTime: 2022-05-28T04:00:00Z
+originalUrl: "https://www.irishtimes.com/opinion/2022/05/28/dangers-of-facial-recognition/"
+webUrl: "https://www.irishtimes.com/opinion/2022/05/28/dangers-of-facial-recognition/"
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: businesslive.co.za
-  domain: businesslive.co.za
+  name: The Irish Times
+  domain: irishtimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://lh3.googleusercontent.com/UvOF7aHRWcZZQxflI5poMnDVlyI6d5YkhDdz8kk19qMcTv6lhEWCSqa6ZzZpI50Yu8xo10QMESFtfjlvZ07h2mPo_H5ipC0cAeN5FarU234xV4Y=s750"
-    width: 750
-    height: 562
+  - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/042tAv7BU4awCU1LoifhgMO-1.fit_lim.size_1200x630.v1653691896.jpg"
         width: 1121
         height: 630
+        isCached: true
+  - title: "Facial recognition used to bet on the ultra rich"
+    excerpt: "For all its controversy, facial recognition is fast becoming a popular tool for convenience, used to unlock phones and, increasingly, to pay for things “It’s an early warning system,” Best adds. Ambassadeurs’ serving staff and croupiers all have phones with the encrypted chat app Wickr."
+    publishedDateTime: 2022-05-26T03:00:00Z
+    webUrl: "https://www.businesslive.co.za/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/opinion/2022-05-26-facial-recognition-used-to-bet-on-the-ultra-rich/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/UvOF7aHRWcZZQxflI5poMnDVlyI6d5YkhDdz8kk19qMcTv6lhEWCSqa6ZzZpI50Yu8xo10QMESFtfjlvZ07h2mPo_H5ipC0cAeN5FarU234xV4Y=s750"
+        width: 750
+        height: 562
         isCached: true
   - title: "Mastercard’s newly launched face recognition payment system is already raising accuracy concerns"
     excerpt: "Mastercard recently launched a new facial recognition payment system that lets shoppers make payments with their face or hand gestures. This new payment system is being rolled out to biometric payment systems including fingerprint scanning and facial ..."
@@ -70,20 +84,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBDGMIG35AI6ZPBVVEOQVFESHM.jpg&w=1440"
         width: 1440
         height: 1080
-        isCached: true
-  - title: "Why is the Government bucking the trend on facial recognition for policing?"
-    excerpt: "Well-founded concern says use of AI in policing is discriminatory, ineffective and infringes on fundamental rights of citizens"
-    publishedDateTime: 2022-05-28T04:00:00Z
-    webUrl: "https://www.irishtimes.com/opinion/2022/05/28/dangers-of-facial-recognition/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "UK fines US facial recognition company"
     excerpt: "Britain fined U.S. facial recognition company Clearview AI Inc. for more than 7.5 million pounds ($9.4 million) for collecting online images of people without their knowledge, AFP reported. The U.K. data watchdog also ordered the company to stop receiving ..."
@@ -127,6 +127,6 @@ related:
         height: 450
         isCached: true
 
-secured: "5bW01irju9NWyZq5zFffxlRRKpvdBugbwqJh2o3O2Zvp3SnY96AGO02bgRJB6voE0lsXXMwxnt9GKfDyZliGb4NVv2kKctVXl6V4chJ/uVosPn3QhN8ImQu2TlqqzVNrSh+/Omq4o6R3ixBhRp9g47LRVmipkDUXNxw9+xuMDZG1HqKsO0p2QGLIu3RGfbjcGBSTLJw7gHG+f1zIOxU6BXw8lbSZABbus3d+aVpzUa2dr624EXsxA3mw7AdFO6NLUrkCpSKyNXhv2VDopSyaeN/VJh0/EvdVdYQRll6nnCfuubXK3/6h/v182sW4ReLXh0L5lE3BiEbO8Trd/WRhN4GBDe177pXi+dWeFb+Ot/NiSillFJT/Rg/SS6+fKmhf5JjObIqjWJoNuTFOBVYUnXRe2GujMTtBAnLz8OlqWgn948dOwe9qiZ08gwgGbQ7833oxgVdtkdLWIFKQ+ta5Bts4eWb66WGgVloX1f/q3WG0r5KpU+5SFJoeBCz1pG6hbpzRK8fP/Mph18SrloacJw==;w4UWTnOsVT3OiAMWy0QPqg=="
+secured: "RLtneEXUiKDUs950KSEgGgq7id4vWhfO6JxCXapVkCP2AAJI62ahodje4iTVk3E5aNV/ualVbuejMlp32Jb02GoAa1VWTIs3zQ/s9q+EdpNqbiiOg/bHhFYkZz0AXqIFyXGUNl53rLLD21U5gS9JRFoXiL9LSEtVVmVt7M1+kU2HDRBJJgk+EkJVwsrzmauJMRu+WpCWDV4+ktsU19xSQVWuITHoTpFhcJKbbkFUwQEEkknMhLdyujMjV00Sm9SyX9gL3O74kg28UlIbSa8EyRDq2GsIDpakbGI2QbE1iPtgZURgse/0TpSUZIxUNZ6cv2MH7vb+/J5/XDpVhxiIBpLvggW2A4m3BrL0VePnOlQ=;2A6OSwF9MgVOi57Jum1tug=="
 ---
 

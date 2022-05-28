@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Why is the Government bucking the trend on facial recognition for policing?"
+    excerpt: "Well-founded concern says use of AI in policing is discriminatory, ineffective and infringes on fundamental rights of citizens"
+    publishedDateTime: 2022-05-28T04:00:00Z
+    webUrl: "https://www.irishtimes.com/opinion/2022/05/28/dangers-of-facial-recognition/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UK fines US facial recognition company"
     excerpt: "Britain fined U.S. facial recognition company Clearview AI Inc. for more than 7.5 million pounds ($9.4 million) for collecting online images of people without their knowledge, AFP reported. The U.K. data watchdog also ordered the company to stop receiving ..."
     publishedDateTime: 2022-05-24T05:40:00Z

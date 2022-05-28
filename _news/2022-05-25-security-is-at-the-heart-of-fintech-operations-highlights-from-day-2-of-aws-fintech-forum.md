@@ -25,17 +25,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Nominations Open for 2022 IDC FinTech Rankings & Real Results"
-    excerpt: "Annual rankings serve as de facto resource for banks, insurance companies, and capital markets firms making critical IT buying decisionsNEEDHAM, Mass.--(BUSINESS WIRE)--#IDCFinTechRankings--Nominations are now open for the 19th annual IDC FinTech Rankings and 8th annual IDC FinTech Rankings Real Results 2022."
-    publishedDateTime: 2022-05-23T12:34:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=668203"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 4
-
 secured: "OmY41V8j+rqwm/7Qiu4O3O3+OrylAB6GiC9ZJjScFi8CZ38oWCIJWd4FUowuxYZMZ+w+AYWzxrIAFV9RgWut33dqVbZUvmMINDCo6N0b7yaDe91JDyvQbY+lE7KTQ3mq8mCNa3YRFRVgHhvoT9hE0+6IrCyopHBWtB/Ly/Lzfn0MHwAC+cBkf/NwzvZ8a6HP8/9VKmcvOWPyu8zbyFJPqTjEJnEYYMWJln/wjxr6O2fEPYaNL/F3ixcIKmWT7PE9Gx7NZDzjcc78Dw7IZLeZEkGvVwJOpYsZbx+aI5rC1R7D8dzB3oQfba7rND1Luqkyb2R112Wap3LrOPJgvHRzthEix/aEN/ajmEzS4QZNQBc=;y6NNqj7BYBXWDSF8T//HOg=="
 ---
 

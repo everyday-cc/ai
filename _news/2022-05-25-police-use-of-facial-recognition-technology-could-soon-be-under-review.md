@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition firm ordered to delete data of UK residents"
-    excerpt: "Facial recognition firm Clearview AI has been fined £7.5 million and ordered to delete personal data belonging to UK residents. The Information Commissioner’s Office (ICO) issued an enforcement notice against the US-based firm after a joint ..."
-    publishedDateTime: 2022-05-23T11:50:00Z
-    webUrl: "https://www.independent.co.uk/tech/facial-recognition-clearview-ai-uk-b2085114.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 39
-    images:
-      - url: "https://static.independent.co.uk/2021/07/21/12/GettyImages-1080200064.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Maxxess adds facial recognition authentication to eVisitor with SAFR integration"
     excerpt: "YORBA LINDA, Calif.—Maxxess, a global corporation specializing in security management solutions and innovative technologies, has added advanced facial recognition authentication to its eVisitor visitor management solution for access control, with off-the ..."
     publishedDateTime: 2022-05-24T14:40:00Z
@@ -82,20 +68,6 @@ related:
       - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Facial recognition company used by Met Police fined millions by information watchdog"
-    excerpt: "A facial recognition company used by the Metropolitan Police has been ordered to delete billions of Facebook photos and fined £7.5m after breaking data protection laws. Clearview"
-    publishedDateTime: 2022-05-23T11:31:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2022/05/23/facial-recognition-company-used-met-police-fined-millions-information/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 32
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2022/05/23/TELEMMGLPICT000295438109_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
         isCached: true
   - title: "Q&A: How will new facial recognition technology be used?"
     excerpt: "Facial recognition technology is touted as one of the most powerful surveillance tools ever invented. It is hailed by proponents as a justified means of catching criminals and terrorists as well as helping to identify victims and the vulnerable."

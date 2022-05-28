@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Facial recognition surveillance is a threat to civil liberties"
-excerpt: "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it."
+excerpt: "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ..."
 publishedDateTime: 2022-05-15T15:59:00Z
-originalUrl: "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
-webUrl: "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
-ampWebUrl: "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
-cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
+originalUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
+webUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/"
+ampWebUrl: "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/"
 type: article
 
 provider:
-  name: The San Bernardino Sun
-  domain: sbsun.com
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - Natural Language Processing
@@ -19,11 +19,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://www.sbsun.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682"
+  - url: "https://www.dailynews.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682"
     width: 1024
     height: 682
     isCached: true
 
-secured: "f93cIlQWA4yLoube1Yp9kUFjl+c4xEeAJvCILyTAArKqKV2EqpUr8NX3Zg9ymXjm/GPRHXQf8KP7fARDBDofcuLfheF5lPNYkMod3Gl8vcSZKiJ8X/H1L1WoYWhVxT3kXr5PCr7AYWNzW4ZLczLVdQCHL8VXwe03Y7LydJXr1jpffS9fi9y+D7a5H9fNP74gf+re+tztm3giGHW4bIyYYPAVTutJgWffAJZF8QTycaKcAYz5hpqeRebkoWyBon+kbz/33OrFrhRXDhN4O7UDZHzXlVksxVn6yXOEG0svhokKnx7uH9ErZCgVxbJp8cbPGX6QNPfa/LJKh1NFGmUeWYR1OCPOp5FKxLPAzaKyWqw=;gh09ZaOq0QxQenfZmdHUXg=="
+secured: "aLCjrIKeW7i5ynlasnvXkK2uXOoH+TYGWHsiVCYkyf5JONCuoCeaFmE/A2i1c8E6REhCBBJ8429I0odS+J3HtVfENz83hm+65u/a6lkUxwkOx76Wm8D5irJd+WIH11RQPmYnNLceJEc6lTVU0n76jph/gmRO7lwBrz1p0cridcqzS1rJz3G3r6zhHwTe7A4hnVqWXOYjzQ74l8anoDZmPSxTFSevoSEUA1nhE6WzYYb5hEl1AqHqopOivzb4W3mtpaqHYTTlc/c7JeO8obf2HhByDlyc9QabgTDvr2ZIDpgTQQUoXgGOkkVA8P9ffY0Jpglq2N10EwMf7SU9+X+c19cM9M1zIo2UCBlb+SWGkss=;hx3MbbeIDF7YC/WbpgJXZw=="
 ---
 

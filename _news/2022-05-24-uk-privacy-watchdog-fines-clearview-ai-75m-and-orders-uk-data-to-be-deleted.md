@@ -153,22 +153,6 @@ related:
         width: 1000
         height: 688
         isCached: true
-  - title: "UK watchdog fines Clearview AI $9.5 mn, tells firm to delete data"
-    excerpt: "The Information Commissioner's Office (ICO) in the UK on Monday fined facial recognition surveillance firm Clearview AI more than 7.5 million pounds (.."
-    publishedDateTime: 2022-05-23T11:16:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/big-data/uk-watchdog-fines-clearview-ai-9-5-mn-tells-firm-to-delete-data/91743478"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/big-data/uk-watchdog-fines-clearview-ai-9-5-mn-tells-firm-to-delete-data/91743478"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/big-data/uk-watchdog-fines-clearview-ai-9-5-mn-tells-firm-to-delete-data/91743478"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91743478,imgsize-84710,width-1200,height-628,overlay-etcio/uk-watchdog-fines-clearview-ai-9-5-mn-tells-firm-to-delete-data.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The walls are closing in on Clearview AI"
     excerpt: "The controversial face recognition company was just fined $10m for scraping UK faces from the web. That might not be the end of it."
     publishedDateTime: 2022-05-24T11:41:00Z
@@ -198,22 +182,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_406987681.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Clearview AI fined millions in the UK: No 'lawful reason' to collect Brits' images"
-    excerpt: "Updated The UK's data protection body today made good on its threat to fine controversial facial recognition company Clearview AI, ordering it to stop scraping the personal data o"
-    publishedDateTime: 2022-05-23T12:45:00Z
-    webUrl: "https://www.theregister.com/2022/05/23/clearview_ai_ico_fine/?td=rt-3a"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/23/clearview_ai_ico_fine/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/23/clearview_ai_ico_fine/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 53
-    images:
-      - url: "https://regmedia.co.uk/2019/02/27/shutterstock_facial_recog_crowds.jpg"
-        width: 648
-        height: 432
         isCached: true
   - title: "Clearview AI Ordered to Purge U.K. Face Scans and Pay £7.5 Million Fine"
     excerpt: "The U.K.'s Information Commissioner’s Office determined Clearview violated privacy laws despite no longer offering services to law enforcement."
@@ -342,24 +310,6 @@ related:
         width: 415
         height: 539
         isCached: true
-  - title: "Clearview AI had no 'lawful reason' to collect Brits' images"
-    excerpt: "The UK's data protection body today made good on its threat to fine controversial facial recognition company Clearview AI, ordering it to stop scraping the personal data of residents from the internet,"
-    publishedDateTime: 2022-05-23T11:47:00Z
-    webUrl: "https://www.theregister.com/2022/05/23/clearview_ai_ico_fine/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 19
-  - title: "Clearview AI fined in the UK: No 'lawful reason' to collect Brits' images"
-    excerpt: "The UK's data protection body today made good on its threat to fine controversial facial recognition company Clearview AI, ordering it to stop scraping the personal data of residents from the internet,"
-    publishedDateTime: 2022-05-23T12:06:00Z
-    webUrl: "https://www.theregister.com/2022/05/23/clearview_ai_ico_fine/?td=amp-keepreading-top"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 18
   - title: "Clearview AI Faces A £7.5m Fine In UK Over Privacy Concerns"
     excerpt: "The UK privacy regulator has imposed a £7.5 million ($9.4 million) fine on Clearview AI over collecting people's images and breaching data privacy laws."
     publishedDateTime: 2022-05-23T19:23:00Z

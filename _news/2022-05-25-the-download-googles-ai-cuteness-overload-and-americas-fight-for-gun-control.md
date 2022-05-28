@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/05/25/1052705/download-google-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052705/download-google-brain-ai-imagen-texas-shooting-gun-control/amp/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -18,19 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The Download: DeepMind’s AI shortcomings, and China’s social media translation problem"
-    excerpt: "DeepMind presented a new “generalist” AI model called Gato. The model can play the video game Atari, caption images, chat, and stack blocks with a real rob"
-    publishedDateTime: 2022-05-23T12:40:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/"
-    ampWebUrl: "https://www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/23/1052629/download-deepmind-ai-gato-china-social-media-translation-english-twitter/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 48
 
 secured: "yPOfj+UZh2ccTySWbB4dg8VDGLxZQMRVUf6obDLcUgiWkROvoLzoXuJcY6Gfh7R/SVJvouZlpID8g14BsADOcSZSPSl77AyD+/VVHug1Ri/UdqkX99UCTIWHu6uicx/vNf2hwljz6jObRPOFoweuYGQVBhMM339Z/1nUBe/la/qxUtRz6AXqfMTENA5plHvtgB5x3CrMwgRaviljqpX/y/XQcsFBq1a6RFP/m2FSGseXnK/ppB1FxbmXvHoEisqd8xrXIgiphh9IAah5avWje6Njs+s7cO0HSvYRF9qKTgtjh3/MHhfl02WlU+Md0iCAVqkYR4UtdMBXsfK3491KarRgUT2AmuDFrfR7a2wtyi6+bqHZvHL/oaz8TGg7JMVrXJ23SIwymW/AJdkyc41kQhuaclGHI23kyZWRlh5KHCSx4OYNaWcNVBsbijT42r/qL5yi2hntjUnTU7hRMrJM6LpI3twtF+xb4pmzQChuGEZC99rsFqCfrGorFcDRa3IMbuGPYQLEcK6wVzxO79mcyQ==;jOEInqYZWnoNgXwI+3pXFw=="
 ---

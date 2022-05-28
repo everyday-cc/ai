@@ -3,12 +3,12 @@ category: news
 title: "AI Behavior Health Chatbot App Fast-Tracked by FDA"
 excerpt: "Recently the U.S. Food and Drug Administration granted breakthrough device designation to Wysa’s AI-based digital mental health conversational agent that delivers cognitive beha"
 publishedDateTime: 2022-05-26T20:00:00Z
-originalUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
-webUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
-ampWebUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+originalUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -82,6 +83,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "ZQbKGt4lZc4f0P3E1SMHT1YkYDvwT0sInZK/rOLcdRnSnxeorq8JDAt0SslQu9+mwvM6kt/AqlPgcFmRNygK4trLlfJ3H6D1rpSi1n5spv55KYhX9+49lr4bwESzpgIjDkRC9N9c3fKiwuOF/SMOJ/7gdhT4gXrxTZDgIEdX8yx3D+Lu8t7JQELnCB5Wz8O+jpgwxNtkNGUWgP0kueb9wAEDBeuTo6Ofpz3Sf+1FMtWlWMT+IpjUE25/ZLSh9lxWzm/2PwfAuGrouWSM3yWSkmVwe/ydaQbXnbyA3jqtGB7sWk6pwPsw45ndNiqViG8835GGnOOtJerapZSrJ3KExk32uVCgOx30JtopK96sNSE=;Pd+XmY68b2nRmAWilWva2Q=="
+secured: "ds5RiENeOyVbNVTWcG/r4i982fpbF46gWPoNVH4LFPnYawdBDCkxDgOALELY7Rn6DbMacoLuhX18AZME+ztL0135vX776EWswzSFcCB9U2JuTLEDTn84k8RSVmSNHVaS+riHWE2fj8g9mmmL6NtC0urU1c9+DPYXsE9vcGAecZRIgRSDk5tuXtpZltMLvxf0Ks5JlWjp6UWEjjR6VsclTrrLamKDaYDkj6O/dSK2A+1uvwVA84RgHzXaxpOggZUURnx0LjjO/mfxLLWrD19XB0KGuSnWsrGT1atbov0DlFziyKiOypY7WyflOUQcM4Y5njHLLNPZz5jTzN0lZ6zcc4bWpW3o6wSTEWSaY9h1c2U=;IWMW7ZjdzwlDefGNiTgGPg=="
 ---
 
