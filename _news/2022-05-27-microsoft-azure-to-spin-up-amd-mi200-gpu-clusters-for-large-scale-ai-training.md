@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
 excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-publishedDateTime: 2022-05-26T22:50:00Z
-originalUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
-webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
+publishedDateTime: 2022-05-26T22:46:00Z
+originalUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 type: article
@@ -17,9 +17,9 @@ provider:
   domain: theregister.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Hardware
+  - AI
+  - Microsoft AI
 
 images:
   - url: "https://regmedia.co.uk/2020/11/16/amdmi100.jpg"
@@ -335,15 +335,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Introducing the Microsoft Intelligent Data Platform"
-    excerpt: "It’s clear that the fragmentation which exists today between databases, analytics, and governance products must be addressed. To help organizations unlock these new capabilities, we shared several exciting announcements today at Microsoft Build that demonstrate our continued innovation and investment"
-    publishedDateTime: 2022-05-24T08:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/introducing-the-microsoft-intelligent-data-platform/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
   - title: "From Windows, Microsoft Store to Azure, here are key announcements from Microsoft Build 2022"
     excerpt: "Microsoft has shared a host of announcements across platforms at its flagship event Microsoft Build 2022. Here are a few key updates from the event. Windows 11 . The tech major ha"
     publishedDateTime: 2022-05-25T14:09:00Z
@@ -629,6 +620,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "3VWJoZcO/hVCy+NoZK0NzlMCttYJGhaN66jSshTQm01HEldJN8x8EZbawyArmWR4mXWVyP/8qzbHBgFyLTsPovUf1v1itH9pZ4XCmwmZXknB0gE0ZAbzgyfj5GPzxJbDZLinSKTRPvIHYS6CAUmgbMLEPkYXc2JHhQXkz0Soh2jhoZiSvaOKISNlW2D7mtSm8faxzjhjSJBV10pLiH1NyiVMyfTU5ZEl5/AcNS7eThAyEtkMAsQab59l50nE2cLw7D64celPSSHT6ABy29r9n0k2kAAJq9g8uxdJVwbkqSYzlkV/DVLmFHAe8Vuo6Dlmhn5zVPxwuKNe5azTOdrUwjlDIrkVdKtrF9bqsliXfSw=;fHZuElfgjrb7HuMLYi2iRA=="
+secured: "T8qZ5kjI+cGOdIOZplDX08J2dq2mZJn17qrxKYun1KUq2NAhtE2kT6WHs25LXzkzdcUzw5fTkS33ItDyewChEe+Thr1YAUyEP4TVz9Yt/1SxufkFVC6aiKkQx8oiX1bCtIDxPLxg7JyngPvqAHYKhBycj8iKb/ATVZfGN6/kCwseZ+wJcwRhF8RvHA2GAIqw9I2baUOdAkL08sB3V2cW8CK7INx6E9yQi4FZ31HEQTSq8BEXBo1h5vQRebGMrnLSqgiDTZR/ZrLoefQeNanuwrm6+PS4eKif2NrNzM0doTXLrr/vnSPYPokmPpKVjAWas5z1YnvMMBEE5QRoiHjc+GVITeQckuNDAmh+kdhA9Bw=;3lZSTLaBnJT9/zRA8JtKxQ=="
 ---
 

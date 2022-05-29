@@ -143,20 +143,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "UK fines Clearview AI £7.5m for breaching facial recognition data laws"
-    excerpt: "The UK’s data protection watchdog has fined controversial facial recognition company Clearview AI £7.5m, for multiple data privacy law breaches. The Information Commissioner’s Office (ICO) has also ordered Clearview AI to stop obtaining and using the ..."
-    publishedDateTime: 2022-05-24T07:09:00Z
-    webUrl: "https://www.siliconrepublic.com/enterprise/clearview-ai-fined-uk-facial-recognition-data-breach"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/05/AdobeStock_406987681.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "TechScape: Clearview AI was fined £7.5m for brazenly harvesting your data – does it care?"
     excerpt: "The facial recognition firm earned a heavy fine for scraping millions of pictures of people’s faces from social media. But that doesn’t mean it will change its ways"
     publishedDateTime: 2022-05-25T11:07:00Z
@@ -201,15 +187,6 @@ related:
         width: 415
         height: 539
         isCached: true
-  - title: "ICO Fines Clearview AI £7.5m for Collecting UK Citizens’ Data"
-    excerpt: "The UK’s Information Commissioner’s Office (ICO) has fined facial recognition database firm Clearview AI £7.5m for breaching UK data protection rules. This represents a huge reduction on the £17m fine the ICO initially said it planned to issue US-based Clearview AI in November 2021."
-    publishedDateTime: 2022-05-24T09:00:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/ico-fines-clearview-ai-75m/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
   - title: "ICO fines Clearview AI $9.4M over alleged data privacy lapses"
     excerpt: "The U.K. Information Commissioner’s Office (ICO) fined Clearview AI more than 7.5 million pounds (U.S. $9.4 million) for collecting people’s images from internet and social media sites without their knowledge or consent to create a global online ..."
     publishedDateTime: 2022-05-24T12:41:00Z

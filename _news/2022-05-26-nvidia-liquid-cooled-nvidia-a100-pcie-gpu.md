@@ -57,20 +57,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Nvidia debuts liquid-cooled graphics chip for data centers"
-    excerpt: "Nvidia Corp. late today detailed a new liquid-cooled version of its A100 graphics processing unit that can help increase data centers’ energy efficiency and reduce their carbon footprint.  The GPU made its debut at Computex 2022 early Tuesday in Taipei,"
-    publishedDateTime: 2022-05-24T07:15:00Z
-    webUrl: "https://siliconangle.com/2022/05/24/nvidia-debuts-liquid-cooled-gpu-data-centers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Liquid-Cooled-GPUs-Press-Graphic.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Innodisk Showcases Innovative Edge AI Computing Capabilities at Computex 2022"
     excerpt: "In addition to these exciting new products, Innodisk presented a new AI exhibition area to showcase the application results of smart retail, smart factory, smart transportation, and smart infrastructure. Innodisk also showed off these applications through ..."
     publishedDateTime: 2022-05-26T06:17:00Z

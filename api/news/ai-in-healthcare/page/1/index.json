@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-is-ibm-really-making-progress-with-watson-in-healthcare.md",
+      "title": "Is IBM Really Making Progress with Watson in Healthcare?",
+      "excerpt": "adding that the company also sees an enormous business opportunity in this area as the adoption of AI increases. He highlighted three distinct cancer tools that IBM has developed: Watson for Oncology, which provides treatment options that augment an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/ibm-really-making-progress-watson-healthcare",
+      "originalUrl": "https://www.mddionline.com/digital-health/ibm-really-making-progress-watson-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/MachineLearning_0.png",
+          "width": 960,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-heres-why-you-should-retain-change-healthcare-chng-stock.md",
       "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
       "excerpt": "Change Healthcare Inc. CHNG is well-poised for growth backed by strength in artificial intelligence (AI) and machine learning (ML) initiatives and strategic deals. However, stiff competition remains a concern.",
@@ -74,49 +118,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-leveraging-ai-to-improve-patient-outcomes-in-healthcare.md",
-      "title": "Leveraging AI to Improve Patient Outcomes in Healthcare",
-      "excerpt": "The importance of providing patients with a fast and accurate diagnosis cannot be overstated – it can be the difference between life and death. Unfortunately,",
-      "sourceUrl": null,
-      "webUrl": "https://marketscale.com/industries/healthcare/leveraging-ai-to-improve-patient-outcomes-in-healthcare/",
-      "originalUrl": "https://marketscale.com/industries/healthcare/leveraging-ai-to-improve-patient-outcomes-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketscale.com/wp-content/uploads/2022/05/Intel_TwoPeople_PodcastGraphic-2.png",
-          "width": 2489,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marketscale",
-        "domain": "marketscale.com",
         "images": null,
         "publishers": null,
         "authors": null

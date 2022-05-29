@@ -38,6 +38,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI in Supply Chain Market to Extend to USD 20 Billion & Growing at a CAGR of 20.5% by 2028 | BlueWeave Consulting"
+    excerpt: "New Delhi, May 27, 2022 (GLOBE NEWSWIRE) -- The growth of global AI in the supply chain market is aided by the rising attention of artificial intelligence, large statistics & analytics, and the widening implementation of computer vision in each autonomous ..."
+    publishedDateTime: 2022-05-27T15:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27443027/ai-in-supply-chain-market-to-extend-to-usd-20-billion-growing-at-a-cagr-of-20-5-by-2028-blueweave-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "IAaxe6Sk1oQbVqRtBzP/xphc3O/YDSHypoosp3eI39roxVhzX+T1e50uQ2VnsC7elr9fB8W5GL/tJ2TfdO2qle1ol4BCTWyR49qVNBvy1mGeiMbGxhTH2WwaC4W/wG9TaQgaRS867DH49wGCUxuq2tcyVVbT9w116shemIqmFbKHmkPcYrJOhWru2bwyaDFsn5iZVaiL13ukcu0R99DuLYi2L9gprog4uTQcv8fGWYI7K6NeCfbLSD01uySX/cPNAm4OdP+dFZiUoLHvoDlLJhYtZCDDupQyOFPCMuM8OgB1iyiwRG9fw1ZFAu+OinPKtIC8lGo3fWeqAy+sVhqSx2Sz+s0JQsulJ3jTwKlS5A0=;K5DmVILYo+CAH+0+oKnpXg=="
 ---

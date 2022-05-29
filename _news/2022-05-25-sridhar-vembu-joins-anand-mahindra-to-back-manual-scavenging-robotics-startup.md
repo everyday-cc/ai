@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Massrobotics Launches $50,000 Robotics Competition"
+    excerpt: "MassRobotics launches $50,000 robotics competition . May 24, 2022 by David Edwards Leave a Comment . MassRobotics , a robotics innovation orga"
+    publishedDateTime: 2022-05-24T09:39:00Z
+    webUrl: "https://menafn.com/1104263784/Massrobotics-Launches-50000-Robotics-Competition"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/24/R&AN_33a63image_story.png"
+        width: 800
+        height: 369
+        isCached: true
   - title: "Zoho Corp. invests in Genrobotics, a deep-tech startup using robotics to end manual scavenging"
     excerpt: "Zoho Corp announced today that it has invested ₹20 crores in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions. Zoho’s investment will assist Genrobotics in its mission to eradicate manual scavenging in India and provide safety and dignity to workers in the sanitation and oil and"
     publishedDateTime: 2022-05-25T06:00:00Z

@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI Market Size 2022 with 21.48% CAGR : Innovation Strategies & Recent Industry Developments With Top Players and Forecast Up to 2028"
-    excerpt: "Global “AI Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI market is"
-    publishedDateTime: 2022-05-26T04:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-market-size-2022-with-2148-cagr-innovation-strategies-recent-industry-developments-with-top-players-and-forecast-up-to-2028-2022-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Organs Market Share 2022-2027, Bolstered by Significant Growth of Healthcare Industry"
     excerpt: "According to the latest report by IMARC Group, titled, “Artificial Organs Market Share: Global Industry Trends, Size, Growth, Opportunity"
     publishedDateTime: 2022-05-25T07:22:00Z
@@ -113,20 +99,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 1
-  - title: "AI Smart Baby Monitors Market 2022 : Global Rise Due to Innovation in Technology by Its Latest Trends, Smart Services and Solution Forecast by 2028"
-    excerpt: "The AI Smart Baby Monitors Market size is projected to reach $2.5 billion by 2028, growing at a CAGR of 6.2% from 2022 to 2028.This press release was"
-    publishedDateTime: 2022-05-25T16:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-smart-baby-monitors-market-2022-global-rise-due-to-innovation-in-technology-by-its-latest-trends-smart-services-and-solution-forecast-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/649120756dfde451d2abe8599eaaaace1a100069-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "ZtL6epO4bGScKEbMM0kBjSGo6/fJHCGlEYABFj/VjqedL8knkdpCsJJx0mQgRF4iVXesrIeHQl8kdvTvDI81yN2Zdx0+bAaeeh7ZdKtkY9Ya6QoxrRUYk3K9RYNvn5UZREpJBVo7Nybuar8HEQ2ahtvD+YvyTR1Ex3CJwevMHpHdizNf0oEoqDBZDup+VZXw7UzltZxXoZ2zIwl1Z9h+9Tg5BhNaKAX4qMlOREmDoMbI9hwPXkXEggVQguQbM1KMAm1e2LxhstYdLQqz8MgOnNVcQGegnErbSr/pEIibK+ZH3dMgHRWUmikp7I2M3rzBpNp6aK+Juy3C8UoGGzQ3+UiL1gv8yHzk6OZ9Q5/A8i4=;rCnu9OhlxVaCqE5reukcYQ=="
 ---

@@ -18,43 +18,34 @@ topics:
   - AI
 
 related:
-  - title: "At 30.0% CAGR, Deep Learning Chip Market is Emerging with US$ 21.31 Billion by 2027"
-    excerpt: "The Global Deep Learning Chip Market 2021 Research Report is a professional and in-depth study on the current state of Deep Learning Chip Market. With the"
-    publishedDateTime: 2022-05-24T08:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027"
+  - title: "Artificial Intelligence in Diagnostics Market Size Predicted to Increase at a Positive CAGR Of 32.3% from 2022 to 2031"
+    excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth"
+    publishedDateTime: 2022-05-26T02:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-size-predicted-to-increase-at-a-positive-cagr-of-32-3-from-2022-to-2031"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 50
+    quality: 15
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Facial Recognition Market: $12.92 Billion in 2028 at CAGR of 14.8%"
-    excerpt: "Global Facial Recognition Market Size Future Project Expediency –Report includes a detailed explanation about the past and present trends of the market"
-    publishedDateTime: 2022-05-24T11:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-12-92-billion-in-2028-at-cagr-of-14-8"
+  - title: "AI in Medical Imaging Market Size in 2022 : 45% CAGR with Top Countries Data, Key Regions and Growth Forecast to 2031"
+    excerpt: "The global AI in medical imaging market in terms of value is expected to register a CAGR of ~45% between 2022 and 2031. Artificial intelligence is"
+    publishedDateTime: 2022-05-26T02:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-imaging-market-size-in-2022-45-cagr-with-top-countries-data-key-regions-and-growth-forecast-to-2031"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 39
+    quality: 14
     images:
-      - url: "https://i.ibb.co/VqCsYGs/facial.png"
-        width: 623
-        height: 310
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Healthcare Natural Language Processing Market valuation reaching US$ 14.6 Billion by the end of 2032"
-    excerpt: "The healthcare natural language processing market is expected to rise at a CAGR of 16.7%, with the market valuation reaching US$ 14.6 Bn by the end of 2032. One of the key drivers and investors in the natural language processing business is large corporations."
-    publishedDateTime: 2022-05-25T09:47:00Z
-    webUrl: "https://www.fmiblog.com/2022/05/25/healthcare-natural-language-processing-market-valuation-reaching-us-14-6-billion-by-the-end-of-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 21
 
 secured: "/9Vg2Mr+WM1MxFFU0uKgIIyFdV2dgFY4YvYFsuNzfgD8HenZq8hIEQVx+hxmQCokLejLBV0szWOYAWNDmcq10O6oFHvcF60jr+9QHqHujkGvEUEnyrhn2d+RzEDmN2+ZM6KSQZNOx0FtZ3mYoCOUHDbZ/zT85Ss5mmhZ7tSLt1gDSBPPMKwM8yinBeLDIY+XvZRwImQ9n4btB5QkkfEK5c1SqNPmNASHJKfGc166+1j7rap46Dee0wxDgSmqwxMhD3QYJO5wQ+W9W8rizQY+2uGwUfFNx4lfemR6c5Niy9wfBe78Y03Aqg/s9C9AK1Q0tQJMZJLtwIC6QnfV8MZ6b11EmZhxCzFL4aSwvKdMt0UI2Cj+5cCe01ACTucuwgIwvu23Mdg78fU+1ghYSr7uu2e1VfyZm65U+9FRNqjeCE9+Xtktok6m5h8HQWKXqHlEuVfkr4cW5p9aL4wDGLN966vZQCAMayWqYD3Luw1NxwthFg1jxKDJlUgGts9Hbzr/yK8pZoQmRh8daEQCu239yw==;MPD5MRMveaewe8rMuEcBrw=="
 ---

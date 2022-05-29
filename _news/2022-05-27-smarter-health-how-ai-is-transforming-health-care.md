@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Leveraging AI to Improve Patient Outcomes in Healthcare"
-    excerpt: "The importance of providing patients with a fast and accurate diagnosis cannot be overstated – it can be the difference between life and death. Unfortunately,"
-    publishedDateTime: 2022-05-24T14:01:00Z
-    webUrl: "https://marketscale.com/industries/healthcare/leveraging-ai-to-improve-patient-outcomes-in-healthcare/"
+  - title: "Is IBM Really Making Progress with Watson in Healthcare?"
+    excerpt: "adding that the company also sees an enormous business opportunity in this area as the adoption of AI increases. He highlighted three distinct cancer tools that IBM has developed: Watson for Oncology, which provides treatment options that augment an ..."
+    publishedDateTime: 2022-05-24T23:59:00Z
+    webUrl: "https://www.mddionline.com/digital-health/ibm-really-making-progress-watson-healthcare"
     type: article
     provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 54
+      name: MD&M East
+      domain: mddionline.com
+    quality: 56
     images:
-      - url: "https://marketscale.com/wp-content/uploads/2022/05/Intel_TwoPeople_PodcastGraphic-2.png"
-        width: 2489
-        height: 1400
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/field/image/MachineLearning_0.png"
+        width: 960
+        height: 480
         isCached: true
   - title: "Smarter health: How AI is transforming health care"
     excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"

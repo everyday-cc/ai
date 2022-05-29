@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-and-tech/zoho-
 cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers"
 type: article
 quality: 73
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/05/Genrobotics-social.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Massrobotics Launches $50,000 Robotics Competition"
+    excerpt: "MassRobotics launches $50,000 robotics competition . May 24, 2022 by David Edwards Leave a Comment . MassRobotics , a robotics innovation orga"
+    publishedDateTime: 2022-05-24T09:39:00Z
+    webUrl: "https://menafn.com/1104263784/Massrobotics-Launches-50000-Robotics-Competition"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/24/R&AN_33a63image_story.png"
+        width: 800
+        height: 369
         isCached: true
   - title: "Sridhar Vembu joins Anand Mahindra to back manual scavenging robotics startup"
     excerpt: "SaaS giant Zoho Corp recently invested INR 20 crores (USD 2.5 million) in AI-powered robotics startup Genrobotics."
