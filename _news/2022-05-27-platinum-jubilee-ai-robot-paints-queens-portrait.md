@@ -3,18 +3,22 @@ category: news
 title: "Platinum Jubilee: AI robot paints Queen's portrait"
 excerpt: "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm."
 publishedDateTime: 2022-05-27T04:54:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523"
-webUrl: "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523"
-ampWebUrl: "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp"
+originalUrl: "https://www.bbc.com/news/uk-england-oxfordshire-61600523"
+webUrl: "https://www.bbc.com/news/uk-england-oxfordshire-61600523"
+ampWebUrl: "https://www.bbc.com/news/uk-england-oxfordshire-61600523.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-oxfordshire-61600523.amp"
 type: article
-quality: 74
-heat: 104
+quality: 104
+heat: 134
 published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -72,6 +76,6 @@ related:
         height: 476
         isCached: true
 
-secured: "Uw/GjiL3N9TlThHBA+b2DN3OapfhmcMxZOL8NSy6P8H/S+L76xF4fV76cBNtPkpFlSiIwIQPdmryxO1/8t20bsNH0CWCRDxLTHdDmkrVKb/0Lr4Wl/mTWdoJPXX0FIlCWXE+ZH7R8W0MGMYredNGpsIKhKJTX/TYmIpz4b7d4WhvCx/cJkD0psL0yXVAe4/2FEHpM+VcKEs6ZkQuMFVfwmKXN8AUPBYdqi54iOBHUUJP7bGFFqWUnWqldqxc4Mbnb0azEGAtT+8nDp6E32v9ZQJAqoSfziBltq2g2toNRtcayJjkBZgjgbQZvjRiQZr1Zd1WjmvUe0PbuTUNiCLDd/Ano1ROcgH5wvuNg/4XTPRKkFJsCcZ6SR4i+6RwIHnc/3GlTjsIapTbz0YpxHdN0kRNPKJAryOx13tebpaE3begGKEK4FQrCMn2wIxpHge0s2hw/zBoF6n+jcsVNbFjwwD4ihsb/830TBlugM4Ck972OJJCMEr0KFWbdG5Uj9/aY5ERPA5YRie3ijdwUVyJCA==;3RPwO6uCiDEfLlIveso6lw=="
+secured: "ERzr/Gp3RgSIabjdTcLs7YlJ4r+OO/Dy9x19rSt9h8jDNY5GzajTrAVFvpu7SadprSEFtXpt/YhqGobgm3da8yHmqe0gPIwuhysx6U4zVzWt+l6g8PDrseAPWmZ6MvArkEBVxg9zy0j/PBIOQQnnxWXUWrXPmHK+LRWzNOR/2/Cj+SHc1/qVjqbWSjScGMNj06s4/pVqmZs62x40G3voX0EVInM1i/wOrCTMaAvQg589ccbuDWugO7PEujNC9V3TK2Mbv+jTR5JCdMm3tcyqgNdiciXQrbjq6vP/XnvO2NenLpQqEbG0wKM/MvWfAKHCZPAFLGW9YMMMzXH5ZsHCEZF174AGyAm8uUVuIMGxpAE=;PAmbwwhfHjlMRagZHMevSg=="
 ---
 

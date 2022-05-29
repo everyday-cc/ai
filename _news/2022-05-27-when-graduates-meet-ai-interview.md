@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202205/1266726.shtml"
 webUrl: "https://www.globaltimes.cn/page/202205/1266726.shtml"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,45 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI"
-    excerpt: "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models."
-    publishedDateTime: 2022-05-24T17:50:00Z
-    webUrl: "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/"
+  - title: "A glitch in artificial intelligence"
+    excerpt: "There was just a glitch in their system. I think they are randomly walking the streets now.» CAITLYN: «Don't worry, Victor. Vi will find all the robots and bring them to you.» VIOLET: «What?? Why me?"
+    publishedDateTime: 2022-05-29T04:15:00Z
+    webUrl: "https://archiveofourown.org/works/39290073"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all"
-        width: 1200
-        height: 603
-        isCached: true
-  - title: "Iterate.ai Wins Intellyx 2022 Digital Innovator Award"
-    excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced that Intellyx, an analyst and advisory firm helping business executives and IT leaders untangle the technologies and practices behind digital transformation,"
-    publishedDateTime: 2022-05-26T17:51:00Z
-    webUrl: "https://www.localsyr.com/business/press-releases/globenewswire/8560814/iterate-ai-wins-intellyx-2022-digital-innovator-award/"
-    type: article
-    provider:
-      name: LocalSYR
-      domain: localsyr.com
-    quality: 37
-    images:
-      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
-        width: 814
-        height: 330
-        isCached: true
-  - title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
-    excerpt: "Data scientists can send trained data created in Interplay 7 for processing in Amazon SageMaker or Google Vertex AI, or can process data in Interplay itself. Building web and mobile applications ..."
-    publishedDateTime: 2022-05-24T18:33:00Z
-    webUrl: "https://fox8.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
-    type: article
-    provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 1
+      name: Archive of Our Own
+      domain: archiveofourown.org
+    quality: 19
 
 secured: "ilONlhYYEHiHEght6ikdjJ1v66RhHvjY7KIzRMKUFzAMFE5ddK5I029nD2C79rbIbQMKjW8IX1D9kryBHzHTOTUGePq6l+xXntbQku/hEYwdVZkc5QwDOMdWqBIsgi+gbt+MLdDc5QLEj8M7bkuUtqaPe6vlTmRZJAexQZ1N73RqiHwgocjEAUnV4/qpsMcz608Rd1dQbw3L4soOLvvt3nMaPZleUR3MiZIlW8VbLb+nCnvBsiMfZSzDjiy7nEgeblZkBglH9xilPOMb9jJB9xTySu5ACiypW0JuZNnbT21435hJXz10wc7LbOZVqTRX62fwYC7+Jtxx1IrzIL40pHztQEVCLsVZ7XaJZL9BiheuJobA1ZkpykYyfUUXfRXvkRbiKgZ19kamOp94zFadH9+0xAQEb3fppwyOvYCr1beXffdFUvnpIamTb6ScZtZUCFiY04xP0FmcF0oxuTGd9qgaYJFTklLlK6+oKDjEGe8QEpv7L0uHeee8Wa0tiiUBCtbl8EReL7e4BAbgE5dEBw==;/EX+RTjwnyQZ7VxTNttaFA=="
 ---

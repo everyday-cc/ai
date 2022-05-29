@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-text-to-image-ai-can-ma
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -125,20 +125,6 @@ related:
       - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/7952219469/google-imagen-brain-toronto-skyline.jpeg"
         width: 590
         height: 590
-        isCached: true
-  - title: "Google details new cutting-edge image generation AI"
-    excerpt: "One of the most sophisticated entries into the category is an AI system called DALL-E 2 that was detailed by OpenAI LLC earlier this year. According to Google, its newly announced Imagen system ..."
-    publishedDateTime: 2022-05-24T17:29:00Z
-    webUrl: "https://siliconangle.com/2022/05/24/google-details-new-cutting-edge-image-generation-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/google-1.png"
-        width: 1024
-        height: 580
         isCached: true
 
 secured: "3T3tyvinQP8v55T/GGswT5/invcQClp07IX8aOA1Z8SuJxkrS4H8oDbrJhePft05PTzKwetcuNm1sMk3aI9lkZF0rJiPCBXf5Jv44BdbGelj6f3wwYGet+IPwJp379UnjDxKnXW+Wp0aynxYL8Mf/OsCCN3M/OgRnnxKbcWh0SDPp/lq8w1s0ITcphv959WowuprAngZrmVPd0zjnCS3pflsCPo7Br7xLNka1oZ9FT79qdr6jWOvx/EZoBzC63c4RqTZnhb2vxa4WKIBxaGOWddiIlvs9JuaSze80XTKr9RSUlPvoChZfRH+blYPxPFqOc0C2mnbCX/DLRS0pcJ4Sq3eydSkjHSweZSoYYxoigftza4mI0/3Gwxnoc2TUTNquax6KENw2Vb4HdktkdQFRbQGeXnqKMWhjyS+6DRdVc1OqjXpuepamD6JQt/9Jk7QdXl8J+s47e4QmR6ziRxRO07BnzHkAtZksKTQEIH8qBXgkKwEY64JRcNSbKQAC8bhCKTZZTFElaCx7oh5B040jw==;MqUX08qf7rp8WH9O0Al1eA=="

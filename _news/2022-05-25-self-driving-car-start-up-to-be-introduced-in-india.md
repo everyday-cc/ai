@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tenda CP3 smart AI security camera launched in India for Rs. 2,999 ($39)"
+    excerpt: "Tenda has announced its CP3 smart AI camera in India with an Rs. 2,999 (~$39) price tag. The Tenda CP3 comes with artificial intelligence (AI) capabilities and a 1080 pixel sensor for FHD footage. The Tenda CP3 also offers several features that make it a ..."
+    publishedDateTime: 2022-05-29T10:30:00Z
+    webUrl: "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/"
+    ampWebUrl: "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 103
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2022/05/Tenda-CP3-smart-AI-security-camera.jpg"
+        width: 1000
+        height: 1000
+        isCached: true
   - title: "Artificial Intelligence to Make Roads in India Safer to Drive"
     excerpt: "Artificial Intelligence (AI) can soon make roads safer to drive in India, reveals a new study. A unique AI approach that uses the predictive power of AI to identify risks on the road, and a collision alert system to communicate timely alerts to drivers,"
     publishedDateTime: 2022-05-27T13:56:00Z
@@ -40,22 +56,6 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/accident.jpg"
         width: 1200
         height: 1000
-        isCached: true
-  - title: "Urban Indians want govt to invest in AI and other emerging techs: Survey"
-    excerpt: "The survey that explores the awareness levels about new technologies among Indians also highlights the other top technologies most urban Indians have heard “a lot about”. Those include cryptocurrency,"
-    publishedDateTime: 2022-05-26T07:41:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey-11653550171041.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
-    images:
-      - url: "https://images.livemint.com/img/2022/05/26/600x338/oped1-kC7G--621x414@LiveMint_1653550720385.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "kgd0zPAbTDrQof6LKW2dZL3cUAd6WNOzES9RvkosE7zA+VQwArITg3qEH559hZt6ag896xR+vBj2n8YKOS6PSys0OECr0ypDRUY2XdCU+NpYavpHxW7He6e2b3tkGzM/0jmBA9ZxMfN/n6P5C9kBgUIfadQ7TYi9lK7E6EsSacYQihFC33nLgD2EHFd6GZaLXs/aXJQSks7GdeEIpP4xLQ2YwPGWOG1v84g9ZdPA66CI5O/xbFpOedj6Uaz31yiXDBO6/PTOsyk38P4aqb+l8vSoj/TPZpFaWgH1sNVqwia/oX+COtN1pY0IOiXDXg+QFL+uju7F1m4ts+iHEHyjwpI/FrxUAtev1N0tJ69sqsSFRma/TWfd9KDjR0WOt8JdmR7GzvlXnCssx7USjnbOiS711Ifhj1iRoe9lux1UGepGGYNlo/4acTjDh81PHddPWTb1eHtiEnYeb/4f3OUogaIRfihdEA0Ep2L3m/PtlKKVYPKsPETSdodGoTeKkGAmfJQNpHu43ePaTRXd6J+rKg==;JCwLj8WV3t+SlIwpD389MA=="

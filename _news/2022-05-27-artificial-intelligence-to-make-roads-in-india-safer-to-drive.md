@@ -9,8 +9,8 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-to-make-ro
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medindia
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Urban Indians want govt to invest in AI and other emerging techs: Survey"
-    excerpt: "The survey that explores the awareness levels about new technologies among Indians also highlights the other top technologies most urban Indians have heard “a lot about”. Those include cryptocurrency,"
-    publishedDateTime: 2022-05-26T07:41:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey-11653550171041.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html"
+  - title: "Tenda CP3 smart AI security camera launched in India for Rs. 2,999 ($39)"
+    excerpt: "Tenda has announced its CP3 smart AI camera in India with an Rs. 2,999 (~$39) price tag. The Tenda CP3 comes with artificial intelligence (AI) capabilities and a 1080 pixel sensor for FHD footage. The Tenda CP3 also offers several features that make it a ..."
+    publishedDateTime: 2022-05-29T10:30:00Z
+    webUrl: "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/"
+    ampWebUrl: "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/?amp=1"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 103
     images:
-      - url: "https://images.livemint.com/img/2022/05/26/600x338/oped1-kC7G--621x414@LiveMint_1653550720385.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.gizmochina.com/wp-content/uploads/2022/05/Tenda-CP3-smart-AI-security-camera.jpg"
+        width: 1000
+        height: 1000
         isCached: true
   - title: "Self-Driving Car Start-up to be Introduced in India"
     excerpt: "Minus Zero is an Indian based start-up that is looking make self-driving cars into the mainstream in the country."

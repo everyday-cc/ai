@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/urban-indians-want-gov
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,36 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence to Make Roads in India Safer to Drive"
-    excerpt: "Artificial Intelligence (AI) can soon make roads safer to drive in India, reveals a new study. A unique AI approach that uses the predictive power of AI to identify risks on the road, and a collision alert system to communicate timely alerts to drivers,"
-    publishedDateTime: 2022-05-27T13:56:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
+  - title: "Half of UAE residents think the government should invest in Artificial Intelligence and 3D Printing"
+    excerpt: "In recent years, UAE has become one of the world's leading hubs for technological advancement. As emerging technologies continue to impact the lives of the people across the globe, YouGov's latest survey explores the awareness about 16 new technologies amongst UAE residents and highlights their opinions about the future and impact of these technologies on society."
+    publishedDateTime: 2022-05-26T13:34:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/half-of-uae-residents-think-the-government-should-invest-in-artificial-intelligence-and-3d-printing-vyi1v72o"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 57
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/accident.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
-  - title: "Self-Driving Car Start-up to be Introduced in India"
-    excerpt: "Minus Zero is an Indian based start-up that is looking make self-driving cars into the mainstream in the country."
-    publishedDateTime: 2022-05-25T06:55:00Z
-    webUrl: "https://techstory.in/self-driving-car-start-up-to-be-introduced-in-india/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/05/AMP-62_60fabd243e292-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
+      name: Zawya
+      domain: zawya.com
+    quality: 5
 
 secured: "oVmUVp69uFnUTAlmQC6hteHTyP1EffCN6twX24CgOsainO3Vxmxp6nfaUnktD2UbGMmgsx3IQ1qlT+cf8+Y+0SkpOCi5kU5eKOlQvh+XJHjN+hChz56rWNezq3+Wip9uBLzO2FAX/XSuyltAHJmZk33g6otHPvlWux+i5uDCzqewTOhxNstsm4s2tUgoNkfP7xr55Ir2Q+/PK67HNYOCLun3jXFK/Dy6I48n9+DHJnBWZ4hIlWQM4CCwIcT/gl/bkytR6TkuFgBwky80pJ0X19X9Ri5fFydgetZMN3PPqIC6znvN8wiV5/PDS1ZKmHH6bvs93siM+lzdkbhs910LOyzIgYcUHWACft5t4H8Xw7U=;Tzt8JKzXSN7jmxY1WhnIKA=="
 ---

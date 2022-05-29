@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "Acer supercomputer boosts AIM artificial intelligence education"
+    excerpt: "The Analytics, Computing, and Complex Systems Laboratory at the Asian Institute of Management (ACCeSs@AIM) houses a supercomputer that's the fastest"
+    publishedDateTime: 2022-05-29T11:28:00Z
+    webUrl: "https://manilastandard.net/tech/314232053/acer-supercomputer-boosts-aim-artificial-intelligence-education.html"
+    type: article
+    provider:
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 71
+    images:
+      - url: "https://manilastandard.net/wp-content/uploads/2022/05/IMG_9372-1.jpg"
+        width: 1687
+        height: 2199
+        isCached: true
+  - title: "HPE is building a rapid AI supercomputer powered by the world's largest CPU"
+    excerpt: "Hewlett Packard Enterprise (HPE) has announced it is building a powerful new AI supercomputer in collaboration with Cerebras Systems, maker of the world’s largest chip. The new system will be made up of a combination of HPE Superdome Flex servers and Cerebras CS-2 accelerators,"
+    publishedDateTime: 2022-05-26T17:04:00Z
+    webUrl: "https://www.techradar.com/news/hpe-is-building-a-rapid-ai-supercomputer-powered-by-the-worlds-largest-cpu"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 67
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/XBZBxbuMHoHZsPHfA6NZtU-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Pushing the limits for digital eyes: AI takes over the computer vision"
     excerpt: "“Scale-up Champions” community invited Barcelona-located computer-vision company to discover business scaling opportunities in other EU countries. “Increasing computing power and open data sets have influenced the favorable conditions for AI-based ..."
     publishedDateTime: 2022-05-27T10:57:00Z
@@ -41,6 +69,15 @@ related:
         width: 855
         height: 641
         isCached: true
+  - title: "HPE and Cerebras to Install AI Supercomputer at Leibniz Supercomputing Centre"
+    excerpt: "Cerebras Systems, and Hewlett Packard Enterprise (HPE), today announced the joint development of a system designed to accelerate scientific research and innovation in AI at Leibniz Supercomputing Centre (LRZ),"
+    publishedDateTime: 2022-05-25T17:58:00Z
+    webUrl: "https://insidehpc.com/2022/05/hpe-and-cerebras-to-install-ai-supercomputer-at-leibniz-supercomputing-centre/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
 
 secured: "5lYT7NBr+2Tuwu13DIJhP1psJUSyNJO8yCEdTzB6RO18V9W2JABIIgNBfjJ99ySLWTEJww/71IbZlgy4Tq75V7oB+KPHItdDB3sPmMLDRu9ryIaEjLn1MPJabQbn/MJmL8+CwattBJy+s6BRD6Gq0WuKtDK/mazmqitoC0ouvEvyUkgdo1hUXeXyewgatGu8U6bpD4bNKJy76Sq6l6w1lS22y3CI5LDFD1BlU/U7gJzZxyO4Z41mC9hIOs2JfFU7eNZKPmm1LpGXXCHnve9xLL7+KhDRIGekx9rlMM7rtLE/fGrEEKYmB3Cmq7cFCJw13oTd18IyjmQrpbO5B3dCePLn8OznBKYJmXDo205O3j4V9Dqdrf+GRsDMH1Ndggy5CNQTbf398G0mZVj/+aO9iTOYs27GdrU4994XBExkGhIAosYFc9FQGzN6uFB4Mtbbx5nPD8WqAQ/IDvYoiOARgLm/QAx6b630eN0qrwCfORh5TaW9qnCeYl4Kch7mFUnKoVfDguR+k3iQMRYy3zUG+w==;aTstebGIyA/e/GJV7i7bvg=="
 ---

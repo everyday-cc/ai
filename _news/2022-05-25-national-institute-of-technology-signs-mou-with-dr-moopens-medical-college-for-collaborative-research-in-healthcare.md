@@ -26,22 +26,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Meet ‘Moxi’ – ChristianaCare Introduces Innovative Collaborative Robot to Give Nurses More Time to Deliver Care and Patient Education"
-    excerpt: "ChristianaCare is the first health system in the Philadelphia region piloting an innovative tool called Moxi, a collaborative robot — or “cobot”— that can assist in the hospital by making deliveries and performing other non-clinical tasks so that nurses and other clinical staff can spend more time focused on what they do best—caring for patients."
-    publishedDateTime: 2022-05-24T18:52:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-philanthropy-51e3836421f84d83026bb79a9d06e322"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "HuYD2adHjtB1SwptO9JmUy+5zcv9ZXhLM1bRBAz6s4AELQy/fYMBT95/vHW0USvZsMJMpJMC4S4U5Wwk9iVPSNfhWmG0g7B3xw6bZqtmSZQ5miuShiFAaXVrJ+g0o5rtrJGH3DxVquhCBdUI1BTCB66d8whLAwFD60/27QXlyphSxFQ+QsF9s0FWx8pL91Vso753YxHYNaHMYRMybpY9sl31CMDmS+QMaOyABH9HEtBRicGIDMzART9E1T7jbeszSsTKerJwa4wzXxjvN2XEM5u3OkPdq4UII0+V76rD+ANfFLKHmIinYL4O+UUdYPy5uv6BJC07BU4ZhAOlFx3X3Uq219gRn+rBaMWIlzUMsty/cehgYdOfqPQUTTfa7v2KMyEUXxweFVxjIr6wZ9CyzX5KEjYzslhsNh31LTNUSijSJPwmWS2c7/N0oFxLtZUsj95b1k8BQZWzuPFwRVJOeWwG/Mc1G0yZH3cRlv+TLYd1P7csjHkiVDcfZyVnIzL1LIomzKaNTB2XFTg/U6uUtQ==;MlXEhANLXm0XSCEmSI8A5A=="
 ---
 

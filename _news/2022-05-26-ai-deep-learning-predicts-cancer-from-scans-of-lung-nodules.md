@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "AI tool helps doctors predict cancer risk in lung nodules seen on chest CT"
-    excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study published in the journal Radiology."
-    publishedDateTime: 2022-05-24T17:20:00Z
-    webUrl: "https://www.news-medical.net/news/20220524/AI-tool-helps-doctors-predict-cancer-risk-in-lung-nodules-seen-on-chest-CT.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220524/AI-tool-helps-doctors-predict-cancer-risk-in-lung-nodules-seen-on-chest-CT.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220524/AI-tool-helps-doctors-predict-cancer-risk-in-lung-nodules-seen-on-chest-CT.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI can predict cancer risk of lung nodules"
     excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study."
     publishedDateTime: 2022-05-25T13:46:00Z
@@ -82,15 +66,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Researchers use AI to predict cancer risk of lung nodules"
-    excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study published in the journal Radiology."
-    publishedDateTime: 2022-05-24T18:29:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-ai-cancer-lung-nodules.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
 
 secured: "8iVcAFHf8P8d6o6xz6sZSa7q270a8GRZYJ05/SMHNa9frGAdhBgcAMpylhKZGlIQo6WXANJozK6MpPsfriz+FK+CZ/KGdE6Nllh7KU+ga0RUak6huVKo/av+wTyJEwmJ52VSyA1rMaoPnZMuJ7rnvYJilnYaPpqFhv34UTbx/DFMPptShyjhbwwQ11gSYdVccRTzTZNkLnH+kbuRPKNlpxER0AWYlzb45znwiqz3WWTk4gxvyErHB+/Xcjcp7fuUvYpA5NuJykNwWd+UInO2vkj6n9C6+fqEmBjUwr4aLte9UrpC1oP3Hmmpez+lCuM0/sMFsbZMXMw8PR4qCIy7ZU5Ugj+XtpE9SZaOIdtDHuA=;CeJROJYwvepLg2OcA7NlFw=="
 ---

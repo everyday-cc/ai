@@ -122,20 +122,6 @@ related:
         width: 590
         height: 590
         isCached: true
-  - title: "Google details new cutting-edge image generation AI"
-    excerpt: "One of the most sophisticated entries into the category is an AI system called DALL-E 2 that was detailed by OpenAI LLC earlier this year. According to Google, its newly announced Imagen system ..."
-    publishedDateTime: 2022-05-24T17:29:00Z
-    webUrl: "https://siliconangle.com/2022/05/24/google-details-new-cutting-edge-image-generation-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/google-1.png"
-        width: 1024
-        height: 580
-        isCached: true
 
 secured: "LPGmK/zn42YbxNaQlrIBgO3yqy80iAT0k5LjTIX7xRs8hMR48MQTl6pKO/g6PoEgcUjROK5vFHFIiOgA4WZRHylcMSeL06bh1tP5cHx0tJnUM8EiakeoSsqInwJnPeXoDGYuYjjDu+hrJ+hTOG2HSx+xCA2NvYY6DOgrhFPpBWU6t+QbPc2OGDzl5Edvfapcz1d8F/oKt7lxWdIX8bKtFftmQg+CaHpbF7XcsF8c2yvjRue0SrBIQnlZCKlzaGcVdMhzyxAIQw0Ik7Rj5NZ0ax7jWT7Y50ke8EuHeSRB/V1xz+Sd/rPCgtPnSLSmQj/98Z7p9DIN3mJSPyqX+scFlHFZKjVBsmTKSkS2/U4VbmM=;soBuS9f5anmz5o0kgIqSjw=="
 ---

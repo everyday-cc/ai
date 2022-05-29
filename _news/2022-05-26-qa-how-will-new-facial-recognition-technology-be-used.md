@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Police use of facial recognition technology could soon be under review"
-    excerpt: "Lawmakers who sponsored the bill said artificial intelligence software has become a common part of everyday life despite the potential civil liberty issues it poses."
-    publishedDateTime: 2022-05-24T17:45:00Z
-    webUrl: "https://www.cpr.org/2022/05/24/police-facial-recognition-technology-under-review/"
-    type: article
-    provider:
-      name: Colorado Public Radio
-      domain: cpr.org
-    quality: 39
-    images:
-      - url: "https://wp-cpr.s3.amazonaws.com/uploads/2022/01/161109-CHAMPA-KEVINJBEATY-07.jpg?resize=1200,600"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "pwxQdYImmku2g7rfpxVaV3Lb+MEdnk05aQ0N1Bs6l5QlbzW6lBmzL7mVqXZrJM8HRSD+pY2XtU4jcXLlBxnl0byXQoofDeVFCtAYE7u4PWQWb7NNtrSz62WKuEb9hlSKt9RauLx3V9wXWLAsXxOwH74y5wO/2bUBsmbJmwZgVZPGksue4zh8ulJ2VswROLcggpiRY9go4Uv79v9/t+EGbN+xGunDVT83izDvss8XAG7L2jVd2JRyV5ltZava9yNeBcoDKEaEQ4k41/ZK3hbWmRRVhqWcZLOz4kmU+mEguwwhICXv1Xh72gdZDu1JaeVeyTeL7efulBkRqo54XiXC2q/31wp7mIEJjZ3rQLCeC54=;rnP2N0n7xb8aRsy1Cd6dtw=="
 ---

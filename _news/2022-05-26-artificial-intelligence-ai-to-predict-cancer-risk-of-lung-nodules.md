@@ -42,22 +42,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "AI tool helps doctors predict cancer risk in lung nodules seen on chest CT"
-    excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study published in the journal Radiology."
-    publishedDateTime: 2022-05-24T17:20:00Z
-    webUrl: "https://www.news-medical.net/news/20220524/AI-tool-helps-doctors-predict-cancer-risk-in-lung-nodules-seen-on-chest-CT.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220524/AI-tool-helps-doctors-predict-cancer-risk-in-lung-nodules-seen-on-chest-CT.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220524/AI-tool-helps-doctors-predict-cancer-risk-in-lung-nodules-seen-on-chest-CT.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI can predict cancer risk of lung nodules"
     excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study."
     publishedDateTime: 2022-05-25T13:46:00Z
@@ -81,15 +65,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Researchers use AI to predict cancer risk of lung nodules"
-    excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study published in the journal Radiology."
-    publishedDateTime: 2022-05-24T18:29:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-ai-cancer-lung-nodules.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
 
 secured: "GjMYcNpmJWUKDxmuyAQJgdtXCGZ9MB7vfKfubzAQtY6mp0OhkGsHwZn6sW6my8s/yzgKqHP/WhzBRYYi1LmbuCz43IankL5nqP1YSltAjWO03l3bfXek8UnmmH+ilPTU4Nq6RxaiQT94PySRSg/7yhIKs12WRkl+2PX6pYKQGvi8/R+ZRDGgzrJli/OyQdmek8PQzCK7leiJCxrryacPUxOwlw+gKHfgEwrzFLDZGAAV9lFRrTKchPjc05E3+mE233eOEDQed3U3jemfm0Dd4xkCFOasFsc1zTyMTzf6YpPdHdazNwg8B4JHVfWhsg/QMDcLwPn9gjiLDQcRY0b+21dlX69snVxtNf6itzceYzej4VNKtgwD+DBIav/lMvfUSqbezuSkhNmG+SQgZJtcedKqCxFAiP7Vby78WM/ttGwubHkB8sAUR4RQgEFeRJyKrLRpU8tNSa9+DEjgxXFREXKakFCPtq/6S6p8FYvYPBPMIuHVegpomY/qPdjJ+OvZWQ++q2l1vCiVSHt5P22vxg==;/pbgLhbVTJkSz8UQlcP+4Q=="
 ---

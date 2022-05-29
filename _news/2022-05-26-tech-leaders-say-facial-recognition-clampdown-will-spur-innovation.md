@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tech-leaders-say-facial-recognition
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police use of facial recognition technology could soon be under review"
-    excerpt: "Lawmakers who sponsored the bill said artificial intelligence software has become a common part of everyday life despite the potential civil liberty issues it poses."
-    publishedDateTime: 2022-05-24T17:45:00Z
-    webUrl: "https://www.cpr.org/2022/05/24/police-facial-recognition-technology-under-review/"
-    type: article
-    provider:
-      name: Colorado Public Radio
-      domain: cpr.org
-    quality: 39
-    images:
-      - url: "https://wp-cpr.s3.amazonaws.com/uploads/2022/01/161109-CHAMPA-KEVINJBEATY-07.jpg?resize=1200,600"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Q&A: How will new facial recognition technology be used?"
     excerpt: "Facial recognition technology is touted as one of the most powerful surveillance tools ever invented. It is hailed by proponents as a justified means of catching criminals and terrorists as well as helping to identify victims and the vulnerable."
     publishedDateTime: 2022-05-25T19:23:00Z

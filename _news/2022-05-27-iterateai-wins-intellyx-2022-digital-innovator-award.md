@@ -7,7 +7,7 @@ originalUrl: "https://www.localsyr.com/business/press-releases/globenewswire/856
 webUrl: "https://www.localsyr.com/business/press-releases/globenewswire/8560814/iterate-ai-wins-intellyx-2022-digital-innovator-award/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,47 +22,6 @@ images:
     width: 814
     height: 330
     isCached: true
-
-related:
-  - title: "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI"
-    excerpt: "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models."
-    publishedDateTime: 2022-05-24T17:50:00Z
-    webUrl: "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all"
-        width: 1200
-        height: 603
-        isCached: true
-  - title: "When graduates meet AI interview"
-    excerpt: "This is not a scene from a Hollywood sci-fi movie, but an increasingly popular type of online job interview among many large companies in China. In this type of \"smart\" interviewing, job seekers need to face a robot-interviewer that will evaluate the interviewees' answers through recorded videos."
-    publishedDateTime: 2022-05-27T13:28:00Z
-    webUrl: "https://www.globaltimes.cn/page/202205/1266726.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-05-27/04143cc7-2bd0-4e3a-bec3-1a250f689a86.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Iterate.ai Launches Interplay 7 – the Low-Code Platform for High-Velocity, AI-Fueled Enterprise Innovation"
-    excerpt: "Data scientists can send trained data created in Interplay 7 for processing in Amazon SageMaker or Google Vertex AI, or can process data in Interplay itself. Building web and mobile applications ..."
-    publishedDateTime: 2022-05-24T18:33:00Z
-    webUrl: "https://fox8.com/business/press-releases/globenewswire/8559031/iterate-ai-launches-interplay-7-the-low-code-platform-for-high-velocity-ai-fueled-enterprise-innovation/"
-    type: article
-    provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 1
 
 secured: "5QPgEvVJFlLoUuYSjqLomLqBrGQU0db3c38wkfi2OEUiToO+P2V/LDdDxJIxC2C784mzTL6+Dz1jCPZx2O8b6ZUvJKVwa8tOyLqpkH14gswlcI4uc/Lf3AzWMtudCgRnCyEmiC92OfoogpuhDXWfcFBa/tpHnEw3pLb0WgdLjil7duvp7qi3IQ9FeFsDzVhWmT+/SZOTuflrPOeIC1TUQ0mUl63m29OayB0/im2WDD4ZZi2JuX49wmKji6FmBbLyseOEKFyeflcHOr7pwKDJWtrXb2+m/P0dy2BVA+iBeCEdboVtoWFsF50GJUmKOTmJQiiYjZEhBGZmQsMCHYRw3N1ji6NZgEA+TcJ08sUAIMc=;KWRiJnj1WWh/1k8aBwZEgg=="
 ---
