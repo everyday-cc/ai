@@ -36,22 +36,6 @@ related:
         width: 570
         height: 451
         isCached: true
-  - title: "Facial recognition fine if rules followed: KTR"
-    excerpt: "Identify government organisations and grant them transparent regulatory powers through Parliament, says Minister"
-    publishedDateTime: 2022-05-25T00:33:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/may/25/facial-recognition-fine-if-rules-followed-ktr-2457648.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/25/w600X390/Facial.JPG"
-        width: 600
-        height: 390
-        isCached: true
 
 secured: "iHew+PIfphSWcJYIZL9otQfx50DFZLQvfMJeztracU0EEoq5PzG2vDTDpnbjjCqqmW7ZlX05tmrQm0H3KJqLgi/x+OaFplYagkm1qe896eRMhQevCwU7wK3KQmRaaiW4vCRLj4hcCgGhQ+nQbZzDh9gv2X+B/3wV2JzhGiRqlNxnQ/0ev3GE1SNFbxxxv4MLvq8dJD58bmgXjS5gpRCUtfi40+jc/hdXCDV0iHHGD5YVNzHinD5X5tPLogZYwAXpP9o9nAFLUTpLx+fSHbe+pORZ6rY0Kurv3sqawAISGSCCR+WE9+zVU8iYwRkLpJgjoamomCdRjA9c2mwt6X98ZBnAHZby2Ajcmc9RA8nXA28=;+Z/3Evv2VLdoJ8E2ZEqK3A=="
 ---

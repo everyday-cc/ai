@@ -35,20 +35,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 19
-  - title: "Case Western Reserve University signs license agreement to bring artificial intelligence breakthroughs closer to cancer patient care"
-    excerpt: "CLEVELAND—When Case Western Reserve University research showed that artificial intelligence (AI) could identify which lung cancer patients would benefit from chemotherapy, a national magazine called the finding one of the “10 Most Incredible Medical ..."
-    publishedDateTime: 2022-05-24T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/953802"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 8
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/acfa5cb6-f5c7-485f-8334-e4968ff53c3b/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 240
-        isCached: true
 
 secured: "94SqkLggHcsqKsBwtySjcpjOyxjIJzoDXzIcM3ys47A6sYko8bxUbC3kf5pg3cWXvChvDPSZvInZ5LX7r0zbV6vhtcyWztoNnW+mgvDnordfZx8LGFNg8UQtM8AgcQp2GtkBNbXE5lGY9id7W6g4VqJ6uxrI7xT1h+Z4Vv9yz+suqkbnvea27JQ0rwVkDI/Ez5WlMF0u4Vq7kDtrzJDGFLScKRIvOQzLf0k8zM7X9Z+4L5GCaUFx4DTGXA7l+U8yC9rdnxV0gQcaAECFFEOLNPSud19Bv8N8s4XEiqUm0IkrHummP1aCVMZTALY1WxHJTQCX1QTCtrcYDRwkRxuWa6egMDNmftkKJMm7DHmj+y4=;BVQtFuShmQ4q/3I+aRLnbQ=="
 ---

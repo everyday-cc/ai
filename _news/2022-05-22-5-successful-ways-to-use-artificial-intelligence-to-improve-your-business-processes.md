@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.fingerlakes1.com/wp-content/uploads/2022/05/AI.png"

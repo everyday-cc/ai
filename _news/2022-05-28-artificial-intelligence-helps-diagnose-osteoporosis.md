@@ -29,9 +29,9 @@ related:
   - title: "AI Device Helps Diagnose Autism in Children"
     excerpt: "This peer-reviewed study evaluated a software as a medical device called the Cognoa ASD Diagnosis Aid that leverages AI machine learning and consists of a mobile app for caregiver"
     publishedDateTime: 2022-05-29T14:36:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
     type: article
     provider:
       name: Psychology Today

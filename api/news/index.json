@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-29-scotiabanks-ai-and-ml-solution-center-has-digital-literacy-and-talent-front-and-center.md",
+      "title": "Scotiabank’s AI And ML Solution Center Has Digital Literacy And Talent Front And Center",
+      "excerpt": "This is a five part blog series on how Scotiabank is advanced its global AI/ML Solution Center. This blog discusses points of view on digital literacy and talent management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-and-ml-solution-center-has-digital-literacy-and-talent-front-and-center/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-and-ml-solution-center-has-digital-literacy-and-talent-front-and-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//5fc42c9bc60197a26472c1fc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-and-ml-solution-center-has-digital-literacy-and-talent-front-and-center/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-and-ml-solution-center-has-digital-literacy-and-talent-front-and-center/amp/",
+      "publishedDateTime": "2022-05-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-29-acer-supercomputer-boosts-aim-artificial-intelligence-education.md",
       "title": "Acer supercomputer boosts AIM artificial intelligence education",
       "excerpt": "The Analytics, Computing, and Complex Systems Laboratory at the Asian Institute of Management (ACCeSs@AIM) houses a supercomputer that's the fastest",
@@ -245,57 +297,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-29-how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center.md",
-      "title": "How Scotiabank Has Set Up a Leading Analytics And AI Competency Center?",
-      "excerpt": "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629255aaeac354ac55df1325/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/amp/",
-      "publishedDateTime": "2022-05-28T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-28-artificial-intelligence-helps-diagnose-osteoporosis.md",
       "title": "Artificial Intelligence Helps Diagnose Osteoporosis",
       "excerpt": "Artificial intelligence/AI can help diagnose osteoporosis from hip X-rays. One in five men will experience osteoporotic fractures",
@@ -452,7 +453,7 @@
       "originalUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {

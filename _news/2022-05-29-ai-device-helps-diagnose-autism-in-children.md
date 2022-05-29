@@ -3,10 +3,10 @@ category: news
 title: "AI Device Helps Diagnose Autism in Children"
 excerpt: "This peer-reviewed study evaluated a software as a medical device called the Cognoa ASD Diagnosis Aid that leverages AI machine learning and consists of a mobile app for caregiver"
 publishedDateTime: 2022-05-29T14:36:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children"
-webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
 type: article
 quality: 57
 heat: -1
@@ -71,6 +71,6 @@ related:
         height: 350
         isCached: true
 
-secured: "X6dW/YeSVgx5w7Obe3S9f9IiZiWwjG7G2ip51blbwL1HR9rUyWOrWuFB+9icq4IpwBZB+56h91NquME6Vaq4xp5yZR9EgMc281Dov8mxf/AzqmKDJLaK9aaKP9AM41BpXRXDrznL7Dv/3http4z1Q1IMh1IWBkYUk7/dXsd0v0uC4dBZow1MLBgGFtpINKxh37p+4txC+pAh48r9WZU0zEKVhbollMjwZeIEwZ+fPj7ZFKC56q/fW02rnmREG4dJnS+jC/S69PusShnYqwEBEm/hJTtasFJzG52nA25Kr6OplQz7feZP2MVwZiGyktlJFPZ3utO6JVnsTRAXBOwsoGXoq1CCVYMxqkSwzzneLXw=;P1jsz0m3yOCrGQy4oWoFRQ=="
+secured: "s4GqzNOD7DE8MR4mp2MF5QPO1gBGTZdMwgocLhebU3d2nB6ODQBvEqiw+gMXCEKgk2JSeYBP9gwKfwzlLDj479kUhbqjtYJuYGfVo557Lj+BN/94FKdAOFA8Jrcrbbx/woyxdnn/o1UmIVrKSIJwccR+uqJmbWm74GIZ0x8kV9E4gTZPMVn03A7q6Kf5vOPgIhO8QSsI0XRHcjil70dpkJPvIzBB0QQSxIYcNDta1vvwfiRT9Ka600zR7+bepd5GjIv2N8YOu+hKyhq26mrJd74/KOhKgBDOuuewgcASp5A6xyal2WOd9C0o/BVHvLwsfjCCZpVDXFTSyfYRb6UNZ0CwLXc6NOVHnApwYprNznI=;xQdjGvNeruMN/yrk/3Yqew=="
 ---
 

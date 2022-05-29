@@ -73,20 +73,6 @@ related:
         width: 708
         height: 419
         isCached: true
-  - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
-    excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
-    publishedDateTime: 2022-05-25T00:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/a-casino-pioneers-facialrecognition-to-serve-the-ultra-rich/2022/05/25/5938cb2c-dbe8-11ec-bc35-a91d0a94923b_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBDGMIG35AI6ZPBVVEOQVFESHM.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
   - title: "Why is the Government bucking the trend on facial recognition for policing?"
     excerpt: "Well-founded concern says use of AI in policing is discriminatory, ineffective and infringes on fundamental rights of citizens"
     publishedDateTime: 2022-05-28T04:00:00Z
@@ -121,17 +107,17 @@ related:
     quality: 19
   - title: "Commercial AI Adoption is Picking Up Pace But Only A Third of Businesses Recognise that Data Strategy Facilitates AI"
     excerpt: "Most businesses (90%) now use or plan to use Artificial Intelligence (AI) and even more (98%) have, or intend to, implement a data strategy. Yet new findings suggest that – while the success of each is reliant on the other – only one in three (35%) businesses with a data strategy say it includes provisions for Artificial Intelligence (AI)."
-    publishedDateTime: 2022-05-26T11:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-manchester-united-kingdom-artificial-intelligence-ba8fe8fa26ccc1e77b971d84d49307de"
+    publishedDateTime: 2022-05-26T11:00:00Z
+    webUrl: "https://fox8.com/business/press-releases/globenewswire/8560048/commercial-ai-adoption-is-picking-up-pace-but-only-a-third-of-businesses-recognise-that-data-strategy-facilitates-ai/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: FOX8 Cleveland
+      domain: fox8.com
     quality: 14
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+        width: 800
+        height: 340
         isCached: true
 
 secured: "insfKRF3obp4e10NQKz5tJR2wd9MtqIAucCkyP1sXKuu/MHbh2rgk3VV9bV4YQZ3d2jKfq0HRgkBGGYHR/LhXuSQMlPJxYKjnhNuDICPNV5dUb4ShlKb6CP0YLcO5ejXpUp5QAgC4BukOSt6LIWRyfJAK5efCGwNhJL/D0ASn6Aogl39U4hvcNSHumvUkVlrzuKvvw5KCU/yc7PR1w3qGEpAuW4li5NNrzbyWR2DiMmNGy72eN+9j9L0G8a92bMyXM1kWgznEZgiIPNQQMhTuM/E7gmhVzb7qjEog8eoqtHQRJhuXKbOy0QvvTA1Jnt8Jk1uVReQjiod6nDJNiC5DCosCRdAUsEWGNufca6jHPdMNtDGfyHOSF22cbuRSUgL0G3YuDma7M7h8iUaeV0GpyR3TppN13AZArUye1O4a1YSkvzQA3bHIOuNsh1TOF8623UEFaEOtI/SziqZlUS6i+/At3nALzQDcTMA9vq3fHWsXR4CqAYRd9RaZK3Ce1/34daT5owvgXxGgmi6zJ31TQ==;bhQLlpQ/51dm0h9AZFVlSA=="

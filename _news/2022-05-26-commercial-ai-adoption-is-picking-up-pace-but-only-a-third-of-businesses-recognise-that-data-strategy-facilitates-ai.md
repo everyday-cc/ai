@@ -2,25 +2,25 @@
 category: news
 title: "Commercial AI Adoption is Picking Up Pace But Only A Third of Businesses Recognise that Data Strategy Facilitates AI"
 excerpt: "Most businesses (90%) now use or plan to use Artificial Intelligence (AI) and even more (98%) have, or intend to, implement a data strategy. Yet new findings suggest that – while the success of each is reliant on the other – only one in three (35%) businesses with a data strategy say it includes provisions for Artificial Intelligence (AI)."
-publishedDateTime: 2022-05-26T11:03:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-manchester-united-kingdom-artificial-intelligence-ba8fe8fa26ccc1e77b971d84d49307de"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-manchester-united-kingdom-artificial-intelligence-ba8fe8fa26ccc1e77b971d84d49307de"
+publishedDateTime: 2022-05-26T11:00:00Z
+originalUrl: "https://fox8.com/business/press-releases/globenewswire/8560048/commercial-ai-adoption-is-picking-up-pace-but-only-a-third-of-businesses-recognise-that-data-strategy-facilitates-ai/"
+webUrl: "https://fox8.com/business/press-releases/globenewswire/8560048/commercial-ai-adoption-is-picking-up-pace-but-only-a-third-of-businesses-recognise-that-data-strategy-facilitates-ai/"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+    width: 800
+    height: 340
     isCached: true
 
 related:
@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "A Casino Pioneers Facial Recognition to Serve the Ultra Rich"
-    excerpt: "You could easily miss the exclusive Les Ambassadeurs casino in London. Just off Hyde Park Corner, it sits at the end of a quiet side street populated only with chauffeured black v"
-    publishedDateTime: 2022-05-25T00:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/a-casino-pioneers-facialrecognition-to-serve-the-ultra-rich/2022/05/25/5938cb2c-dbe8-11ec-bc35-a91d0a94923b_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBDGMIG35AI6ZPBVVEOQVFESHM.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
   - title: "Why is the Government bucking the trend on facial recognition for policing?"
     excerpt: "Well-founded concern says use of AI in policing is discriminatory, ineffective and infringes on fundamental rights of citizens"
     publishedDateTime: 2022-05-28T04:00:00Z
@@ -133,6 +119,6 @@ related:
       domain: knowtechie.com
     quality: 19
 
-secured: "2AhFbAcCqkoUfpvS3apEntAsNR2d0tIYzcj7WOFHsWuP1Mki0VFQyoW1lC1UDnq5TsJAmhAhnpga6Ire6xPsT90vvnaOsJHvXFSjEsxB35gKTYJNuke7oYZ7j3v1LvQk+wrM0IBNvs3Y1+7/Jw0Wu4JVQNRFgPsmu+UgCkiAsIiTJ+7C6dHV+IH4PlPqYHESRtIzRXGQaVto8BOOBB/5F//NyBc5NIUDXo1LBJU93g12vt/CaZifvkk9sj8MiAbhDYLAdRlVeYzAOsXQe/afKOPqxpnu44HzT4U9ig7PaSK14A2O4rjAvEYLic9KKbQjR9X7O/50uE7m3INImoigOBR6yKchXA8UvQ4JqnAtFC0=;Zao+Gr9A6mWChw34WMO/qA=="
+secured: "GJEbOriHenJ/Do5N93Su0mF86FnFEe76haHaTfcs98eCyaQ8mUVz6Njyj1axONECzPV6CLh6dYGJBg28SUbqwwtoULl7+ViI812s9FjTCLyfWS+RdAEMq3UDvbHsTKEAOhhzZQ3F2E7tihau3z9mSFx/DmS0DIVB9iLmbdGoU/bxpRM66Wuo4UwCVUuwI4JQFdEArNrrWluIc6IJhbCEaFRtFyTz5b9bk8sh0z2e6b2R+qPJ6OBgHoSXXcvsTzPUj4Z9uVhEmThKVAGGnxSqBQPa8z6AnFbsluIpH0Vnhjv6XNlFOUEV+M0RALtCb8/EAyKEzfAoyQ7LHeEmNfD5kvIWrI4eZWUpfPSOm0grlmA=;9Xa34BfmXEBUXAv7KD9wiA=="
 ---
 
