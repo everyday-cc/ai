@@ -132,22 +132,6 @@ related:
         width: 1000
         height: 688
         isCached: true
-  - title: "The walls are closing in on Clearview AI"
-    excerpt: "The controversial face recognition company was just fined $10m for scraping UK faces from the web. That might not be the end of it."
-    publishedDateTime: 2022-05-24T11:41:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/24/1052653/clearview-ai-data-privacy-uk/"
-    ampWebUrl: "https://www.technologyreview.com/2022/05/24/1052653/clearview-ai-data-privacy-uk/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/24/1052653/clearview-ai-data-privacy-uk/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/AP_22056575357716.jpg?w=3000"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "TechScape: Clearview AI was fined £7.5m for brazenly harvesting your data – does it care?"
     excerpt: "The facial recognition firm earned a heavy fine for scraping millions of pictures of people’s faces from social media. But that doesn’t mean it will change its ways"
     publishedDateTime: 2022-05-25T11:07:00Z
@@ -187,24 +171,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 36
-  - title: "ICO fines Clearview AI $9.4M over alleged data privacy lapses"
-    excerpt: "The U.K. Information Commissioner’s Office (ICO) fined Clearview AI more than 7.5 million pounds (U.S. $9.4 million) for collecting people’s images from internet and social media sites without their knowledge or consent to create a global online ..."
-    publishedDateTime: 2022-05-24T12:41:00Z
-    webUrl: "https://www.complianceweek.com/regulatory-enforcement/ico-fines-clearview-ai-94m-over-alleged-data-privacy-lapses/31709.article"
-    type: article
-    provider:
-      name: Compliance Week
-      domain: complianceweek.com
-    quality: 17
-  - title: "The Download: Clearview AI’s hefty fine, and countries’ monkeypox preparation"
-    excerpt: "Controversial facial recognition company Clearview AI has been fined more than $10 million by the UK’s data protection watchdog for collecting the faces of UK citizens from the"
-    publishedDateTime: 2022-05-24T12:26:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/24/1052661/download-clearview-ai-ico-fine-vaccine-monkeypox-preparation/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 14
   - title: "UK privacy watchdog fines Clearview AI £7.5 million for breaking data protection laws"
     excerpt: "The UK Information Commissioner’s Office has fined facial recognition firm Clearview AI £7,552,800 over its use of images of people’s faces and data from publicly available information."
     publishedDateTime: 2022-05-24T13:16:00Z

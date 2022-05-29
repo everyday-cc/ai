@@ -3,12 +3,12 @@ category: news
 title: "AI Behavior Health Chatbot App Fast-Tracked by FDA"
 excerpt: "Recently the U.S. Food and Drug Administration granted breakthrough device designation to Wysa’s AI-based digital mental health conversational agent that delivers cognitive beha"
 publishedDateTime: 2022-05-26T20:00:00Z
-originalUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
-webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
-ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+originalUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+webUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+ampWebUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -59,16 +58,7 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Specialization is key in an exploding AI chatbot market"
-    excerpt: "Join AI and data leaders for insightful talks and ... The platform enables brands to improve their customer relationships and start generating revenue from customer service."
-    publishedDateTime: 2022-05-24T13:01:00Z
-    webUrl: "https://venturebeat.com/2022/05/24/specialization-is-key-in-an-exploding-ai-chatbot-market/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
-secured: "vHqrF7NO+/qAMRF8cHq2Zwfoq5lfEVEN5PK3oxwnoxCfPo1Cx5CXRQkbeegfXpczadFiX3fz3JE6J1lONaYBULqBhFbWFMzA/zyJelfIvkea3gj67CxIuk+xqC9jnU+/gWvmp1Q5vB+G/jHmL8wkbuqdZzdXc7hktPks4HUS8BOm/pY8xEWhBW87v/4Isvg1sx5M6ZW1at+2LRt4rCHQv+TBj6MkaPot3ojUdOGNMTZgJXnkpbDM3R5x2gOkw7LRdvzF6GiJ5Wxwy+ckRvKf055fCACkA33kxpEBKoVqrMlyfB7P7K+cXlBEvIkyHlMvU9SclYzpEcIDmpRm50eb9KniubFCUj60TOAUjb+vjl0=;moJ9j+Zotoqd4BAsZtZaxQ=="
+secured: "ZUB7kCYpDVEZLT6hkiTj/PoA2UD2gqHIYtfNFM8CUEObfBtWrG+9yE12pb3ToiKtkbwbhWhQEPbZpZ47yu5Xh+G836FhQeG88cJl2Mhqw9v1OgGAHGP5DfxL4o1jFcfSE5VQnkosuBbn+zOINZ06NyALSPdVmMRfT8idHGYrX7gTLmJZEoIKaU+LwAspgAIjbI0dJXfCEkbN+B8sTB66dZUtGgjVmLvUt2YezwOsPaD9MrYicS17jpPNiqYxfPGe1kI3g0RNRMJgfoFCPxQw7m5Y7Ytd0T4mTaImjgbJk3HajUe8SXGbIEkQaRJOC2RwwWXXW9QEcc8WjXXTFH6DkpHmcdpnQIy0X8jyzymuKJA=;jskuk4GKXLu4pm57hnx5ig=="
 ---
 

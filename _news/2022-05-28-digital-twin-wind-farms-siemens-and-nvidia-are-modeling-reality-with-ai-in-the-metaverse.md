@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "NVIDIA Omniverse is now ready to usher 3D simulation, virtual worlds, and next-gen AI into the next era"
+    excerpt: "NVIDIA’s job at COMPUTEX 2022 is not over just yet as the latest video prepared for the forum is all about Team Green’s real-time reference development platform Omniverse and the wave of revolutionary applications it’s going to bring forward."
+    publishedDateTime: 2022-05-29T05:14:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-omniverse-3d-sim-virtual-worlds-ai/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 21
+    images:
+      - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/05/NVIDIA-Omniverse-Featured.jpg"
+        width: 1363
+        height: 759
+        isCached: true
   - title: "AI startup Intelligent Medicine partners with Siemens"
     excerpt: "Schenectady startup Intelligent Medicine, founded by Adam Ryason, wants to change the way buildings are designed by forecasting how infectious disease particles will move through a space."
     publishedDateTime: 2022-05-24T20:53:00Z

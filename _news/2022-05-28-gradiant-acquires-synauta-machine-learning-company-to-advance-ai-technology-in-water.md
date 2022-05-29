@@ -18,17 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Guardforce AI Announces Definitive Agreements to Acquire Eight Companies in China"
-    excerpt: "Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ:GFAI)(NASDAQ:GFAIW), an integrated security solutions provider, announced today it has entered into two definitive agreements to acquire a total of eight companies in China."
-    publishedDateTime: 2022-05-24T11:30:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-guardforce-ai-announces-definitive-agreements-acquire-eight-companies-/2022/05/24/9607727.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
-
 secured: "UNeRefhrXB9KrHQ4v8PZl1lDAMfoHSwoTdxETT68nOVdkQuEvy1+anYmaAokicDS+bMgv+ezBSqXVpYZGO+Q1jmliMltSBARtMDEamt9HsIOf/fF8oT+uxmNBvuumfXstrslc09vgHjBZuX3WyAwI6VtLOaaRhLeYjX+qqpXcopHx24R+ihfJQwUKm0HJWmpNWFmp6wFHy33ELBSHUHceY7S66YAZTZAU3TUbpyWSsosqoK3/b9uHfulY8vsK+LVyQkBL/xl3YWXx8LsKFIX4JDtLzLzv/Lkx3wjlfSvmwT4lK0+TuTr3g+JWDhOlCOR6K2TbnwxMPJfylHwGpCdoTFCKzCU/ingyPmMg2yJjV4=;4dGLvYQVDzQB25hrO7YGXQ=="
 ---
 

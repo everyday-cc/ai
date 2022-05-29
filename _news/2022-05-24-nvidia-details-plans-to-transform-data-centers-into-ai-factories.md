@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transf
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gaming, Data Center Chip Demand to Aid NVIDIA (NVDA) Q1 Earnings"
-    excerpt: "NVIDIA Corporation NVDA is slated to report first-quarter fiscal 2023 results on May 25. The company’s first-quarter results are likely to reflect the benefits of strong demand for its graphic chips from the gaming and data center markets."
-    publishedDateTime: 2022-05-24T11:58:00Z
-    webUrl: "https://www.nasdaq.com/articles/gaming-data-center-chip-demand-to-aid-nvidia-nvda-q1-earnings"
-    ampWebUrl: "https://www.nasdaq.com/articles/gaming-data-center-chip-demand-to-aid-nvidia-nvda-q1-earnings?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/gaming-data-center-chip-demand-to-aid-nvidia-nvda-q1-earnings?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Nvidia teams up with optical chip startup Ayar Labs to advance AI hardware"
     excerpt: "Linking together chips is essential for many enterprise AI use cases. With the help of an interconnect, a company can connect multiple graphics cards with one another and use them to run its AI ..."
     publishedDateTime: 2022-05-25T20:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-to-make-ro
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://images.livemint.com/img/2022/05/26/600x338/oped1-kC7G--621x414@LiveMint_1653550720385.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "AI To Make Roads In India Safer To Drive"
-    excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"
-    publishedDateTime: 2022-05-24T11:58:00Z
-    webUrl: "https://menafn.com/1104265618/AI-To-Make-Roads-In-India-Safer-To-Drive"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/24/I_6679aimage_story.jpg"
-        width: 400
-        height: 220
         isCached: true
   - title: "Self-Driving Car Start-up to be Introduced in India"
     excerpt: "Minus Zero is an Indian based start-up that is looking make self-driving cars into the mainstream in the country."

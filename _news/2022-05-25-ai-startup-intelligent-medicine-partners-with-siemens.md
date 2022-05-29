@@ -27,6 +27,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
+  - title: "NVIDIA Omniverse is now ready to usher 3D simulation, virtual worlds, and next-gen AI into the next era"
+    excerpt: "NVIDIA’s job at COMPUTEX 2022 is not over just yet as the latest video prepared for the forum is all about Team Green’s real-time reference development platform Omniverse and the wave of revolutionary applications it’s going to bring forward."
+    publishedDateTime: 2022-05-29T05:14:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-omniverse-3d-sim-virtual-worlds-ai/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 21
+    images:
+      - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/05/NVIDIA-Omniverse-Featured.jpg"
+        width: 1363
+        height: 759
+        isCached: true
 
 secured: "L040dfZ/pP17NHlXMCl8+o8nwFoCCZpfH+eBur4SJuOKiYln8alDLPWd+xhqJ0vMcV9fZbwHv2vhdhDKm7svwhQlGRl+3c4Bge7e1ZZ5BEJ76rajm6r+vyo0KvRi7eC50FBL4PKCvmCIYO6W2PvRUnDaujEjjnuTzyxR3aM8JBdOsClaxNgOd3cPONExlkhC0zTFlnwzZhPm2p2hJnitR7blu4cna2LeS+4WTWuRASXAGuZl+72ECGWRzYuMSsHAMLFrsAQpZsOTmQnwJLvYGXRim1QipbbXWKmxiETXDrS5RKokr3uRnRbGdHpS0Kk/KMB4JL5067svk0jkgWpGCQLyr+PLUrjvzIPkrHCIBY5db7xN++1/Oa1OSYHmzcCXR5bE/YhYW7sj01OPbTwSPxSiFqRNpN8BYCKWzG72GAfUqJq8sLn2mYrh3aZL7VcSRL4xZHae+eHciBLrju15zDOgWJNv0pWAMzztSnQJLwjjoGJYPhFpucGwpVaW2fTKxsKdZypqCChPZK6goVdwQQ==;DuifZkI+jQtTsnJDmhlDig=="
 ---

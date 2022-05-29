@@ -68,20 +68,6 @@ related:
         width: 1799
         height: 1010
         isCached: true
-  - title: "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers"
-    excerpt: "TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers. Users of TOGGLE’s award-winning investment platform who are clients of Interactive Brokers,"
-    publishedDateTime: 2022-05-24T12:36:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-273554afe13b452089e25da0602b2ec2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
     excerpt: "In a time when the pace of change is accelerating, the presence of creative excellence for businesses is crucial for success. However, it is easier said than done. Creative excellence with humans alone has its setbacks,"
     publishedDateTime: 2022-05-26T17:36:00Z

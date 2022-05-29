@@ -57,20 +57,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI To Make Roads In India Safer To Drive"
-    excerpt: "Artificial Intelligence (AI) powered solutions, such as collision alert system, may soon make roads in India safer to drive. A unique AI approach that uses the predictive power of AI to identify risks on the road,"
-    publishedDateTime: 2022-05-24T11:58:00Z
-    webUrl: "https://menafn.com/1104265618/AI-To-Make-Roads-In-India-Safer-To-Drive"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/24/I_6679aimage_story.jpg"
-        width: 400
-        height: 220
-        isCached: true
 
 secured: "kgd0zPAbTDrQof6LKW2dZL3cUAd6WNOzES9RvkosE7zA+VQwArITg3qEH559hZt6ag896xR+vBj2n8YKOS6PSys0OECr0ypDRUY2XdCU+NpYavpHxW7He6e2b3tkGzM/0jmBA9ZxMfN/n6P5C9kBgUIfadQ7TYi9lK7E6EsSacYQihFC33nLgD2EHFd6GZaLXs/aXJQSks7GdeEIpP4xLQ2YwPGWOG1v84g9ZdPA66CI5O/xbFpOedj6Uaz31yiXDBO6/PTOsyk38P4aqb+l8vSoj/TPZpFaWgH1sNVqwia/oX+COtN1pY0IOiXDXg+QFL+uju7F1m4ts+iHEHyjwpI/FrxUAtev1N0tJ69sqsSFRma/TWfd9KDjR0WOt8JdmR7GzvlXnCssx7USjnbOiS711Ifhj1iRoe9lux1UGepGGYNlo/4acTjDh81PHddPWTb1eHtiEnYeb/4f3OUogaIRfihdEA0Ep2L3m/PtlKKVYPKsPETSdodGoTeKkGAmfJQNpHu43ePaTRXd6J+rKg==;JCwLj8WV3t+SlIwpD389MA=="
 ---

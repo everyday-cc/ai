@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "She thought a dark moment in her past was forgotten. Then she scanned her face online"
-    excerpt: "By Rachel Metz, CNN Business Cher Scarlett, a software engineer, has a history of being misidentified by face-scanning technology, including one instance"
-    publishedDateTime: 2022-05-24T12:37:00Z
-    webUrl: "https://keyt.com/news/2022/05/24/she-thought-a-dark-moment-in-her-past-was-forgotten-then-she-scanned-her-face-online/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 0
-
 secured: "Q6y2o3KATVMsfKxcCfq0s74sWql3zom+9D1U4rgWzGzWzS6y089TnyKLKBDD4OQ9Fh0LfFk6C4lmFlCHXS4yQ0hNOYss/1JZsrw7RvRdJkHGNnNUb3eTaky7ZMTCR3I4/As1kqOjdQ4vOZnFr8+lnFUp7wl8Ixe/l7Ab1mOHMUmDAlHfTCK4QAnmJwS+K9az0uDNJvtFkwleWN8Q3+ZepGdiRe2SycDPAtFg3qdWmBm8FoejLrC9qdtHyUr9X3sW+eoKGspZZw7VP/2Gy4TW6jAItGJ2OCuyucnikUFOc0lVWjAyb9V98Pt2jysld8zHLIqkANKKAjj5oCbjhwYll2dEomzJzF7q1UtJWdGHW1U=;W/a2Da6H3vnm+Ofo6zZonQ=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-02-23-vimaan-taps-computer-vision-for-drone-based-warehouse-management.md",
-      "title": "Vimaan Taps Computer Vision for Drone-Based Warehouse Management",
-      "excerpt": "Concept: Santa Clara’s AI solution startup Vimaan has launched a drone-based computer vision platform for product tracking and management across the warehouses. With minimum worker control, it aids warehouse managers to achieve better inventory accuracy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/",
-      "originalUrl": "https://www.retail-insight-network.com/research-reports/vimaan-taps-computer-vision-for-drone-based-warehouse-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/02/shutterstock_1518283382.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Verdict Retail",
-        "domain": "retail-insight-network.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-23-vision-elements-joins-nvidia-metropolis-partner-program-to-provide-state-of-the-art-development-services-for-vision-ai-applications.md",
       "title": "Vision Elements Joins NVIDIA Metropolis Partner Program, to Provide State-of-the-Art Development Services for Vision AI Applications",
       "excerpt": "Vision Elements, a leading service provider offering customized research and algorithm development services for computer vision and artificial intelligence (AI), today announced it has joined the NVIDIA Metropolis Partner Program,",
@@ -1362,6 +1319,49 @@
       "provider": {
         "name": "Grays Harbor Daily News",
         "domain": "thedailyworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-12-agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services.md",
+      "title": "Agot AI Raises $12 Million to Develop and Build Computer Vision Tech for Food Services",
+      "excerpt": "PITTSBURGH, Feb. 11, 2022 /PRNewswire/ -- Agot AI is a food service-focused trailblazer in the computer vision (AI) technology surge that is transforming industries across the globe. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25569416/agot-ai-raises-12-million-to-develop-and-build-computer-vision-tech-for-food-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25569416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25569416",
+      "publishedDateTime": "2022-02-11T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

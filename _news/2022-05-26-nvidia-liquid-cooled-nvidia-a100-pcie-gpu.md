@@ -71,24 +71,6 @@ related:
         width: 400
         height: 301
         isCached: true
-  - title: "Nvidia to sell liquid-cooled A100 PCIe GPU cards, Equinix trials deployment"
-    excerpt: "Nvidia plans to sell a liquid-cooled PCIe card for its A100 server GPU in the third quarter. It will follow this in early 2023 with a liquid-cooled PCIe card for the next-gen H100 chip. The company previously offered liquid-cooled A100s,"
-    publishedDateTime: 2022-05-24T12:14:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-to-sell-liquid-cooled-a100-pcie-gpu-cards-equinix-trials-deployment/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 17
-  - title: "NVIDIA Unveils Liquid Cooled A100 GPU For Huge Energy Efficiency Uplift In Data Centers"
-    excerpt: "NVIDIA is working with Equinix to to qualify the 80GB version of its A100 PCIe GPU in liquid cooled form ... in favor of using GPUs over CPUs for AI and high performance computing (HPC) workloads."
-    publishedDateTime: 2022-05-24T12:43:00Z
-    webUrl: "https://hothardware.com/news/nvidia-liquid-cooled-a100-pcie-gpu-data-centers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 11
 
 secured: "IzNNzXkdUgeepdFoXwgAEJGgINsSVPKuzBrjZKUMWmxEMTTdk1qQ+eNx/8PJogYKvCUAQWsc0ePhQ9duyJSByxNzMP91NIenjQ9xErGRGqDGc7qg1MGdSI/7IT4IZ1QOWtzYnQxhW+SC7oDpEcRvm+at5LCFf96qFxd5EY0aCFS/yn56MGbGRDDRapXz3lOKpbpqjqbEcM92UdbfFJoODPoXIMCt8oFXrIYdimuV/A3+hzB1E5ztdNR2lmJCyh7fXluuW7BgbAO+Ww0mD22Yt/6ftvGmDl2kAb8dnj7rNRwZ64jYiE3ye0skImuFzw7+yhF2J2j9mMqqdHFFAxKNqG2ywSKIw6HFrhkHuWxTV8mBRpO86WNgwPjGHNSlAdF3gSuZnXToOF8mGwQg7vIvzU/4OG6xNHgW7eJeBgfVY5qzVLsrjOMQfvkBHKZsO/hQxB9uxMXmRMn2U8EONOFzYBGFEtKEfLdVzB+lMhWXElcyvC419OOsH60EPT0bsGU2UhfNEQofuUPOac9tmuTfYw==;kdyHG8ygjMwR3LbCsqCzUw=="
 ---

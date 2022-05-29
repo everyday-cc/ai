@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-diagnoses-
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-diagnoses-osteoporosis-207335-1.htm"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
-        isCached: true
-  - title: "New AI Tool May Help Diagnose Post-Covid Lung Problems"
-    excerpt: "A novel Artificial Intelligence (AI)-aided diagnostic tool could help overcome some of the challenges of monitoring lung he"
-    publishedDateTime: 2022-05-24T11:39:00Z
-    webUrl: "https://menafn.com/1104264809/New-AI-Tool-May-Help-Diagnose-Post-Covid-Lung-Problems"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?729286"
-        width: 375
-        height: 250
         isCached: true
   - title: "AI can diagnose osteoporosis on hip X-ray"
     excerpt: "OAK BROOK, Ill. – A new method that combines imaging information with artificial intelligence (AI) can diagnose osteoporosis from hip X-rays, according to a study in Radiology: Artificial Intelligence. Researchers said the approach could help speed ..."

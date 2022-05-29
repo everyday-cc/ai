@@ -7,8 +7,8 @@ originalUrl: "https://www.baltictimes.com/pushing_the_limits_for_digital_eyes__a
 webUrl: "https://www.baltictimes.com/pushing_the_limits_for_digital_eyes__ai_takes_over_the_computer_vision/"
 type: article
 quality: 54
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Baltic Times
@@ -41,15 +41,6 @@ related:
         width: 1666
         height: 886
         isCached: true
-  - title: "Acer supercomputer boosts AIM artificial intelligence education"
-    excerpt: "The Acer supercomputer, optimized to do artificial intelligence computations, provides students with the most advanced tool to master data analytics, artificial intelligence, machine learning, and computational modeling skills. It helps Master of Science ..."
-    publishedDateTime: 2022-05-24T11:05:00Z
-    webUrl: "https://www.ungeek.ph/2022/05/acer-supercomputer-boosts-aim-artificial-intelligence-education/"
-    type: article
-    provider:
-      name: ungeek
-      domain: ungeek.ph
-    quality: 49
 
 secured: "CrDJwhpdJpJ1HEbEP7Qc9B/knShc+Gh85WPhE8QQLsJQ80LD3kY9bQGpuDdRgDRJCML5LMiAReSKrw5ck+mC4GrakUfYpZqQZWs8iVqTNwvPHBMnJIcw5ifPJOEtsEHh26gRZlA0Rem89pNR79w6LYyIAwW6VbaM1McBwRhLytwkemlbTS6FgxcquVobrxg7PfC5v+svo8skTkGQXZ9hEDoMQSPYf+4kFQepLpjrinsESXTPf209iUaaEqWD28zAOAwEKDqf1Xd0Fij9G2BXtknCHORZ2yx+lXUDxOEbryPwDz3hkXkn1JguyqW5iDyx9Eeco3vOj7DUcu0vAvhBjx3mjeF1wKZmUND+5IKWgEo=;lUNpRVr74694/IKCw6VAwQ=="
 ---

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-29-how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center.md",
+      "title": "How Scotiabank Has Set Up a Leading Analytics And AI Competency Center?",
+      "excerpt": "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629255aaeac354ac55df1325/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/amp/",
+      "publishedDateTime": "2022-05-28T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-28-artificial-intelligence-helps-diagnose-osteoporosis.md",
       "title": "Artificial Intelligence Helps Diagnose Osteoporosis",
       "excerpt": "Artificial intelligence/AI can help diagnose osteoporosis from hip X-rays. One in five men will experience osteoporotic fractures",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-diagnoses-osteoporosis-207335-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -304,7 +355,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -385,49 +436,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-pushing-the-limits-for-digital-eyes-ai-takes-over-the-computer-vision.md",
-      "title": "Pushing the limits for digital eyes: AI takes over the computer vision",
-      "excerpt": "“Scale-up Champions” community invited Barcelona-located computer-vision company to discover business scaling opportunities in other EU countries. “Increasing computing power and open data sets have influenced the favorable conditions for AI-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltictimes.com/pushing_the_limits_for_digital_eyes__ai_takes_over_the_computer_vision/",
-      "originalUrl": "https://www.baltictimes.com/pushing_the_limits_for_digital_eyes__ai_takes_over_the_computer_vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.baltictimes.com/media/photos/154369_2330621376290adfc9bb3f_big.jpg",
-          "width": 855,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltic Times",
-        "domain": "baltictimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
 type: article
 quality: 104
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -75,24 +75,6 @@ related:
         width: 400
         height: 301
         isCached: true
-  - title: "Nvidia to sell liquid-cooled A100 PCIe GPU cards, Equinix trials deployment"
-    excerpt: "Nvidia plans to sell a liquid-cooled PCIe card for its A100 server GPU in the third quarter. It will follow this in early 2023 with a liquid-cooled PCIe card for the next-gen H100 chip. The company previously offered liquid-cooled A100s,"
-    publishedDateTime: 2022-05-24T12:14:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-to-sell-liquid-cooled-a100-pcie-gpu-cards-equinix-trials-deployment/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 17
-  - title: "NVIDIA Unveils Liquid Cooled A100 GPU For Huge Energy Efficiency Uplift In Data Centers"
-    excerpt: "NVIDIA is working with Equinix to to qualify the 80GB version of its A100 PCIe GPU in liquid cooled form ... in favor of using GPUs over CPUs for AI and high performance computing (HPC) workloads."
-    publishedDateTime: 2022-05-24T12:43:00Z
-    webUrl: "https://hothardware.com/news/nvidia-liquid-cooled-a100-pcie-gpu-data-centers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 11
 
 secured: "i5FS24h0eqT1XKHHCp5TDYBW8SCFW+j1Jh3zDY4NC9XNNXmZ62JB28FycbXgfb3r6TFP6nzaCZPntL6HDhLZaBNyNExoTx9n/ZZ2J12H9wRR7N7DBt2PvQAtw2cDOinMD521IBSRA66KjtE+1bWbI9hTB+byYlTwVyM5uVYUimfrznihgXOq+hTUOj+sZ/m7iKELU4FprHZSw+7KoYbX9aXyqWxxADvnts7ETcnrJk6KQBRR4+Xj2wcRpj+QQijloG7vbbDDwlAxB/2vuoxdczvCL7q2+69cq4dQEn7sjBepxXZJ+L0+O2Q+xgG4MGCtjH1n/M9si6NzgqU2rO/HTtfK+SSA1qC5nWrIvCy+IemJSgmU3kXNOBsLQXGzpNUmqhS9lmqhNLIL8wBtizL62E1Or517VR7Zd3swSl/4J/QFtEyNtLlFCV8D7mDZXLmBoCZ6VgriSLfJO5vjtgortbYNgqMJwBtmk5gnkAzOwsK2XkJSYqTiUFZDj4gIjQOBR1c+Wk9rCRmQUH3ZZXx65Q==;2WqsJnVGEpuWAL/bDrCoGw=="
 ---

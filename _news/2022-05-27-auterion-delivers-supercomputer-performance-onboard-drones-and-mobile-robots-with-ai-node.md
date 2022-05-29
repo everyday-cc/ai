@@ -41,15 +41,6 @@ related:
         width: 855
         height: 641
         isCached: true
-  - title: "Acer supercomputer boosts AIM artificial intelligence education"
-    excerpt: "The Acer supercomputer, optimized to do artificial intelligence computations, provides students with the most advanced tool to master data analytics, artificial intelligence, machine learning, and computational modeling skills. It helps Master of Science ..."
-    publishedDateTime: 2022-05-24T11:05:00Z
-    webUrl: "https://www.ungeek.ph/2022/05/acer-supercomputer-boosts-aim-artificial-intelligence-education/"
-    type: article
-    provider:
-      name: ungeek
-      domain: ungeek.ph
-    quality: 49
 
 secured: "5lYT7NBr+2Tuwu13DIJhP1psJUSyNJO8yCEdTzB6RO18V9W2JABIIgNBfjJ99ySLWTEJww/71IbZlgy4Tq75V7oB+KPHItdDB3sPmMLDRu9ryIaEjLn1MPJabQbn/MJmL8+CwattBJy+s6BRD6Gq0WuKtDK/mazmqitoC0ouvEvyUkgdo1hUXeXyewgatGu8U6bpD4bNKJy76Sq6l6w1lS22y3CI5LDFD1BlU/U7gJzZxyO4Z41mC9hIOs2JfFU7eNZKPmm1LpGXXCHnve9xLL7+KhDRIGekx9rlMM7rtLE/fGrEEKYmB3Cmq7cFCJw13oTd18IyjmQrpbO5B3dCePLn8OznBKYJmXDo205O3j4V9Dqdrf+GRsDMH1Ndggy5CNQTbf398G0mZVj/+aO9iTOYs27GdrU4994XBExkGhIAosYFc9FQGzN6uFB4Mtbbx5nPD8WqAQ/IDvYoiOARgLm/QAx6b630eN0qrwCfORh5TaW9qnCeYl4Kch7mFUnKoVfDguR+k3iQMRYy3zUG+w==;aTstebGIyA/e/GJV7i7bvg=="
 ---

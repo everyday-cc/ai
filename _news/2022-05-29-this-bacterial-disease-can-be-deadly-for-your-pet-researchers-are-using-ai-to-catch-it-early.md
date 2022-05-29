@@ -3,12 +3,12 @@ category: news
 title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
 excerpt: "Veterinarians and researchers have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs."
 publishedDateTime: 2022-05-28T18:00:00Z
-originalUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?bingParse"
-webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?bingParse"
+originalUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/"
+webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/"
 ampWebUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?amp=1"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: seattletimes.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 related:
@@ -49,6 +50,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GcWhYUAIStf2HzzsI4JrvH3VNuolgK+AoAzHYVDiI/Rt3rftqcannvVrac4unEvWB/q9bAN1x/LpUtD0m5ZG/mpvw2GzVbQjFP1oVQjVtsBu4AZGbqtJJxMXvmDKSUAfBzfM6QWIBbV0NITvfMEPVekprlEO0xiOKGNSMjP/3WtRyvKshgIxiLkhnSKXUARuNXWu/Re0tnyR+hPzN50DhyjVTyXUPzpQECIRocW69HW/rA+sZiRHbuYdKU+dCNZEX3FnSyjCJALzl2abpTdfGSSoxBxHMkflUNxxWvUe9mAm/+RM8Bols+OZPHg66+Blqs8B0aK1qW4qyqgJNMsZ6SBkzE7PoPnq/oBE0hwMlaa/2za6VFJbwdqSmFL3l6cvJOIbU/McgVHRJ6TIoWvSMdsAndWUx3OwQyg5+vdr0uEh1eTm3H9idwoZECFiwyNPhKN3JC9+Pce5qHQZCf8iefqDidL7/aaSUQMsq7w+bkjA2nUvO151Rgkg/s3d1cTyPUsn71XQudUJmZY/DQ2UgA==;Mh0NB0nW/+WBxDplUYaR3Q=="
+secured: "JNBrLyo9jzE75blvG+bnbxCI/9/w4Tk5/GD37m8y+5hyMZdZXThrwmF7Fc9pFL4/AwsZHXP1qGhcRYtpZJfeKTfL4dN4J7eN2Ydvk97Q9trcq7LkbGfUugv4b/AKUXokTh+BCTd96qPRsUi/KfP2v8O28z7LBcROQgLWP9bKdEUlQnGALPTHpVlLd6qqQ+ihZYM4K7FhkZKRJLMIG7a1FYYMhOM0ePrOg2aMjBQIHlUqTScFGmkp9vrtjNpcTQEgDbT/B1exGEOP4XQaw8enpO30OUB8e5wBrjnIJaddTK1Ve6nqrAdVund+2JGSh4gId54aytg1d6ArmLNtn+qVFJflIUxkz6B+y7axsbrerWX4Pvh7NFs0++UhCiGCDvKBjO/L2P9jC1TkUg9zDRBhST6VOsm6o3fKy4nrb1yASgBr1Y45I5Swn7BNYbpRx7hRXFBaUlA2e6iWC6tU7UrZneX+2xBQvWIQ0izQGJNl4Yuf5uzElX8OR2t04D7lzPLcFLcqpMD9ggsbzkPhQTi5Lw==;niLExjxGPAWJIWz7dbMk8A=="
 ---
 

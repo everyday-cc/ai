@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.uk/tesla-develop-self-driving-cars-without-ne
 cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/tesla-develop-self-driving-cars-without-need-human-drivers-2023-elon-musk-1700073"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 820
     height: 547
     isCached: true
-
-related:
-  - title: "Tesla to have self-driving cars without human drivers by May 2023, says Elon Musk"
-    excerpt: "Tesla CEO Elon Musk has claimed that the company will have self-driving cars on road around May 2023. Here's what else he said."
-    publishedDateTime: 2022-05-24T11:05:00Z
-    webUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/"
-    ampWebUrl: "https://www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/tesla-to-have-self-driving-cars-without-human-drivers-by-may-2023-says-elon-musk-1274585/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 54
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/06/Elon-Musk.jpg"
-        width: 1201
-        height: 675
-        isCached: true
 
 secured: "01/TSBCBgGQD59ZHZ+pA8xJmJVCw/umkv3ErkDhd5tlvp3Pn6eFe7cFXMI7ExPEuSozZYZbrQvxEbSC3uv06N0pNsOdWYW8ZxgHUkXKj3a1VVav2dHeWqvSMxbR8mFKwWmhjM7moVYiX1E/ghRWgmTY3ipOaCr/qindYNhxM0o/2ITXdZdV286oktEtRQnJ2xmOij87c1HBlJ7rhWx8Zy8qBi22b4nJ1H8UJCxLXXJzcH1+e4Nx4Jfow5mtLGexnD+Wt2ODh0uZHaMNgNb45dy5fwxAM/rSLl0kDEpQv+yByPbwynAw7SYdf4C3c6vBEPsv0HhQX6pNLyqv1REQhCJWII0vTek+/9lvm8jxADdA9fmoQZTzczn3CfmkJuPUF8aH3NNZlTHn+Vqby+nd2y6LNfQcrmETOlMmSxwwwWKMMnFbxB46fRIjLZnv4ULwLcJcpW5FcW0EjlygSmKi7sEcTc8x5FTTYDIP+H0CyiT3nSpPgzNCrNTLW6MJ3PzahiIaSowK0W3+5ROJCM81dKA==;CRi3cE2lZVHKGb3qeUvZlA=="
 ---

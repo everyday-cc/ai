@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financemagnates.com/forex/brokers/toggle-ai-launches-rei
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/forex/brokers/toggle-ai-launches-reimbursement-initiative-with-interactive-brokers/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 770
     height: 428
     isCached: true
-
-related:
-  - title: "How To Make AI Marketing Initiatives Actually Deliver"
-    excerpt: "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice."
-    publishedDateTime: 2022-05-24T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
 
 secured: "SmFg+GzT/UbFKs4/DFyePw5khQGH54WOoO6PfDzSZWDa++Kez1oFBYVcLABCsHa+a/K4yoM+ptsvRQYLk/+wetOnwo9GfTN6WDM0Jyaqy8j0OPtFqbaf+V84AxGtINLwI2C9Ea26bH6Fjc565VnU7jRXpXNswX3WKn1dRHFBFmrM7RtMrv7qfjKLdIjhn4xpjGlhfsgHfcfUxufrrmEyhVzi+hHxPkrhEnuIbolykJEM65IybsVrSEvIdibvsNKFSbLomrg9Nqvr4aQsMiNx01ZpG+UayF0ZmcmkGlNeBz4SXgdOMr3D6Ls13t6/LiLGFPDAAvjt5k/pXOjPKhoWAyYnr9wW/ZSw19hoouLU39bk8shqH5612FmSQoesMD/scIhKq8D9ZepPqNswZJeNJJTZqDvIC+lUDP/PaNSFpBK92fOTPAFh8FkFzwf7sMYUnes+xhitchnZmIcD7VK+0H8bmvZLmO46RLt+1jl0DqTKsHJ7WBlWGahhLj9Lljj7bGjexQy8ME7i5TKB4vgnzA==;51qThNB490uj49nh5vB+WQ=="
 ---

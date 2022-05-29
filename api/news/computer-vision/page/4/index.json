@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-04-16-ukraine-is-using-facial-recognition-to-id-dead-russian-soldiers-and-send-photos-of-corpses-home-to-their-moms-report.md",
-      "title": "Ukraine is using facial recognition to ID dead Russian soldiers and send photos of corpses home to their moms: report",
-      "excerpt": "Facial recognition technology, donated by a controversial US firm, is part of a gruesome campaign to shock everyday Russians into opposing the war.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "originalUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62598d9c33c02a0018ca1c52?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ukraine-sending-photos-of-dead-russian-soldiers-home-moms-2022-4?amp",
-      "publishedDateTime": "2022-04-15T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-15-cyberlink-announces-the-integration-of-its-faceme-security-facial-recognition-software-with-axis-camera-station.md",
       "title": "CyberLink Announces the Integration of Its FaceMe® Security Facial Recognition Software with AXIS Camera Station",
       "excerpt": "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, today announced an important update to its facial recognition security software, FaceMe® Security. FaceMe Security now integrates with AXIS Communications’ AXIS Camera Station VMS (video management software),",
@@ -1315,6 +1263,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-spirit-uses-facial-recognition-at-atlanta-ga-airport.md",
+      "title": "Spirit Uses Facial Recognition at Atlanta, Ga., Airport",
+      "excerpt": "Spirit Airlines has begun using facial-scanning technology at Atlanta's Hartsfield-Jackson International Airport to speed up boarding for passengers who, the company claims, can opt out of the scan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport",
+      "originalUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/ed0e6ad/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fbd%2F81%2F9260b1c2d432f9131c8a14ee5dbd%2Fshutterstock-358447820.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/spirit-uses-facial-recognition-at-atlanta-ga-airport?_amp=true",
+      "publishedDateTime": "2022-03-30T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

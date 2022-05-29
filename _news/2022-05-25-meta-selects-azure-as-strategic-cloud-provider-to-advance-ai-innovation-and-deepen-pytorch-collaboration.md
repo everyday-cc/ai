@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-c
 webUrl: "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -24,17 +24,6 @@ topics:
   - Facebook AI
 
 related:
-  - title: "AI Innovator WhyLabs Increases Agility, Collaboration and Time-to-Market with Pulumi Cloud Engineering Platform"
-    excerpt: "WhyLabs is focused on helping companies adopt AI. The WhyLabs observability platform monitors data ... or hybrid—including AWS, Azure, GCP, Kubernetes and more than 50 other cloud and SaaS providers. Organizations of all sizes, from startups to the ..."
-    publishedDateTime: 2022-05-24T12:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/b27366442/ai-innovator-whylabs-increases-agility-collaboration-and-time-to-market-with-pulumi-cloud-engineer"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27366442"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27366442"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "Edge Artificial Intelligence Chips Regional Industry Segmentation, Analysis by Production, Consumption, Revenue and Growth Rate by 2030"
     excerpt: "Edge Artificial Intelligence Chips Market to surpass USD 15.2 billion by 2031 from USD 2.5 billion in 2021 at a CAGR of 19.56% within the coming years, i.e., 2021-31. Fatpos Global added a new report into their database named “Edge Artificial Intelligence Chips Segments: By Processor CPU GPU ASIC Others By Device Type Consumer Devices Enterprise Devices By Function Training Inference 2021–2031 Global Industry Perspective,"
     publishedDateTime: 2022-05-26T13:29:00Z

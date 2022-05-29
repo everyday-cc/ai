@@ -1,46 +1,35 @@
 ---
 category: news
-title: "Three Ways Companies Can Cope with the AI and Analytics Talent Crunch"
-excerpt: "With inflation in the United States at a 40-year high and unemployment near a 50-year low, these are tough times to attract and retain employees in just"
-publishedDateTime: 2022-05-27T03:25:00Z
-originalUrl: "https://www.datanami.com/2022/05/26/three-ways-companies-can-cope-with-the-ai-and-analytics-talent-crunch/"
-webUrl: "https://www.datanami.com/2022/05/26/three-ways-companies-can-cope-with-the-ai-and-analytics-talent-crunch/"
+title: "How Scotiabank Has Set Up a Leading Analytics And AI Competency Center?"
+excerpt: "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank."
+publishedDateTime: 2022-05-29T04:54:00Z
+originalUrl: "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/"
+webUrl: "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/"
+ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/amp/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 87
+heat: 137
+published: true
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/Great-Resignation_shutterstock_Aleutie-scaled.jpg"
-    width: 2560
-    height: 1710
+  - url: "https://imageio.forbes.com/specials-images/imageserve//629255aaeac354ac55df1325/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 488
     isCached: true
 
 related:
-  - title: "How Scotiabank Has Set Up a Leading Analytics And AI Competency Center?"
-    excerpt: "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank."
-    publishedDateTime: 2022-05-29T04:54:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//629255aaeac354ac55df1325/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 488
-        isCached: true
   - title: "Top 8 predictive analytics tools compared"
     excerpt: "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot."
     publishedDateTime: 2022-05-25T17:57:00Z
@@ -56,6 +45,20 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/05/prediction_predict-the-future_crystal-ball_hand-holding-crystal-ball_by-arthur-ogleznev-via-unsplash-100811997-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Three Ways Companies Can Cope with the AI and Analytics Talent Crunch"
+    excerpt: "With inflation in the United States at a 40-year high and unemployment near a 50-year low, these are tough times to attract and retain employees in just"
+    publishedDateTime: 2022-05-27T03:25:00Z
+    webUrl: "https://www.datanami.com/2022/05/26/three-ways-companies-can-cope-with-the-ai-and-analytics-talent-crunch/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/Great-Resignation_shutterstock_Aleutie-scaled.jpg"
+        width: 2560
+        height: 1710
         isCached: true
   - title: "CNA brings data into the cloud, uses AI for predictive analytics"
     excerpt: "He joined CNA in fall 2021 after 13 years as CEO of Catalina’s U.S. and Bermuda units. At CNA, Haase’s greatest concern is better managing the wealth of data the company has from its long history in the insurance business,"
@@ -90,6 +93,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "yBxwHhlpledBH3OjgRBtIl32uSzm/DBAyT7QQTM7egEKkho6GoBDuSdeZoATfecurN51cjYqs25HzKmAyoBtP9DCGIsOZjFmHKsy1B4s5oNb/Q6EUmQbrunQDHg0X6WfqEFx8+thsQN2VT8xiJlPtcW9UkE0Bi5JVfUX7o390uWRcsFVNEaWh5Pv2lU/dDRePpabd3WAKV2zpbOqZntTiE5bf3evnYgPoNzMpa2usWW2C7T56A91mlUeTT2duJa1ggpjnB0bJTGteFoSjX6IVCMsNSL4KXli0ki+EL/A5pNGEk8dzABnpodv/I+H7in5mxQZjoLn6kHcSX8q8XyW8HehahD7O+4YxdjhDtsRu59xf30woXx2M2L0OPzWq0BFVQ4umXLXPZcbTY27BspLpaI/ZALu16avPFWaoDywwx8dlkh2DuRR+f0ioWYjss/Yy2hK/iZa2Zj96bfWizp2WP3TlQjJ4v1Kjlx2hdrHT+s6l2wF1ZsNJkRYaLxDGDwMitbOZRva/0Nywf6GW9eZXg==;I4Xdtgh+6mdWwL4WICbA7w=="
+secured: "bru1grZrJL7nRQ4Mn64fkd/yDAyDm8uhsAB1zXaAXBJXjkaqjw+pYDa4G2v97ZiohO8WWZn72EVVrLvHugJ4SfyGw1FbAoN/1Omu07nD5xBFfVYKue+6Y7DPUy4LOGeB5fGJ7OvKV2Qy2Q5taZEHk1U3Mm619VHP+5oEMPcLpjVG9E/+Zhv/HgRdFzSNFRh2Bn5VUnae/VJea74e/tIqnV3/drUewHJMMGpsNxu0Qclp6GzmaooZcafW6FnSqOOemDzJwvayIyoDc1+VMXLvsBSBcNNwk/1eYksmi2kY7iakbflzXa1aGEJ+qSlwdvvOwH0xNpO32SBN9LYWDPbdj33qbapS7MqucRlvrOtZDnU=;n7nKNo/m4aT50H0fex0f6w=="
 ---
 
