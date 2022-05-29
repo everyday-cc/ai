@@ -142,8 +142,8 @@ related:
         isCached: true
   - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
     excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-    publishedDateTime: 2022-05-26T22:46:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+    publishedDateTime: 2022-05-26T22:50:00Z
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     type: article
@@ -228,6 +228,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/05/ezgif-4-e0fc2c5a69.gif?w=600"
         width: 600
         height: 338
+        isCached: true
+  - title: "Microsoft 2022 Imagine Cup Winner V Bionic Global Top Tech For Good"
+    excerpt: "Microsoft Build, at the opening keynote by CEO and Chairman Satya Nadella, announced the final judging for the 2022 Imagine Cup global winner."
+    publishedDateTime: 2022-05-24T20:27:00Z
+    webUrl: "https://www.forbes.com/sites/stephenibaraki/2022/05/24/microsoft-2022-imagine-cup-winner-v-bionic-global-top-tech-for-good/"
+    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/05/24/microsoft-2022-imagine-cup-winner-v-bionic-global-top-tech-for-good/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/05/24/microsoft-2022-imagine-cup-winner-v-bionic-global-top-tech-for-good/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628d28650e7da3f3ea59856e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How Microsoft plans to improve the low-code landscape"
     excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
@@ -344,6 +360,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Microsoft Build: Windows Terminal Preview 1.14, Microsoft Graph updates, and Dev Box"
+    excerpt: "Microsoft’s annual development conference Microsoft Build is taking place this week. It will continue on through Thursday May 26."
+    publishedDateTime: 2022-05-25T20:43:00Z
+    webUrl: "https://sdtimes.com/msft/microsoft-build-windows-terminal-preview-1-14-microsoft-graph-updates-and-dev-box/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 62
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2022/05/cdf0efa2560a5ff2483093002238d924-490x273.jpg"
+        width: 490
+        height: 273
+        isCached: true
   - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
     excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
     publishedDateTime: 2022-05-24T20:02:00Z
@@ -357,6 +387,38 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Microsoft Build 2022 | Windows 11 apps, Dev Box cloud service, and more"
+    excerpt: "The software giant made several announcements on day one that included Windows 11 apps-related updates, a cloud service for developers, new features and tools for Teams developers, Azure AI updates, and more."
+    publishedDateTime: 2022-05-25T16:18:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-build-2022-windows-11-apps-dev-box-cloud-service-and-more/article65461272.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-build-2022-windows-11-apps-dev-box-cloud-service-and-more/article65461272.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-build-2022-windows-11-apps-dev-box-cloud-service-and-more/article65461272.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/incoming/b08vj6/article65461296.ece/alternates/LANDSCAPE_615/2021-09-28T201809Z_1003974895_RC28ZP9N11R1_RTRMADP_3_MICROSOFT-EPIC-GAMES.JPG"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Microsoft Build 2022: Key highlights"
+    excerpt: "Most of the new features announced are aimed at making it easier for developers to create native apps for multiple platforms, migrate to the Azure cloud, build collaborative experience in Teams, and improve discoverability of apps on the Microsoft store."
+    publishedDateTime: 2022-05-25T19:18:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/microsoft-build-2022-key-highlights-11653464405276.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-build-2022-key-highlights/amp-11653464405276.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-build-2022-key-highlights/amp-11653464405276.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/05/25/600x338/US-MICROSOFT-PHONES-0_1639047811612_1653464772054.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
     excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
@@ -479,20 +541,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Team SWIFT Responders from Singapore wins APAC Microsoft AI for Accessibility Hackathon"
-    excerpt: "Teams from Singapore, Thailand, and Philippines are winners of the Microsoft AI for Accessibility (AI4A) Hackathon in APAC. In its third year, the AI4A Hackathon features teams who are deeply"
-    publishedDateTime: 2022-05-24T05:45:00Z
-    webUrl: "https://news.microsoft.com/en-sg/2022/05/24/team-swift-responders-from-singapore-wins-apac-microsoft-ai-for-accessibility-hackathon/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 48
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/439/2022/05/SNC-header-image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure"
     excerpt: "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators ? SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,"
     publishedDateTime: 2022-05-26T13:10:00Z
@@ -502,6 +550,20 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 46
+  - title: "Microsoft extends Teams’ unique collaborative features to outside apps"
+    excerpt: "Collaboration came to the fore at Microsoft Corp.’s Build 2022 conference today as the company unveiled a host of new developer-focused tooling and features for Microsoft Teams. One of the most exciting updates is the new Live Share experience that makes it possible for meeting participants to interact in new ways with shared applications."
+    publishedDateTime: 2022-05-24T15:00:00Z
+    webUrl: "https://siliconangle.com/2022/05/24/microsoft-extends-teams-unique-collaborative-features-outside-apps/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Hexagon-Prototype-of-Live-Share-in-Teams.png"
+        width: 1279
+        height: 740
+        isCached: true
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z

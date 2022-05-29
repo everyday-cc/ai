@@ -67,20 +67,29 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "Indoor Delivery Robot Market Size with Growth Opportunities, Top Countries Data, Future Trends and Share with Revenue Forecast 2027"
-    excerpt: "artificial intelligence, GPS technologies have made it possible for the companies to ensure fast, secure, and cost-effective delivery of products to the clients. Reduction in labor cost is expected to drive the demand for indoor delivery robots The usage ..."
-    publishedDateTime: 2022-05-24T05:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/indoor-delivery-robot-market-size-with-growth-opportunities-top-countries-data-future-trends-and-share-with-revenue-forecast-2027"
+  - title: "Computer Vision in Healthcare Market Trends 2022, In-Depth Analysis of Industry Growth and Forecast Up To 2028 |Top key players: NVIDIA Corporation"
+    excerpt: "Computer vision has been used in various healthcare applications to assist medical professionals in making better decisions regarding the treatment of patients. Medical imaging or medical image ..."
+    publishedDateTime: 2022-05-27T12:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-trends-2022-in-depth-analysis-of-industry-growth-and-forecast-up-to-2028-top-key-players-nvidia-corporation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Texas-massacre-USA-flags-AFP-1K-011-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Ai In Fintech Market [DEMAND] 2022 : Outlook, Size, Share and Growth Stance Forecasted 2030"
+    excerpt: "Quadintel published a new report on the Ai In Fintech Market. The research report consists of thorough information about demand, growth,"
+    publishedDateTime: 2022-05-26T13:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-demand-2022-outlook-size-share-and-growth-stance-forecasted-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 9
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/6def80093f640103917954f8db0ef211e3eca535-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Automotive Artificial Intelligence Software Market by Global Size, Trends and Research Analysis 2022 predicted to reach USD 53.98 billion by 2030"
     excerpt: "Automotive Artificial Intelligence Software is a system which is used for the altertion, process and functions and others to imitate human mind and absorbs the problem solving capacity automatically. This technology is mainly used in self driving vehicles ..."
     publishedDateTime: 2022-05-25T08:30:00Z

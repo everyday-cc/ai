@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/earthworm-robots-aircraft-eng
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/earthworm-robots-aircraft-engines"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

@@ -109,15 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK fines US facial recognition company"
-    excerpt: "Britain fined U.S. facial recognition company Clearview AI Inc. for more than 7.5 million pounds ($9.4 million) for collecting online images of people without their knowledge, AFP reported. The U.K. data watchdog also ordered the company to stop receiving ..."
-    publishedDateTime: 2022-05-24T05:40:00Z
-    webUrl: "https://news.am/eng/news/703437.html"
-    type: article
-    provider:
-      name: News
-      domain: news.am
-    quality: 19
   - title: "Facial recognition 'like having Guards checking everyone's photo ID'"
     excerpt: "Garda use of facial recognition technology would be akin to checking everyone's photo ID in a crowd. That's according to Liam Herrick, executive director of the Irish Council of Civil Liberties (ICCL)."
     publishedDateTime: 2022-05-25T12:19:00Z

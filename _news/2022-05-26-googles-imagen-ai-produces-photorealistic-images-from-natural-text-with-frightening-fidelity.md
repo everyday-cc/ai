@@ -72,6 +72,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Will AI text-to-image generators put illustrators out of a job?"
+    excerpt: "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators"
+    publishedDateTime: 2022-05-26T14:33:00Z
+    webUrl: "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/"
+    ampWebUrl: "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 59
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Google Imagen Is The Latest AI That Can Create Images From Text"
     excerpt: "Google unveiled an outstanding text-to-image generator AI. Google imagen is the newest to do so after DALLE-2 open AI."
     publishedDateTime: 2022-05-25T11:27:00Z
@@ -103,22 +119,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2022/05/google-imagen-aoi.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Will AI text-to-image generators put illustrators out of a job?"
-    excerpt: "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators"
-    publishedDateTime: 2022-05-26T14:33:00Z
-    webUrl: "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/"
-    ampWebUrl: "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 57
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 798
         isCached: true
   - title: "Google details new cutting-edge image generation AI"
     excerpt: "One of the most sophisticated entries into the category is an AI system called DALL-E 2 that was detailed by OpenAI LLC earlier this year. According to Google, its newly announced Imagen system ..."

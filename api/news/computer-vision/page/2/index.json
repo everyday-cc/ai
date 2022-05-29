@@ -273,6 +273,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-10-zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating-room.md",
+      "title": "Zimmer Biomet Debuts First-of-its-Kind Artificial Intelligence Capabilities for Omni™ Suite Intelligent Operating Room",
+      "excerpt": "Artificial Intelligence-Based Object Recognition Automates Manual Tasks and Data Collection to Optimize Operating Room Workflow Efficiency WARSAW, Ind., May 10, 2022 /PRNewswire/ -- Zimmer Biomet ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating-room-1031441140",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/zimmer-biomet-debuts-first-of-its-kind-artificial-intelligence-capabilities-for-omni-suite-intelligent-operating-room-1031441140",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-face-scanner-clearview-agrees-to-limits-in-court-settlement.md",
       "title": "Face-scanner Clearview agrees to limits in court settlement",
       "excerpt": "Facial recognition startup Clearview AI has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people’s photos without their consent. The company in a legal filing Monday agreed to permanently stop ...",
@@ -1367,49 +1410,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-voi-technology-to-deploy-ai-computer-vision-on-e-scooters-in-oslo-norway.md",
-      "title": "Voi Technology to deploy AI computer vision on e-scooters in Oslo, Norway",
-      "excerpt": "As part of a new partnership, Voi will use AI technology to deploy computer vision on its e-scooters throughout Oslo in order to tackle pavement riding and fix e-scooter parking, ultimately delivering a safer riding experience. Credit: Voi Technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligenttransport.com/transport-news/135330/voi-ai-computer-vision-e-scooters-oslo/",
-      "originalUrl": "https://www.intelligenttransport.com/transport-news/135330/voi-ai-computer-vision-e-scooters-oslo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligenttransport.com/wp-content/uploads/My-project-12-4.jpg",
-          "width": 750,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligenttransport",
-        "domain": "intelligenttransport.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

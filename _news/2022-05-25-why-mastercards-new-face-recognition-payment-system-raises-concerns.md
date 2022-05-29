@@ -59,22 +59,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Pay ‘with a smile or a wave’: why Mastercard’s new face recognition payment system raises concerns"
-    excerpt: "The technology is currently being trialled outside of Australia. It’s one of the first major attempts to bring it to western markets on a large scale."
-    publishedDateTime: 2022-05-24T06:01:00Z
-    webUrl: "https://theconversation.com/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-183447"
-    ampWebUrl: "https://theconversation.com/amp/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-183447"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-183447"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 60
-    images:
-      - url: "https://images.theconversation.com/files/464421/original/file-20220520-19-yabkx8.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "Mastercard’s “smile to pay” face recognition payments system is raising privacy, security and bias concerns"
     excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts and is being trialled in Brazil."
     publishedDateTime: 2022-05-26T23:40:00Z

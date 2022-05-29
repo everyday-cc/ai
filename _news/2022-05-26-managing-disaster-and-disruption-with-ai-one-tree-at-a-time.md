@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/managing-disaster-and-disru
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

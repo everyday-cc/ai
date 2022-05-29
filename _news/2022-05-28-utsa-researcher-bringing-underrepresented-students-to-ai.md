@@ -64,12 +64,14 @@ related:
   - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
     excerpt: "Veterinarians and researchers have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs."
     publishedDateTime: 2022-05-28T18:00:00Z
-    webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/"
+    webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?bingParse"
+    ampWebUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?amp=1"
     type: article
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 8
+    quality: 26
 
 secured: "D0IKn4thq+MtYEpfb7tK5FYlImLv8AWD6gWMv91SKg+vqzc3j/coE9fbtcpskJ4dDeZFJik3B+w/Bd3L5N9iFokOnEadMiJ+dV0DclBAoB/I/etwSJ6tPH0InJQHMXCPWi/VH7PTRnTHiktkYqT0OFEIlhKmSJLZHBB2L7TKEXlnlB5plxbexuCGfb3pDLbNQJhvLglladsBsAYnLWrkmQjwpfSYQxXsLvyVD6EZ34IBNjTBvILhxqNjGiWLkfXViv9UM0s0znapc2zBJ2E7h50x9g5EvGj8+KZy8Py2IL2911kfHaUz+RH0U23JwjJmn/vvkhkfgyKph6EhRA3Vm8ouOdxD7+G8KugodTuxjE2oB0oOEnTDfvQL4Rg76zn26ZuDQ9v3pwjGXIbpUeOgUV+X3IH8zTfL4GzP8Cg5LupCNyFE9iEv+dOtem3Upt3z5kjVFRMk/whnk+V4E8ereOJMdzmRfSGmAq75OC7ZS7FYaGf/nSP0DnXsXsR9plZIjb+cWXBXpA+RPY2b1mP0Dw==;s5WqgCx2b4XJs0rrdZxGtQ=="
 ---

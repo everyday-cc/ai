@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vox.com/platform/amp/23132776/quantum-computers-ibm-goog
 cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

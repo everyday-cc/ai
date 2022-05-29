@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla to soon have self-driving cars without need for human drivers: Elon Musk"
-    excerpt: "As per the report, Musk has been claiming that Tesla will have 1 million robotaxis on the road by the end of the year since 2020. Recently, Electrek reported that Musk changed Tesla's 1 million robotaxis by end of the year goal to a1 million people in Full Self-Driving (FSD) Beta,"
-    publishedDateTime: 2022-05-24T06:30:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/articleshow/91759682.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/amp_articleshow/91759682.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/tesla-to-soon-have-self-driving-cars-without-need-for-human-drivers-elon-musk/amp_articleshow/91759682.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-73172,msid-91759854/elon-musk.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "DMV Remains Mum on Safety Probe of Self-Driving Teslas"
     excerpt: "The investigation by the California Department of Motor Vehicles into safety issues is headed into its sixth month with no end in sight."
     publishedDateTime: 2022-05-27T22:34:00Z

@@ -63,7 +63,7 @@
       "originalUrl": "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -180,6 +180,49 @@
         "name": "Mancunian Matters",
         "domain": "mancunianmatters.co.uk",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-ibm-ceo-artificial-intelligence-is-nearing-a-key-tipping-point.md",
+      "title": "IBM CEO: Artificial intelligence is nearing a key tipping point",
+      "excerpt": "IBM had to sell off Watson Health-- once considered one of IBM's \"strategic imperatives.\" While IBM is still gunning for a leadership position in AI, the company won't be focusing on \"moonshots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/?taid=627bcbee41582d000199f899",
+      "originalUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/?taid=627bcbee41582d000199f899",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
+      "publishedDateTime": "2022-05-15T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1299,49 +1342,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-01-mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain.md",
-      "title": "Mayflower Autonomous Ship to Attempt Second Ocean Crossing With AI Captain",
-      "excerpt": "Roughly a year after a mechanical problem forced it to turn around, the Mayflower Autonomous Ship is poised to cross the Atlantic, traveling autonomously from Plymouth, United Kingdom, to Plymouth, Massachusetts.",
-      "sourceUrl": null,
-      "webUrl": "https://seapowermagazine.org/mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain/",
-      "originalUrl": "https://seapowermagazine.org/mayflower-autonomous-ship-to-attempt-second-ocean-crossing-with-ai-captain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://seapowermagazine.org/wp-content/uploads/2022/04/MAS-seatrials-March-2021-II-002-scaled.jpg",
-          "width": 2048,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-01T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SEAPOWER",
-        "domain": "seapowermagazine.org",
         "images": null,
         "publishers": null,
         "authors": null

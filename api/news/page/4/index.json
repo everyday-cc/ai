@@ -10,7 +10,7 @@
       "originalUrl": "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1104,21 +1104,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-23-what-you-need-to-know-about-the-new-threat-poisoned-ai.md",
-      "title": "What You Need To Know About The New Threat: Poisoned AI",
-      "excerpt": "As the availability of data increases and algorithms become more accurate, AI can make the difference between successful products and those that fail.",
+      "path": "_news/2022-05-23-artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031.md",
+      "title": "Artificial Neural Network (ANN) Market Growth Prospects and Share Analysis, Trends, Top Leaders and Regional Analysis Forecast to 2022-2031",
+      "excerpt": "Japan, Japan, Sun, 22 May 2022 22:58:36 / Comserve Inc. / -- The Artificial Neural Network (ANN) market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/what-you-need-to-know-about-the-new-threat-poisoned-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/what-you-need-to-know-about-the-new-threat-poisoned-ai/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22?mod=search_headline",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62879c4bc9d8e1a64ac60506/0x0.jpg?format=jpg&crop=1524,857,x190,y0,safe&width=1200",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 675,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1126,16 +1126,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/what-you-need-to-know-about-the-new-threat-poisoned-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/23/what-you-need-to-know-about-the-new-threat-poisoned-ai/amp/",
-      "publishedDateTime": "2022-05-23T04:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T07:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1151,6 +1151,7 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

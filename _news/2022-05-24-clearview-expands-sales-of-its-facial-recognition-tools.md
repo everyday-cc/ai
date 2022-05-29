@@ -165,34 +165,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Clearview AI fined £7.5m by UK ICO for privacy violations"
-    excerpt: "The Information Commissioner's Office (ICO) in the UK has announced that it has fined Clearview AI Inc £7,552,880 for privacy violations in the UK. The"
-    publishedDateTime: 2022-05-24T07:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/clearview-ai-fined-7-5m-by-uk-ico-for-privacy-violations-24-05-2022/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/Clearview-AI-.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "ICO fines Clearview AI £7.5m over image collection"
-    excerpt: "The UK's data protection watchdog has fined facial recognition company Clearview AI £7.5m for illegally collecting images for facial recognition."
-    publishedDateTime: 2022-05-24T06:27:00Z
-    webUrl: "https://www.computing.co.uk/news/4050180/ico-fines-clearview-ai-gbp-image-collection"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 37
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/a3f65c0/47009f20-26c9-4895-972b-9f147a175017/3/hammer-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Clearview AI Launches Clearview Consent"
     excerpt: "Clearview AI, a facial recognition technology company, has launched Clearview Consent, an identity verification solution for commercial enterprises. Clearview Consent will offer Clearview AI's facial recognition technology to companies for use in consent ..."
     publishedDateTime: 2022-05-26T16:12:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/technology/ethical-ai-a-challeng
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications"
 type: article
 quality: 91
-heat: 111
+heat: 112
 published: true
 
 provider:

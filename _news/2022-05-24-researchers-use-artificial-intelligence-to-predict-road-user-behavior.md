@@ -54,6 +54,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
+    excerpt: "Veterinarians and researchers have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs."
+    publishedDateTime: 2022-05-28T18:00:00Z
+    webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?bingParse"
+    ampWebUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 26
   - title: "UTSA Researcher Bringing Underrepresented Students to AI"
     excerpt: "A first-generation U.S. college graduate and director of the Matrix: AI Consortium For Human Well-Being at the University of Texas at San Antonio, Dhireesha Kudithipudi is focused on recruiting diverse talent."
     publishedDateTime: 2022-05-27T18:13:00Z
@@ -63,15 +74,6 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 19
-  - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
-    excerpt: "Veterinarians and researchers have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs."
-    publishedDateTime: 2022-05-28T18:00:00Z
-    webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 8
 
 secured: "64fS5H5uFNbGYg/zjpQbtuRDdFROH1nDpjcj4XOb1SmTj1iP8EMePZJ160H3DxMi/+35Wfebvr/PcO5mQonKSWCUXl3nQg1cPYfufaZS1IVslyJDVs1dSWXW8Ha83YGpI+e0Kc1RU+kM22J1hcyzZEc6yjvpMf7HkedHkNxujJkhUISEhRy4RNbfWSyTgZFYKAioCMLPDg9ezZQ96TlYlRYsT22FlYbAaD7F370GDsF+0izF9cOpzf8UGyFWOqq8+wVpYzcr5eO0IViKwacyAvA6zaylG/fE1BZjM6b0w98pq65y7tLd3DatiZ06F38ncRMerJhASEZ9Xsg0H2QOIGYCM92xFQEOlnZ5tBw9rXUkc4F0yZv/rGqeE9wyX1pekdfuC/0FDAHzCv+WRtZ2E2ljJxhCXB0+CJH+bmRo5JhsKAw2HuhE5xFdHo9s88EKd6MA2qdX0ymeEPzWDEXvdjGSaAnKXJtr2XyMrHe7p27/9Lc2rPKgkLZXqNmiOt3UUPKjK2lfRQG+eCIAHlVwJg==;N2MklQoLun96b/OQ8CaV7Q=="
 ---

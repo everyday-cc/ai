@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.thehindu.com/incoming/mulfl7/article65446708.ece/alternates/LANDSCAPE_615/iStock-1034901762.jpg"

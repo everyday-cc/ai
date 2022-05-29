@@ -109,15 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK fines US facial recognition company"
-    excerpt: "Britain fined U.S. facial recognition company Clearview AI Inc. for more than 7.5 million pounds ($9.4 million) for collecting online images of people without their knowledge, AFP reported. The U.K. data watchdog also ordered the company to stop receiving ..."
-    publishedDateTime: 2022-05-24T05:40:00Z
-    webUrl: "https://news.am/eng/news/703437.html"
-    type: article
-    provider:
-      name: News
-      domain: news.am
-    quality: 19
   - title: "This search engine is basically Google but for facial recognition"
     excerpt: "The new facial recognition tool, PimEyes, seems like something out of a science fiction movie. PimEyes is basically Google but for images of faces. You can upload a face to the website and it will ..."
     publishedDateTime: 2022-05-27T16:52:00Z

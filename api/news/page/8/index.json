@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-19-what-exactly-is-artificial-intelligence.md",
+      "title": "What Exactly Is Artificial Intelligence?",
+      "excerpt": "On the other hand, Machine Learning (ML) is a subset of artificial intelligence. ML uses different computer algorithms such as neural networks to enable the computer to automatically learn and improve from experience without being explicitly programmed.",
+      "sourceUrl": null,
+      "webUrl": "https://kuenselonline.com/what-exactly-is-artificial-intelligence/",
+      "originalUrl": "https://kuenselonline.com/what-exactly-is-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kuenselonline.com/wp-content/uploads/2022/05/cigay.jpg",
+          "width": 1000,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kuensel Online",
+        "domain": "kuenselonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-neuro42-licenses-robot-from-johns-hopkins-university.md",
       "title": "neuro42 Licenses Robot from Johns Hopkins University",
       "excerpt": "(“neuro42” or the “Company”), a medical imaging, robotics, and AI technology company, today announced an exclusive licensing agreement with Johns Hopkins University (“Johns Hopkins”) for their MR compatible robot for head,",
@@ -1091,40 +1134,6 @@
       "provider": {
         "name": "inc42.com",
         "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-movai-partners-with-ouster-to-equip-autonomous-mobile-robots-with-high-resolution-digital-lidar-for-challenging-warehouse-environments.md",
-      "title": "MOV.AI Partners with Ouster to Equip Autonomous Mobile Robots with High-Resolution Digital Lidar for Challenging Warehouse Environments",
-      "excerpt": "Combining Ouster's high-resolution data with the MOV.AI Robotics Engine Platform TM, advanced SLAM navigation, obstacle avoidance, and risk avoidance solutions, AMRs can operate efficiently and continuously in challenging warehouse environments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wate.com/business/press-releases/cision/20220518LN60539/mov-ai-partners-with-ouster-to-equip-autonomous-mobile-robots-with-high-resolution-digital-lidar-for-challenging-warehouse-environments/",
-      "originalUrl": "https://www.wate.com/business/press-releases/cision/20220518LN60539/mov-ai-partners-with-ouster-to-equip-autonomous-mobile-robots-with-high-resolution-digital-lidar-for-challenging-warehouse-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WATE 6 On Your Side",
-        "domain": "wate.com",
         "images": null,
         "publishers": null,
         "authors": null
