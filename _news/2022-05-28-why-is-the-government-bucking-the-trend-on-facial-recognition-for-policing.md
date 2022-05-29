@@ -107,17 +107,17 @@ related:
     quality: 19
   - title: "Commercial AI Adoption is Picking Up Pace But Only A Third of Businesses Recognise that Data Strategy Facilitates AI"
     excerpt: "Most businesses (90%) now use or plan to use Artificial Intelligence (AI) and even more (98%) have, or intend to, implement a data strategy. Yet new findings suggest that – while the success of each is reliant on the other – only one in three (35%) businesses with a data strategy say it includes provisions for Artificial Intelligence (AI)."
-    publishedDateTime: 2022-05-26T11:00:00Z
-    webUrl: "https://fox8.com/business/press-releases/globenewswire/8560048/commercial-ai-adoption-is-picking-up-pace-but-only-a-third-of-businesses-recognise-that-data-strategy-facilitates-ai/"
+    publishedDateTime: 2022-05-26T11:03:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-manchester-united-kingdom-artificial-intelligence-ba8fe8fa26ccc1e77b971d84d49307de"
     type: article
     provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
+      name: Associated Press
+      domain: apnews.com
     quality: 14
     images:
-      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-        width: 800
-        height: 340
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "RLtneEXUiKDUs950KSEgGgq7id4vWhfO6JxCXapVkCP2AAJI62ahodje4iTVk3E5aNV/ualVbuejMlp32Jb02GoAa1VWTIs3zQ/s9q+EdpNqbiiOg/bHhFYkZz0AXqIFyXGUNl53rLLD21U5gS9JRFoXiL9LSEtVVmVt7M1+kU2HDRBJJgk+EkJVwsrzmauJMRu+WpCWDV4+ktsU19xSQVWuITHoTpFhcJKbbkFUwQEEkknMhLdyujMjV00Sm9SyX9gL3O74kg28UlIbSa8EyRDq2GsIDpakbGI2QbE1iPtgZURgse/0TpSUZIxUNZ6cv2MH7vb+/J5/XDpVhxiIBpLvggW2A4m3BrL0VePnOlQ=;2A6OSwF9MgVOi57Jum1tug=="

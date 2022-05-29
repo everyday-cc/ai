@@ -62,22 +62,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Clearview AI wants its facial-recognition tech in banks, schools, etc"
-    excerpt: "I get knocked down but I get up again, Italy, Canada, UK, ACLU, Facebook, Google, YouTube, Twitter... are never gonna keep me down"
-    publishedDateTime: 2022-05-25T01:10:00Z
-    webUrl: "https://www.theregister.com/2022/05/25/clearview_banks_schools/?td=amp-keepreading-btm"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/clearview_banks_schools/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/clearview_banks_schools/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2018/07/13/facial_recognition.jpg"
-        width: 1000
-        height: 688
-        isCached: true
   - title: "Clearview AI Launches Clearview Consent"
     excerpt: "Clearview AI, a facial recognition technology company, has launched Clearview Consent, an identity verification solution for commercial enterprises. Clearview Consent will offer Clearview AI's facial recognition technology to companies for use in consent ..."
     publishedDateTime: 2022-05-26T16:12:00Z

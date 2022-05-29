@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-18489755
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  "
         width: 800
         height: 533
-        isCached: true
-  - title: "Clearview AI wants its facial-recognition tech in banks, schools, etc"
-    excerpt: "I get knocked down but I get up again, Italy, Canada, UK, ACLU, Facebook, Google, YouTube, Twitter... are never gonna keep me down"
-    publishedDateTime: 2022-05-25T01:10:00Z
-    webUrl: "https://www.theregister.com/2022/05/25/clearview_banks_schools/?td=amp-keepreading-btm"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/clearview_banks_schools/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/clearview_banks_schools/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2018/07/13/facial_recognition.jpg"
-        width: 1000
-        height: 688
         isCached: true
   - title: "TechScape: Clearview AI was fined £7.5m for brazenly harvesting your data – does it care?"
     excerpt: "The facial recognition firm earned a heavy fine for scraping millions of pictures of people’s faces from social media. But that doesn’t mean it will change its ways"

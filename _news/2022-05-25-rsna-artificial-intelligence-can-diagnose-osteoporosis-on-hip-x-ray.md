@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "AI Device Helps Diagnose Autism in Children"
-    excerpt: "This peer-reviewed study evaluated a software as a medical device called the Cognoa ASD Diagnosis Aid that leverages AI machine learning and consists of a mobile app for caregiver"
-    publishedDateTime: 2022-05-29T14:36:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic6345802.jpg?itok=y9l1_rPS"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "AI can diagnose osteoporosis on hip X-ray"
     excerpt: "OAK BROOK, Ill. – A new method that combines imaging information with artificial intelligence (AI) can diagnose osteoporosis from hip X-rays, according to a study in Radiology: Artificial Intelligence. Researchers said the approach could help speed ..."
     publishedDateTime: 2022-05-25T17:00:00Z
@@ -71,6 +55,15 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "AI Device Helps Diagnose Autism in Children"
+    excerpt: "This peer-reviewed study evaluated a software as a medical device called the Cognoa ASD Diagnosis Aid that leverages AI machine learning and consists of a mobile app for caregiver"
+    publishedDateTime: 2022-05-29T14:36:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "Zi7OzKE2NvhrGSe35o2ZMKJqyp1+B+GbYNottfqLJNYkFLwemt6CnNmsc+Izl6Q3HYK26dL205RW7VFVbgwrAXFeZuE6iSnTYN3MYHIr78hoyQ8w8F6v+VFmgbTPpSDF+wMOJE2ItPvJ2CZEdoWAtF5JwTyErZzHJE7iYCfDEExkjMBOJz3N9G/XNa+l33IQ2Rk3ww/mDeFuOEglZ01Ur4qqVsgco2oSXz41SoZ4AOIEBOlAp8RnP6Jm5DflvdxnIiF2/qqW6iLnFB1R+r2uexN6macJq5pooZiEJuYiqvigMcMliZ2gR6edjZJUF3TrfEFfM4aSg7Ph2nhGMVV+2kciHEs65fP11E9KrH3f4m5gd76XBlNqc814UuC1qG2EFAeyTb5TS+x1+vXbP8l5y81XJZAJW9XFe2gr9cVn/6rlR16Hzw7nQyX427HHzhcG8BeBP2wehAUmPbdbbfio+KoB/F4nG3/DeIK1cZCELXDpIrCqJO66JJ2mqrt/CbOAe2A2t/LQyxzOz8JzzXUaMg==;/OU/U9NfB5zTi1uiSxzkHQ=="
 ---

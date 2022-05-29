@@ -1,25 +1,29 @@
 ---
 category: news
-title: "AI and machine learning are improving weather forecasts, but they won't replace human experts"
-excerpt: "Perhaps some day in the dim future it will be possible to advance the computations faster than the weather advances and at a cost less than the saving to mankind due to the information gained. But that is a dream,"
-publishedDateTime: 2022-05-26T19:04:00Z
-originalUrl: "https://www.seattlepi.com/news/article/AI-and-machine-learning-are-improving-weather-17200300.php"
-webUrl: "https://www.seattlepi.com/news/article/AI-and-machine-learning-are-improving-weather-17200300.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/AI-and-machine-learning-are-improving-weather-17200300.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/AI-and-machine-learning-are-improving-weather-17200300.php"
+title: "AI And Machine Learning Are Improving Weather Forecasts, But They Won't Replace Human Experts"
+excerpt: "As in many other scientific fields, the proliferation of tools like artificial intelligence and machine learning holds great promise for weather prediction. We have seen some of what's possible in ..."
+publishedDateTime: 2022-05-26T21:23:00Z
+originalUrl: "https://menafn.com/1104278603/AI-And-Machine-Learning-Are-Improving-Weather-Forecasts-But-They-Wont-Replace-Human-Experts"
+webUrl: "https://menafn.com/1104278603/AI-And-Machine-Learning-Are-Improving-Weather-Forecasts-But-They-Wont-Replace-Human-Experts"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
-secured: "VXaGLQyeYFGJXITYLOHCpt4PkqDL5syO0/Ycna/KBPrOTyjIUcaAmYRDjoUa7InUtLd0sBmZ+CecDZ/qOLGcviS0/zcHy67fdPuj8BOzwMeSsVrofrR1dPoZeLmVMGuNG8CS5hPgIPqeoatdtBZ1fzP8wAAbJX6wCZIAUINue1ncpR+59bVQzFtVfHRF8A8Un/Ug0NXqQiig8yFdH1vuAFte8Q1L+WHE0JyLuZmyH31C/8BLCgv2kmpxSQrIcrRbD/ht5ikXNjLBrB38bHWLBVcdcuZBxZfohNBd1FE4UiT0QMeVDXjSTstfZByqAF2+vGwGMPn+Fsin6WRO8mg7uSAzI4U6MmaO1k+S/MfLPME=;TIH0lckidW2vTq4YVSfjDg=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-05/26/TC_430e9image_story.jpg"
+    width: 1867
+    height: 1245
+    isCached: true
+
+secured: "DwRmtFK3v6HlkWsBCJtXrUNaC/ByttLOFPCZ6MUJMyS08Ay9ynKM+jnl4RqQ6AxNHhHHMdQuv0S+jM8iLXPeBZuH6PPWQ2xkXpkx1ZPN6Ql4XGrjJKcakaJtr2jN4zGvDxzgXNpbTkUwGioFL8Otsm4/SOnDSjxtSVtw3Y4zjZ6+Xezb4Gfll0fh8Ql5feUx1IK2pnkiqDSZZ4OorG+B3CVM1mgzGiQPm+suGhnE5e9n81O/CxO2BRJUgLkGtFNRq7pmjy7uOv1pPW6rjzD4+340nQ7Wx/EGxT6BQoccLF5/MpcDmCqkOJWNlxiCnhn4Yy7y5fw2t6hdRTUiGqHL/spJFctiM9QE47DWW1lBITw=;GsYdxvEIFzUN9U/lPjnLtw=="
 ---
 

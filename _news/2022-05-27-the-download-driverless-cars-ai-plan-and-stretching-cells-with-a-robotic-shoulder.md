@@ -21,15 +21,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Argo AI testing fully driverless cars in Florida and Texas right now"
-    excerpt: "Argo AI is backed by both Ford and Volkswagen, now testing fully driverless vehicles in Miami, Florida, and Austin, Texas."
-    publishedDateTime: 2022-05-25T01:29:00Z
-    webUrl: "https://www.tweaktown.com/news/86405/argo-ai-testing-fully-driverless-cars-in-florida-and-texas-right-now/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
   - title: "The Download: Google’s AI cuteness overload, and America’s fight for gun control"
     excerpt: "This cuteness hides a darker side to these tools, one that the public doesn’t get to see because it would reveal the ugly truth about how they are created. Read the full story—and see more pictures created by Imagen—here."
     publishedDateTime: 2022-05-25T13:14:00Z

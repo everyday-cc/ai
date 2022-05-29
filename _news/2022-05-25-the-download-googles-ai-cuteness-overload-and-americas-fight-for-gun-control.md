@@ -31,15 +31,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 47
-  - title: "Argo AI testing fully driverless cars in Florida and Texas right now"
-    excerpt: "Argo AI is backed by both Ford and Volkswagen, now testing fully driverless vehicles in Miami, Florida, and Austin, Texas."
-    publishedDateTime: 2022-05-25T01:29:00Z
-    webUrl: "https://www.tweaktown.com/news/86405/argo-ai-testing-fully-driverless-cars-in-florida-and-texas-right-now/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "yPOfj+UZh2ccTySWbB4dg8VDGLxZQMRVUf6obDLcUgiWkROvoLzoXuJcY6Gfh7R/SVJvouZlpID8g14BsADOcSZSPSl77AyD+/VVHug1Ri/UdqkX99UCTIWHu6uicx/vNf2hwljz6jObRPOFoweuYGQVBhMM339Z/1nUBe/la/qxUtRz6AXqfMTENA5plHvtgB5x3CrMwgRaviljqpX/y/XQcsFBq1a6RFP/m2FSGseXnK/ppB1FxbmXvHoEisqd8xrXIgiphh9IAah5avWje6Njs+s7cO0HSvYRF9qKTgtjh3/MHhfl02WlU+Md0iCAVqkYR4UtdMBXsfK3491KarRgUT2AmuDFrfR7a2wtyi6+bqHZvHL/oaz8TGg7JMVrXJ23SIwymW/AJdkyc41kQhuaclGHI23kyZWRlh5KHCSx4OYNaWcNVBsbijT42r/qL5yi2hntjUnTU7hRMrJM6LpI3twtF+xb4pmzQChuGEZC99rsFqCfrGorFcDRa3IMbuGPYQLEcK6wVzxO79mcyQ==;jOEInqYZWnoNgXwI+3pXFw=="
 ---

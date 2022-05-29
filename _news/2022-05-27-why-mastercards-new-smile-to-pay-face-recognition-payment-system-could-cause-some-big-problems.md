@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mastercard's 'smile to pay' raises concerns around face recognition systems"
-    excerpt: "The company argues touch-less technology will help speed up transaction times, shorten lines in shops, heighten security and improve hygiene in businesses"
-    publishedDateTime: 2022-05-25T04:58:00Z
-    webUrl: "https://www.business-standard.com/article/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mastercard-s-smile-to-pay-raises-concerns-around-face-recognition-systems-122052500310_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 72
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-12/06/full/1607223506-2559.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Mastercard’s “smile to pay” face recognition payments system is raising privacy, security and bias concerns"
     excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts and is being trialled in Brazil."
     publishedDateTime: 2022-05-26T23:40:00Z

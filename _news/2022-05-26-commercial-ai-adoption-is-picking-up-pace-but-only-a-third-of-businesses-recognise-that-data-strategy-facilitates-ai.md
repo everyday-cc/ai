@@ -2,25 +2,25 @@
 category: news
 title: "Commercial AI Adoption is Picking Up Pace But Only A Third of Businesses Recognise that Data Strategy Facilitates AI"
 excerpt: "Most businesses (90%) now use or plan to use Artificial Intelligence (AI) and even more (98%) have, or intend to, implement a data strategy. Yet new findings suggest that – while the success of each is reliant on the other – only one in three (35%) businesses with a data strategy say it includes provisions for Artificial Intelligence (AI)."
-publishedDateTime: 2022-05-26T11:00:00Z
-originalUrl: "https://fox8.com/business/press-releases/globenewswire/8560048/commercial-ai-adoption-is-picking-up-pace-but-only-a-third-of-businesses-recognise-that-data-strategy-facilitates-ai/"
-webUrl: "https://fox8.com/business/press-releases/globenewswire/8560048/commercial-ai-adoption-is-picking-up-pace-but-only-a-third-of-businesses-recognise-that-data-strategy-facilitates-ai/"
+publishedDateTime: 2022-05-26T11:03:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-manchester-united-kingdom-artificial-intelligence-ba8fe8fa26ccc1e77b971d84d49307de"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-manchester-united-kingdom-artificial-intelligence-ba8fe8fa26ccc1e77b971d84d49307de"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -119,6 +119,6 @@ related:
       domain: knowtechie.com
     quality: 19
 
-secured: "GJEbOriHenJ/Do5N93Su0mF86FnFEe76haHaTfcs98eCyaQ8mUVz6Njyj1axONECzPV6CLh6dYGJBg28SUbqwwtoULl7+ViI812s9FjTCLyfWS+RdAEMq3UDvbHsTKEAOhhzZQ3F2E7tihau3z9mSFx/DmS0DIVB9iLmbdGoU/bxpRM66Wuo4UwCVUuwI4JQFdEArNrrWluIc6IJhbCEaFRtFyTz5b9bk8sh0z2e6b2R+qPJ6OBgHoSXXcvsTzPUj4Z9uVhEmThKVAGGnxSqBQPa8z6AnFbsluIpH0Vnhjv6XNlFOUEV+M0RALtCb8/EAyKEzfAoyQ7LHeEmNfD5kvIWrI4eZWUpfPSOm0grlmA=;9Xa34BfmXEBUXAv7KD9wiA=="
+secured: "vNxEcrXArdwBnM38B05Ts905qSxrQjTGM8wlQF0+rPIRTmmpMqOhP1G2phAJLRwZ/gX4ZOOolU5+61Ie6qabh7W5lPPmMmn0wkoj4Ga3Vj+HwgeZXcTrNLovCMNmjWQnjWKlrpr2B9bll6YW19sJ6c554ex8bo54/pCXM1K4H/YK/3dmoxgcF5fA+aRpYPMrkOtQBKEZoEFUAIX/xgZL5FR0DeajyxvjxOvjSpG6MFBbcfP3nwJUXSvkXTiMl+ZJ8yBiO9cdK6MCjNrJXwFECKPK6B6myVeMj/OlfWS3pYrbrtppMyKD9TOgquoYjz7Y7XtbowqRY1bVK9mZQGN/k6buPPEVddyIWntjIHTAGLw=;5xedSW/Od9/anTbSsR7Gsg=="
 ---
 

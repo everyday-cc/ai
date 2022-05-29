@@ -54,22 +54,6 @@ related:
         width: 1000
         height: 380
         isCached: true
-  - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
-    excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-    publishedDateTime: 2022-05-26T22:50:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 102
-    images:
-      - url: "https://regmedia.co.uk/2020/11/16/amdmi100.jpg"
-        width: 894
-        height: 534
-        isCached: true
   - title: "How Microsoft plans to improve the low-code landscape"
     excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
     publishedDateTime: 2022-05-27T03:20:00Z
@@ -160,6 +144,15 @@ related:
         width: 490
         height: 273
         isCached: true
+  - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
+    excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
+    publishedDateTime: 2022-05-26T22:50:00Z
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 62
   - title: "Microsoft Build 2022 | Windows 11 apps, Dev Box cloud service, and more"
     excerpt: "The software giant made several announcements on day one that included Windows 11 apps-related updates, a cloud service for developers, new features and tools for Teams developers, Azure AI updates, and more."
     publishedDateTime: 2022-05-25T16:18:00Z
