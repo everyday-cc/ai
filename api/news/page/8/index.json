@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-19-plus-one-robotics-to-present-parcel-sortation-robot-workflow-at-automate-conference-2022.md",
+      "title": "Plus One Robotics to Present Parcel Sortation Robot Workflow at Automate Conference 2022",
+      "excerpt": "Plus One Robotics, the leading 3D and AI-powered software maker for logistics robotics, will showcase live demonstrations of their revolutionary PickOne technology, which features Yonder, the company’s award-winning remote supervision product,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/NewsDirectCorporation/technology-robotics-1041df63027f557d5cd1e32e7260cb65",
+      "originalUrl": "https://apnews.com/press-release/NewsDirectCorporation/technology-robotics-1041df63027f557d5cd1e32e7260cb65",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-how-optimized-object-recognition-is-advancing-tiny-edge-devices.md",
+      "title": "How optimized object recognition is advancing tiny edge devices",
+      "excerpt": "Alif Semiconductor have demonstrated an optimized face detection model running on Alif's Ensemble microcontroller based on Arm IP. The two found it is suitable for enhancing low-power artificial intelligence (AI) at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
+      "originalUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-873875560.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
+      "publishedDateTime": "2022-05-18T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-what-exactly-is-artificial-intelligence.md",
       "title": "What Exactly Is Artificial Intelligence?",
       "excerpt": "On the other hand, Machine Learning (ML) is a subset of artificial intelligence. ML uses different computer algorithms such as neural networks to enable the computer to automatically learn and improve from experience without being explicitly programmed.",
@@ -1048,102 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-tesla-increases-top-speed-of-autopilot-with-tesla-vision-to-85-mph.md",
-      "title": "Tesla increases top speed of Autopilot with ‘Tesla Vision’ to 85 mph",
-      "excerpt": "Tesla has started to push a new software update to increase the top speed limit of Autopilot for vehicles with ‘Tesla Vision’ to 85 mph. It is almost a year to the day that Tesla announced the transition to its “Tesla Vision” Autopilot without radar.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/",
-      "originalUrl": "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-Autopilot-hero-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/amp/",
-      "publishedDateTime": "2022-05-18T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round.md",
-      "title": "Indian Robotics Firm GreyOrange Raises $110 Mn In A Funding Round",
-      "excerpt": "Tiger Global-backed Indian robotics firm GreyOrange has raised $110 Mn in the latest funding round, as per reports.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
-      "originalUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/05/Feature-fashion-300x225.png",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
-      "publishedDateTime": "2022-05-18T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

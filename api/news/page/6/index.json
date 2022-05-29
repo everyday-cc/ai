@@ -2,6 +2,81 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-21-how-ai-can-facilitate-supply-chains.md",
+      "title": "How AI Can Facilitate Supply Chains",
+      "excerpt": "Here’s how artificial intelligence could play a crucial role in supply chain management, and whether it could be part of the sector’s future. Some people might associate artificial intelligence with robots and assume it’s limited to basic applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
+      "originalUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-ai-can-facilitate-supply-chains?amp",
+      "publishedDateTime": "2022-05-20T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-israeli-firm-hopes-ai-can-curb-drownings.md",
+      "title": "Israeli firm hopes AI can curb drownings",
+      "excerpt": "An Israeli city is testing whether an artificial intelligence programme that detects drowning threats can help save lives off its beaches.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
+      "originalUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/lifeguards-in-the-city.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-israeli-firm-ai-curb.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-israeli-firm-ai-curb.amp",
+      "publishedDateTime": "2022-05-20T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-21-every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals.md",
       "title": "Every Crime has a Face, Says Ukrainian Journalist Hunting War Criminals",
       "excerpt": "Before the Russian Ukrainian journalist Dmitry Replyanchuk spent his days unearthing corruption, often among judges and law enforcement. Now the Kyiv-based journalist wh",
@@ -1063,101 +1138,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-intel-takes-ai-leadership-from-nvidia.md",
-      "title": "Intel Takes AI Leadership From Nvidia",
-      "excerpt": "Intel is returning to leadership and entering new and growing markets, which its valuation doesn't show yet. Find out why I'm bullish on INTC stock.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4513192-intel-takes-ai-leadership-from-nvidia",
-      "originalUrl": "https://seekingalpha.com/article/4513192-intel-takes-ai-leadership-from-nvidia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1344067896/image_1344067896.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4513192-intel-takes-ai-leadership-from-nvidia",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4513192-intel-takes-ai-leadership-from-nvidia",
-      "publishedDateTime": "2022-05-19T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-can-ai-write-an-episode-of-stargate-google-ai-took-on-the-challenge.md",
-      "title": "Can AI write an episode of Stargate? Google AI took on the challenge",
-      "excerpt": "For the cult classic Stargate science fiction franchise,character and plot development was helmed by Stargate co-creator Brad Wright. In 2021, Wright publicly posted a message on Twitter<asking if it was possible for AI to write an episode of Stargate ,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/19/can-ai-write-an-episode-of-stargate-google-ai-took-on-the-challenge/",
-      "originalUrl": "https://venturebeat.com/2022/05/19/can-ai-write-an-episode-of-stargate-google-ai-took-on-the-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/19/can-ai-write-an-episode-of-stargate-google-ai-took-on-the-challenge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/can-ai-write-an-episode-of-stargate-google-ai-took-on-the-challenge/amp/",
-      "publishedDateTime": "2022-05-19T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

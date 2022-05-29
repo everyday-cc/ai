@@ -113,6 +113,20 @@ related:
       name: Quinnipiac University
       domain: qu.edu
     quality: 19
+  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
+    excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
+    publishedDateTime: 2022-05-25T13:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "KDD 2022 Opens Registration for the Premier International Data Science and Analytics Conference"
     excerpt: "Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD) today announced registration is open for KDD 2022, which will take place Aug. 14-18, 2022 in Washington, D.C. at the Walter E. Washington Convention Center."
     publishedDateTime: 2022-05-24T13:07:00Z
@@ -121,15 +135,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
-  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
-    excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
-    publishedDateTime: 2022-05-25T13:32:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
     quality: 0
 
 secured: "+dKGzHMpg9aFeN6mAerGBncJXB4Qqwqkc2lKYoZ+YEphw2U/Wwjzr+uzXSzJZt4uad0NpZZS1amPjRePyWYpJMvCuDaDLD5CpKRQsJEUbqiEwMugcQs5hs9n9NtlCR4MDHZSZR21MzgmTEcPP7v4x9LW6YeBRD0NXOLhDR+jLjkbLrFwaqKL7CgxHE2tlfKx04dlxlQ9oo7XQSCPDO+n063HfPkGg4SsgaDqlC697u63mRPZAomVmj9SUfAEevmIiucfOhzvItwR6dVqhqDxMWQn0LsNeMOOO0haCzLJOJjGwUPp21lz4I3VZ8KWQE8aaRSF7bzSyau51Xod7qtHlg9+vJWBIjZbASMtyk+LC/s=;220ufWcUT3DgIpmHsYPFVQ=="

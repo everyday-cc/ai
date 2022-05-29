@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-in
 cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: WBUR
@@ -30,47 +30,61 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of AI Accountability"
-    excerpt: "As Uncle Ben says in Spiderman, \"With great power comes great responsibility.\" This is one of my favorite sayings because it holds true for every walk of life, especially as a leader in the workplace, where you are responsible for the success of the ..."
-    publishedDateTime: 2022-05-24T10:22:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/amp/"
+  - title: "Maxicare advances healthcare, medical testing with AI SmartScan techn partnership"
+    excerpt: "Maxicare Healthcare Corporation, the leading health maintenance organization in the Philippines, has partnered with leading digital solutions provider Advanced Abilities"
+    publishedDateTime: 2022-05-26T10:56:00Z
+    webUrl: "https://manilastandard.net/tech/314231316/maxicare-advances-healthcare-medical-testing-with-ai-smartscan-technology-partnership%EF%BF%BC.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 49
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//628b8de7a18d8436b8782e88/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://manilastandard.net/wp-content/uploads/2022/05/Screen-Shot-2022-05-26-at-6.43.07-PM.png"
+        width: 855
+        height: 593
         isCached: true
-  - title: "How will AI be used ethically in the future? AI Responsibility Lab has a plan"
-    excerpt: "AI Responsibility Lab's Mission Control provides a framework for teams to create standardized processes for ML and AI operations."
-    publishedDateTime: 2022-05-24T17:02:00Z
-    webUrl: "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/"
-    ampWebUrl: "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/amp/"
+  - title: "Sophisticated AI Solutions for healthcare sector"
+    excerpt: "Healthcare solutions utilise sophisticated and automated data harmonizers, efficient big data systems, advanced statistical knowledge, and extensive domain experience"
+    publishedDateTime: 2022-05-26T19:30:00Z
+    webUrl: "https://www.thehansindia.com/business/sophisticated-ai-solutions-for-healthcare-sector-745149"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 34
+  - title: "Mark Roth: Health care lessons from the military"
+    excerpt: "The inescapable pain and death of war have also produced many of the medical breakthroughs that have enhanced our health in peacetime. The Civil War created advances in surgical techniques. World Wars I and II led to the development of prosthetics and the widespread use of antibiotics."
+    publishedDateTime: 2022-05-26T15:00:00Z
+    webUrl: "https://triblive.com/opinion/mark-roth-health-care-lessons-from-the-military/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 24
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all"
-        width: 1200
-        height: 768
+      - url: "https://assets-varnish.triblive.com/2022/05/5088486_web1_gtr-cmns-Stossel-022422.jpg"
+        width: 640
+        height: 424
         isCached: true
-  - title: "Up For Debate: Is AI The Future Of HR?"
-    excerpt: "Employers that introduce smart technologies to drive efficiency in HR may stumble on a hidden layer of division in the workforce: some workers are comfortable having their resumes and performance data read by artificial intelligence (AI) – and some workers are fearful of how AI will influence"
-    publishedDateTime: 2022-05-25T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2022/05/25/up-for-debate-is-ai-the-future-of-hr/"
+  - title: "Smarter health: How AI is transforming health care"
+    excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
+    publishedDateTime: 2022-05-27T14:00:00Z
+    webUrl: "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: WWNO
+      domain: wwno.org
+    quality: 19
+  - title: "Smarter health: How AI is transforming health care"
+    excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
+    publishedDateTime: 2022-05-27T18:00:00Z
+    webUrl: "https://www.wlrn.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 19
 
 secured: "Xj5JEsvr8b4onrmDi/3XnQtXj4esqTprCPvmKgqSqR4q2ZsnGGy/zamosAkevRRT3WuzakC6Yyb58Ko7k2S//8FTPxoPvZ/AAT/8Xw9msh8vvSw+fYnl3l5gruDgi9pu5f/hvacAx/V8J1rc5shQavmbWKFAiFzHIMRrkFt9evb4meAt5kv20x3kH1DraXC5z9zGEnGClXcn7Ye57fwq5Sf882DoN4QY+Yio48mkDnOOza4qw1ycvhcP+k3uGdNcatQXgEoFNULj6VLcNkxZitrb3Y4kfqGaO7e0A2wOOgGhbqCuu+QY+/7sLavNi3SLqFKcBfmx6yV20QDq3s80HUXVd28byrs5p1fT3L4AGRsyGMFUY6DhJSvr3WmPbzhvMw1PNQgqxGQVOEEl3cv94vRrpDm7vbvrE1KPCAZt72tVlBu70VW7wPFNTZBMnzoorDaxi6Q1iYNngWGQhg1e0lbg7IpKLzzpMcocC0MH9exdRyzXxOELrgKETsALNqCWpDp0Z4KXfDasNXPZV1AAiA==;HjFTV9thJIsiLNYvQ+6UzA=="
 ---

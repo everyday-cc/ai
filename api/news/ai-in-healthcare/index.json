@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-25-is-ibm-really-making-progress-with-watson-in-healthcare.md",
-      "title": "Is IBM Really Making Progress with Watson in Healthcare?",
-      "excerpt": "adding that the company also sees an enormous business opportunity in this area as the adoption of AI increases. He highlighted three distinct cancer tools that IBM has developed: Watson for Oncology, which provides treatment options that augment an ...",
+      "path": "_news/2022-05-26-smarter-health-artificial-intelligence-and-the-future-of-american-health-care.md",
+      "title": "Smarter health: Artificial intelligence and the future of American health care",
+      "excerpt": "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change that?",
       "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/ibm-really-making-progress-watson-healthcare",
-      "originalUrl": "https://www.mddionline.com/digital-health/ibm-really-making-progress-watson-healthcare",
+      "webUrl": "https://www.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
+      "originalUrl": "https://www.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/MachineLearning_0.png",
-          "width": 960,
-          "height": 480,
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/linderpix-WBUR-OnPoint-6815-web_1000x667-400x267.jpg",
+          "width": 400,
+          "height": 267,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T16:59:00-07:00",
+      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
+      "publishedDateTime": "2022-05-25T13:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
+        "name": "WBUR",
+        "domain": "wbur.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,9 +92,11 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "AI in Healthcare",
         "AI",
-        "AI in Healthcare"
+        "Facebook AI",
+        "AI Ethics",
+        "AI in Autos"
       ]
     },
     {

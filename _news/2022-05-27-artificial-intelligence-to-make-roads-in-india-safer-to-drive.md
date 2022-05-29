@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-to-make-ro
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "MeitY holds Brainstorming with Researchers & Startups to shape strategy for Digital India BHASHINI – India’s AI led language translation platform"
-    excerpt: "We see the role of Startups in the Innovation, Development as well as Consumption of Technology”, said Rajeev Chandrasekhar, Minister of State for Electronics and Information Technology and Skill Development & Entrepreneurship,"
-    publishedDateTime: 2022-05-24T09:23:00Z
-    webUrl: "https://orissadiary.com/meity-holds-brainstorming-with-researchers-startups-to-shape-strategy-for-digital-india-bhashini-indias-ai-led-language-translation-platform/"
-    type: article
-    provider:
-      name: Odisha Diary
-      domain: orissadiary.com
-    quality: 0
 
 secured: "0EkSn8DTI6fZ7QHNXiNOfNH+sr9cuyVN6NdqVxJN+N6IYmBOgmLzR0Xd7WhQZbtFjHFCUbwKOJF34Eh161+QLB/hT6Ok2rwzvFMlT7/il/T1zpgLac+XHuadL9PscuCNB4IpJtc82zuKSSrsjLVPaG8eaBjubNDTcZRbfh6/djJ5M9fm3+MnDQE1hh8+JbW76L453ju9RoPvTlG4u+uSTOl/UCV+QGun9gArbCtWP50IF9q6pxqfEBrcSP3YTHA4Otg6HUwkRk0uodeNuPKjYXWJBCfbmcb9zols6jToUY30v4bMPZwfDtIBaUzK29Geq+s6zN8cV84gaXAa9oCbbwtNLPzV0uwTI7YVVWERTGs=;xInl59ekfuCKPtosvMA0hQ=="
 ---

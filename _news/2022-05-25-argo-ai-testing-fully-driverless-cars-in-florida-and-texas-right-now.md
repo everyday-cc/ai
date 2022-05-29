@@ -30,20 +30,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 47
-  - title: "QCraft's driverless autos ready to hit the road"
-    excerpt: "Meanwhile, Qcraft also announced plans to test its self-driving system for consumer cars ... QCraft was one of the three companies along with Baidu Inc and AI pioneer SenseTime that obtained ..."
-    publishedDateTime: 2022-05-24T10:01:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202205/24/WS628c36d1a310fd2b29e5e912.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202205/24/628c36d1a310fd2bec8ae4d6.png"
-        width: 417
-        height: 278
-        isCached: true
   - title: "The Download: Google’s AI cuteness overload, and America’s fight for gun control"
     excerpt: "This cuteness hides a darker side to these tools, one that the public doesn’t get to see because it would reveal the ugly truth about how they are created. Read the full story—and see more pictures created by Imagen—here."
     publishedDateTime: 2022-05-25T13:14:00Z

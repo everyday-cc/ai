@@ -19,20 +19,6 @@ topics:
 
 related:
   - title: "Gradiant Acquires Synauta, Machine Learning Company, to Advance AI Technology in Water"
-    excerpt: "Gradiant, a global solutions provider and developer for cleantech water, today announced it has acquired Canadian"
-    publishedDateTime: 2022-05-24T10:40:00Z
-    webUrl: "https://menafn.com/1104264377/Gradiant-Acquires-Synauta-Machine-Learning-Company-to-Advance-AI-Technology-in-Water"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/24/pr_3796_2dff00c8_image_story.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "Gradiant Acquires Synauta, Machine Learning Company, to Advance AI Technology in Water"
     excerpt: "Gradiant, a global solutions provider and developer for cleantech water, today announced it has acquired Canadian artificial intelligence (AI) water technology company Synauta, to accelerate the use of digital twin technology in water."
     publishedDateTime: 2022-05-28T06:26:00Z
     webUrl: "https://ians.in/prwiredetail/gradiant-acquires-synauta-machine-learning-company-to-advance-ai-technology-in-water/B-79022.html"

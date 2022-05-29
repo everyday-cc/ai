@@ -2,6 +2,102 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-05-18-tesla-increases-top-speed-of-autopilot-with-tesla-vision-to-85-mph.md",
+      "title": "Tesla increases top speed of Autopilot with ‘Tesla Vision’ to 85 mph",
+      "excerpt": "Tesla has started to push a new software update to increase the top speed limit of Autopilot for vehicles with ‘Tesla Vision’ to 85 mph. It is almost a year to the day that Tesla announced the transition to its “Tesla Vision” Autopilot without radar.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/",
+      "originalUrl": "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-Autopilot-hero-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/amp/",
+      "publishedDateTime": "2022-05-18T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round.md",
+      "title": "Indian Robotics Firm GreyOrange Raises $110 Mn In A Funding Round",
+      "excerpt": "Tiger Global-backed Indian robotics firm GreyOrange has raised $110 Mn in the latest funding round, as per reports.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
+      "originalUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/05/Feature-fashion-300x225.png",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
+      "publishedDateTime": "2022-05-18T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-movai-partners-with-ouster-to-equip-autonomous-mobile-robots-with-high-resolution-digital-lidar-for-challenging-warehouse-environments.md",
       "title": "MOV.AI Partners with Ouster to Equip Autonomous Mobile Robots with High-Resolution Digital Lidar for Challenging Warehouse Environments",
       "excerpt": "Combining Ouster's high-resolution data with the MOV.AI Robotics Engine Platform TM, advanced SLAM navigation, obstacle avoidance, and risk avoidance solutions, AMRs can operate efficiently and continuously in challenging warehouse environments ...",
@@ -1077,73 +1173,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-people-data-labs-joins-aws-isv-accelerate-program.md",
-      "title": "People Data Labs Joins AWS ISV Accelerate Program",
-      "excerpt": "People Data Labs (PDL), which provides 3 billion unique B2B data records for developers, engineers, and data scientists, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor Accelerate (ISVA) Program,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-l3harris-selected-for-key-department-of-defense-artificial-intelligence-program.md",
-      "title": "L3Harris Selected for Key Department of Defense Artificial Intelligence Program",
-      "excerpt": "L3Harris Technologies (NYSE:LHX) has been selected by the U.S. Department of Defense to deliver artificial intelligence services to improve intelligence gathering and collaboration across the defense and intelligence communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/l3harris-selected-for-key-department-of-defense-artificial-intelligence-program/article_5049ff65-08f3-5219-a621-9c1aaa21518b.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/l3harris-selected-for-key-department-of-defense-artificial-intelligence-program/article_5049ff65-08f3-5219-a621-9c1aaa21518b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

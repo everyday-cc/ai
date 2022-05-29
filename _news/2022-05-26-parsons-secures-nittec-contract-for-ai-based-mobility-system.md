@@ -23,22 +23,6 @@ images:
     height: 1200
     isCached: true
 
-related:
-  - title: "NEC Provides AI-Based Traffic Monitoring System With Fiber-Optic Sensing Technology For NEXCO CENTRAL"
-    excerpt: "NEC Provides AI-based Traffic Monitoring System with Fiber-optic Sensing Technology for NEXCO CENTRAL <br/>  - Smart road traffic monitoring"
-    publishedDateTime: 2022-05-24T09:39:00Z
-    webUrl: "https://menafn.com/1104263747/NEC-Provides-AI-Based-Traffic-Monitoring-System-With-Fiber-Optic-Sensing-Technology-For-NEXCO-CENTRAL"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/updates/pr/2022-05/24/JN_6b2e004a-a_Image_In_Body.jpg"
-        width: 650
-        height: 360
-        isCached: true
-
 secured: "lWWPi+8RqAiBzq17Xt+mVT5CwmS28HsH3iNaW8zqw6uCNxaDkVpGDOPhpBMjueKhMEwzsaLXqvQQmYde8mMIWA2ixGdv49Qeh8k928mk1t+m8SydMjR/mTjtBHKKPnQ5CHAoopI6efiykBhYvXRMXhCfAAqF9v5XS+PdxdJoDAt6lJe3scWiVFYygJig5kP5/+dyc9wFYl79F9gWGZNW93yguYRylayODW+hv8s5aWhiPYzghVemSFsk9HnwNsTJ2qRzbTUsdZ6fUgKxEsV+aXgRwVxe24x5sBRL0AtJ9knfC7bHHrAeX6H7aaeCUTYzOyB1oguxvRGgSu88uLmnGf5zFd/EfwhAKKaomd8RG/w=;71y5IkGwZIelcDq6QAiALQ=="
 ---
 

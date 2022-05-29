@@ -155,8 +155,8 @@
       "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
       "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale Visual Recognition Challenge and raised the accuracy of AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
       "featuredContent": null,
       "highlight": null,
       "heat": 134,
@@ -173,9 +173,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "publishedDateTime": "2022-05-25T15:05:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T15:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -504,6 +504,49 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-significant-energy-savings-using-neuromorphic-hardware.md",
+      "title": "Significant energy savings using neuromorphic hardware",
+      "excerpt": "For the first time TU Graz's Institute of Theoretical Computer Science and Intel Labs demonstrated experimentally that a large neural network can ... of worldwide artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220524100612.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220524100612.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1404,49 +1447,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-aiml-startups.md",
-      "title": "Flying Fish raises $70M fund and will cast net beyond Seattle to back more AI/ML startups",
-      "excerpt": "Seattle-based venture capital firm Flying Fish landed $70 million for its second fund to invest in more machine learning and artificial intelligence startups across a bevy of verticals… Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/",
-      "originalUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/flying-fish-raises-70m-fund-and-will-cast-net-beyond-seattle-to-back-more-ai-ml-startups/amp/",
-      "publishedDateTime": "2022-05-17T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Machine Learning"
       ]

@@ -2,6 +2,92 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-04-26-how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.md",
+      "title": "How AI is helping the supply chains in the healthcare sector",
+      "excerpt": "AI can analyze large amounts of data in order to identify patterns and hidden correlations, which would otherwise take humans considerably longer to c..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91092925,imgsize-11528,width-1200,height-628,overlay-ethealthworld/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-ai-is-helping-the-supply-chains-in-the-healthcare-sector/91092925",
+      "publishedDateTime": "2022-04-26T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-teaching-ai-and-robotics-concepts-in-business-courses.md",
+      "title": "Teaching AI and robotics concepts in business courses",
+      "excerpt": "By Gary Allemann, MD at Master Data Management Artificial Intelligence (AI) and robotics are steadily making their way into every industry. From retail companies to healthcare practices that use AI-driven robots for medical processes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
+      "originalUrl": "https://www.engineeringnews.co.za/article/teaching-ai-and-robotics-concepts-in-business-courses-2022-04-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution-for-meetings.md",
       "title": "Philips Speech Teams Up With Sembly AI to Launch a Brand-new Speech Technology Solution for Meetings",
       "excerpt": "Together they’ll unite to provide high-quality microphones and smart meeting technology. Sembly goes beyond simple speech recognition and offers users instant searchable meeting transcripts, highlights key discussion moments, and creates summaries.",
@@ -990,83 +1076,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-experienced-sales-leader-tyler-norkus-joins-dynamai-as-chief-revenue-officer.md",
-      "title": "Experienced Sales Leader Tyler Norkus Joins Dynam.AI as Chief Revenue Officer",
-      "excerpt": "Norkus, a sales expert in emerging technologies, has led go-to-market strategy for startups both in the United States and worldwide. SAN DIEGO, April 25, 2022 /PRNewswire-PRWeb/ -- Dynam.AI, an artifi",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26792823/experienced-sales-leader-tyler-norkus-joins-dynam-ai-as-chief-revenue-officer",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26792823/experienced-sales-leader-tyler-norkus-joins-dynam-ai-as-chief-revenue-officer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26792823",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26792823",
-      "publishedDateTime": "2022-04-25T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-orbbec-announces-persee-3d-camera-with-built-in-neural-network-processing.md",
-      "title": "Orbbec Announces Persee+ 3D Camera With Built-In Neural Network Processing",
-      "excerpt": "World's First 3D Camera with Integrated Computer is Now Upgraded to Provide Up to 10X Processing Power, Improved Imaging, Plus NPU for Artificial Intelligence/Deep Learning Leading the upgrades in the Persee+ is its Amlogic A311D processor,",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220425CG33419/orbbec-announces-persee-3d-camera-with-built-in-neural-network-processing/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220425CG33419/orbbec-announces-persee-3d-camera-with-built-in-neural-network-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

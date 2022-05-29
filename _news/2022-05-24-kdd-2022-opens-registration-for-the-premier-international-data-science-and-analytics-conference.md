@@ -114,6 +114,20 @@ related:
       name: Quinnipiac University
       domain: qu.edu
     quality: 19
+  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
+    excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
+    publishedDateTime: 2022-05-25T13:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Data analytics platform launched to attract $1 billion in AI and DeepTech investments to Ukraine"
     excerpt: "In a preemptive effort to trigger post-war capital inflow into UkraineLONDON--(BUSINESS WIRE)--Deep Knowledge Analytics (DKA), the flagship subsidiary of Deep Knowledge Group (DKG), today announced the launch of the beta version of a data analytics platform that aims to attract $1 billion in AI and DeepTech investments to Ukraine over a foreseeable period of time."
     publishedDateTime: 2022-05-24T19:48:00Z
@@ -123,15 +137,6 @@ related:
       name: 아크로팬
       domain: acrofan.com
     quality: 4
-  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
-    excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
-    publishedDateTime: 2022-05-25T13:32:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "4vJlqVOcfrTnS0CSv6nzfG6yd3yEG6qsR5r5tjxc5FdfsHe1lABhO/ZiokJo49O6mblpFinFSY5M+pOV8aB2uO4ZF/87zQSjbfHVU021Z6pnyeuJcyugxEz0aHzYOzK453NguQy0NNVT93+PG5+AH/Z+z3OTA9edyx8jZCSszJcY3XkLz+7ifFKZUQwLpmOqzY93ouci683LwV7WLJa5vJCRL6ns4n+nl9Ljwqrfw7VBf2J0nAPDG091QG6RoAPdJfLWPbDKBlyeGws6Wfhe0NvQ+iHTY0hd2w5pl3nRgrjAragbkaa5ai5UAIDKKMgGaITkf1kELmt/S3de4UPkl0+Vcsel3c9/leKjA/iMPh9QrzwoJpHapk17dkSSrRT4RNqIgNvazKoHNBHLAtdxAGZ/aM6wrQq9AqjGC/5cMq0RYUGKX8gwF/9XQM65qZqmDr7do84wMADgjtd0n8/fWvw5B3+7/ad+IXZVIDjw7ixujSLuZWt9K0k21G3KDjgxLnfIYCMbSH/mL9PqiwAMpA==;nQkeCuRJmBVt/VO06RNNhA=="
 ---

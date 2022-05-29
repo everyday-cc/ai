@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
 excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-publishedDateTime: 2022-05-26T22:46:00Z
-originalUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
-webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+publishedDateTime: 2022-05-26T22:50:00Z
+originalUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
+webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 type: article
@@ -17,9 +17,9 @@ provider:
   domain: theregister.com
 
 topics:
-  - AI Hardware
-  - AI
   - Microsoft AI
+  - AI
+  - AI Hardware
 
 images:
   - url: "https://regmedia.co.uk/2020/11/16/amdmi100.jpg"
@@ -620,6 +620,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "T8qZ5kjI+cGOdIOZplDX08J2dq2mZJn17qrxKYun1KUq2NAhtE2kT6WHs25LXzkzdcUzw5fTkS33ItDyewChEe+Thr1YAUyEP4TVz9Yt/1SxufkFVC6aiKkQx8oiX1bCtIDxPLxg7JyngPvqAHYKhBycj8iKb/ATVZfGN6/kCwseZ+wJcwRhF8RvHA2GAIqw9I2baUOdAkL08sB3V2cW8CK7INx6E9yQi4FZ31HEQTSq8BEXBo1h5vQRebGMrnLSqgiDTZR/ZrLoefQeNanuwrm6+PS4eKif2NrNzM0doTXLrr/vnSPYPokmPpKVjAWas5z1YnvMMBEE5QRoiHjc+GVITeQckuNDAmh+kdhA9Bw=;3lZSTLaBnJT9/zRA8JtKxQ=="
+secured: "d6EmHaeHNlU/4A2hiB/RHhqvqZCgISxDYlJK7e0AVMbTy0MgMFVpTFvZ5cv+/XPYTAW+8omPbbaV/nton3ehm1DeQLzqKo3ltLwX9Q1m5QcNubH4NrMfd8SPl5Twty/L3mMxK6opECn359J02klxOBnckyrtUtXBrEuPtu3/6SpGSqX9nElhj0Nzm08KLQvOc+rOt84Q5vLeTYAtS0mVLoTmHo6FShR0AqH8OjPM+fbOm1NndSRLLT0+96v06T9+atOELo9QMejqWTWy7szTM7xS2nplv6SYNCiExaGi+rTtd3KaK88xTDPclC7Egvk3s4CP0rY6U5cPAuoogBYUZaGUx9AspLPveJRiJ57ss3M=;g0d+CWkAtBmUfe63EwJirQ=="
 ---
 

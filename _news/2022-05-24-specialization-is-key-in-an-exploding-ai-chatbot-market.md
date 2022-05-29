@@ -57,32 +57,18 @@ related:
   - title: "AI Behavior Health Chatbot App Fast-Tracked by FDA"
     excerpt: "Recently the U.S. Food and Drug Administration granted breakthrough device designation to Wysa’s AI-based digital mental health conversational agent that delivers cognitive beha"
     publishedDateTime: 2022-05-26T20:00:00Z
-    webUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
-    ampWebUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+    webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+    ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic88776.jpg?itok=FgGSLPBQ"
         width: 1528
         height: 800
-        isCached: true
-  - title: "Exclusive: US tech investing giant Tiger Global leads $14 million Series A round into AI chatbot startup Zowie"
-    excerpt: "The startup aims to transform customer queries into sales for ecommerce sites and counts L'Oreal and Avon among its customers."
-    publishedDateTime: 2022-05-24T10:27:00Z
-    webUrl: "https://www.businessinsider.com/zowie-raises-14-million-tiger-global-and-googles-gradient-ventures-2022-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-    images:
-      - url: "https://i.insider.com/6287b8db8641770019bd7aff?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "FNo3wzHf8D6Et6zp361ZmV4Z+9i+S++SWLKL3K9S+hZUfu70m0OMkG/9G95h+BxehYtelxWi4FgKwZInOlTqkRcFMLYQPd+5M3EQ+VU1Gh7Os5t61IrFHde7QUihUpQ8hq90aozVdwhXycXlEmtfcahXWFgWY4RiQ8u7lJD4KWbhwSooa+vBUZvhxABJK6dO7e9xujh5CEC03SPEwG5PR3P5I6Hc9RE6DAKBeb+nijfXKqVTul+lDRz4DjvEgHE1B/0CJh+aZNRX70Uu9wY2justRm4kG1Y+Kk3JC/fweJjcwGMaRstPLnrIceemBUHBItwWpMFbhqrbQyhBVCfgPBa2sMCSIdDjTe9P0yLvAd85KQX4ugp/rLPjpPaERuKrYxz3GPeP4gxt9V2wKEOTzK8Ao+p76eLN7eAc53+3hq3z13Sa0eHX0dLONA4WuTKxNGEPrVYnzvcCE2iKkoy4qbdpR7aI4xHEamTdhGXsaIVOf6fT10gnfMzGBowVx7P21dhLBopRQ+fCixaMsDfFXw==;10XvNB8b8Tf0afzspPn/Hg=="

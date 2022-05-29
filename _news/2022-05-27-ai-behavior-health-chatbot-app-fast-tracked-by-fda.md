@@ -3,12 +3,12 @@ category: news
 title: "AI Behavior Health Chatbot App Fast-Tracked by FDA"
 excerpt: "Recently the U.S. Food and Drug Administration granted breakthrough device designation to Wysa’s AI-based digital mental health conversational agent that delivers cognitive beha"
 publishedDateTime: 2022-05-26T20:00:00Z
-originalUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
-webUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
-ampWebUrl: "https://www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/gb/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+originalUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda"
+ampWebUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-behavior-health-chatbot-app-fast-tracked-fda?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -58,20 +59,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Exclusive: US tech investing giant Tiger Global leads $14 million Series A round into AI chatbot startup Zowie"
-    excerpt: "The startup aims to transform customer queries into sales for ecommerce sites and counts L'Oreal and Avon among its customers."
-    publishedDateTime: 2022-05-24T10:27:00Z
-    webUrl: "https://www.businessinsider.com/zowie-raises-14-million-tiger-global-and-googles-gradient-ventures-2022-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-    images:
-      - url: "https://i.insider.com/6287b8db8641770019bd7aff?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Specialization is key in an exploding AI chatbot market"
     excerpt: "Join AI and data leaders for insightful talks and ... The platform enables brands to improve their customer relationships and start generating revenue from customer service."
     publishedDateTime: 2022-05-24T13:01:00Z
@@ -82,6 +69,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "3t+T7nrRH1rmJv2Wbnn7yAukddCcJBs1Pf8rwij2QnORbmqq96v/w98ZD/hTybmAFipLAVyrgtHq2Avqy85vs1GOKdqTMWowgoUwuCSiEa+9Lzx7Sdfz/1t+WFkgsRZFd6oi/4W/5OHj4mUMVGTQ+XxI0wMc14ginLuRvPJWTj4OyHFWm/KCkKm/6R/I+yM0FvvmE3NUF1Z7GgvQie8Dz6UOcNde4AKnG95cMIelD7Ew9zzZCPk7ZOjV2idRZ99+B2X6+gu65k6i5DFpGeuBl4BhkKQvcnnSC219VHQxEuc0ICUcbwDirOh7iGD1Qnl1SkI1BbRCmdVp2FVZcRr9l2o7cr7QqLv+5aMoy0nI4FY=;qWJpPocvHOiTX+AXyP6Mdw=="
+secured: "vHqrF7NO+/qAMRF8cHq2Zwfoq5lfEVEN5PK3oxwnoxCfPo1Cx5CXRQkbeegfXpczadFiX3fz3JE6J1lONaYBULqBhFbWFMzA/zyJelfIvkea3gj67CxIuk+xqC9jnU+/gWvmp1Q5vB+G/jHmL8wkbuqdZzdXc7hktPks4HUS8BOm/pY8xEWhBW87v/4Isvg1sx5M6ZW1at+2LRt4rCHQv+TBj6MkaPot3ojUdOGNMTZgJXnkpbDM3R5x2gOkw7LRdvzF6GiJ5Wxwy+ckRvKf055fCACkA33kxpEBKoVqrMlyfB7P7K+cXlBEvIkyHlMvU9SclYzpEcIDmpRm50eb9KniubFCUj60TOAUjb+vjl0=;moJ9j+Zotoqd4BAsZtZaxQ=="
 ---
 

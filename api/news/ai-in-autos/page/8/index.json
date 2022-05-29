@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-17-1-how-americans-think-about-artificial-intelligence.md",
+      "title": "1. How Americans think about artificial intelligence",
+      "excerpt": "Artificial intelligence (AI) is spreading through society into some of the most important sectors of people’s lives – from health care and legal services",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
+      "originalUrl": "https://www.pewresearch.org/internet/2022/03/17/how-americans-think-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/03/PS_2022.03.17_ai-he_01-01.png?w=420",
+          "width": 420,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware.md",
       "title": "Consumer Rights Day 2022: Livestreaming scams, privacy breaches, malware",
       "excerpt": "Unlike previous March 15 shows, yesterday’s Consumers Rights Day celebration didn’t single out Apple, Alibaba, Baidu, or any other high-profile companies or brands for reprimands. The offenders this year were little-known small fry. This gala’s ...",
@@ -1262,49 +1306,6 @@
       "provider": {
         "name": "WTOP News",
         "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-08-artificial-intelligence-can-help-strengthen-corporate-social-responsibility.md",
-      "title": "Artificial intelligence can help strengthen corporate social responsibility",
-      "excerpt": "Artificial intelligence, like the chips Tesla is developing for its self-driving cars, has been described as the next frontier in anti-corruption. (AP Photo/Gillian Flaccus) AI holds a number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103814501/Artificial-intelligence-can-help-strengthen-corporate-social-responsibility",
-      "originalUrl": "https://menafn.com/1103814501/Artificial-intelligence-can-help-strengthen-corporate-social-responsibility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-03/08/TC_da185image_story.jpg",
-          "width": 678,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-08T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -26,10 +26,10 @@ images:
 related:
   - title: "AI Deep Learning Predicts Cancer From Scans of Lung Nodules"
     excerpt: "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale Visual Recognition Challenge and raised the accuracy of AI ..."
-    publishedDateTime: 2022-05-25T22:05:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
+    publishedDateTime: 2022-05-25T22:09:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
     type: article
     provider:
       name: Psychology Today

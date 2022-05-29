@@ -89,6 +89,52 @@
       ]
     },
     {
+      "path": "_news/2022-05-26-smarter-health-artificial-intelligence-and-the-future-of-american-health-care.md",
+      "title": "Smarter health: Artificial intelligence and the future of American health care",
+      "excerpt": "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change that?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
+      "originalUrl": "https://www.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/linderpix-WBUR-OnPoint-6815-web_1000x667-400x267.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
+      "publishedDateTime": "2022-05-25T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-roboticists-go-off-road-to-compile-data-that-could-train-self-driving-atvs.md",
       "title": "Roboticists go off road to compile data that could train self-driving ATVs",
       "excerpt": "Researchers from Carnegie Mellon University took an all-terrain vehicle on wild rides through tall grass, loose gravel and mud to gather data about how the ATV interacted with a challenging, off-road environment.",
@@ -1383,50 +1429,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-aws-deepracer-program-teaches-developers-about-emerging-tech.md",
-      "title": "AWS DeepRacer program teaches developers about emerging tech",
-      "excerpt": "Different solutions are available for developers to learn more about AI and machine learning, including projects like the AWS DeepRacer simulator. “Developers can start with the cloud-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/11/aws-deepracer-program-teaches-developers-emerging-tech-awssummitsf/?via=indexdotco",
-      "originalUrl": "https://siliconangle.com/2022/05/11/aws-deepracer-program-teaches-developers-emerging-tech-awssummitsf/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Mike-Miller-AWS-Summit-SF-2022-1.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

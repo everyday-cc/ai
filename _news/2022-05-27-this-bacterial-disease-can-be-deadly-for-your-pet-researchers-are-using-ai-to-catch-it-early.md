@@ -25,54 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use artificial intelligence to predict road user behavior"
-    excerpt: "For an autonomous car to drive safely, being able to predict the behavior of other road users is essential. A research team at the Massachusetts Institute of Technology’s CSAIL, along with researchers at the Institute for Interdisciplinary Information Sciences (IIIS) at Tsinghua University in Beijing,"
-    publishedDateTime: 2022-05-24T11:00:00Z
-    webUrl: "https://www.actuia.com/english/researchers-use-artificial-intelligence-to-predict-road-user-behavior/"
+  - title: "Mizzou researchers look at using artificial intelligence to develop new materials faster"
+    excerpt: "MU researchers want to teach computers to learn how to produce new materials faster with this $5 million government grant."
+    publishedDateTime: 2022-05-25T11:02:00Z
+    webUrl: "https://www.columbiatribune.com/story/news/education/campus/2022/05/25/mizzou-researchers-look-at-using-artificial-intelligence-to-develop-new-materials-faster/9837070002/"
     type: article
     provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 41
+      name: Columbia Daily Tribune
+      domain: columbiatribune.com
+    quality: 30
     images:
-      - url: "https://www.actuia.com/wp-content/uploads/2022/05/chercheurs-predisent-comportement-usagers-route-intelligence-artificielle.png"
-        width: 3333
-        height: 1667
-        isCached: true
-  - title: "AI Used To Predict Life-Threatening Bacterial Disease in Dogs"
-    excerpt: "Leptospirosis is a serious disease that dogs can get from drinking water contaminated with Leptospira bacteria. Veterinarians have discovered a technique to predict leptospirosis in dogs through the use of artificial intelligence."
-    publishedDateTime: 2022-05-24T09:28:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/ai-used-to-predict-life-threatening-bacterial-disease-in-dogs-361917"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 37
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361917/ai-used-to-predict-life-threatening-bacterial-disease-in-dogs-361917-640x360.jpg?cb=20220524"
-        width: 640
-        height: 360
+      - url: "https://www.gannett-cdn.com/presto/2022/05/19/NCDT/0b02d78b-fbb1-4b03-9beb-8ba493256d47-MU_artificial_intelifgence_.png?auto=webp&crop=2999,1687,x1,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
     excerpt: "Veterinarians and researchers have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs."
     publishedDateTime: 2022-05-28T18:00:00Z
-    webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/"
+    webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?bingParse"
     ampWebUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?amp=1"
     cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?amp=1"
     type: article
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 28
-  - title: "UTSA Researcher Bringing Underrepresented Students to AI"
-    excerpt: "A first-generation U.S. college graduate and director of the Matrix: AI Consortium For Human Well-Being at the University of Texas at San Antonio, Dhireesha Kudithipudi is focused on recruiting diverse talent."
-    publishedDateTime: 2022-05-27T18:13:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/utsa-researcher-bringing-underrepresented-students-to-ai"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
+    quality: 26
 
 secured: "gXM6Hb5tqJV1KlNXG6tZ7ScjqghuAnA0Syzz1xEmaPP7uD37cM7zSe+ofjP8Mlb4ob5EXR0LyzLgfinnGi9KkIHrktsGsi8xn4dzdF4DPKV+mBRA4nqgzFl9DJNw7iMZ/zOBLUrLvbMWmYrlpChDFrMvsg56oIethda8qNvXOGmzh3CHa1tk1vh8oMtGS741SslHYdufRF1Rm3/HdXOrk7cyVLx/Qw2yYPuBbUNqDLkQ5eJVyEu8vY+OO9QjfeqnZJGyrUq0vWAC8IOX/hywjpCKCv1gfH4/9slZtAxCyCmUt1QjlR5ip1zre9PtE09O/1spCgNG6IksDaizWR4MKObsooUSR+XzWJaLnzpxSGWAU/+RQOZMD7Tcr4NDFy0rpZ0BG3q9nk2OvR/qVnFTl6AHm0YJkWAFaw8XygcxTBvIy8mCByhlorD1KsX1nmnhJ6QAA2xxF/quB8rokRQFD0tOBCsrJDHOnmINviz2Drxe+ehVsy17NM2BbS8H8/sVsWKM8pLwbPU+8Zfvoo29tw==;4ELu+Ml4RoCrAtC/mFBQiA=="
 ---

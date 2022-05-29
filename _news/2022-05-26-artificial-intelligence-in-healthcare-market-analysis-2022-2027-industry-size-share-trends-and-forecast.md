@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Market Size 2022 with 21.48% CAGR : Innovation Strategies & Recent Industry Developments With Top Players and Forecast Up to 2028"
+    excerpt: "Global “AI Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI market is"
+    publishedDateTime: 2022-05-26T04:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-market-size-2022-with-2148-cagr-innovation-strategies-recent-industry-developments-with-top-players-and-forecast-up-to-2028-2022-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chip Market Size, And Analysis, Trends, Recent Developments, And Forecast Till 2030"
     excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 – International Telecommunication Union (ITU) The growth of the global Artificial Intelligence Chip market is ..."
     publishedDateTime: 2022-05-26T11:37:00Z
@@ -100,6 +114,20 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 1
+  - title: "AI Smart Baby Monitors Market 2022 : Global Rise Due to Innovation in Technology by Its Latest Trends, Smart Services and Solution Forecast by 2028"
+    excerpt: "The AI Smart Baby Monitors Market size is projected to reach $2.5 billion by 2028, growing at a CAGR of 6.2% from 2022 to 2028.This press release was"
+    publishedDateTime: 2022-05-25T16:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-smart-baby-monitors-market-2022-global-rise-due-to-innovation-in-technology-by-its-latest-trends-smart-services-and-solution-forecast-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/649120756dfde451d2abe8599eaaaace1a100069-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "NTkEelCUO2PnUhemkCzRuUp/Fqtb0HogyTcoUjBnuhlXVAYrYRtuhMu2XSxgDmLLKii82CBq2uHlMJwemHPCzh3tZW864Wb6cZEIA8VioK783MjezAToMlnUf3NrenYx+UJSl5Ll+AMAo658zrQuvQ8rM71R/hxeMCHfVIGIs2S+63pnc7To4mS8gsLZZVW4BLIOQux96wqCeJxmC84hX7O6zEDho2ZVYRHXDgbx3+mE871dlsW5IxNBMu3Tl/cPYIQam7rZgW1w2sHbIi+4N7skW+skbuvBKdqd4e1xHfFznlGoHIa5qCXSJjsQQC88WSeCkRfel2H+6VX3cOzb1ejbc56O0hEgWWXUVHNeekM=;tkuIqDbiS5W2wjRKWJnA2Q=="
 ---
