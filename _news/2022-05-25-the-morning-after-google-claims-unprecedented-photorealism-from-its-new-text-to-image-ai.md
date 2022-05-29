@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/the-morning-after-google-claims-unprecede
 webUrl: "https://www.engadget.com/the-morning-after-google-claims-unprecedented-photorealism-from-its-new-text-to-image-ai-111528400.html"
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 79
+published: true
 
 provider:
   name: Engadget
@@ -27,6 +27,40 @@ images:
     width: 1401
     height: 623
     isCached: true
+
+related:
+  - title: "Google’s Text-to-Image AI Can Deliver “Photorealistic Images”"
+    excerpt: "Google has introduced a new text-to-image AI generator that claims to provide photorealistic images. Here is a look at the results."
+    publishedDateTime: 2022-05-25T05:40:00Z
+    webUrl: "https://beebom.com/google-imagen-text-to-image-ai/"
+    ampWebUrl: "https://beebom.com/google-imagen-text-to-image-ai/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-imagen-text-to-image-ai/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 57
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/05/google-imagen-aoi.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Google's Imagen AI produces photorealistic images from natural text with frightening fidelity"
+    excerpt: "Artificial intelligence is improving fast. Less than a month after OpenAI released its impressive DALL-E 2 text-to-image generator, Google has bested it with Imagen."
+    publishedDateTime: 2022-05-26T16:20:00Z
+    webUrl: "https://www.dpreview.com/news/7952219469/google-s-imagen-ai-produces-photorealistic-images-from-natural-text-with-frightening-fidelity"
+    ampWebUrl: "https://m.dpreview.com/news/7952219469/google-s-imagen-ai-produces-photorealistic-images-from-natural-text-with-frightening-fidelity.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/7952219469/google-s-imagen-ai-produces-photorealistic-images-from-natural-text-with-frightening-fidelity.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 46
+    images:
+      - url: "https://4.img-dpreview.com/files/p/E~TS590x0~articles/7952219469/google-imagen-brain-toronto-skyline.jpeg"
+        width: 590
+        height: 590
+        isCached: true
 
 secured: "cQdkUGOyCrzgbyxlEGfLlBlcYIS3fS1Y8P5o3gV0U2EYfOwLfQcvB9BSUFy+LTHPbuNPIkIU2jS8t44oUl/lmjOXZk/cDqAyVUtPQx2JJGqEKPr7p+bskHTY7uUz4cowbIknItObNjJKuqodIicRhFFi9ha4Z3WOce2RM+1f0S8pewdTh/uHtgutWR4Fk9aoZbhVcMHAe3veW3I3QM8t4ncX7tXKc/3pQB5iXAkU/JNIjUaNbUCzJzM4ZNZXOpfS1Xx6tsPGkLgVAqJmttEew1PLUDuxnA+EUn/qC5SXH8Tl6+pRBKErsn2A+oxB+jCtnRf+vrKItrZ3j8zQvDyRaJtZlZKHnPJ0bC/4RvHQtwQsIJc9Iky+xx3G9cUJJVdWo0rfs96Y4LaReahe6mJI0jyeM2iXa9mNlmt2isCXJuNT0/+vFj1YeM4W7PYCdZnWh+idsLtCBR6cDGdbbXUHDXwWxA2LHyS47i4MaIF2ce+3PGJSjR+9p6CUZDOzzNrtWHCB5/QMw2CoQLKmaT/pyw==;0mPKigu401fEY0OKomuSPQ=="
 ---

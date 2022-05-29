@@ -20,17 +20,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Rezo.AI launches a game changer for Enterprises fueling Sales, Marketing and Support teams to boost revenue growth"
-    excerpt: "Rezo.ai, an AI-powered CX Cloud for enterprises that are transforming customer experience, improving agent productivity, and operationalizing real-time intelligence"
-    publishedDateTime: 2022-05-26T19:42:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/rezoai-launches-a-game-changer-for-enterprises-fueling-sales-marketing-and-support-teams-to-boost-revenue-growth-745032"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 29
-
 secured: "VXaGLQyeYFGJXITYLOHCpt4PkqDL5syO0/Ycna/KBPrOTyjIUcaAmYRDjoUa7InUtLd0sBmZ+CecDZ/qOLGcviS0/zcHy67fdPuj8BOzwMeSsVrofrR1dPoZeLmVMGuNG8CS5hPgIPqeoatdtBZ1fzP8wAAbJX6wCZIAUINue1ncpR+59bVQzFtVfHRF8A8Un/Ug0NXqQiig8yFdH1vuAFte8Q1L+WHE0JyLuZmyH31C/8BLCgv2kmpxSQrIcrRbD/ht5ikXNjLBrB38bHWLBVcdcuZBxZfohNBd1FE4UiT0QMeVDXjSTstfZByqAF2+vGwGMPn+Fsin6WRO8mg7uSAzI4U6MmaO1k+S/MfLPME=;TIH0lckidW2vTq4YVSfjDg=="
 ---
 

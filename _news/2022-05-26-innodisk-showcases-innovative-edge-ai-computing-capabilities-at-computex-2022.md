@@ -24,51 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Tips New Liquid-Cooled GPU, Jetson AI Devices at Computex"
-    excerpt: "Peak performance and cooling in ever-smaller spaces matters to data centers, and Nvidia's liquid-cooled A100 card targets that market. The chip giant also detailed new Jetson devices and designs for data-center systems."
-    publishedDateTime: 2022-05-24T22:52:00Z
-    webUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex"
-    ampWebUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
+  - title: "Railway industry companies are increasingly innovating in artificial intelligence"
+    excerpt: "Analysis of patent filings shows a growing level of AI related applications in the industry over the past year"
+    publishedDateTime: 2022-05-25T08:00:00Z
+    webUrl: "https://www.railway-technology.com/analysis/railway-industry-companies-are-increasingly-innovating-in-artificial-intelligence/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 104
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 47
     images:
-      - url: "https://i.pcmag.com/imagery/articles/00nRHA1EuawfuWOeCRdcubw-1.fit_lim.size_1200x630.v1653362725.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Nvidia has announced new hardware focusing on AI-enabled data centers"
-    excerpt: "One of the biggest GPU companies in the world, Nvidia, has made some announcements at the Computex show in Taipei."
-    publishedDateTime: 2022-05-25T14:48:00Z
-    webUrl: "https://cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/"
-    ampWebUrl: "https://cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/amp/"
-    cdnAmpWebUrl: "https://cloud7-news.cdn.ampproject.org/c/s/cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/amp/"
-    type: article
-    provider:
-      name: cloud7
-      domain: cloud7.news
-    quality: 59
-    images:
-      - url: "https://cloud7.news/wp-content/uploads/2022/05/Nvidia-has-announced-new-hardware-focusing-on-AI-enabled-data-centers.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "NVIDIA liquid-cooled NVIDIA A100 PCIe GPU"
-    excerpt: "In an effort to help companies halt climate change NVIDIA has designed a new liquid called GPU for mainstream servers to help build"
-    publishedDateTime: 2022-05-26T11:36:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-liquid-cooled-nvidia-a100-pcie-gpu-26-05-2022/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/NVIDIA-liquid-cooled-NVIDIA-A100-PCIe-GPU.jpg"
-        width: 700
-        height: 463
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/05/FK6AS-1038x778.png"
+        width: 1038
+        height: 778
         isCached: true
 
 secured: "cGGnD+JGpIyXXHcA0sECCwfxROxqOv252AXReSTtY/1r461ZJlHX1wVWCqNq3dG31ALWzQ76dOSw56BU5/3rwHuC5hYX0jLNWenA1etJe3pzdlFs/dWXh/Br0I/abTCOWVuH/8FKIMG1SFd0MbkncKSnhiVfEN1Yy+jSjz2mnn8pCgs6kDgYIbE+MtUBhT+nmlD7XhINwugYnefnq6ucoS5613sGjPsVqJGvNNKyu+mG1hdpKcT+XrdIQP+7819mCBvVHz5ZUX0HhwnqWk3F4DfJx4QNZooANzRz/1pW/BX9HYRndeDS3CinexjvziS/pmzdcLWmlG3fcBmzDpV9rLvdv1+AGG5+Gu8kdv8s514=;0AcM6ZZE5DHeH4NxrE2WCA=="

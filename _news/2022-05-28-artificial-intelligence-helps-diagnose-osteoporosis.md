@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-diagnoses-
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-diagnoses-osteoporosis-207335-1.htm"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Device Helps Diagnose Autism in Children"
+    excerpt: "This peer-reviewed study evaluated a software as a medical device called the Cognoa ASD Diagnosis Aid that leverages AI machine learning and consists of a mobile app for caregiver"
+    publishedDateTime: 2022-05-29T14:36:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic6345802.jpg?itok=y9l1_rPS"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "RSNA: Artificial Intelligence Can Diagnose Osteoporosis on Hip X-ray"
     excerpt: "A new method that combines imaging information with artificial intelligence (AI ... medical physicists and related scientists promoting excellence in patient care and health care delivery through education, research and technologic innovation."
     publishedDateTime: 2022-05-25T15:52:00Z

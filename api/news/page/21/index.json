@@ -2,6 +2,291 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-05-09-the-three-way-race-for-gpu-dominance-in-the-data-center.md",
+      "title": "The three-way race for GPU dominance in the data center",
+      "excerpt": "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fueled by the needs of artificial intelligence and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.html",
+      "originalUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/03/nvidia-hopper-gpu-100922543-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.amp.html",
+      "publishedDateTime": "2022-05-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch.md",
+      "title": "17-year-old student invents low-cost prosthetic arm that can be controlled with the mind [WATCH]",
+      "excerpt": "The high-schooler used his sister's S$75 printer and some fishing line to print the arm in small pieces. After that, he bolted and branded each part together. To make the arm strong and durable, he had to run 75 iterations of the design. In the end, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091",
+      "originalUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-91434091,imgsize-100,width-1280,height-720,resizemode-75/91434091.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091/amp",
+      "publishedDateTime": "2022-05-09T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
+      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
+      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
+      "originalUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
+          "width": 660,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-report-intels-looking-to-sell-computer-vision-software.md",
+      "title": "Report: Intel's Looking to Sell Computer Vision Software",
+      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
+      "originalUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/004kalOwExUYRCKwszss8R3-1.fit_lim.size_1200x630.v1651974043.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
+      "publishedDateTime": "2022-05-08T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-08-australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign.md",
+      "title": "Australians urged to back Indigenous voice to parliament in History is Calling campaign",
+      "excerpt": "First Nations leaders call for referendum to ‘do what 1967 didn’t do, which is empower our people’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
+      "originalUrl": "https://www.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/54a124c6ee6fb27ba5b4c87e40effc7fc66bd3ed/0_0_5472_3648/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=37022ba83f8197df5fe0ab92dac90c17",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
+      "publishedDateTime": "2022-05-08T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-08-report-intels-looking-to-sell-computer-vision-software.md",
+      "title": "Report: Intel's Looking to Sell Computer Vision Software",
+      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
+      "originalUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-08T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-08-5-ways-ai-can-help-solve-the-privacy-dilemma.md",
       "title": "5 ways AI can help solve the privacy dilemma",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -900,284 +1185,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model.md",
-      "title": "Build a custom Q&A dataset using Amazon SageMaker Ground Truth to train a Hugging Face Q&A NLU model",
-      "excerpt": "In recent years, natural language understanding (NLU) has increasingly found business value, fueled by model improvements as well as the scalability and cost-efficiency of cloud-based infrastructure. Specifically, the Transformer deep learning architecture, often implemented in the form of BERT models,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/23/ML-4130-image015.jpg",
-          "width": 1287,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T09:29:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-staff-recognition-ceremony-returns.md",
-      "title": "Staff recognition ceremony returns",
-      "excerpt": "For the first time in three years, the Brookings School District and Brookings Education Association annual staff recognition ceremony returned to Bell Auditorium at Brookings High School.",
-      "sourceUrl": null,
-      "webUrl": "https://brookingsregister.com/article/staff-recognition-ceremony-returns",
-      "originalUrl": "https://brookingsregister.com/article/staff-recognition-ceremony-returns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://brookingsregister.com/uploads/images/2022/05/62d9ed2e2f15299f0ca51844c10e05a7.jpg",
-          "width": 1024,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brookings Register",
-        "domain": "brookingsregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-invest-in-the-robotics-startup-tripling-restaurant-profits.md",
-      "title": "Invest in the Robotics startup tripling restaurant profits",
-      "excerpt": "So instead of chasing an armada of employees, franchises have already started deploying Flippy. This synthesis of AI-driven robotics, machine learning and data analytics can grill, fry and, as its name suggests, flip an entire restaurant’s worth of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/miso-robotics-145539918.html",
-      "originalUrl": "https://www.engadget.com/miso-robotics-145539918.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c6c6c570-cbb4-11ec-bfdf-cfbdb5e2b591",
-          "width": 1600,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-loen-lensless-opto-electronic-neural-network-empowered-machine-vision.md",
-      "title": "LOEN: Lensless opto-electronic neural network empowered machine vision",
-      "excerpt": "has generated the rapid development of deep learning based on convolutional neural networks (CNN), leading to effective solutions for a variety of issues in artificial intelligence applications.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.html",
-      "originalUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/loen-lensless-opto-ele.jpg",
-          "width": 2027,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.amp",
-      "publishedDateTime": "2022-05-06T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-lenovo-launches-aws-powered-edge-device.md",
-      "title": "Lenovo launches AWS-powered Edge device",
-      "excerpt": "AWS Panorama is a collection of machine learning (ML) devices and a software development kit (SDK) that brings computer/machine vision to on-premises internet protocol (IP) cameras, streaming the likes of on-site CCTV feeds through the on-premise appliance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/lenovo-launches-aws-powered-edge-device/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/lenovo-launches-aws-powered-edge-device/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Lenovo_ThinkEdge-SE70_-_AWS_Panor.2e16d0ba.fill-1200x630.jpg",
-          "width": 738,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-global-healthcare-cognitive-computing-market-2022-to-2027-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarketscom.md",
-      "title": "Global Healthcare Cognitive Computing Market (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com",
-      "excerpt": "The \"Healthcare Cognitive Computing Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/global-healthcare-cognitive-computing-market-2022-to-2027---industry-trends-share-size-growth/article_1e81917d-e796-5a39-b2a5-291b713d8120.html",
-      "originalUrl": "https://www.eagletribune.com/region/global-healthcare-cognitive-computing-market-2022-to-2027---industry-trends-share-size-growth/article_1e81917d-e796-5a39-b2a5-291b713d8120.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

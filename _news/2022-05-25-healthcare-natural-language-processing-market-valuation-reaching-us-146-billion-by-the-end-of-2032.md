@@ -34,20 +34,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Market Trajectory & Analytics, 2020-2021 & 2022-2027: Accelerating Pace of Digital Transformation to Benefit Deman"
-    excerpt: "Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. The global market for Artificial Intelligence (AI) estimated at US$46.9 Billion in the year 2020, is projected to reach a revised size of US$341."
-    publishedDateTime: 2022-05-24T20:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=669612"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "D7mz9anPBcEXm3FEggU21AnQWPISyDT9A96C4MBxmyZaKXEw8de4snbq0xjtjogo+rsfIHl137KIC7Kb28QO6fc8DyrdKzi8nCyb4EZonv3z1pICvoM1ypiWRiGCX1GtXj06X9WeNMxB8aG7gtH1B5yJloyy0n6Fm9W3kPkwJca6Cg5Oay7Kgj/Z2jyNqFzSOSK6ICKNgfoynmTLZ5w24Uk/tiH5iSyoJWbGcS/6Slh81XCcTtQTgusUSY+YDMnf1d8S0YazYPfHEU6IBjPzEk387Yi1p/pqdjk1DducLsgLnKy9m4J5qJnjXgGJOteNrU68U+11Lh0WbI0uFbVdnzAC7aEpWyj1hW0/Jrkj0NE=;LYwxxl3AmZ+wyv6hgV6DjA=="
 ---

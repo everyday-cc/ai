@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-16-chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips.md",
+      "title": "Chipotle Is Testing An AI-Driven Robot To Make Its Tortilla Chips",
+      "excerpt": "Miso Robotics' Chippy is in test at the Chipotle Cultivate Center with plans to eventually integrate into a Chipotle restaurant in Southern California later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/",
+      "originalUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604055621f986bf7c978c45c%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2022/03/16/chipotle-is-testing-an-ai-driven-robot-to-make-its-tortilla-chips/amp/",
+      "publishedDateTime": "2022-03-16T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-artificial-intelligence-in-chipset-market-to-hit-usd-3846-billion-ai-chipset-market-size-share-demand-growth-and-forecast-2027.md",
       "title": "Artificial Intelligence in Chipset Market to Hit USD 38.46 Billion | AI Chipset Market Size, Share, Demand, Growth and Forecast 2027",
       "excerpt": "Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices to support AI technologies. Increasing utilization of AI technologies is projected to boost the demand for these chipsets over the next couple of years.",
@@ -1371,49 +1424,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-26-expanding-intels-ai-developer-toolset.md",
-      "title": "Expanding Intel’s AI developer toolset",
-      "excerpt": "Intel has published a new version of the Intel Distribution of the OpenVINO toolbox ahead of MWC 2022, which includes considerable improvements to AI inferencing. Chipmaker Intel has helped hundreds of thousands of developers speed up AI inference,",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/expanding-intels-ai-developer-toolset/",
-      "originalUrl": "https://bestgamingpro.com/expanding-intels-ai-developer-toolset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/02/Intel-expands-its-AI-developer-toolkit.png",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-25T23:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

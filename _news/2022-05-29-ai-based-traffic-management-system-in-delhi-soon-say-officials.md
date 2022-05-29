@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/aibased-traffic-management-syste
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials/amp-11653821388311.html"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "AI-based traffic management system to be set up in Delhi soon"
+    excerpt: "The AI system will also be integrated with all the civic body-run parking lots in Delhi in order to alert motorists on the free spaces that are available before they could reach the venue."
+    publishedDateTime: 2022-05-29T12:45:00Z
+    webUrl: "https://www.cnbctv18.com/technology/ai-based-traffic-management-system-to-be-set-up-in-delhi-soon-13652082.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 17
 
 secured: "BjqQUYgNzuOzpReYzd83HZM3aTgytMRMycsny3I6J2wzT+M1jIA7qKA8pbE+bEOdI3xL+VSEWCZUymuWQoCEyZtgcfhHXB9Uov/ARaD3/CNrRERm2zvS97OAAXVeuJzopRfbbNCpGIdIatexNS7e0GRn4H0RZ9iHQNoNRgGBttaus0QPH+cWenz++0Ffq2xZCKMpSdQPe1GfD0KahM1oo8RBNbrq1EKQ+Mm/CRCoe5ZvHkjCxTlM2jugXkpUltmVLm/VXaH9NJL4ql0tfJu/MDWgPbW5M1yRBzuPL37nnw4Ka+hVeYiSkOo9VXrHR3TlFlmyrDMgChX4qO5mwoGaJJnvYCJtzxvNj8a+BNV8FO4=;4A5eYRNTgtlvFgGc5+rL3g=="
 ---

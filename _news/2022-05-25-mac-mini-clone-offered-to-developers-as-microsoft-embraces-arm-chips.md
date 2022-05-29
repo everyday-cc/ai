@@ -79,22 +79,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
-  - title: "Microsoft 2022 Imagine Cup Winner V Bionic Global Top Tech For Good"
-    excerpt: "Microsoft Build, at the opening keynote by CEO and Chairman Satya Nadella, announced the final judging for the 2022 Imagine Cup global winner."
-    publishedDateTime: 2022-05-24T20:27:00Z
-    webUrl: "https://www.forbes.com/sites/stephenibaraki/2022/05/24/microsoft-2022-imagine-cup-winner-v-bionic-global-top-tech-for-good/"
-    ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/05/24/microsoft-2022-imagine-cup-winner-v-bionic-global-top-tech-for-good/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/05/24/microsoft-2022-imagine-cup-winner-v-bionic-global-top-tech-for-good/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//628d28650e7da3f3ea59856e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How Microsoft plans to improve the low-code landscape"
     excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
     publishedDateTime: 2022-05-27T03:20:00Z
@@ -185,20 +169,6 @@ related:
         width: 490
         height: 273
         isCached: true
-  - title: "BeeKeeperAI™ Collaborates with Microsoft to Accelerate AI-Powered Innovation in Healthcare"
-    excerpt: "BeeKeeperAI, a pioneer in zero trust, confidential computing and privacy-preserving analytics for the training, validation, and deployment of artificial intelligence (AI) in healthcare, today announced its expanded collaboration with Microsoft (Nasdaq: MSFT) to allow algorithm developers and healthcare data stewards to access BeeKeeperAI,"
-    publishedDateTime: 2022-05-24T20:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-data-privacy-16bb8481d08b46bca55e76029a165984"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 61
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft Build 2022 | Windows 11 apps, Dev Box cloud service, and more"
     excerpt: "The software giant made several announcements on day one that included Windows 11 apps-related updates, a cloud service for developers, new features and tools for Teams developers, Azure AI updates, and more."
     publishedDateTime: 2022-05-25T16:18:00Z
@@ -244,20 +214,6 @@ related:
       - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
         width: 1522
         height: 857
-        isCached: true
-  - title: "The biggest Azure announcements from Microsoft Build 2022"
-    excerpt: "New previews for Azure OpenAI Service, AI dashboards in Azure Machine Learning and a web application routing add-in for Azure Kubernetes Service were among the biggest Azure announcements from Microsoft during this year’s Build conference aimed at developers."
-    publishedDateTime: 2022-05-24T20:05:00Z
-    webUrl: "https://www.crn.com.au/news/the-biggest-azure-announcements-from-microsoft-build-2022-580435"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 56
-    images:
-      - url: "https://i.nextmedia.com.au/News/satya_nadella_microsoft_press_centre_0.jpg"
-        width: 420
-        height: 280
         isCached: true
   - title: "Microsoft and Meta expand their AI partnership"
     excerpt: "Meta notices how Microsoft keeps expanding its AI services on platforms like Azure. Microsoft and Meta announced the ONNX (Open Neural Network Exchange)"
@@ -347,20 +303,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 46
-  - title: "The biggest Microsoft Teams, M365 announcements at Build 2022"
-    excerpt: "Previews for Loop components across Teams chats and Outlook emails and collaboration controls in Power Apps are among the biggest announcements for Microsoft’s popular collaboration application during this year’s Build conference."
-    publishedDateTime: 2022-05-24T20:30:00Z
-    webUrl: "https://www.crn.com.au/news/the-biggest-microsoft-teams-m365-announcements-at-build-2022-580434"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220525072959_0_0_0_0_70__News_20220401124042_0_0_0_0_70__News_20200723110935_microsoft1.jpg"
-        width: 1196
-        height: 769
-        isCached: true
   - title: "Microsoft Build, Thick Versus Thin, AI Platforms"
     excerpt: "Microsoft’s Build keynote was impressive in its clarity; it also emphasized that the thin client model one, mostly."
     publishedDateTime: 2022-05-25T13:40:00Z

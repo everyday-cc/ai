@@ -35,15 +35,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial Intelligence Is Breaking Patent Law"
-    excerpt: "Within a few years, numerous inventions could involve artificial intelligence (AI), which could create one of the biggest threats patent systems have faced. Patent law is based on the assumption that inventors are human;"
-    publishedDateTime: 2022-05-24T19:57:00Z
-    webUrl: "https://cacm.acm.org/opinion/articles/261304-artificial-intelligence-is-breaking-patent-law/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
   - title: "Case Western Reserve University signs license agreement to bring artificial intelligence breakthroughs closer to cancer patient care"
     excerpt: "CLEVELAND—When Case Western Reserve University research showed that artificial intelligence (AI) could identify which lung cancer patients would benefit from chemotherapy, a national magazine called the finding one of the “10 Most Incredible Medical ..."
     publishedDateTime: 2022-05-24T23:59:00Z

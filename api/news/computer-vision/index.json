@@ -350,7 +350,7 @@
       "originalUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -393,7 +393,7 @@
       "originalUrl": "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -886,6 +886,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-17-img-arena-acquires-computer-vision-firm-signality.md",
+      "title": "IMG Arena acquires computer vision firm Signality",
+      "excerpt": "Agency giant’s betting data firm IMG Arena to adopt Swedish company’s AI-powered software through acquisition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/",
+      "originalUrl": "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportsPro",
+        "domain": "sportspromedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-3d-facial-recognition-market-growth-competitive-methods-and-forecast-2026.md",
       "title": "3D Facial Recognition Market Growth, Competitive Methods and Forecast 2026",
       "excerpt": "May 17, 2022 (Market Insight Reports) -- This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report ...",
@@ -1017,33 +1051,24 @@
     {
       "path": "_news/2022-05-15-facial-recognition-surveillance-is-a-threat-to-civil-liberties.md",
       "title": "Facial recognition surveillance is a threat to civil liberties",
-      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it. Companies like Clearview ...",
+      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
-      "originalUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "webUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "originalUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailynews.com/wp-content/uploads/2022/05/PAS-L-FACE-RECOGNITION-0226-01-SR-1.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
-      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/amp/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-15T08:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Daily News",
-        "domain": "dailynews.com",
+        "name": "The San Bernardino Sun",
+        "domain": "sbsun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1352,60 +1377,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract.md",
-      "title": "Moderate, classify, and process documents using Amazon Rekognition and Amazon Textract",
-      "excerpt": "Many companies are overwhelmed by the abundant volume of documents they have to process, organize, and classify to serve their customers better. Examples of such can be loan applications, tax filing, and billing. Such documents are more commonly received in image formats and are mostly multi-paged and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/04/ML4749_InferencePipeline-776x630.png",
-          "width": 776,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T10:38:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

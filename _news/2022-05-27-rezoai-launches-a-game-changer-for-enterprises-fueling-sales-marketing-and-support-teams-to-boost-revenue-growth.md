@@ -20,17 +20,68 @@ topics:
   - AI in Sales
 
 related:
-  - title: "AI and machine learning are improving weather forecasts, but they won't replace human experts"
-    excerpt: "Perhaps some day in the dim future it will be possible to advance the computations faster than the weather advances and at a cost less than the saving to mankind due to the information gained. But that is a dream,"
-    publishedDateTime: 2022-05-26T19:04:00Z
-    webUrl: "https://www.seattlepi.com/news/article/AI-and-machine-learning-are-improving-weather-17200300.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/AI-and-machine-learning-are-improving-weather-17200300.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/AI-and-machine-learning-are-improving-weather-17200300.php"
+  - title: "Artificial Intelligence in Marketing Market to..."
+    excerpt: "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ..."
+    publishedDateTime: 2022-05-27T07:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27435408"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408"
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 43
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "AI-Powered Alternative Data Driving Extreme Market Research Disruption"
+    excerpt: "San Mateo, CA // KISS PR Brand Story PressWire // Numerous indicators make clear that the next five years will usher in extreme transformation for a multitude of industries and sectors as well as the global economy at large."
+    publishedDateTime: 2022-05-25T14:49:00Z
+    webUrl: "https://apnews.com/press-release/kisspr/technology-science-investment-management-economy-ee60e3f85ac3f2d9779e530f37e127ac"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "AI in Medical Imaging Market Size in 2022 : 45% CAGR with Top Countries Data, Key Regions and Growth Forecast to 2031"
+    excerpt: "The global AI in medical imaging market in terms of value is expected to register a CAGR of ~45% between 2022 and 2031. Artificial intelligence is"
+    publishedDateTime: 2022-05-26T02:54:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-imaging-market-size-in-2022-45-cagr-with-top-countries-data-key-regions-and-growth-forecast-to-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 14
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Global Artificial Intelligence In Finance Market to Showcase Dynamic Demand during the Upcoming Years, Forecast Till 2030"
+    excerpt: "The new report on “Artificial Intelligence In Finance Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030”"
+    publishedDateTime: 2022-05-26T13:32:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-artificial-intelligence-in-finance-market-to-showcase-dynamic-demand-during-the-upcoming-years-forecast-till-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
+  - title: "AI in Supply Chain Market to Extend to USD 20 Billion & Growing at a CAGR of 20.5% by 2028 | BlueWeave Consulting"
+    excerpt: "New Delhi, May 27, 2022 (GLOBE NEWSWIRE) -- The growth of global AI in the supply chain market is aided by the rising attention of artificial intelligence, large statistics & analytics, and the widening implementation of computer vision in each autonomous ..."
+    publishedDateTime: 2022-05-27T15:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27443027/ai-in-supply-chain-market-to-extend-to-usd-20-billion-growing-at-a-cagr-of-20-5-by-2028-blueweave-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "u5/zrJeisb3MciRhIgz/jANftRZ36Yo+Y8ON4lCmh3C0bwbBy5NtfqQjmE8EwEAr1a/O8Il93mWz+3k2W5DlMtFTYYRqfyJt+n0s7tsHn1ug8BflyU41pvGB4DI+VOXQ2wX2j1z3djTCMt/x6T/ph2xv+Zh53xA2uftvRFl5FHUqoowLmQWtuMEeWgdUpBXGIopzr+B+TMoMfJqLVCeZFLT3f/uyun3l1/ebi0sZcPKiBP3m2q890lZuZa2fsTDod+FAhgWexgMU9MvghwMt9lXhnBrYonoNSoAcYh1aE0vnTSyaL5yja6l1t3r5NO3yggZ2qBsO15WJ+714/w6kacrKuuX9Ee69gQILYmA2eEajDe/L2OhR96aXuRBvgm2TVHsPF1ovYiIRWETKe0uTEIWaL8FOl/LiP4JICsEguds+ANjZYTyBSsUmni2JxOHpmqHLoi2tUDTzzhw4+BoZ9lAZh1l+NkWO1WcoelJ5Iex9b2edHI41upaffG8N52oyVwz3obM8YarRRW0pb/pwmw==;cUNW+M0obreNE6KvYy4WqQ=="
 ---

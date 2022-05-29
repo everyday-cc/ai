@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/nvidia-liquid-cooled-nvidia-a100-pci
 webUrl: "https://www.geeky-gadgets.com/nvidia-liquid-cooled-nvidia-a100-pcie-gpu-26-05-2022/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,54 +23,6 @@ images:
     width: 700
     height: 463
     isCached: true
-
-related:
-  - title: "Nvidia Tips New Liquid-Cooled GPU, Jetson AI Devices at Computex"
-    excerpt: "Peak performance and cooling in ever-smaller spaces matters to data centers, and Nvidia's liquid-cooled A100 card targets that market. The chip giant also detailed new Jetson devices and designs for data-center systems."
-    publishedDateTime: 2022-05-24T22:52:00Z
-    webUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex"
-    ampWebUrl: "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 104
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00nRHA1EuawfuWOeCRdcubw-1.fit_lim.size_1200x630.v1653362725.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Nvidia has announced new hardware focusing on AI-enabled data centers"
-    excerpt: "One of the biggest GPU companies in the world, Nvidia, has made some announcements at the Computex show in Taipei."
-    publishedDateTime: 2022-05-25T14:48:00Z
-    webUrl: "https://cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/"
-    ampWebUrl: "https://cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/amp/"
-    cdnAmpWebUrl: "https://cloud7-news.cdn.ampproject.org/c/s/cloud7.news/data-center/nvidia-has-announced-new-hardware-focusing-on-ai-enabled-data-centers/amp/"
-    type: article
-    provider:
-      name: cloud7
-      domain: cloud7.news
-    quality: 59
-    images:
-      - url: "https://cloud7.news/wp-content/uploads/2022/05/Nvidia-has-announced-new-hardware-focusing-on-AI-enabled-data-centers.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Innodisk Showcases Innovative Edge AI Computing Capabilities at Computex 2022"
-    excerpt: "In addition to these exciting new products, Innodisk presented a new AI exhibition area to showcase the application results of smart retail, smart factory, smart transportation, and smart infrastructure. Innodisk also showed off these applications through ..."
-    publishedDateTime: 2022-05-26T06:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/05/26/9609816.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1824504/Innodisk_Computex.jpg"
-        width: 400
-        height: 301
-        isCached: true
 
 secured: "IzNNzXkdUgeepdFoXwgAEJGgINsSVPKuzBrjZKUMWmxEMTTdk1qQ+eNx/8PJogYKvCUAQWsc0ePhQ9duyJSByxNzMP91NIenjQ9xErGRGqDGc7qg1MGdSI/7IT4IZ1QOWtzYnQxhW+SC7oDpEcRvm+at5LCFf96qFxd5EY0aCFS/yn56MGbGRDDRapXz3lOKpbpqjqbEcM92UdbfFJoODPoXIMCt8oFXrIYdimuV/A3+hzB1E5ztdNR2lmJCyh7fXluuW7BgbAO+Ww0mD22Yt/6ftvGmDl2kAb8dnj7rNRwZ64jYiE3ye0skImuFzw7+yhF2J2j9mMqqdHFFAxKNqG2ywSKIw6HFrhkHuWxTV8mBRpO86WNgwPjGHNSlAdF3gSuZnXToOF8mGwQg7vIvzU/4OG6xNHgW7eJeBgfVY5qzVLsrjOMQfvkBHKZsO/hQxB9uxMXmRMn2U8EONOFzYBGFEtKEfLdVzB+lMhWXElcyvC419OOsH60EPT0bsGU2UhfNEQofuUPOac9tmuTfYw==;kdyHG8ygjMwR3LbCsqCzUw=="
 ---

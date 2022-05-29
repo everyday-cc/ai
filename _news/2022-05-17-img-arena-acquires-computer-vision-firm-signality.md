@@ -1,14 +1,11 @@
 ---
 category: news
 title: "IMG Arena acquires computer vision firm Signality"
-excerpt: "Agency giant IMG’s betting data firm will adopt Swedish-based Signality’s AI-powered software, computer vision and camera technologies."
-publishedDateTime: 2022-05-17T13:03:00Z
-originalUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=finance-investment"
-webUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=finance-investment"
+excerpt: "Agency giant’s betting data firm IMG Arena to adopt Swedish company’s AI-powered software through acquisition."
+publishedDateTime: 2022-05-17T12:53:00Z
+originalUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/"
+webUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: SportsPro
@@ -18,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "Vi1nRkyvtusAQBd0TqFre49zMl8f6XyTnd8/D3k0HF6ZwjdnF28pQOUn10VNidgdrS+2Dapu9LMl8zS5cQc3dkj8p8YjFW2NSsH5L+SGyTCK85G3Ktk4UFv0D1i1+scR4A1ZPL5wXmRK0QFs83oW2692PUeDVM50m64i80wEOI4VrbnPM0AEnvUNZabZJtFVrGpbr7pR51+YkraDcaLLMuQWFCAX2O8DwPQYFhERYk372+bYa7gWktiKb0DxXJgIO+flXm/yAco5wAgcnvzyQ8LHFtsVXANDDnhiWc0IyOfIem3v7DqlHlPOaXNUiaIOSDLBTAUh0vcW9ghpmi3nFpZ+c3aU6EGjyfZ4qrvNJhKQ6UCIp1Maf0U15bEuwFvVoMJQxXcHL8nNGg7D4WeGi80f9awFqPL5w2r1GL3ftsWIoDCKJS3J9thvkk+e9ZWj+YWn1oq/kE9fLsC4DzPCIiRpg93c55OpWSvAkbDqktXOwbtfO71Z4urnOL+V+X1Ym6q4HhSLnj5FuJSVDZUwyg==;QQVt2SmFuikTrmyP1F+Zkw=="
+secured: "qQ7aLyEiZFo0lahBSFXz31zXdaqADWx/LiINlAIuDLFifGdgzyAh572rA/eDMa9qXBgjyAzUk8OhEvdMQNJXO4ICl9XSDosX9mxdLCkWfaPWsYeIuFr8NqihMgOvV4bEIG/mx88zxqHo46xzvLUHRb65py/iToJlki7zLl5QUkIPJGoy+2Wn1bl7SCLmLNG6knv/u3izYLfFJ1Cz+8W/OxLZFIuBbkDIdpZfpaehuW+4jADpyUUZmwJCvVbaXh5vP5Xz8xmJEsz+xgiCJJ++sDKQCQoM0DuPfk7ZxP8DdXXu5ffv3OkuoGcI5Kap0APtXmo/EKYTB9nfzW9eTZZU4TdvP4w9UbBjNIYv4+sTTNCXbcuZrq4+qUOHKZzCd6s30pI92XRQIP/9cgEizr3FL4/tJTrE90dcwMKitRuvSEcjx/d8HLw+eiuqwqNBrvSU0ueHMfVigJPm/SwziCgbukuuqeH2EwYZ49wqhM0go7OKPEWpbvtaLYGiXOx8rR2J3HY8m/54kK882BAZWRJ44Q==;dotuohJil/4psE09qIXx/Q=="
 ---
 

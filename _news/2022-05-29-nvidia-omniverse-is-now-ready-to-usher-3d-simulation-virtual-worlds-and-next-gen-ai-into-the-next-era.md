@@ -33,15 +33,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 40
-  - title: "AI startup Intelligent Medicine partners with Siemens"
-    excerpt: "Schenectady startup Intelligent Medicine, founded by Adam Ryason, wants to change the way buildings are designed by forecasting how infectious disease particles will move through a space."
-    publishedDateTime: 2022-05-24T20:53:00Z
-    webUrl: "https://www.bizjournals.com/albany/inno/stories/news/2022/05/24/intelligent-medicine-siemens-circulate-health.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "kSSnOKxDJP/gDw6dS1JPJtRPSdlqHKPQaf9CVJC3p0QIjzstAfhF3KQYwxLL6SmhWGFkVVFhSNPmLcK+4JlAT5q4eMivlCvDD2fY5VyAbQmfSDrIq/2GW3V3dGNzK1Ie4cKcV0XYS893QQCrPn70aGphbPJn/72UPmjUbIePX+Euh4CnCagmfRnsOoOREZ4NSEGfJIdWKbgBQw+e7rs7wYebghMJG6XetXiGpSXTBCxWTB6WV7V6F+rfBx0+GtrRaSp+Uz9ndLenjUUjo2g0D/TZpo9qC7rc8aGxs/bqwjfFrrOojRjZFlNvMa93okas4iCYAdrF3/BUinFvkeql/WtqzxYwx9lhoiPQVYQZ5iyMzagbBQzleO12BfTit6irNt4cjHcqflVeaFUKLX7Kb5GErB75BqhFzptidFotGVdbUbnukW7JbwlyT70T0O1om7JHCWJuQxy1huEGtYiwg2FP8T5hSCXNQmyi9Q74iqt2E7f9izuFimvwQkatieyx6nQhxpwxvp7Ln/aZ66tfyg==;ZAdEJ4TMfINQgSx0SRiU4w=="
 ---

@@ -196,6 +196,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-the-morning-after-google-claims-unprecedented-photorealism-from-its-new-text-to-image-ai.md",
+      "title": "The Morning After: Google claims 'unprecedented photorealism' from its new text-to-image AI",
+      "excerpt": "Google says its text-to-image AI delivers 'unprecedented photorealism', NVIDIA is bringing out liquid-cooled GPUs, Starlink launches its satellite internet for RVs..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/the-morning-after-google-claims-unprecedented-photorealism-from-its-new-text-to-image-ai-111528400.html",
+      "originalUrl": "https://www.engadget.com/the-morning-after-google-claims-unprecedented-photorealism-from-its-new-text-to-image-ai-111528400.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c1ebff70-db6d-11ec-af58-89b75584ad44",
+          "width": 1401,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex.md",
       "title": "Nvidia Tips New Liquid-Cooled GPU, Jetson AI Devices at Computex",
       "excerpt": "Peak performance and cooling in ever-smaller spaces matters to data centers, and Nvidia's liquid-cooled A100 card targets that market. The chip giant also detailed new Jetson devices and designs for data-center systems.",
@@ -768,10 +820,10 @@
     {
       "path": "_news/2022-05-18-crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers.md",
       "title": "Crystal Group Brings AI to Power Grid With First GPU-Accelerated Substation Servers",
-      "excerpt": "Crystal Group, Inc., a leading designer and manufacturer of rugged computer and electronic hardware, announced today its release of the first GPU-accelerated substation servers designed to bring cutting-edge artificial intelligence (AI) capabilities to the utilities market.",
+      "excerpt": "(Photo: Business Wire) Combining Crystal Group’s hyperconverged, virtualization-enabled substation servers with the NVIDIA RTX™ A5000 GPU introduces a new array of AI capabilities across a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604926.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604926.htm",
+      "webUrl": "https://www.thedailytimes.com/business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_47e9cb22-976d-5fa0-8c86-3c2cc71798b0.html",
+      "originalUrl": "https://www.thedailytimes.com/business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_47e9cb22-976d-5fa0-8c86-3c2cc71798b0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -781,11 +833,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:35:00-07:00",
+      "publishedDateTime": "2022-05-18T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "thedailytimes",
+        "domain": "thedailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1328,49 +1380,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-launches-new-ai-chips-challenging-nvidias-market.md",
-      "title": "Intel launches new AI chips, challenging Nvidia's market",
-      "excerpt": "as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp (NVDA.O). Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
-      "originalUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

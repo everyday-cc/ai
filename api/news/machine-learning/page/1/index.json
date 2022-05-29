@@ -325,6 +325,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging.md",
+      "title": "Study shows AI deep learning models can detect race in medical imaging",
+      "excerpt": "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wxyz.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
+      "originalUrl": "https://www.wxyz.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/aeccbfd/2147483647/strip/true/crop/3253x1830+13+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F96%2Febe196d94b7d93668a2f406ee2ff%2Fstudy-shows-artificial-intelligence-deep-learning-models-can-detect-race-in-medical-imaging.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wxyz.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
+      "cdnAmpWebUrl": "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
+      "publishedDateTime": "2022-05-24T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WXYZ Detroit",
+        "domain": "wxyz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-how-amalgamated-learning-could-scale-medical-ai.md",
       "title": "How amalgamated learning could scale medical AI",
       "excerpt": "A promising new AI and machine learning technique called amalgamated learning might help overcome these silos to find new cures for diseases, prevent fraud and improve industrial equipment. It may also provide a way to construct digital twins from inconsistent forms of data.",
@@ -693,6 +736,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-hypersense-named-in-2022-gartner-market-guide-for-multipersona-data-science-and-machine-learning-platforms.md",
+      "title": "HyperSense named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine Learning Platforms",
+      "excerpt": "Subex, a pioneer in the space of Digital Trust, has been named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine Learning Platforms (DSML). Through HyperSense, Subex has been listed as a Representative Vendor in the report.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-94dbfd1dd15fe589417b87ce830d3cfe",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-94dbfd1dd15fe589417b87ce830d3cfe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1370,94 +1447,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-what-exactly-is-artificial-intelligence.md",
-      "title": "What Exactly Is Artificial Intelligence?",
-      "excerpt": "On the other hand, Machine Learning (ML) is a subset of artificial intelligence. ML uses different computer algorithms such as neural networks to enable the computer to automatically learn and improve from experience without being explicitly programmed.",
-      "sourceUrl": null,
-      "webUrl": "https://kuenselonline.com/what-exactly-is-artificial-intelligence/",
-      "originalUrl": "https://kuenselonline.com/what-exactly-is-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kuenselonline.com/wp-content/uploads/2022/05/cigay.jpg",
-          "width": 1000,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kuensel Online",
-        "domain": "kuenselonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-machine-learning-framework-pytorch-enabling-gpu-accelerated-training-on-apple-silicon-macs.md",
-      "title": "Machine Learning Framework PyTorch Enabling GPU-Accelerated Training on Apple Silicon Macs",
-      "excerpt": "In collaboration with the Metal engineering team at Apple, PyTorch today announced that its open source machine learning framework will soon support GPU-accelerated model training on Apple silicon Macs powered by M1, M1 Pro, or M1 Max chips. Until now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
-      "originalUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.macrumors.com/t/j1xq0VbOUNTowCRcKQkyv9DRnM0=/2000x/article-new/2022/05/pytorch.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

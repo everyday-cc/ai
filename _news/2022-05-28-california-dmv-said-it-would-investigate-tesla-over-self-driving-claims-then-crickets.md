@@ -122,6 +122,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "California DMV said it would investigate Tesla over self-driving claims. Then, crickets"
+    excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly ..."
+    publishedDateTime: 2022-05-27T15:26:00Z
+    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-707875"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 26
 
 secured: "KcabVMXLefnamBOL+ufKoxOHlgnJ2Myt5+olHMKe16S9oamJSA+M8vZShiEhNdsjND7QCN3irYVAB7RgOIfBqiZwIELRy6FlOVxfKhl4Xb+fCvxYocjXVhTKBI0jg3th33GhEToIvlu9E6f6JoYXcJVrGU9EZemVq96/8itjhHUuJTvw/Y3H0ETk8L7NAqkFHOWih5utecIftcjftYxxOqN3nCf8nZjizO311TATfjwDl22Rq7hPHkktjeKE2BCpBiW6FIMz0oOx3vuiVR2A+6xcpwRNmofEtUCdIxMQ9NbzbyoCsF3fZ3lsIw6Mofw4dfCxqH7yeVxX3iSLvM3Pw4hoL+HST0MVlvZB8WpBq78Xxd+vX2UUa36RFHnFT8Agver+53qG2YGyuXFqclvMEtHxVySC0tv1ZFkZnIWNE9yE7a5QqKNyPZ1eva6SYPSYFw42pOhd/f004c5am6WZ7eJW593645A5Y4Ptm3ICWnzpeLTsq4nY6jxg8amSk3IIcGAE4X8AwIx3yUC8JTD2ew==;1kfpUuTGwPyEbvY2M9cJyA=="
 ---

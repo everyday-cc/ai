@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "AI Device Helps Diagnose Autism in Children"
+    excerpt: "This peer-reviewed study evaluated a software as a medical device called the Cognoa ASD Diagnosis Aid that leverages AI machine learning and consists of a mobile app for caregiver"
+    publishedDateTime: 2022-05-29T14:36:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/ai-device-helps-diagnose-autism-in-children?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic6345802.jpg?itok=y9l1_rPS"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "AI can diagnose osteoporosis on hip X-ray"
     excerpt: "OAK BROOK, Ill. – A new method that combines imaging information with artificial intelligence (AI) can diagnose osteoporosis from hip X-rays, according to a study in Radiology: Artificial Intelligence. Researchers said the approach could help speed ..."
     publishedDateTime: 2022-05-25T17:00:00Z

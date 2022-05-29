@@ -52,20 +52,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Facial recognition technology on way for gardaí"
-    excerpt: "The Minister for Justice plans to introduce facial recognition technology to enable gardaí conduct rapid automated searches for suspects in criminal investigations."
-    publishedDateTime: 2022-05-24T23:00:00Z
-    webUrl: "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 39
-    images:
-      - url: "https://img.rasset.ie/001bca3b-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "iHew+PIfphSWcJYIZL9otQfx50DFZLQvfMJeztracU0EEoq5PzG2vDTDpnbjjCqqmW7ZlX05tmrQm0H3KJqLgi/x+OaFplYagkm1qe896eRMhQevCwU7wK3KQmRaaiW4vCRLj4hcCgGhQ+nQbZzDh9gv2X+B/3wV2JzhGiRqlNxnQ/0ev3GE1SNFbxxxv4MLvq8dJD58bmgXjS5gpRCUtfi40+jc/hdXCDV0iHHGD5YVNzHinD5X5tPLogZYwAXpP9o9nAFLUTpLx+fSHbe+pORZ6rY0Kurv3sqawAISGSCCR+WE9+zVU8iYwRkLpJgjoamomCdRjA9c2mwt6X98ZBnAHZby2Ajcmc9RA8nXA28=;+Z/3Evv2VLdoJ8E2ZEqK3A=="
 ---

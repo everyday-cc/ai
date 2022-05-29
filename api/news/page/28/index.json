@@ -2,6 +2,256 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-05-02-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
+      "excerpt": "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals. Baidu and a rival AI driving company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxly.com/i/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
+      "originalUrl": "https://www.kxly.com/i/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXLY 4 News",
+        "domain": "kxly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-accern-raises-20m-series-b-round-to-accelerate-access-to-nocode-natural-language-processing-for-citizen-data-scientists.md",
+      "title": "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists",
+      "excerpt": "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-voiceitt-announces-new-initiative-expanding-voice-tech-capabilities-for-users-with-disabilities.md",
+      "title": "Voiceitt Announces New Initiative, Expanding Voice Tech Capabilities for Users with Disabilities",
+      "excerpt": "a leader in advanced speech recognition technology for people with non-standard speech, announces the launch of its community engagement and development initiative called Project Ensemble. Project Ensemble invites individuals with non-standard speech to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/02/9593315.htm",
+      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/02/9593315.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1808758/Project_Ensemble.jpg",
+          "width": 389,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-paravision-face-recognition-delivers-top-performance-in-latest-dhs-biometric-test.md",
+      "title": "Paravision Face Recognition Delivers Top Performance in Latest DHS Biometric Test",
+      "excerpt": "SAN FRANCISCO, May 02, 2022 (GLOBE NEWSWIRE) -- Paravision, the U.S.-based leader in mission-critical Vision AI, today announced that it delivered the top-ranked performance among face recognition providers selected to participate in the U.S. Department of ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-demographics-biometrics-us-department-of-homeland-security-6fd941b9a349f209ac9c8117a9f077e0",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-demographics-biometrics-us-department-of-homeland-security-6fd941b9a349f209ac9c8117a9f077e0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount.md",
+      "title": "AI-powered voice solutions provider for healthcare Suki to double India headcount",
+      "excerpt": "“We have to be very, very highly efficient and accurate for healthcare. We ended up actually building a medically tuned speech recognition system, a medically tuned command, understander or intent recognizer. Our goal is to make healthcare ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/companies/9gvchh/article65375375.ece/alternates/LANDSCAPE_615/Punit%20Soni.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount/article65375382.ece/amp/",
+      "publishedDateTime": "2022-05-02T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-c3ai-is-this-artificial-intelligence-stock-a-buy.md",
+      "title": "C3.ai: Is This Artificial Intelligence Stock A Buy?",
+      "excerpt": "C3.ai is showing substantial revenue and customer growth. The company is doing a great job at penetrating its existing consumer base. Industry growth trends look favorable but short-term market ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
+      "originalUrl": "https://seekingalpha.com/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319573751/image_1319573751.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
+      "publishedDateTime": "2022-05-02T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-ai-the-somnium-files-nirvana-initiative-new-characters-shared.md",
       "title": "AI: The Somnium Files – nirvanA Initiative New Characters Shared",
       "excerpt": "This marked the start of the “Half-Body Serial Killings ... She is a returning character from AI: The Somnium Files. She belongs to the talent agency Lemniscate and has a love of the occult and urban legends. Like Kizuna, she is a senior at Sekiba ...",
@@ -848,276 +1098,6 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-7-hours-of-sleep-is-optimal-in-middle-age-study.md",
-      "title": "7 hours of sleep is optimal in middle age: Study",
-      "excerpt": "Seven hours is the ideal amount of sleep for people in their middle age and upwards as a new study has found that both insufficient or excessive sleep is associated with poorer cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
-      "originalUrl": "https://www.indiatvnews.com/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/04/woman-sleep-1651251890.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
-      "publishedDateTime": "2022-04-30T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-why-companies-should-stop-trying-to-be-ai-first.md",
-      "title": "Why companies should stop trying to be “AI-first”",
-      "excerpt": "Artificial intelligence has become a buzzword in the tech industry. Companies are eager to present themselves as “AI-first” and use the terms “AI,” “machine learning,” and “deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
-      "originalUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FAI-first-def3.jpg&signature=be9017619396bbe48941e1ffd9fe74d5",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-internship-in-the-area-of-logistic-robotics-computer-vision-fmd.md",
-      "title": "Internship in the area of Logistic Robotics Computer Vision (f/m/d)",
-      "excerpt": "We, the (COMPANY NAME), offer you an interesting and various internship in the area of Logistic Robotics Computer Vision. At BMW, we develop a variety of robots that support our internal logistics processes in the production plants. For each robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.absolventa.de/stellenangebote/5241598-b-internship-in-the-area-of-logistic-robotics-computer-vision-f-m-d",
-      "originalUrl": "https://www.absolventa.de/stellenangebote/5241598-b-internship-in-the-area-of-logistic-robotics-computer-vision-f-m-d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uno-production.imgix.net/og_images/trans.png?w=1200&h=628&bg=e8f8f0&fit=crop&auto=format&q=60&fm=jpg&mark64=aHR0cHM6Ly91bm8tcHJvZHVjdGlvbi5pbWdpeC5uZXQvfnRleHQ_dz0xMDAwJnR4dDY0PWFVRm5iM0poSUVWMWNtOXdZUSZ0eHRjbHI9MTBiZjlkJnR4dHNpemU9NjAmdHh0cGFkPTUwJnR4dGZpdD1tYXgmdHh0Zm9udDY0PVNHVnNkbVYwYVdOaExDQkNiMnhrJnR4dGFsaWduPWNlbnRlcg&markalign=middle%2Ccenter&markfit=crop&blend64=aHR0cHM6Ly91bm8tcHJvZHVjdGlvbi5pbWdpeC5uZXQvb2dfaW1hZ2VzL2Fic29sdmVudGEvbG9nby5wbmc_dz0yMTgmaD00MCZmaXQ9Y3JvcCZmbT1wbmc&bw=218&bh=40&bx=942&by=557&bm=normal&bf=crop",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-30T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Absolventa",
-        "domain": "absolventa.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-3-lessons-learned-from-building-a-software-startup.md",
-      "title": "3 lessons learned from building a software startup",
-      "excerpt": "Startup founders must ask themselves ... world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/",
-      "originalUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/female-startup.entrepreneur.GettyImages-1039076422.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/29/3-lessons-learned-from-building-a-software-startup/amp/",
-      "publishedDateTime": "2022-04-29T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-do-your-kids-likes-cars-buy-this-ai-robot-lego-compatible-toy.md",
-      "title": "Do Your Kids Likes Cars? Buy This AI Robot Lego Compatible Toy",
-      "excerpt": "Yes, this is motorized, but it also is like an artificial intelligence robot, and it’s programmable. It is billed as “the world’s most powerful robotic car.” And, it is compatible with the hugely popular LEGO blocks. Plus, just as with modern cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/",
-      "originalUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motorbiscuit.com/wp-content/uploads/2022/04/M1-STEM-Car-STEMHUB-4.jpeg",
-          "width": 1920,
-          "height": 1086,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/?amp",
-      "cdnAmpWebUrl": "https://www-motorbiscuit-com.cdn.ampproject.org/c/s/www.motorbiscuit.com/kids-likes-cars-buy-ai-robot-lego-compatible-toy/?amp",
-      "publishedDateTime": "2022-04-29T18:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "motorbiscuit",
-        "domain": "motorbiscuit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-endoluxe-and-optimus-ise-enter-marketing-and-development-agreement-to-realize-advanced-imaging-and-artificial-intelligence-in-advanced-operating.md",
-      "title": "Endoluxe and Optimus-ISE Enter Marketing and Development Agreement to Realize Advanced Imaging and Artificial Intelligence in Advanced Operating Rooms",
-      "excerpt": "The company is focused on reducing costs of legacy video platforms, enhancing procedure adoption, and improving patient outcomes through better therapy application. Endoluxe is committed to being a vendor agnostic platform that allows customers to utilize ...",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=655911",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=655911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T15:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

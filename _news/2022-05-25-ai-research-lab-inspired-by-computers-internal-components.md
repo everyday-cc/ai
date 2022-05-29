@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/architecture/plp-shanghai-artificial-intelligen
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/?amp=true"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "Nuance Named Leader in Opus Research 2022 Enterprise-Scale Conversational AI Ranking"
+    excerpt: "Nuance ® Communications, Inc. today announced it was recognized as a Leader in Opus Research's 2022 Decision Makers' Guide to Enterprise Intelligent Assistants report. The report cites Nuance's holistic approach as well as its growing ecosystem of partners and industry collaborators,"
+    publishedDateTime: 2022-05-26T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuance-named-leader-in-opus-research-2022-enterprise-scale-conversational-ai-ranking/article_9806e647-7a9d-5d14-af32-fb26e855608f.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 10
 
 secured: "mfHPgPlf/Jf4nZo+0QC6h3JUm4gChyPyQf1hsl1lM/WGgWmtfvfj6sWt/4CMUl+J6F8Y4WtUu3eMy49iF2EXbY7Kw5EYToNeeWt6b53/7S0kEvBue/wGaB7SjwM3r2zx1vx09K3I0DeHhU8UhCnDa1wMUAxpo4T4o4OK9GeO9lHUYzVkivTSOCr5lcs14Is1FJbodoh1+FhUK/xEN231dK1rxpX4be2KXy1qZ/9mZH3BmOJiA8WCiC5vCikenqwB93klX+48pEQIX5uZuKI6Raoacz7R9peQIB3ot3yzuzE8EquTuO2zZVFMl7njMeCSFBEODm3Xz2W06ZCOUqkhXm+/a6etIyGLOuzOOo/otd8=;CImBIo3kRZ3/Xqgi1XbBNw=="
 ---

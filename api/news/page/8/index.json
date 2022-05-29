@@ -2,6 +2,246 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-19-oxy-ceo-if-youre-not-using-ai-youre-missing-an-opportunity.md",
+      "title": "Oxy CEO: \"If you're not using AI you're missing an opportunity\"",
+      "excerpt": "CEO Vicki Hollub tells how AI is growing the oil company's business",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/oxy-ceo%3A-\"if-you're-not-using-ai-you're-missing-an-opportunity\"/d1f76e96-0750-4ad6-86c8-92a5788c53ae",
+      "originalUrl": "https://fortune.com/videos/watch/oxy-ceo%3A-\"if-you're-not-using-ai-you're-missing-an-opportunity\"/d1f76e96-0750-4ad6-86c8-92a5788c53ae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/d1f76e96-0750-4ad6-86c8-92a5788c53ae/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/oxy-ceo%3A-%22if-you're-not-using-ai-you're-missing-an-opportunity%22/d1f76e96-0750-4ad6-86c8-92a5788c53ae/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/oxy-ceo%3A-%22if-you're-not-using-ai-you're-missing-an-opportunity%22/d1f76e96-0750-4ad6-86c8-92a5788c53ae/amp",
+      "publishedDateTime": "2022-05-19T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-implementing-change-part-two-what-ai-cant-do-for-healthcare.md",
+      "title": "Implementing Change Part Two: What AI Can’t Do For Healthcare",
+      "excerpt": "Understanding what AI can’t do is important to prevent tech entrepreneurs and investors from pouring time and resources down rabbit holes that won’t bring about better care, improved working conditions or lower costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/19/implementing-change-part-two-what-ai-cant-do-for-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/19/implementing-change-part-two-what-ai-cant-do-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in.md",
+      "title": "When big AI labs refuse to open source their models, the community steps in",
+      "excerpt": "When big AI labs like OpenAI and DeepMind decline to release their models, community efforts attempt to fill the gap with custom, reverse-engineered versions.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/",
+      "originalUrl": "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/interactive.png?w=680",
+          "width": 680,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/amp/",
+      "publishedDateTime": "2022-05-19T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-dentistry-the-next-frontier-for-artificial-intelligence.md",
+      "title": "Dentistry: The Next Frontier For Artificial Intelligence",
+      "excerpt": "AI is poised to make a new, more immediate impression on our lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/dentistry-the-next-frontier-for-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/dentistry-the-next-frontier-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62865b862eb4cc9f585b113f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/dentistry-the-next-frontier-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/dentistry-the-next-frontier-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-19T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-create-personalized-ai-powered-social-media-content-with-predisai.md",
+      "title": "Create Personalized, AI-powered Social Media Content with Predis.ai",
+      "excerpt": "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly. PUNE, India , May 19, 2022 /PRNewswire/ -- Social media has brought about a revolutionary change in the way of life and Predis.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-india-social-media-aa5c53006200808283c597860d13c9f8",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-india-social-media-aa5c53006200808283c597860d13c9f8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing.md",
       "title": "How Artificial Intelligence Is Opening Up A New World Of Possibilities In Hearing",
       "excerpt": "For me, there’s nothing more fulfilling than seeing technology enhance the way people live. We’re just starting to scratch the surface when it comes to AI. When people talk about this technology, its impact is not 10 years from now.",
@@ -760,10 +1000,10 @@
     {
       "path": "_news/2022-05-18-crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers.md",
       "title": "Crystal Group Brings AI to Power Grid With First GPU-Accelerated Substation Servers",
-      "excerpt": "Crystal Group, Inc., a leading designer and manufacturer of rugged computer and electronic hardware, announced today its release of the first GPU-accelerated substation servers designed to bring cutting-edge artificial intelligence (AI) capabilities to the utilities market.",
+      "excerpt": "(Photo: Business Wire) Combining Crystal Group’s hyperconverged, virtualization-enabled substation servers with the NVIDIA RTX™ A5000 GPU introduces a new array of AI capabilities across a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604926.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604926.htm",
+      "webUrl": "https://www.thedailytimes.com/business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_47e9cb22-976d-5fa0-8c86-3c2cc71798b0.html",
+      "originalUrl": "https://www.thedailytimes.com/business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_47e9cb22-976d-5fa0-8c86-3c2cc71798b0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -773,11 +1013,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:35:00-07:00",
+      "publishedDateTime": "2022-05-18T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "thedailytimes",
+        "domain": "thedailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -927,230 +1167,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-mastercard-tests-new-facial-recognition-pay-app.md",
-      "title": "Mastercard Tests New Facial Recognition Pay App",
-      "excerpt": "The Payface App will allow consumers to pay for goods using the same facial recognition technology that unlocks smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/",
-      "originalUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/15E/02C/15E02C3C687F437AD3EA9F9598C262B9.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=cxjQk4hNs4y9rOEBkus3oRXCbIM",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp",
-      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/video/6241034-mastercard-tests-new-facial-recognition-pay-app/?amp",
-      "publishedDateTime": "2022-05-18T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer.md",
-      "title": "NEC Selects DDN Storage for Japan's Largest Corporate AI Research Supercomputer",
-      "excerpt": "DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1820615/DataDirect_Networks___DDN.jpg",
-          "width": 400,
-          "height": 252,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-everest-group-names-indico-data-major-contender-and-market-star-performer-for-intelligent-document-processing.md",
-      "title": "Everest Group Names Indico Data Major Contender and Market Star Performer for Intelligent Document Processing",
-      "excerpt": "Indico demonstrated the 'strongest year-over-year movement' of any provider evaluated in the 2022 PEAK Matrix® Assessment, highlighting significant progress and continued innovation in market impact,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-everest-group-names-indico-data-major-contender-market-/2022/05/18/9604648.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-everest-group-names-indico-data-major-contender-market-/2022/05/18/9604648.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1637812/Indico_Data_Logo.jpg",
-          "width": 400,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-ai-driven-support-system-assists.md",
-      "title": "AI-driven support system assists",
-      "excerpt": "VietNamNet Bridge – The Ministry of Health has chosen three hospitals to pilot the IBM Watson for Oncology, an artificial intelligence (AI)-driven clinical decision support system.",
-      "sourceUrl": null,
-      "webUrl": "https://vietnamnet.vn/en/ai-driven-support-system-assists-tag6612186237643902453.html",
-      "originalUrl": "https://vietnamnet.vn/en/ai-driven-support-system-assists-tag6612186237643902453.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.vnncdn.net/v1/icon/return.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vietnamnet",
-        "domain": "vietnamnet.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next.md",
-      "title": "Synchrony Financial Stock Lost 10% In One Week, What To Expect Next?",
-      "excerpt": "The current scenario is likely to increase the credit risk, leading to an increase in the provisions of credit losses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6284647b19c3382449b0251b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/amp/",
-      "publishedDateTime": "2022-05-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

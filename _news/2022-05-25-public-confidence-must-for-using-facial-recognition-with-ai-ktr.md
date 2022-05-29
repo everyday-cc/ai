@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recogn
 cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/25/w600X390/Facial.JPG"
         width: 600
         height: 390
-        isCached: true
-  - title: "Facial recognition technology on way for gardaí"
-    excerpt: "The Minister for Justice plans to introduce facial recognition technology to enable gardaí conduct rapid automated searches for suspects in criminal investigations."
-    publishedDateTime: 2022-05-24T23:00:00Z
-    webUrl: "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 39
-    images:
-      - url: "https://img.rasset.ie/001bca3b-1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Facial recognition technology ‘not advanced enough’ for use by Garda"
     excerpt: "Amazon had been selling its controversial Rekognition software to police forces in the US. But along with other industry big-hitters Microsoft and IBM, it suspended sales for law enforcement purposes in 2020 after a backlash over police brutality and the ..."

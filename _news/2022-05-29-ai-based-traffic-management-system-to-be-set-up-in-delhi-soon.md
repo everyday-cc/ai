@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-29T12:45:00Z
 originalUrl: "https://www.cnbctv18.com/technology/ai-based-traffic-management-system-to-be-set-up-in-delhi-soon-13652082.htm"
 webUrl: "https://www.cnbctv18.com/technology/ai-based-traffic-management-system-to-be-set-up-in-delhi-soon-13652082.htm"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: cnbctv18
@@ -13,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI-based traffic management system in Delhi soon, say officials"
+    excerpt: "To reduce congestion and facilitate faster vehicular movement, Delhi Traffic Police is planning an Integrated Traffic Management System which works on machine learning and artificial intelligence and"
+    publishedDateTime: 2022-05-29T11:29:00Z
+    webUrl: "https://www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials-11653821388311.html"
+    ampWebUrl: "https://www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials/amp-11653821388311.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials/amp-11653821388311.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2022/05/29/600x338/traffic_1653823598585_1653823598703.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "oOjuZiNGX4Z0bZ/iLUsomqvFwBOmt2CtpzNsvDaxSX8298CjCY00Twjlw26Q+gy7QuE/EKr8MhHYgxvXFZKtZVoYprlUue9IfyjrTFb3cvH6qVtidpwbK9QRNUUT0i3kDb1oDKpGQ7MfC6s4HUHrnbT9ZZELBB81lptg35amx33Xacq2qRo1GDiugPTdEH2IMN7q8EOvprEcmYdlTeAkHSjb85/xkV/z/GgvEc8vMxtpJpOlildKlEUpIWTjVzJ8IGneom1fw8PjS0ErlZotDZAQFf51xGFNopm6ZV8ySiqraW4FFbzoCW8K8xrYv9gyZXVjW+O5/KIM4CuRvcra5TiXNjeFYNx64q2SH+ZYqH9bOHc7cUqQlbgIhN7NL3dF2ikbskRAbs3yIag/exuCQQ+O9BTx9UgBLTIdci4tWaYIasqAIM2nVgDvAuYi9pgu9lR6TUHpw23j9Y/Nfb2w/N7KdzTcpKjwO5u1kbsbdc4xqNo5NCmd8sUZpwTMg2ImTOYDnLD3NwHgJ8+tY3/Mtg==;B+12x9h+Md/dfWvdqW+9rg=="
 ---

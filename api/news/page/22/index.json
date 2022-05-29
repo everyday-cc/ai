@@ -2,6 +2,284 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-05-06-build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model.md",
+      "title": "Build a custom Q&A dataset using Amazon SageMaker Ground Truth to train a Hugging Face Q&A NLU model",
+      "excerpt": "In recent years, natural language understanding (NLU) has increasingly found business value, fueled by model improvements as well as the scalability and cost-efficiency of cloud-based infrastructure. Specifically, the Transformer deep learning architecture, often implemented in the form of BERT models,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-qa-dataset-using-amazon-sagemaker-ground-truth-to-train-a-hugging-face-qa-nlu-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/23/ML-4130-image015.jpg",
+          "width": 1287,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T09:29:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-staff-recognition-ceremony-returns.md",
+      "title": "Staff recognition ceremony returns",
+      "excerpt": "For the first time in three years, the Brookings School District and Brookings Education Association annual staff recognition ceremony returned to Bell Auditorium at Brookings High School.",
+      "sourceUrl": null,
+      "webUrl": "https://brookingsregister.com/article/staff-recognition-ceremony-returns",
+      "originalUrl": "https://brookingsregister.com/article/staff-recognition-ceremony-returns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://brookingsregister.com/uploads/images/2022/05/62d9ed2e2f15299f0ca51844c10e05a7.jpg",
+          "width": 1024,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brookings Register",
+        "domain": "brookingsregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-invest-in-the-robotics-startup-tripling-restaurant-profits.md",
+      "title": "Invest in the Robotics startup tripling restaurant profits",
+      "excerpt": "So instead of chasing an armada of employees, franchises have already started deploying Flippy. This synthesis of AI-driven robotics, machine learning and data analytics can grill, fry and, as its name suggests, flip an entire restaurant’s worth of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/miso-robotics-145539918.html",
+      "originalUrl": "https://www.engadget.com/miso-robotics-145539918.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c6c6c570-cbb4-11ec-bfdf-cfbdb5e2b591",
+          "width": 1600,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-loen-lensless-opto-electronic-neural-network-empowered-machine-vision.md",
+      "title": "LOEN: Lensless opto-electronic neural network empowered machine vision",
+      "excerpt": "has generated the rapid development of deep learning based on convolutional neural networks (CNN), leading to effective solutions for a variety of issues in artificial intelligence applications.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.html",
+      "originalUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/loen-lensless-opto-ele.jpg",
+          "width": 2027,
+          "height": 704,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-loen-lensless-opto-electronic-neural-network.amp",
+      "publishedDateTime": "2022-05-06T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-lenovo-launches-aws-powered-edge-device.md",
+      "title": "Lenovo launches AWS-powered Edge device",
+      "excerpt": "AWS Panorama is a collection of machine learning (ML) devices and a software development kit (SDK) that brings computer/machine vision to on-premises internet protocol (IP) cameras, streaming the likes of on-site CCTV feeds through the on-premise appliance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/lenovo-launches-aws-powered-edge-device/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/lenovo-launches-aws-powered-edge-device/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Lenovo_ThinkEdge-SE70_-_AWS_Panor.2e16d0ba.fill-1200x630.jpg",
+          "width": 738,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-06-global-healthcare-cognitive-computing-market-2022-to-2027-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarketscom.md",
+      "title": "Global Healthcare Cognitive Computing Market (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com",
+      "excerpt": "The \"Healthcare Cognitive Computing Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/global-healthcare-cognitive-computing-market-2022-to-2027---industry-trends-share-size-growth/article_1e81917d-e796-5a39-b2a5-291b713d8120.html",
+      "originalUrl": "https://www.eagletribune.com/region/global-healthcare-cognitive-computing-market-2022-to-2027---industry-trends-share-size-growth/article_1e81917d-e796-5a39-b2a5-291b713d8120.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-uk-regulatory-bodies-call-for-auditing-standards-of-ai-and-machine-learning.md",
       "title": "UK regulatory bodies call for auditing standards of AI and machine learning",
       "excerpt": "Globally, algorithms used in financial decision-making are drawing increased scrutiny through the lens of risk management.",
@@ -852,295 +1130,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-unionvilles-music-education-program-receives-national-recognition.md",
-      "title": "Unionville’s music education program receives national recognition",
-      "excerpt": "Unionville-Chadds Ford School District has been honored with the Best Communities for Music Education designation from The NAMM Foundation for its outstanding commitment to",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/",
-      "originalUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailylocal.com/wp-content/uploads/2022/05/uville-music.jpg?w=1024&h=656",
-          "width": 1024,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/2022/05/05/unionvilles-music-education-program-receives-national-recognition/amp/",
-      "publishedDateTime": "2022-05-05T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Local News",
-        "domain": "dailylocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-predict-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
-      "title": "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas",
-      "excerpt": "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T09:27:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-deep-learning-market-research-report-with-emerging-trends-leading-manufactures-upcoming-issues-challenges-in-2022-2030.md",
-      "title": "Deep Learning Market Research Report with Emerging Trends, Leading Manufactures, Upcoming issues & Challenges in 2022-2030",
-      "excerpt": "May 05, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-emerging-trends-leading-manufactures-upcoming-issues-challenges-in-2022-2030-2022-05-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-emerging-trends-leading-manufactures-upcoming-issues-challenges-in-2022-2030-2022-05-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars.md",
-      "title": "AI Ethics Is Especially Vexed By That AI Confinement Problem, Including The Knotty Particulars For Confining Autonomous Self-Driving Cars",
-      "excerpt": "The AI Confinement Problem is a vexing issue and one that AI Ethics is pushing mightily to solve. We discuss why this is such a tough challenge, along with showcasing examples via the advent of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6272bf58207611e789de7afd/0x0.jpg?format=jpg&crop=2380,1620,x161,y87,safe&width=1200",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-05T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-socure-and-servicenow-create-banking-experience-of-the-future.md",
-      "title": "Socure and ServiceNow Create Banking Experience of the Future",
-      "excerpt": "built with ServiceNow Financial Services Operations. Socure’s graph-defined identity verification and fraud platform combines advanced machine learning and artificial intelligence with all ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/socure-and-servicenow-create-banking-experience-of-the-future/article_22ac31c6-09a1-55f0-8e35-e039a77e2e25.html",
-      "originalUrl": "https://www.eagletribune.com/region/socure-and-servicenow-create-banking-experience-of-the-future/article_22ac31c6-09a1-55f0-8e35-e039a77e2e25.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-artificial-intelligence-computing-using-networks-of-tiny-nanomagnets.md",
-      "title": "Artificial Intelligence Computing Using Networks of Tiny Nanomagnets",
-      "excerpt": "Artificial intelligence that uses ‘neural networks’ aims to replicate the way parts of the brain work, where neurons talk to each other to process and retain information. A lot of the maths used to power neural networks was originally invented by ...",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/",
-      "originalUrl": "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Human-Brain-Artificial-Intelligence-AI-Illustration-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-computing-using-networks-of-tiny-nanomagnets/amp/",
-      "publishedDateTime": "2022-05-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

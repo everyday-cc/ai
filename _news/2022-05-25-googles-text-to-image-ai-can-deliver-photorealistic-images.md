@@ -26,85 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Text-to-Image AI Can Make Any Wacky Image You Can Imagine"
-    excerpt: "A plumber riding a dinosaur? Google says its AI system Imagen can create a photorealistic images from input text."
-    publishedDateTime: 2022-05-24T21:05:00Z
-    webUrl: "https://www.cnet.com/tech/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/"
+  - title: "The Morning After: Google claims 'unprecedented photorealism' from its new text-to-image AI"
+    excerpt: "Google says its text-to-image AI delivers 'unprecedented photorealism', NVIDIA is bringing out liquid-cooled GPUs, Starlink launches its satellite internet for RVs.."
+    publishedDateTime: 2022-05-25T11:20:00Z
+    webUrl: "https://www.engadget.com/the-morning-after-google-claims-unprecedented-photorealism-from-its-new-text-to-image-ai-111528400.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/e2f8bf45ccafbdf0e8baa635db6dd15e058ceeed/2022/05/24/9879e313-8e97-4858-abe0-ff3583b11495/imagen-text-to-image-ai-composites-2022-promo.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The dark secret behind those cute AI-generated animal images"
-    excerpt: "Google Brain has revealed its own image-making AI, called Imagen. But don't expect to see anything that isn't wholesome."
-    publishedDateTime: 2022-05-25T11:56:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/"
-    ampWebUrl: "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "Will AI text-to-image generators put illustrators out of a job?"
-    excerpt: "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators"
-    publishedDateTime: 2022-05-26T14:33:00Z
-    webUrl: "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/"
-    ampWebUrl: "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
+      name: Engadget
+      domain: engadget.com
     quality: 59
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Google Imagen Is The Latest AI That Can Create Images From Text"
-    excerpt: "Google unveiled an outstanding text-to-image generator AI. Google imagen is the newest to do so after DALLE-2 open AI."
-    publishedDateTime: 2022-05-25T11:27:00Z
-    webUrl: "https://fossbytes.com/google-imagen-ai-can-create-images-from-text/"
-    ampWebUrl: "https://fossbytes.com/google-imagen-ai-can-create-images-from-text/"
-    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/google-imagen-ai-can-create-images-from-text/"
-    type: article
-    provider:
-      name: Foss Bytes
-      domain: fossbytes.com
-    quality: 57
-    images:
-      - url: "https://fossbytes.com/wp-content/uploads/2022/05/FotoJet-2-5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meet Imagen, Google's new AI that turns text into images"
-    excerpt: "Learn more and and check out some examples of #imagen at https://t.co/RhD6siY6BY pic.twitter.com/C8javVu3iW — Google AI (@GoogleAI) May 24, 2022 The possibilities offered by these models are almost infinite. And yet, a mainstream tool is not on the ..."
-    publishedDateTime: 2022-05-29T05:40:00Z
-    webUrl: "https://www.astroawani.com/berita-dunia/meet-imagen-googles-new-ai-turns-text-images-363494"
-    ampWebUrl: "https://www.astroawani.com/berita-dunia/meet-imagen-googles-new-ai-turns-text-images-363494?amp=1"
-    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/meet-imagen-googles-new-ai-turns-text-images-363494?amp=1"
-    type: article
-    provider:
-      name: Astro Awani
-      domain: astroawani.com
-    quality: 57
-    images:
-      - url: "https://img.astroawani.com/2022-05/61653647244_IMAGEN.jpg"
-        width: 590
-        height: 400
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c1ebff70-db6d-11ec-af58-89b75584ad44"
+        width: 1401
+        height: 623
         isCached: true
   - title: "Google's Imagen AI produces photorealistic images from natural text with frightening fidelity"
     excerpt: "Artificial intelligence is improving fast. Less than a month after OpenAI released its impressive DALL-E 2 text-to-image generator, Google has bested it with Imagen."

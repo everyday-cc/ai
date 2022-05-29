@@ -58,13 +58,13 @@ related:
         height: 716
         isCached: true
   - title: "PIXM Pioneers First Real-Time Computer Vision Solution to Stop Phishing on Mobile Devices"
-    excerpt: "PIXM Mobile uses novel, award-winning technology to stop phishing attacks targeting mobile device apps at the point of click PIXM, a Computer Vision cybersecurity startup, today announced the ..."
-    publishedDateTime: 2022-05-25T10:56:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220525005383/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices"
+    excerpt: "PIXM, a Computer Vision cybersecurity startup, today announced the expansion of its anti-phishing products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted and unknown phishing attacks on mobile devices."
+    publishedDateTime: 2022-05-25T10:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pixm-pioneers-first-real-time-computer-vision-solution-/2022/05/25/9608915.htm"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 10
 
 secured: "sb5//+L4IKxdb0q94ejN+3m3h9MCUoJbODr8c/rYtRPBlNC/ziw01o1esFP85YxamB4muuJlj+ZrHSSvpTHgA6BafN56AY6gQMepEDfoIOhWL4i0bSLDUjoYquUJEKvb4DclZY+hecWo9DWCnCzohJExmzyCBPIunvfIbAR5ct6wf5m2dNgfYwpYCSr22skv3mLCOQLE3F+xOOfAKHon0o+7JrQFIHYGlh0GG2/qn3GsWpjTKs1k6oicz0517vTAuklDhWJQNcZJp/LslLITIoA/QsPQih0+N7ELXl0XK3VQPVidFz7/C8cm48QXtCVgBQB2xFMcVVqMlShpHe9gluvDdwopayl9jecSTqPLW7p5BKI7AwqR2eb4nH1Yi2GJViPBNoXl8BrdMBehCbk0bsHZIy/ULAXdCNDe29ICTraIwrxLmI9NyqnpC7iyH5UcQmWakR1ypFAKpUd5ZMZT7FP3NiskuZQCrj2CIAWBTh0jG5nMO2V/sc5oHg3OcBqTM1cSJ5QKh/aOITOdmNhrdg==;F9kqfywid2taQt0D2qyPVg=="

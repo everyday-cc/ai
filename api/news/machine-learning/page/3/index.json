@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-09-hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning.md",
+      "title": "Hugging Face reaches $2 billion valuation to build the GitHub of machine learning",
+      "excerpt": "Due to the success of this libary, Hugging Face quickly became the main repository for all things related to machine learning models — not just natural language processing. On the company’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/",
+      "originalUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/amp/",
+      "publishedDateTime": "2022-05-09T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-using-graph-neural-networks-to-measure-the-spatial-homogeneity-of-road-networks.md",
+      "title": "Using graph neural networks to measure the spatial homogeneity of road networks",
+      "excerpt": "Researchers at Purdue University and Peking University have recently carried out a study aimed at better understanding road networks in cities worldwide using machine-learning tools. Their paper, published in Nature Machine Intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2022/using-graph-neural-net.jpg",
+          "width": 800,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.amp",
+      "publishedDateTime": "2022-05-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-loen-lensless-opto-electronic-neural-network-empowered-machine-vision.md",
       "title": "LOEN: Lensless opto-electronic neural network empowered machine vision",
       "excerpt": "has generated the rapid development of deep learning based on convolutional neural networks (CNN), leading to effective solutions for a variety of issues in artificial intelligence applications.",
@@ -1257,83 +1352,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world.md",
-      "title": "An AI-ML solution that lets people with disabilities to interact with the world",
-      "excerpt": "They find it tough to access digital content and services and communicate too on the online platforms. Here’s a start-up, DeepVisionTech.AI, which builds a digital interpreter solutions, using artificial intelligence and machine learning solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/ef95ah/article65372881.ece/alternates/LANDSCAPE_615/letstalk.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/an-ai-ml-solution-that-lets-people-with-disabilities-to-interact-with-the-world/article65372849.ece/amp/",
-      "publishedDateTime": "2022-05-01T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-would-you-buy-a-work-of-art-created-by-artificial-intelligence.md",
-      "title": "Would you buy a work of art created by artificial intelligence?",
-      "excerpt": "Are computers capable of creating art, will they ever be? In the meantime, examples of artificial art have increased considerably since the last Biennale. We talked about this with Luca Gambardella, who analyses nature to teach artificial intelligence how to be autonomous.",
-      "sourceUrl": null,
-      "webUrl": "https://www.domusweb.it/en/art/2022/05/02/would-you-buy-a-work-of-art-created-by-artificial-intelligence.html",
-      "originalUrl": "https://www.domusweb.it/en/art/2022/05/02/would-you-buy-a-work-of-art-created-by-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Loves by Domus",
-        "domain": "domusweb.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,103 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-02-05-strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars.md",
+      "title": "Strict Literal Interpretation Is A Hardheaded Drawback Of Machine Learning And Likewise Bad For AI Self-Driving Cars",
+      "excerpt": "Au contraire, mon ami (on the contrary, my friends)! Here’s the deal. Let’s discuss self-driving cars (for my ongoing and extensive coverage of Autonomous Vehicles or AVs, including self-driving cars, see the link here). The advent of today’s self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60a9c53023e63ae0ae36aeb8/0x0.jpg?format=jpg&crop=4362,2454,x0,y41,safe&fit=crop",
+          "width": 4362,
+          "height": 2454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2022-02-04T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-azure-machine-learning-webinar-recap-a-sneak-peek-at-the-process-and-possibilities-of-aml.md",
+      "title": "Azure Machine Learning Webinar recap: A sneak peek at the process and possibilities of AML",
+      "excerpt": "The AutoML option in AML studio is a quick and easy way to build models, primarily aimed at the citizen data scientist. All it requires is a dataset, and using the wizard to set up a few ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "originalUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Webinar800X400-1643974854034.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "publishedDateTime": "2022-02-04T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-deep-learning-model-simulates-brain-topography.md",
       "title": "Deep Learning Model Simulates Brain Topography",
       "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization, or topography of the IT. “The brain doesn’t have unlimited ...",
@@ -1308,112 +1405,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-2-monster-machine-learning-stocks-to-buy-for-the-long-term.md",
-      "title": "2 Monster Machine Learning Stocks to Buy for the Long Term",
-      "excerpt": "Machine learning is a subset of AI that uses data to improve processes, and also make predictions. It's already being applied to dozens of industries globally, streamlining everything from racing to internet search results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/27/2-monster-machine-learning-stocks-to-buy-long-term/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/27/2-monster-machine-learning-stocks-to-buy-long-term/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/662546/a-person-working-on-a-digital-dashboard-analyzing-data.jpg",
-          "width": 5760,
-          "height": 3240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-sas-tops-aites-fraud-and-aml-machine-learning-platforms-matrix.md",
-      "title": "SAS tops Aite's fraud and AML machine learning platforms matrix",
-      "excerpt": "SAS has earned the foremost best-in-class title in Aite-Novarica Group's Aite Matrix: Leading Fraud & AML Machine Learning Platforms. The AI and analytics leader achieved top billing among 11 competing anti-fraud and financial crime technology vendors,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1735421/SAS_Top_Billing_on_Aite_Anti_Fraud_assessment.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-15-redmagic-7-confirmed-to-feature-independent-gaming-chip-called-red-core-1.md",
+      "title": "REDMAGIC 7 confirmed to feature independent gaming chip called Red Core 1",
+      "excerpt": "REDMAGIC says that the chip was developed jointly with Awinic and JD Esports. Awinic is a Shanghai-based company that specialized in high-quality, high-performance analog, digital-analog mixed-signal, RF, and IC for mobile phones, AI, IoT, and the like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/",
+      "originalUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/redmagic-7-red-core-1-chip-featured.jpg",
+          "width": 749,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/15/redmagic-7-red-core-1-gaming-chip/?amp=1",
+      "publishedDateTime": "2022-02-15T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-15-gbt-seeks-to-develop-an-ai-empowered-technology-for-automatic-compaction-of-integrated-circuit-layout-data-ips.md",
       "title": "GBT Seeks to Develop an AI Empowered Technology for Automatic Compaction of Integrated Circuit Layout Data IPs",
       "excerpt": "GBT is now designing an AI empowered technology to read existing and new microchip ... “Today’s microchips include billions of transistors which make a significant impact on the overall chip’s die size. As larger silicon ‘real-estate’ is ...",
@@ -1318,60 +1370,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027.md",
-      "title": "Artificial Intelligence (AI) Robots Market Key Players, Industry Outlook, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2027",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 03, 2022 (Heraldkeepers) -- Artificial Intelligence in Robots Market size is expected to reach US$ 30.44 Bn. by 2026, at a CAGR of 31.78% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027-2022-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-key-players-industry-outlook-trends-share-industry-size-growth-opportunities-forecast-to-2027-2022-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

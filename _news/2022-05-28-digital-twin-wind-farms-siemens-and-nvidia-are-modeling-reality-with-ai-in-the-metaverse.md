@@ -37,15 +37,6 @@ related:
         width: 1363
         height: 759
         isCached: true
-  - title: "AI startup Intelligent Medicine partners with Siemens"
-    excerpt: "Schenectady startup Intelligent Medicine, founded by Adam Ryason, wants to change the way buildings are designed by forecasting how infectious disease particles will move through a space."
-    publishedDateTime: 2022-05-24T20:53:00Z
-    webUrl: "https://www.bizjournals.com/albany/inno/stories/news/2022/05/24/intelligent-medicine-siemens-circulate-health.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "NzExd0xdWXBaSJxyhZ6BP2aEFoyVJ5B1CjQxSjlm+fV2WWLBN5AjI1nmCX+e0UbMqPhXRwFq2QDPGbFKZhJrnyYNtMDOj1822ViGQ/Iltvc9NhISC2+flM97gy+0VZRV38aHsBgWyxLEo0ZRtd+OPML/K1xqkHn4k+R0KBmYKmqicfgAR28b7ySYJut8S23dClY+7FOVfngmy1p0Si79pgXNKr6zcw+4oEueJAX4vdN2sAev7zJDDh/caPGytMshWlxM0fW1Jyz59h8cR0E0rjAGCla2cyAk5aBTTg0uk6O1Q41OVaPfY0fZ+l549W93J1lZafEoo8Nl9ca66fs7GyljWSocPUew1Q8h5ntuI26JbSbIvzzS8z3mrazNagCFaMkbs0VmawrnZCO00mvQhfIREWBbADGFyY2grA3pX3W+mEcvPof27L8KGrX+LQVmxbzy7Sw1WxFgoXVCWQSQUFZs7Eon9kx+JZeb+rSFKZUIol5+degngUsc5JFi5vOm2msKWppYpp8UX1wzgkz7Ww==;WDewdIxaOkXWNDEDKGKMDw=="
 ---

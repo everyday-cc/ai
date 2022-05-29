@@ -41,6 +41,17 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "At long last, nation’s ‘it’s time’ moment on Indigenous voice"
+    excerpt: "The victory speech delivered by our new Prime Minister late on election night confirmed my unwavering confidence that constitutional recognition of Indigenous Australians, as presented in the Uluru Statement From the Heart, will be realised. My confidence ..."
+    publishedDateTime: 2022-05-29T14:01:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/at-long-last-nations-its-time-moment-on-indigenous-voice/news-story/cee06cc10536f886940ac64c6608aea9"
+    ampWebUrl: "https://amp.theaustralian.com.au/commentary/at-long-last-nations-its-time-moment-on-indigenous-voice/news-story/cee06cc10536f886940ac64c6608aea9"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/commentary/at-long-last-nations-its-time-moment-on-indigenous-voice/news-story/cee06cc10536f886940ac64c6608aea9"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
   - title: "‘Time for healing’: Faith leaders endorse Voice to Parliament"
     excerpt: "Northern Territory Chief Minister Natasha Fyles says the proposal for an Indigenous Voice to Parliament is very important as it will have a big impact on a large number of Territorians. Ms Fyles said there is still work that needs to be done to achieve a Voice in Parliament."
     publishedDateTime: 2022-05-27T04:57:00Z

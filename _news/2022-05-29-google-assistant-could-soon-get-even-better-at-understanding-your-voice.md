@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/google-assistant-could-soon-get-eve
 webUrl: "https://www.techradar.com/news/google-assistant-could-soon-get-even-better-at-understanding-your-voice"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://m-cdn.phonearena.com/images/article/140429-wide-two_1200/Google-Assistant-could-soon-learn-to-recognize-your-voice.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google Assistant might soon recognize your voice even better"
+    excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android"
+    publishedDateTime: 2022-05-29T14:14:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272569040/google-assistant-might-soon-recognize-your-voice-even-better"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1653833298.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Google Assistant will soon recognize your voice"
     excerpt: "A comprehensive dissection of the Google app for Android has revealed potential plans for improving the Google Assistant feature. Of course, those deep dives into the APKs aren't always accurate and some functionalities may not end up in future versions."

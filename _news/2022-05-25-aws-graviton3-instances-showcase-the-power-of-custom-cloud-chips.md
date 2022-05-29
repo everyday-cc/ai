@@ -7,7 +7,7 @@ originalUrl: "https://datacenterfrontier.com/aws-graviton3-instances-showcase-th
 webUrl: "https://datacenterfrontier.com/aws-graviton3-instances-showcase-the-power-of-custom-cloud-chips/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 740
     height: 450
     isCached: true
-
-related:
-  - title: "The Value Proposition For Amazon’s Graviton3 Server Chip"
-    excerpt: "As is well known, we like feed and speeds and slots and watts metrics here at The Next Platform for any kind of gear that runs in the datacenter. But we"
-    publishedDateTime: 2022-05-24T20:28:00Z
-    webUrl: "https://www.nextplatform.com/2022/05/24/the-value-proposition-for-amazons-graviton3-server-chip/"
-    ampWebUrl: "https://www.nextplatform.com/2022/05/24/the-value-proposition-for-amazons-graviton3-server-chip/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/24/the-value-proposition-for-amazons-graviton3-server-chip/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/aws-graviton3-package-logo.jpg"
-        width: 651
-        height: 411
-        isCached: true
 
 secured: "j8BPov+c7WVAzd0qgVaR5cINRPh/APZdhn9U0/clb2GYxWiQcQrur0nyW3wrjJji5xoSzxHtdKkdNRQXNNidHrt/fJjCHcF59MWS5aXNkpnFGrwc0TdqcBzryqcES2r0rr581egoZUTWsoxrgLa9EbKKGzfdu3pTMMOLEkUzztWHsVijks1XcRzI1cRJuA/IkXJSQ2Ao9Fjp4LBQJg9vnQa2rYGz7fjKjjLmat/XCGuAbe/N2l45va8SKGFL8vOWDYX7JSgjAM9M8ZLoxZveonA65Xf39Tw+ihDri1CBb+sSGjdWiM8lPb8R8fUBH/uk6PjqQXCgXzLRnBhpsuUm60x6VKGjI51rEZiZ33i2a+UTbY5LJHunJCLPxFMu3FYSsjlq/PP5XA/GuPrHmhYnNjB0h96H+97brk2DfZreUQ2/Sc4wd2TEvjjYq6OeBpTuILfoHizwWqq8oV+QzdNMJAwKTajBZvjWYdtyNRnsey8ZCEjLAXL6mKsvNs/w8u+/TBMmN0MBpGCnjCB/NC+TuA==;vCTb1zaqevkTIxsRz93ehg=="
 ---

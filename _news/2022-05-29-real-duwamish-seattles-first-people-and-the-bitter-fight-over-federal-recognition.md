@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-29T13:00:00Z
 originalUrl: "https://www.seattletimes.com/seattle-news/real-duwamish-seattles-first-people-and-the-bitter-fight-over-federal-recognition/"
 webUrl: "https://www.seattletimes.com/seattle-news/real-duwamish-seattles-first-people-and-the-bitter-fight-over-federal-recognition/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Seattle Times
