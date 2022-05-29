@@ -70,20 +70,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Researchers use AI to predict cancer risk of lung nodules"
-    excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study."
-    publishedDateTime: 2022-05-24T15:17:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/953019"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ba1dff09-90aa-4f2b-bb4d-aa7eb7223b71/Rendition/low-res/Content/Public"
-        width: 700
-        height: 347
-        isCached: true
   - title: "AI-Based Tool Helps Physicians To Predict Cancer Risk of Lung Nodules"
     excerpt: "According to a study, an artificial intelligence tool can help doctors predict the cancer risk in lung nodules seen on CT."
     publishedDateTime: 2022-05-26T07:41:00Z

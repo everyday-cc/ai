@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for
 webUrl: "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Nvidia teams up with optical chip startup Ayar Labs to advance AI hardware"
+    excerpt: "Linking together chips is essential for many enterprise AI use cases. With the help of an interconnect, a company can connect multiple graphics cards with one another and use them to run its AI ..."
+    publishedDateTime: 2022-05-25T20:46:00Z
+    webUrl: "https://siliconangle.com/2022/05/25/nvidia-teams-optical-chip-startup-ayar-labs-advance-ai-hardware/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/ayar.jpg"
+        width: 958
+        height: 531
+        isCached: true
   - title: "Ayar Labs to Accelerate Development and Application of Optical Interconnects in Artificial Intelligence/Machine Learning Architectures with NVIDIA"
     excerpt: "Ayar Labs, the leader in chip-to-chip optical connectivity, is developing with NVIDIA groundbreaking artificial intelligence (AI) infrastructure based on optical I/O technology to meet future demands of AI and high performance computing (HPC) workloads."
     publishedDateTime: 2022-05-25T10:00:00Z

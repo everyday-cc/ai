@@ -24,26 +24,6 @@ images:
     height: 778
     isCached: true
 
-related:
-  - title: "Machine learning hiring levels in the retail industry rose in April 2022"
-    excerpt: "The proportion of retail companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 32% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-05-24T18:03:00Z
-    webUrl: "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-april-2022/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 33
-  - title: "Machine learning hiring levels in the automotive industry rose in April 2022"
-    excerpt: "The proportion of automotive manufacturing and supply companies hiring for machine learning related positions rose in April 2022 compared with the equivalent month last year, with 41.5% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-05-24T18:00:00Z
-    webUrl: "https://www.just-auto.com/features/machine-learning-hiring-levels-in-the-automotive-industry-rose-in-april-2022/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 16
-
 secured: "mRnFMLyotgsEavYP39NJt5oz7ecpQtKivgVgUKz+ZUnNCr9sU8GbIGONxpdNHmXarEJRf1sHlH9XpCt41wvrwVcDQZiYVa1oo0C+tBPErvhqdXucvkGQV4f5MPePrjAIXSrLi/4AYRI429CkaJ0sjz6dZkWk5Qoj9C+6maRZBotYNHCw4pPd0si/vnIirJxcec4dLJ1bKXFU4k+QtsMjB/2TYVFZjbxWnaBirCr6ZUYEdB99W2cFXe6bx5esu+aTVwrAbBxl5eMBqbEHzWS3DCsb5mqBP+AKTRSJkPB0Zn7G2fo5ZuHjdMeteZn90keFKsLUzJozUFO3AkKpExPdoYzNe5rOR3pudbQLOoXVrXA=;oBesWEc4c7yfTMyVLHvVsg=="
 ---
 

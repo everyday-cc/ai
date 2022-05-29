@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "April sees hiring boom in apparel machine learning roles"
-    excerpt: "The number of apparel supply chain firms hiring for machine learning-related positions rose in April compared with the same month last year."
-    publishedDateTime: 2022-05-26T10:50:00Z
-    webUrl: "https://www.just-style.com/features/machine-learning-hiring-levels-in-the-apparel-industry-rose-in-april-2022/"
+  - title: "Railway industry companies are increasingly innovating in artificial intelligence"
+    excerpt: "Analysis of patent filings shows a growing level of AI related applications in the industry over the past year"
+    publishedDateTime: 2022-05-25T08:00:00Z
+    webUrl: "https://www.railway-technology.com/analysis/railway-industry-companies-are-increasingly-innovating-in-artificial-intelligence/"
     type: article
     provider:
-      name: Companies
-      domain: just-style.com
-    quality: 39
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 47
     images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/27/2022/05/BlM6G-1038x778.png"
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/05/FK6AS-1038x778.png"
         width: 1038
         height: 778
         isCached: true

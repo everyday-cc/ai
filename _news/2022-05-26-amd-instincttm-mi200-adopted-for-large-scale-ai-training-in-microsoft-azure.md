@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft brings support for Arm-based AI chips to Windows"
-    excerpt: "With Project Volterra and software tooling, including from Qualcomm, Microsoft is making it easier to develop AI-accelerated apps using Windows."
-    publishedDateTime: 2022-05-24T15:03:00Z
-    webUrl: "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/"
-    ampWebUrl: "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 121
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/Build_Blog_Project_Volterra.png?w=680"
-        width: 679
-        height: 302
-        isCached: true
   - title: "Microsoft expands its AI partnership with Meta"
     excerpt: "Microsoft and Meta are extending their ongoing AI partnership, with Meta selecting Azure as \"a strategic cloud provider\" to accelerate its own AI research and development. Microsoft officials shared more details about the latest on the Microsoft-Meta partnership on Day 2 of the Microsoft Build 2022 developers conference."
     publishedDateTime: 2022-05-25T15:09:00Z
@@ -50,38 +34,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/2de2b1ed6198eabf6d34c116d16c495cfd2c5a8f/2022/05/25/bd51eb15-1abb-4761-b527-6d312c91ef59/aimodelsbuild2022.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 648
-        isCached: true
-  - title: "Microsoft's Intelligent Data Platform aims to unify data and analytics"
-    excerpt: "At its developer-focused Build 2022 conference today, Microsoft has announced a range of updates for its Azure services. The most interesting announcement deals with the Intelligent Data Platform."
-    publishedDateTime: 2022-05-24T15:12:00Z
-    webUrl: "https://www.neowin.net/news/microsofts-intelligent-data-platform-aims-to-unify-data-and-analytics/"
-    ampWebUrl: "https://www.neowin.net/amp/microsofts-intelligent-data-platform-aims-to-unify-data-and-analytics/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-intelligent-data-platform-aims-to-unify-data-and-analytics/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 106
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2015/06/img_0174_story.jpg"
-        width: 760
-        height: 506
-        isCached: true
-  - title: "Microsoft Tips Project Volterra Arm Hardware for Hybrid AI Development"
-    excerpt: "At Build, Microsoft also announced new ways to leverage its Teams collaboration platform and Windows 11 operating system. The metaverse got some play, too."
-    publishedDateTime: 2022-05-24T15:48:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-tips-project-volterra-arm-hardware-for-hybrid-ai-development"
-    ampWebUrl: "https://www.pcmag.com/news/microsoft-tips-project-volterra-arm-hardware-for-hybrid-ai-development?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-tips-project-volterra-arm-hardware-for-hybrid-ai-development?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 104
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04QaiwIk3lksY7Zopu4D8dU-6.fit_lim.size_1200x630.v1653405603.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
     excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
@@ -126,38 +78,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
-  - title: "Microsoft \"hybrid loop\" shows the foundation for AI-powered client / cloud computing"
-    excerpt: "If there's ever a place where you're likely to hear the direction that computing and applications are headed, Microsoft's developer-focused Build conference is probably it. True"
-    publishedDateTime: 2022-05-24T16:37:00Z
-    webUrl: "https://www.techspot.com/news/94699-microsoft-hybrid-loop-shows-foundation-ai-powered-client.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/94699-microsoft-hybrid-loop-shows-foundation-ai-powered-client.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94699-microsoft-hybrid-loop-shows-foundation-ai-powered-client.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 99
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-24-image-25.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft Teams and Power Platform to get more collaboration, AI-assisted additions"
-    excerpt: "Microsoft is previewing a bunch of new capabilities for Teams and Power Platform developers, including a new capability to scan images and create custom Power Apps controls directly from them."
-    publishedDateTime: 2022-05-24T15:18:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-teams-and-power-platform-to-get-more-collaboration-ai-assisted-additions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-teams-and-power-platform-to-get-more-collaboration-ai-assisted-additions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-teams-and-power-platform-to-get-more-collaboration-ai-assisted-additions/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3fb86b953c77bf9738c0b59a2c82268078cb9888/2022/05/23/8809b136-0adf-4e9b-abc8-9aa2b7010b6b/teamsliveshare.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 699
-        isCached: true
   - title: "Microsoft 2022 Imagine Cup Winner V Bionic Global Top Tech For Good"
     excerpt: "Microsoft Build, at the opening keynote by CEO and Chairman Satya Nadella, announced the final judging for the 2022 Imagine Cup global winner."
     publishedDateTime: 2022-05-24T20:27:00Z
@@ -190,22 +110,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Microsoft Build: New AI dev tools turn pictures into apps, summarize text, and write code automatically"
-    excerpt: "Build developer conference, which starts Tuesday morning, will provide a new glimpse of the ways that artificial intelligence is automating software development, and helping developers provide AI"
-    publishedDateTime: 2022-05-24T15:03:00Z
-    webUrl: "https://www.geekwire.com/2022/microsoft-build-new-ai-dev-tools-turn-pictures-into-apps-summarize-text-and-write-code-automatically/"
-    ampWebUrl: "https://www.geekwire.com/2022/microsoft-build-new-ai-dev-tools-turn-pictures-into-apps-summarize-text-and-write-code-automatically/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/microsoft-build-new-ai-dev-tools-turn-pictures-into-apps-summarize-text-and-write-code-automatically/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 88
-    images:
-      - url: "https://i.ytimg.com/vi/vL7aFxkTYEU/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Microsoft’s “Project Volterra” brings support for ARM-powered AI chips to Windows"
     excerpt: "Microsoft, at its annual event - Build 2022, announced Project Volterra, which will let you explore many AI scenarios"
     publishedDateTime: 2022-05-25T05:32:00Z
@@ -221,22 +125,6 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2022/05/maxresdefault.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft Unveils Foundation For AI-Powered Client/Cloud Hybrid Loop"
-    excerpt: "At Microsoft’s Build conference, the company featured what it called the “hybrid loop”, which defines a set of hybrid apps that span the gap between the cloud and client devices on the edge."
-    publishedDateTime: 2022-05-24T15:30:00Z
-    webUrl: "https://seekingalpha.com/article/4514060-microsoft-ai-powered-client-cloud-hybrid-loop"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4514060-microsoft-ai-powered-client-cloud-hybrid-loop"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4514060-microsoft-ai-powered-client-cloud-hybrid-loop"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 76
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1316144933/image_1316144933.jpg?io=getty-c-w750"
-        width: 750
-        height: 422
         isCached: true
   - title: "Startup, Microsoft collaborate to simplify AI healthcare research"
     excerpt: "An artificial intelligence data security company is collaborating with Microsoft to advance AI healthcare research. BeeKeeperAI, a startup specializing in data confidentiality and intellectual property protection,"
@@ -384,34 +272,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Hugging Face Endpoints launched on Microsoft Azure"
-    excerpt: "Hugging Face has announced a partnership with Microsoft to democratise machine learning through open source collaboration and make the Hugging Face machine learning platform accessible to Microsoft Azure customers."
-    publishedDateTime: 2022-05-24T15:08:00Z
-    webUrl: "https://analyticsindiamag.com/hugging-face-endpoints-launched-on-microsoft-azure%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/banner-1.jpg"
-        width: 904
-        height: 508
-        isCached: true
-  - title: "The 15 Biggest Azure Announcements At Microsoft Build 2022"
-    excerpt: "Microsoft talked about Azure OpenAI Service, Azure Machine Learning, Azure Kubernetes Service, Microsoft Intelligent Data Platform, Azure Cognitive Services, GitHub Copilot, Purview and other tools and services during its annual Build conference this week."
-    publishedDateTime: 2022-05-24T15:04:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/the-15-biggest-azure-announcements-at-microsoft-build-2022"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0275-1538ba7eb7c9-a9de54ff4c52-1000/microsoft-azure-sign-2.jpg"
-        width: 499
-        height: 375
-        isCached: true
   - title: "Microsoft’s New Executives Helping Win At Cloud, AI, Devices"
     excerpt: "A vice president of products for Azure Cognitive Services, a vice president of global payments ... and Surface PC products are some of the biggest executive hires from Microsoft so far this year. Marco Casalaina, Ajith Thekadath and Ashley Hart are just ..."
     publishedDateTime: 2022-05-27T16:21:00Z
@@ -425,6 +285,20 @@ related:
       - url: "https://www.crn.com/resources/0273-14ca68934881-e516329f3f1a-1000/microsoft-sign.jpg"
         width: 608
         height: 457
+        isCached: true
+  - title: "Microsoft's metaverse rival Meta chooses Azure as strategic cloud provider"
+    excerpt: "Meta, formerly known as Facebook, has chosen Microsoft Azure as a strategic cloud provider for A.I. research and development"
+    publishedDateTime: 2022-05-25T15:53:00Z
+    webUrl: "https://www.onmsft.com/news/meta-chooses-azure-as-strategic-cloud-provider"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 52
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/10/Facebook-to-meta.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
     excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
@@ -462,20 +336,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/471179856/image_471179856.jpg?io=getty-c-w750"
         width: 750
         height: 500
-        isCached: true
-  - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
-    excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
-    publishedDateTime: 2022-05-24T15:28:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/the-biggest-microsoft-teams-and-m365-announcements-at-build-2022"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0275-1538c35de474-17eea5c1c4ae-1000/teams-windows11.jpg"
-        width: 610
-        height: 458
         isCached: true
   - title: "The biggest Microsoft Teams, M365 announcements at Build 2022"
     excerpt: "Previews for Loop components across Teams chats and Outlook emails and collaboration controls in Power Apps are among the biggest announcements for Microsoft’s popular collaboration application during this year’s Build conference."

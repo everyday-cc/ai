@@ -7,7 +7,7 @@ originalUrl: "https://www.phonearena.com/news/google-working-on-assistant-voice-
 webUrl: "https://www.phonearena.com/news/google-working-on-assistant-voice-recognition-feature_id140429"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Google Assistant could soon get even better at understanding your voice"
+    excerpt: "Google Assistant can already recognize your voice from others and pick up what you're saying pretty well, but even more improvements look to be on the way: references to \"personalized speech recognition\" have started popping up in the code of the Google app for Android."
+    publishedDateTime: 2022-05-29T09:30:00Z
+    webUrl: "https://www.techradar.com/news/google-assistant-could-soon-get-even-better-at-understanding-your-voice"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/F38KrNq63T7nzfffDttyHh-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Working On New Technology To Improve Voice Assistant Feature"
+    excerpt: "In a nutshell, Google might store audio recordings of users on the device and use them to improve its voice recognition technology. Read more details here."
+    publishedDateTime: 2022-05-29T09:06:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 44
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/enyzvk1csowbsbbl_1653809787.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Google Assistant will soon recognize your voice"
     excerpt: "A comprehensive dissection of the Google app for Android has revealed potential plans for improving the Google Assistant feature. Of course, those deep dives into the APKs aren't always accurate and some functionalities may not end up in future versions."
     publishedDateTime: 2022-05-28T17:30:00Z
@@ -35,6 +65,6 @@ related:
       domain: gsmarena.com
     quality: 4
 
-secured: "qcvsWzJiuRw4iUJaW2HAVmHxXr7tY2cNL/7DvEK6BQSvaIGvS+AUKh2cJ2DVaOpZQUA9TjpMOmps3wv8p/HYVQ4JGoZofH+uMzFHheeQZZWoeZOxqEhBQla11Hreyt8zzSW8HTRRmcggmtW+Zh/I5kFUF1hMGstu3udTAkCpp2KXCyRXuPbggzy7ROsNvhLKCNTEFwdP6AdMCEiDyfeVGYtcum3pexxhjZu/pG/DvDDqi9EslVjQUSi4hqxL2JqQXKwf32Cd+vOqEelH3UU9jFgdQ9jbD5W8LK2V1JRPNyxHwiarZcg0jmETYRv1ddxhQww0wC56Y+ik/oXJhQDEHtk0tVoW84vLFrD4hYp1nNI=;o4fLMSwgLa1Uwf3X3tfxeg=="
+secured: "a8fPIhGRXCzzEKoULKZbP8w3D27s77cDfzOZ5ph6o6XgKqpitCG1lCH0cnpj+g67ndzeCGQC8cBSTWfWFLcH4sCpuWmsDAuFD/EozgAane0OpWWDA/VXy70CmqywIvHAIEoqd4pqZpP6+1JNVrg/Eq7EdUttuEirVdSQ/EnQfCW97QJJ0mqYMfMz6TghXCOTLeoev86JydOr/hFCJpFPo+I5GFgmdw2/zgNnYP/EqmlcgSe9bDRsQ4S5x8R4hmTQCweFFqe4EAT0Dm25N01B6DrPyQ/CPUJpDAg7q6MYZeGftAvVBmQa3fXBgDtqLxYBPOYmZ7opwsFX/zPVJGYFCKZT6+kCQJTxAHf03sw4/exuULD+GCt/kvkCnA1AWQmEiquo0rXGILDgWBBdRBY77lIZvM41wmBF6UobfvXFp00ByXGfYQ+nn5cbCHyfGWmAbqK4UlBvA4NcXI+PuHxPs0Fdo5/Rg8X0sRMV+xaJP+WC4P5JyWvnqSTGA5NLf2S3rRq3AuWw7xp9j4ZuxW0prA==;MD+HrvT0MQUlDyLSV4Lazw=="
 ---
 

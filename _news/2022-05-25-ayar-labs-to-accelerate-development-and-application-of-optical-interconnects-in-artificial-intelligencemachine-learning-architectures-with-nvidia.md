@@ -28,6 +28,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 78
+  - title: "Nvidia teams up with optical chip startup Ayar Labs to advance AI hardware"
+    excerpt: "Linking together chips is essential for many enterprise AI use cases. With the help of an interconnect, a company can connect multiple graphics cards with one another and use them to run its AI ..."
+    publishedDateTime: 2022-05-25T20:46:00Z
+    webUrl: "https://siliconangle.com/2022/05/25/nvidia-teams-optical-chip-startup-ayar-labs-advance-ai-hardware/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/ayar.jpg"
+        width: 958
+        height: 531
+        isCached: true
 
 secured: "wLLMEoXKlBotCkTv0yUDGbpEsMaYJ5ElMSOa3L7Ttskr+++py878xK2G64LVCpEjH6G5dXWCALK23gDTEH6lZAwcznJreJLEo+vyEgq/gqNDPtluYgxMGTaJQCjNNaz34ItH+uoybHXMjWGLUMqv6GxLlnr6EtEwIzuvE63loFLZ65D1sbj3SbRgd0yQIiGYzPAjL2cEnt8HnbyM7qxFJ5l+yixTQFVTMluCtVfcuJURDXJZLwNYKqEl86pJQ0ytUUNvQbQznuNw3FXKDeA4C9YdyDZQ+8qIaD2E4AjOul2QSFZGOdv0eCNMzQUlw+fmsc/o9v2qnvv/Ac0RwjFKA/SMFbqBH20FwrhY39DMhJQ=;pCClYLB35p4JBzDUNzjqOw=="
 ---

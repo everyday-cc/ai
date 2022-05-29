@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/products/u-s-army-artificial-intelligence-
 webUrl: "https://www.govtech.com/products/u-s-army-artificial-intelligence-unit-relocates-in-pittsburgh"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Pittsburgh-based Locomation showcases self-driving truck technology"
-    excerpt: "Pittsburgh-based Locomation, a company developing self-driving trucks, touted its technology Monday when they invited state leaders to tour its Lawrenceville facility. Department of Community and Economic Development Acting Secretary Neil Weaver and Deputy Secretary of Technology and Innovation Steve D’Ettorre visited the site,"
-    publishedDateTime: 2022-05-24T15:23:00Z
-    webUrl: "https://triblive.com/business/pittsburgh-based-locomation-showcases-self-driving-truck-technology/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 24
-    images:
-      - url: "https://assets-varnish.triblive.com/2022/05/5081251_web1_ptr-Locomation2-052422.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "rnnPhrx6x0euLyw0uaxCl+TN9mEBpmha6TSEg9mGbsbsvkteJ1cb0s5EGjVM1TngmdsDL3bbG2CvfwQamBkJyzk/YN58epJ5Nncg6Hb7UPzeBnosw0u2kV84e0DI8KBtrAgn77eexiRxvymC7kYpO6F6HBM8e+O+sBJV9k2RnYaBK/8LN4LhBtG0ysiCwacXN2QAcJvd+Qm6JkhPTJaSqA50bcvlutyySamfShoXdHJ9ji0mYN/3KVkYMx81Vxu2bBQe+Es5krBIucp6Q6rVlZ2zpK56+bxDOEHaKPQ73GcCI0kJkkEChSjW2OEtD8N/TxhoFg6xFi4eVA2Xto8Q2lzFqIPGt3zwapQryzEQTiga8I3uSKqKHTa9mYKPrNm6lsj+bmRMNxY1Y204rgS7BxCtD5mVrWZM345DdamVfCkLmN3uZlhMg2XIA7BVYeGVa4X+vVs24TYWY/xdcSGT0BniJ+z6sv5hcK37UxU99XoIT09eWCBsnn/YnaZ7/PgzvzIw6K4X2xZKePLDXfqR5g==;fMfwyXwJcbXMpPMGMv+W9g=="
 ---

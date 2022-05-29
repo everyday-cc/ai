@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Resecurity Brings AI-powered Cyber Threat Intelligence to Singapore"
+    excerpt: "California-based cybersecurity company showcases innovative cyber threat intelligence and digital risk management technologies at Milipol Asia-Pacific 2022 (APAC) LOS ANGELES, May"
+    publishedDateTime: 2022-05-29T09:37:00Z
+    webUrl: "https://www.koin.com/business/press-releases/cision/20220529LA72450/resecurity-brings-ai-powered-cyber-threat-intelligence-to-singapore/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 37
+    images:
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
+        width: 800
+        height: 340
+        isCached: true
   - title: "Singapore, Japan ink agreements on promoting start-ups, digital transformation for governments"
     excerpt: "SINGAPORE: Singapore and Japan have inked two agreements on promoting the flow of entrepreneurship between both countries and enhancing their governments’ digital transformations.  The signing of the"
     publishedDateTime: 2022-05-26T13:24:00Z

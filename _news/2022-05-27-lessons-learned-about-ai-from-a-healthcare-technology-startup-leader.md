@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "First UK Authorized Dealer Signed for AI Robotics Leader: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
-    excerpt: "(RAD) has signed its first authorized dealer in the United Kingdom and has received an order for a ROSA security robot. Additional details, including the name of the new dealer will be released in the future."
-    publishedDateTime: 2022-05-24T15:36:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 40
 
 secured: "bmjMUr9K+4m3TuUzsiHWnnkavodYbD+08haQ0p0dxiYE1SCLLfcjd8jbc5Qvgt4m0uaAmM8Y/HiV2p8J+WXMPjjqW634BxWxSPUdJPoxYBesOqv6jfbvnZIweN+wlf2SrR4n0XSpRhk4yAH9N/dCIZ+ufJKlZ8slbhbXakFeIZL3Mnn9QL9Frr7hlK131V/bZ5WzG/uJCBnYNtFLDsExVbovpu3kQ6g+96ct6j11UsnobLfDaAHSm+gwvj3FaSV8gjxlhdouO97/6xl00eIgrhvwI3ZJmYOj3ot17Brft4aX4r5wgHweypj2wDLzw0iLxS0s4ce+MdD+RtmAq65sS+M23BVaAhRKm19iqMKN4kiAo5SDVKGkRNE7TcAQblar/uC7Crk9oax/2MRndEo5E7AkzRzWZ87I4h6MtBuHe5sitMxTOhJPRAyhTMxsY3168eVYBYws0BlLeRI0MCpu8+OkYLpGy7/iMsC1cR905ieQ8he1Oukx+hNuQ/ZiqqB61tkkcBar8QEaBKrzl3baBQ==;2FgfYSHyDWS28ai9MUkcKg=="
 ---
