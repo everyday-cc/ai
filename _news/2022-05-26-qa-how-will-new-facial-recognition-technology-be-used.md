@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Garda to use facial recognition technology"
-    excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
-    publishedDateTime: 2022-05-24T23:01:00Z
-    webUrl: "https://www.irishtimes.com/news/crime-and-law/garda-to-use-facial-recognition-technology-1.4887298"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 41
-    images:
-      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Police use of facial recognition technology could soon be under review"
     excerpt: "Lawmakers who sponsored the bill said artificial intelligence software has become a common part of everyday life despite the potential civil liberty issues it poses."
     publishedDateTime: 2022-05-24T17:45:00Z
@@ -62,20 +48,6 @@ related:
       - url: "https://wp-cpr.s3.amazonaws.com/uploads/2022/01/161109-CHAMPA-KEVINJBEATY-07.jpg?resize=1200,600"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Maxxess adds facial recognition authentication to eVisitor with SAFR integration"
-    excerpt: "YORBA LINDA, Calif.—Maxxess, a global corporation specializing in security management solutions and innovative technologies, has added advanced facial recognition authentication to its eVisitor visitor management solution for access control, with off-the ..."
-    publishedDateTime: 2022-05-24T14:40:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/maxxess-adds-facial-recognition-authentication-to-evisitor-with-safr-integration"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 34
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "pwxQdYImmku2g7rfpxVaV3Lb+MEdnk05aQ0N1Bs6l5QlbzW6lBmzL7mVqXZrJM8HRSD+pY2XtU4jcXLlBxnl0byXQoofDeVFCtAYE7u4PWQWb7NNtrSz62WKuEb9hlSKt9RauLx3V9wXWLAsXxOwH74y5wO/2bUBsmbJmwZgVZPGksue4zh8ulJ2VswROLcggpiRY9go4Uv79v9/t+EGbN+xGunDVT83izDvss8XAG7L2jVd2JRyV5ltZava9yNeBcoDKEaEQ4k41/ZK3hbWmRRVhqWcZLOz4kmU+mEguwwhICXv1Xh72gdZDu1JaeVeyTeL7efulBkRqo54XiXC2q/31wp7mIEJjZ3rQLCeC54=;rnP2N0n7xb8aRsy1Cd6dtw=="

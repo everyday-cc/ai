@@ -38,22 +38,6 @@ related:
         width: 2560
         height: 1439
         isCached: true
-  - title: "Using Artificial Intelligence To Combat Wildfire Risk"
-    excerpt: "The increasing intensity and frequency of wildfires has government agencies, researchers, and enterprise weather companies, often in collaboration with utilities, investing in new technology and tools to help prevent and mitigate wildfire risks."
-    publishedDateTime: 2022-05-24T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/rennyvandewege/2022/05/24/using-artificial-intelligence-to-combat-wildfire-risk/"
-    ampWebUrl: "https://www.forbes.com/sites/rennyvandewege/2022/05/24/using-artificial-intelligence-to-combat-wildfire-risk/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rennyvandewege/2022/05/24/using-artificial-intelligence-to-combat-wildfire-risk/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//628ce3b2679ffd8cb97857e8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 806
-        isCached: true
   - title: "Case Western Reserve signs license agreement to bring groundbreaking AI for helping cancer patients"
     excerpt: "When Case Western Reserve University research showed that artificial intelligence (AI) could identify which lung cancer patients would benefit from chemotherapy, a national magazine called the finding one of the \"10 Most Incredible Medical Breakthroughs of 2018."
     publishedDateTime: 2022-05-25T23:44:00Z

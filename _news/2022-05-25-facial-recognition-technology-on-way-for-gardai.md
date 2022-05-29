@@ -57,22 +57,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "We are unbiased in use of data and nobody is surveilled without consent: KTR on facial recognition in Hyderabad"
-    excerpt: "Telangana's IT and Industries minister KT Rama Rao defended the usage of facial recognition in the State and claimed that the government is unbiased in the use of data and that nobody is surveilled without consent. Speaking on the use of artificial ..."
-    publishedDateTime: 2022-05-24T14:00:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/we-are-unbiased-in-use-of-data-and-nobody-is-surveilled-without-consent-ktr-on-facial-recognition-in-hyderabad-8569041.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/we-are-unbiased-in-use-of-data-and-nobody-is-surveilled-without-consent-ktr-on-facial-recognition-in-hyderabad-8569041.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/we-are-unbiased-in-use-of-data-and-nobody-is-surveilled-without-consent-ktr-on-facial-recognition-in-hyderabad-8569041.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 39
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2020/06/Face-recognition_.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facial recognition technology ‘not advanced enough’ for use by Garda"
     excerpt: "Amazon had been selling its controversial Rekognition software to police forces in the US. But along with other industry big-hitters Microsoft and IBM, it suspended sales for law enforcement purposes in 2020 after a backlash over police brutality and the ..."
     publishedDateTime: 2022-05-25T19:20:00Z

@@ -80,15 +80,6 @@ related:
       name: Quinnipiac University
       domain: qu.edu
     quality: 19
-  - title: "KDD 2022 Opens Registration for the Premier International Data Science and Analytics Conference"
-    excerpt: "Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD) today announced registration is open for KDD 2022, which will take place Aug. 14-18, 2022 in Washington, D.C. at the Walter E. Washington Convention Center."
-    publishedDateTime: 2022-05-24T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kdd-2022-opens-registration-the-premier-international-data-/2022/05/24/9608105.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "yBxwHhlpledBH3OjgRBtIl32uSzm/DBAyT7QQTM7egEKkho6GoBDuSdeZoATfecurN51cjYqs25HzKmAyoBtP9DCGIsOZjFmHKsy1B4s5oNb/Q6EUmQbrunQDHg0X6WfqEFx8+thsQN2VT8xiJlPtcW9UkE0Bi5JVfUX7o390uWRcsFVNEaWh5Pv2lU/dDRePpabd3WAKV2zpbOqZntTiE5bf3evnYgPoNzMpa2usWW2C7T56A91mlUeTT2duJa1ggpjnB0bJTGteFoSjX6IVCMsNSL4KXli0ki+EL/A5pNGEk8dzABnpodv/I+H7in5mxQZjoLn6kHcSX8q8XyW8HehahD7O+4YxdjhDtsRu59xf30woXx2M2L0OPzWq0BFVQ4umXLXPZcbTY27BspLpaI/ZALu16avPFWaoDywwx8dlkh2DuRR+f0ioWYjss/Yy2hK/iZa2Zj96bfWizp2WP3TlQjJ4v1Kjlx2hdrHT+s6l2wF1ZsNJkRYaLxDGDwMitbOZRva/0Nywf6GW9eZXg==;I4Xdtgh+6mdWwL4WICbA7w=="
 ---

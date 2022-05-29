@@ -41,34 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Garda to use facial recognition technology"
-    excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
-    publishedDateTime: 2022-05-24T23:01:00Z
-    webUrl: "https://www.irishtimes.com/news/crime-and-law/garda-to-use-facial-recognition-technology-1.4887298"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 41
-    images:
-      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Maxxess adds facial recognition authentication to eVisitor with SAFR integration"
-    excerpt: "YORBA LINDA, Calif.—Maxxess, a global corporation specializing in security management solutions and innovative technologies, has added advanced facial recognition authentication to its eVisitor visitor management solution for access control, with off-the ..."
-    publishedDateTime: 2022-05-24T14:40:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/maxxess-adds-facial-recognition-authentication-to-evisitor-with-safr-integration"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 34
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Q&A: How will new facial recognition technology be used?"
     excerpt: "Facial recognition technology is touted as one of the most powerful surveillance tools ever invented. It is hailed by proponents as a justified means of catching criminals and terrorists as well as helping to identify victims and the vulnerable."
     publishedDateTime: 2022-05-25T19:23:00Z

@@ -40,20 +40,6 @@ related:
         width: 904
         height: 732
         isCached: true
-  - title: "How AI makes developers’ lives easier, and helps everybody learn to develop software"
-    excerpt: "The post How AI makes developers’ lives easier, and helps everybody learn to develop software appeared first on The AI Blog.\n"
-    publishedDateTime: 2022-05-24T15:00:26Z
-    webUrl: "https://blogs.microsoft.com/ai/how-ai-makes-developers-lives-easier-and-helps-everybody-learn-to-develop-software/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/05/AI-is-making-dev-life-easier-social-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Federal Advisory Group Report Focuses On Diversifying AI Research and Development"
     excerpt: "The National Artificial Intelligence Research Resource Task Force issued a report outlining a framework for national AI research and development, hinting on equitable datasets and computing access."
     publishedDateTime: 2022-05-25T18:32:00Z

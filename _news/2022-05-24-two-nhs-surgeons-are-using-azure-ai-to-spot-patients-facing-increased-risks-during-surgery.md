@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-usi
 webUrl: "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/"
 type: article
 quality: 94
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using Artificial Intelligence To Combat Wildfire Risk"
-    excerpt: "The increasing intensity and frequency of wildfires has government agencies, researchers, and enterprise weather companies, often in collaboration with utilities, investing in new technology and tools to help prevent and mitigate wildfire risks."
-    publishedDateTime: 2022-05-24T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/rennyvandewege/2022/05/24/using-artificial-intelligence-to-combat-wildfire-risk/"
-    ampWebUrl: "https://www.forbes.com/sites/rennyvandewege/2022/05/24/using-artificial-intelligence-to-combat-wildfire-risk/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rennyvandewege/2022/05/24/using-artificial-intelligence-to-combat-wildfire-risk/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//628ce3b2679ffd8cb97857e8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 806
-        isCached: true
   - title: "Railway industry companies are increasingly innovating in artificial intelligence"
     excerpt: "Analysis of patent filings shows a growing level of AI related applications in the industry over the past year"
     publishedDateTime: 2022-05-25T08:00:00Z

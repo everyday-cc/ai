@@ -45,17 +45,6 @@ related:
         height: 450
         isCached: true
   - title: "Clearview AI's facial recognition tool coming to apps, schools"
-    excerpt: "Clearview AI is expanding sales of its facial recognition software to companies from mainly serving the police, it told Reuters, inviting scrutiny on how the startup capitalizes on billions of photos it scrapes from social media profiles."
-    publishedDateTime: 2022-05-24T14:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools"
-    ampWebUrl: "https://www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
-  - title: "Clearview AI's facial recognition tool coming to apps, schools"
     excerpt: "The facial recognition software is being sold to companies which serve the police which has led to increased criticism"
     publishedDateTime: 2022-05-25T06:09:00Z
     webUrl: "https://tribune.com.pk/story/2358285/clearview-ais-facial-recognition-tool-coming-to-apps-schools"
@@ -172,15 +161,6 @@ related:
         width: 415
         height: 539
         isCached: true
-  - title: "UK privacy watchdog fines Clearview AI £7.5 million for breaking data protection laws"
-    excerpt: "The UK Information Commissioner’s Office has fined facial recognition firm Clearview AI £7,552,800 over its use of images of people’s faces and data from publicly available information."
-    publishedDateTime: 2022-05-24T13:16:00Z
-    webUrl: "https://www.csoonline.com/article/3661811/uk-privacy-watchdog-fines-clearview-ai-7-5-million-for-breaking-data-protection-laws.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 10
   - title: "Clearview’s Selfie Authentication Business Begins Operations"
     excerpt: "Embattled facial recognition specialist Clearview AI has already started to win business from its expansion into the commercial market."
     publishedDateTime: 2022-05-26T12:14:00Z

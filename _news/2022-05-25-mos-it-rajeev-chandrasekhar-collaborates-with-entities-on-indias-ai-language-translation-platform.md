@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-coll
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/mos-it-rajeev-chandrasekhar-collaborates-with-entities-on-indias-ai-language-translation-platform-13601902.htm/amp"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IT ministry holds brainstorming session with startups on AI, language technology"
-    excerpt: "The meeting was chaired by Minister of State for Information Technology Rajeev Chandrasekhar. The new initiative, named Digital India BHASHINI or BHASHa INterface for India- is a part of the National Language Translation Mission."
-    publishedDateTime: 2022-05-24T14:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/articleshow/91770359.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-79986,msid-91770378/eds-handout-photo-made-available-from-pib-on-thursday-feb-24-2022-new-d-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Digital India BHASHINI: 73 Startups Attend Session To Shape Strategy For AI-Led Language Translation Platform"
     excerpt: "MeitY on May 24 held a virtual brainstorming session to shape strategy for the country’s AI-led language translation platform, BHASHINI."
     publishedDateTime: 2022-05-25T01:30:00Z

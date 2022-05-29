@@ -54,6 +54,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Cognitive Media Market Provides an In-Depth Insight of Sales, Trends and Forecast"
+    excerpt: "The world class Global Cognitive Media Market report involves use of latest tools and techniques for researching, analysing and gathering of data and information. This market research report ..."
+    publishedDateTime: 2022-05-26T11:42:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-provides-an-in-depth-insight-of-sales-trends-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Texas-massacre-USA-flags-AFP-1K-011-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Artificial Organs Market Share 2022-2027, Bolstered by Significant Growth of Healthcare Industry"
     excerpt: "According to the latest report by IMARC Group, titled, “Artificial Organs Market Share: Global Industry Trends, Size, Growth, Opportunity"
     publishedDateTime: 2022-05-25T07:22:00Z

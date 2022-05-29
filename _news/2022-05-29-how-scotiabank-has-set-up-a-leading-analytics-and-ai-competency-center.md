@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/29/how-scotiabank-has-set-up-a-leading-analytics-and-ai-competency-center/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -83,16 +83,7 @@ related:
       name: Quinnipiac University
       domain: qu.edu
     quality: 19
-  - title: "KDD 2022 Opens Registration for the Premier International Data Science and Analytics Conference"
-    excerpt: "Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD) today announced registration is open for KDD 2022, which will take place Aug. 14-18, 2022 in Washington, D.C. at the Walter E. Washington Convention Center."
-    publishedDateTime: 2022-05-24T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kdd-2022-opens-registration-the-premier-international-data-/2022/05/24/9608105.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
-secured: "bru1grZrJL7nRQ4Mn64fkd/yDAyDm8uhsAB1zXaAXBJXjkaqjw+pYDa4G2v97ZiohO8WWZn72EVVrLvHugJ4SfyGw1FbAoN/1Omu07nD5xBFfVYKue+6Y7DPUy4LOGeB5fGJ7OvKV2Qy2Q5taZEHk1U3Mm619VHP+5oEMPcLpjVG9E/+Zhv/HgRdFzSNFRh2Bn5VUnae/VJea74e/tIqnV3/drUewHJMMGpsNxu0Qclp6GzmaooZcafW6FnSqOOemDzJwvayIyoDc1+VMXLvsBSBcNNwk/1eYksmi2kY7iakbflzXa1aGEJ+qSlwdvvOwH0xNpO32SBN9LYWDPbdj33qbapS7MqucRlvrOtZDnU=;n7nKNo/m4aT50H0fex0f6w=="
+secured: "X1/iDmmaXhF7OA26XpDW1bGVJzRu8fHF3FXXsFAOlM7tAXDXNe+w0rEMChEXPqUt0UR5E6iywKl9JaOm19/Xx2moxczMhQR0W7/0lDsnR/uj4Ha92M9S5Kl0wHt9YYAXwraf17sQhLRptDcmagYPPjIi3iPzY8odpMj21hzTsxuoM5Sb0qfzUrsEew4/ytNsr2IDeb+6MSAvJOcsGE69FEzBbFJ/RWIQl85uWdQlEZA0xxvTN401BfVDdGpfRAnQ97oLhJqEbhOrLVGYzLo/vHuCerUh1fKBmYcnTeSimB0q5FguumXyiysjdDVLs5EBrxC8PWK7w6JGNPPxba7ssukW2MsysH69u5dJaCLYvZYEta6TZ5BVglwgu4cZb1i9BP69NHgGF+aeVJcWGW0nfAxKrBgpF1rXyxUabQe+LWnQ54VLnDDNKZIE4xUMnzQosqNTn7yvPHBAiVTvlKxiUIQcFotXj/SJUyYds308dDECCeoNkJt5sb0rhJGsqatPupQy93Adsu8EHa+hGaOTkg==;FasMVB/ZbtjwhujWElD2lg=="
 ---
 

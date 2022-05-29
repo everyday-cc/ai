@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "KDD 2022 Opens Registration for the Premier International Data Science and Analytics Conference"
-    excerpt: "Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD) today announced registration is open for KDD 2022, which will take place Aug. 14-18, 2022 in Washington, D.C. at the Walter E. Washington Convention Center."
-    publishedDateTime: 2022-05-24T13:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-kdd-2022-opens-registration-the-premier-international-data-/2022/05/24/9608105.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "82lusW8EdD3O0xpa9eLkE0i668waR+seL97tYHGG8KuvGeERj5a8So3juq5Lgc/yqxeiZH0ZzsBFVnFrU3o6GdRsGOKsInebC1y/NAzZsRlT0Ta0ncZUqVdL1ihB/I7IsaoFEubYZKnVF+7QVzEqqt+G4UQW38Dd7JlIVagtb0ke5UYKLueJx4bTmVzBWbKfNTBoQxBlnhQoruKJ0NN4MFdtYsVBbWKdiV0GBi7V6ZLFqKalwmNcd468sfUxrf4Smqlxo7JMwx3C4IaXU+YZh2f8OvYpBSYSN0N7xIuY881dK3cdkWGDHsM5sBPOnjuhc5IL91U36C03j9TMFP83F7mPN30vbsMaQ6w9wp5WvJWkWijRzhYf8UhBPbtrrBuR4iBLC1l2YOnXtzh0bS89vSgbtBQSxjJmDBHuZPcpEsG72AcPlPZmnArNs0bkc8Rz+KGMrd/nmtQO9T1iqJhjvL4+ommIF5Ln5rdA9uT2RBZw09fQKnFMuPiEt7HRCHnH++UrzIErx8c4u3cY7Tovvg==;m8JCMin5mj4dXKozHh79Lw=="
 ---

@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "DERMALOG and Rheinmetall join forces for increased vehicle security"
-    excerpt: "With the founding of the joint venture Rheinmetall Dermalog SensorTec GmbH, the technology group Rheinmetall and the biometrics company DERMALOG are aiming to bring enhanced safety to road traffic. The objectives of the partnership include the development of a next-generation driver monitoring system."
-    publishedDateTime: 2022-05-24T14:04:00Z
-    webUrl: "https://www.fox46.com/business/press-releases/cision/20220524LN66354/dermalog-and-rheinmetall-join-forces-for-increased-vehicle-security/"
-    type: article
-    provider:
-      name: fox46
-      domain: fox46.com
-    quality: 21
   - title: "Dermalog biometrics to power driver monitoring system through auto group partnership"
     excerpt: "The new Rheinmetall Dermalog SensorTec GmbH will develop a system utilizing biometric technology to detect driver distraction and deliver a warning."
     publishedDateTime: 2022-05-24T18:48:00Z

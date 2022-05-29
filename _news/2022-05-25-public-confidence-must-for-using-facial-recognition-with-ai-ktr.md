@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recogn
 cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/25/w600X390/Facial.JPG"
         width: 600
         height: 390
-        isCached: true
-  - title: "We are unbiased in use of data and nobody is surveilled without consent: KTR on facial recognition in Hyderabad"
-    excerpt: "Telangana's IT and Industries minister KT Rama Rao defended the usage of facial recognition in the State and claimed that the government is unbiased in the use of data and that nobody is surveilled without consent. Speaking on the use of artificial ..."
-    publishedDateTime: 2022-05-24T14:00:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/we-are-unbiased-in-use-of-data-and-nobody-is-surveilled-without-consent-ktr-on-facial-recognition-in-hyderabad-8569041.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/we-are-unbiased-in-use-of-data-and-nobody-is-surveilled-without-consent-ktr-on-facial-recognition-in-hyderabad-8569041.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/we-are-unbiased-in-use-of-data-and-nobody-is-surveilled-without-consent-ktr-on-facial-recognition-in-hyderabad-8569041.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 39
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2020/06/Face-recognition_.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Facial recognition technology on way for gardaí"
     excerpt: "The Minister for Justice plans to introduce facial recognition technology to enable gardaí conduct rapid automated searches for suspects in criminal investigations."

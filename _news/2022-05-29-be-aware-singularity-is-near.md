@@ -2,9 +2,9 @@
 category: news
 title: "Be aware: Singularity is near"
 excerpt: "The singularity is a conceptual and meta-physical term. When it comes to technological jargon, the singularity is often described as a point in time when innovation reaches critical mass. At critical mass,"
-publishedDateTime: 2022-05-29T04:58:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/05/795_329911.html?fl"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2022/05/795_329911.html?fl"
+publishedDateTime: 2022-05-29T07:15:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/opinion/2022/05/795_329911.html"
+webUrl: "https://www.koreatimes.co.kr/www/opinion/2022/05/795_329911.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=329911"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=329911"
 type: article
@@ -20,6 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "7OPp2AuqHIctsLMjNKmOnGt1yUS450zX6kt1cXN6QnAoKsm2pv2cI5Uezax27DPAyChdhkrdkJi0bNNpYpeIbO8shTwHtollW6Pn23dSi4qvzFkyndoJ4/gf3woTrmpWs7g2b3S8lOjmZkzszYPdbM0gyF3fIc87AUj/hGVx5o1xEVTvTs6KD6eadiUj/RlITPIenbmQy404AMsmMqltMbPqCRnHHwtgIGKmkFwjqAlemK91QN0ljHyV4r3sL0GQFXTE5J855mSHbVLmhB8zvykV20OAETfQ0rcNRGr4S//E9jPciw92LloAEfHvIRRgH3tqJYp/n8yaAuDrvBzJwHbAiqNo0hkUDA0LXjkY7x4YQdF7LMMzC6LGN2VFVRtayWIou6BTXlQ62wvCFSskLDCjaDj7avOrSNd9y/dmxvZXmcu6RhQ7ciG2Im5VKJarZMaAGr+KnoeHMJEeke4LrNaCxaanUMALDgTZ+LohArHHtHY2I3AAeu6GMFRyXa+6olUF8erpVrAA8WYXiEmaqg==;1PjT+qeqfDC1G4y4kSiQrg=="
+secured: "T1eyvEAWZrOopMygu8VNGHHUwLc8ZJZp55RD7oxrlGN+vFq2dml+owrXa+KJmgDiASQmzrahcBdA5CtVnsG2utUEVzGjhJjz1QLfFs71f6eJyOdc8VpM2aTeO0cAawVpybAc3zSrUHG06yycRBeQlNSzSv6IBSh+9EftIxAfc7BW3K3OtDgQW7brb0bJ7TYhe8n5v7BVrIWGfjsbzs7lHK/CRbezqSmb31UqrqiFXkisa5NINCtOob4IsXIYpcOO35jI8lGvwtTaXZSNzXVhISjbUv/choB6InVjvwHviPAKMZpPhIohjXns1kAjNjFPqd9ynAhMhRDFsfT1ZhugKjQwoeTHvyWRZXU4yO1FTcAj1EqyG3Vqo//AcKf/sPTXO4pez6FFq+yzoDCzmIEum86izmf/wEHESaSMXnxuh4ilxn8V9KSsBbe7LBK85HzpVZTsqm1nVscBOcV/xLSFUXKN0maE1GjB+y3qj1UrAxY9FiVbPr9qyELtYUuzwInuajDjYDHOF+oIAvz/X+4jag==;x3fUZCjlol+cryQb3aEQwQ=="
 ---
 

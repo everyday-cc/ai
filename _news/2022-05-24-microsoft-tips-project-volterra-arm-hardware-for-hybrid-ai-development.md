@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 648
         isCached: true
-  - title: "AI news from Microsoft: Making AI easier, simpler, more responsible"
-    excerpt: "Microsoft made several AI announcements at its annual Build conference today, all around the need for AI models to become easier, simpler and most of all, more responsible."
-    publishedDateTime: 2022-05-24T15:00:00Z
-    webUrl: "https://venturebeat.com/2022/05/24/ai-news-from-microsoft-making-ai-easier-simpler-more-responsible/"
-    ampWebUrl: "https://venturebeat.com/2022/05/24/ai-news-from-microsoft-making-ai-easier-simpler-more-responsible/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/ai-news-from-microsoft-making-ai-easier-simpler-more-responsible/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1272639422.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft's Intelligent Data Platform aims to unify data and analytics"
     excerpt: "At its developer-focused Build 2022 conference today, Microsoft has announced a range of updates for its Azure services. The most interesting announcement deals with the Intelligent Data Platform."
     publishedDateTime: 2022-05-24T15:12:00Z
@@ -94,22 +78,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2015/06/img_0174_story.jpg"
         width: 760
         height: 506
-        isCached: true
-  - title: "Microsoft’s vision for the PC’s future: AI-infused ‘NPUs’ and the cloud"
-    excerpt: "At its Build conference, Microsoft lays out a vision of the future where its Azure cloud will supplement your PC's processor, while local AI NPUs from Arm and others power magical new apps."
-    publishedDateTime: 2022-05-24T15:00:00Z
-    webUrl: "https://www.pcworld.com/article/704538/microsoft-thinks-cloud-powered-arm-devices-are-the-pcs-future.html"
-    ampWebUrl: "https://www.pcworld.com/article/704538/microsoft-thinks-cloud-powered-arm-devices-are-the-pcs-future.html/amp"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/704538/microsoft-thinks-cloud-powered-arm-devices-are-the-pcs-future.html/amp"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 106
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2022/05/Build_Blog_Project_Volterra.png?w=1024"
-        width: 1023
-        height: 716
         isCached: true
   - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
     excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
@@ -154,20 +122,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
-  - title: "Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability"
-    excerpt: "The post Azure OpenAI Service helps customers accelerate innovation with large AI models; Microsoft expands availability appeared first on The AI Blog.\n"
-    publishedDateTime: 2022-05-24T15:00:16Z
-    webUrl: "https://blogs.microsoft.com/ai/azure-openai-service-helps-customers-accelerate-innovation-with-large-ai-models-microsoft-expands-availability/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/05/Azure-Open-AI-service-hero-social-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Microsoft \"hybrid loop\" shows the foundation for AI-powered client / cloud computing"
     excerpt: "If there's ever a place where you're likely to hear the direction that computing and applications are headed, Microsoft's developer-focused Build conference is probably it. True"
     publishedDateTime: 2022-05-24T16:37:00Z
@@ -199,22 +153,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/3fb86b953c77bf9738c0b59a2c82268078cb9888/2022/05/23/8809b136-0adf-4e9b-abc8-9aa2b7010b6b/teamsliveshare.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 699
-        isCached: true
-  - title: "Microsoft’s new Power Apps feature turns sketches into apps"
-    excerpt: "Object detection models from Microsoft’s Azure Cognitive Services platform perform image recognition, mapping forms and figures in documents (including sketches) to the constructs that exist ..."
-    publishedDateTime: 2022-05-24T15:00:00Z
-    webUrl: "https://techcrunch.com/2022/05/24/microsofts-new-power-apps-feature-turns-sketches-into-apps/"
-    ampWebUrl: "https://techcrunch.com/2022/05/24/microsofts-new-power-apps-feature-turns-sketches-into-apps/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsofts-new-power-apps-feature-turns-sketches-into-apps/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/ezgif-4-e0fc2c5a69.gif?w=600"
-        width: 600
-        height: 338
         isCached: true
   - title: "Microsoft 2022 Imagine Cup Winner V Bionic Global Top Tech For Good"
     excerpt: "Microsoft Build, at the opening keynote by CEO and Chairman Satya Nadella, announced the final judging for the 2022 Imagine Cup global winner."
@@ -295,20 +233,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1316144933/image_1316144933.jpg?io=getty-c-w750"
         width: 750
         height: 422
-        isCached: true
-  - title: "Microsoft beefs up AI development on Azure with access to OpenAI models"
-    excerpt: "Microsoft Corp. is expanding its long-running relationship with the artificial intelligence research outfit OpenAI Inc. as it launched a new service today for Azure Cognitive Services. The service provides developers with access to a range of OpenAI’s AI models,"
-    publishedDateTime: 2022-05-24T15:00:00Z
-    webUrl: "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 71
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/microsoft-ai.jpg"
-        width: 1366
-        height: 768
         isCached: true
   - title: "Startup, Microsoft collaborate to simplify AI healthcare research"
     excerpt: "An artificial intelligence data security company is collaborating with Microsoft to advance AI healthcare research. BeeKeeperAI, a startup specializing in data confidentiality and intellectual property protection,"
@@ -544,20 +468,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 46
-  - title: "Microsoft extends Teams’ unique collaborative features to outside apps"
-    excerpt: "Collaboration came to the fore at Microsoft Corp.’s Build 2022 conference today as the company unveiled a host of new developer-focused tooling and features for Microsoft Teams. One of the most exciting updates is the new Live Share experience that makes it possible for meeting participants to interact in new ways with shared applications."
-    publishedDateTime: 2022-05-24T15:00:00Z
-    webUrl: "https://siliconangle.com/2022/05/24/microsoft-extends-teams-unique-collaborative-features-outside-apps/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Hexagon-Prototype-of-Live-Share-in-Teams.png"
-        width: 1279
-        height: 740
-        isCached: true
   - title: "The Biggest Microsoft Teams And M365 Announcements At Build 2022"
     excerpt: "Loop, Teams and Azure Communication Services received attention during the Microsoft Build 2022 conference this week."
     publishedDateTime: 2022-05-24T15:28:00Z

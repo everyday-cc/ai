@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-developmen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/"
 type: article
 quality: 103
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI makes developers’ lives easier, and helps everybody learn to develop software"
-    excerpt: "The post How AI makes developers’ lives easier, and helps everybody learn to develop software appeared first on The AI Blog.\n"
-    publishedDateTime: 2022-05-24T15:00:26Z
-    webUrl: "https://blogs.microsoft.com/ai/how-ai-makes-developers-lives-easier-and-helps-everybody-learn-to-develop-software/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 82
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/05/AI-is-making-dev-life-easier-social-1024x538.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Comment: Debunking the three biggest AI myths"
     excerpt: "As it stands, There are many companies struggling to convert business data into business impact. Beyond this, there are several commonly held myths and misconceptions around AI that only add fuel to the fire."
     publishedDateTime: 2022-05-26T11:26:00Z

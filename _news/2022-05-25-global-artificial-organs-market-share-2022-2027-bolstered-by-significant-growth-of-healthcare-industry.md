@@ -67,6 +67,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Cognitive Media Market Provides an In-Depth Insight of Sales, Trends and Forecast"
+    excerpt: "The world class Global Cognitive Media Market report involves use of latest tools and techniques for researching, analysing and gathering of data and information. This market research report ..."
+    publishedDateTime: 2022-05-26T11:42:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-provides-an-in-depth-insight-of-sales-trends-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Texas-massacre-USA-flags-AFP-1K-011-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Computer Vision in Healthcare Market Trends 2022, In-Depth Analysis of Industry Growth and Forecast Up To 2028 |Top key players: NVIDIA Corporation"
     excerpt: "Computer vision has been used in various healthcare applications to assist medical professionals in making better decisions regarding the treatment of patients. Medical imaging or medical image ..."
     publishedDateTime: 2022-05-27T12:07:00Z

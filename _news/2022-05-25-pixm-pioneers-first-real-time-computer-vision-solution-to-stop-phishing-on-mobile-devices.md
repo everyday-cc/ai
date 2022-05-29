@@ -1,22 +1,28 @@
 ---
 category: news
 title: "PIXM Pioneers First Real-Time Computer Vision Solution to Stop Phishing on Mobile Devices"
-excerpt: "PIXM Mobile uses novel, award-winning technology to stop phishing attacks targeting mobile device apps at the point of click PIXM, a Computer Vision cybersecurity startup, today announced the ..."
-publishedDateTime: 2022-05-25T10:56:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220525005383/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices"
-webUrl: "https://www.morningstar.com/news/business-wire/20220525005383/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices"
+excerpt: "PIXM, a Computer Vision cybersecurity startup, today announced the expansion of its anti-phishing products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted ..."
+publishedDateTime: 2022-05-25T11:33:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices/article_e77d3bcd-1d41-53b9-b69b-8ad36d8ee29b.html"
+webUrl: "https://www.bakersfield.com/ap/news/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices/article_e77d3bcd-1d41-53b9-b69b-8ad36d8ee29b.html"
 type: article
-quality: 10
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/e/65/e655e9f0-575e-52f4-b579-25a9e66d0676/628dff8cdd9d4.image.jpg?crop=1080%2C567%2C0%2C676&resize=1080%2C567&order=crop%2Cresize"
+    width: 1080
+    height: 567
+    isCached: true
 
 related:
   - title: "PIXM releases new computer vision solution for mobile phishing"
@@ -66,6 +72,6 @@ related:
         height: 716
         isCached: true
 
-secured: "RNDNX9EkjpndMX3fjwha575ApMQVpOapYo+4r4YqSEp1Yp+bz/YGfV9xbCiCKo7HWTSTkejBux+pVjm3luzuP/3b01JpGELn3an4klm3HDNvZU6IyViGwegDdW8oIvpuvw4bkcUikZ9YTrckTqLlm6V4GpOIj9dTl+DVE0I1Ow5qY0jB7OASJVQHsiUlQ0I4hSHnsD4HMXyoFoeQNPn8T6nfP5w36oC1fnnW81eYPfx+gmHRlHPohcSstAmfPTd64HPKWZSU0GCvCgljXzeu4bCu8XnK5v5zM7xRRQ8jrN8wWLsnaDmW3OcaOdO5iiRFYBtAD02ee7p7XfXITTUOnExvWjbFqWjCVO7C7zZQJCQ=;uu+v1rce2MfgL3EPGJDEFw=="
+secured: "xkHo9x4E9k+9f6YCv87A0s2Mox9oPOrYFAsqA5ZvaRkOWqrLtnEHjuAwgMZZ7hfcZj7Xe8QIY9htDM+jWSYSJeFypvxEb+kk1t+CdUXmnLsvy4SFbg1jO2EVOf/1VIlENUwUZjuLkoZHWU3tG2WtTDzwoifLYypByicYj1O+hZFa9WdvbHXjvDzwD/Xv1A19PXQUqGx0PpBbosU3iE3AEFy8fefRRtW8pGNyk5aQLo3biO1/rB4yFJ+Ep4G1VmIc8Et2Ft8UO8ixGXybo8cc0tFqTARjRikoQ6d8dyTDaasP5rcTOWdGEhAieH/fKmytLpny6chj1ZZoQlj8OXhujYjqvpnA9CyYb1/mXX5RkXA=;4thVOT6olPNGB1D0KA/HIA=="
 ---
 

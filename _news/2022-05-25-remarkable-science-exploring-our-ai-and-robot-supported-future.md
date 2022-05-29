@@ -7,7 +7,7 @@ originalUrl: "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-a
 webUrl: "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Remarkable science: Exploring our AI and robot-supported future"
-    excerpt: "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,"
-    publishedDateTime: 2022-05-24T14:00:00Z
-    webUrl: "https://www.nprillinois.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future"
-    type: article
-    provider:
-      name: NPR Illinois
-      domain: nprillinois.org
-    quality: 34
 
 secured: "cDvPn0X/UIo1ZK2Nm8aleN9Zdnl2KnG8Qy+bCxAfopoMBx4v6dZiA1nnNny3iYvTZG/YLlMV9y5sajc5E5KNUAy9E6p2uT3lHqptxB0tyCSPdYun3NAgNjOE4wwCVopU466HCSW+2tDSsifasqFCyDwCnZJv6oI9gj4MYK1E3TAGIt7W4mTVtIBewqDYmV306kmd80JHB8b/60RMGQlEnHIZ5J69nqqeWPNHH//U9Z+wQV08l2xlsmVK9qSFZvIuLQDPlMP6M79u76LKOCsqQLMP/25btEcmP1kd6wvglipeKXH0exis8O+Hq3mfU4xgeFTWy16bMKwcFbvBpnZGFvFaX2BwWioihsNgAo7YQybsWvE9uDSO3NbnFhZ8zhcx7EbuDvgEZsb+7Kr+FDmt1J9ycIrP1qVAVHMYodmmYol4wXZFiN9RxNcx5NypXMiF5R0gjWxPTGbfzdxzU8OXCY7wu8PEp+6iFD4vilrG0FAyPpfy0PCZ0kgyW0PybsEvJqbPJidQukkaZE006USayg==;VZQyFhs/OPIEENjnwZ8IaQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Outlookindia
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Mastercard's new face recognition payment system raises concerns"
-    excerpt: "Mastercard's \"smile to pay\" system, announced last week, is supposed to save time for customers at checkouts. It is being trialed in Brazil, with future pilots planned for the Middle East and Asia."
-    publishedDateTime: 2022-05-24T14:26:00Z
-    webUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/why-mastercards-new-fa.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Mastercard's 'smile to pay' raises concerns around face recognition systems"
     excerpt: "The company argues touch-less technology will help speed up transaction times, shorten lines in shops, heighten security and improve hygiene in businesses"
     publishedDateTime: 2022-05-25T04:58:00Z
@@ -72,6 +56,20 @@ related:
       - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/05/mastercard-resize.jpg"
         width: 733
         height: 355
+        isCached: true
+  - title: "Garda to use facial recognition technology"
+    excerpt: "The Garda Síochána is to get new powers to use facial-recognition technology that could lead to identification of criminals within minutes, Minister for Justice Helen McEntee is expected to announce on Wednesday."
+    publishedDateTime: 2022-05-24T23:01:00Z
+    webUrl: "https://www.irishtimes.com/news/crime-and-law/garda-to-use-facial-recognition-technology-1.4887298"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 41
+    images:
+      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/2qKLTQxVXZoyMDbberDfvEOOE0M=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LDP3JPVPMT4NJ7SSXPTGZKRTUI.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Pay ‘with a smile or a wave’: Why Mastercard’s new face recognition payment system raises concerns"
     excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts. It is being trialled in Brazil, with future pilots planned for the Middle East and Asia."

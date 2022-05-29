@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-18489755
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
 type: article
 quality: 104
-heat: 224
+heat: 204
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI's facial recognition tool coming to apps, schools"
-    excerpt: "Clearview AI is expanding sales of its facial recognition software to companies from mainly serving the police, it told Reuters, inviting scrutiny on how the startup capitalizes on billions of photos it scrapes from social media profiles."
-    publishedDateTime: 2022-05-24T14:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools"
-    ampWebUrl: "https://www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Clearview expands sales of its facial recognition tools"
     excerpt: "The software isn't exactly what Clearview AI has caught flack for in the past. Since the company's recent settlement with the ACLU bans Clearview from providing social media face"
     publishedDateTime: 2022-05-24T16:03:00Z
@@ -175,15 +164,6 @@ related:
         width: 415
         height: 539
         isCached: true
-  - title: "UK privacy watchdog fines Clearview AI £7.5 million for breaking data protection laws"
-    excerpt: "The UK Information Commissioner’s Office has fined facial recognition firm Clearview AI £7,552,800 over its use of images of people’s faces and data from publicly available information."
-    publishedDateTime: 2022-05-24T13:16:00Z
-    webUrl: "https://www.csoonline.com/article/3661811/uk-privacy-watchdog-fines-clearview-ai-7-5-million-for-breaking-data-protection-laws.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 10
   - title: "Clearview’s Selfie Authentication Business Begins Operations"
     excerpt: "Embattled facial recognition specialist Clearview AI has already started to win business from its expansion into the commercial market."
     publishedDateTime: 2022-05-26T12:14:00Z
