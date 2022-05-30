@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "The world will run only with artificial intelligence"
