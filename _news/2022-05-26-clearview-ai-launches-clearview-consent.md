@@ -40,22 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "TechScape: Clearview AI was fined £7.5m for brazenly harvesting your data – does it care?"
-    excerpt: "The facial recognition firm earned a heavy fine for scraping millions of pictures of people’s faces from social media. But that doesn’t mean it will change its ways"
-    publishedDateTime: 2022-05-25T11:07:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine?via=indexdotco"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/may/25/techscape-clearview-ai-facial-recognition-fine"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 48
-    images:
-      - url: "https://i.guim.co.uk/img/media/47c278fa57498f6cb6dfacca66029466bbf0ae82/0_140_4226_2537/master/4226.jpg?width=620&quality=85&auto=format&fit=max&s=a52403bcb19393cd53e562b4af829d1b"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Clearview AI Expand Facial Recognition Software To Companies"
     excerpt: "By partnering with Clearview, Vaale is saving about 20% in costs and increasing accuracy and speed by replacing Amazon’s Rekognition service. “We can’t have duplicate accounts and we have to avoid fraud. Without facial recognition, we can’t make ..."
     publishedDateTime: 2022-05-25T19:12:00Z

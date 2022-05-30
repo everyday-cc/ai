@@ -49,34 +49,6 @@ related:
         width: 2560
         height: 1710
         isCached: true
-  - title: "Strategy Analytics: US Self-monitored Security Market to Reach $5.3B in 2027"
-    excerpt: "All US Households with Security Will Be Self-monitored by 2027BOSTON--(BUSINESS WIRE)--Consumers’ price sensitivity and a wide range of offerings from well-known security brands such as ADT and Brinks as well as Amazon’s Ring,"
-    publishedDateTime: 2022-05-25T11:58:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=669601"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 38
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "CallMiner Named a Leader in the 2022 SPARK MatrixTM for Speech Analytics Report"
-    excerpt: "CallMiner, the leading provider of conversation intelligence to drive business improvement, announced today that it has been named a top performer and market leader in the 2022 SPARK Matrix for Speech Analytics by Quadrant Knowledge Solutions."
-    publishedDateTime: 2022-05-25T12:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-waltham-c6f5e7440569433da3f3606a209a5425"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
     excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
     publishedDateTime: 2022-05-25T13:32:00Z

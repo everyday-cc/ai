@@ -6,9 +6,6 @@ publishedDateTime: 2022-05-25T11:33:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices/article_e77d3bcd-1d41-53b9-b69b-8ad36d8ee29b.html"
 webUrl: "https://www.bakersfield.com/ap/news/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices/article_e77d3bcd-1d41-53b9-b69b-8ad36d8ee29b.html"
 type: article
-quality: 30
-heat: -1
-published: false
 
 provider:
   name: The Bakersfield Californian
@@ -24,40 +21,6 @@ images:
     height: 567
     isCached: true
 
-related:
-  - title: "PIXM releases new computer vision solution for mobile phishing"
-    excerpt: "Computer vision cybersecurity startup PIXM has expanded its line of antiphishing products with the launch of PIXM Mobile, a solution to protect individuals and enterprises from targeted and unknown phishing attacks on mobile devices. The cloud-based mobile ..."
-    publishedDateTime: 2022-05-25T17:01:00Z
-    webUrl: "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.html"
-    ampWebUrl: "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/09/cso_nw_mobile_phone_text_bubble_skull_crossbones_sms_phishing_smishing_by_jane_kelly_gettyimages-669307004_abstract_data_by_spainter_vfx_gettyimages-897166754-100810151-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "PIXM reveals new computer vision solution for mobile phishing"
-    excerpt: "Computer vision cybersecurity startup PIXM has expanded its line of antiphishing products with the launch of PIXM Mobile, a solution to protect individuals and enterprises from targeted and unknown phishing attacks on mobile devices. The cloud-based mobile ..."
-    publishedDateTime: 2022-05-25T17:00:00Z
-    webUrl: "https://www.csoonline.com/article/3661560/pixm-reveals-new-computer-vision-solution-for-mobile-phishing.html"
-    ampWebUrl: "https://www.csoonline.com/article/3661560/pixm-reveals-new-computer-vision-solution-for-mobile-phishing.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3661560/pixm-reveals-new-computer-vision-solution-for-mobile-phishing.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/09/cso_nw_mobile_phone_text_bubble_skull_crossbones_sms_phishing_smishing_by_jane_kelly_gettyimages-669307004_abstract_data_by_spainter_vfx_gettyimages-897166754-100810151-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "GRJP7h12yxNFWzvB2KQo5YybSk3YJteAEIzzwYp3CBuIzD8iJs4MNZ3gHJl882QTrC8iWyMvNrZx0o4jKLAU8EhbU8q9yTJ6nkC6fP5GS4q/uppxMRRwMn09LclmfIgNAUtWVemtSCwUaqLUNGz6Ig6OYFYG8+QZA+yoUxW6SRGECD0z5sHC5x7yutZ7iWGWnumLZFGHuftFkTuLd0hNYAS8jgV7fqu5Uqmc2gkXqllP/FHltRC9sv2JPOegV6j8t6zpLIgpGoAOGPQq69rzjI0dZ6MyaJvDc7gF1eJrRqvw63mPZf1Q8MP00OK+ZRQNq4oHP6MlmdQZsg/d6PWZ67PYkkqbHv9ILgmcWvuTX10=;Se1ImSw1Qq1yorRlBuAW8g=="
+secured: "yMpLF2bAiF5y+4+hoEDXlhaoZkhALx9JttOeeANE9G3Z8zTRv62BoTA4SWpeMtSaeCJFA6lXVKUwMkdAwvZ6qTBdX1t0J8yE5GcKDb0uDbUviEh49wtXAl0ddOVYv2X4udtOJUL5Pspm1JpztNfbbxBGuYkdh2WqQj18j/hm5jEpZZLPf5Ug7z6hokCVw0azcIhVnrTNAJbMpldidTI9YLdhnxqYTb3bbN1NtttHKjkFGSLf/F6EemlXBCbVHSVxjyBKK4lOsNvKAY0XJrarua/0JgW0Td67Ik58zqD5e93FGoXDcjxO6ZQdrZaAq6j8vW0g9IcjTQSXXUgm1Gx+tbE64QVKCckFOG0GOKS3IdQ=;REP+H1gUOu/KwxWs3DWMhw=="
 ---
 

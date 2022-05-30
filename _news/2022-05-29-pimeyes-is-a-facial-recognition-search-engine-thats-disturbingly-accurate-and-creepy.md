@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition 'like having Guards checking everyone's photo ID'"
-    excerpt: "Garda use of facial recognition technology would be akin to checking everyone's photo ID in a crowd. That's according to Liam Herrick, executive director of the Irish Council of Civil Liberties (ICCL)."
-    publishedDateTime: 2022-05-25T12:19:00Z
-    webUrl: "https://www.newstalk.com/news/facial-recognition-like-having-guards-checking-everyones-photo-id-1347675"
-    type: article
-    provider:
-      name: Newstalk
-      domain: newstalk.com
-    quality: 19
   - title: "This search engine is basically Google but for facial recognition"
     excerpt: "The new facial recognition tool, PimEyes, seems like something out of a science fiction movie. PimEyes is basically Google but for images of faces. You can upload a face to the website and it will ..."
     publishedDateTime: 2022-05-27T16:52:00Z

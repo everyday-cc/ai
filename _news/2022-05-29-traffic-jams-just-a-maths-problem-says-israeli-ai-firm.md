@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Traffic jams just a maths problem, says Israeli Artificial Intelligence firm"
+    excerpt: "Israel's traffic congestion ranks near the worst among developed economies but an algorithm can help, says one of the country's IT firms engaged in the auto and mobility sector."
+    publishedDateTime: 2022-05-30T05:00:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/traffic-jams-just-a-maths-problem-says-israeli-artificial-intelligence-firm-71653794790863.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/traffic-jams-just-a-maths-problem-says-israeli-artificial-intelligence-firm-71653794790863.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/traffic-jams-just-a-maths-problem-says-israeli-artificial-intelligence-firm-71653794790863.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 86
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/05/30/1600x900/PTI05-23-2022-000061B-0_1653886387458_1653886475677.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Traffic jams just a maths problem, says AI firm"
     excerpt: "The company says road congestion is a global scourge, calculating that the average driver spends three days a year stuck in traffic, also pumping out greenhouse gas emissions."
     publishedDateTime: 2022-05-30T03:35:00Z

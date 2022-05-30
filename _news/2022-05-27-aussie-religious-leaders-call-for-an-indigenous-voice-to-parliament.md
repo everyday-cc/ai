@@ -41,6 +41,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "Dutton admits ‘mistake’, will consider Indigenous Voice plan"
+    excerpt: "Peter Dutton will consider Labor’s plans for a referendum on constitutional recognition for Indigenous Australians lamenting his “mistake” boycotting the apology to the Stolen Generations."
+    publishedDateTime: 2022-05-30T05:16:00Z
+    webUrl: "https://www.afr.com/politics/federal/dutton-admits-mistake-will-consider-indigenous-voice-plan-20220530-p5apnl"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.3521%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_456%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/14065cbf6ecb295c79d32578bd83bd50d87efe57"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "‘Time for healing’: Faith leaders endorse Voice to Parliament"
     excerpt: "Northern Territory Chief Minister Natasha Fyles says the proposal for an Indigenous Voice to Parliament is very important as it will have a big impact on a large number of Territorians. Ms Fyles said there is still work that needs to be done to achieve a Voice in Parliament."
     publishedDateTime: 2022-05-27T04:57:00Z

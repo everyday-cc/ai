@@ -55,6 +55,22 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Google Assistant will recognise your voice command soon"
+    excerpt: "Store audio recordings on this device to help Google Assistant get better at recognising what you say. Audio stays on this device and can be deleted any time by turning off personalised speech recognition'."
+    publishedDateTime: 2022-05-30T05:41:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-assistant-will-recognise-your-voice-command-soon-2022-05-30-780410"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-assistant-will-recognise-your-voice-command-soon-2022-05-30-780410"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-assistant-will-recognise-your-voice-command-soon-2022-05-30-780410"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 44
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/05/google-assistance-1653889126.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "Google Assistant could soon learn to recognize your voice"
     excerpt: "Code found on the Google app indicates that Google is working on having Google Assistant recognize your voice."
     publishedDateTime: 2022-05-29T07:54:00Z
@@ -68,6 +84,20 @@ related:
       - url: "https://m-cdn.phonearena.com/images/article/140429-wide-two_1200/Google-Assistant-could-soon-learn-to-recognize-your-voice.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google Assistant To Soon Recognise Your Voice"
+    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature. According to 9to5Google, the tool will help Google Assistant get 'better at recognising your frequent words and names."
+    publishedDateTime: 2022-05-30T05:33:00Z
+    webUrl: "https://menafn.com/1104290242/Google-Assistant-To-Soon-Recognise-Your-Voice"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-05/30/I_ed649image_story.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Google Assistant will soon recognize your voice"
     excerpt: "A comprehensive dissection of the Google app for Android has revealed potential plans for improving the Google Assistant feature. Of course, those deep dives into the APKs aren't always accurate and some functionalities may not end up in future versions."

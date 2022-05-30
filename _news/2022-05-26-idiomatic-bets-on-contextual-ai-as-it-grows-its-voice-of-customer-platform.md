@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 685
     isCached: true
-
-related:
-  - title: "Idiomatic Earns Investor Support for AI-Driven Customer Intelligence"
-    excerpt: "Idiomatic, a proven customer intelligence innovator, today announced the close of a $4 million seed round led by Freestyle. Tra"
-    publishedDateTime: 2022-05-25T11:55:00Z
-    webUrl: "https://www.koin.com/business/press-releases/globenewswire/8559418/idiomatic-earns-investor-support-for-ai-driven-customer-intelligence/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 39
-    images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-        width: 800
-        height: 340
-        isCached: true
 
 secured: "E2nH1QcfW1C7Gyk7UdNCF95pmgy0+2bLfEeYlOU7S9TnqG76eOCacWZg7GzQF/6gYMw0lONW00uE+57f1FnZR3Z1wJQbH4OHP8eUrp60n+gGl463BwPOT9CDrsv/OBv0mMuzkyhKsFl4W+Y36FDriGO2b5kVQsFU66ZQVPD1bsXV3I64bCl8cruv/9qvHLYx1Whsrn1nY6vdMc2k5viIKNQEoMSz5SUEtJTX6D0iBa0Zd9FNOGAvY52eKKWf3Fr6JIdInje1KMnCbubveMzBgCV0qbf9IpTsv+EfglrvYqsX4GfOHKDqIhRPMdSZipMQGUcGaGq3ditZTcxnlyK/B/NjXYSdlExAwP8dl4+ukJ2EiK7iLeBHGxesHSeW1yI2s7he/63V+pAq36fuaVcgATUBFwYznETPCDqI5DJjCMWr2drs+n9Bv780cD1regeKzAkhuufGQpIoBXWe0S/5jgacr7ZZ6VSogtv1qPQLi53MoSOZlKp04fkKUolBCGbrggA0owy/jOBggRVBKjOeIg==;sOvzg0TYvV/lLxOyg4w0hg=="
 ---

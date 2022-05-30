@@ -95,15 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition 'like having Guards checking everyone's photo ID'"
-    excerpt: "Garda use of facial recognition technology would be akin to checking everyone's photo ID in a crowd. That's according to Liam Herrick, executive director of the Irish Council of Civil Liberties (ICCL)."
-    publishedDateTime: 2022-05-25T12:19:00Z
-    webUrl: "https://www.newstalk.com/news/facial-recognition-like-having-guards-checking-everyones-photo-id-1347675"
-    type: article
-    provider:
-      name: Newstalk
-      domain: newstalk.com
-    quality: 19
   - title: "Commercial AI Adoption is Picking Up Pace But Only A Third of Businesses Recognise that Data Strategy Facilitates AI"
     excerpt: "Most businesses (90%) now use or plan to use Artificial Intelligence (AI) and even more (98%) have, or intend to, implement a data strategy. Yet new findings suggest that – while the success of each is reliant on the other – only one in three (35%) businesses with a data strategy say it includes provisions for Artificial Intelligence (AI)."
     publishedDateTime: 2022-05-26T11:00:00Z

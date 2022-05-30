@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI Market Size 2022 with 21.48% CAGR : Innovation Strategies & Recent Industry Developments With Top Players and Forecast Up to 2028"
-    excerpt: "Global “AI Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI market is"
-    publishedDateTime: 2022-05-26T04:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-market-size-2022-with-2148-cagr-innovation-strategies-recent-industry-developments-with-top-players-and-forecast-up-to-2028-2022-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Media Market Provides an In-Depth Insight of Sales, Trends and Forecast"
     excerpt: "The world class Global Cognitive Media Market report involves use of latest tools and techniques for researching, analysing and gathering of data and information. This market research report ..."
     publishedDateTime: 2022-05-26T11:42:00Z
@@ -64,20 +50,6 @@ related:
     quality: 36
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Texas-massacre-USA-flags-AFP-1K-011-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence Software Market | Key Drivers, Business Insights, and Future Trends by 2026"
-    excerpt: "Adoption of various technologies such as the internet of things (IoT), machine learning, and industry 4.0. is expected to provide lucrative opportunities for the global artificial intelligence software market. The rise in adoption of cloud-based ..."
-    publishedDateTime: 2022-05-25T11:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-software-market-key-drivers-business-insights-and-future-trends-by-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/1bd9115c03cae6ad319fc7018288222372e53aea-600x337.jpg"
         width: 600
         height: 337
         isCached: true

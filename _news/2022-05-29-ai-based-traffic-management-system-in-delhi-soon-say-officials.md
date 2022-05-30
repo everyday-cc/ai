@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/aibased-traffic-management-syste
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials/amp-11653821388311.html"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

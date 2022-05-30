@@ -26,19 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "The Morning After: Google claims 'unprecedented photorealism' from its new text-to-image AI"
-    excerpt: "Google says its text-to-image AI delivers 'unprecedented photorealism', NVIDIA is bringing out liquid-cooled GPUs, Starlink launches its satellite internet for RVs.."
-    publishedDateTime: 2022-05-25T11:20:00Z
-    webUrl: "https://www.engadget.com/the-morning-after-google-claims-unprecedented-photorealism-from-its-new-text-to-image-ai-111528400.html"
+  - title: "Will AI text-to-image generators put illustrators out of a job?"
+    excerpt: "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators"
+    publishedDateTime: 2022-05-26T14:33:00Z
+    webUrl: "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/"
+    ampWebUrl: "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: New Scientist
+      domain: newscientist.com
     quality: 59
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/c1ebff70-db6d-11ec-af58-89b75584ad44"
-        width: 1401
-        height: 623
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Meet Imagen, Google's new AI that turns text into images"
+    excerpt: "Learn more and and check out some examples of #imagen at https://t.co/RhD6siY6BY pic.twitter.com/C8javVu3iW — Google AI (@GoogleAI) May 24, 2022 The possibilities offered by these models are almost infinite. And yet, a mainstream tool is not on the ..."
+    publishedDateTime: 2022-05-29T05:40:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/meet-imagen-googles-new-ai-turns-text-images-363494"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/meet-imagen-googles-new-ai-turns-text-images-363494?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/meet-imagen-googles-new-ai-turns-text-images-363494?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 57
+    images:
+      - url: "https://img.astroawani.com/2022-05/61653647244_IMAGEN.jpg"
+        width: 590
+        height: 400
         isCached: true
 
 secured: "i4toH/E3tqzGy2CKNu1BuwDmYpvxT3JwwHHzTsrULnzT7AD2Wt/HLHv3pykIyWPJ3u+lmr1pnFcb4X19ZFDkclCCOunHB/mm1vL8Sd/gax3MFIWFqJePEJ7IpUcSoTvimdQ6aUio8wOmRo/L187J6udDCOHG5FICB4gtoUL1VjweR2gXFuEQ4VwU2RGe9Ps2tnPk+DNgBzdC9REVWw/y3o9FYPNpY5ueXc4k+sMYirTsWV8u3ftEyiCLrSgG61KbEpIFjA3ULLUK/JNfTvVU6W+oZxWChag3GoLnKy3252zePmwk2gNHlYkwoYRDY6jLcR0LXJG2IK74AKkeQH0YaZKOp8wIReyam2O3DdXz8KEPO/E3Sp8G1m5/NT9shsZCbn3w69gleHcV3t9dh4tbdy+nfWqVYuUpr08XShpzz9bYTDnHpc9yhvY0M1cdy5LHzTYGlwP1zZfWEKq77z7slFawf7M1eQCoWsttT0AbJYOHAruF1L3ZCDAtidviu89wBkgbmInn96dlNTY2HoZovQ==;Ps/FT6Ejr4liYEW1/rPevQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/backlash-over-law-that-would-le
 webUrl: "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t"
 type: article
 quality: 53
-heat: 113
+heat: 93
 published: true
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Concerns raised over plans for facial recognition technology to be used by gardaí"
-    excerpt: "Concerns about the accuracy and potential misuse of facial recognition technology in tackling crime have been expressed by civil rights groups, academics and some politicians. Minister for Jusitce Helen McEntee is expected to announce the plans later today ..."
-    publishedDateTime: 2022-05-25T11:11:00Z
-    webUrl: "https://www.breakingnews.ie/ireland/concerns-raised-over-plans-for-facial-recognition-technology-to-be-used-by-gardai-1310561.html"
-    type: article
-    provider:
-      name: BreakingNews.ie
-      domain: breakingnews.ie
-    quality: 49
-    images:
-      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMDNcXFwvMzExMjQ1MzNcXFwvMi42NTc1MTg1OS1lMTY0ODcyNzE2MzE2Mi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzZWU1MTQ4ZWU1MDNjYTkyMDFkYmFlYzE4NjNmOTViNzFjZThjODUifQ==/concerns-raised-over-plans-for-facial-recognition-technology-to-be-used-by-garda.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Live: Plans for gardaí to use facial recognition technology, Dublin Airport brawl"
-    excerpt: "Plans for gardaí to use facial recognition technology. Minister for Jusitce Helen McEntee is set to announce plans for the use of facial recognition technology to tackle crime wh"
-    publishedDateTime: 2022-05-25T11:34:00Z
-    webUrl: "https://www.breakingnews.ie/ireland/live-plans-for-gardai-to-use-facial-recognition-technology-dublin-airport-brawl-1310575.html"
-    type: article
-    provider:
-      name: BreakingNews.ie
-      domain: breakingnews.ie
-    quality: 49
-    images:
-      - url: "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMDVcXFwvMjUxMjE1MjBcXFwvMXBtLXRodW1ibmFpbC0yNTA1LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMWVhMmJjYjQ1YTU4ZTI3ODA2NWI2ZjFlNzFlOTgzNzYzYjEzMDVmNSJ9/live-plans-for-garda-to-use-facial-recognition-technology-dublin-airport-brawl.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Gardaí will not use facial recognition technology for ‘mass surveillance’ — Minister"
     excerpt: "Plans to introduce facial recognition technology for the Garda are “not about mass surveillance”, Minister for Justice Helen McEntee has said. Speaking at the Garda Representa"
     publishedDateTime: 2022-05-25T14:40:00Z

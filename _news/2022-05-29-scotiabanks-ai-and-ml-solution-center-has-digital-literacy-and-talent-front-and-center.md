@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-and-ml-solution-center-has-digital-literacy-and-talent-front-and-center/amp/"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Operationalizing Advanced Analytics And AI At Scotiabank."
+    excerpt: "This is a five blog series focused on Scotiabank's AI and ML approaches. This is blog four and discusses operational successes and lessons learned."
+    publishedDateTime: 2022-05-30T05:20:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/05/30/operationalizing-advanced-analytics-and-ai-at-scotibank/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/05/30/operationalizing-advanced-analytics-and-ai-at-scotibank/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/30/operationalizing-advanced-analytics-and-ai-at-scotibank/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62925bca70bf716248df1321/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Scotiabank Has Set Up a Leading Analytics And AI Competency Center?"
     excerpt: "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank."
     publishedDateTime: 2022-05-29T04:54:00Z
