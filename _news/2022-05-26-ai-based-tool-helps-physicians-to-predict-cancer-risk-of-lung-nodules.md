@@ -40,22 +40,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Artificial Intelligence (AI) to Predict Cancer Risk of Lung Nodules"
-    excerpt: "A newly developed artificial intelligence (AI) tool predicts the cancer risk in lung nodules seen on CT. Chest CT is such a sensitive test."
-    publishedDateTime: 2022-05-25T17:43:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 72
-    images:
-      - url: "https://www.medindia.net/health-images/ai-spots-lung-cancer-than-radiologists.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "n5HlLo1LZMxeB/FyikooBANJfEQKxRAkfgSfZWL/IN/DE9nH8C29PUuDKGk/bR/IgX3lZQvd8g0w8STWKQDENLcAOqj2R7454WHDlHONEr0WlzclL9rXe1rIfixxW5szQEPq3dLcgbmtJBURIfCJtCTbn8lPh0yU8Pa5Qc9lAgGi89xNCYpNkrB0pe7gDLaQIaS3tx/AOokBx9eVHXr8ZFH0vut+CWNK1krl/wBBZv9XIt9c3rxc8jqc38BbdwmUcYf0TW2Qhcc2qcs5urOJxFNPikgMZq0IM6G7CEn+3LP1FWtwSbSRJAm9kf9rVKmX6JeVKpThLw/VXtcE/PVb6Mu7h+6dlsABoMwebJAPpUE=;0szlCiWgY1BlMyVoOTyAxw=="
 ---

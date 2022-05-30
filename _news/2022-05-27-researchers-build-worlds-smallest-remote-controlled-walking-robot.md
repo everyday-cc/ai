@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/94734-researchers-build-world-smal
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
 type: article
 quality: 89
-heat: 159
+heat: 139
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
         width: 480
         height: 322
         isCached: true
-  - title: "Smallest-ever remote-control walking robot uses shape-memory alloy"
-    excerpt: "Researchers at Northwestern University in Illinois have demonstrated the world's smallest remote-controlled walking robot, at just half a millimeter wide. Such tiny machines can bend, twist, crawl, walk,"
-    publishedDateTime: 2022-05-25T18:00:00Z
-    webUrl: "https://newatlas.com/robotics/tiny-crab-robot/"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 49
   - title: "The smallest remote-controlled robot ever is now this tiny crab"
     excerpt: "The world's smallest remote-controlled robot has been created by engineers from Northwestern University, which takes on crab form."
     publishedDateTime: 2022-05-26T09:13:00Z
@@ -97,15 +88,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
-  - title: "The smallest remote-controlled walking robot ever built looks like a flea"
-    excerpt: "Engineers at Northwestern University have built the smallest-ever remote-controlled walking robots. And the current design looks like a cross between a flea and a microchip. Actually, at half a millimeter wide,"
-    publishedDateTime: 2022-05-25T18:07:00Z
-    webUrl: "https://www.courthousenews.com/the-smallest-remote-controlled-walking-robot-ever-built-looks-like-a-flea/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 18
   - title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
     excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking"
     publishedDateTime: 2022-05-26T09:56:00Z

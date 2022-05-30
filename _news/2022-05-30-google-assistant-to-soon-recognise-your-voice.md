@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Google Assistant to soon recognise your voice"
-excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
-publishedDateTime: 2022-05-30T09:48:00Z
-originalUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
-webUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
-ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
+excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature. According to"
+publishedDateTime: 2022-05-30T10:12:00Z
+originalUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice"
+webUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice"
+ampWebUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice/amp"
+cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-assistant-to-soon-recognise-your-voice/amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: Telangana Today
+  domain: telanganatoday.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/5/2022_5$largeimg_2076542019.jpg"
-    width: 660
-    height: 440
+  - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Google-Assistant-to-soon-recognise-your-voice-831x450.jpg"
+    width: 831
+    height: 450
     isCached: true
 
 related:
@@ -124,6 +124,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "eyK1PhMCBA/92wjT2jV2PCVKNzIWkFwfS5y9tVfbKrE6tqqng+IXbqy08sle8sHpPajsDZiVtwFz7RrDyTyjuFKc70Rr60EezdspnhZ8SJvbJamgZDiMPrSuBozkPLDiR19B/z4m8iepE5i5W7xLLVDP5q6QrZetLjfiLDp7O7h92yLSIwsUhSjf33jUmJK5ylQGufDyTqPlfxLk3DfmOHQOHL89qYrDmAlctcWEBs/Ygx4+j3Syj45clspCsJFkIJahqXrGhOXgztQLSuP0psEb4DrHv5nPEWJHwQAX+2CyGQVnxlWi5p6FJcpIVdFviJwhsujv9vPfUOOCAV1OkCJ7QK1LMp2imlE2VEGAFMs=;EMkgSd5QHO73EyWX2lhPcA=="
+secured: "99Y+xWe3Ky4RIDBY/MC1cYZP6o7NHm4KaaU7n6Pt1catKlyez1iG5AbhgzYe1Y8DWaK3VTSTY9UnoyZQaaSEArzGDRNYxB0jx1cPcXLLF+/ZFA+5toQ2U5djNI/t4UQutXHO8u21OQoVKf9SAE08XrYxIGLkBXsbU7STt9+fDSwNSHBfUBnSXpDC9e7T/t2wwjiy9OR5MKhDIFLeldDioHCfx6QDEh0eNliFpRXnDoL5u8PgJuIU56rzWWcKu208JRtL/DxTOkSEF4Y5rSbBWNyqL2gizCvN8wvJm6r0Nw2yLpvsuvjwUwzOZ2QamBEguGUA+BNvQ4SPLlFL8P6ShzFFltjPSQ+FdHP3PSoIx2g=;gzJBReGJFJlSRrRQhA+r1w=="
 ---
 

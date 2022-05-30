@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 773
         isCached: true
-  - title: "TigerGraph Unveils its ML Workbench to Deliver Deep Learning and Graph Neural Network Frameworks"
-    excerpt: "TigerGraph, provider of a leading graph analytics platform, is introducing the TigerGraph ML (Machine Learning) Workbench-a powerful toolkit that enables data scientists to significantly improve ML model accuracy,"
-    publishedDateTime: 2022-05-25T18:30:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/TigerGraph-Unveils-its-ML-Workbench-to-Deliver-Deep-Learning-and-Graph-Neural-Network-Frameworks-153134.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 58
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New GraphWorld Tool Accelerates Graph Neural-Network Benchmarking"
     excerpt: "Google AI has recently released GraphWorld, a tool to accelerate performance benchmarking in the area of graph neural networks (GNNs). GraphWorld is a configurable framework to generate graphs with a variety of structural properties like different node degree distributions and Gini index."
     publishedDateTime: 2022-05-27T16:33:00Z

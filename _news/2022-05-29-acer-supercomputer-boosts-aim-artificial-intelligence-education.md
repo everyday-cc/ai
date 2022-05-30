@@ -7,7 +7,7 @@ originalUrl: "https://manilastandard.net/tech/314232053/acer-supercomputer-boost
 webUrl: "https://manilastandard.net/tech/314232053/acer-supercomputer-boosts-aim-artificial-intelligence-education.html"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1666
         height: 886
         isCached: true
-  - title: "HPE and Cerebras to Install AI Supercomputer at Leibniz Supercomputing Centre"
-    excerpt: "Cerebras Systems, and Hewlett Packard Enterprise (HPE), today announced the joint development of a system designed to accelerate scientific research and innovation in AI at Leibniz Supercomputing Centre (LRZ),"
-    publishedDateTime: 2022-05-25T17:58:00Z
-    webUrl: "https://insidehpc.com/2022/05/hpe-and-cerebras-to-install-ai-supercomputer-at-leibniz-supercomputing-centre/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 16
 
 secured: "LY6F6mkIVfijOQefXduzU2LCieTWyz51aXv0WfJjX2+s/jbj9brNuBNW9xI0/4jPAm4UkZCJXtKn3EXMYmm2+yAVDmT5lSBlLgYpORHhTPBWF6oOSw8kb9EvyX61r5z4dOfPcginic9mdzYOI6b/ZGNnTCgXCK69nynQEeA2YBVWichC61at5XyX2zXBLy26E6WtQ6+BC7hWtebRWPNAux7u7faLhSnXLcKXPcB6z87e4lJfai4MG3YHqWsFWzZCy04YK8h2XGQpZbPt4DvdHzffHNuF26q4d3sjYtp+/RrI9NkgTpuEQuzjz3OZ9FViSF92Awr7e8sL/8ILSXKBsz+ZchuNv+8N6At0QBv6H0lYbRZB5X0D09MCeZBW2LciHL70uO6YJAQW+JocddK3Q0Pi8vUpQrjnde05NmDCdO7UCwFWAYWYUDrwy4COV5KY/qmholoUMEhJz1jGpqJoUhLSjugPCl40IJxcZSwCSnFL23TXKmUtdqczei+tsyIYUL/O2TxLUuhTm26Z/PM9fQ==;Zuq4CwoxggTu3tuVBQoYpQ=="
 ---

@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Iterate.ai Wins Intellyx 2022 Digital Innovator Award"
-    excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced that Intellyx, an analyst and advisory firm helping business executives and IT leaders untangle the technologies and practices behind digital transformation,"
-    publishedDateTime: 2022-05-26T17:51:00Z
-    webUrl: "https://www.localsyr.com/business/press-releases/globenewswire/8560814/iterate-ai-wins-intellyx-2022-digital-innovator-award/"
+  - title: "NTT showcases AI communication technologies"
+    excerpt: "Japanese telecommunication giant NTT has revealed its latest technology using artificial intelligence. The demonstrations are the result of studies by its research center based on the theme of communication."
+    publishedDateTime: 2022-05-30T11:05:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220530_31/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220530_31/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220530_31/amp.html"
     type: article
     provider:
-      name: LocalSYR
-      domain: localsyr.com
-    quality: 37
+      name: NHK
+      domain: nhk.or.jp
+    quality: 57
     images:
-      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
-        width: 814
-        height: 330
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220530_31_1120366_L.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "cGGnD+JGpIyXXHcA0sECCwfxROxqOv252AXReSTtY/1r461ZJlHX1wVWCqNq3dG31ALWzQ76dOSw56BU5/3rwHuC5hYX0jLNWenA1etJe3pzdlFs/dWXh/Br0I/abTCOWVuH/8FKIMG1SFd0MbkncKSnhiVfEN1Yy+jSjz2mnn8pCgs6kDgYIbE+MtUBhT+nmlD7XhINwugYnefnq6ucoS5613sGjPsVqJGvNNKyu+mG1hdpKcT+XrdIQP+7819mCBvVHz5ZUX0HhwnqWk3F4DfJx4QNZooANzRz/1pW/BX9HYRndeDS3CinexjvziS/pmzdcLWmlG3fcBmzDpV9rLvdv1+AGG5+Gu8kdv8s514=;0AcM6ZZE5DHeH4NxrE2WCA=="

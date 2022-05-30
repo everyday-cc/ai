@@ -387,6 +387,59 @@
       ]
     },
     {
+      "path": "_news/2022-05-18-apples-former-machine-learning-director-reportedly-joins-googles-deepmind-team.md",
+      "title": "Apple's former machine learning director reportedly joins Google's DeepMind team",
+      "excerpt": "Ian Goodfellow is now reportedly joining Google's DeepMind team as an individual contributor, a few years after he left the tech giant for Apple. Based on his LinkedIn profile, Goodfellow worked ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/apple-ian-goodfellow-google-deepmind-045617218.html",
+      "originalUrl": "https://www.engadget.com/apple-ian-goodfellow-google-deepmind-045617218.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/923290a0-d65e-11ec-bfff-d76e8884d1c2",
+          "width": 7693,
+          "height": 5129,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/apple-ian-goodfellow-google-deepmind-045617218.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-ian-goodfellow-google-deepmind-045617218.html",
+      "publishedDateTime": "2022-05-17T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-deepmind-researcher-claims-new-gato-ai-could-lead-to-agi-says-the-game-is-over.md",
       "title": "DeepMind researcher claims new ‘Gato’ AI could lead to AGI, says ‘the game is over!’",
       "excerpt": "A DeepMind lead researcher made the bold claim that the company's newest AI was a 'game over' product for AGI research.",
@@ -1410,59 +1463,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-16T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-tensorflow-lite-hexagon-delegate.md",
-      "title": "TensorFlow Lite Hexagon delegate",
-      "excerpt": "This document explains how to use the TensorFlow Lite Hexagon Delegate in your application using the Java and/or C API. The delegate leverages the Qualcomm Hexagon library to execute quantized kernels on the DSP. Note that the delegate is intended to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/lite/android/delegates/hexagon",
-      "originalUrl": "https://www.tensorflow.org/lite/android/delegates/hexagon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-16T04:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",

@@ -2,6 +2,91 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-04-20-neurotechnologys-fingerprint-recognition-algorithm-maintains-number-one-ranking-in-nist-pft-iii-evaluation.md",
+      "title": "Neurotechnology's Fingerprint Recognition Algorithm Maintains Number One Ranking in NIST PFT III Evaluation",
+      "excerpt": "Neurotechnology's fingerprint algorithms have continued to outperform all others in the NIST Proprietary Fingerprint Template (PFT) evaluations since 2019. VILNIUS, Lithuania, Apr",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220420SF28430/neurotechnologys-fingerprint-recognition-algorithm-maintains-number-one-ranking-in-nist-pft-iii-evaluation/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220420SF28430/neurotechnologys-fingerprint-recognition-algorithm-maintains-number-one-ranking-in-nist-pft-iii-evaluation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1799159/PFT_III_20_04_2022.jpg",
+          "width": 400,
+          "height": 221,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-arcannaai-introduces-ai-assisted-cybersecurity-platform-for-the-global-market.md",
+      "title": "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market",
+      "excerpt": "Arcanna.ai scales SOC teams' expertise to reduce risk, increase capacity and retain institutional knowledge NEW YORK, April 20, 2022 /PRNewswire/ -- Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arcanna-ai-introduces-ai-assisted-cybersecurity-platform-for-the-global-market/article_f470e99d-8494-5fef-bcf2-407bb61896b9.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arcanna-ai-introduces-ai-assisted-cybersecurity-platform-for-the-global-market/article_f470e99d-8494-5fef-bcf2-407bb61896b9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/28/b2880aa0-991c-5f01-bfd5-3f0e8b60752e/625ffa45a0a82.image.jpg?crop=992%2C521%2C853%2C0&resize=992%2C521&order=crop%2Cresize",
+          "width": 992,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders.md",
       "title": "AWS Impact Accelerator Launches with $30 Million for Startups Led by Underrepresented Founders",
       "excerpt": "(NASDAQ: AMZN), today announced it has committed more than $30 million to early stage startups led by Black, Latino, LGBTQIA+, and women founders as part of its new AWS Impact Accelerator. Over the three-year commitment,",
@@ -1013,92 +1098,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit.md",
-      "title": "Amazon taps former Attorney General Loretta Lynch to run racial equity audit",
-      "excerpt": "related to harassment and discrimination * And an independent study of Rekognition, a facial recognition system that Amazon Web Services markets and sells to government and shareholders say is \"worse at identifying Black women than white men and misgenders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html",
-      "originalUrl": "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finger Lakes Times",
-        "domain": "fltimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-cheap-robot-vacuums-roomba-shark-robovacs-on-sale-from-180.md",
-      "title": "Cheap robot vacuums: Roomba, Shark robovacs on sale from $180",
-      "excerpt": "If you're on the hunt for a robot vacuum, you should take advantage of Best Buy's offers for various models from iRobot's Roomba and Shark, starting at $180.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/",
-      "originalUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/iroomba-s9-best-robot-vacs-1.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/?amp",
-      "publishedDateTime": "2022-04-19T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

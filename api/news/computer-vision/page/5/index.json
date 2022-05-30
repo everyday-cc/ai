@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-01-should-law-enforcement-use-facial-recognition-technology.md",
+      "title": "Should law enforcement use facial recognition technology?",
+      "excerpt": "Facial recognition technology has led to wrongful arrests of several people across the country, and many call for the technology to be stopped until it can be proven more accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
+      "originalUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/b03f3cc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Ff0%2F77%2Fc1a0a79b4111a54b5b35b28e5323%2Fframe-1955.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
+      "cdnAmpWebUrl": "https://www-kivitv-com.cdn.ampproject.org/c/s/www.kivitv.com/news/national-politics/the-race/should-law-enforcement-use-facial-recognition-technology?_amp=true",
+      "publishedDateTime": "2022-04-01T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIVI Boise",
+        "domain": "kivitv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-new-citi-field-entrance-option-facial-recognition.md",
       "title": "New Citi Field entrance option: Facial recognition",
       "excerpt": "Mets fans will have the option of registering for facial recognition technology to enter Citi Field in lieu of showing a mobile ticket.",
@@ -1297,49 +1340,6 @@
         "AI in Autos",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-ai-and-the-science-of-facial-emotion-recognition.md",
-      "title": "AI and the science of facial emotion recognition",
-      "excerpt": "How AI is Revolutionising Facial Emotion Recognition (FER) From unlocking our phones to accessing personal documents on our computers, facial recognition technology has become a part and parcel in ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/08/Kunal-Kislay-CEO-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
-      "publishedDateTime": "2022-03-18T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

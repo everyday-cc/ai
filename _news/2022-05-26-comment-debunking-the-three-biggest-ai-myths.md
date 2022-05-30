@@ -40,15 +40,6 @@ related:
         width: 904
         height: 732
         isCached: true
-  - title: "Federal Advisory Group Report Focuses On Diversifying AI Research and Development"
-    excerpt: "The National Artificial Intelligence Research Resource Task Force issued a report outlining a framework for national AI research and development, hinting on equitable datasets and computing access."
-    publishedDateTime: 2022-05-25T18:32:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/05/federal-advisory-group-report-focuses-diversifying-ai-research-and-development/367397/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 12
 
 secured: "fHcZIdNdZ2v66tdow2J+yuzoCr1iNi+G3JmIMH8e9qaw+3vTOFfFDXj6SUnEgobR3UYB7OOeOFDrFcitixb8+YerWhrLORgIW9udKcEuV6kuYbTF8gqPPL9SzXjnCOu+b0H6xXkmDUqtxgeAWCRXe8LdKRmNUUX+c2Awqv0HtqPohXA4w8ywj98OsSlb2hhw9ucJu+fgs+s3D+OkmKg0zs/xVW5u8IWHovkJCMOwiucbr5CPB495QMlfaMtu//MNzPajGvkaHJ2ik6I1yUMZuKUlD5lP1Ufj6Y/I6gy5U8XW7ESKpzKyJoXZQFQCfPG/blkojrB+cWWvw+t+XR/1q8Jt+NFFmF1vwrLSSunUDCQ=;v3VrVWXZNZeZboppv2iAuQ=="
 ---

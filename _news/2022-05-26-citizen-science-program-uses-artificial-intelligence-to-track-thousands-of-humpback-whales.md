@@ -23,22 +23,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Citizen science program uses photos and artificial intelligence to track thousands of humpback whales"
-    excerpt: "Through photographs shared by whale watchers, Happy Whale has recorded thousands of whales that travel to and from Alaska."
-    publishedDateTime: 2022-05-25T18:29:00Z
-    webUrl: "https://www.ktoo.org/2022/05/25/happy-whale-tracking-program/"
-    type: article
-    provider:
-      name: KTOO
-      domain: ktoo.org
-    quality: 22
-    images:
-      - url: "https://media.ktoo.org/wp-content/uploads/2022/05/humpback-whale-sasha-20171226-aspect-ratio-16-9-1536x864.jpg"
-        width: 1536
-        height: 864
-        isCached: true
-
 secured: "2oDHrr1g8xIH/Fgx3+ogUsAAc66u2pBHNn4JjrJM0XgvcFm+XMUC189LndRsrSuB9w5cmnSZ3HSSCitFILiv/FVevVCJz9tgJffNdGN3gMZyxyXp6TZvRtak+5qaSr0QGU4pXgkp/CqrEiIqOA7cNPMCeU+wXzM9mZ9sKUvxwW9j+/i6kDxkXHfZufBp9zGiFH5wrwrU5zFeYort60xmgPb5X9ZAljyNMs/76JkI6hZL+HvqeTjR4yw/1HU6XOmPxfqlMPPR1cPKs9OzlN6E+LVH6Pp0gq0NHdYJC7IIOhSO4nD1tb6w1b/eS1Q1SDy2xUDRZXa1fyuCRFRYUjHAVMkWvA7zFtuOKQkJl8hw3Ac=;f41lQeJGpd77phMs8lANlw=="
 ---
 

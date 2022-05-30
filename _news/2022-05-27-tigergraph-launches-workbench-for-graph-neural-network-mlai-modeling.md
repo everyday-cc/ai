@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/"
 type: article
 quality: 123
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/02/machine-learning-e1653607121457.jpg?w=1200&strip=all"
         width: 1200
         height: 773
-        isCached: true
-  - title: "TigerGraph Unveils its ML Workbench to Deliver Deep Learning and Graph Neural Network Frameworks"
-    excerpt: "TigerGraph, provider of a leading graph analytics platform, is introducing the TigerGraph ML (Machine Learning) Workbench-a powerful toolkit that enables data scientists to significantly improve ML model accuracy,"
-    publishedDateTime: 2022-05-25T18:30:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/TigerGraph-Unveils-its-ML-Workbench-to-Deliver-Deep-Learning-and-Graph-Neural-Network-Frameworks-153134.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 58
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "TigerGraph Unveils ML Workbench, Winners of Its ‘Graph For All Million Dollar Challenge’"
     excerpt: "TigerGraph also says its ML Workbench is plug-and-play ready for Amazon SageMaker, Microsoft Azure ML, and Google Vertex AI. “Graph has proven to accelerate and improve ML learning and performance, but the learning curve to use the APIs and libraries to ..."

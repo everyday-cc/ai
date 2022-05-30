@@ -37,8 +37,8 @@ related:
         isCached: true
   - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
     excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-    publishedDateTime: 2022-05-26T22:46:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+    publishedDateTime: 2022-05-26T22:50:00Z
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     type: article
@@ -151,7 +151,7 @@ related:
   - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
     excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
     publishedDateTime: 2022-05-26T18:14:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+    webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
     type: article
     provider:
       name: Visual Studio Magazine
@@ -171,20 +171,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 51
-  - title: "Microsoft dips even as Meta Platforms picks Azure to be strategic cloud provider"
-    excerpt: "Microsoft (MSFT) shares dipped on Wednesday even as the company signed a deal with Meta Platforms (FB) for its Azure unit to be a strategic cloud provider for Meta.As part of the"
-    publishedDateTime: 2022-05-25T17:16:00Z
-    webUrl: "https://seekingalpha.com/news/3842745-microsoft-dips-even-as-meta-platforms-picks-azure-to-be-strategic-cloud-provider"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 49
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/471179856/image_471179856.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "A look at the announcements from Microsoft Build 2022"
     excerpt: "This year's edition of Microsoft Build has now wrapped up, but don't worry if you missed it! The event brought us many surprises, so just in case you couldn't tune in live, let's walk through some of the announcements."
     publishedDateTime: 2022-05-26T18:39:00Z

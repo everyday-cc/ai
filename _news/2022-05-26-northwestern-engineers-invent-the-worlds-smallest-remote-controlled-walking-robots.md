@@ -83,15 +83,6 @@ related:
         width: 480
         height: 322
         isCached: true
-  - title: "Smallest-ever remote-control walking robot uses shape-memory alloy"
-    excerpt: "Researchers at Northwestern University in Illinois have demonstrated the world's smallest remote-controlled walking robot, at just half a millimeter wide. Such tiny machines can bend, twist, crawl, walk,"
-    publishedDateTime: 2022-05-25T18:00:00Z
-    webUrl: "https://newatlas.com/robotics/tiny-crab-robot/"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 49
   - title: "The smallest remote-controlled robot ever is now this tiny crab"
     excerpt: "The world's smallest remote-controlled robot has been created by engineers from Northwestern University, which takes on crab form."
     publishedDateTime: 2022-05-26T09:13:00Z
@@ -101,15 +92,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
-  - title: "The smallest remote-controlled walking robot ever built looks like a flea"
-    excerpt: "Engineers at Northwestern University have built the smallest-ever remote-controlled walking robots. And the current design looks like a cross between a flea and a microchip. Actually, at half a millimeter wide,"
-    publishedDateTime: 2022-05-25T18:07:00Z
-    webUrl: "https://www.courthousenews.com/the-smallest-remote-controlled-walking-robot-ever-built-looks-like-a-flea/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 18
 
 secured: "hymILj1qK/kjat5CG+zhMjm4nwrQqaq7pttd/hJGa0ld1mZY/yIc0PCTq9H0usd7cZLAlzhXqsP2jnB8vgpmXONusTwI3iT2YLRKNNSRcYptzjNUogPk0ZimG0Tj3IxKPz8ndfuSpjMSIQe/efqvTWeZY+NaEta3oRet+wQnYV9706miD9S3pa2f0UeIeBI6Md2SBfd1dr6rv0xZNIeqKyGFmz6dwb3cq9yfGwrqxynBYzbQ33Z1G7loot3kZ9wa0zveMkucv2DZ6p+fYIOsQN7zwLZ4/wFDePGmZpjOO+u9MbdOfSS5/WIHmnATdbzsMnOjN2lhpC83Vq6pXVOhmUkmPRCkluYLCrqlrOzD3W9CEbzolax2lhb26k25FbOsvycAmXgflaVVf7/vwY00SD7C+4r8d5ruBCceGzMLxWselZXi7rIQ0nwjkaVchgfkp80ej7G0TtAm9IZ9VVondlKMGSJy0v2xg2sCnrrJSmh179W9kaSluHc1BEuf2sbDeQ2TkvHJzeF/kPk+twuYGA==;NX7Q3u+8RAYcL9nvzVjb2g=="
 ---

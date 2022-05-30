@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IMG Arena acquires computer vision firm Signality"
-excerpt: "Agency giant IMG’s betting data firm will adopt Swedish-based Signality’s AI-powered software, computer vision and camera technologies."
+excerpt: "Agency giant’s betting data firm IMG Arena to adopt Swedish company’s AI-powered software through acquisition."
 publishedDateTime: 2022-05-17T12:53:00Z
-originalUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=technology"
-webUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=technology"
+originalUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/"
+webUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "tgjGQrIlfjJygTxI8ey0PVClqNtfEvXhDe2hgBIbWZDgZ+RNzLg5CwYdRohkS00eCNF4P3KJ1/GQdtBqlT0auoYV/M8WXKRZAOFjTokEVPMeGXwXtXNgfyJ+YMKsni52CFvkCpswsXvQT2uiqxmlr6QYTX/17nhhJHTdsuqgFlnhoKWvW30p5jAAT2EcnWBPIQPMaSWFfRSX0Je+SGPKCrERo0LaWh5/4BJIyLe2pijz7cm4/Y7UeXCsZzyAlHpp4X6SMIG+3duQymGifkAACz1M3ZkNPbXFcVIlki5DpOH86qLNEo/TWtOJEB4J1AzdAVoLEcgleibhabrtaYIMb6iCMgOCalzGU1nO6r4c8LEO5Kg1Wd2Y1RmGK3rYGRWR8CuAJkCHyy7L2rorECiSWkGeRKMu/hL8IntDASX+TI0vpRb2N2CAeAMGwYXDDX8TFVhwlN2mnUXZvdgR3kS7EXX9Th52go9dS4NJa6Q+xikqtR0nVHL7NqtnbTYXZpXax2742dUFQtp5eMOfUUoPBQ==;KBtdHCTudaF17iK7CN4o8A=="
+secured: "vKFyF1TVck09ANJHgYUmBlOUACoPtIJmF6O/n21+OHFHid1gb5hqDNxcAHBXjqagSmwe2mjSue5TK7GsNVA3YxZPARZs11DAUiL+Zc28SdoFbcf6D/OyM5cheIL77wo/RZqDbvlKkX8+eBKmgf9H70qfQ3oFJz2cmf+zcuzOy5fWfrbVaRwUeTGe5fzDCqsVEegrKNnSwR2x9UDxMaH1mDL6Y7wYuxOnaBw0iQYC4q81Z0S3eRO/wPbTWJNmzVbALru1pNRhDEEHj+Dy6zAE6FJzrAkfKcRzbkOfus0s9Aw32ytbXdbHQfEkEUXKoBtF0KXCXwOy04Z7ZhftHjwu7ITIp5wy1Dqe/xs6KenXmnbrM6tkh3K+a0GP2422k09kqhzBvLVS0gsZtsUDJ8qubQvzga+1TvsSlGDst5zEqoK0Qh+XrCmQvAQadvWV+di0MYAODDvRlgtX2fYkNeMH6XbvspSD6LEOa7ilMhckZk0yrkj2KFyWTkIRdteOq+Ll1Bm27O5EQ9hbgXT0ROV6ew==;FPEO/d7ozMWgSF6v1kg+Dg=="
 ---
 

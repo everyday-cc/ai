@@ -82,20 +82,20 @@ related:
         height: 438
         isCached: true
   - title: "Google Assistant to soon recognise your voice"
-    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
-    publishedDateTime: 2022-05-30T09:48:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
-    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
+    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature. According to"
+    publishedDateTime: 2022-05-30T10:12:00Z
+    webUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice"
+    ampWebUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-assistant-to-soon-recognise-your-voice/amp"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
+      name: Telangana Today
+      domain: telanganatoday.com
     quality: 44
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/5/2022_5$largeimg_2076542019.jpg"
-        width: 660
-        height: 440
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Google-Assistant-to-soon-recognise-your-voice-831x450.jpg"
+        width: 831
+        height: 450
         isCached: true
   - title: "Google Assistant will recognise your voice command soon"
     excerpt: "Store audio recordings on this device to help Google Assistant get better at recognising what you say. Audio stays on this device and can be deleted any time by turning off personalised speech recognition'."

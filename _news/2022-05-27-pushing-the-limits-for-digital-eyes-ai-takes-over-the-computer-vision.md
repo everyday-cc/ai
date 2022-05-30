@@ -69,15 +69,6 @@ related:
         width: 1666
         height: 886
         isCached: true
-  - title: "HPE and Cerebras to Install AI Supercomputer at Leibniz Supercomputing Centre"
-    excerpt: "Cerebras Systems, and Hewlett Packard Enterprise (HPE), today announced the joint development of a system designed to accelerate scientific research and innovation in AI at Leibniz Supercomputing Centre (LRZ),"
-    publishedDateTime: 2022-05-25T17:58:00Z
-    webUrl: "https://insidehpc.com/2022/05/hpe-and-cerebras-to-install-ai-supercomputer-at-leibniz-supercomputing-centre/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 16
 
 secured: "CrDJwhpdJpJ1HEbEP7Qc9B/knShc+Gh85WPhE8QQLsJQ80LD3kY9bQGpuDdRgDRJCML5LMiAReSKrw5ck+mC4GrakUfYpZqQZWs8iVqTNwvPHBMnJIcw5ifPJOEtsEHh26gRZlA0Rem89pNR79w6LYyIAwW6VbaM1McBwRhLytwkemlbTS6FgxcquVobrxg7PfC5v+svo8skTkGQXZ9hEDoMQSPYf+4kFQepLpjrinsESXTPf209iUaaEqWD28zAOAwEKDqf1Xd0Fij9G2BXtknCHORZ2yx+lXUDxOEbryPwDz3hkXkn1JguyqW5iDyx9Eeco3vOj7DUcu0vAvhBjx3mjeF1wKZmUND+5IKWgEo=;lUNpRVr74694/IKCw6VAwQ=="
 ---

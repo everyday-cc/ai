@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Firms Specialized in Financial Technology Reach More Borrowers using AI"
-excerpt: "Some online lenders and watchers of the industry believe that the increase in consumer lending creates an opportunity for firms involved in financial technology to flourish by filling the gaps for borrowers who are underrepresented in the market."
-publishedDateTime: 2022-05-27T23:50:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-27-firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-27-firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
+excerpt: "Fintech businesses are able to produce alternative rating systems for debt repayment for disadvantaged cash advance applicants because they have access to"
+publishedDateTime: 2022-05-27T22:00:00Z
+originalUrl: "https://www.digitaljournal.com/pr/firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
+webUrl: "https://www.digitaljournal.com/pr/firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
 
 related:
   - title: "Financial Technology Predictions To Know About In 2022"
@@ -34,6 +40,6 @@ related:
         height: 638
         isCached: true
 
-secured: "X3w5HVi7dV3Cu+GMBJyJVJWoGYzytLZOEwyDmn8t+xOfZFb6/zU4/KqmuvHLc4k/WhsxZkLb/RAA1DDe/uDTgsmglY8DmOZW8eHKFx91hvUDsEqgtPhMDXX8gDCCw5KrmC1hV7Aw3hArYa3pLfddMej19CDU2ziywoCoo6xiahTvnlwS0ot/FSiMRpGzk7NyPpH0eYk3y/P6aNQgUwxAicHIPaC5NIB3fkuWqLd1nxWPCO4/nLVKm70IZoQPBN8+aAZV1/P1rKpigDwmgJ0Ya1GbXReVjG861VmQi8/fKtWHPu0WRzBHhXJ1Iz6mPQxFdhb7NAoWb8We+RMZ3n1jD6/lnwRKuObcyorMeZpk8do=;6bnWcI3o4BJU74CMQ9xqbA=="
+secured: "CplnLYe55Pt+ZWg+PkjdvRtd85agVUILahpG8FpptUXBQihSsmL2k38E84FyMOnmjW3+QK6ce2DntMmwpyf16xa1sfGMPTi5wJaPwQWwVK0RN9fbdWfB0gtgO2k49fecLtSH+NxmJSLrCgtBHlxMY26pM9mNBAwupxL5EslOzkvRsLDoCSrTCMG6i3RNGPsjez19p9ku6mrgfsveKR3232V/tWyerstDeyAXGF7lbamrrAHEiu5vLMjRVHPiXVn+JytLEoLcH75M4rOUl73pmrXH/luA1ghFdOjPuqIyq1u0fZpj6DAyjpIQto9uAe2s1Wf3qu7JdqOn7rgRkd7NTGHHjuG5uwZuO8bhE2eWyMk=;AQwQV9ngtdcpVZcp7kCkRg=="
 ---
 

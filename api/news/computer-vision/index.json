@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-30-x-marks-the-spot-for-completion-of-green-roofed-furniture-factory.md",
+      "title": "X marks the spot for completion of green-roofed furniture factory",
+      "excerpt": "The Bjarke Ingels Group (BIG) is often at its most interesting when mixing contrasting ideas and functions into its projects – such as its power plant/ski slope for example. In a similar vein comes The Plus,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/architecture/big-the-plus-completed",
+      "originalUrl": "https://newatlas.com/architecture/big-the-plus-completed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/794d27a/2147483647/strip/true/crop/5460x3640+2+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1b%2F40%2Ff0a63ff44979b4f94f4d3752830f%2Fthe-plus-51883550484-o.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/architecture/big-the-plus-completed/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/architecture/big-the-plus-completed/?amp=true",
+      "publishedDateTime": "2022-05-30T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-28-this-facial-recognition-site-is-creeping-everyone-out.md",
       "title": "This Facial Recognition Site Is Creeping Everyone Out",
       "excerpt": "A facial recognition tool called PimEyes has recently gone from unknown to infamous. PimEyes makes it easy to find pictures of people that are strewn across the internet. That isn't necessarily surprising—reverse image searches have been a thing for years—but it turns out PimEyes is astoundingly good at identifying people with naught but a single photograph.",
@@ -940,10 +992,10 @@
     {
       "path": "_news/2022-05-17-img-arena-acquires-computer-vision-firm-signality.md",
       "title": "IMG Arena acquires computer vision firm Signality",
-      "excerpt": "Agency giant IMG’s betting data firm will adopt Swedish-based Signality’s AI-powered software, computer vision and camera technologies.",
+      "excerpt": "Agency giant’s betting data firm IMG Arena to adopt Swedish company’s AI-powered software through acquisition.",
       "sourceUrl": null,
-      "webUrl": "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=technology",
-      "originalUrl": "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=technology",
+      "webUrl": "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/",
+      "originalUrl": "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1333,49 +1385,6 @@
         "Computer Vision",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-editorial-513-facial-recognition-software-use-raises-concerns.md",
-      "title": "Editorial, 5/13: Facial recognition software use raises concerns",
-      "excerpt": "Lincoln police have used facial recognition software from the state Department of Motor Vehicles to help identify 23 possible suspects in crimes as varied as shoplifting, burglary and",
-      "sourceUrl": null,
-      "webUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.html",
-      "originalUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/5/4e/54e4fc76-17c8-55b6-b532-351a4ac46bb0/5f011cb378336.image.jpg?resize=496%2C320",
-          "width": 496,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html",
-      "cdnAmpWebUrl": "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/opinion/editorial/editorial-5-13-facial-recognition-software-use-raises-concerns/article_a130b3a5-6003-5c1b-9b43-36a85ae0e603.amp.html",
-      "publishedDateTime": "2022-05-12T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lincoln Journal Star",
-        "domain": "journalstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

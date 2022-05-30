@@ -1,12 +1,12 @@
 ---
 category: news
 title: "6 business risks of shortchanging AI ethics and governance"
-excerpt: "Factors inherent to artificial intelligence and its implementation can have dire ramifications for your company if ethics and governance aren’t baked into your AI strategy."
+excerpt: "Even if the AI apocalypse doesn’t come to pass, shortchanging AI ethics poses big risks to society — and to the enterprises that deploy those AI systems. Central to these risks are factors inherent to the technology — for example, how a particular AI ..."
 publishedDateTime: 2022-05-17T10:00:00Z
-originalUrl: "https://www.cio.com/article/350290/6-business-risks-of-shortchanging-ai-ethics-and-governance.html"
-webUrl: "https://www.cio.com/article/350290/6-business-risks-of-shortchanging-ai-ethics-and-governance.html"
-ampWebUrl: "https://www.cio.com/article/350290/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
-cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/350290/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
+originalUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html"
+webUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html"
+ampWebUrl: "https://www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/100000595/6-business-risks-of-shortchanging-ai-ethics-and-governance.html/amp"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 682
     isCached: true
 
-secured: "7w+Fy+52KqUoVFNBp2jI3qI8+zKoTFZxuC7Wc771sVTlJCdz04l6MuZu6Nw+PRiS0x89PBWWv+vyix/mzuP8rldmqwiHEjfSIdQ5E2A3/R5jwmzqHOvThWuHSDsC1MAmpI7EHnM/iLCMlKssHG9y2idjb0C1CdQ44p4lWEmhiSSjflbBDhVhO76ItQEvQmd4zvBD2DwLYw/vNiw1I3tXtWNp3lWPB8FrW1WG5KyE4B63JO9yRw8WxDyRzfKEWKZ530GkQkOrMPM2p2q9m/sRNIjPHexWR4H5miWnpFHRRhmesciRvCtHj2ro7zZRgnDgQaJgqfV+OBqw2DIUqZFAdOB9ceiyNT+PqakT1dEJeWcBRPTRPMAJLrRlzclFz3U98UbuAhuyVeVgn4ptDkFe42e+LXRV1bNcRKRqpMsFp3mkhV3N72hHf5j5T7u3P9BGjUgA9pKXdwAhLgXzZ7lyo5iLnBO6NVD5JudB0XmjFmV2JiiGQogKGcCSJAuEY77UlMq8/JB/O73R364YbQeXAQ==;KFiAyoa9bxeTCCrm7ONz7A=="
+secured: "rEB6hMyqLNxV+c8sjaZsTXDP/xMKxgmfablw0TFbuFQBlW09T3EiX3NRz4oV0ungXsgzPORVNDW7x+8IPxUP5BaO9+3bOrX3smpWmp7L9PZTuYS5+SZnqskV+VJfigqh/1ziVNLgHWkMkx+J59rTu1H6cGbpZ3J7mpbf6qKVOewspQtFaxEy6e2lMzHQh2GLZu3RqwJiz22hNU6vZF/s78nqJ3tFDs+hKP/vRd7wMt1XgGthlpARHWY308DAxDRWbeeB5RGH9Q4yGkFOD/BNJxkDWHEZLYLcxJzoVXc4hAebuolacGuiPeVfUFjW1Tl7aC1iiNjPJRFWMeFtEWy+XcRWrT+ftRSep7Ci3a+eTzc=;ZrY5AKwseoUPybmAS8cI3g=="
 ---
 

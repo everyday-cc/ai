@@ -74,20 +74,20 @@ related:
         height: 438
         isCached: true
   - title: "Google Assistant to soon recognise your voice"
-    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
-    publishedDateTime: 2022-05-30T09:48:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
-    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
+    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature. According to"
+    publishedDateTime: 2022-05-30T10:12:00Z
+    webUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice"
+    ampWebUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-assistant-to-soon-recognise-your-voice/amp"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
+      name: Telangana Today
+      domain: telanganatoday.com
     quality: 44
     images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/5/2022_5$largeimg_2076542019.jpg"
-        width: 660
-        height: 440
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Google-Assistant-to-soon-recognise-your-voice-831x450.jpg"
+        width: 831
+        height: 450
         isCached: true
   - title: "Google Assistant will recognise your voice command soon"
     excerpt: "Store audio recordings on this device to help Google Assistant get better at recognising what you say. Audio stays on this device and can be deleted any time by turning off personalised speech recognition'."
@@ -124,6 +124,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "/NjousMYERb72bidDeI8XzbKaObd4AVJ3l6B6z5ELzqnIIcmeHnpHD4QXSQfKvA2Tz/XzIl3t4IoZERteLAXHUd2oyFe5uNNHnO20gkNex76Lo07mHTHd5MEMP7REyGr5ZP6fxzcrF2MQ10hc3f6x/DM+J7zUzu1FBSqRE5nWBDIQD40OvwUDdrAMpoHf4dZiTd9BJbN5/3n9BGgrzPTcHEirVukkYnuoqBTysFaTVABAx7pVp+6z4K8lR06jej3WsBHC5PCd2zBKlQW20A3BqNHH0jPym9ntC5dwJVfvRJ02r60IU0jaTXvrB+NRk0bNzMR6eBqrcj2Bf43tOJhf+GWzCkJdb2lJbOAPt0BURc=;3Y59bdemnJL12jWQNcnI4g=="
+secured: "YDsnRfkIJYU2YT2XL8eT8TOdQ3NWqt8iCcPvHdPK5UNuGUZT1rP/EIfX+QCajbtdEgI9OISEG9QYkoE2Ffk4/G+rT2/1z7KoaYAQm6Tlm7CZwbsjG723Fso8g+JKfcaSwfRy6oiwliebokfO4VqBNmERCXf6gxSLBlNA1J/T8XaQZomY9qKZPj0nQ2+JmfCpUseDiGNDrkiq+IEe71BCCy44CgUCTB/is6dy3RJcKC40m/YPHjEcVtxUW7EQe8R5eA90gJ1yMrqayKq3MbID3E0oSUkaQT9mwRdsqZGeP5PNvcHyDWx454McP6HoV7NazVzAO9CLy6ZYsg+eo5lvJQ5PV5utZH49B+A3kqP2trn8seuSU+2Yu+Er/YAKLiUhzt76N0DUjjXn3JkY3SbeQZ52kOLDI8gYNMQN2seLq3w/nafshFCwxuzR4h9pnJ0tG+FJwA47KYbD7HYqbAIqh6ZpNYfG9571irMOUBtOXBmPABGNardCHtPgu/jzBnumN+iBagx1eGANM3LVYLlCRA==;RFjlayfqpQU/xb4nNqL5/Q=="
 ---
 

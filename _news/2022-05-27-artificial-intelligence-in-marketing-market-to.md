@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27435408"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408"
 type: article
 quality: 74
-heat: 114
+heat: 144
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Drug Discovery Market Projected to Garner Significant Revenues by 2031 -end"
+    excerpt: "Introduction. According to the report, the global AI in drug discovery market was valued at US$ 0.35 Bn in 2020 and is projected to expand at a CAGR o"
+    publishedDateTime: 2022-05-30T10:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-projected-to-garner-significant-revenues-by-2031-end"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Rezo.AI launches a game changer for Enterprises fueling Sales, Marketing and Support teams to boost revenue growth"
     excerpt: "Rezo.ai, an AI-powered CX Cloud for enterprises that are transforming customer experience, improving agent productivity, and operationalizing real-time intelligence"
     publishedDateTime: 2022-05-26T19:42:00Z
@@ -36,6 +50,34 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 29
+  - title: "AI in Social Media Market to Grow at a Stayed CAGR from 2020 to 2027 | COVID-19 Effects"
+    excerpt: "Application (Sales & Marketing, Customer Experience Management), Component (Solution, Service), Enterprise Size (Large Enterprise, SME), End-User— Global Forecast till 2027 Social media platforms have been showing sheer growth in the past years due to the rise in the number of internet users due to which a huge amount of unlimited amount of data is gathered every day."
+    publishedDateTime: 2022-05-30T10:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-to-grow-at-a-stayed-cagr-from-2020-to-2027-covid-19-effects"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2022-05-30T10:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI in Medical Imaging Market Size in 2022 : 45% CAGR with Top Countries Data, Key Regions and Growth Forecast to 2031"
     excerpt: "The global AI in medical imaging market in terms of value is expected to register a CAGR of ~45% between 2022 and 2031. Artificial intelligence is"
     publishedDateTime: 2022-05-26T02:54:00Z

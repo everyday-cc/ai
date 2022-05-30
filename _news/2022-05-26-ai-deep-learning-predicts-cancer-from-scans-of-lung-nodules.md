@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) to Predict Cancer Risk of Lung Nodules"
-    excerpt: "A newly developed artificial intelligence (AI) tool predicts the cancer risk in lung nodules seen on CT. Chest CT is such a sensitive test."
-    publishedDateTime: 2022-05-25T17:43:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-predict-cancer-risk-of-lung-nodules-207286-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 72
-    images:
-      - url: "https://www.medindia.net/health-images/ai-spots-lung-cancer-than-radiologists.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "AI-Based Tool Helps Physicians To Predict Cancer Risk of Lung Nodules"
     excerpt: "According to a study, an artificial intelligence tool can help doctors predict the cancer risk in lung nodules seen on CT."
     publishedDateTime: 2022-05-26T07:41:00Z

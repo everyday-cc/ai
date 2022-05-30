@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-developmen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Federal Advisory Group Report Focuses On Diversifying AI Research and Development"
-    excerpt: "The National Artificial Intelligence Research Resource Task Force issued a report outlining a framework for national AI research and development, hinting on equitable datasets and computing access."
-    publishedDateTime: 2022-05-25T18:32:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/05/federal-advisory-group-report-focuses-diversifying-ai-research-and-development/367397/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 12
 
 secured: "7CsGBIvnDYmOoAwv1ieUvedBQreKHT6hwoy3/wKZ5FUr8+GAUZ4mVtfj/oomnxbw+L39JHp47tOM7ZUNoBojO6hzbf2EgWmQUM5zK25/U3hJVLM/deSSIi0wjIn3+syDTYJD+W8t4473hGDo72cFYnCPWigTJAkEA9uxRjQ9film0hNFzaX9YN1tX48lvjkHq/v45bM/L6bMd5TjqzQ2E0N4Meo+GNgqDd9ZtgeQuzisSUWv11W6LHG8jKUMfK9omjIaMzO1ryKNzM8enRH+5z1MYD2HKCkueNy7wtPK6nVOZIiWmMWAIU0PfUvZthGfPUwQxrkpAcuoGIZA+NuhW6W6ldiXgw6XwuA89COoI9c=;CEhm6Rx4SIDNbf/TCzZpXw=="
 ---

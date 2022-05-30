@@ -3,12 +3,9 @@ category: news
 title: "North America Self-driving Car Market 2022 Inclinations & Development Status Highlighted During Forecast Period 2030"
 excerpt: "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ..."
 publishedDateTime: 2022-05-18T14:41:00Z
-originalUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2022-inclinations-development-status-highlighted-during-forecast-period-2030-2022-05-18"
-webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2022-inclinations-development-status-highlighted-during-forecast-period-2030-2022-05-18"
+originalUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2022-inclinations-development-status-highlighted-during-forecast-period-2030-2022-05-18?mod=search_headline"
+webUrl: "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-2022-inclinations-development-status-highlighted-during-forecast-period-2030-2022-05-18?mod=search_headline"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
   name: MarketWatch
@@ -28,17 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AAA: Consumers Skeptical About Self-Driving Cars With Good Reason"
-    excerpt: "AAA researchers also say its latest survey of driver attitudes shows that drivers overwhelmingly want automakers to improve the performance of existing driver support features rather than develop self-driving cars."
-    publishedDateTime: 2022-05-19T03:00:00Z
-    webUrl: "https://www.chron.com/news/article/AAA-Consumers-Skeptical-About-Self-Driving-Cars-17182775.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 4
-
-secured: "hhjXcUcAZk0lgmEECDPgocZjL0tRbW7VmfjwIvodpk6oe5UfczeHdFK7beYvrYlQ2cPkJt0mx6HOn9PLXwwRVh9VYpmDc3N/8t6cITVbbpSXo3964NID0ctCUufylxBKpMnCTkoevXw2/tv2CWdOMqWvz01yE6ZTJyfu4HDso0Pbk1szJBEHl8riTu1HyfDL7fDUftpiuw1S9PvZhvq3wO1hOqMK9+zIOZh8GyysFRRoJV4S8N0Twp94oM5l4rnRzpPX+fCQz4k1mxdQT3a8XfR8GroCcrAGYXgwWjPB/FIgkJ3dSp+0msP8+vGokxNKqPbTJQeZvQLCE4MbCOZmeekGtZQBxj1bbuTBUzSsNwc=;K314TkVCHPTc6NaOtv7HSw=="
+secured: "7k+PWXszVfTdAqE5wnrKzC/oS+HlKuAZ1yIXLPPfURIS+xzGfnhQH6EzPY+m/NPRhYrxDDukfgQ+Kxa72THyzuEO0uttJprer57F8JbmLjBrVu0rXuGMY4mcRVLMt4A8v7v/yxjSVEM+8+SeoATvfTyvNbA7jJnasnXdeHrsje0AAGFA+EEnwi9AUkmgXMCWT+gPtRzvU1KN/X12uya42a9L91mdOVXFwdon7YGFTjWSkuaxF17IrP87BuhQG1JaoWzqHGdCjvcRFcBFsnSARPhDMqIxfipIjFIldySyfFohKNhr7eudzqIZjtiCZyV0ZrqCA0cVDIb9f7jAgEOyu8JlhRhDDcYP1dMZGeBvMw8=;vQmx2VdpzaaqwHDyvwcKFg=="
 ---
 
