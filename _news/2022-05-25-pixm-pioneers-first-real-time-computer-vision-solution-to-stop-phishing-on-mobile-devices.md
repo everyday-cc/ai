@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/e/65/e655e9f0-575e-52f4-b579-25a9e66d0676/628dff8cdd9d4.image.jpg?crop=1080%2C567%2C0%2C676&resize=1080%2C567&order=crop%2Cresize"
-    width: 1080
-    height: 567
-    isCached: true
-
-secured: "FT4SaQgGq1H2fnwIRKme5HUuYSyksiWsnTYcCQdNc5B2Wpds5E+TI34EAeXdAT8kMGeYujogMZTt9fXEBKlotsvWkDRf6i+bKAt1BJnNaUzv8DGQK+dzBIyJA53vNFtgu8mOtnoKYN+2wFCNyKantvv98DEZQG5Hb2fay1qZEqm5oSzbMJBFxqrOTMEarizw4Ki882ytSBxkxNrWnjPhlT2Lczn0zvKJ8xn1pZO+qjublqDgyo5FJ3LVZ2zQgVcy4iXdlyWCNeBraYcZ3YtY0hahzLQDldabzbzBOfHlFW2N5sJQw03DDu0xH3xYyp11zqgClGmD9zcHwDjt6Qwr/+NQ8oVkM4rt7SZeYWJ5QuY=;USbXH0bxHgjJnAkzsYXgpw=="
+secured: "imo+5zGgS+xy3iqFjMeehQC4SJvtTf/aA9vwpFjFXb5r+hGvV5akIAnDDymz9k1d2y5VzyFFGSGBf6RdoCVC386hGw7In8nGO5ckn9pgzZPUIGvdwYtw56yilOvPeYiHMfyrZ0LHUOrrTRBMckTuZuiW4y19/aait8jbCREyELhdYLMkLh4PGDhjfdswoEo0VxIb5Zgh+5aLblLHtNlejtxWxK5dAZGdBFKzuP4OdsxO5IMnwpNfpTWmJfFJaNjoHP36oi4Z1e/5+UYX2Za98hrEdvT6eXsrTlQx0u1/QvplVne1T4c+1PGxHyF6cilIKZftjnPclQfP8lEGiRQJlIoXrqfucpUYrfAAdXvDbJA=;z59J6uiv3eorqImzXfsIzg=="
 ---
 

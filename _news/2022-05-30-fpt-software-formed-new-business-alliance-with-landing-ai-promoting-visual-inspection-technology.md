@@ -1,22 +1,19 @@
 ---
 category: news
 title: "FPT Software Formed New Business Alliance with Landing AI, Promoting Visual Inspection Technology"
-excerpt: "Vietnam’s leading IT firm, FPT Software, has recently entered a strategic partnership with Silicon Valley AI and machine vision leader Landing AI. Both companies will tap into their Artificial Intelligence (AI) expertise, deploy end-to-end visual ..."
+excerpt: "Vietnam's leading IT firm, FPT Software, has recently entered a strategic partnership with Silicon Valley AI and machine vision leader Landing AI. Both companies will tap into their Artificial Intelli"
 publishedDateTime: 2022-05-30T08:18:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-30-fpt-software-formed-new-business-alliance-with-landing-ai-promoting-visual-inspection-technology"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-30-fpt-software-formed-new-business-alliance-with-landing-ai-promoting-visual-inspection-technology"
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27460278/fpt-software-formed-new-business-alliance-with-landing-ai-promoting-visual-inspection-technology"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/b27460278/fpt-software-formed-new-business-alliance-with-landing-ai-promoting-visual-inspection-technology"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "E+QM2AfakVR7fxBpEdYeG85nqMrOSL/kiIf7XNgIAQa7twPlmw4WtNQ3owHNV9viMoST4qAf+k9G5VqoFiAD0UyUUChLit4y9wOLArTedYAwbVLLrABEtPLarBV6pi1FTG0F13TgZWqruSaDYwUfnO88J2qhv45feynDoBLWaRG98wWDQhnsBxnI3zPg9qmXKS5JNJDqFEDWXj9n6l1CLMaLOCCkKxz1+4wm+fh7fpcfzs2OVkcypjxNUZD7XRIO04MJqUP2VpaJUeDxLDvb8xkok5AAHannbG5oOxhzmA4DL+kXQzOeosispAdQQa4wXw/46ohu9NfKk4zxOrPLobOE8Qvo9wFSlLztMwZPVzsXbCeQvO0ioz9U/062z+PcBFa7+nxx480ma++LPaCR5SMQ5y7gXnbsznXBG9zvnepyT3ay+LpsxWeQfT76RukwDLzxJsSJf//SkALQciijmSGSdL0oVmPAYYYKqetMuNYXdRLP6/cRNhY1Zq/Y6SXZIKUHefBERUkVwe4/bc5TUQ==;K9gK2dgV9PotxdEAvoW5Tg=="
+secured: "sY0BQvBoBqsHM+UQKsnLJvNvTqaWxQvTvJkT5/+8oH+cjXHRapSAAzBWUVSDVqSttPisaV4K6qk8gc9lGwXmgfA/YDbrn9d2aLYgL2gL0EJIaXFX4rimtruo2ljudLYWbfBl8Bu6JowSqhtaSO3c1bCfiIy2v7VExG9Y5w/gxjyflPH0jCMZW2bcsR44tkOYvnLHFsa1axSUtpU7RGZf+EsC9VmrXmPbnHe7iOQIfIcDBPhNST0qv0JBgKEz8j0XA1iuksr1LUyYPzW4SNbFo1dJ+xwxOcXmhGC/1Cq4W0IIWIU8yaNp+jle3jpLFCF4IWJDNRvf0Ohlfs2z9tLGCGEBpJj8qEoyWh2Qde4WQ15+VZbUJVcl2WVcA25OkqMARknOVLgqA8cCVOxju0l6g0sQnZbohpNivGBswXIwZeCUQoENTZnUqabtExXHGTg3czKFOxJ84q6EhDPHlAZL0sXsNqqSPia6NVAmOIpNLphdWCibPiezmbQ8JgT8nTPFGxRKzwxTMuw7olRZgpkqJA==;YYkvISW88DGj0pMbsM/C0w=="
 ---
 
