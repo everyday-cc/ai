@@ -3,16 +3,16 @@ category: news
 title: "Smarter health: How AI is transforming health care"
 excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
 publishedDateTime: 2022-05-27T14:00:00Z
-originalUrl: "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
-webUrl: "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
+originalUrl: "https://www.nprillinois.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
+webUrl: "https://www.nprillinois.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WWNO
-  domain: wwno.org
+  name: NPR Illinois
+  domain: nprillinois.org
 
 topics:
   - AI in Healthcare
@@ -70,6 +70,6 @@ related:
       domain: wlrn.org
     quality: 19
 
-secured: "F+OKTjpjOYqWJMADeHg+C1Q6pToqQuAEtjxnEi9VdPFW8d2Yy8zQ0MHIwAQQf8/pumcKQjJl3y3ooya3DC8a44k5CgQv1VLYXJ7pCgRQAch4Y0+4gTMDk4CkFquWucEa8liQVaMSJ6gUwdxI1ewsNvRO+WImD0PoSF+cQ8dXbu+6Xr87KD6deXjC0Dpi/aFVg/SXbNrzRzvTcbe8kUoj2e8sOvvYQqppVikMwAwI7PBI/NssHCCHK2yXIKFlpcfKsE/X1RjuaRb2WDE1CrU8IarrPmsS+H4an9Y5+y3pYZdfaZXkK5xOIt6gy+1i20JqYypdZrASr3eotpBC7yOyUPfleP8tYNas/mpJ3sW/TLs=;kw6sZgkhrD+cJiOH+Bitng=="
+secured: "/7TLdRQ2rE7NR4CV13xC3MWQw05Ve5+po0hk5BqWxFOtNwVH8wbpga7bdLBYkwPJyoPwiWZehuSp+zmPqAFIEHPxoTZPgyydQ9BnD/PIeWaCopaOawFRe9Q5Wv/2ZvDeWAC9uQ4HCvPBty6LpW9xrEWde6lgc2AARQWHtY3xLxS14cuF++l+/ZF9RzgZqNcT+r3/taDq7djCU0LOxT5/HAfUrO4ejJ1oNymob84GDL8TflZSwtajH8HQ4LCqLdGA0DJuNdrDQI1AhkdKd4lLPvGd9AWGpD9ECvcFnkE+iweJHerwmOmIYvtmy2W0V7t5eWdD8v6V9rmNhMTpII4NUQr2Ku+SUQBfXTK5uZ10bu8=;7FQLPn/HhciaCko3snF8ng=="
 ---
 

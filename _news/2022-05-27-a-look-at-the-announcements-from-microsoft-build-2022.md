@@ -126,22 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "From Windows, Microsoft Store to Azure, here are key announcements from Microsoft Build 2022"
-    excerpt: "Microsoft has shared a host of announcements across platforms at its flagship event Microsoft Build 2022. Here are a few key updates from the event. Windows 11 . The tech major ha"
-    publishedDateTime: 2022-05-25T14:09:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/from-windows-microsoft-store-to-azure-here-are-key-announcements-from-microsoft-build-2022/article65460299.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/from-windows-microsoft-store-to-azure-here-are-key-announcements-from-microsoft-build-2022/article65460299.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/from-windows-microsoft-store-to-azure-here-are-key-announcements-from-microsoft-build-2022/article65460299.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 63
-    images:
-      - url: "https://www.thehindubusinessline.com/incoming/5d2hps/article65375211.ece/alternates/LANDSCAPE_615/2022-04-26T194957Z_372594_RC26VT94FX9B_RTRMADP_3_MICROSOFT-RESULTS.JPG"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Microsoft Build: Windows Terminal Preview 1.14, Microsoft Graph updates, and Dev Box"
     excerpt: "Microsoft’s annual development conference Microsoft Build is taking place this week. It will continue on through Thursday May 26."
     publishedDateTime: 2022-05-25T20:43:00Z
@@ -290,33 +274,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 46
-  - title: "Mac mini clone offered to developers as Microsoft embraces ARM chips"
-    excerpt: "Microsoft has revealed what looks very much like an M1 Mac mini clone during its developer conference, Build 22. The device is known as Project Volterra. The resemblance is more than skin-deep: the machine is ARM-based,"
-    publishedDateTime: 2022-05-25T13:06:00Z
-    webUrl: "https://9to5mac.com/2022/05/25/mac-mini-clone/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 36
-  - title: "Microsoft Build, Thick Versus Thin, AI Platforms"
-    excerpt: "Microsoft’s Build keynote was impressive in its clarity; it also emphasized that the thin client model one, mostly."
-    publishedDateTime: 2022-05-25T13:40:00Z
-    webUrl: "https://stratechery.com/2022/microsoft-build-thick-versus-thin-ai-platforms/"
-    type: article
-    provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 34
-  - title: "Microsoft Teams and Power Platform to Get AI-Assisted Collaboration Features"
-    excerpt: "Microsoft is showing off a number of new features for Teams and Power Platform developers, including the ability to scan photographs"
-    publishedDateTime: 2022-05-25T13:41:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-teams-and-power-platform-to-get-ai-assisted-collaboration-features/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 31
 
 secured: "V9N5lKtK+dgkr7hkO9sBCrm0Os6uwQJ6mCmWxnwj/Fzh4n+svyjCCYQrPMahEpoPP3nsYul8OM8Bge/IAd+UX/itGYm6SvvSAfIvjOokQGNwv3bGHoLRuswil+P8CjOC3Zs6jJpK03p4N/QfCpbe6yLQyCIw39lc0S4Ux+M+LZBspTCwm4EEfHDLfkoiS53TxypZ6/dLcC0n6+7r9Crh5966SGX4d/jw1OyIqYKTzyr3gGf3W9QBcpxYuoeDt86Xuf9VJxF2jUbl6iBuLfYNcadoZnsOGQyGUvNHRVQCePWTvCr0KSba7L1fwpMF0Wct3BPTIdw59tjqyVD6TNyhRKHP0ICunK9T6Q0oz3ekkCM8tjGC23k9l6+2ZpvrzecJ0pC/uIQR0TmQHjpSY9ljn/LEemy9yn3Q6pN2cUyCiXLCqki4Wx+XbBSzhAhvI7BjJTZdBV4owQDiWfbmkoY52uorJPM6N5QJP1R9HH2Vs+QhvLV26Rz/E3MSV4jQDslMAoWPNgm1MtbM5U2GbEhaYw==;pv+DWuzSje7utP2US6jjOw=="
 ---

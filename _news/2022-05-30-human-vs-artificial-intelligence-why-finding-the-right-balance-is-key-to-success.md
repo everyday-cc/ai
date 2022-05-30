@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//629450cfe45063944fd631b9/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "okJZigAp17JaUGpK65lqlHBWnY3d/SBedIBHZUqqk9KdwG4nLmBTjbwn+4XrTLoYweuEsnVt47d3e0C++z1z1158Se1jm3eTtx6X+G8tbwpaCSEHq1ocLm17t8x/rChkWojtPEXnD+PJpzp3bvEFfHWLnt+UbDuf+6tX6vQsnOOSfoaflebzJGOG2YO4mFC7XCTxEgrsxymd/t1MnSlv9osL3FcARwELro/U5Ye0AyMPJyl31mIfUwOk4HdPpkAMTWPhaG5ZqKCPR9QezaxpttLrT+uxaPcsAJsHH5arqQT4crAd3QL5XU70eO29zUE3+aY7NVwHX2J00uyeSgl2vw/mwjr6D4tTDICpZzOqtTU=;Y+ueDPtls9/5Dgww2CPyDA=="
+secured: "FimChhVcquQEjnvrNA0USiNzJ6vjOP9ozIur4EEjlqfvdwgrw7y2Ef7PEQrTRShgIFfPn1h3+uVEkhFSv82nq60GfCkVa2Xu3GoyTfAzFF5EC/l0gIBJRQVVaCZVXnkx9sYARZUWNRP+5m3laVZJUpsvZrJLLMlMrzCN8Za3Ec3YTYRK4N1z7D1pYz6HX+rjPgpjRlHlzxQetAxmt6hglGbULJRcRoMAzARP4oHXclStJ6EgbB4HZdyFQwyLrBl8JHMXfgjzDQ65+RQj7rjs8/eGvZlc8KwhVTuGxqedQMKjS6dui5q4I2BuCetEd2/WEh/USKYZXd+rtHHsvvCRYJtKs69Ml8sFkxn/DuvdKDOJGLyqdnCj3x2FdiolKCuoIMVMJMtkXH3/iyeTn6J70SwQ1KMsws6GG0ky7xAB//VKLkKC/s2vg/0eFnXG/usYkIrhBLM7nHI0ww6es/R3FZlrqPVz2p2JcV1M0QMzRuvQS2M9N+LMcIbUMX894nRCrOj9Fo+ZNqi9H7FPH+Hnug==;JYUHJeQ0Aki5kmemPHdwdA=="
 ---
 

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "When self-driving cars crash, who's responsible? Courts and insurers need to know what's inside the 'black box'"
-    excerpt: "The first serious accident involving a self-driving car in Australia occurred in March this year. A pedestrian suffered life-threatening injuries when hit by a Tesla Model 3 in \"autopilot\" mode."
-    publishedDateTime: 2022-05-25T13:32:00Z
-    webUrl: "https://techxplore.com/news/2022-05-self-driving-cars-responsible-courts-black.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 0
 
 secured: "AzBJID7Xd2ncz/i2zJ06UeILsHjevbwtecUuMT1zDhC2fJZ4IRld9BV+E2GRmjgHs5XSCK20KLv/XuAcM6TP72T5WjxoES65/wxFh8sasD3H6fZzeIjdnJWA9S/cTedMr4HqBctcH8VHTJnPuwyhRGubUXpxsDvHvm9S6SsYpghOmyZv7KLPiFkQTE39wKL+IekWUXUz7AKzNzopSqKRHV+XLwG92H9sOb8pQXg89a/ULncDegFbNmpkFbsx8tzfbHERTIAqIHOlE3byiOmxaT6afbOztSRFx6udEjERzVBgIA4yygoOtHJa5goYUBArutrOaV7lXjIjK8tQPoePqHBr9eFeCUTyXHFTBNkvj6s1+Q6AMz0lj09WqiIPciPMbPpC3lDwismgS6lXxg2SbGsFYojSXOQvoopTlmts0Jx4TyOVVZGzkqACsNisWStyxfEWGs+B/bAiDVeFOhlriVhS/pwRhBv4z7PRz/XG80N+FZl6H6giVQcybryF+0f7DKPSs96XV7zItQq1bzTELw==;5bKcIVj80bceiAR0Nr3NYw=="
 ---

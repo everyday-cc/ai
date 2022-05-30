@@ -42,15 +42,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "AI can predict cancer risk of lung nodules"
-    excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study."
-    publishedDateTime: 2022-05-25T13:46:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220525080512.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "AI-Based Tool Helps Physicians To Predict Cancer Risk of Lung Nodules"
     excerpt: "According to a study, an artificial intelligence tool can help doctors predict the cancer risk in lung nodules seen on CT."
     publishedDateTime: 2022-05-26T07:41:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/backlash-over-law-that-would-le
 webUrl: "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t"
 type: article
 quality: 53
-heat: 93
+heat: 73
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gardaí will not use facial recognition technology for ‘mass surveillance’ — Minister"
-    excerpt: "Plans to introduce facial recognition technology for the Garda are “not about mass surveillance”, Minister for Justice Helen McEntee has said. Speaking at the Garda Representa"
-    publishedDateTime: 2022-05-25T14:40:00Z
-    webUrl: "https://www.irishtimes.com/crime-law/2022/05/25/gardai-will-not-use-facial-recognition-technology-for-mass-surveillance-minister/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 32
-    images:
-      - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/uT4VvO8PuljKZsxQIoFpT_zqYqg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BV4CFZ3HQ5GEPFN2ZFXFDRUNKU.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Irish Times view on gardaí and facial recognition technology: scepticism is warranted"
     excerpt: "Europe’s highest court has deemed more than once that Ireland has failed to implement the kind of protections Helen McEntee is now promising for facial recognition"
     publishedDateTime: 2022-05-26T16:23:00Z
@@ -53,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition technology is ‘very necessary tool’ for gardai, Commissioner Drew Harris says"
-    excerpt: "GARDA Commissioner Drew Harris has welcomed plans by the Government to introduce facial recognition technology. Ireland’s most senior officer said the new measure would help gardai"
-    publishedDateTime: 2022-05-25T13:18:00Z
-    webUrl: "https://www.thesun.ie/news/8850562/facial-recognition-technology-gardai-drew-harris-latest/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 21
   - title: "Facial recognition technology ‘not advanced enough’ for use by Garda"
     excerpt: "Amazon had been selling its controversial Rekognition software to police forces in the US. But along with other industry big-hitters Microsoft and IBM, it suspended sales for law enforcement purposes in 2020 after a backlash over police brutality and the ..."
     publishedDateTime: 2022-05-25T19:20:00Z

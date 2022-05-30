@@ -64,6 +64,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
+  - title: "Albanese has pledged a referendum on an Indigenous Voice to Parliament. He may face strong headwinds in Dutton"
+    excerpt: "The Uluru Statement and voice referendum will help define the Albanese government. But it will also tell us what sort of leader Peter Dutton will be – whether he'll see it as a gift, or a political weapon,"
+    publishedDateTime: 2022-05-28T19:00:00Z
+    webUrl: "https://www.abc.net.au/news/2022-05-29/albanese-referendum-indigeous-voice-parliament-peter-dutton/101105084"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 0
 
 secured: "pHQ8nzutcd2MMjKXnwEAWu/ZIGOtykG1ocKebXWsTsiTvOa4ph2KNnGPzboZfGMsRL1gn0rPT/kAd5IfzYVUGzC0rsuBT/fCcvmL6Sk7d4WTXuXYjBn6uO8LHa5l8mXBQfI4aYTz2ZitjzFkcH241X8YdehWt0EozZGhUDRuEBZ6oQd6teiuYYkO/qmTLJNdLw3dherdLs1QSmOl/sqhsvCPm2GiSwHDhH0k8a6qLNhbodDFAyfC6mz74a9SnM4adQfKBVOekmvpXeyzBmEGD/3e7a2IpS8f78PrfKEMvxC/bynaGsEiGlWJBxYTdaXCpGIO0l41IpKle/FHnZ23vW9o8Y06+xnt/Lk2fChjMR4=;b/fU/SfHLz2SOKCCxAqhjg=="
 ---

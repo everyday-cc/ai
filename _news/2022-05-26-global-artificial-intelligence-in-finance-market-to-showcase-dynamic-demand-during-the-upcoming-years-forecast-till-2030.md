@@ -35,20 +35,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "AI-Powered Alternative Data Driving Extreme Market Research Disruption"
-    excerpt: "San Mateo, CA // KISS PR Brand Story PressWire // Numerous indicators make clear that the next five years will usher in extreme transformation for a multitude of industries and sectors as well as the global economy at large."
-    publishedDateTime: 2022-05-25T14:49:00Z
-    webUrl: "https://apnews.com/press-release/kisspr/technology-science-investment-management-economy-ee60e3f85ac3f2d9779e530f37e127ac"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Rezo.AI launches a game changer for Enterprises fueling Sales, Marketing and Support teams to boost revenue growth"
     excerpt: "Rezo.ai, an AI-powered CX Cloud for enterprises that are transforming customer experience, improving agent productivity, and operationalizing real-time intelligence"
     publishedDateTime: 2022-05-26T19:42:00Z

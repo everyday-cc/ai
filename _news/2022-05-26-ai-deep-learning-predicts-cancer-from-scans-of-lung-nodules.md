@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-d
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "AI can predict cancer risk of lung nodules"
-    excerpt: "An artificial intelligence (AI) tool helps doctors predict the cancer risk in lung nodules seen on CT, according to a new study."
-    publishedDateTime: 2022-05-25T13:46:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220525080512.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "AI-Based Tool Helps Physicians To Predict Cancer Risk of Lung Nodules"
     excerpt: "According to a study, an artificial intelligence tool can help doctors predict the cancer risk in lung nodules seen on CT."
     publishedDateTime: 2022-05-26T07:41:00Z
@@ -67,6 +58,6 @@ related:
         height: 360
         isCached: true
 
-secured: "0ucGIOGqGxqlDHm13rRF/K4dLZDYS6QNXfq9DpjsSwIjLyNBp2ivIycFbAgxYMSJWFKKk7huViS4Ov472T2TmxxnjuaVcrMWb7NqOPt9yGC5Kfh1iAJO9aRgC6xfHcmAZxmuRc9VEynoGDy1DOSLoysZwZb32PNlwxS53Yp7j+TBPEsMX11+a1UHazHwqmzMvOs7X5Cfv5pQWAVx63PJCVQMA80Lai2ofN6NjxAEdbECg4Z0HadPEmoxMx2nMVQruq9MP/zog9U0SCttUH4ZwPaaBnjxj/w60m2HRD1d8BDtshm1va1NjW8AdTcDZ2XVNVq0bGoIIMsZdqxGx9lm+mo6tmifTrka64rrbkQRsUQ=;yeunxuxEXkRKRwf9n4Lp0w=="
+secured: "3W1QAqkYLKVu2AJzmxnwDIXnoXvtzORTm+/s6wqRw8dSrtwaCMaFt6XBCRlTpYU25IMNcZ/GPSddOPbLva7tXVJHv85igydhORc+Ght+IB/bWSfE7avR9Niz/QvNBlKJUU3drfucudDP6Lmyz8DiZH7TMWYCGVwNr3BjuCwDCxSNNuOYIC1BSdnrK9Qg94qT6x8kHm7aE51T6D/OzruWkF0v3SOiNQQJhPtJQaAIdAol53f1biSQjZbjRKRnOW8I7xAfm+TaYZ2TAd1Zm1zdDI0DP+TrcS2n4ePHLmSs2zhNkGf9nzIxPUSXxx5ceektc8d3i7+Ksn8n3CebAxchPQROm+esw1xBYeuNz4y3WwbWcrSZTSwR+VEw+ktHtvYrrD60e2nHXxD0nu/oRh7ErqIBi14Hj2bD8tcS4K1FPpnMS1TgtwIXRJj0Y11RAuIHET2wAj2mT7TWt1MtnmYogHzVppzCnzlnlZ6ZNMsNu9hU8lyuy+iFnWg33MlwJGKFk1gayNJ+gfXVX4GkiYHTCw==;fI4T3R+00zxxBpz3GkACeg=="
 ---
 

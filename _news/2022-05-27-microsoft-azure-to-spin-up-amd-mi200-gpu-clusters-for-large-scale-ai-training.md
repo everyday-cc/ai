@@ -115,22 +115,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "From Windows, Microsoft Store to Azure, here are key announcements from Microsoft Build 2022"
-    excerpt: "Microsoft has shared a host of announcements across platforms at its flagship event Microsoft Build 2022. Here are a few key updates from the event. Windows 11 . The tech major ha"
-    publishedDateTime: 2022-05-25T14:09:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/from-windows-microsoft-store-to-azure-here-are-key-announcements-from-microsoft-build-2022/article65460299.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/from-windows-microsoft-store-to-azure-here-are-key-announcements-from-microsoft-build-2022/article65460299.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/from-windows-microsoft-store-to-azure-here-are-key-announcements-from-microsoft-build-2022/article65460299.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 63
-    images:
-      - url: "https://www.thehindubusinessline.com/incoming/5d2hps/article65375211.ece/alternates/LANDSCAPE_615/2022-04-26T194957Z_372594_RC26VT94FX9B_RTRMADP_3_MICROSOFT-RESULTS.JPG"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Microsoft Build: Windows Terminal Preview 1.14, Microsoft Graph updates, and Dev Box"
     excerpt: "Microsoft’s annual development conference Microsoft Build is taking place this week. It will continue on through Thursday May 26."
     publishedDateTime: 2022-05-25T20:43:00Z
@@ -279,33 +263,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 46
-  - title: "Mac mini clone offered to developers as Microsoft embraces ARM chips"
-    excerpt: "Microsoft has revealed what looks very much like an M1 Mac mini clone during its developer conference, Build 22. The device is known as Project Volterra. The resemblance is more than skin-deep: the machine is ARM-based,"
-    publishedDateTime: 2022-05-25T13:06:00Z
-    webUrl: "https://9to5mac.com/2022/05/25/mac-mini-clone/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 36
-  - title: "Microsoft Build, Thick Versus Thin, AI Platforms"
-    excerpt: "Microsoft’s Build keynote was impressive in its clarity; it also emphasized that the thin client model one, mostly."
-    publishedDateTime: 2022-05-25T13:40:00Z
-    webUrl: "https://stratechery.com/2022/microsoft-build-thick-versus-thin-ai-platforms/"
-    type: article
-    provider:
-      name: Stratechery
-      domain: stratechery.com
-    quality: 34
-  - title: "Microsoft Teams and Power Platform to Get AI-Assisted Collaboration Features"
-    excerpt: "Microsoft is showing off a number of new features for Teams and Power Platform developers, including the ability to scan photographs"
-    publishedDateTime: 2022-05-25T13:41:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/microsoft-teams-and-power-platform-to-get-ai-assisted-collaboration-features/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 31
   - title: "A look at the announcements from Microsoft Build 2022"
     excerpt: "This year's edition of Microsoft Build has now wrapped up, but don't worry if you missed it! The event brought us many surprises, so just in case you couldn't tune in live, let's walk through some of the announcements."
     publishedDateTime: 2022-05-26T18:39:00Z
@@ -316,6 +273,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "7E0IhV0SAGD9ebfiumrRrzxJleJERDyEGGJe8L7N5Au2Ea//cl1JgmFM9yxBSh5DRYOOukH8X5y/qlDB24x5O9gLKFkdea2hX5hbYxSfLrKKgfHywz3sX1nXyiFI3dh7/aLz3Kbemj62+oOiwdEnOn94Q9jSuERWd1/xyfywZMX5cvayjSQFBqGl8A0zoKrsGxx4WI1Y0HN8LBDdQtZXMzJ3/2lygF1S1fokEpS0pNkhFxGxSk5iv5UaMor45Ilrd11x+HJcdadMic5le31693vVVinTPQxXw5fEERXCN+8+BAwH/8NyEuEvCedyJsZrnjGG8TECEoA0HzoDaOHj6HSbAs18GHgu/2HKYGlQYo700gdm36CHhwSAU4gl2GB2WOX3Rb+VBGD8sSPGRQ4SqTMmKsZuoqdsGlJLqcCnpYj8xnKTzPaL+osyULs3mVCB1rfiyOoMmc8H/TO4yQZR3UeWKIVu1djhX8kRZmF5FIkxBqVBkvVthSwr5hkQbYfaITPgQFcOqgOM0P+u0oUhyw==;aHrHHTRYnH4qXyrw2LwGOA=="
+secured: "U4DIPeZuytAQnLoy3jSrHexjObBsx92LcN2ZM6FSh4nNAn825BdkCEwwExmV6CFcw+0uUJ7bmOWbYccnu/yR/Tn6aE87wgZPPDpHtXdJaH+36tfjiDtoF7ioWzDxy2kD6yMMjy8AWxXyVZ1fj8c/f8R9hujMxxJNFKECA5m2DByYKggTguYG+U0dz+8aimH6OToVTkwzeqi/pxxxkI5ZmzWIJ7n0s2SkHFPtVlMiiLrh4sjRiRxAm7/zbfJPopdIPvs9ajssHVEYqSpoKOs4uTKrzj0KJNwKTa5jAuIHpmswN5Zg3kWUFuHr9iamdW/302otdoMmSFt/h+G66lMC7BODG/tDCZ3vX3+G3ilP9LM=;DDUy+sIpA3P+XjHycSy9QA=="
 ---
 

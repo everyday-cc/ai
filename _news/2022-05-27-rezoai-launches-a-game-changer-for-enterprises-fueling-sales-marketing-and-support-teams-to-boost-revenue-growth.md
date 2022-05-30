@@ -36,20 +36,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "AI-Powered Alternative Data Driving Extreme Market Research Disruption"
-    excerpt: "San Mateo, CA // KISS PR Brand Story PressWire // Numerous indicators make clear that the next five years will usher in extreme transformation for a multitude of industries and sectors as well as the global economy at large."
-    publishedDateTime: 2022-05-25T14:49:00Z
-    webUrl: "https://apnews.com/press-release/kisspr/technology-science-investment-management-economy-ee60e3f85ac3f2d9779e530f37e127ac"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AI in Medical Imaging Market Size in 2022 : 45% CAGR with Top Countries Data, Key Regions and Growth Forecast to 2031"
     excerpt: "The global AI in medical imaging market in terms of value is expected to register a CAGR of ~45% between 2022 and 2031. Artificial intelligence is"
     publishedDateTime: 2022-05-26T02:54:00Z
