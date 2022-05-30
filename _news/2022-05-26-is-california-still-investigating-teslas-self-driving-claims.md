@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/is-california-still-investigating-teslas-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -113,6 +113,20 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg5NzU3MjA2MzgyNTE5OTk2/pony-ai2.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "The California Department of Motor Vehicles said it would investigate Tesla over self-driving claims. Then, crickets"
+    excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the US$12,000 (RM52,548) software package that supposedly enables a Tesla car to drive itself through city and neighbourhood streets."
+    publishedDateTime: 2022-05-30T02:43:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/30/the-dmv-said-it-would-investigate-tesla-over-self-driving-claims-then-crickets"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 31
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/27/1601213.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "California DMV said it would investigate Tesla over self-driving claims. Then, crickets"
     excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly ..."

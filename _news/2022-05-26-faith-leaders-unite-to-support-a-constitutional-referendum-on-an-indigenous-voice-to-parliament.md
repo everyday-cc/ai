@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Election 2022: Aussies ready for Indigenous voice, say Uluru authors"
-    excerpt: "Indigenous Australians who have led the campaign for a voice in the Constitution for the past five years say the nation is ready and ask the Albanese government to draft a bill and set a timeline for a referendum."
-    publishedDateTime: 2022-05-25T10:47:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/election-2022-aussies-ready-for-indigenous-voice-say-uluru-authors/news-story/9c2ae5ee45738b962191415bb2631b27"
-    ampWebUrl: "https://amp.theaustralian.com.au/nation/politics/election-2022-aussies-ready-for-indigenous-voice-say-uluru-authors/news-story/9c2ae5ee45738b962191415bb2631b27"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/politics/election-2022-aussies-ready-for-indigenous-voice-say-uluru-authors/news-story/9c2ae5ee45738b962191415bb2631b27"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
   - title: "At long last, nation’s ‘it’s time’ moment on Indigenous voice"
     excerpt: "The victory speech delivered by our new Prime Minister late on election night confirmed my unwavering confidence that constitutional recognition of Indigenous Australians, as presented in the Uluru Statement From the Heart, will be realised. My confidence ..."
     publishedDateTime: 2022-05-29T14:01:00Z

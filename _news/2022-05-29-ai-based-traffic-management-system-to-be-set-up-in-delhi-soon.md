@@ -34,6 +34,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI-based traffic management system in Delhi soon: Officials"
+    excerpt: "The new system that works on machine learning and artificial intelligence will also play a vital role in facilitating a quick passage to emergency veh.."
+    publishedDateTime: 2022-05-30T02:34:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-based-traffic-management-system-in-delhi-soon-officials/91878952"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-based-traffic-management-system-in-delhi-soon-officials/91878952"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-based-traffic-management-system-in-delhi-soon-officials/91878952"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91878952,imgsize-103702,width-1200,height-628,overlay-etcio/ai-based-traffic-management-system-in-delhi-soon-officials.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "oOjuZiNGX4Z0bZ/iLUsomqvFwBOmt2CtpzNsvDaxSX8298CjCY00Twjlw26Q+gy7QuE/EKr8MhHYgxvXFZKtZVoYprlUue9IfyjrTFb3cvH6qVtidpwbK9QRNUUT0i3kDb1oDKpGQ7MfC6s4HUHrnbT9ZZELBB81lptg35amx33Xacq2qRo1GDiugPTdEH2IMN7q8EOvprEcmYdlTeAkHSjb85/xkV/z/GgvEc8vMxtpJpOlildKlEUpIWTjVzJ8IGneom1fw8PjS0ErlZotDZAQFf51xGFNopm6ZV8ySiqraW4FFbzoCW8K8xrYv9gyZXVjW+O5/KIM4CuRvcra5TiXNjeFYNx64q2SH+ZYqH9bOHc7cUqQlbgIhN7NL3dF2ikbskRAbs3yIag/exuCQQ+O9BTx9UgBLTIdci4tWaYIasqAIM2nVgDvAuYi9pgu9lR6TUHpw23j9Y/Nfb2w/N7KdzTcpKjwO5u1kbsbdc4xqNo5NCmd8sUZpwTMg2ImTOYDnLD3NwHgJ8+tY3/Mtg==;B+12x9h+Md/dfWvdqW+9rg=="
 ---

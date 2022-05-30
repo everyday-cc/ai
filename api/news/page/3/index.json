@@ -2,6 +2,143 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-26-pixm-releases-new-computer-vision-solution-for-mobile-phishing.md",
+      "title": "PIXM releases new computer vision solution for mobile phishing",
+      "excerpt": "Computer vision cybersecurity startup PIXM has expanded its line of antiphishing products with the launch of PIXM Mobile, a solution to protect individuals and enterprises from targeted and unknown phishing attacks on mobile devices. The cloud-based mobile ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.html",
+      "originalUrl": "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/09/cso_nw_mobile_phone_text_bubble_skull_crossbones_sms_phishing_smishing_by_jane_kelly_gettyimages-669307004_abstract_data_by_spainter_vfx_gettyimages-897166754-100810151-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html",
+      "publishedDateTime": "2022-05-25T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-clearview-ai-says-its-bringing-facial-recognition-to-schools.md",
+      "title": "Clearview AI Says It's Bringing Facial Recognition to Schools",
+      "excerpt": "The company revealed it's working with a U.S. company selling visitor management systems to schools within hours of a horrific school shooting.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
+      "originalUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2eafd02da366f481fe2fb052260905ba.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp",
+      "publishedDateTime": "2022-05-25T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-merlynai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update.md",
+      "title": "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG) Short Interest Update",
+      "excerpt": "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG – Get Rating) was the recipient of a large decline in short interest in May. As of May 15th, there was short interest totalling 200 shares, a decline of 98.4% from the April 30th total of 12,400 shares.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/",
+      "originalUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/amp/",
+      "publishedDateTime": "2022-05-25T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-how-fintech-players-are-leveraging-aiml-to-bridge-the-gap-in-msme-lending.md",
       "title": "How Fintech players are leveraging AI/ML to bridge the gap in MSME lending",
       "excerpt": "FinTech is a term which refers to a set of businesses which are leveraging advanced technology as a core ingredient in their business model to drive rapid evolution and transformation of financial services products",
@@ -250,7 +387,7 @@
       "originalUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -711,19 +848,19 @@
     {
       "path": "_news/2022-05-25-voice-user-interface-market-size-to-grow-by-usd-2902-billion-north-america-to-register-maximum-growth-technavio.md",
       "title": "Voice User Interface Market Size to Grow by USD 29.02 billion | North America to Register Maximum Growth | Technavio",
-      "excerpt": "The voice user interface market size is expected to grow by USD 29.02 billion from 2021 to 2026. Moreover, the growth momentum of",
+      "excerpt": "Voice User Interface Market Size to Grow by USD 29.02 billion \\| North America to Register Maximum Growth \\| Technavio. NEW YORK, May 24, 2022 /PRNewswire/ -- The voice user interfa",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-user-interface-market-size-to-grow-by-usd-29-02-billion-north-america-to/article_61705e74-f489-5452-b796-99cb53162c5d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-user-interface-market-size-to-grow-by-usd-29-02-billion-north-america-to/article_61705e74-f489-5452-b796-99cb53162c5d.html",
+      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/24/9608700.htm",
+      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/24/9608700.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/72/f721cdaa-3654-5612-b4a7-a547e2a8e348/628d7d7fa8fc8.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1823797/Voice_User_Interface_Market_Technavio.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -733,11 +870,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:45:00-07:00",
+      "publishedDateTime": "2022-05-24T17:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1043,152 +1180,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ai-reveals-unsuspected-math-underlying-search-for-exoplanets.md",
-      "title": "AI reveals unsuspected math underlying search for exoplanets",
-      "excerpt": "Artificial intelligence (AI) algorithms trained on real astronomical observations now outperform astronomers in sifting through massive amounts of data to find new exploding stars, identify new types of galaxies and detect the mergers of massive stars,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.html",
-      "originalUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/1-exoplanet.jpg",
-          "width": 850,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp",
-      "publishedDateTime": "2022-05-24T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-specialization-is-key-in-an-exploding-ai-chatbot-market.md",
-      "title": "Specialization is key in an exploding AI chatbot market",
-      "excerpt": "Zowie, which claims to be the only AI-powered chatbot technology specifically built for ecommerce companies that use customer support to drive sales has secured $14 million in series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
-      "originalUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/",
-      "publishedDateTime": "2022-05-24T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
-      "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
-      "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "publishedDateTime": "2022-05-24T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

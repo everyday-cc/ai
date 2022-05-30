@@ -34,15 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 78
-  - title: "Ayar Labs to Accelerate Development and Application of Optical Interconnects in Artificial Intelligence/Machine Learning Architectures with NVIDIA"
-    excerpt: "Ayar Labs, the leader in chip-to-chip optical connectivity, is developing with NVIDIA groundbreaking artificial intelligence (AI) infrastructure based on optical I/O technology to meet future demands of AI and high performance computing (HPC) workloads."
-    publishedDateTime: 2022-05-25T10:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-25-ayar-labs-to-accelerate-development-and-application-of-optical-interconnects-in-artificial-intelligencemachine-learning-architectures-with-nvidia"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "r0kwxw7svxhgMNRMbF9iO8BsiZFWfWBuvR/KxT6/2luNlrW0Th7rJ38N/037iuRH4wkm5b+P7QfN7YxXU4JEkCF/HVfDanuzlHH29OKY+hEnwCWN8AdAwged9tafCcf5xxSx9JQZokTQVgrwbgImkisIsdKLttJeIswTvSo1CNvtAou80wG7CXUkoLISSqsRqaQQNbyWZTcfmDCTN+ljpsqcBCb2dIKP9G5Ze9SC0pdrx8VsdrrnkvK8lNrWb6b/RZuqjGgx1Jaq8L3ewiU1FO4J4P/UBxWI2zdIfTKk8qYhyNDzwL9KkDmIxoIq+XLoFY8FeIB32rr/Kx66OpzdrZwqzy6kI8LTetrAhnalb7Lu15i2f0ZI3U3leCcWhPszpUNb1QiUC2UVytMorPVUtBnVMhg/d5E1eEMKZAyQ0GUPn7mHxCa5fbpxAAM83WzaDNI9lZ5OA9IxS80m3cIcHxHlG1wg4Fn7cbOvJq9e5OgcVl4bbq9kaEwSYxuG0m1pMGtPp94xYxTYjvSrGPDueg==;DAIftENpEr0/b8SXsOweQQ=="
 ---

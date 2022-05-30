@@ -80,6 +80,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Software Market | Key Drivers, Business Insights, and Future Trends by 2026"
+    excerpt: "Adoption of various technologies such as the internet of things (IoT), machine learning, and industry 4.0. is expected to provide lucrative opportunities for the global artificial intelligence software market. The rise in adoption of cloud-based ..."
+    publishedDateTime: 2022-05-25T11:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-software-market-key-drivers-business-insights-and-future-trends-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/1bd9115c03cae6ad319fc7018288222372e53aea-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Computer Vision in Healthcare Market Trends 2022, In-Depth Analysis of Industry Growth and Forecast Up To 2028 |Top key players: NVIDIA Corporation"
     excerpt: "Computer vision has been used in various healthcare applications to assist medical professionals in making better decisions regarding the treatment of patients. Medical imaging or medical image ..."
     publishedDateTime: 2022-05-27T12:07:00Z
@@ -94,6 +108,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Ai In Defense Market [OVERVIEW] 2022 : Report Examines Latest Trends Size, Share and Key Drivers Supporting Growth 2030"
+    excerpt: "Quadintel published a new report on the Ai In Defense Market. The research report consists of thorough information about demand, growth,"
+    publishedDateTime: 2022-05-26T13:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-defense-market-overview-2022-report-examines-latest-trends-size-share-and-key-drivers-supporting-growth-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/baa5cf168f34ffc4cb2551ce1e095c9a5961e919-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Ai In Fintech Market [DEMAND] 2022 : Outlook, Size, Share and Growth Stance Forecasted 2030"
     excerpt: "Quadintel published a new report on the Ai In Fintech Market. The research report consists of thorough information about demand, growth,"
     publishedDateTime: 2022-05-26T13:39:00Z
@@ -103,6 +131,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 9
+  - title: "Artificial Intelligence (AI) Governance Market Size, 2021 Segmentation, Demand, Growth, Trend, Opportunity And Forecast To 2030"
+    excerpt: "An estimated 51.4% of the global population or 4 billion people was using internet by the end of 2019 – International Telecommunication Union (ITU"
+    publishedDateTime: 2022-05-26T12:40:00Z
+    webUrl: "https://menafn.com/1104277310/Artificial-Intelligence-AI-Governance-Market-Size-2021-Segmentation-Demand-Growth-Trend-Opportunity-And-Forecast-To-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 4
 
 secured: "Qf5ttvAYmgPt3T0jVoXzds8dIde7zydrOzfHEyCOqa1eHm2sLEnmPPgVSGnoioDF/3nIqESJpET+sAkN5W3OI49hzcvT6SoZ8WIItR8YgECrnmy2Ifonw1WsjxVZ0B3z7AhvUUAttCPbJQMP4c4SMQ5LKS7txLRUT0UDZ6HXvxVV9gxoD/OG5BnZurvnfmPkNLU4gCzAeVrpbDeHkQib17eqrlWJ12Jap1m4i7L8QqO4KJnA3l4Yeb8vtvXbmmKQISNVdir507YXjbdbLfUmSFxGZlWD+Q1OmJnEdRhjm3ygZoGnpbM//P90+x6LYIpjmAwvGWX+lpI+UhG5mNOpRh+Z8E7o4jkoiY1swDB0T4nHXAllM8o+k+vcBNnlB7pohBmdVqIZO56RpHdlxC0TqdQtSMYDKjO6v405ug+mLw/YBKY/D2NkQrvb12FeAm3nxpKrZWVQe4WPAWOiplg2ekTinzJWBk+crvUm7i+NLguwTxYlmYdi//p2mbOgjX6yuqYyjlsSY/PNAYikgh41kw==;daNBLSHtHZV6ey0dPF25oA=="
 ---

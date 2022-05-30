@@ -2,6 +2,144 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-02-25-the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership.md",
+      "title": "The Strategic Building Blocks Of Ethical AI: Representation, Governance And Leadership",
+      "excerpt": "Consider three fundamental strategies needed to achieve fairness in AI development and use: executive leader readiness, representation of women and people of color and stakeholder governance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/",
+      "publishedDateTime": "2022-02-25T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-facial-recognition-market-size-worth-1267bn-globally-by-2028-at-142-cagr-exclusive-report-by-the-insight-partners.md",
+      "title": "Facial Recognition Market Size Worth $12.67Bn, Globally, by 2028 at 14.2% CAGR - Exclusive Report by The Insight Partners",
+      "excerpt": "The Insight Partners published latest research study on \"Facial Recognition Market Forecast to 2028 - COVID-19 Impact and",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/n25834423/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-exclusive-report-by-the",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/n25834423/facial-recognition-market-size-worth-12-67bn-globally-by-2028-at-14-2-cagr-exclusive-report-by-the",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25834423",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25834423",
+      "publishedDateTime": "2022-02-25T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-25-how-ai-technology-can-tackle-future-pandemics.md",
+      "title": "How AI Technology Can Tackle Future Pandemics",
+      "excerpt": "Artificial intelligence (AI) has come to bear on many of our responses to SARS-CoV-2 (COVID-19), and will continue to help us tackle future pandemics",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=480",
+      "originalUrl": "https://www.azorobotics.com/Article.aspx?ArticleID=480",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_480_16457846554832959.jpg",
+          "width": 1000,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/article.aspx?ArticleID=480",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=480",
+      "publishedDateTime": "2022-02-25T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-moving-ai-from-detection-to-decisioning-in-cybersecurity.md",
       "title": "Moving AI From Detection To Decisioning In Cybersecurity",
       "excerpt": "The two partners — human and machine — must work in tandem, with each augmenting the other. Then and only then will AI realize its full promise as a major defense against the digital dark arts.",
@@ -1018,161 +1156,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-mage-launches-low-code-ai-dev-tool-into-general-availability.md",
-      "title": "Mage launches low-code AI dev tool into general availability",
-      "excerpt": "California-based startup Mage released to general availability its prize low-code AI tool for product developers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/",
-      "originalUrl": "https://venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/low_code-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/mage-launches-low-code-ai-dev-tool-into-general-availability/amp/",
-      "publishedDateTime": "2022-02-24T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation.md",
-      "title": "IBM, NVIDIA and Bloomberg tout KServe becoming incubation project for LF AI & Data Foundation",
-      "excerpt": "IBM and Bloomberg announced on Thursday that KServe is joining the LF AI & Data Foundation as its latest incubation project. KServe provides a Kubernetes Custom Resource Definitio",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d19ca28ac531ef8f675fd64e4e99a7d409af47f4/2022/02/24/06de4d18-d1b2-4991-852a-4909e53450a9/pasted-image-0-4.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-nvidia-and-bloomberg-tout-kserve-becoming-incubation-project-for-lf-ai-data-foundation/",
-      "publishedDateTime": "2022-02-24T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-does-ai-have-the-answer-to-the-customer-experience-riddle.md",
-      "title": "Does AI Have The Answer To The Customer Experience Riddle?",
-      "excerpt": "The telecommunications industry is so many enterprises wrapped into one—they have to get every aspect of customer experience right. It’s a challenge every organization can learn from.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621797eb40ac01b3dedcafb3/0x0.jpg?format=jpg&crop=1845,1038,x0,y89,safe&fit=crop",
-          "width": 1845,
-          "height": 1038,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/amp/",
-      "publishedDateTime": "2022-02-24T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-25-top-6-robot-kits-to-start-building-from-home.md",
+      "title": "Top 6 Robot Kits to Start Building From Home",
+      "excerpt": "Users control the robot using an app or a web browser ... perfect combination of education and fun to keep your hands and mind occupied. The possibilities are endless.",
+      "sourceUrl": null,
+      "webUrl": "https://techreport.com/devices/3477115/top-6-robot-kits/",
+      "originalUrl": "https://techreport.com/devices/3477115/top-6-robot-kits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techreport.com/wp-content/uploads/2022/04/top-6-robot-kits.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tech Report",
+        "domain": "techreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-24-leave-space-exploration-to-the-robots-says-new-book.md",
       "title": "Leave Space Exploration To The Robots, Says New Book",
       "excerpt": "Compelling new book argues that we really need to forget about astronauts and instead renew our focus on robotics for the continued exploration of space.",
@@ -1315,50 +1358,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-16-a-robot-to-top-up-your-tesla.md",
-      "title": "A Robot To Top Up Your Tesla",
-      "excerpt": "Everything is controlled ... While robot won’t be winning any interior design contests, it does the job well, and adds a bit of convenience and peace of mind.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
-      "originalUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/06/2021-06-21-3.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

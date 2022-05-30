@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "PIXM brings computer vision phishing protection to mobile devices"
-    excerpt: "Anti-phishing attack startup PIXM Software Inc. today announced an expansion of its products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted and unknown phishing attacks on mobile devices."
-    publishedDateTime: 2022-05-25T10:00:00Z
-    webUrl: "https://siliconangle.com/2022/05/25/pixm-brings-computer-vision-phishing-protection-mobile-devices/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/pixm.png"
-        width: 829
-        height: 716
-        isCached: true
   - title: "PIXM Pioneers First Real-Time Computer Vision Solution to Stop Phishing on Mobile Devices"
     excerpt: "PIXM, a Computer Vision cybersecurity startup, today announced the expansion of its anti-phishing products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted ..."
     publishedDateTime: 2022-05-25T11:33:00Z

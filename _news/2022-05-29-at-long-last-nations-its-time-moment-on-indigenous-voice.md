@@ -32,17 +32,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 27
-  - title: "Election 2022: Aussies ready for Indigenous voice, say Uluru authors"
-    excerpt: "Indigenous Australians who have led the campaign for a voice in the Constitution for the past five years say the nation is ready and ask the Albanese government to draft a bill and set a timeline for a referendum."
-    publishedDateTime: 2022-05-25T10:47:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/election-2022-aussies-ready-for-indigenous-voice-say-uluru-authors/news-story/9c2ae5ee45738b962191415bb2631b27"
-    ampWebUrl: "https://amp.theaustralian.com.au/nation/politics/election-2022-aussies-ready-for-indigenous-voice-say-uluru-authors/news-story/9c2ae5ee45738b962191415bb2631b27"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/politics/election-2022-aussies-ready-for-indigenous-voice-say-uluru-authors/news-story/9c2ae5ee45738b962191415bb2631b27"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
   - title: "‘Time for healing’: Faith leaders endorse Voice to Parliament"
     excerpt: "Northern Territory Chief Minister Natasha Fyles says the proposal for an Indigenous Voice to Parliament is very important as it will have a big impact on a large number of Territorians. Ms Fyles said there is still work that needs to be done to achieve a Voice in Parliament."
     publishedDateTime: 2022-05-27T04:57:00Z

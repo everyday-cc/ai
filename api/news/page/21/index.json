@@ -2,6 +2,135 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-05-09-ed-frontlines-english-has-become-the-language-of-science.md",
+      "title": "ED. FRONTLINES: English has become the language of science",
+      "excerpt": "Between 1980 and 1996, natural science publications in Russian fell from 10.8 to 2.1 percent. German dropped from 2.5 to 1.2 percent. But English rose from 74.6 to 90.7 percent. This surge in English publications did not come from American authors or other native speakers of English.",
+      "sourceUrl": null,
+      "webUrl": "https://salinapost.com/posts/6185c4ce-eeba-4af4-93ae-d56c66f57bb6",
+      "originalUrl": "https://salinapost.com/posts/6185c4ce-eeba-4af4-93ae-d56c66f57bb6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.eaglewebservices.com/public/2019/11/1573490075841.jpeg",
+          "width": 312,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salina Post",
+        "domain": "salinapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit.md",
+      "title": "Media Alert: BrainChip Drives Intelligent Edge AI at AutoSens Detroit",
+      "excerpt": "About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY) BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company’s first-to-market neuromorphic processor, Akida TM, mimics the human brain to analyze only ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit",
+      "originalUrl": "https://www.digitaljournal.com/pr/media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/774e1c49ff8c5d1f2c8c30a3674aa8674e8bbb9d-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology.md",
+      "title": "DRAFT Startup Spotlight: The challenges and promises of facial recognition technology",
+      "excerpt": "“We don’t fundamentally understand how that black box, AI, does what it does,” said Ricanek. “We’re exploring that through this whole realm of explainable AI, and that’s going on ...",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/",
+      "originalUrl": "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg",
+          "width": 1264,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1",
+      "publishedDateTime": "2022-05-09T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-strengthening-company-culture-with-artificial-intelligence.md",
       "title": "Strengthening Company Culture With Artificial Intelligence",
       "excerpt": "To achieve ultimate value from technology, it’s important to consider how it could benefit various parts of the business: organizational efficiency, team collaboration, productivity, R&D opportunities and team empowerment.",
@@ -1056,144 +1185,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-how-to-master-the-data-lifecycle-for-successful-ai.md",
-      "title": "How to master the data lifecycle for successful AI",
-      "excerpt": "The AI data lifecycle is ever-changing, and the approaches we take to manage its different components need to be dynamic as well.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ai_business-e1648498198314.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/amp/",
-      "publishedDateTime": "2022-05-06T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
-      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
-      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/04/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/04/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/04/28/1567739.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-nvidia-burns-55-million-settling-with-sec-on-gpu-sales-to-crypto-miners.md",
-      "title": "Nvidia burns $5.5 million settling with SEC on GPU sales to crypto miners",
-      "excerpt": "We all had a bad time waiting out the graphics card shortage that took place from late 2020 up until recently, but it wasn’t the first time crypto mining was to blame for a lack of Nvidia and AMD GPUs. Back in 2017 and 2018 there was another similar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
-      "originalUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/05/nvidia-crypto-money-sec-settlement-mining-gpu-graphics-cards-gaming-availability.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
-      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
-      "publishedDateTime": "2022-05-06T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pcinvasion.com",
-        "domain": "pcinvasion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

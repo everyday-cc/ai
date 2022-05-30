@@ -39,15 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Zoho invests in startup Genrobotics"
-    excerpt: "Bengaluru: Tech company Zoho Corporation said on Wednesday that it has invested Rs 20 crore in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions."
-    publishedDateTime: 2022-05-25T19:29:00Z
-    webUrl: "https://www.thehansindia.com/karnataka/zoho-invests-in-startup-genrobotics-744943"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 2
 
 secured: "Iwlt/qvthg2Wm+gz1OVXzOBUk4PsEPkvtbO8L9AVEdnvG7S+MUIEWZhgeate8oW7YIZPa9O2HUJGMDttqCI0LwxjNu3rzim9DTJxIIP6gW8iEn21M3dPPBN8vpBHEl9wE19jIChKf3f/Da0e5WEOwJI+z+neOnXzZ4VnkXpvR3E9uE6dHv4o0bxcrMYD4y9fMBD39yBwf24A8642dak6jUEa/PXKXoHJ2Eqbcvt2lSdyIpgBdfWL4wBp9SO616WPW9KETcF0oFx8QixHbtg8nFEF2gnAhysHhIwBbW758wCfFOD4mCi4C5GA5JND4i28FNa8Rb+GphdqPDpNrHF67d3OXZEnC0dXzaTPIN46k44=;Le3jm+r5x/UMDJTpcraKKA=="
 ---

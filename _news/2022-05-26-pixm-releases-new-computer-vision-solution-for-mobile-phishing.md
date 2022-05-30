@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3661560/pixm-releases-new-computer
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3661560/pixm-releases-new-computer-vision-solution-for-mobile-phishing.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2019/09/cso_nw_mobile_phone_text_bubble_skull_crossbones_sms_phishing_smishing_by_jane_kelly_gettyimages-669307004_abstract_data_by_spainter_vfx_gettyimages-897166754-100810151-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "PIXM brings computer vision phishing protection to mobile devices"
-    excerpt: "Anti-phishing attack startup PIXM Software Inc. today announced an expansion of its products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted and unknown phishing attacks on mobile devices."
-    publishedDateTime: 2022-05-25T10:00:00Z
-    webUrl: "https://siliconangle.com/2022/05/25/pixm-brings-computer-vision-phishing-protection-mobile-devices/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/pixm.png"
-        width: 829
-        height: 716
         isCached: true
   - title: "PIXM Pioneers First Real-Time Computer Vision Solution to Stop Phishing on Mobile Devices"
     excerpt: "PIXM, a Computer Vision cybersecurity startup, today announced the expansion of its anti-phishing products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted ..."

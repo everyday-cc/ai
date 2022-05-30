@@ -2,6 +2,154 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-04-08-tesla-is-aiming-to-start-production-of-its-optimus-humanoid-robot-in-2023.md",
+      "title": "Tesla is aiming to start production of its Optimus humanoid robot in 2023",
+      "excerpt": "Elon Musk gave a timeline to production for the first time for the Tesla Optimus project, a humanoid robot capable of doing general tasks. The CEO believes the company can bring the ambitious project to production as soon as next year.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/",
+      "originalUrl": "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/",
+      "publishedDateTime": "2022-04-07T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute.md",
+      "title": "AI Visionary And A Prominent Ethics Leader Beena Ammanath Of Deloitte AI Institute",
+      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Beena Ammanath.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624fa29fef1ef8b65b4ebda9/0x0.jpg?format=jpg&crop=1777,999,x0,y139,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/amp/",
+      "publishedDateTime": "2022-04-07T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-ukraine-uses-facial-recognition-software-to-spot-russian-spies.md",
+      "title": "Ukraine uses facial recognition software to spot Russian spies",
+      "excerpt": "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
+      "originalUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/04/UKRAINE-FACIAL-RECOGNITION.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
+      "publishedDateTime": "2022-04-07T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become.md",
       "title": "IBM And MLCommons Show How Pervasive Machine Learning Has Become",
       "excerpt": "IBM announced its latest Z-series mainframe and MLCommons released its latest benchmark series. The two announcements had something in common – Machine Learning – which is becoming pervasive everywhere from financial fraud detection in mainframes to detecting wake words in appliances.",
@@ -988,144 +1136,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-mint-group-only-african-microsoft-partner-at-prestigious-inner-circle-summit.md",
-      "title": "Mint Group only African Microsoft partner at prestigious Inner Circle Summit",
-      "excerpt": "In July 2021, leading Microsoft partner and global IT consultancy ... the digital transformation journey with AI and cognitive services for businesses and government institutions globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/RgeVDMPY6OAqKJN3",
-      "originalUrl": "https://www.itweb.co.za/content/RgeVDMPY6OAqKJN3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/3_F2tZkB5AjFFBy17RzzBua2pPh4xZLJafgaCHC2MPfUYxcZCPQii-JeFwQD-fstAFbWbN7ZMxZD2ow3j0Unm9nbNAzJF558U1ef=w816-h428",
-          "width": 602,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/RgeVDMPY6OAqKJN3",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/RgeVDMPY6OAqKJN3",
-      "publishedDateTime": "2022-04-07T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-bangalore-international-airport-aws-announce-joint-innovation-center.md",
-      "title": "Bangalore International Airport, AWS announce Joint Innovation Center",
-      "excerpt": "The JIC will focus on driving digital innovation for the airport, enhancing passenger experience, and creating positive impact for the community where the airport operates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.media4growth.com/ooh-news/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
-      "originalUrl": "https://www.media4growth.com/ooh-news/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.media4growth.com/public/thumbs/news/2022/04/6135/BIAL_Thumnail_440_851.jpg",
-          "width": 715,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
-      "cdnAmpWebUrl": "https://www-media4growth-com.cdn.ampproject.org/c/s/www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
-      "publishedDateTime": "2022-04-06T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "media4growth",
-        "domain": "media4growth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-google-cloud-releases-biglake-to-unify-data-platforms.md",
-      "title": "Google Cloud releases BigLake to unify data platforms",
-      "excerpt": "Amazon’s SageMaker and Azure’s Machine Learning Service already have this capability, the analyst said. New Looker features, Connected Sheets for Looker and the ability to access Looker data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
-      "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
-      "publishedDateTime": "2022-04-06T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

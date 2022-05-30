@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
 excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
 publishedDateTime: 2022-05-26T18:14:00Z
-originalUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
-webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+originalUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
+webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
 type: article
 quality: 52
 heat: -1
@@ -59,8 +59,8 @@ related:
         isCached: true
   - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
     excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-    publishedDateTime: 2022-05-26T22:46:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+    publishedDateTime: 2022-05-26T22:50:00Z
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     type: article
@@ -315,6 +315,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "H+oewBxLr7LUNC5j4wvhN1qhZECaJXoTIHc7g0nyML8VEKWbT7WylYL+nqz9tyiHc2O6Upv8KyBsU4zXb0HISyBg+7hTtFA/E/xtEEfZ9LFIdwcMnNS0zx8axykyN3oKOhLn3a0+emztsYYTH2xFtno0tbBVmljwnhRoJIytygE3n8HyLC2RGdj+BI3kbENWHmNNKERQrS13HeSQupyiFsAixbrFxSleQH1JNAVhpujoxAfUDLZbnNMhp868uC9UgSzTdUkAS7yFYEbbnRxjor8IiXw7LjnX5w23Nvt+lG3A7aqTNOf/VNLzyzK1pqEml94jtV8TE3jK0eXi9uiKEi82d5esusaL/UabfhgzuHQ=;IzSakIB4G+2jN+KiMM2DTQ=="
+secured: "fEiU2HsatfTQwD601GSuxqy2QN+x9cQvc0MwlWmRTnEtOJvmO9e7V8ruKuLpPy9NeBZ9UjheE1ySNj+8DU7HD3fPgK59iA/XJzuqriE35ZWsft3MjJRCAcU4oD5tbqECYNiQZU7GSrs+V2LnhKcUmz3D1d+LUa27jn+KWpgAV8rKZpZ7YOPsnAdCQn3VbbqsSlPt0QjaZGQyCy3gqxUdHw+UmzsFtlIMdcuJPyIkGYJZ9r3kW4BDYUW2QJVqoTJuJjCwc3ERxsXZSo89wI+YuWmMJC6BrdWhWCqeeRTK67BogfPIpyYNtg7a0aHy1ykylsa5AKDvSJs1Kxi3ByU1pNI1ggFETcwtD0lBXjLQgwM=;pufBHE+DPQ7YIEypiKcdhQ=="
 ---
 

@@ -2,6 +2,127 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-05-04-vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology.md",
+      "title": "VW Group To Rely On Qualcomm Chips For Its Self-Driving Technology",
+      "excerpt": "All VW Group brands will use this chip starting in 2026 in a deal that runs through to ... Instead, it is also working alongside Argo AI and has already partnered with the company to develop an all-autonomous version of the electric ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
+      "originalUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/05/VW-ID.-Buzz-2a-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
+      "publishedDateTime": "2022-05-04T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-stop-worrying-about-ai-bias-all-the-time-says-deloittes-ai-ethics-lead.md",
+      "title": "Stop worrying about AI bias all the time, says Deloitte’s AI ethics lead",
+      "excerpt": "AI that discriminates against people is a big problem, but Beena Ammanath, executive director of the Global Deloitte AI Institute and head of Trustworthy AI and Ethical Tech, says AI ethics is about a lot more than bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
+      "originalUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/beena-ammanath-executive-director-of-the-global-deloitte-ai-institute-and-head-of-trustworthy-ai-and-ethical-tech.png?id=29755735&width=1500&coordinates=346%2C0%2C334%2C0&height=2000",
+          "width": 1500,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
+      "publishedDateTime": "2022-05-04T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system.md",
+      "title": "Worldline and Algoan to develop open-banking-based credit assessment system",
+      "excerpt": "WLN], a global leader in payment services, and Algoan, a leading credit scoring provider, today announced a collaboration agreement to jointly develop a next-level credit assessment solution to help lenders and services providers make better credit decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/92519/worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system",
+      "originalUrl": "https://www.finextra.com/pressarticle/92519/worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-facebooks-parent-developed-a-new-ai-language-model-now-its-giving-it-away-for-research.md",
       "title": "Facebook's Parent Developed A New AI Language Model — Now It's Giving It Away For Research",
       "excerpt": "Facebook parent Meta Platforms Inc (NASDAQ ... Recently, Meta CEO Mark Zuckerberg said that the company is working on AI research to allow people to have more natural conversations with voice ...",
@@ -986,152 +1107,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-how-to-stop-losing-employees-and-start-winning-the-war-for-talent.md",
-      "title": "How To Stop Losing Employees And Start Winning The War For Talent",
-      "excerpt": "But in 2020, the nature of work fundamentally changed. In a digital workplace, companies keep employees engaged with their AI — not their HQ. We went from the physical HQ being the heart of the company, to a digital workplace that dictated the entire ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/",
-      "originalUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627001947b0091949a29d4e8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/amp/",
-      "publishedDateTime": "2022-05-03T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
-      "title": "Google faces internal battle over research on AI to speed chip design",
-      "excerpt": "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
-      "originalUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-can-artificial-intelligence-help-fight-western-wildfires.md",
-      "title": "Can Artificial Intelligence Help Fight Western Wildfires?",
-      "excerpt": "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
-      "originalUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/bd7f643/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F29%2F8eabf0f5fb605508abbc28c7f04c%2Fshutterstock-2189586432.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
-      "publishedDateTime": "2022-05-03T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

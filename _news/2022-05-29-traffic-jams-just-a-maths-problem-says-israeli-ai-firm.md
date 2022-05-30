@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 624
     isCached: true
+
+related:
+  - title: "Traffic jams just a maths problem, says AI firm"
+    excerpt: "The company says road congestion is a global scourge, calculating that the average driver spends three days a year stuck in traffic, also pumping out greenhouse gas emissions."
+    publishedDateTime: 2022-05-30T03:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/30/traffic-jams-just-a-maths-problem-says-ai-firm"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 69
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/30/1603526.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "Af6U7vIvGGV7TVBvFXlwi2owK81inMPEMPTQppGw05h4rwCzYKnjUYlG4PQeQ9J7bk7Ygq8Z8rEWqqlBs0zxJzvSeh4GxgFOeneslu3oG6VQD+VEUEVHshsJwDh/F0nVmq+PvpliNyh3HUfNcVYoItwLBAgclNTgalutydm4Uh0fsIya/0e3434QsQYxpJr2s0EQkVEZxo6ceuWqMmh4lkDYN/uLm1BDnH+b3wraFJJwrmuxq3aVoEuYH1fA5QAGn3sgW5A1noLUH8pOODgOTWxnv6SPBdkIn2+ODoRwR/8E812qBau5vjIwDtuDfQ0l6QlkSJ4FF159PGctaDwBmy2OEOjSNfQ3f+81CQrjpJj4BeTh5q8yq1mWhld3EVSpzCkKlLhC9AnqnBDjABui/lXeZRRnIL0FrpcaccZCyffnThnUZaF4Q7G7igSaWzyZoY1lvg1fBM3qpdREyy9LNQf3Rw6lUUs8+sEMlLlxigcqhA4zCcDfGmXCdp32HwEt5pE7q6h65HH2fkeIts0zpQ==;d5I/IZQdPF5YlywkMHBjIg=="
 ---

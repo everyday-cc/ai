@@ -97,52 +97,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-26-smarter-health-artificial-intelligence-and-the-future-of-american-health-care.md",
-      "title": "Smarter health: Artificial intelligence and the future of American health care",
-      "excerpt": "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change that?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
-      "originalUrl": "https://www.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/linderpix-WBUR-OnPoint-6815-web_1000x667-400x267.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
-      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care",
-      "publishedDateTime": "2022-05-25T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-05-26-ethical-ai-a-challenge-for-security-applications.md",
       "title": "Ethical AI – a challenge for security applications?",
       "excerpt": "Recently, the movement for Ethical AI has been gaining steady momentum from academic researchers, social activists, and lawyers. Ethical AI is the development and use of artificial intelligence systems in a manner that is safe,",
@@ -1427,6 +1381,41 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
+      "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
+      "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

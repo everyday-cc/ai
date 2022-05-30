@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-in
 cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
 type: article
 quality: 61
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: WBUR
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Maxicare advances healthcare, medical testing with AI SmartScan techn partnership"
-    excerpt: "Maxicare Healthcare Corporation, the leading health maintenance organization in the Philippines, has partnered with leading digital solutions provider Advanced Abilities"
-    publishedDateTime: 2022-05-26T10:56:00Z
-    webUrl: "https://manilastandard.net/tech/314231316/maxicare-advances-healthcare-medical-testing-with-ai-smartscan-technology-partnership%EF%BF%BC.html"
+  - title: "Artificial Intelligence: A gift for healthcare"
+    excerpt: "From diagnosis to treatment, from prevention to therapeutics, artificial intelligence has made many things possible which had been unachievable before."
+    publishedDateTime: 2022-05-30T03:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms"
+    ampWebUrl: "https://m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms"
     type: article
     provider:
-      name: Manila Standard
-      domain: manilastandard.net
-    quality: 49
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://manilastandard.net/wp-content/uploads/2022/05/Screen-Shot-2022-05-26-at-6.43.07-PM.png"
-        width: 855
-        height: 593
+      - url: "https://static.toiimg.com/thumb/msid-91880419,width-1070,height-580,imgsize-156724,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
   - title: "Sophisticated AI Solutions for healthcare sector"
     excerpt: "Healthcare solutions utilise sophisticated and automated data harmonizers, efficient big data systems, advanced statistical knowledge, and extensive domain experience"
@@ -53,20 +55,6 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 34
-  - title: "Mark Roth: Health care lessons from the military"
-    excerpt: "The inescapable pain and death of war have also produced many of the medical breakthroughs that have enhanced our health in peacetime. The Civil War created advances in surgical techniques. World Wars I and II led to the development of prosthetics and the widespread use of antibiotics."
-    publishedDateTime: 2022-05-26T15:00:00Z
-    webUrl: "https://triblive.com/opinion/mark-roth-health-care-lessons-from-the-military/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 24
-    images:
-      - url: "https://assets-varnish.triblive.com/2022/05/5088486_web1_gtr-cmns-Stossel-022422.jpg"
-        width: 640
-        height: 424
-        isCached: true
   - title: "Smarter health: How AI is transforming health care"
     excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
     publishedDateTime: 2022-05-27T14:00:00Z

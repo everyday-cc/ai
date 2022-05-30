@@ -74,20 +74,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 36
-  - title: "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses"
-    excerpt: "Clearview Consent is available today as a cloud service, with pricing more affordable than other FRT providers such as Amazon Rekognition and Microsoft Azure, while providing much higher performance and accuracy. Clearview Consent is also available for on ..."
-    publishedDateTime: 2022-05-25T10:57:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_ac316dfe-f089-5a74-9305-dd50401cd4af.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 25
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
-        width: 415
-        height: 539
-        isCached: true
 
 secured: "c69WAsYZf7eyNRgNugvwAtAeZfh3oM+RZUnNMC3MBc6I3xVnnr4kAGwVl0g94rambNpd/dJfHE9TNFLre2ti2aiktc6S8NWHVgchxZjIQ9v+01pmQ8sLsUYRvVc76yOG77pDZJTYkaA/vt9vRmrWwqAfQd5X7Z3bT6AyI9j+YDZQXc5Z1+PlinzLZsaHhLkAgqRrspTEwKBtLx2h7pDn3iyiqqREiDVNaAUdBBFJ69x1pgh1eORtOPte4L1OAKeX9/lyKiL1VMI/GUZJppDD3Y76slL6bvkDYY24dEE881fVS9IAnm5v8oW27xcxPzR2kyG2ikRjTBAjcfLoqOHVmTImajsF7id/v1OTMYFGjMT0uAUJajfNXxnHkkDD22gj9tDjT7mC2hUFbofZ6WdcS8l0sCqonT3qWMMmZ/CfBj/LuB+dYWbkfuOPpJvDlhhU3ZQamjQCb+WwOp7dQL34YGzSYrClbUOIhw0tLHvR6QmHXMt//aKKG6J/MgyahGQXu3H2ASmPEr7Iz2RzXQWjqA==;IkA/VP1nx4kuinmsmzQkig=="
 ---

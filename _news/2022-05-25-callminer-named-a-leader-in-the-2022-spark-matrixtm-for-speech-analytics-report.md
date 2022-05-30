@@ -69,20 +69,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "CNA brings data into the cloud, uses AI for predictive analytics"
-    excerpt: "He joined CNA in fall 2021 after 13 years as CEO of Catalina’s U.S. and Bermuda units. At CNA, Haase’s greatest concern is better managing the wealth of data the company has from its long history in the insurance business,"
-    publishedDateTime: 2022-05-25T10:30:00Z
-    webUrl: "https://www.dig-in.com/list/cna-brings-data-into-the-cloud-uses-ai-for-predictive-analytics"
-    type: article
-    provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/cf7e928/2147483647/strip/true/crop/690x362+241+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F0b%2Ffa%2Fa8c1b222409b9ec6667302c1ac27%2Fcna-hq-bldg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Professor earns Fulbright U.S. Scholar award to study data analytics and AI in healthcare in Morocco"
     excerpt: "Rachida Fachtal Parks, associate professor of computer information systems at Quinnipiac, earned a Fulbright U.S. Scholar award and will travel to Morocco this fall to study data analytics and artificial intelligence (AI) and explore how they are used to improve quality and safety in healthcare."
     publishedDateTime: 2022-05-26T18:28:00Z
