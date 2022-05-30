@@ -32,11 +32,11 @@ related:
   - title: "Resecurity Brings AI-powered Cyber Threat Intelligence to Singapore"
     excerpt: "California-based cybersecurity company showcases innovative cyber threat intelligence and digital risk management technologies at Milipol Asia-Pacific 2022 (APAC) LOS ANGELES, May"
     publishedDateTime: 2022-05-29T07:37:00Z
-    webUrl: "https://www.fourstateshomepage.com/business/press-releases/cision/20220529LA72450/resecurity-brings-ai-powered-cyber-threat-intelligence-to-singapore/"
+    webUrl: "https://wgno.com/business/press-releases/cision/20220529LA72450/resecurity-brings-ai-powered-cyber-threat-intelligence-to-singapore/"
     type: article
     provider:
-      name: Four States Homepage
-      domain: fourstateshomepage.com
+      name: WGNO
+      domain: wgno.com
     quality: 17
   - title: "Fintech In Singapore Today – A Look At The Fintech Regulatory Environment, And What You Need To Know."
     excerpt: "A Look At The Fintech Regulatory Environment, And What You Need To Know. Legal News and Analysis - Singapore - Banking & Finance, Regulatory & Compliance -"

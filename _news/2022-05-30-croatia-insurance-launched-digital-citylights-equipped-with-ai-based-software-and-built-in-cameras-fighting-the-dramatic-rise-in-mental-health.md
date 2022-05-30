@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T12:30:00Z
 originalUrl: "https://fox2now.com/business/press-releases/cision/20220530LN72745/croatia-insurance-launched-digital-citylights-equipped-with-ai-based-software-and-built-in-cameras-fighting-the-dramatic-rise-in-mental-health-issues/"
 webUrl: "https://fox2now.com/business/press-releases/cision/20220530LN72745/croatia-insurance-launched-digital-citylights-equipped-with-ai-based-software-and-built-in-cameras-fighting-the-dramatic-rise-in-mental-health-issues/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Fox2Now St. Louis

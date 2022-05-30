@@ -43,6 +43,15 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Why self-driving car pioneers are backing an Aussie start-up"
+    excerpt: "Strong Compute, which allows AI developers to train their algorithms faster, has raised $11m from VCs and heavy hitters in the self-driving car space."
+    publishedDateTime: 2022-05-30T19:00:00Z
+    webUrl: "https://www.afr.com/technology/why-self-driving-car-pioneers-are-backing-an-aussie-start-up-20220526-p5aos5"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 4
   - title: "Regulations for insuring self-driving cars required sooner rather than later, lawyers say"
     excerpt: "Canada will need to address potential disruption that automated vehicles may cause from an insurance perspective, lawyers caution."
     publishedDateTime: 2022-05-27T19:06:00Z

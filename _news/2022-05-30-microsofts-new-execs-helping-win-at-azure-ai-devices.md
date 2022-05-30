@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Meta/Facebook to use dedicated Microsoft Azure cluster for AI supercomputing"
-excerpt: "Meta first began using Microsoft Azure Virtual Machines for AI research last year, but at a much smaller scale. “We are excited to deepen our collaboration with Azure to advance"
-publishedDateTime: 2022-05-26T09:28:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-to-use-dedicated-microsoft-azure-cluster-for-ai-supercomputing/"
-webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-to-use-dedicated-microsoft-azure-cluster-for-ai-supercomputing/"
+title: "Microsoft’s new execs helping win at Azure, AI, devices"
+excerpt: "Marco Casalaina, Ajith Thekadath and Ashley Hart are just some of the new faces at the tech giant as it invests to accelerate its market position in cloud, artificial intelligence, devices and other areas,"
+publishedDateTime: 2022-05-29T19:57:00Z
+originalUrl: "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620"
+webUrl: "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620"
 type: article
-quality: 68
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Datacenter Dynamics
-  domain: datacenterdynamics.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - Microsoft AI
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://i.nextmedia.com.au/News/20220531071319_crn-14_microsoft_iStock-1191485295.jpg"
+    width: 1400
+    height: 900
     isCached: true
 
 related:
@@ -53,19 +52,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
-  - title: "Microsoft’s new execs helping win at Azure, AI, devices"
-    excerpt: "Marco Casalaina, Ajith Thekadath and Ashley Hart are just some of the new faces at the tech giant as it invests to accelerate its market position in cloud, artificial intelligence, devices and other areas,"
-    publishedDateTime: 2022-05-29T19:57:00Z
-    webUrl: "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620"
+  - title: "Meta/Facebook to use dedicated Microsoft Azure cluster for AI supercomputing"
+    excerpt: "Meta first began using Microsoft Azure Virtual Machines for AI research last year, but at a much smaller scale. “We are excited to deepen our collaboration with Azure to advance"
+    publishedDateTime: 2022-05-26T09:28:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-to-use-dedicated-microsoft-azure-cluster-for-ai-supercomputing/"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 69
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 68
     images:
-      - url: "https://i.nextmedia.com.au/News/20220531071319_crn-14_microsoft_iStock-1191485295.jpg"
-        width: 1400
-        height: 900
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft and Meta expand their AI partnership"
     excerpt: "Meta notices how Microsoft keeps expanding its AI services on platforms like Azure. Microsoft and Meta announced the ONNX (Open Neural Network Exchange)"
@@ -114,6 +113,6 @@ related:
       domain: stockhouse.com
     quality: 46
 
-secured: "I6xYzinGE7O+wZuNJp6BWWWyRqfgLIpT9wjrw/chInkBFkReiHCeq/FIhaOA0mO3hIRiDMmXE4JVvqs+p4O6M0+aBgMob0baoVTDO3+bNNzLgTZnje+z0YO7q6zNBHinsXr4t6L3WRnxfegnlIkqBNQcO9y2X5/jwv0XTCKC6Pyy27QWtNm2AxaEY3eb41KGZ+GmL5Ubx7M+whtTLGOb9QhQ7zYIb6co1+CKf5rHs4koYPYR3bI4yhsBrN1bHMzYTXZlYF5hgMKfFYXq+z4Y89SE99y9nkm/NqWoPBHCLNCYW9DyJ/LArleQcuEK49Ibt3o/OwClSzrHb2wW4P34k9aIJnkeb9BzyQ68FtU6VZkJDFaFFcL1JvTfi3Vpj7jj0LmfpPYwDc572gX6kbvqrxKAPwPvqfRcWS4fE/6Rg5f1bCne2/HRrA5J84dHTKwXldPluxoW6Q0woORaytVEWhne8I6ac/I0PrDm1DBTvBttTCsThDkSOo9m6L8q3/pZQnHxUsEsgK1deM4BTGB9Hg==;IDJom7Je6GtsPNs3ucrc5Q=="
+secured: "pHq9dG5NSVyb1C3icaDxYxHCj2UnDlvFhwCE/sbNZ1eOv0ALeNCoZOQ8+nKxhqecDbCUMfeWRrIrG46j67U41D/F5oDuD9vdUAHpfvgkTPQMQwjZyZfvhpXx6/eXK2yXkHYDcWSmxGzqjCvhWs4+FJVAe033lP4bcY6ZMDNovjZxeU0Xr7dlBQ1RHpMmdGlmP/wSoJGI/5HJZT6GIQ/yOsq/pSOhcBNOQ6GxHWAnyabE8QgOdwuAp/Ppx54SHfL72wB+4obJKZnL8oaRToB+3ibFhAF077zKdniLZBpwkHhKgUzoQ5+kjgwA2GcO9F2JHuHlUghAgjItitNiC4U3w2Sf7VIXIzk4/tcMhCQr0SI=;jx7IaCRjXbd5pGVj8o9jlg=="
 ---
 

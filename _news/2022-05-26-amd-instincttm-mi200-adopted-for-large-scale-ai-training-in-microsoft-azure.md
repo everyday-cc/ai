@@ -22,7 +22,7 @@ related:
   - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
     excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
     publishedDateTime: 2022-05-26T22:46:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-top"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     type: article
@@ -46,6 +46,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
+  - title: "Microsoft’s new execs helping win at Azure, AI, devices"
+    excerpt: "Marco Casalaina, Ajith Thekadath and Ashley Hart are just some of the new faces at the tech giant as it invests to accelerate its market position in cloud, artificial intelligence, devices and other areas,"
+    publishedDateTime: 2022-05-29T19:57:00Z
+    webUrl: "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 69
+    images:
+      - url: "https://i.nextmedia.com.au/News/20220531071319_crn-14_microsoft_iStock-1191485295.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Meta/Facebook to use dedicated Microsoft Azure cluster for AI supercomputing"
     excerpt: "Meta first began using Microsoft Azure Virtual Machines for AI research last year, but at a much smaller scale. “We are excited to deepen our collaboration with Azure to advance"
     publishedDateTime: 2022-05-26T09:28:00Z

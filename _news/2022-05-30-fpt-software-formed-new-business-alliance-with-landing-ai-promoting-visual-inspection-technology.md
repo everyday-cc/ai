@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T08:18:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27460278/fpt-software-formed-new-business-alliance-with-landing-ai-promoting-visual-inspection-technology"
 webUrl: "https://www.benzinga.com/pressreleases/22/05/b27460278/fpt-software-formed-new-business-alliance-with-landing-ai-promoting-visual-inspection-technology"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

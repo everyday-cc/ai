@@ -53,20 +53,15 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Diagnostics Market Size Predicted to Increase at a Positive CAGR Of 32.3% from 2022 to 2031"
-    excerpt: "Global Artificial Intelligence in Diagnostics Market is valued approximately at USD 288 million in 2019 and is anticipated to grow with a healthy growth"
-    publishedDateTime: 2022-05-26T02:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-diagnostics-market-size-predicted-to-increase-at-a-positive-cagr-of-32-3-from-2022-to-2031"
+  - title: "At 20.80% CAGR, Heart Pump Device Market Size is Expected to Reach USD 6162.34 Bn by 2028 - Exclusive Report by Zion Market Research"
+    excerpt: "As per Zion Market Research study, The global Heart Pump Device market was worth around USD 1983.10 billion in 2021 and is estimated"
+    publishedDateTime: 2022-05-30T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/at-20-80-cagr-heart-pump-device-market-size-is-expected-to-reach-usd-6162/article_8e7207e9-96fd-5b79-8590-e6dec5ce0b0b.html"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "ETye81W6XaNbLFQJjXqMVnUmzUgmYBTqmTCtNNNYkiAZs5fdNHaa8mAcA9DkyqJrnrHy8zr3YaKD1FGvQBpLWX3rFH/or8vRT3LewByoIAycSQLEkGbnFFLTTIGqaqs+OPuUPJR9HNRNMJL1nS75dMVNl/1gG/ZisuGwJy9R/hLsmJVS2wmaMLGD5/58cn5tkodXJ9GW95WPemjqMutDroFhMBj8ZwmhcQvsmftqZH3hpCdde7hAWtstsZQvOMnltXST680YjstFni811NRracaqCdV0zl9aVX6aD66fcHZ9zqDdjOc815SQcCOQzL4pYNMDCxkWpPiXGoHfhOHeyYcnPSD6rqO5XGa/Hbfr054=;FL2+ntPVzSCHWEGluFjZCQ=="
 ---

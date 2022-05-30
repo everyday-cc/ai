@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T18:17:00Z
 originalUrl: "https://www.digitaljournal.com/pr/global-fluoroscopy-equipment-market-revenue-to-record-robust-growth-in-coming-years-fact-mr"
 webUrl: "https://www.digitaljournal.com/pr/global-fluoroscopy-equipment-market-revenue-to-record-robust-growth-in-coming-years-fact-mr"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

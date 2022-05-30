@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/managing-disaster-and-disru
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Ads Are Disrupting Marketing"
-    excerpt: "Marketing with AI has been proven to be a successful strategy for many businesses. It's is a new way to reach customers and is much more personalized, targeted and engaging than traditional methods. AI marketing can be used for customer service,"
-    publishedDateTime: 2022-05-26T01:10:00Z
-    webUrl: "https://www.chron.com/business/article/How-AI-Ads-Are-Disrupting-Marketing-17199007.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/25/72/54/22522657/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How disruptions can pay dividends with AI-powered data"
     excerpt: "To be on the front foot here they need to have the ability to predict market changes before they happen. AI-powered intelligence can help us identify the right signals from the noise and help businesses stay ahead of the competition. The path to future ..."
     publishedDateTime: 2022-05-26T07:32:00Z

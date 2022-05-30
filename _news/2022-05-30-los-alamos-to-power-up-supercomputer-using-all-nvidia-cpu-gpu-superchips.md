@@ -3,8 +3,8 @@ category: news
 title: "Los Alamos to power up supercomputer using all-Nvidia CPU, GPU Superchips"
 excerpt: "Nvidia will reveal more details about its Venado supercomputer project today at the International Supercomputing Conference in Hamburg, Germany. Venado is hoped to be the first in a wave of high-performance computers that use an all-Nvidia architecture,"
 publishedDateTime: 2022-05-30T16:30:00Z
-originalUrl: "https://www.theregister.com/2022/05/30/los_alamos_national_laboratory_nvidia/"
-webUrl: "https://www.theregister.com/2022/05/30/los_alamos_national_laboratory_nvidia/"
+originalUrl: "https://www.theregister.com/2022/05/30/los_alamos_national_laboratory_nvidia/?td=amp-keepreading-btm"
+webUrl: "https://www.theregister.com/2022/05/30/los_alamos_national_laboratory_nvidia/?td=amp-keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/30/los_alamos_national_laboratory_nvidia/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/30/los_alamos_national_laboratory_nvidia/"
 type: article
@@ -125,6 +125,6 @@ related:
       domain: wfmz.com
     quality: 10
 
-secured: "/mDe9mCn+cvn9aUkbDrF4WXJbfN+86vJRXdESoT2uNl0nQN8LLLRwAubtsCorcMsNorZd1Wq7LAGv8qrw2h5G/8TBRJIL2hW88Ms9cCOo7uoHMh+YKC+QRcUnP/37f1haRbU1RAQl7lHetUE2KUV+3b6XSrRcIDlU8Kne/lwk3QHMj+M7nw/kuEmjIHHTlfMqykJgx6n2GXbGTK+VSLDTnFrj87wUTAkWpXFqMH7cSZDewJV00rXT11OSRQTu63yuQyfZvlOha/2SUTRjzJggQB3tmXj/XgpVB3L3Oto4bKkK6d0OHWsvUHAH+xDOeyRaFQkRZ7cdbWxdbMj2AzRIuHj9N1bGx6vblccLqHhAsra6rQHzdAJe5tqJw4dHKsioZo1FzXHpcsRY0pgn7jvcrrpRz9TWi1qIanM5EwLJmGUXs8P1qEBosuEa6WX6GnHvi56tDUNqAXiKZl8C+zWFrU/x+9E2mzxBpUqg+dO+E8H/QOgpMgb1PhJr3ept64xDDdo8/4xAXVAdD7cjbvPaw==;hBy43nrSTD14FE8M5nL2kA=="
+secured: "wJeGrkEbREsdpxWi4Gxc9KX4chGwTrp7YdJDhF8Utr2bf4Nf+S20HFqcgBf1I57+UNg1RaRjD9/r7BsfvjGYiKdbqT50n+GC9bU+ppb7tM+5kkWrawLQsbeq900dKcKk+2QnLgPgg1jTA2NDhfXvZrkM9Q0tF27YdaPzXK6lF0ML1EcctORkSstFSGO9akkDhNFAOQRZrRmQLDKJ+vsj7e/rZQWtTGkJsO7sl5JGzLSIEMhYggFZNjcJVw0BwESq8loCfrEDGpB4Ed6i1wahsyPut7osJB25bWV7ZGKWOHE7hHBLFk3TlvTYBLWtGAwNPWZ7bjEuIcJvRo5J0/4OrkrumAg3WfGJqjw6IliHQ/s=;+aXf/eKy+JedqJUBieo9aw=="
 ---
 

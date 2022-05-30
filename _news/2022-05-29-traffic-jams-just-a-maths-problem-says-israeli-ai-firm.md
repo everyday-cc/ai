@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Israeli Firm AgroScout Proves The Impact Of AI And Robotics In Agriculture"
+    excerpt: "Israeli firm AgroScout has developed software that uses AI and commercial drones to monitor crops in real-time."
+    publishedDateTime: 2022-05-30T19:11:00Z
+    webUrl: "https://nocamels.com/2022/05/agroscout-ai-robotics-agriculture/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 47
 
 secured: "VuumFhu0EVPKyQAB6oZXlRR4bh8cchrS96RNOBeeXruAcqlIzABbz1MsERmtzvSFgtqlHNhwuIVud1glBQFfvGGby218wQ9tfSkMU0bQJxMy8nA9i0nig9ijSn+3SrqEeYvTd+Vd38rHa4OQiZZB0r1XXbixKwkNT7KvAqpVvjs3kAqvozxu4DDOx35B1sYFbmW/wsEYwQNngGNe5LahM5fboIx1m3nTCXRdDvXznOQ/b2QpFSY35/3CcOjokost31eEFWJPWbJSuI2R1zEN29Ob8pWdrBsjLnTGjl/MSIbKQRx/v09YJsa/npBRTvCzp1B/PxoajL5NHtfng5k9AiXQBNTVfOk4tRGvER8pebY=;Rb+0lU8f+ajzY/3Ul8RDWw=="
 ---

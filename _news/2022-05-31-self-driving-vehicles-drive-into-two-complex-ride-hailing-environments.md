@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T18:54:00Z
 originalUrl: "https://menafn.com/1104294179/Self-Driving-Vehicles-Drive-Into-Two-Complex-Ride-Hailing-Environments"
 webUrl: "https://menafn.com/1104294179/Self-Driving-Vehicles-Drive-Into-Two-Complex-Ride-Hailing-Environments"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

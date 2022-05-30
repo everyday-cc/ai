@@ -18,26 +18,68 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Retail Industry Growth Curve to Exhibit Upward Trend by 2030"
-    excerpt: "Fatpos Global added the revised report into their database titled “Artificial Intelligence in Retail Market: Market Segments: By Technology (Natural Language Processing, Machine Learning and Deep Learning,"
-    publishedDateTime: 2022-05-26T18:18:00Z
-    webUrl: "https://xaralite.com/285708/news/artificial-intelligence-in-retail-industry-growth-curve-to-exhibit-upward-trend-by-2030/"
+  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2022 Top Key Players, Industry Demand, Future Estimations and Key Tactics to 2028"
+    excerpt: "The research report on the Global Natural Language Processing (NLP) in Healthcare Market 2022 by Company, Regions, Type and Application, Forecast to 2028 was recently published by MarketsandResearch.biz."
+    publishedDateTime: 2022-05-29T23:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2022-top-key-players-industry-demand-future-estimations-and-key-tactics-to-2028-2022-05-29"
     type: article
     provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 26
-  - title: "Edge Artificial Intelligence Chips Regional Industry Segmentation, Analysis by Production, Consumption, Revenue and Growth Rate by 2030"
-    excerpt: "Edge Artificial Intelligence Chips Market to surpass USD 15.2 billion by 2031 from USD 2.5 billion in 2021 at a CAGR of 19.56% within the coming years, i.e., 2021-31. Fatpos Global added a new report into their database named “Edge Artificial Intelligence Chips Segments: By Processor CPU GPU ASIC Others By Device Type Consumer Devices Enterprise Devices By Function Training Inference 2021–2031 Global Industry Perspective,"
-    publishedDateTime: 2022-05-26T13:29:00Z
-    webUrl: "https://www.digitaljournal.com/pr/edge-artificial-intelligence-chips-regional-industry-segmentation-analysis-by-production-consumption-revenue-and-growth-rate-by-2030"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+  - title: "Global Artificial Intelligence Market 2022 - Research Status, Dynamic Innovation, Trend Analysis and Forecast by 2028"
+    excerpt: "MarketsandResearch.biz contributes an in-depth examination of the offers sector's current situation & important drivers in its insightful research Global Artificial Intelligence Market 2022 by Company,"
+    publishedDateTime: 2022-05-29T19:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2022---research-status-dynamic-innovation-trend-analysis-and-forecast-by-2028-2022-05-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Worldwide Demand For Healthcare Natural Language Processing (NLP) Market Is Growing At A CAGR of 11.1% By 2028 | 102 Report Pages"
+    excerpt: "Market” Insights 2022 By Types (Machine Translation, Information Extraction, Automatic Summarization, Text and Voice Processing), Applications (Hospitals, Clinics), Regions and Forecast to 2028. The global Healthcare Natural Language Processing (NLP) market size is projected to reach multi million by 2028,"
+    publishedDateTime: 2022-05-30T05:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/worldwide-demand-for-healthcare-natural-language-processing-nlp-market-is-growing-at-a-cagr-of-11-1-by-2028-102-report-pages"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 5
+    quality: 42
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/Alphabet-Google-1200-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Analysis 2022-2027, Industry Size, Share, Trends and Forecast"
+    excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence in Healthcare Market: Industry Trends, Share, Size, Growth, Opportunity"
+    publishedDateTime: 2022-05-26T10:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-analysis-2022-2027-industry-size-share-trends-and-forecast"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Computer Vision in Healthcare Market Trends 2022, In-Depth Analysis of Industry Growth and Forecast Up To 2028 |Top key players: NVIDIA Corporation"
+    excerpt: "Computer vision has been used in various healthcare applications to assist medical professionals in making better decisions regarding the treatment of patients. Medical imaging or medical image ..."
+    publishedDateTime: 2022-05-27T12:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-trends-2022-in-depth-analysis-of-industry-growth-and-forecast-up-to-2028-top-key-players-nvidia-corporation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Texas-massacre-USA-flags-AFP-1K-011-600x337.jpg"
         width: 600
         height: 337
         isCached: true
