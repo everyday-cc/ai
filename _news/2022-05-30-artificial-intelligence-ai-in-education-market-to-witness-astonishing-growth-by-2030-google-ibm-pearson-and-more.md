@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T13:39:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-witness-astonishing-growth-by-2030-google-ibm-pearson-and-more"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-witness-astonishing-growth-by-2030-google-ibm-pearson-and-more"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Digital Journal

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T13:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/siminsights-launches-hyperskill-platform-an-ai-powered-no-code-extended-reality-xr-saas-platform/article_eae79fbd-2b63-57de-94c0-ea2ba90c0d39.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/siminsights-launches-hyperskill-platform-an-ai-powered-no-code-extended-reality-xr-saas-platform/article_eae79fbd-2b63-57de-94c0-ea2ba90c0d39.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: WFMZ-TV

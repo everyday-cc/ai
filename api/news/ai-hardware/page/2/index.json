@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-11-new-science-chief-underlines-strategic-investments-on-chip-ai-space-bio.md",
+      "title": "New science chief underlines strategic investments on chip, AI, space, bio",
+      "excerpt": "Lee Jong-ho, the new science and ICT minister, stressed the importance of securing core technologies of semiconductor, artificial intelligence, space and bio in his inaugural speech on Wednesday. “In an era where technology is sovereignty,",
+      "sourceUrl": null,
+      "webUrl": "https://koreaherald.com/view.php?ud=20220511000663",
+      "originalUrl": "https://koreaherald.com/view.php?ud=20220511000663",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F05%2F11%2F20220511000694_0.jpg",
+          "width": 630,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20220511000663",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220511000663",
+      "publishedDateTime": "2022-05-10T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028.md",
+      "title": "Global GPU for Deep Learning Market 2022 Opportunity Analysis, Comprehensive Insights, CAGR Status and Future Opportunity Assessment by 2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. May 10, 2022 (CDN Newswire via Comtex) -- Global GPU for Deep Learning Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 offers an in-depth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028-2022-05-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-gpu-for-deep-learning-market-2022-opportunity-analysis-comprehensive-insights-cagr-status-and-future-opportunity-assessment-by-2028-2022-05-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-intel-launches-new-ai-chips-challenging-nvidias-market.md",
       "title": "Intel launches new AI chips, challenging Nvidia's market",
       "excerpt": "as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp (NVDA.O). Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion.",
@@ -1261,101 +1357,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
-      "title": "Google faces internal battle over research on AI to speed chip design",
-      "excerpt": "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
-      "originalUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach-to-the-design-of-chips-for-high-performance-computing-applications.md",
-      "title": "Joe Costello, ex-CEO of Cadence joined Anari AI: “There must be a new approach to the design of chips for high-performance computing applications”",
-      "excerpt": "Joe Costello, ex-CEO of Cadence, joined Anari AI in the Board Advisor position to empower the wind of change in the hardware AI industry. Anari AI is a startup delivering the next-generation platform for computation to provide companies with personalized AI Systems accessible in one click.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html",
-      "originalUrl": "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/3f/23f39291-cd74-541b-b0d9-4a1e2f0e5387/6271530a5dcff.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

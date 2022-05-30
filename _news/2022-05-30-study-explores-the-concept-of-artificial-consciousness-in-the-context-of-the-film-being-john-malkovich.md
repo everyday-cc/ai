@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T13:30:00Z
 originalUrl: "https://techxplore.com/news/2022-05-explores-concept-artificial-consciousness-context.html"
 webUrl: "https://techxplore.com/news/2022-05-explores-concept-artificial-consciousness-context.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

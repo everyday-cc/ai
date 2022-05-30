@@ -2,6 +2,308 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-02-14-sequentially-reduced-representation-of-artificial-neural-network-to-determine-cardiovascular-intrinsic-frequencies.md",
+      "title": "Sequentially-reduced representation of artificial neural network to determine cardiovascular intrinsic frequencies",
+      "excerpt": "Analysis of cardiovascular waveforms provides valuable clinical information about the state of health and disease. The intrinsic frequency (IF) method is a recently introduced framework that uses a single arterial pressure waveform to extract physiologically relevant information about the cardiovascular system.",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/PPR/PPR455070",
+      "originalUrl": "https://europepmc.org/article/PPR/PPR455070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-elon-musks-neuralink-says-brain-chips-in-monkeys-follow-ethical-rules.md",
+      "title": "Elon Musk’s Neuralink says brain chips in monkeys follow ethical rules",
+      "excerpt": "Elon Musk’s brain chip startup Neuralink has responded to accusations that ... The company eventually hopes to use the technology to allow “human-AI symbiosis”, though early applications will focus on treating people with brain disorders and diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html",
+      "originalUrl": "https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/02/14/10/elon%20musk%20neuralink%20monkey%20brain%20chip.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 911,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T01:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-boosting-ai-with-photonic-processors.md",
+      "title": "Boosting AI with photonic processors",
+      "excerpt": "Among the different types of AI, neural networks are widely used in AI tasks due to ... 4 : Photonic in-memory computing using an on-chip frequency comb and phase-change materials. [Ref.] Feldmann and colleagues have also independently fabricated an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/boosting-ai-photonic-processors-the-working-machine",
+      "originalUrl": "https://www.linkedin.com/pulse/boosting-ai-photonic-processors-the-working-machine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH06IP1CLqXfQ/article-cover_image-shrink_720_1280/0/1644660806086?e=1651708800&v=beta&t=wyz5lRjc50m6DteH9wnCYKJ1cFroxMymvw5GfCnS1gM",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T01:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-ubtech-robotics-launches-mobile-disinfectant-robot.md",
+      "title": "UBTECH Robotics Launches Mobile Disinfectant Robot",
+      "excerpt": "Chinese robotics startup, UBTECH Robotics (UBTECH) has launched a mobile disinfectant robot called ADIBOT-A to meet the demand for autonomous cleaning regimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retail-insight-network.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/",
+      "originalUrl": "https://www.retail-insight-network.com/research-reports/ubtech-robotics-launches-mobile-disinfectant-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/02/Image-2-3.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T01:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Verdict Retail",
+        "domain": "retail-insight-network.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-it-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-transformation-plan.md",
+      "title": "IT skills and ethical AI among key focus in New Zealand's draft transformation plan",
+      "excerpt": "The plan [PDF] also noted the importance of taking a data-driven approach by adopting technologies such as AI that could have flow-on benefits, such as emissions reduction and greater productivity, as well as taking an ethical approach to AI adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/",
+      "originalUrl": "https://www.zdnet.com/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/75a9f5bebe86bd848974df3f81d132836540779e/2021/04/14/fb8b315c-6642-4f75-b1aa-3aa2e5cfc05d/new-zealand-beehive.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 952,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-skills-and-ethical-ai-among-key-focus-in-new-zealands-draft-industry-transformation-plan/",
+      "publishedDateTime": "2022-02-13T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-predictors-of-cognitive-functioning-in-presentations-to-a-community-based-specialist-addiction-neuropsychology-service.md",
+      "title": "Predictors of cognitive functioning in presentations to a community-based specialist addiction neuropsychology service",
+      "excerpt": "Turning Point, Eastern Health, Richmond, VIC, Australia The National Centre for Clinical Research on Emerging Drugs (NCCRED), University of New South Wales, Sydney, NSW, Australia National Drug and Alcohol Research Centre, University of New South Wales ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/brain-impairment/article/predictors-of-cognitive-functioning-in-presentations-to-a-communitybased-specialist-addiction-neuropsychology-service/98D7CB1E0813970F47798A86B2D47556",
+      "originalUrl": "https://www.cambridge.org/core/journals/brain-impairment/article/predictors-of-cognitive-functioning-in-presentations-to-a-communitybased-specialist-addiction-neuropsychology-service/98D7CB1E0813970F47798A86B2D47556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-14-reasons-why-ethical-conversational-design-is-vital-for-enterprise-ai.md",
+      "title": "Reasons Why Ethical Conversational Design Is Vital for Enterprise AI",
+      "excerpt": "Although AI has continually evolved, ethics and morality have not always been a prime design focus. How do these AI apps respond to diversity? To questions or statements about gender? Do they ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-experience/reasons-why-ethical-conversational-design-is-vital-for-enterprise-ai/",
+      "originalUrl": "https://www.cmswire.com/digital-experience/reasons-why-ethical-conversational-design-is-vital-for-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/ea3d48c8d5fd40ad819493dce78e3c15.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-experience/reasons-why-ethical-conversational-design-is-vital-for-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/reasons-why-ethical-conversational-design-is-vital-for-enterprise-ai/amp/",
+      "publishedDateTime": "2022-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-14-artificial-intelligence-hunts-cancer-faster.md",
       "title": "Artificial intelligence hunts cancer faster…",
       "excerpt": "Artificial intelligence algorithms coupled with top ... “It’s like the driverless car situation …These machines are trained to replicate my human capabilities, they’re probably not quite ...",
@@ -810,354 +1112,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-symbolic-ai-the-key-to-the-thinking-machine.md",
-      "title": "Symbolic AI: The key to the thinking machine",
-      "excerpt": "Register here. Even as many enterprises are just starting to dip their toes into the AI pool with rudimentary machine learning (ML) and deep learning (DL) models, a new form of the technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/",
-      "originalUrl": "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/symbolic-ai-the-key-to-the-thinking-machine/amp/",
-      "publishedDateTime": "2022-02-11T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-the-future-of-ai-copywriting-is-revolutionary-not-rubbish.md",
-      "title": "The future of AI copywriting is revolutionary, not rubbish",
-      "excerpt": "For one, AI has no idea of “meaning”; it simply follows rules of natural language processing, looking for categories, sequences, and order. Therefore, worrying about AI taking over the world ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/",
-      "originalUrl": "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1220044599.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/11/the-future-of-ai-copywriting-is-revolutionary-not-rubbish/amp/",
-      "publishedDateTime": "2022-02-11T11:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-apply-profanity-masking-in-amazon-translate.md",
-      "title": "Apply profanity masking in Amazon Translate",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. This post shows how you can mask profane words and phrases with a grawlix string (“?$#@$”). Amazon Translate typically chooses clean words for your translation",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/apply-profanity-masking-in-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/apply-profanity-masking-in-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T10:55:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly.md",
-      "title": "How Süddeutsche Zeitung optimized their audio narration process with Amazon Polly",
-      "excerpt": "This is a guest post by Jakob Kohl, a Software Developer at the Süddeutsche Zeitung. Süddeutsche Zeitung is one of the leading quality dailies in Germany when it comes to paid subscriptions and unique users. Its website, SZ.de, reaches more than 15 million monthly unique users as of October 2021. Thanks",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-suddeutsche-zeitung-optimized-their-audio-narration-process-with-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/tts-architecture-ml-blog.drawio-002-1260x479.png",
-          "width": 1260,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T10:37:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci.md",
-      "title": "Bhubaneswar Airport Chosen For Voice of Customer Recognition 2021 By ACI",
-      "excerpt": "The Biju Patnaik International Airport (BPIA) in Bhubaneswar has been chosen for the Voice of Customer recognition under Airports Council International (ACI). Six more airports in the country have also been chosen for the honour. The Airports Council ...",
-      "sourceUrl": null,
-      "webUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
-      "originalUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1644491071.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
-      "cdnAmpWebUrl": "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/miscellaneous/bhubaneswar-airport-chosen-for-voice-of-customer-recognition-2021-by-aci-170308/amp",
-      "publishedDateTime": "2022-02-11T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha TV",
-        "domain": "odishatv.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-tunisian-start-up-uses-ai-to-help-remote-african-hospitals.md",
-      "title": "Tunisian start-up uses AI to help remote African hospitals",
-      "excerpt": "Innovations Tunisian start-up uses AI to help remote African hospitals Posted A MedTech startup in Tunisia is providing solutions using artificial intelligence, e-reporting and radiologists' expertise to help remote-areas hospitals with limited resources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVFY8KUW7",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVFY8KUW7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20220211&i=OVFY8KUW7&r=OVFY8KUW7&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-12-researchers-furious-over-claim-that-ai-is-already-conscious.md",
-      "title": "Researchers Furious Over Claim That AI Is Already Conscious",
-      "excerpt": "“Every time such speculative comments get an airing, it takes months of effort to get the conversation back to the more realistic opportunities and threats posed by AI,” UNSW Sidney AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/conscious-ai-backlash",
-      "originalUrl": "https://futurism.com/conscious-ai-backlash",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/02/conscious-ai-backlash-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/conscious-ai-backlash/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/conscious-ai-backlash/amp",
-      "publishedDateTime": "2022-02-11T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

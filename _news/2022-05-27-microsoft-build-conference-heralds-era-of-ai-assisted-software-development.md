@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-26T18:14:00Z
 originalUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
 webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
 type: article
+quality: 52
+heat: -1
+published: false
 
 provider:
   name: Visual Studio Magazine
@@ -15,6 +18,53 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "X0YsbNWMQf2gXUyscdx6l8OMs8ZJoWwW3V8FpAjJw03F8LPFAhb8KC+ce87q0kmsh7GyvZ8qqB/vPPRDfHhn/DHyIxf0y3G/tveogBPBHkjkKDcyBCG+owV+7hlXUj3EkmOTCfeQtzUm/vcmCcqDmDFBFlE2qv+Av1LXG6ZCJoySZJvR8fqf1P349hDp+FgaruxPF0AuGe2C5jM3ooVTkdKCvm/IKzwZyJ2y0SjN2rphohsHc2ts/hdWt434lRxnQOO8oIR59sCVHYZURUvbjCIbB4fps3DW185+SHtJ5/LkrWS3n+o2x1SWni2qEUOmL5OgI6cyzbAA3K1fD8cVHOeA28kZUVc4OFK3A6ss/EYzUpTyUxt+VtqTzDz2V5mbNwmwC18fqZGnvGgBnhQ7GBmU0ahqPgK4Wk+0AWWADZLjjxD4iv333m+vAnZ6tj1xreEMeKCuL3LEo13TbjuNfSOQoGzH37ygG2cXXVGIR6cagNCMuF9QKZHBi2Cr9znmuwYrNkIQAPmj0cb7rStzCQ==;4zetSmTDwlMe77Kpvc7PfQ=="
+images:
+  - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
+    width: 647
+    height: 450
+    isCached: true
+
+related:
+  - title: "How Microsoft plans to improve the low-code landscape"
+    excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
+    publishedDateTime: 2022-05-27T03:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/"
+    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
+    excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
+    publishedDateTime: 2022-05-27T22:38:00Z
+    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 58
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
+        width: 1522
+        height: 857
+        isCached: true
+  - title: "A look at the announcements from Microsoft Build 2022"
+    excerpt: "This year's edition of Microsoft Build has now wrapped up, but don't worry if you missed it! The event brought us many surprises, so just in case you couldn't tune in live, let's walk through some of the announcements."
+    publishedDateTime: 2022-05-26T18:39:00Z
+    webUrl: "https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2022/05/26/a-look-at-the-announcements-from-microsoft-build-2022/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
+
+secured: "aVE//t/ycwdJr5+v1+KrFgSZl9c7owyNCU/0NGSMtLHWadhfJxvthvJC023Ov05nl3/CtLkqHWlIRHeMvZO5WxNotpodHTe5vBitLyGn4kyEHSSRJEsMKkwWEqRpY3UAWZdDHeOv9Tx1JoMMVByKB0nAHIqsvo7S2jiEf2ySQsZS5jOU3kaN3rhTnese63nRVCB9OIQxWW9THmW3xokck7b+T3uwdw3A9E5obF4AbAJQAmu65xW1DbPQTsqjKqRAgIUtlHBllggKSyePXAOVkvOJWrx8oN5WCKpfXkLABxaVDxpFbTg9FkzxrhqG4bYQSKOwHKn/4ijfK0rJXQn+zuIfafvrrnwf6SHvoI2GZTw=;xMeH4UREjMhqZh8TOeaR0Q=="
 ---
 

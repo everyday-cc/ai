@@ -22,22 +22,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
-    excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
-    publishedDateTime: 2022-05-25T20:10:00Z
-    webUrl: "https://www.theregister.com/2022/05/25/meta_azure_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 103
-    images:
-      - url: "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg"
-        width: 1000
-        height: 380
-        isCached: true
   - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
     excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
     publishedDateTime: 2022-05-26T22:50:00Z
@@ -54,20 +38,6 @@ related:
         width: 894
         height: 534
         isCached: true
-  - title: "Startup, Microsoft collaborate to simplify AI healthcare research"
-    excerpt: "An artificial intelligence data security company is collaborating with Microsoft to advance AI healthcare research. BeeKeeperAI, a startup specializing in data confidentiality and intellectual property protection,"
-    publishedDateTime: 2022-05-25T21:44:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/startup-microsoft-collaborate-to-simplify-ai-healthcare-research.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 71
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
-        isCached: true
   - title: "Meta/Facebook to use dedicated Microsoft Azure cluster for AI supercomputing"
     excerpt: "Meta first began using Microsoft Azure Virtual Machines for AI research last year, but at a much smaller scale. “We are excited to deepen our collaboration with Azure to advance"
     publishedDateTime: 2022-05-26T09:28:00Z
@@ -81,36 +51,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft Build 2022: Key highlights"
-    excerpt: "Most of the new features announced are aimed at making it easier for developers to create native apps for multiple platforms, migrate to the Azure cloud, build collaborative experience in Teams, and improve discoverability of apps on the Microsoft store."
-    publishedDateTime: 2022-05-25T19:18:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/microsoft-build-2022-key-highlights-11653464405276.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/microsoft-build-2022-key-highlights/amp-11653464405276.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-build-2022-key-highlights/amp-11653464405276.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/05/25/600x338/US-MICROSOFT-PHONES-0_1639047811612_1653464772054.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
-    excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
-    publishedDateTime: 2022-05-27T22:38:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 58
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
-        width: 1522
-        height: 857
         isCached: true
   - title: "Microsoft and Meta expand their AI partnership"
     excerpt: "Meta notices how Microsoft keeps expanding its AI services on platforms like Azure. Microsoft and Meta announced the ONNX (Open Neural Network Exchange)"
@@ -140,28 +80,14 @@ related:
         width: 608
         height: 457
         isCached: true
-  - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
-    excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
-    publishedDateTime: 2022-05-26T18:14:00Z
-    webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
+  - title: "Azure Adopts AMD Instinct MI200 GPU for Large-Scale AI Training"
+    excerpt: "AMD said Azure is the first public cloud to deploy Instinct MI200 chips. “AMD Instinct MI200 accelerators provide customers with cutting-edge AI and HPC performance and will power many of the world’s fastest supercomputer systems that push the ..."
+    publishedDateTime: 2022-05-26T15:52:00Z
+    webUrl: "https://insidehpc.com/2022/05/azure-adopts-amd-instinct-mi200-gpu-for-large-scale-ai-training/"
     type: article
     provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 52
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft collaboration to accelerate AI innovations in healthcare"
-    excerpt: "Microsoft has partnered with AI healthcare company BeeKeeperAI to develop and validate AI within a confidential computing environment. Through the partnership, algorithm developers and healthcare data experts will have access to a secure collaboration environment operating in Microsoft Azure,"
-    publishedDateTime: 2022-05-25T19:10:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-collaboration-to-accelerate-ai-innovations-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: insideHPC
+      domain: insidehpc.com
     quality: 51
   - title: "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure"
     excerpt: "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators ? SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,"
@@ -172,15 +98,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 46
-  - title: "A look at the announcements from Microsoft Build 2022"
-    excerpt: "This year's edition of Microsoft Build has now wrapped up, but don't worry if you missed it! The event brought us many surprises, so just in case you couldn't tune in live, let's walk through some of the announcements."
-    publishedDateTime: 2022-05-26T18:39:00Z
-    webUrl: "https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2022/05/26/a-look-at-the-announcements-from-microsoft-build-2022/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
 
 secured: "pvrAeiYpIdlxSD0C/NBVXzdT3gQ9oGwkPSOAPdklTSRTGAXXkKQnVUMZe4219jUbteMbYmvtq0tqWNKE5hGTDYpULpqk/FDiJ2q6v/du5Y3+xhcQUGlT1ZaAj0Rlnl7CnRrpfuli9VyVEaq7Zn8CFlSSqDGtCLZaDAr7yplyCjHSb82L/3z52Hqml1UZFkuKsX8CiPv9i/xP5UEF/kJiMcjbPDg757NrmSc7L6oE3V28IeFtzXAfDLsS+2hsduPvcrD8+pzDUM39Ev0HLE8KaziTbUxINbS8Mt8op9Dnw19m6kYxsFnLe9Km0Q+SYZOsfyqCoU3cK1e3S4kaTfb1muQEnHilyd5ITLQ0zDDbP80=;NtDlDj6urcfzvtRWqOwGzQ=="
 ---

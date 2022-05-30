@@ -35,6 +35,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "DaveAI A Nasscom Deeptech Club Start-up Specializing in Visual AI Raises Strategic Round of Funding by Marquee Investors from Japan and India"
+    excerpt: "PTI takes no editorial responsibility for the same.) Bengaluru, Karnataka, India (NewsVoir) • Investment led by Maruti Suzuki, GHV, Hakuhodo Inc., with participation from existing investors Mumbai Angels & IIIT Seed fund DaveAI,"
+    publishedDateTime: 2022-05-30T10:57:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2022/05/30/pwr22-daveai.html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2022/05/30/pwr22-daveai.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2022/05/30/pwr22-daveai.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 2
 
 secured: "FhI0NWY30gAE1zeqNXdVg1nG334SxZKTR19SJEx7WKujkk3JxECphvB6C/hpdmwFGegS8jxakpx6a6pcV6lVG46iZFkZsqQhpSJvRF3t1GM+nnB/6yST2WqxqwLqbzmaAIBFEXhCbJhpxaMSxgjuZ5iDWqK5ExGND3X7P4TGkyf+bWDFfGZSj88v4selSk06XMJSzQKT+NbaZOswKvHyVz9aDR/nU46siJulgXQows07lYp3aXUJwXkpgyIRu5yfjUCaZXLKwkh7DPs81C8hDh4QmmBw6IhMqFlbNpFzXnSiNF6QamhPTz9Jl+TGTDC5A6mZ04q/op1Osf9G8FTNrra6z8qZCNdU86NIOXKCVMBFC2uocN/ChLQhizGCyQgOzasCxssi+JwsPbsHXziOPmd6txwDv2R3H1zSGY711RvKfcXn8Fn9SO+OMlz5zn4Pa55fWBAfl0W3WBKmpn3F8tQPTchsUCSUhLNVP6+I5kT/d1PiAB2oRvza0gsDGg6Tz9POztAOmZpcN0Wbyt9wQg==;69BXgDj9zNFnhlNwyK+mbg=="
 ---

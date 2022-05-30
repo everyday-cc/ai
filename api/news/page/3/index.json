@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
+      "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
+      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform.md",
+      "title": "Idiomatic bets on contextual AI as it grows its voice-of-customer platform",
+      "excerpt": "A growing number of customer intelligence platforms are utilizing contextual AI and machine learning to understand structured and unstructured data. Idiomatic aims to set itself apart in the space.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/",
+      "originalUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1366362158.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/",
+      "publishedDateTime": "2022-05-25T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-despite-key-partnership-with-aws-meta-taps-up-microsoft-azure-for-ai-work.md",
+      "title": "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work",
+      "excerpt": "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
+      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg",
+          "width": 1000,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
+      "publishedDateTime": "2022-05-25T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-tech-leaders-say-facial-recognition-clampdown-will-spur-innovation.md",
       "title": "Tech Leaders Say Facial-Recognition Clampdown Will Spur Innovation",
       "excerpt": "A $10 million fine levied on Clearview AI by the U.K.’s data-privacy watchdog sets clearer ground rules for balancing software innovation with people’s right to privacy, experts say.",
@@ -429,6 +567,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-global-adasad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous-driving-ai-data-training.md",
+      "title": "Global ADAS/AD Chip Industry Research Report 2022: SoC Vendors Accelerate the Layout of Autonomous Driving AI Data Training",
+      "excerpt": "DUBLIN, May 25, 2022 /PRNewswire/ -- The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -981,188 +1162,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
-      "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging.md",
-      "title": "Study shows AI deep learning models can detect race in medical imaging",
-      "excerpt": "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksby.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
-      "originalUrl": "https://www.ksby.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/aeccbfd/2147483647/strip/true/crop/3253x1830+13+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F96%2Febe196d94b7d93668a2f406ee2ff%2Fstudy-shows-artificial-intelligence-deep-learning-models-can-detect-race-in-medical-imaging.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksby.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
-      "cdnAmpWebUrl": "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
-      "publishedDateTime": "2022-05-24T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSBY 6",
-        "domain": "ksby.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex.md",
-      "title": "Nvidia Tips New Liquid-Cooled GPU, Jetson AI Devices at Computex",
-      "excerpt": "Peak performance and cooling in ever-smaller spaces matters to data centers, and Nvidia's liquid-cooled A100 card targets that market. The chip giant also detailed new Jetson devices and designs for data-center systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex",
-      "originalUrl": "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00nRHA1EuawfuWOeCRdcubw-1.fit_lim.size_1200x630.v1653362725.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex?amp=true",
-      "publishedDateTime": "2022-05-24T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-how-amalgamated-learning-could-scale-medical-ai.md",
-      "title": "How amalgamated learning could scale medical AI",
-      "excerpt": "A promising new AI and machine learning technique called amalgamated learning might help overcome these silos to find new cures for diseases, prevent fraud and improve industrial equipment. It may also provide a way to construct digital twins from inconsistent forms of data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/amp/",
-      "publishedDateTime": "2022-05-24T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

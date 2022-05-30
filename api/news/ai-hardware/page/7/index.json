@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-02-28-mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai.md",
+      "title": "MWC: Qualcomm's new 5G modem is the first with built-in AI",
+      "excerpt": "At Mobile World Congress, Qualcomm is unveiling a series of connectivity innovations, as well as products and capabilities that are taking Qualcomm technology well beyond the smartphone market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
+      "originalUrl": "https://www.zdnet.com/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9f8b7b53c8599c7c9b3fb44f8b893dee7188759c/2022/02/28/382bbc38-8a8c-41d9-8a94-9d683b4d9264/hero-image-snapdragon-x70-5g-modem-rf-system.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mwc-qualcomms-new-5g-modem-is-the-first-with-built-in-ai/",
+      "publishedDateTime": "2022-02-28T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-28-global-ai-audio-and-video-chip-market-2021-industry-chain-structure-market-competition-swot-analysis-report-by-2027.md",
+      "title": "Global AI Audio and Video Chip Market 2021 Industry Chain structure, Market Competition, SWOT Analysis Report by 2027",
+      "excerpt": "MarketsandResearch.biz has just released a new market research study named Global AI Audio and Video Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 which contains a comprehensive addition of several factors such as global distribution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-audio-and-video-chip-market-2021-industry-chain-structure-market-competition-swot-analysis-report-by-2027-2022-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-audio-and-video-chip-market-2021-industry-chain-structure-market-competition-swot-analysis-report-by-2027-2022-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-27T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-28-unesco-international-research-center-spotlights-in-2022-global-top-10-outstanding-ai-solutions.md",
       "title": "UNESCO International Research Center Spotlights In 2022 Global Top 10 Outstanding AI Solutions",
       "excerpt": "IRCAI ( International Research Center on Artificial Intelligence) under the auspices of UNESCO, launched an unprecedented program to identify the global top 10 AI solutions supporting the United Nations Sustainable Development Goals (SDGs).",
@@ -1307,101 +1411,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-sk-hynix-develops-pim-next-generation-ai-accelerator.md",
-      "title": "SK hynix Develops PIM, Next-Generation AI Accelerator",
-      "excerpt": "A combination of GDDR6-AiM with CPU or GPU instead of a typical DRAM makes ... It's now one of the most popular memory chips for AI and big data applications GDDR6-AiM runs on 1.25V, lower than ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sk-hynix-develops-pim-next-generation-ai-accelerator-1031197719",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1747012/SK_____GDDR6_AiM_01.jpg",
-          "width": 400,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-15T20:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-16-growing-rd-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth.md",
-      "title": "Growing R&D of AI & VR Platforms facilitate Global Graphic Processing Units (GPU) Market Growth",
-      "excerpt": "At the same time, there is a huge need for VR and AI platforms for efficient gaming purposes. This has led to companies launching GPU innovations in the market. For instance, NVidia introduced its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/ab25653255/growing-r-d-of-ai-vr-platforms-facilitate-global-graphic-processing-units-gpu-market-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25653255",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25653255",
-      "publishedDateTime": "2022-02-15T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

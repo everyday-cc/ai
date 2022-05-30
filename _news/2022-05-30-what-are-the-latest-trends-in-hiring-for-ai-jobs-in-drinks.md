@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T13:33:00Z
 originalUrl: "https://www.just-drinks.com/analysis/what-are-the-latest-trends-in-hiring-for-ai-jobs-in-drinks/"
 webUrl: "https://www.just-drinks.com/analysis/what-are-the-latest-trends-in-hiring-for-ai-jobs-in-drinks/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Drinks

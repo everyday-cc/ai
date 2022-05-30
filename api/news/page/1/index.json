@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-05-30-aws-introduces-new-p4de-instance-for-ai-training.md",
+      "title": "AWS Introduces New P4de Instance for AI Training",
+      "excerpt": "which is included in the company’s EC2 Inf1 instances, is designed for inference workloads and can execute up to 128 trillion operations per second. AWS showed off AWS Trainium, a second AI processor tailored for AI training, in November.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/AWS-Introduces-New-P4de-Instance-for-AI-Training-1024x585.png",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/amp/",
+      "publishedDateTime": "2022-05-30T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-ibm-adds-side-order-of-nlp-to-mcdonalds-ai-drive-thru-chatbots.md",
+      "title": "IBM adds side order of NLP to McDonald's AI drive-thru chatbots",
+      "excerpt": "CEO talks up 'great economics to franchisees ... through the power of software... AI and creative construct'.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/05/30/ibm/",
+      "originalUrl": "https://www.theregister.com/2022/05/30/ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/06/10/mcdonalds.jpg",
+          "width": 5782,
+          "height": 3854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/30/ibm/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/30/ibm/",
+      "publishedDateTime": "2022-05-30T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-x-marks-the-spot-for-completion-of-green-roofed-furniture-factory.md",
       "title": "X marks the spot for completion of green-roofed furniture factory",
       "excerpt": "The Bjarke Ingels Group (BIG) is often at its most interesting when mixing contrasting ideas and functions into its projects – such as its power plant/ski slope for example. In a similar vein comes The Plus,",
@@ -158,7 +245,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -189,49 +276,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-hyundai-boosts-investments-in-the-us-for-robotics-evs.md",
-      "title": "Hyundai boosts investments in the US for robotics, EVs",
-      "excerpt": "Hyundai Motor Group chairman Euisun Chung has announced to invest an additional US$5 billion in the US by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220527PD206/hyundai-vehicle.html",
-      "originalUrl": "https://www.digitimes.com/news/a20220527PD206/hyundai-vehicle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220527pd206_files/2_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-29T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1157,50 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-simpleshow-explainer-videos-powered-by-artificial-intelligence.md",
-      "title": "simpleshow Explainer Videos Powered by Artificial Intelligence",
-      "excerpt": "We all know that artificial intelligence (AI) will have a significant impact on our future. In reality, we can see that AI is already operational in our daily lives and at work. Self-driving cars, vacuum cleaner robots, image analysis, and virtual ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/",
-      "originalUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-05-26T20:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI in Robotics"
       ]

@@ -56,20 +56,6 @@ related:
         width: 320
         height: 214
         isCached: true
-  - title: "Prominent ex-Tesla self-driving car exec leaves Apple for greener pastures"
-    excerpt: "Apple has reportedly been working on self-driving car technology since 2014, but it has faced a series of prominent employee departures over the past year. As reported Wednesday by Bloomberg, the latest is CJ Moore,"
-    publishedDateTime: 2022-05-25T20:58:00Z
-    webUrl: "https://arstechnica.com/gadgets/2022/05/prominent-ex-tesla-self-driving-car-exec-leaves-apple-for-greener-pastures/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/02/apple-park-photo-1-building-trees-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "DMV Remains Mum on Safety Probe of Self-Driving Teslas"
     excerpt: "The investigation by the California Department of Motor Vehicles into safety issues is headed into its sixth month with no end in sight."
     publishedDateTime: 2022-05-27T22:34:00Z

@@ -24,22 +24,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "Industrial Robotics Market to Garner US$ 16,847.6 million , Globally, by 2025 at 14.2% CAGR: The Insight Partners"
-    excerpt: "According to our latest market study on “Industrial Robotics Market Forecast to 2025 – Global Analysis – by Types, Function, and Industry,” the industrial"
-    publishedDateTime: 2022-05-27T15:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-to-garner-us-16847-6-million-globally-by-2025-at-14-2-cagr-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/7f4ec9939f599f648f7fa42abc737a63581e8ed8-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
 secured: "tYPgSSxRZZ2OeTDs/tSs3K40OKEGP5f9x272k02hl1FbH8gfpyHgM3AHf0dwsj15RUaGhqWs9HG2x3MrWYBIBWyGgXkM8hp4nPPNmhptFnART5WX64tSvCebxmZSg4kPKzPGVHIq2Ef0EKILnFDFHmr/U/U/3lc4YQwgCkjET7S7Kce8yMPGBsDiCQ/RxVyMPmqvxO3OnKaUX41IrTOBC3JAIm5L1uM0pI7WyWRiC15eKaQ/Eq5/mrxKwf14drn360gcDvabZEdnySls2FPIMe2gZ+HR0JcSxVUhWcxiviXZlSk6rdN6i6k1nAVVqqvXQaoTuonOQGBFE2YD2+9w9ZsjALzJ2pDEYTsMSq/Fyc8=;+Bnw9XWSKOR7w05LH5bboA=="
 ---
 

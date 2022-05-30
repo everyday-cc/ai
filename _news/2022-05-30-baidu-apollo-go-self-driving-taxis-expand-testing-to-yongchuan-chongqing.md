@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T11:41:00Z
 originalUrl: "https://carnewschina.com/2022/05/30/baidu-apollo-go-self-driving-taxis-expand-testing-to-yongchuan-chongqing/"
 webUrl: "https://carnewschina.com/2022/05/30/baidu-apollo-go-self-driving-taxis-expand-testing-to-yongchuan-chongqing/"
 type: article
+quality: 18
+heat: -1
+published: false
 
 provider:
   name: Carnewschina
@@ -14,6 +17,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Baidu to sell automated driving systems to China’s Dongfeng"
+    excerpt: "Baidu is teaming up with Dongfeng Motor to deploy its advanced driver assistance software in one of the latter’s popular consumer vehicles, following a"
+    publishedDateTime: 2022-05-27T09:23:00Z
+    webUrl: "https://technode.com/2022/05/27/baidu-to-sell-automated-driving-systems-to-chinas-dongfeng/"
+    ampWebUrl: "https://technode.com/2022/05/27/baidu-to-sell-automated-driving-systems-to-chinas-dongfeng/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/05/27/baidu-to-sell-automated-driving-systems-to-chinas-dongfeng/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
+        isCached: true
 
 secured: "i5Wrif5/1IPsBjB94cj6c1J381AJW0M4hg/KYk5TINaGASYjFCfsHE8ExzdnEV/B126Mf23Z2agR0y/h3qfOPL3Bi6fXBjvn3aq9bVjhnEal0NfP8pjXKxeUXQYZHauuskqoXYt5Myo3PA4OfVYIRTVhAOkq9q4s7KrFchmmvMNIrO9uunHurJeyiVianNQdMXhaXQd4el+5rmDlPit/Mu8droE2WRqyr+S5L0ITe16xJv117eooSNy504iNYjwYTl/Jjo7c+M2kEM6fdvN8xecgrxiRs1TUJbcnKXQEJ9ZVzqSW/G59oDxRsLPebssV1JObMRIp89zUBCCPmu/O5lALyA6SAD7883UdZS5Kc/gr7DjUZYVUeBP/3Z3uapL8pytQzVYRYlDc39tkuQeH0Gh4tNkDDess3CoMAhlso5Vj+gL9ov63kresMF+7/N+BmTyLREUPID7HcrZQmmfF/eZhBoiliY9hK1S5nMiYoUksw7fkBZO/bF8BHxNmHfi8SIW7Whxd6aZGclYL5CZp3g==;iVvuJSDDFD9hCjlIMMX1tA=="
 ---

@@ -2,6 +2,220 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-23-artificial-neural-networks-market-2022-scope-demand-trends-growth-and-forecasts-till-2030.md",
+      "title": "Artificial Neural Networks Market 2022 Scope, Demand, Trends, Growth, and Forecasts till 2030",
+      "excerpt": "May 23, 2022 (Alliance News via COMTEX) -- Report Ocean published the latest research report on the Artificial Neural Networks market. In order to comprehend a market holistically, a variety of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-scope-demand-trends-growth-and-forecasts-till-2030-2022-05-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-scope-demand-trends-growth-and-forecasts-till-2030-2022-05-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-surgical-robotics-market-size-to-hit-us-213-billion-by-2030.md",
+      "title": "Surgical Robotics Market Size to Hit US$ 21.3 Billion by 2030",
+      "excerpt": "The global surgical robotics market size was valued at US$ 5.36 bn in 2021. This device enables a surgeon to perform complex surgical procedures with higher precision. They are",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27348969",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27348969",
+      "publishedDateTime": "2022-05-23T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19.md",
+      "title": "Three Lessons Learned While Building A Travel Insurance Startup During Covid-19",
+      "excerpt": "Covid-19 reset everything — how we think about health and wellness, where we live and how we explore the world. We saw early on that protecting one’s trip investment and healt",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62879e7a7ead2bcc2e837362/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/amp/",
+      "publishedDateTime": "2022-05-23T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031.md",
+      "title": "Artificial Neural Network (ANN) Market Growth Prospects and Share Analysis, Trends, Top Leaders and Regional Analysis Forecast to 2022-2031",
+      "excerpt": "Japan, Japan, Sun, 22 May 2022 22:58:36 / Comserve Inc. / -- The Artificial Neural Network (ANN) market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-hypersense-named-in-2022-gartner-market-guide-for-multipersona-data-science-and-machine-learning-platforms.md",
+      "title": "HyperSense named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine Learning Platforms",
+      "excerpt": "Subex, a pioneer in the space of Digital Trust, has been named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine Learning Platforms (DSML). Through HyperSense, Subex has been listed as a Representative Vendor in the report.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-94dbfd1dd15fe589417b87ce830d3cfe",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-94dbfd1dd15fe589417b87ce830d3cfe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-what-you-need-to-know-about-the-new-threat-poisoned-ai.md",
       "title": "What You Need To Know About The New Threat: Poisoned AI",
       "excerpt": "As the availability of data increases and algorithms become more accurate, AI can make the difference between successful products and those that fail.",
@@ -927,230 +1141,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-trust-stamp-which-sells-facial-recognition-tools-to-ice-had-dozens-of-peoples-data-exposed-in-breach.md",
-      "title": "Trust Stamp, which sells facial recognition tools to ICE, had dozens of peoples' data exposed in breach",
-      "excerpt": "Dozens of names, addresses, and driver's license data were exposed in the breach, though it doesn't appear to include the data of migrants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5",
-      "originalUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6286a4f8577b8a001827a928?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5?amp",
-      "publishedDateTime": "2022-05-20T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-digital-biomarkers-are-healthcares-next-frontier.md",
-      "title": "Digital biomarkers are healthcare’s next frontier",
-      "excerpt": "Sunny Kumar, MD, MBA is a partner at GSR Ventures, an early-stage venture capital firm focused on healthcare technology ... the sensor data is analyzed with artificial intelligence (AI) and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
-      "originalUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-560115497.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-could-brands-like-tesla-lure-you-into-buying-a-driverless-car.md",
-      "title": "Could Brands Like Tesla Lure You Into Buying a Driverless Car?",
-      "excerpt": "Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market. But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/GettyImages-174038219.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
-      "publishedDateTime": "2022-05-20T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best.md",
-      "title": "Netflix’s Love, Death & Robots Season 3 Review – Every Short Ranked From Worst To Best",
-      "excerpt": "Shaun Munro reviews season 3 of Love, Death & Robots… Netflix’s acclaimed animated anthology series Love, Death & Robots is back for its third season, and while this collection of nine episodes is likely the weakest of the bunch to date,",
-      "sourceUrl": null,
-      "webUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
-      "originalUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Flickeringmyth",
-        "domain": "flickeringmyth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-ethics-in-the-ai-technology-and-information-age.md",
-      "title": "Ethics in the AI, Technology, and Information Age",
-      "excerpt": "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?",
-      "sourceUrl": null,
-      "webUrl": "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF",
-      "originalUrl": "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png",
-          "width": 350,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Amazon Associates UK",
-        "domain": "amazon.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

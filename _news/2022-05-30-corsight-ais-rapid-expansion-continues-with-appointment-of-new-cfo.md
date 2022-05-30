@@ -1,19 +1,22 @@
 ---
 category: news
 title: "Corsight AI's Rapid Expansion Continues with Appointment of New CFO"
-excerpt: "Corsight AI, a leading Facial Recognition Technology provider, continues its rapid expansion with the announcement of new Chief Financial Officer, Moshe Fink."
-publishedDateTime: 2022-05-30T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/corsight-ais-rapid-expansion-continues-with-appointment-of-new-cfo/article_60a7d7f4-a9de-53ae-a05c-f039bd0603b8.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/corsight-ais-rapid-expansion-continues-with-appointment-of-new-cfo/article_60a7d7f4-a9de-53ae-a05c-f039bd0603b8.html"
+excerpt: "TEL AVIV, Israel, May 30, 2022 /PRNewswire/ -- Corsight AI, a leading Facial Recognition Technology provider, continues its rapid expansion with the announcement of new Chief Financial Officer, Moshe Fink. Moshe joins the Corsight team with more than ..."
+publishedDateTime: 2022-05-30T15:59:00Z
+originalUrl: "https://www.wkrg.com/business/press-releases/cision/20220530LN70834/corsight-ais-rapid-expansion-continues-with-appointment-of-new-cfo/"
+webUrl: "https://www.wkrg.com/business/press-releases/cision/20220530LN70834/corsight-ais-rapid-expansion-continues-with-appointment-of-new-cfo/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: WKRG News 5
+  domain: wkrg.com
 
 topics:
   - AI
 
-secured: "h7aRrlUjXPawD5IREuxCafeKqcj/5mRepA22ju+UgOiqxTFr5qPOPVQvRAFBzPFDUgg7EJOLwN0YyNjxqC+mqYKO7ysCfNOihbRQhNHZ+pAaxphg7GOi86VmuOiqURuwS91Ggk2Gz57rX/zAMQtrNBie8no3WzBKXWmBLH9giNk1lg4NdnMLZKWNx5UyvepQdX4FOytNlLjRDE/zSLLGQ2T/PCKKJZ8PRg6P4L7kTB2wWUQ5Uc1oRbz5UFXwzJrNI/sRRCf+qbzIdwOCUJAkJRoLmosgUtLGVdwNRjK5voGL+COGHpCTqhag1bkgY6DSXtxy0vjQOsWjic4+cwnHkYU3fmjhRY4YH8OoXOj1apKM/tRpYDBzU74N6tNfYdIMYcF9i0DXWHAbJhc+0HZ3cMAhknsFme1qEAQtGkZg/yHCjhnANd9bzj79zgPftvBXbrKD3x8+vsT/n7VtwiQVZNQufYpDFtW0lT5HuDCpBxVpmb2i2GS/PwE6WBL07RVNIE7gJo8ZlCii7vM4bg3Y6w==;Sn09TRpXsmICyg09mIat4A=="
+secured: "iEeCXFt8TaLHX9clpC+JlWLX2I4oMXewkNhro8a0wbG0+xxDXJGJJfDAB9fulENzjpKQxmYkEPvqMLpzkl3ZNGqpjKz+G2c2SZrr/Tral2KwrUQwhUzfpR7Dk0Fb2AVPtEv5E9ZEj726/XF52bufDT98HTpjS1qyahVeLEsxLv0CuakrjrjhundZUsTmDa4BGupKzYtKeueyL+0PoDaim1UDbOQDVxUDpaB+Lynvugx7qvK0KAcKnjk6TlPnwDO42hFpxggFkw0bfPeJROp9Kd+Wwmqv+snFmvFjtegVGg5xaiQDGQZe9plQjxelaDaQrG4LPjuiGn621vI9S4NScKQGr86K5RevEAhWxJ9sGBg=;azlk1GXeE+xdS5Lssrd8eQ=="
 ---
 

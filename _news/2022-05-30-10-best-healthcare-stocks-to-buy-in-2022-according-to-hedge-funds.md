@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T13:25:00Z
 originalUrl: "https://www.insidermonkey.com/blog/10-best-healthcare-stocks-to-buy-in-2022-according-to-hedge-funds-1044435/"
 webUrl: "https://www.insidermonkey.com/blog/10-best-healthcare-stocks-to-buy-in-2022-according-to-hedge-funds-1044435/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Insider Monkey

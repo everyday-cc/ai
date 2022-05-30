@@ -495,43 +495,25 @@
     {
       "path": "_news/2022-05-17-google-faces-fresh-class-action-style-suit-in-uk-over-deepmind-nhs-patient-data-scandal.md",
       "title": "Google faces fresh class action-style suit in UK over DeepMind NHS patient data scandal",
-      "excerpt": "Google is facing a new class-action style lawsuit in the UK in relation to a health data scandal that broke back in 2016, when it emerged that its AI division, DeepMind, had been passed data on more than a million patients as part of an app development project by the Royal Free NHS Trust in",
+      "excerpt": "Google is facing a new class-action style lawsuit in the UK in relation to a health data scandal that broke back in 2016, when it emerged that its AI division, DeepMind, had been passed data on ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/",
-      "originalUrl": "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/",
+      "webUrl": "https://www.aol.com/news/google-faces-fresh-class-action-172406142.html",
+      "originalUrl": "https://www.aol.com/news/google-faces-fresh-class-action-172406142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/p1040482.jpg?w=1024",
-          "width": 1024,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/16/google-deepmind-nhs-misuse-of-private-data-lawsuit/amp/",
-      "publishedDateTime": "2022-05-16T10:24:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T11:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

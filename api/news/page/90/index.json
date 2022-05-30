@@ -2,6 +2,326 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-03-14-ibms-watson-steps-out-again.md",
+      "title": "IBM’s Watson steps out again",
+      "excerpt": "According to IBM, Watson’s engineers have also reduced ... When you look at artificial intelligence and computing, that’s one of the missing pieces.” The top five finalists will pitch ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibms-watson-steps-out-again/",
+      "originalUrl": "https://sdtimes.com/ai/ibms-watson-steps-out-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2014/03/0314.sdt-watson-medical.jpg",
+          "width": 490,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-ai-ethics-a-new-beginning.md",
+      "title": "AI Ethics: A New Beginning",
+      "excerpt": "The Institute for Ethics in AI, part of the Philosophy Faculty here at the University, brings together world-leading philosophers, and other experts in the field of the humanities, with those developing and using artificial intelligence in the arenas of academia,",
+      "sourceUrl": null,
+      "webUrl": "https://cherwell.org/2022/03/13/ai-ethics/",
+      "originalUrl": "https://cherwell.org/2022/03/13/ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-13T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cherwell Online",
+        "domain": "cherwell.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-13-creyon-bio-gets-some-green-for-a-new-take-on-ai-and-genetic-meds-rd.md",
+      "title": "Creyon Bio gets some green for a new take on AI and genetic meds R&D",
+      "excerpt": "The startup aims to advance the way oligonucleotide are discovered, using artificial intelligence-based technology ... context of how they would work as a therapy. With the insights from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/03/creyon-bio-gets-some-green-for-a-new-take-on-ai-and-genetic-meds-rd/",
+      "originalUrl": "https://medcitynews.com/2022/03/creyon-bio-gets-some-green-for-a-new-take-on-ai-and-genetic-meds-rd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2022/03/3485199076_e45419cf0c_c.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-13-ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars.md",
+      "title": "AI Ethics And The Riddle Underlying Criminal Accountability Of AI, Including Crimes Committed By Revered AI-Based Self-Driving Cars",
+      "excerpt": "Ethical AI is contending with whether or not AI ought to be criminally accountable, which can be illustrated via crimes potentially committed via AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62203112ed0d0bc76dc90630/0x0.jpg?format=jpg&crop=2218,1248,x0,y162,safe&fit=crop",
+          "width": 2218,
+          "height": 1248,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/13/ai-ethics-and-the-riddle-underlying-criminal-accountability-of-ai-including-crimes-committed-by-revered-ai-based-self-driving-cars/amp/",
+      "publishedDateTime": "2022-03-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-13-the-united-states-has-fallen-behind-china-on-artificial-intelligence.md",
+      "title": "The United States Has Fallen Behind China on Artificial Intelligence",
+      "excerpt": "American officials can’t talk seriously about national security and securing the future if they’re going to continue treating civilian and military applications of AI as an afterthought.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/united-states-has-fallen-behind-china",
+      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/united-states-has-fallen-behind-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/chinaAI_0.jpg",
+          "width": 1222,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-13T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-13-deepminds-new-ai-helps-restore-damaged-ancient-texts.md",
+      "title": "DeepMind’s New AI Helps Restore Damaged Ancient Texts",
+      "excerpt": "Many inscriptions are so decrepit that large chunks are illegible. The company’s Ithaca tool assists historians in filling in the blanks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/deepmind-ai-restore-ancient-texts/",
+      "originalUrl": "https://www.wired.com/story/deepmind-ai-restore-ancient-texts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/622be42f808c6d921bbb64a1/191:100/w_1280,c_limit/Ancient-Greek-Inscription-AI-Business-178116372.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-13-edge-artificial-intelligence-ai-software-market-2022-product-introduction-recent-developments-competitive-and-dynamic-landscape-by-2028.md",
+      "title": "Edge Artificial Intelligence (AI) Software Market 2022 Product Introduction, Recent Developments, Competitive And Dynamic Landscape By 2028",
+      "excerpt": "Increasing art of AI applications and rapid introduction of 5G network are key factors driving revenue growth of the global edge Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-2022-product-introduction-recent-developments-competitive-and-dynamic-landscape-by-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-2022-product-introduction-recent-developments-competitive-and-dynamic-landscape-by-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-12T21:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-13-google-acquires-neural-network-startup-to-improve-speech-and-image-recognition-software.md",
       "title": "Google acquires neural network startup to improve speech and image recognition software",
       "excerpt": "Recently, Krizhevsky and Sutskever, who will both be moving to Google, developed a system that dramatically improved the state of the art in object recognition. “This is a wonderful opportunity ...",
@@ -803,327 +1123,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-deep-learning-a-framework-for-image-analysis-in-life-sciences.md",
-      "title": "Deep learning: A framework for image analysis in life sciences",
-      "excerpt": "Scientists are constantly seeking imaging systems that are faster, more powerful and capable of supporting longer observation times. This is especially true in life sciences, where objects of interest are rarely visible to the naked eye.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-deep-framework-image-analysis-life.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-deep-framework-image-analysis-life.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-a-framew.jpg",
-          "width": 1106,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-deep-framework-image-analysis-life.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-deep-framework-image-analysis-life.amp",
-      "publishedDateTime": "2022-03-11T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-doug-howe-former-director-architect-and-principal-software-engineer-at-microsoft-for-25-years-joins-artificial-intelligence-and-machine-learning.md",
-      "title": "Doug Howe, Former Director, Architect and Principal Software Engineer at Microsoft for 25 Years, Joins Artificial Intelligence and Machine Learning Te",
-      "excerpt": "Douglas C. Howe has joined TACOai and Prosperum Fintech Holdings as its C.E.O.CHICAGO--(BUSINESS WIRE)--TACOai LLC, an artificial intelligence and machine learning technology company, is one of several subsidiary companies owned by Prosperum Fintech Holdings.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=630362",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=630362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-ai-produced-images-cant-fix-diversity-issues-in-dermatology-databases.md",
-      "title": "AI-produced images can’t fix diversity issues in dermatology databases",
-      "excerpt": "Research teams would have to carefully check if AI-generated images would have any usual quirks that people wouldn’t be able to see with the naked eye. That type of quirk could theoretically ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/3/11/22971207/dermatology-ai-diversity-skin-tone-synthetic-images",
-      "originalUrl": "https://www.theverge.com/2022/3/11/22971207/dermatology-ai-diversity-skin-tone-synthetic-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/jgPgR3XgTlswf2yOU30fNxSp1-E=/0x455:4013x2556/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23306742/1296572722.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-the-vision-of-artificial-intelligence-in-visualization.md",
-      "title": "The vision of Artificial Intelligence in visualization",
-      "excerpt": "In today’s world, every basic operation of our life involves the use of computers. Artificial Intelligence is a new frontier that is faced by mixed reactions. Whilst Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://augustafreepress.com/the-vision-of-artificial-intelligence-in-visualization/",
-      "originalUrl": "https://augustafreepress.com/the-vision-of-artificial-intelligence-in-visualization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://augustafreepress.com/wp-content/uploads/2021/02/ai-artificial-intelligence.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Augusta Free Press",
-        "domain": "augustafreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-ai-software-helps-date-and-decode-ancient-greek-texts.md",
-      "title": "AI software helps date and decode ancient Greek texts",
-      "excerpt": "AI software can help historians interpret and date ancient texts by reconstructing works destroyed over time, according to a new paper published in Nature. A team of computer scientists and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/54513-ai-software-helps-date-and-decode-ancient-greek-texts",
-      "originalUrl": "https://www.fudzilla.com/news/54513-ai-software-helps-date-and-decode-ancient-greek-texts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/a8e52848e4a53a7cf7323730535c863a_L.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-aws-ceo-adam-selipsky-at-mwc-5g-cybersecurity-and-sustainability-in-the-cloud.md",
-      "title": "AWS CEO Adam Selipsky at MWC – 5G, Cybersecurity and Sustainability in the Cloud",
-      "excerpt": "Thank you for reading my latest article on AWS CEO Adam Selipsky at MWC – 5G, Cybersecurity and Sustainability in the Cloud. Here at LinkedIn and at Forbes I regularly write about management and technology trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/aws-ceo-adam-selipsky-mwc-5g-cybersecurity-cloud-bernard-marr",
-      "originalUrl": "https://www.linkedin.com/pulse/aws-ceo-adam-selipsky-mwc-5g-cybersecurity-cloud-bernard-marr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHFSegBTexXWg/article-cover_image-shrink_600_2000/0/1646982720606?e=1653523200&v=beta&t=fDifGXe9__AGnR0GfnFXGO5ZNJr7aIo_hOwCnNGQEVo",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-transforming-the-future-of-the-digital-marketing-industry-a-look-into-artificial-intelligence.md",
-      "title": "Transforming The Future Of The Digital Marketing Industry: A Look Into Artificial Intelligence",
-      "excerpt": "Pixabay Jeff Bezos, founder and former CEO of Amazon Inc (NASDAQ:AMZN) weighed in on AI once by saying,“We're at the begin",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103829593/Transforming-The-Future-Of-The-Digital-Marketing-Industry-A-Look-Into-Artificial-Intelligence&source=22",
-      "originalUrl": "https://menafn.com/1103829593/Transforming-The-Future-Of-The-Digital-Marketing-Industry-A-Look-Into-Artificial-Intelligence&source=22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-03/10/V_3798dimage_story.png",
-          "width": 640,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

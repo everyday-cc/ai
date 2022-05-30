@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/426406"
 webUrl: "https://www.entrepreneur.com/article/426406"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://assets.bizclikmedia.net/1800/bff86804db19bd805277801b23cfc80f:262fb62b88f9207d0f32cbbc1573cb6e/gettyimages-1329183101.jpg.jpg"
         width: 1799
         height: 1010
-        isCached: true
-  - title: "IBM and MBZUAI join forces to advance AI research with new center of excellence"
-    excerpt: "Natural Language Processing (NLP) including Arabic, AI applications in the healthcare industry, and sustainability ABU DHABI, United Arab Emirates, May 25, 2022 /PRNewswire/ -- Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)—the world's first graduate,"
-    publishedDateTime: 2022-05-25T21:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=669541"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 33
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
         isCached: true
   - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
     excerpt: "In a time when the pace of change is accelerating, the presence of creative excellence for businesses is crucial for success. However, it is easier said than done. Creative excellence with humans alone has its setbacks,"

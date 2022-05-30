@@ -2,6 +2,335 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-03-18-how-machine-learning-and-edge-computing-power-sustainability.md",
+      "title": "How Machine Learning And Edge Computing Power Sustainability",
+      "excerpt": "Less work. Less electricity used. That’s the sustainability power of edge computing and machine learning, and we’re just getting started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6233402bd6429ea2350435ec/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/amp/",
+      "publishedDateTime": "2022-03-18T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-expertai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech.md",
+      "title": "Expert.ai Takes Top Honors in FinTech Breakthrough Awards for \"Best Use of AI in FinTech\"",
+      "excerpt": "the leader in artificial intelligence (AI) for language understanding, has been named the winner in the 6 th Annual FinTech Breakthrough Awards for \"Best Use of AI in FinTech.\" Attracting nearly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26196779/expert-ai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26196779/expert-ai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26196779",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26196779",
+      "publishedDateTime": "2022-03-18T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-poll-shows-americans-optimism-toward-ai-and-and-facial-recognitionbut-brain-implants-not-so-much.md",
+      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition—But Brain Implants? Not So Much",
+      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an artificial intelligence system from Google Vision, performing facial recognition on a ... [+] photograph of a man ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
+          "width": 3421,
+          "height": 1924,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
+      "publishedDateTime": "2022-03-18T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-google-uses-deep-learning-to-design-faster-smaller-ai-chips.md",
+      "title": "Google uses deep learning to design faster, smaller AI chips",
+      "excerpt": "Googlers and UC Berkeley academics say they have devised a way to use artificial intelligence to design faster and smaller chips that accelerate artificial intelligence. In a note shared on Thursday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
+      "originalUrl": "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/10/08/shutterstock_ai_chip_design.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/",
+      "publishedDateTime": "2022-03-17T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi.md",
+      "title": "AI Startup Aibee Becomes Unicorn With Fresh Funds From Xiaomi",
+      "excerpt": "Aibee, a Chinese artificial intelligence startup, is getting fresh funding from smartphone maker Xiaomi Corp, which propels its valuation to more than $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-03-18/ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-03-18/ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivTtsHgCl1wk/v1/1200x859.png",
+          "width": 1200,
+          "height": 859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-speech-recognition-software-helps-tibetans-communicate-better.md",
+      "title": "Speech recognition software helps Tibetans communicate better",
+      "excerpt": "CHENGDU: When away from home, Gerong, who speaks only Kamba Tibetan, a Tibetan dialect, often found himself in awkward situa­tions where few people could understand him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/03/18/speech-recognition-software-helps-tibetans-communicate-better",
+      "originalUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/03/18/speech-recognition-software-helps-tibetans-communicate-better",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-combining-afm-and-deep-learning-to-improve-nanomanipulation.md",
+      "title": "Combining AFM and Deep Learning to Improve Nanomanipulation",
+      "excerpt": "Deep learning algorithms contribute to artificial intelligence (AI) – computer processes that do not need constant user input to yield results. They instruct computers to process data and learn from it (known as training the algorithm) to inform their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azonano.com/article.aspx?ArticleID=6047",
+      "originalUrl": "https://www.azonano.com/article.aspx?ArticleID=6047",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1otjdv2bf0507.cloudfront.net/images/Article_Images/ImageForArticle_6047_16475098610109717.jpg",
+          "width": 1000,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azonano.com/amp/article.aspx?ArticleID=6047",
+      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=6047",
+      "publishedDateTime": "2022-03-17T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoNano",
+        "domain": "azonano.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-startup-quadric-secures-21m-to-advance-its-disruptive-edge-ai-platform.md",
       "title": "Startup Quadric Secures $21M to Advance Its Disruptive Edge AI platform",
       "excerpt": "Quadric, the company building high-performance edge processing platform optimized for on-device AI at the network edge, this week announced a $21M Series B funding round. NSITEXE, a group company of a leading mobility supplier DENSO,",
@@ -803,336 +1132,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-the-detail-of-the-courses-offered-by-amazon-web-services-aws-to-learn-about-computing-at-no-cost.md",
-      "title": "The detail of the courses offered by Amazon Web Services (AWS) to learn about computing at no cost",
-      "excerpt": "Within this framework, Amazon Web Services (AWS) launched two new free, hands-on training initiatives to enable people to acquire computer skills in the cloud, so that young students and professionals alike will be able to gain more knowledge and experience in computing jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/",
-      "originalUrl": "https://www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.infobae.com/new-resizer/LKEqd76Q2uNRvn5E2TGv_RzgsQg=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/TBHMVTO5BJGA7N7UYGFQ47PAQA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/?outputType=amp-type",
-      "cdnAmpWebUrl": "https://www-infobae-com.cdn.ampproject.org/c/s/www.infobae.com/en/2022/03/17/they-launch-free-training-to-develop-basic-skills-on-the-web-who-they-are-intended-for-and-how-to-access/?outputType=amp-type",
-      "publishedDateTime": "2022-03-17T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infobae",
-        "domain": "infobae.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc.md",
-      "title": "Don’t miss the Microsoft Azure + NVIDIA breakthroughs at spring GTC",
-      "excerpt": "Headlining Microsoft’s sessions at GTC will be two executive keynotes with the chance to win a free NVIDIA Jetson Nano 4GB Developer Kit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/",
-      "originalUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1322658147.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/17/dont-miss-the-microsoft-azure-nvidia-breakthroughs-at-spring-gtc/amp/",
-      "publishedDateTime": "2022-03-17T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-every-engineer-should-and-can-learn-machine-learning.md",
-      "title": "Every Engineer Should and Can Learn Machine Learning",
-      "excerpt": "Machine Learning foundations track next Monday, March 21, 2022. To mark the occasion, we sat down with course designer and software engineer Sourabh Bajaj (previously Neeva, Google, Coursera) to talk about the evolution of the ML role,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/every-engineer-should-can-learn-machine-learning-co-rise",
-      "originalUrl": "https://www.linkedin.com/pulse/every-engineer-should-can-learn-machine-learning-co-rise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFlA85kxR1Fmw/article-cover_image-shrink_720_1280/0/1647537638221?e=1653523200&v=beta&t=2iTfLLexM4wypVoyqn0MxebZ_3L1G1QoYf_c_mF5iFw",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-your-chipotle-chips-may-soon-be-made-by-a-robot-named-chippy.md",
-      "title": "Your Chipotle Chips May Soon Be Made By A Robot Named 'Chippy'",
-      "excerpt": "Chipotle announced on Wednesday that it is testing out an alternative way to make its tortilla chips using an AI-powered robot named “Chippy.” The creation of the robot is intended to help businesses run more efficiently and to help employees not have to do mundane tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498",
-      "originalUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/11/27/chipotle-delivery.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/your-chipotle-chips-may-soon-be-made-robot-named-chippy-3441498?amp=1",
-      "publishedDateTime": "2022-03-17T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-how-web-30-is-transforming-the-financial-services-industry.md",
-      "title": "How Web 3.0 is Transforming the Financial Services Industry?",
-      "excerpt": "Sabrina Akramova , Editor & Content Manager at Financial IT; 17.03.2022 04:45 pm ; #web #internet #web3. How Web 3.0 is Transforming the Financial Services Industry? We live in th",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
-      "originalUrl": "https://financialit.net/blog/web-internet-web3/how-web-30-transforming-financial-services-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/img_7407_3.jpeg",
-          "width": 3024,
-          "height": 3236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-microsoft-announces-auto-generated-captions-for-images-in-edge.md",
-      "title": "Microsoft announces auto-generated captions for images in Edge",
-      "excerpt": "Microsoft uses Azure Cognitive Services to analyze and describe pictures with missing \"alt text.\" When Edge detects an unlabeled image, it sends it to Microsoft's servers for processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
-      "originalUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1607862765_edgenew_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-auto-generated-captions-for-images-in-edge/",
-      "publishedDateTime": "2022-03-17T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-how-ai-is-a-great-tool-to-improve-your-business-search-results.md",
-      "title": "How AI is a Great Tool to Improve Your Business Search Results",
-      "excerpt": "AI can also assist with search engine ranking page analysis, keyword research, and much more. According to statistics, 30 % of businesses that used AI in SEO reported a 6-10% revenue increase after implementing the technology. Notably, AI has significantly ...",
-      "sourceUrl": null,
-      "webUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/",
-      "originalUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gisuser.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-17-at-10.04.35-AM-1024x678.png",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/amp/",
-      "cdnAmpWebUrl": "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2022/03/how-ai-is-a-great-tool-to-improve-your-business-search-results/amp/",
-      "publishedDateTime": "2022-03-17T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gisuser.com",
-        "domain": "gisuser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

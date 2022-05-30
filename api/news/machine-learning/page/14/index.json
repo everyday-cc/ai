@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-02-07-difference-between-a-neural-network-and-a-deep-learning-system.md",
+      "title": "Difference between a Neural Network and a Deep Learning System",
+      "excerpt": "Now that we have talked about Neural Networks, let’s talk about Deep Learning. Deep learning, also known as hierarchical learning, is a subset of machine learning in artificial intelligence that can mimic the computing capabilities of the human brain and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/",
+      "originalUrl": "https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.geeksforgeeks.org/wp-content/uploads/nodeNeural.jpg",
+          "width": 441,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/amp/",
+      "cdnAmpWebUrl": "https://www-geeksforgeeks-org.cdn.ampproject.org/c/s/www.geeksforgeeks.org/difference-between-a-neural-network-and-a-deep-learning-system/amp/",
+      "publishedDateTime": "2022-02-06T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeeksforGeeks",
+        "domain": "geeksforgeeks.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-06-researchers-develop-artificial-connections-for-damaged-nervous-systems.md",
       "title": "Researchers develop artificial connections for damaged nervous systems",
       "excerpt": "It turned out that the performance of the treated worms surpassed even those of normal healthy worms, due to the redirection of information in the neural network, and from an amplification of weak signals provided by the artificial synapses, according to ...",
@@ -1333,58 +1376,6 @@
         "name": "ICTSD",
         "domain": "ictsd.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-drive-smarter-decision-making-with-explainable-machine-learning.md",
-      "title": "Drive smarter decision-making with explainable machine learning",
-      "excerpt": "Executives are missing out on a crucial pathway to smarter and more efficient decision-making with explainable machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/29/drive-smarter-decision-making-with-explainable-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/01/29/drive-smarter-decision-making-with-explainable-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-693551128.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/29/drive-smarter-decision-making-with-explainable-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/drive-smarter-decision-making-with-explainable-machine-learning/amp/",
-      "publishedDateTime": "2022-01-29T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

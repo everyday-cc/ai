@@ -35,22 +35,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "Smarter health: Artificial intelligence and the future of American health care"
-    excerpt: "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change that?"
-    publishedDateTime: 2022-05-25T20:38:00Z
-    webUrl: "https://www.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
-    ampWebUrl: "https://amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 61
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/linderpix-WBUR-OnPoint-6815-web_1000x667-400x267.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Smarter health: How AI is transforming health care"
     excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
     publishedDateTime: 2022-05-27T14:00:00Z

@@ -336,24 +336,33 @@
     {
       "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
       "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,",
+      "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "webUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "originalUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png",
+          "width": 1500,
+          "height": 942,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:31:00-07:00",
+      "publishedDateTime": "2022-05-24T17:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -363,9 +372,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -373,8 +382,8 @@
       "title": "Study shows AI deep learning models can detect race in medical imaging",
       "excerpt": "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ksby.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
-      "originalUrl": "https://www.ksby.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
+      "webUrl": "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
+      "originalUrl": "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -391,13 +400,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ksby.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
-      "cdnAmpWebUrl": "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
-      "publishedDateTime": "2022-05-24T16:07:00-07:00",
+      "ampWebUrl": "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
+      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
+      "publishedDateTime": "2022-05-24T16:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KSBY 6",
-        "domain": "ksby.com",
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -461,6 +470,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-microsoft-is-turning-to-popular-2-billion-data-science-startup-hugging-face-to-court-machine-learning-experts.md",
+      "title": "Microsoft is turning to popular $2 billion data science startup Hugging Face to court machine learning experts",
+      "excerpt": "An curved arrow pointing right. As the competition for capturing the machine learning industry heats up, Microsoft is turning to a popular $2 billion startup to get an edge over rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-azure-hugging-face-integration-machine-learning-models-2022-5",
+      "originalUrl": "https://www.businessinsider.com/microsoft-azure-hugging-face-integration-machine-learning-models-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6206cc39e2fe3c0019ea47aa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -745,22 +807,13 @@
       "title": "Artificial Neural Network (ANN) Market Growth Prospects and Share Analysis, Trends, Top Leaders and Regional Analysis Forecast to 2022-2031",
       "excerpt": "Japan, Japan, Sun, 22 May 2022 22:58:36 / Comserve Inc. / -- The Artificial Neural Network (ANN) market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22?mod=search_headline",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1387,58 +1440,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-chatbots-can-be-weaponized-how-to-defend-against-these-attacks.md",
-      "title": "Chatbots Can Be Weaponized — How To Defend Against These Attacks",
-      "excerpt": "The speed of chatbot adoption has outpaced the expansion of cybersecurity programs to protect against threats introduced by these technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6284f6da3e3c95aefd5ef10d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/amp/",
-      "publishedDateTime": "2022-05-19T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

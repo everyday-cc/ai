@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-05-19-from-lego-competitions-to-deepminds-robotics-lab.md",
-      "title": "From LEGO competitions to DeepMind's robotics lab",
-      "excerpt": "If you want to be at DeepMind, go for it. Apply, interview, and just try. You might not get it the first time but that doesn’t mean you can’t try again. I never thought DeepMind would accept me, and when they did, I thought it was a mistake. Everyone doubts themselves – I’ve never felt like the smartest",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
-      "originalUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62863b2de650d13aae1b5176_Akhil_Raju__Blog__16x9.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-05-19-plus-one-robotics-to-present-parcel-sortation-robot-workflow-at-automate-conference-2022.md",
       "title": "Plus One Robotics to Present Parcel Sortation Robot Workflow at Automate Conference 2022",
       "excerpt": "Plus One Robotics, the leading 3D and AI-powered software maker for logistics robotics, will showcase live demonstrations of their revolutionary PickOne technology, which features Yonder, the company’s award-winning remote supervision product,",
@@ -1354,6 +1301,41 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices.md",
+      "title": "CEO, Artificial Intelligence Technology Solutions, Inc. (Stock Symbol: AITX) Founder and CEO, Robotic Assistance Devices",
+      "excerpt": "Steve Reinharz is the CEO of Artificial Intelligence Technology Solutions, Inc., (Stock Symbol:AITX) and Founder and CEO of the company’s three wholly-owned subsidiary Robotic Assistance Devices (RAD),",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-10-ceo-artificial-intelligence-technology-solutions-inc-stock-symbol-aitx-founder-and-ceo-robotic-assistance-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI",
         "AI in Robotics"
       ]

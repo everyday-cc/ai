@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-03-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
+      "title": "Google faces internal battle over research on AI to speed chip design",
+      "excerpt": "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
+      "originalUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach-to-the-design-of-chips-for-high-performance-computing-applications.md",
+      "title": "Joe Costello, ex-CEO of Cadence joined Anari AI: “There must be a new approach to the design of chips for high-performance computing applications”",
+      "excerpt": "Joe Costello, ex-CEO of Cadence, joined Anari AI in the Board Advisor position to empower the wind of change in the hardware AI industry. Anari AI is a startup delivering the next-generation platform for computation to provide companies with personalized AI Systems accessible in one click.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html",
+      "originalUrl": "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/3f/23f39291-cd74-541b-b0d9-4a1e2f0e5387/6271530a5dcff.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-nvidia-announces-next-generation-ai-hardware-h100-gpu-and-grace-cpu-superchip.md",
       "title": "NVIDIA Announces Next Generation AI Hardware H100 GPU and Grace CPU Superchip",
       "excerpt": "Astrid Atkinson walks through how technologies like real time monitoring, software load balancing and fleet orchestration can help address one of the greatest challenges of our lifetimes ...",
@@ -1337,101 +1432,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc.md",
-      "title": "After A 24-Year Absence, Intel Re-Enters The Discrete GPU Market With Arc",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers Intel's launch of its Arc 3,5 and 7 notebook processors for notebook PC gamers and addresses why three vendors is better than one.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/625700c3f17cd051e0b0c62f/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/04/13/after-a-24-year-absence-intel-re-enters-the-discrete-gpu-market-with-arc/amp/",
-      "publishedDateTime": "2022-04-13T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-dell-nvidia-amd-to-power-new-ohio-ai-compute-cluster.md",
-      "title": "Dell, Nvidia, AMD to power new Ohio AI compute cluster",
-      "excerpt": "The Ohio Supercomputer Center is building out a new high performance compute cluster for AI applications based on Dell hardware with AMD Epyc processors and Nvidia GPU accelerator",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/04/13/dell_nvidia_amd_to_power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/04/13/shutterstock_ohio_uni.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/13/dell_nvidia_amd_to_power/",
-      "publishedDateTime": "2022-04-13T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

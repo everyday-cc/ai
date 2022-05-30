@@ -2,6 +2,306 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-03-17-speech-recognition-software-helps-tibetans-better-communicate.md",
+      "title": "Speech recognition software helps Tibetans better communicate",
+      "excerpt": "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects — U-Tsang, Amdo, Kamba — to texts and translate them into Chinese.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/speech-recognition-software-helps-tibetans-better-communicate/",
+      "originalUrl": "https://www.macaubusiness.com/speech-recognition-software-helps-tibetans-better-communicate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png",
+          "width": 516,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage.md",
+      "title": "The Internet of Beer: Robotics startup taps Bitcoin to deliver automated beverage",
+      "excerpt": "The Smart Tap system was created in 2016 and employs blockchain technology to link the future of draft beer with the future of transactions.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage",
+      "originalUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDMvNGE5ODEwM2ItOTQxYS00NTEzLWI0YTktNjQyODY2YTUyMDhkLmpwZw==.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage/amp",
+      "publishedDateTime": "2022-03-17T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-irobot-releases-genius-40-home-intelligence-doubles-the-intelligence-for-roomba-i3-and-i3-robot-vacuums-and-more.md",
+      "title": "iRobot Releases Genius 4.0 Home Intelligence: Doubles the Intelligence for Roomba® i3 and i3+ Robot Vacuums and More",
+      "excerpt": "Updates Include Imprint® Smart Mapping for Roomba i3 Series, Siri Commands, Clothing & Towel Detection for Roomba j7 Series. BEDFORD, Mass., March 17, 2022 /PRNewswire/ -- iRobot",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-wi-fi-irobot-corp-94ebdf4127c23429308aea3f638ac0cd",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-wi-fi-irobot-corp-94ebdf4127c23429308aea3f638ac0cd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas.md",
+      "title": "iRobot Brings Smart-Mapping Features to Midrange i3, i3+ Roombas",
+      "excerpt": "iRobot on Thursday released Genius 4.0, a software update that brings smart-mapping features to the midrange Roomba i3+ and i3, and new object-recognition abilities to the high-end Roomba j7+ and j7.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/robot-vacuums/92977/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas",
+      "originalUrl": "https://au.pcmag.com/robot-vacuums/92977/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roombas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/i/irobot-bri/irobot-brings-smart-mapping-features-to-midrange-i3-i3-roomb_x8mu.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence.md",
+      "title": "Veritone Named Winner of 14th Annual Media Excellence Awards for Best Artificial Intelligence",
+      "excerpt": "(NASDAQ: VERI), creator of aiWARE™, a hyper-expansive enterprise AI platform, is pleased to announce it has been named the winner of the 14th Annual Media Excellence Awards (MEA) for Best Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.silicon.co.uk/press-release/veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence",
+      "originalUrl": "https://www.silicon.co.uk/press-release/veritone-named-winner-of-14th-annual-media-excellence-awards-for-best-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Week Europe",
+        "domain": "silicon.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-the-most-valuable-use-cases-for-artificial-intelligence-in-web-applications.md",
+      "title": "The most valuable use cases for artificial intelligence in web applications",
+      "excerpt": "Capable of automating manual tasks, AI can lead to smarter decision ... a web application (such as Google Lens or Google Translate). At the moment the big breakthroughs are related to images and language, so web applications processing these are the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
+      "originalUrl": "https://www.information-age.com/most-valuable-use-cases-for-artificial-intelligence-in-web-applications-123498983/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/03/most-valuable-use-cases-for-artificial-intelligence-in-web-applications.jpeg.optimal.jpeg",
+          "width": 1013,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-face-recognitions-staying-power.md",
+      "title": "Face recognition's staying power",
+      "excerpt": "Facial recognition's deployment in everyday consumer devices, like iPhone's Face ID, has accustomed much of the public to its use. A Pew survey from 2019 showed that a majority of U.S. respondents trusted law enforcement to use facial recognition responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/facial-recognition-staying-power-government-irs-10701d9f-3553-43c2-a55e-d064625c1970.html",
+      "originalUrl": "https://www.axios.com/facial-recognition-staying-power-government-irs-10701d9f-3553-43c2-a55e-d064625c1970.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/Fh1y13RZxNbIVY2Ec-cVVh3P8AM=/0x0:1920x1080/1366x768/2022/03/16/1647467072256.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-5.md",
       "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 5%",
       "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating)’s stock price shot up 5% during trading on Wednesday . The stock traded as high as $27.86 and last traded at $27.86.",
@@ -776,317 +1076,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with.md",
-      "title": "Downer Group leverages AI-infused analytics to drive the development of next-generation health, safety and environment management systems with Crayon",
-      "excerpt": "Systems that collect and analyse evidence at a massive scale to predict potential futures before they occur (without the pre-cognitive humans in a ... In 2021, Downer Group partnered with Microsoft and IT services specialist Crayon to start building ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-au/features/downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with-crayon/",
-      "originalUrl": "https://news.microsoft.com/en-au/features/downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with-crayon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/66/2022/03/Downer.Microsoft_Image.selection.02.202219.jpg",
-          "width": 1365,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-how-ibms-watson-can-help-cut-your-tax-bill.md",
-      "title": "How IBM’s Watson Can Help Cut Your Tax Bill",
-      "excerpt": "H&R Block has “hired” IBM’s Watson--a powerful artificial intelligence system--to act as a cyberguide in preparing taxes. To study for the job, Watson digested the federal tax code (more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
-      "originalUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.kiplinger.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615837136/kiplinger_placeholder.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
-      "cdnAmpWebUrl": "https://www-kiplinger-com.cdn.ampproject.org/c/s/www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
-      "publishedDateTime": "2022-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kiplinger",
-        "domain": "kiplinger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-human-brain-inspires-design-of-chips-that-can-rewire-themselves.md",
-      "title": "Human Brain Inspires Design of Chips That Can Rewire Themselves",
-      "excerpt": "who created simulations of the experimental data to demonstrate that the internal physics of the hardware creates a dynamic structure for an artificial neural network, they said. The Purdue team built the device—which operates at room temperature--using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
-      "originalUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/HumanAI_0.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-enhancing-dlp-with-natural-language-understanding-for-better-email-security.md",
-      "title": "Enhancing DLP With Natural Language Understanding for Better Email Security",
-      "excerpt": "Natural language understanding is well-suited for scanning enterprise email to detect and filter out spam and other malicious content. Armorblox introduces a data loss prevention service to its email security platform using NLU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/emerging-tech/enhancing-dlp-with-natural-language-understanding-for-better-email-security",
-      "originalUrl": "https://www.darkreading.com/emerging-tech/enhancing-dlp-with-natural-language-understanding-for-better-email-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt1fa07a0d5ae58a2d/62331767ba1c6a10726da896/robot-book-KittipongJirasukhanont-alamy.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-amazon-launches-rpg-for-aws-training.md",
-      "title": "Amazon launches RPG for AWS training",
-      "excerpt": "Amazon launched a 3D online role-paying game where players move through a virtual city helping people solve real-world technology issues and cloud use cases, with goal of building Amazon Web Services (AWS) cloud skills and preparation for the AWS Certified Cloud Practitioner exam.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/amazon-launches-rpg-for-aws-training-577464",
-      "originalUrl": "https://www.crn.com.au/news/amazon-launches-rpg-for-aws-training-577464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/iStock-1303238248.jpg",
-          "width": 1253,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-artificial-intelligence-is-everywhere-now-this-report-shows-how-we-got-here.md",
-      "title": "Artificial intelligence is everywhere now. This report shows how we got here.",
-      "excerpt": "Stanford's new report reveals what artificial intelligence is capable of these days, and how widely used it is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/stanford-artificial-intelligence-index-report/",
-      "originalUrl": "https://www.popsci.com/technology/stanford-artificial-intelligence-index-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/03/16/brain-g4b6db4261_1920-1024x576.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/stanford-artificial-intelligence-index-report/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/stanford-artificial-intelligence-index-report/?amp",
-      "publishedDateTime": "2022-03-16T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-israeli-ai-infrastructure-firm-runai-raises-75-million.md",
-      "title": "Israeli AI Infrastructure Firm Run:ai Raises $75 Million",
-      "excerpt": "Run:ai enables organizations to have all their AI resources on a single, unified platform that supports AI at all stages of development.",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2022/03/ai-run-infrastructure-firm/",
-      "originalUrl": "https://nocamels.com/2022/03/ai-run-infrastructure-firm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/03/run.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

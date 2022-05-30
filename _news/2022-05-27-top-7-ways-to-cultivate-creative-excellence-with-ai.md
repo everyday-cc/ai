@@ -62,20 +62,6 @@ related:
         width: 1799
         height: 1010
         isCached: true
-  - title: "IBM and MBZUAI join forces to advance AI research with new center of excellence"
-    excerpt: "Natural Language Processing (NLP) including Arabic, AI applications in the healthcare industry, and sustainability ABU DHABI, United Arab Emirates, May 25, 2022 /PRNewswire/ -- Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)—the world's first graduate,"
-    publishedDateTime: 2022-05-25T21:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=669541"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 33
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
 
 secured: "uBchGPVq6mly0I+Zp8Ng2Igo+/KiZyLunEVbZ77Gzh889cjH5hncZWOU8hMyGrDnYqbppPKk66CFEyKYDdBhndhuEbOVOAkCOf906sDlpFld0rDJGgrMtqBhJ2QRsAA2q/x4PUa7tt8w0CxUcXyngq1oIrWzM6Kru6//6XNiGoaZZiLONbfEmsf11qM/NJRJVnuH1tBJ1IELihW4hoCPR68+eKkio8gh/nsRShME8ll3qEsgJ36AfAygG2RMjuckyZKVe8XumQLCF+rsvAzQTQJHYJyE4WF0vXMfiGfGxbjmxdm2HSJiXdRcQGiGDxBqMXrnaXbmFgdMygDKwDlbeTM4rWEMgLB+OO9N7cAGXe8oIN6g1W2vT56LtuIy3UydGNkKG6osr3u0pxezBQMmzAM1wWy7rgUjWk3UGxNoByTxOYgrO+8W+N9t9repgFFTrcoTJd9iz4uPN979+IZJnVTh3lAPuWILXSMTjFaJTVPcb7iOPovcSDdbCFbONvOKRx+DVvSesaHjGNX8S/x3hg==;C5Kt0DI/VMJtu0LNgMsErw=="
 ---

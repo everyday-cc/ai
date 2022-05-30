@@ -35,22 +35,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "Smarter health: Artificial intelligence and the future of American health care"
-    excerpt: "The United States spends more on health care than any other country in the world. But Americans aren't as healthy as people living in other developed countries. Could artificial intelligence change that?"
-    publishedDateTime: 2022-05-25T20:38:00Z
-    webUrl: "https://www.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
-    ampWebUrl: "https://amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/25/smarter-health-artificial-intelligence-and-the-future-of-american-health-care"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 61
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/linderpix-WBUR-OnPoint-6815-web_1000x667-400x267.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Sophisticated AI Solutions for healthcare sector"
     excerpt: "Healthcare solutions utilise sophisticated and automated data harmonizers, efficient big data systems, advanced statistical knowledge, and extensive domain experience"
     publishedDateTime: 2022-05-26T19:30:00Z

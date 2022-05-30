@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T13:50:00Z
 originalUrl: "https://www.kxan.com/business/press-releases/cision/20220530LN72745/croatia-insurance-launched-digital-citylights-equipped-with-ai-based-software-and-built-in-cameras-fighting-the-dramatic-rise-in-mental-health-issues/"
 webUrl: "https://www.kxan.com/business/press-releases/cision/20220530LN72745/croatia-insurance-launched-digital-citylights-equipped-with-ai-based-software-and-built-in-cameras-fighting-the-dramatic-rise-in-mental-health-issues/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KXAN

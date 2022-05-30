@@ -1,11 +1,16 @@
 ---
 category: news
 title: "IBM adds side order of NLP to McDonald's AI drive-thru chatbots"
-excerpt: "IBM says it is rolling out its natural language processing software to a greater number of McDonalds' drive-thrus months after buying the automated order technology unit from the fast food chain, along with the team that developed it."
-publishedDateTime: 2022-05-30T13:34:00Z
-originalUrl: "https://www.theregister.com/2022/05/30/ibm/?td=keepreading-top"
-webUrl: "https://www.theregister.com/2022/05/30/ibm/?td=keepreading-top"
+excerpt: "CEO talks up 'great economics to franchisees ... through the power of software... AI and creative construct'.\""
+publishedDateTime: 2022-05-30T13:30:00Z
+originalUrl: "https://www.theregister.com/2022/05/30/ibm/"
+webUrl: "https://www.theregister.com/2022/05/30/ibm/"
+ampWebUrl: "https://www.theregister.com/AMP/2022/05/30/ibm/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/30/ibm/"
 type: article
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: theregister
@@ -16,6 +21,12 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "IfjtwKjBCJn1b4xPoHXWNss3tXgdSgKJRANkxhTslV/3MV3a6+RkTsx6mgj/+LHUDhLSaWtcxSI5g4O+n8D/YZq50Jkjo7ImMuYcIrHPNKlIFFUEr1MOYJ5W0k+sc0zUXZyw/5ImDEYXjPM9PqM5K3S+jp8cxS5bAmIdhMm9egKmL4FCDerusW3/1vfPIqeUpxiM91QvjIiQnvkB2nhRnMsi8UbDz9QXxkyDp9kw5A+y1ofg36BfaZ7pZ1HJblUw1E5czb+cSFSu9SL7R5wyMZ9KKdmvJtY+wogGOi4dvpac0D8Te592D2R02LG2k3MyndFnqyFgCZVeMQPTRMv4vjvtwucQla3f/NwasmeCCRk=;EGnsaXLUGv8Fs7Ip/ddSXg=="
+images:
+  - url: "https://regmedia.co.uk/2021/06/10/mcdonalds.jpg"
+    width: 5782
+    height: 3854
+    isCached: true
+
+secured: "diP3S3/J9vMm6PkGofQve8IhHTDc1CkBxpZ2pjwCrNOkXIHz3+dE3PXEfM0jmBTpOELLTDqGEd3yTrJ8WrpCj0ZXpOFfu/eJJgHK+Dd9FT/IdmOZm2nu1e6T7DsdB24f2e4HdaxGjuCTshCUBG5URn7IQPY/s3wUJFpH68H0q3w2iv1+ON3VAnK4uDa5b7LlTO0iwX+bRaTK734+6aE436GVvdr8yxzkeNq2Qj9gijaVY6umdRFdr4MHYg5b+YwSCMZnCPO8BA04fmlzuNMYZn5HjUnewzfOkVHrVjvxeAE7QOMb/XHnY4eKnNVPCzgoMaByNN9w+Cj4r/n2bb01VUkg807aLtPiCcG+5KMMyBQ=;40Xc7wgDnXnyOTdnFta/cg=="
 ---
 

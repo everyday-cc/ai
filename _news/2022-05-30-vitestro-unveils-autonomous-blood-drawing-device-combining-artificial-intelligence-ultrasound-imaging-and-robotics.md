@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T13:10:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56183362-vitestro-unveils-autonomous-blood-drawing-device-combining-artificial-intelligence-ultrasound-imaging-and-robotics-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-05/56183362-vitestro-unveils-autonomous-blood-drawing-device-combining-artificial-intelligence-ultrasound-imaging-and-robotics-008.htm"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Finanznachrichten
