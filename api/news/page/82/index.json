@@ -2,6 +2,49 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-03-18-mathematical-paradoxes-demonstrate-the-limits-of-ai.md",
+      "title": "Mathematical paradoxes demonstrate the limits of AI",
+      "excerpt": "Humans are usually pretty good at recognizing when they get things wrong, but artificial intelligence ... paradox shows AI's limitations. Neural networks, the state of the art tool in AI, roughly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220317120356.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220317120356.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-the-detail-of-the-courses-offered-by-amazon-web-services-aws-to-learn-about-computing-at-no-cost.md",
       "title": "The detail of the courses offered by Amazon Web Services (AWS) to learn about computing at no cost",
       "excerpt": "Within this framework, Amazon Web Services (AWS) launched two new free, hands-on training initiatives to enable people to acquire computer skills in the cloud, so that young students and professionals alike will be able to gain more knowledge and experience in computing jobs.",
@@ -1080,49 +1123,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-pathai-partners-with-datavant-to-enable-biopharma-companies-to-connect-digital-pathology-data-for-research.md",
-      "title": "PathAI Partners with Datavant to enable Biopharma Companies to Connect Digital Pathology Data for Research",
-      "excerpt": "PathAI, a global leader in artificial intelligence (AI)-powered technology for pathology, and Datavant, the leader in helping organizations securely connect health data, announced a collaboration to enable compliant connectivity of PathAI’s pathology platform to life sciences trial data and other real-world data.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-health-artificial-intelligence-9ba9f3f58d4a6463ba9f046d0209ed10",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-health-artificial-intelligence-9ba9f3f58d4a6463ba9f046d0209ed10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

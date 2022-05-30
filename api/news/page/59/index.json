@@ -2,6 +2,40 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-04-06-natural-language-processing-market-to-reach-3415-bn-globally-by-2030-at-409-cagr-allied-market-research.md",
+      "title": "Natural Language Processing Market to Reach $341.5 Bn, Globally, by 2030 at 40.9% CAGR: Allied Market Research",
+      "excerpt": "Allied Market Research recently published a report, titled, \"Natural Language Processing (NLP) Market by Component (Solution, Services),",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-to-reach-341-5-bn-globally-by-2030-at-40-9-cagr-allied-market-research-860098289.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-to-reach-341-5-bn-globally-by-2030-at-40-9-cagr-allied-market-research-860098289.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-tradeweb-launches-ai-pricing-service-for-the-us-municipal-bond-market.md",
       "title": "Tradeweb Launches A.I. Pricing Service for the U.S. Municipal Bond Market",
       "excerpt": "Tradeweb Markets Inc. (Nasdaq: TW), a leading, global operator of electronic marketplaces for rates, credit, equities and money markets, today announced the launch of Tradeweb Ai-Price for municipal bonds,",
@@ -1070,49 +1104,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-startup-using-voice-to-quantify-therapy-raises-20m.md",
-      "title": "Startup using voice to quantify therapy raises $20M",
-      "excerpt": "Eleos Health, a startup using voice technology to analyze behavioral health sessions, raised $20 million in Series A funding, CEO and co-founder Alon Joffe tells Axios exclusively. Why it matters: A sizzling subsector,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/pro/health-tech-deals/2022/04/05/eleos-startup-quantify-therapy-raises-20m",
-      "originalUrl": "https://www.axios.com/pro/health-tech-deals/2022/04/05/eleos-startup-quantify-therapy-raises-20m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/a8qVQy1sExZWog_vzcI3CtA6r8k=/0x0:1920x1080/1366x768/2022/04/04/1649110921859.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
         "images": null,
         "publishers": null,
         "authors": null

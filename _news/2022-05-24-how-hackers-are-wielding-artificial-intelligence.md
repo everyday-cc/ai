@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/05/iStock-1306973358.jpg"
+    width: 1000
+    height: 600
+    isCached: true
 
 related:
   - title: "AI Ethics And The Quagmire Of Whether You Have A Legal Right To Know Of AI Inferences About You, Including Those Via AI-Based Self-Driving Cars"
@@ -44,6 +51,6 @@ related:
       domain: techxplore.com
     quality: 0
 
-secured: "FvMl34qZOpXXs402rt1r2g3BgL1C3eg2fA8iLgPDejzuAm8lLfyRI9fw9KqPbW9mrT8AftE+ipitRbfAMlQzfVCGbUZ8lwRahFnavbkb4yx3CtRfiXmq0rEDvyB3Bt9KEL9ZWR0nN+AnRCP3N4ragCOgTX3p3GXd1I/Ad2Lxv2KIJIRNpCywtZfRhoQLfWX2wCn952vL067emMBGV/pRYqU6LnEkQhkm54/Cq/sGgQXLFwMZPaDm7vsvXJC8p5elOegKxwLlGzmwzUum8t85bRLQfAYWTllxnhlF0uEsxYawUDUkuSztOK+SfQzIlDiYX0+xKd6pXichnPZftEP8tHIlYuLiaMsAh6Db/dFxRHsKfKaXgLgGOyeMmKQMJl6vDd10eMXLoM1GcKdCtR67JhDwaAlr7MZDfrZRI0xD5Tl7LnG0iZYiXHx0KX8cLOfXYxDv7mqRzxizBn8YrdTZvWjcDJ46qmYOdNsz1l50042eplekISQz9jPba1IM34N1TN0bixVNuseKvxdhqLyqBw==;/mjyaR5ekvwnqP2H/Udr6A=="
+secured: "JPhsXDvDG+Eyhzfpo8Mndf2VkvsZqJ8qFFPiFtZ/+xL3Qxxyl+57B+rM1koRuruuy54/ER0Wjm7cWiZVG9D9pGJATbIq8sgeCKrDweE3+bEiMnt+zarEng77p6Lwfv3BFb/pKKG6o9e3z6lVf3S+If5SsOtD2wy81hUEyuxWS8I03bi3xe7e27k7gpbHmLEPquIdwGWgTNq1ypVkihtgVmLKPoKRCT4tnBfJEuVJBDUwn5Y3TQI2EV8bXaRexckGE/jcUx6gb8iVTGU6Nimgsz5gF3fUW/4wFmKvj/YWr29xICNKWrj/vFcAOClU0V8/MYzALrf30ctaOcqKMNKixkf0dvODchVncAo2DuwQec8=;qzldqs3g/3GdWaaYQ3ricA=="
 ---
 

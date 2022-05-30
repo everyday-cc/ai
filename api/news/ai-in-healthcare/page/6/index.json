@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-03-14-democratizing-ai-bridging-the-intelligence-divide-in-commercial-life-sciences.md",
-      "title": "Democratizing AI: Bridging the Intelligence Divide in Commercial Life Sciences",
-      "excerpt": "Small and emerging biopharma have been historically reserved about artificial intelligence. But, writes Alan Kalton, AI solutions have matured, been proven, and are no longer a risky investment for small to mid-size companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmaceuticalcommerce.com/view/democratizing-ai-bridging-the-intelligence-divide-in-commercial-life-sciences",
-      "originalUrl": "https://www.pharmaceuticalcommerce.com/view/democratizing-ai-bridging-the-intelligence-divide-in-commercial-life-sciences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/pharma_commerce/b1e3463c3db169f108c6ae9543c7a4da01efa454-480x270.jpg?fit=crop&auto=format",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaceuticalcommerce",
-        "domain": "pharmaceuticalcommerce.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-14-hub-security-partners-with-enlitic-to-secure-health-data-enhance-patient-care-through-artificial-intelligence.md",
       "title": "HUB Security Partners with Enlitic to Secure Health Data, Enhance Patient Care Through Artificial Intelligence",
       "excerpt": "Artificial intelligence (AI) technology in healthcare requires secure patient data to reach its true potential. Healthcare providers have that data but have struggled to protect it. In 2021, the U.S.",
@@ -1300,6 +1257,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19.md",
+      "title": "Skymount Medical, Inc.: Skymount Medical Receives UK MHRA Approval to Test New Treatment in Patients with Mild to Moderate COVID-19",
+      "excerpt": "Feb. 22, 2022 (GLOBE NEWSWIRE) -- Skymount Medical, a drug discovery company using an artificial intelligence (AI ... the reach of this combination therapy internationally.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-02/55306795-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19-399.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-02/55306795-skymount-medical-inc-skymount-medical-receives-uk-mhra-approval-to-test-new-treatment-in-patients-with-mild-to-moderate-covid-19-399.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
         "publishers": null,
         "authors": null
       },

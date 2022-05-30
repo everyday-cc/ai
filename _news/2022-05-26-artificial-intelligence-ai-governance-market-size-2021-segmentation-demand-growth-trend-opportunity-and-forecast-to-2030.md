@@ -102,15 +102,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Nuance Named Leader in Opus Research 2022 Enterprise-Scale Conversational AI Ranking"
-    excerpt: "Nuance ® Communications, Inc. today announced it was recognized as a Leader in Opus Research's 2022 Decision Makers' Guide to Enterprise Intelligent Assistants report. The report cites Nuance's holistic approach as well as its growing ecosystem of partners and industry collaborators,"
-    publishedDateTime: 2022-05-26T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuance-named-leader-in-opus-research-2022-enterprise-scale-conversational-ai-ranking/article_9806e647-7a9d-5d14-af32-fb26e855608f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 10
   - title: "Ai In Fintech Market [DEMAND] 2022 : Outlook, Size, Share and Growth Stance Forecasted 2030"
     excerpt: "Quadintel published a new report on the Ai In Fintech Market. The research report consists of thorough information about demand, growth,"
     publishedDateTime: 2022-05-26T13:39:00Z

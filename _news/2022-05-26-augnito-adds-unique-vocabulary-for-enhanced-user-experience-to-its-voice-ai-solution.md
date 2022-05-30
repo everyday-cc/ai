@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/augni
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/augnito-adds-unique-vocabulary-for-enhanced-user-experience-to-its-voice-ai-solution/91808264"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Augnito introduces key update to its Voice AI solution; allows doctors to instantly add unique vocabulary"
-    excerpt: "Augnito is rolling out key updates to enable doctors to add new words to their personal vocabulary and get them instantly recognised during medical di.."
-    publishedDateTime: 2022-05-26T00:53:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/augnito-introduces-key-update-to-its-voice-ai-solution-allows-doctors-to-instantly-add-unique-vocabulary/91797095"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/augnito-introduces-key-update-to-its-voice-ai-solution-allows-doctors-to-instantly-add-unique-vocabulary/91797095"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/augnito-introduces-key-update-to-its-voice-ai-solution-allows-doctors-to-instantly-add-unique-vocabulary/91797095"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 42
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91797095,imgsize-84933,width-1200,height-628,overlay-ethealthworld/augnito-introduces-key-update-to-its-voice-ai-solution-allows-doctors-to-instantly-add-unique-vocabulary.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "FEHZ9YnTeWBDJOwgPXdunF/El3T6qQtIzQeh54mMDFeP8UTiG4scQTRAn9l3QxOPrK0tEJkhqL/MHwOQAPM5igmvaOuygFVRGewu834Hk1aF+ZB4AKUQ8bT4FvrjhT6tuRzm0Dz1RK5mzmurL5DLjQPmbdFJQuYH9e5ttRSdFMYCkgZeQAbcjUQTdmgl+OyeS2Jdz3TVIHqK7nqn7k2nqFD6fE/lxytkpGsPgm0+evm1947xXO5apEHf+mn4TrXzPm8oG+mPqogZqHGk50rhNdlT915Arcm1I/emseyutjCjBm1bVer/cXMOHslnTpg6oCHsgIcOsEOmgIt2JciW94SdP6MxMZcvyao9CR9yeMVtXDwNnuuXrA13G5kQagdXeEDYp0xKttZGZMTn+RCzMK0YXlm8uWFUFqx+yznWp9+9XVHiYWHeU4EXXLDoICm+E64cRzQJJVzPxndasXrIN0dtuCliV+RIRQvD3m/NsJD/lIUrg1PMfyY6XpxPf4bjFbzQNmp3kB5RASNTSMgQww==;QAGaVwC9C/IK1EJazUvprA=="
 ---

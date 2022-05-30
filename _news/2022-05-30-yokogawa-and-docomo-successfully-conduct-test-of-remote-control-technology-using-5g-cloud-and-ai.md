@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Yokogawa And DOCOMO Successfully Conduct Test Of Remote Control Technology Using 5G, Cloud, And AI"
-excerpt: "Yokogawa and DOCOMO Successfully Conduct Test of Remote Control Technology Using 5G, Cloud, and AI <br/>  - Targeting remote, autonomous oper"
-publishedDateTime: 2022-05-30T08:39:00Z
-originalUrl: "https://menafn.com/1104291197/Yokogawa-And-DOCOMO-Successfully-Conduct-Test-Of-Remote-Control-Technology-Using-5G-Cloud-And-AI"
-webUrl: "https://menafn.com/1104291197/Yokogawa-And-DOCOMO-Successfully-Conduct-Test-Of-Remote-Control-Technology-Using-5G-Cloud-And-AI"
+title: "Yokogawa and DOCOMO Successfully Conduct Test of Remote Control Technology Using 5G, Cloud, and AI"
+excerpt: "Yokogawa Electric Corporation (TOKYO: 6841) and NTT DOCOMO, INC. (DOCOMO) announced today that they have conducted a proof-of-concept test (PoC) of a remote control technology for industrial processing."
+publishedDateTime: 2022-05-30T12:52:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/jcnnewswire-2022-5-30-yokogawa-and-docomo-successfully-conduct-test-of-remote-control-technology-using-5g-cloud-and-ai"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/jcnnewswire-2022-5-30-yokogawa-and-docomo-successfully-conduct-test-of-remote-control-technology-using-5g-cloud-and-ai"
 type: article
-quality: 23
-heat: 23
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-05/30/JN_242ae26b-f_Image_In_Body.jpg"
-    width: 650
-    height: 266
-    isCached: true
-
-secured: "6vy2+82QwbEgjO8GxRbj1225W8NIvd0ZMSf2xPAk8G8ctL1exSur+0HW7CrCdc66SsPJOtHk9mCDy0wQmcebzILN58q4P130gKcpM50kfsvHHYAr1oiaiy6mk6uJ2sleTp7ntBoCf0iGovKZYSZI6TNgBfGdYkl9TzxSkdwcnwrQEg54DUy5S0qrInwEu56lhTN8mUQ7DuT3458espIixNdnzWJkDbzz8uabAStLTW7Vrw0CBOQH4xAiciNlKdClbp5i1cHAwjCqMS8loD9kSCxyzWYm1Bx8/l3y4aIceylZeL0W/2Il1oDa5/nYhvN3r7JV2gXs2kMc89xM5cmsBdTJRoUWuY54D5qEgxyTwFU=;af+4EXOJ4pUhXt4RI78b9Q=="
+secured: "ppz6U5vPmY3DuXqkkq4XoWFLGbFK4IHCyjOcOmoVvCmL8fcxwtM8vwODU9mgAg4+ZYeF+OiTD7T72gXoOvr//FdJzU9XNd3p1alv7ALKTxWioome04/os1vj3qOnHNgjeh+B6NEYKE1eL0iF6NoWQckvmDH4zbGKyWzXzmEe/CVjlDMSa2FPaylnDira4QtO2LfDGxYRniboOvSFLmqbTRvDClLGjVxt0DkBI5TdXbJqrSP34ajpNXGnyYqypjS90iX/i+Oge0BIBDFkSg1JvX6EOshg+iualWF+7jwy3e4q3GcMCUomqjVVCwTArWKVV8oeIpyExOyza34B2sVrIdVcQhYTeASZCowkDP+Y3gs=;a9CxY8ZJQwgtJpRWHD09Lg=="
 ---
 

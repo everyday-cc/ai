@@ -3,23 +3,31 @@ category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,"
 publishedDateTime: 2022-05-30T10:45:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
+originalUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
+webUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 69
 heat: 69
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - AI in Robotics
   - AI
 
-secured: "f+Mc9LEU1TUAR/xYRLffGfd/kdauS7htvdcQgQvreSJ6pLXXewRExNuTX25aABPPOrJNowra5LExwiozew/IvJmb5kPQXkzgLlJi1cf3Xdn/X8ULup/MfjpmM5+hBMqXMcTr7bY5yWFi3dRTS2DoeTUBae9/U+Vj5u/5gDJ+cxToMAgPmwUL6Y/7qVLino++0rxDrH+UfkWHYydttblklbBYYUBjdmP7r7jX8ZaGWnL+mdqu6aK93ztoG53OWnNKE/s/Fejb0XM8c8IjGVrjRAN/rYdawk+Gd+Rzz55TdifzKF0m16J+OV5rf8lAhqzwrIansoQiR4013wj+ZX9iDxDolpj/A3bjdgtHYDFCQurCacHds40YjDxQ6ivLHb18QsY2+H7oOs5VyHn979i1ih9YrRHtINWiiLo4fb9K20ahfpM/WpcFPC2mn/QFLLSMOZuOzx53Taw5MYKniRnCwy7aA/PEXhwSKGeBd7Iti4DFY5ssFzpbVFmjle3q/pc1ckL6p51k30pK7h3pyEBCHQ==;nfGHadzyqoSlU7tbLIEtKA=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
+    width: 2310
+    height: 1297
+    isCached: true
+
+secured: "wNCEza6FdetrZ+0VbLtSVNnIhAMqUoKCRfUkRlc/AmM8RZpWjGalvSwpCZTZBC0SYRLWbtCN5q1LCe7ZpJgZ9uMyuU59inWiANMHULBeJFU/uu+I2pjh9ZL0ERrQ/ka91fASPaTibsAPP0fJMPqN07HOJ5ndpdqC/gU7iwx6fBFPZOPg8Wp9rU3QTt32IM9w64GC2i1liO+gE2P9manCmGr6iHf9hjz35Dd2FhC0XkX933qXa4GUjKMDybhEEe387BV/jnLbbzpIy00Ys6KKS9JVmevy7QB8kZ4xKjQsBzwKz0lj8Hb5Qh4P6MRtfVsgV4T6g86h5fb0PhufmighNl5R3fIA7wfPsUtGeW9kj5Y=;9EWGv1BDoMOyqBCIAmHm3g=="
 ---
 

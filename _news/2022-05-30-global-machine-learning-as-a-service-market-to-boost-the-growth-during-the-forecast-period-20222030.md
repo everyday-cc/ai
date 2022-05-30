@@ -39,20 +39,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "Natural Language Processing Global Market To Grow At Rate Of 28% Through 2026"
-    excerpt: "Natural Language Processing (NLP) Global Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026 The Business Research Company's Natural Language Processing (NLP) Global Market ..."
-    publishedDateTime: 2022-05-25T23:37:00Z
-    webUrl: "https://menafn.com/1104272572/Natural-Language-Processing-Global-Market-To-Grow-At-Rate-Of-28-Through-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942163"
-        width: 640
-        height: 250
-        isCached: true
   - title: "Industrial Robotics Market to Garner US$ 16,847.6 million , Globally, by 2025 at 14.2% CAGR: The Insight Partners"
     excerpt: "According to our latest market study on “Industrial Robotics Market Forecast to 2025 – Global Analysis – by Types, Function, and Industry,” the industrial"
     publishedDateTime: 2022-05-27T15:24:00Z

@@ -24,6 +24,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "At 20.80% CAGR, Heart Pump Device Market Size is Expected to Reach USD 6162.34 Bn by 2028 - Exclusive Report by Zion Market Research"
+    excerpt: "The global Heart Pump Device market is segregated based on Product , Type, Therapy and Region. The heart pump devices market is divided into three categories based on products: ventricular assist devices, intra-aortic balloon pumps, and whole artificial ..."
+    publishedDateTime: 2022-05-30T16:02:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/at-20-80-cagr-heart-pump-device-market-size-is-expected-to-reach-usd-6162-34-bn-by-2028-exclusive-report-by-zion-market-research-880110618.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1605489/Zion_Market_Research_Logo.jpg?p=facebook"
+        width: 598
+        height: 315
+        isCached: true
+
 secured: "tYPgSSxRZZ2OeTDs/tSs3K40OKEGP5f9x272k02hl1FbH8gfpyHgM3AHf0dwsj15RUaGhqWs9HG2x3MrWYBIBWyGgXkM8hp4nPPNmhptFnART5WX64tSvCebxmZSg4kPKzPGVHIq2Ef0EKILnFDFHmr/U/U/3lc4YQwgCkjET7S7Kce8yMPGBsDiCQ/RxVyMPmqvxO3OnKaUX41IrTOBC3JAIm5L1uM0pI7WyWRiC15eKaQ/Eq5/mrxKwf14drn360gcDvabZEdnySls2FPIMe2gZ+HR0JcSxVUhWcxiviXZlSk6rdN6i6k1nAVVqqvXQaoTuonOQGBFE2YD2+9w9ZsjALzJ2pDEYTsMSq/Fyc8=;+Bnw9XWSKOR7w05LH5bboA=="
 ---
 

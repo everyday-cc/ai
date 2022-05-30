@@ -2,6 +2,49 @@
   "page": 138,
   "value": [
     {
+      "path": "_news/2022-01-30-top-rated-robot-vacuums-to-make-cleaning-a-dream.md",
+      "title": "Top-rated robot vacuums to make cleaning a dream",
+      "excerpt": "Image: Myer. This robot vac from MyGenie has a super affordable price tag, and still boasts a 4.2 star average rating. It can be controlled via your phone or tablet, and features intelligent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857",
+      "originalUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.api.news/v3/images/bin/f8fc75011a0964af1c81d82401f7f44b",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp",
+      "cdnAmpWebUrl": "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/best-of/electronics/best-robot-vacuum/news-story/20250dff99e702cf51266a8ee90f2857?amp",
+      "publishedDateTime": "2022-01-30T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News.com.au",
+        "domain": "news.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-30-drive-smarter-decision-making-with-explainable-machine-learning.md",
       "title": "Drive smarter decision-making with explainable machine learning",
       "excerpt": "Executives are missing out on a crucial pathway to smarter and more efficient decision-making with explainable machine learning.",
@@ -1168,50 +1211,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony-evans-of-c3-ai-to-advisory-board.md",
-      "title": "Data Vault Holdings Expands Expertise In Artificial Intelligence, Machine Learning, and Big Data; Appoints Tony Evans of C3 AI To Advisory Board",
-      "excerpt": "General Manager of Financial Services for C3 AI (NYSE: AI), to its advisory board, fortifying Data Vault Holding's expertise in artificial intelligence, machine learning, fintech, e-commerce and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony-evans-of-c3-ai-to-advisory-board-1031112161",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony-evans-of-c3-ai-to-advisory-board-1031112161",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

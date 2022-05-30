@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-24-informatica-announces-multidomain-master-data-management-as-a-service-on-microsoft-azure.md",
+      "title": "Informatica Announces Multidomain Master Data Management-as-a-Service on Microsoft Azure",
+      "excerpt": "Informatica Deepens Collaboration with Microsoft using Power BI to Deliver End-to-End Data Governance Capabilities on AzureREDWOOD CITY, Calif.,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/informatica-announces-multidomain-master-data-management-as-a-service-on-microsoft-azure-1031484872",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/informatica-announces-multidomain-master-data-management-as-a-service-on-microsoft-azure-1031484872",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-quantum-computers-could-change-the-world-provided-they-can-work.md",
       "title": "Quantum computers could change the world — provided they can work",
       "excerpt": "Watson Research Center, the Eero Saarinen-designed, 1960s Jet Age-era headquarters for IBM Research. Deep inside that building, through endless corridors and security gates guarded by iris ...",
@@ -584,17 +627,17 @@
       "title": "Artificial intelligence is breaking patent law",
       "excerpt": "The patent system assumes that inventors are human. Inventions devised by machines require their own intellectual property law and an international treaty.",
       "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco",
+      "webUrl": "https://www.nature.com/articles/d41586-022-01391-x?ref=tjournal.ru",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-01391-x?ref=tjournal.ru",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01391-x/d41586-022-01391-x_21688384.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://media.nature.com/w700/magazine-assets/d41586-022-01391-x/d41586-022-01391-x_21688368.jpg",
+          "width": 700,
+          "height": 502,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1101,58 +1144,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-deep-learning-market-2022-in-depth-research-studies-on-products-countries-companies-and-industry-segmentation-by-2030.md",
-      "title": "Deep Learning Market 2022 : In depth Research Studies on Products, Countries, Companies and Industry Segmentation by 2030",
-      "excerpt": "May 23, 2022 (Alliance News via COMTEX) -- Quadintel published a new report on the Deep Learning Market. The research report consists of thorough information about demand, growth, opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-in-depth-research-studies-on-products-countries-companies-and-industry-segmentation-by-2030-2022-05-23?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-in-depth-research-studies-on-products-countries-companies-and-industry-segmentation-by-2030-2022-05-23?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

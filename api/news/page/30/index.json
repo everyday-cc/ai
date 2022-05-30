@@ -2,6 +2,60 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-04-30-why-companies-should-stop-trying-to-be-ai-first.md",
+      "title": "Why companies should stop trying to be “AI-first”",
+      "excerpt": "Artificial intelligence has become a buzzword in the tech industry. Companies are eager to present themselves as “AI-first” and use the terms “AI,” “machine learning,” and “deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
+      "originalUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FAI-first-def3.jpg&signature=be9017619396bbe48941e1ffd9fe74d5",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-30-internship-in-the-area-of-logistic-robotics-computer-vision-fmd.md",
       "title": "Internship in the area of Logistic Robotics Computer Vision (f/m/d)",
       "excerpt": "We, the (COMPANY NAME), offer you an interesting and various internship in the area of Logistic Robotics Computer Vision. At BMW, we develop a variety of robots that support our internal logistics processes in the production plants. For each robot ...",
@@ -1098,48 +1152,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-soundhound-ai-stock-slides-7-in-market-debut-following-spac-merger.md",
-      "title": "SoundHound AI stock slides 7% in market debut following SPAC merger",
-      "excerpt": "Newly public SoundHound AI (SOUN) saw its shares slide 7% during their market debut on Thursday following the company’s merger with SPAC Archimedes Tech SPAC Partners. Shares of SoundHound ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
-      "originalUrl": "https://seekingalpha.com/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1332332945/image_1332332945.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
-      "publishedDateTime": "2022-04-28T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

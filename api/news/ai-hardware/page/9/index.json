@@ -2,6 +2,102 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-05-despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go.md",
+      "title": "Despite recent progress, AI-powered chatbots still have a long way to go",
+      "excerpt": "It took about two months to train the most capable version of the system using over 1,000 of Google’s third-generation tensor processing units (TPUs), chips designed to accelerate AI training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go/",
+      "originalUrl": "https://venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/06/shutterstock_571952740.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 644,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go/amp/",
+      "publishedDateTime": "2022-02-05T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-celestial-ai-raises-56m-for-its-hybrid-photonic-electronic-ai-chip.md",
+      "title": "Celestial AI raises $56M for its hybrid photonic-electronic AI chip",
+      "excerpt": "Celestial AI Inc., a startup developing photonics technology for artificial intelligence applications, has raised $56 million in funding to support its engineering efforts. Sunnyvale, California ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/02/04/celestial-ai-raises-56m-hybrid-photonic-electronic-ai-chip/",
+      "originalUrl": "https://siliconangle.com/2022/02/04/celestial-ai-raises-56m-hybrid-photonic-electronic-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/unsplash.png",
+          "width": 870,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-celestial-ai-lands-56m-to-develop-light-based-ai-accelerator-chips.md",
       "title": "Celestial AI lands $56M to develop light-based AI accelerator chips",
       "excerpt": "... launched in 2019 to develop a hardware and software platform for AI chipsets that use light to move data across chips. Celestial today announced that it raised $56 million in funding at a $ ...",
@@ -1323,92 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-the-battle-of-ai-processors-begins-in-2018.md",
-      "title": "The Battle of AI Processors Begins in 2018",
-      "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
-      "originalUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20TPU.png",
-          "width": 1000,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip.md",
-      "title": "BrainChip Achieves Full Commercialisation of AKD1000 AIoT Chip",
-      "excerpt": "BrainChip Holdings Ltd, today announced that it has begun taking orders for the first commercially available Mini PCIe board leveraging its AkidaT advanced neural networking processor, rounding out its suite of AKD1000 offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip",
-      "originalUrl": "https://www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/12/Brainchip-53.jpg",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip/amp",
-      "publishedDateTime": "2022-01-19T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

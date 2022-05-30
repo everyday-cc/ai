@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Google Assistant to soon recognise your voice"
-excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature. According to"
-publishedDateTime: 2022-05-30T10:12:00Z
-originalUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice"
-webUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice"
-ampWebUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice/amp"
-cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-assistant-to-soon-recognise-your-voice/amp"
+excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
+publishedDateTime: 2022-05-30T12:12:00Z
+originalUrl: "https://www.thehansindia.com/business/google-assistant-to-soon-recognise-your-voice-745749"
+webUrl: "https://www.thehansindia.com/business/google-assistant-to-soon-recognise-your-voice-745749"
+ampWebUrl: "https://www.thehansindia.com/amp/business/google-assistant-to-soon-recognise-your-voice-745749"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/google-assistant-to-soon-recognise-your-voice-745749"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Google-Assistant-to-soon-recognise-your-voice-831x450.jpg"
-    width: 831
-    height: 450
+  - url: "https://www.bizzbuzz.news/h-upload/2022/05/30/500x300_1539113-google.jpg"
+    width: 500
+    height: 300
     isCached: true
 
 related:
@@ -124,6 +124,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "OcdSmsGTMONDrOc21B/tBc4qdcX/uY3LN8xtjONajXYubw3zdegVsV4yAJzusHpi3kZD6UDa1hZohhOCn6PkPDKHZqPrdSM6MWyPN5haUtI9JJZqUEJlFTZJQ+z0GWz/nvZqiarqbu339drD0qcX68BmQAW7TmMFxWXfG1VqI2IX0qwhXtT6xVMxBSqzhCCmuSW+qHdDD0VtMn6y5FRIbXwf8i9H5OhLYQkbq+Zy0kDExGrGnpr757zWXOx/48BhRhz57vk8tCgQ4n9QIGwzrSh6/B6jDy+AVbIhsuVSx0aiD3VAVuTpdnqLKda52QsFB4usDNzqZMSqNN/6FPY8+lUvzYnfZo1TT8alotfwbTI=;LmcC76Coy6wLa5TbwLOZRg=="
+secured: "qJziQgbxeOiS83hLa6K5TqVg4EnQatWiHNSZV10YHb9trKb/DMIy/P9Aht85jaNkD1YxlrVTp8U60/PMRMbJya8+KwUQ7ZK/UCmDF4sulOsV/qYseis6zcyb1YrM5zTCdn3yxxJsItx9gkfMP5Y9T57LqfEpFpyF+YjtzmZSRSm7j6FpGk2Uxkld2WfRidelTO2sm/zMLcw105QRjjQzd/uxd8Tt/zNJoWG9F+DkQJIEMLRpuhkcs+xLlfxpA628LcO2sOnjtIiJkmcZut07D8De8xQ+z6h4+vDLge7rY5bi8GUDDIc5wg51H1Qp7HVt7oefsyMGP48zfQSM9fPYrvlU7lvxaChhp3q+/bD5sF8=;4Lu2lpJoOhZEhxhd0rNp9w=="
 ---
 

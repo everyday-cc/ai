@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Croatia Insurance Launched Digital Citylights Equipped With AI-Based Software And Built-In Cameras Fighting The Dramatic Rise In Mental Health Issues"
-excerpt: "Research on mental health in Croatia during the pandemic and after the earthquakes suggests that the population has become more anxious than before. In particular, 50% of Croats have noticeable levels of anxiety and 20% deal with severe or extremely severe anxiety,"
-publishedDateTime: 2022-05-30T13:50:00Z
-originalUrl: "https://www.kxan.com/business/press-releases/cision/20220530LN72745/croatia-insurance-launched-digital-citylights-equipped-with-ai-based-software-and-built-in-cameras-fighting-the-dramatic-rise-in-mental-health-issues/"
-webUrl: "https://www.kxan.com/business/press-releases/cision/20220530LN72745/croatia-insurance-launched-digital-citylights-equipped-with-ai-based-software-and-built-in-cameras-fighting-the-dramatic-rise-in-mental-health-issues/"
+excerpt: "That is why Croatia Insurance, Bruketa&Zinic&Grey and Go2Digital designed an AI Anxiety Meter – digital city lights to measure anxiety levels of passers-by. The AI Anxiety Meter campaign aimed to expose the hazards of long-term emotional stress and the ..."
+publishedDateTime: 2022-05-30T14:03:00Z
+originalUrl: "https://www.wwlp.com/business/press-releases/cision/20220530LN72745/croatia-insurance-launched-digital-citylights-equipped-with-ai-based-software-and-built-in-cameras-fighting-the-dramatic-rise-in-mental-health-issues/"
+webUrl: "https://www.wwlp.com/business/press-releases/cision/20220530LN72745/croatia-insurance-launched-digital-citylights-equipped-with-ai-based-software-and-built-in-cameras-fighting-the-dramatic-rise-in-mental-health-issues/"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: WWLP
+  domain: wwlp.com
 
 topics:
   - AI
 
-secured: "xlLhi2WKwm9IZXlhM1mNKziqQgTcBHjzqXtZaZrhr46aX8KjFYLjRzpW28MMGPHcjXD4WcocnlKdDmLAJpyFZWOWOQNTu9pQ5CFJA6+EuDmQnfjk1Z7tqFYjJRoUgFAqfLRzIEqr3WXbbQ2raiUukGaP/s9/4iCkZ1Gw+/VOeUuyj2MWR76EpGW0nlktCPANUPAfoCyaTip4gggac80lp9KoR75aFj+8h1V/x87dc/LEoD08M9AbG7ViI2F6SgNZ+2dNVA9XixJLFRoiptqJT/I2RnJzxr69Wi4IANcRrFYy46ETtbCi35hgsDwydF8efas2qnr16ftFEHFhIRjGdCReU23pnbLTMu/I5CHI7a8=;IXWWHgGX8XyKbw6y3kajVA=="
+secured: "cPFmTmC9cTj6gZVzx28wFwB+8KDAzjth/4idohcstQ6e9s0uev7PGSvDQhd5e8fEEK36BrO8BujXhaRv//jZmCwSGPC+pI3nz2xf/O5FQqBbfGx6jmRsrGs5ec+GWJYOf4zg+H7IUzH3Mq4Dpq0CXNPG08KjQjRPylJtkTSeq8u0cEOD/S9YZucivYif61MuSi1SU+pNcIAd7jDwj1GgJxxZv2fQXEvGcliselINxkDq9CevaqMyoFFzSsdbVcw6sM511mlx1KCU4RzFd8rBm2sg59T0T4IGx0RC4l3qJEhUuBQ/+HR5713CVN8Lv3mzHAPXVBnMG48YziPlzmuGp7rc6s02yvAf1p4KPYaj66g=;LOomYfhB5siP7fs/jcshYA=="
 ---
 

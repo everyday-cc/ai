@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-05-19-tesla-releases-new-full-self-driving-beta-update-and-its-a-big-one.md",
+      "title": "Tesla releases new Full Self-Driving Beta update and it’s a big one",
+      "excerpt": "Beta software update with improvements based on over 250,000 training video clips from its fleet. Based on the release notes, it’s a big update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/",
+      "originalUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/",
+      "publishedDateTime": "2022-05-19T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-customer-segmentation-for-the-automobile-market-the-use-of-artificial-neural-networks.md",
       "title": "Customer segmentation for the automobile market. The use of artificial neural networks",
       "excerpt": "Customer Segmentation for the Automobile Market. The use of Artificial Neural Networks Grard Yahiaoui and Da Silva Dias Nexyad S.A., France Marie de Saint Blancard Peugeot-Citron, France INTRODUCTION Having a segmentation based on buyers' expectancies is an essential part of developing an effective strategy for one's product.",
@@ -1081,57 +1133,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-googles-ai-powered-interview-warmup-helps-with-job-prep.md",
-      "title": "Google's AI-Powered 'Interview Warmup' Helps With Job Prep",
-      "excerpt": "Google is using machine learning and artificial intelligence to help applicants practice for job interviews. The tool, aptly named Interview Warmup (Opens in a new window), invite",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep",
-      "originalUrl": "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07AKzz0IzpvSrVwAul01AqA-2.fit_lim.size_1200x630.v1652872751.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/googles-ai-powered-interview-warmup-helps-with-job-prep?amp=true",
-      "publishedDateTime": "2022-05-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

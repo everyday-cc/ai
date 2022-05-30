@@ -2,6 +2,57 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-05-03-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions.md",
+      "title": "FOCUS-Startups apply artificial intelligence to supply chain disruptions",
+      "excerpt": "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tech-supplychain/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2VV1GD",
+      "originalUrl": "https://www.reuters.com/article/tech-supplychain/focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2VV1GD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-ai-delivers-real-time-data-for-smarter-farming.md",
       "title": "AI delivers real-time data for smarter farming",
       "excerpt": "Its operation management software, powered by an AI platform called Alice AI, allows customers to optimally schedule and plan their farming operations and to make real-time decisions and adjustments.",
@@ -1118,49 +1169,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-accern-raises-20m-series-b-round-to-accelerate-access-to-nocode-natural-language-processing-for-citizen-data-scientists.md",
-      "title": "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists",
-      "excerpt": "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

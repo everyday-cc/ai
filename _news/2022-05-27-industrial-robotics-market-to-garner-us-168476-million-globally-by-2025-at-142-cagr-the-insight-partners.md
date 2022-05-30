@@ -39,20 +39,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "Natural Language Processing Global Market To Grow At Rate Of 28% Through 2026"
-    excerpt: "Natural Language Processing (NLP) Global Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026 The Business Research Company's Natural Language Processing (NLP) Global Market ..."
-    publishedDateTime: 2022-05-25T23:37:00Z
-    webUrl: "https://menafn.com/1104272572/Natural-Language-Processing-Global-Market-To-Grow-At-Rate-Of-28-Through-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?942163"
-        width: 640
-        height: 250
-        isCached: true
   - title: "Global Machine learning as a Service Market to Boost the Growth during the Forecast Period 2022–2030"
     excerpt: "The new report on “Machine learning as a Service Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered"
     publishedDateTime: 2022-05-30T08:12:00Z

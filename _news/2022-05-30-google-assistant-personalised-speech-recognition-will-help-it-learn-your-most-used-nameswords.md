@@ -74,20 +74,20 @@ related:
         height: 438
         isCached: true
   - title: "Google Assistant to soon recognise your voice"
-    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature. According to"
-    publishedDateTime: 2022-05-30T10:12:00Z
-    webUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice"
-    ampWebUrl: "https://telanganatoday.com/google-assistant-to-soon-recognise-your-voice/amp"
-    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-assistant-to-soon-recognise-your-voice/amp"
+    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
+    publishedDateTime: 2022-05-30T12:12:00Z
+    webUrl: "https://www.thehansindia.com/business/google-assistant-to-soon-recognise-your-voice-745749"
+    ampWebUrl: "https://www.thehansindia.com/amp/business/google-assistant-to-soon-recognise-your-voice-745749"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/google-assistant-to-soon-recognise-your-voice-745749"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
+      name: The Hans India
+      domain: thehansindia.com
     quality: 44
     images:
-      - url: "https://telanganatoday.com/wp-content/uploads/2022/05/Google-Assistant-to-soon-recognise-your-voice-831x450.jpg"
-        width: 831
-        height: 450
+      - url: "https://www.bizzbuzz.news/h-upload/2022/05/30/500x300_1539113-google.jpg"
+        width: 500
+        height: 300
         isCached: true
   - title: "Google Assistant will recognise your voice command soon"
     excerpt: "Store audio recordings on this device to help Google Assistant get better at recognising what you say. Audio stays on this device and can be deleted any time by turning off personalised speech recognition'."

@@ -6,8 +6,8 @@ publishedDateTime: 2022-05-30T15:10:00Z
 originalUrl: "https://thenextweb.com/news/how-to-manage-ai-bias-alejandro-saucedo-interview"
 webUrl: "https://thenextweb.com/news/how-to-manage-ai-bias-alejandro-saucedo-interview"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FUntitled-design-1-4.jpg&signature=3e6836f5d4ad810748775618ef83f34a"
@@ -27,6 +28,6 @@ images:
     height: 640
     isCached: true
 
-secured: "w1w/BvHEXW+1iDCmVk07dZ3dGsVL5ibph2J13G6S9oIv9LkspB5zafdts+iZrcwFzFx9X4zbzid1KG64fIzj9T2MtCbUqHXgCeQMTT/x33FPiao2//jdNF3ib9ftZcSpwtXcblcRLQiHJ4W6a6Q8BhdPDXQA2g1vR93Zpv7Z6eq5XsFivHO5oPLDZ8FKbtxf0uXDYr2Mp5SqYq2Wa03XlGT7qAbS66wlxot7m4IWkYhcq/mbYEDLRbtEXDMPrSX9aCbWD+fgVYX3aY2n8vVdW9UOBBr0cCwPWHLWwEjwQ0DBtg5TGUl6f9Q5u0oHIjDzx72laQxLLpjGIBu5Erz7T6TozwCbcTay2zDpMyjQb80=;wLYjpSsb5JrYRPqXZNg6fw=="
+secured: "nkeO9/vnq4s3ipyQ8xtKO716REO6G94iLLOLtnIlBKqKn92gNi7Tcz8S7IEfw4mbzsdoXS/lpSK2nhUZhHfei0TMO8GWcX2+Wj4HZAubl6Gk7STL2eOiqD2TNrb+KGokDLJzXVk1uQS2hANQ8odTaPrikfI4h2Lv9fQomlho2+4OmHZd/bpNgyLSNIOXRfOMV5/99KBbty9fECyiI10Lovxkm8Jes9G8aawAKt7i8p1wXOOBiHSFpN72QtU2EyFdkyHpvt20MPYwYl/hHyKadNwLWDPy6vLJkYpOeANAGpDZVxTUfq44+DlZSxXu8svre5ur+hgHH7JPVU5JUuhYITwwD5+vfsF9o8CGEdYy1qga53WinikaZ2ipHN8sYN5B/JYt6ghk678jZhCgujDq/w+tnSfBgsv1SbXSmA0b73hPLNuabzVIVf+zS0PXJkQA6FCBRgfNPY7td/WNCu/DhJxlwB8V0N/lwcLl4i82JUpK6RzD7jwK4y7XFvXMlLFDptqdGDCpBbMmhP9gRkqyYQ==;6R3IHijcj/ataCSgH+T/ng=="
 ---
 
