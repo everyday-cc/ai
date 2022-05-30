@@ -334,49 +334,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-25-stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities.md",
-      "title": "STX Next acquires Ermlab to enhance AI and machine learning capabilities",
-      "excerpt": "STX Next has acquired Ermlab, a specialist in AI and machine learning software development. The deal will enhance STX Next’s existing AI and ML capabilities, expand the companys",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/",
-      "originalUrl": "https://www.pcr-online.biz/2022/05/25/stx-next-acquires-ermlab-to-enhance-ai-and-machine-learning-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcr-online.biz/wp-content/uploads/business-partnership-mainjpg.jpg",
-          "width": 800,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCR",
-        "domain": "pcr-online.biz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-25-study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging.md",
       "title": "Study shows AI deep learning models can detect race in medical imaging",
       "excerpt": "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ...",
@@ -1437,6 +1394,58 @@
         "name": "Warc",
         "domain": "warc.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-machine-learning-as-a-service-mlaas-market-size-share-latest-trends-demand-growth-opportunities-and-overview-2022-to-2028.md",
+      "title": "Machine Learning as a Service (MlaaS) Market Size, Share, Latest Trends, Demand, Growth, Opportunities and Overview 2022 to 2028",
+      "excerpt": "TheMachine Learning as a Service (MlaaS) MarketResearch Report 2022 provides a detailed overview of the current state",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-latest-trends-demand-growth-opportunities-and-overview-2022-to-2028-2022-05-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-latest-trends-demand-growth-opportunities-and-overview-2022-to-2028-2022-05-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

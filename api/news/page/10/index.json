@@ -894,34 +894,34 @@
     {
       "path": "_news/2022-05-17-singularity-systems-named-a-star-performer-in-everest-groups-intelligent-document-processing-idp-peak-matrix-assessment-2022.md",
       "title": "Singularity Systems Named a Star Performer in Everest Group's Intelligent Document Processing (IDP) Peak Matrix® Assessment 2022",
-      "excerpt": "Also recognized as a Major Contender for 2nd Consecutive YearPRINCETON, N.J., May 17, 2022 /PRNewswire/ -- Singularity Systems, a leader in",
+      "excerpt": "Singularity Systems, a leader in intelligent document processing (IDP), today announces it has been recognized as a Star Performer in the IDP market, one of only four vendors from a total field of 36,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/singularity-systems-named-a-star-performer-in-everest-group-s-intelligent-document-processing-idp-peak-matrix-assessment-2022-1031468136",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/singularity-systems-named-a-star-performer-in-everest-group-s-intelligent-document-processing-idp-peak-matrix-assessment-2022-1031468136",
+      "webUrl": "https://www.fox46.com/business/press-releases/cision/20220517NY56669/singularity-systems-named-a-star-performer-in-everest-groups-intelligent-document-processing-idp-peak-matrix-assessment-2022/",
+      "originalUrl": "https://www.fox46.com/business/press-releases/cision/20220517NY56669/singularity-systems-named-a-star-performer-in-everest-groups-intelligent-document-processing-idp-peak-matrix-assessment-2022/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1492218/Singularity_Systems_Logo.jpg?p=publish",
+          "width": 1056,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T05:11:00-07:00",
+      "publishedDateTime": "2022-05-17T05:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "fox46",
+        "domain": "fox46.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

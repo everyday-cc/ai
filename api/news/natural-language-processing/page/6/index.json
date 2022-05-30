@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-24-ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr.md",
+      "title": "Ontology of the everyday: PeopleReign's automation of IT and HR",
+      "excerpt": "Automating language is not magic; it can take years of careful work to piece together what people mean in the context of corporate help desks, HR programs and the like. Such is the work of startup PeopleReign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
+      "originalUrl": "https://www.zdnet.com/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b8c3c61245fb6311b85af7daca54859aa4c28c06/2022/03/23/d32bdea8-f6c0-4505-9758-f2da721df4b2/dan-turchin-peoplereign.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ontology-of-the-everyday-peoplereigns-automation-of-it-and-hr/",
+      "publishedDateTime": "2022-03-23T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-emotion-detection-and-recognition-market-worth-433-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
       "title": "Emotion Detection and Recognition Market worth $43.3 billion by 2027 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "The major factors driving the market growth include the rising need for accretion of speech-based emotion detection systems to analyze emotional states, Adoption of IoT, AI, ML, a",
@@ -1307,49 +1359,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language.md",
-      "title": "Wow! This Indian student did what NO big tech firm could! Real-time translation of sign language",
-      "excerpt": "An Indian engineering student from Tamil Nadu has developed the new AI model which translates sign language into English instantly. Know the inspiring story.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2022/03/12/1600x900/web-g18e6361fa_1920_1647082773401_1647082789740.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/wow-this-indian-student-did-what-no-big-tech-firm-could-real-time-translation-of-sign-language-71647082254014.html",
-      "publishedDateTime": "2022-03-12T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -24,15 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration"
-    excerpt: "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs"
-    publishedDateTime: 2022-05-25T08:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/"
+  - title: "Artificial Intelligence in Retail Industry Growth Curve to Exhibit Upward Trend by 2030"
+    excerpt: "Fatpos Global added the revised report into their database titled “Artificial Intelligence in Retail Market: Market Segments: By Technology (Natural Language Processing, Machine Learning and Deep Learning,"
+    publishedDateTime: 2022-05-26T18:18:00Z
+    webUrl: "https://xaralite.com/285708/news/artificial-intelligence-in-retail-industry-growth-curve-to-exhibit-upward-trend-by-2030/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 26
+  - title: "Ai Development Service Market [GROWTH] 2022 In depth Assessment, Key Trend, Industry Drivers, Future Roadmap by 2030"
+    excerpt: "Quadintel published a new report on the Ai Development Service Market. The research report consists of thorough information about demand,"
+    publishedDateTime: 2022-05-26T13:39:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-development-service-market-growth-2022-in-depth-assessment-key-trend-industry-drivers-future-roadmap-by-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "KGNL+h+IE/xih9UVFJOQ90KrnikZzvlYgdLyQIWRbiyBbKzvL13DWli/IVdcNvCTaBqcDxXAo29twpdJpJQrI/7mQnaSyNmkMxFf4rUdayy2h/VhMIxtWNh1tT4hpPxYCXZE+DOu4lX2/0LzEAB7bCx37LYomWNodTaBk6eoV/mN/qTM2/BrosIbafORb5g8Y2IdjyS1wHluBTXJ+LIsRIl9Baxug/vk++V64gU/wDS11ogx/plfM6t4t3Vlk5u8hG9eMT5X7CnO1qxZz05C/+h+Y1+yCC/1vlT14gJrvLRVw3W+2UhH+mIWfsr7vbSTzH+hm9j43CPjgvb2EW2kqZcvykMY9yKfDAJcrNzp9hc=;co3XCbnJlXNvaoObHlPnIQ=="
 ---

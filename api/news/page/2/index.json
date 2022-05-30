@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-05-27-allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models.md",
-      "title": "Allen Institute launches new benchmark for general-purpose computer vision models",
-      "excerpt": "The Allen Institute for AI, also known as AI2, recently worked jointly with the University of Illinois at Urbana-Champaign to develop a new, unifying benchmark called GRIT (General Robust Image Task) for general purpose computer vision models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/",
-      "originalUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1209778574.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/amp/",
-      "publishedDateTime": "2022-05-26T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-27-researchers-build-worlds-smallest-remote-controlled-walking-robot.md",
       "title": "Researchers build world's smallest remote-controlled walking robot",
       "excerpt": "The tiny bot is able to walk, crawl, bend, twist and even jump. According to lead researcher Yonggang Huang, it can walk at an average speed",
@@ -1207,6 +1155,48 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-merlynai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update.md",
+      "title": "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG) Short Interest Update",
+      "excerpt": "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG – Get Rating) was the recipient of a large decline in short interest in May. As of May 15th, there was short interest totalling 200 shares, a decline of 98.4% from the April 30th total of 12,400 shares.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/",
+      "originalUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/amp/",
+      "publishedDateTime": "2022-05-25T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

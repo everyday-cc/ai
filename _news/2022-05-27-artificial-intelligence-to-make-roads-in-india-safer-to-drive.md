@@ -42,6 +42,22 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Bharat Bytes: India-US technology initiatives; GitHub’s program, Cisco’s new tool for SMBs; Indian public cloud services market; AI usage in India, China"
+    excerpt: "The two countries announced a technology cooperation initiative and investment initiative with the US development agency. India and the US launched an Initiative on Crucial Emerging Technologies (iCET),"
+    publishedDateTime: 2022-05-29T21:30:00Z
+    webUrl: "https://www.computerworld.com/article/3662154/bharat-bytes-india-us-technology-initiatives-github-s-program-cisco-s-new-tool-for-smbs-indian-publ.html"
+    ampWebUrl: "https://www.computerworld.com/article/3662154/bharat-bytes-india-us-technology-initiatives-github-s-program-cisco-s-new-tool-for-smbs-indian-publ.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3662154/bharat-bytes-india-us-technology-initiatives-github-s-program-cisco-s-new-tool-for-smbs-indian-publ.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 16
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/11/bharat-bytes-100912564-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "0EkSn8DTI6fZ7QHNXiNOfNH+sr9cuyVN6NdqVxJN+N6IYmBOgmLzR0Xd7WhQZbtFjHFCUbwKOJF34Eh161+QLB/hT6Ok2rwzvFMlT7/il/T1zpgLac+XHuadL9PscuCNB4IpJtc82zuKSSrsjLVPaG8eaBjubNDTcZRbfh6/djJ5M9fm3+MnDQE1hh8+JbW76L453ju9RoPvTlG4u+uSTOl/UCV+QGun9gArbCtWP50IF9q6pxqfEBrcSP3YTHA4Otg6HUwkRk0uodeNuPKjYXWJBCfbmcb9zols6jToUY30v4bMPZwfDtIBaUzK29Geq+s6zN8cV84gaXAa9oCbbwtNLPzV0uwTI7YVVWERTGs=;xInl59ekfuCKPtosvMA0hQ=="
 ---

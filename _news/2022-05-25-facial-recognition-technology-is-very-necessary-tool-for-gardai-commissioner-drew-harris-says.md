@@ -89,20 +89,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Poll: How do you feel about gardaí using facial recognition technology to identify suspects?"
-    excerpt: "GARDAÍ ARE SET to be granted new powers to use facial-recognition technology that could lead to the rapid identification of criminals. The technology enables police forces to carry out automated searches of video footage for suspects in criminal investigations."
-    publishedDateTime: 2022-05-25T08:49:00Z
-    webUrl: "https://www.thejournal.ie/poll-facial-recognition-technology-5773562-May2022/"
+  - title: "Facial recognition technology ‘not advanced enough’ for use by Garda"
+    excerpt: "Amazon had been selling its controversial Rekognition software to police forces in the US. But along with other industry big-hitters Microsoft and IBM, it suspended sales for law enforcement purposes in 2020 after a backlash over police brutality and the ..."
+    publishedDateTime: 2022-05-25T19:20:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2022/05/25/facial-recognition-technology-not-advanced-enough-for-use-by-garda/"
     type: article
     provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 28
-    images:
-      - url: "https://img2.thejournal.ie/article/5773562/river/?height=400&version=5773577"
-        width: 613
-        height: 400
-        isCached: true
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 21
 
 secured: "JnPvJaF71ssqgN5t7ppSORhLi3mmTcMoNDPfuYWX/zpDCRuSZ5+3O4l5+lf6BUqvMDBhPjdpZhWB5qZKswrciqSrI9iuJXSGjJRcpP72EijGssysqnGkwOEDbq6w+cZ/Ns9zlqTvUxt7IwJMpC1Iyjoj09K5f6JsHBaKL1Arnn3Nft4CqLjplXc0XZd7dXDrNJFui9QbSn51Mz2tFJniN81LpyvX+9R/+6iS7wr/9v1Tja2d0kwGCzMsjDDygSGd763TKvGo17TSkLYrt3cuYdiUUe+okJD7KgJhNI08t4SmYq3bKqIuyrK7gJtZDHpKZQPefLNBhDF7nbekAp0OllOIIbEpKWxdNwvacPvokFlIdq0X3gpwemn3vGf5vEBvat1a+ezZXOKGGClmF+spcdmLPgGsKq1xiBC8nBxSiYsyzo71JbfJbp/DzdgptgeAeX+VzO5ZufYZDLENKs8IsdDIjD6plPgmC22O6ZRXgfqmznCmDnGd34nOdueoyF0GPG/Af82ADUBmnmcey7NFXg==;GspjlE3MgtniJaLr8fWtbQ=="
 ---

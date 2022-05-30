@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Railway industry companies are increasingly innovating in artificial intelligence"
-    excerpt: "Analysis of patent filings shows a growing level of AI related applications in the industry over the past year"
-    publishedDateTime: 2022-05-25T08:00:00Z
-    webUrl: "https://www.railway-technology.com/analysis/railway-industry-companies-are-increasingly-innovating-in-artificial-intelligence/"
+  - title: "Iterate.ai Wins Intellyx 2022 Digital Innovator Award"
+    excerpt: "Iterate.ai, whose innovation ecosystem enables enterprises to build complete and production-ready low-code applications, today announced that Intellyx, an analyst and advisory firm helping business executives and IT leaders untangle the technologies and practices behind digital transformation,"
+    publishedDateTime: 2022-05-26T17:51:00Z
+    webUrl: "https://www.localsyr.com/business/press-releases/globenewswire/8560814/iterate-ai-wins-intellyx-2022-digital-innovator-award/"
     type: article
     provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 47
+      name: LocalSYR
+      domain: localsyr.com
+    quality: 37
     images:
-      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/05/FK6AS-1038x778.png"
-        width: 1038
-        height: 778
+      - url: "https://www.localsyr.com/wp-content/uploads/sites/63/2019/05/localsyr_digtialbrand-min.png"
+        width: 814
+        height: 330
         isCached: true
 
 secured: "cGGnD+JGpIyXXHcA0sECCwfxROxqOv252AXReSTtY/1r461ZJlHX1wVWCqNq3dG31ALWzQ76dOSw56BU5/3rwHuC5hYX0jLNWenA1etJe3pzdlFs/dWXh/Br0I/abTCOWVuH/8FKIMG1SFd0MbkncKSnhiVfEN1Yy+jSjz2mnn8pCgs6kDgYIbE+MtUBhT+nmlD7XhINwugYnefnq6ucoS5613sGjPsVqJGvNNKyu+mG1hdpKcT+XrdIQP+7819mCBvVHz5ZUX0HhwnqWk3F4DfJx4QNZooANzRz/1pW/BX9HYRndeDS3CinexjvziS/pmzdcLWmlG3fcBmzDpV9rLvdv1+AGG5+Gu8kdv8s514=;0AcM6ZZE5DHeH4NxrE2WCA=="

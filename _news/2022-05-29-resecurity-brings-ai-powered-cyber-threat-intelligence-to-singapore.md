@@ -2,26 +2,20 @@
 category: news
 title: "Resecurity Brings AI-powered Cyber Threat Intelligence to Singapore"
 excerpt: "California-based cybersecurity company showcases innovative cyber threat intelligence and digital risk management technologies at Milipol Asia-Pacific 2022 (APAC) LOS ANGELES, May"
-publishedDateTime: 2022-05-29T09:37:00Z
-originalUrl: "https://www.koin.com/business/press-releases/cision/20220529LA72450/resecurity-brings-ai-powered-cyber-threat-intelligence-to-singapore/"
-webUrl: "https://www.koin.com/business/press-releases/cision/20220529LA72450/resecurity-brings-ai-powered-cyber-threat-intelligence-to-singapore/"
+publishedDateTime: 2022-05-29T07:37:00Z
+originalUrl: "https://www.fourstateshomepage.com/business/press-releases/cision/20220529LA72450/resecurity-brings-ai-powered-cyber-threat-intelligence-to-singapore/"
+webUrl: "https://www.fourstateshomepage.com/business/press-releases/cision/20220529LA72450/resecurity-brings-ai-powered-cyber-threat-intelligence-to-singapore/"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: KOIN 6
-  domain: koin.com
+  name: Four States Homepage
+  domain: fourstateshomepage.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-    width: 800
-    height: 340
-    isCached: true
 
 related:
   - title: "Singapore touts need for AI transparency in launch of test toolkit"
@@ -59,6 +53,6 @@ related:
       domain: channelnewsasia.com
     quality: 0
 
-secured: "yXWSR80+EYvdcafjXu1tbQas1BKB6QLyfFZtobziyL5LpSjfDk3x9cKe8R0CA0GwtsPA9PlyJXB1Bx/qQT5mPAqKMikCgHAd3ADmycWueKC1Yp/cilRlz1cVAi7AQdx3t+5UGXqCW9RnGfo0n8LcB8vRDSQxbSCPMqpQTTYPnnIaqZ+cOgxK5k6OxFDwa78iwD9MQuMewBpdTxPvHGTLLwBvoc+MepeCUvy3AZltS4BbbeOifO6K03MxFWtlx7VYv5DAqUa9rzaEV1kP1O/Km0JciMDz638/qE9Q/YNT0/RSi3wSt/CGgEEFORmLk7cbgqamyuZ+RRNcqKPF648Q57sWow726QZUFf7fR6gZtIE=;DLwRmydrUMsZDEjle1iH5g=="
+secured: "BnN0UZi/1maJ854qNJrATiJOr9QNKvQJ3sAHWT2MwVaBwMuYPI5dBeui1eh4IOkOEgWlshCgHOt9bGKGonh4n0OVxjMyTQPVzpnhizQhTgQoGTRwsSEut9UETp4ZIGCxf9ZO+evw+fH5pQXPWhnbUafSsJihAPQ+scFvjtSFWXm1GlN0Bs9hJKwF3ryPu4+BA2kOD6047TlV242y+eKxlblQetrpZp4IvRvkHfqrhHHonzdHR96Vt6j78YufHr+brSPlfTdeNQXrND8H/ufvtJ4VXeFT0i7krpJA2w4zDpFmFlbNKr7+1qLmjpNJUMFBE/EoPHdPguXFKTH9d7I+FOoUzi3qfi2vxbwthVO/9So=;i4zjctLd6mbHUR7K1DFvsw=="
 ---
 

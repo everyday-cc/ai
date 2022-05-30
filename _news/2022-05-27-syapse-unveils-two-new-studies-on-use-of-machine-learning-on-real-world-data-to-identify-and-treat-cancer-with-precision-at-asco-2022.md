@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "New Studies at ASCO 2022 Validate Effectiveness of Lunit AI as Diagnostic Aid in Cancer Treatment"
-    excerpt: "Lunit to showcase 7 poster presentations and 4 online publications, the company's largest publication set at ASCO to dateFindings demonstrate the"
-    publishedDateTime: 2022-05-27T00:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment-1031492186"
+    excerpt: "Lunit to showcase 7 poster presentations and 4 online publications, the company’s largest publication set at ASCO to date; Findings demonstrate the practical effectiveness of Lu"
+    publishedDateTime: 2022-05-27T00:30:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-cancer-tumors-10336f66fb7cb97d1024a2a02856a03c"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "CcPNOMz2DCPvgDkRXV/ibYlB78w11vAgM3Q+miIUaP68XO+4zp/vMgBiCQxErd00pPZqctywXnc4UKFPdOOb5BYZUvRm2NzGbVHASu4Ru/CAMmDo0XzezRy00WDbsMo+LgxVkMlTw5Tk5Ageqn1ks4SCOQbdQel2KM1c731+SNkINpZP8aZ/qXGkaCsVIzvJtDwp9iQkTQv0Dfs+afas7MvcXRcXkomB0nk+mrpyMolSL209xKh0DTrgqsiPi2tiZF4sOB1Uz5uyAIkF+TO3X8MCwdubjf4DRk5z8TBxpoTuMLa5aX+7CGljDqFzRSTVvVoyWdsdTUTLrgkXieY+XfxL0WY/GwKzgD12jobKVgU=;Ywoduty5NOjvVFEMgiYr5A=="
 ---

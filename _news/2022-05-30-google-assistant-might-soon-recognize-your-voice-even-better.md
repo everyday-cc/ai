@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Google Working On New Technology To Improve Voice Assistant Feature"
-excerpt: "In a nutshell, Google might store audio recordings of users on the device and use them to improve its voice recognition technology. Read more details here."
-publishedDateTime: 2022-05-29T09:06:00Z
-originalUrl: "https://www.republicworld.com/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
-webUrl: "https://www.republicworld.com/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
-ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
-cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
+title: "Google Assistant might soon recognize your voice even better"
+excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android. According to GSM Arena, it's interesting to see that Google is taking another big step towards improving its smart assistant experience."
+publishedDateTime: 2022-05-30T01:24:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/India/20220529/3946622.html"
+webUrl: "https://news.webindia123.com/news/Articles/India/20220529/3946622.html"
 type: article
-quality: 44
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: RepublicWorld
-  domain: republicworld.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/enyzvk1csowbsbbl_1653809787.jpeg"
-    width: 768
-    height: 438
-    isCached: true
 
 related:
   - title: "Google Assistant could soon get even better at understanding your voice"
@@ -40,6 +32,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/F38KrNq63T7nzfffDttyHh-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google Working On New Technology To Improve Voice Assistant Feature"
+    excerpt: "In a nutshell, Google might store audio recordings of users on the device and use them to improve its voice recognition technology. Read more details here."
+    publishedDateTime: 2022-05-29T09:06:00Z
+    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 44
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/enyzvk1csowbsbbl_1653809787.jpeg"
+        width: 768
+        height: 438
         isCached: true
   - title: "Google Assistant could soon learn to recognize your voice"
     excerpt: "Code found on the Google app indicates that Google is working on having Google Assistant recognize your voice."
@@ -78,16 +86,7 @@ related:
       name: GSM Arena
       domain: gsmarena.com
     quality: 4
-  - title: "Google Assistant might soon recognize your voice even better"
-    excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android. According to GSM Arena, it's interesting to see that Google is taking another big step towards improving its smart assistant experience."
-    publishedDateTime: 2022-05-30T01:24:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220529/3946622.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
-secured: "rwi0Bc7KEhKl63ol+wDnnDHfoBdcE7MbJHq6GiPC5PSVh8c/Fk6AzdT3gVppJDQ27PKQ/BqjgQxyR6XeL6+YLxZwBkjvSNrvb/tzXJ8XDg3xnxJf4CKDxAI3t4yq5Qqeo0fRmZLHaCYA0YfIQoyNncL0rjKWhnAvKhz7cyf1l57VvcJPPouNVCzcA/QCcCXwugSaDJf9GdlxK2LPLSDnIXeZrXhwVVsD9jnuQa9FZEZYcFJr5vkgJMumepujeDor2tgtsnAGYYLO0Q+Oyl3a78n8/jLeOe77j5TaUAu1Outa2Crsjt5sKXG7LqGlWNkwWZA+ypINwrdyt2s4sMbKPSlAPJ3xxrO+sHiUqxhhu14=;exkQFG8ycE7Hzc+wu+LEYA=="
+secured: "1y2EvSzvaeEML6nqRzaG91abBa8aUoPi/COmI8IqAgJjYU+wrmv4tWPayA9l6vv/dFb8KoiVwD3NANtOocNKw4yVgntbNqiC/o0cUz9VKyg3DNxW7YDhPMtAKitjXIqnFVW/wKocSVxyvoz44/VGWajGqrQjHO1z78w3NkKr1zRfZxUnF8D0hKaLEe7CgjU8PYNatjpHxZV2LDMN8GhUm/n1BTrd6fxmHuMEpbZ+lJN9akZVNGhFw0ZFNvsblwcQ4HI+Tl4mlIh52h6qrw39UgV0ywn2SgLeAPsvmeM8oXxVmC1Yi3W9t+BldGKAJHr44yNAXheg2LHzbNJ2zrLCIK+82OtaAMcIWt6QnHXnuAA=;D3pOv/HOvrRAQbB6aeFHfA=="
 ---
 

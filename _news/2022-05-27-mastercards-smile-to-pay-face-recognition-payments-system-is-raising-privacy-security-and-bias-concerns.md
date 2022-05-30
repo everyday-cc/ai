@@ -7,8 +7,8 @@ originalUrl: "https://www.smartcompany.com.au/finance/mastercards-face-recogniti
 webUrl: "https://www.smartcompany.com.au/finance/mastercards-face-recognition-payments-concerns/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: SmartCompany
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pay ‘with a smile or a wave’: Why Mastercard’s new face recognition payment system raises concerns"
-    excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts. It is being trialled in Brazil, with future pilots planned for the Middle East and Asia."
-    publishedDateTime: 2022-05-25T08:44:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/pay-with-a-smile-or-a-wave-why-mastercards-new-face-recognition-payment-system-raises-concerns-398014"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 40
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/5/2022_5$largeimg_1625092622.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Why Mastercard’s new ‘smile to pay’ face recognition payment system could cause some big problems"
     excerpt: "Customers install an app which will take their picture & payment information, which will be saved & stored on a 3rd-party provider’s servers"
     publishedDateTime: 2022-05-27T00:47:00Z

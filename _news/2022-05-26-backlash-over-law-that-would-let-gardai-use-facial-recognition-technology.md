@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Poll: How do you feel about gardaí using facial recognition technology to identify suspects?"
-    excerpt: "GARDAÍ ARE SET to be granted new powers to use facial-recognition technology that could lead to the rapid identification of criminals. The technology enables police forces to carry out automated searches of video footage for suspects in criminal investigations."
-    publishedDateTime: 2022-05-25T08:49:00Z
-    webUrl: "https://www.thejournal.ie/poll-facial-recognition-technology-5773562-May2022/"
-    type: article
-    provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 28
-    images:
-      - url: "https://img2.thejournal.ie/article/5773562/river/?height=400&version=5773577"
-        width: 613
-        height: 400
-        isCached: true
   - title: "Facial recognition technology is ‘very necessary tool’ for gardai, Commissioner Drew Harris says"
     excerpt: "GARDA Commissioner Drew Harris has welcomed plans by the Government to introduce facial recognition technology. Ireland’s most senior officer said the new measure would help gardai"
     publishedDateTime: 2022-05-25T13:18:00Z
@@ -103,6 +89,15 @@ related:
     provider:
       name: Irish Sun
       domain: thesun.ie
+    quality: 21
+  - title: "Facial recognition technology ‘not advanced enough’ for use by Garda"
+    excerpt: "Amazon had been selling its controversial Rekognition software to police forces in the US. But along with other industry big-hitters Microsoft and IBM, it suspended sales for law enforcement purposes in 2020 after a backlash over police brutality and the ..."
+    publishedDateTime: 2022-05-25T19:20:00Z
+    webUrl: "https://www.irishtimes.com/crime-law/2022/05/25/facial-recognition-technology-not-advanced-enough-for-use-by-garda/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
     quality: 21
 
 secured: "QjDqhXGmqZZBYjqGIEZkZqy1sR/5DcLhbyC2vcV23BcDGlo/3dzrDhnB2Qsav/3kxIvG+5J8B3z53RbaEAXdXTH9n7NO6WaHhCAmNoTc4R2oKCHGe8vEWUwwL0XQg8x93nqlRVBddicow9OT4U2eOA5dy1w1RWPJL8ETW2hv6BYOu59Aj9bd2BQwDPklN2I5IyKgcHaWIUz23Rk0XOA8T+hvSUPtsMOdGqHXuWBl3zUsN82wYDIeLHK8im79wEW+Uh1e64qiOJBZdSBlImbVhmCfb1bvTSj6Cdks1d5jEz6W695UiJzmi3DRKrYpXRxTPenNlwtZKEholTFINjS1kD1OrTHlxNOB/Do3jAbNVQ1LKGLL6FBY5LoRNRSto9EWQM0owTkRVHamZLoBckTLISLpSaJ3JxETK3rHUrcMqjhYKvjNucM8NpUxyOGRok7Sn1ZfGhQ4HHCNVyIOQYy8eMVnv4OljwXKusrBXOwqcr7nUNPavr8NmObPw7mptDlffrjtPXddRPJ6wwb+sEd1XQ==;uOnTooMWkAExcVOJyUOjgg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/google-assistant-could-soon-get-eve
 webUrl: "https://www.techradar.com/news/google-assistant-could-soon-get-even-better-at-understanding-your-voice"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
     provider:
       name: GSM Arena
       domain: gsmarena.com
+    quality: 4
+  - title: "Google Assistant might soon recognize your voice even better"
+    excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android. According to GSM Arena, it's interesting to see that Google is taking another big step towards improving its smart assistant experience."
+    publishedDateTime: 2022-05-30T01:24:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20220529/3946622.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 4
 
 secured: "pPHLkRALtw1r/NWRh8qPBwa0GW5i0/CMaMBVa2TdX7FETNPt41Se5fzs1M4FMnmcrzy1uabwRkdEthLpH6oU7YLofWDx7NcjGkc7QMkH0z1oMQImJNYtxteFURfiYG2dcJPag/fFW/XdwpZCWGnKM5MsLDFGNUfZ/5aYkmqA+juIp+hTWE2nVUXUpqgn9OuKk9syQDw7g9EtG4uIGdSZSIekkeAv9El8M86i6ZKGiTmIBVForUhqCgzSK+s/yHi6qnh90eBnVH3i99HCfrf/wixpHRJTOR9JvEjyM3XfYzB0eM1gnIqnYDuHWwfCX0N2FG5Rw9fQOxHPr5f82t94e/Gj1csFZWwajOvTjt2pdYlqXtpj1Wk2Z8ch5kgh/jFV3j1fPlpx7QWJaTTRy6l/g8E9jII4VZ3Ihv6G6H6o0YND/lSE0h+M0Kq5bIEpsLTLzyUJqrF3ivojJLRMQToZyzB737yRcYwyt/kIcIaJR25N015CBHTRzMZJOYkmjcadFUq5Fyf4YXa9pHr/drWtNw==;SSZ6ij5uks/MCGlwo/OowA=="

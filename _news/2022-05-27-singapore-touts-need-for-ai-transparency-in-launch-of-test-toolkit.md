@@ -27,18 +27,13 @@ topics:
 related:
   - title: "Resecurity Brings AI-powered Cyber Threat Intelligence to Singapore"
     excerpt: "California-based cybersecurity company showcases innovative cyber threat intelligence and digital risk management technologies at Milipol Asia-Pacific 2022 (APAC) LOS ANGELES, May"
-    publishedDateTime: 2022-05-29T09:37:00Z
-    webUrl: "https://www.koin.com/business/press-releases/cision/20220529LA72450/resecurity-brings-ai-powered-cyber-threat-intelligence-to-singapore/"
+    publishedDateTime: 2022-05-29T07:37:00Z
+    webUrl: "https://www.fourstateshomepage.com/business/press-releases/cision/20220529LA72450/resecurity-brings-ai-powered-cyber-threat-intelligence-to-singapore/"
     type: article
     provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 37
-    images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2020/04/800x340_KOIN_WOFY_2.png"
-        width: 800
-        height: 340
-        isCached: true
+      name: Four States Homepage
+      domain: fourstateshomepage.com
+    quality: 17
   - title: "Fintech In Singapore Today – A Look At The Fintech Regulatory Environment, And What You Need To Know."
     excerpt: "A Look At The Fintech Regulatory Environment, And What You Need To Know. Legal News and Analysis - Singapore - Banking & Finance, Regulatory & Compliance -"
     publishedDateTime: 2022-05-26T09:47:00Z

@@ -2,58 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2022-02-16-ai-for-health-and-hope-how-machine-learning-is-being-used-in-hospitals.md",
-      "title": "AI For Health And Hope: How Machine Learning Is Being Used In Hospitals",
-      "excerpt": "Luckily, hospitals are beginning to use machine learning solutions to streamline the waiting room process. That’s not all. The healthcare industry is introducing AI to combat many issues in the field. AI in hospitals can not only ease hospital patient ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/ai-for-health-and-hope-how-machine-learning-is-being-used-in-hospitals/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/ai-for-health-and-hope-how-machine-learning-is-being-used-in-hospitals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f03469ed1da2c00067e3675/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/16/ai-for-health-and-hope-how-machine-learning-is-being-used-in-hospitals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/16/ai-for-health-and-hope-how-machine-learning-is-being-used-in-hospitals/amp/",
-      "publishedDateTime": "2022-02-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-16-huawei-defines-6g-as-a-distributed-neural-network-with-communication-links.md",
       "title": "Huawei defines 6G as a distributed neural network with communication links",
       "excerpt": "According to Peiying Zhu , Senior Vice President of Wireless Research at Huawei, 6G looks more like a 'distributed neural network with communication ... robotics and smart healthcare, and artificial intelligence as a service,” Zhu explained.",
@@ -1404,6 +1352,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-extremetech-explains-what-is-a-neural-net.md",
+      "title": "ExtremeTech Explains: What is a Neural Net?",
+      "excerpt": "As Moore’s Law approaches its endgame, the technosphere has looked to different and more diverse approaches to computing. We can’t just depend on driving clock speeds higher and higher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/computing/328011-extremetech-explains-what-is-a-neural-net",
+      "originalUrl": "https://www.extremetech.com/computing/328011-extremetech-explains-what-is-a-neural-net",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2021/10/AI-Feature-Image-640x353.jpg",
+          "width": 640,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],
