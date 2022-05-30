@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New laws will allow gardaí to use facial recognition technology to identify suspects"
-    excerpt: "Gardaí will be given powers to use facial recognition technology to identify suspects in serious crimes for the first time. Justice Minister Helen McEntee is seeking cabinet approval to allow the use of special software to catch killers and child ..."
-    publishedDateTime: 2022-05-25T05:58:00Z
-    webUrl: "https://www.independent.ie/irish-news/politics/new-laws-will-allow-gardai-to-use-facial-recognition-technology-to-identify-suspects-41685989.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 32
-    images:
-      - url: "https://www.independent.ie/irish-news/politics/c3f17/41685988.ece/AUTOCROP/w1240h700/rment%20Buildings%20016"
-        width: 1240
-        height: 700
-        isCached: true
   - title: "Poll: How do you feel about gardaí using facial recognition technology to identify suspects?"
     excerpt: "GARDAÍ ARE SET to be granted new powers to use facial-recognition technology that could lead to the rapid identification of criminals. The technology enables police forces to carry out automated searches of video footage for suspects in criminal investigations."
     publishedDateTime: 2022-05-25T08:49:00Z

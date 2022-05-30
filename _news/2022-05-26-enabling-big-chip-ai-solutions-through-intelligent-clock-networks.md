@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How This Startup Is Bringing Smartest Solutions Through AI"
-    excerpt: "With an eye on finding the smartest solutions for any problem, Pixis was born. The platform is a codeless AI infrastructure for demand generation and marketing optimization. It was founded in late 2018 by Shubham Mishra (Global CEO),"
-    publishedDateTime: 2022-05-25T05:32:00Z
-    webUrl: "https://www.entrepreneur.com/article/428229"
+  - title: "WonderBotz Partners with Krista Software for AI-led Intelligent Automation"
+    excerpt: "The partnership empowers both organizations to deliver better, more valuable automations faster to meet the growing demand for Enterprise"
+    publishedDateTime: 2022-05-26T14:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wonderbotz-partners-with-krista-software-for-ai-led-intelligent-automation-1031491340"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1653456757-Untitleddesign-2022-05-25T110036996.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://mma.prnewswire.com/media/1826060/Wonderbotz_and_Krista.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "M99cXN5rBy837Z4NV/vlDY8ILeRWHANgvEk3xxZMt/o7xJNBDEawJoKmi7BASLTyreK3Aq/+D8f2S579eOu9sny5i4q+Wetu4d2tJXOC40ITqs1rrkcrLsK0IF6RPwxr2/4gtkqSCJUpaNub1vnt9abC/w4R83KLmAmkdj2ZTsTpfCkpb/+aE3ygQL5oyZvIkJpK2DYsLMU4oosQEWBr6TZNPVccDc7Xt+vnxSqElkerJ7Ujtf/tlfzFBOB1DelcF6LB1J7hnHDbxUmD3OFQC5I/gXyeFmt9a/aCzloiXjsU+/IeDmcEvBLw6VGVrfzTnFpJmFnwDnKykINPa8aVTQ7baXGfu3zAC9sQAiDxSrd84JHr3XD/0Fh0VGipLNpvE2kRFgx6Es/Uj1CbUt65jQOGuvIkOrYrvJsQ9ap89jfhdjWIgFfcWMBl9zCuAF+VQlhyjhb5iSviDnHYQFRxQz7SuEhFdxfJoiovAhZ6l7Z1fLLSWyOVR96Gh/RmGg+Q8qgnpX1QbNidAOXmMF6w/w==;LyyL3+7F/nDSuP06ArLcVg=="

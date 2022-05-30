@@ -7,7 +7,7 @@ originalUrl: "https://www.embedded.com/embedded-news-first-demo-of-arm-cortex-m8
 webUrl: "https://www.embedded.com/embedded-news-first-demo-of-arm-cortex-m85-automotive-imu-with-ml/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 1418
     isCached: true
 
-related:
-  - title: "ST releases first automotive IMU with embedded machine learning"
-    excerpt: "STMicroelectronics’ ASM330LHHX inertial measurement unit (IMU) has been developed to enable smart driving and to support the automotive industry in its quest for higher levels of automation with its machine-learning (ML) core."
-    publishedDateTime: 2022-05-25T07:00:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/st-releases-first-automotive-imu-with-embedded-machine-learning"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/bswjr31f/asm330lhhx-automotive-mems-sensor-n4452d-big.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "G+OZYefLOq0KjjSLCQ1OUE8UJSAM5NrfhgnNSw6RzVLakKKlAm3wWd/fSih1vYmmtMD3WpjQMVQ1NDIn6FT4C5/XvecTGjaF1Fkh2Ypm5rMC4PQAPgI6HU/RxL39QNaGoQ1enIwDbewCatNMD/eQq5IQtDOTLUYS2PWcr95cPTEepM84bV1+e86YgcPDBeTWd2IPaL3JTnyoWgPurew6oN9RPT2X4G++DPiPW85qeftSFH5cDPBPVyniRvAzfDjWEn8lEByPt28FWsOp8RiT9qOxE6H0uYWepRT2B/WShuj+CTd5ZNraYjPguze2PsUA2xNQBeUUDndHZl7Bg8OUU+oZVGoHPkTAbKVxxAjxzvo=;N10/QDL8+fOCSn4ftO9QDA=="
+secured: "DO9JZbhBqEOgW23aRSolYip3p1LZQOHcCmzWhQ/0v2B5CHpLoLHFCCgjYnJ+LQEKEl4LVJc5D0c4dG0yGf5/fl6KTb5uq3VssU1V4Utfu4FSu/JwRi2j9Bv1tPcMULnxSmk4WjmVEI756NNW5xIY09BoEVLQHGHRI7SR2sQZewBfVZwEqW3LeKqUb8c8vQgzkH9ed4EVxHeFbLDc1OrwQdsrCzwELMjzOGi1kdqSP3nBZgkoHhYDvzPA6M+dH4tAZhsQIlo9d0ntgeGX64Zcx8a0uMHvMpQBYpoKyA22e247PhMsYtDW/4vJDJfzf3WRTFc9d1pez65S2WYhrWrrL0PaNdLBGLOZ0NmUbvto13svIEEbDLdiq/ex6uLI2V+TR7m03oFV4OQWQw5iRgrBchv2uqkAIR+RIyKqGM7K3hibhGA08su7y0DwLoKnsCo7fu6aTFGhLb/gFOpPNbK2Pml8lH8Z+ATpy9ihKrqdEB29phiZXhRZAYKxfBmYUDuGRbiYLT7uT5ITpYF4dasVtw==;L6rOb49WDhnO8b6HT2QP7w=="
 ---
 

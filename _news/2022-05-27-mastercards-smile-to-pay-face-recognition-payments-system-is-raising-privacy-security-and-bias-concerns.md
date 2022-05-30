@@ -7,8 +7,8 @@ originalUrl: "https://www.smartcompany.com.au/finance/mastercards-face-recogniti
 webUrl: "https://www.smartcompany.com.au/finance/mastercards-face-recognition-payments-concerns/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: SmartCompany
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Mastercard’s New Face Recognition Payment System Raises Concerns"
-    excerpt: "Mastercard’s biometric checkout system will provide customers with facial recognition-based payments, by linking the biometric authentication systems of a number of third-party companies with Mastercard’s own payment systems."
-    publishedDateTime: 2022-05-25T06:05:00Z
-    webUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427"
-    ampWebUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 74
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Facial_Recognition_1640922171.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Pay ‘with a smile or a wave’: Why Mastercard’s new face recognition payment system raises concerns"
     excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts. It is being trialled in Brazil, with future pilots planned for the Middle East and Asia."
     publishedDateTime: 2022-05-25T08:44:00Z

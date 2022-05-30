@@ -28,14 +28,14 @@ related:
   - title: "Platinum Jubilee: AI robot paints Queen's portrait"
     excerpt: "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm."
     publishedDateTime: 2022-05-27T04:54:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-oxfordshire-61600523"
-    ampWebUrl: "https://www.bbc.com/news/uk-england-oxfordshire-61600523.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-oxfordshire-61600523.amp"
+    webUrl: "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 104
+      domain: bbc.co.uk
+    quality: 74
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/B895/production/_124935274_mediaitem124935040.jpg"
         width: 1024

@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
 excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
 publishedDateTime: 2022-05-26T18:14:00Z
-originalUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
-webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+originalUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
+webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
 type: article
 quality: 52
 heat: -1
@@ -83,22 +83,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Microsoft’s “Project Volterra” brings support for ARM-powered AI chips to Windows"
-    excerpt: "Microsoft, at its annual event - Build 2022, announced Project Volterra, which will let you explore many AI scenarios"
-    publishedDateTime: 2022-05-25T05:32:00Z
-    webUrl: "https://thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/"
-    ampWebUrl: "https://thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/?amp"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 86
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2022/05/maxresdefault.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Startup, Microsoft collaborate to simplify AI healthcare research"
     excerpt: "An artificial intelligence data security company is collaborating with Microsoft to advance AI healthcare research. BeeKeeperAI, a startup specializing in data confidentiality and intellectual property protection,"
@@ -324,6 +308,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "pea7Y/3o3/QAF1fj4M6sW8Hb+XSqUbvVoehfjC2WMugfrBrI+EpHpAdrFEScZ549LAQ3AARJMRdoPDxNT2fXC4T/rqEN4jYVX3iDsuI7w2X3pV2o5QKWn2O4CXIxUwwR2f9OPXo5vXQZOjJO3VS3e+Kz3mcgRoTAZJP+9Mtwp0CvkrQt17oG8RurydG4qP2PSEr2SF+RWPxNIuqY70ydXIo9A/5jtrhvPF1Cals7bij2Go96xEFtolkSNLCA84J3pQ6ac9jAx3R24VzJ1vw6wXwHuVMNXdD8KHINxPFbRIeXuCZFA0W34B+HtxhQgQ4AR25i0IshxiQy1hlXvSegT9rgqzhq1WPqzzCKoGaUUNnSjXBpT9seIMIlhD9Eqj1PX5t9dHgxPM3b/6VahvYi3Xx8cFacaTuthIpgU4mjFp/3IwAezIWeTE0oFHG8s8p3CQih+JrQTHbyUwAq0vIqNt0yHOdha1FbvTtr61bRWE3hW4YPp0jLHHnqPlCNZ6zQKD8Qg5qVGAIMNmsAY2UBiQ==;uKFAZ5RxQCpiU/xzvu+vzQ=="
+secured: "MWKMFdfvqFhwtMPbeiQFwdZipXV7DL4raGssPZSyTOUXjtbxZR/WFd4tndGWApYtLCBqRPLH9vYGZWF1PiAjznbnwnn7KdiS15K4RLP/zWvcI23FmAJ+zjA8E4dnhDjJTLC7V68auBd9ul9DLRTmKLs2cAiwNj9xHLvcgLJ8hI4JyqQjIRhavGzk9MVoOTWNe6DWcUW5GeIMarUkRXRhHNDzwmk3nF+dBQTWqmwitawSvNVaAhgk1K3VoXHwDlrjpQjM2H36FIW5OBUCL6ZwG/OTOWOC0f3+58+1XWgxkdAYBS+YDuq8f6irm/7aIAbaY1Ey1fAbh9QXcQHMc/1zO9A7uwG5wUQ86lPPUD9xd+U=;nTHL7KP4y91MtKwF+ccjdQ=="
 ---
 

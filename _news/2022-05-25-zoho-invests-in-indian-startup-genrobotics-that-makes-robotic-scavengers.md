@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-and-tech/zoho-
 cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers"
 type: article
 quality: 73
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Untitled-design-2022-05-25T111454.654.jpg"
         width: 2240
         height: 1260
-        isCached: true
-  - title: "Zoho Corp. invests in Genrobotics, a deep-tech startup using robotics to end manual scavenging"
-    excerpt: "Zoho Corp announced today that it has invested ₹20 crores in Genrobotics, an Indian startup building robotics and AI-powered solutions for social issues such as hazardous working conditions. Zoho’s investment will assist Genrobotics in its mission to eradicate manual scavenging in India and provide safety and dignity to workers in the sanitation and oil and"
-    publishedDateTime: 2022-05-25T06:00:00Z
-    webUrl: "https://www.crn.in/news/zoho-corp-invests-in-genrobotics-a-deep-tech-startup-using-robotics-to-end-manual-scavenging/"
-    type: article
-    provider:
-      name: CRN
-      domain: www.crn.in
-    quality: 42
-    images:
-      - url: "https://cdn.crn.in/wp-content/uploads/2020/07/27131110/CRN-Finance-FinTech-Money-Growth-696.jpg"
-        width: 696
-        height: 465
         isCached: true
   - title: "Cowen and MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
     excerpt: "Cowen Inc. (NASDAQ:COWN) (“Cowen” or the “Company”) and MassRobotics today announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."

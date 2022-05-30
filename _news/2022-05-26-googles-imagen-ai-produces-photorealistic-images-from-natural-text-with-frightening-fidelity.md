@@ -40,22 +40,6 @@ related:
         width: 1401
         height: 623
         isCached: true
-  - title: "Google’s Text-to-Image AI Can Deliver “Photorealistic Images”"
-    excerpt: "Google has introduced a new text-to-image AI generator that claims to provide photorealistic images. Here is a look at the results."
-    publishedDateTime: 2022-05-25T05:40:00Z
-    webUrl: "https://beebom.com/google-imagen-text-to-image-ai/"
-    ampWebUrl: "https://beebom.com/google-imagen-text-to-image-ai/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-imagen-text-to-image-ai/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 57
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/05/google-imagen-aoi.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "i4toH/E3tqzGy2CKNu1BuwDmYpvxT3JwwHHzTsrULnzT7AD2Wt/HLHv3pykIyWPJ3u+lmr1pnFcb4X19ZFDkclCCOunHB/mm1vL8Sd/gax3MFIWFqJePEJ7IpUcSoTvimdQ6aUio8wOmRo/L187J6udDCOHG5FICB4gtoUL1VjweR2gXFuEQ4VwU2RGe9Ps2tnPk+DNgBzdC9REVWw/y3o9FYPNpY5ueXc4k+sMYirTsWV8u3ftEyiCLrSgG61KbEpIFjA3ULLUK/JNfTvVU6W+oZxWChag3GoLnKy3252zePmwk2gNHlYkwoYRDY6jLcR0LXJG2IK74AKkeQH0YaZKOp8wIReyam2O3DdXz8KEPO/E3Sp8G1m5/NT9shsZCbn3w69gleHcV3t9dh4tbdy+nfWqVYuUpr08XShpzz9bYTDnHpc9yhvY0M1cdy5LHzTYGlwP1zZfWEKq77z7slFawf7M1eQCoWsttT0AbJYOHAruF1L3ZCDAtidviu89wBkgbmInn96dlNTY2HoZovQ==;Ps/FT6Ejr4liYEW1/rPevQ=="
 ---

@@ -46,22 +46,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Clearview AI's facial recognition tool coming to apps, schools"
-    excerpt: "The facial recognition software is being sold to companies which serve the police which has led to increased criticism"
-    publishedDateTime: 2022-05-25T06:09:00Z
-    webUrl: "https://tribune.com.pk/story/2358285/clearview-ais-facial-recognition-tool-coming-to-apps-schools"
-    ampWebUrl: "https://tribune.com.pk/story/2358285/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2358285/clearview-ais-facial-recognition-tool-coming-to-apps-schools?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 76
-    images:
-      - url: " https://i.tribune.com.pk/media/images/9231611038223-0/9231611038223-0.jpg  "
-        width: 800
-        height: 533
-        isCached: true
   - title: "Clearview AI Launches Clearview Consent"
     excerpt: "Clearview AI, a facial recognition technology company, has launched Clearview Consent, an identity verification solution for commercial enterprises. Clearview Consent will offer Clearview AI's facial recognition technology to companies for use in consent ..."
     publishedDateTime: 2022-05-26T16:12:00Z

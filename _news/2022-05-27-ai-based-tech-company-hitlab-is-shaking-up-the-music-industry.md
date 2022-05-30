@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-comp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

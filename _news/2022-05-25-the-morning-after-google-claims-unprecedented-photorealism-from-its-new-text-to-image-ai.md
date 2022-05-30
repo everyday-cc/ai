@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/the-morning-after-google-claims-unprecede
 webUrl: "https://www.engadget.com/the-morning-after-google-claims-unprecedented-photorealism-from-its-new-text-to-image-ai-111528400.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Engadget
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Text-to-Image AI Can Deliver “Photorealistic Images”"
-    excerpt: "Google has introduced a new text-to-image AI generator that claims to provide photorealistic images. Here is a look at the results."
-    publishedDateTime: 2022-05-25T05:40:00Z
-    webUrl: "https://beebom.com/google-imagen-text-to-image-ai/"
-    ampWebUrl: "https://beebom.com/google-imagen-text-to-image-ai/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-imagen-text-to-image-ai/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 57
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2022/05/google-imagen-aoi.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Google's Imagen AI produces photorealistic images from natural text with frightening fidelity"
     excerpt: "Artificial intelligence is improving fast. Less than a month after OpenAI released its impressive DALL-E 2 text-to-image generator, Google has bested it with Imagen."
     publishedDateTime: 2022-05-26T16:20:00Z

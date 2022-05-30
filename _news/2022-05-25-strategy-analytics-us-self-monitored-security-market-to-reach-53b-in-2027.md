@@ -96,12 +96,17 @@ related:
   - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
     excerpt: "Corelight Investigator simplifies and accelerates threat hunting and investigation through intelligent alert aggregation, built-in queries and scalable search. SAN FRANCISCO, May"
     publishedDateTime: 2022-05-25T13:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-3aeab96eeb34257607e8ee73c4fe169d"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 0
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "cU34l62Ux4UvJvWajQ1pT40JD+EPZqno7WeAufuRfbFch45b3nx6DEbEe0mJgLntozDeapoAiiPIFHFVbbK1kqTQ4gcWSr/l/RsTvFrh8+31tSHFFsRno6+aLeYjGGdJyhskPwY2sxswoSFhMu0C3vz9tWBKKHRSu73nRadM0IAQAdm/R/uG+374CNjhFptO31rMMj1LEc2ffmhmiLg0PkwxWd5vUVBN9q1q9PldxjWMdvYaQFA/QWn9iMeEGmZ3Z9FdVUCOJbjI4nxL05LCtYH5Qn5l455m/SeEe4clNIdbNn5WoXA2XFVWgrrYgy1cyzaGlHzBbOIX3SXJTDHrSfI8+DDXuTChcRPptHBkmpg=;02XlLXLQpLieJgQEr1sMuw=="
 ---

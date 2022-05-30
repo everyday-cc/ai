@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Mastercard’s New Face Recognition Payment System Raises Concerns"
-    excerpt: "Mastercard’s biometric checkout system will provide customers with facial recognition-based payments, by linking the biometric authentication systems of a number of third-party companies with Mastercard’s own payment systems."
-    publishedDateTime: 2022-05-25T06:05:00Z
-    webUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427"
-    ampWebUrl: "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 74
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Facial_Recognition_1640922171.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Mastercard’s “smile to pay” face recognition payments system is raising privacy, security and bias concerns"
     excerpt: "Mastercard’s “smile to pay” system, announced last week, is supposed to save time for customers at checkouts and is being trialled in Brazil."
     publishedDateTime: 2022-05-26T23:40:00Z

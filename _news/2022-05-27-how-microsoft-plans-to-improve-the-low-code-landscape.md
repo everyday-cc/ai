@@ -74,22 +74,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
-  - title: "Microsoft’s “Project Volterra” brings support for ARM-powered AI chips to Windows"
-    excerpt: "Microsoft, at its annual event - Build 2022, announced Project Volterra, which will let you explore many AI scenarios"
-    publishedDateTime: 2022-05-25T05:32:00Z
-    webUrl: "https://thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/"
-    ampWebUrl: "https://thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2022/05/25/microsoft-project-volterra-arm-ai-chips-windows/?amp"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 86
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2022/05/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Startup, Microsoft collaborate to simplify AI healthcare research"
     excerpt: "An artificial intelligence data security company is collaborating with Microsoft to advance AI healthcare research. BeeKeeperAI, a startup specializing in data confidentiality and intellectual property protection,"
     publishedDateTime: 2022-05-25T21:44:00Z
@@ -248,7 +232,7 @@ related:
   - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
     excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
     publishedDateTime: 2022-05-26T18:14:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+    webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
     type: article
     provider:
       name: Visual Studio Magazine

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI could help us spot viruses like monkeypox before they cross over"
+    excerpt: "To help us tackle the next pandemic, AI must widen towards embracing the fullness of the environment we live in and share with other species."
+    publishedDateTime: 2022-05-29T22:53:00Z
+    webUrl: "https://www.themandarin.com.au/190946-ai-could-help-us-spot-viruses-like-monkeypox-before-they-cross-over/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 37
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2022/05/AI-country-countryside.jpg"
+        width: 795
+        height: 530
+        isCached: true
   - title: "Opinion: AI could help us spot viruses like monkeypox before they cross over"
     excerpt: "Writing in The Conversation, Professor Patty Kostkova (UCL Institute for Risk & Disaster Reduction) and her colleagues describe how artificial Intelligence can be harnessed to better understand the interconnectedness of nature in order to protect it and us from future diseases."
     publishedDateTime: 2022-05-27T14:20:00Z

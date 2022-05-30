@@ -24,13 +24,18 @@ topics:
 related:
   - title: "Syapse Unveils Two New Studies on Use of Machine Learning on Real-World Data to Identify and Treat Cancer With Precision at ASCO 2022"
     excerpt: "Syapse®, a leading real-world evidence company dedicated to extinguishing the fear and burden of serious diseases by advancing real-world care, today announced two new studies focused on how the use of machine learning on real-world data can be used to power precision medicine solutions."
-    publishedDateTime: 2022-05-27T15:00:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8561124/syapse-unveils-two-new-studies-on-use-of-machine-learning-on-real-world-data-to-identify-and-treat-cancer-with-precision-at-asco-2022/"
+    publishedDateTime: 2022-05-27T14:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-cancer-cfab69a0f7c400f5c82eb84bc85344a6"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "FRtdVBmpXYotJMnYylxO2XsJyoZjLoLURO4t79WBJCfTwVTi0ZY/4WXr3o5nFCNTnQpexucA2ka3qF3SVbl0g1R42nCIgdHjFQEfKeEDG0A0ymSlSuNOzMkrY+wehbnXQKZld4PR+mr5hT9zjKkx7U6A0HlmrnJpbhmxxG+Il5Z1n/Hjh5ov+WxRMqif+RprG+JYSZG5yRjw5yg7pqvzUpZTEBmvktejRQazScL4sWXA0slFK3hwF0jDBV2B4KXDW/zK+bKDvEbDsofKwNblkXftor2OaHSJV1jjpEQ+1RV5ARJ/VSX7fyQAtWqFmCzJAHaAZ5yvNS/jTJtfPwUVNoIlKvIE8OwET4F0O4ZIVH0bWiw6q9EG+7AWoGwbdjZ732VY369xds/Jap0JrreKCwaG7sF+BxEWtmWcZvZ11cGHxH8sZ/3o/dmWeBoryMAiJsCkLCBiZQP/YHu8KpeM6S30mpbXTlkZul44E5W7E10mhhHq+m8rYBtFbaddI9yhJXGufRAWJOwnBup436TOeg==;4iQk08OgtwP6+vam0BAW1A=="
 ---

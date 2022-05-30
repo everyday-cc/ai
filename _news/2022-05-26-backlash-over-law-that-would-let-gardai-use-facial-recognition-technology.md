@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/backlash-over-law-that-would-le
 webUrl: "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t"
 type: article
 quality: 53
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://irishtimes-irishtimes-prod.cdn.arcpublishing.com/resizer/uT4VvO8PuljKZsxQIoFpT_zqYqg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BV4CFZ3HQ5GEPFN2ZFXFDRUNKU.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New laws will allow gardaí to use facial recognition technology to identify suspects"
-    excerpt: "Gardaí will be given powers to use facial recognition technology to identify suspects in serious crimes for the first time. Justice Minister Helen McEntee is seeking cabinet approval to allow the use of special software to catch killers and child ..."
-    publishedDateTime: 2022-05-25T05:58:00Z
-    webUrl: "https://www.independent.ie/irish-news/politics/new-laws-will-allow-gardai-to-use-facial-recognition-technology-to-identify-suspects-41685989.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 32
-    images:
-      - url: "https://www.independent.ie/irish-news/politics/c3f17/41685988.ece/AUTOCROP/w1240h700/rment%20Buildings%20016"
-        width: 1240
-        height: 700
         isCached: true
   - title: "The Irish Times view on gardaí and facial recognition technology: scepticism is warranted"
     excerpt: "Europe’s highest court has deemed more than once that Ireland has failed to implement the kind of protections Helen McEntee is now promising for facial recognition"
