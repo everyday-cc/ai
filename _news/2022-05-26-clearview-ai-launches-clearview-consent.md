@@ -24,40 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI Says It's Bringing Facial Recognition to Schools"
-    excerpt: "The company revealed it's working with a U.S. company selling visitor management systems to schools within hours of a horrific school shooting."
-    publishedDateTime: 2022-05-25T16:15:00Z
-    webUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528"
-    ampWebUrl: "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp"
+  - title: "Naver launches AI call service aimed at seniors"
+    excerpt: "Tech giant Naver said Monday that it has officially launched an artificial intelligence-based call service for older people who live alone. The service, Clova AI Contact Center Solution, is operated by the company’s AI technology Hyperclova,"
+    publishedDateTime: 2022-05-30T07:08:00Z
+    webUrl: "https://koreaherald.com/view.php?ud=20220530000643"
+    ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20220530000643"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220530000643"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 104
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 57
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2eafd02da366f481fe2fb052260905ba.jpg"
-        width: 800
-        height: 450
+      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F05%2F30%2F20220530000595_0.jpg"
+        width: 630
+        height: 354
         isCached: true
-  - title: "Clearview AI Expand Facial Recognition Software To Companies"
-    excerpt: "By partnering with Clearview, Vaale is saving about 20% in costs and increasing accuracy and speed by replacing Amazon’s Rekognition service. “We can’t have duplicate accounts and we have to avoid fraud. Without facial recognition, we can’t make ..."
-    publishedDateTime: 2022-05-25T19:12:00Z
-    webUrl: "https://www.itworldcanada.com/post/clearview-ai-expand-facial-recognition-software-to-companies"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 36
-  - title: "Clearview’s Selfie Authentication Business Begins Operations"
-    excerpt: "Embattled facial recognition specialist Clearview AI has already started to win business from its expansion into the commercial market."
-    publishedDateTime: 2022-05-26T12:14:00Z
-    webUrl: "https://mobileidworld.com/clearviews-selfie-authentication-business-begins-operations-052602/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 4
 
 secured: "HwpL5kaCLDFPHA0qAJcy/OX0GQG9KTP58u7zkvUSeCMFlf3yaNiAx0vbqT9dkgip5abLHXlK6VMcueKxoPXAOnZZHns7uAwFgywhRH264DdEfadqXrIOgL0KSxN8zstvlcqdttVMFC0AYlvCVPmMe9QEDO/g9Xdx5tYb03uyI9/2/SDxihknhj80lCDSYSXJOYnAg8tU72y67JWuQMgFQu1uous22VOwib0fTTct01lgekM3VhBqyJS4vbcjgA3YJYYc6Fo49MLF+d+zVbgT3ORmQYJIymc1f+J5kDZuCUC+ZmlzXb+YUUDfjcSurG9XiHCu+yn0rxiDmQnAIP+J6EY+11XFo1PXd5tDDKPgisU=;9NEPiiC2lJEW7GvbDwY+ZQ=="
 ---

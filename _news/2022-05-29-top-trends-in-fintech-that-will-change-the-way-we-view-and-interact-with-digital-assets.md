@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Fintech players are leveraging AI/ML to bridge the gap in MSME lending"
-    excerpt: "FinTech is a term which refers to a set of businesses which are leveraging advanced technology as a core ingredient in their business model to drive rapid evolution and transformation of financial services products"
-    publishedDateTime: 2022-05-25T15:44:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/"
+  - title: "PEXA buys into AI fintech Elula"
+    excerpt: "PEXA Group – Property Exchange Australia – has taken a 25 percent stack in AI-as-a-service company Elula. Founded by two former Commonwealth Bank executives, Josh Shipman (once CBA’s head of automation and robotics operations) and Sarah Russell (a general manager at the bank),"
+    publishedDateTime: 2022-05-26T22:40:00Z
+    webUrl: "https://www.itnews.com.au/news/pexa-buys-into-ai-fintech-elula-580570"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://i.nextmedia.com.au/News/mortgage_approved_home_loan.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "A Look At The Future Of Fintech"
     excerpt: "Properly managed, many of the economic changes prompted by the pandemic can only benefit traditionally underserved customers and small businesses."
@@ -52,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "27/05 – Weekly Fintech Recap"
+    excerpt: "Partnerships Laiye Partners with Accenture to Power Intelligent Automation and Innovation at Scale Laiye, a leading Intelligent Automation (IA) provider, announced a partnership with Accenture, a global professional services company with leading capabilities in digital,"
+    publishedDateTime: 2022-05-27T11:14:00Z
+    webUrl: "https://financialit.net/news/digital-banking/2705-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_13.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "IppI19Qi2mI1Mx0FRbH4IomlVqcpRgcoGVUtNy0NoN6fGEBRsUCKk7RUdGD8vivLD6CdbcTXOW8Paw8IlTIXmirP67Dldru9YSlW9IrD0JVmcz6lFz4pYF5cTjpLB6D1F/KPLzBbhWwkf1RLLwtGq7mzLk6oLPpqRaHdJb0HEbzziaketMBAhum8rl4WrsnF6ajv1JNO2b3tUHMzrAchmApNQ3f9McwPd7YbGXUcv+8GS5fV14EmLhl1ewN4ndGo/39XKgi+bI+1vYTNUmBmpFgtUNrVZqxKMrc1RBEDJw8CxmFIaTrcCn7bsew4cbhk+xArgHvbrv4jnwp+rSGJRok5DxM46Ayo4JA55scRAkLCYsY9AcWZHMkmOpV5jd4F3cX/KnamVXinvB6cMCOjwg7eCmyVbB7RGbbLmyksK0JcNG94ElsJuN7B1HWy00oKCeZMJ1odh8y5BLQyhgKD5/mXXEkVjPrSh1WXDvxrinUuUp71+J/dMtJPl7UvnkJwTeCE05WolwZc3jTBXKKcYg==;J9dahO+4D16WtVfPFIGypw=="
 ---

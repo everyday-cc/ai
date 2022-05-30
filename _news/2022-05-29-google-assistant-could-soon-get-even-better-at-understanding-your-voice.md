@@ -45,6 +45,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words"
+    excerpt: "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report"
+    publishedDateTime: 2022-05-30T08:25:00Z
+    webUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition"
+    ampWebUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
+    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 46
+    images:
+      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/161315-phones-news-google-assistant-personalised-speech-image1-ukvcyl6jmb.jpg"
+        width: 943
+        height: 630
+        isCached: true
   - title: "Google Working On New Technology To Improve Voice Assistant Feature"
     excerpt: "In a nutshell, Google might store audio recordings of users on the device and use them to improve its voice recognition technology. Read more details here."
     publishedDateTime: 2022-05-29T09:06:00Z
@@ -61,6 +77,22 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Google Assistant to soon recognise your voice"
+    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
+    publishedDateTime: 2022-05-30T09:48:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 44
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/5/2022_5$largeimg_2076542019.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Google Assistant will recognise your voice command soon"
     excerpt: "Store audio recordings on this device to help Google Assistant get better at recognising what you say. Audio stays on this device and can be deleted any time by turning off personalised speech recognition'."
     publishedDateTime: 2022-05-30T05:41:00Z
@@ -76,20 +108,6 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/05/google-assistance-1653889126.jpg"
         width: 360
         height: 202
-        isCached: true
-  - title: "Google Assistant to soon recognise your voice"
-    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature. According to 9to5Google, the tool will help Google Assistant get"
-    publishedDateTime: 2022-05-30T07:30:00Z
-    webUrl: "https://daijiworld.com/index.php/news/newsDisplay?newsID=963459"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 24
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sharmila_300522_Google.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Google Assistant will soon recognize your voice"
     excerpt: "A comprehensive dissection of the Google app for Android has revealed potential plans for improving the Google Assistant feature. Of course, those deep dives into the APKs aren't always accurate and some functionalities may not end up in future versions."

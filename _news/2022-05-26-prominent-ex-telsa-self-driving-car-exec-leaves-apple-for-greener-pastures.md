@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2022/05/prominent-ex-telsa-self-dr
 webUrl: "https://arstechnica.com/gadgets/2022/05/prominent-ex-telsa-self-driving-car-exec-leaves-apple-for-greener-pastures/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "Apple Car self-driving expert takes talents to autonomous sensor firm after six months on the job"
-    excerpt: "Apple has lost yet another member of the Project Titan team working on its ambitious plans for a fully self-driving electric car. According to a new report from Bloomberg, Christopher (CJ) Moore has departed Apple after less than a year on the job."
-    publishedDateTime: 2022-05-25T15:56:00Z
-    webUrl: "https://9to5mac.com/2022/05/25/apple-car-self-driving-expert/"
-    ampWebUrl: "https://9to5mac.com/2022/05/25/apple-car-self-driving-expert/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/05/25/apple-car-self-driving-expert/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 31
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/apple-car-self-driving-expert.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "oDRhRAFgHAQh6j/ZPzCvexM3K3W9/ct7PWGD3P9e0qwmA+AajHJ7pGMmiv4KwJsGmC8YyTaYc554mlUhcMrYexJlgEH0TyoBAGVFcSsv9JsR4GRCf4i3d/NMRvN4AGvCCkJIubt5swkCXj398zTWSn11hkF9UXqI5Na9m6kYRnir78IRw2jvrYi4eKVdYELATo/084CFsxIUCENv4uI2ARIofAFWC2Qc2zlhVkWCRmKqBCRMCVes3PIzW8ABC13+6NXHGiUiF9uWzAh508nAR+FcYe7O2ZxCq7rhiiWslUhWI5RFGZBj3yaus/punfVRUt/GGjmusV/z+w6enN6WLaVuQRMrezN2CB2gNColjXuW2IuMTJr2ooWgbkjijRyOn7LhJZwn9sP1ocdSrjQ8gZGq6cykb9fEmJch1fm2DVCG5yYiQTCcuSUWBtqHk7raVqEuyY8lqW9SOyvjkdYrGI/74ZVE36LAYRZCZTfDtG9sBllFSuI6c8bOUB/6Cd5h3ZaVJUTeUihcz5f5YTttHw==;+cizeE9dzBlEtc4+j+D3gg=="
 ---

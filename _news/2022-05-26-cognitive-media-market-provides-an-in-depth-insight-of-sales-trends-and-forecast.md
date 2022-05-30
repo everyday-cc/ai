@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence Market 2022 - Research Status, Dynamic Innovation, Trend Analysis and Forecast by 2028"
+    excerpt: "MarketsandResearch.biz contributes an in-depth examination of the offers sector's current situation & important drivers in its insightful research Global Artificial Intelligence Market 2022 by Company,"
+    publishedDateTime: 2022-05-29T19:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2022---research-status-dynamic-innovation-trend-analysis-and-forecast-by-2028-2022-05-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Analysis 2022-2027, Industry Size, Share, Trends and Forecast"
     excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence in Healthcare Market: Industry Trends, Share, Size, Growth, Opportunity"
     publishedDateTime: 2022-05-26T10:37:00Z
@@ -39,6 +53,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "AI Market Size 2022 with 21.48% CAGR : Innovation Strategies & Recent Industry Developments With Top Players and Forecast Up to 2028"
+    excerpt: "Global “AI Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI market is"
+    publishedDateTime: 2022-05-26T04:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-market-size-2022-with-2148-cagr-innovation-strategies-recent-industry-developments-with-top-players-and-forecast-up-to-2028-2022-05-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence Chip Market Size, And Analysis, Trends, Recent Developments, And Forecast Till 2030"
     excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 – International Telecommunication Union (ITU) The growth of the global Artificial Intelligence Chip market is ..."
@@ -68,20 +96,15 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Ai In Defense Market [OVERVIEW] 2022 : Report Examines Latest Trends Size, Share and Key Drivers Supporting Growth 2030"
-    excerpt: "Quadintel published a new report on the Ai In Defense Market. The research report consists of thorough information about demand, growth,"
-    publishedDateTime: 2022-05-26T13:39:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-defense-market-overview-2022-report-examines-latest-trends-size-share-and-key-drivers-supporting-growth-2030"
+  - title: "Nuance Named Leader in Opus Research 2022 Enterprise-Scale Conversational AI Ranking"
+    excerpt: "Nuance ® Communications, Inc. today announced it was recognized as a Leader in Opus Research's 2022 Decision Makers' Guide to Enterprise Intelligent Assistants report. The report cites Nuance's holistic approach as well as its growing ecosystem of partners and industry collaborators,"
+    publishedDateTime: 2022-05-26T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuance-named-leader-in-opus-research-2022-enterprise-scale-conversational-ai-ranking/article_9806e647-7a9d-5d14-af32-fb26e855608f.html"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/baa5cf168f34ffc4cb2551ce1e095c9a5961e919-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 10
   - title: "Ai In Fintech Market [DEMAND] 2022 : Outlook, Size, Share and Growth Stance Forecasted 2030"
     excerpt: "Quadintel published a new report on the Ai In Fintech Market. The research report consists of thorough information about demand, growth,"
     publishedDateTime: 2022-05-26T13:39:00Z
@@ -100,17 +123,17 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 4
-  - title: "AI Smart Baby Monitors Market 2022 : Global Rise Due to Innovation in Technology by Its Latest Trends, Smart Services and Solution Forecast by 2028"
-    excerpt: "The AI Smart Baby Monitors Market size is projected to reach $2.5 billion by 2028, growing at a CAGR of 6.2% from 2022 to 2028.This press release was"
-    publishedDateTime: 2022-05-25T16:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-smart-baby-monitors-market-2022-global-rise-due-to-innovation-in-technology-by-its-latest-trends-smart-services-and-solution-forecast-by-2028"
+  - title: "AI in Oil & Gas Market Size 2022 with 12.14% CAGR : new business prospects by identifying trends and driving forces and Forecast up to 2028"
+    excerpt: "Global “AI in Oil and Gas Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI in Oil and Gas market"
+    publishedDateTime: 2022-05-30T05:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-oil-gas-market-size-2022-with-12-14-cagr-new-business-prospects-by-identifying-trends-and-driving-forces-and-forecast-up-to-2028"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 0
+    quality: 3
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/649120756dfde451d2abe8599eaaaace1a100069-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
         width: 600
         height: 337
         isCached: true

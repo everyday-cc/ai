@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-the-pattern-is-not-in-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 788
     isCached: true
+
+related:
+  - title: "AI: The robots are coming"
+    excerpt: "The advance of AI and its increasing capacity to perform work with a creativity indistinguishable from humans is fuelling more discussion and some concern."
+    publishedDateTime: 2022-05-30T08:09:00Z
+    webUrl: "https://www.redsharknews.com/ai-the-robots-are-coming"
+    ampWebUrl: "https://www.redsharknews.com/ai-the-robots-are-coming?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-the-robots-are-coming?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 37
 
 secured: "nI8lKmbikmpSuw0dAQWxnUcmXePDPaA9SXOBequ1vDcRQvTlF9yo4I1K3EHPSmcE3A9BDXsUbzmweMvfiddui/9T+xPGcHlrQp2/QK4h06Av0P2vyKMCREKzC3d4H7hs8Yy3Speo4p0hA4yGJyfKMfmmUy75WQE9HdAY9AMarxAmHHcBZos/gsglfasE/1bKLXZwRdgrDu85Iwwo93iZOFMNEuWzLVVsE272Bxw9RBGbaWwkVwJXjcAxTCNgHyVHmX6VMBi8/h+CRWW7PTlIInBHrt35N4PvV52wAyRy7e+N23CMRDSjT1NcVA5Th/WP1O1n/+nSs6d5+ePt5o2XNwfhVZkrYCRyjtNvrRpO9I8=;f0ZX1MV5X7+O49UfTyU+2g=="
 ---

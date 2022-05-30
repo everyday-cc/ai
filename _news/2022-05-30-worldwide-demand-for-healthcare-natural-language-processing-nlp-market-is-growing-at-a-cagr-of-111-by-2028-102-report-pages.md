@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Market Size 2022 with 21.48% CAGR : Innovation Strategies & Recent Industry Developments With Top Players and Forecast Up to 2028"
-    excerpt: "Global “AI Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI market is"
-    publishedDateTime: 2022-05-26T04:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-market-size-2022-with-2148-cagr-innovation-strategies-recent-industry-developments-with-top-players-and-forecast-up-to-2028-2022-05-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) Market 2020 : Quantitative Analysis of the Current Market and Future Estimations 2030"
     excerpt: "According to the report, the global natural language processing industry was pegged at $11.1 billion in 2020, and is expected to reach $341.5 billion by"
     publishedDateTime: 2022-05-26T03:35:00Z
@@ -51,20 +37,6 @@ related:
     quality: 30
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI in Oil & Gas Market Size 2022 with 12.14% CAGR : new business prospects by identifying trends and driving forces and Forecast up to 2028"
-    excerpt: "Global “AI in Oil and Gas Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI in Oil and Gas market"
-    publishedDateTime: 2022-05-30T05:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-oil-gas-market-size-2022-with-12-14-cagr-new-business-prospects-by-identifying-trends-and-driving-forces-and-forecast-up-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
         width: 600
         height: 337
         isCached: true

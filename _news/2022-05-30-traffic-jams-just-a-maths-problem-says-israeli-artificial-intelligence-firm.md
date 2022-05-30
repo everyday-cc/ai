@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/traffic-jams-just-a-ma
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/traffic-jams-just-a-maths-problem-says-israeli-artificial-intelligence-firm-71653794790863.html"
 type: article
 quality: 86
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Traffic Jams Just A Maths Problem, Says Israeli AI Firm"
-    excerpt: "Israel's traffic congestion ranks near the worst among developed economies but an algorithm can help, says one of the country's IT firms engaged in the auto and mobility sector. ITC, or Intelligent Traffic Control,"
-    publishedDateTime: 2022-05-29T03:23:00Z
-    webUrl: "https://www.ibtimes.com/traffic-jams-just-maths-problem-says-israeli-ai-firm-3524768"
+  - title: "Traffic jams just a maths problem, says Israeli AI firm"
+    excerpt: "Israel's traffic congestion ranks near the worst among developed economies but an algorithm can help, says one of the country's IT firms engaged in the auto and mobility sector."
+    publishedDateTime: 2022-05-29T09:35:00Z
+    webUrl: "https://techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 69
+      name: techxplore
+      domain: techxplore.com
+    quality: 89
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/28/yoav-elgrichi-ceo-and-co-founder-of-rider.jpg"
-        width: 768
-        height: 517
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-company-itc-says-t.jpg"
+        width: 1024
+        height: 624
         isCached: true
   - title: "Traffic jams just a maths problem, says AI firm"
     excerpt: "The company says road congestion is a global scourge, calculating that the average driver spends three days a year stuck in traffic, also pumping out greenhouse gas emissions."

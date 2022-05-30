@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI Deep Learning Predicts Cancer From Scans of Lung Nodules"
-excerpt: "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale Visual Recognition Challenge and raised the accuracy of AI ..."
-publishedDateTime: 2022-05-25T22:09:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
-webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
+excerpt: "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ..."
+publishedDateTime: 2022-05-25T22:05:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
 type: article
 quality: 74
 heat: 94
@@ -58,6 +58,6 @@ related:
         height: 360
         isCached: true
 
-secured: "3W1QAqkYLKVu2AJzmxnwDIXnoXvtzORTm+/s6wqRw8dSrtwaCMaFt6XBCRlTpYU25IMNcZ/GPSddOPbLva7tXVJHv85igydhORc+Ght+IB/bWSfE7avR9Niz/QvNBlKJUU3drfucudDP6Lmyz8DiZH7TMWYCGVwNr3BjuCwDCxSNNuOYIC1BSdnrK9Qg94qT6x8kHm7aE51T6D/OzruWkF0v3SOiNQQJhPtJQaAIdAol53f1biSQjZbjRKRnOW8I7xAfm+TaYZ2TAd1Zm1zdDI0DP+TrcS2n4ePHLmSs2zhNkGf9nzIxPUSXxx5ceektc8d3i7+Ksn8n3CebAxchPQROm+esw1xBYeuNz4y3WwbWcrSZTSwR+VEw+ktHtvYrrD60e2nHXxD0nu/oRh7ErqIBi14Hj2bD8tcS4K1FPpnMS1TgtwIXRJj0Y11RAuIHET2wAj2mT7TWt1MtnmYogHzVppzCnzlnlZ6ZNMsNu9hU8lyuy+iFnWg33MlwJGKFk1gayNJ+gfXVX4GkiYHTCw==;fI4T3R+00zxxBpz3GkACeg=="
+secured: "mC6uLCDJV9sDUXez1ohSa/thJmMg0Xee26Sqjl+I5JK1/roLaXUTLDSNCLxsFfCLZtThCkvSayISgDtU8OpB+8qOJcvnCyKdxvkkwY1EHpCOmNP8hzw6oDiQYoKVI2xUlZCNtWKkDk4zhQQLIf+YonTpXofNviDxwiMeI9FfhUHUULxU8mct1pUsn4DVThhRqpjqpnDOtT+n/raztXHRTGtY0+fLu4Vcp0lVLWG4WxgvoqxqkREUpNvuECOOHw41+1VNbfvVlZyafcMJnxfsdtauTYLo7jjAM03a+C41/zJFrXZXdkMUM8R8xt2kG2f+voHU021ZixXNmG0g38v07l5U7b8Ax+oTtxY9lndCF3E=;UoVLMcvMjOLS2sCko8Q1Cw=="
 ---
 

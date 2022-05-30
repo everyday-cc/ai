@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
 excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-publishedDateTime: 2022-05-26T22:50:00Z
-originalUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
-webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
+publishedDateTime: 2022-05-26T22:46:00Z
+originalUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 type: article
@@ -17,9 +17,9 @@ provider:
   domain: theregister.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Hardware
+  - AI
+  - Microsoft AI
 
 images:
   - url: "https://regmedia.co.uk/2020/11/16/amdmi100.jpg"
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft expands its AI partnership with Meta"
-    excerpt: "Microsoft and Meta are extending their ongoing AI partnership, with Meta selecting Azure as \"a strategic cloud provider\" to accelerate its own AI research and development. Microsoft officials shared more details about the latest on the Microsoft-Meta partnership on Day 2 of the Microsoft Build 2022 developers conference."
-    publishedDateTime: 2022-05-25T15:09:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-expands-its-ai-partnership-with-meta/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 108
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/2de2b1ed6198eabf6d34c116d16c495cfd2c5a8f/2022/05/25/bd51eb15-1abb-4761-b527-6d312c91ef59/aimodelsbuild2022.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 648
-        isCached: true
   - title: "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work"
     excerpt: "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure."
     publishedDateTime: 2022-05-25T20:10:00Z
@@ -71,22 +55,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
-  - title: "How Microsoft plans to improve the low-code landscape"
-    excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
-    publishedDateTime: 2022-05-27T03:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/"
-    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Startup, Microsoft collaborate to simplify AI healthcare research"
     excerpt: "An artificial intelligence data security company is collaborating with Microsoft to advance AI healthcare research. BeeKeeperAI, a startup specializing in data confidentiality and intellectual property protection,"
     publishedDateTime: 2022-05-25T21:44:00Z
@@ -114,36 +82,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft Build: Windows Terminal Preview 1.14, Microsoft Graph updates, and Dev Box"
-    excerpt: "Microsoft’s annual development conference Microsoft Build is taking place this week. It will continue on through Thursday May 26."
-    publishedDateTime: 2022-05-25T20:43:00Z
-    webUrl: "https://sdtimes.com/msft/microsoft-build-windows-terminal-preview-1-14-microsoft-graph-updates-and-dev-box/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 62
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2022/05/cdf0efa2560a5ff2483093002238d924-490x273.jpg"
-        width: 490
-        height: 273
-        isCached: true
-  - title: "Microsoft Build 2022 | Windows 11 apps, Dev Box cloud service, and more"
-    excerpt: "The software giant made several announcements on day one that included Windows 11 apps-related updates, a cloud service for developers, new features and tools for Teams developers, Azure AI updates, and more."
-    publishedDateTime: 2022-05-25T16:18:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-build-2022-windows-11-apps-dev-box-cloud-service-and-more/article65461272.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-build-2022-windows-11-apps-dev-box-cloud-service-and-more/article65461272.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-build-2022-windows-11-apps-dev-box-cloud-service-and-more/article65461272.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/incoming/b08vj6/article65461296.ece/alternates/LANDSCAPE_615/2021-09-28T201809Z_1003974895_RC28ZP9N11R1_RTRMADP_3_MICROSOFT-EPIC-GAMES.JPG"
-        width: 615
-        height: 383
         isCached: true
   - title: "Microsoft Build 2022: Key highlights"
     excerpt: "Most of the new features announced are aimed at making it easier for developers to create native apps for multiple platforms, migrate to the Azure cloud, build collaborative experience in Teams, and improve discoverability of apps on the Microsoft store."
@@ -203,20 +141,6 @@ related:
         width: 608
         height: 457
         isCached: true
-  - title: "Microsoft's metaverse rival Meta chooses Azure as strategic cloud provider"
-    excerpt: "Meta, formerly known as Facebook, has chosen Microsoft Azure as a strategic cloud provider for A.I. research and development"
-    publishedDateTime: 2022-05-25T15:53:00Z
-    webUrl: "https://www.onmsft.com/news/meta-chooses-azure-as-strategic-cloud-provider"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 52
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/10/Facebook-to-meta.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
     excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
     publishedDateTime: 2022-05-26T18:14:00Z
@@ -273,6 +197,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "U4DIPeZuytAQnLoy3jSrHexjObBsx92LcN2ZM6FSh4nNAn825BdkCEwwExmV6CFcw+0uUJ7bmOWbYccnu/yR/Tn6aE87wgZPPDpHtXdJaH+36tfjiDtoF7ioWzDxy2kD6yMMjy8AWxXyVZ1fj8c/f8R9hujMxxJNFKECA5m2DByYKggTguYG+U0dz+8aimH6OToVTkwzeqi/pxxxkI5ZmzWIJ7n0s2SkHFPtVlMiiLrh4sjRiRxAm7/zbfJPopdIPvs9ajssHVEYqSpoKOs4uTKrzj0KJNwKTa5jAuIHpmswN5Zg3kWUFuHr9iamdW/302otdoMmSFt/h+G66lMC7BODG/tDCZ3vX3+G3ilP9LM=;DDUy+sIpA3P+XjHycSy9QA=="
+secured: "k8gPRuDKYzt2XdxDYSRGYpIsc9/gYfmgMMFy7rrvzVQMekeUFKAYevyF7fiMtwZhNfSfSCyF3cSUUPYr7SagNjzHa1LEd/FdVbDPPel/Ekm3Ifp22pegHAV1hwxvIOmH2ImhDo8kq+nutJlaenik/dUH6Ywl5GZSdyDHea76t4hS5HVJq1RhZiwcc2FwZO+gUfW8Twkb4X3ejFedL9r3VwJBov8dI1jrOhh6rq6HROsQBqEh9idAwi32h5XlnyJH5GSA5PLfKzVd//1YGJ7YF9CpKq6d6G4EqKB2PWtc/dQFRildE0PvoyyZ3PyvURbXH0b/5xGc/SIebLAk0K2Z4xOEos0FBdazSDzMe9Y8wpc=;LWlN3BAN3iMnC26Fyesbhg=="
 ---
 

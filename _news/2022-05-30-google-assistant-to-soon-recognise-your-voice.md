@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Google Assistant to soon recognise your voice"
-excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature. According to 9to5Google, the tool will help Google Assistant get"
-publishedDateTime: 2022-05-30T07:30:00Z
-originalUrl: "https://daijiworld.com/index.php/news/newsDisplay?newsID=963459"
-webUrl: "https://daijiworld.com/index.php/news/newsDisplay?newsID=963459"
+excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
+publishedDateTime: 2022-05-30T09:48:00Z
+originalUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
+webUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
+ampWebUrl: "https://www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/google-assistant-to-soon-recognise-your-voice-399526"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sharmila_300522_Google.jpg"
-    width: 600
-    height: 400
+  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/5/2022_5$largeimg_2076542019.jpg"
+    width: 660
+    height: 440
     isCached: true
 
 related:
@@ -54,6 +56,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/F38KrNq63T7nzfffDttyHh-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words"
+    excerpt: "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report"
+    publishedDateTime: 2022-05-30T08:25:00Z
+    webUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition"
+    ampWebUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
+    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 46
+    images:
+      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/161315-phones-news-google-assistant-personalised-speech-image1-ukvcyl6jmb.jpg"
+        width: 943
+        height: 630
         isCached: true
   - title: "Google Working On New Technology To Improve Voice Assistant Feature"
     excerpt: "In a nutshell, Google might store audio recordings of users on the device and use them to improve its voice recognition technology. Read more details here."
@@ -106,6 +124,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "KTHFN25D1Gbu0hrrm7hMBsCoTlOqT69MiSWtNNDV9e+Bx1/Ef8yfLMFi6msZbtxPBgAabENb2AK5RuU6fI+iDqwMKmvzmDc8mGSpm20Y7LlTDKObqgJCGIoVnUJqIYw3T9jQ4SbmCuPWUfQZ5j35C17U0JsmV5swIwmkYdoNzrCfXS7NxPMhI0fC8VEl/tlnE3tnmfgNmZATH8DGRjBpCsOj++NBmx3rfj1Bxli8GmesPRYmb6q+2BXgDqNY0+RnLB6oYEQRCS9usT+a4Mwb/Wcs0YDlsfV0Ogo4p3sa/sS2gL17ICOrZ9IJsU3KuWm1bOlfDD9Cbibd7juyvdid6XOef/DWmehAATOc3q3RhGs=;I5QCLINt0yQ8Gcb8l2SNpg=="
+secured: "eyK1PhMCBA/92wjT2jV2PCVKNzIWkFwfS5y9tVfbKrE6tqqng+IXbqy08sle8sHpPajsDZiVtwFz7RrDyTyjuFKc70Rr60EezdspnhZ8SJvbJamgZDiMPrSuBozkPLDiR19B/z4m8iepE5i5W7xLLVDP5q6QrZetLjfiLDp7O7h92yLSIwsUhSjf33jUmJK5ylQGufDyTqPlfxLk3DfmOHQOHL89qYrDmAlctcWEBs/Ygx4+j3Syj45clspCsJFkIJahqXrGhOXgztQLSuP0psEb4DrHv5nPEWJHwQAX+2CyGQVnxlWi5p6FJcpIVdFviJwhsujv9vPfUOOCAV1OkCJ7QK1LMp2imlE2VEGAFMs=;EMkgSd5QHO73EyWX2lhPcA=="
 ---
 

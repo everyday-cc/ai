@@ -27,22 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics And The Quagmire Of Whether You Have A Legal Right To Know Of AI Inferences About You, Including Those Via AI-Based Self-Driving Cars"
-    excerpt: "AI Ethics and whether you ought to have a legal right to know of AI inferences about you, a topic even of concern when it comes to AI-based self-driving cars."
-    publishedDateTime: 2022-05-25T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/amp/"
+  - title: "The big new idea for making self-driving cars that can go anywhere"
+    excerpt: "The mainstream approach to driverless cars is slow and difficult. These startups think going all-in on AI will get there faster."
+    publishedDateTime: 2022-05-27T12:05:00Z
+    webUrl: "https://www.technologyreview.com/2022/05/27/1052826/ai-reinforcement-learning-self-driving-cars-autonomous-vehicles-wayve-waabi-cruise/"
+    ampWebUrl: "https://www.technologyreview.com/2022/05/27/1052826/ai-reinforcement-learning-self-driving-cars-autonomous-vehicles-wayve-waabi-cruise/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/27/1052826/ai-reinforcement-learning-self-driving-cars-autonomous-vehicles-wayve-waabi-cruise/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 44
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//628d150732d0646182ea9402/0x0.jpg?format=jpg&crop=3116,2077,x724,y41,safe&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/image1-SAfinal.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
+  - title: "Regulations for insuring self-driving cars required sooner rather than later, lawyers say"
+    excerpt: "Canada will need to address potential disruption that automated vehicles may cause from an insurance perspective, lawyers caution."
+    publishedDateTime: 2022-05-27T19:06:00Z
+    webUrl: "https://www.canadianunderwriter.ca/insurance/regulations-for-insuring-self-driving-cars-required-sooner-rather-than-later-lawyers-say-1004221744/"
+    type: article
+    provider:
+      name: Canadian Underwriter
+      domain: canadianunderwriter.ca
+    quality: 0
 
 secured: "AzBJID7Xd2ncz/i2zJ06UeILsHjevbwtecUuMT1zDhC2fJZ4IRld9BV+E2GRmjgHs5XSCK20KLv/XuAcM6TP72T5WjxoES65/wxFh8sasD3H6fZzeIjdnJWA9S/cTedMr4HqBctcH8VHTJnPuwyhRGubUXpxsDvHvm9S6SsYpghOmyZv7KLPiFkQTE39wKL+IekWUXUz7AKzNzopSqKRHV+XLwG92H9sOb8pQXg89a/ULncDegFbNmpkFbsx8tzfbHERTIAqIHOlE3byiOmxaT6afbOztSRFx6udEjERzVBgIA4yygoOtHJa5goYUBArutrOaV7lXjIjK8tQPoePqHBr9eFeCUTyXHFTBNkvj6s1+Q6AMz0lj09WqiIPciPMbPpC3lDwismgS6lXxg2SbGsFYojSXOQvoopTlmts0Jx4TyOVVZGzkqACsNisWStyxfEWGs+B/bAiDVeFOhlriVhS/pwRhBv4z7PRz/XG80N+FZl6H6giVQcybryF+0f7DKPSs96XV7zItQq1bzTELw==;5bKcIVj80bceiAR0Nr3NYw=="
 ---

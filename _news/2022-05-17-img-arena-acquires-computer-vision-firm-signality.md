@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IMG Arena acquires computer vision firm Signality"
-excerpt: "IMG Arena, the agency giant’s betting data subsidiary, has secured a controlling interest in Swedish computer vision firm Signality. The deal will see IMG adopt data from Signality’s artificial intelligence (AI) software, computer vision and camera ..."
-publishedDateTime: 2022-05-17T12:54:00Z
-originalUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=news"
-webUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=news"
+excerpt: "Agency giant IMG’s betting data firm will adopt Swedish-based Signality’s AI-powered software, computer vision and camera technologies."
+publishedDateTime: 2022-05-17T12:53:00Z
+originalUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=technology"
+webUrl: "https://www.sportspromedia.com/news/img-arena-signality-computer-vision-sports-data-betting/?blocktaxonomy=technology"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "0duD5af1OkC42+lphf0WpeJbZZ3/BLNfYCM55af4IOZcSuJySVA4YclKZ7JjVJo2NlRc9MsqdQ1vrQ3kjanjvMZV2Ja0GmSiVmcv6sH8F2OIUIzlhQpeiCir7cenUYNn2zf3anX3pmUrtJqgH+wYteSLjaT3xJtCPIuGnodoDcPnyqPH1cpbyzwoSYklebjSMpBA6NDPyigEfRADqd+ZMlXX+ZTlcU4EZH2eSQKS/R6zJgiSkNAZfa+EurOgQujDUBqAjw10LGu2bMt8AI2fcsNQDOqkHgg26eG1K7eqf9+k6hLSWsC961Wxef5Lg3iWUN9qTTYQ12EiXor/y2V678SmJi/KpPCOUhQEH4gB6OSzK2fDvjBgBCN2KVRsgECNmNWPv8wQs/m/zYnERBEZ77r/l1xygIhjqzPoSaZG6UsJufCYBY1vgc88yXgRPd4neLQOD8hGcod/Kt2mAs8UrsN/LlYLR9pXFirjgf/x0bnsKi6vSxgpM4U0HLKdcris+wNwzcURytDIgC0QeSVM9Q==;T+8IUidN6PvLDZQvRxfPLg=="
+secured: "tgjGQrIlfjJygTxI8ey0PVClqNtfEvXhDe2hgBIbWZDgZ+RNzLg5CwYdRohkS00eCNF4P3KJ1/GQdtBqlT0auoYV/M8WXKRZAOFjTokEVPMeGXwXtXNgfyJ+YMKsni52CFvkCpswsXvQT2uiqxmlr6QYTX/17nhhJHTdsuqgFlnhoKWvW30p5jAAT2EcnWBPIQPMaSWFfRSX0Je+SGPKCrERo0LaWh5/4BJIyLe2pijz7cm4/Y7UeXCsZzyAlHpp4X6SMIG+3duQymGifkAACz1M3ZkNPbXFcVIlki5DpOH86qLNEo/TWtOJEB4J1AzdAVoLEcgleibhabrtaYIMb6iCMgOCalzGU1nO6r4c8LEO5Kg1Wd2Y1RmGK3rYGRWR8CuAJkCHyy7L2rorECiSWkGeRKMu/hL8IntDASX+TI0vpRb2N2CAeAMGwYXDDX8TFVhwlN2mnUXZvdgR3kS7EXX9Th52go9dS4NJa6Q+xikqtR0nVHL7NqtnbTYXZpXax2742dUFQtp5eMOfUUoPBQ==;KBtdHCTudaF17iK7CN4o8A=="
 ---
 
