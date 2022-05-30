@@ -10,7 +10,7 @@ website: https://t.co/NRuuR6oILg
 twitter:
   username: MFordFuture
   url: https://twitter.com/MFordFuture
-  followers: 48603
+  followers: 48601
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Martin_Ford_(author)
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Martin Ford"
 
-secured: "yTRz8fUugr+fbV7InxZpC40/AW5JEThgYXEeovI/qbslYwF7PS13fKnLK52VpsT1ZHS4N+qg3dTrffDOr2uhuFSHGP2yydl1iDSyjJ49hisJPjwKGMnVzpeqyX/pgrGfOfNz85fFqqNzTB0z7VfzEXC4CJMGaRDuJOINR7BTS/VyBAR80GMTsYZpTGbSGDMFBZzjUlcD3n6R3cKKD2EIpNCzFvP/nUJp40RvvEq4pBWObZC7uBHCyXqOK8YwHMaO83S4JnWJxHxzKfdQA6c8+rvEd8yTWweW2YbX+2z2n6Gs1gAPWovkMkyHe+QhCsBjraC2b74tRJR/hDJzhetUOoMETvPWGHIKaesDHQlOwWn/dhAMawnFGtCN9P9PjUP51t0gepjhLQOyLMse4qvJqnsgsJckOCTIJEeKo9R7qos=;M3ExQoFeqKdMvVlmOzebMQ=="
+secured: "zZX3oJovaKzaYl2Mu5L9UL3t0vvwRcqqgFwFc2XGKXsHQ9VtTmpxnPY1X2UZTman+uLPnauYMecRLLdsCgWPdCsP3ybAnGGEX9rdPmMnB4OcFb5IXe5GNhu8wWxZxDb9AsNgyItjwToT9BtPAAR8v3oKpsfFrm0arcFCf8ph1og+IL4QrVYqNQ7+pOHjQJcpeg6YxpUSHCnveV276qdvO5lZ1+Tk3D6lW1hXBeWOxjEWJncJ8lsfRYzZA4xoVz2SH9QArBOytJH2+A2GKFiek8VCxbNQmbTeqknFKZPTpr/Qt0fF8uirW6BjIs6ZcyaTsVfj9NYRbIsdQm7RmX4YL9IR1vc7DzAtq/rxe0E9w4klGAo7tXl4rDiqoa+ZIWC2uKgcNvtd+I8ywelABkBw6qiSl3zBqyaDv49og092TMQ=;vsfESFXg3wbUSPQbJ2jo+Q=="
 ---
 
