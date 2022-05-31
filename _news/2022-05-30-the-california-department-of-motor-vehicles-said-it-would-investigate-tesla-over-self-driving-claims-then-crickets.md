@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "US Senate candidate runs on anti-Tesla “Full Self Driving” platform"
+    excerpt: "Single-issue candidates for the US Senate aren't the usual fodder for Ars' car coverage, but it seems like an exception might exist for Dan O'Dowd. O'Dowd, an engineer and CEO of a software company, is running for one of California's Senate seats on a platform to ban Tesla's \"Full Self Driving\" feature."
+    publishedDateTime: 2022-05-31T17:29:00Z
+    webUrl: "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/05/unsafe-at-any-speed-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "DMV Remains Mum on Safety Probe of Self-Driving Teslas"
     excerpt: "The investigation by the California Department of Motor Vehicles into safety issues is headed into its sixth month with no end in sight."
     publishedDateTime: 2022-05-27T22:34:00Z

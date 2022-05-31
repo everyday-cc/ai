@@ -7,7 +7,7 @@ originalUrl: "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_amer
 webUrl: "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "North American Robot Sales Jump 28% in Q1, Reach Record $646M"
+    excerpt: "As inflation and labor challenges impact businesses, N.A. companies purchased the most robots ever during the first quarter of 2022."
+    publishedDateTime: 2022-05-31T16:29:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/north-american-robot-sales-jump-28-in-q1-reach-record-646m/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 56
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/05/RobotSalesQ122-800.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Robot Sales in North America Continue Record Surge into 2022"
     excerpt: "The event, scheduled for June 6-9 In Detroit, hosts the industry’s leading manufacturers and system integrators in robotics, machine vision, motion control, artificial intelligence and smart automation. About Association for Advancing Automation (A3 ..."
     publishedDateTime: 2022-05-31T15:00:00Z
@@ -50,6 +64,6 @@ related:
       domain: theatlantic.com
     quality: 34
 
-secured: "XQgz7p9EbWBOhHv5qL/996dyWiSRrKlrM9x8vMlcXxQ63LG1FmDWoc7GoVhrzFzSADJ+Jr3K/3rV/3cRr0xmEaPlO7apjyJnK89AwR55+nU/w3lulcM5erOmcFZnTHFtGY/yVg2qqdfdcygR7AET1Fok4cUCE13b1k2Pm9wxIuO046hrGUg1BjS8CIWcHDW4PxJaEJ0taC2LHmcjgfJ2FzZsvC1MlEl6Z/bfiS6ku1LKGUc1p/Ib2gja5LGySSDCwCv8vEnSrHkSkbMun5C/bpMtFZAPFhbSOdGaleyff+/xCOrhJI/i2kquPtPwm7WAD9MyY8HpZrj3u4aT8JBKcNJJJhrQn07VrGNJU0kLzbc=;tIOHBuRUZu7IutaofYvMjg=="
+secured: "8MWdQc2ZXxmQPnA8j3uDUC3dAh0ZLWZENv3T3X8UhtlDf81iBQklCPol6Wni/qwII7RdMhlLJUxpVDvrC1rECS09OZCba4ZqWP4721eSKJ99q6SO+XGOqLmhP99zqKNjngHTaiEPHnshuSMn8oZQoGU9nb8TMOdF+g9SZCq5MaT4P7lqhR1C/zsSFZUnMul9WeiiKXmF5d2m6bQmw0dOIHJ3t20cdpnOX/VHnNXn2I+rmU00gz5NWXq73sjGsuUQBC8AWV1JXwzXDl3bUJCoJgh1Govh7e4OwljM1bW4UGyKNvW0znwbCybt2zxN3WJ8EdaEK6eROAnmRt/IbhGu5iP+1FESC+10YH1UcbRv8YZq/n6rGch3DTjcgqaPwPkbzYnrAcOIWi4dxbgcVhTlba2nNiHfjus8fMYUEG5MLm3JpT7HNE9d9XwC7Rvx5RxX91q9yLIUqzb0HCLpeWzejunAw0nk+NSr1Uq0oPKcrfh/H2yAyi9Xp6NMyxR7Gy64hNnkmwOq/GuPG8+apYIW4Q==;juwMN6mX0RmnMk5sZUM2Zw=="
 ---
 

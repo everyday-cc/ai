@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/05/27/tigergraph-unveils-ml-workbenc
 webUrl: "https://www.datanami.com/2022/05/27/tigergraph-unveils-ml-workbench-winners-of-its-graph-for-all-million-dollar-challenge/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 800
     height: 522
     isCached: true
-
-related:
-  - title: "TigerGraph launches Workbench for graph neural network ML/AI modeling"
-    excerpt: "TigerGraph's ML Workbench should enable data scientists to build deep-learning AI models using connected data directly from the business."
-    publishedDateTime: 2022-05-26T23:40:00Z
-    webUrl: "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/"
-    ampWebUrl: "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling%EF%BF%BC/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 123
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/02/machine-learning-e1653607121457.jpg?w=1200&strip=all"
-        width: 1200
-        height: 773
-        isCached: true
-  - title: "New GraphWorld Tool Accelerates Graph Neural-Network Benchmarking"
-    excerpt: "Google AI has recently released GraphWorld, a tool to accelerate performance benchmarking in the area of graph neural networks (GNNs). GraphWorld is a configurable framework to generate graphs with a variety of structural properties like different node degree distributions and Gini index."
-    publishedDateTime: 2022-05-27T16:33:00Z
-    webUrl: "https://www.infoq.com/news/2022/05/new-graphworld-tool/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 24
-    images:
-      - url: "https://res.infoq.com/news/2022/05/new-graphworld-tool/en/headerimage/new-GraphWorld-Tool-Accelerates-Graph-Neural-Network-Benchmarking-header-1653647754361.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "BaWEVe2AaGQIUpsLH5lceBE+OMQUFHb9lCot++j+FYGzl/x0Bxv2Xh14TDFuoFJ1YpGZcFgqFWvhS2svqb5eibufMn2N+PQ8Q9ffJ3q1wdYedcWsYjTAll5Fgyb57c2HDQQ8uYzUN1QGK2uCx08/F8w2KCeavGCO3NOTESSmnbLAcGousTItEvtDqvUe2st0FB6b7WtQoVceMdCRBsG/2CUyIiFFZIF/mD8uyQu5fOJ3CfMlkDog235pZdqkRNf8NQgYmvW0XCzRFNXoL15eClHmGL1rR9a3s8AN+NCDvWMFoiwusIKft6P4kJaxT8DtCjhBd40vj4fRAo05xU9mvrGzBEjyx0d4BOTvaZX+J2lPN4qM3TPWdnA9OdLZWaSidsx8hagqMcZ0gpiVqdEB7L27nM/iM4hk0W8ux5x3PMh+RK70F16GCt0LRXllMtyZr+a6cbmrSnaU7iH3XaLnq4Qq46nxU+/bbJpGxCfo7thhIZD4GH9Th3D+NS9rJddMjDrJMdcQK5pL/d+rgi/FQQ==;OlMjA51ZHifAqEsfmDpv8w=="
 ---

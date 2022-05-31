@@ -95,6 +95,20 @@ related:
         width: 608
         height: 457
         isCached: true
+  - title: "Nokia plugs in Microsoft Azure into its industrial edge platform"
+    excerpt: "With Microsoft Azure Arc, a wide ecosystem of applications, and our long standing work with Nokia, we can provide AI-powered insights and identify solutions to workflow issues for mission critical Industry 4.0 applications running at the edge.”"
+    publishedDateTime: 2022-05-31T16:20:00Z
+    webUrl: "https://telecoms.com/515630/nokia-plugs-in-microsoft-azure-into-its-industrial-edge-platform/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 54
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/08/Fotolia_163376823_Subscription_Monthly_M.jpg"
+        width: 1639
+        height: 1159
+        isCached: true
   - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
     excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"
     publishedDateTime: 2022-05-30T14:02:00Z

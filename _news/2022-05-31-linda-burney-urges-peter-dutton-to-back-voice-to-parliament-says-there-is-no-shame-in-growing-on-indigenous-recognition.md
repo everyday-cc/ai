@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Peter Dutton urged to back Indigenous voice as expected new leader of the opposition"
-    excerpt: "\"We have been clear that we want to work with the people to provide… recognition. We are not in favour of a third chamber or voice,\" he said in 2019. 'A moment I'll remember for ever': Linda Burney says priority on Uluru Statement Linda Burney says she ..."
-    publishedDateTime: 2022-05-27T00:00:00Z
-    webUrl: "https://www.sbs.com.au/nitv/article/2022/05/25/peter-dutton-urged-back-indigenous-voice-expected-new-leader-opposition"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 17
-    images:
-      - url: "https://www.sbs.com.au/nitv/sites/sbs.com.au.nitv/files/styles/network_tile/public/shorthand_images/saltmother.jpg?itok=pLSxJ02_&mtime=1557954136"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Albanese has pledged a referendum on an Indigenous Voice to Parliament. He may face strong headwinds in Dutton"
     excerpt: "The Uluru Statement and voice referendum will help define the Albanese government. But it will also tell us what sort of leader Peter Dutton will be – whether he'll see it as a gift, or a political weapon,"
     publishedDateTime: 2022-05-28T19:00:00Z

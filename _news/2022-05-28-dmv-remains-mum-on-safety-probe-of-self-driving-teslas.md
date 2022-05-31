@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-sel
 cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-self-driving-teslas?_amp=true"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: California Techwire
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "US Senate candidate runs on anti-Tesla “Full Self Driving” platform"
+    excerpt: "Single-issue candidates for the US Senate aren't the usual fodder for Ars' car coverage, but it seems like an exception might exist for Dan O'Dowd. O'Dowd, an engineer and CEO of a software company, is running for one of California's Senate seats on a platform to ban Tesla's \"Full Self Driving\" feature."
+    publishedDateTime: 2022-05-31T17:29:00Z
+    webUrl: "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/05/unsafe-at-any-speed-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "The California Department of Motor Vehicles said it would investigate Tesla over self-driving claims. Then, crickets"
     excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the US$12,000 (RM52,548) software package that supposedly enables a Tesla car to drive itself through city and neighbourhood streets."
     publishedDateTime: 2022-05-30T02:43:00Z

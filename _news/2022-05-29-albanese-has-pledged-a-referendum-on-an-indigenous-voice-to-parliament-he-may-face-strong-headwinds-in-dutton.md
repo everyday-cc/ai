@@ -7,7 +7,7 @@ originalUrl: "https://www.abc.net.au/news/2022-05-29/albanese-referendum-indigeo
 webUrl: "https://www.abc.net.au/news/2022-05-29/albanese-referendum-indigeous-voice-parliament-peter-dutton/101105084"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Peter Dutton urged to back Indigenous voice as expected new leader of the opposition"
-    excerpt: "\"We have been clear that we want to work with the people to provide… recognition. We are not in favour of a third chamber or voice,\" he said in 2019. 'A moment I'll remember for ever': Linda Burney says priority on Uluru Statement Linda Burney says she ..."
-    publishedDateTime: 2022-05-27T00:00:00Z
-    webUrl: "https://www.sbs.com.au/nitv/article/2022/05/25/peter-dutton-urged-back-indigenous-voice-expected-new-leader-opposition"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 17
-    images:
-      - url: "https://www.sbs.com.au/nitv/sites/sbs.com.au.nitv/files/styles/network_tile/public/shorthand_images/saltmother.jpg?itok=pLSxJ02_&mtime=1557954136"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Linda Burney urges Peter Dutton to back Voice to Parliament, says there is 'no shame' in growing on Indigenous recognition"
     excerpt: "Incoming Labor minister Linda Burney has urged Peter Dutton to end a decade of \"divisive\" politics and back a First Nations Voice to Parliament, saying there is \"no shame\" in growing on Indigenous recognition."
     publishedDateTime: 2022-05-30T21:30:00Z

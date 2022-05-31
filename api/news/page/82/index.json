@@ -2,6 +2,309 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-03-19-robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of.md",
+      "title": "Robotic Assistance Devices Receives Order for AVA Security Robot from a Leading Provider of ...",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices Inc. (RAD) has received an order for an AVA autonomous access control device from a subsidiary of one of RAD’s existing authorized dealers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of/article_c015e3d2-131b-5f2e-907b-ba73c827b870.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/robotic-assistance-devices-receives-order-for-ava-security-robot-from-a-leading-provider-of/article_c015e3d2-131b-5f2e-907b-ba73c827b870.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-stepping-up-as-a-machine-learning-developer-my-experience-with-the-google-machine-learning-bootcamp.md",
+      "title": "Stepping up as a Machine Learning Developer —My Experience With the Google Machine Learning Bootcamp",
+      "excerpt": "As a developer, I had developed a certain level of curiosity about machine learning. I had also heard that many former developers were switching their",
+      "sourceUrl": null,
+      "webUrl": "https://developers.googleblog.com/2022/03/GoogleMachineLearningBootcamp.html",
+      "originalUrl": "https://developers.googleblog.com/2022/03/GoogleMachineLearningBootcamp.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwSLoqG4FIYlaJMtUspuFmG4sIpiXaFR_5JoR9AiiFLTmEmSANh7hpEy0zrXpi28Eg07xJ6STKluaTO-Mz1f7E4BjjYa6nXRoKwvZdV0RzoMTDVUro8i5VchDLU1n2qEa9g_qq1xuJGh3kmVgdIAcLK-IfiezD1NZBg4YcHIJDAI-1QpHI9Fov8b_m/w1200-h630-p-k-no-nu/GDG_GDE%20Machine%20Learning%20v1.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "googleblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-ai-and-the-science-of-facial-emotion-recognition.md",
+      "title": "AI and the science of facial emotion recognition",
+      "excerpt": "How AI is Revolutionising Facial Emotion Recognition (FER) From unlocking our phones to accessing personal documents on our computers, facial recognition technology has become a part and parcel in ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/08/Kunal-Kislay-CEO-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-the-science-of-facial-emotion-recognition/",
+      "publishedDateTime": "2022-03-18T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-ai-drug-algorithms-can-be-flipped-to-invent-bioweapons.md",
+      "title": "AI drug algorithms can be flipped to invent bioweapons",
+      "excerpt": "AI algorithms designed to generate therapeutic drugs can be easily repurposed to invent lethal biochemical weapons, a US startup has warned. Experts have sounded alarm bells over the potential for machine-learning systems to be used for good and bad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/18/ai_weapons_learning/",
+      "originalUrl": "https://www.theregister.com/2022/03/18/ai_weapons_learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/18/germs_shutterstock.jpg",
+          "width": 1000,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/18/ai_weapons_learning/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/18/ai_weapons_learning/",
+      "publishedDateTime": "2022-03-18T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
+      "title": "Here's how Americans view facial recognition and driverless cars",
+      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "originalUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/f6fb8c7/2147483647/strip/true/crop/3830x2359+0+257/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2018%2F03%2F29%2F2-copy-9fa3de93ec0c9713951c32b0a5d0b41a53a05646.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "cdnAmpWebUrl": "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
+      "publishedDateTime": "2022-03-18T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLRN",
+        "domain": "wlrn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-slatorcon-remote-makes-a-bullish-case-for-the-language-industry.md",
+      "title": "SlatorCon Remote Makes a Bullish Case for the Language Industry",
+      "excerpt": "SlatorCon Remote March 2022 was the biggest ever. Over 550 delegates tuned in from opposite sides of the globe for Session I: Australia & Asia-Pacific and Session II: Americas & Europe. A third logged on from the Americas,",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/slatorcon-remote-makes-a-bullish-case-for-the-language-industry/",
+      "originalUrl": "https://slator.com/slatorcon-remote-makes-a-bullish-case-for-the-language-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2022/03/SlatorCon-Remote-March-2022-Highlights-from-Localization-Conference.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and.md",
+      "title": "Here's how Americans view facial recognition and...",
+      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
+      "sourceUrl": null,
+      "webUrl": "https://wfuv.org/content/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "originalUrl": "https://wfuv.org/content/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png",
+          "width": 342,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFUV",
+        "domain": "wfuv.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-developing-an-autonomous-robotic-platform-to-improve-the-quality-of-sleep.md",
       "title": "Developing an autonomous robotic platform to improve the quality of sleep",
       "excerpt": "For World Sleep Day, we speak to Alexander Breuss from the Sensory-Motor Systems Lab about their autonomous robotic sleep platform.",
@@ -803,335 +1106,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-companies-are-making-serious-money-with-ai.md",
-      "title": "Companies Are Making Serious Money With AI",
-      "excerpt": "When it comes to artificial intelligence, multiple recent surveys indicate that companies aren’t just planning on spending serious money on AI in 2022 — they are already making good money from the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/companies-making-serious-money-ai-tom-davenport",
-      "originalUrl": "https://www.linkedin.com/pulse/companies-making-serious-money-ai-tom-davenport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE-E1SMvPz1jQ/article-cover_image-shrink_720_1280/0/1647552145978?e=1653523200&v=beta&t=1syRZ1wAiES1Hc-7UFZMAj1BHndlSysj12OGgxPhnMY",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-the-role-of-artificial-intelligence-in-transforming-call-centers.md",
-      "title": "The Role Of Artificial Intelligence In Transforming Call Centers",
-      "excerpt": "A 2020 survey from Interactions LLC discovered that mid-to-high level executives now consider improved customer experience as the most important reason to implement AI. This finding pushes “cost reduc",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-transforming-call-centers-aiqomai",
-      "originalUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-transforming-call-centers-aiqomai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGqd7zWpfE0Hg/article-cover_image-shrink_720_1280/0/1647552201094?e=1653523200&v=beta&t=XG2YDr477P-pZs5ZSfmWGjsZwYl0hefnclq2Q2S_O_E",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics.md",
-      "title": "Chipotle Tests Chippy: An AI Kitchen Assistant From Miso Robotics",
-      "excerpt": "Chipotle Mexican Grill has revealed a new autonomous kitchen assistant that makes tortilla chips. The unit, dubbed Chippy, was developed in collaboration with Miso Robotics, whose Flippy robots have seen deployments in several White Castle restaurants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iotworldtoday.com/2022/03/17/chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics/",
-      "originalUrl": "https://www.iotworldtoday.com/2022/03/17/chipotle-tests-chippy-an-ai-kitchen-assistant-from-miso-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.iotworldtoday.com/files/2022/03/5138.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iotworldtoday",
-        "domain": "iotworldtoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-some-segments-of-the-public-support-facial-recognition-use-by-police-but-not-all.md",
-      "title": "Some segments of the public support facial recognition use by police — but not all",
-      "excerpt": "A new Pew poll finds that a plurality of Americans support facial recognition use among law enforcement, but racial divides exist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/17/some-segments-of-the-public-support-facial-recognition-use-by-police-but-not-all/",
-      "originalUrl": "https://venturebeat.com/2022/03/17/some-segments-of-the-public-support-facial-recognition-use-by-police-but-not-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1195209545.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/17/some-segments-of-the-public-support-facial-recognition-use-by-police-but-not-all/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/17/some-segments-of-the-public-support-facial-recognition-use-by-police-but-not-all/amp/",
-      "publishedDateTime": "2022-03-17T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-tempe-machine-learning-startup-sells-to-new-mexico-cybersecurity-firm.md",
-      "title": "Tempe machine learning startup sells to New Mexico cybersecurity firm",
-      "excerpt": "Cyr3con uses machine learning to analyze digital threats and risk. Aaron Sandeen, CEO of Cyber Security Works, told Business First that the deal closed in January before being announced on March 15. He declined to disclose financial details and said that Tempe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/17/tempe-startup-sells-to-new-mexico-firm.html",
-      "originalUrl": "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/17/tempe-startup-sells-to-new-mexico-firm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-h2oai-ceo-sri-ambati-on-the-democratization-of-ai-and-deep-learning.md",
-      "title": "H2O.ai CEO Sri Ambati on the Democratization of AI and Deep Learning",
-      "excerpt": "I spoke with Sri Ambati, CEO of H2O.ai, about the AI and deep learning sector, and his company’s goal of making AI accessible to a larger audience by offering a low code AI deve",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/news/h2o-ai-ceo-sri-ambati-democratization-of-ai-and-deep-learning/",
-      "originalUrl": "https://www.eweek.com/news/h2o-ai-ceo-sri-ambati-democratization-of-ai-and-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/03/eSPEAKS-thumbnail-5.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-handheld-surgical-robot-can-help-stem-fatal-blood-loss.md",
-      "title": "Handheld surgical robot can help stem fatal blood loss",
-      "excerpt": "After a traumatic accident, there is a small window of time when medical professionals can apply lifesaving treatment to victims with severe internal bleeding. Delivering this type of care is complex,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/handheld-surgical-robo.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-handheld-surgical-robot-stem-fatal.amp",
-      "publishedDateTime": "2022-03-17T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/metafacebook-to-become-next-1b-cloud
 webUrl: "https://za.investing.com/news/metafacebook-to-become-next-1b-cloud-asic-chip-customer-for-broadcom-says-jpmorgan-432SI-2563988"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 493
     isCached: true
+
+related:
+  - title: "Meta set to join Broadcom's $1 billion custom chip customer club - J.P. Morgan"
+    excerpt: "Broadcom's (NASDAQ:AVGO) custom chip wins are speeding up at Facebook parent Meta Platforms (NASDAQ:FB), J.P. Morgan says, predicting that Meta will emerge as Broadcom's next $1 billion-plus cloud ASIC customer."
+    publishedDateTime: 2022-05-31T15:49:00Z
+    webUrl: "https://seekingalpha.com/news/3844034-meta-set-to-join-broadcoms-1-billion-custom-chip-customer-club-jp-morgan"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 35
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1196326339/image_1196326339.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "m0R7j0Ua91/V1F9/7XHvSopPavwPgAAankSwi7Bm+clF780wDUfe6nb3buPKewMdA0uN777MMONG+NROQPFADAYHwsXfphSXDfUiO8MtaOAVJs+l5abwgYLAIsttg5cCvReS5vb/FrR4SnBzm+e+KCz9Rqx8oAwoh4cgMPH1l2knj4bOD4zPDg1Y39PekRdFuRYLeWD4A5udAO9N7ZJsP11mt4vg7Mn54ra+e55sfeOuNHviEIKnaUQETPFIJSHa1YTOZoQwTFBZhgTCALO9eR9XVC8U6UqWOJnZOXPPI19k4Z0epnU0yd6gMWhdx8ltNVCjqvqm8PTDxjPqbigjwrF97Klw1PHGojDx49zAoys=;AFCwXWDtC78A4BU8exGD9A=="
 ---

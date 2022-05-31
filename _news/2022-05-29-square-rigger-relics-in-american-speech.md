@@ -37,6 +37,20 @@ related:
         width: 352
         height: 202
         isCached: true
+  - title: "North American Robot Sales Jump 28% in Q1, Reach Record $646M"
+    excerpt: "As inflation and labor challenges impact businesses, N.A. companies purchased the most robots ever during the first quarter of 2022."
+    publishedDateTime: 2022-05-31T16:29:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/north-american-robot-sales-jump-28-in-q1-reach-record-646m/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 56
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/05/RobotSalesQ122-800.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Robot Sales in North America Continue Record Surge into 2022"
     excerpt: "The event, scheduled for June 6-9 In Detroit, hosts the industry’s leading manufacturers and system integrators in robotics, machine vision, motion control, artificial intelligence and smart automation. About Association for Advancing Automation (A3 ..."
     publishedDateTime: 2022-05-31T15:00:00Z

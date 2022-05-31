@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
 excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
 publishedDateTime: 2022-05-30T10:32:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
 type: article
 quality: 16
 heat: -1
@@ -126,6 +126,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "mSXIMkzjfBdzz2+1XEOBFB0W2MuXRMpBQ22Rqp7TQDNNbi4iVSYcCvg1edCRlqlDuYTn6CXt2J+qMm2UfXSTdZnCPtelDStqUoi24QtNkq9hBUCEmSO6mgIMLXeVQyzzYYsqgSVOWQWDzrQaHcJ50YF9xH9j6NL2y52NzJi/6MPwSUTqHY9Bg9uZY8yhh3tSY8adC03xuXo4wIYdnl3RiGckVbXoqjhZ2HPKgVSAXNiRrcLVN7DxOm23aVHlN1l99RfMfg9NKjxaNI6CdVEc9402NGFMWtLH9bP144NHozZIHep/w+Sz4GSV9uTmaa9pUTj2SynVMy0JgKby6+5CB1HazTHuIoyceiuIB9dHbn4=;ySQ+LVQQO0x02Q1tyeHYrg=="
+secured: "ciYoyzXl2RiYLgM1MheXPjlZCYCP+V2UbPYEX/Qy+F305UKHZ2miZ/nnRgW9yl83qdAQeaWJWDoiWm6BIPmcw3u+GYyPFGgPtv87YvXXqM6MlTxP2RB6PiQ1+PaFxi4xWczJNH1ShJwmo1sV54PKMv+RZYpX1JVNodToQH4tk94cujVx71EK1MKbTn6YAwh7SLdCcCRwRBrtwsxJX7A7aiOsyiwS3/kODT1EPVK6vA//9sytELkbzZrfjKq1viFLfGH4rJ0Nc5PS7duMLRZ+EiIKgg4fD207govyEtG4oDgnHRBjpedGNcg+RPIbt1ssZ3HOnM9wHPwG+hAgt+vHBslgekyylfp1ZZw1wUo6vWc=;Cj6yiy1MWlxX0Lx92MO/Wg=="
 ---
 

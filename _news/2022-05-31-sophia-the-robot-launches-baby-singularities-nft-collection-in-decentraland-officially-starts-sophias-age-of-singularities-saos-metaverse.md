@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Sophia the Robot launches Baby Singularities NFT Collection in Decentraland, officially starts Sophia’s Age of Singularities (SAOS) Metaverse"
-excerpt: "Baby Singularities NFT launch party is at the Jazz Club in Decentraland's VegasCity on May 31st starting at 8 PM UTC/4 PM EST.The NFTs will provide"
-publishedDateTime: 2022-05-31T11:04:00Z
-originalUrl: "https://www.digitaljournal.com/pr/sophia-the-robot-launches-baby-singularities-nft-collection-in-decentraland-officially-starts-sophias-age-of-singularities-saos-metaverse"
-webUrl: "https://www.digitaljournal.com/pr/sophia-the-robot-launches-baby-singularities-nft-collection-in-decentraland-officially-starts-sophias-age-of-singularities-saos-metaverse"
+excerpt: "Baby Singularities NFT launch party is at the Jazz Club in Decentraland’s VegasCity on May 31st starting at 8 PM UTC/4 PM EST. The NFTs will provide collectors access to Sophia’s AI and metaverse for training AI,"
+publishedDateTime: 2022-05-31T11:02:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/science-technology-hong-kong-f06f3dd35479ccdd9f65b4d52703d945"
+webUrl: "https://apnews.com/press-release/accesswire/science-technology-hong-kong-f06f3dd35479ccdd9f65b4d52703d945"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Guns-USA-Mexico-AFP-1K-02-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "lhJLVZCGZvcoqnxia+W2jYTpDlM5gOU+J6J0f9bgpkOyN2JCSMof3j7xtnEKORSh/g5ytDXcwIeFOCMFjgopJpxsyGB1/+52r3y7q0f0uwAosXfbV4F6oN9zydqWSLTA4FlnVnXPSWYGvcNND+8NwNN4iqgNEURtnbWujDcbr6ffjuqMGfeA266SJjo6Jtt2N1LHIVMwoHfYGVp57bbuUsf3JznBYY8QBxx+tZpSOInGssID6rwjqX++8jEtXpz8q4pe9Wdrpm8g3g8jNHBOX7KNQ1P/KYURyDXp8jHp3nH+mS0lt5x4ZPDKx3DraSGXFiFYPS1sPNagfe9U7DF7wZD5o0Yb1BAkiabBkCvL/ToO3VoaO0gNt6txMhQCv96aYf4q57Hl/0O+x6ekCL3Mzi50sfqVJNf2PQrb3/qVJoV66uxZsUE/ERoOjckUn0x/MMydZH2ljb7LdteFt+9vkS7vbrOBzt8TvlCCm06sv9PViXRSadVMIMvzKI4b+dJIAW38kLWPwbwhOZaZq5D4Mg==;nLdvSRYZibyKrVTg4AhfuA=="
+secured: "l4HW2RDGG7kdkcTUeaG390oZtb6DwbV/kziznlBXaPEyzTNrCoHC4BQRw598mnTi6IpuU8ILtUXkQiMIGcrqLTTiZAxhB6pleSfyXYdxNnWDQXhQArJfYdRpbB2jVtHBFvnYOM498vVqErIQsJ0DB8KzP4ophOEWQVMOOX6JFcgNkwh9Sr6hc7RW/3Q3k10RYUVOibQHnjKNQyOfVlkjS6GYlIe+n0rGRRhKf7zcUclXDELYMxpBZCQuM0wWZ5BboJaUb9Ys33ZRltGP3S0O8wNkrnW1zAs019MINYQ+cKTZVpWC0sXOfjvzJwIq3d71tVH5ZjQBkBGX1P/y/D3UX0aUDPOHgkg73Z6qPsHpBDQ=;wV2JMd5pY54H2TUgCYeZGQ=="
 ---
 

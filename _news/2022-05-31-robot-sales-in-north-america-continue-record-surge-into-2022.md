@@ -40,6 +40,20 @@ related:
         width: 352
         height: 202
         isCached: true
+  - title: "North American Robot Sales Jump 28% in Q1, Reach Record $646M"
+    excerpt: "As inflation and labor challenges impact businesses, N.A. companies purchased the most robots ever during the first quarter of 2022."
+    publishedDateTime: 2022-05-31T16:29:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/north-american-robot-sales-jump-28-in-q1-reach-record-646m/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 56
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/05/RobotSalesQ122-800.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Square-Rigger Relics in American Speech"
     excerpt: "The items are all nautical, but, unlike contemporary relics roped in by our American Wings, mine are far from being museum pieces. On the contrary, they are performing active service at the present time."
     publishedDateTime: 2022-05-28T17:32:00Z
