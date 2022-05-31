@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T12:14:00Z
 originalUrl: "https://news.careers360.com/iit-kharagpur-researchers-predict-crystal-properties-through-ai-assisted-machine-learning"
 webUrl: "https://news.careers360.com/iit-kharagpur-researchers-predict-crystal-properties-through-ai-assisted-machine-learning"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Careers360

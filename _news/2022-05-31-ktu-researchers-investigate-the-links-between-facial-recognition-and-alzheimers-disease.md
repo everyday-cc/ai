@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T13:25:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/954269"
 webUrl: "https://www.eurekalert.org/news-releases/954269"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: EurekAlert!

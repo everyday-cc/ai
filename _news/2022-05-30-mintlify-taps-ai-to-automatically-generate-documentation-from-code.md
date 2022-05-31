@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Reply: Automation and Artificial Intelligence Are the Strategic Keys for an Effective Defense Against Growing Threats in the Digital World"
-    excerpt: "the adoption of hyperautomation techniques has demonstrated how artificial intelligence and machine learning represent possible solutions. Furthermore, these technologies will need to be applied at every stage of protection, from software to infrastructure ..."
-    publishedDateTime: 2022-05-30T10:02:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220530005087/reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
-
 secured: "377NJtR7UjOK+EIjmBEyrgFMD22TNfuNihxRKGOVpJCIEzPlvM2nK/M4S1yLdZm4vYg3PokDL6OBa5iz1lcqd2NNLRGvmLu+550hUgHlXzFccrgJU/5f264/Ux291Dit34111/B+J0pZsG73NvlJZ6iSdrFP4JKPn34cY/r7meGT42KV5d8tepcWyw9JfssVQCqJrI7x9YFwFWY+cdEzgs3481MQwC8Gc2WhlsQb3nx0OsMqNAr6ektSUS5UKKEdj0TmNsa7bBLcVqHMrTdpGv9CdOPWbmrzaDuzPjaUc9kDYEgJSCOjEvIH0yoCbPUQ2Xjmj4J3RTlFF54vK3tpOqjdE8AokZdGDFwMApoDk1WkBsSlHavB+FkVb8PDQEyCZsJaMohQwlj0gX8MR7TjSsNZQryvsebYxTo5/l2qKH6MLPIMOnP584CL+JxhrJuzl/ZGGo7VKYcW+4ep3W22vQmzJ686SMmbMJaHQpZG8hTszlcV/DirRmuQt1yMASMFzMssLX5aG9cNvqLf0ralaQ==;wdl8aQx3kv1mGPWwkHSRcA=="
 ---
 

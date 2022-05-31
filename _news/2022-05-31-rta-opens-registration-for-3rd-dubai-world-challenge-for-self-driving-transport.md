@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T13:58:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272571225/rta-opens-registration-for-3rd-dubai-world-challenge-for-self-driving-transport"
 webUrl: "https://www.bignewsnetwork.com/news/272571225/rta-opens-registration-for-3rd-dubai-world-challenge-for-self-driving-transport"
 type: article
+quality: 15
+heat: -1
+published: false
 
 provider:
   name: Big News Network.com
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "RTA launches third Dubai World Challenge for Self-Driving Transport"
+    excerpt: "Over US$2 million prizes up for grabs, submissions will focus on self-driving buses  Dubai: Submission of entries for the 3rd Dubai World Challenge for Self-Driving Transport 2023, is now open, the Roads and Transport Authority (RTA) has announced on Tuesday."
+    publishedDateTime: 2022-05-31T10:17:00Z
+    webUrl: "https://gulfnews.com/uae/transport/rta-launches-third-dubai-world-challenge-for-self-driving-transport-1.88262334"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 19
 
 secured: "OcYInGSLTYtupLi+Ms8WDPG/5FLE/lp4Kog6dwGJ00euxoyYo8tEQiLhl+6erodRl1GtoltUiseydXx6ztGiDxvi78hNC0w/v/ZoFyQVu4lug/05zrEQMZSGf+unYgDxlzdrCsPXuqt71tYmpxWjPrGCDhmW0m7UIWxKxT5t/uYfLQQRQXKkz3ACWvM4Wlis4uHicwDQaGqu76mnYG9AFi2xrhgAJyEW+fxwaSb39LaSq1uS0wJ8/iCwwYxX3KF6AXg5Q2L2UxcvEDXifj1neQLXcGbBJMmK+uKDbelY7oZg4pMFXF3vfL6x2IXObzARa6AKfLADOwfd/JAetzbFNHswwkE+HBAsG6EilGIbrdIZjMYX5W8qlF7cWl0//2ogtoJZJZR1YgRkc1SYU/ttPu4t4fstqq552VdyCNXPJvunCTj3SWg7oeyq4ka9T8SJu0Sd/pozxwB2krmCLL5vjXrPZ55/14U7N+Cbr82SbOlGvoXzfQ5Au75kVGMvJ/HO8tPuKCJXrLM8BVxaw3ocxg==;4zhTRohHAN6Ue3//ynNRzw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T09:36:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa"
 webUrl: "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Associated Press

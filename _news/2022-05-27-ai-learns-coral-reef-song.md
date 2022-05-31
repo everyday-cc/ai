@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence can learn coral reef 'songs' — and hear when they are unhealthy"
-    excerpt: "New research has found that artificial intelligence can be programmed to judge the health of a coral reef simply by listening to a sound recording of the marine environment."
-    publishedDateTime: 2022-05-31T03:00:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy-1.5925424"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2022/5/30/1_5925424.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/5/30/1_5925424.amp.html"
+  - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
+    excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
+    publishedDateTime: 2022-05-31T14:38:00Z
+    webUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 51
+      name: KYMA
+      domain: kyma.com
+    quality: 31
     images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/5/30/1_5925429.png?cache_timestamp=1653966035580"
-        width: 697
-        height: 392
+      - url: "https://kyma.b-cdn.net/2021/02/Screen-Shot-2021-02-05-at-11.13.24-AM-375x225.png"
+        width: 375
+        height: 225
         isCached: true
   - title: "Artificial intelligence learns 'song' of coral reefs"
     excerpt: "According to new research, artificial intelligence (AI) can track the health of coral reefs by learning the \"song of the reef.\" The research has been published in the journal, \"Ecological Indicators\"."

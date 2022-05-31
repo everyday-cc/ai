@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T12:17:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-health-artificial-intelligence-7bc178ab2bb27255598601b684090154"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-artificial-intelligence-7bc178ab2bb27255598601b684090154"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Associated Press

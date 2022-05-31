@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T13:00:00Z
 originalUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0053"
 webUrl: "https://catalyst.nejm.org/doi/full/10.1056/CAT.22.0053"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The New England Journal of Medicine

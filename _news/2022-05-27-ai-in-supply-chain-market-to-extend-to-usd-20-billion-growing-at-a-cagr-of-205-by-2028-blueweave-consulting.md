@@ -50,6 +50,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Ai Machine Learning Market is Going To Boom | GOOGLE, IBM, BAIDU, etc."
+    excerpt: "The global machine learning (ML) market is expected to grow from $21.17 billion in 2022 to $209.91 billion by 2030, at a CAGR of 38.8% in the forecast period. The latest research report on Global Ai Machine Learning Market was conducted across a variety ..."
+    publishedDateTime: 2022-05-31T12:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-machine-learning-market-is-going-to-boom-google-ibm-baidu-etc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
   - title: "AI in Drug Discovery Market Projected to Garner Significant Revenues by 2031 -end"
     excerpt: "Introduction. According to the report, the global AI in drug discovery market was valued at US$ 0.35 Bn in 2020 and is projected to expand at a CAGR o"
     publishedDateTime: 2022-05-30T10:44:00Z
@@ -64,15 +73,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Rezo.AI launches a game changer for Enterprises fueling Sales, Marketing and Support teams to boost revenue growth"
-    excerpt: "Rezo.ai, an AI-powered CX Cloud for enterprises that are transforming customer experience, improving agent productivity, and operationalizing real-time intelligence"
-    publishedDateTime: 2022-05-26T19:42:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/rezoai-launches-a-game-changer-for-enterprises-fueling-sales-marketing-and-support-teams-to-boost-revenue-growth-745032"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 29
   - title: "AI in Social Media Market to Grow at a Stayed CAGR from 2020 to 2027 | COVID-19 Effects"
     excerpt: "Application (Sales & Marketing, Customer Experience Management), Component (Solution, Service), Enterprise Size (Large Enterprise, SME), End-User— Global Forecast till 2027 Social media platforms have been showing sheer growth in the past years due to the rise in the number of internet users due to which a huge amount of unlimited amount of data is gathered every day."
     publishedDateTime: 2022-05-30T10:24:00Z
@@ -87,6 +87,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI In Medical Devices Market Size, Share, Product, Industry Growth, Trend, Analysis By 2029"
+    excerpt: "Research Nester released a report titled “AI in Medical Devices Market : Global Demand Analysis & Opportunity Outlook 2029″  whic"
+    publishedDateTime: 2022-05-31T13:29:00Z
+    webUrl: "https://menafn.com/1104299107/AI-In-Medical-Devices-Market-Size-Share-Product-Industry-Growth-Trend-Analysis-By-2029"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?840484"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence And Machine Learning Market Is Likely to Enjoy Remarkable Growth (2022-2027)"
     excerpt: "Worldwide Artificial Intelligence And Machine Learning Market In-depth Research Report 2022, Forecast to 2027 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support (2022-2027)."
     publishedDateTime: 2022-05-31T09:53:00Z
@@ -99,7 +113,7 @@ related:
   - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2022-05-30T10:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
     type: article
     provider:
       name: Associated Press

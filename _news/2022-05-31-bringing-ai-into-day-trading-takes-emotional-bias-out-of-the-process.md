@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Future of AI in banking will be about leveraging unstructured data"
-    excerpt: "While banks have made significant progress in leveraging AI in risk management and sales and marketing, the applications of AI are widespread across departments, especially in compliance, where financial institutions are struggling to cope with rising global expectations on combatting AML and CFT."
-    publishedDateTime: 2022-05-30T09:09:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/future-of-ai-in-banking-will-be-about-leveraging-unstructured-data-uzba3jti"
+  - title: "Turning AI failure into AI success stories"
+    excerpt: "AI implementations share a number of key characteristics. Rather than simply unleashing the technology first on one goal and then another in a linear fashion, which is the habit for most traditional technology initiatives,"
+    publishedDateTime: 2022-05-31T15:00:00Z
+    webUrl: "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/"
+    ampWebUrl: "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://static.zawya.com/version/c:NmE0ZTA5NDMtM2MwMi00:MzkyYWM3/hoto-jpg.jpg"
-        width: 900
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2014/10/failure-success.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Car Guide, using AI to predict parts failures"
+    excerpt: "Knowing a vehicle’s MOT (UK’s mandated road worthiness test) history including previous failures and areas of focus is key when it comes to buying a new car or servicing one for the first time. With this is mind Car Guide aims to utilise data to uncover any used car’s full MOT history and potential running costs."
+    publishedDateTime: 2022-05-30T14:13:00Z
+    webUrl: "https://www.just-auto.com/interview/car-guide-using-ai-to-predict-parts-failures/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/05/HaloCar.jpg"
+        width: 678
+        height: 495
         isCached: true
 
 secured: "gqF+2zDUaMH7gSmK/EQBn1Oadi/0zoE4AMi/bmMzIam5A0QPQ97zgdyrtXPC8DwUZ2GE4h1IslhsAmfXpWBaGwWzgPgdroOWoBYlu8HN2/UzYCFJnOEouseH7+kCPWSpD8fswEhFRfPT31qYrRBlta6ra+xjMtIm/BneV/uXCdm89eHb5c6w4oCf3CJ2LnzWnlSbE+0/GdwbG1PLKtbiX/XALO3CpogDsjl+mbb73yCixEFhz0p7iIcNw0GGvVNmrzKXQdy0g+vaYRFD0oArNlS7Al6IqDTG95ju9n5Z6HxJYkKb/NZ8c7N8GY/+XxAao0NWlAZXTL2bL6Ab/UiPfg9HgKPpQq4tmHlIhfdnQJS9OXxt5hJ0y6aOW7RpTWzEgqg/116H3PKPctVWRi3nRZoOzumA0GXz4r6ciTAAJ2bnsKvf13yx9E8HBQr0+DHp8AmaUc/TU7dPBZsHt/8jBuiAOBlh5hBLg8e3iDDrcRSj7Zhcx29kMmZViG4Wthi4/W0SbWpb3Pg5pBzKC7uZJA==;wXSWxf2aobTFd1MpaMGc2g=="

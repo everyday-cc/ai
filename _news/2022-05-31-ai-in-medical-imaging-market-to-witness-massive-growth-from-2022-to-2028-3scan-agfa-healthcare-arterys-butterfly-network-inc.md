@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T12:39:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-in-medical-imaging-market-to-witness-massive-growth-from-2022-to-2028-3scan-agfa-healthcare-arterys-butterfly-network-inc"
 webUrl: "https://www.digitaljournal.com/pr/ai-in-medical-imaging-market-to-witness-massive-growth-from-2022-to-2028-3scan-agfa-healthcare-arterys-butterfly-network-inc"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Digital Journal
@@ -14,7 +17,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
-secured: "bN3x2J6Bj6NOhEjYYvR2yn5/LeTNFr0VXyOcyMmP8W5p7Fb8ZoxE9voz+BkukyOcxDtG/YbyAQIkTTZHIhdg+8deNgG90g45lcVvut7/AFJ6smUrKMtrJ/c1vIWG3MEeFhMhATpkOlPXChfBdRXazFy9xQpZLH6NwO/QXe2xYCqfuJYOriBafwBY0F3SoUerZODvCdLkBZ7hFL2l3w0byeDZYqJ3erChIxOYL6oP+ASOdTL370lkKmrfd9NUFu9WVFtBbi7GACQ/2fsCza68TmBPVhO5VEh86FThXlxTzU+URkcFvCxyi17Y+CtwQk1LAYV00g1fkpc/RqzE8mPIqKrOetkyc8FUyL6QpP8sZEU3GS2rgvrOVOO0sIi3HsaKQQJ73IElg/qCbhBDR3RMwNKV0RMW3+m4KEKKMEu07ugfL7A1B8N3L/ALCNig0Y3MJHok4e2ADTuUh5h8nAoMoHUwXUozksPp9efFwpBjfRAb5iVqRE3jzPukHK/38H4ZG/IX6hTtJO+d3BgFB9tP/g==;xk3l6EX4mN3UR0MDqj17wA=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Guns-USA-Mexico-AFP-1K-02-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "Olk7PhopltElUVR+Brh5TWNTPWNP2n2mYeRaN6puvYE6VEsHQb2epjkk/IpNPSwP9Q7nQy1ZTM1WbRPkOeJSFYSFaJX8S4H66L4QKHSOOhoVN0vWaRSVFu+I/a10AmcKos1eHDcw9ctHOB4ZbUIIU9qYRK1VEPayX4A+EcfjpkNzM+/VQdkdqrB4xkmtTOLtKnwLdYL//sKaDymLVMH7zQY/XI+59GECHb9CXdRFJZQtKywETWWHp30xc+JXTP8To3gCZTNEKGUd4Ry+HjC3BfMFRgN0Gna/N9DuyAwnsrDUoYL1rdIEvwrb5DOk5QSoZcvumyS49WB6xwCh8ENvslvq6KgSn/P8PIOC6bE5NBY=;bYrYybXKDBbZgvgDsi++VA=="
 ---
 

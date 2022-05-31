@@ -35,18 +35,13 @@ related:
         isCached: true
   - title: "Linda Burney urges Peter Dutton to back Voice to Parliament, says there is 'no shame' in growing on Indigenous recognition"
     excerpt: "Incoming Labor minister Linda Burney has urged Peter Dutton to end a decade of \"divisive\" politics and back a First Nations Voice to Parliament, saying there is \"no shame\" in growing on Indigenous recognition."
-    publishedDateTime: 2022-05-30T22:00:00Z
-    webUrl: "https://www.theleader.com.au/story/7761607/no-shame-in-growing-burney-urges-dutton-to-back-voice-to-parliament/"
+    publishedDateTime: 2022-05-30T21:30:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7761607/no-shame-in-growing-burney-urges-dutton-to-back-voice-to-parliament/?cs=14264"
     type: article
     provider:
-      name: The Leader
-      domain: theleader.com.au
+      name: The Canberra Times
+      domain: canberratimes.com.au
     quality: 0
-    images:
-      - url: "https://www.theleader.com.au/images/transform/v1/crop/frm/139890989/3b71932f-68fa-4032-a61e-2d780eab7481.jpg/r0_162_5102_2841_w1200_h630_fmax.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "n6QkYbtcdNj+LqZ1V0LpB80IxcUwSL1QS3BTc/mPY1Sqw1k49M8uQwo8k/5QsQkAXEE3RKB4Y/yEkZ8w6/gZHnJ18s3AXK+45GcJGaTmE7U3PyoO62FQXJtF96s+tED+Ktumsitz1ZclRPW185g6f/vGthMpwkExhd+QSyfHRP6OVrvDJIHtyosXN4E6sxTHggm9dmuuo38mD9N2CFVf9/dpQyd8BdDhme403/d8O204GINAHa3R20Y9nuS4M96WVnPJfL8ylzzoTbi18Ptk018L1AcZdnvLCF+pC2p4kMNzo4B32obYd+ELuZKyQm1f1YlE86mBM8SvUTgYYEO+sLzL3B9K36+Huf4oNLaWUnciIQlh1x0a+qwLamiBgJG4zh5yOVpn0m/TmQ3PozPo4y38tY6azf3UqG+Kd0AKV56Q7W0t/jAqhOQlMbAdpkHjG++kwyQTEmQn6XPqySy2VWZ5uXxlCRlmYWyvxVf8dF7s8W7Uw17CObVV6xTaKCSnl0rrwhU8zOOuv15Ip3Yu2A==;NnoA0K+j455jGWIfntyj1w=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T12:00:00Z
 originalUrl: "https://www.genengnews.com/news/autism-affects-visual-system-development-in-pre-symptomatic-infants/"
 webUrl: "https://www.genengnews.com/news/autism-affects-visual-system-development-in-pre-symptomatic-infants/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: GEN

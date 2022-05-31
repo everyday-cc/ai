@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T13:03:00Z
 originalUrl: "https://www.retaildive.com/press-release/20220531-global-footwear-retailer-camper-selects-invent-analytics-for-ai-powered-omn/"
 webUrl: "https://www.retaildive.com/press-release/20220531-global-footwear-retailer-camper-selects-invent-analytics-for-ai-powered-omn/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Retail Dive

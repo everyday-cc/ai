@@ -23,6 +23,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "DDN Accelerates Enterprise Digital Transformation with Powerful AI Reference Architectures and Tight AI Ecosystem Integration"
+    excerpt: "\"We're proud to work closely with DDN to help their customers get better utilization of GPU resources and sped up the time it takes to get AI initiatives to market.\" Optimized for accelerated AI workloads, DDN A 3 I solutions combined with Graphcore's Bow ..."
+    publishedDateTime: 2022-05-31T07:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ddn-accelerates-enterprise-digital-transformation-with-powerful-ai-/2022/05/31/9611248.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
+        width: 283
+        height: 400
+        isCached: true
+
 secured: "1x1uFken2ePInKNqZQOL4MmTp3UTqy0r/x+JaU1L2veFto7EHoJ73M0o3xz8KhgAuCNX+CkXrnu+LBu7EVPlAB0cgoe+GY0hAKdXXU6oJfpOAlPri4moc2EnD5v8tJJs//xXORIFm8WOvBF0mlSo5+IUMd0MlL+9zEfUh9a0XghCyOf2JRNGj/Dug38hgaNNU4KF7NtZQcilaziLj4AmdMhgjyyXiLxJzLfDOxwNspHSOTEe4KYoOq+P8gwtbOprt7ULxaa3qnSIElZMLOJaSBDtq+rrBoYoi46mi+o61RAPxpYAn2esUc9SCllMJcgyuj8k/2aTpZmZam2T4nQn3In4ZirlsyNgXKes2/XqA/M=;b9G/6wtOPz1OPKa7yigAXw=="
 ---
 

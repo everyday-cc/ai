@@ -19,22 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence: A gift for healthcare"
-    excerpt: "From diagnosis to treatment, from prevention to therapeutics, artificial intelligence has made many things possible which had been unachievable before."
-    publishedDateTime: 2022-05-30T03:41:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms"
-    ampWebUrl: "https://m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms"
+  - title: "Ethical issues surrounding research of AI in health care"
+    excerpt: "F. Lisa Murtha, Pralika Jain and Kiyong Song of Moses & Singer LLP discuss the ethical issues that arise in research on artificial intelligence for health care, such as in patient safety, data collection and transparency."
+    publishedDateTime: 2022-05-31T14:06:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/ethical-issues-surrounding-research-ai-health-care-2022-05-31/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 86
     images:
-      - url: "https://static.toiimg.com/thumb/msid-91880419,width-1070,height-580,imgsize-156724,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://www.reuters.com/resizer/4r2un_3tNZyAfhM3Qthi4HKgw34=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YK6G3P7MZFO5DIKCK6L45SGSDM.jpg"
+        width: 728
+        height: 381
         isCached: true
+  - title: "Building Ethical Artificial Intelligence"
+    excerpt: "The software that makes these predictions is often called artificial intelligence. It’s interesting that we call it “intelligence,” because other tasks we assign to computers—computing huge numbers, running complex simulations—are also things that we label as “intelligence” when humans do them."
+    publishedDateTime: 2022-05-28T12:00:00Z
+    webUrl: "https://themarkup.org/newsletter/hello-world/building-ethical-artificial-intelligence"
+    type: article
+    provider:
+      name: themarkup
+      domain: themarkup.org
+    quality: 36
   - title: "Smarter health: How AI is transforming health care"
     excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
     publishedDateTime: 2022-05-27T18:00:00Z

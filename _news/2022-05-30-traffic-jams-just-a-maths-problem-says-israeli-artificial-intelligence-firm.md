@@ -57,15 +57,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Israeli Firm AgroScout Proves The Impact Of AI And Robotics In Agriculture"
-    excerpt: "Israeli firm AgroScout has developed software that uses AI and commercial drones to monitor crops in real-time."
-    publishedDateTime: 2022-05-30T19:11:00Z
-    webUrl: "https://nocamels.com/2022/05/agroscout-ai-robotics-agriculture/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 47
 
 secured: "qp5kgVy8ieRV9zGoAG/ke3Krkz15IYJErMAeVqqltS2iJePjXcbqsvEYUHTSESL3V5Z8oTqM4o+9DYuoJ/7XNUGBdwUMbBC5oSy1t8S+S4r3hLHplzfarrFx3xWdHIQs4wFsQrHoJr+JjRBUDffnYsJYKvu8q3QMt22bnPRiL2NICDVe2eTQifkmAVLH9+CJD2TS6LjTR1t1F8ipweMr6AyU2AZC/PCsJ+SAFNCZNZgSfu7RHzx7SR6A5Tu4tCbEQwjkUTDMI0dY7m8hcdTis1JpT0FtaPAjin1hq7Jq++wBFBtpb+0iSlyBhabJjqJMvenvmm5YPvtVXHwxUoRU4t6740qFLOMZXNYJs9wgyX0=;f+csLBhp8xvAoQpY0ECURg=="
 ---

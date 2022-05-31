@@ -101,6 +101,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Leading Supercomputer Sites Choose Cerebras for AI Acceleration"
+    excerpt: "At ISC 2022, Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, shared news about their man"
+    publishedDateTime: 2022-05-31T15:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-technology-supercomputing-1dcd46a2d30441f2ac8d8dab9f27a64b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "NVIDIA Omniverse is now ready to usher 3D simulation, virtual worlds, and next-gen AI into the next era"
     excerpt: "NVIDIA’s job at COMPUTEX 2022 is not over just yet as the latest video prepared for the forum is all about Team Green’s real-time reference development platform Omniverse and the wave of revolutionary applications it’s going to bring forward."
     publishedDateTime: 2022-05-29T05:14:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-met
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 171
+published: true
 
 provider:
   name: Nasdaq
@@ -22,21 +22,21 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
-    excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-    publishedDateTime: 2022-05-26T22:50:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
+  - title: "How Microsoft plans to improve the low-code landscape"
+    excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
+    publishedDateTime: 2022-05-27T03:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/"
+    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 102
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://regmedia.co.uk/2020/11/16/amdmi100.jpg"
-        width: 894
-        height: 534
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Microsoft’s new execs helping win at Azure, AI, devices"
     excerpt: "Marco Casalaina, Ajith Thekadath and Ashley Hart are just some of the new faces at the tech giant as it invests to accelerate its market position in cloud, artificial intelligence, devices and other areas,"
@@ -51,6 +51,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/20220531071319_crn-14_microsoft_iStock-1191485295.jpg"
         width: 1400
         height: 900
+        isCached: true
+  - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
+    excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
+    publishedDateTime: 2022-05-27T22:38:00Z
+    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 58
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
+        width: 1522
+        height: 857
         isCached: true
   - title: "Microsoft and Meta expand their AI partnership"
     excerpt: "Meta notices how Microsoft keeps expanding its AI services on platforms like Azure. Microsoft and Meta announced the ONNX (Open Neural Network Exchange)"
@@ -79,6 +93,34 @@ related:
       - url: "https://www.crn.com/resources/0273-14ca68934881-e516329f3f1a-1000/microsoft-sign.jpg"
         width: 608
         height: 457
+        isCached: true
+  - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
+    excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"
+    publishedDateTime: 2022-05-30T14:02:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/theorymesh-to-accelerate-burcon-nutrascience-research-and-process-optimization-with-microsoft-data-and-ai-platform/article_f41e8362-6a07-5ea8-9a0c-16ce00e9e9cb.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
+    excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"
+    publishedDateTime: 2022-05-30T17:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=671645"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 32
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "pvrAeiYpIdlxSD0C/NBVXzdT3gQ9oGwkPSOAPdklTSRTGAXXkKQnVUMZe4219jUbteMbYmvtq0tqWNKE5hGTDYpULpqk/FDiJ2q6v/du5Y3+xhcQUGlT1ZaAj0Rlnl7CnRrpfuli9VyVEaq7Zn8CFlSSqDGtCLZaDAr7yplyCjHSb82L/3z52Hqml1UZFkuKsX8CiPv9i/xP5UEF/kJiMcjbPDg757NrmSc7L6oE3V28IeFtzXAfDLsS+2hsduPvcrD8+pzDUM39Ev0HLE8KaziTbUxINbS8Mt8op9Dnw19m6kYxsFnLe9Km0Q+SYZOsfyqCoU3cK1e3S4kaTfb1muQEnHilyd5ITLQ0zDDbP80=;NtDlDj6urcfzvtRWqOwGzQ=="

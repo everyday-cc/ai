@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/top-trends-in-finte
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/top-trends-in-fintech-that-will-change-the-way-we-view-and-interact-with-digital-assets/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "PEXA buys into AI fintech Elula"
-    excerpt: "PEXA Group – Property Exchange Australia – has taken a 25 percent stack in AI-as-a-service company Elula. Founded by two former Commonwealth Bank executives, Josh Shipman (once CBA’s head of automation and robotics operations) and Sarah Russell (a general manager at the bank),"
-    publishedDateTime: 2022-05-26T22:40:00Z
-    webUrl: "https://www.itnews.com.au/news/pexa-buys-into-ai-fintech-elula-580570"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/mortgage_approved_home_loan.jpg"
-        width: 1254
-        height: 836
-        isCached: true
   - title: "27/05 – Weekly Fintech Recap"
     excerpt: "Partnerships Laiye Partners with Accenture to Power Intelligent Automation and Innovation at Scale Laiye, a leading Intelligent Automation (IA) provider, announced a partnership with Accenture, a global professional services company with leading capabilities in digital,"
     publishedDateTime: 2022-05-27T11:14:00Z

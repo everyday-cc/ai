@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T13:10:00Z
 originalUrl: "https://defensesystems.com/ai-analytics/2022/05/how-cultural-artifacts-impede-dods-ability-go-big-ai/367542/"
 webUrl: "https://defensesystems.com/ai-analytics/2022/05/how-cultural-artifacts-impede-dods-ability-go-big-ai/367542/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Defense Systems

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T12:30:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-31-perimeter-medical-imaging-ai-reports-first-quarter-2022-financial-results-and-provides-corporate-update"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-31-perimeter-medical-imaging-ai-reports-first-quarter-2022-financial-results-and-provides-corporate-update"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Daily Herald

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104283518/Thetaray-WinsAML-Solution-Provider-O
 webUrl: "https://menafn.com/1104283518/Thetaray-WinsAML-Solution-Provider-Of-The-Year-Award-At-Dubais-Middle-East-Banking-AI-Analytics-Summit-2022"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Three Ways Companies Can Cope with the AI and Analytics Talent Crunch"
-    excerpt: "With inflation in the United States at a 40-year high and unemployment near a 50-year low, these are tough times to attract and retain employees in just"
-    publishedDateTime: 2022-05-27T03:25:00Z
-    webUrl: "https://www.datanami.com/2022/05/26/three-ways-companies-can-cope-with-the-ai-and-analytics-talent-crunch/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/Great-Resignation_shutterstock_Aleutie-scaled.jpg"
-        width: 2560
-        height: 1710
-        isCached: true
 
 secured: "BL/XGMnM5KS5eX3n96diBi4VHXi4umSuP58fbDKFONSUH5oU/B7+ZPL3B6sd6BltpKg+b5i9D4ng2ebENaJuyySPABorw3PW1aNIWzHpO9nbrvCZ2sQ3n+n9a0n0OP5Ps0zeZjgachmp3Q6lYGSUo/O5Vrqbi143SxE3ovE3Zp1+6/x/0VHsBys12CfDZbRPRh56f1ZDWlHsKW/Gk770LcT4tkbrxi/E9AIBpsoxgtY+aBFvFBceR9QndDKOX9nC9IEkEsp6be7fLI+6BeimXEJ/3z9IlJSewEPIEKmtPzT+r7/ARmhnNWF9sQ8GY4OnlXMaPAxL6cp5wQXicDZtYSFA6p3VVI762WLlXKxeEQHjg2rKj8yG7EISJTIIe6O6O1rrL9plO7cOapqlx0wgW2+vRTWqIQt7i0RdqyP9Z8Zh1rrBg44h0T2/9XpIPYWSLE/i9k03oVRhgRZBR6qzYBz+BLyGt1yTiZbj0dba84JtzZc2WcfIRjpU5UKKKokJWY3kbEuyn9uWpb1vNRVnwA==;7CTnUuTo2fvPRpxZi3Ns6w=="
 ---

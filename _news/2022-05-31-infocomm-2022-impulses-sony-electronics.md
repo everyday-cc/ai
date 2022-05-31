@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T10:00:00Z
 originalUrl: "https://www.avnetwork.com/news/infocomm-2022-impulses-sony-electronics"
 webUrl: "https://www.avnetwork.com/news/infocomm-2022-impulses-sony-electronics"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: AV Network

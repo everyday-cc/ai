@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/27/worlds_smallest_remotecon
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/27/worlds_smallest_remotecontrolled_robots_are/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 480
     height: 322
     isCached: true
-
-related:
-  - title: "Can you feel the world’s smallest remote control robot crawling on you?"
-    excerpt: "Researchers at Northwestern University are definitely not helping prevent the robot apocalypse with their latest invention: The smallest remote-controlled robot in the world. Measuring half a millimeter wide and about 0."
-    publishedDateTime: 2022-05-26T22:58:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/6a3fc82/2147483647/strip/true/crop/800x417+0+91/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4e%2F6c%2F0d2ac2263e5c1b632cb137cfa5d6%2Fblue-robot.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Remote-controlled crab-like robot is the smallest ever, university says"
-    excerpt: "Engineers at Northwestern University in Evanston, Ill., announced they have created what they believe is \"the smallest-ever remote-controlled walking robot.\"   The robot resembles a tiny crab and measures just a half-millimeter wide."
-    publishedDateTime: 2022-05-26T20:43:00Z
-    webUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says"
-    ampWebUrl: "https://www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
-    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp"
-    type: article
-    provider:
-      name: Fox 9
-      domain: fox9.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
 
 secured: "5h8U5V6MIoY1lrnCaztcEJr1cRLiZ0Se24T+N3hXym5IDAh8U6SaHeMsptp9nm2sFmyKiPZn398FDKoQaGubCyDunNyK9J8GQfx7V5Ng+9USd9y6VVWQzGCEmzUThg/6JvpAuS6BUxE/BLiQEemtnCW8InGlWJsakOqml+wcDLnb702UvYZ8imOXiFl6JRYPD0OfV8s+T+yWtQzg/H06UmLllJF/ayGdr8DP2BpUuqSOWETlY09tDcJlydm/kJ75FAE/ch2oyqAA7Bx7nJjfxM5H0WL312HwOcUZqKs8QaEIHA/VDLWtrQ9c99kT0OMK9vlVHvdXsNYzcVjbV4MpEgBNvj0i/OSh7uzPseXwBdM4oKia/t2cd86/KX5ANtyxrvUiFwMPEmBPQqxSXGE+xhIVY33rbS1iIrvQSGOOUv2GfVCb69IBDNhqup6n+l/BY5qlxcEdDpHN+yDNCbiTCMCQzXTkRubQ+YgzzQKVtXkVMTWE61IAWQnmaQc8RFexEv+DbfzcMjiVvODYg2G/0A==;qz+NXXXgKre2fXlCnwKlFg=="
 ---

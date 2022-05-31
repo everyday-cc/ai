@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T13:40:00Z
 originalUrl: "https://www.livemint.com/brand-stories/how-can-artificial-intelligence-shape-the-future-of-photo-editing-11653999813784.html"
 webUrl: "https://www.livemint.com/brand-stories/how-can-artificial-intelligence-shape-the-future-of-photo-editing-11653999813784.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Mint

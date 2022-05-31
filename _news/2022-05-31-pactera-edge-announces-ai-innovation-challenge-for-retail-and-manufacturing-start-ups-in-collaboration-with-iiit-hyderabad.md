@@ -1,19 +1,38 @@
 ---
 category: news
 title: "PACTERA EDGE announces AI Innovation Challenge for Retail and Manufacturing start-ups, in collaboration with IIIT Hyderabad"
-excerpt: "Pactera EDGE, a USA-based AI digital technology services company, today announced the launch of an AI Innovation Challenge in India, in partnership with IIIT Hyderabad- Targetin"
-publishedDateTime: 2022-05-31T12:46:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-pactera-edge-announces-ai-innovation-challenge-retail-manufacturing-/2022/05/31/9611537.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-pactera-edge-announces-ai-innovation-challenge-retail-manufacturing-/2022/05/31/9611537.htm"
+excerpt: "Pactera EDGE, a USA-based AI digital technology services company, today announced the launch of an AI Innovation Challenge in India, in partnership with IIIT Hyderabad - Targeti"
+publishedDateTime: 2022-05-31T13:41:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1257411&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1257411&cat=PR News Wire"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
 
-secured: "lpKENTzI1xQHE9lEqlOv0gbppCn9Nsp+ZjN0D9cGCcZDyjEy8abPc3nx2DTyKJ0IIUEbSfpVwbdKapfKe+hd1SYpYnzJmzY9/92rFoaXBvbz5HPbCQtDmNbc8RnJDl7VwRAS4rVS4KzecdM83hnupH2mAsf1DLd1fsh0GuRiJl29rOfG6/cS+n1jYy8TOBah0/0hZ3ZpukAZ4ucyf8/7efp3AjsFc1vwk89flF9LC+pl6n3w3q46wfU/3ocwCZRp3fsGuCeUsMtmNu+I3gg9s3k+iqc+YT+cWZywjhFONXnLqcptQ7mNhDBnY6SdB2kkPmckx+nr6Coa3WcmCGlsKPzgQ50uBVXOthcwmgfzQ+5NkU3qjVMOlBcWrEM0bRz9LNyMFoSQaX6sStasyZOg8p++gPXq8cgUzcDxiUZ6J1x09Awga8iwJS6Ye2nP8aBX4QGdHi363vKdGloKuWYQ8gcb9Ix8nYm30UDEXmaV1jvJhkX/w7EQHEMaowv7C4OrqhRAPTZ/T8D1VWw99LmTdw==;wKjv8AZGLLmL7/80qWhCZA=="
+related:
+  - title: "Empower manufacturing with AI: Into new era of smart manufacturing with collective wisdom"
+    excerpt: "The two prominent companies also work hands in hands to navigate their services through edge computing, visual recognition, and Artificial Intelligence + Internet of Things (AI + IoT). Synnex Technology International Corporation invited Intel, Microsoft ..."
+    publishedDateTime: 2022-05-27T02:33:00Z
+    webUrl: "https://www.digitimes.com/news/a20220526PR200.html?chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 30
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220526pr200_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+
+secured: "wmevrsoMd4fSlm0MRJoSlkF/inN7y0VZsDSagOewSX4UwHQwLnlf2dJM3GTBh9iTJG7pSuaMJyTcqn/6pS5Mn6s91YLl4L6O1IkEY+KkvNejgfR5nHTLD7MbbbHyeOw3Jyxn/dEaaHlN+eR4BqsylLsrW803rPCBvaPJIiBC9Ox9jSFwQsAFSuO+hloMG4HGD3ULEjHfa0cAdQRHF8iJiHQ9T5PyzZeRbbO2X3tOHyb1UMMOqrh6jJ5Dh1pWNBQ/WOYjHMbuUhqB18grTLsLaHkP2yYAeP1oyhT2V9xy/v/YTFOImfC9hRP0y26XSa0Ki1ruLYrjz2BzcsjLa8VGRFUcuvrwIMeFmM5u4VsShSQ=;j1AYaXlyrp0VWR45oXixlg=="
 ---
 

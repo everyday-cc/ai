@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T13:02:00Z
 originalUrl: "https://www.factmag.com/2022/05/31/haai-baby-were-ascending-video/"
 webUrl: "https://www.factmag.com/2022/05/31/haai-baby-were-ascending-video/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Fact

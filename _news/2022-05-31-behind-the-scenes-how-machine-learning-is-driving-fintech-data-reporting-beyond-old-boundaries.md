@@ -27,6 +27,17 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "Tintra is turning fintech into fully operational bank, eyes licenses in four continents"
+    excerpt: "\"Within the next three months or so we will be engaged with bank licence applications on three continents - something that I'm immensely proud of the team for undertaking - and by next year taking that up to four."
+    publishedDateTime: 2022-05-31T14:05:00Z
+    webUrl: "https://financefeeds.com/tintra-is-turning-fintech-into-fully-operational-bank-eyes-licenses-in-four-continents/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 11
+
 secured: "Lj5uwMcm48V5NDVxvTA0j4YV6ts6x4/qx+FObCsfYd0SwqXIjPGuucq2AvDphQFzLkw49zx6jaXFH6BNrt8FRGV04JC7EGPd+iWd/0U6LgTU+mVHnbFiYO6hdywlh95aRVeJ+kGkVTGzvmkVwYNsoIMSdCoI+0CXkjR9gRXdaaULMG/yRbK9268RnrBYiCLn02utoPJjUypmfqyjm42rne2OieKJ+loUflG7lQJdIGuhyOSsnGMvUNsxxMyX1cqO+PHkJqMNd9pLv0JbamkYJTsMdDX5JhIw10sTxWeYCpue9nmvgJHDdgUDSZCnEBqV2h74G+MjymWNYgiTNAWyMcQAtp4+/Vav8RUSWqAco/Mnab/kDswcAiSgpsh5KkL6HXdOwVD8cGixGzHAZcZm9ClxIY/b8UZwX3tMRUgmnskIt17gIRjMxHBQJ2PqpCMqb998UTLuLjM4Yxf1Hx8RDmjb2GEtZVGmsfXpEKEYjPBrGJA7/ZCh3h/sDLlAQwmpE4a6XrEGPwhvSXnV1Ch8mA==;h5WkT2pgfnx3dhgeOGVEfw=="
 ---
 

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Global ADAS/AD Chip Industry Research Report 2022: SoC Vendors Accelerate the Layout of Autonomous Driving AI Data Training"
-excerpt: "The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100,"
-publishedDateTime: 2022-05-25T11:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9608988.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9608988.htm"
+excerpt: "DUBLIN, May 25, 2022 /PRNewswire/ -- The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100 ..."
+publishedDateTime: 2022-05-25T12:50:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "4G/DBQjRiul1lDNFoPgY2mlswt4A7utEZAr9xP+aWxbudtTdL64iWTwwbXetyCBv4IWC7Cv+yDY2QcU5HiXRmVy4yS9A5VxbkTLQVjxnzdkc6dvG4cO39nxfEWtbcLMy2GBg8AV/w/52LZsN5JTLkcJSOLSvmAh8x6x3S89kNdLVxd+eGPZFgrKNcIf80nuuyzHs9/g5bfzgD4AfaHorCLLqgyVHYNnnAshhFcdCPz7yuOZdbi7hRVm5azBVBcWmo9Je+J0tGMxeXzYVxc5GwS/t8EJe4mKXoH69OLd3c+ACGMTpTWoPQikfOtGGvZE9XZAyxISfnBSpn8K3PReYR6/zxL8S3/CLCxJ7Pcx6u34=;0xRp7BTvz0vAEYVx9DkjKw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "4SnNXNVfGnnsLd/zea3XZ8b/B7/f72u9rVBxzyd0nmZd5oxRFHuzQGXgnzddgzjlAwx2jttNvV++IT7EsM4QLL9C0ngIn7WKgWC1uGXXVsbMh9VabgIr1IyWRVp01UFKmaOqEc3ZVfwPkdVFfrKV0StKiZGgjGZz/TxL0eaktUzZ+22yaH7s5q4qx9BAH/9LPvU1bvjb4xPN2zYX9/ttSnZdpylsTwdCtpVvzS1ALcHrnlLY3wXhrkkjY07kPun6+WzHZBIxL+lvII16KCULHAgFJM8g4FmDBlxH/QKMj9I8IpUrzo21qA+nZXTxBrIoiCGTRhCHStR6QI8rM4Fhob95mDatH49uAUK+RSE4nLA=;5rvTsko65Kxkkz6bFlwS0Q=="
 ---
 

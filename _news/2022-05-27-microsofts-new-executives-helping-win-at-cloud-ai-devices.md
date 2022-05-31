@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
-    excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-    publishedDateTime: 2022-05-26T22:50:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 102
-    images:
-      - url: "https://regmedia.co.uk/2020/11/16/amdmi100.jpg"
-        width: 894
-        height: 534
-        isCached: true
   - title: "Microsoft (MSFT) Azure Selected by Meta to Boost AI Innovation"
     excerpt: "Thus, using Azure will enable Meta with faster distributed AI training. The Meta- Microsoft collaboration ... learning workloads compared with the company’s last-generation chips — AWS Graviton2 processors. While C7g instances offer enhanced ..."
     publishedDateTime: 2022-05-27T15:51:00Z
@@ -52,6 +36,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
+  - title: "How Microsoft plans to improve the low-code landscape"
+    excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
+    publishedDateTime: 2022-05-27T03:20:00Z
+    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/"
+    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Microsoft’s new execs helping win at Azure, AI, devices"
     excerpt: "Marco Casalaina, Ajith Thekadath and Ashley Hart are just some of the new faces at the tech giant as it invests to accelerate its market position in cloud, artificial intelligence, devices and other areas,"
     publishedDateTime: 2022-05-29T19:57:00Z
@@ -66,6 +66,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
+    excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
+    publishedDateTime: 2022-05-27T22:38:00Z
+    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 58
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
+        width: 1522
+        height: 857
+        isCached: true
   - title: "Microsoft and Meta expand their AI partnership"
     excerpt: "Meta notices how Microsoft keeps expanding its AI services on platforms like Azure. Microsoft and Meta announced the ONNX (Open Neural Network Exchange)"
     publishedDateTime: 2022-05-27T13:45:00Z
@@ -79,6 +93,34 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2022/03/ian-haynes-300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
+    excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"
+    publishedDateTime: 2022-05-30T14:02:00Z
+    webUrl: "https://www.kentuckytoday.com/news/business/theorymesh-to-accelerate-burcon-nutrascience-research-and-process-optimization-with-microsoft-data-and-ai-platform/article_f41e8362-6a07-5ea8-9a0c-16ce00e9e9cb.html"
+    type: article
+    provider:
+      name: Kentucky Today
+      domain: kentuckytoday.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
+    excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"
+    publishedDateTime: 2022-05-30T17:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=671645"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 32
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "j0zLkMoZdSQm28c8rVvBiep1UaqcOBkewInyWOq/9UmalCykMff/ZujC8Za2BAPGlqLcP3Raa3TlH14dx0nLhV9WVBMqVgVMU0k2gxRmoD4PROcrWjGung7/8hLorUbAvmdhNf83CBFjaKJL8LeziRd3VhMOSyrRdq7V7WTXRF17ejVXH6CtkBjzYshaZG+QLD/R5dITDCCW9Nn2UWkdwI26ex3yxOtgBWAQjeraEAExXfa89Yvk/Q5N2dBDYQO2Azc/gMkUtdqfyIh4655pfCDNu3tzZB3IPyekFQty4qcA1oKfknYK/pICS4R6HodCaWOlUW0BzokkCfV5ld56FvMexCF4JfsRfky2zvgrZZxa9aO1/Tf6GO16oyocyF9ielT8ihlUCrcQ73x7wANym4O6veWBlfMEGIhFatUL/UCXqVhfsE0gtLCrxxSnGOdCYxYPrzwqW5nazZRN74XR/h+t6/gLvgGHS2yycpgYWuDPl+D8mOGCif2alFEyHsHJXfyzX0kEFNFoU/CtgeOPrQ==;KMJM3Hky3J5NCD8dY/ogQg=="

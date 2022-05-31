@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence can learn coral reef 'songs' — and hear when they are unhealthy"
-excerpt: "New research has found that artificial intelligence can be programmed to judge the health of a coral reef simply by listening to a sound recording of the marine environment."
-publishedDateTime: 2022-05-31T03:00:00Z
-originalUrl: "https://www.ctvnews.ca/sci-tech/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy-1.5925424"
-webUrl: "https://www.ctvnews.ca/sci-tech/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy-1.5925424"
-ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2022/5/30/1_5925424.amp.html"
-cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/5/30/1_5925424.amp.html"
+title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
+excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
+publishedDateTime: 2022-05-31T14:38:00Z
+originalUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
+webUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: CTV News
-  domain: ctvnews.ca
+  name: KYMA
+  domain: kyma.com
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/5/30/1_5925429.png?cache_timestamp=1653966035580"
-    width: 697
-    height: 392
+  - url: "https://kyma.b-cdn.net/2021/02/Screen-Shot-2021-02-05-at-11.13.24-AM-375x225.png"
+    width: 375
+    height: 225
     isCached: true
 
 related:
@@ -53,6 +51,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "Z/VTFuPkM+p8Fx8UqtNQlfhr6edzivYroHV/R5qRldcWzUSlQOT90iHSFmhXIJQe/7bgbJ/FU8Ckh0lshjanTBFzgx5fLSgAFR9f/Dp9YNnIB1sntSp99fLVD0oiBTg1+fk1A6Zs4wy27k3SbzmVYwumHe9Fl82eDC0uXTRv9qdOT8kljWSVM/GZL831baAdB3SR8DDl15ZZc4dxPC3+MEICSFvO1wTChdTT5NuuqNWBrlJYIT5lYyxNB72yPlo7LeOL2Ahj4m/xDAuB5DQnp6HH2/gTbT6KUZyYkag3+guujcGQ3AmX+b7n8bU9crXt+fW3x4rqVIErd+2cMD4eL8YhSse5OgC2NJlN0IgIQPE=;PV22R5iTAY2OF76FGK9zpQ=="
+secured: "lyfH+VX24b6eZK0gpbE14PBgz3shsOQh4XgfBjS0Evqk6rABuEiODQHpMHnMEh2NU8j2ZR3O253uJ0F49SoLd/WTWzPyMWXBHa1x1RQ7bGNmFLxTkDVvyu7mJclpBVtEVbemfMP5qmWgJcl6vukIgnFj9uLLtVl5v1DvT20bUm8zQCuLkoyBW9Ho2YmnOkkAPLMXYIYwPcGP2IO+tBE7uV/nFZab0AfyV+FF0dRrwvS36eGFyqKMeqz4rqR2rjEKffc9AvHgCq+e9BO6TCkWNjttQRhIcOMYGan28NOYkQLixFIzFfC2rMovZDzj4piFnF320KjlUeB/fADSsavPJFZoqt1rSxFWPGYW71+CcfY=;6zRAyBYWhgohf9zF79GPvA=="
 ---
 

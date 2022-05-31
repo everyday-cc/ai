@@ -1,21 +1,55 @@
 ---
 category: news
 title: "Robot Sales in North America Continue Record Surge into 2022"
-excerpt: "North American companies started the year by purchasing the most robots ever in a single quarter, with 11,595 robots sold at a value of $646 million. According to the Association for Advancing Automation,"
-publishedDateTime: 2022-05-31T12:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-robot-sales-north-america-continue-record-surge-into-/2022/05/31/9611477.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-robot-sales-north-america-continue-record-surge-into-/2022/05/31/9611477.htm"
+excerpt: "The event, scheduled for June 6-9 In Detroit, hosts the industry’s leading manufacturers and system integrators in robotics, machine vision, motion control, artificial intelligence and smart automation. About Association for Advancing Automation (A3 ..."
+publishedDateTime: 2022-05-31T15:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=672049"
+webUrl: "https://us.acrofan.com/detail.php?number=672049"
 type: article
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Sales
 
-secured: "Czskzuyf4OQt8Cmw0ZePkaN+uWWkhAVUiuLwgDpp7/xJb8TZOxYOc/2SGRSwWCPYcp9H9GauiELaypS6ks4MUjWWzIJIqmwChqD0WPIbH2d+jhZKyat36O4ty9C2TekiYBHqRSPxMrhI4VqxwNehAWQN1Rc8PfvzbndX6dYx805XSGHGZYaOR48Gb51h3pG6LRktNxBaz89hOjBovM37GMCrO/MtA2PcaqDWCvrFZE4n8vBp1vc1nbj9E7jLhUjuwE8hoDVDzdw4+/njIW7a7t+RD1Fo+NO+3t/KgF8+Ee03qScQGDgxesDdqjI9H8CDjgy8A/+RGg/O02W+l1kqNnIUhLCZWkdwaJVqFbeAJHk=;/RhsoMPf5BYj3Mi7cJk3sw=="
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
+
+related:
+  - title: "A3: robot sales in North America continue record increase into 2022"
+    excerpt: "VP Alex Shikany to discuss latest on how companies solve labor shortages with robotics at Automate June 6 in Detroit"
+    publishedDateTime: 2022-05-31T15:13:00Z
+    webUrl: "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022"
+    type: article
+    provider:
+      name: Logistics Management
+      domain: logisticsmgmt.com
+    quality: 56
+    images:
+      - url: "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2205_F_LMEx_DigitalSC-Main600p_350_200_bor1_b9b3be_s_c1.jpg"
+        width: 352
+        height: 202
+        isCached: true
+  - title: "Square-Rigger Relics in American Speech"
+    excerpt: "The items are all nautical, but, unlike contemporary relics roped in by our American Wings, mine are far from being museum pieces. On the contrary, they are performing active service at the present time."
+    publishedDateTime: 2022-05-28T17:32:00Z
+    webUrl: "https://www.theatlantic.com/magazine/archive/1932/09/square-rigger-relics-in-american-speech/651321/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 34
+
+secured: "K7NDhM1E0jmMD5e7sZ4avmTyQ6VsSbNY4r92sAdEXDYltPpyZaUFDCWymkpveJAWOa63V7opy6+p97X+1yzr5NoAdCsW34ZvpQr2He2uuackOsLU6ZigQwC4KYGeyeJckt6rjIUwYuONSF7BMZRGOWs7nO6sam4ppQVEDWOU6nkqNFdpk+rNpnlmelEXKNyra6yUGS/yQUWkT3h9CvA0pa9Nxd29BFWJ7nO229h64j3VGqQWQbhB9TUgHWRaLU+LK/BMVt8fxuK1NRRyyd6xEiFLWE6C3Qi+A77gObk3JxA/3zETTi33mpcwQuAvQ6Z57/mzEuVUn9SXBZ4vgRZcZouCn0eb7M03zs26Ya9qg1Q=;Mh2yUp5fg4/J6mnDj8a42Q=="
 ---
 
