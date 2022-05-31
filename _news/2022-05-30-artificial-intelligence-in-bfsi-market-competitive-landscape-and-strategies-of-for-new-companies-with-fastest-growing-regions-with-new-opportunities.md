@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-competitive-landscape-and-strategies-of-for-new-companies-with-fastest-growing-regions-with-new-opportunities"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,31 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Top 10 most innovative companies within AI"
+    excerpt: "Technology Magazine takes a look at innovative, pioneering artificial intelligence companies across the globe. First up, we look at those in Europe"
+    publishedDateTime: 2022-05-28T08:00:00Z
+    webUrl: "https://technologymagazine.com/ai-and-machine-learning/top-10-most-innovative-companies-within-ai"
+    type: article
+    provider:
+      name: technologymagazine
+      domain: technologymagazine.com
+    quality: 39
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/bff86804db19bd805277801b23cfc80f:262fb62b88f9207d0f32cbbc1573cb6e/gettyimages-1329183101.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
+  - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
+    excerpt: "In a time when the pace of change is accelerating, the presence of creative excellence for businesses is crucial for success. However, it is easier said than done. Creative excellence with humans alone has its setbacks,"
+    publishedDateTime: 2022-05-26T17:36:00Z
+    webUrl: "https://www.chron.com/business/article/Top-7-Ways-to-Cultivate-Creative-Excellence-with-17200357.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "v7Q3hMqO3euZJAhAZlIZnF0iB7uUvicbYLqFv1BSGUAWzYQFvAxByxJCOTrXcmFZvN8Orp9ZkiK/5NQu34xktOACwHUh6F+rVEpzcEJ1Kxdh5IDJGlZze0hWjOt1FF4qj6febX0OlDDoQszFNYDk4S7T2HgKH3iNhVjhj6m9NHkJ+Pml1v8TC50Z59pre897MepXWQbE6Knx0WXjmrDYPVwV4DcC9EIS1UDWVQqV8vVPQjp0Lsu//a47xDfZa0SmRvJtzFyE3pZPwN9IMT35cCH/9bvGRc14N/r7dku2lUhNZeUYNmqlqR06LbfO4nJFu0yq2Jk5KERd7cAjP/jOxRBAcjiNC023zTC3qYnQKKM=;YCUu5oEJxi+28R3SrYTBKA=="
 ---

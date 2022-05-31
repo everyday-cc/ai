@@ -33,6 +33,20 @@ related:
         width: 1920
         height: 1282
         isCached: true
+  - title: "Israeli Start-Ups Fuel the Contech Revolution"
+    excerpt: "An impressive range of Israeli start-ups has once again stunned the tech market by creating new and innovative ways to use technology in construction. With Israel having a reputation as a “start-up nation,"
+    publishedDateTime: 2022-05-31T07:16:00Z
+    webUrl: "https://blogs.timesofisrael.com/israeli-start-ups-fuel-the-contech-revolution/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 22
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/users/photo-for-toi1648177799-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Robot companions rolling out in New York, targeting older adult well-being"
     excerpt: "A tabletop robot designed specifically for older adults is making its way into the homes of 800 New York residents, including those who live in senior living communities."
     publishedDateTime: 2022-05-27T04:05:00Z

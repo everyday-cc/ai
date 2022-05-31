@@ -82,7 +82,7 @@ related:
   - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2022-05-30T10:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
     type: article
     provider:
       name: Associated Press
@@ -93,15 +93,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Artificial Intelligence In Finance Market to Showcase Dynamic Demand during the Upcoming Years, Forecast Till 2030"
-    excerpt: "The new report on “Artificial Intelligence In Finance Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030”"
-    publishedDateTime: 2022-05-26T13:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-artificial-intelligence-in-finance-market-to-showcase-dynamic-demand-during-the-upcoming-years-forecast-till-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
   - title: "AI in Supply Chain Market to Extend to USD 20 Billion & Growing at a CAGR of 20.5% by 2028 | BlueWeave Consulting"
     excerpt: "New Delhi, May 27, 2022 (GLOBE NEWSWIRE) -- The growth of global AI in the supply chain market is aided by the rising attention of artificial intelligence, large statistics & analytics, and the widening implementation of computer vision in each autonomous ..."
     publishedDateTime: 2022-05-27T15:08:00Z

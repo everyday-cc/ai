@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-05-26/dmv-t
 cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-05-26/dmv-tesla-year-long-slow-walk?_amp=true"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: San Diego Union-Tribune
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is California Still Investigating Tesla’s Self-Driving Claims?"
-    excerpt: "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ..."
-    publishedDateTime: 2022-05-26T14:53:00Z
-    webUrl: "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims"
-    ampWebUrl: "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/dac6b4f/2147483647/strip/true/crop/1169x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F10%2F047551f6e89d9c93c1029ed26dce%2Fshutterstock-369110243.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "California DMV suspends another Pony.ai test permit"
-    excerpt: "Pony.ai had its permit to test its autonomous vehicle technology with a driver revoked due to the DMV's concerns about its safety drivers."
-    publishedDateTime: 2022-05-26T18:25:00Z
-    webUrl: "https://www.therobotreport.com/california-dmv-suspends-another-pony-ai-test-permit/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 67
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-ponyai.jpg"
-        width: 770
-        height: 500
-        isCached: true
   - title: "DMV Remains Mum on Safety Probe of Self-Driving Teslas"
     excerpt: "The investigation by the California Department of Motor Vehicles into safety issues is headed into its sixth month with no end in sight."
     publishedDateTime: 2022-05-27T22:34:00Z
@@ -68,38 +38,6 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 54
-  - title: "Ford still focused on self-driving cars as electric cars take off"
-    excerpt: "Ford is rolling out Blue Cruise, its self-driving functionality, and we took a test drive in the Expedition Platinum."
-    publishedDateTime: 2022-05-26T21:29:00Z
-    webUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off"
-    ampWebUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
-    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
-    type: article
-    provider:
-      name: WJBK
-      domain: fox2detroit.com
-    quality: 44
-    images:
-      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/05/932/470/ford-Expedition-platinum.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Self-Driving Car Startup Loses License in California"
-    excerpt: "But even so, the push to bring more self-driving cars to the roads has continued its march forward. There are currently around 1,400 self-driving cars, trucks, and other vehicles"
-    publishedDateTime: 2022-05-26T21:36:00Z
-    webUrl: "https://www.thestreet.com/lifestyle/self-driving-car-startup-loses-california-license"
-    ampWebUrl: "https://www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg5NzU3MjA2MzgyNTE5OTk2/pony-ai2.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "The California Department of Motor Vehicles said it would investigate Tesla over self-driving claims. Then, crickets"
     excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the US$12,000 (RM52,548) software package that supposedly enables a Tesla car to drive itself through city and neighbourhood streets."
     publishedDateTime: 2022-05-30T02:43:00Z

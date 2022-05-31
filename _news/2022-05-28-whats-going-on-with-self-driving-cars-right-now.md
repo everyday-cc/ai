@@ -27,40 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "The big new idea for making self-driving cars that can go anywhere"
-    excerpt: "The mainstream approach to driverless cars is slow and difficult. These startups think going all-in on AI will get there faster."
-    publishedDateTime: 2022-05-27T12:05:00Z
-    webUrl: "https://www.technologyreview.com/2022/05/27/1052826/ai-reinforcement-learning-self-driving-cars-autonomous-vehicles-wayve-waabi-cruise/"
-    ampWebUrl: "https://www.technologyreview.com/2022/05/27/1052826/ai-reinforcement-learning-self-driving-cars-autonomous-vehicles-wayve-waabi-cruise/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/27/1052826/ai-reinforcement-learning-self-driving-cars-autonomous-vehicles-wayve-waabi-cruise/amp/"
+  - title: "Ford still focused on self-driving cars as electric cars take off"
+    excerpt: "Ford is rolling out Blue Cruise, its self-driving functionality, and we took a test drive in the Expedition Platinum."
+    publishedDateTime: 2022-05-26T21:29:00Z
+    webUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off"
+    ampWebUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: WJBK
+      domain: fox2detroit.com
     quality: 44
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/image1-SAfinal.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/05/932/470/ford-Expedition-platinum.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
-  - title: "Why self-driving car pioneers are backing an Aussie start-up"
-    excerpt: "Strong Compute, which allows AI developers to train their algorithms faster, has raised $11m from VCs and heavy hitters in the self-driving car space."
-    publishedDateTime: 2022-05-30T19:00:00Z
-    webUrl: "https://www.afr.com/technology/why-self-driving-car-pioneers-are-backing-an-aussie-start-up-20220526-p5aos5"
+  - title: "Interior Ministry and SDAIA organize workshop on \"Self-Driving Cars in Saudi Arabia: Between Reality and Hope\""
+    excerpt: "The workshop reviewed the current situation and the international experiences applied in self-driving (Autonomous) cars, and discussed their use in the Kingdom"
+    publishedDateTime: 2022-05-27T05:36:00Z
+    webUrl: "https://www.zawya.com/en/life/interior-ministry-and-sdaia-organize-workshop-on-self-driving-cars-in-saudi-arabia-between-reality-and-hope-kcd5vq3j"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 4
-  - title: "Regulations for insuring self-driving cars required sooner rather than later, lawyers say"
-    excerpt: "Canada will need to address potential disruption that automated vehicles may cause from an insurance perspective, lawyers caution."
-    publishedDateTime: 2022-05-27T19:06:00Z
-    webUrl: "https://www.canadianunderwriter.ca/insurance/regulations-for-insuring-self-driving-cars-required-sooner-rather-than-later-lawyers-say-1004221744/"
-    type: article
-    provider:
-      name: Canadian Underwriter
-      domain: canadianunderwriter.ca
-    quality: 0
+      name: Zawya
+      domain: zawya.com
+    quality: 19
+    images:
+      - url: "https://static.zawya.com/version/c:MTZmNjVkZWQtZTdkMS00:OTYyMDVl/autos-selfdriving-canada.jpg"
+        width: 800
+        height: 544
+        isCached: true
 
 secured: "AzBJID7Xd2ncz/i2zJ06UeILsHjevbwtecUuMT1zDhC2fJZ4IRld9BV+E2GRmjgHs5XSCK20KLv/XuAcM6TP72T5WjxoES65/wxFh8sasD3H6fZzeIjdnJWA9S/cTedMr4HqBctcH8VHTJnPuwyhRGubUXpxsDvHvm9S6SsYpghOmyZv7KLPiFkQTE39wKL+IekWUXUz7AKzNzopSqKRHV+XLwG92H9sOb8pQXg89a/ULncDegFbNmpkFbsx8tzfbHERTIAqIHOlE3byiOmxaT6afbOztSRFx6udEjERzVBgIA4yygoOtHJa5goYUBArutrOaV7lXjIjK8tQPoePqHBr9eFeCUTyXHFTBNkvj6s1+Q6AMz0lj09WqiIPciPMbPpC3lDwismgS6lXxg2SbGsFYojSXOQvoopTlmts0Jx4TyOVVZGzkqACsNisWStyxfEWGs+B/bAiDVeFOhlriVhS/pwRhBv4z7PRz/XG80N+FZl6H6giVQcybryF+0f7DKPSs96XV7zItQq1bzTELw==;5bKcIVj80bceiAR0Nr3NYw=="
 ---

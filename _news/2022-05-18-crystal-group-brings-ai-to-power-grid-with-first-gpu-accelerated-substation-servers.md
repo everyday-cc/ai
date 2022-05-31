@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Crystal Group Brings AI to Power Grid With First GPU-Accelerated Substation Servers"
-excerpt: "(Photo: Business Wire) Combining Crystal Group’s hyperconverged, virtualization-enabled substation servers with the NVIDIA RTX™ A5000 GPU introduces a new array of AI capabilities across a ..."
-publishedDateTime: 2022-05-18T15:41:00Z
-originalUrl: "https://www.thedailytimes.com/business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_47e9cb22-976d-5fa0-8c86-3c2cc71798b0.html"
-webUrl: "https://www.thedailytimes.com/business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_47e9cb22-976d-5fa0-8c86-3c2cc71798b0.html"
+excerpt: "Crystal Group, Inc., a leading designer and manufacturer of rugged computer and electronic hardware, announced today its release of the first GPU-accelerated substation servers designed to bring cutting-edge artificial intelligence (AI) capabilities to the utilities market."
+publishedDateTime: 2022-05-18T15:23:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_45ac9083-858d-54bf-9e4f-ca5821df2d24.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_45ac9083-858d-54bf-9e4f-ca5821df2d24.html"
 type: article
 
 provider:
-  name: thedailytimes
-  domain: thedailytimes.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "09mRI0M5cWGjYIU5Kwnqn60k9aC+iTmtJM3aLvm0+1wVY93B63DmvlmZstlN+E/pPf0peDhSySy0recrGTL52Fo/+dbcb3Gk2m1SdZ0BqEDvrw82HeJa52QNVz9kve6ap/l6wGh0Njjhn3diIpYjN4qZVGkOAxVB1eKylIw9Xd/ueLDTMWP84lMS5b4Q+tqxai6itVaPbuLVhWAyPtg5X/KaGcUtP5VsIBFV55lFInJw/MWhI6quJPIou8V5O337/2ujyA4jk4iG57CYQo2SQI1XRGsejGT2aT5T7BTl6eWyuI2n4W93Wr0Fhl9V2VBI0WmpzXBUn2hVQugRMs1iuullsUs2daOQb/6GiBdvXa8=;jRGqmetawTZ/vcKPvPHvWw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/30/7307806f-c297-5491-a21c-e18142c2b049/628511e470dc7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "sXofkJsIsuYscVSmelmOk1w+SHORPpmzWU+k5kXpj7h/sO1MJXCX3AO523qpexPxMXmDh300XzX/iONgXSg8l8ybpqKI3w9wlnmyCa/5ZVUr6kMbl4e8extwLcv3zwoVbFpNzLtj93jxry+4/K4fZ3r7fgJqnLYJ2XUpBygFA9ZXTXz5xu2NfvxNm81u4thlRDxwBTW8utXMBPMuRc/iAKsed2Bz6dhzxLcWWr34MMHmXB05skR7w/fkxFo3ev/ZDbmcGMa4YT76o8uRtmnGNs/M7/urWLPElRbHdzegH3DS4N9MYRJgY6USV3xmBpgW0KrXR5tzJ2N0ya2KuMEMJSW1xwlunqBPNzVXcbnVkQA=;vLc22G191kCIip/kM4wl7g=="
 ---
 

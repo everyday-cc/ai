@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Israeli Start-Ups Fuel the Contech Revolution"
+    excerpt: "An impressive range of Israeli start-ups has once again stunned the tech market by creating new and innovative ways to use technology in construction. With Israel having a reputation as a “start-up nation,"
+    publishedDateTime: 2022-05-31T07:16:00Z
+    webUrl: "https://blogs.timesofisrael.com/israeli-start-ups-fuel-the-contech-revolution/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 22
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/users/photo-for-toi1648177799-400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "New York to battle senior loneliness with robot companions"
     excerpt: "The state’s Office of Aging plans to distribute Intuition Robotics’ ElliQ voice-activated companions to prompt connections and wellness checks."
     publishedDateTime: 2022-05-27T19:00:00Z

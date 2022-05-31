@@ -90,15 +90,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 51
-  - title: "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure"
-    excerpt: "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators ? SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,"
-    publishedDateTime: 2022-05-26T13:10:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/05/26/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 46
 
 secured: "MIaCF0Bm94fAFpGoiY6KirlbDU5Tr/1AyCnN7n4FayL/DhOX/zxa01z0GTkPfOH4i5FPd5SfHRcnZuwEyVD3rw823BrbT0XrkrjHKwuypmUbRj2gLYUBa3U+5aZSUwRMD7uyqUItoQxDjWzPcm/XCXgxry43VLj12Mx0wTfktdu0XEDtVJrJfQYtnKTDBN7Lkx4sVg/2FkSmc+roxP27Z2vJ7XobWxXca1LFkX2Ocza89WoGSYPEkR9fSlG9gZsqN0/lYERg0gI9dRpD6WDmGet2OsE3wEIu7dQYJpaZI8kMJgS9nGFZzELpcd5lEHDPb3zakW1dLldP915ueOYZ7ISGbf3Cjg2HuCwyZTYaY0GZtqptXReejTdiZYROcqiXcYhHw4zqEb1qvvzPO7g+TCfIV+/C7BQOgQHntPZ/ljwPYXVnB5AjNj+d2W+ADhSNS6cpgiHG7OqmAkUj1aGu6mYK8UteuTb4shsb2/RcvE6yGSf+iZy5mc8BVRd08wL+t4JL6H89wKy3rONiqJZ1sg==;2feQmid3t50vasgsE9p/CA=="
 ---

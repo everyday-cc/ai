@@ -35,22 +35,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "What’s going on with self-driving cars right now?"
-    excerpt: "One self-driving car company has experienced a setback, but others keep charging ahead. Here's what the major players are up to right now."
-    publishedDateTime: 2022-05-28T14:00:00Z
-    webUrl: "https://www.popsci.com/technology/self-driving-car-companies-status/"
-    ampWebUrl: "https://www.popsci.com/technology/self-driving-car-companies-status/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-car-companies-status/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
-    images:
-      - url: "https://www.popsci.com/uploads/2022/05/27/Pony.ai_next-generation_autonomous_driving_system_equipped_on_Toyota_Sienna_Autono-MaaS_S-AM_platform_-_1.jpg?auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Why self-driving car pioneers are backing an Aussie start-up"
     excerpt: "Strong Compute, which allows AI developers to train their algorithms faster, has raised $11m from VCs and heavy hitters in the self-driving car space."
     publishedDateTime: 2022-05-30T19:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202205/1266770.shtml"
 webUrl: "https://www.globaltimes.cn/page/202205/1266770.shtml"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 480
     isCached: true
+
+related:
+  - title: "Blinken’s China Policy Speech"
+    excerpt: "The U.S. secretary of state restated and reinforced the Biden administration’s approach, proposing an “invest, align, compete” strategy for success over China. The speech revealed significant clues about the features of America’s basic strategic game ahead."
+    publishedDateTime: 2022-05-31T06:08:00Z
+    webUrl: "https://www.chinausfocus.com/foreign-policy/blinkens-china-policy-speech"
+    type: article
+    provider:
+      name: China-US Focus
+      domain: chinausfocus.com
+    quality: 24
+    images:
+      - url: "https://www.chinausfocus.com/static/focus-web-icon.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "kBsAkSQjCxrYj6Xidd31en92LWv1kNBfwTdcHS0+YIzxDu/y965POZ2jRrE4OcSJsi/n68inTBN+Q+K6P78HVtJxxyQNYc2//tMGE0WelAbaFlmaNOyMJTj4SdTFMJ1gzwEqdej2qfx1woYpMaOwujnfdM16WKcU5IzdtVk4DywLRr4oh/T0QS7JBRyk3TBuFsr0fqu//a/BPR7D9B/ZvTJJNY236C9FfThjEBmUm30uFAS+fb33q1MawoTz8Y90yq3gPexR4ZHmpM552BdTWSiZi+VVp9lTVfir12+fSHvH/sYl/dbGEJ1camtoxZkCGvu45EqpL62Ml4Jym70XeaNZbBXX/KeSC+UAJAqAtAW9S0pm0pXzfTWOJ8nL2IdsLtSQnAqK+6T5o0KrPf7m/q8AUJ8AzTQNio8ABW9FQyIuNq9LQUojhuVGwAem3P+oatEZ+8uVmCKFLfLSMw5YK9yHFJoqNXhVuR3IA31iAsaA1UWDJpJomegRkBMCuhw62zC1gGg3M2ph1OodzWMRQA==;6v/Pw0zRDv2CbZTqWiVVwg=="
 ---

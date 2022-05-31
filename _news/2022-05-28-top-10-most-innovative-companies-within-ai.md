@@ -7,7 +7,7 @@ originalUrl: "https://technologymagazine.com/ai-and-machine-learning/top-10-most
 webUrl: "https://technologymagazine.com/ai-and-machine-learning/top-10-most-innovative-companies-within-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
-    excerpt: "Today's world of work is moving fast, and the most successful leaders have a laser focus on the future, one in which change is constant and inevitable. And as technology and automation continue to transform the way we work,"
-    publishedDateTime: 2022-05-26T13:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/426406"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1652821115-GettyImages-454204749.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
     excerpt: "In a time when the pace of change is accelerating, the presence of creative excellence for businesses is crucial for success. However, it is easier said than done. Creative excellence with humans alone has its setbacks,"
     publishedDateTime: 2022-05-26T17:36:00Z
     webUrl: "https://www.chron.com/business/article/Top-7-Ways-to-Cultivate-Creative-Excellence-with-17200357.php"
@@ -48,6 +34,20 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 17
+  - title: "Artificial Intelligence in BFSI Market Competitive Landscape and Strategies of for New Companies with Fastest Growing Regions with new Opportunities"
+    excerpt: "The global Artificial Intelligence in BFSI market size is expected to growth from USUSD 2570.4 million in 2020 to USUSD 8321.6 million by 2027; it is"
+    publishedDateTime: 2022-05-30T06:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-competitive-landscape-and-strategies-of-for-new-companies-with-fastest-growing-regions-with-new-opportunities"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "m4ym3wjjN3EpdBt7/LYgGXfvp5DfrWpajQEW5PTDIiMYha6mRdeKEJ60t6B4OJSnz3BGHesjNAi1YmvkkMEHbh8RIWYxBGra/Aj1wBuR+xW2OINNpPhbIdt1NpQJHKX5NdLV5OGEH+IrCVxuChBjAB2AVV4kQIvWHt3kHkDPIYy4ggWYAOaAF7FBscU7TD1W50/DQyIJVz6UBZytpmZd63xT/grFJOGTfoWOI6PaT2PCrCmDCQbtxy15kfongUIpol+BGcTz/bsddxihd3Z1MV10txwXrFHrEoo7BqCuLyv0cFRQQzucO9lMCbFn3pJCoEosQSwCct3Fe6Zt934FxG7pG8+2lq5ugyA0m+qnNDJv66zZ1kahaNZTfKfSpmdfEnE+5jrDg/bQaA4PmooiZM4dciObYAMgNY2neSr9qsv2NY86Q5yjKJUR6dX3Y36d0exo2xRVwccLByNQxjIiv9ReBRFqEz2YiiHtpmiNZBmFYhp5u1snK7sQznI609q0TKdyk50eJL3cU9TlMgFtlw==;u5H+9QXmT+ikWmSCK6EznQ=="
 ---

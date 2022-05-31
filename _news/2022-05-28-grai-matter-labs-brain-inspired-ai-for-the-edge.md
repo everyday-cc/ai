@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/"
 type: article
 quality: 91
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 720
     height: 405
     isCached: true
-
-related:
-  - title: "She was the Art in Artificial Intelligence"
-    excerpt: "He created an artificial intelligence helper named ‘Marinette’ also known by his computer as ‘(Mar-AI)’. Where upon realising that Damian doesn't love Marinette and never had, she just starts to become more static."
-    publishedDateTime: 2022-05-26T13:04:00Z
-    webUrl: "https://archiveofourown.org/works/39235794"
-    type: article
-    provider:
-      name: Archive of Our Own
-      domain: archiveofourown.org
-    quality: 17
 
 secured: "ZH+DAZ5cZpvweLOOjV4oHuTO2Ue40uqRm90J9ThWgxvypj/x1ceD6nnpIWOppDtFNlGzSxxxEPJSFpIVq1oEtHla3dyXkM7lwtcBF2TDweD1jNe2wpZ8bMxUF+QPQiObcrH5qvKdzoNlVPvaTX+M3PNjEVSMt6rDsRK0kZZ+PV19Q9Vm2hpF7qBWn74C/JKYgCDaYhQgRb6Nz438ulKjNbcXLrGbKMpBzpFXE1K7qdpR5sMYfEjdJxF4ca/n+bPLR78PgGnIhCbKJNAwufHqDEPU3Fp/OKSP9XyKuv0BKrPifoiyqb50bR+xLuWvKrSC4RizRFiF7YZJeiSZV1gdcjNKV82gkMRINfgv/oeODW+RYQ55rSLBzc4Sz22xIXuFWt3rUmALlCldnPRymZYH9sUa5+SFBhNkK/WOj07wsfUqnGjszwWkQqB1e/gWjX2HT3W6nSaRzCsTXkOUM2ywVw+iNPXKUhxMhgp9LvG00wl+sR26lTrGz4IRbS49swDCazs8FUnRfRHoxr7EpU1Jog==;MJEby20qahXToTunW/Gj8Q=="
 ---

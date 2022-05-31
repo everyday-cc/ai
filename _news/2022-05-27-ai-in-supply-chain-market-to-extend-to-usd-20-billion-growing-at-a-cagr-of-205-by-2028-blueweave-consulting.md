@@ -90,7 +90,7 @@ related:
   - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2022-05-30T10:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
     type: article
     provider:
       name: Associated Press
@@ -101,15 +101,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Artificial Intelligence In Finance Market to Showcase Dynamic Demand during the Upcoming Years, Forecast Till 2030"
-    excerpt: "The new report on “Artificial Intelligence In Finance Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030”"
-    publishedDateTime: 2022-05-26T13:32:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-artificial-intelligence-in-finance-market-to-showcase-dynamic-demand-during-the-upcoming-years-forecast-till-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
 
 secured: "/9Vg2Mr+WM1MxFFU0uKgIIyFdV2dgFY4YvYFsuNzfgD8HenZq8hIEQVx+hxmQCokLejLBV0szWOYAWNDmcq10O6oFHvcF60jr+9QHqHujkGvEUEnyrhn2d+RzEDmN2+ZM6KSQZNOx0FtZ3mYoCOUHDbZ/zT85Ss5mmhZ7tSLt1gDSBPPMKwM8yinBeLDIY+XvZRwImQ9n4btB5QkkfEK5c1SqNPmNASHJKfGc166+1j7rap46Dee0wxDgSmqwxMhD3QYJO5wQ+W9W8rizQY+2uGwUfFNx4lfemR6c5Niy9wfBe78Y03Aqg/s9C9AK1Q0tQJMZJLtwIC6QnfV8MZ6b11EmZhxCzFL4aSwvKdMt0UI2Cj+5cCe01ACTucuwgIwvu23Mdg78fU+1ghYSr7uu2e1VfyZm65U+9FRNqjeCE9+Xtktok6m5h8HQWKXqHlEuVfkr4cW5p9aL4wDGLN966vZQCAMayWqYD3Luw1NxwthFg1jxKDJlUgGts9Hbzr/yK8pZoQmRh8daEQCu239yw==;MPD5MRMveaewe8rMuEcBrw=="
 ---

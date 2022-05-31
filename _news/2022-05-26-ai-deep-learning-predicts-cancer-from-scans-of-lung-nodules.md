@@ -8,9 +8,6 @@ webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-de
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
 type: article
-quality: 74
-heat: 84
-published: true
 
 provider:
   name: Psychology Today
@@ -26,22 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "AI-Based Tool Helps Physicians To Predict Cancer Risk of Lung Nodules"
-    excerpt: "According to a study, an artificial intelligence tool can help doctors predict the cancer risk in lung nodules seen on CT."
-    publishedDateTime: 2022-05-26T07:41:00Z
-    webUrl: "https://www.technologynetworks.com/cancer-research/news/ai-based-tool-helps-physicians-to-predict-cancer-risk-of-lung-nodules-361970"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 37
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/361970/ai-based-tool-helps-physicians-to-predict-cancer-risk-of-lung-nodules-361970-640x360.jpg?cb=20220526"
-        width: 640
-        height: 360
-        isCached: true
-
-secured: "mC6uLCDJV9sDUXez1ohSa/thJmMg0Xee26Sqjl+I5JK1/roLaXUTLDSNCLxsFfCLZtThCkvSayISgDtU8OpB+8qOJcvnCyKdxvkkwY1EHpCOmNP8hzw6oDiQYoKVI2xUlZCNtWKkDk4zhQQLIf+YonTpXofNviDxwiMeI9FfhUHUULxU8mct1pUsn4DVThhRqpjqpnDOtT+n/raztXHRTGtY0+fLu4Vcp0lVLWG4WxgvoqxqkREUpNvuECOOHw41+1VNbfvVlZyafcMJnxfsdtauTYLo7jjAM03a+C41/zJFrXZXdkMUM8R8xt2kG2f+voHU021ZixXNmG0g38v07l5U7b8Ax+oTtxY9lndCF3E=;UoVLMcvMjOLS2sCko8Q1Cw=="
+secured: "J/yMAVXPpk5MQZHVD8GetUOtZBy36KBSB0YMHqhyIdYmb0aomUq44qA8PWO1/K5qN3RgFsbaUcerpdSmiaKIQ1bVslmfahNbN4D8drUZYrQkI1NMp3sMKLaPaIF6RAyvWMkzfe8IQy0v1QGKu/Gpt+WzMaZv14t9jQ4k/8OVpMWVn9/AyWM4LR/uHEGAeA8YTHhMVI6B1HTIOSO1lTxo29wR36L4tx9qT4hDx7zyIY0eWlZVn/mhc8b/KWD1tfEPfPtYXz8tpgac9sGgHJowXS8crbNT32cgVGNviBj9AuAWTW3JI+1SCM6GfVSc6KznT1wiz45wmE6tz2Alq/JHJQI8eeERW5An5ZdXl/8axk4=;2wsmMcarIp8PAZUzHB5x2w=="
 ---
 

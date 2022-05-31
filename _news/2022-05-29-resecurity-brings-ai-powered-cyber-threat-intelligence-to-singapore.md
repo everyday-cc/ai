@@ -29,15 +29,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "Singapore, Japan ink agreements on promoting start-ups, digital transformation for governments"
-    excerpt: "SINGAPORE: Singapore and Japan have inked two agreements on promoting the flow of entrepreneurship between both countries and enhancing their governments’ digital transformations.  The signing of the"
-    publishedDateTime: 2022-05-26T13:24:00Z
-    webUrl: "https://www.channelnewsasia.com/singapore/singapore-japan-ink-agreements-promoting-start-ups-digital-transformation-governments-2709716"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 0
 
 secured: "cpxUP9eKM+8+45TxUdNzKoJvX4HZtykMd8XlSQlPBQekhXd3ACBa2zyAq+XUvdghCVB5alguZRoyCjBcv14n1cvMKftjUbFRj635zMCgHfMRqmOxrfgy4IXAek7ACpWwXN4cSxv3HyUi85JEaiJ5acJ9n/XnDFTPzRffsE4xTf0Dpmwpsn0PzXMQgu38ZYpbgw4xmUq5yex6cmRS7TJs2MxifZJAKkIT57S4YJcTNkqxFbBsddl1ujkQKosAdSUxxANDwHREgZhJlCAZrwa4etqt72WZO8cKeNpuskQH2uv4pXG8H8VLOjim+wPdv0w8LsyKScLhL/Ca+GqOUC0/kwZkJa/DnuD/CVV2pui1x24=;yzg6/55SpdXGxvkg4o9a9Q=="
 ---

@@ -23,6 +23,22 @@ images:
     height: 330
     isCached: true
 
+related:
+  - title: "DDN Accelerates Enterprise Digital Transformation with Powerful AI Reference Architectures and Tight AI Ecosystem Integration"
+    excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced the"
+    publishedDateTime: 2022-05-31T07:04:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ddn-accelerates-enterprise-digital-transformation-with-powerful-ai-reference-architectures-and-tight-ai-ecosystem-integration-806447782.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg?p=facebook"
+        width: 4641
+        height: 2429
+        isCached: true
+
 secured: "5QPgEvVJFlLoUuYSjqLomLqBrGQU0db3c38wkfi2OEUiToO+P2V/LDdDxJIxC2C784mzTL6+Dz1jCPZx2O8b6ZUvJKVwa8tOyLqpkH14gswlcI4uc/Lf3AzWMtudCgRnCyEmiC92OfoogpuhDXWfcFBa/tpHnEw3pLb0WgdLjil7duvp7qi3IQ9FeFsDzVhWmT+/SZOTuflrPOeIC1TUQ0mUl63m29OayB0/im2WDD4ZZi2JuX49wmKji6FmBbLyseOEKFyeflcHOr7pwKDJWtrXb2+m/P0dy2BVA+iBeCEdboVtoWFsF50GJUmKOTmJQiiYjZEhBGZmQsMCHYRw3N1ji6NZgEA+TcJ08sUAIMc=;KWRiJnj1WWh/1k8aBwZEgg=="
 ---
 

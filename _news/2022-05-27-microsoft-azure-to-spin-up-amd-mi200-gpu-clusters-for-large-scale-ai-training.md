@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 type: article
 quality: 102
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -90,16 +90,7 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 51
-  - title: "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure"
-    excerpt: "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators ? SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,"
-    publishedDateTime: 2022-05-26T13:10:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/05/26/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 46
 
-secured: "ImZnqg7YijsjreJmItnoeBroUVtJ0RD+jUG1b3BegnhdKJGQRVikoSNvwLfbwzWkdriegCPkoVwL6tyuE8L/k/FD22rgOBdiVblGv/0I2+na43GH3ZMMrxS0UjNpeLwJy9pZv2i0+mGStflGLsz3IRMJi/w7B6c0fccTrJfeRkNBMt6y6esi+ijTZ5ZidVmGNPE4suof/Zxat/Ri4z6Cz2uiZ87UyO0HJeSyoSMoH1KtB2hI32spfhWAK4zKIZCQ35JKz0O8PQbRVtt2QJme0OIFo+9Pvwff24m/OfbaemvIedBOWH4Uj6w4UH1y95hxeK/l3KfeeiR3UVZkenCEkkr/IgeCzAoN3i3nZTuTTmw=;yyTbfe9/CngBDHSQXNp9Kw=="
+secured: "ywK1jMgIRlaoiLBAWjsp6kByGO34TIBVNwhDZlxTPfM5DokL8CLSvW0OHoolXJSI+37lKVIaW6DsEWAQWQY4Aw60eZff0cBeA4AYn1u7o1utmSXmVNKotLZjQnhehV4Dox1j2GgMeg0MrZK5oa6ydriE7ZhgiEvEC+ofsOxGEac3ZV+EXsyv9OFBfzK8jQD3twSbBXZbt568Pl77rPkRtwaWXTeqIrrJHUHlFmwEdm2oi3aiAonaJ+iCl2/2DeBzw5j5uBNFSJMtlufd8ThHantWKgaG4bo5R1HQCzsGxrIriDffeeIjnd4s9A7Ie0Z0dffI8fP5AJvty0MRkPrFMMueTIH5yRUFVWsuBtVDWnI=;sot/0473NjeRTnoAavCw6w=="
 ---
 

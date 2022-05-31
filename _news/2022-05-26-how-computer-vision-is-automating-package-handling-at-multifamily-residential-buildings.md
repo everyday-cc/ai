@@ -17,6 +17,13 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://www.dcvelocity.com/ext/resources/images/blogs/one_off_sound_off_main_art.jpg?1585343832"
+    width: 1200
+    height: 900
+    isCached: true
 
 secured: "MKMicSLNtOFVB7eFYA13oJiFiJQrZF7A+YUiHJ94NrSDEc6fq9oDEB8q9VAfIxlKTog3TlcxlvW7pU1lBz2/FqdSRGEkxzBip0rpdRYEB7zLo58SJ5oGhi8BVnoMKYTildKbWOKF9lpnXyVhnK0K1ZF1QvlWVwkWn+Uw/0dMui/O5VD1iySpq8zlERx+vcCdADYlujkHBkLlaz1Fex5ZG0wijMnfmk4HmFjX3gi35JA5xewO9VnwzzORCL6g2KWGFXBv9OiBncj5PN/WDoHEYxy60AcKUarMczzYRL4fCuTA0i23adPjaVAzhIIT2fRmnLKMMiIqEaM1oyEnL0fysf+QwEf/TbDAEl5rbWyr1F8=;rTguq3xwbnQRfvQSo8ChEw=="
 ---

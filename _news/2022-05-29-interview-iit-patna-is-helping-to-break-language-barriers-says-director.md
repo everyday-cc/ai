@@ -26,19 +26,6 @@ images:
     height: 430
     isCached: true
 
-related:
-  - title: "Executive interview: Miles Hillier, NatWest"
-    excerpt: "Five years ago, the bank started working with IBM to use its Watson artificial intelligence (AI) natural language processing (NLP) technology to provide help and support for customers."
-    publishedDateTime: 2022-05-26T14:34:00Z
-    webUrl: "https://www.computerweekly.com/news/252518223/Executive-interview-Miles-Hillier-NatWest"
-    ampWebUrl: "https://www.computerweekly.com/news/252518223/Executive-interview-Miles-Hillier-NatWest?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252518223/Executive-interview-Miles-Hillier-NatWest?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
-
 secured: "mIWhcCTS39UJ14XwRONzO7BY/xGG4XoQmhfmKaVzqkg6Yjq3SBz4iwEAwGiAbVI12ua2Dvh0ID30U00YaFgt+VCK4S5PRV4rLd6cB+fox0cPTklLT2QhnpBBlg3Et92qNnl1yZVEiXRk6kBjQDxke/iYlCHCoFAX71nB/tKwIUCkklXwDSLe9fTUzjHLcrEXMyiDSD15Y9oUCIK90Juz6mYT6NYF44srzF0etwZU35L6Om1rkUY766jYOaCeZ28CKwp//GRhoFc00cDbmL5Rv9qL4UQtcBfb+F6Uy5dLpr2RhirJ33npx9hU+huXlSKf+Kg7f1XL9eafyTkdlIefUvlXUR44CUrPQwIXYc355twpG/VG7bQg05VvUnnZ0jP6fC8ArYljvjeC1WK488oja8YWfQ9BJF44AHVzRq1nTFKzeVqkid3ep6a9s0bO2UFZBkAHjKhsvYW6pdodeFOIyxugjQ0PFni/XqxM1H23jT2ETtSO24dD8ix2aAoDMNnzsjRYNtqbsMpUiKAHx7lB9g==;vSPdDARpS3BnA2G1q8jrCg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-touts-need-for-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -34,15 +34,6 @@ related:
       name: WGNO
       domain: wgno.com
     quality: 17
-  - title: "Singapore, Japan ink agreements on promoting start-ups, digital transformation for governments"
-    excerpt: "SINGAPORE: Singapore and Japan have inked two agreements on promoting the flow of entrepreneurship between both countries and enhancing their governments’ digital transformations.  The signing of the"
-    publishedDateTime: 2022-05-26T13:24:00Z
-    webUrl: "https://www.channelnewsasia.com/singapore/singapore-japan-ink-agreements-promoting-start-ups-digital-transformation-governments-2709716"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 0
 
 secured: "0+HdYU1pFGZo8nSRav1RRvdfzVuCyrA0oJJt3RFoQHv4r9HbWw9xQ912Stap9oTbLeJ/CFEqX/bhvLQlJWGHg8GmX1fzM10uYpCdWfq5Fwjlyp8h7AxpG1wPbWPWQctCQrpNPmyJU/zwr9ssj2CxjszhClsxqFG+kAxz5eqBOVoR1njGiqH5Te0rD74mSrHYSwZ0vv0b6ED/HeEVKpJSoKHIt72HXLuQRNCTLumuIAyd9y8eySRP/ZB/0oDJpxf+TadxWjn5vQrn/vFd/WUwzvX5z4ZhhleR+VNT9CvxFHeSIArdeaPMyxlkq9NSLpn5VynMQongrgny0QI0D2CG5Dd6B9mTlaknEGma1Mi0uhIzoviyGY5zWv9lpdBIYVcqE6rqAeW52IMSxF8d2fLQUdGw0RnTYp5Q8kzlrxSzsmQqiGcVmJQgpj5QxSRhHd6834rLyTH5MfPAZVCJSrPRiUU9tNn2bemn5r+TGxwg4+dX5aXlNccpo5CZDNwsKPBdK1MFnr0Zdw+CzLXnokVCQA==;A5yq/w8AaoYAHIad7mY/yw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/life/interior-ministry-and-sdaia-organize
 webUrl: "https://www.zawya.com/en/life/interior-ministry-and-sdaia-organize-workshop-on-self-driving-cars-in-saudi-arabia-between-reality-and-hope-kcd5vq3j"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 800
     height: 544
     isCached: true
+
+related:
+  - title: "Ford still focused on self-driving cars as electric cars take off"
+    excerpt: "Ford is rolling out Blue Cruise, its self-driving functionality, and we took a test drive in the Expedition Platinum."
+    publishedDateTime: 2022-05-26T21:29:00Z
+    webUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off"
+    ampWebUrl: "https://www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/ford-still-focused-on-self-driving-cars-as-electric-cars-take-off.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 44
+    images:
+      - url: "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/05/932/470/ford-Expedition-platinum.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "What’s going on with self-driving cars right now?"
+    excerpt: "One self-driving car company has experienced a setback, but others keep charging ahead. Here's what the major players are up to right now."
+    publishedDateTime: 2022-05-28T14:00:00Z
+    webUrl: "https://www.popsci.com/technology/self-driving-car-companies-status/"
+    ampWebUrl: "https://www.popsci.com/technology/self-driving-car-companies-status/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-car-companies-status/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 44
+    images:
+      - url: "https://www.popsci.com/uploads/2022/05/27/Pony.ai_next-generation_autonomous_driving_system_equipped_on_Toyota_Sienna_Autono-MaaS_S-AM_platform_-_1.jpg?auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "yBbqIezy+dgAt3RaU1/uykYvDjhXrpw3vs0HBWVMfAiKZ4oIIfhFNeJmfBaY6Mx1lmjKHdtisixMG+wj4EOmxXjqIhTT4QFhU+6dgTFcSXSZGolUzJSY7VkEQAdFwPEi8IljQvHf9Dr6UveVyvXZtsidrURAPMfOUmQZUeJ4rptnEYqiRvdOuETD0s8dMOr+X/fHGuStoKHE0R9caKuHc7bBQXA6YcyEhraIOM24XMOrAoiXsfQz5gS7B3nHENI/Ydhrf8+dBEiQxtgkJCbz233cazqFVYuZHFJW+b1cnZj0JbXMA7CISNnNL0rkKS+TomPyZUJdoc3f7Y7TZ6aJQncSptciIWzuJ/MabkitWA5HAikwNhM8skxkx2M3xQ3EbhsB/t69rVcGRvPBFLeO5WXM9jNkR+NeW2jk1Vlqzse5JZ/INCiiaHMoZWjOYeB/dsxktjC+mOLhmKEuT6XU/12giM3AzCXyvcMHCbscdzGIv7XJ2lb7eSHqY8iFLcT+D+W9Sg1h32882zXK+sP6yA==;XopA2W7WgZK8L5O3MGqcaA=="
 ---

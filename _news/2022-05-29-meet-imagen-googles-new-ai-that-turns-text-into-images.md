@@ -9,7 +9,7 @@ ampWebUrl: "https://www.astroawani.com/berita-dunia/meet-imagen-googles-new-ai-t
 cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/meet-imagen-googles-new-ai-turns-text-images-363494?amp=1"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Will AI text-to-image generators put illustrators out of a job?"
-    excerpt: "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators"
-    publishedDateTime: 2022-05-26T14:33:00Z
-    webUrl: "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/"
-    ampWebUrl: "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Google's Imagen AI produces photorealistic images from natural text with frightening fidelity"
     excerpt: "Artificial intelligence is improving fast. Less than a month after OpenAI released its impressive DALL-E 2 text-to-image generator, Google has bested it with Imagen."
     publishedDateTime: 2022-05-26T16:20:00Z
