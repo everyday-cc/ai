@@ -14,7 +14,7 @@ website: https://soumith.ch/
 twitter:
   username: soumithchintala
   url: https://twitter.com/soumithchintala
-  followers: 101991
+  followers: 101993
 
 linkedin:
   url: https://www.linkedin.com/in/soumith
