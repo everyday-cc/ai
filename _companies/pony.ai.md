@@ -2,7 +2,7 @@
 name: "Pony.ai"
 overview: "Spearheading the future of mobility by building the safest and most reliable technology for autonomous vehicles."
 type: "profile"
-heat: 71
+heat: 83
 
 website: https://www.pony.ai
 
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "XFxQpMDJfYWwdsl54KVwsqwQus8WQqR1evTg3SEumD8NXsEoFCqNB2UYWLqj/QWmBtmvZA9eeuuL0Ldm1qTif9IyaizbXs3MZ1F6SksfbEs6eJkq2PMZ5igL2L/QAVk2WmaX/fBNKYo4yTC/KDjrIagw7A+K6oO7gPXZGB7zzXpzM9O0xl5WfvwZHQGPAeTerrn8LdCFUk94vnu+CHSxVByAKhKHvxc424luds4tE6mWaWOPJS0+O8ZrsCNMBFai3l/AWz/SKFqgBS0Cpk9b/L2+2XND68VRetxKeXT9vvASWFs+55jHHogg58ZtDItwOX3OoTTbKURUoo+oCD04+2bKjuDaXHB9LccTk/b4S00mVFraFhd6gE4JpDG+WcIcf73AJrfmKxShyvGyC9eLxlp8E5rXWXBE3WOxrd4F20g=;pB91PWjqW48jJZA984AAlw=="
+secured: "N4tdczKPIGzU6EUBlHov/DcsYcgF+yT4N9Q+i/zxB/xSiXt73ZXMC3+B4pF9lFCIHbrOoVNQfjHwmeqjc7L5cXhnhGtSpqMGG+CkUVzN3VFSpiMXfv2IaMJaxeDbyU6l7hawfEQnb3ASNGSspS6ddvYjNmNES+s2r/1EKQQPyU1Xo9+EAFfdni+YvhgafA9asqOKGhn0SRgnaFRNgJZ6SRl9ujEo/sziHRXTpoAE1JxWoX5Xihu+UZbvp7MQoxhQBtenw8IUbqYNja2BWWXt6dgaKZqT2mpbe9ODKPTjUGMy6mLqlOKKVgEd3TH3LVC0RaBgfkVIYIU6rT7ihiTucXIzfxB2Xl+97hbLQXHBEuoSD7Ky6Md3sGm/q4p4Z4uqabREhkFrlZhqxAb7HMaP0IM8VWpk31R696SMvxHLMQc=;SYnSG73WHvpIfUHO1mY5CA=="
 ---
 
