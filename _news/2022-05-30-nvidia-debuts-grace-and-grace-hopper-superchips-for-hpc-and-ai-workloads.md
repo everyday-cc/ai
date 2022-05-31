@@ -115,15 +115,6 @@ related:
         width: 1363
         height: 759
         isCached: true
-  - title: "Nuance Named Leader in Opus Research 2022 Enterprise-Scale Conversational AI Ranking"
-    excerpt: "Nuance ® Communications, Inc. today announced it was recognized as a Leader in Opus Research's 2022 Decision Makers' Guide to Enterprise Intelligent Assistants report. The report cites Nuance's holistic approach as well as its growing ecosystem of partners and industry collaborators,"
-    publishedDateTime: 2022-05-26T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuance-named-leader-in-opus-research-2022-enterprise-scale-conversational-ai-ranking/article_9806e647-7a9d-5d14-af32-fb26e855608f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 10
 
 secured: "5aMi50bMeAiuQtoAt8RKe+03DIxbPlAByuSV7dsOPOhpt4oZsI7gD1PjBSdPSIk1EyjoiC2+7J1xPXwJfGiFiFZIOWPYnptBGEzmvDOVpFOzwa+iuG3f7jgz0WhnjaLk4kI7Isnj/UFZIwrgKB4XPRRuDSwdmd0pgqbMleX1aFXmYsHQobKkjW85hmCd+/uoJfP5YbfXW1nfEmD/mS9Ui7+UDeTK0SVO3dFYI5NgyzlnMUYE2VvxXnvOfvSjaIB3jglVTnxiKyrZAj1HzK6WGu0vn48khi2OXEuIjbWiYFtrLVD+J9eItMWFlKTBwczgXXL81zaPb8Oio814hpFRc4nwoGHVTQG11wJHQZRt141OxsgncoxP/cY+qT97UU3hqzxMiYLLYmMmr9w85On4hWFAlBANf1poE4eMRfN1wiSljm/gvsZUewCaoDixa5UWYspkw+0o+uKBNmjDLFpjSKGeS/eC/BjfbvDal6ZB6aw1lqHmRkd4qI0c+IaIDrSdG140Vdk3ee4VWpJqiMPUXw==;ezemUFCc8Xk6AZte9CDfiA=="
 ---

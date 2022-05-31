@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/"
 type: article
 quality: 91
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -120,15 +120,6 @@ related:
         width: 1363
         height: 759
         isCached: true
-  - title: "Nuance Named Leader in Opus Research 2022 Enterprise-Scale Conversational AI Ranking"
-    excerpt: "Nuance ® Communications, Inc. today announced it was recognized as a Leader in Opus Research's 2022 Decision Makers' Guide to Enterprise Intelligent Assistants report. The report cites Nuance's holistic approach as well as its growing ecosystem of partners and industry collaborators,"
-    publishedDateTime: 2022-05-26T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/nuance-named-leader-in-opus-research-2022-enterprise-scale-conversational-ai-ranking/article_9806e647-7a9d-5d14-af32-fb26e855608f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 10
 
 secured: "D+OOToIimKHBS//k6OLVDTJpmMqwOFUU/l6D65/8vxjYmem/O6soSSHIYBVm6tpI88SNnGSkb942AP4z/6nhO95gIwd6HHxGP/b6I5WD+ggv5gz/WKyFo26przpEfK2rAU87OK5eRe2Uf5J/UPd5rUnzaINSaD3xhbUPrU2J7StH+HpTE7Kwtqq4+Mx4b0tB56Dn3dxh7S3hoHwwd7JmmzM8idu8vEp8RetP9y9Of2QJQ5RJl9Dawn98bA0ztSCLYEhRlMYmmuRm6HOgnYj/q2Nf2rvS3aMwAlJprhAGkr8AfxL5Gmb5ruHZ5IuGvgQUV0oraQp9WFpKSOivvjIuRzLQod5gMY6cXyH7R6HleSBxLcJ7BL2lOPiCOp8MOnMI8on3vDIZ/ID1+u8uVJJqtYLLcU1lGXk9JrwzKVvkpFyrtVh+uo4SgsOKZPAFFPBemk74nJ2FfDEdztCf2yyNlr9GQKaCXZTidIMYfWm4CXKU9eciYH7XEWjXS0l0VXlUf/HirbwUs3Jho6i9o6+2uA==;6hP/uRj8Jbw8TOxbp6gaZw=="
 ---

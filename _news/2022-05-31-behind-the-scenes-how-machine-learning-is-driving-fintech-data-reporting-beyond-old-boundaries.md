@@ -27,17 +27,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "A Look At The Future Of Fintech"
-    excerpt: "Properly managed, many of the economic changes prompted by the pandemic can only benefit traditionally underserved customers and small businesses."
-    publishedDateTime: 2022-05-26T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/26/a-look-at-the-future-of-fintech/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
-
 secured: "Lj5uwMcm48V5NDVxvTA0j4YV6ts6x4/qx+FObCsfYd0SwqXIjPGuucq2AvDphQFzLkw49zx6jaXFH6BNrt8FRGV04JC7EGPd+iWd/0U6LgTU+mVHnbFiYO6hdywlh95aRVeJ+kGkVTGzvmkVwYNsoIMSdCoI+0CXkjR9gRXdaaULMG/yRbK9268RnrBYiCLn02utoPJjUypmfqyjm42rne2OieKJ+loUflG7lQJdIGuhyOSsnGMvUNsxxMyX1cqO+PHkJqMNd9pLv0JbamkYJTsMdDX5JhIw10sTxWeYCpue9nmvgJHDdgUDSZCnEBqV2h74G+MjymWNYgiTNAWyMcQAtp4+/Vav8RUSWqAco/Mnab/kDswcAiSgpsh5KkL6HXdOwVD8cGixGzHAZcZm9ClxIY/b8UZwX3tMRUgmnskIt17gIRjMxHBQJ2PqpCMqb998UTLuLjM4Yxf1Hx8RDmjb2GEtZVGmsfXpEKEYjPBrGJA7/ZCh3h/sDLlAQwmpE4a6XrEGPwhvSXnV1Ch8mA==;h5WkT2pgfnx3dhgeOGVEfw=="
 ---
 

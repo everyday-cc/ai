@@ -7,7 +7,7 @@ originalUrl: "https://www.baltictimes.com/pushing_the_limits_for_digital_eyes__a
 webUrl: "https://www.baltictimes.com/pushing_the_limits_for_digital_eyes__ai_takes_over_the_computer_vision/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 855
     height: 641
     isCached: true
+
+related:
+  - title: "How AI is improving the digital ad experience for consumers"
+    excerpt: "AI technologies can make a big impact in improving the ad experience, but it still takes a human touch to interpret and inform the model."
+    publishedDateTime: 2022-05-30T23:07:00Z
+    webUrl: "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/"
+    ampWebUrl: "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363.jpg?w=1200&strip=all"
+        width: 1200
+        height: 638
+        isCached: true
+  - title: "CouponXOO Personalizes in Digital User Experience with Artificial Intelligence and Machine Learning"
+    excerpt: "CouponXOO has concentrated on developing and innovating their digital coupon platform to improve the personalization in user experience on the"
+    publishedDateTime: 2022-05-26T16:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/couponxoo-personalizes-in-digital-user-experience-with-artificial-intelligence-and-machine-learning"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 40
+    images:
+      - url: "https://www.getnews.info/uploads/3e204a6ed40263fb567aa8ecf36e775b.png"
+        width: 281
+        height: 270
+        isCached: true
 
 secured: "CrDJwhpdJpJ1HEbEP7Qc9B/knShc+Gh85WPhE8QQLsJQ80LD3kY9bQGpuDdRgDRJCML5LMiAReSKrw5ck+mC4GrakUfYpZqQZWs8iVqTNwvPHBMnJIcw5ifPJOEtsEHh26gRZlA0Rem89pNR79w6LYyIAwW6VbaM1McBwRhLytwkemlbTS6FgxcquVobrxg7PfC5v+svo8skTkGQXZ9hEDoMQSPYf+4kFQepLpjrinsESXTPf209iUaaEqWD28zAOAwEKDqf1Xd0Fij9G2BXtknCHORZ2yx+lXUDxOEbryPwDz3hkXkn1JguyqW5iDyx9Eeco3vOj7DUcu0vAvhBjx3mjeF1wKZmUND+5IKWgEo=;lUNpRVr74694/IKCw6VAwQ=="
 ---

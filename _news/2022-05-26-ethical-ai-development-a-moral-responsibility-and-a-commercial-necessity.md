@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-developmen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 904
     height: 732
     isCached: true
-
-related:
-  - title: "Comment: Debunking the three biggest AI myths"
-    excerpt: "As it stands, There are many companies struggling to convert business data into business impact. Beyond this, there are several commonly held myths and misconceptions around AI that only add fuel to the fire."
-    publishedDateTime: 2022-05-26T11:26:00Z
-    webUrl: "https://www.theengineer.co.uk/content/opinion/comment-debunking-the-three-biggest-ai-myths"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 37
-    images:
-      - url: "https://www.theengineer.co.uk/media/2bif0y50/adobestock_443957323.jpeg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7CsGBIvnDYmOoAwv1ieUvedBQreKHT6hwoy3/wKZ5FUr8+GAUZ4mVtfj/oomnxbw+L39JHp47tOM7ZUNoBojO6hzbf2EgWmQUM5zK25/U3hJVLM/deSSIi0wjIn3+syDTYJD+W8t4473hGDo72cFYnCPWigTJAkEA9uxRjQ9film0hNFzaX9YN1tX48lvjkHq/v45bM/L6bMd5TjqzQ2E0N4Meo+GNgqDd9ZtgeQuzisSUWv11W6LHG8jKUMfK9omjIaMzO1ryKNzM8enRH+5z1MYD2HKCkueNy7wtPK6nVOZIiWmMWAIU0PfUvZthGfPUwQxrkpAcuoGIZA+NuhW6W6ldiXgw6XwuA89COoI9c=;CEhm6Rx4SIDNbf/TCzZpXw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/research-and-studies/half-o
 webUrl: "https://www.zawya.com/en/press-release/research-and-studies/half-of-uae-residents-think-the-government-should-invest-in-artificial-intelligence-and-3d-printing-vyi1v72o"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "UAE residents think AI, VR, self-driving cars will have positive impact on society: YouGov survey"
-    excerpt: "A new YouGov survey explores familiarity among UAE residents of 16 new technologies. UAE residents think AI, VR, self-driving cars will have positive impact on society: YouGov survey. AI, VR. Emergent Tech."
-    publishedDateTime: 2022-05-26T12:24:00Z
-    webUrl: "https://www.itp.net/emergent-tech/uae-residents-think-ai-vr-self-driving-cars-will-have-positive-impact-on-society-yougov-survey"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 6
 
 secured: "FhI0NWY30gAE1zeqNXdVg1nG334SxZKTR19SJEx7WKujkk3JxECphvB6C/hpdmwFGegS8jxakpx6a6pcV6lVG46iZFkZsqQhpSJvRF3t1GM+nnB/6yST2WqxqwLqbzmaAIBFEXhCbJhpxaMSxgjuZ5iDWqK5ExGND3X7P4TGkyf+bWDFfGZSj88v4selSk06XMJSzQKT+NbaZOswKvHyVz9aDR/nU46siJulgXQows07lYp3aXUJwXkpgyIRu5yfjUCaZXLKwkh7DPs81C8hDh4QmmBw6IhMqFlbNpFzXnSiNF6QamhPTz9Jl+TGTDC5A6mZ04q/op1Osf9G8FTNrra6z8qZCNdU86NIOXKCVMBFC2uocN/ChLQhizGCyQgOzasCxssi+JwsPbsHXziOPmd6txwDv2R3H1zSGY711RvKfcXn8Fn9SO+OMlz5zn4Pa55fWBAfl0W3WBKmpn3F8tQPTchsUCSUhLNVP6+I5kT/d1PiAB2oRvza0gsDGg6Tz9POztAOmZpcN0Wbyt9wQg==;69BXgDj9zNFnhlNwyK+mbg=="
 ---
