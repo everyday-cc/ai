@@ -7,7 +7,7 @@ originalUrl: "https://www.caixinglobal.com/2022-05-27/baidu-sales-rise-after-ai-
 webUrl: "https://www.caixinglobal.com/2022-05-27/baidu-sales-rise-after-ai-push-helps-offset-china-slowdown-101890714.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI
   - AI in Sales
-
-related:
-  - title: "Baidu Posts Rise in Revenue Boosted by AI, Cloud Demand"
-    excerpt: "Shares of Baidu rose Thursday after the Chinese Internet giant reported a slight rise in first-quarter revenue boosted by strong demand for its cloud and artificial intelligence products during China’s ongoing Covid shutdowns."
-    publishedDateTime: 2022-05-26T09:52:00Z
-    webUrl: "https://www.barrons.com/articles/baidu-bidu-earnings-revenue-cloud-51653558724"
-    ampWebUrl: "https://www.barrons.com/amp/articles/baidu-bidu-earnings-revenue-cloud-51653558724"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-bidu-earnings-revenue-cloud-51653558724"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-189460/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "CORobYWNm4XTwsZGvIOhTFa1DQNXcTLxakuHVBCCXk7/Qwt4JM4oNot1Xr4ieU1+nKA4S1GliowfeIGciFIDH8yncImV4umhbSbhhgJByQFe8qNBWzR+GQSbOIMP3O86OJlws8xZyM6MeUudNu5AJWoRCuAp16PAI0FBrSUzYsjhIUUoHuQfFoffpY5tT4ZKKJYktWgxlk272jjimfcJsLEiZtrfLmn2HkeSZwWdtK7ha1cT02pLIyLjg9iTtnSNZXJa/20GutUKiD0nzM96M3gTbnXJ+i9NkTLVNd+16k8MBPAyxvzclAFZfGxlfuZcgiw0hHUpVxUVqALUhcxXh8rxv3IW53qHONasLDE/dEAq9ZP1qNJkF3GnKqu+MliqlVOHG1XlzAyt9tCsZZmY4k0cvPhMQFHtrpz5DUBFGdE5TKkVMO6mMZHNSBqqdfJuGOgxLE0JC7wMLw6+NH4u741i+rzUpKATlkep6hFmORZU4vS29SiuWjVEeHlPHMbvvsFxgyMs2aKi0gu+tHap+g==;dqLcv6uiClTW6Y17qlHIog=="
 ---

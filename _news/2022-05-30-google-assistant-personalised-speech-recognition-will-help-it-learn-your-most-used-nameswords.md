@@ -121,6 +121,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Google Assistant to soon recognise your voice"
+    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
+    publishedDateTime: 2022-05-31T03:03:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-google-assistant-to-soon-recognise-your-voice-185950"
+    ampWebUrl: "https://www.zeebiz.com/technology/news-google-assistant-to-soon-recognise-your-voice-185950/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-google-assistant-to-soon-recognise-your-voice-185950/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 44
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Google Assistant will soon recognize your voice"
     excerpt: "A comprehensive dissection of the Google app for Android has revealed potential plans for improving the Google Assistant feature. Of course, those deep dives into the APKs aren't always accurate and some functionalities may not end up in future versions."
     publishedDateTime: 2022-05-28T17:30:00Z

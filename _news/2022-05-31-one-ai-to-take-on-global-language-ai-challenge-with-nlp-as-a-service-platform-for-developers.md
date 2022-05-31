@@ -1,29 +1,29 @@
 ---
 category: news
-title: "One AI to Take on Global Language AI Challenge with NLP-as-a-service Platform for Developers"
-excerpt: "One AI, Language AI startup, will enable seamless integration into developer workflows with use-case ready API"
-publishedDateTime: 2022-05-30T22:43:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/one-ai-to-take-on-global-language-ai-challenge-with-nlp-as-a-service-platform/article_2dc9a34f-d00b-5642-bb19-6b365768f321.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/one-ai-to-take-on-global-language-ai-challenge-with-nlp-as-a-service-platform/article_2dc9a34f-d00b-5642-bb19-6b365768f321.html"
+title: "One AI To Take On Global Language AI Challenge With NLP-As-A-Service Platform For Developers'"
+excerpt: "One AI, Language AI startup, will enable seamless integration into developer workflows with use-case ready API SACRAMENTO, Calif., May 30,"
+publishedDateTime: 2022-05-31T00:46:00Z
+originalUrl: "https://menafn.com/1104295479/One-AI-To-Take-On-Global-Language-AI-Challenge-With-NLP-As-A-Service-Platform-For-Developers"
+webUrl: "https://menafn.com/1104295479/One-AI-To-Take-On-Global-Language-AI-Challenge-With-NLP-As-A-Service-Platform-For-Developers"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?944501"
+    width: 438
+    height: 250
     isCached: true
 
-secured: "lc0Sien/R1FIddIZW3e7oWmYfcS2EHAH4wMxTPe1IhxtlfnvJSsgg0XfCK8ETdfZ1gt8S8o5iGEl5BGxMYyhDhNX9O38EwMsH/Fc7VSZvpYr6qSACOtkEfUntPlOboRpbPnVc6UQiaFAjxS44pR/wSzEMC4e3IX0r1Yfwf2zl1Sn0LRcKnxfhYmJYsRpD2lqCvzUqioLUjW9SyUQbzcnn4biWR2reL0tUxcuYOYAK8LyOLLjEGYYI4suIbIP1nhYBCAGgHSEq0kgrEN+feYEd9ttRh4goR+5PR2gJ2chLdCW2PeVaO8orUC2s9HqWHsNnDD7pVQNHC4+TtmkIlUhhZhL1Mp8kq7Lsz8AKJC9/QI=;8VSSSEItkO5oxG1d7KlDBw=="
+secured: "lU4HQ7b0HDI2GPIqmmncUDeAzHbvyy2zfIvsxcLdbLkb0usz3JeBGnPwS1a5M5nGF9s3U6a61BOhLWCZ+wymOSHx+apXqSaTbBIGOp7F4MvLBcqqVz1I8X9YFk2QggJvEnyBoDagFFEXRVXvHF/zWoNbYgbd+xR99MWPLmdYbvZITFy4F1f3A9Vrw7kNs2NKNjflS4bqNADGtDWMUeEqyNYu3yNhGOkWNHkPlo8CVZA7h/+4k10UTM6ghGd4cRU6GMKR+mXfD29GzUy6GvQt+IymqOcv1HrIJxPHq1cXtlKjnSEZRW2JPLjBcWAwuL5qTU/31YmW0+70tFGLb5lLWUdF2Zjnf4TXfnLjzZIhRqo=;UfgY7gfOm6PF8wbGdgnOJA=="
 ---
 

@@ -25,14 +25,16 @@ images:
 
 related:
   - title: "Corsight AI's Rapid Expansion Continues with Appointment of New CFO"
-    excerpt: "TEL AVIV, Israel, May 30, 2022 /PRNewswire/ -- Corsight AI, a leading Facial Recognition Technology provider, continues its rapid expansion with the announcement of new Chief Financial Officer ..."
-    publishedDateTime: 2022-05-30T17:01:00Z
-    webUrl: "https://wgntv.com/business/press-releases/cision/20220530LN70834/corsight-ais-rapid-expansion-continues-with-appointment-of-new-cfo/"
+    excerpt: "Corsight AI, a leading Facial Recognition Technology provider, continues its rapid expansion with the announcement of new Chief Financial Officer, Moshe Fink. Moshe joins the Corsight team with more than twenty years of finance and accounting experience,"
+    publishedDateTime: 2022-05-31T03:57:00Z
+    webUrl: "https://www.finanzen.at/nachrichten/aktien/corsight-ais-rapid-expansion-continues-with-appointment-of-new-cfo-1031496112"
+    ampWebUrl: "https://www.finanzen.at/nachrichten/amp/corsight-ais-rapid-expansion-continues-with-appointment-of-new-cfo-1031496112"
+    cdnAmpWebUrl: "https://www-finanzen-at.cdn.ampproject.org/c/s/www.finanzen.at/nachrichten/amp/corsight-ais-rapid-expansion-continues-with-appointment-of-new-cfo-1031496112"
     type: article
     provider:
-      name: WGN-TV
-      domain: wgntv.com
-    quality: 17
+      name: finanzen
+      domain: finanzen.at
+    quality: 37
 
 secured: "ZvdkgnKSVk2ezz3BYLpzYbITn1QjJuEpnof47OmwfeoKEU/xInL3CyWAPo5hcq7Yyq2g+RTSLjbJIFM9rb0ez7M1HSyFFQO/gQOTqodfhsT+4CQKPI1ddIdTE+SwL62eRy/8GwKX1lqUbpXIAIrEV3x/QtV5iSwIkadADkSgKs/hrUJIxW8y9PnMi/Haf5CiLA+httTF1PQ11mAmqlCAoEi+sr4MgGgnfOhFimJsqn2yNT1gmTu+T38+qjdAjFEYW0Ej1BZNcawLHh37I5uZCYOHgQoBo2VY1RcdL08bafvNO+6ZWtTW4Qf7LqeDgIpCbGSXTRHg6a8kmCZarN5vnNI+cN6Tr+ZOetgN3PoU9Pk=;UKogM6GVrI+zhDMomxrBFw=="
 ---

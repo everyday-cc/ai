@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-05-ai-coral-reef-song.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-ai-coral-reef-song.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence can learn coral reef 'songs' — and hear when they are unhealthy"
+    excerpt: "New research has found that artificial intelligence can be programmed to judge the health of a coral reef simply by listening to a sound recording of the marine environment."
+    publishedDateTime: 2022-05-31T03:00:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy-1.5925424"
+    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2022/5/30/1_5925424.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/5/30/1_5925424.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 51
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/5/30/1_5925429.png?cache_timestamp=1653966035580"
+        width: 697
+        height: 392
+        isCached: true
   - title: "Artificial intelligence learns 'song' of coral reefs"
     excerpt: "According to new research, artificial intelligence (AI) can track the health of coral reefs by learning the \"song of the reef.\" The research has been published in the journal, \"Ecological Indicators\"."
     publishedDateTime: 2022-05-27T13:54:00Z

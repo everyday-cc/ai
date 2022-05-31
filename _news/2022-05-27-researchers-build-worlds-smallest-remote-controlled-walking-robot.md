@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/94734-researchers-build-world-smal
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -79,24 +79,6 @@ related:
         width: 480
         height: 322
         isCached: true
-  - title: "The smallest remote-controlled robot ever is now this tiny crab"
-    excerpt: "The world's smallest remote-controlled robot has been created by engineers from Northwestern University, which takes on crab form."
-    publishedDateTime: 2022-05-26T09:13:00Z
-    webUrl: "https://www.tweaktown.com/news/86463/the-smallest-remote-controlled-robot-ever-is-now-this-tiny-crab/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
-  - title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
-    excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking"
-    publishedDateTime: 2022-05-26T09:56:00Z
-    webUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 13
 
 secured: "0mKkzcsIdsTsEyUi9QvjrQBXX6gI8zck1fnIcE7GPNq+oRD6diHd8nYBtdWSg3HbY8WnPDKBaFs/E1rHywSBVLFL12AMe31/tkqJrXtrkQG1ziSzdOn8d9Uj0TcnGWd86z/tpruoozfyuPNTYOpFmedmIxhH+g8hvWthVwVoJ+CO0FfqGEMKFcsS0vHSUKDv5A/Ub4WL18LwH5UICVj+dNZdJz4gzhgXQ6X1ngYT0qPSGzq3vXiLNbM/5qm4iRR6u6+uXpgji9OSj1YQxDgBTQhjIDu1kRyhy4FNVGcDrllGQcF8MtO1O/pHFqpJ12prU+GiD405fBoJ8dAmBJ+VjYXEBhKDRzuxnX1qqy16/8T+8AcTROL6RdA9YuPGs50iH+8ZFY3xteyS6v3xHnyV+Lq4j/bMCl5eTIVDNOdVaBqvcSXSv6UJqWqcQiYr80M9Wklcqh7ZNlHorY7MNT7D1ZlNXcmyz5n+ZxFsIoBg939Nu+UsWU7RnUkll+O1+sQDjfh87mUW4+hXgv6e149xaw==;SA8gcUeVDfum8yeplIm8fQ=="
 ---

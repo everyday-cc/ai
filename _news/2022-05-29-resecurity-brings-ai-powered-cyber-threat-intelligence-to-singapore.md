@@ -29,20 +29,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "Fintech In Singapore Today – A Look At The Fintech Regulatory Environment, And What You Need To Know."
-    excerpt: "A Look At The Fintech Regulatory Environment, And What You Need To Know. Legal News and Analysis - Singapore - Banking & Finance, Regulatory & Compliance -"
-    publishedDateTime: 2022-05-26T09:47:00Z
-    webUrl: "https://conventuslaw.com/report/fintech-in-singapore-today-a-look-at-the-fintech-regulatory-environment-and-what-you-need-to-know/"
-    type: article
-    provider:
-      name: conventuslaw.com
-      domain: conventuslaw.com
-    quality: 9
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2022/04/6-4.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Singapore, Japan ink agreements on promoting start-ups, digital transformation for governments"
     excerpt: "SINGAPORE: Singapore and Japan have inked two agreements on promoting the flow of entrepreneurship between both countries and enhancing their governments’ digital transformations.  The signing of the"
     publishedDateTime: 2022-05-26T13:24:00Z

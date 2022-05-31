@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 19
-  - title: "Commercial AI Adoption is Picking Up Pace But Only A Third of Businesses Recognise that Data Strategy Facilitates AI"
-    excerpt: "Most businesses (90%) now use or plan to use Artificial Intelligence (AI) and even more (98%) have, or intend to, implement a data strategy. Yet new findings suggest that – while the success of each is reliant on the other – only one in three (35%) businesses with a data strategy say it includes provisions for Artificial Intelligence (AI)."
-    publishedDateTime: 2022-05-26T11:00:00Z
-    webUrl: "https://fox8.com/business/press-releases/globenewswire/8560048/commercial-ai-adoption-is-picking-up-pace-but-only-a-third-of-businesses-recognise-that-data-strategy-facilitates-ai/"
-    type: article
-    provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 14
-    images:
-      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-        width: 800
-        height: 340
-        isCached: true
 
 secured: "KFJWsllOop3ZPBRp7fEV3fDNVpzjeJvMXBw/YSOFsEc5zDOGh+K9jmjlC4N30PowlHXLnj0I5HDuFA5Cqhvi4BI3EIu/zhXHJTLGdS5AkurKSEcwhFvvdpBI7f/FJ8SHYTGiMFbgTLp0HnGB/oYIj+Iqy8rBruBqP/XdrV4sql5X4MnQ5pRtfNI2VZiMCuH8kPTl6q1iK28ymep2J1VzsjFSis6IUzu8tImkmGgRxKiqCYjcRm9oM8wAH0iPj4tNg+TA3rqfyAsctfZ4k8rmSeYMI9RP2p+e8I4op7mn14vpdoQTqjL7cX5rm23AzY2NMRIAbs94Zy9eAf1reZhmhR1IumfpGnRFK/Uk4BWqW5bYleNHpaUvCs/mXLA7SvIYMh80XhN73BCiJUzBGZFjWDgr0eID8PMaE0FTqNy0zBQ+TbN4BtIXIL6ATXTIM20Fb5gVHw3OJ7T+xPpN0kkGhEuVbaAWLKr8Gvw3R6K2hIphtMrmyJpALjmOlN6LtJktfcV1lJEZgM0BFsloFKSQ+w==;cfb/y5v2y0aX73Sr5MPZ+g=="
 ---

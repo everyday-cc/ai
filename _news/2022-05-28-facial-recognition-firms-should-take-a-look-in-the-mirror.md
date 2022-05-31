@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/may/28/clearview-ai-f
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/may/28/clearview-ai-facial-recognition-database-fine-information-commissioners-office-ico"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Facial recognition company used by British police fined £7.5m over unlawful image database"
-    excerpt: "A facial recognition company used by British police forces has been fined more than £7.5m for creating an unlawful database of 20 billion images. The Information Commissioner’s Office said Clearview AI had scraped people’s private photos from social ..."
-    publishedDateTime: 2022-05-26T11:00:00Z
-    webUrl: "https://www.independent.co.uk/news/uk/home-news/facial-recognition-company-fined-police-b2085085.html?fr=operanews"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 29
-    images:
-      - url: "https://static.independent.co.uk/2022/05/09/18/Clearview_Facial_Recognition_64258.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "bOUP9xm0u83ycqP80/DDSTxi36V/222C+UvVrkr2eTnD5wB9jLGZSBvPtGazPHtOQLcV1D+OYPmqwXwjmAIikDhg5P6PQnJMv1J9nDlTL185q8ybEFSGez7O09VcudYsEYWwfaYcN/ic4JGPMn+YkkRaat6bMv/cHOcl7xM8wG80snMyQkKk+c8YdPh3De1vnO/Q3qafjyNlfmODVvrwWFnI6wenKksh04eCEo19hS4Ndgg0ury9zBc38bxNItjiwkBEQ5jB6XzumaMOaZsLfr2N7bzeXvo+Ro3xYDCKKVFfOvHmSOTTKkusHuq126mVkWSMWqsH35nf+9Tt83XB0LMwC1uBmmUgDUc5/N5x3almofCxS8CIOR0HRKqXn7B0oKT1WzsdGCX3PY+NSX1nB4SzDkK9qnh0/NKEDpTRJ2H801EigBe2zEqk6DOuQM5FlAGX947ifFSnVKSQ6ahLQYLzE+yepWpZj7YCgLfaTCguF6oaScQyPVE9aGhedLArbxXARfwH0JeH9/k+7lkxMg==;XwhULi0SzO0GS/AI4dzeKQ=="
 ---

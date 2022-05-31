@@ -63,20 +63,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Analysis 2022-2027, Industry Size, Share, Trends and Forecast"
-    excerpt: "According to IMARC Group’s latest report, titled “Artificial Intelligence in Healthcare Market: Industry Trends, Share, Size, Growth, Opportunity"
-    publishedDateTime: 2022-05-26T10:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-analysis-2022-2027-industry-size-share-trends-and-forecast"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 38
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Ai Development Service Market [GROWTH] 2022 In depth Assessment, Key Trend, Industry Drivers, Future Roadmap by 2030"
     excerpt: "Quadintel published a new report on the Ai Development Service Market. The research report consists of thorough information about demand,"
     publishedDateTime: 2022-05-26T13:39:00Z

@@ -80,20 +80,6 @@ related:
       name: KnowTechie
       domain: knowtechie.com
     quality: 19
-  - title: "Commercial AI Adoption is Picking Up Pace But Only A Third of Businesses Recognise that Data Strategy Facilitates AI"
-    excerpt: "Most businesses (90%) now use or plan to use Artificial Intelligence (AI) and even more (98%) have, or intend to, implement a data strategy. Yet new findings suggest that – while the success of each is reliant on the other – only one in three (35%) businesses with a data strategy say it includes provisions for Artificial Intelligence (AI)."
-    publishedDateTime: 2022-05-26T11:00:00Z
-    webUrl: "https://fox8.com/business/press-releases/globenewswire/8560048/commercial-ai-adoption-is-picking-up-pace-but-only-a-third-of-businesses-recognise-that-data-strategy-facilitates-ai/"
-    type: article
-    provider:
-      name: FOX8 Cleveland
-      domain: fox8.com
-    quality: 14
-    images:
-      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-        width: 800
-        height: 340
-        isCached: true
 
 secured: "2ovAq7OfQEbRZyjg3c0P9xLsnPApi8R+J8ALdwavotAerdbWBTy2aWbNkUhkm11oKWQ2JBhcVDmxoMLSRmsSG3JQ1YW7EZZDIF1IleWsUi+VwU7MaCKMcdrzS9rOzSMADv43CNFbRjOAvnSdtn6tP5Z5H1DdVf6tSb4Nk/l2uwsrV3VNN8BD3I4YCjdrrpdlDgTf8gRqBquHogQVjdDZbPHooWWFJF9+RRSvpISwvNHI4fzfZMgli61ItHATx5Lma0mnQ6kGRAGZW3gkO7CGQ1XjwlKPwdI6sCVd2M+sFQc3oyTiPdwxDjGKhbf+dikwtrzTuBe1S5NGLd5702gyG8OWdF6ZtLgtoAbeX3rj/8R4FMsSVV2CPkfazn/Fk+duhwea6Yi6Ttc92XJwR2qr8VqkcFFCpdlTyn48m139aQQd2X85OU3lg+ZTC4kzvaCWkNmL4+MkhUAbp7sE5ibRm7dQRYfLpq9ivSd3Z7AaFkUX14vSu1FI/ZVh+59/BfG8ZUD1QRg9Pj3rig8xkTCbdg==;vgfonae0PQSbUthgxZsEGg=="
 ---
