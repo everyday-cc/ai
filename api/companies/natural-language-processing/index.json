@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 90187
+        "followers": 90190
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 216811
+        "followers": 216817
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -464,7 +464,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1455937738356793354/6bPe6wGB_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1531714105366691840/4JFlsTZS_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Speechmatics",
