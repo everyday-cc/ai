@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T10:06:00Z
 originalUrl: "https://www.djournal.com/news/nation-world/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation/article_80ce007f-4783-5342-85fd-d4e23e650b7d.html"
 webUrl: "https://www.djournal.com/news/nation-world/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation/article_80ce007f-4783-5342-85fd-d4e23e650b7d.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Journal

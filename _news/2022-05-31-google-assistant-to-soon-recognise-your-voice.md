@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Assistant Personalized Speech Recognition Makes The AI Better"
+    excerpt: "... up to provide even better results to voice commands on a personal level thanks to newly-spotted “Personalized speech recognition” features. That’s based on an APK teardown of the latest Google app release performed by 9to5Google. Specifically ..."
+    publishedDateTime: 2022-05-31T20:40:00Z
+    webUrl: "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 74
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/02/00-Google-Assistant-speed-DG-AH-2022.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
   - title: "Google Assistant develops personalised speech recognition feature"
     excerpt: "According to 9to5Google, the tool will help Google Assistant get \"better at recognising your frequent words and names\""
     publishedDateTime: 2022-05-30T06:24:00Z
@@ -89,22 +105,6 @@ related:
         width: 943
         height: 630
         isCached: true
-  - title: "Google Working On New Technology To Improve Voice Assistant Feature"
-    excerpt: "In a nutshell, Google might store audio recordings of users on the device and use them to improve its voice recognition technology. Read more details here."
-    publishedDateTime: 2022-05-29T09:06:00Z
-    webUrl: "https://www.republicworld.com/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/google-working-on-new-technology-to-improve-voice-assistant-feature-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 44
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/enyzvk1csowbsbbl_1653809787.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Google Assistant to soon recognise your voice"
     excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
     publishedDateTime: 2022-05-30T12:12:00Z
@@ -136,6 +136,34 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/05/google-assistance-1653889126.jpg"
         width: 360
         height: 202
+        isCached: true
+  - title: "Google Assistant could soon learn to recognize your voice"
+    excerpt: "Code found on the Google app indicates that Google is working on having Google Assistant recognize your voice."
+    publishedDateTime: 2022-05-29T07:54:00Z
+    webUrl: "https://www.phonearena.com/news/google-working-on-assistant-voice-recognition-feature_id140429"
+    type: article
+    provider:
+      name: Phone Arena
+      domain: phonearena.com
+    quality: 24
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/140429-wide-two_1200/Google-Assistant-could-soon-learn-to-recognize-your-voice.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Assistant might soon recognize your voice even better"
+    excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android"
+    publishedDateTime: 2022-05-29T14:14:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272569040/google-assistant-might-soon-recognize-your-voice-even-better"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1653833298.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Google Assistant will soon recognize your voice"
     excerpt: "A comprehensive dissection of the Google app for Android has revealed potential plans for improving the Google Assistant feature. Of course, those deep dives into the APKs aren't always accurate and some functionalities may not end up in future versions."

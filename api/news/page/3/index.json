@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-27-foursquare-founder-banks-funding-for-mystery-3d-social-network-startup.md",
+      "title": "Foursquare founder banks funding for mystery 3D social network startup",
+      "excerpt": "The excitement around web3 and the metaverse have pulled plenty of entrepreneurs who defined the first generation of native mobile apps to begin questioning what’s next. Foursquare founder Dennis Crowley is on the co-founding team with Matt Miesnieks,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/",
+      "originalUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/disrupt-dennis-crowley-0207.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/amp/",
+      "publishedDateTime": "2022-05-26T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-meta-and-googles-gradient-back-latam-startup-olaclick.md",
       "title": "Meta and Google’s Gradient back LatAm startup OlaClick",
       "excerpt": "Over 80% of food delivery orders in Latin America are still made over phone calls and settled with cash. OlaClick, a young startup that is helping these restaurants sell online and collect money digitally,",
@@ -315,6 +366,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says.md",
+      "title": "AI less about ‘killer robots,’ more about Pentagon transformation, Groen says",
+      "excerpt": "Implementation in the department, of course, is always a challenge,” the director said, “as new technology meets legacy processes, legacy organizations and legacy technology.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/ONcq6SIv1d1nvIPTPhqzHchK3Z0=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QJ6RVWDRVZGCRIYT4HX4ZLAZY4.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1051,63 +1145,12 @@
       ]
     },
     {
-      "path": "_news/2022-05-26-idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform.md",
-      "title": "Idiomatic bets on contextual AI as it grows its voice-of-customer platform",
-      "excerpt": "A growing number of customer intelligence platforms are utilizing contextual AI and machine learning to understand structured and unstructured data. Idiomatic aims to set itself apart in the space.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/",
-      "originalUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1366362158.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/idiomatic-bets-on-contextual-ai-as-it-grows-its-voice-of-customer-platform/amp/",
-      "publishedDateTime": "2022-05-25T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
       "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
-      "excerpt": "Artificial intelligence (AI ... with their revolutionary study where they trained a deep convolutional neural network (CNN) to classify 1.2 million high-resolution images in the ImageNet LSVRC ...",
+      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ...",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
-      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1124,9 +1167,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "publishedDateTime": "2022-05-25T13:59:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T15:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -1142,50 +1185,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-despite-key-partnership-with-aws-meta-taps-up-microsoft-azure-for-ai-work.md",
-      "title": "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work",
-      "excerpt": "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
-      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg",
-          "width": 1000,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
-      "publishedDateTime": "2022-05-25T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

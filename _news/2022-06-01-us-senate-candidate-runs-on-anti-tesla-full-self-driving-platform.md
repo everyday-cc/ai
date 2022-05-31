@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-a
 webUrl: "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Audi's Driverless Car Accomplished A Major Feat Years Before Tesla's Self Driving Technology Existed"
+    excerpt: "Over a decade ago, the Autonomous Audi TTS Pikes Peak research car achieved a goal a significant amount of years in advance of all competitors."
+    publishedDateTime: 2022-05-31T18:36:00Z
+    webUrl: "https://www.slashgear.com/879949/audis-driverless-car-accomplished-a-major-feat-years-before-teslas-self-driving-technology-existed/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 64
   - title: "DMV Remains Mum on Safety Probe of Self-Driving Teslas"
     excerpt: "The investigation by the California Department of Motor Vehicles into safety issues is headed into its sixth month with no end in sight."
     publishedDateTime: 2022-05-27T22:34:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-01-google-assistant-personalized-speech-recognition-makes-the-ai-better.md",
+      "title": "Google Assistant Personalized Speech Recognition Makes The AI Better",
+      "excerpt": "... up to provide even better results to voice commands on a personal level thanks to newly-spotted “Personalized speech recognition” features. That’s based on an APK teardown of the latest Google app release performed by 9to5Google. Specifically ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
+      "originalUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2022/02/00-Google-Assistant-speed-DG-AH-2022.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp",
+      "publishedDateTime": "2022-05-31T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-depressed-this-algorithm-can-tell-from-the-tone-of-your-voice.md",
       "title": "Depressed? This algorithm can tell from the tone of your voice",
       "excerpt": "Mental health issues have come into a clearer focus amid the pandemic. Depression became endemic, but it still too often goes undetected. Even when it does, health care providers struggle to meet demand.",
@@ -147,49 +190,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-google-assistant-develops-personalised-speech-recognition-feature.md",
-      "title": "Google Assistant develops personalised speech recognition feature",
-      "excerpt": "According to 9to5Google, the tool will help Google Assistant get \"better at recognising your frequent words and names\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/google-assistant-develops-personalised-speech-recognition-feature-122053000390_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/google-assistant-develops-personalised-speech-recognition-feature-122053000390_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/02/full/1643789775-3091.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/google-assistant-develops-personalised-speech-recognition-feature-122053000390_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/google-assistant-develops-personalised-speech-recognition-feature-122053000390_1.html",
-      "publishedDateTime": "2022-05-29T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -348,19 +348,19 @@
     {
       "path": "_news/2022-05-25-voice-user-interface-market-size-to-grow-by-usd-2902-billion-north-america-to-register-maximum-growth-technavio.md",
       "title": "Voice User Interface Market Size to Grow by USD 29.02 billion | North America to Register Maximum Growth | Technavio",
-      "excerpt": "To know more about market dynamics, Request a Sample Report. Voice User Interface Market: Driver and Challenge. Digital transformation in industries such as internet services, tel",
+      "excerpt": "The voice user interface market size is expected to grow by USD 29.02 billion from 2021 to 2026. Moreover, the growth momentum of",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9608700.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9608700.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-user-interface-market-size-to-grow-by-usd-29-02-billion-north-america-to/article_61705e74-f489-5452-b796-99cb53162c5d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-user-interface-market-size-to-grow-by-usd-29-02-billion-north-america-to/article_61705e74-f489-5452-b796-99cb53162c5d.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1823797/Voice_User_Interface_Market_Technavio.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/72/f721cdaa-3654-5612-b4a7-a547e2a8e348/628d7d7fa8fc8.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -370,11 +370,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:50:00-07:00",
+      "publishedDateTime": "2022-05-24T17:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -436,8 +436,8 @@
       "title": "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners",
       "excerpt": "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/23/9606892.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/23/9606892.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-voice-biometrics-market-size-worth-482bn-globally-2028-/2022/05/23/9606892.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-voice-biometrics-market-size-worth-482bn-globally-2028-/2022/05/23/9606892.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

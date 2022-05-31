@@ -205,16 +205,7 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -688,8 +679,8 @@
       "title": "People Data Labs Joins AWS ISV Accelerate Program",
       "excerpt": "People Data Labs (PDL), which provides 3 billion unique B2B data records for developers, engineers, and data scientists, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor Accelerate (ISVA) Program,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/science-c463fadcb10931e64fc81f415fb11959",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

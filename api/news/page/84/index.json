@@ -2,6 +2,190 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-03-17-designing-ai-ethics-in-practice-and-in-public.md",
+      "title": "Designing AI Ethics, in Practice and in Public",
+      "excerpt": "Just as the design of user experience for AI and its related technologies are vital concerns for architects and designers, so too are questions about ethics and AI. In this talk, which will kick off the Center’s symposium on Bringing Digitalization Home: How Can Technology Address Housing Challenges?",
+      "sourceUrl": null,
+      "webUrl": "https://www.hks.harvard.edu/events/designing-ai-ethics-practice-and-public",
+      "originalUrl": "https://www.hks.harvard.edu/events/designing-ai-ethics-practice-and-public",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hks.harvard.edu/sites/default/files/about_us/Twitter-Card.png",
+          "width": 840,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-opinion-using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment.md",
+      "title": "Opinion: Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment",
+      "excerpt": "There are growing applications of artificial intelligence in health sciences education. Students and practitioners need to be educated on using these technologies and made aware of their implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.burnabynow.com/opinion/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-5169962",
+      "originalUrl": "https://www.burnabynow.com/opinion/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment-5169962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/healthcaretechnology.jpg;w=1200;h=800;mode=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Burnaby Now",
+        "domain": "burnabynow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars.md",
+      "title": "AI Ethics Keeps Relentlessly Asking Or Imploring How To Adequately Control AI, Including The Matter Of AI That Drives Self-Driving Cars",
+      "excerpt": "The AI Control Problem is what keeps AI ethics up at night, for which paths to solving the pressing issue are discussed, along with examples from AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622a4da448f19c30f3859096/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/03/17/ai-ethics-keeps-relentlessly-asking-or-imploring-how-to-adequately-control-ai-including-the-matter-of-ai-that-drives-self-driving-cars/amp/",
+      "publishedDateTime": "2022-03-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet.md",
+      "title": "Artificial intelligence Chips Market Is Going To Boom | Baidu, Mythic, Alphabet",
+      "excerpt": "Chips has recently been published. The market presents an analysis of the current industry dynamics in the Artificial intelligence (AI) Chips Market arena, as well as what our survey respondents believe the market will look like in 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chips-market-is-going-to-boom-baidu-mythic-alphabet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/311e103167631b53610564f3bef2b5e4678b5881-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-apple-quietly-adds-valuable-new-feature-to-mac-voice-control-but-more-work-needed.md",
       "title": "Apple quietly adds valuable new feature to Mac Voice Control, but more work needed",
       "excerpt": "Apple has quietly added a valuable new Mac Voice Control feature, seemingly in macOS Monterey 12.3, without including it in the release",
@@ -909,178 +1093,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-natural-language-processing-market-is-poised-to-drive-accelerated-expansion-in-coming-years.md",
-      "title": "Natural Language Processing Market is Poised to Drive Accelerated Expansion in Coming Years",
-      "excerpt": "Natural Language Processing Demand To Boom in Asia-Pacific in Future! Natural Language Processing (NLP) allows machines t",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103864595/Natural-Language-Processing-Market-is-Poised-to-Drive-Accelerated-Expansion-in-Coming-Years",
-      "originalUrl": "https://menafn.com/1103864595/Natural-Language-Processing-Market-is-Poised-to-Drive-Accelerated-Expansion-in-Coming-Years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?640664",
-          "width": 383,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-cognitive-services-market-outlook-and-growth-stance-forecast-2022-2031.md",
-      "title": "Cognitive Services Market Outlook and Growth Stance Forecast 2022-2031",
-      "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Mar 16, 2022, 07:46 /Comserve / -- Cognitive Services Market offers overview of leading companies encompassing their successful marketing strategies, market ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103858656/Cognitive-Services-Market-Outlook-and-Growth-Stance-Forecast-2022-2031",
-      "originalUrl": "https://menafn.com/1103858656/Cognitive-Services-Market-Outlook-and-Growth-Stance-Forecast-2022-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?915443",
-          "width": 436,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware.md",
-      "title": "Consumer Rights Day 2022: Livestreaming scams, privacy breaches, malware",
-      "excerpt": "Unlike previous March 15 shows, yesterday’s Consumers Rights Day celebration didn’t single out Apple, Alibaba, Baidu, or any other high-profile companies or brands for reprimands. The offenders this year were little-known small fry. This gala’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/03/16/consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware/",
-      "originalUrl": "https://technode.com/2022/03/16/consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-16-at-7.59.59-PM-e1647433739386.png",
-          "width": 2547,
-          "height": 1408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/03/16/consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/03/16/consumer-rights-day-2022-livestreaming-scams-privacy-breaches-malware/",
-      "publishedDateTime": "2022-03-17T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-across-china-speech-recognition-software-helps-tibetans-better-communicate.md",
-      "title": "Across China: Speech recognition software helps Tibetans better communicate",
-      "excerpt": "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects -- U-Tsang, Amdo, Kamba -- to texts and translate them into Chinese.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202203/17/WS6232d8f8a310fd2b29e51891.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202203/17/WS6232d8f8a310fd2b29e51891.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.chinadaily.com.cn/images/202203/25/623d95e6a310fd2bec7e6ada.jpeg",
-          "width": 719,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T00:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

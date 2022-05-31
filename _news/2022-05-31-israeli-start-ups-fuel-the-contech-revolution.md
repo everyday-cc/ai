@@ -47,15 +47,6 @@ related:
       name: GCN
       domain: gcn.com
     quality: 19
-  - title: "Robot companions rolling out in New York, targeting older adult well-being"
-    excerpt: "A tabletop robot designed specifically for older adults is making its way into the homes of 800 New York residents, including those who live in senior living communities."
-    publishedDateTime: 2022-05-27T04:05:00Z
-    webUrl: "https://www.mcknightsseniorliving.com/home/news/robot-companions-rolling-out-in-new-york-targeting-older-adult-well-being/"
-    type: article
-    provider:
-      name: McKnight's Senior Living
-      domain: mcknightsseniorliving.com
-    quality: 17
 
 secured: "l/+vBSNolkj/UtPRwAfGLV8qCJZdz4uUNofxDUXtaoXYKUyAxFTyn/m1a/IGfrO3zV/utZyIWfuDdpGtVVeZWTTupJBJh2vuNYM5mVO7P6eSpAGUqFe2i/GUvfJHheCpeMR34Vmon6JQxK8DSNdfskAOVBMc1qT8QSpa+H2+0agotR86CW7n4IjnaB+lT5o2sH7dJtNcMdpnEFSnICW7Uvnu5ducp2OiXSOqPCyYj3n0p153IRNtoDMPoJTdZ7IfIKpdUd+IzK5DO1HcV4Yl+NGsvAPGLdi9JJ1foIF0P9GlqZ9E77IDtGRjePu5WvYes+QrVMhCy9oZg2NqxV7Y/8sq6U37Pr8DwEPyAnbvLgI=;IO2EdAnqPSOEgB8FnY32kA=="
 ---

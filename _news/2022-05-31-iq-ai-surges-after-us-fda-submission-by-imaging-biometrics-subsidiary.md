@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/983674"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/983674"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 740
     isCached: true
+
+related:
+  - title: "Consumer applications of face biometrics draw privacy lawsuits"
+    excerpt: "While different from the time-and-attendance systems alleged in so many BIPA lawsuits to have violated people’s privacy, the statutes in question are the same."
+    publishedDateTime: 2022-05-31T21:48:00Z
+    webUrl: "https://www.biometricupdate.com/202205/consumer-applications-of-face-biometrics-draw-privacy-lawsuits"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
 
 secured: "halGP3pAtlsfsOvWcsP8ND2ObIm2uQOM9kOL7F4UGNxbqGQV10ugzqdTeq7yTef2CRgSlfTGC25Xl0r80qoDCKpDCzBB2KJua90ycgF8WfRehEs0c44CVyKxvLBrhFSHDvVFfk818cy5fFCB8cI/gQzRWQ4YQ9i6e6FvghuY/atOqibVvs2cOdgcUpi3eSs3kxir20x1t/47KFjoBLJ7ylMEIjnH8r5rgzVNnYlj4dJH6cnKxbf5Ob/tWGn+Bd3Er0q20xTGhZKUNnHu5VUOGGMbqEjR6LJ5BS/Y9jc6fLWLgi+A4j48qzDR9JTjJsGon4yzNztvUyIiT84+WyiRnMwmdNIfy4UfZq3Jfqu/z3U=;Ms+jHJjmF8kaOAfrT35k1A=="
 ---

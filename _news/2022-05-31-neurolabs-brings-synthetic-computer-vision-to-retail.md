@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T01:20:00Z
 originalUrl: "https://www.techmarketview.com/ukhotviews/archive/2022/05/31/neurolabs-brings-synthetic-computer-vision-to-retail"
 webUrl: "https://www.techmarketview.com/ukhotviews/archive/2022/05/31/neurolabs-brings-synthetic-computer-vision-to-retail"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TechMarketView

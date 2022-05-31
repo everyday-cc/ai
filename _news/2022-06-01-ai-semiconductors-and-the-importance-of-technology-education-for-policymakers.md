@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T19:34:00Z
 originalUrl: "https://www.wilsoncenter.org/blog-post/ai-semiconductors-and-importance-technology-education-policymakers"
 webUrl: "https://www.wilsoncenter.org/blog-post/ai-semiconductors-and-importance-technology-education-policymakers"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Wilson Center

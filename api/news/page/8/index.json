@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-22-automotive-deep-learning-platform-shifts-to-cloud.md",
+      "title": "Automotive deep learning platform shifts to cloud",
+      "excerpt": "One more chipmaker is taking its semiconductor design solutions to the cloud in a bid to reinvent the developer experience while easing evaluation tasks for deep learning-based automotive designs. In collaboration with software house Fixstars, Renesas is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/automotive-deep-learning-platform-shifts-to-cloud/",
+      "originalUrl": "https://www.embedded.com/automotive-deep-learning-platform-shifts-to-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2022/03/img20220321082050Software-development-for-automot_0_w1920_h821.jpg",
+          "width": 1920,
+          "height": 821,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-billings-hospital-uses-virtual-reality-to-aid-rehabilitation.md",
+      "title": "Billings hospital uses virtual reality to aid rehabilitation",
+      "excerpt": "Dr. Jose Ortiz counted the minutes he spent in the back of an ambulance transporting him from Red Lodge to Billings. Timely treatment is imperative to",
+      "sourceUrl": null,
+      "webUrl": "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html",
+      "originalUrl": "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/6/f5/6f5cfa36-9330-50ea-a0ab-8da7f6797d63/6288d8787cf4a.image.jpg?resize=1024%2C683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html",
+      "cdnAmpWebUrl": "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/ap_news/montana/billings-hospital-uses-virtual-reality-to-aid-rehabilitation/article_98014a0e-f11d-5c28-aafd-4004aab0326e.amp.html",
+      "publishedDateTime": "2022-05-21T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bozeman Daily Chronicle",
+        "domain": "bozemandailychronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-21-googles-deepmind-sued-for-illegally-using-confidential-medical-data.md",
       "title": "Google’s DeepMind Sued For Illegally Using Confidential Medical Data",
       "excerpt": "It turns out Google not only collects its users’ data and processes it for its own purposes but also uses confidential medical data. Recently, we learned that Google is facing a class action ...",
@@ -1053,100 +1139,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-10-skills-robots-cant-replace-in-the-workplace-yet.md",
-      "title": "10 Skills Robots Can’t Replace In The Workplace (Yet)",
-      "excerpt": "Machines have made great strides, but there are still plenty of workplace skills only humans have. Ensure your success by cultivating these top 10 skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62872d26ae4897dfa63b4a56/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/amp/",
-      "publishedDateTime": "2022-05-19T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-c3ai-meteoric-growth-with-artificial-intelligence-tailwinds.md",
-      "title": "C3.ai: Meteoric Growth With Artificial Intelligence Tailwinds",
-      "excerpt": "C3.ai provides AI services to enterprises & has grown revenues at 40% over the past few years, with a GM of 75%. Click to know why I rate it as a BUY.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
-      "originalUrl": "https://seekingalpha.com/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
-      "publishedDateTime": "2022-05-19T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

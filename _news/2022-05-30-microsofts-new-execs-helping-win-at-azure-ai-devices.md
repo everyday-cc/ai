@@ -37,22 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
-  - title: "How Microsoft plans to improve the low-code landscape"
-    excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
-    publishedDateTime: 2022-05-27T03:20:00Z
-    webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/"
-    ampWebUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
     excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
     publishedDateTime: 2022-05-27T22:38:00Z

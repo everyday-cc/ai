@@ -35,6 +35,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Audi's Driverless Car Accomplished A Major Feat Years Before Tesla's Self Driving Technology Existed"
+    excerpt: "Over a decade ago, the Autonomous Audi TTS Pikes Peak research car achieved a goal a significant amount of years in advance of all competitors."
+    publishedDateTime: 2022-05-31T18:36:00Z
+    webUrl: "https://www.slashgear.com/879949/audis-driverless-car-accomplished-a-major-feat-years-before-teslas-self-driving-technology-existed/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 64
   - title: "The California Department of Motor Vehicles said it would investigate Tesla over self-driving claims. Then, crickets"
     excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the US$12,000 (RM52,548) software package that supposedly enables a Tesla car to drive itself through city and neighbourhood streets."
     publishedDateTime: 2022-05-30T02:43:00Z

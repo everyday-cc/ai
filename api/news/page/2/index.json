@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-30-x-marks-the-spot-for-completion-of-green-roofed-furniture-factory.md",
+      "title": "X marks the spot for completion of green-roofed furniture factory",
+      "excerpt": "The Bjarke Ingels Group (BIG) is often at its most interesting when mixing contrasting ideas and functions into its projects – such as its power plant/ski slope for example. In a similar vein comes The Plus,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/architecture/big-the-plus-completed",
+      "originalUrl": "https://newatlas.com/architecture/big-the-plus-completed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/794d27a/2147483647/strip/true/crop/5460x3640+2+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1b%2F40%2Ff0a63ff44979b4f94f4d3752830f%2Fthe-plus-51883550484-o.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/architecture/big-the-plus-completed/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/architecture/big-the-plus-completed/?amp=true",
+      "publishedDateTime": "2022-05-30T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success.md",
       "title": "Human Vs. Artificial Intelligence: Why Finding The Right Balance Is Key To Success",
       "excerpt": "In short, now that we have increasingly capable robots and artificial intelligence (AI) systems – capable of taking on tasks that were previously the sole domain of humans – it’s easier than ever for organizations to leverage intelligent machines.",
@@ -106,7 +158,7 @@
       "originalUrl": "https://www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials-11653821388311.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -507,7 +559,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -739,7 +791,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1109,8 +1161,8 @@
       "title": "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training",
       "excerpt": "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm",
+      "webUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/",
+      "originalUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1129,7 +1181,7 @@
       "type": "article",
       "ampWebUrl": "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
       "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
-      "publishedDateTime": "2022-05-26T15:46:00-07:00",
+      "publishedDateTime": "2022-05-26T15:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "theregister",
@@ -1143,60 +1195,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Microsoft AI",
         "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-foursquare-founder-banks-funding-for-mystery-3d-social-network-startup.md",
-      "title": "Foursquare founder banks funding for mystery 3D social network startup",
-      "excerpt": "The excitement around web3 and the metaverse have pulled plenty of entrepreneurs who defined the first generation of native mobile apps to begin questioning what’s next. Foursquare founder Dennis Crowley is on the co-founding team with Matt Miesnieks,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/",
-      "originalUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/disrupt-dennis-crowley-0207.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/amp/",
-      "publishedDateTime": "2022-05-26T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI Hardware"
       ]
     }
   ],

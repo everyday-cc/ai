@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-04-17-build-tensorflow-lite-for-android.md",
+      "title": "Build TensorFlow Lite for Android",
+      "excerpt": "This document describes how to build TensorFlow Lite Android library on your own. Normally, you do not need to locally build TensorFlow Lite Android library. If you just want to use it, the easiest way is using the TensorFlow Lite AAR hosted at MavenCentral.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/lite_build?hl=pt",
+      "originalUrl": "https://www.tensorflow.org/lite/android/lite_build?hl=pt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png?hl=pt",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-16T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-04-16-build-tensorflow-lite-for-android.md",
       "title": "Build TensorFlow Lite for Android",
       "excerpt": "This document describes how to build TensorFlow Lite Android library on your own. Normally, you do not need to locally build TensorFlow Lite Android library. If you just want to use it, the easiest way is using the TensorFlow Lite AAR hosted at MavenCentral.",
@@ -1451,59 +1504,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-contribute-to-tensorflow-special-interest-groups-sigs.md",
-      "title": "Contribute to TensorFlow Special Interest Groups (SIGs)",
-      "excerpt": "The TensorFlow Special Interest Groups (TF SIGs) organize community contributions to key parts of the TensorFlow ecosystem. SIG leads and members work together to build and support important TensorFlow use cases. SIGs are led by members of the open source ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/community/contribute/sigs",
-      "originalUrl": "https://www.tensorflow.org/community/contribute/sigs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

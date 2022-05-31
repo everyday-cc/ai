@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T14:13:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-austin-texas-265beb43db39b98725512c35d28b0af5"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-austin-texas-265beb43db39b98725512c35d28b0af5"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Associated Press

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Global ADAS/AD Chip Industry Research Report 2022: SoC Vendors Accelerate the Layout of Autonomous Driving AI Data Training"
-excerpt: "DUBLIN, May 25, 2022 /PRNewswire/ -- The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100 ..."
-publishedDateTime: 2022-05-25T12:50:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html"
+excerpt: "The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100,"
+publishedDateTime: 2022-05-25T11:34:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9608988.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/25/9608988.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "cm0Y3bvjF0TGcl033/lUU7Y5yn2doGYpFWSvcLV4PS3VTeOYSNaxsQAxhFr9v1D1YkI4gwhfKdq4eSMYdL57lT2p8Q7Cc7m59CBqzL2MKrxD7/IUzjPFJXb+NaxyoZb16y4Tfb3gYBYbyY49s6vBIBTMAiDap0F7QVFvhWvxQmLuucw9lkvg9XsV5kNw+9D8kDvFDGmijU3LuW92NqfAM3HPpyqricnFONfpwetJUdjxS0F4LuyIKG6QJhK3LS8apsGwvbzthN/uEKWGLx8vaUxeDBh5j06rL2aqcMnAy4LguAyNw7Tme5PKvnWzftcq9tcGsqgxwkZdoXxO2CRpJApJ0B65zqaOZB7hGBaXI0y5SAGIKs2Qh4MYP5bkGmlKKtfjdohZelWV0dMbcAivkNdzXShKLj22BsFzlae3R+h5uVtn00zUpXhVe6C7gm3KsQ4ibwZpSbx3myJX4Z1hxbRdQJBMw/xdYFrwgGl5pz5T0lptiigW+zawufdtmCAv/3KhcYYzNB9jus8s2G5K7w==;3oZBuYi5rkIIwAYYEj3TIQ=="
+secured: "P5rTTAAQIRXAua223vAS8xCsM2oLHsSobBXxZmlv0iU07CpgK31e7FP2wpgUsTJ9pshdSdbHxfjOSmTtTmwnKgEBesDuHLyBKRz60nrRTKG7R+LcjeW3XioYjg5ZofjRxFsRNLk26Bqk+T47oaJp3ROFJg9FCkJw7VFsV7fagQnpa66jWyr7FU21r8XpZJUMCTYr8FW0sZgkTDH51EUCiNFew9INV/OKHQBwU7SqUp96HBFBHH4K8heqwAE9XE5cPJeo1aZQ90uqZ8Cz9yj9xz1/bWKn4fkjGYJzdXW7RbUj6rLUZTgKd8GZ8cjr7ZLl4I2XSaN07XuNoGVkmrWU96DmG3gar37kFt9p5dfEiHI=;24dcvlRkMqnfEW3jFYxUYA=="
 ---
 

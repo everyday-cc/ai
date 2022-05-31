@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-24-robotic-abela-enjoys-upper-hand-as-grech-adopts-combative-mode-in-first-tv-debate.md",
+      "title": "Robotic Abela enjoys upper hand as Grech adopts combative mode in first TV debate",
+      "excerpt": "Robert Abela enjoyed the upper hand in his first televised debate with Bernard Grech, although this is unlikely to be an election game changer. The Labour leader arrived late for the debate that was recorded at TVM on Wednesday morning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.maltatoday.com.mt/news/election-2022/115888/robotic_abela_enjoys_upper_hand_as_grech_adopts_combative_mode_in_first_tv_debate",
+      "originalUrl": "https://www.maltatoday.com.mt/news/election-2022/115888/robotic_abela_enjoys_upper_hand_as_grech_adopts_combative_mode_in_first_tv_debate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cdn.maltatoday.com.mt/ui_frontend/thumbnail/684/400/debate_ra_and_bg_together.jpg",
+          "width": 684,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malta Today",
+        "domain": "maltatoday.com.mt",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-handheld-robot-uses-ai-to-help-first-responders-stem-bleeding.md",
       "title": "Handheld robot uses AI to help first responders stem bleeding",
       "excerpt": "Researchers at MIT's Lincoln Laboratory have developed a handheld robot that can help minimally trained responders to control severe internal bleeding in victims of traumatic injury, by helping them insert a needle and catheter into a major blood vessel.",
@@ -1229,58 +1272,6 @@
         "name": "MassDevice",
         "domain": "massdevice.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-the-best-robot-vacuums-you-can-buy.md",
-      "title": "The best robot vacuums you can buy",
-      "excerpt": "Robot vacuums have come a long way over the past few years. They’re smarter, more powerful and (marginally) better at avoiding chair legs than they ever were before, and you don",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/best-robot-vacuums-130010426.html",
-      "originalUrl": "https://www.engadget.com/best-robot-vacuums-130010426.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/15357b60-9ef7-11ec-99ff-3847635b5f44",
-          "width": 6307,
-          "height": 4205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/best-robot-vacuums-130010426.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/best-robot-vacuums-130010426.html",
-      "publishedDateTime": "2022-03-16T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

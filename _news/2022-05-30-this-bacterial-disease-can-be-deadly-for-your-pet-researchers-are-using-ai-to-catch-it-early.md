@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
-    excerpt: "“So artificial intelligence, machine learning might help us get even ... in dogs Leptospirosis in dogs is treated with antibiotics, dialysis or hydration therapy. According to the CDC, early treatment will help them recover quickly and reduce the ..."
-    publishedDateTime: 2022-05-27T01:20:00Z
-    webUrl: "https://www.uniondemocrat.com/lifestyle/article_b1bf294c-dd2a-11ec-912f-17bdf866e445.html"
-    type: article
-    provider:
-      name: The Union Democrat
-      domain: uniondemocrat.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/uniondemocrat.com/content/tncms/assets/v3/editorial/d/43/d439312a-dd2a-11ec-85e9-e75dea6e9aeb/628fd64c68777.image.jpg?crop=1294%2C679%2C0%2C92&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
     excerpt: "Veterinarians and researchers have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs."
     publishedDateTime: 2022-05-28T18:00:00Z
     webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/"

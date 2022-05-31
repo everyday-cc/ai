@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T16:15:00Z
 originalUrl: "https://www.publicradiotulsa.org/2022-05-31/a-computer-program-designed-to-sort-mice-squeaks-is-also-finding-whales-in-the-deep"
 webUrl: "https://www.publicradiotulsa.org/2022-05-31/a-computer-program-designed-to-sort-mice-squeaks-is-also-finding-whales-in-the-deep"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Public Radio Tulsa

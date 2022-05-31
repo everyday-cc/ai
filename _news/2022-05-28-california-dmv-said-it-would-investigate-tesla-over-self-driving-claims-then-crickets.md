@@ -33,6 +33,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Audi's Driverless Car Accomplished A Major Feat Years Before Tesla's Self Driving Technology Existed"
+    excerpt: "Over a decade ago, the Autonomous Audi TTS Pikes Peak research car achieved a goal a significant amount of years in advance of all competitors."
+    publishedDateTime: 2022-05-31T18:36:00Z
+    webUrl: "https://www.slashgear.com/879949/audis-driverless-car-accomplished-a-major-feat-years-before-teslas-self-driving-technology-existed/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 64
   - title: "DMV Remains Mum on Safety Probe of Self-Driving Teslas"
     excerpt: "The investigation by the California Department of Motor Vehicles into safety issues is headed into its sixth month with no end in sight."
     publishedDateTime: 2022-05-27T22:34:00Z

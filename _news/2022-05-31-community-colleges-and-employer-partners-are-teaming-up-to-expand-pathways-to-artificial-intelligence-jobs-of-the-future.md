@@ -65,20 +65,6 @@ related:
       name: NoCamels - Israeli Innovation News
       domain: nocamels.com
     quality: 47
-  - title: "Three Ways Companies Can Cope with the AI and Analytics Talent Crunch"
-    excerpt: "With inflation in the United States at a 40-year high and unemployment near a 50-year low, these are tough times to attract and retain employees in just"
-    publishedDateTime: 2022-05-27T03:25:00Z
-    webUrl: "https://www.datanami.com/2022/05/26/three-ways-companies-can-cope-with-the-ai-and-analytics-talent-crunch/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/Great-Resignation_shutterstock_Aleutie-scaled.jpg"
-        width: 2560
-        height: 1710
-        isCached: true
   - title: "Global Space Industry Report 2022: The Future of AI-Enabled Space Services"
     excerpt: "The \"Global Artificial Intelligence in Space Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. The multiple NewSpace start-ups entering the"
     publishedDateTime: 2022-05-30T19:45:00Z

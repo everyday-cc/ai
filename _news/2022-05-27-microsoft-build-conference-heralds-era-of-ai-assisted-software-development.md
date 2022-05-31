@@ -15,6 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "a5Cm+YsfbU6LdgT3dAI+3f0W38Su/4TjUuhBYCExgp10yUqsyVO1E7Tq3pUgoGhHPjMGlhClnMEtdYwr+uD+cbQFl46xeaA5vULGTYQsRPTiygRSNI87yk4K1S9Ld56GxmUe/2lG2JMDCETVnJybFsIQSP68NVDE9CctU8riVxlIlo3MTUmXcXRuE+hCq4grYZTwRo5PcSE/FJmzvEzFtmlVdF2Cbgn4c0pnVNJzBv6U30AHiX6Vh7ynVeMtr0st8WbBjHFtfVhMpjIUmF+TMWVhQs0V9ijSBlqgrj3D9vBTGWmI4Qo1dm0/WDlG5Z1IkfeI/O9FJi/V0Fk0OmhoxsIC1U8NoxtoVLUgDaV6CBLZMru0vnT7dkmMVAfVmtm5cLZIo2EsFFRKYeZ9wUxTH3bbmtLNfQLMi5uMtwFIZaOTbDtYpDTkvmTxEEaTGcMuIiPhBa5nGN/lulRvWdwvDj9DBpf8FjXHew7mCUAfaYv0YHBo7lVV6xuzC/r9YnuvkTbfupMg2U1m+/Iarx2Dtg==;Q5RFJ1Zs0ycezpsiDZym7w=="
+images:
+  - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
+    width: 647
+    height: 450
+    isCached: true
+
+secured: "AaXlrA9MQz9N88P2I0JUAxsoWOYaLxoh/XxDTHGFEA15dtWX2/q1nWA/4sBTudBWHg4QDsbEPL6Q87leFJ/nlUpiQeWfOzC+jW/urEh7N6aFHZmmz1xAc0IfJi75T64QeF8qE4NiTrpo19CkG6jDG/e9X3s5F+YBLI58dpTgaPWltgcqcXLrTjESR6nBL3mJNrrUp4L5lIShGC9ZldIQ+0KhzIsxoLCnAH54O4HNm6/oMuJr/8zFU0wgkXnJmuio0bYFldatcvX60LTcfSWCq2DmoOG7GnhiquzsPWO+pjdbNbbWDsG80aebk1e/qjqB1I3SDroQowsGErnd0XyvXAv0qPmS6PHuGlHoXuN0Nqo=;hMx0qftfdIZTjLt9Hr7gpA=="
 ---
 

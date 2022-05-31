@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
+      "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
+      "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-14-steps-for-getting-started-with-data-driven-market-segmentation.md",
       "title": "14 Steps For Getting Started With Data-Driven Market Segmentation",
       "excerpt": "Shane Paladin, Siteimprove 2. Identify Trends Using AutoML AutoML capabilities help identify trends in data, allowing segmentation to be recognized automatically by intelligent decision support.",
@@ -1369,50 +1404,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment.md",
-      "title": "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment",
-      "excerpt": "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
-      "originalUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/04/image-82.png?fit=604%2C340&ssl=1",
-          "width": 604,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
-      "publishedDateTime": "2022-04-26T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

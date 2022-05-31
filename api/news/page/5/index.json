@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-25-amd-fsr-20-vs-dlss-performance-in-deathloop.md",
+      "title": "AMD FSR 2.0 vs. DLSS Performance in Deathloop",
+      "excerpt": "DLSS takes a closed-source AI based approach ... comparison between today's main upscaling technologies from the two GPU vendors. Check out the video below for a lot of detail on how visual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/review/2464-amd-fsr-2-vs-dlss-benchmark/",
+      "originalUrl": "https://www.techspot.com/review/2464-amd-fsr-2-vs-dlss-benchmark/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2464/images/2022-05-18-image-16.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T19:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
       "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
       "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May",
@@ -43,6 +95,49 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-voice-user-interface-market-size-to-grow-by-usd-2902-billion-north-america-to-register-maximum-growth-technavio.md",
+      "title": "Voice User Interface Market Size to Grow by USD 29.02 billion | North America to Register Maximum Growth | Technavio",
+      "excerpt": "The voice user interface market size is expected to grow by USD 29.02 billion from 2021 to 2026. Moreover, the growth momentum of",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-user-interface-market-size-to-grow-by-usd-29-02-billion-north-america-to/article_61705e74-f489-5452-b796-99cb53162c5d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voice-user-interface-market-size-to-grow-by-usd-29-02-billion-north-america-to/article_61705e74-f489-5452-b796-99cb53162c5d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/72/f721cdaa-3654-5612-b4a7-a547e2a8e348/628d7d7fa8fc8.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1096,92 +1191,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-how-to-make-ai-marketing-initiatives-actually-deliver.md",
-      "title": "How To Make AI Marketing Initiatives Actually Deliver",
-      "excerpt": "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-informatica-announces-multidomain-master-data-management-as-a-service-on-microsoft-azure.md",
-      "title": "Informatica Announces Multidomain Master Data Management-as-a-Service on Microsoft Azure",
-      "excerpt": "Informatica Deepens Collaboration with Microsoft using Power BI to Deliver End-to-End Data Governance Capabilities on AzureREDWOOD CITY, Calif.,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/informatica-announces-multidomain-master-data-management-as-a-service-on-microsoft-azure-1031484872",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/informatica-announces-multidomain-master-data-management-as-a-service-on-microsoft-azure-1031484872",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

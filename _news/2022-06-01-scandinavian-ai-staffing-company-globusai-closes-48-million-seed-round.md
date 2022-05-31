@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T18:58:00Z
 originalUrl: "https://menafn.com/1104301523/Scandinavian-AI-Staffing-Company-GlobusAi-Closes-48-Million-Seed-Round"
 webUrl: "https://menafn.com/1104301523/Scandinavian-AI-Staffing-Company-GlobusAi-Closes-48-Million-Seed-Round"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

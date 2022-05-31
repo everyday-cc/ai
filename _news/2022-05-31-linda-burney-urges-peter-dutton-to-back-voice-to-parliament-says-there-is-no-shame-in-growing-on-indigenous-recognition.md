@@ -2,21 +2,27 @@
 category: news
 title: "Linda Burney urges Peter Dutton to back Voice to Parliament, says there is 'no shame' in growing on Indigenous recognition"
 excerpt: "Incoming Labor minister Linda Burney has urged Peter Dutton to end a decade of \"divisive\" politics and back a First Nations Voice to Parliament, saying there is \"no shame\" in growing on Indigenous recognition."
-publishedDateTime: 2022-05-30T21:30:00Z
-originalUrl: "https://www.canberratimes.com.au/story/7761607/no-shame-in-growing-burney-urges-dutton-to-back-voice-to-parliament/?cs=14264"
-webUrl: "https://www.canberratimes.com.au/story/7761607/no-shame-in-growing-burney-urges-dutton-to-back-voice-to-parliament/?cs=14264"
+publishedDateTime: 2022-05-31T01:00:00Z
+originalUrl: "https://www.mandurahmail.com.au/story/7761607/no-shame-in-growing-burney-urges-dutton-to-back-voice-to-parliament/"
+webUrl: "https://www.mandurahmail.com.au/story/7761607/no-shame-in-growing-burney-urges-dutton-to-back-voice-to-parliament/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: The Canberra Times
-  domain: canberratimes.com.au
+  name: Mandurah Mail
+  domain: mandurahmail.com.au
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.mandurahmail.com.au/images/transform/v1/crop/frm/139890989/3b71932f-68fa-4032-a61e-2d780eab7481.jpg/r0_162_5102_2841_w1200_h630_fmax.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Albanese has pledged a referendum on an Indigenous Voice to Parliament. He may face strong headwinds in Dutton"
@@ -29,6 +35,6 @@ related:
       domain: abc.net.au
     quality: 0
 
-secured: "GPb4xPcEuVEw4cCkgvtFJ0+ne1biDXtqfvHZN7ZOQGPTCuXiwgQD5WjiJdkc+dfAZI6MpKEJ4YqIwNDXT8o4nlrbjIYvl+339qyrZmHTq/Gejb/Ytokv2EiSBV3yrqpprGWwB3USlZCGgMUwHTSpCqSK2VjhrTs8NVvNUGKGR3/cmqZthLxFckuGvZerkpcr438BgGvRB74T+oC83U44crLR87/E5yPZBzZIO4ueHnbK8yLNgi/UYDoNOzh6rZm/ZXv0P8XHHTj+Ep8Vl83qXK4iC1X2ARj7Pj3w8x664VgCTTvZkqf7IDfXLGI4NP/JtL9SznhIkG7NIOu7xczPdCv5mL1Kx+AK6ppUMTeUTISCjSjhzlxPVHLsKnu+4PpvyZ2PD+b6U4NhGiymLhFPU57+UeXE8EZGO4MdN0sRxtW/DOAxl0N1EUsTlTaoc+Y6xTY3+/OGwVLdZxEzVTYoaVLFq746KHvKyCGu8hGL9OBfsv8MVJulAFID+D0d+WCgP5Ls4ngKMRuDWfjAaZd+Xg==;8lc4zO8kdyBhq1ekvr01Qw=="
+secured: "iqI+yRQcbSrKlL8gTtyMB+DdxoBNg6BL2WGPiWZeSIbY9+6WIezJ2Rf0f238ODnOY1eMkytQLoNKO54J5I5VC7wzMDttyNCwC2aWVkrJjyEGmsJiIBnCozviRp59cRhpPpA/ayzoZ8RO1/vNE2qSOJnLxG3rTNY1RL8XjI14BaHOZlxzpw59VqLEkuf02hP+8MvGzQrWaOwXkfh/1M/6BPrsTcEHa2zsZEbRbM8rql+8Mx4URFSHVkbQY94eKhrZyk2RX2+Lsyu8Nes3l6BIMRz7lobdbaBYHwmhj3/bELRAq0ze0jvBaqobaAMTw0h0BPUfOJI/3fsh2ukG1zah5WH6HJlQ6lxVgvAkdYJ5goE=;qZKKyHcuX5+AQj5Q/aOy4w=="
 ---
 

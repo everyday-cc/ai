@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T19:31:00Z
 originalUrl: "https://www.restaurantbusinessonline.com/technology/your-next-chick-fil-delivery-could-come-robot"
 webUrl: "https://www.restaurantbusinessonline.com/technology/your-next-chick-fil-delivery-could-come-robot"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Restaurant Business

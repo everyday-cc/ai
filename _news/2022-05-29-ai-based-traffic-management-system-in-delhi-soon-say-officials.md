@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/aibased-traffic-management-syste
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials/amp-11653821388311.html"
 type: article
 quality: 57
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 17
+  - title: "NEC deploys AI-based traffic monitoring system with fiber-optic sensing tech"
+    excerpt: "NEC Corp has deployed an AI-based traffic monitoring system to Central Nippon Expressway Company Limited (Nexco Central). The system uses fiber-optic sensing and AI technologies to visualize traffic conditions,"
+    publishedDateTime: 2022-05-31T21:45:00Z
+    webUrl: "https://japantoday.com/category/tech/nec-deploys-ai-based-traffic-monitoring-system-with-fiber-optic-sensing-tech?comment-order=latest"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 14
 
 secured: "epGiIPfJ2zzua2RWbPvSVxNcAnU0diiCpTIUjptx8u/EISaEMZpKc8U/V4GoDpILwQdDYl4kEdq3JIC4D68ZvSm6/U19R+BqtBgBKfyJ4Rb+eR16rCGCB1357E1eqYoZg9xMkL13SwW6shOexn22a5Jli3Hqj9Prc5NMRPqsNfPfYQZdH7CvYuH9u+3bW+0ooA09OBwWaUw1GrR7xSIVWAClFb7tlYJBxQgVBgVXZLbqxOQu1rpW+DomqDTlVbdEjNG9hR79JfHxksIGRr4Wb4GyWN8/O6ga+5Gg0MrmjtlG5HO+akoO4kG6CHxS4B2CZpBe14RUS0lCUlU+mWa4vSWUc68M2xbfpNHdrBFo1Ou782mwBLC5+h1D0gMWTCYA+iML2JfdooCVjvRtRhSvOdvCKKGh37f7vHPdRVAox0sPBCxqbYcq+4d1OLoLIsIFKJlmj624wG1v8uwYz7SavbQH+R7v2f8vHIUxGdw+1IQvND8pdeK3V/h9bw9p+znZbKyUv4O8wBqYIRvdGAD7YQ==;LqDzJOgTvGHXcfgtQG11WQ=="
 ---

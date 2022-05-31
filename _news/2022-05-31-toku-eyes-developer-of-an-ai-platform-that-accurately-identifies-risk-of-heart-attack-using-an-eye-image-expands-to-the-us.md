@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T16:07:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-toku-eyes-developer-an-ai-platform-that-accurately-/2022/05/31/9611862.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-toku-eyes-developer-an-ai-platform-that-accurately-/2022/05/31/9611862.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

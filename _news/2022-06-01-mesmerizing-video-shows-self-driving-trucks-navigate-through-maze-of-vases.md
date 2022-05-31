@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T19:20:00Z
 originalUrl: "https://kfor.com/news/mesmerizing-video-shows-self-driving-trucks-navigate-through-maze-of-vases/"
 webUrl: "https://kfor.com/news/mesmerizing-video-shows-self-driving-trucks-navigate-through-maze-of-vases/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Oklahoma's News

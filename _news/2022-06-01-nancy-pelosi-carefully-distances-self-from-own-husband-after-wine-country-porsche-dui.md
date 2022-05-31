@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T19:31:00Z
 originalUrl: "https://slate.com/news-and-politics/2022/05/nancy-pelosi-dui-husband-napa.html"
 webUrl: "https://slate.com/news-and-politics/2022/05/nancy-pelosi-dui-husband-napa.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Slate
