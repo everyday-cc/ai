@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Corsight AI's Rapid Expansion Continues with Appointment of New CFO"
+  - title: "Corsight AI’s Rapid Expansion Continues with Appointment of New CFO"
     excerpt: "Corsight AI, a leading Facial Recognition Technology provider, continues its rapid expansion with the announcement of new Chief Financial Officer, Moshe Fink. Moshe joins the Corsight team with more than twenty years of finance and accounting experience,"
-    publishedDateTime: 2022-05-30T15:00:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220530LN70834/corsight-ais-rapid-expansion-continues-with-appointment-of-new-cfo/"
+    publishedDateTime: 2022-05-30T13:01:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-israel-middle-east-tel-aviv-1d7d1dc4069bf39556a674b507737aaf"
     type: article
     provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "y1vM8LKjNak5Bv2AwmHZOT17UE7jnPvioicoGYGlznKUS2z4QUkiHFdx4Vm1SAo1lxPtgl5UU7TeJoEJMY8TFynjOcKIPZZ9u+q3xqk52UEWEvycDoJo023d/AHSBKoD5/WnKRf7QremFCD59YfrqPIKzvpZMCM8Fh7QKbyWTsn3hf9WFhc8AFDD6kNuA/MTmDPNL3s0hu74rPQ3Q9ikhQEY4MH4l3bVI0pfSKO2AzvKLCB2fArbb9tNRKpgT4Po0El5yxrfhxASbSMWpEBGughyAIGfg6kVtmhKWOPAuAhvEhfXLlPRMaJoyPiroNDNMcoXscoQOrB+FmSov+AcIATzwqKjxrmrlPOvVETXwC0=;B9ESMVnTIC7Kx0TT9olkjg=="
 ---

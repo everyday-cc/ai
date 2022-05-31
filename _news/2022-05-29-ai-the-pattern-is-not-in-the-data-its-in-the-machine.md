@@ -41,7 +41,7 @@ related:
     provider:
       name: redsharknews.com
       domain: redsharknews.com
-    quality: 37
+    quality: 54
 
 secured: "mf6oH8mk8iZTxxzfXiTRRdd7ueEjEulR1UaAGhOcNkzizbyQttzoiWvlXug+VBPQ1SeDhvpVU2pH6FRxYWhFYZovKzl78moTFgewQUAOJF/jy/VEDX0mBXqlT5X67s/gqgMHltCH+Cg2Ds7v92N+xHaQHTwf49DtVvdmLKAPijEz1rhEvAQQjitweCJ4qGGIzCN8KeE484qUMYaCdNQdfUZ6ZPTDghG7h8Z7N0yEIGWyNcbKFBb3iKc7H71vbtBceYwZOrh1dph0HdzmhjOOyvFs6nxSoWZlTAaOuZGVyYPb68nT77i1Lkc7pSaXBhC6jav+rbkwyuTbjgrfo5pwtjzaq8WWpC1IJbxviXIlDnGI9ObYvKHRVsbaaYCT8Bo36psdIy0kxEYfZU5BedWR3h3Zrx7gevbaxJCJgGzv9XJZIOCvM3Dq6oUzN2SrIt5cDjnH/9voEhKiKfBrtMQAGtHBiSBcw27K78aEue2ZhNCWid9BMDQIJF9PEYA+ww+7yZzr6H7VFdhKOOUDndNrPg==;uQ/mSK6XBUd+LvCkOBP92g=="
 ---

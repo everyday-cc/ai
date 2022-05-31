@@ -26,22 +26,6 @@ images:
     height: 960
     isCached: true
 
-related:
-  - title: "Paystand launches NetSuite self-driving AR solution for faster, simpler payments"
-    excerpt: "Paystand, the leader in blockchain-enabled B2B payments and the maker of the fast-growing and most innovative Payment SuiteApp for NetSuite"
-    publishedDateTime: 2022-05-26T06:15:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/paystand-launches-netsuite-self-driving-ar-solution-for-faster-simpler-payments/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 19
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
-        width: 400
-        height: 224
-        isCached: true
-
 secured: "geE7MJz/JaiIxTnEdOMHEM2caPFbQGFUM+Wb3mzi1rnnF+FT1CI9Ga/RN+sPIfkZntHvC1opf6SbNRGe4gbCq6k5i9XG6rSQFFCfk+yIID3o4NVyUTbKh7CIIHblLoJ3uR8qJmbglYkHcIroa9iFaSBofwOJC77wpGAci/gl3EfN55RyV0Ji6UIYHccowwvIbMnhKkDEm+1INgEYGsmzdzxCLKYGD8kl5y9g8V3hbNYoiDJQBR+pjugMKfXWdgw9uxo1wPUMxP1wM2cC9b+DNCYZxUT0NtzjRrTzs+SPGbNc+A8Iu+EVlhkDuZLa8pqRVzx+YI6LQZoZMR/8+ZU/SbpKDcQ4QsSWUoICxlxxjML2LhrEbjbS+wbCczHH3mJRCjXQI9uizsAg+10TD2m3aUMsONaKXKiD1YIQ4DPeqKA7GPJmnMAV72B5KGUFp9zLVqb4YmApssA2RlX+L7SgJTi5C/eW9KYq+8B/nZM5tjE8czxpqdQeWHyA2zFPchzeXY1h36UwhjkstknBIN1GxA==;iuxuC0O+LVMHW3EzaDnz+Q=="
 ---
 

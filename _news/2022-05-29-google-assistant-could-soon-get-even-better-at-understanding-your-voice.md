@@ -45,6 +45,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Google Assistant will soon have new feature for personalised speech recognition"
+    excerpt: "The \"Personalised speech recognition\" feature will appear in Google Assistant settings and will get better at recognising what the user says, their frequent words and names"
+    publishedDateTime: 2022-05-30T12:38:00Z
+    webUrl: "https://www.mid-day.com/lifestyle/culture/article/google-assistant-will-soon-have-new-feature-for-personalised-speech-recognition-23229534?homenewsforyou"
+    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/culture/article/google-assistant-will-soon-have-new-feature-for-personalised-speech-recognition-23229534?homenewsforyou"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/culture/article/google-assistant-will-soon-have-new-feature-for-personalised-speech-recognition-23229534?homenewsforyou"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 55
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/may/Lifestylefeaturesrounduplead_d.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words"
     excerpt: "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report"
     publishedDateTime: 2022-05-30T08:25:00Z

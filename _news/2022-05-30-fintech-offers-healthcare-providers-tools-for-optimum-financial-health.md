@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Look At The Future Of Fintech"
-    excerpt: "Properly managed, many of the economic changes prompted by the pandemic can only benefit traditionally underserved customers and small businesses."
-    publishedDateTime: 2022-05-26T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/26/a-look-at-the-future-of-fintech/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "27/05 – Weekly Fintech Recap"
     excerpt: "Partnerships Laiye Partners with Accenture to Power Intelligent Automation and Innovation at Scale Laiye, a leading Intelligent Automation (IA) provider, announced a partnership with Accenture, a global professional services company with leading capabilities in digital,"
     publishedDateTime: 2022-05-27T11:14:00Z

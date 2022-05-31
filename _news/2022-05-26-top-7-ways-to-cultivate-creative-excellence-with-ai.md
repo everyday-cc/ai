@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/426406"
 webUrl: "https://www.entrepreneur.com/article/426406"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "UAE's MBZUAI, IBM to advance AI research with new centre of excellence"
-    excerpt: "The collaboration aims to provide real-life applications that seek to further climate and sustainability goals"
-    publishedDateTime: 2022-05-26T06:54:00Z
-    webUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence"
-    ampWebUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 57
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=ef3c06e2-34f8-56e8-8f82-798a2e72e612&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Top 10 most innovative companies within AI"
     excerpt: "Technology Magazine takes a look at innovative, pioneering artificial intelligence companies across the globe. First up, we look at those in Europe"
     publishedDateTime: 2022-05-28T08:00:00Z

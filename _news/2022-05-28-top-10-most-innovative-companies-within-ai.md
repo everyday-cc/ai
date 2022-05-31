@@ -39,22 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "UAE's MBZUAI, IBM to advance AI research with new centre of excellence"
-    excerpt: "The collaboration aims to provide real-life applications that seek to further climate and sustainability goals"
-    publishedDateTime: 2022-05-26T06:54:00Z
-    webUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence"
-    ampWebUrl: "https://www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uaes-mbzuai-ibm-to-advance-ai-research-with-new-centre-of-excellence?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 57
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=ef3c06e2-34f8-56e8-8f82-798a2e72e612&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Top 7 Ways to Cultivate Creative Excellence with AI"
     excerpt: "In a time when the pace of change is accelerating, the presence of creative excellence for businesses is crucial for success. However, it is easier said than done. Creative excellence with humans alone has its setbacks,"
     publishedDateTime: 2022-05-26T17:36:00Z

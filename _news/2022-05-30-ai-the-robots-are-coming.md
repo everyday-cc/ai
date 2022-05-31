@@ -8,7 +8,7 @@ webUrl: "https://www.redsharknews.com/ai-the-robots-are-coming"
 ampWebUrl: "https://www.redsharknews.com/ai-the-robots-are-coming?hs_amp=true"
 cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-the-robots-are-coming?hs_amp=true"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "AI: The pattern is not in the data, it's in the machine"

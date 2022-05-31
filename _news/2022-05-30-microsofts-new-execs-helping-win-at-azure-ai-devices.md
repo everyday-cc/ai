@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-29T19:57:00Z
 originalUrl: "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620"
 webUrl: "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i.nextmedia.com.au/News/20220531071319_crn-14_microsoft_iStock-1191485295.jpg"
@@ -27,8 +28,8 @@ images:
 related:
   - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
     excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-    publishedDateTime: 2022-05-26T22:46:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-top"
+    publishedDateTime: 2022-05-26T22:50:00Z
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     type: article
@@ -113,6 +114,6 @@ related:
       domain: stockhouse.com
     quality: 46
 
-secured: "pHq9dG5NSVyb1C3icaDxYxHCj2UnDlvFhwCE/sbNZ1eOv0ALeNCoZOQ8+nKxhqecDbCUMfeWRrIrG46j67U41D/F5oDuD9vdUAHpfvgkTPQMQwjZyZfvhpXx6/eXK2yXkHYDcWSmxGzqjCvhWs4+FJVAe033lP4bcY6ZMDNovjZxeU0Xr7dlBQ1RHpMmdGlmP/wSoJGI/5HJZT6GIQ/yOsq/pSOhcBNOQ6GxHWAnyabE8QgOdwuAp/Ppx54SHfL72wB+4obJKZnL8oaRToB+3ibFhAF077zKdniLZBpwkHhKgUzoQ5+kjgwA2GcO9F2JHuHlUghAgjItitNiC4U3w2Sf7VIXIzk4/tcMhCQr0SI=;jx7IaCRjXbd5pGVj8o9jlg=="
+secured: "smEI6xWrMycSGPhOd8HhIsIshA7XcM4LD+cZfewytzV1ViXvt5uQ/9qjwFuwyoTsCzxrFFn0eBdGw0W2XJP5OL24F11jBAaqzMP9nXhUrMm8MzdwkmGNVeiYpyQz3oGL1KsFnq1m1TehBkt3YLSd8EV4vuZoz4tx5dFVyng82kcE7IRDm9d9e0VyTtcw0xQ1HcJmSQDQ538cP5EThN140HSCFDf51JU3D1L6f1eoo1r4pQfqG4G/QeCfzpoKLExRvVbBO7lbnGtr+B0Ng4qdlzdb0lTXu1Tp6WyjRJFVdighv5tXD/oTSOtcC0PkIswmzjn3KGVUkV5PjVEVzi7BJgWbW5VVOIAIzajmiyZUYP0HSYsytjU7uIFqWpMP8BIkpG7plDwL30vEQli9V1gZIeb3hDaxLfrtxHJm7cG8J7PRDk1WeFRSUvyKlbcm+dnwOWSCkLn2Iaza7Y4I3c/LpCGcRw/QLpu0qkRhsmq4UAUKDL7SEXtQQtNEy1IkjdEj1RzHj/PA1yz4B+7u+4FGOg==;3OYIdBYPPfzq5TTRwylVKw=="
 ---
 

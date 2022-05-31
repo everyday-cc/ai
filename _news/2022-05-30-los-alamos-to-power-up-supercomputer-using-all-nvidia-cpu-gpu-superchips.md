@@ -3,8 +3,8 @@ category: news
 title: "Los Alamos to power up supercomputer using all-Nvidia CPU, GPU Superchips"
 excerpt: "Nvidia will reveal more details about its Venado supercomputer project today at the International Supercomputing Conference in Hamburg, Germany. Venado is hoped to be the first in a wave of high-performance computers that use an all-Nvidia architecture,"
 publishedDateTime: 2022-05-30T16:30:00Z
-originalUrl: "https://www.theregister.com/2022/05/30/los_alamos_national_laboratory_nvidia/?td=amp-keepreading-btm"
-webUrl: "https://www.theregister.com/2022/05/30/los_alamos_national_laboratory_nvidia/?td=amp-keepreading-btm"
+originalUrl: "https://www.theregister.com/2022/05/30/los_alamos_national_laboratory_nvidia/?td=keepreading-btm"
+webUrl: "https://www.theregister.com/2022/05/30/los_alamos_national_laboratory_nvidia/?td=keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/30/los_alamos_national_laboratory_nvidia/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/30/los_alamos_national_laboratory_nvidia/"
 type: article
@@ -125,6 +125,6 @@ related:
       domain: wfmz.com
     quality: 10
 
-secured: "wJeGrkEbREsdpxWi4Gxc9KX4chGwTrp7YdJDhF8Utr2bf4Nf+S20HFqcgBf1I57+UNg1RaRjD9/r7BsfvjGYiKdbqT50n+GC9bU+ppb7tM+5kkWrawLQsbeq900dKcKk+2QnLgPgg1jTA2NDhfXvZrkM9Q0tF27YdaPzXK6lF0ML1EcctORkSstFSGO9akkDhNFAOQRZrRmQLDKJ+vsj7e/rZQWtTGkJsO7sl5JGzLSIEMhYggFZNjcJVw0BwESq8loCfrEDGpB4Ed6i1wahsyPut7osJB25bWV7ZGKWOHE7hHBLFk3TlvTYBLWtGAwNPWZ7bjEuIcJvRo5J0/4OrkrumAg3WfGJqjw6IliHQ/s=;+aXf/eKy+JedqJUBieo9aw=="
+secured: "dvnX4vH1p2jNBam7WMdOmlvuZp8cLHRUujBROJKWUo913xUlZZA8txzk8O+isufE9TMxXtV9EPnaplLYKVBkQri8lcBcfC/2AiS6Ruq2hGoE2VHUlG4XEIu0eWi0xmBQN1/pz1Jf42GkQQsAfY7D7lUh1N7CX/7H0gLaTBRz3GjA6e9uIg/tREHFsn7ykTjtiX3OXYWCJURLb9pqL/Ba3Uoh9YCsszjGuftK2j6ja8WsJ7S1qbN9q7B9TAopQfl/6Yb3oVPW5vrFmdMq0ELQZqYjr3C3wt2ro8DOVZDpa1Nh8TlGem1xyR/nMDptqOFlpcfPmXHo4divF06a6LSEWglmza4UEJJeCp34xrt9P4w=;ai8d3ypbr0hA5rsvLPCDzg=="
 ---
 

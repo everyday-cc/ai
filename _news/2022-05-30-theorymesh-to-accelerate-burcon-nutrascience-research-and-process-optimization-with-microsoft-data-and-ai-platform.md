@@ -2,27 +2,21 @@
 category: news
 title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
 excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"
-publishedDateTime: 2022-05-30T14:02:00Z
-originalUrl: "https://www.kentuckytoday.com/news/business/theorymesh-to-accelerate-burcon-nutrascience-research-and-process-optimization-with-microsoft-data-and-ai-platform/article_f41e8362-6a07-5ea8-9a0c-16ce00e9e9cb.html"
-webUrl: "https://www.kentuckytoday.com/news/business/theorymesh-to-accelerate-burcon-nutrascience-research-and-process-optimization-with-microsoft-data-and-ai-platform/article_f41e8362-6a07-5ea8-9a0c-16ce00e9e9cb.html"
+publishedDateTime: 2022-05-30T14:14:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-theorymesh-accelerate-burcon-nutrascience-research-process-optimization-with-/2022/05/30/9611110.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-theorymesh-accelerate-burcon-nutrascience-research-process-optimization-with-/2022/05/30/9611110.htm"
 type: article
-quality: 32
-heat: 32
+quality: 12
+heat: -1
 published: false
 
 provider:
-  name: Kentucky Today
-  domain: kentuckytoday.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Microsoft AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
+  - Microsoft AI
 
 related:
   - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
@@ -40,6 +34,6 @@ related:
         height: 339
         isCached: true
 
-secured: "xyayNg1bqkHnQlebKGD9QfAtSxc5LeH0gtdtAP6H51DqvTQ9soEFPkce3l+jdeHLM6ZCnwwlH4rKQ1jjvrVsMEmZbx/ws36NjBWLVNUEUT6wmZJvnFmyGCoNc9UMxrIaaIcpMGomwyomRGzUVn/j+hTq658UraV9jsQTc+MSm/6ftOYVieAlVGfMrw1AmJ69US4LakS1oHftPGVHvrefGVCUCpW4DV229uI55FW89Ziaxmcu3sOWRU2sDecS4QwrzZilNM5x7dWimrFk67FwHUIDhV4OfrrRJNE0z0ftlRFy/GuhbvG+h7B9HHygAI6OnJd8UHYuphCLtoE5Hzbz29dYXDTfwmkscIx5Nt9EPVo=;NALQMajCtqw7uffeqJw1IA=="
+secured: "P1sGK4wxvxTPi+7ZjdlhOeCd/+JtXBZKuZaCjz8XuaUXHTG+NVHO70dir77lS1/3h+NSknM+gJilTu6/P7oCyFsIC0tH+wJ9A5fhnnPWQ0CyDRnpPgDSTRhFTui+txKOPsmAPTCxwrmw3SGWxc7QC8+HZRAkpqLa1qKa01PkcC8mnnP8O8L7huVj4HpUn8nrN9/vQKHFUxME3StG6x6P3+kryoxxFC37KD0xKCDGiw2Ern0eLCMJOuMmByY5DTpFWKLm8/zEMPOV+FXuxy0JbcuU1WhjHnm/yV9BlZd1+sTOl3A5npyp3X7RC/oBuhXVmPDwdyfR1aDWitgGCRguHpYq2fD+LerBbddcy5bOGXs=;CM3b528qsDDKKG6JwfF7SA=="
 ---
 

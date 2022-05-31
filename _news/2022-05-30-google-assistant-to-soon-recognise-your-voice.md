@@ -43,6 +43,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Google Assistant will soon have new feature for personalised speech recognition"
+    excerpt: "The \"Personalised speech recognition\" feature will appear in Google Assistant settings and will get better at recognising what the user says, their frequent words and names"
+    publishedDateTime: 2022-05-30T12:38:00Z
+    webUrl: "https://www.mid-day.com/lifestyle/culture/article/google-assistant-will-soon-have-new-feature-for-personalised-speech-recognition-23229534?homenewsforyou"
+    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/culture/article/google-assistant-will-soon-have-new-feature-for-personalised-speech-recognition-23229534?homenewsforyou"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/culture/article/google-assistant-will-soon-have-new-feature-for-personalised-speech-recognition-23229534?homenewsforyou"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 55
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/may/Lifestylefeaturesrounduplead_d.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Google Assistant could soon get even better at understanding your voice"
     excerpt: "Google Assistant can already recognize your voice from others and pick up what you're saying pretty well, but even more improvements look to be on the way: references to \"personalized speech recognition\" have started popping up in the code of the Google app for Android."
     publishedDateTime: 2022-05-29T09:30:00Z
@@ -124,6 +140,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "uDoiDTdiZyCGdzn3ZcZYuR75vs51pOnsUFi21+nvzmMjSV8u551AY18t0yvAvmQai/55z8Fp/wLam7wTjD/PE34+/oad5YovIRgVSBtuWKsZ0RAaSpH0HCuEnh4psxyETivS4w0Wmxe/5ujd82iVvV2JQ6wM0lLvbrFV3Pit5HyYPtR/CuHrIksZqYvq4oRD2AfFlBqtPsK4fnQEYm/MycLk5rs5sx8fUlNFDWeye25VDtKYnCgsBLNFeFRu5ZoKCfp8rri3OtHS5ALip9wjYWveSgvjSGP/pHmeE/B+jJ6k94BBjYJO4BIuE28C/2uCPEXvK49vnaI+9XcnsfLkD+1JjhTzg817fY3watjwcoY=;w2Th9myqkHF6alEJv/GZFg=="
+secured: "f5LByOJSf8hgWYyjm3JjKBGujuMMhvB40hBfll2FTykbNoX1FdQ0YG4+k6tPobk6XRyiQjf3VDiN58YNAbJwpdzL6ioAdIs6hodQLBEVssiyZDsZUQop7KoNlLC9FDv19kt59mVqAwAnWLCpnc96UFiki77o7G7T+OQUUgfax4ueTDWQLRtH4QeIWK/6swk8e8FXks+GVgy+hoxX0GRXdp7ywmvEy1ahHFzz7iKBFUClQ27Vwuu21e4x6wnwKKU7ycL0avBaATXlpLr6IItN4+f5T80Vt3ioc5UAaPH4hvzGXvAn5Mgs8KWT11UwQIGpPTR15pCTb4bp6Ez1aSvrvTCFH1p5X6D7rKab9lcRQUsExAKb0BASZmJ3AS3z7Ti2/bqqr/2NeLnoEb0nSUMgK3V7zgpAxSeYoD9vTGLSet1w1QMowi7/U7ElBqdHXi/Xqyu/ceuMAqxffIqu/HNlejRijyOrH1+HfAs/3XTkC2vpPqgKNaQSKqcBBGlYMTjKAwIAGae0gp8iWdiXb7ToQg==;v+SCGJa+yB0z2GRuSR+XGQ=="
 ---
 

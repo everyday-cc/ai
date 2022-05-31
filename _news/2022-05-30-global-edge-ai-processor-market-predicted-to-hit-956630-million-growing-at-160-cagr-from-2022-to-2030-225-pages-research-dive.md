@@ -23,6 +23,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Global Edge AI Processor Market Predicted to Hit $9,566.30 Million, Growing at 16.0% CAGR from 2022 to 2030 [225-Pages] | Research Dive"
+    excerpt: "Rising demand for edge AI processors in electronics products is fueling the global edge AI processor market growth. The COVID-19 pandemic has positively impacted the market. The N"
+    publishedDateTime: 2022-05-30T23:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/05/30/9611092.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "2ta/EzTcd0qhHJTIiLG67c0B+CaGJ14iUYQ2IcSDPhHqiqZwJJGoj6F+NrksiBUkkK3jVxNfyLpO1baHNKtU9kew7hiVchMyVs1kYmuGnJuvWgapwe568/vH31Vv1asRZTwde7TcOwAZRKrS2Q4XU94FLaVAf8n54X38ndGsyRn+3TkxAeTjfxrVtcqUNwQpTP/RAPxBTTFRz6iS0BhSuj5xvfnYAtAurgO7mWsS+nWB+r72lnTlPSu8gK73+s5OguAc/ttOt+yhCKj+DjmoCd8ZW3NLZ637SU43M5AcaWlhApqNvoPE1qoAyGPUrjIprylVkgpFuB2C0SqYm3KZ6Lf6/2E/xnF2bsZ7IX1mNL0=;sSLO02lvo00yM6PK0ehdYA=="
 ---
 

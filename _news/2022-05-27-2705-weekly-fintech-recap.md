@@ -39,15 +39,6 @@ related:
         width: 788
         height: 526
         isCached: true
-  - title: "A Look At The Future Of Fintech"
-    excerpt: "Properly managed, many of the economic changes prompted by the pandemic can only benefit traditionally underserved customers and small businesses."
-    publishedDateTime: 2022-05-26T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/26/a-look-at-the-future-of-fintech/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Fidelity partners with Canadian fintech Conquest to support advisers"
     excerpt: "Fidelity International has partnered with Canadian FinTech company, Conquest, as the exclusive distributor of its financial planning software, ‘Conquest Planning’ to the UK independent advice market."
     publishedDateTime: 2022-05-27T08:17:00Z
