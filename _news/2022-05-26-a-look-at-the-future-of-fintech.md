@@ -33,7 +33,7 @@ related:
     provider:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/05/iStock-1003133262.jpg"
         width: 750

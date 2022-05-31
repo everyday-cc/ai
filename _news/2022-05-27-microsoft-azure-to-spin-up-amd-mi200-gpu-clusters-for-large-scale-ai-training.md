@@ -114,6 +114,6 @@ related:
       domain: stockhouse.com
     quality: 46
 
-secured: "9jfOZWlkZeTMlWJ55czUGN4lSPpX6/VR6xPk/rkW6sA0YN0Pd+Fip5b1+7a/yyOZ+XYlcYgoa2NEZ5/sBYVVeVsXOE3lI34h9Pyag+wxP+g3eWg+LjHcKRc/f4QW12MAF4FjMCWa+Qy9ndg5IyOLpz36krGgSXVlD/TYa9S2JVtoG4qWIYDwdi2WJ5JPegqI+TN40HYZd8hh8AAtBjvirZZxwNXHypr3VmSwUUtjtWyhJa3xEMZNBVrJ26+b9MBtHGoaRrzo/PKpZSbcVF30TlHwm3tJ4ThcD02CNrIYiALTKGreyRo1GjAGM8ufW+ivkH1E/GebcZ8k0pBBotps3HKyX1wgSbnWJb+IK1pWjPc=;Sqfy9WEsn6802JrzT8XeOA=="
+secured: "To3Vtwga8t17jMXUeLWdOJg5vvcaaF/Z2LKbBG6nMT6u8LUTuw9De3mLn5zhatS3D6EetCzLJQilIjUNKovrUqwSU+xoCcvGm7m9a6Zf1AFeJjPIc6rdK+B7ZJhZnGi8iXuDQ7FYT7ulJobE4sGLu2/LCwXDMJqr2XWbNj6wwlraD/fxgzVH8iykTk4ogQUkkzZFm7LaBEOGDnjPMNjNeD9bxLexTj5x4RCw9WZeH9PyvpKrkliKcY0Ie69WUAPIFiTbfjCd2lZ1fkfzLF+6Gh/K1TYHd+jNEwPzEqErHQND5DTVIvCQe47hPxVoighQolt7xYnD7kL8iOSemeNOiq0U9ctQb4sysciyUBgOaXs=;oX43qwPDil+2YBFnArbyNw=="
 ---
 

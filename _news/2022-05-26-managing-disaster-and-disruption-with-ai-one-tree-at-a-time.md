@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/managing-disaster-and-disru
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 400
     isCached: true
-
-related:
-  - title: "How disruptions can pay dividends with AI-powered data"
-    excerpt: "To be on the front foot here they need to have the ability to predict market changes before they happen. AI-powered intelligence can help us identify the right signals from the noise and help businesses stay ahead of the competition. The path to future ..."
-    publishedDateTime: 2022-05-26T07:32:00Z
-    webUrl: "https://www.arabianbusiness.com/opinion/how-disruptions-can-pay-dividends-with-ai-powered-data"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 17
 
 secured: "3v487iSebnnGksxO2RY7CTSN+Z05QDxSs0U38SeI2e6gLjOUds1QPWyD1LF5cFVjM5WwDD883NtHe2ho0oft86SxlO+eERXeIMTE/pHDRCfwEVSnnxUHrPZtd6bpyxlaKYhgWd1EKFhqo6tojDg+OmWycJm0pgUhWLC4OgTDhf9X5sPBia81m0tIIMFqTWXOOWCodYY52j1WrqjW5Lw9iCrcyXQQO3hZbBTtToC/BP74vqcokNUeimGJ6wvzv3QaScJX6FInAXfqI68JaTCDNuyyBfPSq+QN6glZtHYFxyR9mNQ34e6NPDu7FDPQcnPc+c1x9qh+XUX/3DBZn4lR6dWRWH9opoMkXaY8Z2FUni8=;DS++xpT3+9l7XF3tDYN+yg=="
 ---

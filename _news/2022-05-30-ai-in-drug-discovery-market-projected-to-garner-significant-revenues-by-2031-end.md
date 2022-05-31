@@ -40,6 +40,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Deciphering the S%t from the Bit: Vetter.ai is using AI tech to help investors vet cryptomarkets"
+    excerpt: "Robyn Linn is ushering in an era of radical growth for Vetter and cryptocurrency.  With cryptomarket turbulence seemingly keeping pace with the growth of the cryptomarket itself, investors need reliable intel and analysis tools to choose the projects they want to back and achieve their financial goals."
+    publishedDateTime: 2022-05-31T00:23:00Z
+    webUrl: "https://techbullion.com/deciphering-the-st-from-the-bit-vetter-ai-is-using-ai-tech-to-help-investors-vet-cryptomarkets/"
+    ampWebUrl: "https://techbullion.com/deciphering-the-st-from-the-bit-vetter-ai-is-using-ai-tech-to-help-investors-vet-cryptomarkets/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/deciphering-the-st-from-the-bit-vetter-ai-is-using-ai-tech-to-help-investors-vet-cryptomarkets/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/05/Robyn-Linn.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Rezo.AI launches a game changer for Enterprises fueling Sales, Marketing and Support teams to boost revenue growth"
     excerpt: "Rezo.ai, an AI-powered CX Cloud for enterprises that are transforming customer experience, improving agent productivity, and operationalizing real-time intelligence"
     publishedDateTime: 2022-05-26T19:42:00Z

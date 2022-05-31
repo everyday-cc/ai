@@ -3,11 +3,11 @@ category: news
 title: "NVIDIA: Systems Makers to Deploy Grace and Grace Hopper Chips; Los Alamos’ ‘Venado’ to Be 10 Exaflops AI Supercomputer"
 excerpt: "NVIDIA announced today that Atos, Dell Technologies, GIGABYTE, HPE, Inspur, Lenovo and Supermicro plan to deploy servers built with the NVIDIA Grace CPU and Grace Hopper “Superchip,” built for servers executing AI and HPC workloads."
 publishedDateTime: 2022-05-30T17:58:00Z
-originalUrl: "https://insidehpc.com/tag/grace-hopper/"
-webUrl: "https://insidehpc.com/tag/grace-hopper/"
+originalUrl: "https://insidehpc.com/2022/05/nvidia-systems-makers-to-deploy-grace-and-grace-hopper-chips-los-alamos-venado-to-be-10-exaflops-ai-supercomputer/"
+webUrl: "https://insidehpc.com/2022/05/nvidia-systems-makers-to-deploy-grace-and-grace-hopper-chips-los-alamos-venado-to-be-10-exaflops-ai-supercomputer/"
 type: article
-quality: 0
-heat: 0
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -15,8 +15,15 @@ provider:
   domain: insidehpc.com
 
 topics:
+  - AI Hardware
   - AI
 
-secured: "/QW7bz2MVFshebeq75TSsBgcftH7W345DRp7pq7fp49FsNMoSc8nExwwemDoMmhV2j0YLbfWpxm7TRsVLyaHW7MqEHnNDhkBHHjymPHYhOl5qmsz18cnumW371dKx+//17EopcMD3k0p+Hzo++caBl4SQ9Afh0ja/l7sORVHxHNRv6x8ZgSAbE+yO1ihj64owSQsGEy0fvhzvwUeSKPG5LXA1lYKFwO3naftYt7yme7QetC/wwAuCTUbDgbMG34uuRq7TtTWvhhiSxkTypvQkdb/3ZcGLN/+yX9N8D4RNcWRpqSmuEfy3pvWnNOQMfnULtMcuuJ3P8G/XCo5OVhkbRZSkhJ3k+JOJ0d20SXLdvg=;8SADs6jax72rGBZ04a63Lg=="
+images:
+  - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
+    width: 500
+    height: 281
+    isCached: true
+
+secured: "b9weh8BHAeJgOcaBWsGEq7Be9HFhFV3t92uH+prBKbC+LznnS693WDaS1gFDSdHrkFA5Db65IuukxNnMf28h8mqJ3TuUl91xes+wXHCx758rYL9xLdKMXm3QD5lSHwttQMmK9ATwAHtVDTJsq+vOLt5897DOOxp1FREPivtFl3Nelc0/l0DqhFyczjoBvIKutNeezLdBx5eajcTFOYVgi8yfIqMQSJy3rDXjWRmZC0mVjmMFzySIR/TWhQmG2vhP2gonNEgIUkWlOGugbgGU2MHPVl+GMbn9FfhB6ny8SCV1goXKWoejv7RbVh3S3xCx6T4TzLiR/kExgRGm57zF5JrsE/hNsF4mAwkyD4WDUDs=;0g302niIXyu5QxeKHvAr+A=="
 ---
 

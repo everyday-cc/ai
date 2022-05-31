@@ -8,8 +8,8 @@ webUrl: "https://www.globalbankingandfinance.com/behind-the-scenes-how-machine-l
 ampWebUrl: "https://www.globalbankingandfinance.com/behind-the-scenes-how-machine-learning-is-driving-fintech-data-reporting-beyond-old-boundaries/"
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/behind-the-scenes-how-machine-learning-is-driving-fintech-data-reporting-beyond-old-boundaries/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/05/iStock-1003133262.jpg"
@@ -37,6 +38,6 @@ related:
       domain: forbes.com
     quality: 34
 
-secured: "kH5Z1ymJhvVa85HIt+eDiHKgipZAhXBVa3dbPJo3azr6GVKGaSn1Dms9OGKMIAFxRoqtxR6+OfSDckE1U78P7bMadSTlXUUpYEscxqzrKVIiYSsUjBMiH0O9AgRN7Rif9OmTtHqriKbj6dv9RaEVto6PMLc7QhiLrAEk/fFvkW9zLLrh1lJYVawBuzht1ftAECsR6sA5gyDx4MUInq9UhqlDPR5UAbtL/iuXLmknezKv+/FcFGLBTQvUxTEBbC0AZrUp5CKbZ3KURc7wrnfKw9EiJx2qvL8E4Y5Doyrxmms5/TnJUA0pYsFEgwHxtW6J17HuYr6Hnu38gNhrcBcpDChmJMfMkdHsg7OBMVV3wRc=;CvI2wz+jHjVvuw29CU76iQ=="
+secured: "Lj5uwMcm48V5NDVxvTA0j4YV6ts6x4/qx+FObCsfYd0SwqXIjPGuucq2AvDphQFzLkw49zx6jaXFH6BNrt8FRGV04JC7EGPd+iWd/0U6LgTU+mVHnbFiYO6hdywlh95aRVeJ+kGkVTGzvmkVwYNsoIMSdCoI+0CXkjR9gRXdaaULMG/yRbK9268RnrBYiCLn02utoPJjUypmfqyjm42rne2OieKJ+loUflG7lQJdIGuhyOSsnGMvUNsxxMyX1cqO+PHkJqMNd9pLv0JbamkYJTsMdDX5JhIw10sTxWeYCpue9nmvgJHDdgUDSZCnEBqV2h74G+MjymWNYgiTNAWyMcQAtp4+/Vav8RUSWqAco/Mnab/kDswcAiSgpsh5KkL6HXdOwVD8cGixGzHAZcZm9ClxIY/b8UZwX3tMRUgmnskIt17gIRjMxHBQJ2PqpCMqb998UTLuLjM4Yxf1Hx8RDmjb2GEtZVGmsfXpEKEYjPBrGJA7/ZCh3h/sDLlAQwmpE4a6XrEGPwhvSXnV1Ch8mA==;h5WkT2pgfnx3dhgeOGVEfw=="
 ---
 
