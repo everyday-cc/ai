@@ -4,107 +4,95 @@
   "page": 2,
   "value": [
     {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
-      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
+      "path": "_people/rana-el-kaliouby.md",
+      "title": "Rana el Kaliouby",
+      "excerpt": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rana-el-kaliouby/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rana-el-kaliouby/",
       "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
+      "name": "Rana el Kaliouby",
+      "bio": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "location": "Boston",
+      "website": "https://t.co/CptEKpnJzd",
       "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 6156
+        "username": "kaliouby",
+        "url": "https://twitter.com/kaliouby",
+        "followers": 24882
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
+        "url": "https://www.linkedin.com/in/kaliouby/"
       },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Andrew Moore",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/bernhard-scholkopf.md",
-      "title": "Bernhard Schölkopf",
-      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
-      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
-      "type": "profile",
-      "name": "Bernhard Schölkopf",
-      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "twitter": {
-        "username": "bschoelkopf",
-        "url": "https://twitter.com/bschoelkopf",
-        "followers": 9187
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 183864
-      },
-      "affiliation": {
-        "path": "",
-        "name": "tuebingen.mpg.de",
-        "domain": "tuebingen.mpg.de"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bernhard Schölkopf",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/noramay-cadena.md",
-      "title": "Noramay Cadena",
-      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
-      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
-      "type": "profile",
-      "name": "Noramay Cadena",
-      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "location": "Los Angeles, CA",
-      "website": "https://t.co/t9CFIWFMbw",
-      "twitter": {
-        "username": "noramayc",
-        "url": "https://twitter.com/noramayc",
-        "followers": 17771
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Rana_el_Kaliouby"
       },
       "topics": [
         "AI"
       ],
-      "heat": 65,
+      "heat": 71,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/667860223512612864/sK_qnOSx_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Noramay Cadena",
+          "title": "Rana el Kaliouby",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sebastian-thrun.md",
+      "title": "Sebastian Thrun",
+      "excerpt": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sebastian-thrun/index.json",
+      "webUrl": "https://everyday.cc/ai/people/sebastian-thrun/",
+      "type": "profile",
+      "name": "Sebastian Thrun",
+      "bio": "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University.",
+      "location": "Mountain View, CA",
+      "website": "https://t.co/rlrjbh9s51",
+      "twitter": {
+        "username": "SebastianThrun",
+        "url": "https://twitter.com/SebastianThrun",
+        "followers": 77247
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
+        "citations": 129903
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/459372432806014977/ftbXtMDO_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Sebastian Thrun",
           "isCached": true
         }
       ],
@@ -135,7 +123,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 50,
+          "heat": 42,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -178,7 +166,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 65,
+          "heat": 6,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
@@ -200,7 +188,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 50,
+          "heat": 57,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
@@ -220,6 +208,50 @@
           "width": 400,
           "height": 400,
           "title": "Jean Liu",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/huahai-yang.md",
+      "title": "Huahai Yang",
+      "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/huahai-yang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/huahai-yang/",
+      "type": "profile",
+      "name": "Huahai Yang",
+      "bio": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "location": "San Jose, CA",
+      "website": "https://t.co/s5ydlRJnm8",
+      "twitter": {
+        "username": "huahaiy",
+        "url": "https://twitter.com/huahaiy",
+        "followers": 972
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/huahaiyang/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
+        "citations": 13488
+      },
+      "affiliation": {
+        "path": "",
+        "name": "juji.io",
+        "domain": "juji.io"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Huahai Yang",
           "isCached": true
         }
       ],
@@ -254,13 +286,138 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1442955547343343616/vvBBIGGR_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Javier M. Duarte",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/madeline-gannon.md",
+      "title": "Madeline Gannon",
+      "excerpt": "Inventing better ways to communicate with machines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/madeline-gannon/index.json",
+      "webUrl": "https://everyday.cc/ai/people/madeline-gannon/",
+      "type": "profile",
+      "name": "Madeline Gannon",
+      "bio": "Inventing better ways to communicate with machines.",
+      "location": "Pittsburgh, PA",
+      "website": "https://t.co/It4puKUIPF",
+      "twitter": {
+        "username": "madelinegannon",
+        "url": "https://twitter.com/madelinegannon",
+        "followers": 3148
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Madeline Gannon",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rajat-monga.md",
+      "title": "Rajat Monga",
+      "excerpt": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rajat-monga/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rajat-monga/",
+      "type": "profile",
+      "name": "Rajat Monga",
+      "bio": "Sr. Director/Distinguished Engineer. Leading #TensorFlow at Google.",
+      "location": "San Francisco Bay Area",
+      "website": "https://research.google/people/RajatMonga/",
+      "twitter": {
+        "username": "rajatmonga",
+        "url": "https://twitter.com/rajatmonga",
+        "followers": 13932
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rajatmonga/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
+        "citations": 50462
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rajat Monga",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/verity-harding.md",
+      "title": "Verity Harding",
+      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
+      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
+      "type": "profile",
+      "name": "Verity Harding",
+      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "website": "https://t.co/7skid8sUXc",
+      "twitter": {
+        "username": "verityharding",
+        "url": "https://twitter.com/verityharding",
+        "followers": 2514
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1179858918132142080/UucjikYj_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Verity Harding",
           "isCached": true
         }
       ],
@@ -647,103 +804,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/harry-shum.md",
-      "title": "Harry Shum",
-      "excerpt": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/harry-shum/index.json",
-      "webUrl": "https://everyday.cc/ai/people/harry-shum/",
-      "type": "profile",
-      "name": "Harry Shum",
-      "bio": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "location": "Redmond, WA",
-      "website": "http://t.co/NY3kFUGs7a",
-      "twitter": {
-        "username": "harryshum",
-        "url": "https://twitter.com/harryshum",
-        "followers": 17232
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 48826
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Harry_Shum"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Harry Shum",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/huahai-yang.md",
-      "title": "Huahai Yang",
-      "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/huahai-yang/index.json",
-      "webUrl": "https://everyday.cc/ai/people/huahai-yang/",
-      "type": "profile",
-      "name": "Huahai Yang",
-      "bio": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
-      "location": "San Jose, CA",
-      "website": "https://t.co/s5ydlRJnm8",
-      "twitter": {
-        "username": "huahaiy",
-        "url": "https://twitter.com/huahaiy",
-        "followers": 972
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/huahaiyang/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
-        "citations": 13488
-      },
-      "affiliation": {
-        "path": "",
-        "name": "juji.io",
-        "domain": "juji.io"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Huahai Yang",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/jacob-searcy.md",
       "title": "Jacob Searcy",
       "excerpt": "Jake Searcy joined UO's Data Science Initiative from Michigan where he worked for Ford Motor Company, developing novel AI methods in their Global Data Insight and Analytics department. He began his data science career as a University of Michigan particle physicist, building data pipelines and applying machine learning techniques to the vast datasets produced at CERN's Large Hadron Collider. He currently collaborates with researchers across campus to implement AI solutions for emerging research problems and is the Associate Director of AI for UO's Research Advanced Computing Services. Searcy received his PhD from the University of Oregon in 2012.",
@@ -816,44 +876,6 @@
           "height": 120,
           "title": "James Peng",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/jean-liu.md",
-      "title": "Jean Liu",
-      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jean-liu/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jean-liu/",
-      "type": "profile",
-      "name": "Jean Liu",
-      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "location": "Beijing, China",
-      "twitter": {
-        "username": "jeanliuqing",
-        "url": "https://twitter.com/jeanliuqing",
-        "followers": 1416
-      },
-      "weibo": {
-        "url": "https://www.weibo.com/u/2209030102",
-        "followers": 1906714
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jean Liu",
-          "isCached": true
         }
       ],
       "content": "\r\n"
