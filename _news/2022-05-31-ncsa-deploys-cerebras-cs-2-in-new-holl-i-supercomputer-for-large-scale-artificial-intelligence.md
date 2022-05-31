@@ -2,21 +2,18 @@
 category: news
 title: "NCSA Deploys Cerebras CS-2 in New HOLL-I Supercomputer for Large-Scale Artificial Intelligence"
 excerpt: "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, today announced that the National Center for Supercomputing Applications (NCSA) has deployed the Cerebras CS-2 system in their HOLL-I supercomputer."
-publishedDateTime: 2022-05-31T14:46:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/31/9611780.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/31/9611780.htm"
+publishedDateTime: 2022-05-31T14:43:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-31-ncsa-deploys-cerebras-cs-2-in-new-holl-i-supercomputer-for-large-scale-artificial-intelligence"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-31-ncsa-deploys-cerebras-cs-2-in-new-holl-i-supercomputer-for-large-scale-artificial-intelligence"
 type: article
-quality: 5
-heat: 5
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-secured: "1LXC68lIo9xmvUOW3QV2+N+NOlFZubxFw9uwaO7kO4RQ+ZOlm0V/AfwChmTBqukl2K3vlx9B2FJIfGv3wKVMJqR53G+/G6wLamFWa80L0oQEc+lDZEcNqFfUk3+yotdRUT7tsj8TU50sU5OaFsVq46IKz1RvIZ65xNm50ufIZHteO1R60hzPPpgVFVUJJSGFOSwot+7uy1SDIPI3kg+6mI2jC9STWggM8Z9bniKHWK8/IrCvokD2yhzEbXzA5P9FxJUY5sXeHN9nWzY2IHH9qSnWOUc4ud0AIqoXfA/27BPU+4YK1Hi7HaNl2PFPApwwKQ/m1x0H2tvVJrt70Cfv2FNUtpUd6/YkYieO64aAgUs=;1ByhlcbxKEhvrHLFx1h5Tw=="
+secured: "XnmVrXYa0By5lOtWuPPuxt4d6fOW8+gO0a1QJcdZ49/Ixx4GurHBFlwAo864YPpwSaIhLS/IzSCWwd8HIWF7Ls9nbEFTLZEEl7tvEFjpO34kkoRzp5EUtDvSSQE+Ac3k+LnTxvR8LRfbMgj5SonCG9jKEc5vVnqLdaNBIgaA3/5CZoLDdxkEkQcNEuHt8TySTFBt4jCgfaVY3FxXaTIwa1f2N1p7clBOSjeWHQFo084VUDlVN0CIzCkxsdiNRK4MbbHk6nx2izGd2zVCBhAV/NLEP32QB1kWPR0it46ZgUQaSrVo2leb0GQ5Hdiu4doz6xB2MzwRPNcju8a15PjL0Mpy0H22J/3YOfTAfkNqSQQ=;WrdzNC/ivaaUDKjyq6WaEw=="
 ---
 

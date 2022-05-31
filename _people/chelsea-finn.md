@@ -14,7 +14,7 @@ website: https://t.co/R71YZ0CUzE
 twitter:
   username: chelseabfinn
   url: https://twitter.com/chelseabfinn
-  followers: 44870
+  followers: 44869
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1xw2vTsAAAAJ
@@ -24,7 +24,7 @@ topics:
   - AI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1173119656665604101/Ke_EP63l_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1531702062487965698/a6iO2pRx_400x400.jpg
     width: 400
     height: 400
     isCached: true
