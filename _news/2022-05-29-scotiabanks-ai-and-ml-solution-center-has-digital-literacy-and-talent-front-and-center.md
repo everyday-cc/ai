@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-and-ml-solution-center-has-digital-literacy-and-talent-front-and-center/amp/"
 type: article
 quality: 96
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scotiabank’s Perspectives On AI/ML Governance And Future"
+    excerpt: "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank. This blog focuses on AI Governance and Future views of Scotiabank's AI and ML practices."
+    publishedDateTime: 2022-05-31T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//6105c099fb00ca9f0f49f14a/0x0.jpg?format=jpg&width=1200"
+        width: 986
+        height: 553
+        isCached: true
   - title: "Operationalizing Advanced Analytics And AI At Scotiabank."
     excerpt: "This is a five blog series focused on Scotiabank's AI and ML approaches. This is blog four and discusses operational successes and lessons learned."
     publishedDateTime: 2022-05-30T05:20:00Z

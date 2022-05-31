@@ -62,6 +62,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cyber Security in Robotics Market Trends, Application Analysis and Growth by Forecast to 2022 – 2029"
+    excerpt: "Cyber Security in Robotics Market is slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. A new market research report by Future Market Insights on cyber security in robotics market includes an industry analysis 2014-2021 and an opportunity assessment 2022-2029."
+    publishedDateTime: 2022-05-31T10:38:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/31/cyber-security-in-robotics-market-trends-application-analysis-and-growth-by-forecast-to-2022-2029/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 36
   - title: "Computer Vision in Healthcare Market Trends 2022, In-Depth Analysis of Industry Growth and Forecast Up To 2028 |Top key players: NVIDIA Corporation"
     excerpt: "Computer vision has been used in various healthcare applications to assist medical professionals in making better decisions regarding the treatment of patients. Medical imaging or medical image ..."
     publishedDateTime: 2022-05-27T12:07:00Z
@@ -77,6 +86,6 @@ related:
         height: 337
         isCached: true
 
-secured: "vRB95SgPQgHi6lRf8hnmdJqaOPvqNLWmpPHF+pNsWS+VTbU8oLOrAGRwFMYxLTFPjnRSbnqL5+uJOAuag478LR3pBXxhW8zuC++c2xVikZDt4zG/dWHpAxkWTcDuH4XZjJgbqkawo83WN3PYHwSub1+KTr6M+9oaRcOIqbbxbAOMMX73yFHXedidUMPsZwC5Rgf02XCClIASl9EHoZ7jSCWcynaGB9zYDLu2w1RLzZRIdR8JtNlpAu6vmbUtZTuJmBUrNRNQ3O4kjy/OU4UkPQWTE5b1leYWjIEFO+/w5k1zW5ZaqUrMIGGeBc7SogR1bTVeudJ7a54lvwXR7ZI4e2YqBSu9xmTjp5RDlPOJLxY=;sIFkh5mYWSp92R+MTO9lsw=="
+secured: "dCF3NefBQzjTA20ILNLCSLo1R+OHIsL2IpImDHBgp3qYuQSPxrh6/rObt92EGTSAREcaFOwLC3wzfcvkspNx1Nmz4IO8dIW+4WvJPQc1JC/9xWyl9V7eXks1ayQGTRDt62Yy28KIECETzODmkMew7ev4opJUGleqICl8yfQritZ7pr4AY0Nl4Xh0z/n3R3S6tgkucMMDu78qaXWKldeVCfX/tKoOJTJ30fT4NPERBzuJahSDt7NG0sqDNazmKyLhhDrfRu1mCmhpyJS0WfOEFRRXKAVfhZDNX3O2+58GZ2Z7pA71KrlFlyBBNt9qTMfubeMHy7ZB2ykNnjyhhRHt1XgH9xVFEWDbmHORjnpJVdKsb0okRjqcoFThc2fknZxvpugp9B1kUiSQIuLwYZ4W4Sqgh5ogyP0Vxetot42Go5OtIxdmzGTuUVV3BeE0olFM8ng01dM3nfJj8dLnJzQarL4ixp3JUFHcAVeXUFesqA8kFkXvDUYWplunp7WOW+9tJH6Du00mwJmWwHdi5+6f5g==;6W04MPrUXGK6CxoMqwEFbw=="
 ---
 

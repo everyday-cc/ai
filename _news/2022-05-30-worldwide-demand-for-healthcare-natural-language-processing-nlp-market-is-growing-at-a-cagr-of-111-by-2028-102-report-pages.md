@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cyber Security in Robotics Market Trends, Application Analysis and Growth by Forecast to 2022 – 2029"
+    excerpt: "Cyber Security in Robotics Market is slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. A new market research report by Future Market Insights on cyber security in robotics market includes an industry analysis 2014-2021 and an opportunity assessment 2022-2029."
+    publishedDateTime: 2022-05-31T10:38:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/31/cyber-security-in-robotics-market-trends-application-analysis-and-growth-by-forecast-to-2022-2029/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 36
   - title: "Computer Vision in Healthcare Market Trends 2022, In-Depth Analysis of Industry Growth and Forecast Up To 2028 |Top key players: NVIDIA Corporation"
     excerpt: "Computer vision has been used in various healthcare applications to assist medical professionals in making better decisions regarding the treatment of patients. Medical imaging or medical image ..."
     publishedDateTime: 2022-05-27T12:07:00Z

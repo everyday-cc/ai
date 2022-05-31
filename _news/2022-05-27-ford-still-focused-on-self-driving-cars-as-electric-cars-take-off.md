@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Car Startup Loses License in California"
+    excerpt: "But even so, the push to bring more self-driving cars to the roads has continued its march forward. There are currently around 1,400 self-driving cars, trucks, and other vehicles"
+    publishedDateTime: 2022-05-26T21:36:00Z
+    webUrl: "https://www.thestreet.com/lifestyle/self-driving-car-startup-loses-california-license"
+    ampWebUrl: "https://www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/lifestyle/self-driving-car-startup-loses-california-license"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg5NzU3MjA2MzgyNTE5OTk2/pony-ai2.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "What’s going on with self-driving cars right now?"
     excerpt: "One self-driving car company has experienced a setback, but others keep charging ahead. Here's what the major players are up to right now."
     publishedDateTime: 2022-05-28T14:00:00Z

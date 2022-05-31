@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Globus.ai Closes $4.8M Seed Funding"
+    excerpt: "Globus.ai, an Oslo, Norwayt-based AI staffing company, raised $4.8m in seed funding. The round was led by Alliance Venture and Scale Capital. The company intends to use the funds"
+    publishedDateTime: 2022-05-31T11:10:00Z
+    webUrl: "https://www.finsmes.com/2022/05/globus-ai-closes-4-8m-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/05/globus.jpeg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "DaveAI A Nasscom Deeptech Club Start-up Specializing in Visual AI Raises Strategic Round of Funding by Marquee Investors from Japan and India"
     excerpt: "PTI takes no editorial responsibility for the same.) Bengaluru, Karnataka, India (NewsVoir) • Investment led by Maruti Suzuki, GHV, Hakuhodo Inc., with participation from existing investors Mumbai Angels & IIIT Seed fund DaveAI,"
     publishedDateTime: 2022-05-30T10:57:00Z

@@ -35,15 +35,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "Sophisticated AI Solutions for healthcare sector"
-    excerpt: "Healthcare solutions utilise sophisticated and automated data harmonizers, efficient big data systems, advanced statistical knowledge, and extensive domain experience"
-    publishedDateTime: 2022-05-26T19:30:00Z
-    webUrl: "https://www.thehansindia.com/business/sophisticated-ai-solutions-for-healthcare-sector-745149"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 34
   - title: "Smarter health: How AI is transforming health care"
     excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
     publishedDateTime: 2022-05-27T18:00:00Z

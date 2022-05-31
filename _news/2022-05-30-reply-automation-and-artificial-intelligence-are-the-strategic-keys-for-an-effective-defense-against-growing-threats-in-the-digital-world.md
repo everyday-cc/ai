@@ -1,30 +1,33 @@
 ---
 category: news
 title: "Reply: Automation and Artificial Intelligence Are the Strategic Keys for an Effective Defense Against Growing Threats in the Digital World"
-excerpt: "Smart Homes, Connected Cars, Delivery Robots: this evolution will not stop and so, in tandem, it will be necessary to develop automated and AI-based solutions to combat the growing number of security threats."
-publishedDateTime: 2022-05-30T09:36:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa"
-webUrl: "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa"
+excerpt: "the adoption of hyperautomation techniques has demonstrated how artificial intelligence and machine learning represent possible solutions. Furthermore, these technologies will need to be applied at every stage of protection, from software to infrastructure ..."
+publishedDateTime: 2022-05-30T10:02:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220530005087/reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world"
+webUrl: "https://www.morningstar.com/news/business-wire/20220530005087/reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world"
 type: article
-quality: 22
-heat: 22
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Robotics
   - AI
-  - AI in Healthcare
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+related:
+  - title: "Mintlify taps AI to automatically generate documentation from code"
+    excerpt: "Mintlify, a startup developing software to automate software ... code is well within the realm of possibility with today’s AI techniques. That’s evidenced by the fact that Mintlify has several ..."
+    publishedDateTime: 2022-05-30T12:10:00Z
+    webUrl: "https://techcrunch.com/2022/05/30/mintlify-taps-ai-to-automatically-generate-documentation-from-code/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
-secured: "3ez2nmCCk1U4PT7K2RSDnKo/YVkwvDi9/x8b8shAk/iNjt8hp/T/ypgP2D+EFBySi0fli8q9KvKy1Gp2q9zPQKFUgQsUH+BMe/VPdhAQHCcIV6S2q5W9gHZvB0SuuUcu0u0T2wXBYuyF1BlphYphquwCeTw4R7uTzo3fW7pBpuKg6wq8fd6ArZsjiuDGgtff3/KJk34AGQApO4/DVzJ9Ct7XykSikyqSyLAIR/HyU8OzskT6AVEbIVrf3FiyXh5w0xQhLGKJLD19Z7raEMx3s0vugNJee1Yk3QIIrTVdL7e3hLhkTSTz69yiWnHApA5X4chQbX4ObhU/D/NSvypJWBanvoopR8qeC4/vYuy55A8=;nDTMxURIKaX6GQC2hev86A=="
+secured: "MevQOA483c4XWI1Xt+MgCtR7O5PeiazPpULSMBBLvGlcvLXVEfVsHt/MRgFwRlcwysgXU6/ZSdCmE5unwnZDy3DKSMjlqAwqOtwMEq51DAVZFkIAnjWzuD47qJOaEfKnUsvW1uXyKewmiiDfjcYz2wG8pa5YH8ADmd/blI5Zm7O6LhO1vo3tJfVbD8PmYbjTbYMYOiYr3PPHywuUblD/mSrQ2rFRmbQw21LqR5y5ZzTo4z7H6GDS+AZbLqCC9jmw7C7h6nK8XfIH0j5ojkQEjTjWhBZ+XYgiRUiHnDriaqZn1Az9nPL5kErstEsv+y9uU7ZMKyyFfDNWoz66waTV/Rq70jBPYGPFYaLCnSOVSoU=;OWFVmM9DOftzUBvB9j19pw=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Naspers Foundry invests R40m in fintech start-up LifeCheq"
+    excerpt: "LifeCheq platform uses AI to lower the cost of financial advice and planning, and marks Naspers fifth investment in fintech sector"
+    publishedDateTime: 2022-05-31T10:20:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/telecoms-and-technology/2022-05-31-naspers-foundry-invests-r40m-in-fintech-start-up-lifecheq/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/telecoms-and-technology/2022-05-31-naspers-foundry-invests-r40m-in-fintech-start-up-lifecheq/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/telecoms-and-technology/2022-05-31-naspers-foundry-invests-r40m-in-fintech-start-up-lifecheq/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/AVpMdvOklSaGki_ihilHa3pmE5NREwThg3Ibcye5LIFIpx3cfp3zXTKb8YXRtofx8XOtEdW4N0WcDmMAQj9rwkdSFpSI0ukGA-10WgnB_fRJ=s750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Fintech offers healthcare providers tools for optimum financial health"
     excerpt: "UAE Based SANTECHTURE supports growing regional sector with evolved, proven, and compatible AI solutions for Revenue Cycle Management"
     publishedDateTime: 2022-05-30T14:37:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://static.zawya.com/version/c:NGRlN2FiMmEtNzFhNi00:YjJiNjVm/two-woman-with-hijab-working-on-laptop-in-office.jpg"
         width: 788
         height: 526
-        isCached: true
-  - title: "27/05 – Weekly Fintech Recap"
-    excerpt: "Partnerships Laiye Partners with Accenture to Power Intelligent Automation and Innovation at Scale Laiye, a leading Intelligent Automation (IA) provider, announced a partnership with Accenture, a global professional services company with leading capabilities in digital,"
-    publishedDateTime: 2022-05-27T11:14:00Z
-    webUrl: "https://financialit.net/news/digital-banking/2705-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_13.jpeg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Fidelity partners with Canadian fintech Conquest to support advisers"
     excerpt: "Fidelity International has partnered with Canadian FinTech company, Conquest, as the exclusive distributor of its financial planning software, ‘Conquest Planning’ to the UK independent advice market."
@@ -82,6 +84,6 @@ related:
         height: 1136
         isCached: true
 
-secured: "EAllsjfOg2tzJ3GFNVbb5CIc8+1akXiV1s/003m4fIj7AkjEb5UFvuf/x7UqSNp4y+p7i6qgF3gMfP90H+HAzkeOnpkBneiubdZ/rqTLN5NaUyuXOei3i2Nx1mfeEP9ALkATbnNbBlxEb/cNHIJ4qO37Q7KvaERm/BCqDb5RVCy8HhCxtnj9YEkO8V708MCJLR7bvPM/ppMHeSZSrTEuX55R427BD3Xr45nSjvzO6fElDZhvSCycXQIW120PRT9++ZcAhinMQ3bxsXjddVk5dspFy/AKw/4a88GDoFQPv4ERM+3RcVOwG1DIrqUxS+TIAm6FJaJAh/C90l4vdZC+Fh9Hg9sbEErn7OXV4Lsi2sE=;AKJ+yqDH+pt7R9bDPMY4lA=="
+secured: "fhRURbgOqiXxLdffPYZzdH8Cocy3E21kJqou3rXq6kWI6EFGNCYe4m4SIE6pXmx9e5gz6/1phe6TmUmFZIb2i4jhmImJawUmxyqmUSPYZq9kGjBNdaXtyp7CB2jIzB9hE+3M/1YIqbg4EpRwWni3H5HU/0hSqo7eHUlEs/1dg+5PJC4fbSYQfbF5m6mRaIa7od9/G7tt3osjVbSbSHWUhf8DejclkK6J1BQd+RthnpuKxTsdMuN/AiJvDGRh4WR5NF6x4x3c/sFbyLtGHxN2R2FYKUcrB7J8EwclDK9XSO46FG6t/rDsl2zG5Ogafdmpq6+K7aNGBWGt/FGehz3zVf1gTKXyQ/wO9yPYJr5W/y0vFUdpJgEKmOQsPuYCW66peaC837aMcLn6bmVtgUfuVTe6UH5m/3i7BNXjwKiHGrIfxjNFh/XiSMpx6Ab5HOTolPrBW1TSNIyu/DbuD3dqpGLEHh6zIBp3ESCB7XVtRI90dsHAznpQlTDiKpDb4+GW9ab/nscrIkiDByo5O2Smhw==;h7pIBVXariQI4ef1i4luOA=="
 ---
 

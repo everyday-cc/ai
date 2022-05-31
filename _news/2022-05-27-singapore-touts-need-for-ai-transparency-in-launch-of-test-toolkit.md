@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-touts-need-for-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "From Baristas to Inspectors: Singapore’s Robot Workforce Plugs Labor Gaps"
+    excerpt: "After struggling to find staff during the pandemic, businesses in Singapore have increasingly turned to deploying robots to help carry out a range of tasks, from surveying construction sites to scanning library bookshelves."
+    publishedDateTime: 2022-05-31T10:05:00Z
+    webUrl: "https://english.aawsat.com/home/article/3676046/baristas-inspectors-singapore’s-robot-workforce-plugs-labor-gaps"
+    type: article
+    provider:
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 38
+    images:
+      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2022/05/31/_2022-05-30t010154z_1333151824_rc28st9cm43l_rtrmadp_3_singapore-robots-1653872606.jpg?itok=CuhNygyE"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Resecurity Brings AI-powered Cyber Threat Intelligence to Singapore"
     excerpt: "California-based cybersecurity company showcases innovative cyber threat intelligence and digital risk management technologies at Milipol Asia-Pacific 2022 (APAC) LOS ANGELES, May"
     publishedDateTime: 2022-05-29T07:37:00Z

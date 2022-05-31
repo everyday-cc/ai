@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scotiabank’s Perspectives On AI/ML Governance And Future"
+    excerpt: "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank. This blog focuses on AI Governance and Future views of Scotiabank's AI and ML practices."
+    publishedDateTime: 2022-05-31T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//6105c099fb00ca9f0f49f14a/0x0.jpg?format=jpg&width=1200"
+        width: 986
+        height: 553
+        isCached: true
   - title: "Scotiabank’s AI And ML Solution Center Has Digital Literacy And Talent Front And Center"
     excerpt: "This is a five part blog series on how Scotiabank is advanced its global AI/ML Solution Center. This blog discusses points of view on digital literacy and talent management."
     publishedDateTime: 2022-05-29T16:00:00Z

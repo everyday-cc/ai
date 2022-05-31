@@ -63,6 +63,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Cyber Security in Robotics Market Trends, Application Analysis and Growth by Forecast to 2022 – 2029"
+    excerpt: "Cyber Security in Robotics Market is slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. A new market research report by Future Market Insights on cyber security in robotics market includes an industry analysis 2014-2021 and an opportunity assessment 2022-2029."
+    publishedDateTime: 2022-05-31T10:38:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/31/cyber-security-in-robotics-market-trends-application-analysis-and-growth-by-forecast-to-2022-2029/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 36
   - title: "AI in Fintech Analysis, Share, and consumption by Regional data, Investigation and Growth, Demand by Regions, Research Forecasts To 2030"
     excerpt: "Global AI in Fintech Market to surpass USD 39.87 billion by 2030 from USD 8.9 billion in 2020 at a CAGR of 36.81% in the coming years, i.e., 2021-30. Fatpos Global added a new report into their database named “AI in Fintech Market Segments: By Component: Solution Services By Deployment: Cloud On-premise 2021–2031 Global Industry Perspective,"
     publishedDateTime: 2022-05-31T09:34:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "FOREX Chooses Diebold Nixdorf for Comprehensive ATM Managed Services Deal"
 excerpt: "With this agreement, the entire fleet is now comprised of Diebold Nixdorf devices. The yellow-branded ATMs promote the FOREX brand, increase touchpoint opportunities and ultimately generate additional revenue."
-publishedDateTime: 2022-05-31T09:35:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2022/05/31/9611264.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2022/05/31/9611264.htm"
+publishedDateTime: 2022-05-31T08:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/31/9611264.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/31/9611264.htm"
 type: article
 quality: 23
 heat: 23
@@ -24,6 +24,6 @@ images:
     height: 286
     isCached: true
 
-secured: "7DeS/BjApI7YeX34TDIJQKUVrWQWW+2cn2zhBca1D/ZmN5K4MyQlT2Fw+jgRZ+YL345Xzn7sQ+uwbaKGE+6ITZO0I0+ElK8gGD0nhXxmv76yTjtonxWkgMQ/yYXUMRfPopvZcbaSnmdgexrkjRwHUm3hJwKKU1GyMgz4kFUkmL5tYffni0+I0/zeG3LkmA8SxITPdv42fRsDM/W5PJFR6xJEcB9H5sXc/ZJNDtyPPLB8YN27tfb7lMi8XUtgiHJticMbW1bIRF8Uw7WKyxlgiVj4KvgyZJY4QwUF84qSnsdp8eXqFmgGwIye8Qmc3cVUAsZ4cIOe3TBU2NjPfMCXbGZB4dwI8w3iq6y3l1Py/Gc=;qQ+4bvYsyumeYRR77umwDw=="
+secured: "NxAq2G+PZ2jg+sxx5vDTG79PQcw/cA2JLgLRxjj3YxRC5baYVIolepNCjcdotK37bSO/ef9fjMqanYYmJmMGkIaI+LdS5BWLsfT7XawWNVKv4g30scqw1q/r4X1OCmc6H470rdp87NKhV+MDzwhes3lDL6H4NQDBpCpsIb3IZjuq+YZ0l7+ATvfDGJCPZr/Kmc6+lkIZvJdAbwo9klyQnGY0WfYGuO6Jl5Ps7SmQ5v5u0o2QbaJDXGQoHFMgkwEvaiqqbCarAlvCGapxukHDI6cFqQqRpbg8Q8/hxZYWqzbl69yZeWXbZ+iXpCiLSMcpPD0T3lCxKo9jR+kC/PvP97+ctd94Anu6XwQolgSuHts=;c4j6Z1PFBdrlzP83aSFQ1Q=="
 ---
 

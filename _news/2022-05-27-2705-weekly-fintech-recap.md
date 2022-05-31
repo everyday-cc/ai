@@ -25,61 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech offers healthcare providers tools for optimum financial health"
-    excerpt: "UAE Based SANTECHTURE supports growing regional sector with evolved, proven, and compatible AI solutions for Revenue Cycle Management"
-    publishedDateTime: 2022-05-30T14:37:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/fintech-offers-healthcare-providers-tools-for-optimum-financial-health-fbserwwr"
+  - title: "PEXA buys into AI fintech Elula"
+    excerpt: "PEXA Group – Property Exchange Australia – has taken a 25 percent stack in AI-as-a-service company Elula. Founded by two former Commonwealth Bank executives, Josh Shipman (once CBA’s head of automation and robotics operations) and Sarah Russell (a general manager at the bank),"
+    publishedDateTime: 2022-05-26T22:40:00Z
+    webUrl: "https://www.itnews.com.au/news/pexa-buys-into-ai-fintech-elula-580570"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 41
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
     images:
-      - url: "https://static.zawya.com/version/c:NGRlN2FiMmEtNzFhNi00:YjJiNjVm/two-woman-with-hijab-working-on-laptop-in-office.jpg"
-        width: 788
-        height: 526
+      - url: "https://i.nextmedia.com.au/News/mortgage_approved_home_loan.jpg"
+        width: 1254
+        height: 836
         isCached: true
-  - title: "Fidelity partners with Canadian fintech Conquest to support advisers"
-    excerpt: "Fidelity International has partnered with Canadian FinTech company, Conquest, as the exclusive distributor of its financial planning software, ‘Conquest Planning’ to the UK independent advice market."
-    publishedDateTime: 2022-05-27T08:17:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92779/fidelity-partners-with-canadian-fintech-conquest-to-support-advisers"
+  - title: "Top trends in fintech that will change the way we view and interact with digital assets"
+    excerpt: "The boom of fin-tech has been accelerated by the lockdowns of the pandemic over the last 2 years. Every institution and segment of the market started going digital for their financial solutions. Furthermore,"
+    publishedDateTime: 2022-05-29T07:45:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/top-trends-in-fintech-that-will-change-the-way-we-view-and-interact-with-digital-assets/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/top-trends-in-fintech-that-will-change-the-way-we-view-and-interact-with-digital-assets/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/top-trends-in-fintech-that-will-change-the-way-we-view-and-interact-with-digital-assets/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: India Times
+      domain: indiatimes.com
+    quality: 36
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Naspers Takes A R40 Million Bet On FinTech Platform Empowering Financial Advisers"
-    excerpt: "Naspers (JO: NPNJn ), through its early-stage tech investment vehicle Naspers Foundry, announced a R40 million ($2.5 million) investment in LifeCheq, a FinTech platform empowering financial advisers to provide quality,"
-    publishedDateTime: 2022-05-31T08:47:00Z
-    webUrl: "https://za.investing.com/news/naspers-takes-a-r40-million-bet-on-fintech-platform-empowering-financial-advisers-2563693"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 19
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
-  - title: "CAT Financial Products Launch Active Fintech Value Investment Solution with Fintech Influencer"
-    excerpt: "In a partnership with CAT Financial Products AG (CATFP), he gives investors the chance to invest diversified and in a simple way in the global Fintech companies that not only have huge growth potential in the future,"
-    publishedDateTime: 2022-05-27T05:54:00Z
-    webUrl: "https://fintechnews.ch/roboadvisor_onlinewealth/cat-financial-products-launch-active-fintech-value-investment-solution-with-fintech-influencer/53040/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 12
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/05/Spiros-Margaris-and-CAT-Financial-Products-Launch-First-Active-Fintech-Value-Investment-Solution.jpg?x30842"
-        width: 2048
-        height: 1136
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/Priyank-Kothari-Director-Arvog-1-1-1-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
 
 secured: "gsHtV3x8CQlOokLCZ6ZvMWaPcgs77uhXE24jwmDJT9d0KxUm+tJ98EU7MugOlz7zam4Dk+e5Zii7GE8HDb64WVWxO8ARZBjQuHlW60osHUgoMWcLQRbkHuD+9ng/hSTtCmsQd6MqoTqxRfX6JmfebnUqArGei0Lg1sX7wsWNcRLqXrvrJ0AycSZfwFoMMxxk1arxHAHlVuQaxg38ngkg4wndwzWF21IBcQ4OwW7FfCjUgHokXu8eRkFZCSe6pl5deubUROMmF9pTUlq3w++3JlkYTEGOz3zXK6v3vE+r4co/FgQTxbjoJbhiviRCd9nFW59acUcfS5ezH7pRhInjQGeXDb+mFWrQU1Ow35RzxGQ=;GdviQ1DZpej9h2Xb4Cbs0A=="
