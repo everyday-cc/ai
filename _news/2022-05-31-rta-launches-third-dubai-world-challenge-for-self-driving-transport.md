@@ -1,29 +1,20 @@
 ---
 category: news
 title: "RTA launches third Dubai World Challenge for Self-Driving Transport"
-excerpt: "Dubai's Roads and Transport Authority (RTA) is launching the 3rd Dubai World Challenge for Self-Driving Transport 2023, a first-of-its-kind event in the"
-publishedDateTime: 2022-05-31T06:06:00Z
-originalUrl: "https://arynews.tv/rta-launches-third-dubai-world-challenge-for-self-driving-transport/"
-webUrl: "https://arynews.tv/rta-launches-third-dubai-world-challenge-for-self-driving-transport/"
+excerpt: "Over US$2 million prizes up for grabs, submissions will focus on self-driving buses  Dubai: Submission of entries for the 3rd Dubai World Challenge for Self-Driving Transport 2023, is now open, the Roads and Transport Authority (RTA) has announced on Tuesday."
+publishedDateTime: 2022-05-31T10:17:00Z
+originalUrl: "https://gulfnews.com/uae/transport/rta-launches-third-dubai-world-challenge-for-self-driving-transport-1.88262334"
+webUrl: "https://gulfnews.com/uae/transport/rta-launches-third-dubai-world-challenge-for-self-driving-transport-1.88262334"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: ARY News Live
-  domain: arynews.tv
+  name: Gulf News
+  domain: gulfnews.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://arynews.tv/wp-content/uploads/2022/05/dubai-self-driving.jpg"
-    width: 750
-    height: 369
-    isCached: true
-
-secured: "Voh/0EI83Fegool/RNKyr3YEcpMUzw+bP6QmnKGbSV5JEOcqvf6VEL+wIFYQ8HZNmEAHv5X0qGbn5nDmO98UnsAbaA3W2Ro3IRrGkvBwEkhj2+Ev6pTOYG9tma23+zpbH4/14BbdfktPSm/eYx2FHTz6HR1MvZnXRrnrc+uVI8cUpKjU3sOQMIS8RPm8RTW0TCJFI1jLEWXhHoP09QML/4kbUvq10Tc3mREn+DZbOIZ7euYE58JlrXkkq2T67z0SE/Clfr/qVhGsXgPvrWwTm6023/9merTp49PzysGUCr3uByyw81Mhehp6d5jAMBiHdnYc6lVL9nrV9Htc4nFLLRwAvPOH7UYkACCaWNY3NXM=;mJSrfBKCTq0JBsfZzbw+Fg=="
+secured: "4C1CdXVEb71mI8UqZsSXni7EWmnUN58s4tjooHdg4tGLABlgmDOYPKLaRdEOX7QTFtcS4chmHKmWMZY6oAKQf+j/a9+zq98c8mXmQr03g0PURNgENvG8VH0r1rPLGBaTwlxdZ3o3m97yuCeg13oMPU9JsecixjqVPapp94ALYCcB2pEt2Xvire4tyeicBFFsb0/dh+TrAITRQbmwcoBYkl+Yk+wIbKHPXk34m9mNXA6HMoEiqlVk49qvMEOhm8RIwrWbmMPTFTunl36ozdmZd6dM3Mv1Zv3sTppw9Bj1HgGUUjRX29MWIOWHDvGhgqDaLW+RWmqDYhEqKbPr5Tzdef+tdj7tJzVtRxQ22LeBSf8VBgy7XVol1SxVmILpJMPF8kU0PpD1dHqv27vdeP72+pngqs0nmMbQ1TWNnch9CiQbTN1kqbNUsYxv3+kzkkZ0bZj6EioFBUmtecbe9xwNVQzGe/dFu2i7nB9pi5ZkemNKy0pddg/o2OnaMqKz0mFCBacwbB9EbG8n+6STBH20kw==;IiSBIoFAIzkRd6zWk+ewLg=="
 ---
 
