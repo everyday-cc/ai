@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 773
         isCached: true
-  - title: "TigerGraph launches Workbench for graph neural network ML/AI modeling"
-    excerpt: "The ML Workbench is also plug-and-play ready for Amazon SageMaker, Microsoft Azure ML, and Google Vertex AI, Lee said. The ML Workbench is designed to work with enterprise-level data. Users can ..."
-    publishedDateTime: 2022-05-26T16:40:00Z
-    webUrl: "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling/"
-    ampWebUrl: "https://venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/tigergraph-launches-workbench-for-graph-neural-network-ml-ai-modeling/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/02/machine-learning-e1653607121457.jpg?w=1200&strip=all"
-        width: 1200
-        height: 773
-        isCached: true
   - title: "TigerGraph Unveils ML Workbench, Winners of Its ‘Graph For All Million Dollar Challenge’"
     excerpt: "TigerGraph also says its ML Workbench is plug-and-play ready for Amazon SageMaker, Microsoft Azure ML, and Google Vertex AI. “Graph has proven to accelerate and improve ML learning and performance, but the learning curve to use the APIs and libraries to ..."
     publishedDateTime: 2022-05-27T21:10:00Z

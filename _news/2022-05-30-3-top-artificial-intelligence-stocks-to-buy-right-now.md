@@ -1,15 +1,15 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Next, we look for solid companies in growing industries that may have become undervalued. Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take ..."
-publishedDateTime: 2022-05-30T11:08:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802"
+excerpt: "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,"
+publishedDateTime: 2022-05-30T10:45:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
 ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -17,8 +17,9 @@ provider:
   domain: nasdaq.com
 
 topics:
+  - AWS AI
   - AI
 
-secured: "7Kzgu5Oqz5BG9zn1bQuk9BuSLXpTBfxQi/0VYnzcLQ1FKpQwottsnHMOKYt2I8Y4QggCuQw1UjcZgGBFXMXOjdPJIQ2+t85+gfPSLmCTeSOf8cFN5nx7VWJpiAmMQAfX2j4LP8/4+IEWM7HPZaVfZoT+CnxTye2CkuFtOWNb/H/Q54thZEUHwCuFn3qUyYkKCsFZupdlU+km6wcPRQVFbyxKWC+no1GsSSz1aTLm57m98BFXwJbcdPbsC/3C1UuAqIaomhzNkJBDt1QXfPZmAHZFF2tNYTIZvcTpyzuYsmzV25OkfUcY5NjVHCblMSuJefHYC10/LornbZ+B2k0rHJSr7uBDVCpymtuNeyqyVBSC4YzVen+9triIt9puCJXr+tPpy9tmybO57c3lHWO3PTPWyW32XxHUlsFAcFAC1FbV604wElBEBhlujQfdR4mL+DwXbZp3SGlvb7KxspqoIalxIrWvAh9NvCc5x0c+T8gP/YHHYfFziy8j+ShD9TXpimx9lR7inMQN5sa3I4M7ZQ==;SlMQjODtp5MKQJ7ZPjQJsQ=="
+secured: "5HwUrEJPTpwuSC4459CMy2CBu8eXQhdD2DaXcbulqnx1zISQkaBV2uye9LlQ9s2dtSFaesQw8z5FefNGcl/+V9To5GyOk98hV5BT4BjuKtlWd3FLwgynXcvAq9VIuK2CCPh8mtZpGqD7JfiIZX5AxAGLz44o4m2QsWPGyolqrfc+LOxFzqKNiPFWAZwG+nSuQeqtFfptpUbggl3dGXWreYgber/nSv5OJ6kM4DbbVeCc+E+Ecpb9r3D2vGIdVQSpCD8p9QtLwBu8+TmHxpDXota77YX6qbTBv1PRyByM/9BCeyiYxs7TEye+aE9Ffj1TbkELuq+JjvIx+3RUQllHHvtywOKay5f3C4yde7AExFznDc8X+AMuLilwFKSrGGra8Fbirx8Pema2hT0Q2TbED4yR2FmYKx2A7PmMsf+YCfZGs924KRKWeKHMqZ66terWB0r6T/OQ/NrVQ+4d2ichu7hiZh32LO5KkEc8/545IrucV+iljCHX4NERfYr9bFPDb719L9ID34Dj5uxaDWGLnQ==;Qut9oF3jRj5yr9jZvY49CQ=="
 ---
 

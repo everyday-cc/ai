@@ -2,6 +2,135 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-03-15-jim-isaak-think-more-click-less-to-thwart-ai-manipulation.md",
+      "title": "Jim Isaak: Think more, click less to thwart AI manipulation",
+      "excerpt": "You can choose whom you do business with” — he points out that private businesses like GoFundMe can establish their own guidelines, in this",
+      "sourceUrl": null,
+      "webUrl": "https://www.unionleader.com/opinion/op-eds/jim-isaak-think-more-click-less-to-thwart-ai-manipulation/article_74fd5148-f1a2-52d0-be5f-c324e731474f.html",
+      "originalUrl": "https://www.unionleader.com/opinion/op-eds/jim-isaak-think-more-click-less-to-thwart-ai-manipulation/article_74fd5148-f1a2-52d0-be5f-c324e731474f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/8/57/857171a0-ad1e-5411-919b-2c7a347aabc5/622f633a9359e.image.jpg",
+          "width": 382,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Hampshire Union Leader",
+        "domain": "unionleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-cerebras-brings-wafer-size-ai-chips-to-medical-data-analysis.md",
+      "title": "Cerebras brings wafer-size AI chips to medical data analysis",
+      "excerpt": "AI chip startup Cerebras Systems has deployed one of its CS-2 systems at a well-funded startup that uses natural language processing to analyze massive amounts of biomedical data. As announced on Monday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
+      "originalUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/14/cs21_7nm_planview_dinner.jpg",
+          "width": 9144,
+          "height": 6094,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
+      "publishedDateTime": "2022-03-14T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-15-googlers-and-co-offer-video-dataset-generating-kubric.md",
+      "title": "Googlers and co offer video dataset-generating Kubric",
+      "excerpt": "If you need more complex data, such as video footage with depth and object annotations, your available sources dwindle further. Fake computer-generated material avoids these problems by giving you exactly what you need,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/15/deep_learning_vision_kubric/",
+      "originalUrl": "https://www.theregister.com/2022/03/15/deep_learning_vision_kubric/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/15/shutterstock_3d_objects.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/15/deep_learning_vision_kubric/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/15/deep_learning_vision_kubric/",
+      "publishedDateTime": "2022-03-14T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-15-firms-step-up-to-cash-in-on-robotaxi-biz.md",
       "title": "Firms step up to cash in on robotaxi biz",
       "excerpt": "A Baidu Apollo robotaxi is seen in Beijing in December. HUANG YONG/FOR CHINA DAILY Competition in China's autonomous driving sector is set to heat up as several self-driving companies are accelerating commercial operation of self-driving taxis to provide ...",
@@ -926,126 +1055,6 @@
       "provider": {
         "name": "IBTimes India",
         "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-kbc-launches-ai-fintech.md",
-      "title": "KBC launches AI fintech",
-      "excerpt": "Belgian bank KBC has launched its own fintech to sell the AI applications it has developed to third parties. Called Discai, the separate legal entity will focus on selling AI-based applications to business-to-business firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/39862/kbc-launches-ai-fintech",
-      "originalUrl": "https://www.finextra.com/newsarticle/39862/kbc-launches-ai-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-nference-accelerates-self-supervised-language-model-training-with-cerebras-cs-2-system.md",
-      "title": "nference Accelerates Self-Supervised Language Model Training with Cerebras CS-2 System",
-      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) compute, and nference, an AI-driven health technology company, today announced a collaboration to accelerate natural language processing (NLP) for biomedical research and development by orders of magnitude with a Cerebras CS-2 system installed at the nference headquarters in Cambridge,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-health-artificial-intelligence-ef5e8ac5c096420cb73f8e3812348db2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-14-artificial-intelligence-robotics-technology-park-launched-in-ktaka.md",
-      "title": "Artificial Intelligence & Robotics Technology Park launched in K'taka",
-      "excerpt": "Artificial Intelligence and Robotics Technology Park (ARTPARK), the first of its' kind in the country, a not-for-profit foundation has been launched i..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-90204240,imgsize-44018,width-1200,height-628,overlay-etcio/artificial-intelligence-robotics-technology-park-launched-in-k-taka.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/artificial-intelligence-robotics-technology-park-launched-in-ktaka/90204240",
-      "publishedDateTime": "2022-03-14T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

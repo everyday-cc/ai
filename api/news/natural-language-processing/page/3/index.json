@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-29-open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search.md",
+      "title": "Open source NLP company Deepset nabs $14M to power ‘plain-English’ enterprise search",
+      "excerpt": "Deepset has built an open source NLP framework called Haystack, which helps companies build pipelines to power plain-English data queries.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/",
+      "originalUrl": "https://venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/DeepsetFounders.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/amp/",
+      "publishedDateTime": "2022-04-28T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners.md",
       "title": "PowerVoice, the world's best AI voice biometric technology, is recruiting global partners",
       "excerpt": "“Panoramic view of Korea Water Resources Corporation’s artificial intelligence control room remotely monitored with the voice recognition function of Power Voice” PowerVoice claimed to have commercialized the world’s first voice recognition service ...",
@@ -1283,49 +1335,6 @@
       "provider": {
         "name": "HealthTech",
         "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-18-15-ideas-to-build-brand-recognition-in-a-crowded-marketplace.md",
-      "title": "15 ideas to build brand recognition in a crowded marketplace",
-      "excerpt": "When you are just starting out in the market, it may be hard to achieve immediate recognition as the newest player on the field or compete for clients in a crowded space. To pique consumer interest in an oversaturated space,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90740025/15-ideas-to-build-brand-recognition-in-a-crowded-marketplace",
-      "originalUrl": "https://www.fastcompany.com/90740025/15-ideas-to-build-brand-recognition-in-a-crowded-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/04/15-ideas-to-build-brand-recognition-in-a-crowded-marketplace.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
         "images": null,
         "publishers": null,
         "authors": null

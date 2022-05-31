@@ -63,8 +63,8 @@ related:
         isCached: true
   - title: "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words"
     excerpt: "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report"
-    publishedDateTime: 2022-05-30T08:25:00Z
-    webUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition"
+    publishedDateTime: 2022-05-30T08:37:00Z
+    webUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
     ampWebUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
     cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
     type: article

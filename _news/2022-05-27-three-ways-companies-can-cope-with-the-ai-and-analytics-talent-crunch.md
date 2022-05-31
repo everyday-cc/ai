@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Professor earns Fulbright U.S. Scholar award to study data analytics and AI in healthcare in Morocco"
-    excerpt: "Rachida Fachtal Parks, associate professor of computer information systems at Quinnipiac, earned a Fulbright U.S. Scholar award and will travel to Morocco this fall to study data analytics and artificial intelligence (AI) and explore how they are used to improve quality and safety in healthcare."
-    publishedDateTime: 2022-05-26T18:28:00Z
-    webUrl: "https://www.qu.edu/quinnipiac-today/professor-earns-fulbright-u.s.-scholar-award-to-study-data-analytics-and-ai-in-healthcare-in-morocco-2022-05-26/"
-    type: article
-    provider:
-      name: Quinnipiac University
-      domain: qu.edu
-    quality: 19
   - title: "Thetaray Wins“AML Solution Provider Of The Year Award” At Dubai's Middle East Banking AI & Analytics Summit 2022"
     excerpt: "ThetaRay, a leading fintech providing AI-powered transaction monitoring technology, today announced it was named winner of the“AML Solution Provider of the Year Award” by Middle East Banking AI & Analytics 2022."
     publishedDateTime: 2022-05-27T19:49:00Z

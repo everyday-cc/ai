@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 638
         isCached: true
-  - title: "CouponXOO Personalizes in Digital User Experience with Artificial Intelligence and Machine Learning"
-    excerpt: "CouponXOO has concentrated on developing and innovating their digital coupon platform to improve the personalization in user experience on the"
-    publishedDateTime: 2022-05-26T16:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/couponxoo-personalizes-in-digital-user-experience-with-artificial-intelligence-and-machine-learning"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 40
-    images:
-      - url: "https://www.getnews.info/uploads/3e204a6ed40263fb567aa8ecf36e775b.png"
-        width: 281
-        height: 270
-        isCached: true
 
 secured: "CrDJwhpdJpJ1HEbEP7Qc9B/knShc+Gh85WPhE8QQLsJQ80LD3kY9bQGpuDdRgDRJCML5LMiAReSKrw5ck+mC4GrakUfYpZqQZWs8iVqTNwvPHBMnJIcw5ifPJOEtsEHh26gRZlA0Rem89pNR79w6LYyIAwW6VbaM1McBwRhLytwkemlbTS6FgxcquVobrxg7PfC5v+svo8skTkGQXZ9hEDoMQSPYf+4kFQepLpjrinsESXTPf209iUaaEqWD28zAOAwEKDqf1Xd0Fij9G2BXtknCHORZ2yx+lXUDxOEbryPwDz3hkXkn1JguyqW5iDyx9Eeco3vOj7DUcu0vAvhBjx3mjeF1wKZmUND+5IKWgEo=;lUNpRVr74694/IKCw6VAwQ=="
 ---

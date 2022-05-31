@@ -33,15 +33,6 @@ related:
         width: 2560
         height: 1710
         isCached: true
-  - title: "Professor earns Fulbright U.S. Scholar award to study data analytics and AI in healthcare in Morocco"
-    excerpt: "Rachida Fachtal Parks, associate professor of computer information systems at Quinnipiac, earned a Fulbright U.S. Scholar award and will travel to Morocco this fall to study data analytics and artificial intelligence (AI) and explore how they are used to improve quality and safety in healthcare."
-    publishedDateTime: 2022-05-26T18:28:00Z
-    webUrl: "https://www.qu.edu/quinnipiac-today/professor-earns-fulbright-u.s.-scholar-award-to-study-data-analytics-and-ai-in-healthcare-in-morocco-2022-05-26/"
-    type: article
-    provider:
-      name: Quinnipiac University
-      domain: qu.edu
-    quality: 19
 
 secured: "BL/XGMnM5KS5eX3n96diBi4VHXi4umSuP58fbDKFONSUH5oU/B7+ZPL3B6sd6BltpKg+b5i9D4ng2ebENaJuyySPABorw3PW1aNIWzHpO9nbrvCZ2sQ3n+n9a0n0OP5Ps0zeZjgachmp3Q6lYGSUo/O5Vrqbi143SxE3ovE3Zp1+6/x/0VHsBys12CfDZbRPRh56f1ZDWlHsKW/Gk770LcT4tkbrxi/E9AIBpsoxgtY+aBFvFBceR9QndDKOX9nC9IEkEsp6be7fLI+6BeimXEJ/3z9IlJSewEPIEKmtPzT+r7/ARmhnNWF9sQ8GY4OnlXMaPAxL6cp5wQXicDZtYSFA6p3VVI762WLlXKxeEQHjg2rKj8yG7EISJTIIe6O6O1rrL9plO7cOapqlx0wgW2+vRTWqIQt7i0RdqyP9Z8Zh1rrBg44h0T2/9XpIPYWSLE/i9k03oVRhgRZBR6qzYBz+BLyGt1yTiZbj0dba84JtzZc2WcfIRjpU5UKKKokJWY3kbEuyn9uWpb1vNRVnwA==;7CTnUuTo2fvPRpxZi3Ns6w=="
 ---

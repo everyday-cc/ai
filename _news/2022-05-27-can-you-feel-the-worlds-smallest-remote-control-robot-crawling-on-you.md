@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/question-of-the-day/can-you-feel-the-worlds-
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you?_amp=true"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers build world's smallest remote-controlled walking robot"
-    excerpt: "The tiny bot is able to walk, crawl, bend, twist and even jump. According to lead researcher Yonggang Huang, it can walk at an average speed"
-    publishedDateTime: 2022-05-26T17:01:00Z
-    webUrl: "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-26-image-17.jpg"
-        width: 2388
-        height: 1624
-        isCached: true
   - title: "Remote-controlled crab-like robot is the smallest ever, university says"
     excerpt: "Engineers at Northwestern University in Evanston, Ill., announced they have created what they believe is \"the smallest-ever remote-controlled walking robot.\"   The robot resembles a tiny crab and measures just a half-millimeter wide."
     publishedDateTime: 2022-05-26T20:43:00Z

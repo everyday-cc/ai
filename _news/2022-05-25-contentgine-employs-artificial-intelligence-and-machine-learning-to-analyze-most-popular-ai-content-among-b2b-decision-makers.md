@@ -1,20 +1,27 @@
 ---
 category: news
 title: "CONTENTGINE EMPLOYS ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TO ANALYZE MOST POPULAR AI CONTENT AMONG B2B DECISION MAKERS"
-excerpt: "Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by its Content Indication Platform (CIP)."
-publishedDateTime: 2022-05-25T13:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-contentgine-employs-artificial-intelligence-machine-learning-analyze-most-/2022/05/25/9609252.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-contentgine-employs-artificial-intelligence-machine-learning-analyze-most-/2022/05/25/9609252.htm"
+excerpt: "RENO, Nev., May 25, 2022 /PRNewswire/ -- Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by ..."
+publishedDateTime: 2022-05-25T13:50:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
+  - Machine Learning
 
-secured: "YKVIav6TeEibIPZk20J5OKcjddu71ciauZwtsGqtkXnfZ1qdZs6RScqRMYC7Q9rbEwx4O+eVv6OfuIN07kqqUaUdNfYB76I/m+LFhKVUg08r9lCAD3znZWiAiP+F288VF/F1bUHc+JRCm1tLYchLM07Mvdxb9odU6MCSYuRAvhtqHR/ykDj6YwYDgOMo7l/8mg1CmcRiF6I7QRjV52oxP+efblVh4Q2AOXIgwHadst4AKaPzEUq4vlfaJSRRy79hzhFyNt79kwMb8K529KSso+a0/YfceTjoN8qmMO5Lt6QedIANO24pxoPYjwb3tDJqkhM1YBGUDIaLdkGbIoprY/0f2e2CmdZzEE5koo1ZohM=;GGDVrVhQloH40CwASPwrwA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "13fYVjBdH+Ky7szN3U4wi+B5LBaWHj2b/vWdaavxA2OOefQ8oAo47RzkkhDcq+bUDRfjprGuKuEOxKhS8eb72EJ/2NZNSbbsGPVpRukBgqHNFAll1QQVo32VigASOkd0V9dpXmhQIE1L5OdyLNGmni03CgmrWUPricyD2t1mOtNjdWxZLOqfnmu8s8FEH+HShvNNNnHavHTqJX1bKhwb6oy+peFEaVqpk/3v1KVusaYiAW+nn2bYBzKc4Zh42YsY1zL0AGGrilO6HmgVS9++m+B8Ay13HWF33o/9Bh7d++O23TjdElYeYYVdd0s/e5wa6dCn4F1k3QWaMrJVx8/K1thUkp/yF43dPeia/4/Pagc=;JzCz1iVVwDWR8w+iBn7ytA=="
 ---
 

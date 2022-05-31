@@ -66,6 +66,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI in Fintech Analysis, Share, and consumption by Regional data, Investigation and Growth, Demand by Regions, Research Forecasts To 2030"
+    excerpt: "Global AI in Fintech Market to surpass USD 39.87 billion by 2030 from USD 8.9 billion in 2020 at a CAGR of 36.81% in the coming years, i.e., 2021-30. Fatpos Global added a new report into their database named “AI in Fintech Market Segments: By Component: Solution Services By Deployment: Cloud On-premise 2021–2031 Global Industry Perspective,"
+    publishedDateTime: 2022-05-31T09:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-analysis-share-and-consumption-by-regional-data-investigation-and-growth-demand-by-regions-research-forecasts-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 6
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Guns-USA-Mexico-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "EJRpDh707urCEn2pDtArdGDuS5VZ41AdOjKJu9SpwazQHD35NaYajB/nIgxHsS5qa0vygcSRAmNBUvzZrz43cr78F15RDWkDoNwCHhKwiJrwlPdykiyqxchv+MJl4IILmPOVZKbgfk12191336hu0pNFB2GhI0z0IRtWmy80pb+Ciy5h92+bAkoh5R2FpHwKioyqnWv5MpOwaqiq36TW6aWs6JOqUu/mC3R+sDkst7fu2Y9vrYWBGivvz8yEbBz8oe4jvH4XZy9xTKJoyhDo1JqWgB08Zg+eU+3jojQVhKFlyWLu2vU3oFStxr+S7Lg8g1+IID7wPkfZ+gbOsX2ZiTF6drGUvX0fK10kN0MbmAQ=;3y6120h5hLPflxzH1KObow=="
 ---

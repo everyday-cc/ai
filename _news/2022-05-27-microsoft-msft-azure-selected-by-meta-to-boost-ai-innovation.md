@@ -24,8 +24,8 @@ topics:
 related:
   - title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
     excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-    publishedDateTime: 2022-05-26T22:50:00Z
-    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
+    publishedDateTime: 2022-05-26T22:46:00Z
+    webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
     ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
     type: article
@@ -80,15 +80,6 @@ related:
         width: 608
         height: 457
         isCached: true
-  - title: "Azure Adopts AMD Instinct MI200 GPU for Large-Scale AI Training"
-    excerpt: "AMD said Azure is the first public cloud to deploy Instinct MI200 chips. “AMD Instinct MI200 accelerators provide customers with cutting-edge AI and HPC performance and will power many of the world’s fastest supercomputer systems that push the ..."
-    publishedDateTime: 2022-05-26T15:52:00Z
-    webUrl: "https://insidehpc.com/2022/05/azure-adopts-amd-instinct-mi200-gpu-for-large-scale-ai-training/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 51
 
 secured: "pvrAeiYpIdlxSD0C/NBVXzdT3gQ9oGwkPSOAPdklTSRTGAXXkKQnVUMZe4219jUbteMbYmvtq0tqWNKE5hGTDYpULpqk/FDiJ2q6v/du5Y3+xhcQUGlT1ZaAj0Rlnl7CnRrpfuli9VyVEaq7Zn8CFlSSqDGtCLZaDAr7yplyCjHSb82L/3z52Hqml1UZFkuKsX8CiPv9i/xP5UEF/kJiMcjbPDg757NrmSc7L6oE3V28IeFtzXAfDLsS+2hsduPvcrD8+pzDUM39Ev0HLE8KaziTbUxINbS8Mt8op9Dnw19m6kYxsFnLe9Km0Q+SYZOsfyqCoU3cK1e3S4kaTfb1muQEnHilyd5ITLQ0zDDbP80=;NtDlDj6urcfzvtRWqOwGzQ=="
 ---

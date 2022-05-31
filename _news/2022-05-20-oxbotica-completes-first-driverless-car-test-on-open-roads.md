@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Oxbotica completes first driverless car test on open roads"
-excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. Investment Minister Lord Grimstone ..."
-publishedDateTime: 2022-05-19T23:41:00Z
-originalUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
-webUrl: "https://www.aol.co.uk/motoring/oxbotica-completes-first-driverless-car-230100002.html"
+excerpt: "From there, multiple artificial intelligence systems check the area ... that is tailored directly towards the risks of taking a driverless vehicle onto the road. A new type of insurance was ..."
+publishedDateTime: 2022-05-19T23:17:00Z
+originalUrl: "https://www.expressandstar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
+webUrl: "https://www.expressandstar.com/news/motors/2022/05/20/oxbotica-completes-first-driverless-car-test-on-open-roads/"
 type: article
 
 provider:
-  name: AOL.co.uk
-  domain: aol.co.uk
+  name: Express & Star
+  domain: expressandstar.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "tAU0ILjej2HzJ4r4kdla9Z/Cr/MyBUrrepGrLoHPgXzrOf6pJk7LMmVdO56ClV9VBxTyCI+/zDcdKxa5rfunkL5/tcBfaIamOxH2lq6suBrGyUO47XkaHiQrXjCWJPWhCQr/HKwmurLK7h4jBergRA6GHLddV/xFSsTsStQc0ocaV5z4vwF8fNOkRZ5rc2dSOaw0JMapufgKdM/CsbLgz0dNe0ywOZQFK5psl0VRxCJHX4GC6yM4x70TNKA9D/AnxbLsr4Sl+Q1LrPMxGY7d8VE8EuNUPZjhn/LFI/1p3OPzIZ/v/MhjMFgtlpRgc9kP9FTLWNyMnIhvhxN/gh9vRwO/4yri+1XX4G7mw0MBAEM=;vIIrnBRkI31noz2t69FNnw=="
+images:
+  - url: "https://www.expressandstar.com/resizer/PAsXFLOw9WrxrGRAZYfim27mu6A=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/3AYSWITJCRD35A7LRP6UIGV2XE.jpg"
+    width: 1200
+    height: 900
+    isCached: true
+
+secured: "G6z18zshjAIPICLhd2XVZGrd5fVOP3ZNAnEkqSWNWiv7sG/eybRimmSSg4W3+8OBzSQuBlCaNLUgOu51B1NbD2SKsc+Raqh4VU8usjkPGqE3ygmIdQqVxsU5J5LggLf/CycbvChQfoLI+JfhW44gY0xs/Mv2KACZWAViPTR1Lwc5dIXG46AJqVPsFq1L7DQHKtG2leMeOq9rcaTGafg6X+ql5l8AoE+zEKSX6dJuO5OKMkG4KmmW+reVtf6Q+Vsrfi9TIOHT9/DkAaEynHM7NBi3iKPX9q53ICKxN1jyLQXTSVsuljhWEkk9cv2AZFhV//6wbqcDCsm1sLuCgEkxqeOhB7gQF39u4KAqDqwH498=;Ox593XccjiCljnY2ikU7MA=="
 ---
 

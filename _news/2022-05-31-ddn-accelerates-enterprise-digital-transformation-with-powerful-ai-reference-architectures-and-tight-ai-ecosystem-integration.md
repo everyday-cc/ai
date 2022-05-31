@@ -1,26 +1,27 @@
 ---
 category: news
 title: "DDN Accelerates Enterprise Digital Transformation with Powerful AI Reference Architectures and Tight AI Ecosystem Integration"
-excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced the"
-publishedDateTime: 2022-05-31T07:04:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ddn-accelerates-enterprise-digital-transformation-with-powerful-ai-reference-architectures-and-tight-ai-ecosystem-integration-806447782.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ddn-accelerates-enterprise-digital-transformation-with-powerful-ai-reference-architectures-and-tight-ai-ecosystem-integration-806447782.html"
+excerpt: "\"We're proud to work closely with DDN to help their customers get better utilization of GPU resources and sped up the time it takes to get AI initiatives to market.\" Optimized for accelerated AI workloads, DDN A 3 I solutions combined with Graphcore's Bow ..."
+publishedDateTime: 2022-05-31T07:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ddn-accelerates-enterprise-digital-transformation-with-powerful-ai-/2022/05/31/9611248.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ddn-accelerates-enterprise-digital-transformation-with-powerful-ai-/2022/05/31/9611248.htm"
 type: article
-quality: 10
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg?p=facebook"
-    width: 4641
-    height: 2429
+  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg"
+    width: 283
+    height: 400
     isCached: true
 
 related:
@@ -39,6 +40,6 @@ related:
         height: 330
         isCached: true
 
-secured: "aHK0zIiR3sTbpX7tXSHKebD5UispiEjlxALfX2XE+hnlY/osGnCqyvVMEq4yri6VfrD9oI7orS/220Vs5drxN5LJqpJS0eJvLrCpk5PhA73x3selHr1YKzSluB/SsnVmyjvisfj/3mgMYaUqJCcStClx+ND2VZGoKLn9VKsgI2e+3fn7k7h/+ANkslDAG7df+y+FSdThC32/JQEswH9Bp/Kk2+Lwoh7pQIu0Avdfqo1MqWx5ykto5bw2aNj+xljtzlcfdT+B43qz/78gAVHdbQUL+7KoCSPRgShdNN9N7C+xirCjVKz0fGF3ca+W2PLPBC6CyOl8VydW8MaI2mqf+Ndmcv19RO76oL7NlfexoVU=;LjdpesO3FD4WqT2L9ygzrg=="
+secured: "YdVhrKNjXAcESFruz9+Imh0GWMMSmoJJJd80EqC58vnuucnaV6HkZgMM0c5cRx1rG/yi9fZySZcIDP+0lXh23FvIYbFPWwEHigPaW0KXXo4l0wCzpAasRWGpHVl1u6gOvV7IKPjDf1DcgOd89wswYEtP1GnmqWFjopBvKmDl9AKzbOiJHgcwovuZ7c/weqjDI3BdOKxh1FiVDiGHP9//QSWgFZaIa+ltcwLXUkNsdut1Eh0AFXM1Vllmn+wtlhFOC+ss5lcWCWbtQZGMEh2Z3k21K4VwdIA2v9lqw4uRwKYJ3J2kRKrKZjQPORb3vv5T6cEdiPUFbV1fGMfH8bND6C9g85P/ktHo7KuQ5iJM8NI=;Kzmzeom058kNfEI6fEH2zA=="
 ---
 

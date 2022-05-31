@@ -26,6 +26,22 @@ images:
     height: 366
     isCached: true
 
+related:
+  - title: "Greenwich author gives ‘voice to the voiceless’ in new book about lost chapter of basketball history"
+    excerpt: "The author of a new book about a little known part of basketball history — when the NBA was all white — says he was driven by a desire to “give voice to the voiceless.” “I feel so much empathy for people who don’t have a voice."
+    publishedDateTime: 2022-05-31T09:00:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/Greenwich-author-gives-voice-to-the-17205294.php"
+    type: article
+    provider:
+      name: Greenwich Time
+      domain: greenwichtime.com
+    quality: 9
+    images:
+      - url: "https://s.hdnux.com/photos/01/25/75/56/22535055/3/rawImage.jpg"
+        width: 2048
+        height: 1414
+        isCached: true
+
 secured: "z8elRCtp/Jkdh+MjympJn1LET8SrTo0YQcklKwTBFfxoKecRcRpoDhAbVihg66GpGpmmYrbrpuuB3cINU357WLyF/uotkWtalEN/ZLyuHB8CgYYyE56MTJeHHNprGdpqUy6wOMDLILbCl50gbcgTQ0/qECT2oc7Lh7x0/IA0k5pyWzZyJanBghwIoCZlA3z1ZoTjQWldtMgKoLKEI1RjcyJ8UH+mykgYvgQgF/zhrspJgqDbqIIVe+xVW2noEftxfBPVfdGmluFr4rqGRKcgFLP+rnA1nK8DKmlDy0Ps0J3yxG88RxSaNXTtnlOODwLmaLVYhXfs9QRije8Fg+Ik2iMYxCP7MBxsw927dbAIgFc=;zd4fp0QulYiabUPZ2yRagA=="
 ---
 

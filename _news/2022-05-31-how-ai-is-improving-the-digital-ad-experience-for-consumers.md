@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://media.baltictimes.com/media/photos/154369_2330621376290adfc9bb3f_big.jpg"
         width: 855
         height: 641
-        isCached: true
-  - title: "CouponXOO Personalizes in Digital User Experience with Artificial Intelligence and Machine Learning"
-    excerpt: "CouponXOO has concentrated on developing and innovating their digital coupon platform to improve the personalization in user experience on the"
-    publishedDateTime: 2022-05-26T16:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/couponxoo-personalizes-in-digital-user-experience-with-artificial-intelligence-and-machine-learning"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 40
-    images:
-      - url: "https://www.getnews.info/uploads/3e204a6ed40263fb567aa8ecf36e775b.png"
-        width: 281
-        height: 270
         isCached: true
 
 secured: "nW13/HUPkojhW9p5ZM/sq0X9G5bkCqn11LcPl6M7zhhgRUHTciOyjrRKDO6M9a7p2P9YeCdGOkhvf8sgzrzwQumc5DlF4+ebEW1xidJSeFUHiNYQE1WTfVK+k3VxJLNayLObPdDQQ5HzHRcr+JF4IaGUHC9obNcluieklUipwnwbYxwV3d+/JUGO66ayOsWj1LUzywYPxekVOluNZvelf942bjqwkel0NLjsFUsJxiJPSh/8v02TV2Iw44oR5gbDYYUT8Df6sGS73M5SYyxK/5bIpnXT+VH826k6f4K2bkqJvwR2FEOkptBzaXhTAxo5M6fvYtKTzpf+VUYKfNRbVHlEXDJvl62eakDVqnrcnSI=;7Ii5EwIXpDBlYA+COlHFAA=="

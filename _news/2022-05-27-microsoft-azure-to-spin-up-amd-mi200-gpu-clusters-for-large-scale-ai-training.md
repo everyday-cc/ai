@@ -2,14 +2,14 @@
 category: news
 title: "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training"
 excerpt: "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,"
-publishedDateTime: 2022-05-26T22:50:00Z
-originalUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
-webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/"
+publishedDateTime: 2022-05-26T22:46:00Z
+originalUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
+webUrl: "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/"
 type: article
 quality: 102
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -17,9 +17,9 @@ provider:
   domain: theregister.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Hardware
+  - AI
+  - Microsoft AI
 
 images:
   - url: "https://regmedia.co.uk/2020/11/16/amdmi100.jpg"
@@ -81,16 +81,7 @@ related:
         width: 608
         height: 457
         isCached: true
-  - title: "Azure Adopts AMD Instinct MI200 GPU for Large-Scale AI Training"
-    excerpt: "AMD said Azure is the first public cloud to deploy Instinct MI200 chips. “AMD Instinct MI200 accelerators provide customers with cutting-edge AI and HPC performance and will power many of the world’s fastest supercomputer systems that push the ..."
-    publishedDateTime: 2022-05-26T15:52:00Z
-    webUrl: "https://insidehpc.com/2022/05/azure-adopts-amd-instinct-mi200-gpu-for-large-scale-ai-training/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 51
 
-secured: "ywK1jMgIRlaoiLBAWjsp6kByGO34TIBVNwhDZlxTPfM5DokL8CLSvW0OHoolXJSI+37lKVIaW6DsEWAQWQY4Aw60eZff0cBeA4AYn1u7o1utmSXmVNKotLZjQnhehV4Dox1j2GgMeg0MrZK5oa6ydriE7ZhgiEvEC+ofsOxGEac3ZV+EXsyv9OFBfzK8jQD3twSbBXZbt568Pl77rPkRtwaWXTeqIrrJHUHlFmwEdm2oi3aiAonaJ+iCl2/2DeBzw5j5uBNFSJMtlufd8ThHantWKgaG4bo5R1HQCzsGxrIriDffeeIjnd4s9A7Ie0Z0dffI8fP5AJvty0MRkPrFMMueTIH5yRUFVWsuBtVDWnI=;sot/0473NjeRTnoAavCw6w=="
+secured: "XT+IHaZM2ZHlEe+nSXdPrLUXKaol85fv1cV7TUZqfMdAZmS/I6OKrkm7qzfneoxXP0EB6jrUlnijmZYbLhovzHjeDRekl5azo64sTLUS+iRCIgNSQXFvhYOlQ1epNeZXPPLx1z0+4cgb8P0Oqq6ll+dWUMeiDeGrDZB/RUHeEiOeBBiSE4gdBmOFDig2rJRPbrCClzW4Q31776wtsBr7sBKDtrhMFvOnSb/rd0ZfMDPkGHXND1y85aD7cn/oMjIRHjknxoJIo9OCrE9PeVYnt8EwYJREckhPZ54Xr2Rn4Yih05V3G0mXAZAVRNP09q4gIuRv6XKzrwC4xwI8xp4NbqHAQDR3T2l5MMoYDmCqT7U=;ZQrdA4ZkOo8cvwnDN9cdsg=="
 ---
 

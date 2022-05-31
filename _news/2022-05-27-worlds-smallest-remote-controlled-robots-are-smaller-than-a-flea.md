@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers build world's smallest remote-controlled walking robot"
-    excerpt: "The tiny bot is able to walk, crawl, bend, twist and even jump. According to lead researcher Yonggang Huang, it can walk at an average speed"
-    publishedDateTime: 2022-05-26T17:01:00Z
-    webUrl: "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 89
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-26-image-17.jpg"
-        width: 2388
-        height: 1624
-        isCached: true
   - title: "Can you feel the world’s smallest remote control robot crawling on you?"
     excerpt: "Researchers at Northwestern University are definitely not helping prevent the robot apocalypse with their latest invention: The smallest remote-controlled robot in the world. Measuring half a millimeter wide and about 0."
     publishedDateTime: 2022-05-26T22:58:00Z

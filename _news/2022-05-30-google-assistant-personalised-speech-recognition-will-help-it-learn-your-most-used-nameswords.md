@@ -2,9 +2,9 @@
 category: news
 title: "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words"
 excerpt: "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report"
-publishedDateTime: 2022-05-30T08:25:00Z
-originalUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition"
-webUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition"
+publishedDateTime: 2022-05-30T08:37:00Z
+originalUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
+webUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
 ampWebUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
 cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
 type: article
@@ -156,6 +156,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "YDsnRfkIJYU2YT2XL8eT8TOdQ3NWqt8iCcPvHdPK5UNuGUZT1rP/EIfX+QCajbtdEgI9OISEG9QYkoE2Ffk4/G+rT2/1z7KoaYAQm6Tlm7CZwbsjG723Fso8g+JKfcaSwfRy6oiwliebokfO4VqBNmERCXf6gxSLBlNA1J/T8XaQZomY9qKZPj0nQ2+JmfCpUseDiGNDrkiq+IEe71BCCy44CgUCTB/is6dy3RJcKC40m/YPHjEcVtxUW7EQe8R5eA90gJ1yMrqayKq3MbID3E0oSUkaQT9mwRdsqZGeP5PNvcHyDWx454McP6HoV7NazVzAO9CLy6ZYsg+eo5lvJQ5PV5utZH49B+A3kqP2trn8seuSU+2Yu+Er/YAKLiUhzt76N0DUjjXn3JkY3SbeQZ52kOLDI8gYNMQN2seLq3w/nafshFCwxuzR4h9pnJ0tG+FJwA47KYbD7HYqbAIqh6ZpNYfG9571irMOUBtOXBmPABGNardCHtPgu/jzBnumN+iBagx1eGANM3LVYLlCRA==;RFjlayfqpQU/xb4nNqL5/Q=="
+secured: "YM65krrqGtSXFZsRj4yrmDT+X0GG2w1FDUpB/rp1pSsKFyfJ5ARp4vTcpxoz59Oj9tBa31T44OT32Ygc+jQmFuirrEOuYUtdDBaTnZRmTfb55Bhzx8t9RO+KQq/Ek4TBm5lNUHoObY54S9riRkk5POKLBR3T57Ab9X8SE+cOhRC1AFREJTROCKTJ8ZZysmNxYDgdevR2cASM9XCiJM2vi3CSxAglSsTV6Br3ITnNbcfPDom2Iecjs2Z4k0dB/qCl2k7Jr750lIMWKaNBZ8srNutbiJcJDGuPGYUttYQKoxzD9+jhURGKZ9a27kQQJmjqSnOYHiZcCfZE7DnDH9ThS5tua9Qnu6rYYPgdRs746qM=;3Yja0XD2lWteyC5i/sogHA=="
 ---
 

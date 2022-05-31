@@ -58,19 +58,19 @@ related:
         width: 648
         height: 432
         isCached: true
-  - title: "HPE is building a rapid AI supercomputer powered by the world's largest CPU"
-    excerpt: "Hewlett Packard Enterprise (HPE) has announced it is building a powerful new AI supercomputer in collaboration with Cerebras Systems, maker of the world’s largest chip. The new system will be made up of a combination of HPE Superdome Flex servers and Cerebras CS-2 accelerators,"
-    publishedDateTime: 2022-05-26T17:04:00Z
-    webUrl: "https://www.techradar.com/news/hpe-is-building-a-rapid-ai-supercomputer-powered-by-the-worlds-largest-cpu"
+  - title: "Nvidia launches Grace and Grace Hopper Superchips for HPC and AI"
+    excerpt: "Nvidia introduced the Grace CPU Superchip and the Grace Hopper Superchip for high-performance computing and artificial intelligence. The chips were"
+    publishedDateTime: 2022-05-31T08:39:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/80022/nvidia-launches-grace-and-grace-hopper-superchips-for-hpc-and-ai/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 67
+      name: techzine
+      domain: techzine.eu
+    quality: 54
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XBZBxbuMHoHZsPHfA6NZtU-1200-80.jpg"
-        width: 970
-        height: 545
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
+        width: 1500
+        height: 800
         isCached: true
   - title: "Nvidia debuts Grace and Grace Hopper ‘Superchips’ for HPC and AI workloads"
     excerpt: "Nvidia Corp. today debuted new silicon platforms for high-performance computing and artificial intelligence workloads. Announced at the ISC high-performance computing event runnin"

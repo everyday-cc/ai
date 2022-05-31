@@ -54,6 +54,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Naspers Takes A R40 Million Bet On FinTech Platform Empowering Financial Advisers"
+    excerpt: "Naspers (JO: NPNJn ), through its early-stage tech investment vehicle Naspers Foundry, announced a R40 million ($2.5 million) investment in LifeCheq, a FinTech platform empowering financial advisers to provide quality,"
+    publishedDateTime: 2022-05-31T08:47:00Z
+    webUrl: "https://za.investing.com/news/naspers-takes-a-r40-million-bet-on-fintech-platform-empowering-financial-advisers-2563693"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 19
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
   - title: "CAT Financial Products Launch Active Fintech Value Investment Solution with Fintech Influencer"
     excerpt: "In a partnership with CAT Financial Products AG (CATFP), he gives investors the chance to invest diversified and in a simple way in the global Fintech companies that not only have huge growth potential in the future,"
     publishedDateTime: 2022-05-27T05:54:00Z

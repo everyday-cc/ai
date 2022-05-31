@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-24-artificial-intelligence-ai-a-potential-without-limits.md",
+      "title": "Artificial Intelligence (AI), a potential without limits",
+      "excerpt": "The combination of Artificial Intelligence and the Internet of Things (IoT) will allow companies to have “very powerful” solutions, say the experts. ICEMD Innovation Series was created with the aim of being an annual reference document that helps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/",
+      "originalUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2022/05/pexels-tara-winstead-8386369.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/amp/",
+      "cdnAmpWebUrl": "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/amp/",
+      "publishedDateTime": "2022-05-24T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telefonica",
+        "domain": "telefonica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028.md",
+      "title": "Cognitive Analytics Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Value,Opportunity Forecast to 2028",
+      "excerpt": "May 24, 2022 (The Expresswire) -- Global Cognitive Analytics Market Research Report is an In-Depth Analysis of the Latest Developments, Market Size, Status, upcoming technologies, industry drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028-2022-05-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028-2022-05-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-why-mastercards-new-face-recognition-payment-system-raises-concerns.md",
       "title": "Why Mastercard's new face recognition payment system raises concerns",
       "excerpt": "Mastercard's \"smile to pay\" system, announced last week, is supposed to save time for customers at checkouts. It is being trialed in Brazil, with future pilots planned for the Middle East and Asia.",
@@ -885,17 +980,17 @@
       "title": "Artificial intelligence is breaking patent law",
       "excerpt": "The patent system assumes that inventors are human. Inventions devised by machines require their own intellectual property law and an international treaty.",
       "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco",
+      "webUrl": "https://www.nature.com/articles/d41586-022-01391-x?ref=tjournal.ru",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-01391-x?ref=tjournal.ru",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01391-x/d41586-022-01391-x_21688384.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://media.nature.com/w700/magazine-assets/d41586-022-01391-x/d41586-022-01391-x_21688368.jpg",
+          "width": 700,
+          "height": 502,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1058,100 +1153,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-metas-myosuite-ai-platform-could-help-doctors-develop-better-prosthetics.md",
-      "title": "Meta’s ‘MyoSuite’ AI platform could help doctors develop better prosthetics",
-      "excerpt": "One of Meta's ML teams has created a tool that builds realistic musculoskeletal simulations that run up to 4,000 times faster than state-of-the-art prosthetics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/meta-myosuite-annoucemed-183850677.html",
-      "originalUrl": "https://www.engadget.com/meta-myosuite-annoucemed-183850677.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5d9505f0-dac6-11ec-bedc-c448c42adbc5",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-ethical-ai-how-is-ai-redefining-the-insurance-industry.md",
-      "title": "Ethical AI – How is AI Redefining the Insurance Industry?",
-      "excerpt": "By Antoine de Langlois, Responsible AI Data Scientist at Zelros When Cybersecurity meets Artificial Intelligence, companies and organizations have many new challenges and potential threats to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefining-the-insurance-industry/",
-      "originalUrl": "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefining-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/05/Ethical-AI-How-is-AI-Redefining-the-Insurance-Industry.jpg",
-          "width": 697,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyber Defense Magazine",
-        "domain": "cyberdefensemagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

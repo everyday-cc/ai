@@ -34,6 +34,20 @@ related:
       name: Australian Broadcasting Corporation
       domain: abc.net.au
     quality: 0
+  - title: "Linda Burney urges Peter Dutton to back Voice to Parliament, says there is 'no shame' in growing on Indigenous recognition"
+    excerpt: "Incoming Labor minister Linda Burney has urged Peter Dutton to end a decade of \"divisive\" politics and back a First Nations Voice to Parliament, saying there is \"no shame\" in growing on Indigenous recognition."
+    publishedDateTime: 2022-05-30T21:30:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7761607/no-shame-in-growing-burney-urges-dutton-to-back-voice-to-parliament/?cs=14264"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 0
+    images:
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/139890989/3b71932f-68fa-4032-a61e-2d780eab7481.jpg/r0_162_5102_2841_w1200_h630_fmax.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AbNv6bzMnPNLYGSB6GU/xqUmXGjQ/mCczt1dZ3XiGXTT7gBUP8mcYfxMiKdypyP6kKbZTwPSuWchhgoyUtizw14xDkyzXrIx9q91RCyH5ncG6VRFsQepaz/sjKoumYFSxCcHCdmklS6WuRufARP/p6dV7eyj+kPWFKBI8EDZcJMxl1YU7TtXilgq8BYx7aW5HNItz0fzfDClvcXg4YsXHa+al13istjFaO6tr9PANN9cW8CdWHk1cRUVvISkMJevjRk98aqQ76l3DO+oPsKckRa6DOaErTYem2xcqpzm8fPu7tfMQYx9ag+csb150nkKZ7vtwi9r2kNhirGgeMUShgYTAYl+Dl7+Pb8sHnshi1LZGVi4loo2SIoFSlSaTxvHr5fLIyoBiOxzayWyyBdCD95S6OLXaBU5RFk5zVxhyZZhedqIbpVrejyYB9ZPh+zcsnnHx7qJpFPKpZEnP8HnfB/vnT5fT6EBo5keZM//54iusn77aOHkkgSDruibIocOFuxT4xqDnVuead/mQtiSZw==;aKde/lW4ujKTQWHWUWWv6A=="
 ---
