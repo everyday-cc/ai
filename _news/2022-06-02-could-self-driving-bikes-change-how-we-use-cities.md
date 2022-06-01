@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T17:24:00Z
 originalUrl: "https://www.bbc.com/news/av/technology-61524498"
 webUrl: "https://www.bbc.com/news/av/technology-61524498"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: BBC

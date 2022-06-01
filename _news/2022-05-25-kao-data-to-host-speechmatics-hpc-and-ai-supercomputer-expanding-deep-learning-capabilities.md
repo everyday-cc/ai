@@ -12,10 +12,15 @@ provider:
   domain: wfmz.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "oxe1lTFWBNnwyBNRSAeVexBodEjDPEz8Qr2E6cZoAxLELpjBXWFmsWCrHoih9fV7IM6vuqxEYwuO4b/bkMhnlYLf0jjekDa1R4eDyDab6lMy7ReG7CZxBMgVS/YwmDiJMvPp22Xwu8Q38rTixw7sL4HMQ7jRDGgh4jlPdarcYeSsgPZnFf3CSV5sygt/VY+tX5mx7ITSbdvOnoiKYzQFVkTxEW93k7vtsCj/hu5MTK32qM0fPK8dVFo0Xmx1aqCi1luuXScys89vRjPGbvyv4y1lGp/nRIAWyYgsGaOzF5Gw/ah8UIHJqTwa8pFskSooY5Wnb/nQIiCejoIoN607Qrf1KZ/QiMO0W5d1Hd05lqEpiD9+et5pWIa9AI57+7Aw5I/xcdQkEMxLy8BvIeBMdmM/tBeKH8AaHlblpMJPmPVG1eP0py82goyy4oKB20Ru1SkJQcgQ/p/gZ90qHor0WZZJ+ZWTkILllGDt7seKUc0HEXrAYwdfh+Un+v50joZ/k9u9+S9jHvgzBP0o+lVHPw==;myNY0ULof0u6jHn56PNe+Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "9Spzl+MuD1J7FEtDDWQA41mrilBTAQHvQtHgAopbBK9rKPR43PnW7Mv3ZjFnGk1WrytL7KuzsV58KlUekmSMrRTId3X2wJIHA3iTccX8vBTIxzr+1hqhZjjR57LncPeukWyooUP3ZIGsPJS+T7Ok0n9FE1Cse+uXeAeXbs0A5TlL+QHDiYHBs1gLW3m9l5K0Ab2igG64ihnZOAy9g7WEtL7xbknr7+hI2E4YdWGAPevXfpuY4XDMJbuM4T7UFewrd8rEzWIdDHZTwgq+zw4mcDrh/nTX2/willmfRpkOIV9OhcAUqSw8Ce1cqzCg2va8zL7CTygToTWs6mj4+15K9EBnuaItGWaIXSj85WSiOzI=;FeLBmrdIGXTOZK9hsitdDA=="
 ---
 

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Mayor of Nice calls for deployment of facial recognition following Stade de France clashes"
+    excerpt: "The Mayor of Nice Christian Estrosi calls for the deployment of facial recognition technologies to prevent situations like the violent Stade de France clashes."
+    publishedDateTime: 2022-06-01T19:00:00Z
+    webUrl: "https://www.biometricupdate.com/202206/mayor-of-nice-calls-for-deployment-of-facial-recognition-following-stade-de-france-clashes"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 9
   - title: "Surging Adoption of Technologies like Facial Recognition Drives the Global Virtual Meeting Software Market"
     excerpt: "\"The Global Virtual Meeting Software Market\"According to a new market research report launched by Inkwood Research, the Global Virtual Meeting Software"
     publishedDateTime: 2022-05-31T23:25:00Z

@@ -108,6 +108,15 @@ related:
       name: Verdict Retail
       domain: retail-insight-network.com
     quality: 16
+  - title: "PNC raising the bar for branches, analysts look for AI innovation in automation transformation"
+    excerpt: "PNC Financial Services Group Inc has thrown down the gauntlet to the banking sector, an industry increasingly baffled by rapidly evolving customer preferences away from branches and the need for brick-and-mortar."
+    publishedDateTime: 2022-06-01T21:05:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/06/01/pnc-raises-branch-bar.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
 
 secured: "r7jaYG/yoQeAUNXnq3QF0nDgCSuf9xgHYMP+gYiUj/8a5PdAXGvSeFhgYHL62vV7+kMSWKhJ/weBmOcbhbqwi1dgLf9l5eQTLEPveJTOjvBY7MasY98vwysDni02ZapKKNR89bFm9CoDvXauTf0OhBjBBWtb+U3YgCLDJQ5bzEfI4iHIvA6EnKYXYfIfS9dOtxwDfIZ0bVXaJWZOySmxCwpjuy5G5lXCwstbTOXROizYW93EjrWSX2zdfq2VuU5yeaSc0JeN37Kfq7KECMhRHmfWYf6FK+0RmRRdd3NOwlLBugb6ZVn94zY0mW5kpxGltXym1s+EIU25t2/Wgz3d7OtWV073Gj46L3ltJCIGlrY=;Tjh1uC3luabo9agK36Y1AQ=="
 ---

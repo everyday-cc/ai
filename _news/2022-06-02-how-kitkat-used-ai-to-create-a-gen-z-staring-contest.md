@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T19:05:00Z
 originalUrl: "https://adage.com/article/digital-marketing-ad-tech-news/kitkat-uses-ai-build-gen-z-staring-contest/2419011"
 webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/kitkat-uses-ai-build-gen-z-staring-contest/2419011"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Ad Age

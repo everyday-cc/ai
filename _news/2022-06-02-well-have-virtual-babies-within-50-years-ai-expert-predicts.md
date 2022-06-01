@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T19:00:00Z
 originalUrl: "https://nypost.com/2022/06/01/well-have-virtual-babies-within-50-years-ai-expert-predicts/"
 webUrl: "https://nypost.com/2022/06/01/well-have-virtual-babies-within-50-years-ai-expert-predicts/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: New York Post

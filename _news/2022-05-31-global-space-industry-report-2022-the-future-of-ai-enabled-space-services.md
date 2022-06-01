@@ -96,6 +96,15 @@ related:
       name: NoCamels - Israeli Innovation News
       domain: nocamels.com
     quality: 47
+  - title: "The role of AI in data privacy"
+    excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
+    publishedDateTime: 2022-06-01T18:07:00Z
+    webUrl: "https://venturebeat.com/2022/06/01/the-role-of-ai-in-data-privacy/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Community colleges and employer partners are teaming up to expand pathways to artificial intelligence jobs of the future"
     excerpt: "Community colleges can help ensure that diverse talent can fuel the innovation economy while accessing job opportunities."
     publishedDateTime: 2022-05-31T14:47:00Z

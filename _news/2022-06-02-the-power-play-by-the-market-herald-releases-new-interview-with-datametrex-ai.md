@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T18:04:00Z
 originalUrl: "https://www.digitaljournal.com/pr/the-power-play-by-the-market-herald-releases-new-interview-with-datametrex-ai"
 webUrl: "https://www.digitaljournal.com/pr/the-power-play-by-the-market-herald-releases-new-interview-with-datametrex-ai"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Digital Journal

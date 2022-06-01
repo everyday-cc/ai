@@ -41,6 +41,29 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Chick-fil-A is testing out autonomous delivery robots"
+    excerpt: "The delivery robots have artificial intelligence systems and special cameras that help them “navigate traffic patterns, pedestrians, and even maneuver through and bike lanes, busy malls, and sidewalks,” Chick-fil-A says. WSB says the robots can travel ..."
+    publishedDateTime: 2022-06-01T21:14:00Z
+    webUrl: "https://www.krmg.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+    type: article
+    provider:
+      name: KRMG
+      domain: krmg.com
+    quality: 39
+    images:
+      - url: "https://cmg-cmg-rd-20111-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Chick-fil-A pilots autonomous robot delivery with Refraction AI"
+    excerpt: "Refraction AI will use driverless robots to deliver from two Chick-fil-A restaurants in Austin, Texas, beginning in late June."
+    publishedDateTime: 2022-06-01T17:47:00Z
+    webUrl: "https://www.freightwaves.com/news/chick-fil-a-pilots-autonomous-robot-delivery-with-refraction-ai"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 34
   - title: "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX"
     excerpt: "Self-driving robots provide energy-efficient meal delivery to guests' front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delivery"
     publishedDateTime: 2022-05-31T13:30:00Z

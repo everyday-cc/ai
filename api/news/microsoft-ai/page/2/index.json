@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-12-microsoft-session-highlights-from-sap-sapphire-2022.md",
+      "title": "Microsoft session highlights from SAP Sapphire 2022",
+      "excerpt": "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T01:00:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-vectra-ai-recognized-as-a-microsoft-security-excellence-awards-finalist-for-security-isv-of-the-year.md",
       "title": "Vectra AI recognized as a Microsoft Security Excellence Awards finalist for Security ISV of the Year",
       "excerpt": "Vectra AI, a leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises, today announced that the company has been named a finalist in the",
@@ -1270,49 +1321,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-interventions-for-alzheimer-disease-improve-cognition-in-men-women.md",
-      "title": "Interventions for Alzheimer Disease Improve Cognition in Men, Women",
-      "excerpt": "Individuals with normal cognition, subjective cognitive decline, or asymptomatic preclinical Alzheimer disease (AD) were classified as \"Prevention,\" while those with mild cognitive impairment due ...",
-      "sourceUrl": null,
-      "webUrl": "https://azdailysun.com/lifestyles/health-med-fit/interventions-for-alzheimer-disease-improve-cognition-in-men-women/article_0e0ed75e-70ad-518d-a5fb-1616fe653e1f.html",
-      "originalUrl": "https://azdailysun.com/lifestyles/health-med-fit/interventions-for-alzheimer-disease-improve-cognition-in-men-women/article_0e0ed75e-70ad-518d-a5fb-1616fe653e1f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/d/d9/dd965974-4394-5a40-a56d-dedb793cabc6/6271ae1a67f29.image.jpg?crop=600%2C315%2C0%2C67&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Sun",
-        "domain": "azdailysun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

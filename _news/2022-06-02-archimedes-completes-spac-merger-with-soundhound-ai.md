@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T18:58:00Z
 originalUrl: "https://seekingalpha.com/article/4515777-archimedes-completes-spac-merger-with-soundhound-ai"
 webUrl: "https://seekingalpha.com/article/4515777-archimedes-completes-spac-merger-with-soundhound-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Seeking Alpha

@@ -7,7 +7,7 @@ originalUrl: "https://www.just-style.com/features/ai-hiring-levels-in-the-appare
 webUrl: "https://www.just-style.com/features/ai-hiring-levels-in-the-apparel-industry-dropped-in-april-2022/"
 type: article
 quality: 52
-heat: 53
+heat: 52
 published: false
 
 provider:

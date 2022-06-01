@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-31T14:38:00Z
 originalUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
 webUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
 type: article
-quality: 9
+quality: 11
 heat: -1
 published: false
 

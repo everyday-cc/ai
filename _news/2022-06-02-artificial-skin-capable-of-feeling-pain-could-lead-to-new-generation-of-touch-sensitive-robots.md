@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T18:00:00Z
 originalUrl: "https://techxplore.com/news/2022-06-artificial-skin-capable-pain-touch-sensitive.html"
 webUrl: "https://techxplore.com/news/2022-06-artificial-skin-capable-pain-touch-sensitive.html"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: techxplore

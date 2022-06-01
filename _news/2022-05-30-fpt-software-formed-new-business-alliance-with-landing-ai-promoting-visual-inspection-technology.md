@@ -43,6 +43,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
+    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians"
+    publishedDateTime: 2022-06-01T17:22:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/article_69d38c92-0ab3-5795-95dc-352142ec8525.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "sY0BQvBoBqsHM+UQKsnLJvNvTqaWxQvTvJkT5/+8oH+cjXHRapSAAzBWUVSDVqSttPisaV4K6qk8gc9lGwXmgfA/YDbrn9d2aLYgL2gL0EJIaXFX4rimtruo2ljudLYWbfBl8Bu6JowSqhtaSO3c1bCfiIy2v7VExG9Y5w/gxjyflPH0jCMZW2bcsR44tkOYvnLHFsa1axSUtpU7RGZf+EsC9VmrXmPbnHe7iOQIfIcDBPhNST0qv0JBgKEz8j0XA1iuksr1LUyYPzW4SNbFo1dJ+xwxOcXmhGC/1Cq4W0IIWIU8yaNp+jle3jpLFCF4IWJDNRvf0Ohlfs2z9tLGCGEBpJj8qEoyWh2Qde4WQ15+VZbUJVcl2WVcA25OkqMARknOVLgqA8cCVOxju0l6g0sQnZbohpNivGBswXIwZeCUQoENTZnUqabtExXHGTg3czKFOxJ84q6EhDPHlAZL0sXsNqqSPia6NVAmOIpNLphdWCibPiezmbQ8JgT8nTPFGxRKzwxTMuw7olRZgpkqJA==;YYkvISW88DGj0pMbsM/C0w=="
 ---

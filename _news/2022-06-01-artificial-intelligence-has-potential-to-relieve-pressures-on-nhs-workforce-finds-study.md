@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-01T16:03:00Z
 originalUrl: "https://www.pulsetoday.co.uk/news/technology/artificial-intelligence-has-potential-to-relieve-pressures-on-nhs-workforce-finds-study/"
 webUrl: "https://www.pulsetoday.co.uk/news/technology/artificial-intelligence-has-potential-to-relieve-pressures-on-nhs-workforce-finds-study/"
 type: article
-quality: 9
-heat: 9
+quality: 11
+heat: 11
 published: false
 
 provider:

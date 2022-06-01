@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T18:10:00Z
 originalUrl: "https://www.unite.ai/researchers-create-algorithmic-planner-for-delegating-tasks-to-humans-and-robots/"
 webUrl: "https://www.unite.ai/researchers-create-algorithmic-planner-for-delegating-tasks-to-humans-and-robots/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: unite

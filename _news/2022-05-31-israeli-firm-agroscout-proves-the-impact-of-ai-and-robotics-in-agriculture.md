@@ -86,6 +86,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "The role of AI in data privacy"
+    excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
+    publishedDateTime: 2022-06-01T18:07:00Z
+    webUrl: "https://venturebeat.com/2022/06/01/the-role-of-ai-in-data-privacy/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Global Space Industry Report 2022: The Future of AI-Enabled Space Services"
     excerpt: "The \"Global Artificial Intelligence in Space Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. The multiple NewSpace start-ups entering the"
     publishedDateTime: 2022-05-30T19:45:00Z

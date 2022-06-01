@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "IFR Executive Roundtable at Automate 2022 to Highlight How Robotics and Automation Transform the Economy"
+    excerpt: "Co-sponsored by the International Federation of Robots (IFR) and Association for Advancing Automation (A3), the June 7 panel features executives from FANUC America, Teradyne, UPS, Zebra and NVIDIA."
+    publishedDateTime: 2022-06-01T19:44:00Z
+    webUrl: "https://www.automation.com/en-us/articles/june-2022/ifr-executive-roundtable-at-automate-2022-to-highl"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 17
   - title: "IFR Executive Roundtable at Automate 2022 to Highlight “How Robotics and Automation Are Transforming North American Economy”"
     excerpt: "The event will bring more than 500 companies showcasing the latest in robotics, machine vision, artificial intelligence (AI), motion control, and smart automation—and an expected 20,000 attendees—to the city’s Huntington Place center. The Association ..."
     publishedDateTime: 2022-06-01T15:02:00Z

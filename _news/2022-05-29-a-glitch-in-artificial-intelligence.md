@@ -48,6 +48,15 @@ related:
     quality: 67
   - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
     excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
+    publishedDateTime: 2022-05-31T14:38:00Z
+    webUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 11
+  - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
+    excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
     publishedDateTime: 2022-05-31T19:38:00Z
     webUrl: "https://localnews8.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
     type: article
@@ -55,15 +64,6 @@ related:
       name: Local News 8
       domain: localnews8.com
     quality: 11
-  - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
-    excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
-    publishedDateTime: 2022-05-31T14:38:00Z
-    webUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 9
 
 secured: "GcqW5WObH6boYvvhFqtTgkW/o1GMdSrp0YjGyT3fZgjuGVAIGnxncf0q9I0HPLvQdTEK7i1bCAKiL737j4e6pzUyBmP1+MtUwX2mSWtpxfBC4O3tFtwWVaKZaSJzpwsEuHiSEAurkKpZMkx/56udUMhl7kDHJe3B3jnG9UyWADIPudnnV8rBjnOLes+AAu4L4uJPRgwEvH58PoUxx/T2r/w4xkSCZxsFSAlAu2xM4kyMTumLE7dVUIkt+vOiGNZ5X2ehvqj4ncehVsczznP508UQtKIAG9tpMh5iVHdA6yNqAsGKkeholchLgdEvBOyvdMyqt4CMn5J+9z+pi2/ZzTOIn+l6cL0VZiSqVcIHEho=;NIOAjlx509bNblkHr15Juw=="
 ---

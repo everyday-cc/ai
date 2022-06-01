@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T16:34:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Associated Press

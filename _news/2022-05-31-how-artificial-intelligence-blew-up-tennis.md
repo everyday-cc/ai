@@ -3,8 +3,8 @@ category: news
 title: "How artificial intelligence 'blew up' tennis"
 excerpt: "Bridie Lynch has been playing and coaching tennis for most of her life. As her parents run a local tennis club in Wales, she was immersed in the sport from the age of 14. One aspect she has noticed is the embrace of technology,"
 publishedDateTime: 2022-05-30T23:05:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-61609689"
-webUrl: "https://www.bbc.co.uk/news/business-61609689"
+originalUrl: "https://www.bbc.co.uk/news/business-61609689?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/business-61609689?at_medium=RSS&at_campaign=KARANGA"
 ampWebUrl: "https://www.bbc.co.uk/news/business-61609689.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-61609689.amp"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "QwbymsQpqpW/5xYCerM8hsET6hv0juOwYmElRrULGwqsoAO41yJZG2lkukrkeCusbLVVHFtcLoKyf5dGrUQHmlvet06CVURJ5e4X+A8p8qkiVKJVQhLeJefe/PnEroez02v99IER5fFI0ex2QqpXEPTcbFgjdTZlfYKisCP4XYXHeBKSuV+sutGI5kNPbU2eoCTmkFrl2sx4O7UjZ346EYkJADGiIp0DjHz1v9jxCfEJA5Jnur/XqVCh9hYZFKXj2OR6FgbSty5TtGeQZeeI2xyrSt+G/YmaRZUXUPP1Nwev43eszEegC4FRM8Wl4Cb8uF0KLb+BQqEqV0LAyz5lNv/iA/yCLDYpeJ8o9SHJO6XYdAIzocbz/X5aTMLP2LmP45Kl4L5p2t6qagOLiVWwLxOCPDVQTzlrmqaV6xcEVH8CL4yGFdb+fR9y/nKGKHczuY2UKN5ICcYaS59mEY3mch7MPCy56ZkA+JAa8+hSbbTlIyv8ntq16xcVbGqN9Y7cSTLTr8S+5KEIC7a+AvGiZQ==;wPk3g2m9ww85b1egQrI+EQ=="
+secured: "mDGk6wjzrpQXASQ9kk6fc5yHsDoHVbR36dJMtLT2+acy6C8p1oeJfSYvKLRLFq8CDqe4kUK5IhreSkLLi5Q/KjrbOUXBGymgHO5C9DYonO7H0RAMffq0YeIPMN+0ZZoA305WLjv2JvqPRVJnZTSBHtEyV0AQvqigVRSwBgbW4keNduHchi8W7RTIaOTDND/yRbM0SkoVl3VI2lWik6OIyXpzWHomyYJBw+dctmcI9MVjBuEw0wz2FXcjK/lrLU1H974DMBywIDi9PX4afXXl+lG2VFSi0ewm+YWBZMbKAAexrNKItA01UKeLGhnsqFDbVj2TFP7YKryLaD0RhknLM4ZDdPbcS9Mw+7FsJUfwmUw=;8jDXibqD22YlgsK1SZJmPg=="
 ---
 

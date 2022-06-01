@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T18:15:00Z
 originalUrl: "https://techcrunch.com/2022/06/01/whos-liable-for-ai-generated-lies/"
 webUrl: "https://techcrunch.com/2022/06/01/whos-liable-for-ai-generated-lies/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: YAHOO!Finance

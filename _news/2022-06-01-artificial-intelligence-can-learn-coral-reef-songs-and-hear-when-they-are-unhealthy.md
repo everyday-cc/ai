@@ -63,7 +63,7 @@ related:
     provider:
       name: KYMA
       domain: kyma.com
-    quality: 9
+    quality: 11
 
 secured: "7X46RsKgzMqacWpQyiTukY0guIo9UcTjWD/omxfWUg+qVDVLQwz470W+wepgRbcVdSm5rYU0pyHwTOm9A7FCZ1edoWSIm8PJPqXqNmFPfa9HLwMi8kYHwyfYaYFG7yeyUGdHu6j1cCRuQ42GOH+8y/52oqt7SF8poUSM+bs2Va0zTwv9a23fs7xtCvVYxewwCX9aB4HkkMm5Tlh4sX0nl4gjHqoWLQrjMpZFCYvWLyb+RBigM05QNK2K3Z9vzLj8XQaPBYDpT5MrFq2Hrm2G5AjxpB7j1+2VnjC8LtEFVlTZJKjS0OL27ysEG9BEszcBH0h3tgsBCC8/t3q6IeLkRqlvTvCRIwzKSoiDWFl8Aok=;2VYOLyI7natUtoXp390NRw=="
 ---

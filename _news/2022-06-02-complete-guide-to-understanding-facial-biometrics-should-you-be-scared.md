@@ -2,17 +2,17 @@
 category: news
 title: "Complete Guide to Understanding Facial Biometrics: Should You Be Scared?"
 excerpt: "If you've unlocked an iPhone with FaceID, you've used facial biometric technology. So, why does this phrase make people so uncomfortable? Have sci-fi movies like Min"
-publishedDateTime: 2022-06-01T17:37:00Z
-originalUrl: "https://www.chron.com/business/article/Complete-Guide-to-Understanding-Facial-17212522.php"
-webUrl: "https://www.chron.com/business/article/Complete-Guide-to-Understanding-Facial-17212522.php"
+publishedDateTime: 2022-06-01T21:37:00Z
+originalUrl: "https://www.timesunion.com/business/article/Complete-Guide-to-Understanding-Facial-17212522.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/Complete-Guide-to-Understanding-Facial-17212522.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Computer Vision
@@ -24,6 +24,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "Cahobi1efw0ZnL0JvCMrwP3QQKNxyKBIGBYr6xRYDMxFlgftmEtUV9mdBnHGTA2tGlbFvCPSD9O286K2ckwybDvirENxSmQhiHw7ZLBnlCo2RZnhDC98L1ruzH6bP2+ckaXSLMlMXrJ8znvO7jStlKEyRaQaNc14CpIw736JVcudAHvYd97m/lZ0wKbkhc9Ff0t/IbZ9Yy2dyk9BZdi20XvppxgjhwLMVGIKJlpJuNXbXoCK0gq3Jn1Pq7wEzlRmPWKZauLOjmFXj2ViyEpRlD/1tXZ/GGck7fpIQY+FciynXRhQwKu6n5+YqUETg9NcoVuWxjVch9heDlkYyZ1L6Q1lmct3S2ug7pJ77udn2Fo0NdfqGAF0tn43z6TG/Cgwy/ZULQn6cJAYZH/yNWqJXZ+DU9kK5vXxJ8+ndtocK6ZLKLlJ8lsiqBVtHEKbuDpmhUKrQxYhu5D0sVtNsbN0+J6RcsVp2qgc73NN01cJ2c3xaaULGaqXrYc4ZHM2CcXf/TNP1lQPQJHwcj5tOlyrVQ==;TEjF3iUtDCHqUd1R2QydlQ=="
+secured: "96sMEC0gAkYz81x6zucWSRZMIcTpGivTItKkb8VI3unSOj/2QWINiqlOOCSDah/WYjfKOKFWoqYyn+AD97ifk37lsKNAYkgVVMEh8BbczSlp51DUk0w0NRVQQV2UiY+YbFA7rBZgPid/0oOS9f85/tOsxQ5S3ePK5C0a6cwxVNwC/LmpwjhSeuRulo1HMXf9DZD1qIkW1/MAPI4c150FhGnUrpXxt1WPtyc0AwLyQ2fEOoyOQXh+HSjn4Krdvma40COsYeDav2jMyE5eX2375RwFC4i8pO/UpiZa+fw5XmSi5BIB/AzbHHIoly3gbb7mMqLEDX/u3K50Vkl6LBnKWMRRMLBzgm6svypU9ZmbksI=;GywyWblr4LmmPBkNAbwAhQ=="
 ---
 

@@ -39,6 +39,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial intelligence reveals COVID-19 lung damage"
+    excerpt: "Longxi Zhou Enlarge image Scientists have developed a computer-aided detection method to reveal hidden signs of lung damage in CT scans of people who were admitted to hospital following COVID-19 infection and went on to suffer long-term respiratory complications."
+    publishedDateTime: 2022-06-01T18:50:00Z
+    webUrl: "https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2022.29"
+    type: article
+    provider:
+      name: nature　asia
+      domain: natureasia.com
+    quality: 19
   - title: "Global Edge AI Processor Market Predicted to Hit $9,566.30 Million, Growing at 16.0% CAGR from 2022 to 2030 [225-Pages] | Research Dive"
     excerpt: "Rising demand for edge AI processors in electronics products is fueling the global edge AI processor market growth. The COVID-19 pandemic has positively impacted the market. The North America region"
     publishedDateTime: 2022-05-30T12:45:00Z

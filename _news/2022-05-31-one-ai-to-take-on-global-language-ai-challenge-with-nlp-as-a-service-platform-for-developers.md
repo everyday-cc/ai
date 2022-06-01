@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T20:25:00Z
 originalUrl: "https://www.digitaljournal.com/pr/one-ai-to-take-on-global-language-ai-challenge-with-nlp-as-a-service-platform-for-developers"
 webUrl: "https://www.digitaljournal.com/pr/one-ai-to-take-on-global-language-ai-challenge-with-nlp-as-a-service-platform-for-developers"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Digital Journal

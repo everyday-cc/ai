@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T11:01:00Z
 originalUrl: "https://www.bizjournals.com/sacramento/inno/stories/news/2022/06/01/agreeya-huloop-beatblip.html"
 webUrl: "https://www.bizjournals.com/sacramento/inno/stories/news/2022/06/01/agreeya-huloop-beatblip.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Business Journals

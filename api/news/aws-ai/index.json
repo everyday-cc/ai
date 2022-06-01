@@ -261,26 +261,17 @@
       "title": "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work",
       "excerpt": "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top",
-      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top",
+      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
+      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg",
-          "width": 1000,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-25T13:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -295,10 +286,9 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Microsoft AI",
         "AI",
-        "AWS AI",
-        "Microsoft AI"
+        "AWS AI"
       ]
     },
     {
@@ -334,6 +324,49 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-clearview-ai-launches-clearview-consent-companys-first-consent-based-product-for-commercial-uses.md",
+      "title": "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses",
+      "excerpt": "Clearview Consent is available today as a cloud service, with pricing more affordable than other FRT providers such as Amazon Rekognition and Microsoft Azure, while providing much higher performance and accuracy. Clearview Consent is also available for on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_ac316dfe-f089-5a74-9305-dd50401cd4af.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_ac316dfe-f089-5a74-9305-dd50401cd4af.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1369,60 +1402,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract.md",
-      "title": "Moderate, classify, and process documents using Amazon Rekognition and Amazon Textract",
-      "excerpt": "Many companies are overwhelmed by the abundant volume of documents they have to process, organize, and classify to serve their customers better. Examples of such can be loan applications, tax filing, and billing. Such documents are more commonly received in image formats and are mostly multi-paged and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/04/ML4749_InferencePipeline-776x630.png",
-          "width": 776,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T10:38:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

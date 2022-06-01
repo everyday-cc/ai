@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-28-baidu-ponyai-win-first-driverless-robotaxi-permits-in-china.md",
+      "title": "Baidu, Pony.AI win first driverless robotaxi permits in China",
+      "excerpt": "Chinese internet giant Baidu and autonomous vehicle company Pony.ai have received permits to provide driverless ride-hailing services to the public on open roads in Beijing, according to both companies.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
+      "originalUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Baidu-Apollo-Driverless-Vehicles.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/27/baidu-pony-ai-win-first-driverless-robotaxi-permits-in-china/amp/",
+      "publishedDateTime": "2022-04-27T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-baidu-leads-years-long-race-for-first-driverless-taxis-in-china.md",
       "title": "Baidu Leads Years-Long Race for First Driverless Taxis in China",
       "excerpt": "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous driving, is one of two companies to secure the country’s first permits to operate a fleet of self-driving robotaxis without someone in the ...",
@@ -1339,49 +1391,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-dubai-plans-to-introduce-self-driving-and-flying-taxis-by-2030-official.md",
-      "title": "Dubai plans to introduce self-driving and flying taxis by 2030: official",
-      "excerpt": "The RTA’s goal is “to achieve 25% of trips by driverless modes in 2030 ... technologies such as the Internet of Things, artificial intelligence and big data to improve the experience ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.brecorder.com/news/40167388/dubai-plans-to-introduce-self-driving-and-flying-taxis-by-2030-official",
-      "originalUrl": "https://www.brecorder.com/news/40167388/dubai-plans-to-introduce-self-driving-and-flying-taxis-by-2030-official",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DWIvH8Xf7pE/sddefault.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brecorder.com/news/amp/40167388",
-      "cdnAmpWebUrl": "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40167388",
-      "publishedDateTime": "2022-04-14T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Recorder",
-        "domain": "brecorder.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

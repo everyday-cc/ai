@@ -107,6 +107,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "PNC raising the bar for branches, analysts look for AI innovation in automation transformation"
+    excerpt: "PNC Financial Services Group Inc has thrown down the gauntlet to the banking sector, an industry increasingly baffled by rapidly evolving customer preferences away from branches and the need for brick-and-mortar."
+    publishedDateTime: 2022-06-01T21:05:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/06/01/pnc-raises-branch-bar.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
 
 secured: "PG0kRZX0rNJd3mZqn+qHOFHoB2VUn7gfkZdLz4ieu1FH7Jw5qSaHyvzLS661OQWmvowAKblO+ISrzZuPUW7r0ORnSMIOgw0JII1+17S2CwihwPOT9B48+q2a35NaTH/rOIDlQr6a5SvGl24cR1ggv+A/3dHmXb8DYNHB10yqVAoYw3iCNdKtpky9LCVP9rU1ZO+W0kBe8DoIDGyybRyLe5qrpT1wfn0nrDUHLSOGM6iV2NfNkyuyzxm5ImJw0U2SjS4iEdkX6yejWdepteV50Qdmphjs/63/My3Ce+4OSTMTroGX3ZUROkuYmmIuXm6LCrn40zg6HWXybPLAaOs1h+4LpCKXT/KgI7DBEEQd/rw=;x4ZbaQy8a6kSdzmI358jNA=="
 ---

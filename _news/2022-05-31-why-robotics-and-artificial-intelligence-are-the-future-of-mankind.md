@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-roboti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
 type: article
 quality: 123
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
     provider:
       name: NoCamels - Israeli Innovation News
       domain: nocamels.com
+    quality: 47
+  - title: "The role of AI in data privacy"
+    excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
+    publishedDateTime: 2022-06-01T18:07:00Z
+    webUrl: "https://venturebeat.com/2022/06/01/the-role-of-ai-in-data-privacy/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
   - title: "Global Space Industry Report 2022: The Future of AI-Enabled Space Services"
     excerpt: "The \"Global Artificial Intelligence in Space Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. The multiple NewSpace start-ups entering the"

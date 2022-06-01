@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T19:05:00Z
 originalUrl: "https://www.govtech.com/products/outsmarting-disaster-ai-predicts-earthquakes-fires-floods"
 webUrl: "https://www.govtech.com/products/outsmarting-disaster-ai-predicts-earthquakes-fires-floods"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Government Technology

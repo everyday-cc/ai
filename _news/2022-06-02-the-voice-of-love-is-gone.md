@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T18:22:00Z
 originalUrl: "https://www.thedailystar.net/entertainment/music/news/the-voice-love-gone-3037276"
 webUrl: "https://www.thedailystar.net/entertainment/music/news/the-voice-love-gone-3037276"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Daily Star

@@ -2,6 +2,218 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-05-02-would-you-buy-a-work-of-art-created-by-artificial-intelligence.md",
+      "title": "Would you buy a work of art created by artificial intelligence?",
+      "excerpt": "Are computers capable of creating art, will they ever be? In the meantime, examples of artificial art have increased considerably since the last Biennale. We talked about this with Luca Gambardella, who analyses nature to teach artificial intelligence how to be autonomous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.domusweb.it/en/art/2022/05/02/would-you-buy-a-work-of-art-created-by-artificial-intelligence.html",
+      "originalUrl": "https://www.domusweb.it/en/art/2022/05/02/would-you-buy-a-work-of-art-created-by-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Loves by Domus",
+        "domain": "domusweb.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-ai-in-renewable-energy-market-size-to-surpass-us-7582-bn-by-2030.md",
+      "title": "AI in Renewable Energy Market Size to Surpass US$ 75.82 Bn by 2030",
+      "excerpt": "Tokyo, May 01, 2022 (GLOBE NEWSWIRE) -- The global artificial intelligence (AI) in renewable energy market size was estimated at US$ 8.24 billion in 2021. The growing need for power in emerging and established regions is one of the primary reasons driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g26921951/ai-in-renewable-energy-market-size-to-surpass-us-75-82-bn-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g26921951/ai-in-renewable-energy-market-size-to-surpass-us-75-82-bn-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26921951",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26921951",
+      "publishedDateTime": "2022-05-01T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-01-social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.md",
+      "title": "Social media AIs are a convenient scapegoat for the decline of democracy. But we should look deeper",
+      "excerpt": "When Facebook is faulted for election ... and supplant our system of government. But his research suggests that dictators who depend on AI tools for surveillance and suppression are sowing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/politics/political-opinion/2022/05/01/social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.html",
+      "originalUrl": "https://www.thestar.com/politics/political-opinion/2022/05/01/social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thestar.com/0L0DGK-vy4vTP7nEw_1f-MwpjQY=/1200x800/smart/filters:cb(1651502987847)/https://www.thestar.com/content/dam/thestar/politics/political-opinion/2022/05/01/social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper/facebook_like.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/politics/political-opinion/2022/05/01/social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/political-opinion/2022/05/01/social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.html",
+      "publishedDateTime": "2022-05-01T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-01-how-is-artificial-intelligence-revolutionizing-the-educational-sector.md",
+      "title": "How Is Artificial Intelligence Revolutionizing The Educational Sector?",
+      "excerpt": "The role of technological advancement especially in the form of Artificial Intelligence in the educational sector was realized very strongly during the Covid-19 pandemic when the students were ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104140207/How-Is-Artificial-Intelligence-Revolutionizing-The-Educational-Sector",
+      "originalUrl": "https://menafn.com/1104140207/How-Is-Artificial-Intelligence-Revolutionizing-The-Educational-Sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-05/01/R&AN_bbc47image_story.jpeg",
+          "width": 800,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-01T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-01-believe-it-or-not-ai-can-help-brands-connect-with-customers-in-an-empathetic-way.md",
+      "title": "Believe it or not, AI can help brands connect with customers in an empathetic way",
+      "excerpt": "Developments in artificial intelligence (AI) to help brands recognize opportunities to respond in an empathetic way are on the rise. Understanding the customer mindset really starts with brands ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-can-help-brands-connect-with-customers-empathetic-way",
+      "originalUrl": "https://thenextweb.com/news/ai-can-help-brands-connect-with-customers-empathetic-way",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fimage-20.jpeg&signature=fdb6b8bdad7a3fe3ea7ffb4d5bfd6f3d",
+          "width": 741,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-01T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-01-is-there-a-link-between-personality-and-cognitive-decline.md",
       "title": "Is There a Link Between Personality and Cognitive Decline?",
       "excerpt": "No one is shocked when the perpetual Netflix-binging couch potato develops dementia. But can personality traits actually predict who will develop cognitive decline? A study published in April in Journal of Personality and Social Psychology says there is an ...",
@@ -899,250 +1111,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects.md",
-      "title": "IonQ And Hyundai Steer Partnership Toward Quantum ML To Recognize Traffic Signals And Objects",
-      "excerpt": "“QML doesn't need numerous processing steps for traffic road sign recognition like classical approaches to object detection,” he said. “Quantum recognizes a sign and interprets its meaning in one single step.” IonQ has already completed the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/04/29/ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/04/29/ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626c04baf07d0697571617fb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/04/29/ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/04/29/ionq-and-hyundai-steer-partnership-toward-quantum-ml-to-recognize-traffic-signals-and-objects/amp/",
-      "publishedDateTime": "2022-04-29T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-festo-massrobotics-to-celebrate-healthcare-robotics-innovation.md",
-      "title": "Festo, MassRobotics to celebrate healthcare robotics innovation",
-      "excerpt": "The Festo-MassRobotics Healthcare Robotics Startup Catalyst program will celebrate the ... Eureka Robotics develops and commercializes cutting-edge robotics and artificial intelligence (AI) technologies to automate high-accuracy, high-agility tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/festo-massrobotics-healthcare-robotics-innovation/",
-      "originalUrl": "https://www.therobotreport.com/festo-massrobotics-healthcare-robotics-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/10/Life_Science_automated-sample-handling-22327c_6_fix1920x880-e1634833701711.jpg",
-          "width": 1000,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-the-best-robot-mops-in-2022.md",
-      "title": "The best robot mops in 2022",
-      "excerpt": "The Deebot’s mix of detection systems, mapping software and effective automation and remote control ... robot mop — say you have more hard floors than carpets and don’t mind attaching ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/best-robot-mop",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/best-robot-mop",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-aws-bags-victory-over-microsoft-in-fight-for-10bn-nsa-contract.md",
-      "title": "AWS bags victory over Microsoft in fight for $10bn NSA contract",
-      "excerpt": "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
-      "originalUrl": "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8oGbNhHrdUVzT8e8dns8dE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai.md",
-      "title": "Breaking Down Silos To Create A 360-Degree Total Experience Strategy Through Conversational AI",
-      "excerpt": "Raghu Ravinutala is CEO of leading CX automation platform Yellow.ai, writing about customer experience (CX), AI, conversational AI and more. Over the past two years, we have seen customer experience management become a primary barometer of business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626a938f149fc7a7c9b6f347/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/29/breaking-down-silos-to-create-a-360-degree-total-experience-strategy-through-conversational-ai/amp/",
-      "publishedDateTime": "2022-04-29T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

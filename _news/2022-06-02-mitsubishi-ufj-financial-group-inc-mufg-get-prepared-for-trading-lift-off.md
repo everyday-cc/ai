@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T18:13:00Z
 originalUrl: "https://investchronicle.com/2022/06/01/mitsubishi-ufj-financial-group-inc-mufg-get-prepared-for-trading-lift-off/"
 webUrl: "https://investchronicle.com/2022/06/01/mitsubishi-ufj-financial-group-inc-mufg-get-prepared-for-trading-lift-off/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: investchronicle
