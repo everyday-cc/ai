@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Invoca"
   url: "https://twitter.com/Invoca"
-  followers: 4447
+  followers: 4446
 
 size: 201-500 employees
 yearFounded: 2008
@@ -36,7 +36,7 @@ tags:
   - Speech Recognition
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1410447114690125835/J6gF3Aqg_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1531846944733089792/WgaCjwFt_400x400.png"
     width: 400
     height: 400
     isCached: true
