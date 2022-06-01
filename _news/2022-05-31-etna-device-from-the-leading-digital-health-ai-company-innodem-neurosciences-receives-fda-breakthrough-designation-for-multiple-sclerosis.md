@@ -2,22 +2,18 @@
 category: news
 title: "ETNA™ DEVICE FROM THE LEADING DIGITAL HEALTH & AI COMPANY INNODEM NEUROSCIENCES RECEIVES FDA \"BREAKTHROUGH\" DESIGNATION FOR MULTIPLE SCLEROSIS"
 excerpt: "PRNewswire/ - Innodem Neurosciences, a leading provider of innovation and technology for the convergence of neurosciences, digital health, pharmaceutical and artificial intelligence, is proud to annou"
-publishedDateTime: 2022-05-31T10:06:00Z
-originalUrl: "https://www.djournal.com/news/nation-world/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation/article_80ce007f-4783-5342-85fd-d4e23e650b7d.html"
-webUrl: "https://www.djournal.com/news/nation-world/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation/article_80ce007f-4783-5342-85fd-d4e23e650b7d.html"
+publishedDateTime: 2022-05-31T10:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation/article_4a14f619-8b3a-5992-8204-f087187cd36b.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation/article_4a14f619-8b3a-5992-8204-f087187cd36b.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "BB0qz6GxRS4njHdOZ/XZG05+5SQ/IHiah6QF9Oy21sKCRBW0I/jcEoTXwbXO2Jy4CpD8Ks9m1g81/f6TpChRlUmKqUZT5i79idu9wAbuxlBHfrs+0RLvs8e+rkZ9AOMppkq/3qkLJzqFqY5ptM0d/XLT6GEoTlgAt/CIUNcce3zSlo5QRWjlYLrIsL1730FpLaeO3JaDb9Rp8HsbYRuxrnR5AgwnqFNWCF+C8Fdee2xT8QkPg+d5uRQi8hfjYtBZfUbbA7x+1hHt/vu9az7LZb26Ggq070uXkgQQIcDm0EbULvqGMqcDwQhkd26b08q1ctNfKb9uTclnRIrJKzIJyTl/Q0DCHBQ6HZNp/QRrNSLau7PRAmZtONJpxFViwDcs/YPQqZTWnDkqg96WN6TGjpmLZgzBb8asQdWA9cEKhdU6BBYgbvODzonGmk+Olj5VOBncEPhQH7CqHR7qziADM1R2NqrYbgJ3tHSUUXwzzmUKZU0Zsx4V+JRcg6cTVDLcO6RYCuwvBtyLo4hNOTDsWw==;6f1FBQe+hd7BtMNAYVQs+Q=="
+secured: "fm5JUBhG+cbUVLl5n1VK94+I7LEFS3VBkLw2Es8jneP/Qd16fuymPBG6s7T8HgfWI86NZRXZwPVFr3quyAccEy8BmWR1As23ZjWDg5hQ0J/FdpmMOt1DjE+MmYoJ7e3HUeOo1QfLyrsHuOL/FI3Eep1WtzcuxRZ9WvJyjvPbFQDJiOi7jrnR38iut5/eQCRoj0u3YCjpDR/bH+fFfIk3xc+b88s+AVylWK5SFAEVtehpKcttwtPSsiykLWo6O9XgM0p7chcdkBa+tgZBG/OVTSPbjnfbOfksvOqGs2hPgv7i/2BMx3quddyXodN5URjJiLhxrsx5ug3B1clk4k7LTxQuFIe8/XQITotzlo1OJM1N4YCg0187qqeglBhLPE/fnmsTYOPcq/NO/9GD2Jf9jZwcWF4IuDMsceSUPpsP11Z4JScm2YB4mv3i8VeGoDEck8SDBCLHspK3sq8BFnSf5qDca7Pvujx+ufwwBXiP2/4dUuEEY2trwEro1p9lDEYsHtbnUDrNfyRs4abMuHH8tQ==;tM3EkVOkf4l4ofCg3IosRg=="
 ---
 

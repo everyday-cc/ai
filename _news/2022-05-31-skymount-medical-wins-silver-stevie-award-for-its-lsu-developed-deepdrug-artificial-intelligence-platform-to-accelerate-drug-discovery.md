@@ -1,44 +1,19 @@
 ---
 category: news
 title: "Skymount Medical Wins Silver Stevie® Award for Its LSU-Developed DeepDrug™ Artificial Intelligence Platform to Accelerate Drug Discovery"
-excerpt: "Skymount Medical, a drug discovery company using an artificial intelligence (AI) platform developed by Louisiana State University (LSU) researchers to repurpose and build new drugs for innovative new therapies,"
-publishedDateTime: 2022-05-31T12:47:00Z
-originalUrl: "https://www.abc27.com/business/press-releases/globenewswire/8560925/skymount-medical-wins-silver-stevie-award-for-its-lsu-developed-deepdrug-artificial-intelligence-platform-to-accelerate-drug-discovery/"
-webUrl: "https://www.abc27.com/business/press-releases/globenewswire/8560925/skymount-medical-wins-silver-stevie-award-for-its-lsu-developed-deepdrug-artificial-intelligence-platform-to-accelerate-drug-discovery/"
+excerpt: "CALGARY, Alberta and BATON ROUGE, La., May 31, 2022 (GLOBE NEWSWIRE) -- Skymount Medical, a drug discovery company using an artificial intelligence (AI) platform developed by Louisiana State University (LSU) researchers to repurpose and build new drugs for ..."
+publishedDateTime: 2022-05-31T12:03:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/covid-technology-health-louisiana-state-university-f66c3d36daf987d7e3bd5df215c2ea44"
+webUrl: "https://apnews.com/press-release/globe-newswire/covid-technology-health-louisiana-state-university-f66c3d36daf987d7e3bd5df215c2ea44"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: abc27
-  domain: abc27.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2022/03/cropped-ABC27-WHTM-DOT-COM_800x340.png"
-    width: 800
-    height: 340
-    isCached: true
-
-related:
-  - title: "Skymount Medical Wins Silver Stevie® Award For Its LSU-Developed Deepdrug™ Artificial Intelligence Platform To Accelerate Drug Discovery"
-    excerpt: "Skymount Medical, a drug discovery company using an artificial intelligence (AI) platform developed by Louisiana State University (LSU) researchers to repurpose and build new drugs for innovative new therapies,"
-    publishedDateTime: 2022-05-31T21:19:00Z
-    webUrl: "https://menafn.com/1104299245/Skymount-Medical-Wins-Silver-Stevie-Award-For-Its-LSU-Developed-Deepdrug™-Artificial-Intelligence-Platform-To-Accelerate-Drug-Discovery"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 4
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?479273"
-        width: 404
-        height: 250
-        isCached: true
-
-secured: "QL3Qcf1UAQB2nrhvimcTmtLc9LMgpC14dmwWVB/zxZT1qg3VLQbcsfT9FiZ71whTztre+B4yMXTpI1fIMYqddqACKicD8J0JBb4lhd55e5aw2V8755a2jZXXz2XY6/a8UoazcFZDLHZqsENJK0Tt2W0+b9xoAV90G37ANMfbDk3MmeqMYarvBqdqp/7o7K8PBGSyTrX50JCPNP8wA5hrzAvwtwj3NoWKF9sORaU6HkhseQujZ1PsYTC+AMQtYGZ3RHBxKaYYZSn1QIUIWlW6vW7KLUQpH8Ig4xnXl9q9w4a0eN9ijV2FbOx9c3ZVbJWhmV3zyBlWJ5L51EjgzOSWqQsrYFxmBUk7RVp2e/QjvIc=;pW64xC7KyuXAryU0iWsJAA=="
+secured: "rCrpomcXqyZ/qX5PRsiw1alnmdV59z6GBceeR1pz2rCZaSKm2tCrpuWEtoLRmoDkUF6KfW2MO8Gop0fvAiTgsfcSwqUVTc79OUeYM08D3V3/e7zOixRQsIbKJMGZKx7DlB0s0Nzjdg/ItEotVAZ56/i4h8RIl3pUFP6UTK6tvaRzl+dWzgv2avWDFi02L1+Z2uQ+z5RXBu+hRuBNpiTocSvcJ5RH6EXse64pA5K7lILo0G/mgb3o6SuOQCet0ZHRLSQyBKEVtzh9LvfGvVlFOHwOIVBy3Vyi18PpzGSjc0Qk7jtgP1eX15BS5G0PI4N8oT4IibcSA5DyazZmpN8iINq+/6hqAcTeYOSC/43IhJQ=;Frp2SQM61j9AbB7MDvh69A=="
 ---
 

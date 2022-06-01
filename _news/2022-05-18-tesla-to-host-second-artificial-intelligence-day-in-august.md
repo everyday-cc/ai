@@ -1,74 +1,24 @@
 ---
 category: news
 title: "Tesla to host second artificial intelligence day in August"
-excerpt: "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day on Aug. 19, with the company likely to expand on plans to fine-tune its self-driving technology."
-publishedDateTime: 2022-05-17T23:37:00Z
-originalUrl: "https://www.metro.us/tesla-to-host-second/"
-webUrl: "https://www.metro.us/tesla-to-host-second/"
-ampWebUrl: "https://www.metro.us/tesla-to-host-second/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/tesla-to-host-second/amp/"
+excerpt: "May 17 (Reuters) - Tesla Inc top boss Elon Musk said here on Tuesday the electric-car maker will host its second artificial intelligence ... plans to fine-tune its self-driving technology."
+publishedDateTime: 2022-05-17T23:25:00Z
+originalUrl: "https://www.reuters.com/article/tesla-artifical-intelligence-idUSL3N2X93PC"
+webUrl: "https://www.reuters.com/article/tesla-artifical-intelligence-idUSL3N2X93PC"
 type: article
-quality: 74
-heat: -1
-published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
-images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportScienceNews/tagreuters.com2022binary_LYNXNPEI4G18T-BASEIMAGE.jpg"
-    width: 800
-    height: 531
-    isCached: true
-
-related:
-  - title: "Tesla increases top speed of Autopilot with ‘Tesla Vision’ to 85 mph"
-    excerpt: "Tesla has started to push a new software update to increase the top speed limit of Autopilot for vehicles with ‘Tesla Vision’ to 85 mph. It is almost a year to the day that Tesla announced the transition to its “Tesla Vision” Autopilot without radar."
-    publishedDateTime: 2022-05-18T09:50:00Z
-    webUrl: "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/"
-    ampWebUrl: "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 91
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-Autopilot-hero-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla releases new Full Self-Driving Beta update and it’s a big one"
-    excerpt: "Beta software update with improvements based on over 250,000 training video clips from its fleet. Based on the release notes, it’s a big update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,"
-    publishedDateTime: 2022-05-19T10:13:00Z
-    webUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/"
-    ampWebUrl: "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla's Latest Self-Driving Update Is A Game-Changer"
-    excerpt: "Tesla has released a big beta software update for drivers who are in its Full Self-Driving program, offering a huge list of improvements and changes."
-    publishedDateTime: 2022-05-19T19:53:00Z
-    webUrl: "https://www.slashgear.com/868855/teslas-latest-self-driving-update-is-a-game-changer/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 49
-
-secured: "78tXGIJMDMwogi7VDHZGT26n94czR8jZbJ0GtKf+rlsQtcGmC/ZW8/Lb374h2p8cTiFJTHUU9PXrvPxE9ldaiQsjnwwwt4NsNSWAXu42mIq5w/IMWxV37cdtT/RBFmtWwtpJrvi5LTqPL83ATbp52NY4YZuzaqFQQd1DBTUgEspNgBE5zRVHmjMpC8n8EId3eIComh+FH/b8eFiGoUqZSl1EuXeTCTa+6tLehpNxA2gplZ/8gtddcXi+ZFe0WeqAAHnhhih48q1Vuv8AsJD8seuBF/iQ9Gt5DDSsgoeXs3NGS1MR+UOzaS9wSrwT/1YaQbi8KKomXKD890cst0UXzYuaDNvm58nk6+CEzzMDLb4e4DjKTx3oO4WW9O65Krsp5oB4dl0Xz2d9PrhW2RHVX3FRBjHG3363AC6krM22Rr8SbURaU+zv5cuMJSkxd+YWdaPP0qWkzXyJ5lxrgSCQQ7wvp69la+REq9bhFYg5cAg+UOQmVwaFFYSaSg2RE0CJeTLMIr7m5Zy++AOPJC3djA==;OQidaZn8vY5V6wSUXWQniQ=="
+secured: "LsRN/uEJ+g9PHJBlCyRqHfCG5HmIhdjUNaUSN+Wrrv5QWlNOr8ygsi6ceibMgNmUw+XVfAq6oQJnwFAkPP5rMOVEqy9AYA0zVp1AOaanqVPyBO5CuC2ePZQ84q4XRpkZMtme2sbfU1hcKJEGEg19l7WJTpA3DemPVFO3PK+GjCNCTM5oO0746e9u8uS13hODBLo4IDNpxWGRPw/IQrjuHUVbxjzx0iD25ulI/hWFvfpwHRenn2PfUR+yX9MpPdL6CDb/NuyRHr8SFgf4UJT8+8oVava1tj3yuWebh1rzpB6Qz5P8/A63msc6ZUSg9pz271iS8fm21CPlrrKiyOzVrSFR1fJPNG2pTopjSP4AdvQ=;eiJ0gR4AZrACBWqNHDOY7A=="
 ---
 
