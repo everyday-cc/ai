@@ -497,17 +497,17 @@
       "title": "Apple's former machine learning director reportedly joins Google's DeepMind team",
       "excerpt": "Ian Goodfellow is now reportedly joining Google's DeepMind team as an individual contributor, a few years after he left the tech giant for Apple. Based on his LinkedIn profile, Goodfellow worked ...",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/apple-ian-goodfellow-google-deepmind-045617218.html",
-      "originalUrl": "https://www.engadget.com/apple-ian-goodfellow-google-deepmind-045617218.html",
+      "webUrl": "https://www.aol.com/news/apple-ian-goodfellow-google-deepmind-045617218.html",
+      "originalUrl": "https://www.aol.com/news/apple-ian-goodfellow-google-deepmind-045617218.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/923290a0-d65e-11ec-bfff-d76e8884d1c2",
-          "width": 7693,
-          "height": 5129,
+          "url": "https://s.yimg.com/ny/api/res/1.2/OjYtfGJdPx.1g0b_cZN1qQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-05/923290a0-d65e-11ec-bfff-d76e8884d1c2",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -515,23 +515,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/apple-ian-goodfellow-google-deepmind-045617218.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-ian-goodfellow-google-deepmind-045617218.html",
-      "publishedDateTime": "2022-05-17T23:01:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T00:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

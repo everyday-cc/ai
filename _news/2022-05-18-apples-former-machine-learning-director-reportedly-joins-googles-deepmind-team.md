@@ -2,20 +2,14 @@
 category: news
 title: "Apple's former machine learning director reportedly joins Google's DeepMind team"
 excerpt: "Ian Goodfellow is now reportedly joining Google's DeepMind team as an individual contributor, a few years after he left the tech giant for Apple. Based on his LinkedIn profile, Goodfellow worked ..."
-publishedDateTime: 2022-05-18T06:01:00Z
-originalUrl: "https://www.engadget.com/apple-ian-goodfellow-google-deepmind-045617218.html"
-webUrl: "https://www.engadget.com/apple-ian-goodfellow-google-deepmind-045617218.html"
-ampWebUrl: "https://www.engadget.com/amp/apple-ian-goodfellow-google-deepmind-045617218.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-ian-goodfellow-google-deepmind-045617218.html"
+publishedDateTime: 2022-05-18T07:23:00Z
+originalUrl: "https://www.aol.com/news/apple-ian-goodfellow-google-deepmind-045617218.html"
+webUrl: "https://www.aol.com/news/apple-ian-goodfellow-google-deepmind-045617218.html"
 type: article
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - Google AI
@@ -23,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-05/923290a0-d65e-11ec-bfff-d76e8884d1c2"
-    width: 7693
-    height: 5129
+  - url: "https://s.yimg.com/ny/api/res/1.2/OjYtfGJdPx.1g0b_cZN1qQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-05/923290a0-d65e-11ec-bfff-d76e8884d1c2"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "v0Mz+2YldLXa7NOPKH+3SaFExCsxVAhqr5EKSpMdixYraBbVsopHIKHPMfNBdGp2VWHoTU94o8s1O4/koe71MkU5siR6Jg30h8uYypVFe5APPgV8ha9I9gW4Dbglb5tDukHy9tO4VCbVqsHS39yCIY1KjhC4lnjROpvEBI9H+lW/h7cYXz8ROMCgGllBg0Kv61jd61eb2Ar1R4V8rpzOoWlbExKF8Xr9Pk8smmwv8gzcyjfjwzp9R5zWf65yimYkMhmf+FWH3pdYE5qnvbgXVlERTUOCsYoDDaxLWxLFD2dMJ3w08jlvAYyt9y1+E44oimeSRvL5jcuCIDNWkR48BDQ7LC5cm/fvgTRCBMoboHY=;lok/+zq544viDPQQZqFMwg=="
+secured: "pRW3P8uDq84HBoY43nOjBoGp7jsl9cXNx12weaIghR4ZV+TC3FtxtDQTNyPWoI30keYcish2i+SBvix2+WRpWvhNy/l1i2l9C9s9TbbXgaZ1Ze51pB6/j+Vxqtwf6qq5zYHcIy6Rsdg3fAcMsYmcb1CRY5lmQfIODyRbCJYXHQ/wfNf1LEuegjD7F1Z74yaNz3eKY2LbZUfvpR4on8NKPHcdW+YHQ4++A9dMbeiPTDM0zfaCZWQUjGcQDxwrbKsAL4L4NIKUrCrs2OrFK2Si5Kqa0ekDoKYyg4CYscSBh6ER2SasUux3OaHR65kMWlanSqwO9XL0MYWJjNlX1uVw2hkN++q/0gGB0ZmQDsebOqI=;vSYbhghWQ7ebSVliEndwjg=="
 ---
 

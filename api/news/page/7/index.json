@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-24-metas-myosuite-ai-platform-could-help-doctors-develop-better-prosthetics.md",
+      "title": "Meta’s ‘MyoSuite’ AI platform could help doctors develop better prosthetics",
+      "excerpt": "One of Meta's ML teams has created a tool that builds realistic musculoskeletal simulations that run up to 4,000 times faster than state-of-the-art prosthetics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/meta-myosuite-annoucemed-183850677.html",
+      "originalUrl": "https://www.engadget.com/meta-myosuite-annoucemed-183850677.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5d9505f0-dac6-11ec-bedc-c448c42adbc5",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-ethical-ai-how-is-ai-redefining-the-insurance-industry.md",
       "title": "Ethical AI – How is AI Redefining the Insurance Industry?",
       "excerpt": "By Antoine de Langlois, Responsible AI Data Scientist at Zelros When Cybersecurity meets Artificial Intelligence, companies and organizations have many new challenges and potential threats to consider.",
@@ -572,15 +623,24 @@
     {
       "path": "_news/2022-05-23-voice-biometrics-market-size-worth-482bn-globally-by-2028-at-206-cagr-exclusive-report-by-the-insight-partners.md",
       "title": "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners",
-      "excerpt": "The Insight Partners published latest research study on \"Voice Biometrics Market Forecast to 2028 – COVID-19 Impact and Global Analysis  b",
+      "excerpt": "Voice Biometrics Market Size Worth $4.82Bn, Globally, by 2028 at 20.6% CAGR - Exclusive Report by The Insight Partners. NEW YORK, May 23, 2022 /PRNewswire/ -- The Insight Partners",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-voice-biometrics-market-size-worth-482bn-globally-2028-/2022/05/23/9606892.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-voice-biometrics-market-size-worth-482bn-globally-2028-/2022/05/23/9606892.htm",
+      "webUrl": "https://www.tmcnet.com/channels/call-center-management//news/-voice-biometrics-market-size-worth-482bn-globally-2028-/2022/05/23/9606892.htm",
+      "originalUrl": "https://www.tmcnet.com/channels/call-center-management//news/-voice-biometrics-market-size-worth-482bn-globally-2028-/2022/05/23/9606892.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/channels/call-center-management/new/images/wp-right1.jpg",
+          "width": 336,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1064,49 +1124,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-top-10-ai-graduate-degree-programs.md",
-      "title": "Top 10 AI graduate degree programs",
-      "excerpt": "neural networks, reinforcement learning, and robotics. It hosts myriad research centers and labs, including the Laboratory for Artificial Intelligence, which opened its doors in 1983 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html",
-      "originalUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/05/skills_programmer_data-scientist_graduate_school_college_certification_mortar-board_valedictorian_cole-keister-via-unsplash-100759473-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html/amp",
-      "publishedDateTime": "2022-05-22T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

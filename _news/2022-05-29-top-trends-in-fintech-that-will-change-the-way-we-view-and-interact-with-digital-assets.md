@@ -26,22 +26,6 @@ images:
     height: 1706
     isCached: true
 
-related:
-  - title: "27/05 – Weekly Fintech Recap"
-    excerpt: "Partnerships Laiye Partners with Accenture to Power Intelligent Automation and Innovation at Scale Laiye, a leading Intelligent Automation (IA) provider, announced a partnership with Accenture, a global professional services company with leading capabilities in digital,"
-    publishedDateTime: 2022-05-27T11:14:00Z
-    webUrl: "https://financialit.net/news/digital-banking/2705-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_13.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "IppI19Qi2mI1Mx0FRbH4IomlVqcpRgcoGVUtNy0NoN6fGEBRsUCKk7RUdGD8vivLD6CdbcTXOW8Paw8IlTIXmirP67Dldru9YSlW9IrD0JVmcz6lFz4pYF5cTjpLB6D1F/KPLzBbhWwkf1RLLwtGq7mzLk6oLPpqRaHdJb0HEbzziaketMBAhum8rl4WrsnF6ajv1JNO2b3tUHMzrAchmApNQ3f9McwPd7YbGXUcv+8GS5fV14EmLhl1ewN4ndGo/39XKgi+bI+1vYTNUmBmpFgtUNrVZqxKMrc1RBEDJw8CxmFIaTrcCn7bsew4cbhk+xArgHvbrv4jnwp+rSGJRok5DxM46Ayo4JA55scRAkLCYsY9AcWZHMkmOpV5jd4F3cX/KnamVXinvB6cMCOjwg7eCmyVbB7RGbbLmyksK0JcNG94ElsJuN7B1HWy00oKCeZMJ1odh8y5BLQyhgKD5/mXXEkVjPrSh1WXDvxrinUuUp71+J/dMtJPl7UvnkJwTeCE05WolwZc3jTBXKKcYg==;J9dahO+4D16WtVfPFIGypw=="
 ---
 

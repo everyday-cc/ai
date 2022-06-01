@@ -1,28 +1,28 @@
 ---
 category: news
 title: "AMPD Subsidiary Departure Lounge Inc. Signs Reseller Partner Agreement with Cutting-Edge Motion Capture Technology Company, Move.Ai"
-excerpt: "VANCOUVER, BC / ACCESSWIRE / May 31, 2022 / AMPD Ventures Inc. (\"AMPD\" or the \"Company\") (CSE:AMPD)(OTCQB:AMPDF)(FRA:2Q0) subsidiary Departure Lounge"
-publishedDateTime: 2022-05-31T11:34:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ampd-subsidiary-departure-lounge-inc-signs-reseller-partner-agreement-with-cutting-edge-motion-capture-technology-company-move-ai"
-webUrl: "https://www.digitaljournal.com/pr/ampd-subsidiary-departure-lounge-inc-signs-reseller-partner-agreement-with-cutting-edge-motion-capture-technology-company-move-ai"
+excerpt: "VANCOUVER, BC / ACCESSWIRE / May 31, 2022 / AMPD Ventures Inc. (\"AMPD\" or the \"Company\") (CSE:AMPD)(OTCQB:AMPDF)(FRA:2Q0) subsidiary Departure Lounge Inc., a Vancouver, BC-based company offering a ran"
+publishedDateTime: 2022-05-31T11:31:00Z
+originalUrl: "https://www.eagletribune.com/region/ampd-subsidiary-departure-lounge-inc-signs-reseller-partner-agreement-with-cutting-edge-motion-capture-technology/article_72f8a21e-7a75-5afd-b0e3-bf63b764c38f.html"
+webUrl: "https://www.eagletribune.com/region/ampd-subsidiary-departure-lounge-inc-signs-reseller-partner-agreement-with-cutting-edge-motion-capture-technology/article_72f8a21e-7a75-5afd-b0e3-bf63b764c38f.html"
 type: article
 quality: 7
 heat: 7
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Guns-USA-Mexico-AFP-1K-02-600x337.jpg"
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
     width: 600
-    height: 337
+    height: 333
     isCached: true
 
-secured: "VAbNIFgzmZLoNwh3hp3j0GUTQHoiwIhppaGuNSRn9RfGAPCu6qCvI2VeXvR5Vsq19VSPm7dqSDwunrO8q5OaFCdKOMF2o8FsSXwydzMmsDWiGL2hLg/gAa8Cbn+bfcW5uj/qXuJ7IsBv5mQpCzuZNyaPkS/QxC36rIRTytazpTHbmWnSHG3lAr5qdgfCSUoTHshktwPv9Oo2qD1fZe1UI+enpsT7zUODAZpjMDHVX8XrnkhpbNkVn3YkQnE9tFRCcaBwT72OUW6O3nUQuknlHqCbIGmcLGiD7COyBzkCWz7cpfo7SV044A3CxT0NFTLkjM04DSjnGtJKWo/EwrUt0RKdcDgfHRj3CZZ9YrWzXVneP+5/kQfiwj8nKXfyyoAG4MdQma4Q3E24fH3RtGzj5ydwNgw57kGnPJWZkoc5DvM4KIvsenL3c2/HmTg/2u11wi9sE2jvUQDxGgwZDFy7j8Q97A3IWFXPyiBCYuVn7UFnaSkjptHBpIPK7gwMg/uASnVZ4KMEyGf7Oa9Hjqlwzw==;sFz+yU4VHl3vaCY5LBvdww=="
+secured: "v4tMQlXR2ZOg26qJzjl08gp8YWjI4Yr/nEi3ymvITkgeaLwsKAaIVXrZpwfeumZOioLes19q6xi81ZggGE/jUHcJW3OsMbpqS8sgjq9BGTwdEJLDdZCPvPrm2SxDD98H7UQ5xQ9d4AEMNZLuVwZ+Ltbxi2AMt6wzqZSIJq1NU5bKiQFFp6t1YMXsmxwg26i1ME363t1r0urjJw0CpFO3rfxWrGqwySdaPKfPSdgSfE2rdo2D/U/6bT7963sychBMK8Re47CjACGtepExARcwP8jkjpS1pjJ7TCJz4jLkFk8BeTxN5Txa0+5FzxffpYrtfCgpjDPm43Wp+dYt/2i5kQfH2ZSsBBWqn8hJpGNh7h8=;8pDIuk6KSDFybIDqHP5iJQ=="
 ---
 

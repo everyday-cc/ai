@@ -33,15 +33,6 @@ related:
         width: 728
         height: 381
         isCached: true
-  - title: "Building Ethical Artificial Intelligence"
-    excerpt: "The software that makes these predictions is often called artificial intelligence. It’s interesting that we call it “intelligence,” because other tasks we assign to computers—computing huge numbers, running complex simulations—are also things that we label as “intelligence” when humans do them."
-    publishedDateTime: 2022-05-28T12:00:00Z
-    webUrl: "https://themarkup.org/newsletter/hello-world/building-ethical-artificial-intelligence"
-    type: article
-    provider:
-      name: themarkup
-      domain: themarkup.org
-    quality: 36
   - title: "Smarter health: How AI is transforming health care"
     excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
     publishedDateTime: 2022-05-27T14:00:00Z

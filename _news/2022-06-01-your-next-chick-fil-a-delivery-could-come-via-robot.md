@@ -36,14 +36,19 @@ related:
         height: 768
         isCached: true
   - title: "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX"
-    excerpt: "Self-driving robots provide energy-efficient meal delivery to guests’ front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delive"
-    publishedDateTime: 2022-05-31T14:13:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-austin-texas-265beb43db39b98725512c35d28b0af5"
+    excerpt: "Self-driving robots provide energy-efficient meal delivery to guests' front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delivery"
+    publishedDateTime: 2022-05-31T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/article_3f63c6f8-5552-54a3-932e-0a1240de73bf.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 10
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 30
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "+TNwW9zzM23x2bSz7ZjWSalCZthkottXqRjpZsaGii+saF8G/8onqrpkpa5a5LWMRWv9iYqxO4x3PoOAXoCLEqlkT2tZo1l2hCczmSIob8PFLlIOhlOwwkQ6oN+smgg3elJFKGlTmnyM/0F0bsqnyCLaCDWU+oolc7aT8E+61UjwJkNzKjCIxyX1zD5wWH+sKRe4k6pM0pzCmhqNTrBG97W2wpxdMRX61QYIOTv3gny2Jat3uIZvBHosVpsl7420QejASTJAQDTV/HEYreAE7HqCSi/SfCqYw4zqtaA8FFA9cMmp8k+7DLi0W+Oe3R2UkrgDGYyOlB8fuvvnfNSsdd6aDaiaG9YuobP1hQBtRJGOTVlNogL26tg2HEQRWV1Rb+xNadMJrbIl9GBTNAHvBYgpYwMCrwya9+53IioxExYlTV8+KBn6JLPF9DdFSigC3kHwc4s1X4UItFb7+BQVsubmkpp0xShf5ktgw1zrTjHETQMoIn0x4pzyCNSk49tP3jO3G9zGYu12tcAdqd0gJA==;L4K8IC26vB+n8bQCjwOX/w=="
 ---

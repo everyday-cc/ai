@@ -7,7 +7,7 @@ originalUrl: "https://www.retaildive.com/press-release/20220531-global-footwear-
 webUrl: "https://www.retaildive.com/press-release/20220531-global-footwear-retailer-camper-selects-invent-analytics-for-ai-powered-omn/"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
+    excerpt: "Corelight, the leader in open network detection and response (NDR), announced Corelight Investigator, a SaaS-based solution that extends the power of open-source driven network evidence to SOC teams everywhere."
+    publishedDateTime: 2022-06-01T03:29:00Z
+    webUrl: "https://pipelinepub.com/news/Corelights-New-Platform-Delivers-Open-Source-Powered-Network-Evidence"
+    type: article
+    provider:
+      name: pipelinepub
+      domain: pipelinepub.com
+    quality: 5
+    images:
+      - url: "https://media.pipeline.pubspoke.com/files/issue/260/cover/OSS-BSS-Automation.gif"
+        width: 500
+        height: 647
+        isCached: true
 
 secured: "o/QW4Vu4BXsg54L/59AUYFx6m+JquXGIypWd7XfP3yl6uqjkIKtaWLdaYPj5iM05ir3uIC8GUuB9JyEE/yRcyfOwvFwFimf3IVNW3bXB85ubUo0mfKeBnhwnFjyXCyBnyZvaSAorKjDHzVXJSMalqLCYPv/JFYt/mbMNHhMqapo9Epwr/gz+AUq9EUIG6zimY0wvg4Nttrf4bjsvWxq+dkbiwINIaEg/RJv1sJlw0qLMkmJYh3PfPXz910nsdlcTddo+I4FoeAOG1DtAxkMzo6CmRHyzjp+Y5HlasFBSw9C3iS7UyqobYZBLkX3d7SBzkKr46NrnkGo5f+YlqaqUq5O+L8mw7bNzTTSIXIWhtZhvSEdWoIBJAmZi6NorsrMM+Oko5SMtKiJ9BJW6kgNY8VYxVEUh64Q4Or/UFeIeXcIA/MAk7KhLHZR9n/s1/bZN0am82UWSpQqKK31L3oWWLjQjdGdOdXr+5GwjS4EI4gmSvX3eH6AboGEE9rcEijyT7Di1QgyjtRHdpfGercKNLA==;UpEDR234CXUYAOjRLaNQmw=="
 ---
