@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "verbit_"
   url: "https://twitter.com/verbit_"
-  followers: 1445
+  followers: 1446
 
 size: 51-200 employees
 locations:
@@ -35,7 +35,7 @@ tags:
   - Speech Recognition
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1493155246549475332/Y6laKIH9_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1531992158420537348/pSmortOj_400x400.jpg"
     width: 400
     height: 400
     isCached: true
