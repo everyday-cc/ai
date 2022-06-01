@@ -42,22 +42,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Artificial Intelligence to Make Roads in India Safer to Drive"
-    excerpt: "Artificial Intelligence (AI) can soon make roads safer to drive in India, reveals a new study. A unique AI approach that uses the predictive power of AI to identify risks on the road, and a collision alert system to communicate timely alerts to drivers,"
-    publishedDateTime: 2022-05-27T13:56:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-to-make-roads-in-india-safer-to-drive-207316-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 57
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/accident.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
 
 secured: "CM4YTG0YBj9atJmVK+rEX70oNw0ezizxBhwUlR13zFMzCR/TbnCoTZdVhDAdbzkaxwvT6KmhGXZn1NGpObih+LuCe2oks3YqrT4/j8wE00+bKdD3/GSioqOHbNgl3/Vh8v/Qzg9fhN9Wc/riLnKC2p4vOEx8AL6nPLriFsc4egYQ3bQkwsrMR/odDei5Osjnvsw/bdITqmGV1rig4PoSOK0o0Dm5lsHppgwnDEe89nLWAlS7RpuiT7rN1RehK8KJ6MB6t1yiLzDyyXS/2gX83oczW74C4SJ3kdxcauBvKqFdtQ1ayPUELyWxCzIw4TIP/rtOJrBx9aeiZSM6FAVKCPhb6YTAT5qyfC4yLmamZUZLqZDIO4rJQgi3tyZz6qVce8afEn5rT0yiAZlr0UCFWEOjUq6Lq/l2Nr1G9V5NkQIbcTT3DoruHSBORVk9xXErSV4lt/HKxsHehMWt5QG9OGpfyY8UXX6u4gTB6QFRQebBnSd9/6olQYG2PZiQz5f0DQcibI4d00Vz4fV2Dj2jaw==;xBTIwD1b/SQscjgG9LKJPw=="
 ---

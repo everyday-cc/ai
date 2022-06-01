@@ -7,7 +7,7 @@ originalUrl: "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_amer
 webUrl: "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 34
+  - title: "North America Facial Recognition Market to be Worth US$ 3,907.98 million by 2028: Business Market Insights"
+    excerpt: "The facial recognition market in North America is expected to grow from US$ 1,628.13 million in 2021 to US$ 3,907.98 million by 2028; it is estimated to grow at a CAGR of 13.3% from 2021 to 2028. The Business Market Insights provides you regional research ..."
+    publishedDateTime: 2022-06-01T07:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/north-america-facial-recognition-market-to-be-worth-us-3907-98-million-by-2028-business-market-insights"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/a63f6f2eca48ebdb526b9a1f3660b3af9b695a93-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "8MWdQc2ZXxmQPnA8j3uDUC3dAh0ZLWZENv3T3X8UhtlDf81iBQklCPol6Wni/qwII7RdMhlLJUxpVDvrC1rECS09OZCba4ZqWP4721eSKJ99q6SO+XGOqLmhP99zqKNjngHTaiEPHnshuSMn8oZQoGU9nb8TMOdF+g9SZCq5MaT4P7lqhR1C/zsSFZUnMul9WeiiKXmF5d2m6bQmw0dOIHJ3t20cdpnOX/VHnNXn2I+rmU00gz5NWXq73sjGsuUQBC8AWV1JXwzXDl3bUJCoJgh1Govh7e4OwljM1bW4UGyKNvW0znwbCybt2zxN3WJ8EdaEK6eROAnmRt/IbhGu5iP+1FESC+10YH1UcbRv8YZq/n6rGch3DTjcgqaPwPkbzYnrAcOIWi4dxbgcVhTlba2nNiHfjus8fMYUEG5MLm3JpT7HNE9d9XwC7Rvx5RxX91q9yLIUqzb0HCLpeWzejunAw0nk+NSr1Uq0oPKcrfh/H2yAyi9Xp6NMyxR7Gy64hNnkmwOq/GuPG8+apYIW4Q==;juwMN6mX0RmnMk5sZUM2Zw=="
 ---

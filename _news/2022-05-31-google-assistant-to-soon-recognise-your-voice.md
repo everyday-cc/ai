@@ -137,6 +137,20 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Nabd launches AI-powered personalised email newsletters"
+    excerpt: "Nabd, the largest Arabic aggregator app and platform, is excited to announce the launch of its new Personalized Email Newsletter product, which provides opted-in subscribers a personalized daily news digest,"
+    publishedDateTime: 2022-06-01T06:54:00Z
+    webUrl: "https://campaignme.com/nabd-launches-ai-powered-personalised-email-newsletters/"
+    type: article
+    provider:
+      name: Campaign Middle East
+      domain: campaignme.com
+    quality: 37
+    images:
+      - url: "https://campaignme.com/wp-content/uploads/2022/06/Picture1.png"
+        width: 635
+        height: 460
+        isCached: true
   - title: "Google Assistant could soon learn to recognize your voice"
     excerpt: "Code found on the Google app indicates that Google is working on having Google Assistant recognize your voice."
     publishedDateTime: 2022-05-29T07:54:00Z

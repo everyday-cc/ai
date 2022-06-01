@@ -65,6 +65,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "North America Facial Recognition Market to be Worth US$ 3,907.98 million by 2028: Business Market Insights"
+    excerpt: "The facial recognition market in North America is expected to grow from US$ 1,628.13 million in 2021 to US$ 3,907.98 million by 2028; it is estimated to grow at a CAGR of 13.3% from 2021 to 2028. The Business Market Insights provides you regional research ..."
+    publishedDateTime: 2022-06-01T07:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/north-america-facial-recognition-market-to-be-worth-us-3907-98-million-by-2028-business-market-insights"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/a63f6f2eca48ebdb526b9a1f3660b3af9b695a93-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "D+/OCtIgvT+iiJ0C7aOg+AH8xs3gbp+METCpV4cLvElsBsQEGhMtH0dnAyPUlQBOxjwydGY3ENu/+U0+/6EyUHhJYYv5wJi4fRQoNcoAg/vA9Xep5uIrjWUFcSP74nTROHHt/ffdSKZOZhJzXKhQAfnhI4mzj+3qawHv9FWQHF7kKGRjvQkI9RwZyf8PPE2UK2y5YWBCWGTEPsIM2fFRRXFDSYsvfRwaw1Wr2vuT03cJxfhhv8UfXZj1tIY7UyIvAMJ6+WWIkzHzcb93Blz5egx1B3UjAWIlav/4sMD+TVDJHGOyZVVlCq9vXAdv3+RWFAIrp0Hvp1kp7dRijKyKSpPxfZZQMY2C/Ak+qmef0Dk=;JBKv6Y0G24OiHtVJIVsq5w=="
 ---

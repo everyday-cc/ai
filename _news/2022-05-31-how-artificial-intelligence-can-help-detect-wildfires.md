@@ -45,15 +45,6 @@ related:
       name: Archive of Our Own
       domain: archiveofourown.org
     quality: 19
-  - title: "Artificial intelligence learns 'song' of coral reefs"
-    excerpt: "According to new research, artificial intelligence (AI) can track the health of coral reefs by learning the \"song of the reef.\" The research has been published in the journal, \"Ecological Indicators\"."
-    publishedDateTime: 2022-05-27T13:54:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220527/3945978.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
   - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
     excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
     publishedDateTime: 2022-05-31T19:38:00Z

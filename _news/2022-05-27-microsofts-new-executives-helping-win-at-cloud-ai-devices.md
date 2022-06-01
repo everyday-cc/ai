@@ -64,20 +64,6 @@ related:
         width: 1522
         height: 857
         isCached: true
-  - title: "Microsoft and Meta expand their AI partnership"
-    excerpt: "Meta notices how Microsoft keeps expanding its AI services on platforms like Azure. Microsoft and Meta announced the ONNX (Open Neural Network Exchange)"
-    publishedDateTime: 2022-05-27T13:45:00Z
-    webUrl: "https://www.techzine.eu/news/collaboration/79896/microsoft-and-meta-expand-their-ai-partnership/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 56
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/ian-haynes-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Nokia plugs in Microsoft Azure into its industrial edge platform"
     excerpt: "With Microsoft Azure Arc, a wide ecosystem of applications, and our long standing work with Nokia, we can provide AI-powered insights and identify solutions to workflow issues for mission critical Industry 4.0 applications running at the edge.”"
     publishedDateTime: 2022-05-31T16:20:00Z

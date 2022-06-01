@@ -101,22 +101,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Auterion Delivers Supercomputer Performance Onboard Drones and Mobile Robots With AI Node"
-    excerpt: "Compute-heavy AI and ML algorithms for object recognition, tracking and counting can be used, on mission, in advanced applications for public safety, security, and wildlife conservation, and across industry use cases. “As enterprises leverage more ..."
-    publishedDateTime: 2022-05-27T14:59:00Z
-    webUrl: "https://www.suasnews.com/2022/05/auterion-delivers-supercomputer-performance-onboard-drones-and-mobile-robots-with-ai-node/"
-    ampWebUrl: "https://www.suasnews.com/2022/05/auterion-delivers-supercomputer-performance-onboard-drones-and-mobile-robots-with-ai-node/"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/05/auterion-delivers-supercomputer-performance-onboard-drones-and-mobile-robots-with-ai-node/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 50
-    images:
-      - url: "https://www.suasnews.com/wp-content/uploads/2022/05/AI-node.jpg"
-        width: 1666
-        height: 886
-        isCached: true
   - title: "Leading Supercomputer Sites Choose Cerebras for AI Acceleration"
     excerpt: "At ISC 2022, Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, shared news about their man"
     publishedDateTime: 2022-05-31T15:38:00Z

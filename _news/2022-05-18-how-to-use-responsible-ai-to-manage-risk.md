@@ -5,6 +5,8 @@ excerpt: "A key motivation for responsible AI endeavors is resolving uncertainty
 publishedDateTime: 2022-05-18T13:30:00Z
 originalUrl: "https://venturebeat.com/2022/05/18/how-to-use-responsible-ai-to-manage-risk/"
 webUrl: "https://venturebeat.com/2022/05/18/how-to-use-responsible-ai-to-manage-risk/"
+ampWebUrl: "https://venturebeat.com/2022/05/18/how-to-use-responsible-ai-to-manage-risk/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/how-to-use-responsible-ai-to-manage-risk/amp/"
 type: article
 quality: 49
 heat: -1
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Finance
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all"
+    width: 1200
+    height: 603
+    isCached: true
 
 related:
   - title: "The rise of AI chips"
@@ -49,6 +58,6 @@ related:
       domain: modernretina.com
     quality: 15
 
-secured: "1T2OY/FkqpWf+AfCikiBPbGohUTIllzmeZK7QYB9ry/enSwkynYDsYVDpUr8mgjPJPBEaVdXHoJAKiX/PbFozGBloD9JXjcnTgAFQyCrCwFgJiVhtQfmQ6wi5ZWoZcyKACd32JCJ/HWYwb3WZcHM56URg/rpVOC7owJMR3VHdrEaRrPkBU798skjnC++sXJblC/DJomS0uIDyA0BRvBeta96dTUhCcFuTjEXOo74Y7YhLS9FMRI+gNtk+uKPkGv4SCq267OG4v8CKpUA3caHZD11eeUom7Bym8dd8EGqG5TbaK4aRPQXEbEKF6Tdgh7hjVvCmUNBIE/cEWOWdQYj+1VF7HqnLKO7Ik2olIFuMLxzJLMPJT+GvJ2VPdQ8jx/urpyRMom8UlDFLNRJvnBYIciUxva7NS74NOIxolZfokXX0Dge66DiWrcstoOth4EvS3e66Ifcbn/JkUsYtFUgcZH4PsgwLS415TltnIHZUbUSm6kiy8bVk8xYgV3xozVMaPtLRASdfeajYKJInDLj3Q==;HvwlR00f0wweErRjL5HSbQ=="
+secured: "NkD4YK+OFVL6lklSPbyd0UphT4F0vt0vEuruCglzGoBbKoRHpf5EeXWzKADhecL0Cql0ca70GO4vbvqzHkpI3oYawbv+V8ZjNco1dt2bTvAIFBOlPRxOXwQZoaf02bYFcAnxS609gCtrWovFzJRjc/9TS51C3w/TEinBiw8CMaOKh6fL8IebHBiKXD/MfmppYBYD0/msOBLbICFbJE9VbHqtgQKJeqVsYaK4P8bCED12Vr1CLggeOZ3lpJJQ4pNoCOZOEvkIReJqGhahXTpw/7IzzBbWjizTAMCoCJmkOiQNo2sFGDkBday161CmOwNUXUEIvI+U2odeJJAMlR8OAiZcO2us9VRqdtRIkRHfrsw=;Nv6bI8h2uMvfpr3pfcrMtg=="
 ---
 

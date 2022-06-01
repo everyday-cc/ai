@@ -41,6 +41,20 @@ related:
         width: 1901
         height: 1268
         isCached: true
+  - title: "Technology can accelerate financial inclusion for persons with disabilities, finds Mastercard study"
+    excerpt: "Persons with disabilities consider 28% of banks in developed countries, and between 8% and 64% of banks in some emerging economies, to be inaccessible"
+    publishedDateTime: 2022-06-01T07:26:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/technology-can-accelerate-financial-inclusion-for-persons-with-disabilities-finds-mastercard-study-jrmj61r9"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 10
+    images:
+      - url: "https://static.zawya.com/version/c:NWU0ZTg1NWQtZDYwZS00:YmI0Njc5/disabled.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "sGyKwm3lOn4XDSsjrDVimY7Xi/AUCZCnYJUXQDs8RE5piR76AjEAQ5wA1YAjEVqBDtzOrtyGT5bD6pgtxOeINciXEwCJSnM/D4Ai3OOKL0JTMonN9DX7PxwZhujbwennsjOzJxmFd8lnqlxuP/SpbSfLfUqgzloDAan5wqD0QetKrv3YSiILryTE5+BphiWT1wgx//6SGqTlTDVhfatLiB2k8LSN9bdVINfKNTaUlKLTy2R417m1WUAhQd/Xib09sglhlttbHyUlUtPz1tWBqnbf1RmQa93F7gwdfKNQ/1gjk4LKG+FaqvICTQ5D7QoHN8skdbTmnokPbVa6uSSAtg5qoDee4XEOjBABgOK26X7T55bMOWeHrj0A+5y9iazrNPBSJeIBqvyPZhYl0yTpnTa8yFEgIaMuGjw1C6QwQq35rQSqEbzp6+nZ+MZ0bDCbn8dIhnIUxvG5Jc8gZ+6dDP0F377ZtnfjJfXB12dfp7UPMHU9gUy0YylU4IuEdSg9mfdQfrwSh/orpQnWuyCrOA==;NMzsQwZyALPjp2UYobzXyw=="
 ---

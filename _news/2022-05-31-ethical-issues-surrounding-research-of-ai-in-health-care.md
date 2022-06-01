@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/litigation/ethical-issues-surroundin
 webUrl: "https://www.reuters.com/legal/litigation/ethical-issues-surrounding-research-ai-health-care-2022-05-31/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Smarter health: How AI is transforming health care"
-    excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
-    publishedDateTime: 2022-05-27T14:00:00Z
-    webUrl: "https://www.nprillinois.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care"
-    type: article
-    provider:
-      name: NPR Illinois
-      domain: nprillinois.org
-    quality: 19
   - title: "Smarter health: How AI is transforming health care"
     excerpt: "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential"
     publishedDateTime: 2022-05-27T18:00:00Z

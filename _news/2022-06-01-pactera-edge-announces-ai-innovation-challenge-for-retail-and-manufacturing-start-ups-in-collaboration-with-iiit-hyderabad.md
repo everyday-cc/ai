@@ -27,13 +27,13 @@ images:
 
 related:
   - title: "PACTERA EDGE announces AI Innovation Challenge for Retail and Manufacturing start-ups, in collaboration with IIIT Hyderabad"
-    excerpt: "Pactera EDGE, a USA-based AI digital technology services company, today announced the launch of an AI Innovation Challenge in India, in partnership with IIIT Hyderabad - Targeti"
-    publishedDateTime: 2022-05-31T13:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1257411&cat=PR News Wire"
+    excerpt: "Pactera EDGE, a USA-based AI digital technology services company, today announced the launch of an AI Innovation Challenge in India, in partnership with IIIT Hyderabad- Targetin"
+    publishedDateTime: 2022-05-31T12:46:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pactera-edge-announces-ai-innovation-challenge-retail-manufacturing-/2022/05/31/9611537.htm"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "8vBf9736THgNyBuzcfd4Dy2PGlzLgmVReIuyfHnQyJta1OGfewG3rmTbjAj/mwDJs+waVhhcLktvjODFbWUa4HGi7ogD2dy7uzGUKWJoKKcEtnWu5SJoqfNxMJHdD87sKHA7eEXhzaWJYh7/LPZuUw9bUJ09EKm717a4kAEVbaQzs9Mf8nvA7CKBE1jiXUHfOh+NpXb6PAdSxhouR1VOJ6tuMxK93inuk6XuYL7MK0EALZeMgRlyg85HxuTkoAlrkIDPHshfw7sqVFTY4eAbWVsv6q2+C3fGhDjrsQCQ/Ye7lLtoHTJX9P3uGEOeZ/rL11B4RFQlqdBHOXg4dDtgS4MyDjxjTESb9Rt3agpjVzg=;mx2Tp8AfCinJuoPO/+0wmw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.greenwichtime.com/news/article/Greenwich-author-gives-
 webUrl: "https://www.greenwichtime.com/news/article/Greenwich-author-gives-voice-to-the-17205294.php"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 2048
     height: 1414
     isCached: true
-
-related:
-  - title: "Giving voice to those most in need"
-    excerpt: "A joint declaration of support from the leaders of major faiths in Australia for an Indigenous voice in the Constitution is further testament to the groundswell of goodwill and support that exists for formal recognition of the nation’s first inhabitants."
-    publishedDateTime: 2022-05-27T14:01:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/editorials/giving-voice-to-those-most-in-need/news-story/b37f998ba859eddf18d18aa2c373c614"
-    ampWebUrl: "https://amp.theaustralian.com.au/commentary/editorials/giving-voice-to-those-most-in-need/news-story/b37f998ba859eddf18d18aa2c373c614"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/commentary/editorials/giving-voice-to-those-most-in-need/news-story/b37f998ba859eddf18d18aa2c373c614"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 44
-    images:
-      - url: "https://resources.newscdn.com.au/cs/austemp/article_common/latest/assets/img/logo-sharing.jpg"
-        width: 650
-        height: 366
-        isCached: true
 
 secured: "WkKdTDbNeSrnHyiCceCDkxJEFQzYhsqsdsPX9OnLpkZDj2vK2kxN6KjijZcENZDNsLVgW0N4JN8e4WsAos7ef4PwA2opuhyARxjwYznYHS9cppp+BAv1QxP9bDmvZJGdS9fD6EBHuJ0nMNlsgF79WZTJpozz7kewSlWEG5EvsMzfibqiwls9DZJVnHp86U6B5lKVxLC4ZtnKxyxyc/hG0veTAWZACzb6qmqoErBltMblWW+4dlQaptc/NCVzB6MluKRvU3nhE7xtHV/UFGjqWRaD9DIOxnBZ07D/OIjSZ4mI6H/cPDd/zFZSqiRTzwz5P09crldh8d8lLJVmbNCxNsM7DHTtG3wBufZgTqUz0G4vMc6TCTW/JgjXUmSzassNkHTUQxrK4hp1vdZm+31uKzuNYCKRJshKEfPw3M0hoo+s1/ZBqbXf+u6DNZNXJ17mW0xL0Tr6rpspBYVJ1iI2/JduDVI3Lm1bcFTLvYbsWpyjOBnxvvifd/fFrjqrZjhHokcUn7fjANDdM5Dsb5zCoQ==;H8sQZoHCDnvobRi6QXgZ2w=="
 ---

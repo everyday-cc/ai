@@ -23,22 +23,6 @@ images:
     height: 530
     isCached: true
 
-related:
-  - title: "Opinion: AI could help us spot viruses like monkeypox before they cross over"
-    excerpt: "Writing in The Conversation, Professor Patty Kostkova (UCL Institute for Risk & Disaster Reduction) and her colleagues describe how artificial Intelligence can be harnessed to better understand the interconnectedness of nature in order to protect it and us from future diseases."
-    publishedDateTime: 2022-05-27T14:20:00Z
-    webUrl: "https://www.ucl.ac.uk/news/2022/may/opinion-ai-could-help-us-spot-viruses-monkeypox-they-cross-over"
-    type: article
-    provider:
-      name: UCL
-      domain: ucl.ac.uk
-    quality: 36
-    images:
-      - url: "https://www.ucl.ac.uk/news/sites/news/files/styles/medium_image/public/patty_kostkova_final.jpg?itok=_X_OEiBq"
-        width: 400
-        height: 250
-        isCached: true
-
 secured: "k/oWBGlOl42SqojGxdr2g1v0I3558/ZLmOiHAmlfCPnjgnv0bRuHIoUAusWXlJZcdOJQ8Yu47cmSQo8Hv5jGtXLcvZ59msR7OXsEk5UtFoDgWQJmpMX20RJ9IuzwEoSgrCOaG7+Y7hgNRBP5fT0mULEfNoENSmGEDQzOdwSsBPf7fyfb3CdlDv99M6InlZ/bXT1Whn4TjW7KlwhYXzQqsN6udI5kWHMhCzhXGWSy2CDcZOrh20uvwZqXuzE5PkVbbTOSu+WSb6xzvyz1nIqm+XqKV1Vu5RqVwLp8IlcgncvPot5TxlYNcgr5c4Id1IFGMTODRqG7h6JD5kTX7gEh/NQvI0OL5UpCZIZovvs4TvU=;5dNII8NAnMicuHp1X/ggag=="
 ---
 

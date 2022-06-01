@@ -64,20 +64,6 @@ related:
         width: 1522
         height: 857
         isCached: true
-  - title: "Microsoft and Meta expand their AI partnership"
-    excerpt: "Meta notices how Microsoft keeps expanding its AI services on platforms like Azure. Microsoft and Meta announced the ONNX (Open Neural Network Exchange)"
-    publishedDateTime: 2022-05-27T13:45:00Z
-    webUrl: "https://www.techzine.eu/news/collaboration/79896/microsoft-and-meta-expand-their-ai-partnership/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 56
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/ian-haynes-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Microsoft’s New Executives Helping Win At Cloud, AI, Devices"
     excerpt: "A vice president of products for Azure Cognitive Services, a vice president of global payments ... and Surface PC products are some of the biggest executive hires from Microsoft so far this year. Marco Casalaina, Ajith Thekadath and Ashley Hart are just ..."
     publishedDateTime: 2022-05-27T16:21:00Z

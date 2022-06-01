@@ -1,18 +1,18 @@
 ---
 category: news
 title: "PACTERA EDGE announces AI Innovation Challenge for Retail and Manufacturing start-ups, in collaboration with IIIT Hyderabad"
-excerpt: "Pactera EDGE, a USA-based AI digital technology services company, today announced the launch of an AI Innovation Challenge in India, in partnership with IIIT Hyderabad - Targeti"
-publishedDateTime: 2022-05-31T13:41:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1257411&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1257411&cat=PR News Wire"
+excerpt: "Pactera EDGE, a USA-based AI digital technology services company, today announced the launch of an AI Innovation Challenge in India, in partnership with IIIT Hyderabad- Targetin"
+publishedDateTime: 2022-05-31T12:46:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-pactera-edge-announces-ai-innovation-challenge-retail-manufacturing-/2022/05/31/9611537.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pactera-edge-announces-ai-innovation-challenge-retail-manufacturing-/2022/05/31/9611537.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -35,6 +35,6 @@ related:
         height: 450
         isCached: true
 
-secured: "wmevrsoMd4fSlm0MRJoSlkF/inN7y0VZsDSagOewSX4UwHQwLnlf2dJM3GTBh9iTJG7pSuaMJyTcqn/6pS5Mn6s91YLl4L6O1IkEY+KkvNejgfR5nHTLD7MbbbHyeOw3Jyxn/dEaaHlN+eR4BqsylLsrW803rPCBvaPJIiBC9Ox9jSFwQsAFSuO+hloMG4HGD3ULEjHfa0cAdQRHF8iJiHQ9T5PyzZeRbbO2X3tOHyb1UMMOqrh6jJ5Dh1pWNBQ/WOYjHMbuUhqB18grTLsLaHkP2yYAeP1oyhT2V9xy/v/YTFOImfC9hRP0y26XSa0Ki1ruLYrjz2BzcsjLa8VGRFUcuvrwIMeFmM5u4VsShSQ=;j1AYaXlyrp0VWR45oXixlg=="
+secured: "rMXC9oJwQtCGM+dJQTQLD2pc8H9Mezn69kohhRIxjLMQvjVqXZirvh8WyraWMdUYYxjqg0KCFSRXPFeEk4tJXcaUmEdpPV97D8yVrLL4sjK1wmebNs/7NJaH55ifoSexRT0GIPdNB/ud7eb0OEahOYE20bg6ZP8nWcAySMxh/fjYqWA5sMiQJnf8djNZ1jf+LcfKi79m82gCHD+0CFwc5gHseC2w6/dBR0B1VYS6bM91zs9gR9luRQIjbEh4r9GhKR0QjQSUwQdFL5UG0kMwIFbl5Jl7/YG4wfNn+muacOk3LTiHgX5+cF8MvyzWA5+5wpojCINRH6q8cFtHwd4avp0O3tIW8eDFsvFea5S82zSousMXYuRxd7i0Bs+e6olD0jUz8ri4ZMk6aQU0vQf96J4qz8gSZupfVdv/L3yP2e8phj6qHC7xSYQd5/wc+ZWLxmEE3vG+/0047aqdOtxBEA8SP0+jswFDbYXDlic3BMnnKJkudvR5oh55KgHojFuasIOwDMk4wLTDIAzUjsFkPA==;vXinXlLcxWx0ooxYL5qmPA=="
 ---
 

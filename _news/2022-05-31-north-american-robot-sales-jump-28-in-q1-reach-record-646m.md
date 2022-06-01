@@ -63,6 +63,20 @@ related:
       name: The Atlantic
       domain: theatlantic.com
     quality: 34
+  - title: "North America Facial Recognition Market to be Worth US$ 3,907.98 million by 2028: Business Market Insights"
+    excerpt: "The facial recognition market in North America is expected to grow from US$ 1,628.13 million in 2021 to US$ 3,907.98 million by 2028; it is estimated to grow at a CAGR of 13.3% from 2021 to 2028. The Business Market Insights provides you regional research ..."
+    publishedDateTime: 2022-06-01T07:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/north-america-facial-recognition-market-to-be-worth-us-3907-98-million-by-2028-business-market-insights"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/a63f6f2eca48ebdb526b9a1f3660b3af9b695a93-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "L4HCZp5QruHlEhrINRpeqlWEjiov8poePI2pUdB5xLGuJVYq+q4dzSNCjHOFGxQjpScj6H/C3ZT+Kznx4BsTmZo6P6D3aPBE2UA9wTb2/Kde9GIyK7aQ9LbRbS4rYCXU3AgH3qdspYZuyU3NSJ4BCx+tj3hSz7E+yvjUwJY/kka0M0jNVIduy490xwik2pP7Ve5Zpp226HzqmtU9zOKuWwoiZDmIS5/0gBFy8IXdQ/54tbsbivfhVcLviQxHyeMyQ638G4WEWXUJXaEmvQfXHYBNjG98hNlTj9SLdOV9ucT+j9yAy4vF5x4NHplXYBAnX1W/kvbyN5di+FPx+T32McLk0hrb1k1hsQmP2pz7Y8xN0L8O73ZG2v1LhXe5fEX/iKWZHYo9mKguMQfKsgE4ioIAetu8TE1jYpnJrR4eeCFHJbsbnINKp9QZA/I9VG1ogfS2bccDpGUKpHTQHUXtbR6c0KAYn+CBnYXDHRSMVLuXm+nUsgBz4OButFVV99xIqKLXJ4smHAJLhFl68CB9zQ==;8cunXVaKCvqiw3jO+oYYfA=="
 ---

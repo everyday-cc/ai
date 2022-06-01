@@ -114,22 +114,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Auterion Delivers Supercomputer Performance Onboard Drones and Mobile Robots With AI Node"
-    excerpt: "Compute-heavy AI and ML algorithms for object recognition, tracking and counting can be used, on mission, in advanced applications for public safety, security, and wildlife conservation, and across industry use cases. “As enterprises leverage more ..."
-    publishedDateTime: 2022-05-27T14:59:00Z
-    webUrl: "https://www.suasnews.com/2022/05/auterion-delivers-supercomputer-performance-onboard-drones-and-mobile-robots-with-ai-node/"
-    ampWebUrl: "https://www.suasnews.com/2022/05/auterion-delivers-supercomputer-performance-onboard-drones-and-mobile-robots-with-ai-node/"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/05/auterion-delivers-supercomputer-performance-onboard-drones-and-mobile-robots-with-ai-node/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 50
-    images:
-      - url: "https://www.suasnews.com/wp-content/uploads/2022/05/AI-node.jpg"
-        width: 1666
-        height: 886
-        isCached: true
   - title: "NVIDIA Omniverse is now ready to usher 3D simulation, virtual worlds, and next-gen AI into the next era"
     excerpt: "NVIDIA’s job at COMPUTEX 2022 is not over just yet as the latest video prepared for the forum is all about Team Green’s real-time reference development platform Omniverse and the wave of revolutionary applications it’s going to bring forward."
     publishedDateTime: 2022-05-29T05:14:00Z
