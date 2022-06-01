@@ -1,29 +1,20 @@
 ---
 category: news
-title: "One AI To Take On Global Language AI Challenge With NLP-As-A-Service Platform For Developers'"
-excerpt: "One AI, Language AI startup, will enable seamless integration into developer workflows with use-case ready API SACRAMENTO, Calif., May 30,"
-publishedDateTime: 2022-05-31T00:46:00Z
-originalUrl: "https://menafn.com/1104295479/One-AI-To-Take-On-Global-Language-AI-Challenge-With-NLP-As-A-Service-Platform-For-Developers"
-webUrl: "https://menafn.com/1104295479/One-AI-To-Take-On-Global-Language-AI-Challenge-With-NLP-As-A-Service-Platform-For-Developers"
+title: "One AI to Take on Global Language AI Challenge with NLP-as-a-service Platform for Developers"
+excerpt: "One AI, Language AI startup, will enable seamless integration into developer workflows with use-case ready API (PRUnderground) May 30th, 2022One AI, an"
+publishedDateTime: 2022-05-30T20:25:00Z
+originalUrl: "https://www.digitaljournal.com/pr/one-ai-to-take-on-global-language-ai-challenge-with-nlp-as-a-service-platform-for-developers"
+webUrl: "https://www.digitaljournal.com/pr/one-ai-to-take-on-global-language-ai-challenge-with-nlp-as-a-service-platform-for-developers"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?944501"
-    width: 438
-    height: 250
-    isCached: true
-
-secured: "lU4HQ7b0HDI2GPIqmmncUDeAzHbvyy2zfIvsxcLdbLkb0usz3JeBGnPwS1a5M5nGF9s3U6a61BOhLWCZ+wymOSHx+apXqSaTbBIGOp7F4MvLBcqqVz1I8X9YFk2QggJvEnyBoDagFFEXRVXvHF/zWoNbYgbd+xR99MWPLmdYbvZITFy4F1f3A9Vrw7kNs2NKNjflS4bqNADGtDWMUeEqyNYu3yNhGOkWNHkPlo8CVZA7h/+4k10UTM6ghGd4cRU6GMKR+mXfD29GzUy6GvQt+IymqOcv1HrIJxPHq1cXtlKjnSEZRW2JPLjBcWAwuL5qTU/31YmW0+70tFGLb5lLWUdF2Zjnf4TXfnLjzZIhRqo=;UfgY7gfOm6PF8wbGdgnOJA=="
+secured: "G7DkQiIjUzXdimExFqK54o/nwUVKa9ubXt7w34fsCViHZh4u98QKLAMObme2wM6adrEh3J7TKaRARSH5NnY6zmtTV9VRyMVN9EEQTLfx+jRfTeq5nWaCunVeTWWlwA+JlnSYlG3Kps/tXCOR9alpco7Cj2jLLrrejlVvDu9BaKWW3dZySaDMxeqIetrx3o8tRtALkiov78a4KX3H0M01BGv26IVQS2d/CUr89h2IA4znADucK0Jq2yqwubon38rEeV7DIqvb6MmPy7CamNwW+fKlXE9h5X29XfZ69oGFfYqhk+neOez8O2A49/Dpc0aPwpnjRqoBHWNEZWixBUBIKqzD12jrhR6NqKhQ3KM4XTA=;cJHZ/ivTqswlXzfsFfbDGg=="
 ---
 

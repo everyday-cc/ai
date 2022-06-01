@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "How AI Can Assist In Coral Reef Restoration"

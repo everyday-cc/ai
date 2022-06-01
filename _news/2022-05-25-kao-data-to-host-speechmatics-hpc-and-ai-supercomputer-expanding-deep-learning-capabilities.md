@@ -3,19 +3,19 @@ category: news
 title: "Kao Data to Host Speechmatics' HPC and AI Supercomputer, Expanding Deep Learning Capabilities"
 excerpt: "Speechmatics' work within artificial intelligence-powered neural networks provides highly accurate speech-to-text to global enterprise businesses.To support its expansion Speechmatics required a specialist,"
 publishedDateTime: 2022-05-25T08:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/05/n27388178/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities"
-webUrl: "https://www.benzinga.com/pressreleases/22/05/n27388178/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "uD5v+8rtg674j4uwAZiOE2NqHV41lHSP2YEOx+hB8iV7DUdfJZ5LkmsHbsxHHToBq42KyqB4XPuSScUO87lO7qfkjlyjhNsjUNNuOokQ1CGEA4xMnAgWZ1Xjq1NON9huMeD4fbxhrZ/ktXTKCeziw1IrER2c0A7ml4aVNWBkpCQEgO9+RcYdxHWIuXwyCbhyJE/i5t9uxM4S77BXw3DhWVjtdJaXKvfHHeQtcox1OvmPyAgcEgBOGEeKikm4Ys0UzbVIIuj2/hpvBAjZg2Y7DSsod7XBoTWjkoWW7/KyhQqzMRdPsFFTtf5LOWQsJbEDBfrTvC+Y4jQDIDnzjVtWXTBJ0Tinpj9sYeqkrg18M6w=;8r+CLNAeVY50sI9Q2nW8BQ=="
+secured: "oxe1lTFWBNnwyBNRSAeVexBodEjDPEz8Qr2E6cZoAxLELpjBXWFmsWCrHoih9fV7IM6vuqxEYwuO4b/bkMhnlYLf0jjekDa1R4eDyDab6lMy7ReG7CZxBMgVS/YwmDiJMvPp22Xwu8Q38rTixw7sL4HMQ7jRDGgh4jlPdarcYeSsgPZnFf3CSV5sygt/VY+tX5mx7ITSbdvOnoiKYzQFVkTxEW93k7vtsCj/hu5MTK32qM0fPK8dVFo0Xmx1aqCi1luuXScys89vRjPGbvyv4y1lGp/nRIAWyYgsGaOzF5Gw/ah8UIHJqTwa8pFskSooY5Wnb/nQIiCejoIoN607Qrf1KZ/QiMO0W5d1Hd05lqEpiD9+et5pWIa9AI57+7Aw5I/xcdQkEMxLy8BvIeBMdmM/tBeKH8AaHlblpMJPmPVG1eP0py82goyy4oKB20Ru1SkJQcgQ/p/gZ90qHor0WZZJ+ZWTkILllGDt7seKUc0HEXrAYwdfh+Un+v50joZ/k9u9+S9jHvgzBP0o+lVHPw==;myNY0ULof0u6jHn56PNe+Q=="
 ---
 

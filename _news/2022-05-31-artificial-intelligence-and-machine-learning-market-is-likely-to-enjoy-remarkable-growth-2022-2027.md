@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - Machine Learning
+  - Google AI
 
 related:
   - title: "Wearable AI Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
