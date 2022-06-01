@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Temenos puts digital banking on AWS"
-excerpt: "Temenos and AWS started working together in 2019 to ... voice and chat recording, built-in artificial intelligence (AI) and machine learning (ML) to personalize interactions, pay-as-you-go pricing ..."
-publishedDateTime: 2022-05-18T00:00:00Z
-originalUrl: "https://www.finextra.com/pressarticle/92681"
-webUrl: "https://www.finextra.com/pressarticle/92681"
+excerpt: "Temenos (SIX: TEMN) and Amazon Web Services (AWS), have extended their global relationship to run Temenos onboarding and origination solutions on AWS. The technology collaboration aims to allow all retail and commercial banks - incumbents and challengers - to provide digital onboarding and origination solutions with higher performance,"
+publishedDateTime: 2022-05-18T15:03:00Z
+originalUrl: "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws"
+webUrl: "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.finextra.com/about/finextra-logo.png"
-    width: 512
-    height: 512
-    isCached: true
-
-secured: "F5Yp8lJQzRDJZSkvWOyrABXE5PAx4WCjZF0+0kZYdmJBFiGXaRueqX/iJTew91cFE8FWYf8J81e0QDk/eAPMj+BeLsdUJ/7O+UPnpVBPHwVecH4wNDWuVuqJqhqLsUJkGOjyA91pahZ5aAWMmEtPy9cLHWhb4d1A62X+5XgVCbLsBDlzVtJlNsFnVQJdIUT9xua5K4SJPNZiTcMU/fR9nWKpHp6Y37jffkdcir8bbV6oMrife0Ak4p1VQiVjIHMZnTcNhmv8j7UysJ35OwuMwr/fB879NbuBAaFbt5kj81dWFsA1ot9aQmHlGJhfg8PlBSNpdWxQyGkRqcMb1JIVueWEHRaUM06kHm1fgw51b3o=;43tAc+vc0xnz19XUdfKHTw=="
+secured: "RvZmcAz4ilNppsbZluUKZtewDqMDdN4EMZaTm9cdT3GH0FAmiHvXR+Vb/w5hEgyFnL3Tatn7gsdq9xbK+mz8sBavnNsH9UO4RE+vMnVtEq8+sWiXIdqaOPTm5hUmJej3Dhn+3TSAirr5+WP+Zam6I65j9BLLJO5ytpln168I4PhwvhChcmsTgUhJPKyUC2BDvOn4lvBWGj+A6eteyVICR31B6ZJDUZiBVR5ByCCjynGVcZrJckTzqzKAgrpCK6z1dSyRgVzl/O0ILa3dEEks/S57FB58Ev+T09c/6QuOFquRkhPzVuF/pVgBO49YJMNKLOvPp0f9uZaPKaA35SXQRpiz82uXgsfM/ytPA5lGkoU=;pUuNfmzQvIOzWVsVyPpOaQ=="
 ---
 

@@ -1,28 +1,19 @@
 ---
 category: news
 title: "NCSA Deploys Cerebras CS-2 in New HOLL-I Supercomputer for Large-Scale Artificial Intelligence"
-excerpt: "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, today announced that the National Center for Supercomputing Applications (NCSA) has deployed the Cerebras CS-2 system in their HOLL-I supercomputer."
-publishedDateTime: 2022-05-31T14:43:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-supercomputing-efbbc1dc1c8c4b03affe0de5d0982177"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-supercomputing-efbbc1dc1c8c4b03affe0de5d0982177"
+excerpt: "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, today announced that the National Center for Supercomputing Applications (NCSA) has deployed the Cerebras CS-2 system in their HOLL-I supercomputer. “We’re ..."
+publishedDateTime: 2022-05-31T15:41:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220531005729/ncsa-deploys-cerebras-cs-2-in-new-holl-i-supercomputer-for-large-scale-artificial-intelligence"
+webUrl: "https://www.morningstar.com/news/business-wire/20220531005729/ncsa-deploys-cerebras-cs-2-in-new-holl-i-supercomputer-for-large-scale-artificial-intelligence"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "1L4VT0Gco/z16EsgDIvOpqjJtxDBIkbQ+n6PLXozDEvHJwpwoer8FyTkRbgzbtrXAj8b65hSVhYJXJIwWnhOwXjnODEmUwZNqCUVemhRL59vzNkpP6zWq+HR7UqDqKj6qgiQfnq3gpMw2ThfyPy0ZKIhydCDGWczW7A6eC/PqiRso05FZFFp18JPcoUnEYvFQce6OmKxaloGPgx+QmTOpEnrzzAhYqet+PkZ4vu432jgki10Klz1EEuZ5DzyfVgVdDzZSxFZ5ZFJ//cgSshqUP7gZTb5rG9xLXElFcW8yAqGXNcQ1t36Zy3oSaAs1i56RnL/Lm1sAZwuvPhqPkkVFDXQrtT7D7CX02zQrEmrr70=;kxwaBTVNG4HhsuI5ImvsTg=="
+secured: "NByI7ReraNSgfjKR81s53i9QViOnqp0yl6Zz2QiwYvmbIr+A1RbAnPWLHzcv0b5uy0mUtd+rGWOhweB25HqPVUfIa+8IX71YQze7eFMoJWusUbIhjJ54asFFciCjlik+KV86vUeOVRFovLUxH8ECO2RKX3sVoBp+4FRxeDWkS7gnRNwlOqnBa/3mlyD0SFQ+sDHUXFIgxGYXnJoTiZiEOtA/Use1VrysXTpqWJyGBZDTvxN9CPT1gKSbScSV3Ei0yPiGLTOqcKEXi1NqPTAEEWprDRWkFBsdUwFoSKjfwIN5qyuLYODVod8tji9E5BVIgKbC0PlJMArRLq0aNRLmLdqYbbCucOXR1F32ZRLSlI8=;95Bt3YsrPlXVe37/4VU0fw=="
 ---
 

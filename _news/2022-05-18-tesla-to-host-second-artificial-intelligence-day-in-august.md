@@ -5,8 +5,6 @@ excerpt: "Tesla Inc top boss Elon Musk said https://twitter.com/elonmusk/status/
 publishedDateTime: 2022-05-18T00:00:00Z
 originalUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
 webUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
-ampWebUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp"
 type: article
 
 provider:
@@ -17,6 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "nddU1NsGPPTk7CYxCCFVX+UkTt204eukrOqz4Nobr61Ms9fkPykhpytlvNKX9K0vc8S7nG3VUZiLGnbzwVrve9tSXhsJiKIVn3myTA7l3XGXCOl6pefm3ahYrT+vpP218w1U858r2jnKw5NboTZpnAIDwn66OiTVf0AljVQmU8wWWBhhwg+O93qai/w3mbSNpHC5YCZvK1nKGnW/9cUZAUB5oGKjsFtF9Nfvrnp2kwoIsRteKyt67oNpBxUG+j/A+jEvUfMXvqvDtUhpMJzamqvwAKjLi4Bac6jNF9OfDj1vcFBUGXshQD6skCCedX0qndUiG1ZL1FFORw22WN/AywuoEZ0gMuUB3CwETAuJpZE=;jC95CNYK3Q2qePXAtvR3lA=="
+secured: "i7aUwB1bU4vJLns1d8zD9C5fOHEB4wczrVXtm+VFF3Mfv9obmGMt66b0mN1Y4J0Mn2Fsv6bXP30UFQoHIg/iOa/ala9JBxkycdRZGLkVJDpd01foo9Wv0a+f91VntczkNblYWEI0M8PrizKRF3M1p7GUQ2IwhcIW2TCIEcL8o21vyoKPhW+JByMSmq6nh0wppZhsyLgVMvHfSsZ7MzMVVwmUqoMStY1t4dfYBljuzWWuTaCO/sJqZ6wO0pqAvOnx+f87Mw71nxdQioDOe/7nwZRv8gbEAZut+BleeyzMB+DsyHT0KlqQPaK/LNvafZPqp2Mim7a4rPpFVQE2pYCqyYDV+nB2qPcJs7r/Bh1dQQ8=;mn46269TquGy/5JpQyfbeg=="
 ---
 

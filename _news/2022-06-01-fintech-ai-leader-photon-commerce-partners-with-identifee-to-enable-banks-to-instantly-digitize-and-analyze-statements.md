@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements"
-excerpt: "Photon Commerce, the leader in artificial intelligence for fintech, today announced a strategic collaboration with Identifee, the connected platform for financial services, to enable banks to instantly digitize,"
-publishedDateTime: 2022-06-01T08:41:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=672613"
-webUrl: "https://us.acrofan.com/detail.php?number=672613"
+excerpt: "With this new partnership, Identifee will embed Photon Commerce’s natural language AI API into its platform, allowing financial services organizations to create client specific"
+publishedDateTime: 2022-06-01T05:54:00Z
+originalUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/"
+webUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/"
 type: article
-quality: 30
-heat: 30
-published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
-
-secured: "7Z4sA5G28/YBRVeuuqB3v60I9ckXxinGONIBMv2HlBOAXOBoW5H1vs5IVdSwwRg6soBw4vJbRcTvrVxE+FQeJHACDKx/tzCmhYMU2ufR+CYXdKtPzmdpSPm7LYhfewBg/MT1mgg9vblqxuIlRSrsCIg8r+BOsEWiQtpYfWNtrvOMsGuLAFjEygkWvtvF0PaIE1zqG2e0ai0cgV7k20d6DLpFQz7fQJ0mJUic+rKAZP+ojl803g18K+9dM9AXIXF+bBYP1NT3am/6GhTGqjpc6n9GBc8YS9aSxXro5wTZG0eD+33yLs2n8dsSG1Ds6cAzCUtsY6s2Z4LHimjGcmKQbXJkgNskxHZi15n1tD5LZbrtM+jFXztS+PRNXRmV3z3d1/WEc37guKmGPwUCl0jTTSYhGN3cKMn3toRzZW/JoVUnDy8zughsvK5zk461TbdWP6c75HNjsqFby+m3gjGsXZ2hjNl5f0AhQlLBVqMMZd8ndjYHXX2dcdDQMhqwfL1pmB2F/kSkZTvit4DxZP8PwA==;alLyytY4VeZTReW3mRF+lA=="
+secured: "vXUKmdg5R9b8amtnJ/GaEdgDreXeEFHEw1dLtCIwFq+Oi8SZjqU4P79bIvdIOvqTYZhi6WPcALNpXgXShCYVutL/Tw1SuTvkPqBYeTSqpFeY1cZEUxfVa0gq0ytaBS/S888ErA0pYLfE0MvUv41q0vc4QTQKqBUyvLA2Wp0FXN0hHKkfn+TKKKgDYDuOlKTYF4PXQeYnHq6q9h8X2CiHL0gIBetWrM9Zoc9qd/0gkchCV2DqE3y6AJuxqfZcNKifYbWzxTqgsNNh7G2iVjnaynbincElHFs3HcdvH4G/rINB9E7Id7CMyeRDqNbq63fSKfRdesZ0YcYIw0UNU7zWFwLOfTlRnsFWUWzMAixPGbQpgujdMNYRuOTzezjN9t8hT6Rzimjcvi6z52EzxX6DD6/BYy6RXLwGydlWB1Ago/jPbgvJOq0F/rP6un3rH90p24zsRqXnw7E7d0hdhzhR9SI9RpwWCe1jd3S8PvGrio3+2Bno7qiFxrLoc35ZpKAZaK8eEhTf4IZ9CBQSco+Ryg==;z3wwgJLMv8jWSeYni0pYag=="
 ---
 

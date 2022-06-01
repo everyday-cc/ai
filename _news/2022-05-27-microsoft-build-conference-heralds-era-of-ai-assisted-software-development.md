@@ -15,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg"
-    width: 647
-    height: 450
-    isCached: true
-
-secured: "C56UZeb+ZaRU3C36ajZfBPqt0LD/GU/HIvB0XKGYH/t2YGz+7j/7B5r3AtqCHfxxaTPC5M21BZjAeGpn/l46itBkKOQhDkFINib9vXQ9RSmySIbKtrObZF85bfwozsvzmTWTemcpgS0YmPnyAG1P70I7kUuxWvBvfjAJdqeEDuV2VqxJ2+YY6InbySrxYhvS08kfI8Fmbr6Ft2NY4xXLrb4SbenYGcM59RtJYhh6v39e2kFyw/ZEaALcyN4foriU1JzHs7cg546ktNtY9tiVpmmWyx9AhdgTMjdajaTyKBTqn4b6RUDqItaEJD1OTz4uNaLEdcK+7eGPHxj843YA/MUGP3DOS1AXyJ2CfduxIlk=;Y1nBHkYJkM8LPF6xCdfk3A=="
+secured: "s96JuDmConJBg68PLczaFbKDisNRzxMW6cnApDqMbnPYizHfbeGPUskfmeMJMusF9u00WTj1GrfoMbE9Awa2Vp0AgFqsgyq2NCDU7vkH3x9e+1uOOdw+Z+pcc6gmy+PJ71/eehHa7T47ZzIcAL+89PyD8mT6Myt4P4IG4+p1JOWVJCiLOlD8zxudEf5QJOlKhKVp7K+k1qte5fQ8iflFFBUuhiNVcm5QNPkgqU2SOQ1yUa+CeBjY1ZRfaTYc2diR7jEEqBopRkT4D1iElvTiuxlKoLYtOahlflLiVK1lK9mw7znTLB8lWdfyPH1JGyY955xf4Y8fp1WCA6CQdGfAf6DB4vJwXx5MQhCRRDQXLvqllld2Nm6aCgu13BYFNTILFgvEcEDQdtvsXiHu8XCmoSK61ms6AMZoW3HQGNbFS30JRQZdNkj/DsaTdciV4qR736q5UfkbqLlqBva4f6y2eRpkTcOYB7ZgPZ2cnpSL/E5WXM97RgS1K04Uxl17hti7elVv/mA9Fc5D/XgCADRQqg==;3QDXcOrtM2mQ6OZvUcBAEg=="
 ---
 

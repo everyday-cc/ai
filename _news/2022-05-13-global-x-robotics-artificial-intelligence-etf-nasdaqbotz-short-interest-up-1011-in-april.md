@@ -1,54 +1,20 @@
 ---
 category: news
 title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Up 101.1% in April"
-excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) saw a significant growth in short interest in April. As of April 30th, there was short interest totalling 789,700 shares, a growth of 101."
+excerpt: "Get Global X Robotics & Artificial Intelligence ETF alerts: Shares of NASDAQ BOTZ opened at $21.29 on Friday. Global X Robotics & Artificial Intelligence ETF has a 12 month low of $20.88 and a 12 ..."
 publishedDateTime: 2022-05-13T06:44:00Z
-originalUrl: "https://www.defenseworld.net/2022/05/13/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-101-1-in-april.html"
-webUrl: "https://www.defenseworld.net/2022/05/13/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-101-1-in-april.html"
+originalUrl: "https://www.etfdailynews.com/2022/05/13/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-101-1-in-april/"
+webUrl: "https://www.etfdailynews.com/2022/05/13/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-101-1-in-april/"
 type: article
-quality: 37
-heat: -1
-published: false
 
 provider:
-  name: Defense World
-  domain: defenseworld.net
+  name: ETF Daily News
+  domain: etfdailynews.com
 
 topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Artificial Intelligence Technology Solutions Inc. (OTCMKTS:AITX) Short Interest Up 82.5% in April"
-    excerpt: "Artificial Intelligence Technology Solutions Inc. (OTCMKTS:AITX – Get Rating) was the target of a significant growth in short interest in the month of April. As of April 30th, there was short interest totalling 182,700 shares, a growth of 82.5% from the ..."
-    publishedDateTime: 2022-05-14T05:40:00Z
-    webUrl: "https://www.etfdailynews.com/2022/05/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-up-82-5-in-april/"
-    ampWebUrl: "https://www.etfdailynews.com/2022/05/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-up-82-5-in-april/amp/"
-    cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/05/14/artificial-intelligence-technology-solutions-inc-otcmktsaitx-short-interest-up-82-5-in-april/amp/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 39
-  - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Up 54.5% in April"
-    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a significant growth in short interest in April. As of April 30th, there was short interest totalling 13,600 shares,"
-    publishedDateTime: 2022-05-15T07:52:00Z
-    webUrl: "https://www.defenseworld.net/2022/05/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-54-5-in-april.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 31
-  - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Sees Significant Growth in Short Interest"
-    excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) saw a large growth in short interest in the month of April. As of April 30th, there was short interest totalling 26,500 shares,"
-    publishedDateTime: 2022-05-14T05:22:00Z
-    webUrl: "https://www.defenseworld.net/2022/05/14/global-x-artificial-intelligence-technology-etf-nasdaqaiq-sees-significant-growth-in-short-interest.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 15
-
-secured: "1gGly/LfDW1EAffH9LM9b7EFKPo2pWcEJAhcHaMrGvJEmodR8yCYOApwG175txxtMSIINFjOMvu1YJoumCwZeDIERYkzUQHSrN2GhWm7sFtiq8qVq0BWHvODQq1QFV4AATq/H+AXC0JtyTOd33V+XQqHzkr9/twLDP5Co3Nh8cYwVYXBw9F5+VHxPY1I6NNrs/d11zo+1NUtckpQlvUqGktQiNdX0/wY9kQAUPtuYSWmD1kLNhdpREM0VC1whaBhHZ1qWP9TWVeOmBWokqY85GPtBnpKDdiezUZvkuRalK8uUZQiguX8LXfyh0DWmyqISJoatNafmO1kMxrnOBVP6hnmkyjmPEaIwJCmTXZELDz5mDxMiQ0/Mz2rgIIwlGMewcFPopAz9W9CcqLYcObSLFmc3m/J/KNs8Ycp8yFFEK2YkhetpRIF7ZDn8GEYsI5bYCLc10fDSywTwhDi2bED4gwiIPOgGWELI9V+6QZ9q3sOvyBC5vkxvIbZOTscUF7xq/z1alpKTG1EJ1T3nJ82yA==;bb7aafGmO43w/Bonx/Zf9Q=="
+secured: "KCRQXXBJbfEOqBGc1SUjHsPkZNtHYGfxXc+pNXxhD/+gUYtKpZbHpAedwz5kjmJGx37X2m5rqbXy+2DeFUzaepNWIjls6pNh/Gxoci9os/U+P2Sua1CA4Xbr5iu+lLb0He7qiUtKTuZSHSDZrYmY7grn3Xrqsh362WCncfEiIVyI05QWKcetT1ApszjY//vVaCuZOEDJXKJRYyh+tk8WWUrC5L8eN4Wti2CG9QeBwvUsm4aqAtNBQig81Zzzo3uCfu5M+wjKNOsRnNsxZAzU7/uvFcqd/Ya+gO1PzaCcSGHibGOiou7GYIDoS6D2/4wT3sY077LfPwVzI8phc9pMXC9rKkRuWaKYmXbSvwYSWkw=;7iQzLO4h5NSapsWAcLX73w=="
 ---
 
