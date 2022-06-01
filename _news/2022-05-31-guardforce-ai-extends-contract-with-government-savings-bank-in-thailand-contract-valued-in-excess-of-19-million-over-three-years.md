@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Guardforce AI Extends Contract with Government Savings Bank in Thailand; Contract Valued in Excess of $19 Million over Three Years"
-excerpt: "Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ: GFAI, GFAIW), an integrated security solutions provider, announced today that Guardforce Cash Solutions Security (Thailand) Company Limited (\"GFCS\"),"
-publishedDateTime: 2022-05-31T11:36:00Z
-originalUrl: "https://www.wtrf.com/business/press-releases/globenewswire/8562758/guardforce-ai-extends-contract-with-government-savings-bank-in-thailand-contract-valued-in-excess-of-19-million-over-three-years/"
-webUrl: "https://www.wtrf.com/business/press-releases/globenewswire/8562758/guardforce-ai-extends-contract-with-government-savings-bank-in-thailand-contract-valued-in-excess-of-19-million-over-three-years/"
+excerpt: "Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ: GFAI, GFAIW), an integrated security solutions provider, announced today that Guardforce Cash Solutions Security (Thailand) Company Limited (“GFCS”),"
+publishedDateTime: 2022-05-31T11:37:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/politics-d2d11408d484fde21f517ad40ed9fc45"
+webUrl: "https://apnews.com/press-release/globe-newswire/politics-d2d11408d484fde21f517ad40ed9fc45"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: WTRF.com
-  domain: wtrf.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
   - AI in Finance
 
-secured: "vOMQFY89vz8iWwXOqkZ8wDZzbOekNeplv3vR377UgFd/07oHIxuluydnEqDXltqRztmZ2MN8lkk6AXoxVpP5p0oz2xi7WENtS48aaG49CSRdWl1Jp30pPIICno5g3HPJxJ0cFhp0R5DCqRggxrY44ViALZrozgBzMRgvQr32lm9JXncyI7GgOuio1r68SBtObD+NEFh+kEQbL/a08zScmMaPmDUUjHwjO7Gnd07tju5WsA+FyVcDF32OR572/zKICYN4KM9H4OVbClvQajX3o45g5gFkNtf2ZYDJ8X8hFRnqkpNCyAKnPcZ7AEFJl7ZyTdZPD0PVJYkKEW+XfDVCrZ8eJ1UEVI1Q5a1LnkoeLoY=;MxG/coxwB9OTS+RKJZnAaA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "rOzFFHvKylCKeJ9HnqEneJXzaQ/3t5sFOOjsImVdNu0lXKskM4Q2BpYDJwKcH0IQxz5b0VbOhb8Gku9RC4QS5IMqbbCvPiKHtAEH5wR+EwzLRZlupGE/VI7rnIer+Ces3ExsTpg81xPkXD0H+l+fuxGPuUbZWhp7CbbghtD7GPuRH71X1YF06lESaas0kgQw+v1AYWTv8kyizK8xaujEpeMXmPjV5NtOfEy36OH/8tQcJaPQ0w5NPjOnkRDmTJvnnRT1NWZQoguDBp9aiyrmNI4+xaRYoBFxUtqfJOxHit9RFDJ4vDCr8j85r+SL41qUESqExRcoloiU+V3UKncTz3ZbS/oJpw6g7x70yjUwkLA=;lRKZBwRsvow2zM38Btp5+g=="
 ---
 

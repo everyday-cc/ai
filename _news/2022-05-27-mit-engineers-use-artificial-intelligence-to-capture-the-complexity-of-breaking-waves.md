@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Model-How-Waves-Break-777x518.jpg"

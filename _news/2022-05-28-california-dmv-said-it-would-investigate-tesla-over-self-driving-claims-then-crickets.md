@@ -33,6 +33,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Tesla’s Full Self-Driving made this man so mad he’s running for Senate"
+    excerpt: "Single-issue candidates for the US Senate aren't the usual fodder for Ars' car coverage, but it seems like an exception might exist for. O'Dowd, an engineer and CEO of"
+    publishedDateTime: 2022-05-31T17:29:00Z
+    webUrl: "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/05/unsafe-at-any-speed-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Audi's Driverless Car Accomplished A Major Feat Years Before Tesla's Self Driving Technology Existed"
     excerpt: "Over a decade ago, the Autonomous Audi TTS Pikes Peak research car achieved a goal a significant amount of years in advance of all competitors."
     publishedDateTime: 2022-05-31T18:36:00Z

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "PIXM Pioneers First Real-Time Computer Vision Solution to Stop Phishing on Mobile Devices"
-excerpt: "PIXM, a Computer Vision cybersecurity startup, today announced the expansion of its anti-phishing products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted and unknown phishing attacks on mobile devices."
-publishedDateTime: 2022-05-25T10:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-pixm-pioneers-first-real-time-computer-vision-solution-/2022/05/25/9608915.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-pixm-pioneers-first-real-time-computer-vision-solution-/2022/05/25/9608915.htm"
+excerpt: "PIXM Mobile uses novel, award-winning technology to stop phishing attacks targeting mobile device apps at the point of click PIXM, a Computer Vision cybersecurity startup, today announced the ..."
+publishedDateTime: 2022-05-25T10:56:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220525005383/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices"
+webUrl: "https://www.morningstar.com/news/business-wire/20220525005383/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Pio0+mVx9V4zROiIDj7uOYGAE5uI5BY6D9MZdKZ4EHEWiHKFTX1vZXyRnCic/yoN6lWLuaSzAf/NfymE8zhXzWr2XTpa96EiHU7T320+5Jfc7RNyb9J3VP0bVHLEOZA+v5HWnD4ucqK3gMVbJumUQNA0oleDpVJFeMPfyR9496BORX9H0ITkpq4bsYOJJ/2qMPTcZTywZAH0Y0nSyOMf1SG7QWtB81i15Z98lLarkx/XBT5BOwgzPp3j7E3UCI2dvry7JRbHjGc1h8OeZgryZ1K3xL0Jlw+R2NSoRy47a0DYWupoAPU3kDecAXz8I40ctdFwnkl7MbEuzIdx/DXZ+RnOxphEBfftELfjoeSe6S07wF4VMvt+sVQCSigpcwRB05LyrLk67DxRr7ihGCYWCKHLnwzK+EPpZ/gzRDi9ZB+u+c/KLZwp8X5oAUql3kzzyvhQemEnkYgfVJMPdQRC65yAJ2Y9VMKQH8o8WLVsC4qO/2GPHvuladNiFzp/1qpZ9epzVoNCxaphuZvfQuGwew==;GlWiNeDuLBNcPNy0mULEYQ=="
+secured: "Lcy3+P6bKaqR+5a1fDH+x7CtcLJqrq0mb8fIzSIYCwoJbETImI5s67wtDQw4Bla7MJAk5nJwyeHSFcgogLx0u3hUV63jN2qRdzg09EyuH5oKhYMYeRNbRLub2k2XQeu7PNb3PWgf9hRAm4p3uR8LY0t2pA3cCeUJVwzsIwDhMou5mTamITKlk5++5xgnB5tjtfECRR/l7p+SOMQQs8hiKYofYQh6ErFTwRQYnBys+G/dBevaD7tY8AhxOawi2nlshphBco1QC7rJM5oZOOTcqH1biJGU+NsqIJ3MczVepbeEzQVzqhZ8h+scXbWsiFlGTWY1ETv3BrMRDQjy5SUCdef9fNefryvWVmr5p0EYFOI=;ZDV/oxFiq+nmetQZ8AC7xA=="
 ---
 
