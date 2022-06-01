@@ -36,22 +36,6 @@ related:
         width: 1149
         height: 766
         isCached: true
-  - title: "AI learns coral reef 'song'"
-    excerpt: "Artificial Intelligence (AI) can track the health of coral reefs by learning the \"song of the reef\", new research shows."
-    publishedDateTime: 2022-05-27T06:20:00Z
-    webUrl: "https://phys.org/news/2022-05-ai-coral-reef-song.html"
-    ampWebUrl: "https://phys.org/news/2022-05-ai-coral-reef-song.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-ai-coral-reef-song.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-learns-coral-reef-s.jpg"
-        width: 2880
-        height: 2217
-        isCached: true
   - title: "A glitch in artificial intelligence"
     excerpt: "There was just a glitch in their system. I think they are randomly walking the streets now.» CAITLYN: «Don't worry, Victor. Vi will find all the robots and bring them to you.» VIOLET: «What?? Why me?"
     publishedDateTime: 2022-05-29T04:15:00Z
@@ -82,11 +66,11 @@ related:
   - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
     excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
     publishedDateTime: 2022-05-31T14:38:00Z
-    webUrl: "https://krdo.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
+    webUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
+      name: KYMA
+      domain: kyma.com
     quality: 9
 
 secured: "eNZdAu6WRyofANwNkQeWhnJF+tDRitRTTwxHPDfAcK2FJ5G3SB38zGP5v8FxPmtTCVHxmf9+vP3YTEx4lCtc7fLNiaEQYL9G5B6bH1OWzzbdy2l/vcYOYzt2jBwEKrSnOspHMFlP9/aZ8l74qWupxJekuswAs+COGVnoDyEaJR4+GAls9JWp9G6FO5epk0D0Yqn0bx8iAjTegpyemudmxx8Q0x6kCgLIKKYf0821RXws2sPNavL5b9AnUILr9aIJvVPjJgd23hz7puuRlBD1R4f9tcOiKw4T8Qt/9xoAqmshYzra1EeovA5s8aYPcWti4kZZhwkDbvTFriRHQZ+AiHuAwAEqz82P3emfXUgaS1I=;61mLMXmWM2HZ4X/RP/z10g=="

@@ -41,20 +41,6 @@ related:
         width: 788
         height: 526
         isCached: true
-  - title: "Fidelity partners with Canadian fintech Conquest to support advisers"
-    excerpt: "Fidelity International has partnered with Canadian FinTech company, Conquest, as the exclusive distributor of its financial planning software, ‘Conquest Planning’ to the UK independent advice market."
-    publishedDateTime: 2022-05-27T08:17:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92779/fidelity-partners-with-canadian-fintech-conquest-to-support-advisers"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Naspers Takes A R40 Million Bet On FinTech Platform Empowering Financial Advisers"
     excerpt: "Naspers (JO: NPNJn ), through its early-stage tech investment vehicle Naspers Foundry, announced a R40 million ($2.5 million) investment in LifeCheq, a FinTech platform empowering financial advisers to provide quality,"
     publishedDateTime: 2022-05-31T08:47:00Z
@@ -68,20 +54,6 @@ related:
       - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
         width: 251
         height: 282
-        isCached: true
-  - title: "CAT Financial Products Launch Active Fintech Value Investment Solution with Fintech Influencer"
-    excerpt: "In a partnership with CAT Financial Products AG (CATFP), he gives investors the chance to invest diversified and in a simple way in the global Fintech companies that not only have huge growth potential in the future,"
-    publishedDateTime: 2022-05-27T05:54:00Z
-    webUrl: "https://fintechnews.ch/roboadvisor_onlinewealth/cat-financial-products-launch-active-fintech-value-investment-solution-with-fintech-influencer/53040/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 12
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/05/Spiros-Margaris-and-CAT-Financial-Products-Launch-First-Active-Fintech-Value-Investment-Solution.jpg?x30842"
-        width: 2048
-        height: 1136
         isCached: true
 
 secured: "qhaomio7Z5Egkl10Kq6LDQhBM4RVt1mx0NGXf9lOcw+lyUxpRP4u6dDgI0ZNJYAIerc98jFcYiEl3HVXc8o/e4tB+19tvrMQbed0c0xOjpB2bCVgTn1X7ZHyrP/k5IL8faCTgW6O63V8jXtvjU5W5/M4ZouCMYAOUQKwLwEai6qABAEgIx5brNTwoSWvp2EPmuaZEWCBsWYM26wvVcS91AyI87G+Kq8ZcSvS/nz3S+PGD72uBY76s6jELr8ZJQEPSeBYYX7bKegFzuyQLxdTOJqzktZxbVZTpiXLTdgbte7o0u+HIlgKXilGfo1CXbJNs2dn2JiHBawS1RpNW1EGxpMaU0kwrDDYxU29xf2uhoCKbiVHLSzr6yGtzKjEwjcPxDQkoyvCOPYvQrYXK5xuXZvapYlVTLosKLo7Gc7A1cRwBMP61FEDMjPrdQn0mqzTkq3lwSARH2B0oQbGE+8UjwRJuASTHv/uEgofy5cEgN4nDc/Bx2xijJJQPu0elrABnVxLaDYLEoI3ypGosNGMYA==;+j6UkvS3rehvDR7IIbGDRQ=="

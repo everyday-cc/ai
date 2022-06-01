@@ -7,7 +7,7 @@ originalUrl: "https://www.restaurantbusinessonline.com/technology/your-next-chic
 webUrl: "https://www.restaurantbusinessonline.com/technology/your-next-chick-fil-delivery-could-come-robot"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,33 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Chick-fil-A taps Refraction AI for autonomous delivery pilot"
+    excerpt: "The deal with Chick-fil-A is part of tests Refraction is running to understand how it could serve quick service restaurants by maximizing profitability/effectiveness of robotic delivery"
+    publishedDateTime: 2022-06-01T00:42:00Z
+    webUrl: "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/"
+    ampWebUrl: "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/SoCo_5.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX"
+    excerpt: "Self-driving robots provide energy-efficient meal delivery to guests’ front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delive"
+    publishedDateTime: 2022-05-31T14:13:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-austin-texas-265beb43db39b98725512c35d28b0af5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 10
 
 secured: "+TNwW9zzM23x2bSz7ZjWSalCZthkottXqRjpZsaGii+saF8G/8onqrpkpa5a5LWMRWv9iYqxO4x3PoOAXoCLEqlkT2tZo1l2hCczmSIob8PFLlIOhlOwwkQ6oN+smgg3elJFKGlTmnyM/0F0bsqnyCLaCDWU+oolc7aT8E+61UjwJkNzKjCIxyX1zD5wWH+sKRe4k6pM0pzCmhqNTrBG97W2wpxdMRX61QYIOTv3gny2Jat3uIZvBHosVpsl7420QejASTJAQDTV/HEYreAE7HqCSi/SfCqYw4zqtaA8FFA9cMmp8k+7DLi0W+Oe3R2UkrgDGYyOlB8fuvvnfNSsdd6aDaiaG9YuobP1hQBtRJGOTVlNogL26tg2HEQRWV1Rb+xNadMJrbIl9GBTNAHvBYgpYwMCrwya9+53IioxExYlTV8+KBn6JLPF9DdFSigC3kHwc4s1X4UItFb7+BQVsubmkpp0xShf5ktgw1zrTjHETQMoIn0x4pzyCNSk49tP3jO3G9zGYu12tcAdqd0gJA==;L4K8IC26vB+n8bQCjwOX/w=="
 ---

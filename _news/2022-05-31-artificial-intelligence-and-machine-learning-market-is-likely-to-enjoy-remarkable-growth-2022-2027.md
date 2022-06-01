@@ -20,75 +20,52 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Artificial Intelligence in Marketing Market to..."
-    excerpt: "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ..."
-    publishedDateTime: 2022-05-27T07:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27435408"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408"
+  - title: "Wearable AI Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
+    excerpt: "A new report released by Market Research Update is Wearable AI Market 2022. This report provides up-to-date information on the market and also pinpoint all the opportunities for W"
+    publishedDateTime: 2022-05-31T06:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2022-05-31"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg"
-        width: 400
-        height: 225
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Deciphering the S%t from the Bit: Vetter.ai is using AI tech to help investors vet cryptomarkets"
-    excerpt: "Robyn Linn is ushering in an era of radical growth for Vetter and cryptocurrency.  With cryptomarket turbulence seemingly keeping pace with the growth of the cryptomarket itself, investors need reliable intel and analysis tools to choose the projects they want to back and achieve their financial goals."
-    publishedDateTime: 2022-05-31T00:23:00Z
-    webUrl: "https://techbullion.com/deciphering-the-st-from-the-bit-vetter-ai-is-using-ai-tech-to-help-investors-vet-cryptomarkets/"
-    ampWebUrl: "https://techbullion.com/deciphering-the-st-from-the-bit-vetter-ai-is-using-ai-tech-to-help-investors-vet-cryptomarkets/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/deciphering-the-st-from-the-bit-vetter-ai-is-using-ai-tech-to-help-investors-vet-cryptomarkets/amp/"
+  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2022 Top Key Players, Industry Demand, Future Estimations and Key Tactics to 2028"
+    excerpt: "The research report on the Global Natural Language Processing (NLP) in Healthcare Market 2022 by Company, Regions, Type and Application, Forecast to 2028 was recently published by MarketsandResearch.biz."
+    publishedDateTime: 2022-05-29T23:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2022-top-key-players-industry-demand-future-estimations-and-key-tactics-to-2028-2022-05-29"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+  - title: "Global Artificial Intelligence Market 2022 - Research Status, Dynamic Innovation, Trend Analysis and Forecast by 2028"
+    excerpt: "MarketsandResearch.biz contributes an in-depth examination of the offers sector's current situation & important drivers in its insightful research Global Artificial Intelligence Market 2022 by Company,"
+    publishedDateTime: 2022-05-29T19:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2022---research-status-dynamic-innovation-trend-analysis-and-forecast-by-2028-2022-05-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 44
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/05/Robyn-Linn.jpg"
-        width: 1000
-        height: 600
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Ai Machine Learning Market is Going To Boom | GOOGLE, IBM, BAIDU, etc."
-    excerpt: "The global machine learning (ML) market is expected to grow from $21.17 billion in 2022 to $209.91 billion by 2030, at a CAGR of 38.8% in the forecast period. The latest research report on Global Ai Machine Learning Market was conducted across a variety ..."
-    publishedDateTime: 2022-05-31T12:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-machine-learning-market-is-going-to-boom-google-ibm-baidu-etc"
+  - title: "Cyber Security in Robotics Market Trends, Application Analysis and Growth by Forecast to 2022 – 2029"
+    excerpt: "Cyber Security in Robotics Market is slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. A new market research report by Future Market Insights on cyber security in robotics market includes an industry analysis 2014-2021 and an opportunity assessment 2022-2029."
+    publishedDateTime: 2022-05-31T10:38:00Z
+    webUrl: "https://www.fmiblog.com/2022/05/31/cyber-security-in-robotics-market-trends-application-analysis-and-growth-by-forecast-to-2022-2029/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-  - title: "AI in Drug Discovery Market Projected to Garner Significant Revenues by 2031 -end"
-    excerpt: "Introduction. According to the report, the global AI in drug discovery market was valued at US$ 0.35 Bn in 2020 and is projected to expand at a CAGR o"
-    publishedDateTime: 2022-05-30T10:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-projected-to-garner-significant-revenues-by-2031-end"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI in Social Media Market to Grow at a Stayed CAGR from 2020 to 2027 | COVID-19 Effects"
-    excerpt: "Application (Sales & Marketing, Customer Experience Management), Component (Solution, Service), Enterprise Size (Large Enterprise, SME), End-User— Global Forecast till 2027 Social media platforms have been showing sheer growth in the past years due to the rise in the number of internet users due to which a huge amount of unlimited amount of data is gathered every day."
-    publishedDateTime: 2022-05-30T10:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-to-grow-at-a-stayed-cagr-from-2020-to-2027-covid-19-effects"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 36
   - title: "AI In Medical Devices Market Size, Share, Product, Industry Growth, Trend, Analysis By 2029"
     excerpt: "Research Nester released a report titled “AI in Medical Devices Market : Global Demand Analysis & Opportunity Outlook 2029″  whic"
     publishedDateTime: 2022-05-31T13:29:00Z
@@ -103,6 +80,29 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Global Machine learning as a Service Market to Boost the Growth during the Forecast Period 2022–2030"
+    excerpt: "The new report on “Machine learning as a Service Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered"
+    publishedDateTime: 2022-05-30T08:12:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-machine-learning-as-a-service-market-to-boost-the-growth-during-the-forecast-period-2022-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI in Social Media Market Demand Analysis and Projected huge Growth by 2027"
+    excerpt: "AI in Social Media Market – Global Outlook and Forecast 2021-2027 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support."
+    publishedDateTime: 2022-05-30T20:48:00Z
+    webUrl: "https://xaralite.com/345473/business/ai-in-social-media-market-demand-analysis-and-projected-huge-growth-by-2027/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 17
   - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2022-05-30T10:32:00Z
@@ -117,15 +117,34 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "AI in Supply Chain Market to Extend to USD 20 Billion & Growing at a CAGR of 20.5% by 2028 | BlueWeave Consulting"
-    excerpt: "New Delhi, May 27, 2022 (GLOBE NEWSWIRE) -- The growth of global AI in the supply chain market is aided by the rising attention of artificial intelligence, large statistics & analytics, and the widening implementation of computer vision in each autonomous ..."
-    publishedDateTime: 2022-05-27T15:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/g27443027/ai-in-supply-chain-market-to-extend-to-usd-20-billion-growing-at-a-cagr-of-20-5-by-2028-blueweave-"
+  - title: "AI in Fintech Analysis, Share, and consumption by Regional data, Investigation and Growth, Demand by Regions, Research Forecasts To 2030"
+    excerpt: "Global AI in Fintech Market to surpass USD 39.87 billion by 2030 from USD 8.9 billion in 2020 at a CAGR of 36.81% in the coming years, i.e., 2021-30. Fatpos Global added a new report into their database named “AI in Fintech Market Segments: By Component: Solution Services By Deployment: Cloud On-premise 2021–2031 Global Industry Perspective,"
+    publishedDateTime: 2022-05-31T09:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-analysis-share-and-consumption-by-regional-data-investigation-and-growth-demand-by-regions-research-forecasts-to-2030"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 6
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Guns-USA-Mexico-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI in Oil & Gas Market Size 2022 with 12.14% CAGR : new business prospects by identifying trends and driving forces and Forecast up to 2028"
+    excerpt: "Global “AI in Oil and Gas Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI in Oil and Gas market"
+    publishedDateTime: 2022-05-30T05:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-oil-gas-market-size-2022-with-12-14-cagr-new-business-prospects-by-identifying-trends-and-driving-forces-and-forecast-up-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "LzJ2dMGEhneUX3yx12RlkcCCzQK8HkSrrrhoU9xwwyRohmHEOCpzB3rRDx0lEIKYYnlKtqz4Er7IJN0K7FzD1HSGJrXHDEwJdJOKGBtQ1OVM2QeGmbKGe0VLHOJFTVmubRqq3HVia+wtrlp/lPyXdlAICEfQXXIx5kvVT+blbpG/bL0IpYrCNXf3sPO2+VPgAuY9C4vVFUP2xRA4mGBwezEpvVpSuAGAd/P5hcDqIqHRoXO5ApnAKIzmsSvTOo3pjaEk6qliU+GDVg+XaQnbJSQY5PBdz8XX3c5P+KRWejEyqprGZL6kIrvwUVbAZqsVV3e/rlloXufVpS0+TxesHxhpHYV9uV+fUfe3U+xxwbk=;Vmk9wo+VK/CkFaZbySvwJQ=="
 ---

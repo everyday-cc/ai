@@ -57,6 +57,22 @@ related:
         width: 1687
         height: 2199
         isCached: true
+  - title: "Nvidia debuts Grace and Grace Hopper ‘Superchips’ for HPC and AI workloads"
+    excerpt: "Nvidia has unveiled new silicon architectures for high-performance computing and AI workloads.  The Nvidia Grace CPU Superchip"
+    publishedDateTime: 2022-05-31T14:02:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-debuts-grace-and-grace-hopper-superchips-for-hpc-and-ai-workloads/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-debuts-grace-and-grace-hopper-superchips-for-hpc-and-ai-workloads/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-debuts-grace-and-grace-hopper-superchips-for-hpc-and-ai-workloads/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 55
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/05/Nvidia-debuts-Grace-and-Grace-Hopper-‘Superchips-for-HPC-and-AI-workloads.png"
+        width: 1945
+        height: 1112
+        isCached: true
   - title: "Nvidia launches Grace and Grace Hopper Superchips for HPC and AI"
     excerpt: "Nvidia introduced the Grace CPU Superchip and the Grace Hopper Superchip for high-performance computing and artificial intelligence. The chips were"
     publishedDateTime: 2022-05-31T08:39:00Z

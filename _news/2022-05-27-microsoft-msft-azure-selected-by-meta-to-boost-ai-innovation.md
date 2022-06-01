@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-met
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp"
 type: article
 quality: 101
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/08/Fotolia_163376823_Subscription_Monthly_M.jpg"
         width: 1639
         height: 1159
+        isCached: true
+  - title: "Nokia to Integrate Microsoft Azure Arc Capabilities into its Industrial Edge Platform"
+    excerpt: "Nokia announced plans to integrate Microsoft Azure Arc capabilities into the Nokia MX Industrial Edge (MXIE) platform,"
+    publishedDateTime: 2022-06-01T01:03:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/25245-nokia-to-integrate-microsoft-azure-arc-capabilities-into-its-industrial-edge-platform"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 47
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/c9fdb09851097e66576a45f50301faa8.jpg?t=20220601_005722"
+        width: 752
+        height: 408
         isCached: true
   - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
     excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"

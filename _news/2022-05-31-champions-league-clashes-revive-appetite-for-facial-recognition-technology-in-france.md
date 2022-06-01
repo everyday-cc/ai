@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Surging Adoption of Technologies like Facial Recognition Drives the Global Virtual Meeting Software Market"
+    excerpt: "\"The Global Virtual Meeting Software Market\"According to a new market research report launched by Inkwood Research, the Global Virtual Meeting Software"
+    publishedDateTime: 2022-05-31T23:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/surging-adoption-of-technologies-like-facial-recognition-drives-the-global-virtual-meeting-software-market"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+
 secured: "G6ubAo/R79pRZukAKXYaoIDnltFdRV8mvd/sX1KnN08/0TEo2MHfo/MZotgBBKhd9EQKZc1HzbdL9wPeJ2wuzBiNGCJlZWhF7zN2l9jsuX8ij5G0KzU3nIPqXSQqPGyRodvTpEESDoPIhaoxGnhcQU+5SZYA4ivcUvRctciJjKedt8L3jJ3XlE6Ynoa81D5/24K5863Ptp5KMKMMqzEIpDEaFuzYo3zsHtZMScNvT4ghoeUyFoyoN6DkUT9F/rlO2rs4xJne1jsgoU6YocGjkp97e6XacKzDCBiW2GW36Jv5Q3zkdBEm/turMk8YUu5xV5HTz/q0dg8XLIlBGEEzb4oOe1Vk2gbbbDCZTiPuTig=;hGs9aIIB489PdcNg67qP4g=="
 ---
 

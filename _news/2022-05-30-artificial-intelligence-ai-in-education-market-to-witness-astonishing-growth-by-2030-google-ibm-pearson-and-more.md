@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-ed
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-education-market-to-witness-astonishing-growth-by-2030-google-ibm-pearson-and-more"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
   - AI in Education
+
+related:
+  - title: "Ai Machine Learning Market is Going To Boom | GOOGLE, IBM, BAIDU, etc."
+    excerpt: "The global machine learning (ML) market is expected to grow from $21.17 billion in 2022 to $209.91 billion by 2030, at a CAGR of 38.8% in the forecast period. The latest research report on Global Ai Machine Learning Market was conducted across a variety ..."
+    publishedDateTime: 2022-05-31T12:40:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-machine-learning-market-is-going-to-boom-google-ibm-baidu-etc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 34
 
 secured: "iixW1R08iPgWdhL0JqOndAz3B9xRnymsBlb2Fvvh8IyUMg1DTkVhalmcju0k05kjQhmHRFPfF2ED/gkQnTHhH4++t/+wv7ugXAeEDaxItJOmfbTyftnjIKHGBBlFo1kEbn9gkBx76czKqt2GrJ04P88Joa5c2xVbA7a/t8PMQkaGV6LkSmjeljlKzAYOtiRpfwFqwOzLdDVIJ5K2Ct1170OxP2xOlxUifQUMp3JeTaAqo4X4cQ+GSaJ+ryzJAg5SsSM3ZXSGZZFnTtJBs7Fg840RkkhA5nN7fpmnilAjixo4F0yA88GFj2DioCiVSYHrMABQuDpZCvdA2TJ24FsLoV9rKfBW4BHyHGah6h+sgqU=;8jXETJrR9Tc30Fn4cS4PEA=="
 ---

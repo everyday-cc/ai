@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T23:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-31-meta-googles-gradient-and-delivery-hero-back-latam-startup-olaclick"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-31-meta-googles-gradient-and-delivery-hero-back-latam-startup-olaclick"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Daily Herald

@@ -46,22 +46,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "AI learns coral reef 'song'"
-    excerpt: "Artificial Intelligence (AI) can track the health of coral reefs by learning the \"song of the reef\", new research shows."
-    publishedDateTime: 2022-05-27T06:20:00Z
-    webUrl: "https://phys.org/news/2022-05-ai-coral-reef-song.html"
-    ampWebUrl: "https://phys.org/news/2022-05-ai-coral-reef-song.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-ai-coral-reef-song.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-learns-coral-reef-s.jpg"
-        width: 2880
-        height: 2217
-        isCached: true
   - title: "A glitch in artificial intelligence"
     excerpt: "There was just a glitch in their system. I think they are randomly walking the streets now.» CAITLYN: «Don't worry, Victor. Vi will find all the robots and bring them to you.» VIOLET: «What?? Why me?"
     publishedDateTime: 2022-05-29T04:15:00Z
@@ -83,11 +67,11 @@ related:
   - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
     excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
     publishedDateTime: 2022-05-31T14:38:00Z
-    webUrl: "https://krdo.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
+    webUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
+      name: KYMA
+      domain: kyma.com
     quality: 9
 
 secured: "7X46RsKgzMqacWpQyiTukY0guIo9UcTjWD/omxfWUg+qVDVLQwz470W+wepgRbcVdSm5rYU0pyHwTOm9A7FCZ1edoWSIm8PJPqXqNmFPfa9HLwMi8kYHwyfYaYFG7yeyUGdHu6j1cCRuQ42GOH+8y/52oqt7SF8poUSM+bs2Va0zTwv9a23fs7xtCvVYxewwCX9aB4HkkMm5Tlh4sX0nl4gjHqoWLQrjMpZFCYvWLyb+RBigM05QNK2K3Z9vzLj8XQaPBYDpT5MrFq2Hrm2G5AjxpB7j1+2VnjC8LtEFVlTZJKjS0OL27ysEG9BEszcBH0h3tgsBCC8/t3q6IeLkRqlvTvCRIwzKSoiDWFl8Aok=;2VYOLyI7natUtoXp390NRw=="

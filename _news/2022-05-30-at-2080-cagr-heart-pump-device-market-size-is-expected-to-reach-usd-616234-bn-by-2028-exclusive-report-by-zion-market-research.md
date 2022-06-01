@@ -47,6 +47,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Open-Source Intelligence Market To Drive Amazing Growth By 2030 | Forecast to CAGR 20.6%"
+    excerpt: "\"Open-Source Intelligence Market\"The North American OSINT market is driven by the rising penetration of smartphones and tablets.Market Scenario: The"
+    publishedDateTime: 2022-05-31T22:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/open-source-intelligence-market-to-drive-amazing-growth-by-2030-forecast-to-cagr-20-6"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "FTdHbiyH67ZmgX/wqyEbG7B1tUME4lUINo4DjW4JBoKTnFTz4FWrwItl7hqLEqrCp5po7bVJnZgcQE1F8KxYfVPOEKtipainQvR3lwzLCrNyJXqTEIeEYtaS8zCQqlJ0gtcytsW6uwtwEEHTBucDHDuBBZOC6TYVxcQkUIWo4PvvSg+Tt2rN+cT2tzY85ac7OlxZD67uC2ZtjlbyDIW5L2rokKNGXgi3TcJ0mudVBgll/aLAkEewX9j0v4I4rEV0M6PEX6stcimr/AMokj7gPVOyRNg+jv0IHQSl3SKDPRpuAWMWkeZrOSpf/zAoUa3hPrtmuTNw11cUpFCaS6AG8ftB17thMA9/UQ3lgxinIeJ9qJOAlx864A1SXZlLP1YFuqCcW9q3irlMt3F3B6kq3d4KGnP2E8x+4ZMfxosyELnbbnMwpWlSHxoFUCS4bWqdWEx6EwHLJKZQoxneD2XMLoM7XGvgqMKcrk344QJlWQLAFNrYTKr09rjEM1s2V0Ev+chnPMQduH/wEyARJcC57w==;BTXBoR55iBP/aSuGvAPtFw=="
 ---

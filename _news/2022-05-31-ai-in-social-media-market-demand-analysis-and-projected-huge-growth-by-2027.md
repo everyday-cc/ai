@@ -65,6 +65,20 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 36
+  - title: "AI In Medical Devices Market Size, Share, Product, Industry Growth, Trend, Analysis By 2029"
+    excerpt: "Research Nester released a report titled “AI in Medical Devices Market : Global Demand Analysis & Opportunity Outlook 2029″  whic"
+    publishedDateTime: 2022-05-31T13:29:00Z
+    webUrl: "https://menafn.com/1104299107/AI-In-Medical-Devices-Market-Size-Share-Product-Industry-Growth-Trend-Analysis-By-2029"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?840484"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Global Machine learning as a Service Market to Boost the Growth during the Forecast Period 2022–2030"
     excerpt: "The new report on “Machine learning as a Service Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered"
     publishedDateTime: 2022-05-30T08:12:00Z
@@ -78,6 +92,29 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Artificial Intelligence And Machine Learning Market Is Likely to Enjoy Remarkable Growth (2022-2027)"
+    excerpt: "Worldwide Artificial Intelligence And Machine Learning Market In-depth Research Report 2022, Forecast to 2027 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support (2022-2027)."
+    publishedDateTime: 2022-05-31T09:53:00Z
+    webUrl: "https://xaralite.com/357807/technology/artificial-intelligence-and-machine-learning-market-is-likely-to-enjoy-remarkable-growth-2022-2027/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 21
+  - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2022-05-30T10:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "AI in Fintech Analysis, Share, and consumption by Regional data, Investigation and Growth, Demand by Regions, Research Forecasts To 2030"
     excerpt: "Global AI in Fintech Market to surpass USD 39.87 billion by 2030 from USD 8.9 billion in 2020 at a CAGR of 36.81% in the coming years, i.e., 2021-30. Fatpos Global added a new report into their database named “AI in Fintech Market Segments: By Component: Solution Services By Deployment: Cloud On-premise 2021–2031 Global Industry Perspective,"

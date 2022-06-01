@@ -48,6 +48,15 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 0
+  - title: "Open-Source Intelligence Market To Drive Amazing Growth By 2030 | Forecast to CAGR 20.6%"
+    excerpt: "\"Open-Source Intelligence Market\"The North American OSINT market is driven by the rising penetration of smartphones and tablets.Market Scenario: The"
+    publishedDateTime: 2022-05-31T22:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/open-source-intelligence-market-to-drive-amazing-growth-by-2030-forecast-to-cagr-20-6"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "oSNTI37BIMYWzP5TSVyNk80wah56FdaF8hXJxlEODEBinIjKtccEd61mY7jI6Tz49TAxSQ5m2Rc70PUIBWnf7pSuxyTV8i+krgwjEaVcM+I6wcer77ptBVVA4v4vXINbAtxH78f3SsUGQtID7JQ6xDRjxT6E27gI44JgO2WENd8RyNMALWhuoVR4A1Z3mhM6GVevjvqkkpQLaUbtPlU6pausle1hr5KcWbrFh/Fpmy5XKWLhkEhfpkV11GfQp+8WB7JPFZ6/BZ3wXuGz+mFFiwkoWGe02cbXkh4TFPBuNJSCFAXIICvn3pR5bkOwOCJzBM8Nre1OZZyThCFRLMpvg3NuHTW/iBNvA2qo7uCG96Y=;3UWcfjEfJs+n+mGgiLyaRg=="
 ---

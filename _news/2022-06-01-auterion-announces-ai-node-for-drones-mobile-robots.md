@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T22:06:00Z
 originalUrl: "https://www.therobotreport.com/auterion-announces-ai-node-for-drones-mobile-robots/"
 webUrl: "https://www.therobotreport.com/auterion-announces-ai-node-for-drones-mobile-robots/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: The Robot Report

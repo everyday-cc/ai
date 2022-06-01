@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T23:08:00Z
 originalUrl: "https://www.natlawreview.com/article/new-eeoc-guidance-use-artificial-intelligence-can-discriminate-against-employees-or"
 webUrl: "https://www.natlawreview.com/article/new-eeoc-guidance-use-artificial-intelligence-can-discriminate-against-employees-or"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: The National Law Review

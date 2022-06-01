@@ -52,6 +52,15 @@ related:
       name: The Australian Financial Review
       domain: afr.com
     quality: 4
+  - title: "Self-driving cars to be tested in Boca Raton"
+    excerpt: "The future has arrived in Boca Raton. The city is now testing self-driving cars with the hope of eventually adding them alongside drivers on the road."
+    publishedDateTime: 2022-05-31T21:36:00Z
+    webUrl: "https://www.wflx.com/2022/05/31/self-driving-cars-be-tested-boca-raton/"
+    type: article
+    provider:
+      name: WFLX
+      domain: wflx.com
+    quality: 4
   - title: "Regulations for insuring self-driving cars required sooner rather than later, lawyers say"
     excerpt: "Canada will need to address potential disruption that automated vehicles may cause from an insurance perspective, lawyers caution."
     publishedDateTime: 2022-05-27T19:06:00Z

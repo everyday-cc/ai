@@ -5,6 +5,8 @@ excerpt: "This AI deep learning neural network, with a design inspired by the bi
 publishedDateTime: 2022-05-25T22:05:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
 webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "9dRYJLDkuZ3/bdWwULE8NEfCnda6iE9TlBafCXPyGsvCJCWXjPm8+40xmJC76WTkZ1rBear2BXZBoKkS2DTa283efPIungEojyfozqWYj7iOrItRxDweVBC5NIRjce8r/LTeHhAUpyn0Z4C2ONsOx3KYhLP/bB11HsH/w5WEWxZGnqK+GRubSh6g6aTnLcAqr3k84Q8DavpFFiTDCe7K0UXbkGpj+mkemw9v0pmP5kZMishmeHmu0crZ+wJtdwkR8lpuew5k5/H9dLYZDQH/LIKw/MAh+IncCxc2vCVZiqCqI5lvI28leIP0Ygfj3FQa1yvA1/ejplaRs9vr97krwIzl5q7OBfs6U64d/KHYQKE=;4moJq26O6RNlFgD8blKVYQ=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "dmVlf5Z2XvaxjAVgc7YqgtqpliTSlUwV1922oWTXuHEBTE6LKDDp051NoeXNUQ9Eosd/dJkVLh6LXghIM/D7Glp7ox3Uu94h6BrBHaMRnC2qGVU4ptHFI/4Y3Nxz3SKLSRbXXj3MAWI83i2nEhx5+2aYJvOY6ITZG9ZSOSA71UaXzbGZbDi8xpGV11Xye1Qki6R6zn1yJVFpfEVQ6AhctpR26aisaO65mx5bcJ1+5Cl+VImsH39PRgKygBZeGRdgUALt0fthkpNto/Pr1lDrVNE2TPLHPgithwczSkuX46R16f8aEkBpvnyOFCPvdfqZMo6YIBh6c7fMPXeAMGKsLF/3OEE1vuCFj/3b00owOIU=;9Kz+LaZcNNZbFmZgiOnooA=="
 ---
 

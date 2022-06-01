@@ -7,7 +7,7 @@ originalUrl: "https://fox40.com/business/press-releases/cision/20220529LA72451/r
 webUrl: "https://fox40.com/business/press-releases/cision/20220529LA72451/resecurity-debuts-cyber-threat-intelligence-solutions-at-milipol-qatar-2022-before-the-upcoming-fifa-world-cup/"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 800
     height: 328
     isCached: true
+
+related:
+  - title: "Resecurity Brings AI-powered Cyber Threat Intelligence to Singapore"
+    excerpt: "California-based cybersecurity company showcases innovative cyber threat intelligence and digital risk management technologies at Milipol Asia-Pacific 2022 (APAC) LOS ANGELES, May"
+    publishedDateTime: 2022-05-29T07:37:00Z
+    webUrl: "https://wgno.com/business/press-releases/cision/20220529LA72450/resecurity-brings-ai-powered-cyber-threat-intelligence-to-singapore/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
+    quality: 17
 
 secured: "fnIiAzZN56la9Ax9vwq9FxA01pdWP7LeaYGaYPBZqBDOtVcb3sJx4ap0CE7FpSNNwcF+nUOjkl4WBDa6lCE60IuDU9KIlmCNnvFBXtpG2fI7F4NdEVCexck4sOSwqC8ZskIdMXGQux5nt2ka5N+TzT1s/7FmJbuso201AeZxr1by+Pnt85f5t0+ypLwIV4znZPfTtVvSdMx5fg99dae3PN+5kqlONpKnacuY9HQT/2Bro3VGVXYe3B3tRfNUr59NnoC/UbR00JeBSpkR/jhCH9ZP/AL18KlM49eTFWomGqabHE17ALQkU7b/BmHKhyjKZ1IBRjMJUs9emDPO0YDihfG0iNzfvisRxX8EmNCE/wU=;+P48lxTucUjPWvh/iO+OHA=="
 ---

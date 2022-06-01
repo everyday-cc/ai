@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T22:16:00Z
 originalUrl: "https://www.biometricupdate.com/202205/us-facial-recognition-providers-china-ties-spark-concern-amid-infrastructure-bidding"
 webUrl: "https://www.biometricupdate.com/202205/us-facial-recognition-providers-china-ties-spark-concern-amid-infrastructure-bidding"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Biometric Companies

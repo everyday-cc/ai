@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T21:47:00Z
 originalUrl: "https://www.wkyc.com/article/news/politics/judge-sergio-digeronimos-memorial-day-speech-critical-race-theory-black-lives-matter-gender-issues/95-eda3aaa5-ab2b-412e-b513-93a5c2b8496a"
 webUrl: "https://www.wkyc.com/article/news/politics/judge-sergio-digeronimos-memorial-day-speech-critical-race-theory-black-lives-matter-gender-issues/95-eda3aaa5-ab2b-412e-b513-93a5c2b8496a"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WKYC3

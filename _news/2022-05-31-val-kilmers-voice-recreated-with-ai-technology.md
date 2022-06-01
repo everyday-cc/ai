@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T13:19:00Z
 originalUrl: "https://www.insidenova.com/lifestyles/entertainment/val-kilmers-voice-recreated-with-ai-technology/article_531dc08d-4c5e-52dc-ac34-b3ca1db6e0cb.html"
 webUrl: "https://www.insidenova.com/lifestyles/entertainment/val-kilmers-voice-recreated-with-ai-technology/article_531dc08d-4c5e-52dc-ac34-b3ca1db6e0cb.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: INSIDENOVA.COM

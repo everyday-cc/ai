@@ -57,20 +57,6 @@ related:
         width: 708
         height: 419
         isCached: true
-  - title: "Mastercard’s newly launched face recognition payment system is already raising accuracy concerns"
-    excerpt: "Mastercard recently launched a new facial recognition payment system that lets shoppers make payments with their face or hand gestures. This new payment system is being rolled out to biometric payment systems including fingerprint scanning and facial ..."
-    publishedDateTime: 2022-05-27T08:24:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns/articleshow/91831651.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 41
-    images:
-      - url: "https://www.businessinsider.in/photo/91831651/mastercard-launches-new-face-recognition-payment-system-now-accuracy-raises-concerns.jpg?imgsize=10764"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "This search engine is basically Google but for facial recognition"
     excerpt: "The new facial recognition tool, PimEyes, seems like something out of a science fiction movie. PimEyes is basically Google but for images of faces. You can upload a face to the website and it will ..."
     publishedDateTime: 2022-05-27T16:52:00Z

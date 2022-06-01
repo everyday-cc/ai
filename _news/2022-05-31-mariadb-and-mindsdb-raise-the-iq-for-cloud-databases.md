@@ -24,6 +24,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "MariaDB, MindsDB to Make Machine Learning Predictions Easy to Cloud Database Users"
+    excerpt: "MariaDB and MindsDB, the leader in in-database machine learning, together announced a technology collaboration that makes"
+    publishedDateTime: 2022-06-01T01:28:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/25280-mariadb-mindsdb-to-make-machine-learning-predictions-easy-to-cloud-database-users"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 33
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/ae23301e10ea88fcd4805b7ab163ccc9.jpg?t=20220601_012110"
+        width: 752
+        height: 408
+        isCached: true
+
 secured: "5uKjp7lApWrd65/IBFgt6BdPfeQQ9ORBPMPiKOuotfTN1czY4GryDCzVqna9MWkXiN4wzFrKDIvL/PxJ8Ver3SOP6wqTLpiLp6qrP4ZZSyhVYklMl2kxm75afR57p1OBdjOEiCei11YEU+2+kOXq9y6PIyOFFnrbZenrV7PEWxJJB/B/XEF4RoulZzuxYBDfjkxnIseFUgkYHpE/4hJye8R3u1sACks2V3XJfdgFcfWQFi9S2cdFoXgJy1gdoCJe6TeiBsbML8qTJ9HWUxx7lBS9O4hhJXCqPcQ3DDbHLYvvwD/UeUgmlteJXkTDxfMrHRBVj50OeKnpXnnfKXyRfntw7R0IR1afehXxWgqYi6INWr+gfkkJORfNGIIe7+hXm4tz6NJA8AM3ak59vYdkuAaYuMA11G0iWGxX25/9+j6gTZEBjmdnoNinJah3rmuuuL8t44IkwcCjsUrY9FUn0U3oNKXXKhkaR6TZbDektMYpq+XORXBEc2a4BBbFI3mdp1RLqsI1o7qD1gcHFPHXxA==;b7DePjHB3OirX4vlSrA1Tg=="
 ---
 
