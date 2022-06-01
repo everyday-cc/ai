@@ -7,7 +7,7 @@ originalUrl: "https://defensesystems.com/ai-analytics/2022/05/how-cultural-artif
 webUrl: "https://defensesystems.com/ai-analytics/2022/05/how-cultural-artifacts-impede-dods-ability-go-big-ai/367542/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "This is How ‘Cultural Artifacts’ Impede the Defense Department's Ability to Go Big on AI"
+    excerpt: "Pushing AI to the battlefield to help commanders make more informed decisions also means confronting the Defense Department’s worst enemy: the budget process."
+    publishedDateTime: 2022-06-01T17:37:00Z
+    webUrl: "https://www.govexec.com/defense/2022/06/how-cultural-artifacts-impede-dod-ability-go-big-ai/367612/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 28
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2022/06/01/052622_fcw_dvids_groen-1/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "cJvpRK9GdbiikTEJJ2NiQnho/WCHbefVmzJlEI6R8WIXrN+cP5kfRjki6HPqEStnMtfgwcdAcnrD78YVNMhdKbRB1aWdAMArRYa+SIzBCyqjQZD6zZ97LecquOhhx2lWEyLyQ5JXWj8En5zUzCY9121n8PkPq+etzz8SWNug1Ib4YMFhVRaxqC4yilgRlLUxKITAThmvrrGgZCOhXgRfBi2NVFf+eDJcYZco3q+4bmzLEDts4QfEmn1hwXpqqdBPSpZeqiTl/F9tJtZSFcItpLlQL7vgEAkpuxGm/SQBZ2jLeDZ1aUmlolHyHrvw0/2oZ1OSfHyN5sdMLQa+IyaztIzU4j152tbSLKaHqdPX7J7UV4t5kPFs6+uYvsCngfcE+0gtcScx3zMUhwlSDYAdP/UdlgxG2wvF3EjxIGswyfqMhyIEZgIfuo1jUpmI5IFVfHIvx+9DXSlXqxlQt0LD8yYNRJeSyvDavqVKzH1qzu07YT4hmfSgiypttrc+82Vxa13VVP7syv/KjinyIf+H2w==;PW+qvxMTMeNB15TAtHhfDA=="
 ---

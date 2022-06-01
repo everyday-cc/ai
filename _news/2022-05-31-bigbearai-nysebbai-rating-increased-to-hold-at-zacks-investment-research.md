@@ -32,6 +32,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "C3.ai Inc. (NYSE:AI) – Analysts See The Stock Differently Today"
+    excerpt: "In the last trading session, 2.59 million shares of the C3.ai Inc. (NYSE:AI) were traded. Most recently the company’s share price was $18.92, and it changed around -$0.81 or -4.11% from the last close,"
+    publishedDateTime: 2022-06-01T17:14:00Z
+    webUrl: "https://marketingsentinel.com/2022/06/01/c3-ai-inc-nyseai-analysts-see-the-stock-differently-today/"
+    type: article
+    provider:
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 17
 
 secured: "fQ+o20awbokVRlKWYLSjAPnkMVP6AluPIadMW3/qwuvw7tNMgStj4kksxYD5ksFSB6eTg7f4wCLnJhLTaZ1vR6PQVTaZZbDwINWVTrunaBPVjref6ccveOX7S2XP0CG3A8KOOLmktONkhdduLSUJrqPagp3ER3Fchl1bCthdY7NQtXQvZbXiiiiUw94RH8GNAK7xySmV4oRwxhALSqOaRPq5VF0wyeyDxUMK6KU/oN7Z0XyYImODP0cBaVc/BSZ1VGXWwiqlPHQ9wlBYEShaR3g+A2EN5JPqWvNMEgRZpC7HKikiIe2EOu8OVOsdYutNY5zduOfO0FsSPRCoOXMzKO3oe0/8tfuVwkqGwjodohE=;LWiIbsthHg0EFLJQcvGDag=="
 ---

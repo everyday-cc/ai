@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "C3.ai Inc. (NYSE:AI) – Analysts See The Stock Differently Today"
+    excerpt: "In the last trading session, 2.59 million shares of the C3.ai Inc. (NYSE:AI) were traded. Most recently the company’s share price was $18.92, and it changed around -$0.81 or -4.11% from the last close,"
+    publishedDateTime: 2022-06-01T17:14:00Z
+    webUrl: "https://marketingsentinel.com/2022/06/01/c3-ai-inc-nyseai-analysts-see-the-stock-differently-today/"
+    type: article
+    provider:
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 17
   - title: "BigBear.ai (NYSE:BBAI) Rating Increased to Hold at Zacks Investment Research"
     excerpt: "BigBear.ai (NYSE:BBAI – Get Rating) was upgraded by Zacks Investment Research from a “sell” rating to a “hold” rating in a research note issued to investors on Monday, Zacks.com reports. According to Zacks,"
     publishedDateTime: 2022-05-30T21:08:00Z

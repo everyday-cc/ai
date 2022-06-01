@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CoinTelegraph
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
+    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians and clinical documentation improvement (CDI) teams with information about missing and wrongly coded diagnoses and procedures to correct the patient's chart in just a few clicks."
+    publishedDateTime: 2022-06-01T16:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data-1031502979"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "FPT Software Formed New Business Alliance with Landing AI, Promoting Visual Inspection Technology"
     excerpt: "Vietnam's leading IT firm, FPT Software, has recently entered a strategic partnership with Silicon Valley AI and machine vision leader Landing AI. Both companies will tap into their Artificial Intelli"
     publishedDateTime: 2022-05-30T08:18:00Z

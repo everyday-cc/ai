@@ -3,19 +3,25 @@ category: news
 title: "Perimeter Medical Imaging AI Appoints Experienced MedTech Executive, Chris Scott, as Chief Financial Officer"
 excerpt: "Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medical technology company driven to transform cancer surgery with ultra-high-resolution, real-time,"
 publishedDateTime: 2022-06-01T13:36:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-politics-health-medical-ea9f7f7a78c64242baf1cbffa04bf402"
-webUrl: "https://apnews.com/press-release/business-wire/technology-politics-health-medical-ea9f7f7a78c64242baf1cbffa04bf402"
+originalUrl: "https://www.bakersfield.com/ap/news/perimeter-medical-imaging-ai-appoints-experienced-medtech-executive-chris-scott-as-chief-financial-officer/article_eec40f59-84df-51d1-a8f0-0b0d9c49d9d2.html"
+webUrl: "https://www.bakersfield.com/ap/news/perimeter-medical-imaging-ai-appoints-experienced-medtech-executive-chris-scott-as-chief-financial-officer/article_eec40f59-84df-51d1-a8f0-0b0d9c49d9d2.html"
 type: article
-quality: 0
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Perimeter Medical Imaging AI Reports First Quarter 2022 Financial Results and Provides Corporate Update"
@@ -28,6 +34,6 @@ related:
       domain: dailyherald.com
     quality: 1
 
-secured: "WsmOPuZElb9tHZsX9trQyqsN4vWrfdbIE9KquD0BYRoYkQBJRcDgeGw8h5wQw19HsQT3wLcu+sTMxKfr406SAu83Gx/zCXGPNNFXihnxokHUglxy9BIIdlBBTSazPIUJu2U6gh0IbASWOwfwfhDlSzGKHJQNiogMf/vDVLslIE/CvFPkFtLJulg5NR1MGicCLaieZIRMi28rpBpGNuJ+C2yzUFaOJ8kDCvyz8yGO7QEtjSKjwLxWJ37h7IihcwZ+RaPXvNWH+AL5UL00rG1ZwRkf0USYPnl5A9ZES2TQTUV+uN9YoBEZIJMkeEhTgDr5U3mm0jTE3GIA1Sf/uNhkahV0wqp1VhtnYF4m2zOFbaM=;s3sNtZOUS1AipeAElasYrQ=="
+secured: "m6Zr3YagI2l64rzyMG8Pt0EdJgCyuu+pAwoTa9zKtfzC4LLpC+ArGUjladoGTHEyZu4eOiFWMI0ZUgv81MMcWSVBmFJy4FyauTo8U5jHKE9eCcmr7i/UzCn+cq6M/94KFN3j0+hRvHGzxs5/p/6gYFLZ2azqeiSCtVBG5k86xj8AojqqFXUcpq3O8BVkRAZhmOa81nQJzgd/F5Ff/3ewk+euARZO91c7NzPDKa3dzjjqsMwi5G/Khj/yGy7FwR3/zpYehvwCdnXRP1Zbvup0gC5pKLNLVUjZvD5s/T+BHhU0pM5KO1galWXLZVufokygSt30EXmJrre6r7NFvIK5JjxteW91TiOPgfRLsmAGmHk=;eM88jMvzD0O5qCpy+gsNeg=="
 ---
 

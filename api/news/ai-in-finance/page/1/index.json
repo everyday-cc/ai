@@ -46,49 +46,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-01-deloitte-spin-out-arteria-ai-bags-investment-from-citi-bank.md",
-      "title": "Deloitte Spin-Out Arteria AI Bags Investment from Citi Bank",
-      "excerpt": "Arteria AI, the digital documentation startup that span out of Deloitte, has received an undisclosed investment from Citi SPRINT (Spread Products Investment Technologies), the strategic investing",
-      "sourceUrl": null,
-      "webUrl": "https://www.artificiallawyer.com/2022/06/01/deloitte-spin-out-arteria-ai-bags-investment-from-citi-bank/",
-      "originalUrl": "https://www.artificiallawyer.com/2022/06/01/deloitte-spin-out-arteria-ai-bags-investment-from-citi-bank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.artificiallawyer.com/wp-content/uploads/2022/06/Screenshot-2022-06-01-at-07.46.53.png",
-          "width": 1600,
-          "height": 1111,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "artificiallawyer.com",
-        "domain": "artificiallawyer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2022-05-25-how-fintech-players-are-leveraging-aiml-to-bridge-the-gap-in-msme-lending.md",
       "title": "How Fintech players are leveraging AI/ML to bridge the gap in MSME lending",
       "excerpt": "FinTech is a term which refers to a set of businesses which are leveraging advanced technology as a core ingredient in their business model to drive rapid evolution and transformation of financial services products",
@@ -182,6 +139,41 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities.md",
+      "title": "Kao Data to Host Speechmatics' HPC and AI Supercomputer, Expanding Deep Learning Capabilities",
+      "excerpt": "Speechmatics' work within artificial intelligence-powered neural networks provides highly accurate speech-to-text to global enterprise businesses.To support its expansion Speechmatics required a specialist,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27388178/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27388178/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {

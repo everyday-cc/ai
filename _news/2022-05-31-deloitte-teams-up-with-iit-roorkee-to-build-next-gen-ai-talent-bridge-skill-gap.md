@@ -9,8 +9,8 @@ ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/deloi
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/deloitte-teams-up-with-iit-roorkee-to-build-next-gen-ai-talent-bridge-skill-gap.html"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: RepublicWorld
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Roorkee partners with Deloitte to bridge AI skill gap in India"
+    excerpt: "IIT Roorkee has joined hands with Deloitte to deliver immersive programmes in the fields of artificial intelligence and machine learning. The aim is to bridge the skill gap and to train the next generation workforce on exponential technologies."
+    publishedDateTime: 2022-06-01T06:43:00Z
+    webUrl: "https://analyticsindiamag.com/iit-roorkee-partners-with-deloitte-to-bridge-ai-skill-gap-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-6-1-1300x731.png"
+        width: 1300
+        height: 731
+        isCached: true
   - title: "Deloitte Teams With Indian Institute of Technology, Roorkee to Build the Next Generation AI Talent"
     excerpt: "Deloitte today announced a strategic collaboration with IIT Roorkee to deliver rigorous, immersive programs in artificial intelligence (AI) and machine learning (ML) that are designed to build the next generation workforce."
     publishedDateTime: 2022-05-31T11:57:00Z

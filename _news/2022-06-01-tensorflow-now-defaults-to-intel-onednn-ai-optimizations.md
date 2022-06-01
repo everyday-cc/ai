@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/"
 type: article
 quality: 121
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "TensorFlow defaults to Intel oneDNN AI optimizations"
+    excerpt: "Following Google and Intel's partnership, the open-source TensorFlow has announced that their machine learning library is being updated."
+    publishedDateTime: 2022-06-01T14:37:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 91
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/TensorFlow-defaults-to-Intel-oneDNN-AI-optimizations-1024x585.png"
+        width: 1024
+        height: 585
+        isCached: true
 
 secured: "zdUVo2mL5h869GchvdhXapvvf4IbxcJAF2DNEDo5UBl7FgiBnNsu3WbZoQw/aeVwLtjElJNY9k9NNOM4pICanMG3iVjveVSI9WZZX+eosOgf78A3JzNmxduMo1qWxyArkN/Eo9DOXhcjwjlyC2TCJOOV/KxnbNp/IaKGI+gvfXYqwNvDD2jTikjWepPSzCqj23/hDOwRLivJHfiFgwcto1oW5aRxeVeMtRyzarNrx3ibKbZ+OvKJsHW9H+3p0ab9q8CdWVTMX/qHl4UvwMpAT8R/0WLIARopdSKUWpBwCaiY4aKuTnkfSbr8UzUolHZdJOkP3cU0/oNA+RhlRIWA/+WnznnIvGCsaMxOf412xfYkQs0RVFPGni1pRBmBZZjUX6nD18Z/Ez7N2LgUOcOT4ScwgXYGIRYumFWWqAHCj06t0uc7dcuKC62+WhHUevLlN2WGQ8EUKgZQ0zAmLUNjR3RrTVIoexlFydiMpvt2AJIgrAsDZKIl8VdY4/kpmKvR9+QtcwGrbgUKPWsw9wSdjg==;ZRuNhrjUzItETQnn5yLVaQ=="
 ---

@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-01-ai-robotics-autonomous-vehicle-zettascale-spins-out-from-adlink-tttech-auto-investor.md",
+      "title": "AI, robotics, autonomous vehicle – ZettaScale spins out from ADLINK, TTTech Auto investor",
+      "excerpt": "ZettaScale Technologies has raised a strategic investment from TTTech Auto. The investment marks the start of a strategic partnership between the two companies that will result in the creation of the first European implementation of Data Distribution Service (OMG DDS) that is certified for use in series cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsit.com/articles/2022/06/01/ai,-robotics,-autonomous-vehicle-–-zettascale-spins-out-from-adlink,-tttech-auto-investor",
+      "originalUrl": "https://www.logisticsit.com/articles/2022/06/01/ai,-robotics,-autonomous-vehicle-–-zettascale-spins-out-from-adlink,-tttech-auto-investor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.logisticsit.com/assets/image-cache/files/images/02_06_22/publicpreview.php.7fa9aa46.jpg",
+          "width": 650,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing & Logistics IT Magazine",
+        "domain": "logisticsit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-finish-robotics-brings-robotic-painting-to-life.md",
+      "title": "Finish Robotics Brings Robotic Painting To Life",
+      "excerpt": "Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA - Finish Robotics, a recent entrant into the",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
+      "originalUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.getnews.info/uploads/d9e065ff2a5a506c56bb783399a24f49.png",
+          "width": 526,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-how-is-robotics-innovation-progressing-in-the-air-force-industry.md",
       "title": "How is robotics innovation progressing in the air force industry?",
       "excerpt": "Analysis of patent filings revealse the top companies for robotics related applications in the industry over the past year",
@@ -734,6 +820,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
+      "title": "Remarkable science: Exploring our AI and robot-supported future",
+      "excerpt": "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "originalUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/VertexLogoSOP_R_colorRGB-400x265.jpg",
+          "width": 400,
+          "height": 265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "publishedDateTime": "2022-05-24T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-artificial-intelligence-ai-a-potential-without-limits.md",
       "title": "Artificial Intelligence (AI), a potential without limits",
       "excerpt": "The combination of Artificial Intelligence and the Internet of Things (IoT) will allow companies to have “very powerful” solutions, say the experts. ICEMD Innovation Series was created with the aim of being an annual reference document that helps ...",
@@ -1216,126 +1345,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-nit-r-alumni-innovate-robotics-solution-for-underwater-inspections.md",
-      "title": "NIT-R alumni innovate robotics solution for underwater inspections",
-      "excerpt": "Classmates Debendra Pradhan and Biswajit Swain quit their plum jobs to launch a startup that has been providing customised solutions in the field of underwater robotics, writes Prasanjeet Sarkar",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.html",
-      "originalUrl": "https://www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/22/w600X390/alumni.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.amp",
-      "publishedDateTime": "2022-05-21T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best.md",
-      "title": "Netflix’s Love, Death & Robots Season 3 Review – Every Short Ranked From Worst To Best",
-      "excerpt": "Shaun Munro reviews season 3 of Love, Death & Robots… Netflix’s acclaimed animated anthology series Love, Death & Robots is back for its third season, and while this collection of nine episodes is likely the weakest of the bunch to date,",
-      "sourceUrl": null,
-      "webUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
-      "originalUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Flickeringmyth",
-        "domain": "flickeringmyth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-a-man-whos-paralyzed-is-able-to-drive-using-his-mind-heres-how-it-works.md",
-      "title": "A man who's paralyzed is able to drive using his mind. Here's how it works",
-      "excerpt": "Saldana Zuniga was back behind the wheel recently, nine years after a car wreck paralyzed him from the waist down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wapt.com/article/man-paralyzed-driving-using-mind/40060108",
-      "originalUrl": "https://www.wapt.com/article/man-paralyzed-driving-using-mind/40060108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/images/bhdn-mw-001fr-co-paralyzed-man-use-f40f015b-c299-4bc7-b868-22638d879935-00-01-09-03-still001-1653059713.jpg?crop=1xw:1xh;center,top&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wapt.com/amp/article/man-paralyzed-driving-using-mind/40060108",
-      "cdnAmpWebUrl": "https://www-wapt-com.cdn.ampproject.org/c/s/www.wapt.com/amp/article/man-paralyzed-driving-using-mind/40060108",
-      "publishedDateTime": "2022-05-20T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAPT",
-        "domain": "wapt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

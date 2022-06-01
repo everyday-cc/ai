@@ -1,21 +1,22 @@
 ---
 category: news
 title: "AI Eye Podcast - GBT CTO Discusses Hippocrates, qTerm, and AI in Healthcare"
-excerpt: "As the adoption of artificial intelligence (AI) and its adjacent technologies in the healthcare space increases, so too does its use cases within the sector. In a recent interview with Investorideas.com,"
+excerpt: "Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition"
 publishedDateTime: 2022-06-01T12:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-6-1-ai-eye-podcast-gbt-cto-discusses-hippocrates-qterm-and-ai-in-healthcare"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-6-1-ai-eye-podcast-gbt-cto-discusses-hippocrates-qterm-and-ai-in-healthcare"
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/27495477/ai-eye-podcast-gbt-cto-discusses-hippocrates-qterm-and-ai-in-healthcare"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/27495477/ai-eye-podcast-gbt-cto-discusses-hippocrates-qterm-and-ai-in-healthcare"
+ampWebUrl: "https://www.benzinga.com/amp/content/27495477"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27495477"
 type: article
-quality: 34
-heat: 34
+quality: 52
+heat: 62
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Microsoft AI
   - AI
   - AI in Healthcare
 
@@ -30,6 +31,6 @@ related:
       domain: investorideas.com
     quality: 29
 
-secured: "Z455lgPTLm27FFfPmCSkLQXLKnSFV5Hgr/Q1lTPezhAue1NfFKjEE6hSjkyZKjztIoERnoMaAxuINC0hzqzvR5t7ADA1GJXc+tXQDA51whqQgnAf/9lPpISvHj+Yf1mf9nj2ngAZ2XBXyAleBzSckYdFl/6dWloVK1IDykUeJTBrD2iWDz7wlPwit6mwPBjAv+a2posFWKJ5Jcgfm7oGgqFc90PAPnO0SQKu/cFhGrLG9l4w8gZhailyyE1ccmxtQWX3/B5ZE30k5WJxFt1815HC2W9Z1KqBt3V3TQlUBT4ceJ9P23kidmYnKEU7lV1gpyMzqgHfM3YnCVtore1Uf/MMYvNf3LrL8K1j1NSe3fM=;H+iWBP+oeYUvIb21Q3a0jQ=="
+secured: "jEtCTt/tgtCu0cKx3zqcnidKPi3u0Ey5QwOAzV8f/vWVuMfmLBmuT6DQN+ATq9gQo4OykZP8eZcwUmnABHZEHW0wMgR6Xk8XpcosydlAJB4Gns/Z62GqLxfDye3NaCtno/juTZP+Nr4UJhCRuONqjzvXF94e8nErPlNMNW3cOjnNmg8W5UafkVxdX4bpN5AOQeytSg6F32ufenjiTt/j5V3ZclEoUiImFkWC5fPj3xVnDBt5n80ufOrH4oYgh6oS9U3RKUCxGuREncI45JTRVOJwsBnVqdngtCaaILdGLk7P0iynI2TmxTh8uU0loakQ0Ifys2htYCG0ap5g6R5bHlfcV+12V3tGouq9GLy1OvI=;n9O8wRZqU3DCWxu0FBzwqg=="
 ---
 

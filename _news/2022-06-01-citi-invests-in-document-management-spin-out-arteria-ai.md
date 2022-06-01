@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deloitte Spin-Out Arteria AI Bags Investment from Citi Bank"
-    excerpt: "Arteria AI, the digital documentation startup that span out of Deloitte, has received an undisclosed investment from Citi SPRINT (Spread Products Investment Technologies), the strategic investing"
-    publishedDateTime: 2022-06-01T07:04:00Z
-    webUrl: "https://www.artificiallawyer.com/2022/06/01/deloitte-spin-out-arteria-ai-bags-investment-from-citi-bank/"
-    type: article
-    provider:
-      name: artificiallawyer.com
-      domain: artificiallawyer.com
-    quality: 54
-    images:
-      - url: "https://www.artificiallawyer.com/wp-content/uploads/2022/06/Screenshot-2022-06-01-at-07.46.53.png"
-        width: 1600
-        height: 1111
-        isCached: true
   - title: "Arteria AI Announces Strategic Investment Co-Led by Citi SPRINT and BDC Capital"
     excerpt: "Arteria AI, an award-winning global leader in enterprise digital documentation, today announced it has received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,"
     publishedDateTime: 2022-06-01T08:54:00Z
@@ -55,20 +41,15 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "IIT Roorkee partners with Deloitte to bridge AI skill gap in India"
-    excerpt: "IIT Roorkee has joined hands with Deloitte to deliver immersive programmes in the fields of artificial intelligence and machine learning. The aim is to bridge the skill gap and to train the next generation workforce on exponential technologies."
-    publishedDateTime: 2022-06-01T06:43:00Z
-    webUrl: "https://analyticsindiamag.com/iit-roorkee-partners-with-deloitte-to-bridge-ai-skill-gap-in-india/"
+  - title: "DaveAI, A Nasscom Deeptech Club Start-up Specializing in Visual AI, raises strategic round of funding by Marquee Investors from Japan and India"
+    excerpt: "DaveAI, a virtual AI avatar led sales experience platform announced a strategic round of investment led by Maruti Suzuki India Ltd. - India's largest automobile brand, GHV - India's first and biggest industry Co-Creation innovation and investment group for Japan,"
+    publishedDateTime: 2022-05-31T00:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20220530/3946978.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-6-1-1300x731.png"
-        width: 1300
-        height: 731
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "omihvx8Soz5qsOJcFY3yXRs+iQKMemh2Y9k2A9T+hfofnLQRBvdxJfWVNar0NjUajAGoWiSiKF/qIZaEXrb9dzwIHtOLITNXx7CF2FFOu9T+fk9NUf02BexonpwNtrQFP/4//z06bQJGpSsEk2qY7wqsIZfKhGGpLiAcRVoOBt5fzIIH3ISwqEqRRD5sj+fedqGIlCCsjfzea7cy76rXyfH/wP0v5dxf0ZbTMB8s0vqL+tTPjGgflq3sGG7rKCKBjG0B/Qp+6/eX0uyGmtfYPWo1oX9n6rKkduVMc7QC8H5XpywYN8hKJ9qwSnri3IVukVb6RkDwpShCOme5HIK+FSdmJRragP9Z6bZxzB7g7rW7uZCC1xOSGRMmyXXP5/YvGMF7Jw5ulh18/uqC0YI8knZLfN3jrsRqEGmWW6lxqpSyRhJfH7K+xlEdqvbpap6BJBlyb7d/uiywCV1vG5/RR0/y7DbhMMxVOzn1QFz7Y9Cv79Y/gjnaoP2AkFEHFyeiMXtjUHJyDN80EE9vKX9MCA==;w2RbGdlEqr7CAk4d46fEiA=="
 ---

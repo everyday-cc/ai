@@ -2,6 +2,41 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-03-18-tempe-machine-learning-startup-sells-to-new-mexico-cybersecurity-firm.md",
+      "title": "Tempe machine learning startup sells to New Mexico cybersecurity firm",
+      "excerpt": "Cyr3con uses machine learning to analyze digital threats and risk. Aaron Sandeen, CEO of Cyber Security Works, told Business First that the deal closed in January before being announced on March 15. He declined to disclose financial details and said that Tempe,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/17/tempe-startup-sells-to-new-mexico-firm.html",
+      "originalUrl": "https://www.bizjournals.com/phoenix/inno/stories/news/2022/03/17/tempe-startup-sells-to-new-mexico-firm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-h2oai-ceo-sri-ambati-on-the-democratization-of-ai-and-deep-learning.md",
       "title": "H2O.ai CEO Sri Ambati on the Democratization of AI and Deep Learning",
       "excerpt": "I spoke with Sri Ambati, CEO of H2O.ai, about the AI and deep learning sector, and his company’s goal of making AI accessible to a larger audience by offering a low code AI deve",
@@ -1254,40 +1289,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-deep-learning-is-hitting-a-wall.md",
-      "title": "Deep Learning Is Hitting a Wall",
-      "excerpt": "\"Let me start by saying a few things that seem obvious,\" Geoffrey Hinton, \"Godfather\" of deep learning, and one of the most celebrated scientists of our time, told a leading AI conference in Toronto in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/259244-deep-learning-is-hitting-a-wall",
-      "originalUrl": "https://cacm.acm.org/news/259244-deep-learning-is-hitting-a-wall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

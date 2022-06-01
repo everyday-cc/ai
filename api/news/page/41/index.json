@@ -2,6 +2,567 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-04-25-why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand.md",
+      "title": "Why companies need to get a handle on ethical and responsible AI (VB On-Demand)",
+      "excerpt": "As AI is integrated into day-to-day lives, justifiable concerns over its fairness, power, and effects on privacy, speech, and autonomy grow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/",
+      "originalUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1135199002.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/amp/",
+      "publishedDateTime": "2022-04-25T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars.md",
+      "title": "AI Ethics Fretting Over The Use Of AI To Goad Humans Into Unethical Behaviors, Possibly Even Via Those Autonomous Self-Driving Cars",
+      "excerpt": "AI that provides unethical advice is going to be a vexing problem for humans, including as showcased via the advent of autonomous self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62467316d1ffaded5f503f2f/0x0.jpg?format=jpg&crop=1421,760,x243,y0,safe&width=1200",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-04-25T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-cast-ai-puts-out-report-on-extent-of-enterprises-cloud-resource-overspend.md",
+      "title": "CAST AI puts out report on extent of enterprises cloud resource overspend",
+      "excerpt": "A report from cloud startup CAST AI claims companies running cloud-native applications typically spend three times as much as they need on resources because of over-provisioning. The startup, which hopes to convince users to consider its platform as a way to control the problem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm",
+      "originalUrl": "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/01/20/shutterstock_cluster.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/",
+      "publishedDateTime": "2022-04-25T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive.md",
+      "title": "Web3 startup Internxt, valued at $40M aims to compete with Google Drive",
+      "excerpt": "Valencia, Spain-based startup, Internxt, is building distributed internet services for Web3, designed to compete with those currently provided by Google, Microsoft and Amazon.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/",
+      "originalUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/web3.jpg?fit=800%2C431&strip=all",
+          "width": 800,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/amp/",
+      "publishedDateTime": "2022-04-25T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-healthcare-natural-language-processing-market-is.md",
+      "title": "Healthcare Natural Language Processing Market Is...",
+      "excerpt": "Companies Profiled in Healthcare Natural Language Processing Market are Apple Inc, NLP Technologies, NEC Corporation, Microsoft Corporation, IBM Corporation NEWARK, N.J., April 25, 2022 (GLOBE NEWSWIR",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/g26788209/healthcare-natural-language-processing-market-is-set-to-expand-at-a-cagr-of-16-7-to-reach-us-14-6-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/g26788209/healthcare-natural-language-processing-market-is-set-to-expand-at-a-cagr-of-16-7-to-reach-us-14-6-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26788209",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26788209",
+      "publishedDateTime": "2022-04-25T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-top-6-robot-kits-to-start-building-from-home.md",
+      "title": "Top 6 Robot Kits to Start Building From Home",
+      "excerpt": "Users control the robot using an app or a web browser ... perfect combination of education and fun to keep your hands and mind occupied. The possibilities are endless.",
+      "sourceUrl": null,
+      "webUrl": "https://techreport.com/devices/3477115/top-6-robot-kits/",
+      "originalUrl": "https://techreport.com/devices/3477115/top-6-robot-kits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techreport.com/wp-content/uploads/2022/04/top-6-robot-kits.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tech Report",
+        "domain": "techreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-why-conversational-ai-is-an-effective-listening-tool.md",
+      "title": "Why conversational AI is an effective listening tool",
+      "excerpt": "Conversational AI, often referred to  as natural language processing (NLP) or natural language understanding (NLU), helps computers listen to, understand and extract meaning from human language.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/",
+      "originalUrl": "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/06/listening.jpg?w=1200&strip=all",
+          "width": 665,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/why-conversational-ai-is-an-effective-listening-tool/amp/",
+      "publishedDateTime": "2022-04-25T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-mastercards-digital-transactions-deploys-microsoft-ai-to-improve-fraud-protection.md",
+      "title": "Mastercard's Digital Transactions deploys Microsoft AI to improve fraud protection",
+      "excerpt": "The two companies are combining their innovative technologies to better protect consumers from an increasingly prevalent form of digital fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/",
+      "originalUrl": "https://www.zdnet.com/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/mastercard-launches-mastercards-digital-transactions-using-microsoft-ai-to-better-detect-digital-fraud/",
+      "publishedDateTime": "2022-04-25T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-cross-river-and-sardine-partner-to-build-critical-risk-and-payments-infrastructure-for-fintech-web3-and-crypto-companies.md",
+      "title": "Cross River and Sardine Partner to Build Critical Risk and Payments Infrastructure for Fintech, Web3 and Crypto Companies",
+      "excerpt": "Cross River Bank (“Cross River”), a technology infrastructure provider that offers embedded financial solutions, today announced a partnership with Sardine, a behavior-based fraud and compliance platform for digital wallets and neobanks,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-fort-lee-55666b7e5ca94a949607cefacad15dff",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-ascriptivism-and-cognitive-development.md",
+      "title": "Ascriptivism and Cognitive Development",
+      "excerpt": "In the first chapter of this book, I contrasted the first-order subjective experience of understanding, the “A ha!” experience of making sense, with the objective valid ascription of understanding that had long been the concern of analytical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/making-sense/ascriptivism-and-cognitive-development/88532B1D5176D16D101BD72545D7539A",
+      "originalUrl": "https://www.cambridge.org/core/books/making-sense/ascriptivism-and-cognitive-development/88532B1D5176D16D101BD72545D7539A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028.md",
+      "title": "Artificial Intelligence in Retail Market Size Worth USD 31.18 Billion by 2028",
+      "excerpt": "The global “Artificial Intelligence in Retail Market Size” is expected to rise with an impressive CAGR and generate",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028-2022-04-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-worth-usd-3118-billion-by-2028-2022-04-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-enzolytics-inc-reports-progress-and-future-plans.md",
+      "title": "Enzolytics, Inc. Reports Progress and Future Plans",
+      "excerpt": "COLLEGE STATION, TX / ACCESSWIRE / April 25, 2022 / Enzolytics, Inc. (OTC PINK:ENZC) (  ). Enzolytics continues to make significant progress in its multiple",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-d4bde18f7f9ef6081beb09b33233e7bd",
+      "originalUrl": "https://apnews.com/press-release/accesswire/covid-science-technology-health-business-d4bde18f7f9ef6081beb09b33233e7bd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-ai-increasing-transparency-in-used-car-sales.md",
       "title": "AI increasing transparency in used car sales",
       "excerpt": "Jim O’Brien, general manager, Americas at RAVIN.AI, discusses how AI can be used as a tool to increase transparency in used car sales",
@@ -592,565 +1153,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai.md",
-      "title": "The Innovative Ways The United States Space Force Is Leveraging Data And AI",
-      "excerpt": "Speaking at an upcoming AI in Government event on May 19, 2022, Dr. Lisa Costa, Chief Technology & Innovation Officer of the United States Space Force will be sharing insights in how the US Space Force is delivering the first fully digital service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6264256f61e2dd81de312206/0x0.jpg?format=jpg&crop=2400,1350,x0,y240,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "publishedDateTime": "2022-04-23T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022.md",
-      "title": "AWS CMO Rachel Thornton on the future of customer-obsessed marketing in 2022",
-      "excerpt": "Customer obsession is core to AWS, and being data-driven in everything ... Experimenting with technology, such as machine learning (ML) or artificial intelligence (AI), in marketing can help ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1364769258-coffeekai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "publishedDateTime": "2022-04-23T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-a-california-tech-ceo-is-running-for-us-senate-on-one-issue-banning-teslas-full-self-driving-technology.md",
-      "title": "A California tech CEO is running for US Senate on one issue: banning Tesla's Full Self-Driving technology",
-      "excerpt": "Dan O'Dowd launched a multimillion-dollar ad campaign that takes aim at Tesla's self-driving software and claims the company \"skates by regulations.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4",
-      "originalUrl": "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6260156c4f524b00194d5dc8?width=1200&format=jpeg",
-          "width": 1081,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp",
-      "publishedDateTime": "2022-04-23T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting.md",
-      "title": "Facial Recognition Tech Leads to Arrest in Fatal Miami-Dade Strip Club Shooting",
-      "excerpt": "\"The subject fled on foot as the crowd inside the club dispersed.\" The entire incident was captured on surveillance video, which detectives used along with facial recognition software to identify Solomon as a suspect, the warrant said. A witness who was at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/",
-      "originalUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcmiami.com/2022/04/042122-the-office-gentlemens-club-miami-dade-shooting.jpg?quality=85&strip=all&fit=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/?amp",
-      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/?amp",
-      "publishedDateTime": "2022-04-23T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 6 South Florida",
-        "domain": "nbcmiami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.md",
-      "title": "Tech update: Using artificial intelligence to solve supply chain snarls, and consolidation in Canadian crypto",
-      "excerpt": "Federal artificial intelligence agency Scale AI has announced ... has a huge opportunity to take the lead in gene and cell therapy. The country has the capacity to create a multibillion dollar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thespec.com/ts/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html?itm_source=parsely-api",
-      "originalUrl": "https://www.thespec.com/ts/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html?itm_source=parsely-api",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thestar.com/9EPJkM2V2ypv4CrXYqw3aQjoWEA=/1120x888/smart/filters:cb(1650901728922)/https://www.thespec.com/content/dam/thestar/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto/techupdate1.jpg",
-          "width": 1120,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-23T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hamilton Spectator",
-        "domain": "thespec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-video-shows-tesla-self-driving-into-a-35-million-private-jet.md",
-      "title": "Video Shows Tesla Self Driving Into A $3.5 Million Private Jet",
-      "excerpt": "Tesla vehicle using Smart Summon feature has crashed into a $3.5 million private jet. Here is why the incident took place.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/",
-      "originalUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2022/04/Tesla-Crashed-Into-Jet.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/tesla-self-driving-into-private-jet/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/tesla-self-driving-into-private-jet/amp/",
-      "publishedDateTime": "2022-04-23T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-ai-tool-accurately-predicts-tumour-regrowth-in-cancer-patients.md",
-      "title": "AI tool accurately predicts tumour regrowth in cancer patients",
-      "excerpt": "Exclusive: Tool predicts how likely tumours are to grow back in cancer patients after they have undergone treatment",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
-      "originalUrl": "https://www.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d1dd9f83b44248489e5d8b093ad28b046262e0d5/0_182_4000_2399/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=25109500e1bdf5d279d65eb44289f9ed",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/apr/23/cancer-ai-tool-predicts-tumour-regrowth",
-      "publishedDateTime": "2022-04-22T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-house-lawmakers-investigating-govt-use-of-facial-recognition-software.md",
-      "title": "House lawmakers investigating gov't use of facial recognition software",
-      "excerpt": "WASHINGTON — Two House committees have launched an investigation into the government's use of facial recognition software that was most recently used by the Internal Revenue Service, but stopped after complaints from lawmakers and privacy advocates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "originalUrl": "https://www.wfaa.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wfaa.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "cdnAmpWebUrl": "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
-      "publishedDateTime": "2022-04-22T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFAA8",
-        "domain": "wfaa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-japan-plans-mind-reading-robots-and-brain-interface-devices-by-2020.md",
-      "title": "Japan plans mind-reading robots and brain interface devices 'by 2020'",
-      "excerpt": "The Japanese government and private sector are, according to the Nikkei, all set to begin work on a collaborative new project to develop thought-controlled gadgets, devices ... and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2010-04-23-japan-plans-mind-reading-robots-and-brain-interface-devices-by.html",
-      "originalUrl": "https://www.engadget.com/2010-04-23-japan-plans-mind-reading-robots-and-brain-interface-devices-by.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/XYbrXNO7oanMjSOMWhmDlA--~B/aD0zNDA7dz01NjY7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2010/04/23apr10o2353fjapan.jpg",
-          "width": 566,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-mind-reading-for-robotic-limb-control.md",
-      "title": "Mind Reading for Robotic Limb Control",
-      "excerpt": "The aim of the research is to develop real-time mind-controlled robotic limbs for the disabled, according to an announcement made at an April 16 symposium in Aichi prefecture. Although brain waves ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2008/04/mind_reading_for_robotic_limb_control.html",
-      "originalUrl": "https://www.medgadget.com/2008/04/mind_reading_for_robotic_limb_control.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-a-new-vision-of-artificial-intelligence-for-the-people.md",
-      "title": "A New Vision of Artificial Intelligence for the People",
-      "excerpt": "In the back room of an old and graying building in the northernmost region of New Zealand, one of the most advanced computers for artificial intelligence is helping to redefine the technology’s",
-      "sourceUrl": null,
-      "webUrl": "https://pulitzercenter.org/fr/node/26574",
-      "originalUrl": "https://pulitzercenter.org/fr/node/26574",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/Screen%20Shot%202022-04-22%20at%2010.02.46%20AM.png?h=44ba1eb2&itok=qIDJepxI",
-          "width": 768,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-22T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulitzer Center",
-        "domain": "pulitzercenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-how-to-protect-ai-from-cyberattacks-start-with-the-data.md",
-      "title": "How to protect AI from cyberattacks – start with the data",
-      "excerpt": "AI is a digital technology, which means it can be compromised particularly when confronted by an intelligent attack",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/",
-      "originalUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/Ai-Security.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/22/how-to-protect-ai-from-cyberattacks-start-with-the-data/amp/",
-      "publishedDateTime": "2022-04-22T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-13-3d-printer-companies-makerbot-and-ultimaker-to-merge.md",
+      "title": "3D printer companies MakerBot and Ultimaker to merge",
+      "excerpt": "MakerBot Industries LLC, a major supplier of desktop 3D printers, today announced plans to merge with rival Ultimaker BV. The transaction is expected to be completed by the end of the third quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/12/3d-printer-companies-makerbot-ultimaker-merge/",
+      "originalUrl": "https://siliconangle.com/2022/05/12/3d-printer-companies-makerbot-ultimaker-merge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/MakerBot.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-apeejay-education-aws-launch-nep-accelerator-programme.md",
+      "title": "Apeejay Education, AWS launch NEP Accelerator programme",
+      "excerpt": "This is the first program in India to support the technology transformation of education institutions as per the NEP 2020, according to Apeejay Education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
+      "originalUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/05/12/1600x900/congress-santiago-american-business-technology-services-america_b095090a-3ae3-11eb-95ec-0fdf1bc83475_1652346526516.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
+      "publishedDateTime": "2022-05-12T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-at-jpmorgan-chase-upskilling-goes-hand-in-hand-with-innovation.md",
       "title": "At JPMorgan Chase, Upskilling Goes Hand-in-Hand With Innovation",
       "excerpt": "It sounds like a scene from your typical automotive race, but it’s not. It’s actually the championship round of the 2021 Amazon Web Services DeepRacer, the global competition in which technologists flex their machine learning savvy to guide autonomous ...",
@@ -1307,102 +1394,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses.md",
-      "title": "Bell and Amazon Web Services launch AWS Wavelength Zones to advance 5G for businesses",
-      "excerpt": "This enables software developers and businesses to take full advantage of 5G networks and the cloud with AWS to build solutions that leverage real-time visual data processing, augmented/virtual reality (AR/VR), artificial intelligence and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.canadianmanufacturing.com/manufacturing/bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses-281082/",
-      "originalUrl": "https://www.canadianmanufacturing.com/manufacturing/bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses-281082/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.canadianmanufacturing.com/wp-content/uploads/2021/10/PLT_INDUSYRY4.0_WSUPERBIXBOX_SEPT21_JLR.jpg",
-          "width": 300,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canadian Manufacturing",
-        "domain": "canadianmanufacturing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-crowdstrike-unveils-tools-to-fight-threats-to-cloud-native-applications.md",
-      "title": "CrowdStrike unveils tools to fight threats to cloud-native applications",
-      "excerpt": "CrowdStrike has unveiled new capabilities for its adversary-focused cloud-native application protection platform (CNAPP).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2012/01/ss-cloud-security-lock.jpg?w=1200&strip=all",
-          "width": 350,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/crowdstrike-unveils-adversary-focused-cnapp-capabilities/amp/",
-      "publishedDateTime": "2022-04-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AWS AI"
       ]

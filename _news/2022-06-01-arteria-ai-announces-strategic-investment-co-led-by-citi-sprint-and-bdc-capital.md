@@ -9,8 +9,8 @@ ampWebUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-le
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: 01Net
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deloitte Spin-Out Arteria AI Bags Investment from Citi Bank"
-    excerpt: "Arteria AI, the digital documentation startup that span out of Deloitte, has received an undisclosed investment from Citi SPRINT (Spread Products Investment Technologies), the strategic investing"
-    publishedDateTime: 2022-06-01T07:04:00Z
-    webUrl: "https://www.artificiallawyer.com/2022/06/01/deloitte-spin-out-arteria-ai-bags-investment-from-citi-bank/"
-    type: article
-    provider:
-      name: artificiallawyer.com
-      domain: artificiallawyer.com
-    quality: 54
-    images:
-      - url: "https://www.artificiallawyer.com/wp-content/uploads/2022/06/Screenshot-2022-06-01-at-07.46.53.png"
-        width: 1600
-        height: 1111
-        isCached: true
   - title: "Citi invests in document management spin out Arteria AI"
     excerpt: "Arteria AI, a document and contract management spin out from Deloitte, has received investments from the strategic investing arm of Citi's Global Spread Products division, and Canada's BDC Capital."
     publishedDateTime: 2022-06-01T10:23:00Z
@@ -54,20 +40,15 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "IIT Roorkee partners with Deloitte to bridge AI skill gap in India"
-    excerpt: "IIT Roorkee has joined hands with Deloitte to deliver immersive programmes in the fields of artificial intelligence and machine learning. The aim is to bridge the skill gap and to train the next generation workforce on exponential technologies."
-    publishedDateTime: 2022-06-01T06:43:00Z
-    webUrl: "https://analyticsindiamag.com/iit-roorkee-partners-with-deloitte-to-bridge-ai-skill-gap-in-india/"
+  - title: "DaveAI, A Nasscom Deeptech Club Start-up Specializing in Visual AI, raises strategic round of funding by Marquee Investors from Japan and India"
+    excerpt: "DaveAI, a virtual AI avatar led sales experience platform announced a strategic round of investment led by Maruti Suzuki India Ltd. - India's largest automobile brand, GHV - India's first and biggest industry Co-Creation innovation and investment group for Japan,"
+    publishedDateTime: 2022-05-31T00:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20220530/3946978.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-6-1-1300x731.png"
-        width: 1300
-        height: 731
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "XZZOxFpxdDQSPw8IELT7PxRonZLq9441VZImx5+Ul2YCVVnumzFcwQ4NAjo7rRH81PYC8XIU69LDoYKfKg8srVO10oevHhV6mKDsRAN/kSiM0GLkAn3ZOl//XKr/F0OX+eEgnSU3lJwbsm06Z2gcGhV8PelOEMu7k82EiGtK/jpLeTo/fK7w2FAHKxpbTSyBFkq9Xxk5TP9Cx6Q3j94cqnTHL62b6gBTX4kyf/R70d5QBEwbwK8/r+JXEWycmTjvve2vgnKJkV5W+9pJs4l3j7nRiT6VHga+45nl8nJYYkMXtjM1jaQ3D7Jl9g24hrrBo419cgEIvHrBuQSmHBqqRuKhc44Pk11lHXJn8HQ+ZeQ=;aNLvQ0XgSahysgYUQYxJ2Q=="
 ---

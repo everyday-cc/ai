@@ -34,6 +34,20 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "IIT Roorkee partners with Deloitte to bridge AI skill gap in India"
+    excerpt: "IIT Roorkee has joined hands with Deloitte to deliver immersive programmes in the fields of artificial intelligence and machine learning. The aim is to bridge the skill gap and to train the next generation workforce on exponential technologies."
+    publishedDateTime: 2022-06-01T06:43:00Z
+    webUrl: "https://analyticsindiamag.com/iit-roorkee-partners-with-deloitte-to-bridge-ai-skill-gap-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-6-1-1300x731.png"
+        width: 1300
+        height: 731
+        isCached: true
 
 secured: "yUtYwzjZhfDZToTZxrS1RvubeIMlEowMbdVQRkU3tF7sjE426OcbkwBSPFule/sdl0EktjgQ+TPokNJSS+nyYno4foksPVl6XOna9ZBYGLvg2n0HautkdMJ9Po/NSlpGjeVRSAZKyXs3B8qYA6PbC3zQpVaSopMz9RaCl9VByuCSXMoWaIGsaRg2jf3TT0EWvtDVkR7+i6wsHgNSnwdKUmmJW7+3b7ew80RAHFiidk1ZXoJ/YjUQC1azxnhs6mTg/fIDeVcsvQ6jZ2dblOuKJfwkz6LjoUxr9DpsT25uQAeV8InOX5oJOZIA1XPphMj+1c24vV4wlFjBJ1Zg9IeCPvVTW309jL+TVVjBiiBE3ezFRYwXG/ao36qMxNj+LZvi2bHe7vLPT5f4taJEqySou+4wL+dQfHnPL5Ae2Wq8Kui5shlkDjZmDwbsqBflCNkRuVGhEuvaIwhX+ig6CENBwDWKM1yZoHkVxciqkcQ7SLOOS2dWndGm16JW5r+8Sm8jMkYdIGa3PD+CZxCuEacrMA==;HbmPFWQfeTCfkvVaq/IDxQ=="
 ---

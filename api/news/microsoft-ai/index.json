@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-01-azure-nc-a100-v4-vms-for-ai-now-generally-available.md",
+      "title": "Azure NC A100 v4 VMs for AI now generally available",
+      "excerpt": "AI is revolutionizing the world we live in—from the way we entertain ourselves, to the products and services that we consume, to the way we care for our bodies, and how we go about our daily work. At Microsoft, our NC series virtual machines (VMs) allow our customers and partners access to almost limitless",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T01:00:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-microsofts-new-execs-helping-win-at-azure-ai-devices.md",
       "title": "Microsoft’s new execs helping win at Azure, AI, devices",
       "excerpt": "Marco Casalaina, Ajith Thekadath and Ashley Hart are just some of the new faces at the tech giant as it invests to accelerate its market position in cloud, artificial intelligence, devices and other areas,",
@@ -174,8 +217,8 @@
       "title": "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training",
       "excerpt": "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/",
-      "originalUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/",
+      "webUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm",
+      "originalUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -194,7 +237,7 @@
       "type": "article",
       "ampWebUrl": "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
       "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
-      "publishedDateTime": "2022-05-26T15:50:00-07:00",
+      "publishedDateTime": "2022-05-26T15:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "theregister",
@@ -208,9 +251,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "Microsoft AI"
       ]
     },
     {
@@ -218,8 +261,8 @@
       "title": "Microsoft Build Conference Heralds Era of AI-Assisted Software Development",
       "excerpt": "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,",
       "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1",
-      "originalUrl": "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1",
+      "webUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -306,11 +349,11 @@
       "title": "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work",
       "excerpt": "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
-      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
+      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top",
+      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -340,9 +383,10 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Facebook AI",
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1332,50 +1376,6 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-vectra-ai-recognized-as-a-microsoft-security-excellence-awards-finalist-for-security-isv-of-the-year.md",
-      "title": "Vectra AI recognized as a Microsoft Security Excellence Awards finalist for Security ISV of the Year",
-      "excerpt": "Vectra AI, a leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises, today announced that the company has been named a finalist in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27145145/vectra-ai-recognized-as-a-microsoft-security-excellence-awards-finalist-for-security-isv-of-the-ye",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27145145/vectra-ai-recognized-as-a-microsoft-security-excellence-awards-finalist-for-security-isv-of-the-ye",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27145145",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27145145",
-      "publishedDateTime": "2022-05-11T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
         "Microsoft AI"
       ]
     }

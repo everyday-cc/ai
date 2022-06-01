@@ -3,8 +3,8 @@ category: news
 title: "Global Space Robotics Market Size to Reach USD 6.55 Billion in 2030 | Emergen Research"
 excerpt: "USD 6.55 Billion in 2030, Market Growth – at a CAGR of 4.7%, Market Trends – Increasing demand for lightweight, compact, and affordable space vehicles is a key"
 publishedDateTime: 2022-06-01T15:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-global-space-robotics-market-size-reach-usd-655-/2022/06/01/9612987.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-global-space-robotics-market-size-reach-usd-655-/2022/06/01/9612987.htm"
+originalUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/06/01/9612987.htm"
+webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/06/01/9612987.htm"
 type: article
 quality: 46
 heat: 46
@@ -58,6 +58,6 @@ related:
       domain: digitaljournal.com
     quality: 0
 
-secured: "1nMCvf8z84wY4CnZefPJ96VDyMvMbxAwze0Aqa3BvZ+9Xa5L58TfDxJHcLjn9st5dZtHLMYsgC90hjaulg0bRRJ7aBQoR/LAU4b5l64o/MlOpeiKMounlO64L0/Ou81PbH7ELDg1ohzO4BRZpNhyTNdCoRXPsUch0L2hUhg45wBFq9+2r9zYI5wmhi1n8DQ8k0dFKBw4eYe5Fvu2ao/FRvn/xqcgaWjAzFPCVc3ArAOvxBbeuGjuM4eu17bFlu753QTBk+AGpgKVhRVlhFpVCJijII99Dv3yLhoukzRd8QrUo/SNuHXJb/Qmos2F3gd3Fu6LcNpKBzkhuY/y0qiVR4Y58T7iFlC0k3RByxggEJQ=;HDx9dXo9Gj8wkQKAd9NY7g=="
+secured: "mpxI1/3Mn28ZiEWmexBSz7mKGx6mkxxeaaqX2VlPFLulSddQInVuuy/qaxCeYPP6SHRLhH2/HDZChfv0bPzaS3RTpIx4Z87RzSL9OzEn2iK/BmzRw77y1B2lkTnDk18wMKMbe3UFUysqNzmvBfkAZiBDFThdBR15/BRm6GpRHBqwrCjR73i4FJgTos2Kt5mr2B4GhDf/+6G92wjAVCf60FnKD4PdBmd4w8a1vTk/f9h6Kcokz1SAmTTqCrfmMpKC3JXaaqzPhJ2v+GZWflj24LXQA3YqLt8SykVKtXL4xg70ZLX/KW1vxErNtgkI/ZZZU17wnNTDsrjBe6i+wcs2RN9Zi45wkweK376a7an7lgQ=;CsmQ60MFVm4958zYjAzr7Q=="
 ---
 

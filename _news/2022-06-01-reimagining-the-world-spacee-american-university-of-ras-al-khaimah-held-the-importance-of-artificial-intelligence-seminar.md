@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Reimagining the world: Spacee, American University of Ras Al Khaimah held The Importance of Artificial Intelligence seminar"
-excerpt: "In pursuit of knowledge and experience sharing, Spacee, which provides the best computer vision and AI solutions for retailers and"
+excerpt: "In pursuit of knowledge and experience sharing, Spacee, which provides the best computer vision and AI solutions for retailers and consumer brands, announced today that its CEO, HE Skip Howard, held The Importance of Artificial Intelligence seminar at the American University of Ras Al Khaimah (AURAK),"
 publishedDateTime: 2022-06-01T09:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/reimagining-the-world-spacee-american-university-of-ras-al-khaimah-held-the-importance-of-artificial-intelligence-seminar-878307752.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/reimagining-the-world-spacee-american-university-of-ras-al-khaimah-held-the-importance-of-artificial-intelligence-seminar-878307752.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/reimagining-the-world-spacee-american-university-of-ras-al-khaimah-held-the-importance-of-artificial/article_01fad796-3429-5c7c-8456-0c7c8a154860.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/reimagining-the-world-spacee-american-university-of-ras-al-khaimah-held-the-importance-of-artificial/article_01fad796-3429-5c7c-8456-0c7c8a154860.html"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1830408/SPACEE_AURAK.mp4?p=thumbnail"
-    width: 512
-    height: 288
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/1b/71ba0311-7a4e-580c-b10d-68796da23d4e/62972c3287376.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "rWtK4NUIXxquq4ImphWK56eRq5LiesbRwo9ccGSWVA+d8viLTZqc+KSFYy+b0VFH0nApuAg/+lhS8SIkHXmJ4lWJke/rusHr1EOf2JDsahc/z+poZG9ks/gcv1DGxke2qDIC2RivY5G6coWnG8je9gkFv2kG/86M0xcsdakmTvULzOibC0KC4LFg1hsTZ2Y717XPCLjRDqv0wcrQkLGrw3piie7shL+9ky1mFiMBjHNDgyj6Qa/76ldgJ/bzbJxVeqB7WBQi2RxpWr3wwIOUlmb4W7wC5uG0ACrx7g/CC6LrQDeE3zYgiIgkhfqVsPAwpsOHZANBjeJ01eoLq6LfOwW84uCSFWhDxkkOjQWmrIE=;mgcahHzevcXnbMB7Wc3glQ=="
+secured: "lwGNGcXt512xJlUbe8fF1t/dVE60BmuJPEpeVL5xOuWZ36OgkgoX3Grz+JWCiNtXozh9w9D0FsB6WbhkZRWvvbJaAoNrpbPmNASS5jq9LjXSW9ThQYCQyRF3L0mkfM+u9PCSINREySSLwGsOi9KVXG6VXT+prli/YvD7UMx5kMwbn1FYvwcWzxXAXLxVkTcCC+LAB/4L/46tMZ2+tSB4BQG95lQcSmNTNoR1Cq/HblHVfASXRp8ANwXSlrHur39yPv+gZhvFt9PBxDJzjVThQy1SlKwQYQ4LMe3ethzZnYoKCyNNv3u4ckBz4j2xpXo64CN9gqwViFlrWVXpSFHgBRGDN7U+IQysrwel8BZEyQY=;MZBHarWJXnntYZS4z8aa7g=="
 ---
 

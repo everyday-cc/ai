@@ -2,6 +2,495 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-24-drive-io-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars.md",
+      "title": "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars",
+      "excerpt": "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ...",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
+      "originalUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2022/05/屏幕快照-2020-05-07-下午4.16.18.jpg?fit=1200%2C601&ssl=1",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
+      "publishedDateTime": "2022-05-23T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-artificial-intelligence-is-breaking-patent-law.md",
+      "title": "Artificial intelligence is breaking patent law",
+      "excerpt": "The patent system assumes that inventors are human. Inventions devised by machines require their own intellectual property law and an international treaty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01391-x/d41586-022-01391-x_21688384.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-building-a-culture-of-pioneering-responsibly.md",
+      "title": "Building a culture of pioneering responsibly",
+      "excerpt": "When I joined DeepMind as COO, I did so in large part because I could tell that the founders and team had the same focus on positive social impact. In fact, at DeepMind, we now champion a term that perfectly captures my own values and hopes for integrating technology into people’s daily lives: pioneering",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
+      "originalUrl": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628bb10c9262d40040f15edb_Lila_Ibrahim__Blog__16x9-0.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-significant-energy-savings-using-neuromorphic-hardware.md",
+      "title": "Significant energy savings using neuromorphic hardware",
+      "excerpt": "For the first time TU Graz's Institute of Theoretical Computer Science and Intel Labs demonstrated experimentally that a large neural network can ... of worldwide artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220524100612.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220524100612.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images.md",
+      "title": "UK regulator fines facial recognition company $9M for illegally storing images",
+      "excerpt": "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images",
+      "originalUrl": "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg",
+          "width": 530,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true",
+      "publishedDateTime": "2022-05-23T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-metas-myosuite-ai-platform-could-help-doctors-develop-better-prosthetics.md",
+      "title": "Meta’s ‘MyoSuite’ AI platform could help doctors develop better prosthetics",
+      "excerpt": "One of Meta's ML teams has created a tool that builds realistic musculoskeletal simulations that run up to 4,000 times faster than state-of-the-art prosthetics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/meta-myosuite-annoucemed-183850677.html",
+      "originalUrl": "https://www.engadget.com/meta-myosuite-annoucemed-183850677.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5d9505f0-dac6-11ec-bedc-c448c42adbc5",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-ethical-ai-how-is-ai-redefining-the-insurance-industry.md",
+      "title": "Ethical AI – How is AI Redefining the Insurance Industry?",
+      "excerpt": "By Antoine de Langlois, Responsible AI Data Scientist at Zelros When Cybersecurity meets Artificial Intelligence, companies and organizations have many new challenges and potential threats to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefining-the-insurance-industry/",
+      "originalUrl": "https://www.cyberdefensemagazine.com/ethical-ai-how-is-ai-redefining-the-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/05/Ethical-AI-How-is-AI-Redefining-the-Insurance-Industry.jpg",
+          "width": 697,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cyber Defense Magazine",
+        "domain": "cyberdefensemagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-using-artificial-intelligence-to-predict-life-threatening-bacterial-disease-in-dogs.md",
+      "title": "Using artificial intelligence to predict life-threatening bacterial disease in dogs",
+      "excerpt": "Leptospirosis, a disease that dogs can get from drinking water contaminated with Leptospira bacteria, can cause kidney failure, liver disease and severe bleeding into the lungs. Early detection of the disease is crucial and may mean the difference between life and death.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-artificial-intelligence-life-threatening-bacterial-disease.html",
+      "originalUrl": "https://phys.org/news/2022-05-artificial-intelligence-life-threatening-bacterial-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-new-massrobotics-award-to-honor-female-robotics-researchers.md",
+      "title": "New MassRobotics award to honor female robotics researchers",
+      "excerpt": "MassRobotics' The Robotics Medal recognizes the wide-ranging impact of female researchers around the development of robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/",
+      "originalUrl": "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/massrobotics-the-robotics-medal.jpg",
+          "width": 635,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-playing-by-the-rules-fintechs-use-ai-for-marketing-compliance.md",
+      "title": "Playing by the Rules: Fintechs Use AI for Marketing Compliance",
+      "excerpt": "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance",
+      "originalUrl": "https://www.finextra.com/blogposting/22326/playing-by-the-rules-fintechs-use-ai-for-marketing-compliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh6.googleusercontent.com/XTM3knFbB18Ultf9kkId2-XySe7I71UoEt4VYlNfNr0eSFw_AF0IM6-T-ozQMxrAgBwQUijX_5Q-2JP20wYnU5IxgHWaS9__oPqESXw4wnWgtjOKz0fFImRtMckLFqiGUW0YMiWkY5BRmiucuQ",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-autel-robotics-evo-lite.md",
+      "title": "Autel Robotics Evo Lite+",
+      "excerpt": "The Autel Robotics Evo Lite+ folding drone ... quality here simply because creators have more control with the Raw DNG format. If you don't mind a saturated look, however, the video profiles ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/drones/140524/autel-robotics-evo-lite",
+      "originalUrl": "https://uk.pcmag.com/drones/140524/autel-robotics-evo-lite",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/review/a/autel-robo/autel-robotics-evo-lite_x4p9.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-meet-13-robotics-startups-in-denmarks-beyond-beta.md",
       "title": "Meet 13 robotics startups in Denmark’s Beyond Beta",
       "excerpt": "The startups will receive coaching and mentoring from robotics experts and exposure through Odense Robotics during the Beyond Beta program.",
@@ -634,515 +1123,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-blue-turtle-takes-wrapper-off-ai-driven-soc-offering-at-itweb-security-summit.md",
-      "title": "Blue Turtle takes wrapper off AI-driven SOC offering at ITWeb Security Summit",
-      "excerpt": "Blue Turtle will showcase its vendors and its AI-driven approach to the SOC from 31 May to 2 June at the Sandton Convention Centre.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/dgp45vaBLwx7X9l8",
-      "originalUrl": "https://www.itweb.co.za/content/dgp45vaBLwx7X9l8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/wGgGctulHEBVzx37jO0KxYB0BWjcQ-YFwWyRc4BHpSWZbl6qq5cUC2hkHjAmi92U_5jQ_JBJGscghGXF9jjfFOX_yl9oNSktqc1C=w816-h428",
-          "width": 816,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/dgp45vaBLwx7X9l8",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45vaBLwx7X9l8",
-      "publishedDateTime": "2022-05-23T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-nextbillionai-raises-21-million-in-series-b-round.md",
-      "title": "NextBillion.ai raises $21 million in Series B round",
-      "excerpt": "The funding round was led by global investment firm Mirae Asset Capital. Existing investors Lightspeed, M12 (Microsoft’s Venture Fund), and Alphawave NextBillion.ai, a spatial data and mapping platform for enterprises, has raised $21 million in a Series ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/incoming/cw7664/article65453262.ece/alternates/LANDSCAPE_615/IMG_IMG_BL11_Fund_2_1_PH_2_1_B89DQ9V9.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece/amp/",
-      "publishedDateTime": "2022-05-23T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-a-start-up-aims-to-bring-driverless-cars-to-indian-roads.md",
-      "title": "A start-up aims to bring driverless cars to Indian roads",
-      "excerpt": "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
-      "originalUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
-      "publishedDateTime": "2022-05-23T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data.md",
-      "title": "GPU for Deep Learning Market Analysis 2022: Share, Top Key Players Research and Forecast to 2027 with Dominant Sectors and Countries Data",
-      "excerpt": "The “GPU for Deep Learning Market” 2022 Research report will make detailed analysis mainly on in-depth research on",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process.md",
-      "title": "Fintech Firm ForwardAI and Fifo Capital to Enhance SMB Loan Underwriting Process",
-      "excerpt": "ForwardAI, a Fintech providing aggregated access to accounting & business data and analysis, announced its partnership with Fifo Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg",
-          "width": 1280,
-          "height": 1104,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/amp/",
-      "publishedDateTime": "2022-05-22T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-top-10-ai-graduate-degree-programs.md",
-      "title": "Top 10 AI graduate degree programs",
-      "excerpt": "neural networks, reinforcement learning, and robotics. It hosts myriad research centers and labs, including the Laboratory for Artificial Intelligence, which opened its doors in 1983 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html",
-      "originalUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/05/skills_programmer_data-scientist_graduate_school_college_certification_mortar-board_valedictorian_cole-keister-via-unsplash-100759473-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html/amp",
-      "publishedDateTime": "2022-05-22T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars.md",
-      "title": "AI Ethics Unnervingly Asking Whether AI Biases Are Insidiously Hiding Societal Power Dynamics, Including For AI Self-Driving Cars",
-      "excerpt": "A bubbling up theory is that AI biases are reflections of hidden societal power dynamics, which has vital impacts for AI and AI Ethics, including the use case of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-22T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-new-deep-learning-technique-paves-path-to-pizza-making-robots.md",
-      "title": "New deep learning technique paves path to pizza-making robots",
-      "excerpt": "A new deep learning technique developed by researchers shows promise to make robotics systems more stable in handling deformable objects.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots",
-      "originalUrl": "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FRobotPizza.jpg&signature=6ac11f10998502e3a24f329632f83cba",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it.md",
-      "title": "Here’s How You Can Help America Win the AI Tech Race – and Make Money Doing It",
-      "excerpt": "Buck Jordan explains how investors like you can help America get ahead in the race to master artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/",
-      "originalUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2021/10/lightbulb-tech-ideas-1200.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/",
-      "cdnAmpWebUrl": "https://moneymorning-com.cdn.ampproject.org/c/s/moneymorning.com/2022/05/22/heres-how-you-can-help-america-win-the-ai-tech-race-and-make-money-doing-it/amp/",
-      "publishedDateTime": "2022-05-22T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-amazon-installs-creepy-ai-cameras-to-monitor-more-delivery-drivers-report-says.md",
-      "title": "Amazon installs 'creepy' AI cameras to monitor more delivery drivers, report says.",
-      "excerpt": "Amazon is installing more cameras that can send out alerts if workers violate driving standards after introducing them in the US last year",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-installs-creepy-ai-cameras-monitor-uk-delivery-drivers-2022-5",
-      "originalUrl": "https://www.businessinsider.com/amazon-installs-creepy-ai-cameras-monitor-uk-delivery-drivers-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61b0ee716e06b7001992bbe4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon-installs-creepy-ai-cameras-monitor-uk-delivery-drivers-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-installs-creepy-ai-cameras-monitor-uk-delivery-drivers-2022-5?amp",
-      "publishedDateTime": "2022-05-22T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-nit-r-alumni-innovate-robotics-solution-for-underwater-inspections.md",
-      "title": "NIT-R alumni innovate robotics solution for underwater inspections",
-      "excerpt": "Classmates Debendra Pradhan and Biswajit Swain quit their plum jobs to launch a startup that has been providing customised solutions in the field of underwater robotics, writes Prasanjeet Sarkar",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.html",
-      "originalUrl": "https://www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/5/22/w600X390/alumni.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2022/may/22/nit-r-alumni-innovate-robotics-solution-for-underwater-inspections-2456557.amp",
-      "publishedDateTime": "2022-05-21T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

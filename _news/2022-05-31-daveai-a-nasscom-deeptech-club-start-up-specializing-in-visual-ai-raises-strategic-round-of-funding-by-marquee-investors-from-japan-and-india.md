@@ -18,21 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "OzTech: More investment on AI; WA improves data links; Tech Central’s $8M research fund; A/NZ software spending up; small businesses invest in tech again"
-    excerpt: "Australian spending on AI to reach $3.6B in 2025. Australia’s spending on AI systems will reach $3.6 billion by 2025, according to research firm IDC. Leading industries in AI sp"
-    publishedDateTime: 2022-05-29T17:00:00Z
-    webUrl: "https://www.computerworld.com/article/3662036/oztech-more-investment-on-ai-wa-improves-data-links-tech-central-s-8m-research-fund-a-nz-software-s.html"
-    ampWebUrl: "https://www.computerworld.com/article/3662036/oztech-more-investment-on-ai-wa-improves-data-links-tech-central-s-8m-research-fund-a-nz-software-s.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3662036/oztech-more-investment-on-ai-wa-improves-data-links-tech-central-s-8m-research-fund-a-nz-software-s.amp.html"
+  - title: "Arteria AI Announces Strategic Investment Co-Led by Citi SPRINT and BDC Capital"
+    excerpt: "Arteria AI, an award-winning global leader in enterprise digital documentation, today announced it has received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,"
+    publishedDateTime: 2022-06-01T08:54:00Z
+    webUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/"
+    ampWebUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 16
+      name: 01Net
+      domain: 01net.it
+    quality: 53
     images:
-      - url: "https://images.idgesg.net/images/article/2021/02/oztech-roundup-100876243-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Citi invests in document management spin out Arteria AI"
+    excerpt: "Arteria AI, a document and contract management spin out from Deloitte, has received investments from the strategic investing arm of Citi's Global Spread Products division, and Canada's BDC Capital."
+    publishedDateTime: 2022-06-01T10:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40366/citi-invests-in-document-management-spin-out-arteria-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/worktop-2.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "fcu3KCSDgMh3G9sFmrYse0BXrWqsZaVbL2KYhNHV6j40Yby7Iulow0TclwF2nQ24XeunvXlatmL8QoWTk3dkmMJP0WBgLuQjxeizUG2E4f02UG3aASBpW83pQRr71rvpeZyMJhMNo3vBOUSFSKU21R7ft2k6XDP7y7h6Iv4GBlGSrigdDhE5gaKXqVREaZJpbXLjFgeON7rCHBs0LQyLRlTbMktp8gkUHgGCzMhY24rnTT2qUgeIMIJPpbt+iUFY8ltOn3AiOD0BQduaKxxXK/7WPRKS0GlmdZbaAeBm2AeE52rLBLNPNRt64VPfHssoRwzKi5f+K6t0zEI8EGzejjl8L26kpj/75tcTOK5ry74=;QDbJyl+jBV3co/XLyuW1Fw=="

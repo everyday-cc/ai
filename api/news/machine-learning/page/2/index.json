@@ -745,6 +745,50 @@
       ]
     },
     {
+      "path": "_news/2022-05-19-too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet.md",
+      "title": "Too Little Too Late: Apple Reverses Remote Work Policy After Machine Learning Head Decamps to Alphabet",
+      "excerpt": "Well, this is awkward. One of Apple’s highest-profile return-to-office detractors reportedly landed a new gig at Alphabet’s DeepMind, marking the latest drama over Big Tech’s remote work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/1df6fad1a744c6167d22b8a2880b1d68.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/amp/",
+      "publishedDateTime": "2022-05-18T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-ucsf-study-combines-ai-chest-radiographs-to-map-out-health-concerns-expenses.md",
       "title": "UCSF Study Combines AI, Chest Radiographs to Map Out Health Concerns, Expenses",
       "excerpt": "Researchers using deep learning tools to analyze chest radiographs found that they could predict patient costs at one, three and five years and identify high-risk patients, enabling health ...",
@@ -1352,49 +1396,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-google-io-2022-googles-artificial-intelligence-and-machine-learning-breakthroughs-explained.md",
-      "title": "Google I/O 2022: Google’s artificial intelligence and machine learning breakthroughs, explained",
-      "excerpt": "... where a machine learning model only sees monolingual text – meaning, it learns to translate into another language without ever seeing an example. However, the company noted that the technology is not perfect and it would keep improving these models.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/",
-      "originalUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/05/google.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/google-io-conference-artificial-intelligence-machine-learning-tools-explained-7914867/lite/",
-      "publishedDateTime": "2022-05-12T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

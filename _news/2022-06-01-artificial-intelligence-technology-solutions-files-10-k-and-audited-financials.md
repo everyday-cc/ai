@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 638
         isCached: true
-  - title: "Firms Specialized in Financial Technology Reach More Borrowers using AI"
-    excerpt: "Some online lenders and watchers of the industry believe that the increase in consumer lending creates an opportunity for firms involved in financial technology to flourish by filling the gaps for borrowers who are underrepresented in the market."
-    publishedDateTime: 2022-05-27T23:50:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-27-firms-specialized-in-financial-technology-reach-more-borrowers-using-ai"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
 
 secured: "kN24cbTBCkPtZsRGkv+CiS5k9QzE5KAUHerTZnGrDLv4IR5M/hhC4onuOqYECK1itgvJ6kn+ZLBJM57CjIcODIqE4YFl4cNDYmEIfvOjcqJ0KbZAEbElMyYJ3NKa2mWEgwJOro0EZs17dQVyJHKBiijLxBciuQjhMiOQqIBAuaFZpgRj+6/VhN9A073edslJb6xnctn1CSrR4Mukeb1438j8o7lJxOfQWoWMSBm82ywAIS6lTWKtF9PeFsJtsf8UrBnlCQJ7pDFILQb6nmT3LE+GQCOhsCPydCrbIT+aZqfwN5umODAasCtRLWxxRKLZdP1zTwkt7MPaxBdU5lW+s9WO2JjycNRikUkPUyPCloY=;AhuddLjxcH1B5eXSAD8uYg=="
 ---
