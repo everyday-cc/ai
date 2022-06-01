@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "flatironhealth"
   url: "https://twitter.com/flatironhealth"
-  followers: 11034
+  followers: 11033
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -32,7 +32,7 @@ tags:
   - Cancer
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1412454596740517888/NxrxRAJW_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1532038566485716992/NTA6Gp0o_400x400.jpg"
     width: 400
     height: 400
     isCached: true
