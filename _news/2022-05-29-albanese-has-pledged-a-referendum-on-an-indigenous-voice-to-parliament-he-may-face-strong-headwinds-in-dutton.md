@@ -21,15 +21,15 @@ topics:
 related:
   - title: "Linda Burney urges Peter Dutton to back Voice to Parliament, says there is 'no shame' in growing on Indigenous recognition"
     excerpt: "Incoming Labor minister Linda Burney has urged Peter Dutton to end a decade of \"divisive\" politics and back a First Nations Voice to Parliament, saying there is \"no shame\" in growing on Indigenous recognition."
-    publishedDateTime: 2022-05-30T22:00:00Z
-    webUrl: "https://www.standard.net.au/story/7761607/no-shame-in-growing-burney-urges-dutton-to-back-voice-to-parliament/"
+    publishedDateTime: 2022-05-30T21:30:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7761607/no-shame-in-growing-burney-urges-dutton-to-back-voice-to-parliament/?cs=14264"
     type: article
     provider:
-      name: Warrnambool Standard
-      domain: standard.net.au
+      name: The Canberra Times
+      domain: canberratimes.com.au
     quality: 0
     images:
-      - url: "https://www.standard.net.au/images/transform/v1/crop/frm/139890989/3b71932f-68fa-4032-a61e-2d780eab7481.jpg/r0_162_5102_2841_w1200_h630_fmax.jpg"
+      - url: "https://www.canberratimes.com.au/images/transform/v1/crop/frm/139890989/3b71932f-68fa-4032-a61e-2d780eab7481.jpg/r0_162_5102_2841_w1200_h630_fmax.jpg"
         width: 1200
         height: 630
         isCached: true

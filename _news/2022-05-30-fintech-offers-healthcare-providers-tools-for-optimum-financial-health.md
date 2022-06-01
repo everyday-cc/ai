@@ -42,6 +42,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "24 Fintech Founders And Investors Make Forbes’ 30 Under 30 Asia 2022 List"
+    excerpt: "Forbes has released its annual 30 Under 30 Asia list, recognizing 300 young entrepreneurs, leaders and trailblazers in Asia Pacific (APAC), all under the age of 30, across 10 different categories."
+    publishedDateTime: 2022-06-01T08:00:00Z
+    webUrl: "https://fintechnews.sg/61552/fintech/24-fintech-founders-and-investors-make-forbes-30-under-30-asia-2022-list/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 23
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/05/24-Fintech-Founders-And-Investors-Make-Forbes-30-Under-30-Asia-2022-List.png?x82653"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Naspers Takes A R40 Million Bet On FinTech Platform Empowering Financial Advisers"
     excerpt: "Naspers (JO: NPNJn ), through its early-stage tech investment vehicle Naspers Foundry, announced a R40 million ($2.5 million) investment in LifeCheq, a FinTech platform empowering financial advisers to provide quality,"
     publishedDateTime: 2022-05-31T08:47:00Z

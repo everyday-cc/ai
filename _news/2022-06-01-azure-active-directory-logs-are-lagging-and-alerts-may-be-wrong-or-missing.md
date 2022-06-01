@@ -3,8 +3,8 @@ category: news
 title: "Azure Active Directory logs are lagging, and alerts may be wrong or missing"
 excerpt: "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,"
 publishedDateTime: 2022-06-01T06:54:00Z
-originalUrl: "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/"
-webUrl: "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/"
+originalUrl: "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/?td=amp-keepreading-top"
+webUrl: "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/?td=amp-keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 432
     isCached: true
 
-secured: "2TGdsNKyLCBO5H9CU3Jlajg7OdfO7yHUe6/Vr5xDu2f1zu643ZVqyH3f6mAlz9lzQxeK53UsemFZ7/Ktp/QNr3DnU7l91egmVzgGLVPzleAXWPG1nSH+QoGQEwk0nF7HB0JxOHe2ZZVzOl61DI8MR8+to39fmZo8os0s2OMfknxpgpKNigBog+qB1HDupjMOl6ISS8ipkZeHsJ44YaTxvI/AdE8S0BObVfDQ3RuTw+wOQmTGpJ0TXtkWXLVX9VpLNKslHy3bSyMZ1LP3aJmervupIQWME7tG84MMdcv/wFc9Q/CmIcpX91sAC0pq1+qMaAeFa3kudDkeh09BK6UmtXhFNQz4B3TegNUCf6Ry1Fw=;IEZRzcazj8hWUWZKEARHnA=="
+secured: "iBCNBpSzqCsI77ACSInaumZVVU8aW6guxoaORjH/+eOmZhEyB0IpY3uwc0V2HjDgw2vPbcHg5ry8ZEnRD2saBvCh91ZF2k4AuhGULBzSYycZkuZ5TFkFkPecFN2HMR+trfAAwFmnNLV6DCM4kYd0oIOZTrzh1RGyG85aom9sz818fsOPK69GEEDa0jjVqCqCx2YX1P9CT5miAr6KhGMG0Lx6yQvV28XEt32EhbdodypRVrJEhr1HZ4gD8FPdenTUcCAD9DV1owldwXoCkYRmW0FeK5C+dwqCyILmFzYzGG6pKXMs+Ba1KTEqmaadGWYH5b4JTwZ3ltsd5dF8lMm2OwWZNXAa872dlGz6AFZXNLo=;oFmb+SAkOd7B1Wi8wVVTQg=="
 ---
 

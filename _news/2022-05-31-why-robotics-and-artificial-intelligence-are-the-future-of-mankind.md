@@ -41,7 +41,7 @@ related:
     provider:
       name: Banyan Hill Publishing
       domain: banyanhill.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://cloudcollective.s3.us-east-1.amazonaws.com/shareableAssets/images/GuruSite/PaulMampilly/Robots1.jpg"
         width: 510

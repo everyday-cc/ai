@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2022/06/ai-ml-artificial-intelligence-m
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2022/06/ai-ml-artificial-intelligence-machine-learning-business-focus-platform-best-review/"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,33 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Standard Bank shows ‘it can be’ by using AI and analytics to improve customer service"
+    excerpt: "Africa’s largest financial institution, Standard Bank, is on a mission: to find ways to set itself apart so that the bank can meet its customer needs in today’s complex, ever-changing world. Operating in more than 20 countries in sub-Saharan Africa and globally,"
+    publishedDateTime: 2022-06-01T09:09:00Z
+    webUrl: "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/"
+    ampWebUrl: "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp"
+    cdnAmpWebUrl: "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 69
+    images:
+      - url: "https://dvqe78s2mxr8j.cloudfront.net/wp-content/uploads/2022/06/Standard-Bank_30-Baker-Street_Interior_2-1-820x389.jpg"
+        width: 820
+        height: 389
+        isCached: true
+  - title: "Global Footwear Retailer Camper Selects Invent Analytics for AI-Powered Omni-Channel Demand Forecasting"
+    excerpt: "Leading Spanish footwear retailer Camper partners with Invent Analytics to improve its omni-channel demand forecasting across its 400 stores, online channels, and e-commerce marketplaces. Invent Analytics,"
+    publishedDateTime: 2022-05-31T13:03:00Z
+    webUrl: "https://www.retaildive.com/press-release/20220531-global-footwear-retailer-camper-selects-invent-analytics-for-ai-powered-omn/"
+    type: article
+    provider:
+      name: Retail Dive
+      domain: retaildive.com
+    quality: 1
 
 secured: "M1bd7g/HWGj2MkwEzTTF7Gx4Y2nBIg8WDTfihhhdkZFOYKBn81NhKDMqowBK4XR3ftNNwfgcyZDpVRXRuPN4au+gfSH/iOP1iYPZAJN6bCESy0fDP9k3owocdPMaXkB8lViQnnSbep6s6pKsoNr9aiyXKRuZypxAnSdv5lJVF3M8sG7N+zVzopl211xTuhnQHPyJ0NDzJJchKOQH4XiCGdYTpNam7KFIUexmE5mM5NfeSZ1ucWr5mkVaPV9bmEGqzPfojpfit5gaNxewh9R58B8Ru7GuiwHf+MVPqmKsi5jeBmdxJc4eqDuhHUFqFX7jUWgcRgspZHwrz5zQ5uBc8LGESkhIgJ2zDoIErHO4Ddw=;kQV4NhnnwMq1rdHbKLd8xg=="
 ---

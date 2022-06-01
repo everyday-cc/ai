@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This search engine is basically Google but for facial recognition"
-    excerpt: "The new facial recognition tool, PimEyes, seems like something out of a science fiction movie. PimEyes is basically Google but for images of faces. You can upload a face to the website and it will ..."
-    publishedDateTime: 2022-05-27T16:52:00Z
-    webUrl: "https://knowtechie.com/pimeyes-is-a-facial-recognition-search-engine-scours-the-web-for-matching-images/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 19
 
 secured: "2ovAq7OfQEbRZyjg3c0P9xLsnPApi8R+J8ALdwavotAerdbWBTy2aWbNkUhkm11oKWQ2JBhcVDmxoMLSRmsSG3JQ1YW7EZZDIF1IleWsUi+VwU7MaCKMcdrzS9rOzSMADv43CNFbRjOAvnSdtn6tP5Z5H1DdVf6tSb4Nk/l2uwsrV3VNN8BD3I4YCjdrrpdlDgTf8gRqBquHogQVjdDZbPHooWWFJF9+RRSvpISwvNHI4fzfZMgli61ItHATx5Lma0mnQ6kGRAGZW3gkO7CGQ1XjwlKPwdI6sCVd2M+sFQc3oyTiPdwxDjGKhbf+dikwtrzTuBe1S5NGLd5702gyG8OWdF6ZtLgtoAbeX3rj/8R4FMsSVV2CPkfazn/Fk+duhwea6Yi6Ttc92XJwR2qr8VqkcFFCpdlTyn48m139aQQd2X85OU3lg+ZTC4kzvaCWkNmL4+MkhUAbp7sE5ibRm7dQRYfLpq9ivSd3Z7AaFkUX14vSu1FI/ZVh+59/BfG8ZUD1QRg9Pj3rig8xkTCbdg==;vgfonae0PQSbUthgxZsEGg=="
 ---

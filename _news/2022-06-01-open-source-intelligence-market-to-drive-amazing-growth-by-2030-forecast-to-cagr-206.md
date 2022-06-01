@@ -32,20 +32,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "Industrial Robotics Market to Garner US$ 16,847.6 million , Globally, by 2025 at 14.2% CAGR: The Insight Partners"
-    excerpt: "According to our latest market study on “Industrial Robotics Market Forecast to 2025 – Global Analysis – by Types, Function, and Industry,” the industrial"
-    publishedDateTime: 2022-05-27T15:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-to-garner-us-16847-6-million-globally-by-2025-at-14-2-cagr-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/7f4ec9939f599f648f7fa42abc737a63581e8ed8-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "At 20.80% CAGR, Heart Pump Device Market Size is Expected to Reach USD 6162.34 Bn by 2028 - Exclusive Report by Zion Market Research"
     excerpt: "As per Zion Market Research study, The global Heart Pump Device market was worth around USD 1983.10 billion in 2021 and is estimated"
     publishedDateTime: 2022-05-30T16:00:00Z

@@ -33,20 +33,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "Industrial Robotics Market to Garner US$ 16,847.6 million , Globally, by 2025 at 14.2% CAGR: The Insight Partners"
-    excerpt: "According to our latest market study on “Industrial Robotics Market Forecast to 2025 – Global Analysis – by Types, Function, and Industry,” the industrial"
-    publishedDateTime: 2022-05-27T15:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/industrial-robotics-market-to-garner-us-16847-6-million-globally-by-2025-at-14-2-cagr-the-insight-partners"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/7f4ec9939f599f648f7fa42abc737a63581e8ed8-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Open-Source Intelligence Market To Drive Amazing Growth By 2030 | Forecast to CAGR 20.6%"
     excerpt: "\"Open-Source Intelligence Market\"The North American OSINT market is driven by the rising penetration of smartphones and tablets.Market Scenario: The"
     publishedDateTime: 2022-05-31T22:50:00Z

@@ -23,17 +23,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "Medical Rehabilitation Robotics Market is expected to account for 36.9% of the total market share by 2031."
-    excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
-    publishedDateTime: 2022-05-30T10:56:00Z
-    webUrl: "https://www.fmiblog.com/2022/05/30/medical-rehabilitation-robotics-market-is-expected-to-account-for-36-9-of-the-total-market-share-by-2031/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 16
-
 secured: "/8p4JrcCRq62QYT5X7vuezYOfD770T8MaLEqEzdKSIC7iLDB3KD5aXgNDyIx4EHNXOeoUCIZ+7feUS02AjycK6nuthcFlUHv3ad8K447iumqNIO0b52q6iblhyB/g0A8OOa4PGrnheIOtIDzjBAl+ZDNnv2T61OCOUTksy7S8LzV4INOgdnv8u4l0p8BJqPuPrxlqm/QHy5Mb8yWUM+eyG5Jbl27y76jZ6cnn2R5BHKHerLaxsxWTB+yDweaTrTGs81xbzSvmodP1HZ3VYGOHDcXzKyBhxWNFzR0Zk95KYhNMppqk6dfjBhvSRoRiX7tm4RAwtbCMCHk7m1TQNSiLvFBSyEAxGCBT7yWgSBIee8=;MCPtbpdwyRUl3jlWdkl8UA=="
 ---
 

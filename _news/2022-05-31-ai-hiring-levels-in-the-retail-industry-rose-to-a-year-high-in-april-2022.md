@@ -18,17 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence (AI) apparel hiring levels dropped in April"
-    excerpt: "The proportion of apparel supply chain companies hiring for artificial intelligence (AI) related positions dropped in April, compared with the equivalent month last year, with 50% of the companies included in our analysis recruiting for at least one such ..."
-    publishedDateTime: 2022-05-31T11:00:00Z
-    webUrl: "https://www.just-style.com/features/ai-hiring-levels-in-the-apparel-industry-dropped-in-april-2022/"
+  - title: "How is robotics innovation progressing in the air force industry?"
+    excerpt: "Analysis of patent filings revealse the top companies for robotics related applications in the industry over the past year"
+    publishedDateTime: 2022-06-01T08:00:00Z
+    webUrl: "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/"
     type: article
     provider:
-      name: Companies
-      domain: just-style.com
-    quality: 52
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 69
     images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/27/2022/05/QJ8DH-1038x778.png"
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/05/il8Zm-1038x778.png"
         width: 1038
         height: 778
         isCached: true
@@ -60,6 +60,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "How Storage Is Driving The Future For The Auto Industry"
+    excerpt: "With vehicles becoming smarter and more connected, there are ways that memory and storage solutions providers can stay nimble and innovative in order to remain in the driver’s seat in a competitive automotive market."
+    publishedDateTime: 2022-05-31T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/31/how-storage-is-driving-the-future-for-the-auto-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "AI hiring levels in the automotive industry rose in April 2022"
     excerpt: "The proportion of automotive manufacturing and supply companies hiring for AI related positions rose significantly in April 2022 compared with the equivalent month last year, with 66.2% of the companies included in our analysis recruiting for at least one ..."
     publishedDateTime: 2022-05-30T17:59:00Z

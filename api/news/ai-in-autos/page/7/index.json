@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-29-it-doesnt-miss-a-trick-artificial-intelligence-beats-eight-world-champion-bridge-players-at-their-own-game.md",
+      "title": "It doesn't miss a trick! Artificial intelligence beats EIGHT world champion bridge players at their own game",
+      "excerpt": "But the Microsoft co-founder will be eating his words this week, following the news that an artificial intelligence ... including self-driving cars. 'As AI progresses, a central challenge is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10663209/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10663209/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/03/29/10/55943063-0-image-a-69_1648545333179.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10663209/amp/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10663209/amp/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
+      "publishedDateTime": "2022-03-29T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-artificial-intelligence-really-isnt-all-that-intelligent.md",
+      "title": "Artificial intelligence really isn’t all that intelligent",
+      "excerpt": "Narrow AI applications such as Google Search and Amazon Alexa are great at solving specific problems, but only as long as you stick to the script.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
+      "originalUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
+      "publishedDateTime": "2022-03-29T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-artificial-intelligence-beats-eight-world-champions-at-bridge.md",
       "title": "Artificial intelligence beats eight world champions at bridge",
       "excerpt": "Victory marks milestone for AI as bridge requires more human skills than other strategy games An artificial intelligence ... as health and engineering. Self-driving cars negotiating a junction ...",
@@ -1279,94 +1375,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-19-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
-      "title": "Here's how Americans view facial recognition and driverless cars",
-      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpbs.org/news/national/2022/03/18/heres-how-americans-view-facial-recognition-and-driverless-cars",
-      "originalUrl": "https://www.kpbs.org/news/national/2022/03/18/heres-how-americans-view-facial-recognition-and-driverless-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.kpbs.org/dims4/default/ab640a7/2147483647/strip/false/crop/3037x1594+0+342/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F03%2F18%2Fface-recognition.getty-431e74c0b0da8664c4ef6d5a7515f829ae18b917.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPBS",
-        "domain": "kpbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
-      "title": "Here's how Americans view facial recognition and driverless cars",
-      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
-      "originalUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/f6fb8c7/2147483647/strip/true/crop/3830x2359+0+257/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2018%2F03%2F29%2F2-copy-9fa3de93ec0c9713951c32b0a5d0b41a53a05646.jpg",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
-      "cdnAmpWebUrl": "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/news/2022-03-18/heres-how-americans-view-facial-recognition-and-driverless-cars?_amp=true",
-      "publishedDateTime": "2022-03-18T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLRN",
-        "domain": "wlrn.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

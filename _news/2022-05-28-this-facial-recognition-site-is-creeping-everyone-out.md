@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "This search engine is basically Google but for facial recognition"
-    excerpt: "The new facial recognition tool, PimEyes, seems like something out of a science fiction movie. PimEyes is basically Google but for images of faces. You can upload a face to the website and it will ..."
-    publishedDateTime: 2022-05-27T16:52:00Z
-    webUrl: "https://knowtechie.com/pimeyes-is-a-facial-recognition-search-engine-scours-the-web-for-matching-images/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 19
 
 secured: "KFJWsllOop3ZPBRp7fEV3fDNVpzjeJvMXBw/YSOFsEc5zDOGh+K9jmjlC4N30PowlHXLnj0I5HDuFA5Cqhvi4BI3EIu/zhXHJTLGdS5AkurKSEcwhFvvdpBI7f/FJ8SHYTGiMFbgTLp0HnGB/oYIj+Iqy8rBruBqP/XdrV4sql5X4MnQ5pRtfNI2VZiMCuH8kPTl6q1iK28ymep2J1VzsjFSis6IUzu8tImkmGgRxKiqCYjcRm9oM8wAH0iPj4tNg+TA3rqfyAsctfZ4k8rmSeYMI9RP2p+e8I4op7mn14vpdoQTqjL7cX5rm23AzY2NMRIAbs94Zy9eAf1reZhmhR1IumfpGnRFK/Uk4BWqW5bYleNHpaUvCs/mXLA7SvIYMh80XhN73BCiJUzBGZFjWDgr0eID8PMaE0FTqNy0zBQ+TbN4BtIXIL6ATXTIM20Fb5gVHw3OJ7T+xPpN0kkGhEuVbaAWLKr8Gvw3R6K2hIphtMrmyJpALjmOlN6LtJktfcV1lJEZgM0BFsloFKSQ+w==;cfb/y5v2y0aX73Sr5MPZ+g=="
 ---

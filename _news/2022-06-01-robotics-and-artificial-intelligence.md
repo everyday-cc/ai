@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-31T18:59:00Z
 originalUrl: "https://banyanhill.com/externals/bold-profits-daily/glossary/robotics-and-artificial-intelligence/"
 webUrl: "https://banyanhill.com/externals/bold-profits-daily/glossary/robotics-and-artificial-intelligence/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cloudcollective.s3.us-east-1.amazonaws.com/shareableAssets/images/GuruSite/PaulMampilly/Robots1.jpg"
@@ -90,6 +91,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XFmpuC6IWmsOnQaS+e6D3UGfdiTTwxcTUCVmvXQ8xbssqf3tS7/QEfM7f7aMrsenCAgkNxPSWZZOk6oOlfniVr08ELXzu49qCQpDKlmDulbPHSUFOhFzVnM/+Ir83g2NRj2VgxUQAd9/r0NnwrzfFCyrPEXYHH6W0LbRW4LW1i6B+WbyRHd/jmQvZhKOysdWbe0MNc/85fqCln7pRN8UiZInuQr9QmTSucE1O4kfLVgBdPEFsntFx1yeBVt3mS+hfKeqmLzwEpzGbgIL03hdt2fTKIM0DNWOBIdkdFuUA8CLeZDZ1rwtPU8PsOq/rzxSEbeYVSjQIrt3fAPJ+XEEFxl09BwKC98CK1JmwRI2Lrs=;PKdsWOB8I7msqL2neA4Mig=="
+secured: "hQGbUwDn61jKlvAFAAaryzKtxXni+qiHMLEaYbnrsfz9fz0PGoprzptKPdmWiy5gc1qRcQVEqHfxFVSDiNngtktB5lSuxCigv+P6AzY6Hfaz1VCPJ2E6YDzMpYf0AGZzjJXE3wUtVjVRIo1X4O/vrHrtiJubFMMYiMgrIlMIeT3xqdUKcdqiRXDCYP18AIec5fahJAhsWDPB3z3TwUAmjkbixhQhKcf6N634LH8QywKYgKVQLnhn/ih8nCnTR5sd7HmICCxIdvsyLx32gL0cxzdYMYRn8d69iucCiijzFrWQSLX+tdfpNfhxycX3Cy7BoQnJrUksxiadYbn0Rdbr63Ly46nNsntEbTkIeH4HTUdeNWHsBGNvSHG+lNujI+RTo4k3oSwAkyY1SKkhk5rUVJHyNaQHc74f6VuemJLR3o7lmGMB49W8JtbBRSliVDIp7eh+x+tn0De9kEA1tLEYTvHrYco12QKv3xUfS3J7nY7abk9Ph7ZuFvir2Nalq4jtXMFc49BaZqlY60MXBb9i6Q==;QJmQ5IXDXcJ9VZJTzJvpng=="
 ---
 

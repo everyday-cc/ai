@@ -2,6 +2,136 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-27-singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit.md",
+      "title": "Singapore touts need for AI transparency in launch of test toolkit",
+      "excerpt": "New pilot framework and toolkit will enable businesses to demonstrate their \"objective and verifiable\" use of artificial intelligence, says the Singapore government, which hopes to drive transparency in AI deployments through technical and process checks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "publishedDateTime": "2022-05-26T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-platinum-jubilee-ai-robot-paints-queens-portrait.md",
+      "title": "Platinum Jubilee: AI robot paints Queen's portrait",
+      "excerpt": "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B895/production/_124935274_mediaitem124935040.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp",
+      "publishedDateTime": "2022-05-26T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-simpleshow-explainer-videos-powered-by-artificial-intelligence.md",
+      "title": "simpleshow Explainer Videos Powered by Artificial Intelligence",
+      "excerpt": "We all know that artificial intelligence (AI) will have a significant impact on our future. In reality, we can see that AI is already operational in our daily lives and at work. Self-driving cars, vacuum cleaner robots, image analysis, and virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/",
+      "originalUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-26T20:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-tigergraph-launches-workbench-for-graph-neural-network-mlai-modeling.md",
       "title": "TigerGraph launches Workbench for graph neural network ML/AI modeling",
       "excerpt": "TigerGraph's ML Workbench should enable data scientists to build deep-learning AI models using connected data directly from the business.",
@@ -429,8 +559,8 @@
       "title": "Microsoft Build Conference Heralds Era of AI-Assisted Software Development",
       "excerpt": "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,",
       "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
+      "webUrl": "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1",
+      "originalUrl": "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -854,6 +984,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-26-baidu-announces-first-quarter-2022-results.md",
+      "title": "Baidu Announces First Quarter 2022 Results",
+      "excerpt": "(2) This represents Baidu's share of equity method investments for other non-GAAP reconciling items, amortization and impairment of intangible assets not on the investee's books, accretion of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/baidu-announces-first-quarter-2022-results",
+      "originalUrl": "https://www.asiaone.com/business/baidu-announces-first-quarter-2022-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/May2022/pr-newswire_500_4_1708.jpg?h=7de12b8a&itok=5Bf2P7z7",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey.md",
       "title": "Urban Indians want govt to invest in AI and other emerging techs: Survey",
       "excerpt": "The survey that explores the awareness levels about new technologies among Indians also highlights the other top technologies most urban Indians have heard “a lot about”. Those include cryptocurrency,",
@@ -988,196 +1161,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-fortindr-adds-network-detection-response-to-fortinet-security-fabric.md",
-      "title": "FortiNDR adds network detection, response to Fortinet Security Fabric",
-      "excerpt": "FortiNDR accelerates threat detection with artificial intelligence With the ... virtual security analyst (VSA), which employs deep neural networks – the next-generation of AI – and is designed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/6GxRKqYQ6ENqb3Wj",
-      "originalUrl": "https://www.itweb.co.za/content/6GxRKqYQ6ENqb3Wj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/jHrWB3nT2F4uggbnMwTC5aZ8MujuCdU93936VZkzwCmqLVQAWomcfxZA1c2nBgNpk9KZQ97FgdoFwokqttxbUTw=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/6GxRKqYQ6ENqb3Wj",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKqYQ6ENqb3Wj",
-      "publishedDateTime": "2022-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code.md",
-      "title": "Kyrgyzstan to King’s Cross: the star baker cooking up code",
-      "excerpt": "My day can vary, it really depends on which phase of the project I'm on. Let’s say we want to add a feature to our product – my tasks could range from designing solutions and working with the team to find the best one, to deploying new features into production and doing maintenance. Along the way, I’ll",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
-      "originalUrl": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628f550a5c25a7d58313bca8_aliyah-3.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent.md",
-      "title": "Report: 92% of HR leaders plan on using AI to acquire talent",
-      "excerpt": "Armed with valuable data insights, HR leaders can use AI to augment their processes and build a future of work that's intelligent by design.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/",
-      "originalUrl": "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/amp/",
-      "publishedDateTime": "2022-05-25T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-backlash-over-law-that-would-let-gardai-use-facial-recognition-technology.md",
-      "title": "Backlash over law that would let gardai use facial recognition technology",
-      "excerpt": "The justice minister has come under pressure to explain the nature of legislation that would allow gardai to use facial recognition technology (FRT).Helen McEnt",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t",
-      "originalUrl": "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9bdafcf6-dc48-11ec-bcbd-e35b52e0266c.jpg?crop=2950%2C1660%2C0%2C154&resize=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

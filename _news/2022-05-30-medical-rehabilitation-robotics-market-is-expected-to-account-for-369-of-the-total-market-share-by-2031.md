@@ -19,17 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "AI in Drug Discovery Market Projected to Garner Significant Revenues by 2031 -end"
-    excerpt: "Introduction. According to the report, the global AI in drug discovery market was valued at US$ 0.35 Bn in 2020 and is projected to expand at a CAGR o"
-    publishedDateTime: 2022-05-30T10:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-projected-to-garner-significant-revenues-by-2031-end"
+  - title: "Medical Robots Market Size To Grow USD 22.68 Bn By 2027"
+    excerpt: "As per our research report, the size of the global medical robots market was worth USD 8.71 billion in 2022 and is estimated to be growing at a CAGR of"
+    publishedDateTime: 2022-06-01T09:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/medical-robots-market-size-to-grow-usd-22-68-bn-by-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 32
+    quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
         width: 600
         height: 337
         isCached: true

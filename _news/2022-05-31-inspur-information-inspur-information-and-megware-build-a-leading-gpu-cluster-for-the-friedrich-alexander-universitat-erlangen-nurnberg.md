@@ -20,8 +20,8 @@ topics:
 
 related:
   - title: "Inspur Information and MEGWARE Build a Leading GPU Cluster for the Friedrich-Alexander-Universität Erlangen-Nürnberg"
-    excerpt: "Inspur information, a leading IT infrastructure solutions provider, and MEGWARE, a high-performance computing (HPC) solutions provider in Europe, combined efforts to bolster the scientific research capabilities of the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) through its Erlangen National Center for High-Performance Computing (NHR@FAU)."
-    publishedDateTime: 2022-05-31T07:10:00Z
+    excerpt: "Inspur GPU servers are widely used in image recognition ... Inspur has been a top performer in MLPerf, a world-leading AI Benchmark suite, receiving 91 top rankings in single node performance ..."
+    publishedDateTime: 2022-05-31T07:23:00Z
     webUrl: "https://www.joplinglobe.com/region/national_business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_20f34a99-6b6d-50d6-92f4-2b488cb538ae.html"
     type: article
     provider:

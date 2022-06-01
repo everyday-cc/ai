@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Chinese researchers say they have developed AI to predict course of hypersonic missiles"
+    excerpt: "Scientists from the Air Force Early Warning Academy say the technology can foresee the course of glide weapons travelling at more than five times the speed of sound. The world’s leading powers are racing to develop hypersonic weapons and it is thought that existing technology will not be able to stop them."
+    publishedDateTime: 2022-06-01T09:20:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/01/chinese-researchers-say-they-have-developed-ai-to-predict-course-of-hypersonic-missiles"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 29
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/01/1606755.jpg"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "IIT Kharagpur researchers predict crystal properties through AI-assisted machine learning"
     excerpt: "Machine learning algorithms are data-intensive which involves large amounts of data from the source materials labelled with property labels to accurately predict properties of new crystals, a spokesperson of IIT Kharagpur said on Tuesday."
     publishedDateTime: 2022-05-31T12:14:00Z

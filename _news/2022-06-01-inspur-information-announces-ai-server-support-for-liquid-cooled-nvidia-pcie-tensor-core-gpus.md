@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Inspur Information Announces AI Server Support for Liquid-Cooled NVIDIA PCIe Tensor Core GPUs"
-excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced at ISC 2022 that it will be among the first to support the recently announced liquid-cooled NVIDIA A100 and H100 PCle Tensor Core GPUs."
-publishedDateTime: 2022-06-01T07:10:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/inspur-information-announces-ai-server-support-for-liquid-cooled-nvidia-pcie-tensor-core-gpus/article_ae86afd2-9734-514b-a2fc-d56e9ed5693b.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/inspur-information-announces-ai-server-support-for-liquid-cooled-nvidia-pcie-tensor-core-gpus/article_ae86afd2-9734-514b-a2fc-d56e9ed5693b.html"
+excerpt: "Liquid-cooled GPUs provide improved performance, efficiency, and environmental sustainability HAMBURG, Germany--(BUSINESS WIRE)--Inspur Information, a"
+publishedDateTime: 2022-06-01T08:54:00Z
+originalUrl: "https://www.01net.it/inspur-information-announces-ai-server-support-for-liquid-cooled-nvidia-pcie-tensor-core-gpus/"
+webUrl: "https://www.01net.it/inspur-information-announces-ai-server-support-for-liquid-cooled-nvidia-pcie-tensor-core-gpus/"
+ampWebUrl: "https://www.01net.it/inspur-information-announces-ai-server-support-for-liquid-cooled-nvidia-pcie-tensor-core-gpus/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/inspur-information-announces-ai-server-support-for-liquid-cooled-nvidia-pcie-tensor-core-gpus/amp/"
 type: article
-quality: 26
-heat: 26
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
-    width: 415
-    height: 539
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
-secured: "7d1ZPN7iXxLLK6tBnBpOeOeSpOUYb5HCERURaUIti8Nj+moI68wTGpe7Ia2EiMYTgy6qj6y1jwVCNK/uRWJjahjgmKel4HDFcvp/C/0SKZCn+yq8hY9o1CEedzECnEE1F+SutvydPV3XYAWTqzb/l309y+sE3ED63WGKQ1Q6Rn+HpvFi73ogusQnWt11afIYCCk5fG5BAjKcvXlWOTC/eBCx+maCudBgV/eIjkjWGVEwxy8TmZWyob40yXLSfrXLyRs5AUjETEQExmt6lY9D6RPHGdZTEcJ7YTmJNZmuJe1ShjSDHS6/PKITqMReRrjgMtAC2MZmpe9fUF2emHACvXng+u4FSUfNBxS4HrVyX7c=;K2OjWTdnvvoJhw/5M//u/Q=="
+secured: "6ex7gIcn8APp3lEB1MYSw33f1cNoJvfklfqEAHwYx1NX+VYRxZp4ZZ19zQJXwCcP5kDFn6c6QDqstrzuqPWsaDR9f7gazmdSIFKpSvcay7EjDZ2x25tRi/iWYT8yJoCs/8xQXRxLgSsRrVbVeVrppvOz1HqE6eSJLU3gSbmzxSsLsybB8+t8EA68NAxpPLP5WaOFv1KWyDCWFRqwlmwdvOGdlExRF+rGf9QGUeCNT9fSAdoJ2ZrOsd6i5q6ymcmFP0Dc/MagTGpfIy6O+g73CctJHEEvIP9uUiXh2RxIQ+rX+K4tHUUqeblTzLX9lF20wCpdY9c+nlt0jK9Wqzi354IwE5MI3XXH/pByzb02HNc=;Do5SeWoDg2iK2EO6Tk+rKA=="
 ---
 

@@ -27,14 +27,14 @@ related:
   - title: "Val Kilmer's voice recreated with AI technology"
     excerpt: "Val Kilmer's voice was recreated by start-up firm Sonantic using AI technology for his role in 'Top Gun: Maverick'."
     publishedDateTime: 2022-05-31T13:19:00Z
-    webUrl: "https://www.insidenova.com/lifestyles/entertainment/val-kilmers-voice-recreated-with-ai-technology/article_531dc08d-4c5e-52dc-ac34-b3ca1db6e0cb.html"
+    webUrl: "https://www.wfmz.com/entertainment/val-kilmers-voice-recreated-with-ai-technology/article_7a1f3046-fcbd-5525-9ba7-90d178b9a458.html"
     type: article
     provider:
-      name: INSIDENOVA.COM
-      domain: insidenova.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/f/60/f60591f5-b25a-5d38-8f12-9cef054327bf/6295f1b945479.image.jpg?crop=1000%2C525%2C0%2C62&resize=1000%2C525&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/11/6115aab8-d32f-5628-8d26-b7b50a20e559/6295f1d4b0a87.image.jpg?crop=1000%2C525%2C0%2C62&resize=1000%2C525&order=crop%2Cresize"
         width: 1000
         height: 525
         isCached: true

@@ -165,6 +165,20 @@ related:
         width: 635
         height: 460
         isCached: true
+  - title: "Nabd launches AI-powered personalized email newsletters"
+    excerpt: "Dubai: Nabd, the largest Arabic aggregator app and platform, is excited to announce the launch of its new Personalized Email Newsletter product, which provides opted-in subscribers a personalized daily news digest,"
+    publishedDateTime: 2022-06-01T09:12:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/nabd-launches-ai-powered-personalized-email-newsletters-pvt3302u"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 37
+    images:
+      - url: "https://static.zawya.com/version/c:MjMxODA3OWUtZjAwOC00:YWM5YTc3/picture1-jpg.jpg"
+        width: 900
+        height: 650
+        isCached: true
   - title: "Google Assistant might soon recognize your voice even better"
     excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android"
     publishedDateTime: 2022-05-29T14:14:00Z

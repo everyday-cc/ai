@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-a
 webUrl: "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "California DMV said it would investigate Tesla over self-driving claims. Then, crickets"
-    excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly ..."
-    publishedDateTime: 2022-05-27T15:26:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-707875"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 26
   - title: "California DMV said it would investigate Tesla over self-driving claims. Then, crickets"
     excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city and ..."
     publishedDateTime: 2022-05-27T17:41:00Z

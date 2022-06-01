@@ -38,6 +38,22 @@ related:
         width: 1600
         height: 1111
         isCached: true
+  - title: "Arteria AI Announces Strategic Investment Co-Led by Citi SPRINT and BDC Capital"
+    excerpt: "Arteria AI, an award-winning global leader in enterprise digital documentation, today announced it has received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,"
+    publishedDateTime: 2022-06-01T08:54:00Z
+    webUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/"
+    ampWebUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 53
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
 
 secured: "MyF8FPZ+sZQazzHdpCjastAElF/wyuBOKVG9qySYCdEvNN7Rgqgc1LHnUYqHowEJh5aoVujX8yQkqlTwXCEzqJuKddTu6CT5PYR9Re/r4BjqYAJt06KAaoe8VhgDM47oFa7UUEl3XIUFCn0Df9VkHKTpcQkwtIhsrLPR+ZxxRMBNvGHxUihvpQ+pNXptAuVaNaDOuK+YLgOgnUvceC1UXDIKfVyufgNd64foOVWAZAdiL9QwTIUWfsbb40uV2lCX1UT9kg4vHGveIFY544NfuAvs2NPyXx1WS6e6JZR/Kftul4sjB7/6ypwGgkWzJs1sM0Q9gV8lRdUnPnGR0ouAG5BGJqxxJITqNN7zfc1S9+M=;X849ycSp4ZejetMH5QYA1w=="
 ---

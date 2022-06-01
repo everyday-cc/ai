@@ -3,22 +3,22 @@ category: news
 title: "Val Kilmer's voice recreated with AI technology"
 excerpt: "Val Kilmer's voice was recreated by start-up firm Sonantic using AI technology for his role in 'Top Gun: Maverick'."
 publishedDateTime: 2022-05-31T13:19:00Z
-originalUrl: "https://www.insidenova.com/lifestyles/entertainment/val-kilmers-voice-recreated-with-ai-technology/article_531dc08d-4c5e-52dc-ac34-b3ca1db6e0cb.html"
-webUrl: "https://www.insidenova.com/lifestyles/entertainment/val-kilmers-voice-recreated-with-ai-technology/article_531dc08d-4c5e-52dc-ac34-b3ca1db6e0cb.html"
+originalUrl: "https://www.wfmz.com/entertainment/val-kilmers-voice-recreated-with-ai-technology/article_7a1f3046-fcbd-5525-9ba7-90d178b9a458.html"
+webUrl: "https://www.wfmz.com/entertainment/val-kilmers-voice-recreated-with-ai-technology/article_7a1f3046-fcbd-5525-9ba7-90d178b9a458.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: INSIDENOVA.COM
-  domain: insidenova.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/f/60/f60591f5-b25a-5d38-8f12-9cef054327bf/6295f1b945479.image.jpg?crop=1000%2C525%2C0%2C62&resize=1000%2C525&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/11/6115aab8-d32f-5628-8d26-b7b50a20e559/6295f1d4b0a87.image.jpg?crop=1000%2C525%2C0%2C62&resize=1000%2C525&order=crop%2Cresize"
     width: 1000
     height: 525
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 646
         isCached: true
 
-secured: "dm0Ql7d1bKqfreKmm4fpuigGUw65vW7C5T31IDZD4uYsa7ffGASKVL0txHtS0HtA4bX/kuDJ5tAC0zR/zNYkx2M3Jg5behVm50KK7agXUtTX7roIvZpkckna8zl8C6YwdF0onoh9Oc+TfhhTcQV5anxgq9IOoxh0664zEdhMa8rIWqe/jfiaUEroXnz5Zj9yk9yl3mHPnIgmXE6BCp2qTdGvEP1CFe3l+LIlg5xg5TNZzgsCgXTv/kBZs8RclrQtCm8qDiKlA853vqRGcdVGHNPFqFIbIbJ5ypTfMlt6P++aIFaovVKuQFbSCg6qHd/Sc5axFE9vpPA6Pdm4f8PHf8zho+RGQJdc2Y7mIMKW/ww=;rVImLUfLdbDDGNsMfwis0Q=="
+secured: "EdrI9CuxPziVNlXh3mZIeCdgDL+/z+lVCy7PdQ4ApIp6OcaAt5VFUiF7ZJeZvs7ofu47cVMgRzAjzYk8W2XQ1vH9gSvD28ltgLNZJ46bGDP9yHinY530JQgyATIAvfQIm8B4bDx8BhY2VK62stPtAGw+QGWVDradfwiVEX8wvLqAcRAUPDbt/Ewl+kfSu4pEQXOeVzgtdebnbt6SQfNurkxiYU7bM+F+PDWOm2bD/s2vK34F4Yxq/2hsFTciG7PGMIHqSnbqpxPl/7MsSsqy6Fdo54Y3/iEc5N5dThoVznF2uecfEA0h2W6f2TUZ3DmxCVJ09tlAT8wO+tGAzvqt1KXg1koEgj0U6WxTv1CvcrU=;CjrP2aubyaISmG3PIHwxXQ=="
 ---
 

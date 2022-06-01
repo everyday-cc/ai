@@ -1,33 +1,28 @@
 ---
 category: news
 title: "AskBrian Launched a New AI Technology for Qualitative Content Generation Reshaping the Way Consultants and Business Professionals Work"
-excerpt: "AskBrian, one of the most innovative machine learning startups in Germany, launched a new content automation skill for its AI assistant, Brian, to boost productivity and reshape how business professio"
-publishedDateTime: 2022-06-01T07:58:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56201653-askbrian-launched-a-new-ai-technology-for-qualitative-content-generation-reshaping-the-way-consultants-and-business-professionals-work-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56201653-askbrian-launched-a-new-ai-technology-for-qualitative-content-generation-reshaping-the-way-consultants-and-business-professionals-work-004.htm"
+excerpt: "AskBrian, one of the most innovative machine learning startups in Germany, launched a new content automation skill for its AI assistant, Brian, to boost productivity and reshape how business professionals work. The feature is powered by GPT-3, an advanced ..."
+publishedDateTime: 2022-06-01T08:08:00Z
+originalUrl: "https://www.eagletribune.com/region/askbrian-launched-a-new-ai-technology-for-qualitative-content-generation-reshaping-the-way-consultants-and/article_298526de-2c3f-5c83-b46e-f82f818bf46d.html"
+webUrl: "https://www.eagletribune.com/region/askbrian-launched-a-new-ai-technology-for-qualitative-content-generation-reshaping-the-way-consultants-and/article_298526de-2c3f-5c83-b46e-f82f818bf46d.html"
 type: article
-quality: 0
-heat: -1
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI
 
-related:
-  - title: "FPT Software Formed New Business Alliance with Landing AI, Promoting Visual Inspection Technology"
-    excerpt: "Vietnam's leading IT firm, FPT Software, has recently entered a strategic partnership with Silicon Valley AI and machine vision leader Landing AI. Both companies will tap into their Artificial Intelli"
-    publishedDateTime: 2022-05-30T08:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/b27460278/fpt-software-formed-new-business-alliance-with-landing-ai-promoting-visual-inspection-technology"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/e0/1e0d10c8-a977-55a4-9903-c28fffb589d1/62971d9d873c0.image.jpg?crop=1737%2C912%2C0%2C140&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "GyoJ2EF7Z926Qo29xhEYLnY2n3ytQ6+jtFRZb+grMR2PK0/VYwgZXv5SxTokmmBcz6Mkk85g6Ypc3SjRveWNEv+3DcV1C4N1aGqEG7++KRD5/ugXOPKrstrMpXi+TwsG62SmPQHN82Wei6viL1njSqUNwp1KU5C37ercBmgp4U0DEF2daYjEqEbDG37De5aPsx38L4fLuvIcF26+w+9ppvjrnxbOW9GYfC3KCJo8HPIdbOLE9Cp+Bu5YGI5jL/zFvTRU7neSWrce38QUH8pavQBRSYyS/40Xytp2avAmzutS//3is7PHo+G6E1/nTQ4ZQoTSrvt9nuy84K5KjajnzYz23lm5Co7aYxKylWrSpgM=;/cQmwxcu4vtjfovx+3JB9w=="
+secured: "J6ksEEgpYx2tVaos9RaoqlBaA3LDngYqibpwZi6QnnLY8xJMpzhBifKSLy/0Th9w8aBRwzXGKApkCjtU9RCdOC7N8qZFxUfXIzhm3ahP2zsrzWbRNPNvFvfcbhRx0NphjjbgSQsB9VlNwv0mXkhejpSvGLpcQytsYMNfh6hjxSjRPHzaCEoS2fxQMSvOiSou7YUtJuPeDJAj5P9pvIbfme8hkLzHqap0rjCTC5Jkh2KZfJRrq/zr+8AbcGx5KPLfij2WqqQHnJJoVdzZ9rVqyv5qFW8kl0LB3t5Iw+WpolRG2GQJsKWJLX+zqTtlnoQRZ5vLO7L2PIG1kC6IQElpW5eAXoiMtptmh6bdM2WdZAQ=;atMx7u0dHbc0srdbFbPYzw=="
 ---
 

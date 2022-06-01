@@ -2,28 +2,28 @@
 category: news
 title: "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements"
 excerpt: "Photon Commerce, the leader in artificial intelligence for fintech, today announced a strategic collaboration with Identifee, the connected platform for financial services, to enable banks to instantly digitize,"
-publishedDateTime: 2022-06-01T05:41:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-financial-services-98d409aee15c496ebf7790cdd51ad16a"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-financial-services-98d409aee15c496ebf7790cdd51ad16a"
+publishedDateTime: 2022-06-01T08:41:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=672613"
+webUrl: "https://us.acrofan.com/detail.php?number=672613"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
-secured: "tdQazVyrUR4rJUsQmuADuAgvQA2ZcSFPf0l6Pykv5iEqW7uGjkb4iiANnkiPiJbQ6SVRX4T5TCZEl8mH8AHIniEWPhHC/QS7Pq9by3bmZoCOtEmc29BBvB9VFZEsOdmqg6T4Xu+wcrrurwumjbvF9aJLNypPle8Ju0yoVOEfJXAw95pgY2AjTEUSQiLv/c5EzdmNK3u+8UnQy9bpxGZi5rBShsZdfb6EQ3A3inb6KnMyDboXCLyoap0PDra8c4Gwulsdimp+HitQZPZF/JsTBiCCwwMsBq04qjyfzTgG/YJ5kTTX0xdL8UOilqqyrf7NL4x/hh7q23tCcIk+AwyO/WStMStHvTubAIUJO7RA8fw=;v0c/wF85F/uhwzmMtlH7kg=="
+secured: "kkIAgrjQ6S8bYBbu5K1BCYGzH5/2QtQRSFr623XaHyyxyOTW2CFU0e8AThFt45OJIZ865tY1OtkSKNWH1V5df/frgva3U2iHzM73ZObKQA5OxWTbK0ttDmGpzydbHyXb8kXajW6prm/ClS5w9q7ecIlLS2qka/1mFK1txPq8WsG4lC/sbJhRvIedYmcLaK6BrADB8C8o8atKzAaCUoHyF3/Zv/s7f+5q5G13H9XxyQhpPyCzcx9sZhuce/+pe9KyFS4DF7zIVsEYvYqUChV/JAgB4O8MJk/FceISeE597feSNRBaOlmKWvioTdTILHD9KD/YoVEHrtPcepAq6OqA/cYgUleEqBuNAWQ5Ovy4OgI=;XQnn0M/1R1KLjY2oEfrYJw=="
 ---
 

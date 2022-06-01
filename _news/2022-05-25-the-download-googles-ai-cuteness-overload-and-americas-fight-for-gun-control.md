@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "The Download: Driverless cars’ AI plan, and stretching cells with a robotic shoulder"

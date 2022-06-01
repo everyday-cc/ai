@@ -2,6 +2,128 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-21-iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers.md",
+      "title": "IoT Pioneer Ayla Networks Builds Machine Learning Business Targetting Internet Service Providers",
+      "excerpt": "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
+      "originalUrl": "https://www.networkworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/nww/nww_logo_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-21T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-intuit-ceo-on-the-power-of-machine-learning-for-small-businesses.md",
+      "title": "Intuit CEO on the Power of Machine Learning for Small Businesses",
+      "excerpt": "CEO Sasan Goodarzi talks about the many applications and capabilities of machine learning. Sasan Goodarzi: We apply machine learning to everything that I know about you. How many accounts payables do you have?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses",
+      "originalUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses?amp",
+      "publishedDateTime": "2022-01-21T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-20-zenoss-names-blair-duncan-chief-financial-officer.md",
+      "title": "Zenoss Names Blair Duncan Chief Financial Officer",
+      "excerpt": "Zenoss Inc., a leader in AI-driven full-stack monitoring, today announced Blair Duncan as the company’s new chief financial officer. Duncan is a seasoned executive with more than 25 years of experience leading finance organizations and driving strategy at high-growth companies.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/business-texas-austin-f7050ea5c6564e43ba009aebeb3d0198",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/business-texas-austin-f7050ea5c6564e43ba009aebeb3d0198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-20T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers.md",
       "title": "Loans Canada and Even Financial Announce Strategic Partnership to Help Canadian Borrowers",
       "excerpt": "Even Financial (\"Even\"), the category-leading embedded finance marketplace, and LoansCanada.ca (\"Loans Canada\"),",
@@ -1227,135 +1349,6 @@
       "provider": {
         "name": "Insurancenewsnet.com",
         "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-3-soaring-fintech-stocks-that-could-rocket-higher-in-2022.md",
-      "title": "3 Soaring Fintech Stocks That Could Rocket Higher in 2022",
-      "excerpt": "Now that 2021's come to a close, it's time to look back at the best-performing fintech stocks to see if they have what it takes to keep climbing. Global-E Online (NASDAQ:GLBE), Up",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/659497/couple-looking-at-stocks-on-tablet-getty.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-modern-age-cards-through-modern-age-ai-uni-cards-to-deploy-scienaptic-ai-powered-credit-decisioning-platform.md",
-      "title": "Modern Age Cards Through Modern Age AI: Uni Cards to Deploy Scienaptic AI-Powered Credit Decisioning Platform",
-      "excerpt": "Scienaptic AI, a leading global AI-powered credit decision platform provider, announced the deployment of its technology for Uni Cards. This implementation will enable Uni Cards to expand credit access in India by providing instant decisions to applicants and an efficient process that redefines the way credit is consumed in India.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-india-24bcebc98ee84622971f6cfdcde63550",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-india-24bcebc98ee84622971f6cfdcde63550",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-01-mitsubishi-ufj-financial-group-inc-mufg-stock-trading-around-544-per-share-whats-next.md",
-      "title": "Mitsubishi UFJ Financial Group Inc. [MUFG] Stock trading around $5.44 per share: What’s Next?",
-      "excerpt": "Mitsubishi UFJ Financial Group Inc. loss -1.09% or... Mitsubishi UFJ Financial Group Inc. [NYSE: MUFG] loss -1.09% or -0.06 points to close at $5.44 with a heavy trading volume of 2198921 shares. The company report on December 7,",
-      "sourceUrl": null,
-      "webUrl": "https://dbtnews.com/2021/12/31/mitsubishi-ufj-financial-group-inc-mufg-stock-trading-around-5-44-per-share-whats-next/",
-      "originalUrl": "https://dbtnews.com/2021/12/31/mitsubishi-ufj-financial-group-inc-mufg-stock-trading-around-5-44-per-share-whats-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-31T15:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbtnews",
-        "domain": "dbtnews.com",
         "images": null,
         "publishers": null,
         "authors": null

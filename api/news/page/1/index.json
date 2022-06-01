@@ -2,6 +2,136 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-01-standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service.md",
+      "title": "Standard Bank shows ‘it can be’ by using AI and analytics to improve customer service",
+      "excerpt": "Africa’s largest financial institution, Standard Bank, is on a mission: to find ways to set itself apart so that the bank can meet its customer needs in today’s complex, ever-changing world. Operating in more than 20 countries in sub-Saharan Africa and globally,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/",
+      "originalUrl": "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dvqe78s2mxr8j.cloudfront.net/wp-content/uploads/2022/06/Standard-Bank_30-Baker-Street_Interior_2-1-820x389.jpg",
+          "width": 820,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp",
+      "cdnAmpWebUrl": "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp",
+      "publishedDateTime": "2022-06-01T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC Africa",
+        "domain": "cnbcafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-how-is-robotics-innovation-progressing-in-the-air-force-industry.md",
+      "title": "How is robotics innovation progressing in the air force industry?",
+      "excerpt": "Analysis of patent filings revealse the top companies for robotics related applications in the industry over the past year",
+      "sourceUrl": null,
+      "webUrl": "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/",
+      "originalUrl": "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/05/il8Zm-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Airforce Technology",
+        "domain": "airforce-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-deloitte-spin-out-arteria-ai-bags-investment-from-citi-bank.md",
+      "title": "Deloitte Spin-Out Arteria AI Bags Investment from Citi Bank",
+      "excerpt": "Arteria AI, the digital documentation startup that span out of Deloitte, has received an undisclosed investment from Citi SPRINT (Spread Products Investment Technologies), the strategic investing",
+      "sourceUrl": null,
+      "webUrl": "https://www.artificiallawyer.com/2022/06/01/deloitte-spin-out-arteria-ai-bags-investment-from-citi-bank/",
+      "originalUrl": "https://www.artificiallawyer.com/2022/06/01/deloitte-spin-out-arteria-ai-bags-investment-from-citi-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.artificiallawyer.com/wp-content/uploads/2022/06/Screenshot-2022-06-01-at-07.46.53.png",
+          "width": 1600,
+          "height": 1111,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "artificiallawyer.com",
+        "domain": "artificiallawyer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-ai-ethics-what-it-is-and-why-it-matters.md",
       "title": "AI Ethics: What It Is And Why It Matters",
       "excerpt": "As AI proliferates, and governments attempt to catch up in structure and law to the fast growing technology, AI Ethics has emerged as a critical topic that everyone should be aware of.",
@@ -218,7 +348,7 @@
       "originalUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -356,7 +486,7 @@
       "originalUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -883,48 +1013,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-31-artificial-intelligence-ai-apparel-hiring-levels-dropped-in-april.md",
-      "title": "Artificial intelligence (AI) apparel hiring levels dropped in April",
-      "excerpt": "The proportion of apparel supply chain companies hiring for artificial intelligence (AI) related positions dropped in April, compared with the equivalent month last year, with 50% of the companies included in our analysis recruiting for at least one such ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-style.com/features/ai-hiring-levels-in-the-apparel-industry-dropped-in-april-2022/",
-      "originalUrl": "https://www.just-style.com/features/ai-hiring-levels-in-the-apparel-industry-dropped-in-april-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-style.com/wp-content/uploads/sites/27/2022/05/QJ8DH-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Companies",
-        "domain": "just-style.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-31-scotiabanks-perspectives-on-aiml-governance-and-future.md",
       "title": "Scotiabank’s Perspectives On AI/ML Governance And Future",
       "excerpt": "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank. This blog focuses on AI Governance and Future views of Scotiabank's AI and ML practices.",
@@ -1111,110 +1199,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research.md",
-      "title": "Nvidia’s AI-powered supercomputers advance nuclear fusion research",
-      "excerpt": "At the International Supercomputing Conference in Germany, Nvidia has detailed how its latest HPC systems work. Including how it is using the Nvidia Omniverse simulation platform to accelerate the design and development of a full-scale fusion reactor.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/",
-      "originalUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1283648497-e1653671703268.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/",
-      "publishedDateTime": "2022-05-30T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-the-rise-of-ai-is-pushing-patent-laws-to-their-limits.md",
-      "title": "The rise of AI is pushing patent laws to their limits",
-      "excerpt": "It was a machine learning program. One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence (AI) in Arthur C Clarke’s classic 2001: A Space Odyssey.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits",
-      "originalUrl": "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

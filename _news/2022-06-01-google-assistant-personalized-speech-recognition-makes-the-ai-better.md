@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2022/05/google-assistant-personaliz
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
       - url: "https://campaignme.com/wp-content/uploads/2022/06/Picture1.png"
         width: 635
         height: 460
+        isCached: true
+  - title: "Nabd launches AI-powered personalized email newsletters"
+    excerpt: "Dubai: Nabd, the largest Arabic aggregator app and platform, is excited to announce the launch of its new Personalized Email Newsletter product, which provides opted-in subscribers a personalized daily news digest,"
+    publishedDateTime: 2022-06-01T09:12:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/nabd-launches-ai-powered-personalized-email-newsletters-pvt3302u"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 37
+    images:
+      - url: "https://static.zawya.com/version/c:MjMxODA3OWUtZjAwOC00:YWM5YTc3/picture1-jpg.jpg"
+        width: 900
+        height: 650
         isCached: true
   - title: "Google Assistant could soon learn to recognize your voice"
     excerpt: "Code found on the Google app indicates that Google is working on having Google Assistant recognize your voice."

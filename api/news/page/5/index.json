@@ -2,6 +2,195 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-25-ai-research-lab-inspired-by-computers-internal-components.md",
+      "title": "AI research lab inspired by computer's internal components",
+      "excerpt": "Construction work is currently underway on a new artificial intelligence research laboratory designed by PLP Architecture. Located in Shanghai, China, the building's overall form is inspired by a computer motherboard and CPU.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/",
+      "originalUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/2984bc6/2147483647/strip/true/crop/2082x1388+209+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F38%2F9e43eadd4eed81fc9047bdbc62d8%2F1742-n51.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/?amp=true",
+      "publishedDateTime": "2022-05-25T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-how-to-successfully-lead-change-management-in-finance-ai-adoption.md",
+      "title": "How To Successfully Lead Change Management In Finance AI Adoption",
+      "excerpt": "Change can be incredibly positive. Change builds resilience, opens us up to new perspectives and creates opportunities we never saw coming. However, change can also be uncomfortable, and this discomfort feels especially pervasive during this era of rapid technological transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/amp/",
+      "publishedDateTime": "2022-05-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices.md",
+      "title": "PIXM Pioneers First Real-Time Computer Vision Solution to Stop Phishing on Mobile Devices",
+      "excerpt": "PIXM Mobile uses novel, award-winning technology to stop phishing attacks targeting mobile device apps at the point of click PIXM, a Computer Vision cybersecurity startup, today announced the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220525005383/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220525005383/pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030.md",
+      "title": "Artificial Intelligence Market 2022 Overview, Demand, New Opportunities & SWOT Analysis by 2030",
+      "excerpt": "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
       "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
       "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
@@ -314,33 +503,24 @@
     {
       "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
       "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May",
+      "excerpt": "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png",
-          "width": 1500,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:45:00-07:00",
+      "publishedDateTime": "2022-05-24T17:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -350,6 +530,7 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
@@ -991,188 +1172,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-heres-why-you-should-retain-change-healthcare-chng-stock.md",
-      "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
-      "excerpt": "Change Healthcare Inc. CHNG is well-poised for growth backed by strength in artificial intelligence (AI) and machine learning (ML) initiatives and strategic deals. However, stiff competition remains a concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2",
-      "originalUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2?amp",
-      "publishedDateTime": "2022-05-24T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.md",
-      "title": "Build 2022: Power Platform gets more web development tools and AI assistance",
-      "excerpt": "Lamanna noted that the Power Pages tools have been tested by several large customers. One interesting example comes from the New Zealand Ministry of Business, Innovation, and Empl",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html",
-      "originalUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/29/11/10-most-powerful-network-companies-primary2-100730524-large-100923007-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.amp.html",
-      "publishedDateTime": "2022-05-24T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-microsoft-brings-support-for-arm-based-ai-chips-to-windows.md",
-      "title": "Microsoft brings support for Arm-based AI chips to Windows",
-      "excerpt": "With Project Volterra and software tooling, including from Qualcomm, Microsoft is making it easier to develop AI-accelerated apps using Windows.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/",
-      "originalUrl": "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 481,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Build_Blog_Project_Volterra.png?w=680",
-          "width": 679,
-          "height": 302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/",
-      "publishedDateTime": "2022-05-24T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-artificial-intelligence-ai-a-potential-without-limits.md",
-      "title": "Artificial Intelligence (AI), a potential without limits",
-      "excerpt": "The combination of Artificial Intelligence and the Internet of Things (IoT) will allow companies to have “very powerful” solutions, say the experts. ICEMD Innovation Series was created with the aim of being an annual reference document that helps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/",
-      "originalUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2022/05/pexels-tara-winstead-8386369.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/amp/",
-      "cdnAmpWebUrl": "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/amp/",
-      "publishedDateTime": "2022-05-24T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telefonica",
-        "domain": "telefonica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
