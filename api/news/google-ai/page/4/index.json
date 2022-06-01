@@ -2,6 +2,146 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-03-02-machine-learning-can-help-read-the-language-of-life.md",
+      "title": "Machine learning can help read the language of life",
+      "excerpt": "DNA is the language of life: our DNA forms a living record of things that went well for our ancestors, and things that didn’t. DNA tells our body (and every other organism) which proteins to produce; these proteins are tiny machines that carry out enormous tasks, from fighting off infection to helping",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/machine-learning-can-help-read-language-life/",
+      "originalUrl": "https://blog.google/technology/ai/machine-learning-can-help-read-language-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
+          "width": 1300,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/machine-learning-can-help-read-language-life/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/machine-learning-can-help-read-language-life/amp/",
+      "publishedDateTime": "2022-03-02T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning.md",
+      "title": "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning",
+      "excerpt": "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/05/Oxford-University.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
+      "publishedDateTime": "2022-02-28T22:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-27-ai-medicine-software-market-2022-present-scenario-and-growth-prospects-2026-enlitic-atomwise-deepmind-babylon-health-flatiron-health.md",
+      "title": "AI Medicine Software Market 2022 | Present Scenario and Growth Prospects 2026 | Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health",
+      "excerpt": "Global AI Medicine Software Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-2022-present-scenario-and-growth-prospects-2026-enlitic-atomwise-deepmind-babylon-health-flatiron-health",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-2022-present-scenario-and-growth-prospects-2026-enlitic-atomwise-deepmind-babylon-health-flatiron-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/27f2bf527b901f7bf89e65211331317bac62288f-e1646243587537-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-26T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-is-chinese-math-education-as-good-as-it-seems.md",
       "title": "Is Chinese Math Education as Good as It Seems?",
       "excerpt": "Although the country’s secondary school students dominate competitions like the International Math Olympiad, their training methods are setting them up for failure at the university and post-grad level.",
@@ -1303,153 +1443,6 @@
       "provider": {
         "name": "syncedreview",
         "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe.md",
-      "title": "DeepMind co-founder plans to help U.S. VC firm Greylock penetrate Europe",
-      "excerpt": "Greylock has profited from early bets on U.S. tech giants like Airbnb, Facebook and LinkedIn but it also wants to capitalize on fast-growing companies in Europe. DeepMind co-founder Mustafa Suleyman is planning to help U.S. venture capital firm Greylock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe/ar-AATr2HE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106830698-1611754303373-GettyImages-627782598.jpg?v=1611755158",
-          "width": 5496,
-          "height": 3664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "publishedDateTime": "2022-02-03T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-        "domain": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code.md",
-      "title": "Bad news for developers? Deepmind's AI is getting good at writing code",
-      "excerpt": "Researchers from Google's AI-focused unit DeepMind claim its AlphaCode system can express solutions to problems in code that achieves a median-level score in programming competitions undertaken by new programmers. Those competitions require humans to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0cd0c1ca8b8990cef9e8b17289258a491448ac55/2021/06/21/e487ce2e-c1f8-41e7-80ed-00f2310ac673/developers-heres-what-they-really-think-60d0614cb5c5a73d0c2020e1-1-jun-21-2021-11-35-52-poster.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "publishedDateTime": "2022-02-03T03:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-googles-deepmind-says-its-ai-coding-bot-is-competitive-with-humans.md",
-      "title": "Google's DeepMind says its AI coding bot is 'competitive' with humans",
-      "excerpt": "Alphabet-owned AI outfit DeepMind claims it has created an AI that can write programming code, find novel solutions to interesting problems, and do it at the level of the mid-ranking human entrants in coding contests. Dubbed \"AlphaCode\" and detailed in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/03/alphacode_automated_coding/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/03/alphacode_automated_coding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/05/07/shutterstock_robot_typing_using_computer.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/03/alphacode_automated_coding/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/03/alphacode_automated_coding/",
-      "publishedDateTime": "2022-02-02T19:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

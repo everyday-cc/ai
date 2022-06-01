@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Technology Solutions Files 10-K And Audited Financials"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX ), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,"
+    publishedDateTime: 2022-06-01T14:30:00Z
+    webUrl: "https://menafn.com/1104306594/Artificial-Intelligence-Technology-Solutions-Files-10-K-And-Audited-Financials"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?4877"
+        width: 387
+        height: 250
+        isCached: true
   - title: "Financial Technology Predictions To Know About In 2022"
     excerpt: "There was a huge likelihood that the financial technology (fintech) sector would experience a lull in activity due to COVID-19. However, 2021 surprisingly remained a booming year for this sector. KPMG’s Pulse of Fintech report estimated that the total UK fintech investment hit a whopping $37."
     publishedDateTime: 2022-05-28T09:21:00Z

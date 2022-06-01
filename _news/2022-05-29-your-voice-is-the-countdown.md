@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "The Race to Hide Your Voice"
-    excerpt: "Voice recognition—and data collection—have boomed in recent years. Researchers are figuring out how to protect your privacy."
-    publishedDateTime: 2022-06-01T11:00:00Z
-    webUrl: "https://www.wired.co.uk/article/voice-recognition-privacy-speech-changer"
+    excerpt: "As machines become better at understanding you through your voice, companies are cashing in. Voice recognition systems—from Siri and Alexa to those using your voice as your password—have proliferated in recent years as artificial intelligence and ..."
+    publishedDateTime: 2022-06-01T14:10:00Z
+    webUrl: "https://www.wired.co.uk/article/voice-recognition-privacy-speech-changer?mbid=social_twitter"
     type: article
     provider:
       name: Wired UK

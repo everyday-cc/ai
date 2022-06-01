@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T12:57:00Z
 originalUrl: "https://xaralite.com/370181/technology/augmented-intelligence-market-set-for-explosive-growth-microsoft-google-intel/"
 webUrl: "https://xaralite.com/370181/technology/augmented-intelligence-market-set-for-explosive-growth-microsoft-google-intel/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: xaralite.com

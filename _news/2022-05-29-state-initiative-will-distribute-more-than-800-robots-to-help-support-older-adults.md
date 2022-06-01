@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "NY state distributing more than 800 robots to help support older adults"
+    excerpt: "Juanita’s friend always asks how she’s feeling, wants to know if she slept well and tells jokes that are so funny, Juanita repeats them later at dinner. Oh, and Juanita’s"
+    publishedDateTime: 2022-06-01T13:00:00Z
+    webUrl: "https://auburnpub.com/news/state-and-regional/govt-and-politics/ny-state-distributing-more-than-800-robots-to-help-support-older-adults/article_65513db9-9801-5c71-9b82-48cef7946c57.html"
+    type: article
+    provider:
+      name: Auburn Citizen
+      domain: auburnpub.com
+    quality: 19
   - title: "State initiative will distribute more than 800 robots to help support older adults"
     excerpt: "Juanita’s friend always asks how she’s feeling, wants to know if she slept well and tells jokes that are so funny, Juanita repeats them later at dinner. Oh, and Juanita’s friend happens to be a robot."
     publishedDateTime: 2022-05-29T18:02:00Z

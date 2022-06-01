@@ -2,6 +2,369 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-31-where-does-ai-go-next.md",
+      "title": "Where Does AI Go Next?",
+      "excerpt": "Many computer scientists, economists, and investors believe that we are at the threshold of enormous leaps forward in artificial intelligence and machine learning – with implications for both entrepreneurs and businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/",
+      "originalUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629506ac879c5363c159c3d9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/amp/",
+      "publishedDateTime": "2022-05-31T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-ethical-issues-surrounding-research-of-ai-in-health-care.md",
+      "title": "Ethical issues surrounding research of AI in health care",
+      "excerpt": "F. Lisa Murtha, Pralika Jain and Kiyong Song of Moses & Singer LLP discuss the ethical issues that arise in research on artificial intelligence for health care, such as in patient safety, data collection and transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/ethical-issues-surrounding-research-ai-health-care-2022-05-31/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/ethical-issues-surrounding-research-ai-health-care-2022-05-31/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/4r2un_3tNZyAfhM3Qthi4HKgw34=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YK6G3P7MZFO5DIKCK6L45SGSDM.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-why-robotics-and-artificial-intelligence-are-the-future-of-mankind.md",
+      "title": "Why Robotics And Artificial Intelligence Are The Future Of Mankind",
+      "excerpt": "Robotics and AI certainly have the power to transform our world, helping us navigate a rapidly changing future with greater confidence and optimism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//613246cfa37776e285f84f80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/",
+      "publishedDateTime": "2022-05-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-three-consumer-trends-influencing-loyaltyand-how-to-leverage-ai-to-capitalize-on-them.md",
+      "title": "Three Consumer Trends Influencing Loyalty—And How To Leverage AI To Capitalize On Them",
+      "excerpt": "With ever-changing customer expectations and increasing competition, keeping customers happy and loyal is proving quite difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//5eea68028b106d000799955a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/amp/",
+      "publishedDateTime": "2022-05-31T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-scotiabanks-perspectives-on-aiml-governance-and-future.md",
+      "title": "Scotiabank’s Perspectives On AI/ML Governance And Future",
+      "excerpt": "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank. This blog focuses on AI Governance and Future views of Scotiabank's AI and ML practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6105c099fb00ca9f0f49f14a/0x0.jpg?format=jpg&width=1200",
+          "width": 986,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/",
+      "publishedDateTime": "2022-05-31T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-3-business-solutions-where-ai-is-a-good-choice.md",
+      "title": "3 business solutions where AI is a good choice",
+      "excerpt": "Now that AI is cheap and widely available, we often leverage it too often and for the wrong reason. Here's where cloud-based AI provides the most value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html",
+      "originalUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large-100928072-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html",
+      "publishedDateTime": "2022-05-31T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-wearable-ai-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026.md",
+      "title": "Wearable AI Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026",
+      "excerpt": "A new report released by Market Research Update is Wearable AI Market 2022. This report provides up-to-date information on the market and also pinpoint all the opportunities for W",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/wearable-ai-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2022-05-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/wearable-ai-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2022-05-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-how-ai-is-improving-the-digital-ad-experience-for-consumers.md",
       "title": "How AI is improving the digital ad experience for consumers",
       "excerpt": "AI technologies can make a big impact in improving the ad experience, but it still takes a human touch to interpret and inform the model.",
@@ -886,333 +1249,6 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation.md",
-      "title": "Microsoft (MSFT) Azure Selected by Meta to Boost AI Innovation",
-      "excerpt": "Thus, using Azure will enable Meta with faster distributed AI training. The Meta- Microsoft collaboration ... learning workloads compared with the company’s last-generation chips — AWS Graviton2 processors. While C7g instances offer enhanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
-      "publishedDateTime": "2022-05-27T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligences-role-in-trusted-national-security-supply-chains.md",
-      "title": "Artificial Intelligence’s Role in Trusted National Security Supply Chains",
-      "excerpt": "U.S. economic prosperity and national security is at risk due to a dependency on the resiliency, diversity, and security of global supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnas.org/publications/commentary/artificial-intelligences-role-in-trusted-national-security-supply-chains",
-      "originalUrl": "https://www.cnas.org/publications/commentary/artificial-intelligences-role-in-trusted-national-security-supply-chains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/artificial-intelligence.jpeg?mtime=20180423114444&focal=none",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNAS",
-        "domain": "cnas.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-ai-based-tech-company-hitlab-is-shaking-up-the-music-industry.md",
-      "title": "AI-Based Tech Company HITLAB Is Shaking Up The Music Industry",
-      "excerpt": "AI-based music technology company, HITLAB, is revolutionizing how entertainment content is discovered, produced, and consumed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
-      "originalUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62900a18798f8afff74d8a31/0x0.jpg?format=jpg&crop=1767,1178,x204,y7,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
-      "publishedDateTime": "2022-05-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-how-to-make-it-easier-to-implement-ai-in-your-business.md",
-      "title": "How To Make It Easier To Implement AI In Your Business",
-      "excerpt": "AI continuously proves to be an asset for businesses and has been revolutionizing the way they operate. It goes a long way in helping to cut operational costs, automate and simplify business processes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628e43a297056cd9dc21d426/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/",
-      "publishedDateTime": "2022-05-27T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud.md",
-      "title": "From weeks to hours: How AI slashes the time to optimize in the cloud",
-      "excerpt": "Cloud is not a one-and-done thing - it's a journey. That's where AI and ML come in, to truly deliver on the promise of the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/",
-      "originalUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-646867384.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/amp/",
-      "publishedDateTime": "2022-05-27T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-lessons-learned-about-ai-from-a-healthcare-technology-startup-leader.md",
-      "title": "Lessons Learned About AI From A Healthcare Technology Startup Leader",
-      "excerpt": "So far, my personal crash course has made healthcare’s massive size and complexity even more apparent, and it occurred to me that others can benefit if I write about my learnings and observations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628ce443a25ac26736ea9402/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
-      "publishedDateTime": "2022-05-27T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to.md",
-      "title": "Artificial Intelligence in Marketing Market to...",
-      "excerpt": "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27435408",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408",
-      "publishedDateTime": "2022-05-27T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

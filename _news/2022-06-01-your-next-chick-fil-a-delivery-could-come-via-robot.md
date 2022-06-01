@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Georgia-based Chick-fil-A testing out new delivery robots"
+    excerpt: "You might soon be able to get a chicken sandwich brought right to your door with Chick-fil-A’s new delivery robots. The Atlanta-based company is testing out new autonomous robots to deliver food straight to you."
+    publishedDateTime: 2022-06-01T14:56:00Z
+    webUrl: "https://www.wsbradio.com/news/local/atlanta/georgia-based-chick-fil-a-testing-out-new-delivery-robots/T6TS5N6HORG3BFFXYC7IYJU5ZQ/"
+    type: article
+    provider:
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 39
+    images:
+      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/dmdjYUjdE9-9ox-J3xRbZMrFOHE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/TSD2EWVNVBFWZB7MIDIUTIAV7Q.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX"
     excerpt: "Self-driving robots provide energy-efficient meal delivery to guests' front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delivery"
     publishedDateTime: 2022-05-31T13:30:00Z
@@ -49,6 +63,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Refraction Ai Tests Self-Driving Delivery At Two Chick-Fil-A Restaurants In Austin, Texas"
+    excerpt: "Chick-fil-A and Refraction AI intend to continue studying autonomous delivery in Austin at the Chick-fil-A restaurant on Martin Luther King Jr."
+    publishedDateTime: 2022-06-01T12:33:00Z
+    webUrl: "https://www.cioapplications.com/news/refraction-ai-tests-selfdriving-delivery-at-two-chickfila-restaurants-in-austin-texas-nid-9941.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 12
 
 secured: "+TNwW9zzM23x2bSz7ZjWSalCZthkottXqRjpZsaGii+saF8G/8onqrpkpa5a5LWMRWv9iYqxO4x3PoOAXoCLEqlkT2tZo1l2hCczmSIob8PFLlIOhlOwwkQ6oN+smgg3elJFKGlTmnyM/0F0bsqnyCLaCDWU+oolc7aT8E+61UjwJkNzKjCIxyX1zD5wWH+sKRe4k6pM0pzCmhqNTrBG97W2wpxdMRX61QYIOTv3gny2Jat3uIZvBHosVpsl7420QejASTJAQDTV/HEYreAE7HqCSi/SfCqYw4zqtaA8FFA9cMmp8k+7DLi0W+Oe3R2UkrgDGYyOlB8fuvvnfNSsdd6aDaiaG9YuobP1hQBtRJGOTVlNogL26tg2HEQRWV1Rb+xNadMJrbIl9GBTNAHvBYgpYwMCrwya9+53IioxExYlTV8+KBn6JLPF9DdFSigC3kHwc4s1X4UItFb7+BQVsubmkpp0xShf5ktgw1zrTjHETQMoIn0x4pzyCNSk49tP3jO3G9zGYu12tcAdqd0gJA==;L4K8IC26vB+n8bQCjwOX/w=="
 ---

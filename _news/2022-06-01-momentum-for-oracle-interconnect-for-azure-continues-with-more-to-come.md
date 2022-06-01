@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T13:00:00Z
 originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Momentum-for-Oracle-Interconnect-for-Azure-Continues-with-More-to-Come-153065.aspx"
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Momentum-for-Oracle-Interconnect-for-Azure-Continues-with-More-to-Come-153065.aspx"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: dbta.com

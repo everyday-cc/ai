@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-01-meta-could-be-about-to-buy-a-lot-of-broadcom-chips-to-build-its-metaverse.md",
+      "title": "Meta could be about to buy a lot of Broadcom chips to build its metaverse",
+      "excerpt": "ASIC chips are specifically designed for intensive AI applications that require huge processing power all at once. Google has been co-developing ASIC chips with Broadcom since 2016, in a deal worth over $1.3 billion in 2022. One of the hardest things is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/meta-could-be-about-to-buy-a-lot-of-broadcom-chips-to-build-its-metaverse",
+      "originalUrl": "https://www.techradar.com/sg/news/meta-could-be-about-to-buy-a-lot-of-broadcom-chips-to-build-its-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/JnLnF2yJons5D6zMUUszyi-1200-80.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-intels-rialto-bridge-is-its-next-gen-ai-successor-to-ponte-vecchio-xe-hpc-gpu.md",
+      "title": "Intel’s Rialto Bridge is its Next-Gen AI, Successor, To Ponte Vecchio Xe-HPC GPU",
+      "excerpt": "The Rialto Bridge is named after the same-called bridge in Venice, Italy, which is the oldest of the four bridges that span the Grand Canal",
+      "sourceUrl": null,
+      "webUrl": "https://technosports.co.in/2022/06/01/rialto-bridge/",
+      "originalUrl": "https://technosports.co.in/2022/06/01/rialto-bridge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technosports.co.in/wp-content/uploads/2022/06/2022-05-31_16-57-31-1030x579-1-1024x576.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technosports.co.in/2022/06/01/rialto-bridge/?amp",
+      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/06/01/rialto-bridge/?amp",
+      "publishedDateTime": "2022-06-01T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechnoSports",
+        "domain": "technosports.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research.md",
       "title": "Nvidia’s AI-powered supercomputers advance nuclear fusion research",
       "excerpt": "At the International Supercomputing Conference in Germany, Nvidia has detailed how its latest HPC systems work. Including how it is using the Nvidia Omniverse simulation platform to accelerate the design and development of a full-scale fusion reactor.",
@@ -380,49 +475,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-25-global-adasad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous-driving-ai-data-training.md",
-      "title": "Global ADAS/AD Chip Industry Research Report 2022: SoC Vendors Accelerate the Layout of Autonomous Driving AI Data Training",
-      "excerpt": "DUBLIN, May 25, 2022 /PRNewswire/ -- The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-25-ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-aiml-chips.md",
       "title": "Ayar Labs teams with Nvidia for optical interconnects to speed up AI/ML chips",
       "excerpt": "AI/ML and other data-heavy interactions, the company said. At least at the outset of their release into the market, the new optical chips will go to CPU and GPU makers (such as Intel, Nvidia ...",
@@ -464,6 +516,40 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-global-adasad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous-driving-ai-data-training.md",
+      "title": "Global ADAS/AD Chip Industry Research Report 2022: SoC Vendors Accelerate the Layout of Autonomous Driving AI Data Training",
+      "excerpt": "The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/25/9608988.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/25/9608988.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1294,85 +1380,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge.md",
-      "title": "alwaysAI® Partners with AI Chipmaker Hailo to Power Next-Gen AI Applications at the Edge",
-      "excerpt": "SAN DIEGO, May 16, 2022 (GLOBE NEWSWIRE) -- alwaysAI, a computer vision platform leader, and Hailo, a leading AI processor for edge devices, have partnered to deliver accelerated computer vision applications on edge devices for their growing enterprise customer base.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox44news.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/",
-      "originalUrl": "https://www.fox44news.com/business/press-releases/globenewswire/8543614/alwaysai-partners-with-ai-chipmaker-hailo-to-power-next-gen-ai-applications-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 44 Waco News",
-        "domain": "fox44news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-artificial-intelligence-chip-market-to-reach-1949-bn-globally-by-2030-at-374-cagr.md",
-      "title": "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR",
-      "excerpt": "Allied Market Research recently published a report, titled, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

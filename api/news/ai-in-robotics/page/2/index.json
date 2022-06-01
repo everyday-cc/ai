@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-20-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology.md",
+      "title": "Soft Robotics Expands Commercial Focus for its Artificial Intelligence Technology",
+      "excerpt": "Soft Robotics Inc. expanded commercial focus for its mGripAI™ artificial intelligence-enabled picking solutions to target the consumer goods, E-commerce, and logistics industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
+      "originalUrl": "https://www.packworld.com/supplier-news/news/22236612/soft-robotics-soft-robotics-expands-commercial-focus-for-its-artificial-intelligence-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/05/Soft_Robotics_Inc_mGripAI_CPG.628698128d087.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 500,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-20-scientists-develop-real-life-mind-controllable-robotic-hand-using-ai.md",
+      "title": "Scientists develop real-life mind controllable robotic hand using AI",
+      "excerpt": "A team of researchers at the University of Minnesota has created a robotic arm that can function according to your thoughts. In the future, such advance prosthetic body parts might allow humans to control computer-based devices with their minds.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/ai-powered-prosthetic-arm",
+      "originalUrl": "https://interestingengineering.com/ai-powered-prosthetic-arm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2p754w9/sizes/neuroprostheric-hand-umn_resize_md.JPG",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/ai-powered-prosthetic-arm",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-powered-prosthetic-arm",
+      "publishedDateTime": "2022-05-20T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-china-robot-unicorn-hai-robotics-eyes-international-expansion-as-market-for-warehouse-automation-cranks-up.md",
       "title": "China robot unicorn Hai Robotics eyes international expansion as market for warehouse automation cranks up",
       "excerpt": "Hai Robotics makes robots for moving and sorting boxes in warehouses, a market estimated to reach US$41 billion globally by 2027.",
@@ -958,6 +1045,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-13-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-1011-in-april.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Up 101.1% in April",
+      "excerpt": "Get Global X Robotics & Artificial Intelligence ETF alerts: Shares of NASDAQ BOTZ opened at $21.29 on Friday. Global X Robotics & Artificial Intelligence ETF has a 12 month low of $20.88 and a 12 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/05/13/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-101-1-in-april/",
+      "originalUrl": "https://www.etfdailynews.com/2022/05/13/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-101-1-in-april/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-axel-gern-to-head-torc-robotics-technology-and-development-center-in-europe.md",
       "title": "Axel Gern to head Torc Robotics Technology and Development Center in Europe",
       "excerpt": "Torc Robotics has tapped Axel Gern, a long-time leader in truck automation, to head its recently opened Torc Europe GmbH engineering facility in Stuttgart, Germany. Gern has been named senior vice president of engineering and managing director for Torc Europe at the technology and software development center.",
@@ -1229,154 +1350,6 @@
       "provider": {
         "name": "app.com",
         "domain": "app.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-these-ai-powered-robot-overlords-are-here-to-keep-your-warehouse-workers-safer.md",
-      "title": "These AI-powered robot overlords are here to keep your warehouse workers safe(r)",
-      "excerpt": "Voxel raised $3 million to make warehouses safer through AI-powered security cameras. It just raised $15M more.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/11/voxel-series-a/",
-      "originalUrl": "https://techcrunch.com/2022/05/11/voxel-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Voxel-Team.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/11/voxel-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/voxel-series-a/amp/",
-      "publishedDateTime": "2022-05-11T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-never-scoop-poop-again-with-the-sleek-brilliantly-designed-litter-robot-4.md",
-      "title": "Never scoop poop again with the sleek, brilliantly designed Litter-Robot 4",
-      "excerpt": "Designed with community feedback in mind, the latest Litter-Robot is all about improving on all the pain points from previous models – notably it’s less noisy, bulky and smelly. Ahead, everything to know about the Litter-Robot 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/litter-robot-4-review-lead.jpg?q=h_899,w_1601,x_0,y_0",
-          "width": 1601,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
-      "publishedDateTime": "2022-05-11T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-therapy-with-a-robot-how-ai-could-help-those-struggling-with-mental-health.md",
-      "title": "Therapy with a robot? How AI could help those struggling with mental health",
-      "excerpt": "Mental health start-ups attracted $5.5 billion ... Health and Addictions Service Line. Could a robot, equipped with artificial intelligence, be far behind? Boyle still has obstacles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mycentraljersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/",
-      "originalUrl": "https://www.mycentraljersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/05/06/PAPP/059d41c7-2411-4867-bed2-d8dd3ba24205-050622-MarcoMentalHealthRobot02.JPG?auto=webp&crop=4813,2708,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyCentralJersey",
-        "domain": "mycentraljersey.com",
         "images": null,
         "publishers": null,
         "authors": null

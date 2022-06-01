@@ -2,6 +2,154 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-09-ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes.md",
+      "title": "Ceva Logistics Teams With Kodiak Robotics On Self-Driving Routes",
+      "excerpt": "CEVA and Kodiak launched its Dallas-Fort Worth to Austion service in November 2021. They expanded last month with a new route between Dallas-Fort Worth and Oklahoma City on the I-35 corridor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
+      "originalUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6228e548fe480cb68f2edc8a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2022/03/09/ceva-logistics-teams-with-kodiak-robotics-on-self-driving-routes/amp/",
+      "publishedDateTime": "2022-03-09T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-09-a-text-reading-robot-with-heart.md",
+      "title": "A text-reading robot with heart",
+      "excerpt": "Tsukuba, Japan – Scientists from the Faculty of Engineering, Information and Systems at the University of Tsukuba devised a text message mediation robot that can help users control their anger ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/945987",
+      "originalUrl": "https://www.eurekalert.org/news-releases/945987",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e28441c5-578b-46f9-b2ab-6562ad8819fe/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics.md",
+      "title": "Nvidia invests $10M in sidewalk robot delivery company Serve Robotics",
+      "excerpt": "The strategic technology collaboration between Serve Robotics, an Uber spinout, and Nvidia will further the development of autonomous robotic transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/08/nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics/",
+      "originalUrl": "https://techcrunch.com/2022/03/08/nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/Serve-front-sidewalk.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/08/nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/08/nvidia-invests-10m-in-sidewalk-robot-delivery-company-serve-robotics/amp/",
+      "publishedDateTime": "2022-03-08T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-harnessing-ai-and-robotics-to-treat-spinal-cord-injuries.md",
       "title": "Harnessing AI and Robotics to treat spinal cord injuries",
       "excerpt": "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration.",
@@ -1245,135 +1393,6 @@
         "Computer Vision",
         "AI in Security",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-robot-built-for-japans-aging-workforce-finds-coronavirus-role.md",
-      "title": "Robot built for Japan’s aging workforce finds coronavirus role",
-      "excerpt": "Mira Robotics developed its “ugo” robot to reinforce graying Japan’s shrinking workforce, but as the coronavirus threat persists, the Japanese startup is offering its machine as a tool in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/13445780",
-      "originalUrl": "https://www.asahi.com/ajw/articles/13445780",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/ajw/images/logo_ogp.png",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "asahi.com",
-        "domain": "asahi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-softbanks-robotics-ipo-faces-a-reality-check.md",
-      "title": "SoftBank’s robotics IPO faces a reality check",
-      "excerpt": "China’s CloudMinds, 35% owned by Masayoshi Son’s Vision Fund, is seeking $500 mln in a U.S. float. The loss-making robot startup reckons AI-powered androids are tomorrow’s cleaners. It’s a tough sell in the real world, where most Chinese tech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.breakingviews.com/considered-view/softbanks-robotics-ipo-faces-a-reality-check/",
-      "originalUrl": "https://www.breakingviews.com/considered-view/softbanks-robotics-ipo-faces-a-reality-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.breakingviews.com/wp-content/uploads/2019/07/pepper-robot.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breakingviews",
-        "domain": "breakingviews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-waterbridge-invests-in-nymble-labs-building-a-robot-that-can-cook-food.md",
-      "title": "WaterBridge Invests In Nymble Labs Building A Robot That Can Cook Food",
-      "excerpt": "It uses artificial intelligence (AI) and machine ... is another consumer kitchen startup Rotimatic, which is a roti cooking bot, which looks like a box but it is a robot. Rotimatic is available ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/",
-      "originalUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2019/02/WaterBridge_Social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/amp/",
-      "publishedDateTime": "2022-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

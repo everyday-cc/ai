@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-02-voiceitt-announces-new-initiative-expanding-voice-tech-capabilities-for-users-with-disabilities.md",
+      "title": "Voiceitt Announces New Initiative, Expanding Voice Tech Capabilities for Users with Disabilities",
+      "excerpt": "a leader in advanced speech recognition technology for people with non-standard speech, announces the launch of its community engagement and development initiative called Project Ensemble. Project Ensemble invites individuals with non-standard speech to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/02/9593315.htm",
+      "originalUrl": "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/05/02/9593315.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1808758/Project_Ensemble.jpg",
+          "width": 389,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-ai-powered-voice-solutions-provider-for-healthcare-suki-to-double-india-headcount.md",
       "title": "AI-powered voice solutions provider for healthcare Suki to double India headcount",
       "excerpt": "“We have to be very, very highly efficient and accurate for healthcare. We ended up actually building a medically tuned speech recognition system, a medically tuned command, understander or intent recognizer. Our goal is to make healthcare ...",
@@ -1280,58 +1323,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-how-ai-can-help-and-hinder-the-supply-chain-crisis.md",
-      "title": "How AI can help – and hinder – the supply chain crisis",
-      "excerpt": "This confidence in AI owes much to its promise of visibility. AI offers a clear overview of the entire supply chain, and claims to predict demand, supply and movements better and",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367435/how-ai-can-help-and-hinder-the-supply-chain-crisis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1650360316/itpro/2022/April/GettyImages-supply%20chain%20AI.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

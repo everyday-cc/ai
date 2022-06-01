@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-22-meet-the-deepmind-mafia-these-18-alumni-from-googles-ai-research-lab-are-raising-millions-for-their-own-startups-from-climate-to-crypto.md",
+      "title": "Meet the DeepMind mafia: These 18 alumni from Google's AI research lab are raising millions for their own startups, from climate to crypto",
+      "excerpt": "Over the past decade, Google-owned artificial intelligence research lab DeepMind has become a repository for top AI talent. Since Google bought the London-based startup for an estimated $500 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-deepmind-employees-who-founded-own-AI-startups-2022-3",
+      "originalUrl": "https://www.businessinsider.com/former-deepmind-employees-who-founded-own-AI-startups-2022-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62349c08c5cf2000184dc442?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-20-mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies.md",
+      "title": "MIT and Tsinghua scholars use DeepMind's AlphaFold approach to boost COVID-19 antibodies",
+      "excerpt": "Using knowledge of proteins advanced by DeepMind, Tsinghua University scientists devise mutated monoclonal antibodies that resist COVID-19's immune escape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
+      "originalUrl": "https://www.zdnet.com/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/abd53615ffa5b14b3bd167072ef976e5f18578d2/2022/03/20/4b8f646c-55c4-4661-8f7b-4bc80c59f9bb/shan-et-al-ddr-predictor-2022.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mit-and-tsinghua-scholars-use-deepminds-alphafold-approach-to-boost-covid-19-antibodies/",
+      "publishedDateTime": "2022-03-20T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-ai-can-help-historians-unravel-ancient-texts.md",
+      "title": "AI can help historians unravel ancient texts",
+      "excerpt": "The study, done by Thea Sommerschield of the University of Venice, and DeepMind Research Scientist Yannis Assael, was peer-reviewed and published in Nature, one of the world's most widely read and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/archaeology/article-701716",
+      "originalUrl": "https://www.jpost.com/archaeology/article-701716",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/499764",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/archaeology/article-701716/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/archaeology/article-701716/amp",
+      "publishedDateTime": "2022-03-19T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-contribute-to-tensorflow-special-interest-groups-sigs.md",
       "title": "Contribute to TensorFlow Special Interest Groups (SIGs)",
       "excerpt": "The TensorFlow Special Interest Groups (TF SIGs) organize community contributions to key parts of the TensorFlow ecosystem. SIG leads and members work together to build and support important TensorFlow use cases. SIGs are led by members of the open source ...",
@@ -1315,146 +1462,6 @@
         "Facebook AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-machine-learning-can-help-read-the-language-of-life.md",
-      "title": "Machine learning can help read the language of life",
-      "excerpt": "DNA is the language of life: our DNA forms a living record of things that went well for our ancestors, and things that didn’t. DNA tells our body (and every other organism) which proteins to produce; these proteins are tiny machines that carry out enormous tasks, from fighting off infection to helping",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/machine-learning-can-help-read-language-life/",
-      "originalUrl": "https://blog.google/technology/ai/machine-learning-can-help-read-language-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png",
-          "width": 1300,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/machine-learning-can-help-read-language-life/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/machine-learning-can-help-read-language-life/amp/",
-      "publishedDateTime": "2022-03-02T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning.md",
-      "title": "University of Oxford: DeepMind donation creates 12 new research internships in artificial intelligence and machine learning",
-      "excerpt": "UNIQ+ provides talented individuals from underrepresented and disadvantaged groups with a real day-to-day experience of postgraduate research at Oxford.Participants undertake a paid summer research internship,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/05/Oxford-University.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-oxford-deepmind-donation-creates-12-new-research-internships-in-artificial-intelligence-and-machine-learning/",
-      "publishedDateTime": "2022-02-28T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-27-ai-medicine-software-market-2022-present-scenario-and-growth-prospects-2026-enlitic-atomwise-deepmind-babylon-health-flatiron-health.md",
-      "title": "AI Medicine Software Market 2022 | Present Scenario and Growth Prospects 2026 | Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health",
-      "excerpt": "Global AI Medicine Software Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-2022-present-scenario-and-growth-prospects-2026-enlitic-atomwise-deepmind-babylon-health-flatiron-health",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-2022-present-scenario-and-growth-prospects-2026-enlitic-atomwise-deepmind-babylon-health-flatiron-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/27f2bf527b901f7bf89e65211331317bac62288f-e1646243587537-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-26T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

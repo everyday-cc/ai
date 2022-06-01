@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T21:51:00Z
 originalUrl: "https://www.industriall-union.org/report-from-manufacturing-to-mobility-unions-prepare-for-the-mobility-sector-of-the-future"
 webUrl: "https://www.industriall-union.org/report-from-manufacturing-to-mobility-unions-prepare-for-the-mobility-sector-of-the-future"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: IndustriALL Global Union

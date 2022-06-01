@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T12:11:00Z
 originalUrl: "https://www.v-net.tv/2022/06/01/ai-dubbing-service-could-dramatically-cut-content-localisation-costs-and-turnaround/"
 webUrl: "https://www.v-net.tv/2022/06/01/ai-dubbing-service-could-dramatically-cut-content-localisation-costs-and-turnaround/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Videonet

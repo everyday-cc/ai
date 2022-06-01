@@ -32,14 +32,14 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "At 20.80% CAGR, Heart Pump Device Market Size is Expected to Reach USD 6162.34 Bn by 2028 - Exclusive Report by Zion Market Research"
-    excerpt: "As per Zion Market Research study, The global Heart Pump Device market was worth around USD 1983.10 billion in 2021 and is estimated"
-    publishedDateTime: 2022-05-30T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/at-20-80-cagr-heart-pump-device-market-size-is-expected-to-reach-usd-6162/article_8e7207e9-96fd-5b79-8590-e6dec5ce0b0b.html"
+  - title: "Facial Recognition Market Industry Analysis, CAGR Value, Business Strategy, Growth Drivers, Forecast By 2028"
+    excerpt: "Emergen Research Logo Facial Recognition Market Trend –Technological advancements in facial expression detection  Facial Recogniti"
+    publishedDateTime: 2022-06-01T13:30:00Z
+    webUrl: "https://menafn.com/1104306004/Facial-Recognition-Market-Industry-Analysis-CAGR-Value-Business-Strategy-Growth-Drivers-Forecast-By-2028"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 0
 
 secured: "PqfaFa0KWVvy9WYWxxxNY/2z9T7qk2L8cErKTY4t9rfLnXeq0rAmHDguLGSp6QTkaFSH+2ixsY7BuZCBxLlXhOn6nO5cEcoPUpIgwVghZRdxFIqqJOASg529TTAyZak6FwubDoUzCHCN5kX5U6SSNDorRC+W5C3gvO1vgJgL6eMIyrPCtT0PV7Jo79FCUXkvf7UGQXRU0m19YyFlAzLw06LxVvYdbyce5JIAXzUa+tFKhh0QAML5LAOvfvYA407KQbZ2LwctjnCVLs7J3ghwRd0m04IzJIevgdzyi4CYa7jzeqeX+d9qNTuwGKAYzoGP+jHnqDFhsDhMfH2lusnKKdUuIYClXXHaE1FTNWmuXBCyqEeoEdV7KTnqcZNo0gdRAOMFu8gNFVIZm1e1gXgvRxIkyyepPW1yCtCgK3dQPBbu0ierpbdTRjdxkPn8Jd6AAswDCkNKY1BsR1fdLSeWq2/JPMii5++xBJpMnr54qwlr1urUb6SqEQE1me2ciDAUtbDgzvYkICtHGFfnitLPbw==;714/aOrGy+oozqFcmvKZqA=="

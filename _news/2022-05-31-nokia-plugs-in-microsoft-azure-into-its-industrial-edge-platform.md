@@ -53,20 +53,15 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
-    excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
-    publishedDateTime: 2022-05-27T22:38:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
+  - title: "If you're having problems with Microsoft Azure AD today, this is probably what's causing it"
+    excerpt: "Customers may have also had problems accessing Azure Portal, MSGraph, Log Analytics ... cloud via Dev Box Microsoft Teams and Power Platform to get more collaboration, AI-assisted additions Microsoft is enabling Kubernetes for Windows edge-computing ..."
+    publishedDateTime: 2022-06-01T11:43:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-azure-ad-id-service-snagged-by-logging-delays/"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 58
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
-        width: 1522
-        height: 857
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "Nokia to Integrate Microsoft Azure Arc Capabilities into its Industrial Edge Platform"
     excerpt: "Nokia announced plans to integrate Microsoft Azure Arc capabilities into the Nokia MX Industrial Edge (MXIE) platform,"
     publishedDateTime: 2022-06-01T01:03:00Z

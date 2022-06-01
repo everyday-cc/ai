@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-30T10:45:00Z
 originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
 webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Nasdaq

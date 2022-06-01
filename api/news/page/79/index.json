@@ -2,6 +2,853 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-03-23-sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition.md",
+      "title": "São Paulo subway ordered to suspend use of facial recognition",
+      "excerpt": "The company responsible for running the São Paulo metro system was ordered to suspend the use of facial recognition technology. According to the decision issued on Tuesday by judge Cynthia Thome at the São Paulo State Court,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-ordered-to-suspend-use-of-facial-recognition/",
+      "publishedDateTime": "2022-03-23T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "ThetaRay, provider of AI-powered transaction monitoring technology to protect banks and fintechs against financial crimes, today announced the availability",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc.md",
+      "title": "Computer Vision Software Market See Huge Growth for New Normal | Algolux, ViSenze, Deep Vision AI Inc.",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2022 (Heraldkeepers) -- The Computer Vision Software Market research report provides all the information related to the industry. It gives the outlook of the market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc-2022-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc-2022-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes.md",
+      "title": "Business Leaders And AI In 2022: Five Ways To Achieve Transformative Outcomes",
+      "excerpt": "Multimodal AI will expand the scope of AI applicability, creating use cases far beyond what anyone could have imagined a few years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/23/business-leaders-and-ai-in-2022-five-ways-to-achieve-transformative-outcomes/amp/",
+      "publishedDateTime": "2022-03-23T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider.md",
+      "title": "DARKTRACE AI STOPS CYBER-ATTACK EXPLOITING LOG4J VULNERABILITY AT GLOBAL FINANCIAL SERVICES PROVIDER",
+      "excerpt": "Darktrace, a global leader in cyber security AI, today announced that a global provider of financial services recently detected and stopped an attacker attempting to leverage a vulnerability in Log4j to deploy malicious code across the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://who13.com/business/press-releases/cision/20220323LN00254/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider/",
+      "originalUrl": "https://who13.com/business/press-releases/cision/20220323LN00254/darktrace-ai-stops-cyber-attack-exploiting-log4j-vulnerability-at-global-financial-services-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/who13.com/wp-content/uploads/sites/19/2020/10/dmps.jpg?w=2000&#038;ssl=1",
+          "width": 906,
+          "height": 508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "who13",
+        "domain": "who13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence.md",
+      "title": "Icertis Releases AI Studio to Democratize Use of AI-Powered Contract Intelligence",
+      "excerpt": "Icertis, the contract intelligence company that pushes the boundaries of what's possible with Contract Lifecycle Management (CLM), today released AI Studio, a self-serve, self-learning cognitive tool.",
+      "sourceUrl": null,
+      "webUrl": "https://fox59.com/business/press-releases/cision/20220323SF99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence/",
+      "originalUrl": "https://fox59.com/business/press-releases/cision/20220323SF99937/icertis-releases-ai-studio-to-democratize-use-of-ai-powered-contract-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims.md",
+      "title": "Cloud migration for medical imaging data using Azure Health Data Services and IMS",
+      "excerpt": "This blog is part of a series in collaboration with our partners and customers leveraging the newly announced Azure Health Data Services. Azure Health Data Services, a platform as a service (PaaS) offering designed exclusively to support Protected Health Information (PHI) in the cloud, is a new way of",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
+      "originalUrl": "https://azure.microsoft.com/blog/cloud-migration-for-medical-imaging-data-using-azure-health-data-services-and-ims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/787e5f5b-7eca-4ebb-9a78-ff529f3e28ce.png",
+          "width": 640,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T03:00:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai.md",
+      "title": "Trustworthy AI: How to ensure trust and ethics in AI",
+      "excerpt": "AI we can trust. Oftentimes discussions about ethics and trust in AI have a very narrow focus, limited to fairness and bias, which can be frustrating as a professional in the indu",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-811140846-e1647972470657.jpg?fit=800%2C566&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/trustworthy-ai-how-to-ensure-trust-and-ethics-in-ai/amp/",
+      "publishedDateTime": "2022-03-22T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-handheld-robot-uses-ai-to-help-first-responders-stem-bleeding.md",
+      "title": "Handheld robot uses AI to help first responders stem bleeding",
+      "excerpt": "Researchers at MIT's Lincoln Laboratory have developed a handheld robot that can help minimally trained responders to control severe internal bleeding in victims of traumatic injury, by helping them insert a needle and catheter into a major blood vessel.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
+      "originalUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/450aa75/2147483647/strip/true/crop/900x600+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F66%2F91%2Fcc101cde4df58d8ff485eaec84a3%2Fai-guide.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/handheld-robotic-device-guides-responders-control-bleeding/?amp=true",
+      "publishedDateTime": "2022-03-22T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-statistical-natural-language-processing-market-growth-estimation-geography-trends-business-statistics-developing-trends-and-forecast-2029.md",
+      "title": "Statistical Natural Language Processing Market Growth Estimation, Geography Trends, Business Statistics, Developing Trends and Forecast 2029",
+      "excerpt": "Mar 23, 2022 (The Expresswire) -- Global “Statistical Natural Language Processing Market” research report provides industry dynamics, development trends, global challenges, opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-growth-estimation-geography-trends-business-statistics-developing-trends-and-forecast-2029-2022-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-growth-estimation-geography-trends-business-statistics-developing-trends-and-forecast-2029-2022-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles.md",
+      "title": "GTC 2022: NVIDIA flexes its GPU and platform muscles",
+      "excerpt": "NVIDIA's CEO Jensen Huang's 1 hour, 39-minute keynote covered a lot of ground but the unifying themes to the majority of the two dozen announcements were GPU-centered, and its platform approach to everything it builds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/gtc-2022-nvidia-flexes-its-gpu-and-platform-muscles/amp/",
+      "publishedDateTime": "2022-03-22T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions.md",
+      "title": "Resistant AI Partners with ComplyAdvantage Amid New International Sanctions",
+      "excerpt": "Established in 2019, Resistant AI uses AI and machine learning to “provide identity forensic solutions that protect automated financial services from fraud and manipulation, including customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Hands-Up-Arrest-Halt-Stop.jpeg",
+          "width": 1122,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/188703-resistant-ai-partners-with-complyadvantage-amid-new-international-sanctions/amp/",
+      "publishedDateTime": "2022-03-22T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-expedite-ivr-development-with-industry-grammars-on-amazon-lex.md",
+      "title": "Expedite IVR development with industry grammars on Amazon Lex",
+      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. With Amazon Lex, you can easily build sophisticated, natural language, conversational bots (chatbots), virtual agents, and interactive voice response (IVR) systems. You can now use industry grammars",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-ivr-development-with-industry-grammars-on-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T18:17:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-chinas-quest-for-greater-technological-self-reliance.md",
+      "title": "China’s Quest for Greater Technological Self-Reliance",
+      "excerpt": "But what is driving this pursuit of self-reliance, especially for China ... world of e-commerce by leapfrogging from cash to cashless payment systems. Alibaba, Baidu, and other PRC firms are also active in cutting-edge artificial intelligence research.",
+      "sourceUrl": null,
+      "webUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
+      "originalUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asiasociety.org/sites/default/files/styles/1200w/public/2021-03/Bates%20Gill%20essay%20-%20Made%20in%20China%20chip%20-%20ROMSVETNIK-%20shutterstock.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia Society",
+        "domain": "asiasociety.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-chinas-tech-giants-are-getting-into-the-autonomous-car-business.md",
+      "title": "China's tech giants are getting into the autonomous car business",
+      "excerpt": "Google and Tesla are squaring off against each other for the future of self-driving cars, so it's no surprise to see China's tech giants follow suit. Both Tencent and Baidu have announced that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2015-03-23-electric-cars-in-china.html",
+      "originalUrl": "https://www.engadget.com/2015-03-23-electric-cars-in-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/JsSbMqhYxiu6d.Njma6X9g--~B/aD00MTc7dz02Mjg7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/129056d5a7296d29e02ac68d9ca7db83/200513002/google-car-1.jpg",
+          "width": 628,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-microsoft-claims-new-ai-model-architecture-improves-language-translation.md",
+      "title": "Microsoft claims new AI model architecture improves language translation",
+      "excerpt": "Microsoft claims that its new model architecture, Z-code Mixture of Experts (MoE), improves language translation quality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/",
+      "originalUrl": "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/22/microsoft-claims-new-ai-model-architecture-improves-language-translation/amp/",
+      "publishedDateTime": "2022-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-calling-asians-robotic-is-racist-stereotype-with-long-troubled-history.md",
+      "title": "Calling Asians 'robotic' is racist stereotype with long, troubled history",
+      "excerpt": "When U.S. figure skater Nathan Chen won the gold medal in men’s figure skating at the 2022 Winter Olympics, a Washington Post article attributed his win to a fierce, focused, “robotic” zeal. This robotic characterization draws on a dated stereotype of Asians as stoic,",
+      "sourceUrl": null,
+      "webUrl": "https://japantoday.com/category/features/opinions/calling-asians-%27robotic%27-is-a-racist-stereotype-with-a-long-troubled-history?comment-order=popular",
+      "originalUrl": "https://japantoday.com/category/features/opinions/calling-asians-%27robotic%27-is-a-racist-stereotype-with-a-long-troubled-history?comment-order=popular",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Japan Today",
+        "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-banks-using-ai-are-ripe-for-russian-sabotage-report.md",
+      "title": "Banks Using AI Are Ripe for Russian Sabotage: Report",
+      "excerpt": "Experts worry machine learning's reliance on large data sets to train make them particularly vulnerable to data manipulation attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118",
+      "originalUrl": "https://gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5d71f36ce0903f5bf93ce3b439ef76fe.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/banks-using-ai-are-ripe-for-russian-sabotage-report-1848687118/amp",
+      "publishedDateTime": "2022-03-22T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-training-fundamentals-of-deep-learning-cuda.md",
       "title": "Training: Fundamentals of Deep Learning & CUDA",
       "excerpt": "Fundamentals of Deep Learning & CUDA, May 2 nd – May 4 th 2022 Content. Accelerators are ubiquitous in today's HPC landscape, offering much higher performance c",
@@ -309,799 +1156,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-could-artificial-intelligence-completely-replace-human-financial-traders.md",
-      "title": "Could Artificial Intelligence Completely Replace Human Financial Traders?",
-      "excerpt": "AI is reshaping the world as we know it. Virtually every business process in every Industry is being transformed by Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/could-artificial-intelligence-completely-replace-",
-      "originalUrl": "https://www.linkedin.com/pulse/could-artificial-intelligence-completely-replace-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEET9K0Dn35yQ/article-cover_image-shrink_600_2000/0/1647973633511?e=1654732800&v=beta&t=VAptDRD8gMp9dd5XwwbnYst6Qm5wJ5cbZoGUOR2PxuU",
-          "width": 546,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models.md",
-      "title": "Microsoft improves Translator and Azure AI services with new AI 'Z-code' models",
-      "excerpt": "Microsoft's new Z-code models, which use a 'Mixture of Experts' approach, are meant to make Translator and other Microsoft AI services perform better and be more efficient to run.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fe1a54347f60483b6b6f64a48f5e3be7dec3ffc9/2022/03/22/059e1b3e-e145-4884-85a7-1e4139be8bfe/microsoftaizcodetranslation.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-improves-translator-and-azure-ai-services-with-new-ai-z-code-models/",
-      "publishedDateTime": "2022-03-22T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical.md",
-      "title": "BYJU’S Appoints Former Facebook Tech Lead Majid Yazdani as VP, BYJU’S Lab to Scale Research and Innovation Vertical",
-      "excerpt": "BYJU’S, the world’s leading edtech company, today announced the appointment of Majid Yazdani as Vice President at BYJU’S Lab to propel and further shape the future of education. Working on personalisation and other AI applications to the education sector,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=635287",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=635287",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions.md",
-      "title": "U of S researcher dives into deep learning to find global solutions",
-      "excerpt": "One of the major global challenges that can be addressed by deep learning computing is food security. Research conducted by University of Saskatchewan graduate student Sakib Mostafa is taking a ...",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/news/local-news/u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions/wcm/3833af64-71e9-4c98-89be-60e51a21a9b8/amp/",
-      "originalUrl": "https://nationalpost.com/news/local-news/u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions/wcm/3833af64-71e9-4c98-89be-60e51a21a9b8/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/thestarphoenix/wp-content/uploads/2022/02/0221_news_young_innovators-mostafa-w.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/news/local-news/u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions/wcm/3833af64-71e9-4c98-89be-60e51a21a9b8/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/news/local-news/u-of-s-researcher-dives-into-deep-learning-to-find-global-solutions/wcm/3833af64-71e9-4c98-89be-60e51a21a9b8/amp/",
-      "publishedDateTime": "2022-03-22T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-logicmonitor-wins-a-2022-artificial-intelligence-excellence-award-from-the-business-intelligence-group.md",
-      "title": "LogicMonitor Wins a 2022 Artificial Intelligence Excellence Award from the Business Intelligence Group",
-      "excerpt": "LogicMonitor, the leading SaaS-based observability and IT operations data collaboration platform for enterprises and managed service providers (MSPs), today announced it has been honored with a 2022 Artificial Intelligence Excellence Award from the Business Intelligence Group.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-santa-barbara-artificial-intelligence-e8844aa1bfb5447cbcf4beb1ae2cefaa",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-santa-barbara-artificial-intelligence-e8844aa1bfb5447cbcf4beb1ae2cefaa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit.md",
-      "title": "BYD, Lucid are latest EV makers to adopt Nvidia’s self-driving toolkit",
-      "excerpt": "At Nvidia's GTC conference, BYD and Lucid Motors announced they have adopted Nvidia's Drive Hyperion architecture to aid automated driving and ADAS features.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/22/byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit/",
-      "originalUrl": "https://techcrunch.com/2022/03/22/byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/DRIVE-Hyperion-9.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/22/byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/22/byd-lucid-are-latest-ev-makers-to-adopt-nvidias-self-driving-toolkit/amp/",
-      "publishedDateTime": "2022-03-22T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws.md",
-      "title": "How Amazon Search achieves low-latency, high-throughput T5 inference with NVIDIA Triton on AWS",
-      "excerpt": "Amazon Search’s vision is to enable customers to search effortlessly. Our spelling correction helps you find what you want even if you don’t know the exact spelling of the intended words. In the past, we used classical machine learning (ML) algorithms with manual feature engineering for spelling correction.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-achieves-low-latency-high-throughput-t5-inference-with-nvidia-triton-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/21/ML-8065-image001-feature.png",
-          "width": 612,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T09:47:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech.md",
-      "title": "NVIDIA Unleashes Arsenal Of AI Innovation With Hopper GPU, Grace CPU, Interconnect And Robotics Tech",
-      "excerpt": "This year's NVIDIA's GTC keynote was actually a live demo, delivered from the simulated constructs of the metaverse, and the announcements in silicon and AI innovation were more than impressive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 333,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239f7d526cef725d5475b3a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/03/22/nvidia-unleashes-arsenal-of-ai-innovation-with-hopper-gpu-grace-cpu-interconnect-and-robotics-tech/amp/",
-      "publishedDateTime": "2022-03-22T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools.md",
-      "title": "Nvidia's New Chips Power AI, Autonomous Vehicles, Metaverse Tools",
-      "excerpt": "Stephen Shankland has been a reporter at CNET since 1998 and covers browsers, microprocessors, digital photography, quantum computing, supercomputers, drone delivery, and other new technology. He has a soft spot in his heart for standards groups and I/O interfaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
-      "originalUrl": "https://www.cnet.com/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e6f9c96c9d41a1111be07334771b84a092d5f7bc/2022/03/22/8a718d1d-ed74-4ab5-aaa0-2517650389e6/nvidia-hopper-h100-ai-chip.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-new-chips-power-ai-autonomous-vehicles-metaverse-tools/",
-      "publishedDateTime": "2022-03-22T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-nvidia-unveils-latest-chips-technology-to-speed-up-ai-computing.md",
-      "title": "Nvidia unveils latest chips, technology to speed up AI computing",
-      "excerpt": "Nvidia Corp NVDA.O on Tuesday announced several new chips and technologies that it said will boost the computing speed of",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidia-unveils-latest-chips-technology-to-speed-up-ai-computing",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidia-unveils-latest-chips-technology-to-speed-up-ai-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nvidia-unveils-latest-chips-technology-to-speed-up-ai-computing",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-unveils-latest-chips-technology-to-speed-up-ai-computing",
-      "publishedDateTime": "2022-03-22T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-live-at-pack-expo-east-tutor-intelligence-rewrites-the-rules-of-collaborative-robots.md",
-      "title": "Live at PACK EXPO East: Tutor Intelligence Rewrites the Rules of Collaborative Robots",
-      "excerpt": "Tutor Intelligence's vision system with hybrid human and artificial intelligence learns tasks without custom programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/factory/robotics/article/22131529/collaborative-robots-adapt-to-complex-environments-in-kitting-feeding-packing-applications",
-      "originalUrl": "https://www.automationworld.com/factory/robotics/article/22131529/collaborative-robots-adapt-to-complex-environments-in-kitting-feeding-packing-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2022/03/Tutor_March2022.6239274e9d9fa.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-york-ie-auditoriaai-extends-finance-cognitive-automation-market-leadership-in-2022.md",
-      "title": "York IE: Auditoria.AI Extends Finance Cognitive Automation Market Leadership in 2022",
-      "excerpt": "today announced significant company growth at Shared Services and Outsourcing Week. This achievement includes greater than 200 percent customer growth, three new products for finance leaders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-03/55569312-york-ie-auditoria-ai-extends-finance-cognitive-automation-market-leadership-in-2022-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-03/55569312-york-ie-auditoria-ai-extends-finance-cognitive-automation-market-leadership-in-2022-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-dow-wins-2022-artificial-intelligence-excellence-award.md",
-      "title": "Dow Wins 2022 Artificial Intelligence Excellence Award",
-      "excerpt": "Dow Polyurethanes’ Predictive Intelligence recognized for scaling AI into operations, driving business and customer value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/march-2022/dow-wins-2022-ai-excellence-award",
-      "originalUrl": "https://www.automation.com/en-us/articles/march-2022/dow-wins-2022-ai-excellence-award",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-nvidia-unveils-latest-chip-to-speed-up-ai-computing.md",
-      "title": "Nvidia unveils latest chip to speed up AI computing",
-      "excerpt": "Nvidia Corp on Tuesday unveiled its latest new graphic chip (GPU), dubbed the H100, saying it will increase the computing speed of artificial intelligence algorithms that increasingly require more power to execute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/03/22/nvidia-unveils-latest-chip-to-speed-up-ai-computing",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/03/22/nvidia-unveils-latest-chip-to-speed-up-ai-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/03/22/1524082.jpg",
-          "width": 800,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical.md",
-      "title": "BYJU’S Appoints Former Facebook Tech Lead Majid Yazdani as VP, BYJU’S Lab to Scale Research and Innovation Vertical",
-      "excerpt": "BYJU’S, the world’s leading edtech company, today announced the appointment of Majid Yazdani as Vice President at BYJU’S Lab to propel and further shape the future of education. Working on personalisation and other AI applications to the education sector,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-united-kingdom-4ae59948ea474eba9dada964129826d0",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-united-kingdom-4ae59948ea474eba9dada964129826d0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-adt-commercial-to-showcase-humanoid-robotics-indoor-drones-at-isc-west-2022.md",
-      "title": "ADT Commercial to showcase humanoid robotics, indoor drones at ISC West 2022",
-      "excerpt": "Over the last several years, the world and overall commercial security landscape transform rapidly in response to various threats. As the industry has looked for a path forward, it’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
-      "publishedDateTime": "2022-03-22T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-gigantor-technologies-provides-an-unbounded-future-for-ai.md",
-      "title": "Gigantor Technologies’ Provides an Unbounded Future for AI",
-      "excerpt": "Gigantor's newest innovation enhances Artificial Intelligence (AI) neural networks by enabling higher frame rates at the highest resolution (HD, 4K, and 8K). In the Patent Title, 'Unbounded ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/gigantor-technologies-provides-an-unbounded-future-for-ai/article_36a01318-5835-5e1e-ab3f-63bec027805d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-icertis-launches-industry-first-contract-intelligence-solution-for-healthcare-providers.md",
-      "title": "Icertis Launches Industry-First Contract Intelligence Solution for Healthcare Providers",
-      "excerpt": "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced the launch of  (ICI) for Healthcare Providers. The industry-first CLM solution helps healthcare providers accelerate digital transformation by modernizing complex agreements such as payer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
-      "originalUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1765967/Patient_Centered_Care_and_Contracts.jpg?w=500",
-          "width": 500,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

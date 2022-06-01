@@ -9,7 +9,7 @@ ampWebUrl: "https://www.astroawani.com/berita-dunia/meet-imagen-googles-new-ai-t
 cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/meet-imagen-googles-new-ai-turns-text-images-363494?amp=1"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 590
     height: 400
     isCached: true
+
+related:
+  - title: "Imagene AI to Demonstrate Real-Time Biomarker Detection From H&E Images at ASCO 2022"
+    excerpt: "Imagene AI, an emerging leader in the field of AI-based precision medicine for cancer, today announced that it will demonstrate its molecular and spatial intelligence platform at the 2022 American Society of Clinical Oncology (ASCO) conference."
+    publishedDateTime: 2022-06-01T15:21:00Z
+    webUrl: "https://www.fox16.com/business/press-releases/globenewswire/8563941/imagene-ai-to-demonstrate-real-time-biomarker-detection-from-he-images-at-asco-2022/"
+    type: article
+    provider:
+      name: Fox16.com
+      domain: fox16.com
+    quality: 10
 
 secured: "LPGmK/zn42YbxNaQlrIBgO3yqy80iAT0k5LjTIX7xRs8hMR48MQTl6pKO/g6PoEgcUjROK5vFHFIiOgA4WZRHylcMSeL06bh1tP5cHx0tJnUM8EiakeoSsqInwJnPeXoDGYuYjjDu+hrJ+hTOG2HSx+xCA2NvYY6DOgrhFPpBWU6t+QbPc2OGDzl5Edvfapcz1d8F/oKt7lxWdIX8bKtFftmQg+CaHpbF7XcsF8c2yvjRue0SrBIQnlZCKlzaGcVdMhzyxAIQw0Ik7Rj5NZ0ax7jWT7Y50ke8EuHeSRB/V1xz+Sd/rPCgtPnSLSmQj/98Z7p9DIN3mJSPyqX+scFlHFZKjVBsmTKSkS2/U4VbmM=;soBuS9f5anmz5o0kgIqSjw=="
 ---

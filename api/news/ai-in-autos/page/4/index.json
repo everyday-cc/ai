@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-28-baidu-leads-years-long-race-for-first-driverless-taxis-in-china.md",
+      "title": "Baidu Leads Years-Long Race for First Driverless Taxis in China",
+      "excerpt": "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous driving, is one of two companies to secure the country’s first permits to operate a fleet of self-driving robotaxis without someone in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloombergquint.com/markets/baidu-leads-years-long-race-for-first-driverless-taxis-in-china",
+      "originalUrl": "https://www.bloombergquint.com/markets/baidu-leads-years-long-race-for-first-driverless-taxis-in-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live.md",
       "title": "Raising monster rounds for self-driving mobility startups on TechCrunch Live",
       "excerpt": "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,",
@@ -1328,49 +1371,6 @@
       "provider": {
         "name": "Business Recorder",
         "domain": "brecorder.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-15-self-driving-lab-used-to-improve-nanocrystal-understanding.md",
-      "title": "Self-driving lab used to improve nanocrystal understanding",
-      "excerpt": "Control Engineering reports that UB researcher Kristofer Reyes and researchers from North Carolina State University have developed and demonstrated a “self-driving lab” that uses artificial intelligence and fluidic systems to advance understanding of metal halide perovskite nanocrystals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalo.edu/ai-data-science/news-events.host.html/content/shared/engineering/home/articles/2022-media-coverage/self-driving-lab-used-to-improve-nanocrystal-understanding.detail.html",
-      "originalUrl": "https://www.buffalo.edu/ai-data-science/news-events.host.html/content/shared/engineering/home/articles/2022-media-coverage/self-driving-lab-used-to-improve-nanocrystal-understanding.detail.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.buffalo.edu/content/shared/engineering/home/articles/2022-media-coverage/self-driving-lab-used-to-improve-nanocrystal-understanding/_jcr_content/teaser.img.512.auto.jpg/1650044413539.jpg",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medicine Buffalo",
-        "domain": "buffalo.edu",
         "images": null,
         "publishers": null,
         "authors": null

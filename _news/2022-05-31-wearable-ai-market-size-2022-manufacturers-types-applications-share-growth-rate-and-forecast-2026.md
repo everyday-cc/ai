@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-size-
 webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2022-05-31"
 type: article
 quality: 52
-heat: 152
+heat: 192
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Ai In Infrastructure Market specifications, detailed research analysis report 2022– 2030"
+    excerpt: "Polaris Market Research, a research consulting company published a pages research report on “Ai In Infrastructure Market: By Size, Share, Growth,"
+    publishedDateTime: 2022-06-01T14:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-infrastructure-market-specifications-detailed-research-analysis-report-2022-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/98f149880a7684385e8c49d5397bbf7a27723e27-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Machine learning as a Service Market to Boost the Growth during the Forecast Period 2022–2030"
     excerpt: "The new report on “Machine learning as a Service Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered"
     publishedDateTime: 2022-05-30T08:12:00Z
@@ -120,6 +134,24 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AI in Fashion Market foresee Share, By Product scrutiny, Application, End-Use, Regional Outlook, Competitive Strategies predict up to 2026"
+    excerpt: "The study on the global market for AI in Fashion evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
+    publishedDateTime: 2022-06-01T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-foresee-share-by-product-scrutiny-application-end-use-regional-outlook-competitive-strategies-predict-up-to-2026-2022-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
+  - title: "Artificial Intelligence (AI) in military Market Research by Key Players, Type and Application, Future Growth to 2028"
+    excerpt: "The global Artificial Intelligence (AI) in military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
+    publishedDateTime: 2022-06-01T12:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-military-market-research-by-key-players-type-and-application-future-growth-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
   - title: "AI in Fintech Analysis, Share, and consumption by Regional data, Investigation and Growth, Demand by Regions, Research Forecasts To 2030"
     excerpt: "Global AI in Fintech Market to surpass USD 39.87 billion by 2030 from USD 8.9 billion in 2020 at a CAGR of 36.81% in the coming years, i.e., 2021-30. Fatpos Global added a new report into their database named “AI in Fintech Market Segments: By Component: Solution Services By Deployment: Cloud On-premise 2021–2031 Global Industry Perspective,"
     publishedDateTime: 2022-05-31T09:34:00Z
@@ -148,6 +180,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Edge Device Market 2022 is Booming across the Globe by Share, Size, Growth, Segments and Forecast to 2030"
+    excerpt: "The Global Artificial Intelligence Edge Device Market size is estimated to be USD 1.73 billion in 2019 and is predicted to reach USD 13.21 billion by 2030"
+    publishedDateTime: 2022-06-01T13:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-edge-device-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "v2UUt+6x2zJC7EwShq5TaVNIkaOjQiyq8P4Ix9uvdGzomBxageGzns3Wm2IFjNAhXrnyf5ay8hktweap5/Bbz4E1R0yFx0Hn+2d81Ka9IyUzHkrt3+4I4AcR1MOQoV5ggVlinHYolQtcBje2Guf+hP9XKb9URXjE134nMA/+DtWL5IiXBNB4ip0bjxkrWanC/4EAxKisOldaxIXWRN8PHU09r0VfOfJqGa7zvhP9BxH9cWnqwI32+ndjHv0NITF8vt5zjwqA2ks7c2N9/H9UK+yFa/ElhY2E7ANqA89dhIK18xSVFRYRg5pEXbrUrPaQr9GPyvnPuxncJnVdtv9oVO5+9Cb/NiKEK0Y1QK3vKbw=;0NlwVSZX7Ha1kabbuev0iw=="
 ---

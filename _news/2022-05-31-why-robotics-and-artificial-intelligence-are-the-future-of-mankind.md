@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-roboti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
 type: article
 quality: 123
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -33,6 +33,15 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Re:Mars Is The Place To Be If You're Into Machine Learning, AI, Robotics And Space"
+    excerpt: "Naturally, since AI will impact everyone, it's crucial to have a diverse ... technology and actual product integrations—what's already out there and how to start bringing it into their daily operations. Next, we discussed the \"final frontier\" of the ..."
+    publishedDateTime: 2022-06-01T13:09:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
   - title: "Robotics and Artificial Intelligence"
     excerpt: "Robotics and Artificial Intelligence When you think of artificially intelligent robots, the Star Wars’ C-3PO and R2-D2 may come to mind, or perhaps that mechanical “bucket of bolts” that agitated Dr."
     publishedDateTime: 2022-05-31T18:59:00Z

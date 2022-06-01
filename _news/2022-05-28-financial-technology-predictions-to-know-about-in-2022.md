@@ -7,7 +7,7 @@ originalUrl: "https://www.flushthefashion.com/culture/financial-technology-predi
 webUrl: "https://www.flushthefashion.com/culture/financial-technology-predictions-to-know-about-in-2022/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Technology Solutions Files 10-K And Audited Financials"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX ), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,"
+    publishedDateTime: 2022-06-01T14:30:00Z
+    webUrl: "https://menafn.com/1104306594/Artificial-Intelligence-Technology-Solutions-Files-10-K-And-Audited-Financials"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?4877"
+        width: 387
+        height: 250
+        isCached: true
   - title: "Firms Specialized in Financial Technology Reach More Borrowers using AI"
     excerpt: "Some online lenders and watchers of the industry believe that the increase in consumer lending creates an opportunity for firms involved in financial technology to flourish by filling the gaps for borrowers who are underrepresented in the market."
     publishedDateTime: 2022-05-27T23:50:00Z

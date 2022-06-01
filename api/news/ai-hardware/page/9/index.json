@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-08-adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text.md",
+      "title": "Adobe Premiere Pro update adds AI-powered Remix for music and 3x faster Speech to Text",
+      "excerpt": "Remix is powered by Adobe Sensei, Adobe's AI technology. Artificial intelligence is used to ... Hardware acceleration plays a key role by using the GPU to speed up exports. The chart below shows the significant difference between Premiere Pro 22.1.1 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text",
+      "originalUrl": "https://www.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3.img-dpreview.com/files/p/E~TS590x0~articles/6096859866/premiere-pro-update-banner.jpeg",
+          "width": 590,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text.amp",
+      "cdnAmpWebUrl": "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/6096859866/adobe-premiere-pro-update-adds-ai-powered-remix-for-music-and-3x-faster-speech-to-text.amp",
+      "publishedDateTime": "2022-02-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Photography Review",
+        "domain": "dpreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-alphaic-starts-sampling-gluon-chip-for-edge-ai.md",
+      "title": "AlphaIC starts sampling Gluon chip for edge AI",
+      "excerpt": "Register here. Start-up AlphaIC yesterday announced that it has begun sampling its Gluon coprocessor for edge AI inference to customers. AlphaIC claims the chip delivers competitive performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
+      "originalUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
+      "publishedDateTime": "2022-02-07T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-alphaics-sampling-gluon-chip-for-edge-ai.md",
       "title": "AlphaICs sampling Gluon chip for edge AI",
       "excerpt": "Register here. Start-up AlphaICs yesterday announced that it has begun sampling its Gluon coprocessor for edge AI inference to customers. AlphaICs claims the chip delivers competitive ...",
@@ -1315,111 +1410,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse.md",
-      "title": "Meta has a giant new AI supercomputer to shape the metaverse",
-      "excerpt": "RSC could be powerful enough to simultaneously translate speech ... \"RSC will enable new AI models that can learn from trillions of examples, understand hundreds of languages and more.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
-      "originalUrl": "https://www.cnet.com/tech/computing/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 449,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/siHq4W98CK1DZnjUDNNGOJaq8Mk=/1200x630/2022/01/23/1b7d5a6f-b387-4fc8-8304-404b063355b7/facebook-meta-ai-supercomputer.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
-      "publishedDateTime": "2022-01-24T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m.md",
-      "title": "Ceremorphic addresses AI, HPC, and the metaverse with QS 1 chip, lands $50M",
-      "excerpt": "Ceremorphic, a startup, is coming out of stealth mode with $50 million of series A funding along with the announcement of the QS 1 chip.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
-      "originalUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
-      "publishedDateTime": "2022-01-24T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

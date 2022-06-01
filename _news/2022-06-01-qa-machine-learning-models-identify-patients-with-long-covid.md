@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T12:59:00Z
 originalUrl: "https://www.healio.com/news/primary-care/20220601/qa-machine-learning-models-identify-patients-with-long-covid"
 webUrl: "https://www.healio.com/news/primary-care/20220601/qa-machine-learning-models-identify-patients-with-long-covid"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Healio

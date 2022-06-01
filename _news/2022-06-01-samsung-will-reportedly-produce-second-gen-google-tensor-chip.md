@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T11:58:00Z
 originalUrl: "https://beebom.com/samsung-making-google-tensor-2-chip/"
 webUrl: "https://beebom.com/samsung-making-google-tensor-2-chip/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Beebom

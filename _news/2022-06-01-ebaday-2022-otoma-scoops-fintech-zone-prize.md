@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T12:56:00Z
 originalUrl: "https://www.finextra.com/newsarticle/40369/ebaday-2022-otoma-scoops-fintech-zone-prize"
 webUrl: "https://www.finextra.com/newsarticle/40369/ebaday-2022-otoma-scoops-fintech-zone-prize"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Finextra

@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Reimagining the world: Spacee, American University of Ras Al Khaimah held The Importance of Artificial Intelligence seminar"
-excerpt: "Addressing the importance and impact of artificial intelligence across multiple sectors, including healthcare, retail, manufacturing, banking, life sciences and cyber security, Skip pulled from his experience as CEO and as an AI professional to enlighten students."
-publishedDateTime: 2022-06-01T08:00:00Z
-originalUrl: "https://www.informazione.it/c/1CD7E161-D010-48AB-B89A-D24D8C400B63/Reimagining-the-world-Spacee-American-University-of-Ras-Al-Khaimah-held-The-Importance-of-Artificial-Intelligence-seminar"
-webUrl: "https://www.informazione.it/c/1CD7E161-D010-48AB-B89A-D24D8C400B63/Reimagining-the-world-Spacee-American-University-of-Ras-Al-Khaimah-held-The-Importance-of-Artificial-Intelligence-seminar"
-ampWebUrl: "https://www.informazione.it/c/1CD7E161-D010-48AB-B89A-D24D8C400B63/amp/Reimagining-the-world-Spacee-American-University-of-Ras-Al-Khaimah-held-The-Importance-of-Artificial-Intelligence-seminar"
-cdnAmpWebUrl: "https://www-informazione-it.cdn.ampproject.org/c/s/www.informazione.it/c/1CD7E161-D010-48AB-B89A-D24D8C400B63/amp/Reimagining-the-world-Spacee-American-University-of-Ras-Al-Khaimah-held-The-Importance-of-Artificial-Intelligence-seminar"
+excerpt: "In pursuit of knowledge and experience sharing, Spacee, which provides the best computer vision and AI solutions for retailers and"
+publishedDateTime: 2022-06-01T09:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/reimagining-the-world-spacee-american-university-of-ras-al-khaimah-held-the-importance-of-artificial-intelligence-seminar-878307752.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/reimagining-the-world-spacee-american-university-of-ras-al-khaimah-held-the-importance-of-artificial-intelligence-seminar-878307752.html"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: informazione
-  domain: informazione.it
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "fz4AafkGT/g3SV4hERXTX7S2USmXX2FXWMbG4U4T0Wbu8SgSphygROwnFRG17MEw3jVt9Y7IA7Z5Y9MFsD/O81SbBvlmBLQ1ImvCGs+WYRujU62wV0izvM/6N5wXQkoEzcaXP9TEbkYN9+DOJL8ikU8C/qMNGdfCvRlfijqTGMyNbox+WN/5PoqpC1TQOnXVTOIYQO2Qt01k/NdkruXr/hq165X8I8xrilqDsUBE1wW5p3/ecPev2LBrcTlaQpN1c6IKufO4dmBQCH4+7QhynPe1lq7hNhVbg1Pd74hcW32CQZXovMK478sCGQez6XcNV9umwxEGSNXAKHPVocamhoMllURtO5LVXlXg24woKVk=;L0zLk78kfaexeR2upuRYEQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1830408/SPACEE_AURAK.mp4?p=thumbnail"
+    width: 512
+    height: 288
+    isCached: true
+
+secured: "rWtK4NUIXxquq4ImphWK56eRq5LiesbRwo9ccGSWVA+d8viLTZqc+KSFYy+b0VFH0nApuAg/+lhS8SIkHXmJ4lWJke/rusHr1EOf2JDsahc/z+poZG9ks/gcv1DGxke2qDIC2RivY5G6coWnG8je9gkFv2kG/86M0xcsdakmTvULzOibC0KC4LFg1hsTZ2Y717XPCLjRDqv0wcrQkLGrw3piie7shL+9ky1mFiMBjHNDgyj6Qa/76ldgJ/bzbJxVeqB7WBQi2RxpWr3wwIOUlmb4W7wC5uG0ACrx7g/CC6LrQDeE3zYgiIgkhfqVsPAwpsOHZANBjeJ01eoLq6LfOwW84uCSFWhDxkkOjQWmrIE=;mgcahHzevcXnbMB7Wc3glQ=="
 ---
 

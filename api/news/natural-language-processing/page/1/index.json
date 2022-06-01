@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-01-ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game.md",
+      "title": "AI and natural language processing are here to change the IELTS prep game!",
+      "excerpt": "IELTS test aspirants, over the years, have been confounded by how to self-assess their writing and speaking skills. It is not as if you can have a certified tutor available at hand all the time. But thanks to natural language processing and artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.html",
+      "originalUrl": "https://www.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2022/6/1/w600X390/DELSEP2021430_06062246.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.amp",
+      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.amp",
+      "publishedDateTime": "2022-06-01T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "edexlive",
+        "domain": "edexlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-googles-massive-language-translation-work-identifies-where-it-goofs-up.md",
       "title": "Google's massive language translation work identifies where it goofs up",
       "excerpt": "For low-resource languages such as kalaallisut and Fula, a big effort to find out what is lost in translation.",
@@ -1362,50 +1405,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit.md",
-      "title": "Texans can no longer use certain Instagram filters due to facial recognition lawsuit",
-      "excerpt": "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
-      "originalUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
-      "publishedDateTime": "2022-05-12T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSAT",
-        "domain": "ksat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

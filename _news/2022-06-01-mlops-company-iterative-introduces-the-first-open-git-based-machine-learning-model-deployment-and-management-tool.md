@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T13:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-mlops-company-iterative-introduces-the-first-open-git-based-machine-learning-model-deployment-and-management-tool"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-mlops-company-iterative-introduces-the-first-open-git-based-machine-learning-model-deployment-and-management-tool"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Daily Herald

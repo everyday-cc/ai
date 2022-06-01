@@ -520,10 +520,10 @@
     {
       "path": "_news/2022-05-25-contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b-decision-makers.md",
       "title": "CONTENTGINE EMPLOYS ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TO ANALYZE MOST POPULAR AI CONTENT AMONG B2B DECISION MAKERS",
-      "excerpt": "Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by its Content Indication Platform (CIP).",
+      "excerpt": "RENO, Nev., May 25, 2022 /PRNewswire/ -- Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-contentgine-employs-artificial-intelligence-machine-learning-analyze-most-/2022/05/25/9609252.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-contentgine-employs-artificial-intelligence-machine-learning-analyze-most-/2022/05/25/9609252.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -533,11 +533,55 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid.md",
+      "title": "TigerGraph ML Workbench Delivers Deep Learning and Graph Neural Network Frameworks for Rapid,",
+      "excerpt": "The ML Workbench is a Jupyter-based Python development framework that allows data scientists to quickly build powerful deep learning AI models using connected data. Graph-enabled ML has more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid/article_7d3502f7-c1f3-593b-9e08-8b145d8db17f.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid/article_7d3502f7-c1f3-593b-9e08-8b145d8db17f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-25T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -625,6 +669,49 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities.md",
+      "title": "Kao Data to Host Speechmatics' HPC and AI Supercomputer, Expanding Deep Learning Capabilities",
+      "excerpt": "Speechmatics' work within artificial intelligence-powered neural networks provides highly accurate speech-to-text to global enterprise businesses.To support its expansion Speechmatics required a specialist,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1286,102 +1373,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-top-10-ai-graduate-degree-programs.md",
-      "title": "Top 10 AI graduate degree programs",
-      "excerpt": "neural networks, reinforcement learning, and robotics. It hosts myriad research centers and labs, including the Laboratory for Artificial Intelligence, which opened its doors in 1983 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html",
-      "originalUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/05/skills_programmer_data-scientist_graduate_school_college_certification_mortar-board_valedictorian_cole-keister-via-unsplash-100759473-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html/amp",
-      "publishedDateTime": "2022-05-22T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-new-deep-learning-technique-paves-path-to-pizza-making-robots.md",
-      "title": "New deep learning technique paves path to pizza-making robots",
-      "excerpt": "A new deep learning technique developed by researchers shows promise to make robotics systems more stable in handling deformable objects.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots",
-      "originalUrl": "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FRobotPizza.jpg&signature=6ac11f10998502e3a24f329632f83cba",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

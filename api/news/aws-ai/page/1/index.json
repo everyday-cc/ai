@@ -195,6 +195,41 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b-decision-makers.md",
+      "title": "CONTENTGINE EMPLOYS ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TO ANALYZE MOST POPULAR AI CONTENT AMONG B2B DECISION MAKERS",
+      "excerpt": "RENO, Nev., May 25, 2022 /PRNewswire/ -- Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
       "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
       "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
@@ -501,12 +536,46 @@
       ]
     },
     {
+      "path": "_news/2022-05-18-temenos-puts-digital-banking-on-aws.md",
+      "title": "Temenos puts digital banking on AWS",
+      "excerpt": "Temenos (SIX: TEMN) and Amazon Web Services (AWS), have extended their global relationship to run Temenos onboarding and origination solutions on AWS. The technology collaboration aims to allow all retail and commercial banks - incumbents and challengers - to provide digital onboarding and origination solutions with higher performance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws",
+      "originalUrl": "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-pieces-selected-for-amazon-web-services-aws-health-equity-program.md",
       "title": "Pieces Selected for Amazon Web Services (AWS) Health Equity Program",
       "excerpt": "Pieces, a healthcare AI company, today announced that it has been selected for a new global program from Amazon Web Services (AWS) supporting organizations that are developing solutions to advance health equity.",
       "sourceUrl": null,
-      "webUrl": "https://wgno.com/business/press-releases/cision/20220518SF61284/pieces-selected-for-amazon-web-services-aws-health-equity-program/",
-      "originalUrl": "https://wgno.com/business/press-releases/cision/20220518SF61284/pieces-selected-for-amazon-web-services-aws-health-equity-program/",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604351.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604351.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -525,11 +594,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T05:03:00-07:00",
+      "publishedDateTime": "2022-05-18T04:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WGNO",
-        "domain": "wgno.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -573,49 +642,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-temenos-puts-digital-banking-on-aws.md",
-      "title": "Temenos puts digital banking on AWS",
-      "excerpt": "Temenos and AWS started working together in 2019 to ... voice and chat recording, built-in artificial intelligence (AI) and machine learning (ML) to personalize interactions, pay-as-you-go pricing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/92681",
-      "originalUrl": "https://www.finextra.com/pressarticle/92681",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1377,49 +1403,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-at-jpmorgan-chase-upskilling-goes-hand-in-hand-with-innovation.md",
-      "title": "At JPMorgan Chase, Upskilling Goes Hand-in-Hand With Innovation",
-      "excerpt": "It sounds like a scene from your typical automotive race, but it’s not. It’s actually the championship round of the 2021 Amazon Web Services DeepRacer, the global competition in which technologists flex their machine learning savvy to guide autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.builtinchicago.org/2022/05/11/jpmorgan-chase-upskilling-innovation",
-      "originalUrl": "https://www.builtinchicago.org/2022/05/11/jpmorgan-chase-upskilling-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/styles/og/public/2022-05/JPMC_Spotlight_Thumbnail_1024x576.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Built In Chicago",
-        "domain": "builtinchicago.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

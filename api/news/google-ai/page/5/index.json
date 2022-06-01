@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-03-deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe.md",
+      "title": "DeepMind co-founder plans to help U.S. VC firm Greylock penetrate Europe",
+      "excerpt": "Greylock has profited from early bets on U.S. tech giants like Airbnb, Facebook and LinkedIn but it also wants to capitalize on fast-growing companies in Europe. DeepMind co-founder Mustafa Suleyman is planning to help U.S. venture capital firm Greylock ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe/ar-AATr2HE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106830698-1611754303373-GettyImages-627782598.jpg?v=1611755158",
+          "width": 5496,
+          "height": 3664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
+      "publishedDateTime": "2022-02-03T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
+        "domain": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code.md",
+      "title": "Bad news for developers? Deepmind's AI is getting good at writing code",
+      "excerpt": "Researchers from Google's AI-focused unit DeepMind claim its AlphaCode system can express solutions to problems in code that achieves a median-level score in programming competitions undertaken by new programmers. Those competitions require humans to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0cd0c1ca8b8990cef9e8b17289258a491448ac55/2021/06/21/e487ce2e-c1f8-41e7-80ed-00f2310ac673/developers-heres-what-they-really-think-60d0614cb5c5a73d0c2020e1-1-jun-21-2021-11-35-52-poster.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "publishedDateTime": "2022-02-03T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-googles-deepmind-says-its-ai-coding-bot-is-competitive-with-humans.md",
+      "title": "Google's DeepMind says its AI coding bot is 'competitive' with humans",
+      "excerpt": "Alphabet-owned AI outfit DeepMind claims it has created an AI that can write programming code, find novel solutions to interesting problems, and do it at the level of the mid-ranking human entrants in coding contests. Dubbed \"AlphaCode\" and detailed in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/03/alphacode_automated_coding/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/02/03/alphacode_automated_coding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/05/07/shutterstock_robot_typing_using_computer.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/03/alphacode_automated_coding/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/03/alphacode_automated_coding/",
+      "publishedDateTime": "2022-02-02T19:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-deepmind-says-its-new-ai-coding-engine-is-as-good-as-an-average-human-programmer.md",
       "title": "DeepMind says its new AI coding engine is as good as an average human programmer",
       "excerpt": "DeepMind has created an AI system named AlphaCode that it says “writes computer programs at a competitive level.” The Alphabet subsidiary tested its system against coding challenges used in ...",
@@ -1391,162 +1538,6 @@
       ],
       "topics": [
         "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-pix2pix-image-to-image-translation-with-a-conditional-gan.md",
-      "title": "pix2pix: Image-to-image translation with a conditional GAN",
-      "excerpt": "This tutorial demonstrates how to build and train a conditional generative adversarial network (cGAN) called pix2pix that learns a mapping from input images to output images, as described in Image-to-image translation with conditional adversarial networks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/generative/pix2pix?hl=no",
-      "originalUrl": "https://www.tensorflow.org/tutorials/generative/pix2pix?hl=no",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=no",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-playing-cartpole-with-the-actor-critic-method.md",
-      "title": "Playing CartPole with the Actor-Critic Method",
-      "excerpt": "Actor-Critic methods are temporal difference (TD) learning methods that represent the policy function independent of the value function. A policy function (or policy) returns a probability distribution over actions that the agent can take based on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
-      "originalUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sr",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-simple-audio-recognition-recognizing-keywords.md",
-      "title": "Simple audio recognition: Recognizing keywords",
-      "excerpt": "This tutorial demonstrates how to preprocess audio files in the WAV format and build and train a basic automatic speech recognition (ASR) model for recognizing ten different words. You will use a portion of the Speech Commands dataset (Warden, 2018), which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/audio/simple_audio?hl=lv",
-      "originalUrl": "https://www.tensorflow.org/tutorials/audio/simple_audio?hl=lv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=lv",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Google AI",
         "AI"
       ]

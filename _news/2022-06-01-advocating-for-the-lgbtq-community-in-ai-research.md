@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/advocating-for-the-lgbtq-community-in-ai-research"
 webUrl: "https://www.deepmind.com/blog/advocating-for-the-lgbtq-community-in-ai-research"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: DeepMind

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-06-googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing.md",
+      "title": "Google’s cloud-based approach offers open ecosystem for data sharing",
+      "excerpt": "Google's new releases emphasize breaking barriers between clouds from different merchants and also self-hosting options by the customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/",
+      "originalUrl": "https://venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/amp/",
+      "publishedDateTime": "2022-04-05T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space.md",
       "title": "New Microsoft Azure services will help us learn about the darkest reaches of space",
       "excerpt": "Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new tab) and Azure Custom Vision. We’ll likely hear more ...",
@@ -1367,49 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "ThetaRay Transaction Monitoring Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "ThetaRay, provider of AI-powered transaction monitoring technology to protect banks and fintechs against financial crimes, today announced the availability",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-transaction-monitoring-now-available-in-the-microsoft-azure-marketplace/article_e259606b-33f5-5e67-92f6-1d671657497f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

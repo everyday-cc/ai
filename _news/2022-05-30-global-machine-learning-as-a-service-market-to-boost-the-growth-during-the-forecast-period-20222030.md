@@ -85,6 +85,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Ai In Infrastructure Market specifications, detailed research analysis report 2022– 2030"
+    excerpt: "Polaris Market Research, a research consulting company published a pages research report on “Ai In Infrastructure Market: By Size, Share, Growth,"
+    publishedDateTime: 2022-06-01T14:14:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-infrastructure-market-specifications-detailed-research-analysis-report-2022-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/98f149880a7684385e8c49d5397bbf7a27723e27-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Artificial Intelligence And Machine Learning Market Is Likely to Enjoy Remarkable Growth (2022-2027)"
     excerpt: "Worldwide Artificial Intelligence And Machine Learning Market In-depth Research Report 2022, Forecast to 2027 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support (2022-2027)."
     publishedDateTime: 2022-05-31T09:53:00Z
@@ -117,6 +131,24 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AI in Fashion Market foresee Share, By Product scrutiny, Application, End-Use, Regional Outlook, Competitive Strategies predict up to 2026"
+    excerpt: "The study on the global market for AI in Fashion evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
+    publishedDateTime: 2022-06-01T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-foresee-share-by-product-scrutiny-application-end-use-regional-outlook-competitive-strategies-predict-up-to-2026-2022-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
+  - title: "Artificial Intelligence (AI) in military Market Research by Key Players, Type and Application, Future Growth to 2028"
+    excerpt: "The global Artificial Intelligence (AI) in military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
+    publishedDateTime: 2022-06-01T12:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-military-market-research-by-key-players-type-and-application-future-growth-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
   - title: "AI in Fintech Analysis, Share, and consumption by Regional data, Investigation and Growth, Demand by Regions, Research Forecasts To 2030"
     excerpt: "Global AI in Fintech Market to surpass USD 39.87 billion by 2030 from USD 8.9 billion in 2020 at a CAGR of 36.81% in the coming years, i.e., 2021-30. Fatpos Global added a new report into their database named “AI in Fintech Market Segments: By Component: Solution Services By Deployment: Cloud On-premise 2021–2031 Global Industry Perspective,"
     publishedDateTime: 2022-05-31T09:34:00Z
@@ -145,6 +177,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence Edge Device Market 2022 is Booming across the Globe by Share, Size, Growth, Segments and Forecast to 2030"
+    excerpt: "The Global Artificial Intelligence Edge Device Market size is estimated to be USD 1.73 billion in 2019 and is predicted to reach USD 13.21 billion by 2030"
+    publishedDateTime: 2022-06-01T13:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-edge-device-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "lSEz8My/qPqtCqXoQ2NIdIHhpYP+4CmWCDMdKdC/NSVtldy/ckITkWrax3Z3mQJs3uppBjkTALBn8Q5SK0Xz9fNrwA8TAzMeD3cFI9V2Bn23WoLO4tlRwM4GRBB2zOlot5FTjEYoEZBF2ykqdhIO604A8M5aRxCyLQGqFtKl2qzYCOMoPj4l52ZrEoGfZIH8CZv4vaCXJdjixyA9b8kftxyos8gtYJlgBr48RBHkeDqnVmKTCSdSvWZTwQxp8cFzDA7DMabZGLx2RJhR0/BPtZod92IeQhZMvq5AVjL466pfpwfvez00vteSrF38vjoDx522fN8mFuOGfhy2WWJsrGUy/S4dVrnugLfzW4qQod0=;KTtMYniBRz8jl7mRBdUEpQ=="
 ---

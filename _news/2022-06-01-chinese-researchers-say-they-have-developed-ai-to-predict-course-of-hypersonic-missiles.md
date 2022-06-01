@@ -24,24 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers predict Crystal properties through AI-assisted machine learning"
-    excerpt: "Researchers from IIT Kharagpur in collaboration with the Indo-Korea Science and Technology Center (IKST) have developed a method called CrysXPP to predict the properties of crystalline"
-    publishedDateTime: 2022-05-31T17:59:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/researchers-predict-crystal-properties-through-ai-assisted-machine-learning-746075"
+  - title: "China's AI defense can reportedly predict the course of hypersonic missiles"
+    excerpt: "Researchers from China have claimed to have developed artificial intelligence-based technology that can predict the course of hypersonic missiles."
+    publishedDateTime: 2022-06-01T15:56:00Z
+    webUrl: "https://interestingengineering.com/china-ai-defense-predict-course-missiles"
+    ampWebUrl: "https://amp.interestingengineering.com/china-ai-defense-predict-course-missiles"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/china-ai-defense-predict-course-missiles"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 32
-  - title: "IIT Kharagpur researchers predict crystal properties through AI-assisted machine learning"
-    excerpt: "Machine learning algorithms are data-intensive which involves large amounts of data from the source materials labelled with property labels to accurately predict properties of new crystals, a spokesperson of IIT Kharagpur said on Tuesday."
-    publishedDateTime: 2022-05-31T12:14:00Z
-    webUrl: "https://news.careers360.com/iit-kharagpur-researchers-predict-crystal-properties-through-ai-assisted-machine-learning"
-    type: article
-    provider:
-      name: Careers360
-      domain: careers360.com
-    quality: 25
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 55
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DavnNwx/sizes/missile_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "TnxHYRNNGs+mRMxJDXtob9UIM47ezIf0erYSnQBOo9lBa03KgNZY752WtLCU3U07dyVHet1afS1HmnLOHVwgJ6KWHGymb69wLmcArilbH/KuUIWWqASrxRXAJIVcUH9gHIVkze6zkpaTqMRqJ+J99bDWyTqfL12XQzmgsi01WJjxoqwIZekpe/T7+CM42RgmjyDLe9kSXxBz7mLZviHPPMrUARtRGfScutlhEpqVSLQtkB83Isk95Y1ZkPoWMSZJfCnHTiQVXxqeJQl2g04GZJIDV4QICsWuRUeT6Yb0fCA37z7lXPgZD40tYajr38iyTpq69izLRXFDhMeEOplcfmC/4196GxvV7j3llXuHLQs=;J5wdpeL2rOSBP8jmCG28PA=="
 ---

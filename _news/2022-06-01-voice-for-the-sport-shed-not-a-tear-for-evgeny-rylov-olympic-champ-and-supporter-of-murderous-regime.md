@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T12:17:00Z
 originalUrl: "https://www.swimmingworldmagazine.com/news/voice-for-the-sport-shed-not-a-tear-for-evgeny-rylov-olympic-champ-and-supporter-of-murderous-regime/"
 webUrl: "https://www.swimmingworldmagazine.com/news/voice-for-the-sport-shed-not-a-tear-for-evgeny-rylov-olympic-champ-and-supporter-of-murderous-regime/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Swimming World

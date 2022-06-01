@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Media Alert: BrainChip Discusses Impact of AI with Marc Staimer on Latest ‘This is our Mission’ Podcast"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 29, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of"
-publishedDateTime: 2022-05-29T21:34:00Z
-originalUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-discusses-impact-of-ai-with-marc-staimer-on-latest-this-is-our-mission-podcast"
-webUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-discusses-impact-of-ai-with-marc-staimer-on-latest-this-is-our-mission-podcast"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 29, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, today announced that Marc Staimer,"
+publishedDateTime: 2022-05-29T21:31:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-4ed735cc2a8449626664b432849e6d83"
+webUrl: "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-4ed735cc2a8449626664b432849e6d83"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Uvaldes-young-survivors-AFP-1K-01-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 2
 
-secured: "hI0dfHwjUR2Jh+akokK/oDsuLLL1m3liY5sk3ZB8ZigoWOP7RStD6n5yInBWYvJrYB76dyon/LqRAM/Nb7Jn/C4bXjupuIWeyzwQ7RaS4nK9WfWkAV1Gw37gbG7Sq775yOzNja4t6ncMIZne+wVhF5SBEsfunsqB9pPBP7Mw1SCb6cARqduNoM/kJq6kPMV5XCY8FngYgKWZx4V67yYOPp6TkXHCw50IHeWRRi5JgCcD35/Ti48vQ4Pcjp/3/Eq9j/fZDqWl0KY/iv78ColxQjewmRa7ybppuvHCLG36D9Ow7A4iHHV0T8obbosvNEQjKXmDRWDRIa8IWQuO5/V7OmM0L8MbhVyQcb6XEQP5Ash+tYrUZPTkpBRvho7UY+mLYl20/NQTfgacknZoy/cXZgSOJ+7USalpNJiCvj2oeuSWych5rXEPntXHf1ThLZNN8suJLky5ML2g4og9tEhDsItJa1Q6E4DIJjN95nIIggfDgwUZHjlQETcaNELHCF7oZmR02gOdtPgLj6a8BrU/Dg==;emqDxSIANP//BjnVlJ3HyQ=="
+secured: "odttH6FbF+9AszHiKSrI/JNrH8j9TMfukdQ2TfyTfY7zOzd7hqyZf5gzsaGI/h1t/QpysDIoqqk3eCazvy/sE95wGdwYIuhBeT7eflPEQVXiKPFAhUVcB+YDGlySZdZRzg9dVpV5Dkj+C49AX/VWmSLc7wNjD8L8s/0IDXsPSSNU1dHwENrP7RJBNjd0SSeejtxm9nAO/xZkWVd14C+89EdpOSTNmBX/9AeFUNhfPAuzRiuZa3n9Iu7zoi7b0pg+ZM8ROa0jjxkeRvZ1Pgyjqxb8Msq0udTAl3hGpt9XlUiinw+Yg0gSIFGXTPPBCj8/lrgl+DtMMXxF7fu+Jp663DZv622bqFyhPYs++znL6tw=;Q2h0sibBBJy3WXEHjoulKg=="
 ---
 

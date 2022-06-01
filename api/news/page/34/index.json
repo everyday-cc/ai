@@ -2,6 +2,890 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-04-29-intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.md",
+      "title": "Intel warns of chip shortages due to Chinese COVID lockdowns",
+      "excerpt": "Intel’s Datacenter and AI Group, its second largest business group ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html",
+      "originalUrl": "https://www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/04/Intel-18A-Gelsinger-1.png?w=1024",
+          "width": 1023,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html/amp",
+      "publishedDateTime": "2022-04-28T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
+      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html",
+      "originalUrl": "https://www.stltoday.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_64f01cd3-510c-5779-b385-e9ae9ce9a288.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/7f/57f67885-70b8-5cef-a28e-a3cc1e5e6e85/626a3f1052c4b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-natural-language-processing-the-new-language-for-marketing.md",
+      "title": "Natural language processing: The new language for marketing",
+      "excerpt": "With natural language processing or NLP, marketers can employ computers to understand, interpret and analyse data sourced from text and human speech to better engage and retain customers, says Tata Consultancy Services’ Amit Tiwari. Marketing as a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.warc.com/newsandopinion/opinion/natural-language-processing-the-new-language-for-marketing/5690",
+      "originalUrl": "https://www.warc.com/newsandopinion/opinion/natural-language-processing-the-new-language-for-marketing/5690",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.warc.com/images-site/warc-logo-opg.png",
+          "width": 1200,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Warc",
+        "domain": "warc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
+      "title": "People in Beijing can now book a taxi with no one at the wheel",
+      "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://auburnpub.com/news/national/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/article_8b3dda8f-68b4-56b4-9ab4-c39f0d14a919.html",
+      "originalUrl": "https://auburnpub.com/news/national/people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel/article_8b3dda8f-68b4-56b4-9ab4-c39f0d14a919.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/f/55/f55b6e25-7254-576e-b366-2a83bc630158/626b10245cf15.image.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auburn Citizen",
+        "domain": "auburnpub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-how-ai-and-video-are-redefining-talent-recruitment.md",
+      "title": "How AI and video are redefining talent recruitment",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/",
+      "originalUrl": "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design8.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/how-ai-and-video-are-redefining-talent-recruitment/amp/",
+      "publishedDateTime": "2022-04-28T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams.md",
+      "title": "Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams",
+      "excerpt": "Today, AWS announced the general availability of Amazon Rekognition Streaming Video Events, a fully managed service for camera manufacturers and service providers that uses machine learning (ML) to detect objects such as people, pets, and packages in live video streams from connected cameras. Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Tangelo-2x-2-tile-image-with-bounding-boxes.png",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T13:41:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search.md",
+      "title": "Open source NLP company Deepset nabs $14M to power ‘plain-English’ enterprise search",
+      "excerpt": "Deepset has built an open source NLP framework called Haystack, which helps companies build pipelines to power plain-English data queries.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/",
+      "originalUrl": "https://venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/DeepsetFounders.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/open-source-nlp-company-deepset-nabs-14m-to-power-plain-english-enterprise-search/amp/",
+      "publishedDateTime": "2022-04-28T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners.md",
+      "title": "PowerVoice, the world's best AI voice biometric technology, is recruiting global partners",
+      "excerpt": "“Panoramic view of Korea Water Resources Corporation’s artificial intelligence control room remotely monitored with the voice recognition function of Power Voice” PowerVoice claimed to have commercialized the world’s first voice recognition service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/ab26880195/powervoice-the-worlds-best-ai-voice-biometric-technology-is-recruiting-global-partners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26880195",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26880195",
+      "publishedDateTime": "2022-04-28T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live.md",
+      "title": "Raising monster rounds for self-driving mobility startups on TechCrunch Live",
+      "excerpt": "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
+      "originalUrl": "https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TCL-2022-05-11-featured-1920x1080-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live/amp/",
+      "publishedDateTime": "2022-04-28T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler.md",
+      "title": "Pandas user-defined functions are now available in Amazon SageMaker Data Wrangler",
+      "excerpt": "Amazon SageMaker Data Wrangler reduces the time to aggregate and prepare data for machine learning (ML) from weeks to minutes. With Data Wrangler, you can select and query data with just a few clicks, quickly transform data with over 300 built-in data transformations, and understand your data with built-in",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Featured-images-for-ML-9272-new.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T10:38:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-the-field-of-ai.md",
+      "title": "Cerebras Systems’ dinner plate-sized chips are revolutionizing the field of AI",
+      "excerpt": "When big isn't big enough, you go bigger. And when that isn't big enough, you go Cerebras Systems big. But how much does size matter?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai",
+      "originalUrl": "https://thenextweb.com/news/cerebras-systems-dinner-plate-sized-chips-are-revolutionizing-field-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2Fcerebras-chip.jpg&signature=33b94c65c924c926aa93ff8a248753b1",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-this-ai-designed-enzyme-can-devour-plastic-trash-in-hours-video.md",
+      "title": "This AI-Designed Enzyme Can Devour Plastic Trash In Hours: Video",
+      "excerpt": "A new enzyme developed by researchers in Texas has raised hopes of a viable method to break down and recycle some of the millions of tons of waste plastic polluting the Earth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/",
+      "originalUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626917e9bf251683c124e08a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidrvetter/2022/04/28/scientists-use-ai-to-make-an-enzyme-that-eats-plastic-trash-in-hours-video/amp/",
+      "publishedDateTime": "2022-04-28T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-inworld-shows-off-impressive-ai-powered-character-generation-and-interaction.md",
+      "title": "Inworld shows off impressive AI-powered character generation and interaction",
+      "excerpt": "Characters in games and other digital experiences tend to be rather static, working from a set of lines and responses written long ago. But the future of games could be more responsive, generative, and of course AI-powered — something Inworld AI is attempting to enable with a newly available beta",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
+      "originalUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/inworld.jpg?w=1024",
+          "width": 1024,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/inworld-shows-off-impressive-ai-powered-character-generation-and-interaction/amp/",
+      "publishedDateTime": "2022-04-28T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-snap-is-fueling-our-selfie-obsessions-with-a-flying-camera.md",
+      "title": "Snap Is Fueling Our Selfie Obsessions With a Flying Camera",
+      "excerpt": "Snap is mostly known for its sticky social network consisting of fleeting messages and legitimately impressive augmented reality filters. But every so often Snap, which calls itself a “camera company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/snap-pixy-drone-camera/",
+      "originalUrl": "https://www.wired.com/story/snap-pixy-drone-camera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/snap-pixy-drone-camera/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/snap-pixy-drone-camera/amp",
+      "publishedDateTime": "2022-04-28T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-self-driving-tesla-crashes-into-15-million-private-jet-while-being-summoned.md",
+      "title": "Self-driving Tesla crashes into £1.5 million private jet while being ‘summoned’",
+      "excerpt": "One of the self-driving features on a Tesla car is known as ‘smart summon’ and allows the owner to call the car remotely from around 200 feet. Unfortuantely, there’s sometimes an expensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
+      "originalUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/?ico=related-posts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/04/SEC_101095692.jpg?quality=90&strip=all&zoom=1&resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/04/28/self-driving-tesla-crashes-into-1-5-million-private-jet-during-event-16550324/amp/",
+      "publishedDateTime": "2022-04-28T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few.md",
+      "title": "Federal banking agencies trying to ensure AI, ML benefit most rather than the few",
+      "excerpt": "Measuring risks and setting benchmarks for emerging fintech is top of mind for NIST and the Commerce Department.",
+      "sourceUrl": null,
+      "webUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
+      "originalUrl": "https://federalnewsnetwork.com/artificial-intelligence/2022/04/federal-banking-agencies-trying-to-ensure-ai-ml-benefit-most-rather-than-the-few/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://federalnewsnetwork.com/wp-content/uploads/2022/04/stanfordpanel.jpg",
+          "width": 1555,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "federalnewsnetwork.com",
+        "domain": "federalnewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware.md",
+      "title": "Exafunction aims to reduce AI dev costs by abstracting away hardware",
+      "excerpt": "The most sophisticated AI systems today are capable of impressive feats, from directing cars through city streets to writing human-like prose. But they share a common bottleneck: hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/",
+      "originalUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/exafunction-aims-to-reduce-ai-dev-costs-by-abstracting-away-hardware/amp/",
+      "publishedDateTime": "2022-04-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters.md",
+      "title": "Richard Bartle and Richard Garriott: How humans should treat advanced AI characters",
+      "excerpt": "Richard Bartle and Richard Garriott talked at GamesBeat Summit 2022 about being new citizens of the metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
+      "originalUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/garriott-bartle.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
+      "publishedDateTime": "2022-04-28T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-ai-ethics-wrestling-with-the-inevitably-of-ai-accidents-which-looms-over-autonomous-self-driving-cars-too.md",
       "title": "AI Ethics Wrestling With The Inevitably Of AI Accidents, Which Looms Over Autonomous Self-Driving Cars Too",
       "excerpt": "AI accidents of all kinds are coming and we need to anticipate the impacts, along with trying to mitigate the adverse outcomes. Examples shown via autonomous self-driving cars.",
@@ -336,839 +1220,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-comparative-effectiveness-of-an-fda-authorized-digital-therapeutic-to-medications-and-cognitive-behavioral-therapy-treating-chronic-insomnia.md",
-      "title": "Comparative Effectiveness of an FDA-Authorized Digital Therapeutic to Medications and Cognitive Behavioral Therapy Treating Chronic Insomnia in Adults",
-      "excerpt": "Available treatments include guideline-recommended first-line cognitive behavioral therapy for insomnia (CBT-I) and medications. However, limitations such as patient access to CBT-I and limited efficacy, the presence of significant side effects ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/cns-spectrums/article/comparative-effectiveness-of-an-fdaauthorized-digital-therapeutic-to-medications-and-cognitive-behavioral-therapy-treating-chronic-insomnia-in-adults/075B6B3E8D5F87266DB141C25AAC7107",
-      "originalUrl": "https://www.cambridge.org/core/journals/cns-spectrums/article/comparative-effectiveness-of-an-fdaauthorized-digital-therapeutic-to-medications-and-cognitive-behavioral-therapy-treating-chronic-insomnia-in-adults/075B6B3E8D5F87266DB141C25AAC7107",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-emotion-ais-risks-and-rewards-4-tips-to-use-it-responsibly.md",
-      "title": "Emotion AI’s risks and rewards: 4 tips to use it responsibly",
-      "excerpt": "Over the past two weeks, emotions have run high around the evolution and use of emotion AI, which includes technologies such as voice-based emotion analysis and computer vision-based facial expression detection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1198221768.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/risks-and-rewards-of-emotion-ai-4-tips-for-the-enterprise/amp/",
-      "publishedDateTime": "2022-04-28T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
-      "title": "China Grants First Driverless Taxi Permits to Baidu, Pony.ai",
-      "excerpt": "China has granted Chinese internet services company Baidu and a rival autonomous car company, Pony.ai, permits to provide driverless ride-hailing services to the public in Beijing, a significant regulatory step in the country's pursuit of driverless technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/automotive/news/22197712/china-grants-first-driverless-taxi-permits-to-baidu-ponyai",
-      "originalUrl": "https://www.manufacturing.net/automotive/news/22197712/china-grants-first-driverless-taxi-permits-to-baidu-ponyai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2022/04/AP22118230409001.626a998a8824f.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C189%2C1920%2C1080&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-the-emerging-types-of-language-models-and-why-they-matter.md",
-      "title": "The emerging types of language models and why they matter",
-      "excerpt": "AI systems that understand and generate ... but nonetheless capable language model that can translate between languages, write blog posts, complete code and more. More recently, Microsoft and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-facebook-parent-meta-is-studying-the-human-brain-to-improve-ai.md",
-      "title": "Facebook Parent Meta Is Studying the Human Brain to Improve AI",
-      "excerpt": "Queenie Wong is a senior writer for CNET News, who focuses on social media companies including Facebook's parent company Meta, Twitter and TikTok. She previously covered social networks for The Mercury News in San Jose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
-      "originalUrl": "https://www.cnet.com/science/facebook-parent-meta-is-studying-the-human-brain-to-improve-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-trades-union-chief-warns-on-ai-workplace-changes.md",
-      "title": "Trades union chief warns on AI workplace changes",
-      "excerpt": "The general secretary of the UK Trades Union Congress (TUC) has told the BBC that with the rise of Artificial Intelligence in the workplace, employment rights have to keep pace with big changes. \"So often we see those big decisions being taken by [employment] software that has discrimination written in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/business-61255405",
-      "originalUrl": "https://www.bbc.com/news/av/business-61255405",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1F44/production/_124340080_p0c3qnf1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-payroll-provider-symmetricalai-nabs-185m-to-streamline-employee-payouts.md",
-      "title": "Payroll provider Symmetrical.ai nabs $18.5M to streamline employee payouts",
-      "excerpt": "Symmetrical.ai, a payroll provider developing a platform to streamline processes around employee payouts, has raised $18.5 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-874346900.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/payroll-provider-symmetrical-ai-nabs-18-5m-to-streamline-employee-payouts/amp/",
-      "publishedDateTime": "2022-04-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-synthesis-ai-raises-17m-to-generate-synthetic-data-for-computer-vision.md",
-      "title": "Synthesis AI raises $17M to generate synthetic data for computer vision",
-      "excerpt": "Synthesis AI, a platform that generates synthetic data primarily for computer vision applications, has raised $17 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/synthesis-ai-raises-17m-to-generate-synthetic-data-for-computer-vision/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/synthesis-ai-raises-17m-to-generate-synthetic-data-for-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-fintech-startup-finbotsai-raises-3-mn-from-accel-to-expand-its-asia-footprints.md",
-      "title": "Fintech Startup Finbots.AI Raises $3 Mn From Accel To Expand Its Asia Footprints",
-      "excerpt": "Fintech startup Finbots.AI, a venture targeted at banks and financial institutions, has raised $3 Mn in a Series A round from Accel.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/",
-      "originalUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/04/Finbot-Social.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startup-finbots-ai-raises-3-mn-from-accel-to-expand-its-asia-footprints/amp/",
-      "publishedDateTime": "2022-04-28T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-people-in-beijing-can-now-book-a-taxi-with-no-one-at-the-wheel.md",
-      "title": "People in Beijing can now book a taxi with no one at the wheel",
-      "excerpt": "The announcement marks a big step forward for self-driving technology in the world's largest car market. Baidu is best known for its search engine but it also owns the largest autonomous driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "originalUrl": "https://www.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220428000058-01-baidu-apollo-0422-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html",
-      "publishedDateTime": "2022-04-28T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-ford-hints-at-shift-to-middle-mile-autonomous-delivery-with-argo-ai.md",
-      "title": "Ford hints at shift to middle mile autonomous delivery with Argo AI",
-      "excerpt": "Ford and autonomous vehicle technology company Argo AI have been partnering for years to bring high level self-driving capabilities to Ford vehicles. To date, much of that partnership has been realized through robotaxi services and,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/28/ford-hints-at-shift-to-middle-mile-autonomous-delivery-with-argo-ai/",
-      "originalUrl": "https://techcrunch.com/2022/04/28/ford-hints-at-shift-to-middle-mile-autonomous-delivery-with-argo-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024",
-          "width": 1024,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/28/ford-hints-at-shift-to-middle-mile-autonomous-delivery-with-argo-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/28/ford-hints-at-shift-to-middle-mile-autonomous-delivery-with-argo-ai/amp/",
-      "publishedDateTime": "2022-04-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning.md",
-      "title": "The AI Learning Revolution And The End Of One-Size-Fits-All Learning",
-      "excerpt": "As we enter an era of more effective and efficient learning, asynchronously delivered, individually personalized and at scale, we are looking at the AI learning revolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,998,x0,y84,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/28/the-ai-learning-revolution-and-the-end-of-one-size-fits-all-learning/amp/",
-      "publishedDateTime": "2022-04-28T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-low-energy-device-lights-up-artificial-neuronal-networks.md",
-      "title": "Low-Energy Device Lights Up Artificial Neuronal Networks",
-      "excerpt": "To date, research on hardware for artificial intelligence and machine learning applications has concentrated mainly on developing electronic or photonic synapses and neurons, and combining these to carry out basic forms of neural-type processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/low-energy-device-lights-up-artificial-neuronal-networks-361053",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/low-energy-device-lights-up-artificial-neuronal-networks-361053",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/361053/low-energy-device-lights-up-artificial-neuronal-networks-361053-640x360.jpg?cb=20220428",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-be-the-first-to-know.md",
-      "title": "Be the first to know",
-      "excerpt": "Baidu said 10 such autonomous cars began offering ... In 2020, Beijing set a goal for 70% of cars sold in 2030 to have Level 2 and Level 3 self-driving technology. Level 2 is partial driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://greensboro.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_a94af464-ff3d-537b-9505-9a29ffc36332.html",
-      "originalUrl": "https://greensboro.com/lifestyles/technology/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/article_a94af464-ff3d-537b-9505-9a29ffc36332.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/7/9a/79ae647c-2d35-526e-b34e-7a1b158aab14/626a3f0336ce6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News & Record",
-        "domain": "greensboro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers.md",
-      "title": "HPE and Salesforce unveil AI and automation tools for developers",
-      "excerpt": "HPE has launched its Swarm Learning and Machine Learning Development System whilst Salesforce announced further integration with Slack, Tableau, and Mulesoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "originalUrl": "https://www.zdnet.com/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/hpe-and-salesforce-unveil-ai-and-automation-tools-for-developers/",
-      "publishedDateTime": "2022-04-27T23:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-ai-can-close-gaps-in-cybersecurity-tech-stacks.md",
-      "title": "How AI can close gaps in cybersecurity tech stacks",
-      "excerpt": "Using AI and machine learning brings greater intelligence to endpoint and patch management and improves risk-based vulnerability assessments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323419199.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-can-close-gaps-in-cybersecurity-tech-stacks/amp/",
-      "publishedDateTime": "2022-04-27T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud.md",
-      "title": "How AI-driven company Oculeus helps telecom service providers better combat fraud",
-      "excerpt": "Oculeus claims its solutions use AI to help its customers better manage and protect their business and network operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
-      "originalUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1364721861-e1651091651812.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/27/how-ai-driven-company-oculeus-helps-telecom-service-providers-better-combat-fraud/amp/",
-      "publishedDateTime": "2022-04-27T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-uae-vows-responsible-artificial-intelligence-rollout.md",
-      "title": "UAE Vows 'Responsible' Artificial Intelligence Rollout",
-      "excerpt": "aims to have a quarter of its transport driverless by 2030. Abu Dhabi's Mohamed bin Zayed University of Artificial Intelligence, touted as the world's first graduate-level AI university ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104110265/UAE-Vows-Responsible-Artificial-Intelligence-Rollout",
-      "originalUrl": "https://menafn.com/1104110265/UAE-Vows-Responsible-Artificial-Intelligence-Rollout",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-04/27/GT_5838aimage_story.jpg",
-          "width": 620,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

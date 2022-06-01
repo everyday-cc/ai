@@ -2,6 +2,843 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-05-10-how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus.md",
+      "title": "How Much Of A Premium Will Nvidia Charge For Hopper GPUs?",
+      "excerpt": "And network ASIC chips are architected to meet this goal. Nvidia is architecting GPU accelerators to take on ever-larger and ever-more-complex AI workloads, and in the classical HPC sense, it is in pursuit of performance at any cost, not the best cost at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/",
+      "originalUrl": "https://www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-hopper-die-shot.jpg",
+          "width": 435,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/amp/",
+      "publishedDateTime": "2022-05-09T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-clearview-ai-settles-suit-agrees-to-limit-sales-of-facial-recognition-database.md",
+      "title": "Clearview AI settles suit, agrees to limit sales of facial recognition database.",
+      "excerpt": "Clearview AI, the facial recognition software maker, on Monday settled a lawsuit brought by the American Civil Liberties Union and agreed to limit its face database in the United States primarily to government agencies and not allow most American companies to have access to it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 546,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/business/09clearview-aclu-settlement/merlin_166989159_f077e4a8-2604-45d6-9401-ef7212a8286d-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html",
+      "publishedDateTime": "2022-05-09T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-a-prairie-company-is-working-on-the-development-of-an-artificial-intelligence-data-recording-kit.md",
+      "title": "A prairie company is working on the development of an artificial intelligence data recording kit",
+      "excerpt": "Mojow Autonomous Solutions will benefit from a $419 thousand dollar investment for digitization in farming under the Canadian Agricultural Partnerships AgriScience program. Co-founder and President Owen Kinch says they focus on digital technology for agriculture and the money will help in their development of an autonomous navigation controller to be used in agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://discoverestevan.com/articles/a-prairie-company-is-working-on-the-development-of-an-artificial-intelligence-data-recording-kit",
+      "originalUrl": "https://discoverestevan.com/articles/a-prairie-company-is-working-on-the-development-of-an-artificial-intelligence-data-recording-kit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "discoverestevan",
+        "domain": "discoverestevan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round.md",
+      "title": "Brightseed’s first AI-detected ‘phytonutrient’ comes to market alongside a $68M A round",
+      "excerpt": "Who knows what secrets await in the hearts of plants? Brightseed has found a couple of them, anyway, using an AI-based analysis method, and will be bringing its first products to market soon with the help of a $68 million B round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/",
+      "originalUrl": "https://techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/04272022-Brightseed-03.jpg?w=1024",
+          "width": 1024,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/09/brightseeds-first-ai-detected-phytonutrient-comes-to-market-alongside-a-68m-a-round/amp/",
+      "publishedDateTime": "2022-05-09T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-content-moderation-design-patterns-with-aws-managed-ai-services.md",
+      "title": "Content moderation design patterns with AWS managed AI services",
+      "excerpt": "User-generated content (UGC) grows exponentially, as well as the requirements and the cost to keep content and online communities safe and compliant. Modern web and mobile platforms fuel businesses and drive user engagement through social features, from startups to large organizations. Online community",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/content-moderation-design-patterns-with-aws-managed-ai-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/09/l300_contentmod_fig1.png",
+          "width": 948,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T09:00:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology.md",
+      "title": "NGO partners Oyo to train public school students on coding, robotics, drone technology",
+      "excerpt": "Oyo State government is partnering Media and Digital Skills Centre Nigeria to train its public school students on Coding, Robotics, Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "originalUrl": "https://businessday.ng/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/drones.jpg?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "publishedDateTime": "2022-05-09T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-apple-director-of-machine-learning-quits-because-of-the-companys-return-to-work-policy-report-says.md",
+      "title": "Apple director of machine learning quits because of the company's return-to-work policy, report says",
+      "excerpt": "\"I believe strongly that more flexibility would have been the best policy for my team,\" Ian Goodfellow told staff, according to reporter Zoe Schiffer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
+      "originalUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6279226b94a2c10018ee8ec7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-director-machine-learning-ian-goodfellow-leaving-return-to-office-2022-5?amp",
+      "publishedDateTime": "2022-05-09T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-cogniteam-to-enhance-low-code-ai-robotics-platform-with-56m.md",
+      "title": "Cogniteam to enhance low-code AI robotics platform with $5.6M",
+      "excerpt": "However, the rise of digital transformation in AI and robotics begs the question — how far can low-code applications really go? In AI and robotics, designing a system from scratch often requires ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/",
+      "originalUrl": "https://venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/Dr.-Yehuda-Elmaliah-Co-Founder-and-CEO-at-Cogniteam.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/09/cogniteam-to-enhance-low-code-ai-robotics-platform-with-5-6m/amp/",
+      "publishedDateTime": "2022-05-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-finishing-touch-how-scientists-are-giving-robots-humanlike-tactile-senses.md",
+      "title": "Finishing touch: How scientists are giving robots humanlike tactile senses",
+      "excerpt": "Giving robots sight and hearing is fairly straightforward these days, but equipping them with a robust sense of touch is far more difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/robot-senses-touch/",
+      "originalUrl": "https://www.digitaltrends.com/news/robot-senses-touch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cropped-hand-of-woman-touching-robot.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/robot-senses-touch/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/robot-senses-touch/?amp",
+      "publishedDateTime": "2022-05-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning.md",
+      "title": "Hugging Face reaches $2 billion valuation to build the GitHub of machine learning",
+      "excerpt": "Due to the success of this libary, Hugging Face quickly became the main repository for all things related to machine learning models — not just natural language processing. On the company’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/",
+      "originalUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/amp/",
+      "publishedDateTime": "2022-05-09T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-southie-autonomy-secures-25-million-seed-funding-5m-in-robot-lease-financing.md",
+      "title": "Southie Autonomy Secures $2.5 Million Seed Funding & $5M in Robot Lease Financing",
+      "excerpt": "The platform utilizes artificial intelligence and augmented reality to automate highly ... it was very expensive and complex to reprogram robots to perform different tasks, causing the automation ROI to plummet. With Southie’s innovative AI-powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-oceans-venture-capital-artificial-intelligence-621389a0bc45430c8a6cc63083a1f6fd",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-oceans-venture-capital-artificial-intelligence-621389a0bc45430c8a6cc63083a1f6fd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-using-graph-neural-networks-to-measure-the-spatial-homogeneity-of-road-networks.md",
+      "title": "Using graph neural networks to measure the spatial homogeneity of road networks",
+      "excerpt": "Researchers at Purdue University and Peking University have recently carried out a study aimed at better understanding road networks in cities worldwide using machine-learning tools. Their paper, published in Nature Machine Intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx1.b-cdn.net/csz/news/800/2022/using-graph-neural-net.jpg",
+          "width": 800,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-graph-neural-networks-spatial-homogeneity.amp",
+      "publishedDateTime": "2022-05-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-nvidia-unveils-new-chip-to-help-ai-understand-users.md",
+      "title": "Nvidia Unveils New Chip to Help AI Understand Users",
+      "excerpt": "Nvidia is unveiling the H100 \"Hopper,\" a new technology that has the ability to speed up Artificial Intelligence applications. It will be an",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/Nvidia-Unveils-New-Chip-to-Help-AI-Understand-Users-1024x585.png",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/",
+      "publishedDateTime": "2022-05-09T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-rgo-robotics-exits-stealth-aims-to-disrupt-mobile-robotics-with-visionary-functionality.md",
+      "title": "Rgo Robotics exits stealth, aims to disrupt mobile robotics with visionary functionality",
+      "excerpt": "Rgo Robotics enables mobile robots to operate autonomously by understanding their environment through artificial perception technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/09/rgo-robotics-exits-stealth-aims-to-disrupt-mobile-robotics-with-visionary-functionality/",
+      "originalUrl": "https://venturebeat.com/2022/05/09/rgo-robotics-exits-stealth-aims-to-disrupt-mobile-robotics-with-visionary-functionality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-ed-frontlines-english-has-become-the-language-of-science.md",
+      "title": "ED. FRONTLINES: English has become the language of science",
+      "excerpt": "Between 1980 and 1996, natural science publications in Russian fell from 10.8 to 2.1 percent. German dropped from 2.5 to 1.2 percent. But English rose from 74.6 to 90.7 percent. This surge in English publications did not come from American authors or other native speakers of English.",
+      "sourceUrl": null,
+      "webUrl": "https://salinapost.com/posts/6185c4ce-eeba-4af4-93ae-d56c66f57bb6",
+      "originalUrl": "https://salinapost.com/posts/6185c4ce-eeba-4af4-93ae-d56c66f57bb6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.eaglewebservices.com/public/2019/11/1573490075841.jpeg",
+          "width": 312,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salina Post",
+        "domain": "salinapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit.md",
+      "title": "Media Alert: BrainChip Drives Intelligent Edge AI at AutoSens Detroit",
+      "excerpt": "About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY) BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company’s first-to-market neuromorphic processor, Akida TM, mimics the human brain to analyze only ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit",
+      "originalUrl": "https://www.digitaljournal.com/pr/media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/774e1c49ff8c5d1f2c8c30a3674aa8674e8bbb9d-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology.md",
+      "title": "DRAFT Startup Spotlight: The challenges and promises of facial recognition technology",
+      "excerpt": "“We don’t fundamentally understand how that black box, AI, does what it does,” said Ricanek. “We’re exploring that through this whole realm of explainable AI, and that’s going on ...",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/",
+      "originalUrl": "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363.jpg",
+          "width": 1264,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/09/draft-startup-spotlight-the-challenges-and-promises-of-facial-recognition-technology/?amp=1",
+      "publishedDateTime": "2022-05-09T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-strengthening-company-culture-with-artificial-intelligence.md",
+      "title": "Strengthening Company Culture With Artificial Intelligence",
+      "excerpt": "To achieve ultimate value from technology, it’s important to consider how it could benefit various parts of the business: organizational efficiency, team collaboration, productivity, R&D opportunities and team empowerment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6272e3b2ed8a29c5f841d642/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/09/strengthening-company-culture-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-tested-arc-a370m-intels-first-discrete-gpu-to-seriously-battle-nvidia-and-amd.md",
       "title": "Tested: Arc A370M, Intel’s first discrete GPU to seriously battle Nvidia and AMD",
       "excerpt": "We visited Intel to test Arc A370M, its debut discrete graphics for mainstream laptops. It holds its own against the RTX 3050 and pulls far ahead in tasks that lean on Intel's \"Deep Link\" special sauce.",
@@ -335,856 +1172,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-report-intels-looking-to-sell-computer-vision-software.md",
-      "title": "Report: Intel's Looking to Sell Computer Vision Software",
-      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
-      "originalUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-5-ways-ai-can-help-solve-the-privacy-dilemma.md",
-      "title": "5 ways AI can help solve the privacy dilemma",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
-      "originalUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/",
-      "publishedDateTime": "2022-05-08T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence industry is expected to grow to $554 billion in total revenue by 2024, according to market research firm IDC.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
-      "originalUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics",
-        "IBM AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases.md",
-      "title": "Artificial Intelligence (AI) Discovers Precise Treatments for Blinding Diseases",
-      "excerpt": "New study discovers subpopulations of retinal cells using artificial intelligence, that may help modify the treatment preciseness of blinding eye diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/eye6.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases-206983-1.htm",
-      "publishedDateTime": "2022-05-07T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era.md",
-      "title": "What voice tech can teach us about brand innovation in the Web3 era",
-      "excerpt": "The rise of voice tech to mainstream prominence provides lessons for brands when considering the augmented worlds of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/",
-      "originalUrl": "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1093904450.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/what-voice-tech-can-teach-us-about-brand-innovation-in-the-web3-era/amp/",
-      "publishedDateTime": "2022-05-07T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-artificial-intelligence-tapped-to-fight-western-wildfires.md",
-      "title": "Artificial intelligence tapped to fight Western wildfires",
-      "excerpt": "With wildfires becoming bigger and more destructive as the West dries out and heats up, agencies and officials tasked with preventing and battling the blazes could soon have a new tool to add to their arsenal of prescribed burns,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
-      "originalUrl": "https://www.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/07/Spring_Wildfires_50329.jpg-e40f6_c0-204-4896-3060_s1200x700.jpg?4f73bfd5e643028254bdc4481a457737dfcd6b2f",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/may/7/artificial-intelligence-tapped-to-fight-western-wi/",
-      "publishedDateTime": "2022-05-07T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business.md",
-      "title": "Microsoft veteran Bob Muglia: Relational knowledge graphs will transform business",
-      "excerpt": "The basic story is this: Five companies have created modern data analytics platforms, Snowflake, Amazon, Databricks, Google, and Azure, but those data analytics ... That includes much more use of machine learning within business analytics, as the name ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6c1577c7fa2cd45817e9491718dfc95ca6d3457e/2022/05/07/4f3a30a8-c5f2-4bbd-8a4f-86a5f7b488ec/from-modern-data-stack-to-knowledge-graphs-5-1-22-slide-28.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-veteran-bob-muglia-relational-knowledge-graphs-will-transform-business/",
-      "publishedDateTime": "2022-05-07T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-artificial-intelligence-tapped-to-fight-western-wildfires.md",
-      "title": "Artificial intelligence tapped to fight Western wildfires",
-      "excerpt": "Officials tasked with preventing and battling large, destructive wildfires in the West could soon be using artificial intelligence in addition to their arsenal of prescribed burns, pick axes, chain saws and aircraft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires",
-      "originalUrl": "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/6f63def/2147483647/strip/true/crop/2436x1370+10+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F2a%2Fa8%2F2210e55e44b6ac36223edd42b57f%2Fwildfire.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true",
-      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/wildfire/artificial-intelligence-tapped-to-fight-western-wildfires?_amp=true",
-      "publishedDateTime": "2022-05-07T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7News and TheDenverChannel.com",
-        "domain": "thedenverchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less.md",
-      "title": "Cybersecurity reporting mandates could make us more vulnerable, not less",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/",
-      "originalUrl": "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1361681620-Outflow-Designs.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/",
-      "publishedDateTime": "2022-05-07T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-apples-self-service-repair-is-an-expert-self-own.md",
-      "title": "Apple’s Self Service Repair is an expert self-own",
-      "excerpt": "Self repairs designed to fail, and 10 great Mac features you don't know: All the news, rumors, and tips you missed this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/696937/apple-breakfast-may-7-2022.html",
-      "originalUrl": "https://www.macworld.com/article/696937/apple-breakfast-may-7-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.macworld.com/wp-content/uploads/2022/04/apple_breakfast_logo-34.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.macworld.com/article/696937/apple-breakfast-may-7-2022.html/amp",
-      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/696937/apple-breakfast-may-7-2022.html/amp",
-      "publishedDateTime": "2022-05-07T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble.md",
-      "title": "Hohem iSteady V2 is a Red Dot Award winning AI facial tracking gimble",
-      "excerpt": "The stabilizer draws its inspiration from the ‘Bionic Owl design’ and comes with highlight features like high AI recognition, fast-tracking, and automatic following. Its AI tracking is capable of tracking the face and body of the subject even when they ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/",
-      "originalUrl": "https://www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/05/20220428153603.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/05/07/hohem-isteady-v2-is-a-red-dot-award-winning-ai-facial-tracking-gimble/?amp=1",
-      "publishedDateTime": "2022-05-07T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-mlops-the-most-important-piece-in-the-enterprise-ai-puzzle.md",
-      "title": "MLOps: the Most Important Piece in the Enterprise AI Puzzle",
-      "excerpt": "Data scientists most of the time, they know how to use machine learning tools such as Azure Machine Learning on the cloud. Of course, they are familiar with GitHub. They use deep learning and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/presentations/mlops-tech/",
-      "originalUrl": "https://www.infoq.com/presentations/mlops-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/presentations/mlops-tech/en/card_header_image/generatedCard-1651751321874.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-07T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
-      "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27060343",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27060343",
-      "publishedDateTime": "2022-05-07T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability.md",
-      "title": "India and Germany in new deal on joint AI for healthcare, sustainability",
-      "excerpt": "Indo-German Science and Technology Centre (IGSTC) is all set to propose a joint “Artificial Intelligence” (‘AI’) initiative on healthcare and - Kenya breaking news | Kenya news today | Capitalfm.co.ke",
-      "sourceUrl": null,
-      "webUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/",
-      "originalUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.capitalfm.co.ke/news/files/2022/05/JITENDRA.jpeg",
-          "width": 1200,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-capitalfm-co-ke.cdn.ampproject.org/c/s/www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/",
-      "publishedDateTime": "2022-05-06T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Capital FM",
-        "domain": "capitalfm.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-how-to-master-the-data-lifecycle-for-successful-ai.md",
-      "title": "How to master the data lifecycle for successful AI",
-      "excerpt": "The AI data lifecycle is ever-changing, and the approaches we take to manage its different components need to be dynamic as well.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ai_business-e1648498198314.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/amp/",
-      "publishedDateTime": "2022-05-06T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
-      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
-      "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/04/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/04/28/china-grants-first-driverless-taxi-permits-to-baidu-ponyai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/04/28/1567739.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-nvidia-burns-55-million-settling-with-sec-on-gpu-sales-to-crypto-miners.md",
-      "title": "Nvidia burns $5.5 million settling with SEC on GPU sales to crypto miners",
-      "excerpt": "We all had a bad time waiting out the graphics card shortage that took place from late 2020 up until recently, but it wasn’t the first time crypto mining was to blame for a lack of Nvidia and AMD GPUs. Back in 2017 and 2018 there was another similar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
-      "originalUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30xqvs6b65d10.cloudfront.net/wp-content/uploads/2022/05/nvidia-crypto-money-sec-settlement-mining-gpu-graphics-cards-gaming-availability.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
-      "cdnAmpWebUrl": "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/nvidia-crypto-mining-sec-fine/amp/",
-      "publishedDateTime": "2022-05-06T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pcinvasion.com",
-        "domain": "pcinvasion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-revealed-intels-plan-to-sell-software-simplifying-computer-vision-training.md",
-      "title": "Revealed: Intel's plan to sell software simplifying computer vision training",
-      "excerpt": "Exclusive Intel plans to start selling a software platform that promises to simplify and speed up the training of AI models for computer vision, according to internal company documents seen by The Register.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=rt-3a",
-      "originalUrl": "https://www.theregister.com/2022/05/06/intel_computer_vision/?td=rt-3a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/10/21/shutterstock_eye_computer_vision.jpg",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/06/intel_computer_vision/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/06/intel_computer_vision/",
-      "publishedDateTime": "2022-05-06T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

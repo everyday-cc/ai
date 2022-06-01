@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T13:21:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-asia-singapore-287f5420a22c51385fd8d30ae92bcefd"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-asia-singapore-287f5420a22c51385fd8d30ae92bcefd"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Associated Press

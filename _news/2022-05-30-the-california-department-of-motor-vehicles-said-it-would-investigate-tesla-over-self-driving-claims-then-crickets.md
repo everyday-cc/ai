@@ -62,17 +62,6 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 64
-  - title: "DMV Remains Mum on Safety Probe of Self-Driving Teslas"
-    excerpt: "The investigation by the California Department of Motor Vehicles into safety issues is headed into its sixth month with no end in sight."
-    publishedDateTime: 2022-05-27T22:34:00Z
-    webUrl: "https://www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-self-driving-teslas"
-    ampWebUrl: "https://www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-self-driving-teslas?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-self-driving-teslas?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 54
 
 secured: "sHjpHfhaLN3XcDAt8pcCn6lrREKhMJHZW+SlplcqvnLuaxkVLNv8RY6K1eHI/KVW7gYKd7dSLQVyAHMIqpjb856W7KTDtsJ+LdW2WGcHcZ9muri5Ak3dm6sOopJqwzvPZDOLcgeHoEMmO1TMxQEwq8+gSkkJtkBBtKZJoHRKjwECnfRtxPAPRWxzVhLjGoHaPAzbo3a+Z4KheY4V9nOQcvN//Fwj/wYW/bfLeoybx5NwE/gMS5JR6PhBQtnh8B96TP4dVdkhXbZ5qrRCKHTorQM/jZFvbax9hy5bcuqwT3JO1jhpwHeqBevx6hYj5XgsiHT7lYSIF32XxCnU+Bh02Sn8xIJNewrRRoy8WBW3Ymi5z6vIas0JgGBWVmbGF7o0e7d+FCvutBNjddPX5UpvjzHiwUFsiny6+zvNCNBuqpQ/0gF3mSIVFjsVsXlUCxV/s+CRdizuj5LJqOlTQj/z8ndBcNCMfKTBWbsaEovGTVA/xMmGzdP1S+nGxhGUe39sThjEofIsQKL6Il0g3G1y1Q==;EebRc9V5MR2WYKmHiN7yuw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T11:59:00Z
 originalUrl: "https://www.thehindu.com/sci-tech/technology/a-new-scale-to-curb-skin-tone-bias-in-ai/article65484094.ece"
 webUrl: "https://www.thehindu.com/sci-tech/technology/a-new-scale-to-curb-skin-tone-bias-in-ai/article65484094.ece"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Hindu

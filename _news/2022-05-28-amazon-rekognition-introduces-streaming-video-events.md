@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2022/05/aws-rekognition-streaming-event
 webUrl: "https://www.infoq.com/news/2022/05/aws-rekognition-streaming-events/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "UK Information Rights Regulator Fines US Face Recognition Developer"
-    excerpt: "A U.K. office in charge of protecting information rights has fined a facial recognition company from the United States for exploiting photos of individuals in the U.K. and elsewhere to construct witho"
-    publishedDateTime: 2022-05-27T19:34:00Z
-    webUrl: "https://www.occrp.org/ru/daily/16388-uk-information-rights-regulator-fines-us-face-recognition-developer"
-    type: article
-    provider:
-      name: OCCRP
-      domain: occrp.org
-    quality: 19
 
 secured: "bLyww063A3zh5M6pG/7sH7egwpF0JFfN/EObkJlspb8PkKaC9Mp8jrUviXPz+9wQBlpjhAqIfhOy60+UgpCSusiQB5fl8s60iv9vazvIIHLBikaGioNYeFWfbH0ELyRWygYS6uaxqM96OOqBQcF0MkmLjpYlh2cOqcZJZ7NHoJ0eJlAMune6/K34AePBoTu3nYwNInA1f1zQ2gXDD4huJwdgFiEEdjWZkXGo1m4NtDGD9WdS0tR3uPnyFFuwgatk7VNFvS1mvGSolSFZ9FVTglQHLSaZo1J5hxBKdXrZAraqVComvfohMTQQJG+WNYjgXquUeFAJExlUvd1o9iv6mptUnedgIy9uR/WePFhIJjls/hVVMPyk+KSULdxpqNZHBOtELbvPdSI8/uwvYHdKzOG/aDEQRyf34V406nd0Jjyt95nOpBmFfsblpMuugQQH6dhpA2uw8yP+2NeI6AQbn12jny+lRwiqlj/B9YgaslqTa7MiIK2CEB5yY3O3qe4Hsb+5tvQfkQEkzp+pzdqwbg==;gKV1B1nYjzXg2MPs+jXRZA=="
 ---

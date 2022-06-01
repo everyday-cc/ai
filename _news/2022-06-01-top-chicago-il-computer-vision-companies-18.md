@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T13:55:00Z
 originalUrl: "https://www.builtinchicago.org/companies/location/chicago/type/computer-vision-companies"
 webUrl: "https://www.builtinchicago.org/companies/location/chicago/type/computer-vision-companies"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Built In Chicago

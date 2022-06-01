@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T13:00:00Z
 originalUrl: "https://www.zdnet.com/article/small-business-fintech-nav-teams-up-with-marcus-by-goldman-sachs-to-offer-small-business-owners-smarter-lines-of-credit/"
 webUrl: "https://www.zdnet.com/article/small-business-fintech-nav-teams-up-with-marcus-by-goldman-sachs-to-offer-small-business-owners-smarter-lines-of-credit/"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: ZDNet

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T05:54:00Z
 originalUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/"
 webUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: 01Net

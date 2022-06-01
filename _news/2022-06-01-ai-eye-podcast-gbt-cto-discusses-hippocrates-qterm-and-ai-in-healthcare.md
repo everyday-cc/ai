@@ -1,22 +1,35 @@
 ---
 category: news
-title: "AI Eye Podcast - GBT CTO Discusses Hippocrates, Qterm, And AI In Healthcare"
-excerpt: "AI Eye Podcast - GBT CTO Discusses Hippocrates, qTerm, and AI in Healthcare Vancouver, Kelowna and Delta, British Columbia--(Newsfile Corp. - Jun"
-publishedDateTime: 2022-06-01T13:31:00Z
-originalUrl: "https://menafn.com/1104306150/AI-Eye-Podcast-GBT-CTO-Discusses-Hippocrates-Qterm-And-AI-In-Healthcare"
-webUrl: "https://menafn.com/1104306150/AI-Eye-Podcast-GBT-CTO-Discusses-Hippocrates-Qterm-And-AI-In-Healthcare"
+title: "AI Eye Podcast - GBT CTO Discusses Hippocrates, qTerm, and AI in Healthcare"
+excerpt: "As the adoption of artificial intelligence (AI) and its adjacent technologies in the healthcare space increases, so too does its use cases within the sector. In a recent interview with Investorideas.com,"
+publishedDateTime: 2022-06-01T12:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-6-1-ai-eye-podcast-gbt-cto-discusses-hippocrates-qterm-and-ai-in-healthcare"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-6-1-ai-eye-podcast-gbt-cto-discusses-hippocrates-qterm-and-ai-in-healthcare"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - IBM AI
+  - Microsoft AI
   - AI
   - AI in Healthcare
-  - Microsoft AI
 
-secured: "NCwqaIFeHcB8A6vzEWdfozJGzAog6n8laKtboeGO2X8FpV8n/LWBSB86HgQP6R6ZeErqbG/JHh9C59I8gNOD5OYAXgDRWwnUpxpkEZrmB4Y0SJ6Ev2pxZiP0e3QY2UMtsATuAclCSnevU8BOku70UEQs4xfVuYxEWJQEaW8ulf2lPwyLC/aRNiL2mZT446zFVzQWdbvgaHjqiC+67IDjdmmy1Wh1ZIt1fUq6+l3VWoeo9gDnvUCJdl6il+X4zMxuY71U2He11U4eCV9JDr7D4ZMRSSIU8cdAUyyoL6LlNX0SnRz8GwYHpM8MTGpszAxv3gRIjLB8GwaD8MPwbc62B7X/Y0J9ZIQIeLgdwyTib2k=;6/ZS97aS0xNTRY3gJarBXw=="
+related:
+  - title: "AI Eye Podcast - GBT (OTC: $GTCH) CTO Discusses Hippocrates, qTerm, and AI in Healthcare"
+    excerpt: "Hear the AI Eye on Spotify. As the adoption of artificial intelligence (AI) and its adjacent technologies in the healthcare space increases, so too does its use cas"
+    publishedDateTime: 2022-06-01T13:21:00Z
+    webUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/06011GTCH.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 29
+
+secured: "Z455lgPTLm27FFfPmCSkLQXLKnSFV5Hgr/Q1lTPezhAue1NfFKjEE6hSjkyZKjztIoERnoMaAxuINC0hzqzvR5t7ADA1GJXc+tXQDA51whqQgnAf/9lPpISvHj+Yf1mf9nj2ngAZ2XBXyAleBzSckYdFl/6dWloVK1IDykUeJTBrD2iWDz7wlPwit6mwPBjAv+a2posFWKJ5Jcgfm7oGgqFc90PAPnO0SQKu/cFhGrLG9l4w8gZhailyyE1ccmxtQWX3/B5ZE30k5WJxFt1815HC2W9Z1KqBt3V3TQlUBT4ceJ9P23kidmYnKEU7lV1gpyMzqgHfM3YnCVtore1Uf/MMYvNf3LrL8K1j1NSe3fM=;H+iWBP+oeYUvIb21Q3a0jQ=="
 ---
 

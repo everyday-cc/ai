@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
-    excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"
-    publishedDateTime: 2022-05-30T14:02:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/theorymesh-to-accelerate-burcon-nutrascience-research-and-process-optimization-with-microsoft-data-and-ai-platform/article_f41e8362-6a07-5ea8-9a0c-16ce00e9e9cb.html"
+  - title: "FarmWise Raises $45M Series B To Expand AI-Powered Farm Equipment in U.S. Farms"
+    excerpt: "Farm automation startup FarmWise Labs, Inc. today announced that it has completed an oversubscribed $45m Series B funding round, led by leading AgTech venture firms Fall Line Capital and Middleland Capital,"
+    publishedDateTime: 2022-06-01T12:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/farmwise-raises-45m-series-b-to-expand-ai-powered-farm-equipment-in-u-s-farms/article_49b65fd0-ee78-5467-96ec-e2c9dbb5fc54.html"
     type: article
     provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 32
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 35
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
-        height: 315
-        isCached: true
-  - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
-    excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"
-    publishedDateTime: 2022-05-30T17:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=671645"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 32
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+        height: 338
         isCached: true
 
-secured: "tlWSWtzLcTTH/PsJENSWeCVksTl3YdG9s4gW7h9ri/54xHxow79b5Oubl7+hvKdka0SsXcNPPX6a0Pbba8Bxh2LvCE65QgFzo6rYeixiIl9qrZSrREVAn7EgqL2G1icGHxVrtR+TrVCvyiQr4GrgFhtg3HuxYwIs1sOymfVKeG0Edxvc3o9F5Jj7wwmrx8ddPI/Or0sYjzUB0ME9VDILyxR2DwhPBtwQD+PnT/qhWkXbQcwysU+V+3ULMku+k2WbnVqPBk5wOQAjFTXCnggjNlrgzHFt8oeySuUdzZpsFbUZ2zfgq808ZZhZsTSSvQK8c9Bu9h+R5kVSFH5Rw4rWxvOg0Ek1A3XmIXatkUyBJj0=;jifriUo0oNQ/In2FOkySxw=="
+secured: "dBY5nOGWssNWfNi3baIt8X9Nx96EbjcNKukx1Fxsb77kTrISWBsESxSbxinJJ9q9mfkhLZOd7vAQ2nnMbnefcRJW2ta4npvOZg1GKgh1zuiMumyYw4VLG5DQ538eRdcDW/7iIhncNMpvfcpFDyjyPFUztvXMHQPNDZpO1EESeIBXdtsKm847V66h90fBgXH/1DSg4Sg1yGQtODRZtH9OlVwe4sW1JY9x/fmDCA56NwENyoDRI5DnQa1Q055QaATBWgQZcc91eA0U8+CbKyt4IzWYYMev+c9roYFX9rjpK5MQIfdPGetYi/TBwTVUVVPHcz8dEN4j+QOY9HgIIKrvgNuictgCA2HT9Ypp0NIk/eprJILXoN51YlOhtYnvIapEA4ctHShk3P8+zLg7e3YAuaQOhC+7rAK6erwo/80fR45V4HQD/90p+Oq39iXFibIcSJcciU9BE4POlzMpKQ6rxt9zq0Lz6ZH8cLldm1W8gNeZoXHUeQ4OYcytzGjkHR/J3XJWACFmYrQ/gzOvDg91ZA==;0RyHL9VfqJCj0Br6K9qUpw=="
 ---
 

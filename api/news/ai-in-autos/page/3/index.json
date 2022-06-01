@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-05-ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars.md",
+      "title": "AI Ethics Is Especially Vexed By That AI Confinement Problem, Including The Knotty Particulars For Confining Autonomous Self-Driving Cars",
+      "excerpt": "The AI Confinement Problem is a vexing issue and one that AI Ethics is pushing mightily to solve. We discuss why this is such a tough challenge, along with showcasing examples via the advent of AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6272bf58207611e789de7afd/0x0.jpg?format=jpg&crop=2380,1620,x161,y87,safe&width=1200",
+          "width": 1200,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/05/ai-ethics-is-especially-vexed-by-that-ai-confinement-problem-including-the-knotty-particulars-for-confining-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-05-05T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-artificial-intelligence-computing-using-networks-of-tiny-nanomagnets.md",
       "title": "Artificial Intelligence Computing Using Networks of Tiny Nanomagnets",
       "excerpt": "Artificial intelligence that uses ‘neural networks’ aims to replicate the way parts of the brain work, where neurons talk to each other to process and retain information. A lot of the maths used to power neural networks was originally invented by ...",
@@ -1329,49 +1382,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-baidu-leads-years-long-race-for-first-driverless-taxis-in-china.md",
-      "title": "Baidu Leads Years-Long Race for First Driverless Taxis in China",
-      "excerpt": "Baidu, the search giant now investing heavily to commercialize artificial intelligence technology and autonomous driving, is one of two companies to secure the country’s first permits to operate a fleet of self-driving robotaxis without someone in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/markets/baidu-leads-years-long-race-for-first-driverless-taxis-in-china",
-      "originalUrl": "https://www.bloombergquint.com/markets/baidu-leads-years-long-race-for-first-driverless-taxis-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

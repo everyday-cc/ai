@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T13:24:00Z
 originalUrl: "https://ca.proactiveinvestors.com/companies/news/983856/fobi-ai-expects-its-qples-by-fobi-business-to-more-than-double-with-the-rollout-of-the-8112-universal-digital-coupon-standard-983856.html"
 webUrl: "https://ca.proactiveinvestors.com/companies/news/983856/fobi-ai-expects-its-qples-by-fobi-business-to-more-than-double-with-the-rollout-of-the-8112-universal-digital-coupon-standard-983856.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Proactiveinvestors

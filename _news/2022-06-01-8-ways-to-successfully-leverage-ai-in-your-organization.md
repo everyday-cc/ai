@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbescoachescouncil/2022/06/01/8-ways-to-successfully-leverage-ai-in-your-organization/"
 webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2022/06/01/8-ways-to-successfully-leverage-ai-in-your-organization/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

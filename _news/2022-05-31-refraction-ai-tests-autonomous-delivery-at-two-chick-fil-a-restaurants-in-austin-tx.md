@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Georgia-based Chick-fil-A testing out new delivery robots"
+    excerpt: "You might soon be able to get a chicken sandwich brought right to your door with Chick-fil-A’s new delivery robots. The Atlanta-based company is testing out new autonomous robots to deliver food straight to you."
+    publishedDateTime: 2022-06-01T14:56:00Z
+    webUrl: "https://www.wsbradio.com/news/local/atlanta/georgia-based-chick-fil-a-testing-out-new-delivery-robots/T6TS5N6HORG3BFFXYC7IYJU5ZQ/"
+    type: article
+    provider:
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 39
+    images:
+      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/dmdjYUjdE9-9ox-J3xRbZMrFOHE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/TSD2EWVNVBFWZB7MIDIUTIAV7Q.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Your next Chick-fil-A delivery could come via robot"
     excerpt: "The chicken sandwich chain said it is testing autonomous delivery robots in a limited number of locations in California, Texas and Florida."
     publishedDateTime: 2022-05-31T19:31:00Z
@@ -49,6 +63,15 @@ related:
       name: Restaurant Business
       domain: restaurantbusinessonline.com
     quality: 19
+  - title: "Refraction Ai Tests Self-Driving Delivery At Two Chick-Fil-A Restaurants In Austin, Texas"
+    excerpt: "Chick-fil-A and Refraction AI intend to continue studying autonomous delivery in Austin at the Chick-fil-A restaurant on Martin Luther King Jr."
+    publishedDateTime: 2022-06-01T12:33:00Z
+    webUrl: "https://www.cioapplications.com/news/refraction-ai-tests-selfdriving-delivery-at-two-chickfila-restaurants-in-austin-texas-nid-9941.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 12
 
 secured: "uyHejenzNEo5KN/IjST0MXGh0aeoBOd5g4cycQbCd8PCYyfzWjl3mh9LhSaC8fBmR5svQqo1QMqD4jTXFYEWorfiPCKRg0R1V4B+N8YG8N8jiEocckZ9CKxoiO0hmX2Lyn+DHNVNZdsuBBqjmIWhz40EIFlGoAEGjcrNkSzClU/v1/8oA8x8xr0c3HLF6Vwevp8cgt13v/2apS1IErwyWOdO/1V0aHvF9w1pPICK2jB9yjXmaha/bKyltl+oBwyT8Se9/KLhPYJuA1btz/qL+2+qUO0aNL7US5VqDypbnRXgtPU5elhfLcVOkGGFloz18a6Q2xiH1V0xv19fmAxwOl1fXnfNgymwmf1fRWivYMM=;IGLkXmUwvj+Y4TS68SJcig=="
 ---

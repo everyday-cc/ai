@@ -25,14 +25,14 @@ images:
     isCached: true
 
 related:
-  - title: "At 20.80% CAGR, Heart Pump Device Market Size is Expected to Reach USD 6162.34 Bn by 2028 - Exclusive Report by Zion Market Research"
-    excerpt: "As per Zion Market Research study, The global Heart Pump Device market was worth around USD 1983.10 billion in 2021 and is estimated"
-    publishedDateTime: 2022-05-30T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/at-20-80-cagr-heart-pump-device-market-size-is-expected-to-reach-usd-6162/article_8e7207e9-96fd-5b79-8590-e6dec5ce0b0b.html"
+  - title: "Facial Recognition Market Industry Analysis, CAGR Value, Business Strategy, Growth Drivers, Forecast By 2028"
+    excerpt: "Emergen Research Logo Facial Recognition Market Trend –Technological advancements in facial expression detection  Facial Recogniti"
+    publishedDateTime: 2022-06-01T13:30:00Z
+    webUrl: "https://menafn.com/1104306004/Facial-Recognition-Market-Industry-Analysis-CAGR-Value-Business-Strategy-Growth-Drivers-Forecast-By-2028"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 0
   - title: "Open-Source Intelligence Market To Drive Amazing Growth By 2030 | Forecast to CAGR 20.6%"
     excerpt: "\"Open-Source Intelligence Market\"The North American OSINT market is driven by the rising penetration of smartphones and tablets.Market Scenario: The"

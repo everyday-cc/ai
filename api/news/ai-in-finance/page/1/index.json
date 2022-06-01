@@ -324,6 +324,41 @@
       ]
     },
     {
+      "path": "_news/2022-05-21-litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records.md",
+      "title": "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records",
+      "excerpt": "said it has entered into a litigation finance agreement for a new High Court claim on behalf of up to 1.6mln individuals against Google and DeepMind Technologies for the unlawful use of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-fintech-accelerating-the-transformation-of-the-modern-financial-industry.md",
       "title": "FinTech: Accelerating the transformation of the modern financial industry",
       "excerpt": "The Future and FinTech: ABCDI and Beyond presents the major building blocks of FinTech, i.e., Artificial Intelligence (AI), Blockchain, Cloud, Big Data, Internet of Things (IoT), abbreviated as ABCDI, in the context of industrial evolution with real-world ...",
@@ -1297,58 +1332,6 @@
         "name": "Finextra",
         "domain": "finextra.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber.md",
-      "title": "Hetz Ventures closes third fund of $123M to focus on DevOps tools, Open Source, Fintech and Cyber",
-      "excerpt": "Focusing on seed and pre-seed investments, Hetz has previously backed Granulate (acquired by Intel last month), Trigo, Retrain.ai, Blink Ops ... Enterprise/Data Software, Fintech and Cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/",
-      "originalUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Hetz-Ventures-Full-Team-April-2022.jpg?w=1024",
-          "width": 1024,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/hetz-ventures-closes-third-fund-of-123m-to-focus-on-devops-tools-open-source-fintech-and-cyber/amp/",
-      "publishedDateTime": "2022-05-03T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

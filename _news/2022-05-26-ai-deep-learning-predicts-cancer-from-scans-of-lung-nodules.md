@@ -1,10 +1,12 @@
 ---
 category: news
 title: "AI Deep Learning Predicts Cancer From Scans of Lung Nodules"
-excerpt: "Artificial intelligence (AI ... with their revolutionary study where they trained a deep convolutional neural network (CNN) to classify 1.2 million high-resolution images in the ImageNet LSVRC ..."
-publishedDateTime: 2022-05-25T20:59:00Z
-originalUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
-webUrl: "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
+excerpt: "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ..."
+publishedDateTime: 2022-05-25T22:05:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "Fkn5FuYp6kqB3cx1hV2AJ76MI+z3Av4RQGefmxfBJ80Uapihvk02VcVfA5/hHuI1ypP+Eu3nEbdEtmkRS6JbxP4P+qAol4e9tSkaWK+omhYhVkn0en8QElOcRK96zr7hzUUkL6TrGOajK/5F5GMDWQ9163toNfI3pP3CbkBUi7gRrJPDtw7uFnC9A71rTz9XPLKHDYaLLiMO3zMMawZxIEpyPOJ3ZVJjN7bBr2FDfmiTb3RL5jn9J4tP9VbaL5Y1RwNl9YxWCJ3v2aNle0GUgL00Aikc3cDZ6u+eyQfQfZsgH2LuK0jLAUppac/uTHd18qaB3AeZE14r9Ghy1MijJMRsmURJumFbvtRIxxHdrsg=;2D5bok7bImQdAShifcmwfw=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "X+liVNr3rOsRaUOaPlsfaAq7wl5YEuNvqxcTMqCKLckkHkXhfPbSZr5BhzX4XEOD2Od1Il0qgy5Ll95ISbL4Mj3BmQa86jnKjGXCkswtkYB5tSzS7NcEvnsL6znY/faVe4pPX4CfynyPJlEJ7iQxwCQ9KWOD1qbf977Vol2cOWHOMDKv5EFtPx8xRuGUfwXu57Gu/G6g8ffk9cUW6sxw/rLN3pa+pDw7cjZ3xnPXgRjarJUH+2ulaHyxKG4rOFiycq4XEBeHEDxlI27e6Ggabh+UKJljjlPLmTsb7xKHv5giO3COZ31dW4StcXUjyLumF8+us6qSF6NSDQmuC0HH4zFfSwrew9R0TFAp/dnqEL0=;aDKXjgsImxeaaVmN36rSmQ=="
 ---
 

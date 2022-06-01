@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/may/28/clearview-ai-f
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/may/28/clearview-ai-facial-recognition-database-fine-information-commissioners-office-ico"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Facing Facts On Facial Recognition"
+    excerpt: "Clearview AI’s multi-million pound fine for breaching privacy should mark a turning point for a public debate about surveillance levels. By Niel Jones"
+    publishedDateTime: 2022-06-01T13:18:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/facing-facts-on-facial-recognition--6326.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 19
 
 secured: "bOUP9xm0u83ycqP80/DDSTxi36V/222C+UvVrkr2eTnD5wB9jLGZSBvPtGazPHtOQLcV1D+OYPmqwXwjmAIikDhg5P6PQnJMv1J9nDlTL185q8ybEFSGez7O09VcudYsEYWwfaYcN/ic4JGPMn+YkkRaat6bMv/cHOcl7xM8wG80snMyQkKk+c8YdPh3De1vnO/Q3qafjyNlfmODVvrwWFnI6wenKksh04eCEo19hS4Ndgg0ury9zBc38bxNItjiwkBEQ5jB6XzumaMOaZsLfr2N7bzeXvo+Ro3xYDCKKVFfOvHmSOTTKkusHuq126mVkWSMWqsH35nf+9Tt83XB0LMwC1uBmmUgDUc5/N5x3almofCxS8CIOR0HRKqXn7B0oKT1WzsdGCX3PY+NSX1nB4SzDkK9qnh0/NKEDpTRJ2H801EigBe2zEqk6DOuQM5FlAGX947ifFSnVKSQ6ahLQYLzE+yepWpZj7YCgLfaTCguF6oaScQyPVE9aGhedLArbxXARfwH0JeH9/k+7lkxMg==;XwhULi0SzO0GS/AI4dzeKQ=="
 ---

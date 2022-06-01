@@ -37,6 +37,15 @@ related:
       name: financefeeds
       domain: financefeeds.com
     quality: 11
+  - title: "Impact-investing fintech opens Malta base"
+    excerpt: "Prometheus Technologies is in the process of establishing a base in Malta and will benefit from the very high calibre of post-graduate talent in machine learning and investment research which is"
+    publishedDateTime: 2022-06-01T12:41:00Z
+    webUrl: "https://www.independent.com.mt/articles/2022-06-01/business-news/Impact-investing-fintech-opens-Malta-base-6736243387"
+    type: article
+    provider:
+      name: The Malta Independent
+      domain: independent.com.mt
+    quality: 4
 
 secured: "Lj5uwMcm48V5NDVxvTA0j4YV6ts6x4/qx+FObCsfYd0SwqXIjPGuucq2AvDphQFzLkw49zx6jaXFH6BNrt8FRGV04JC7EGPd+iWd/0U6LgTU+mVHnbFiYO6hdywlh95aRVeJ+kGkVTGzvmkVwYNsoIMSdCoI+0CXkjR9gRXdaaULMG/yRbK9268RnrBYiCLn02utoPJjUypmfqyjm42rne2OieKJ+loUflG7lQJdIGuhyOSsnGMvUNsxxMyX1cqO+PHkJqMNd9pLv0JbamkYJTsMdDX5JhIw10sTxWeYCpue9nmvgJHDdgUDSZCnEBqV2h74G+MjymWNYgiTNAWyMcQAtp4+/Vav8RUSWqAco/Mnab/kDswcAiSgpsh5KkL6HXdOwVD8cGixGzHAZcZm9ClxIY/b8UZwX3tMRUgmnskIt17gIRjMxHBQJ2PqpCMqb998UTLuLjM4Yxf1Hx8RDmjb2GEtZVGmsfXpEKEYjPBrGJA7/ZCh3h/sDLlAQwmpE4a6XrEGPwhvSXnV1Ch8mA==;h5WkT2pgfnx3dhgeOGVEfw=="
 ---

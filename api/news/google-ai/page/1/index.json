@@ -206,6 +206,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-24-deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression.md",
+      "title": "DeepMind’s Meta-Learning Sparse Compression Networks Set New SOTA on Diverse Modality Data Compression",
+      "excerpt": "Data representation is a core aspect of deep learning. While researchers have typically represented images or 3D shapes as multi-dimensional arrays, the use of implicit neural representations (INRs) has emerged as an attractive alternative.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/",
+      "originalUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/amp/",
+      "publishedDateTime": "2022-05-24T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-building-a-culture-of-pioneering-responsibly.md",
       "title": "Building a culture of pioneering responsibly",
       "excerpt": "When I joined DeepMind as COO, I did so in large part because I could tell that the founders and team had the same focus on positive social impact. In fact, at DeepMind, we now champion a term that perfectly captures my own values and hopes for integrating technology into people’s daily lives: pioneering",
@@ -298,6 +341,41 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records.md",
+      "title": "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records",
+      "excerpt": "said it has entered into a litigation finance agreement for a new High Court claim on behalf of up to 1.6mln individuals against Google and DeepMind Technologies for the unlawful use of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -490,6 +568,40 @@
         "Machine Learning",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-apple-engineer-who-quit-over-return-to-office-policy-joins-google.md",
+      "title": "Apple engineer who quit over return-to-office policy joins Google",
+      "excerpt": "Ian Goodfellow — who worked as Apple’s director of machine learning until he resigned in early May — is joining Google’s DeepMind division as a contributor, Bloomberg reported.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/05/18/apple-engineer-who-quit-over-return-to-office-policy-joins-google/",
+      "originalUrl": "https://nypost.com/2022/05/18/apple-engineer-who-quit-over-return-to-office-policy-joins-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1321,146 +1433,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-ucl-and-deepmind-improving-representation-in-artificial-intelligence-education.md",
-      "title": "UCL and DeepMind: improving representation in artificial intelligence education",
-      "excerpt": "Global artificial intelligence (AI) company DeepMind is working with UCL to open up scholarships to underrepresented students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
-      "originalUrl": "https://www.ucl.ac.uk/engineering/case-studies/2022/apr/ucl-and-deepmind-improving-representation-artificial-intelligence-education-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucl.ac.uk/engineering/sites/engineering/files/case-study/40468779200_8e95b2b30d_c.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UCL",
-        "domain": "ucl.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-tensorflow-decision-forests-tutorials.md",
-      "title": "TensorFlow Decision Forests tutorials",
-      "excerpt": "The following notebooks are available: Beginner Colab: Learn about the basic about model training, evaluation and exportation. Intermediate Colab: How to consume text and combine decision forest with neural networks. Advanced Colab: How to inspect and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/tutorials",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/tutorials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-encores-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round.md",
-      "title": "Encore’s Backend Development Engine for the Cloud Transforms Developer Experience, Attracts $3m in Seed Round",
-      "excerpt": "Encore comes out of Beta as it announces seed round, enabling more developers than ever to build and deploy new cloud backends in minutes while keeping control of their data. STOC",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/de7520f96eddc63566978cb566223c89",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/de7520f96eddc63566978cb566223c89",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

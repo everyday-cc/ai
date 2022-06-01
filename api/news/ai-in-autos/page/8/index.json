@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-19-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
+      "title": "Here's how Americans view facial recognition and driverless cars",
+      "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kpbs.org/news/national/2022/03/18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "originalUrl": "https://www.kpbs.org/news/national/2022/03/18/heres-how-americans-view-facial-recognition-and-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.kpbs.org/dims4/default/ab640a7/2147483647/strip/false/crop/3037x1594+0+342/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F03%2F18%2Fface-recognition.getty-431e74c0b0da8664c4ef6d5a7515f829ae18b917.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T15:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPBS",
+        "domain": "kpbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
       "title": "Here's how Americans view facial recognition and driverless cars",
       "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
@@ -1287,49 +1331,6 @@
         "AI in Autos",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-11-self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round.md",
-      "title": "Self-learning autonomous driving AI startup Autobrains closes $120M Series C round",
-      "excerpt": "Autobrains, a company that’s developing self-learning artificial intelligence technology for assisted and autonomous driving systems, said today it has closed on a $120 million round of funding. The Series C round was led by Temasek and saw participation from existing investors Continental and BMW I Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/03/10/self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round/",
-      "originalUrl": "https://siliconangle.com/2022/03/10/self-learning-autonomous-driving-ai-startup-autobrains-closes-120m-series-c-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/03/percfields_W_LOGO-Copy.jpg",
-          "width": 2561,
-          "height": 1037,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-10T17:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -40,20 +40,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
-    excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
-    publishedDateTime: 2022-05-27T22:38:00Z
-    webUrl: "https://www.itbusinessedge.com/business-intelligence/microsoft-build-4-processor-pcs-and-useful-ai-apps/"
-    type: article
-    provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 58
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/05/microsoft-volterra.jpg"
-        width: 1522
-        height: 857
-        isCached: true
   - title: "Nokia plugs in Microsoft Azure into its industrial edge platform"
     excerpt: "With Microsoft Azure Arc, a wide ecosystem of applications, and our long standing work with Nokia, we can provide AI-powered insights and identify solutions to workflow issues for mission critical Industry 4.0 applications running at the edge.”"
     publishedDateTime: 2022-05-31T16:20:00Z
@@ -68,6 +54,15 @@ related:
         width: 1639
         height: 1159
         isCached: true
+  - title: "If you're having problems with Microsoft Azure AD today, this is probably what's causing it"
+    excerpt: "Customers may have also had problems accessing Azure Portal, MSGraph, Log Analytics ... cloud via Dev Box Microsoft Teams and Power Platform to get more collaboration, AI-assisted additions Microsoft is enabling Kubernetes for Windows edge-computing ..."
+    publishedDateTime: 2022-06-01T11:43:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-azure-ad-id-service-snagged-by-logging-delays/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "Nokia to Integrate Microsoft Azure Arc Capabilities into its Industrial Edge Platform"
     excerpt: "Nokia announced plans to integrate Microsoft Azure Arc capabilities into the Nokia MX Industrial Edge (MXIE) platform,"
     publishedDateTime: 2022-06-01T01:03:00Z

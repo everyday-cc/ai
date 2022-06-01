@@ -2,6 +2,829 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2022-04-06-europe-is-building-a-huge-international-facial-recognition-system.md",
+      "title": "Europe Is Building a Huge International Facial Recognition System",
+      "excerpt": "Lawmakers advance proposals to let police forces across the EU link their photo databases—which include millions of pictures of people’s faces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/",
+      "originalUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/624ca6e922287e54ebc7f22d/master/pass/Europe-Facial-Recognition-1041091610.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/europe-police-facial-recognition-prum/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-police-facial-recognition-prum/amp",
+      "publishedDateTime": "2022-04-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-bangalore-international-airport-aws-to-open-joint-innovation-center.md",
+      "title": "Bangalore International Airport, AWS to open joint innovation center",
+      "excerpt": "The centre, expected to open this year at the city airport, will focus on driving digital innovation for the airport and enhancing passenger experience, according to a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/articleshow/90684488.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45682,msid-90685281/kempegowda-international-airport.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bangalore-international-airport-aws-to-open-joint-innovation-center/amp_articleshow/90684488.cms",
+      "publishedDateTime": "2022-04-06T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-facial-recognition-by-police-ban-it.md",
+      "title": "Facial recognition by police: Ban it",
+      "excerpt": "About three years ago, as the technology was advancing and law enforcement (figuratively) salivating over it, we took a stand against using facial-recognition programs on police body cameras in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/",
+      "originalUrl": "https://www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailybreeze.com/wp-content/uploads/2022/04/LDN-L-LAPD-CAR-0301-4.jpg?w=1024&h=578",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/amp/",
+      "cdnAmpWebUrl": "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2022/04/06/facial-recognition-by-police-ban-it/amp/",
+      "publishedDateTime": "2022-04-06T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Breeze",
+        "domain": "dailybreeze.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-deep-learning-rising-in-importance-within-booming-ai-sector.md",
+      "title": "Deep learning rising in importance within booming AI sector",
+      "excerpt": "The application scenarios of China's artificial intelligence-powered deep-learning frameworks will be more diversified and buoyed by open-source platforms and large-scale industrial use, with the cost and application threshold to be further lowered,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202204/06/WS624cef90a310fd2b29e553b1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202204/06/624cef90a310fd2bec80ff6e.png",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing.md",
+      "title": "Google’s cloud-based approach offers open ecosystem for data sharing",
+      "excerpt": "Google's new releases emphasize breaking barriers between clouds from different merchants and also self-hosting options by the customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/",
+      "originalUrl": "https://venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1045727928-e1649181320143.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/googles-cloud-based-approach-offers-open-ecosystem-for-data-sharing/amp/",
+      "publishedDateTime": "2022-04-05T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-how-ai-is-creating-higher-quality-pet-bales.md",
+      "title": "How AI is creating higher quality PET bales",
+      "excerpt": "e-scrap and construction and demolition debris with an object recognition run rate of more than 10 billion items annually. This combination of scalable accuracy and classification creates a step-level solution for data collection and measurement that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.recyclingtoday.com/article/how-ai-is-creating-higher-quality-pet-bales/",
+      "originalUrl": "https://www.recyclingtoday.com/article/how-ai-is-creating-higher-quality-pet-bales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.recyclingtoday.com/fileuploads/publications/17/issues/104003/articles/images/PET_Bale_fmt.png?w=1200&h=627&scale=both",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Recycling Today",
+        "domain": "recyclingtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-isaac-asimovs-three-laws-of-robotics-wont-stop-robots-from-harming-humans.md",
+      "title": "Isaac Asimov’s “three laws of robotics” won’t stop robots from harming humans",
+      "excerpt": "On the 30th anniversary of Isaac Asimov’s death, it’s time to see if the “three laws of robotics” mean something outside of his stories. Isaac Asimov was an American writer and professor, considered (during his lifetime) as one of the “Big Three” science fiction writers along with Robert A.",
+      "sourceUrl": null,
+      "webUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/",
+      "originalUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/7VIOAMSXCVFKXB26ATQ7YKO6GU.jpg",
+          "width": 1067,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/amp",
+      "cdnAmpWebUrl": "https://culturacolectiva-com.cdn.ampproject.org/c/s/culturacolectiva.com/technology/isaac-asimov-law-robotics-work-modern-ethic-robots/amp",
+      "publishedDateTime": "2022-04-05T20:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "graffiti",
+        "domain": "culturacolectiva.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space.md",
+      "title": "New Microsoft Azure services will help us learn about the darkest reaches of space",
+      "excerpt": "Orbital Insight and Esri while customers looking to build AI can use the company’s tools including Azure Machine Learning (opens in new tab) and Azure Custom Vision. We’ll likely hear more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space",
+      "originalUrl": "https://www.techradar.com/news/new-microsoft-azure-services-will-help-us-learn-about-the-darkest-reaches-of-space",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Z7cdzHasMU29QxPHUpwuxb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command.md",
+      "title": "Meet DALL-E, an AI algorithm that can draw anything on command",
+      "excerpt": "DALL-E is what artificial intelligence researchers call a neural network, which is a mathematical system loosely modeled on the network of neurons in the brain. That is the same technology that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfexaminer.com/findings/meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command/",
+      "originalUrl": "https://www.sfexaminer.com/findings/meet-dall-e-an-ai-algorithm-that-can-draw-anything-on-command/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.sfexaminer.com/wp-content/uploads/2022/04/28379800_web1_220406-SFE-OPENAI_1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Examiner",
+        "domain": "sfexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing.md",
+      "title": "BrainChip, SiFive partner to bring AI and ML to edge computing",
+      "excerpt": "The integration of BrainChip's Akida technology and SiFive's multi-core capable RISC-V processors is expected to provide an efficient solution for integrated edge AI computing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/",
+      "originalUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/05/brainchip-sifive-partner-to-bring-ai-and-ml-to-edge-computing/amp/",
+      "publishedDateTime": "2022-04-05T18:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-ibm-launches-ai-accelerated-quantum-safe-mainframe.md",
+      "title": "IBM launches AI-accelerated, ‘quantum-safe’ mainframe",
+      "excerpt": "IBM’s z16 mainframe is designed for hybrid cloud environments, features an on-chip AI accelerator and what the company calls the industry’s first quantum-safe system.",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/cloud-infrastructure/2022/04/ibm-launches-ai-accelerated-quantum-safe-mainframe/364070/",
+      "originalUrl": "https://gcn.com/cloud-infrastructure/2022/04/ibm-launches-ai-accelerated-quantum-safe-mainframe/364070/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gcn.com/media/img/cd/2022/04/05/IBM_z16_2_GCN_040522/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-monitaur-releases-ai-governance-platform.md",
+      "title": "Monitaur releases AI governance platform",
+      "excerpt": "73% have struggled to get executive support for efforts to make AI ethics and responsible practices a priority and only 20% actively monitor their models in production for fairness and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/04/05/576612/",
+      "originalUrl": "https://siliconangle.com/2022/04/05/576612/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2015/04/HAL-9000-computer-from-2001-A-Space-Odyssey.png",
+          "width": 1280,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-ibm-releases-new-server-that-uses-ai-chip-developed-in-albany.md",
+      "title": "IBM releases new server that uses AI chip developed in Albany",
+      "excerpt": "ALBANY - IBM has released its newest mainframe computer server - the z16 - that uses artificial intelligence and chips developed in Albany that protect businesses and consumers from hackers even before a transaction goes through.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesunion.com/business/article/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
+      "originalUrl": "https://www.timesunion.com/business/article/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/25/04/73/22302450/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
+      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
+      "publishedDateTime": "2022-04-05T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-lanner-movai-partner-to-expedite-mobile-robot-development.md",
+      "title": "Lanner, MOV.AI partner to expedite mobile robot development",
+      "excerpt": "Collaborative solution to provide both the machine vision computing and software platform developers need to build and deploy mobile robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/lanner-mov-ai-partner-expedite-mobile-robot-development/",
+      "originalUrl": "https://www.therobotreport.com/lanner-mov-ai-partner-expedite-mobile-robot-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/mov-ai-lanner-electronics.jpg",
+          "width": 1000,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-as-data-drives-reinvention-aws-leverages-machine-learning-and-serverless-to-meet-enterprise-needs.md",
+      "title": "As data drives reinvention, AWS leverages machine learning and serverless to meet enterprise needs",
+      "excerpt": "Cloud provider Amazon Web Services Inc. is in prime position ... This fits neatly with AWS’ focus on machine learning within many elements of its cloud-based portfolio. “The idea of data ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/04/05/as-data-drives-reinvention-aws-leverages-machine-learning-and-serverless-to-meet-enterprise-needs-awsshowcases2e2/",
+      "originalUrl": "https://siliconangle.com/2022/04/05/as-data-drives-reinvention-aws-leverages-machine-learning-and-serverless-to-meet-enterprise-needs-awsshowcases2e2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Rahul-Pathak-AWS-Startup-Showcase-April-2022.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-microsoft-hpe-put-ai-to-work-checking-astronaut-gloves.md",
+      "title": "Microsoft, HPE put AI to work checking astronaut gloves",
+      "excerpt": "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top",
+      "originalUrl": "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/01/13/kopra_spacewalk.jpg",
+          "width": 700,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/",
+      "publishedDateTime": "2022-04-05T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-researchers-identify-new-medicines-using-interpretable-deep-learning-predictions.md",
+      "title": "Researchers identify new medicines using interpretable deep learning predictions",
+      "excerpt": "An important aspect of drug discovery involves determining how well a drug binds to its target (protein) molecule. Typically, this step involves aligning a 3D structure of a drug and its target protein at various configurations in a process called \"docking.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-at-the-gis.jpg",
+          "width": 1379,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-medicines-deep.amp",
+      "publishedDateTime": "2022-04-05T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-customize-the-amazon-sagemaker-xgboost-algorithm-container.md",
+      "title": "Customize the Amazon SageMaker XGBoost algorithm container",
+      "excerpt": "The built-in Amazon SageMaker XGBoost algorithm provides a managed container to run the popular XGBoost machine learning (ML) framework, with added convenience of supporting advanced training or inference features like distributed training, dataset sharding for large-scale datasets, A/B model testing,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-the-amazon-sagemaker-xgboost-algorithm-container/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/18/ML-2441-archdiag.png",
+          "width": 570,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T10:24:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-google-announces-new-tool-for-data-storage-and-integration.md",
       "title": "Google announces new tool for data storage and integration",
       "excerpt": "Google wants its to offer the control of the best data warehouses with the seemingly endless availability of cloud storage.",
@@ -308,790 +1131,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022.md",
-      "title": "Registration opens with 2-4-1 passes to TC Sessions: Robotics 2022",
-      "excerpt": "Robotics returns this year as a live and in-person event! It’s been far too long, and we can’t wait to see you — and plenty of robots — on July 22 at the Hynes Convention Center in Boston, Massachusetts.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/",
-      "originalUrl": "https://techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628.png?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/amp/",
-      "publishedDateTime": "2022-04-05T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-quantum-memristor-points-to-new-neural-networks.md",
-      "title": "Quantum memristor points to new neural networks",
-      "excerpt": "Studies of quantum computing and its overlap with photonics have gathered pace in recent years, with groups such as the Danish PhotoQ consortium investigating the development of photonic quantum processors.",
-      "sourceUrl": null,
-      "webUrl": "https://optics.org/dcs/news/13/4/6",
-      "originalUrl": "https://optics.org/dcs/news/13/4/6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Optics",
-        "domain": "optics.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-microsoft-taps-ai-to-make-you-look-your-best-in-video-meetings.md",
-      "title": "Microsoft taps AI to make you look your best in video meetings",
-      "excerpt": "Microsoft is applying artificial intelligence to meetings, with a host of new AI-driven technologies from Eye Contact, automatic framing, plus improved background blur and echo cancellation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
-      "originalUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/04/Intelligent-meeting-eye-contact-background-blur.png?w=1024",
-          "width": 1023,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp",
-      "publishedDateTime": "2022-04-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-google-ai-deepminds-high-ideals-are-tainted.md",
-      "title": "Google AI DeepMind's high ideals are tainted?",
-      "excerpt": "It’s discouraging but perhaps not surprising that an organization such as DeepMind, which proclaims such high ideals, would have trouble recognizing that harassment and bullying are occurring within its walls,",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2022/04/05/1600x900/UKRAINE-CRISIS-RUSSIA-GOOGLE-1_1649166461655_1649166516153.JPG",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
-      "publishedDateTime": "2022-04-05T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams.md",
-      "title": "Expo 2020: How Dubai helped a 12-year-old Kenyan robotics wiz realise his dreams",
-      "excerpt": "This innovative robotic solution drew the attention of Expo 2020 Dubai who asked Patrick to display the innovation at the Annual Investment Meeting (AIM) Startup at the world ... a regional hub of innovation, artificial intelligence (AI), big data and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/expo/expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams",
-      "originalUrl": "https://www.khaleejtimes.com/expo/expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=c137a97f-0694-5cc9-80ee-d06997ffe602&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95561&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/expo/expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/expo/expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams?amp=1",
-      "publishedDateTime": "2022-04-05T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce.md",
-      "title": "fabric Recognized as a Strong Performer in 2022 Gartner Peer Insights™ ‘Voice of the Customer’ Report for Digital Commerce",
-      "excerpt": "Headless commerce platform received highest overall rating by customers across the Gartner Peer Insights™ Digital Commerce report. SEATTLE , April 5, 2022 /PRNewswire/ -- fabric",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-amazoncom-inc-seattle-dd552f6b8e6bbe128bf92ed15e077d4d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence.md",
-      "title": "Overwatch raises $11M for airborne imaging systems with built-in artificial intelligence",
-      "excerpt": "I look forward to working closely with them as we quickly scale our company to support the brave men and women worldwide who rely on intelligence from our systems.” Squandra Ventures managing partner Guy Filippelli and Shield Capital managing partner Raj ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/",
-      "originalUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/e-BjvA1zBV8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/overwatch-raises-11m-for-airborne-imaging-systems-with-built-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-04-05T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat.md",
-      "title": "Outdoor and Dock Exhibitors Offer Whatever Floats Your Boat",
-      "excerpt": "From a Stiletto to a Rekognition Video Analyzer, outdoor and dock exhibitors are giving Sea-Air-Space attendees the opportunity to check out cutting-edge defense technology. The carbon-fiber, 88-foot M-80 Stiletto is a floating platform devoted to",
-      "sourceUrl": null,
-      "webUrl": "https://seapowermagazine.org/outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat/",
-      "originalUrl": "https://seapowermagazine.org/outdoor-and-dock-exhibitors-offer-whatever-floats-your-boat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SEAPOWER",
-        "domain": "seapowermagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions.md",
-      "title": "Guardforce AI shoots up 16% on expanding applications of robotics solutions",
-      "excerpt": "Guardforce AI (GFAI) shoots up 16% PM as the company began to roll out additional features for its Intelligent Cloud Platform (\"ICP\") powered robots in Macau",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
-      "originalUrl": "https://seekingalpha.com/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3820677-guardforce-ai-shoots-up-16-on-expanding-applications-of-robotics-solutions",
-      "publishedDateTime": "2022-04-05T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-from-autonomous-cars-to-autonomous-weapons-the-ai-ethics-issues-cant-be-ignored.md",
-      "title": "From autonomous cars to autonomous weapons, the AI ethics issues can't be ignored",
-      "excerpt": "Autonomous technology is racing towards us. But whether its autonomous cars or autonomous weapons, there are serious questions. This is where AI ethics comes to a head.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
-      "originalUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2017-05/ScreenHunter_1725-May.-22-15.19.jpg",
-          "width": 1279,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/autonomous-cars-autonomous-weapons-ai-ethics-issues-cant-be-ignored?amp",
-      "publishedDateTime": "2022-04-05T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-three-former-deepminders-are-developing-ai-to-pick-stocks-and-crypto.md",
-      "title": "Three former DeepMinders are developing A.I. to pick stocks and crypto",
-      "excerpt": "Martin Schmid, Rudolf Kadlec and Matej Moravcik left DeepMind in January to set up EquiLibre Technologies, relocating to Prague in the Czech Republic. The trio used to work at IBM and developed an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
-      "originalUrl": "https://www.cnbc.com/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102035717-72012198.jpg?v=1532564415",
-          "width": 5400,
-          "height": 3300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/04/05/deepmind-alum-want-to-make-an-ai-that-can-pick-stocks-and-crypto.html",
-      "publishedDateTime": "2022-04-05T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks-fintech-companies.md",
-      "title": "Gupshup acquires Active.Ai, a leading conversational AI platform for banks & fintech companies",
-      "excerpt": "Active.Ai serves BFSI customers across 43 countries with a Conversational Banking as a Service (CBaaS) platform that helps clients engage with millions of consumers every month. The acquisition strengthens Gupshup's customer experience (CX) solutions for banking,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm",
-      "originalUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2021/03/mergernacquisition2-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp",
-      "publishedDateTime": "2022-04-05T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson.md",
-      "title": "What’s in a name? Buffalo’s link to IBM Supercomputer, Watson",
-      "excerpt": "Most folk are aware of IBM’s Watson, the deep-thinking supercomputer that won jeopardy and launched an artificial intelligence bonanza. Watson is not the fastest supercomputer in the world ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/",
-      "originalUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.buffalorising.com/wp-content/uploads/2018/03/Idea-1024x614.jpeg",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/amp/",
-      "cdnAmpWebUrl": "https://www-buffalorising-com.cdn.ampproject.org/c/s/www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/amp/",
-      "publishedDateTime": "2022-04-05T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo Rising",
-        "domain": "buffalorising.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-facial-recognition-system-to-be-launched-at-pune-airport-in-2023.md",
-      "title": "Facial recognition system to be launched at Pune airport in 2023",
-      "excerpt": "A facial recognition system will be launched at Pune's Lohegaon Airport by March 2023, Minister of State for Civil Aviation VK Singh said in Parliament. The system will be launched as part of the Centre's Digi Yatra initiative to provide passengers \"seamless and hassle-free experience at airports\".",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
-      "originalUrl": "https://inshorts.com/en/news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/5_tue/img_1649144346258_275.jpg?",
-          "width": 537,
-          "height": 356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
-      "publishedDateTime": "2022-04-05T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-uks-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright.md",
-      "title": "UK’s mental health crisis alleviated by online therapy services from Onebright",
-      "excerpt": "Around 1.6 million Britons are waiting for specialised treatment, and another 8 million cannot get on the waiting list but would benefit from support. Could online therapy be the key to unlocking the mental health crisis?",
-      "sourceUrl": null,
-      "webUrl": "https://www.journalism.co.uk/press-releases/uk-s-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright/s66/a917259/",
-      "originalUrl": "https://www.journalism.co.uk/press-releases/uk-s-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright/s66/a917259/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Journalism.co.uk",
-        "domain": "journalism.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-mirae-asset-partners-with-ai-based-fintech-qraft-technologies.md",
-      "title": "Mirae Asset partners with AI-based fintech Qraft Technologies",
-      "excerpt": "Mirae Asset Securities formed a strategic partnership with fintech firm Qraft Technologies earlier this week, planning joint research on AI-based financial models and cooperation in bringing about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html?fl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202204/2c4bd0b08b3248539a1a524032d091f6.jpg",
-          "width": 980,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326802",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326802",
-      "publishedDateTime": "2022-04-05T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands.md",
-      "title": "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands",
-      "excerpt": "Artificial Intelligence and Machine Learning. In addition, the collaboration will allow Netcore Cloud access to the AWS Partner Network (APN) and the APN Customer Engagements (ACE) Programme ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands",
-      "originalUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-04/05/I_97f69image_story.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-azure-synapse-vs-snowflake-etl-tool-comparison.md",
-      "title": "Azure Synapse vs Snowflake: ETL tool comparison",
-      "excerpt": "Azure Synapse and Snowflake are both good ETL platforms, so how do you choose between them? See how their features stack up and which one is more suitable for your use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/azure-synapse-vs-snowflake/",
-      "originalUrl": "https://www.techrepublic.com/article/azure-synapse-vs-snowflake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/04/istock-1153656985.jpg?x41785",
-          "width": 1365,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/azure-synapse-vs-snowflake/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/azure-synapse-vs-snowflake/amp/",
-      "publishedDateTime": "2022-04-04T22:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

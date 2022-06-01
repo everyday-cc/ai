@@ -52,17 +52,6 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 64
-  - title: "DMV Remains Mum on Safety Probe of Self-Driving Teslas"
-    excerpt: "The investigation by the California Department of Motor Vehicles into safety issues is headed into its sixth month with no end in sight."
-    publishedDateTime: 2022-05-27T22:34:00Z
-    webUrl: "https://www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-self-driving-teslas"
-    ampWebUrl: "https://www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-self-driving-teslas?_amp=true"
-    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/dmv-remains-mum-on-safety-probe-of-self-driving-teslas?_amp=true"
-    type: article
-    provider:
-      name: California Techwire
-      domain: techwire.net
-    quality: 54
   - title: "The California Department of Motor Vehicles said it would investigate Tesla over self-driving claims. Then, crickets"
     excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the US$12,000 (RM52,548) software package that supposedly enables a Tesla car to drive itself through city and neighbourhood streets."
     publishedDateTime: 2022-05-30T02:43:00Z

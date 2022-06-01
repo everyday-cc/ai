@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T13:30:00Z
 originalUrl: "https://menafn.com/1104306360/Banking-On-Real-Time-AI-Florida-Credit-Union-Sees-97-Reduction-In-Fraud"
 webUrl: "https://menafn.com/1104306360/Banking-On-Real-Time-AI-Florida-Credit-Union-Sees-97-Reduction-In-Fraud"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

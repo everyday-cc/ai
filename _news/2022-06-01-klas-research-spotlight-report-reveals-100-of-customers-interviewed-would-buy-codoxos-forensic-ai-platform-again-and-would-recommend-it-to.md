@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T12:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/klas-research-spotlight-report-reveals-100-of-customers-interviewed-would-buy-codoxos-forensic-ai-platform/article_0c5d0328-3946-5b79-961b-8ff2cdac7173.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/klas-research-spotlight-report-reveals-100-of-customers-interviewed-would-buy-codoxos-forensic-ai-platform/article_0c5d0328-3946-5b79-961b-8ff2cdac7173.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV
