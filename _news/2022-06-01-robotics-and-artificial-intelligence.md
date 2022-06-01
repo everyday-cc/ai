@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI and robotics set to disrupt construction waste recycling"
+    excerpt: "Recycleye pairs an AI recognition system with a robotic sorting arm to replace human pickers on material recycling facility (MRF) lines. The start-up company, founded in 2019, by two Imperial College London graduates, is a finalist in a new Young Inventors ..."
+    publishedDateTime: 2022-06-01T11:47:00Z
+    webUrl: "https://www.bimplus.co.uk/ai-and-robotics-set-to-disrupt-construction-waste-recycling/"
+    type: article
+    provider:
+      name: bimplus.co.uk
+      domain: bimplus.co.uk
+    quality: 69
+    images:
+      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/06/recycleye-featured.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Future of AI in banking will be about leveraging unstructured data"
     excerpt: "While banks have made significant progress in leveraging AI in risk management and sales and marketing, the applications of AI are widespread across departments, especially in compliance, where financial institutions are struggling to cope with rising global expectations on combatting AML and CFT."
     publishedDateTime: 2022-05-30T09:09:00Z

@@ -76,15 +76,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "California DMV said it would investigate Tesla over self-driving claims. Then, crickets"
-    excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city and ..."
-    publishedDateTime: 2022-05-27T17:41:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/05/27/california-silent-after-starting-probe-teslas-self-driving-claims/9959188002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 26
 
 secured: "Egff0kC/wS+Yud0GW5EYmsxmAyNnebIRM36y3BxZEt/Ps6Rd/YVizI8CVO46+NE+5tp5I00MpgUS+OFfXY/schm3NDeh7++tT/FtjxlhRwybeb0pAB/vKWb+e66SFX3m3g/gKkWqPyIQQ0FQPZTJAltIoft0O+XJRCyIV2IW1OlKi5S96aDvYb8lO3/aBetKTnnzIHGfBXTdZ5XPUdv6xKuS6/N9l8q9CiFYnqHgVxPVj4hIqyFGg0rYtcB/nt8g2d2HMiPYWCW6Vzmk4nYeh1INmRXSS/98yw5Qcil8Z+IQpAkMj6gwv4B9tKFeV0A3C3NsFvM7N3ePuyp9z4oHOEHtBYSoIWZQZ6iWf8NtNGbKI5aqCjQu5hL1IIKPBzrxfGUCx9I4k9S+rxYQJvjGUxpZvarnyqbnceqm6Fcp7VgQKoTE67w+KXxgjMse38SuCIZwW5aRv0v0Sfta++BGI8+LxtuvzHzbR5S3SGBALt8vPs2Zgn0NGR/BXMMht71jRpae8MDEQDuEZWHIBRpafg==;TW4KDrACmGqc4dAd7an0Dg=="
 ---

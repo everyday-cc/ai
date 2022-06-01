@@ -32,6 +32,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "How is robotics innovation progressing in the military industry?"
+    excerpt: "Research and innovation in robotics in the military equipment and technologies sector has stagnated in the last quarter. The most recent figures show that the number of robotics related patent applications in the industry stood at 32 in the three months ..."
+    publishedDateTime: 2022-05-30T10:58:00Z
+    webUrl: "https://www.army-technology.com/analysis/how-is-robotics-innovation-progressing-in-the-military-industry/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 54
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/05/bOoys-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "AI hiring levels in the mining industry rose in April 2022"
     excerpt: "The proportion of mining industry operations and technologies companies hiring for AI-related positions rose in April 2022 compared with the equivalent month last year, with 33.8% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-05-30T10:00:00Z
@@ -78,6 +92,20 @@ related:
       name: Verdict Retail
       domain: retail-insight-network.com
     quality: 16
+  - title: "Artificial Intelligence Robots Size 2022, Segmentation, Investment Scenario, Recent Trends, Industry Outlook, Application and Global Forecast to 2030"
+    excerpt: "Global Artificial Intelligence Robots Market to surpass USD 107.3 billion by 2031 from USD 7.8 billion in 2021 at a CAGR of 29.76% within the coming years, i.e., 2021-31. Fatpos Global added new report into their database named “Artificial Intelligence Robots Market Segments: By Type Service Industrial By Technology Machine Learning Computer Vision Others By Application Public Relations Military & Defense Stock Management Others By Function Training Inference 2021–2031 Global Industry Perspective,"
+    publishedDateTime: 2022-06-01T10:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-robots-size-2022-segmentation-investment-scenario-recent-trends-industry-outlook-application-and-global-forecast-to-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "RlRwRc+CG+zUvVaBXefizG9YZCHynu2/csqUw1L1vecF9g0pGYUSUnIXYtbLNXk48OiVzvtHoxpuXOEvqDE2MJLYNP+Ec0dBuHk0Mo/bTsRFTLqJLQsdvn22W6MfcAOItQHTwyYpVew0TGviHTyqU3RjiwdM05dZ04PxRsTlxnQAxXJF062SzGc1ZauuIRfft/nKYUz3NdPDiW1VreubJu1/tWMdbrDmZRDDfETrv/0L+BrtoIL7yQnFbKfbwEzOoKrswjzXdHqFSt4wI1MPi+jwZQA9iJbMuFqNLnaRXeHUOuSzKQUWFaZSqiexdiO0M04qxx6+PbEOvov+5CPqlsxHdZcePrr/wHV3Aiappwa2rq0KH1v01eiuDld0zoQc0XLI0bWKs+lfGFVrNjclO9yBnjREKVFqGHd5KpjMcZPnueW+UrBR5LHS3AAH1J5zc3GLzxQypeq5x25zThobMoCVHvJfCwUB35K21aqRtvpP48k77k2Qx7m0bQbAeO7+aakSB5xEGfNqaK4UmisSLQ==;SntFSb0FNhiJRPf3bapxmw=="
 ---

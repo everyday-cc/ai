@@ -54,6 +54,6 @@ related:
       domain: retaildive.com
     quality: 1
 
-secured: "jTyB4PnyPuFypb+GgTdPMaFLfv4+dNlQBdcKeuKCpZXBUDjff0a5zms+OXOI4e2sXUGLYStNn/+IP8Hp2JY/Jv1IUKZqzg8k3wUnhje7rEWQpNWY+HaxPeItYZIKN3hzz2fOtukA7Lv/fDGI2qCbG58w6X+D5MEGbm8y2v9h271gVIubVKjqGuoT0uXF2uzhbjbnlHQ4wNCXHslBL0ICkogQp+chW3tphdWt8ite2V1e18/M5YrvkVH0SlFDIlmZYQsiWnJV5c+Ouxv6k7XCLCkzPkp7YuWMqLmH6onVPb9Xo7Yu/RRxSlBFFKva+0WoUvnBZxT80+qE6gFQth63yQtkEH5ReIpbNTWazmhCLSM=;2j1iPr6mxC+y//dPoM4JSw=="
+secured: "fKZDPgcUv7EqXPYvukx/Wql2PeP0LT3QYUgEjbKvVT2JziYYwyheFufER2hfccOIPRaZCNsP/Er9F5ki+GwddwbHrm/VbGayyqVpkzCapseLLLL64gH5/ChvQhwPQRmk501BquvPDKRM2t/16M8Tk8WuYNqgo2NkYOKI0z/5eAE7cktcO1oqB6AQkx1OriTma7DRsdEB6Y3cMuObmTS/i+oXG0sZyIrg3EoI0ylJ/LvyLVQQiyqF/Pq8+Yvnqn+5VyDFGeAwsP/W2lZvE92jRVHH8BCpxT7nXFdAHug8uvR5cYDlupd1I5PXgmQZ2re6bqMvINDaN0ffGYOo/i4qxp/zBqbQj3dQA9MVL42R3mAHUqmTniWTjkpjIOv1yi7FhkK0Rj9v2ANxLxFHKRJQk8c0GjvLME8pXixaV+cJSFUWbZ34PUjX/4/1yriM+4KaOnehr0dqqFzo/8+dIUTRiGKpIRAd4kjUfjeUt69pAiAUdks0LwGlsi0ptcUcHeZZnT/C/J9y+bRscGG4LyIYtw==;cfu7BGZXZS2j3MB+V+t/JQ=="
 ---
 

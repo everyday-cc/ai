@@ -8,8 +8,8 @@ webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/can-ai-hel
 ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/can-ai-help-us-build-more-ethical-world"
 cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/can-ai-help-us-build-more-ethical-world"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 secured: "H8ylujajIi79g88XXFXJ7A+Wxuz+uatZ371m0GHmfnoWRIS3q4Vn/yJrGlhvvYfoNy73OpXC8FbPPMU3v1mgI1WWYrRzdzamrHYECXHMtuB2B2i1JZpOoISvE3Vv5g4wYi7o/ufw7s596ULJnzTtBx8SQbsWxZ4cOnVhX6QoO5X7ZzrMpD6Shhj+4jzwpIeXto5Hhqf08ekT+Sl3nwTY1BTGevloFdNP2QU/N9hkjBRmQdUHoyNzcOccEGQdOM36SIM542FW2u6IGSVdy4gx2facv4DE5TZybdGj+VIPauWvW71RgOXg9Nw5yFfYBLGZiaLxjpwdaC+SMXxn8daP6gfSJobmr69CC2WvW3gB06eJbQeGi7/O7gMRavCqZ9jf5YUvZlKgIe7j72rtFcwc8a4kYNOdK6HvtkkPjWjZ9hNGY9SQ8nHUuXVw1QhzfdCQs3zV8kXV/xMMw6XcNEXCZ2KDLVOb+UKih86OnCwEi7HYFhzyD0q6C699cqvB7H6g33GbupvEBVdzJe0WW5dOxw==;MWqfKEPyGkzbZ6jgQ28KzA=="
 ---

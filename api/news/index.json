@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-01-vi-launches-aiml-driven-adtech-platform-vi-ads.md",
+      "title": "Vi launches AI/ML-driven adtech platform 'Vi Ads'",
+      "excerpt": "Vi Ads will enable marketers to engage with the operator’s over 243 million subscribers through digital media as well as traditional channels",
+      "sourceUrl": null,
+      "webUrl": "https://www.exchange4media.com/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
+      "originalUrl": "https://www.exchange4media.com/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.exchange4media.com/news-photo/120585-main32.jpg",
+          "width": 730,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
+      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
+      "publishedDateTime": "2022-06-01T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Exchange 4 Media",
+        "domain": "exchange4media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service.md",
       "title": "Standard Bank shows ‘it can be’ by using AI and analytics to improve customer service",
       "excerpt": "Africa’s largest financial institution, Standard Bank, is on a mission: to find ways to set itself apart so that the bank can meet its customer needs in today’s complex, ever-changing world. Operating in more than 20 countries in sub-Saharan Africa and globally,",
@@ -54,7 +97,7 @@
       "originalUrl": "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -97,7 +140,7 @@
       "originalUrl": "https://www.artificiallawyer.com/2022/06/01/deloitte-spin-out-arteria-ai-bags-investment-from-citi-bank/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -486,7 +529,7 @@
       "originalUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -863,7 +906,7 @@
       "originalUrl": "https://www.reuters.com/legal/litigation/ethical-issues-surrounding-research-ai-health-care-2022-05-31/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -916,7 +959,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1148,57 +1191,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-how-ai-is-improving-the-digital-ad-experience-for-consumers.md",
-      "title": "How AI is improving the digital ad experience for consumers",
-      "excerpt": "AI technologies can make a big impact in improving the ad experience, but it still takes a human touch to interpret and inform the model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/",
-      "originalUrl": "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/amp/",
-      "publishedDateTime": "2022-05-30T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

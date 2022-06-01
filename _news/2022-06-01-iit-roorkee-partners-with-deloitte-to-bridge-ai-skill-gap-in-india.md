@@ -54,6 +54,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Citi invests in document management spin out Arteria AI"
+    excerpt: "Arteria AI, a document and contract management spin out from Deloitte, has received investments from the strategic investing arm of Citi's Global Spread Products division, and Canada's BDC Capital."
+    publishedDateTime: 2022-06-01T10:23:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40366/citi-invests-in-document-management-spin-out-arteria-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/worktop-2.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "MyF8FPZ+sZQazzHdpCjastAElF/wyuBOKVG9qySYCdEvNN7Rgqgc1LHnUYqHowEJh5aoVujX8yQkqlTwXCEzqJuKddTu6CT5PYR9Re/r4BjqYAJt06KAaoe8VhgDM47oFa7UUEl3XIUFCn0Df9VkHKTpcQkwtIhsrLPR+ZxxRMBNvGHxUihvpQ+pNXptAuVaNaDOuK+YLgOgnUvceC1UXDIKfVyufgNd64foOVWAZAdiL9QwTIUWfsbb40uV2lCX1UT9kg4vHGveIFY544NfuAvs2NPyXx1WS6e6JZR/Kftul4sjB7/6ypwGgkWzJs1sM0Q9gV8lRdUnPnGR0ouAG5BGJqxxJITqNN7zfc1S9+M=;X849ycSp4ZejetMH5QYA1w=="
 ---

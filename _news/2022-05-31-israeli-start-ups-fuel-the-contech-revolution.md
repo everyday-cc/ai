@@ -38,15 +38,6 @@ related:
         width: 1920
         height: 1282
         isCached: true
-  - title: "New York to battle senior loneliness with robot companions"
-    excerpt: "The state’s Office of Aging plans to distribute Intuition Robotics’ ElliQ voice-activated companions to prompt connections and wellness checks."
-    publishedDateTime: 2022-05-27T19:00:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/05/new-york-battle-senior-loneliness-robot-companions/367502/"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 19
 
 secured: "l/+vBSNolkj/UtPRwAfGLV8qCJZdz4uUNofxDUXtaoXYKUyAxFTyn/m1a/IGfrO3zV/utZyIWfuDdpGtVVeZWTTupJBJh2vuNYM5mVO7P6eSpAGUqFe2i/GUvfJHheCpeMR34Vmon6JQxK8DSNdfskAOVBMc1qT8QSpa+H2+0agotR86CW7n4IjnaB+lT5o2sH7dJtNcMdpnEFSnICW7Uvnu5ducp2OiXSOqPCyYj3n0p153IRNtoDMPoJTdZ7IfIKpdUd+IzK5DO1HcV4Yl+NGsvAPGLdi9JJ1foIF0P9GlqZ9E77IDtGRjePu5WvYes+QrVMhCy9oZg2NqxV7Y/8sq6U37Pr8DwEPyAnbvLgI=;IO2EdAnqPSOEgB8FnY32kA=="
 ---

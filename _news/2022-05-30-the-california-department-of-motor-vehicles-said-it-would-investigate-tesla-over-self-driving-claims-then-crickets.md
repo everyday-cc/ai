@@ -73,15 +73,6 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 54
-  - title: "California DMV said it would investigate Tesla over self-driving claims. Then, crickets"
-    excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city and ..."
-    publishedDateTime: 2022-05-27T17:41:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/05/27/california-silent-after-starting-probe-teslas-self-driving-claims/9959188002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 26
 
 secured: "sHjpHfhaLN3XcDAt8pcCn6lrREKhMJHZW+SlplcqvnLuaxkVLNv8RY6K1eHI/KVW7gYKd7dSLQVyAHMIqpjb856W7KTDtsJ+LdW2WGcHcZ9muri5Ak3dm6sOopJqwzvPZDOLcgeHoEMmO1TMxQEwq8+gSkkJtkBBtKZJoHRKjwECnfRtxPAPRWxzVhLjGoHaPAzbo3a+Z4KheY4V9nOQcvN//Fwj/wYW/bfLeoybx5NwE/gMS5JR6PhBQtnh8B96TP4dVdkhXbZ5qrRCKHTorQM/jZFvbax9hy5bcuqwT3JO1jhpwHeqBevx6hYj5XgsiHT7lYSIF32XxCnU+Bh02Sn8xIJNewrRRoy8WBW3Ymi5z6vIas0JgGBWVmbGF7o0e7d+FCvutBNjddPX5UpvjzHiwUFsiny6+zvNCNBuqpQ/0gF3mSIVFjsVsXlUCxV/s+CRdizuj5LJqOlTQj/z8ndBcNCMfKTBWbsaEovGTVA/xMmGzdP1S+nGxhGUe39sThjEofIsQKL6Il0g3G1y1Q==;EebRc9V5MR2WYKmHiN7yuw=="
 ---

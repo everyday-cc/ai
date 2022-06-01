@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-az
 webUrl: "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Conversational AI Platform Market is Booming Worldwide | Google, Microsoft, AWS"
+    excerpt: "Conversational AI is a form of Artificial Intelligence technology that enables people to converse with applications, websites, and devices in the form of humanlike natural language via voice, text, touch or gesture input. Conversational AI platforms are a ..."
+    publishedDateTime: 2022-06-01T10:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/conversational-ai-platform-market-is-booming-worldwide-google-microsoft-aws"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 67
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Microsoft Build Showcases 4-Processor PCs and Useful AI Apps"
     excerpt: "Microsoft Build delivered important breakthroughs in PCs and their ease of use, including natural-language coding."
     publishedDateTime: 2022-05-27T22:38:00Z

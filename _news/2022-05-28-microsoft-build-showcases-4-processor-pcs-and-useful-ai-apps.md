@@ -41,6 +41,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Conversational AI Platform Market is Booming Worldwide | Google, Microsoft, AWS"
+    excerpt: "Conversational AI is a form of Artificial Intelligence technology that enables people to converse with applications, websites, and devices in the form of humanlike natural language via voice, text, touch or gesture input. Conversational AI platforms are a ..."
+    publishedDateTime: 2022-06-01T10:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/conversational-ai-platform-market-is-booming-worldwide-google-microsoft-aws"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 67
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Nokia plugs in Microsoft Azure into its industrial edge platform"
     excerpt: "With Microsoft Azure Arc, a wide ecosystem of applications, and our long standing work with Nokia, we can provide AI-powered insights and identify solutions to workflow issues for mission critical Industry 4.0 applications running at the edge.”"
     publishedDateTime: 2022-05-31T16:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/u-s-army-artificial-inte
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/u-s-army-artificial-intelligence-unit-moving-into-office-space-in-pittsburgh/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "U.S. Army Artificial Intelligence Unit Relocates in Pittsburgh"
-    excerpt: "An Army artificial intelligence unit is moving into about 13,000 square feet of space leased by Pittsburgh’s Carnegie Mellon University at Bakery Office Two, according to real estate sources."
-    publishedDateTime: 2022-05-27T18:13:00Z
-    webUrl: "https://www.govtech.com/products/u-s-army-artificial-intelligence-unit-relocates-in-pittsburgh"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
-
-secured: "TWZBg1Kh7l5VvVY21gkCgiBJ7e2x3oEFX3lsdJvK9Y1XwFv3tiCwDNd0NfzVKwDtZ84FuA8SnmM27rKdl4qtf47jQtfVxAtdkiQfAnX4B08iDbu0PlwsVsUbFUv+p/T+IjSAdRtmkvyQon6IrAM+ePX6VZzB4iUp0Jsjp3T73FCeJt0SIuTQ3/fkNavcs9z5g2EkZL980C+waWD37rOHUO3Wr8utW4+bB6iBSCXtcI6bpwKmrVqAm/aywnkqpF9A9OihQnR8IMRE7bIxKUwx85NbV70XF2+Srh0t4ogPfsaAKez9mfAPaj/hKZ/ku2FXRi54IRQR+63pgjWdfdi67K1C43TVFqtFT/am9Yeuszc=;7MlNoengpBZTyXxSc9oTRQ=="
+secured: "cFNp8J/+Nww6cM8UzQiU8R632qdDsz9G1iOK0rnwFxc2JovHnvUHvoYprfF3F72IMG5E13ezoGS60Vh9vJN+3xIQ7u2HT+9oR4exfYAz1oMmv77F1byEQleick0Sov8/TLdx0F8EOZCljo1ao6qR3YHAxPVfvtRbq1xhL2q/czaUcSvoEk47dvcDw9myQahKm8mEsNriuFAU6gLaw4/lbCipBJQmjf2vjCGu+oEbN1/rN7ct39I72s0VAeOU6Nd70iHJ26VVSjDHw7EiJyVDWPfTsrit8SAzRFDB78vmT5DIyd/6wjnAK+TkcxS5Z+ydENbSKBJz3QWv7Db7TdqQaEFzYPMt1f29M3p1KRvIvvMoC4bMOIMuUO8Ul5DdKufjN7vRY5UQ8qdSr3AC7ZHVrNnH48t33lOg6hL/7NridmYOKI9tCejh4+ADjFVKqEwJmmpEYMpw42V/YOaoVAMOvGwn6YmrXrX+iFxAlsnGhxehhYATvf36hCVBugLL6AxWwFnyHOcWjk0IZsA/gF5Cvg==;tgpF2K2W5R+c056kRlm2YA=="
 ---
 

@@ -1,21 +1,26 @@
 ---
 category: news
 title: "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News"
-excerpt: "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,"
-publishedDateTime: 2022-05-25T00:31:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news"
+excerpt: "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May"
+publishedDateTime: 2022-05-25T00:45:00Z
+originalUrl: "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news"
+webUrl: "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - AI in Finance
   - AI
   - Machine Learning
 
-secured: "vEgmyg6/jewRUpRJda49Dp/HpJ7OsPRRGUsUhs3/EBB625Lu+37/+o9GknnpEB8M7Z4ifjOk6OwRl+nFFxqAxQG1y+71ZrkSJ5WEucDuN97L5OGPkTiqdC2SvIn1KqPPlQVzldiXJlWw6eZ+GN/mRwII5CrJjEAqLKJgMw79ipaeBeP+Eh1ngepwC3sygmt9tiJllqap5rxE8ikvKoQrKMTsmLJggQj95oIOVQ1eh7trHb+/MEWTiK8jLoWhQp9euPPWi5YwYY0koOq7ezpygE00haabJ+hmHDbtOiIvTeaQJkAgX1IE3UK0azzW1nwFtLHTPppdXueA1dOUqDzHdb2+VkxB09y+wYxiLdTVGBP5Ol8JzxjaLih15WUgk22wJ4CxkRd8kaYkrtlwQeDKeKfCff6/B2SHpasS1FETOFUFsDFUAbDaqDEv1OuEyuxn3bQYUZiYLNfkmApT++MGfJtEEIcozo6BEJCE7d3hjYpraC12wL1bL1lBUjl+vo9E+EMQQa+HKayZzK0MtLKG+g==;E4z69K1b8SJQaCTXB9MVbQ=="
+images:
+  - url: "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png"
+    width: 1500
+    height: 942
+    isCached: true
+
+secured: "XBcPoT3PaGps/yJWXIj5NeLSgh1tQCMqeMs1PGgq0DdXtYWpVucB5SmWOjZOXeMm18MZH4la83FNnJriBG+TuBIgYzEwIQCkPdCDzit+LrlBediE5NBcuDhwumPjAKoKFXtI4048ngIwHPnc4Weq73HFujGNXaufFmdUup2+1mQqDRNNJ58TY1PiJMcJlbazLGVLqG7oZTM7GGk0Yeo1K9bYR2oOZCisGCxAgJLoCdOWghjEzgfyGbTSbSifU8IW9GH8epenNU5hvoIFGQtQqNUtiRe7NwT60HcYwvuZjmduGMpqiZ4mKEsGBPLEXDrmhq+V+yM53H7XIeE5WvHds0AcmbCO07VoV4Ovbby4mDQ=;GcRyVbabd6GgOJRAMijErQ=="
 ---
 
