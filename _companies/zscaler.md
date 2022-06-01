@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "zscaler"
   url: "https://twitter.com/zscaler"
-  followers: 12388
+  followers: 12390
 
 locations:
   - San Jose, CA
@@ -22,7 +22,7 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1506361392185577475/0yBDQJ-s_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1532025468924268544/qWJ5eAf7_400x400.jpg"
     width: 400
     height: 400
     isCached: true
