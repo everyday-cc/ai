@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Startup launches 10-min liquor delivery service in Kolkata"
-    excerpt: "Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform."
-    publishedDateTime: 2022-06-02T07:13:00Z
-    webUrl: "https://www.financialexpress.com/industry/startup-launches-10-min-liquor-delivery-service-in-kolkata/2546268/"
-    ampWebUrl: "https://www.financialexpress.com/industry/startup-launches-10-min-liquor-delivery-service-in-kolkata/2546268/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/startup-launches-10-min-liquor-delivery-service-in-kolkata/2546268/lite/"
+    excerpt: "The service was launched in Kolkata after approval from the West Bengal State Excise Department, according to an official statement."
+    publishedDateTime: 2022-06-02T08:06:00Z
+    webUrl: "https://indianexpress.com/article/cities/kolkata/startup-launches-10-min-liquor-delivery-service-in-kolkata-7948939/"
+    ampWebUrl: "https://indianexpress.com/article/cities/kolkata/startup-launches-10-min-liquor-delivery-service-in-kolkata-7948939/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/kolkata/startup-launches-10-min-liquor-delivery-service-in-kolkata-7948939/lite/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
+      name: The Indian Express
+      domain: indianexpress.com
     quality: 42
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/06/liquor-delivery-in-10-mins.jpg"
+      - url: "https://images.indianexpress.com/2022/06/kolkataliquor-online-delivery.jpeg"
         width: 1200
         height: 667
         isCached: true

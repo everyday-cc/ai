@@ -130,7 +130,7 @@ related:
     provider:
       name: The Edge Singapore
       domain: theedgesingapore.com
-    quality: 14
+    quality: 16
 
 secured: "hQGbUwDn61jKlvAFAAaryzKtxXni+qiHMLEaYbnrsfz9fz0PGoprzptKPdmWiy5gc1qRcQVEqHfxFVSDiNngtktB5lSuxCigv+P6AzY6Hfaz1VCPJ2E6YDzMpYf0AGZzjJXE3wUtVjVRIo1X4O/vrHrtiJubFMMYiMgrIlMIeT3xqdUKcdqiRXDCYP18AIec5fahJAhsWDPB3z3TwUAmjkbixhQhKcf6N634LH8QywKYgKVQLnhn/ih8nCnTR5sd7HmICCxIdvsyLx32gL0cxzdYMYRn8d69iucCiijzFrWQSLX+tdfpNfhxycX3Cy7BoQnJrUksxiadYbn0Rdbr63Ly46nNsntEbTkIeH4HTUdeNWHsBGNvSHG+lNujI+RTo4k3oSwAkyY1SKkhk5rUVJHyNaQHc74f6VuemJLR3o7lmGMB49W8JtbBRSliVDIp7eh+x+tn0De9kEA1tLEYTvHrYco12QKv3xUfS3J7nY7abk9Ph7ZuFvir2Nalq4jtXMFc49BaZqlY60MXBb9i6Q==;QJmQ5IXDXcJ9VZJTzJvpng=="
 ---

@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace"
-excerpt: "Deeper integration with AWS to bring promise of cloud-based, data-driven marketing to more enterprises. Zeta Global (NYSE:ZETA), a cloud-based marketing technology company that em"
-publishedDateTime: 2022-06-01T22:05:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace"
+excerpt: "Zeta Global (NYSE:ZETA), a cloud-based marketing technology company that empowers enterprises to acquire, grow, and retain customers more efficiently, today announced the company will expand its long-standing work with Amazon Web Services (AWS),"
+publishedDateTime: 2022-06-01T20:06:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-049fca70057d43d39088e8fdb6309d0e"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-049fca70057d43d39088e8fdb6309d0e"
 type: article
-quality: 43
-heat: 43
+quality: 63
+heat: 63
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
   - AI in Marketing
 
-secured: "enP/+lrPhPSkdRpmbUthZViCG2Wk5bRxOEJ4s18OAw4TJh3eX+6grQx6GCGfiijJjnw+JbkmHH7f6+z5SQrFLEQwiwVEs8pAnc5XmjKkHUkPbNlF4nzUJSF1xBMfZc8fMOiugWPWqP810g8S3XcpCqvflvBhbKRqRQ0zQF5XsD/eI/5l9+QI0PuTjpCgrCHxwHzbAeUFzTBLR/2wC866JkbpRdx2UDukiQp0O0S+c0rIhU29u/ErZNAsXfEWPlYZ1k0G0kqDrqoiJksT225+8IjEc9hvtAa3TYgm/ve+D7U7+86/FO8rCUx4hhdhYWlcBAaGuOUeZjVLrsaAu3RkJsahPymUQZ/Q+nfBCfTHy5g=;UOcgB4FtYCgJjcYwZZSyRQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "IUjLsC05NQVjt7ptX4W/QxjnYhXkBnTDTQXxSHHDCdNymtY4I3hWLZXDlpv8swG/A0FuV3LFRStFI1nt9qHEi5QrMDxmMozWyjWqHrQ9ailiW5BPMWrWnoKRhWOWZSZ/Djh+pE+Tckcu9SraqDlPFB2YghcXOK8kAYVYZdTQYQtSBbjzIj9HbU/xwDWaxUaXltRSGnEDBpOlvgqyYBTdMm9cBBeGemvnF0M+E4cMLi5lnSIMBpw4rQCmzCJBjXK9omNTeXqLTe7OPH4l74wRDcdG3dIQobiJLLGyVehbrAPVqrGb78oao4TfjuxAxihFQ5RREYvfE8IoYu1ldnFFzM+sS0wUGkp6/0dKB3HQizo=;yKHJ1sf97CnCDYWjVAYf/Q=="
 ---
 

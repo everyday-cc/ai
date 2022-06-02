@@ -52,6 +52,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Here’s how to get ahead of potential regulations on AI in HR tech"
+    excerpt: "Recent EEOC and DOJ moves suggest we may soon see formal rules around how artificial intelligence is used in hiring processes."
+    publishedDateTime: 2022-06-01T16:00:00Z
+    webUrl: "https://hrexecutive.com/heres-how-to-get-ahead-of-potential-regulations-on-ai-in-hr-tech/"
+    type: article
+    provider:
+      name: hrexecutive
+      domain: hrexecutive.com
+    quality: 37
+    images:
+      - url: "https://hrexecutive.com/wp-content/uploads/2022/06/Social.-Boese.-6.1.22.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "A glitch in artificial intelligence"
     excerpt: "There was just a glitch in their system. I think they are randomly walking the streets now.» CAITLYN: «Don't worry, Victor. Vi will find all the robots and bring them to you.» VIOLET: «What?? Why me?"
     publishedDateTime: 2022-05-29T04:15:00Z

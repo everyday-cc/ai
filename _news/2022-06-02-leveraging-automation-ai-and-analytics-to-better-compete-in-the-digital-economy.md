@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-02T06:31:00Z
 originalUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/leveraging-automation-ai-and-analytics-better-compete-digital-economy"
 webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/leveraging-automation-ai-and-analytics-better-compete-digital-economy"
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - IBM AI
 
 related:
   - title: "Why Robotics And Artificial Intelligence Are The Future Of Mankind"

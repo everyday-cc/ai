@@ -55,6 +55,20 @@ related:
         width: 2560
         height: 2560
         isCached: true
+  - title: "Arteria AI Receives Strategic Investment Co-Led by Citi SPRINT and BDC Capital"
+    excerpt: "Arteria AI, a Toronto, Canada-based enterprise digital documentation company, received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,"
+    publishedDateTime: 2022-06-02T09:01:00Z
+    webUrl: "https://www.finsmes.com/2022/06/arteria-ai-receives-strategic-investment-co-led-by-citi-sprint-and-bdc-capital.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 35
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2019/06/delvelabs-440x293.jpg"
+        width: 440
+        height: 293
+        isCached: true
   - title: "DaveAI, A Nasscom Deeptech Club Start-up Specializing in Visual AI, raises strategic round of funding by Marquee Investors from Japan and India"
     excerpt: "DaveAI, a virtual AI avatar led sales experience platform announced a strategic round of investment led by Maruti Suzuki India Ltd. - India's largest automobile brand, GHV - India's first and biggest industry Co-Creation innovation and investment group for Japan,"
     publishedDateTime: 2022-05-31T00:25:00Z

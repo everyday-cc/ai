@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Startup launches 10-min liquor delivery service in Kolkata"
-excerpt: "Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform."
-publishedDateTime: 2022-06-02T07:13:00Z
-originalUrl: "https://www.financialexpress.com/industry/startup-launches-10-min-liquor-delivery-service-in-kolkata/2546268/"
-webUrl: "https://www.financialexpress.com/industry/startup-launches-10-min-liquor-delivery-service-in-kolkata/2546268/"
-ampWebUrl: "https://www.financialexpress.com/industry/startup-launches-10-min-liquor-delivery-service-in-kolkata/2546268/lite/"
-cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/startup-launches-10-min-liquor-delivery-service-in-kolkata/2546268/lite/"
+excerpt: "The service was launched in Kolkata after approval from the West Bengal State Excise Department, according to an official statement."
+publishedDateTime: 2022-06-02T08:06:00Z
+originalUrl: "https://indianexpress.com/article/cities/kolkata/startup-launches-10-min-liquor-delivery-service-in-kolkata-7948939/"
+webUrl: "https://indianexpress.com/article/cities/kolkata/startup-launches-10-min-liquor-delivery-service-in-kolkata-7948939/"
+ampWebUrl: "https://indianexpress.com/article/cities/kolkata/startup-launches-10-min-liquor-delivery-service-in-kolkata-7948939/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/kolkata/startup-launches-10-min-liquor-delivery-service-in-kolkata-7948939/lite/"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.financialexpress.com/wp-content/uploads/2022/06/liquor-delivery-in-10-mins.jpg"
+  - url: "https://images.indianexpress.com/2022/06/kolkataliquor-online-delivery.jpeg"
     width: 1200
     height: 667
     isCached: true
@@ -91,6 +91,6 @@ related:
         height: 338
         isCached: true
 
-secured: "okgEfg44UI0Mh5xKwAJb2BF/s3E2p7mka71eTwTpIWbM9tj5UkJ/gXi5XTUHxRWKus2UHWrr+CJS6GlDfhyWyi/HuHol6vXQ6GvVf0vNZDFPDbJE2PNnnQ4W+Z1dXWkqWIBMzO9AEpPF1fCINhyDfmq0zeQOxdP0INU2B1Zoysgwj6vo7StlnZ8c94jllzoU3EAirXHKE+7NSOWwW0BwucloLLTx3w3s2+tk5NRaqHsJ0QexQBezNZWYcseKznLdbcamUUBsnSer+7IqTWFg0Xl+6O5vZcjYM6jus3+5WQwN6ngOwkUW3qnHYj1urf7TbqXvBfp+eFX17wd9w7YiiM7sKs1P+6maaKNtC+raCjw=;qC09SCAWDa6hBnhWEXMbPQ=="
+secured: "xJ71uYCE1kddIue3MYbtEZ+L2VFhB7Ol+QBP6X2nZMpqSDs1VwTJbJADl5MPU2mx1iGXx9AWtBi2mHrKQoC3ZCYZnmts+UsyA/YJxQ/Vd3Jp5FO+UIj3Xo1gRXwZvtUmLP2iqACGG1bKdZ8eVX5vJyTHAsgGc6j4atcbuiQJoXTXI62SQgY+UngtRUHjzpa6mz1yAw1VGnkdrAr8NbZjs+S7sqpt6L+vI/v7U9kXU27+2xyy/3K8R7oXa+c+SET92WkrCa9gKfBDEYhUZf4q/s9oRUF0cHg/3tEjEkeqfPSvE/vgYMJWS+0HQD7NJ+J6lrjOTyF9jdcmYj9Rahz71Tg6gVBlDJSL4EvIew+aT0Y=;ed9638GDt67K5XPIevi0QA=="
 ---
 

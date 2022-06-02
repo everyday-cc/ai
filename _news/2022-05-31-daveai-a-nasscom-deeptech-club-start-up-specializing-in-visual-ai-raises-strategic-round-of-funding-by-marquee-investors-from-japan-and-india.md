@@ -62,6 +62,20 @@ related:
         width: 2560
         height: 2560
         isCached: true
+  - title: "Arteria AI Receives Strategic Investment Co-Led by Citi SPRINT and BDC Capital"
+    excerpt: "Arteria AI, a Toronto, Canada-based enterprise digital documentation company, received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,"
+    publishedDateTime: 2022-06-02T09:01:00Z
+    webUrl: "https://www.finsmes.com/2022/06/arteria-ai-receives-strategic-investment-co-led-by-citi-sprint-and-bdc-capital.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 35
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2019/06/delvelabs-440x293.jpg"
+        width: 440
+        height: 293
+        isCached: true
 
 secured: "fcu3KCSDgMh3G9sFmrYse0BXrWqsZaVbL2KYhNHV6j40Yby7Iulow0TclwF2nQ24XeunvXlatmL8QoWTk3dkmMJP0WBgLuQjxeizUG2E4f02UG3aASBpW83pQRr71rvpeZyMJhMNo3vBOUSFSKU21R7ft2k6XDP7y7h6Iv4GBlGSrigdDhE5gaKXqVREaZJpbXLjFgeON7rCHBs0LQyLRlTbMktp8gkUHgGCzMhY24rnTT2qUgeIMIJPpbt+iUFY8ltOn3AiOD0BQduaKxxXK/7WPRKS0GlmdZbaAeBm2AeE52rLBLNPNRt64VPfHssoRwzKi5f+K6t0zEI8EGzejjl8L26kpj/75tcTOK5ry74=;QDbJyl+jBV3co/XLyuW1Fw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-az
 webUrl: "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620"
 type: article
 quality: 71
-heat: 121
+heat: 122
 published: true
 
 provider:
