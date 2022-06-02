@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "salesforce"
   url: "https://twitter.com/salesforce"
-  followers: 572048
+  followers: 572052
 
 size: 10,001+ employees
 yearFounded: 1999
