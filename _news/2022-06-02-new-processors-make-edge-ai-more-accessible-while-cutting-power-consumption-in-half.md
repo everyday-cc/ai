@@ -1,29 +1,24 @@
 ---
 category: news
 title: "New processors make edge AI more accessible while cutting power consumption in half"
-excerpt: "Adding edge AI features to HMI applications ... tests and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. Our passion to create a better world ..."
-publishedDateTime: 2022-06-02T16:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-new-processors-make-edge-ai-more-accessible-while-/2022/06/02/9613952.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-new-processors-make-edge-ai-more-accessible-while-/2022/06/02/9613952.htm"
+excerpt: "Expanding on its history of delivering highly integrated processors, Texas Instruments (TI) (Nasdaq: TXN) today introduced new Sitara™ AM62 processors that help expand edge artificial intelligence (AI) processing into next-generation applications."
+publishedDateTime: 2022-06-02T13:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1831042/22_25337_AM62_Texas_Instruments.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
-secured: "8R6a2SGjNNOPyU5bKhphbs71cPP3nfYjTeRFUsJMCoXl18erzV1pTHwzIE4W2o79xiWz97ADm7BLmHOZV7X6W4ydjRZN+9GAAlSUJKnZldqhVozrUZteQ1D/FogQynRME6sVTeHvMWjdp477bYW/zZUkyLBTLizwEHO7GvejVrGSb6ix3oa01o2xyBm6vDErfQAT/rGAVweQg3EhbaMGnq6SKPZxRGoBhAV7pEFjyPfOwWJuTLiG89YJ2+QMSjw1q/vNkEaQa4aPbjYxaScgBTkcbWYCym8pDiOCy+mbDeXe3WgWbrKLKhOtxgRLEcanY/L9T83fS5uURytYDjsTR4aXNITiXfOkHdjDrB7KQnM=;WjPuNLEZJqFjAQjJSjLxpA=="
+secured: "lgzeF2WFrEOYmTH13ExEr/PW6W/hBmm3bxwGCy3A890j1zuJYSTFfDK41EvKjC19nw4wKKr9EKo8wWl6ZwRKuAf+XG/DaRfiPoFKv7GxiareHmhAtvZ3exBgtweiRK8JchcF79UuAWlgsX7TASVKaPAAR+KYb3fNRXiDXFSFPqzEKJvEUZLjq055Pq9a2uOSdEXAwhLyxTIyZBnZiP8UQiqF7rXq21wWbjCBWXbIuZBSOq2WWzMN50JIg4Ayd8Nght7sI2iFPDzcPGhw3pJtLaF5/hFNTVXYz+QeZ9JUTTR+20mC8SzhY0BCqJOptNCxtYn62U+K51einovnhtzJ8wjGBPjDOIFepcwRpijhOSf429VcPKQ3MYM+ETCEF8i1tw4RJxZJWYE3IX9+MCBy6vISZIPloVQFAGwP/KB0swVklsUlGCukx5xV9w5wdDIlzAdWVksp22F9RGYwXDCLgYxVMiBLHQEM8C3K8IvIFTKzb7N4eFSSvjDwWE0RoSlGYKvSRAKFSSnNV/4gdOy1+A==;8eWuAniF67Nf9OdafUBQog=="
 ---
 

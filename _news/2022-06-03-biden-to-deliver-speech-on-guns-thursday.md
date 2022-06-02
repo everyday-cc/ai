@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Biden to deliver speech on guns Thursday"
-excerpt: "President Joe Biden will deliver a rare evening speech on guns Thursday to press US lawmakers to take action as the US confronts another mass shooting, the White House said. The address will take place at 7:30 p."
-publishedDateTime: 2022-06-02T17:16:00Z
-originalUrl: "https://rivercountry.newschannelnebraska.com/story/46615546/biden-to-deliver-speech-on-guns-thursday"
-webUrl: "https://rivercountry.newschannelnebraska.com/story/46615546/biden-to-deliver-speech-on-guns-thursday"
+excerpt: "President Joe Biden will deliver a rare evening speech on guns Thursday to press US lawmakers to take action as the US confronts another mass shooting, the White House said."
+publishedDateTime: 2022-06-02T18:00:00Z
+originalUrl: "https://edition.cnn.com/2022/06/02/politics/joe-biden-guns-speech"
+webUrl: "https://edition.cnn.com/2022/06/02/politics/joe-biden-guns-speech"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: News Channel Nebraska
-  domain: newschannelnebraska.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://NCN.images.worldnow.com/images/21756793_G.png"
-    width: 640
-    height: 360
-    isCached: true
-
-secured: "qyWElM0obBPtSYk6iyo7gpAJb/AWZLGIzPOQ3VSkcB3TfOS+EwJP9j30tR7Bt+zy9s1ZBwnVPzjwcTGjcXm/UihZUxbc+IGxfJq05WwF45SFRUQNlvi7s54OJsdJw/R1EfaCB/k53wgg8gvfZF3VZ4RqRH1TBUAjdUphTlWaKRCg+oy7I5qhlubLIxBPzidLlAHV5IEp/qAyRxaUmLrqp6An9QzEmAe5bOTErhgn+ic6Aof78phUvxfPZncKlZkS+BW1gqd1hUK66Bge4vfEHFwJHgzc9Zr4zHvDlY8XlsdHFQxPlHAfmRms3d8HxzHyc43ORpWIKXgZEWqmXo0rNtGefNE9Qi5dtamsUMOfkg4=;m+JDvoEmeM1s5lrMMKauLQ=="
+secured: "d4k8+vmG32MWIEc2VEoY4ji9SKfVNKU3vbXJuuSbO/D856hJXewCfBU3eUAN1j6x85M1lJgjpRPJ6u4LSBvNKt42yWRG50Sk6+GBCZ7+054GdVrweaD5zbOsmMgUK3rgRvccgtJbZVkAITXppcBvB5KHCUlKM0JVFEMH2gCChe+aCeGFYCZvYWY2o1tNy/ld8H8O/Lccm23wfhELOR4bqOVrAebNjQhl9yddV3A/OSyQ429CaURbn+LgZC23f9pfgMdP5kDZ0XFuH4WLPSMy54GzSX0NmkG0s7jfpsPSBK53qu6e5tMwXKL5tJ0cono6S4Lklcvw92kprVjAy9qINjFqXCo9Q5/UHTxJFI5k5Qz7y+O5KngVSgAFBezZzDvFVRCDVpwDJCGodJi9QamaARUd6OQBhFD4FrAknSR4/952WpjBk2pnm/cTrR7fvPsH7R1MaM1D+8/gT8VibygEy2N9YW91uIMVdLacz2Ub9a0PmcXUzJYEIGvsn/iC5RchbjT9q8ca19KYbL2X1t7g/A==;A4Pp7TIGXoaL6YAf6nwBPQ=="
 ---
 
