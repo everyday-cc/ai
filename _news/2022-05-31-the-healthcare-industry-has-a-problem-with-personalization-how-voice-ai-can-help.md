@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Precision healthcare AI tools eyed by investors"
+    excerpt: "AI and ML promise to transform healthcare across the board, but particularly through the use of precision medicine."
+    publishedDateTime: 2022-06-02T12:00:00Z
+    webUrl: "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
 
 secured: "sat+w+wE53nr03mNbDh+YQwbQmj0CI/czIHVnuzW2EczVAPvlLx8EKZmFSxX+PaF7O/F1nJEYrVSwp659pdgirnAPGKU4EbCvMPxA+bnn2++N7RlsS1GTVAu7AtH82HN3XLDLo9vlPl+9XaONrt8OOCrNZur49ZwNNHKAJpXhzLRwg4ixFT6p1YJJQeDA4aP26WmlR8odmHz69BRO3urgOln4wIgtayWqr7WokOY5Goek68hNMGE+8LG2EM2cImCt7pLDpNtJzWz04xsVPjXgFEpN0lZ341IgbzXEWxvu9OSc9BLD4IMy2ZB26tzSFKqWpNVIEwE8b1KkmlQQZlJR/OxRykK7YHKBCg1HBwZGhCARaIqyJc33VXWDCU9MBEUxGdLdWYxdaK0FwkxZEGr9kHHRisDDMtxg6F6btWh8qYSTSpE6cWjtQvFNfdB0UWSCB7KBg9PNmGVLJxaISU7rWUMcubNrvi7vh5YdvnHIzFjO812yj7amsd6GXhfL+q6SdbSH/SPK8oW5vylSY7pqQ==;pNauk8Hhn30VypKGobN0pA=="
 ---

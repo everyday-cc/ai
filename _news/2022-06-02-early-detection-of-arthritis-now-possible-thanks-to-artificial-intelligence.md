@@ -8,8 +8,8 @@ webUrl: "https://scitechdaily.com/early-detection-of-arthritis-now-possible-than
 ampWebUrl: "https://scitechdaily.com/early-detection-of-arthritis-now-possible-thanks-to-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/early-detection-of-arthritis-now-possible-thanks-to-artificial-intelligence/amp/"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:

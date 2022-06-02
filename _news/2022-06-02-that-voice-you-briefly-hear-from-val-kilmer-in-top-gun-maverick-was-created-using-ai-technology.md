@@ -61,6 +61,15 @@ related:
       name: nzcity.co.nz
       domain: nzcity.co.nz
     quality: 8
+  - title: "Val Kilmer's Dialogue in \"Top Gun: Maverick\" Was Read by AI Because He Can't Speak Anymore"
+    excerpt: "Maverick\" brings back Val Kilmer as Tom \"Iceman\" Kazansky. The only problem? Kilmer can no longer speak, because of throat cancer complications. But buried in a Page Six interview with Kilmer's daughter Mercedes late last month was a fascinating detail about how the filmmakers managed to get his voice in the movie regardless: by using advanced AI,"
+    publishedDateTime: 2022-06-02T13:50:00Z
+    webUrl: "https://futurism.com/the-byte/val-kilmer-dialogue-ai-top-gun"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 7
 
 secured: "bJNe+iIJtI/L8XTCqNjUDz0MEJHFa6ILrjcUtFbk09bVce3qtnEarjHOqNzO3P8YPustbGSc8rpapt6Q1tsz6/RxH5PFXy3OLBtwzH6f7am00itU9j0athN/8XhaXCrjXZqPwe+Z3I/nJfULr1cI8FeXc7EVFxKAoXquayK/67VyczNTUYfz1kkIq/LKZ3iXlRTEQ93f8346WYG5mE/B01ZwmbsCF0z5xSJ652AHsIiAR0ebQgJD1bAMWeblpOygJjhgiokRzZtHgjUqsTRoEngWKK+N+2rOBsTKxTaL4GnreFB42vuyqFWOI2tJfeQD7tQh8tu1Ns6HtwgPHFKEYumKo3P4eTWfU+C8o62GZOS2YDqYguano7lHJbnyMDRmOWgcw2KxzkGJcH7hoVKEHh49lcxFfkwTXGfhL/9VTA2a6SBa9gTWJJ3MBewDYeBGiZqawFuNz2NI4OkwNujGjp0/68oPE4YiYX0K1gImwLR/zPDgj0qg0F7MQkRIb/44W5KVMBR0GT1oF/fxRonreQ==;05yozNXNxZFRqW9KN2kKQQ=="
 ---

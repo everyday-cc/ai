@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T13:00:00Z
 originalUrl: "https://www.clinicaltrialsarena.com/news/survivornet-tool-cancer-trials/"
 webUrl: "https://www.clinicaltrialsarena.com/news/survivornet-tool-cancer-trials/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Clinical Trials Arena

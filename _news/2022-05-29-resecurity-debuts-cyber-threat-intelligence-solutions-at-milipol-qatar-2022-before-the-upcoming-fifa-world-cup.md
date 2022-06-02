@@ -7,7 +7,7 @@ originalUrl: "https://fox40.com/business/press-releases/cision/20220529LA72451/r
 webUrl: "https://fox40.com/business/press-releases/cision/20220529LA72451/resecurity-debuts-cyber-threat-intelligence-solutions-at-milipol-qatar-2022-before-the-upcoming-fifa-world-cup/"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 800
     height: 328
     isCached: true
+
+related:
+  - title: "The Great Resignation Reaches the Cybersecurity Industry, According to Deep Instinct Report"
+    excerpt: "Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today released the third edition of its annual Voice of SecOps Report. The study focused on the increasing and unsustainable stress levels among 1,"
+    publishedDateTime: 2022-06-02T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-hacking-d755d812213343c895954ab82fe05492"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "fnIiAzZN56la9Ax9vwq9FxA01pdWP7LeaYGaYPBZqBDOtVcb3sJx4ap0CE7FpSNNwcF+nUOjkl4WBDa6lCE60IuDU9KIlmCNnvFBXtpG2fI7F4NdEVCexck4sOSwqC8ZskIdMXGQux5nt2ka5N+TzT1s/7FmJbuso201AeZxr1by+Pnt85f5t0+ypLwIV4znZPfTtVvSdMx5fg99dae3PN+5kqlONpKnacuY9HQT/2Bro3VGVXYe3B3tRfNUr59NnoC/UbR00JeBSpkR/jhCH9ZP/AL18KlM49eTFWomGqabHE17ALQkU7b/BmHKhyjKZ1IBRjMJUs9emDPO0YDihfG0iNzfvisRxX8EmNCE/wU=;+P48lxTucUjPWvh/iO+OHA=="
 ---

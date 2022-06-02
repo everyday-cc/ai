@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/resisting-the-urge-to-be-im
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 802
     isCached: true
+
+related:
+  - title: "Creating artificial intelligence that acts more human by 'knowing that it knows'"
+    excerpt: "A research group from the Graduate School of Informatics, Nagoya University, has taken a big step towards creating a neural network with metamemory through a computer-based evolution experiment. Their paper appears in Scientific Reports."
+    publishedDateTime: 2022-06-02T14:54:00Z
+    webUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-artificial-intelligence-human.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/creating-artificial-in.jpg"
+        width: 968
+        height: 476
+        isCached: true
 
 secured: "2iKrRslAUkQqHmQTk2HjIo7PC4tgES2sCAmgplZPn6kPQL+GORWEQU+js+CRmd/lQFuwK4WWAwn0fAw3wE3eT1Ip646Fs2WtXfomYDX8sM+MCGxRy6qOFrEHunx29K/26tbmg0s88XHrlBdcID5dO9AVMD6B4XrDMkUT3TM/ri0yEkV99SWgHJQ/GB8ZdDoVlF5Nfio3xCiz69qDg0N3Rq15Drk5ccvxcpmYL4WHliYD0JqUwa2oH3fkisZyJQfDLCm9ng/zqVCll3ensP3kLZZS8Eo9G+THxQNf7WrTZnoBoukX4Gqwp0N0SBTspwd6D7tnlCQodoiVh2l3v0lVDmWVqICEUtD4qoJLSD3Rx6WyNEOPxoA2mBZaJAPUEagxDtBq2ZhCw8AXYXjVqoTjzCtkME0Xux9fcslSHAAwCXEqYEqEILm6LxFwFMTa7VKd1+Nmbo944nSqipUFzty/RkHHfQzsDZAysZmXL37tHc6buf7+voW6/b6CGc5ac2HVYT5jOWr4VmkdrndXx47DVA==;3r7DCi1K/APDEP1aSZG4Mw=="
 ---

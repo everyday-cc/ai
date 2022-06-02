@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T13:00:00Z
 originalUrl: "https://www.darkreading.com/dr-tech/neutralizing-novel-trickbot-attacks-with-ai"
 webUrl: "https://www.darkreading.com/dr-tech/neutralizing-novel-trickbot-attacks-with-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Dark Reading

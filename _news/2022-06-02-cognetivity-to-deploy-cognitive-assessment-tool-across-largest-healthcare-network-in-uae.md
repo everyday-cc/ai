@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T11:53:00Z
 originalUrl: "https://thedeepdive.ca/cognetivity-to-deploy-cognitive-assessment-tool-across-largest-healthcare-network-in-uae/"
 webUrl: "https://thedeepdive.ca/cognetivity-to-deploy-cognitive-assessment-tool-across-largest-healthcare-network-in-uae/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: thedeepdive

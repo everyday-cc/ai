@@ -8,8 +8,8 @@ webUrl: "https://www.albawaba.com/business/pr/e-enterprise-part-e-and-datarobot-
 ampWebUrl: "https://www.albawaba.com/amp/business/pr/e-enterprise-part-e-and-datarobot-launch-enterprise-ai-service-regional-customer-base"
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/e-enterprise-part-e-and-datarobot-launch-enterprise-ai-service-regional-customer-base"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:

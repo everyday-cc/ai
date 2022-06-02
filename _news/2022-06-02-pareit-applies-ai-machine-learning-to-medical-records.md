@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T13:40:00Z
 originalUrl: "https://www.socaltech.com/pareit_applies_ai_machine_learning_to_medical_records/s-0082559.html"
 webUrl: "https://www.socaltech.com/pareit_applies_ai_machine_learning_to_medical_records/s-0082559.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: SocalTech

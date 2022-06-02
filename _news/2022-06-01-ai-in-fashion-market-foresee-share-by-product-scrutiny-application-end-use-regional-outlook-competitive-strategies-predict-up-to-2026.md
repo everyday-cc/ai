@@ -156,6 +156,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Artificial Intelligence Software Market 2022 - Product Type, Ongoing Trends, Competitive Insights and Worldwide Forecast to 2028"
+    excerpt: "The Global Artificial Intelligence Software Market 2022 by Company, Regions, Type and Application, Forecast to"
+    publishedDateTime: 2022-06-01T21:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2022---product-type-ongoing-trends-competitive-insights-and-worldwide-forecast-to-2028-2022-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
   - title: "Artificial Intelligence (AI) in military Market Research by Key Players, Type and Application, Future Growth to 2028"
     excerpt: "The global Artificial Intelligence (AI) in military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
     publishedDateTime: 2022-06-01T12:47:00Z

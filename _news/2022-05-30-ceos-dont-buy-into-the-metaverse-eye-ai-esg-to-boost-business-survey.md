@@ -55,6 +55,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Kiya.ai launches India’s first-ever Banking Metaverse-Kiyaverse"
+    excerpt: "Kiya.ai, a digital solutions providers serving financial institutions and governments globally, today announced the launch of India’s first-ever Banking Metaverse – Kiyaverse. Kiyaverse pioneers use cases of merging real-world banking with Metaverse banking through an avatar (virtual humanoid) based interactions,"
+    publishedDateTime: 2022-06-02T13:25:00Z
+    webUrl: "https://www.freepressjournal.in/technology/kiyaai-launches-indias-first-ever-banking-metaverse-kiyaverse"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 17
   - title: "Unanimous AI and Agora World partner to bring Swarm Intelligence to the Metaverse"
     excerpt: "Swarm AI® technology empowers collaborating groups in virtual worlds to amplify their collective intelligence and generate more accurate decisions, forecasts, evaluations, and assessments. Swarm Intelligence, the science behind Swarm AI ® technology ..."
     publishedDateTime: 2022-06-01T11:48:00Z

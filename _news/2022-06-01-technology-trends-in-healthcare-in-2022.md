@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "VHC Health Becomes First Health System in DMV to Utilize CERTIFY Health’s Facial Recognition Technology"
+    excerpt: "CERTIFY Health is excited to announce that VHC Health (VHC), a community-based health system providing medical services to the Washington, DC metropolitan area, will be implementing its positive patient identification (PPID) using facial biometrics at all VHC locations,"
+    publishedDateTime: 2022-06-02T15:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-health-biometrics-07b0889166a1474b8229fcaa3a4bca4d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "10 Best Healthcare Stocks to Buy in 2022 According to Hedge Funds"
     excerpt: "In this article, we discuss the 10 best healthcare stocks to buy in 2022 according to hedge funds. If you want to skip our detailed review of these stocks and the latest market situation, go directly to 5 Best Healthcare Stocks to Buy in 2022 According to Hedge Funds."
     publishedDateTime: 2022-05-30T13:25:00Z

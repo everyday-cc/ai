@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T13:10:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sparkcognition-government-systems-sgs-ai-solutions-selected-for-international-maritime-and-warfighter-exercise-autonomous-warrior-2022-1031505371"
 webUrl: "https://markets.businessinsider.com/news/stocks/sparkcognition-government-systems-sgs-ai-solutions-selected-for-international-maritime-and-warfighter-exercise-autonomous-warrior-2022-1031505371"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Business Insider

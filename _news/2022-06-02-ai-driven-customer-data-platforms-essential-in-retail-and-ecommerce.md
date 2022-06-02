@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T12:56:00Z
 originalUrl: "https://www.tmcnet.com/channels/call-center-management/articles/452525-ai-driven-customer-data-platforms-essential-retail-ecommerce.htm"
 webUrl: "https://www.tmcnet.com/channels/call-center-management/articles/452525-ai-driven-customer-data-platforms-essential-retail-ecommerce.htm"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: TMCnet

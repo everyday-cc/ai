@@ -41,6 +41,24 @@ related:
       name: marketingsentinel
       domain: marketingsentinel.com
     quality: 17
+  - title: "C3.ai (NYSE:AI) Given New $20.00 Price Target at Needham & Company LLC"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) had its target price lowered by analysts at Needham & Company LLC from $26.00 to $20.00 in a research report issued on Thursday, The Fly reports. Needham & Company LLC’s target price would indicate a potential upside of 7 ..."
+    publishedDateTime: 2022-06-02T13:31:00Z
+    webUrl: "https://www.etfdailynews.com/2022/06/02/c3-ai-nyseai-given-new-20-00-price-target-at-needham-company-llc/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 17
+  - title: "C3.ai (NYSE:AI) Price Target Lowered to $14.00 at Morgan Stanley"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) had its price target cut by equities research analysts at Morgan Stanley from $15.00 to $14.00 in a report issued on Thursday, Stock Target Advisor reports. The brokerage presently has an “underweight” rating on the stock."
+    publishedDateTime: 2022-06-02T15:56:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/02/c3-ai-nyseai-price-target-lowered-to-14-00-at-morgan-stanley.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
 
 secured: "fQ+o20awbokVRlKWYLSjAPnkMVP6AluPIadMW3/qwuvw7tNMgStj4kksxYD5ksFSB6eTg7f4wCLnJhLTaZ1vR6PQVTaZZbDwINWVTrunaBPVjref6ccveOX7S2XP0CG3A8KOOLmktONkhdduLSUJrqPagp3ER3Fchl1bCthdY7NQtXQvZbXiiiiUw94RH8GNAK7xySmV4oRwxhALSqOaRPq5VF0wyeyDxUMK6KU/oN7Z0XyYImODP0cBaVc/BSZ1VGXWwiqlPHQ9wlBYEShaR3g+A2EN5JPqWvNMEgRZpC7HKikiIe2EOu8OVOsdYutNY5zduOfO0FsSPRCoOXMzKO3oe0/8tfuVwkqGwjodohE=;LWiIbsthHg0EFLJQcvGDag=="
 ---

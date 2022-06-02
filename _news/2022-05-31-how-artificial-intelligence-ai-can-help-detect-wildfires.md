@@ -21,18 +21,20 @@ topics:
 
 related:
   - title: "How artificial intelligence could help detect burnout"
-    excerpt: "In order to detect signs of burnout in texts using this kind of model, a large amount of data needed to be accumulated and analysed."
-    publishedDateTime: 2022-06-02T01:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/02/how-artificial-intelligence-could-help-detect-burnout"
+    excerpt: "While many tools and tests exist online to try to address the issue, a new method, based on artificial intelligence and the use of natural language processing, could offer new perspectives"
+    publishedDateTime: 2022-06-02T13:27:00Z
+    webUrl: "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-could-help-detect-burnout/76921/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-could-help-detect-burnout/76921/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-could-help-detect-burnout/76921/1"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 57
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/01/1607301.jpg"
-        width: 1240
-        height: 826
+      - url: "https://www.forbesindia.com/media/images/2022/Jun/img_186575_professionalexhaustion.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "S3rsHHZdgEpJAZygfdh5yVqONcZMCf1Fp3sqHhVeUa/EhW3OwwWJ169Ye4zAwHCOXWJ8oK5sA9Sztn3MPUH5pfkcthdvfil+xG/Vnf80ImELoJCtzNlkcVin5YJNS8I5wb/HPRU/zd+mQ8TgspiT6N1uMGsrLFJwvVt6GzfQK9R9FpacfgYT6yVk1lOkRxW25ul8YS3EUNC32BBD7cuzMDziyvY+BdFWObJragBfH+TeS6duBcm8/aoYlK68SFihNIpPqnkKLH6jgJKqbuJPIRp+cjKfz15rVAJegQoBjqkDtS8/VkCIufvhti5A03rO6VaS2Zf659f9ksDK3o9igQNZRfPsgaeINAPo776RW8Y=;RA24TinerCVtSxcd5wBwWA=="

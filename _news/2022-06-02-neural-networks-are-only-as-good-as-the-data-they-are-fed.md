@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T12:42:00Z
 originalUrl: "https://www.nextplatform.com/2022/06/02/neural-networks-are-only-as-good-as-the-data-they-are-fed/"
 webUrl: "https://www.nextplatform.com/2022/06/02/neural-networks-are-only-as-good-as-the-data-they-are-fed/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Next Platform

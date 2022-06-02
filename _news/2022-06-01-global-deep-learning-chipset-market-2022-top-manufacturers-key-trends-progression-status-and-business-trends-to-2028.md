@@ -149,6 +149,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Global Artificial Intelligence Software Market 2022 - Product Type, Ongoing Trends, Competitive Insights and Worldwide Forecast to 2028"
+    excerpt: "The Global Artificial Intelligence Software Market 2022 by Company, Regions, Type and Application, Forecast to"
+    publishedDateTime: 2022-06-01T21:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2022---product-type-ongoing-trends-competitive-insights-and-worldwide-forecast-to-2028-2022-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
   - title: "AI in Fashion Market foresee Share, By Product scrutiny, Application, End-Use, Regional Outlook, Competitive Strategies predict up to 2026"
     excerpt: "The study on the global market for AI in Fashion evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
     publishedDateTime: 2022-06-01T13:11:00Z

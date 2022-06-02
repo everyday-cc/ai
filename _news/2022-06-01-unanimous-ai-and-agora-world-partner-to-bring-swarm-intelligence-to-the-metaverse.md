@@ -55,6 +55,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Kiya.ai launches India’s first-ever Banking Metaverse-Kiyaverse"
+    excerpt: "Kiya.ai, a digital solutions providers serving financial institutions and governments globally, today announced the launch of India’s first-ever Banking Metaverse – Kiyaverse. Kiyaverse pioneers use cases of merging real-world banking with Metaverse banking through an avatar (virtual humanoid) based interactions,"
+    publishedDateTime: 2022-06-02T13:25:00Z
+    webUrl: "https://www.freepressjournal.in/technology/kiyaai-launches-indias-first-ever-banking-metaverse-kiyaverse"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 17
   - title: "CEOs don’t buy into the metaverse, eye AI, ESG to boost business: Survey"
     excerpt: "Gartner survey finds business executives are ambivalent about the metaverse, but are leaning into environmental sustainability more in 2022. CEOs don’t buy into the metaverse, eye AI, ESG to boost business: Survey."
     publishedDateTime: 2022-05-30T09:51:00Z

@@ -28,7 +28,7 @@ related:
     provider:
       name: Al Bawaba News
       domain: albawaba.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-06/DataRobot%20partnership.jpg?itok=tHO00tub"
         width: 4368

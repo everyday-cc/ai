@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Tonic.ai Announces New Integration with Snowflake"
-excerpt: "Tonic.ai and Snowflake’s partnership will enable users to de-identify data and tokenize it for increased productivitySAN FRANCISCO--(BUSINESS WIRE)--Tonic.ai, the San Francisco-based company pioneering data mimicking and de-identification,"
-publishedDateTime: 2022-06-01T17:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=673134"
-webUrl: "https://us.acrofan.com/detail.php?number=673134"
+title: "Tonic.ai announces new integration with Snowflake"
+excerpt: "Tonic.ai, a San Francisco-based company pioneering data mimicking and de-identification, has announced an integration with Snowflake, the Data Cloud company."
+publishedDateTime: 2022-06-02T15:34:00Z
+originalUrl: "https://www.securitysystemsnews.com/article/tonic-ai-announces-new-integration-with-snowflake"
+webUrl: "https://www.securitysystemsnews.com/article/tonic-ai-announces-new-integration-with-snowflake"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Security Systems News
+  domain: securitysystemsnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://www.securitysystemsnews.com/images/callout-webcasts.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -83,6 +83,6 @@ related:
         height: 450
         isCached: true
 
-secured: "VpqnH1bvLRcxsvraszuGqFaBld/QB3dQFG5ZwRdyCUEkpehAvd4Lb/5r9kzQXDcGRlQmO+aQ/zK5vWNPhhcFJYxlJX6Ss1D49oLdGo/ijWa1s+lWefu5ky+5lswCAUKHKGgV6TqgdpA2zMNCxf47f/qFPEFNtVi52DtwE1iazKZabMKXpt2+qLkegpcNh4NfYpn1nUWiKB6xeunxuLa6FFmrrMesDgAiP+womv3/+7d+dEA+q9ZQtG5aZypo8Yoeh74TvS0t0NR7jmbBEGVaDTl5DMGG8rsJqNeaHu7dRsj2t/yhUmBh6R5ty1OJDGIHmG+ai8wlKuxRDfarTRYZx/NphgF6TPlTdnTtZeX4LW8+XjdyaEjAtd+FDuJGvazPT0+qCa+GqXULvXurArggul8RM5PH7ayhmjjeqCRbMXYaKUN+FwSVBp73Wsc1MAqQr9jmRPU57jvDByPIwDVlshr6c6DqAHMlo1xHy6pdNBF4n9moP/1DB54oP3WM7pBEhrgTrx1HOC2xZLtQc9FBWw==;eWaBFIaZ2E2bXTiQ/WulLw=="
+secured: "PEWZ04SzhWW4alaOGqIhEWdqqANhZaO9k/jGj0KX0O7Mqc/JgmDZg7Y0VSOsDPahATPk59A7LS6/DI6c3pAPeHAqY80HY/ZksZaL1SdgIRa45CVshUkt4HHnSR7ZNIqEmfqoZlVzzf2YyxqRnAEKClTjMTEowgL53aBYg84+1r7o7aJnXmv1z0eII5XDg2n1yyMV99Cp3c+BIrMDxtwNg02Pvgr7eh5rFuwf6t7GVoRxgrDRvw7X8TlQG62bZiAo6TFreQnRuPTL2Nv1d6KI+WWWke6b2bLQ8isighGgBUUl8jyNx6oa2hZ0aVZ4gNHQd6baR8LQSuuPoCaIRdZ+nqiRcJEc3EdNDzaPKlNkL9M=;wAslgJl0IH4dVoomLQd02w=="
 ---
 

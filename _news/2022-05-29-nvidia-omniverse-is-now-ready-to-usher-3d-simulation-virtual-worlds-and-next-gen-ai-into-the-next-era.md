@@ -128,6 +128,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Research Shows Improved Wellbeing in Adolescents Using AI-Powered Personal Companion Tools"
+    excerpt: "Kai.ai, the market leader in AI-based technology for mental health and well-being care to adolescents, has announced that two of its research papers have been accepted for publication by The Journal of Medical Internet Research (JMIR)."
+    publishedDateTime: 2022-06-02T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-mental-ad48949785b44f35a5192c2e22cb0868"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "kSSnOKxDJP/gDw6dS1JPJtRPSdlqHKPQaf9CVJC3p0QIjzstAfhF3KQYwxLL6SmhWGFkVVFhSNPmLcK+4JlAT5q4eMivlCvDD2fY5VyAbQmfSDrIq/2GW3V3dGNzK1Ie4cKcV0XYS893QQCrPn70aGphbPJn/72UPmjUbIePX+Euh4CnCagmfRnsOoOREZ4NSEGfJIdWKbgBQw+e7rs7wYebghMJG6XetXiGpSXTBCxWTB6WV7V6F+rfBx0+GtrRaSp+Uz9ndLenjUUjo2g0D/TZpo9qC7rc8aGxs/bqwjfFrrOojRjZFlNvMa93okas4iCYAdrF3/BUinFvkeql/WtqzxYwx9lhoiPQVYQZ5iyMzagbBQzleO12BfTit6irNt4cjHcqflVeaFUKLX7Kb5GErB75BqhFzptidFotGVdbUbnukW7JbwlyT70T0O1om7JHCWJuQxy1huEGtYiwg2FP8T5hSCXNQmyi9Q74iqt2E7f9izuFimvwQkatieyx6nQhxpwxvp7Ln/aZ66tfyg==;ZAdEJ4TMfINQgSx0SRiU4w=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T12:36:00Z
 originalUrl: "https://www.nextplatform.com/2022/06/02/graphcore-thinks-it-can-get-an-ai-piece-of-the-hpc-exascale-pie/"
 webUrl: "https://www.nextplatform.com/2022/06/02/graphcore-thinks-it-can-get-an-ai-piece-of-the-hpc-exascale-pie/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Next Platform

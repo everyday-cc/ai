@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/role-
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Precision healthcare AI tools eyed by investors"
+    excerpt: "AI and ML promise to transform healthcare across the board, but particularly through the use of precision medicine."
+    publishedDateTime: 2022-06-02T12:00:00Z
+    webUrl: "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "The healthcare industry has a problem with personalization: How voice AI can help"
     excerpt: "The intersection of human connection and technology through voice AI holds the power to revolutionize how patients interact with their healthcare providers and payers."
     publishedDateTime: 2022-05-31T00:43:00Z

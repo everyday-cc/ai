@@ -26,6 +26,17 @@ images:
     height: 1200
     isCached: true
 
+related:
+  - title: "Shares of Tom Siebel's C3.ai have now dropped over 90% in 17 months"
+    excerpt: "Shares of C3.ai Inc. plunged nearly 19% when markets opened Thursday after the artificial intelligence company offered a disappointing financial outlook. The Redwood City company led by tech veteran Tom Siebel has now lost more than 90% of its value since ..."
+    publishedDateTime: 2022-06-02T14:16:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/06/02/shares-of-tom-siebels-c3-ai-have-gone-from.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+
 secured: "C4JWvy62XIJ5JkmH5TwFz9kga7e5ipPyH4pDYSg0eHcOsJeBLPb8jzU0uOcdm/iVfHk1v1kCO/HvAZzyzmblSHOsV0ybyd1U9LskhuLLXcp/db/oh9WnxeHwaPrjF8Bi5SI92pMikDFknuG91QuaL4nZo+HY8kilku7xL5FJEWUl7LX6WnHhZuS7iusrQImYnfU3K3eLkzJqzEyzIKQeaclEl1wYJ6ZVA8wuMiXD11xBvnvBpBYdgiLo+sPhGlFfUx4QnzXmEPq1xCUfFG5SwL6BqTn/L6bJH5b+RSSbolU1Hed70hubo+xVbgDdGpbMbv7XkPhpQNHh/y2E8SB/nqNUi38klt2kGllzPHO3o5w=;w5NbMf0tXx0hXkM5dseViQ=="
 ---
 

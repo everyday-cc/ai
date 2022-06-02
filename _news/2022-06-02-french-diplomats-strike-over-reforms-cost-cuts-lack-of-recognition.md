@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T13:17:00Z
 originalUrl: "https://www.reuters.com/world/europe/french-diplomats-strike-over-reforms-cost-cuts-lack-recognition-2022-06-02/"
 webUrl: "https://www.reuters.com/world/europe/french-diplomats-strike-over-reforms-cost-cuts-lack-recognition-2022-06-02/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Reuters

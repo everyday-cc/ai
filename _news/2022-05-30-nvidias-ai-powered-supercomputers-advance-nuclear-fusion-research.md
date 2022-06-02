@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Research Shows Improved Wellbeing in Adolescents Using AI-Powered Personal Companion Tools"
+    excerpt: "Kai.ai, the market leader in AI-based technology for mental health and well-being care to adolescents, has announced that two of its research papers have been accepted for publication by The Journal of Medical Internet Research (JMIR)."
+    publishedDateTime: 2022-06-02T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-mental-ad48949785b44f35a5192c2e22cb0868"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T11:52:00Z
 originalUrl: "https://vir.com.vn/unilever-vietnam-embraces-machine-learning-and-ai-in-marketing-93925.html"
 webUrl: "https://vir.com.vn/unilever-vietnam-embraces-machine-learning-and-ai-in-marketing-93925.html"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Vietnam Investment Reviev

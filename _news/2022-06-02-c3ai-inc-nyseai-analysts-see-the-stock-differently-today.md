@@ -32,6 +32,24 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "C3.ai (NYSE:AI) Given New $20.00 Price Target at Needham & Company LLC"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) had its target price lowered by analysts at Needham & Company LLC from $26.00 to $20.00 in a research report issued on Thursday, The Fly reports. Needham & Company LLC’s target price would indicate a potential upside of 7 ..."
+    publishedDateTime: 2022-06-02T13:31:00Z
+    webUrl: "https://www.etfdailynews.com/2022/06/02/c3-ai-nyseai-given-new-20-00-price-target-at-needham-company-llc/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 17
+  - title: "C3.ai (NYSE:AI) Price Target Lowered to $14.00 at Morgan Stanley"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) had its price target cut by equities research analysts at Morgan Stanley from $15.00 to $14.00 in a report issued on Thursday, Stock Target Advisor reports. The brokerage presently has an “underweight” rating on the stock."
+    publishedDateTime: 2022-06-02T15:56:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/02/c3-ai-nyseai-price-target-lowered-to-14-00-at-morgan-stanley.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
   - title: "BigBear.ai (NYSE:BBAI) Rating Increased to Hold at Zacks Investment Research"
     excerpt: "BigBear.ai (NYSE:BBAI – Get Rating) was upgraded by Zacks Investment Research from a “sell” rating to a “hold” rating in a research note issued to investors on Monday, Zacks.com reports. According to Zacks,"
     publishedDateTime: 2022-05-30T21:08:00Z

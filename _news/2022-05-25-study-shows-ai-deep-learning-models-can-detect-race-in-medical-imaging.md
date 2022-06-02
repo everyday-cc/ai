@@ -5,6 +5,8 @@ excerpt: "A recent study found that AI deep learning models can be trained to id
 publishedDateTime: 2022-05-24T23:02:00Z
 originalUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
 webUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+ampWebUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "WtbGHcj9VGXpLJBYcy788KMoV10YVgVSdUAG21MjFrp7CmMhylfTGbD1qZ0Hn6ChnDwlCbcnCPa2DHYBLnp5XnRwZkhzOrUhTwRArHTcp1uMrHwXQsBGTwiL1QlqR+esuZB5Zj0xUsQt03oUzjsT0BbczASd7h/pZLVU6Ijky1hlCIXPYqYJ90EaR1cb9dJRmwV0AojAtg/2VRwIiEvJEFe0cUW1fuNP/ywNCdYNoG+kGSeO8h1Y7f1HVOSa96Md8RO10i4RTjAjFdnFJNjJJQelrd3Wo7sqwyfjSWyFS7MaAN2UoMbUGIONPm3qLEAuW4PMAdMhHmh/3TgorvZlScCqW0M8y9rwBsT0iS2g+/8=;TXI4kJRrUZCXwxPrqTTtHA=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/aeccbfd/2147483647/strip/true/crop/3253x1830+13+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F96%2Febe196d94b7d93668a2f406ee2ff%2Fstudy-shows-artificial-intelligence-deep-learning-models-can-detect-race-in-medical-imaging.png"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "N1aVthul3KxafIJz0YwvurzhSJqPRsgOclU9J/Vlqx+2pi4pHKlOkoeMsY0qJsYJ+nYXu86PPVkpxFEyFfdFnu1p1Y6JD1NCrSK8C14Zabk/Pz1ZjpZ4BQgmE4QyNk6Tju6gTlihyjnBIJROJ9SWl7RQZqcQf9By0fs1a4Ofaf2LHXbb1tUh8eSkz1/eMWrUYIx115F9ftb0REknRoH+cIHxZqTWBpMY7DCSyZlCXsq3RiLLJB1I2NlMxakFJCP4ph8JWKX4HhGr/nOCpGwiIOivhHDPZo37pFMd0W+mvBgXMDPSR12VmDoJ4aWDPNSbdwEkANMrcPjJoU4YLBAo3bBNLmHY2mOxjH3r141cJ8M=;uJWl/+mO21yLeMDTCLWhtw=="
 ---
 

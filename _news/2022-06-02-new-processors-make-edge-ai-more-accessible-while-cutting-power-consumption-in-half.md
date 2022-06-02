@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T13:09:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370"
 webUrl: "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Business Insider

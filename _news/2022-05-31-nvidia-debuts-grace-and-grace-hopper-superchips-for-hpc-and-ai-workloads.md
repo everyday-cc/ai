@@ -114,6 +114,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Research Shows Improved Wellbeing in Adolescents Using AI-Powered Personal Companion Tools"
+    excerpt: "Kai.ai, the market leader in AI-based technology for mental health and well-being care to adolescents, has announced that two of its research papers have been accepted for publication by The Journal of Medical Internet Research (JMIR)."
+    publishedDateTime: 2022-06-02T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-mental-ad48949785b44f35a5192c2e22cb0868"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "NVIDIA Omniverse is now ready to usher 3D simulation, virtual worlds, and next-gen AI into the next era"
     excerpt: "NVIDIA’s job at COMPUTEX 2022 is not over just yet as the latest video prepared for the forum is all about Team Green’s real-time reference development platform Omniverse and the wave of revolutionary applications it’s going to bring forward."
     publishedDateTime: 2022-05-29T05:14:00Z

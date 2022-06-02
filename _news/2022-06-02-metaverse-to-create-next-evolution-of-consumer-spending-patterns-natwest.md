@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T06:37:00Z
 originalUrl: "https://telecom.economictimes.indiatimes.com/news/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91956898"
 webUrl: "https://telecom.economictimes.indiatimes.com/news/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91956898"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: India Times

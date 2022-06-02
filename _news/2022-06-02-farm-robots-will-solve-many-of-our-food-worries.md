@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T13:30:00Z
 originalUrl: "https://www.washingtonpost.com/business/farm-robots-will-solve-many-of-our-food-worries/2022/06/02/f27aef22-e278-11ec-ae64-6b23e5155b62_story.html"
 webUrl: "https://www.washingtonpost.com/business/farm-robots-will-solve-many-of-our-food-worries/2022/06/02/f27aef22-e278-11ec-ae64-6b23e5155b62_story.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Washington Post

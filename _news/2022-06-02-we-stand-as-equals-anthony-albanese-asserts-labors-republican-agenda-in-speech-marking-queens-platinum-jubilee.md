@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T12:24:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2022/jun/02/we-stand-as-equals-anthony-albanese-asserts-labors-republican-agenda-in-speech-marking-queens-platinum-jubilee"
 webUrl: "https://www.theguardian.com/australia-news/2022/jun/02/we-stand-as-equals-anthony-albanese-asserts-labors-republican-agenda-in-speech-marking-queens-platinum-jubilee"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Guardian
