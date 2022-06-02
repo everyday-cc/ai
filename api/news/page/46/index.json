@@ -2,6 +2,169 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-04-20-nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing.md",
+      "title": "NVIDIA RTX 40-Series 'Ada' AD102 GPU Enters Phase of Testing",
+      "excerpt": "Nvidia's next-generation GPU family, codenamed Ada Lovelace ... and artificial intelligence (AI) applications. Nvidia's GeForce RTX 4000-series 'Ada Lovelace' GPUs are planned to be manufactured ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing,3.html",
+      "originalUrl": "https://www.guru3d.com/news-story/nvidia-rtx-40-series-ada-ad102-gpu-enters-phase-of-testing,3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-computers-could-revise-past-conclusions-with-ai.md",
+      "title": "Computers could revise past conclusions with AI",
+      "excerpt": "To better automate reasoning, machines should ideally be able to systematically revise the view they have obtained about the world. Timotheus Kampik's dissertation work presents mathematical reasoning approaches that strike a balance between retaining consistency with previously drawn conclusions and rejecting them in face of overwhelming new evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-04-conclusions-ai.html",
+      "originalUrl": "https://techxplore.com/news/2022-04-conclusions-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning.jpg",
+          "width": 1920,
+          "height": 1302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-04-conclusions-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-conclusions-ai.amp",
+      "publishedDateTime": "2022-04-20T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-meet-the-finance-finalists-in-the-2022-itnews-benchmark-awards.md",
+      "title": "Meet the finance finalists in the 2022 iTnews Benchmark Awards",
+      "excerpt": "Today, we announce the three financial services finalists in the 2022 iTnews Benchmark Awards: Commonwealth Bank’s execution health score using machine learning to assess project health Westpac ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/video/meet-the-finance-finalists-in-the-2022-itnews-benchmark-awards-578913",
+      "originalUrl": "https://www.itnews.com.au/video/meet-the-finance-finalists-in-the-2022-itnews-benchmark-awards-578913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/Videos/Finance_thumb.JPG",
+          "width": 1152,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-20-neurotechnologys-fingerprint-recognition-algorithm-maintains-number-one-ranking-in-nist-pft-iii-evaluation.md",
+      "title": "Neurotechnology's Fingerprint Recognition Algorithm Maintains Number One Ranking in NIST PFT III Evaluation",
+      "excerpt": "Neurotechnology's fingerprint algorithms have continued to outperform all others in the NIST Proprietary Fingerprint Template (PFT) evaluations since 2019. VILNIUS, Lithuania, Apr",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/cision/20220420SF28430/neurotechnologys-fingerprint-recognition-algorithm-maintains-number-one-ranking-in-nist-pft-iii-evaluation/",
+      "originalUrl": "https://ktla.com/business/press-releases/cision/20220420SF28430/neurotechnologys-fingerprint-recognition-algorithm-maintains-number-one-ranking-in-nist-pft-iii-evaluation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1799159/PFT_III_20_04_2022.jpg",
+          "width": 400,
+          "height": 221,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-arcannaai-introduces-ai-assisted-cybersecurity-platform-for-the-global-market.md",
       "title": "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market",
       "excerpt": "Arcanna.ai scales SOC teams' expertise to reduce risk, increase capacity and retain institutional knowledge NEW YORK, April 20, 2022 /PRNewswire/ -- Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific,",
@@ -926,168 +1089,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-cathie-wood-on-twitter-europe-in-recession.md",
-      "title": "Cathie Wood On Twitter Europe In Recession",
-      "excerpt": "Magnifi is a fintech platform that uses artificial intelligence so individuals and advisors can instantly search stocks, ETFs, mutual funds and model portfolios and trade based on their preferences.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22",
-      "originalUrl": "https://menafn.com/1104052744/Cathie-Wood-On-Twitter-Europe-In-Recession&source=22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-artificial-intelligence-is-creating-a-new-colonial-world-order.md",
-      "title": "Artificial Intelligence Is Creating a New Colonial World Order",
-      "excerpt": "My husband and I love to eat and to learn about history. So shortly after we married, we chose to honeymoon along the southern coast of Spain. The region, historically ruled by Greeks, Romans,",
-      "sourceUrl": null,
-      "webUrl": "https://pulitzercenter.org/fr/node/26547",
-      "originalUrl": "https://pulitzercenter.org/fr/node/26547",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pulitzercenter.org/sites/default/files/styles/768x600/public/2022-04/shutterstock_2122981079.jpg?h=790be497&itok=juXEcP9M",
-          "width": 768,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulitzer Center",
-        "domain": "pulitzercenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing.md",
-      "title": "Integrate ServiceNow with Amazon Lex chatbot for ticket processing",
-      "excerpt": "Conversational interfaces (or chatbots) can provide an intuitive interface for processes such as creating and monitoring tickets. Let’s consider a situation in which a recent hire on your team is required to cut tickets for office equipment. To do so, they have to interact with a ticketing software that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-3932-image005-500.jpg",
-          "width": 500,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T09:55:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit.md",
-      "title": "Amazon taps former Attorney General Loretta Lynch to run racial equity audit",
-      "excerpt": "related to harassment and discrimination * And an independent study of Rekognition, a facial recognition system that Amazon Web Services markets and sells to government and shareholders say is \"worse at identifying Black women than white men and misgenders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html",
-      "originalUrl": "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finger Lakes Times",
-        "domain": "fltimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

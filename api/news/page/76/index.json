@@ -2,6 +2,198 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-03-26-bairesdev-wins-the-business-intelligence-groups-2022-artificial-intelligence-excellence-award.md",
+      "title": "BairesDev wins the Business Intelligence Group's 2022 Artificial Intelligence Excellence Award",
+      "excerpt": "The Business Intelligence Grouptm today announced that BairesDev, a leading technology solutions company, is a winner in its Artificial Intelligence (AI) Excellence Awards program. The award highlights the company's efforts to build new tools,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20305538.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20305538.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-26-sandia-researcher-starts-muslim-community-robotics-team.md",
+      "title": "Sandia Researcher Starts Muslim Community Robotics Team",
+      "excerpt": "A research scientist at Sandia National Laboratories, who started the nonprofit Itkan Institute of Technology, has formed four student-led robotics teams in North Texas in hopes of encouraging interest in STEM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
+      "originalUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/b52f988/2147483647/strip/true/crop/6000x3129+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F2e%2Ff5%2F10034c7d449ca15c150596324164%2Fmuslim-robotics.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
+      "publishedDateTime": "2022-03-25T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-26-aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie.md",
+      "title": "AWS is hungry for a bigger slice of the video game pie",
+      "excerpt": "and artificial intelligence and machine learning.” AWS already boasts a long list of high-profile customers from the video game sector, including the makers of Fortnite, League of Legends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie",
+      "originalUrl": "https://www.techradar.com/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/V8LKc9rp2MMJqfBD3jNBpN-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-25-ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell.md",
+      "title": "AI Weekly: Nvidia’s commitment to voice AI — and a farewell",
+      "excerpt": "GTC conference, Nvidia redoubled its commitment to voice AI. In other news, reporter Kyle Wiggers announces he's leaving VentureBeat.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/",
+      "originalUrl": "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/25/ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell/amp/",
+      "publishedDateTime": "2022-03-25T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-ai-model-may-help-predict-ovarian-cancer-treatment-outcomes.md",
       "title": "AI model may help predict ovarian cancer treatment outcomes",
       "excerpt": "An artificial intelligence (AI) model may help predict clinical outcomes at the time of laparoscopic assessment for advanced high-grade serous ovarian cancer (HGSOC), according to a study presented at the Society of Gynecologic Oncology's Annual Meeting on Women's Cancer,",
@@ -955,188 +1147,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-office-envy-inside-argodesigns-new-hq-robotics-startup-raises-millions.md",
-      "title": "Office Envy: Inside Argodesign's new HQ | Robotics startup raises millions",
-      "excerpt": "Brent: Just before SXSW kicked off a couple weeks back, I had a chance to visit Argodesign's new headquarters, which is just a stone's",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/austin/inno/newsletter/27156396?limit=20&skip=0",
-      "originalUrl": "https://www.bizjournals.com/austin/inno/newsletter/27156396?limit=20&skip=0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-natural-language-processing-market-performance-by-top-companies-revenue-global-demand-and-sales-forecast.md",
-      "title": "Natural Language Processing Market Performance by Top Companies, Revenue, Global Demand and Sales Forecast",
-      "excerpt": "Mar 25, 2022 (The Expresswire) -- Global “Natural Language Processing Market Statistics” report explores comprehensive and insightful Information about various key factors like Regional Growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-performance-by-top-companies-revenue-global-demand-and-sales-forecast-2022-03-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-performance-by-top-companies-revenue-global-demand-and-sales-forecast-2022-03-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-artificial-intelligence-ai-in-medical-diagnostics-market-anticipated-to-attain-a-cagr-of-45-during-2022-2030.md",
-      "title": "Artificial Intelligence (AI) in Medical Diagnostics Market anticipated to attain a CAGR of ~45% during 2022 - 2030",
-      "excerpt": "Furthermore, rising adoption of artificial intelligence and machine learning is projected to boost the market growth. Moreover, growing demand for early diagnosis of diseases, backed by increasing technological advancement in the healthcare sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-anticipated-to-attain-a-cagr-of-45-during-2022---2030-2022-03-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-anticipated-to-attain-a-cagr-of-45-during-2022---2030-2022-03-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-digital-imaging-ai-advance-investigation-of-systemic-disease-through-the-retina.md",
-      "title": "Digital imaging, AI advance investigation of systemic disease through the retina",
-      "excerpt": "The emergence of high-resolution imaging modalities and the progress of artificial intelligence, in particular deep learning, have opened up new pathways to identify signs and predictors of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healio.com/news/ophthalmology/20220317/digital-imaging-ai-advance-investigation-of-systemic-disease-through-the-retina",
-      "originalUrl": "https://www.healio.com/news/ophthalmology/20220317/digital-imaging-ai-advance-investigation-of-systemic-disease-through-the-retina",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healio.com/~/media/images/news/print/ocular-surgery-news/2022/03_march_dd/wong_tien_og.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healio",
-        "domain": "healio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

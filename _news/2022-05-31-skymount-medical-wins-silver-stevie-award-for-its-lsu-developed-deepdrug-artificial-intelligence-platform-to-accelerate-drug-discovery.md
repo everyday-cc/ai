@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Skymount Medical Wins Silver Stevie® Award for Its LSU-Developed DeepDrug™ Artificial Intelligence Platform to Accelerate Drug Discovery"
-excerpt: "CALGARY, Alberta and BATON ROUGE, La., May 31, 2022 (GLOBE NEWSWIRE) -- Skymount Medical, a drug discovery company using an artificial intelligence (AI) platform developed by Louisiana State University (LSU) researchers to repurpose and build new drugs for ..."
-publishedDateTime: 2022-05-31T12:45:00Z
-originalUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8560925/skymount-medical-wins-silver-stevie-award-for-its-lsu-developed-deepdrug-artificial-intelligence-platform-to-accelerate-drug-discovery/"
-webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8560925/skymount-medical-wins-silver-stevie-award-for-its-lsu-developed-deepdrug-artificial-intelligence-platform-to-accelerate-drug-discovery/"
+excerpt: "Skymount Medical, a drug discovery company using an artificial intelligence (AI) platform developed by Louisiana State University (LSU) researchers to repurpose and build new drugs for innovative new therapies,"
+publishedDateTime: 2022-05-31T12:03:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-health-louisiana-state-university-f66c3d36daf987d7e3bd5df215c2ea44"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/covid-technology-health-louisiana-state-university-f66c3d36daf987d7e3bd5df215c2ea44"
 type: article
-quality: 0
-heat: -1
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: WKRN
-  domain: wkrn.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Skymount Medical Wins Silver Stevie® Award For Its LSU-Developed Deepdrug™ Artificial Intelligence Platform To Accelerate Drug Discovery"
@@ -33,6 +39,6 @@ related:
         height: 250
         isCached: true
 
-secured: "g7G2HpbYLVjNurdvHTnTnNGTGvCrkg/qy+LOpEmxvUfNL0AGIS4K3B9yBD5H8vR1OGY1i6a7F/674/yoWTUHolmh5L0fzGFqjsis/JtWeY2Ju76KMaZ24mgyH+ypYuGyAg19aJIkNssWWOXhqTkMRt4gyq9LCS80kcDzw52QoJmNnUpK74m7J0k92XcBAJX7Pn9TaH+rkE6iWUqcy1yfZ+pHXyVUTLjIDNjmYL8AwoUJPjYKBapkfDuJpPKnoYrTlAcdm71mtfdqN3e/VbPx1lmYiBGfFsmgQTPxmCdA13vSLfyBGFD9aAAIxsICQONThMF+Ztf+KUsC07MxP9hsELQZifSKBsWPeIAoExYYzEc=;FPZoBKM4q2mGMs5qc6NCAA=="
+secured: "1Y7ysgPIumATA6jR9ITsBfBH1z3WUNAgu+e42bEzyTUTEW+I2jG7rwRwJwW2tqZRt5Er2fxq4vFDXp+hSwPhsO38D2ZFHEwgVN4fp8o3/MYJZ/U5r3A6YXRSApUFvGTo8ziYVJjLc9MI2YsGhPWQq4PHB35Ftpkk7T9Gb3wpq1pHM7ovetviVhHMgnKPm23HcVo68Od22xgfhK2i6lwhRUpTTVMQxFRTItApmVtsKbR3v0fMsj+N1kujxx06qT2To1H/Sd44lZ5FR3hb0orX+zaJaohSxlzfA8GdX5EEVqUKRjQYuQ7iDwI/wkjugFx5PBDifbMmZp9njrUkDbSUyuGlCZSEoNn94fOqhqrnJJI=;CotjkYJLxX8IsWKRLAlpHg=="
 ---
 

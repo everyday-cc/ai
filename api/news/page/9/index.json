@@ -2,6 +2,143 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-05-23-surgical-robotics-market-size-to-hit-us-213-billion-by-2030.md",
+      "title": "Surgical Robotics Market Size to Hit US$ 21.3 Billion by 2030",
+      "excerpt": "The global surgical robotics market size was valued at US$ 5.36 bn in 2021. This device enables a surgeon to perform complex surgical procedures with higher precision. They are",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27348969",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27348969",
+      "publishedDateTime": "2022-05-23T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19.md",
+      "title": "Three Lessons Learned While Building A Travel Insurance Startup During Covid-19",
+      "excerpt": "Covid-19 reset everything — how we think about health and wellness, where we live and how we explore the world. We saw early on that protecting one’s trip investment and healt",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62879e7a7ead2bcc2e837362/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/23/three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19/amp/",
+      "publishedDateTime": "2022-05-23T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031.md",
+      "title": "Artificial Neural Network (ANN) Market Growth Prospects and Share Analysis, Trends, Top Leaders and Regional Analysis Forecast to 2022-2031",
+      "excerpt": "Japan, Japan, Sun, 22 May 2022 22:58:36 / Comserve Inc. / -- The Artificial Neural Network (ANN) market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-hypersense-named-in-2022-gartner-market-guide-for-multipersona-data-science-and-machine-learning-platforms.md",
       "title": "HyperSense named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine Learning Platforms",
       "excerpt": "Subex, a pioneer in the space of Digital Trust, has been named in 2022 Gartner® Market Guide for Multipersona Data Science and Machine Learning Platforms (DSML). Through HyperSense, Subex has been listed as a Representative Vendor in the report.",
@@ -996,152 +1133,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030.md",
-      "title": "Computer Vision Market overview by recent opportunities, growth size, regional analysis and forecasts to 2030",
-      "excerpt": "May 20, 2022 (Alliance News via COMTEX) -- The report covers the analysis and forecast of a Computer Vision on global as well as regional level. The study provides historic data of 2016 along with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030-2022-05-20?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030-2022-05-20?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-can-ai-identify-patients-with-long-covid.md",
-      "title": "Can AI Identify Patients With Long COVID?",
-      "excerpt": "Long COVID refers to the condition where people experience long-term effects from their infection with the SARS CoV-2 virus that is responsible for the COVID-19 disease (Coronavirus disease 2019) pandemic according to the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid",
-      "originalUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic0827814.jpg?itok=6-v41JVn",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp",
-      "publishedDateTime": "2022-05-20T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-trust-stamp-which-sells-facial-recognition-tools-to-ice-had-dozens-of-peoples-data-exposed-in-breach.md",
-      "title": "Trust Stamp, which sells facial recognition tools to ICE, had dozens of peoples' data exposed in breach",
-      "excerpt": "Dozens of names, addresses, and driver's license data were exposed in the breach, though it doesn't appear to include the data of migrants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5",
-      "originalUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6286a4f8577b8a001827a928?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5?amp",
-      "publishedDateTime": "2022-05-20T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27474736"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27474736"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
   name: Benzinga.com
@@ -24,6 +24,33 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "C3.ai Shares Swoon As Guidance Disappoints"
+    excerpt: "For the July quarter, C3.ai sees revenue of $65 million to $67 million, falling well shy of the Street consensus at $74.4 million."
+    publishedDateTime: 2022-06-02T00:08:00Z
+    webUrl: "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388"
+    ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-449799/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "C3.ai (NYSE:AI) Releases Quarterly Earnings Results, Beats Expectations By $0.08 EPS"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) released its quarterly earnings results on Wednesday. The company reported ($0.21) earnings per share (EPS) for the quarter, beating the consensus estimate of ($0.29) by $0."
+    publishedDateTime: 2022-06-02T01:16:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/02/c3-ai-nyseai-releases-quarterly-earnings-results-beats-expectations-by-0-08-eps.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 10
 
 secured: "3lGzh/jzogqFOBdxB5tVaXgoPGOxvXpb4fi3XddgdvMZxkZSnq7+a6skYQg5b32NIwZcQVX93uXDVqy/65zdfvgY+cWBIYEKcqLffbLDbSxm3FxLhHzs4O7QQ/CjQdZ9WzdlRNoqud1kEOkmwlFlDFDrujE946zrRRg2a+5PTkseZ6qIXVksgBbTg6XKUM2fHkDNpRQV1fcuZLmJpOTVqd7ZG4bEG5oxOqbtk3CRQVeeGGbss9vekxSitDyntZRL4B95tDj/U5TU9A5H0a5PCGmEgf6ikeHvolDriT2uoaQj524olgj10lfwR2Kypxc8ePipJhOtph+MjMPtfDQUpcn6Kpfm3qL9cj7KGxb0Kec=;9VKyLBHAjB/juoHKwIFzhg=="
 ---

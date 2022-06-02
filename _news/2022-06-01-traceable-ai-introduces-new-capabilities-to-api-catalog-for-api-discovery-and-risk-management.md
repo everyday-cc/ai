@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Traceable AI Introduces New Capabilities to API Catalog for API Discovery and Risk Management"
-excerpt: "The industry's leading API security platform enhances its API Catalog solution to address the growing challenges of API security for DevSecOps SAN FRANCISCO, June 1, 2022 /PRNewswire/ -- Traceable AI,"
-publishedDateTime: 2022-06-01T13:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-traceable-ai-introduces-new-capabilities-api-catalog-api-/2022/06/01/9612681.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-traceable-ai-introduces-new-capabilities-api-catalog-api-/2022/06/01/9612681.htm"
+excerpt: "understand any changes, and detect anomalies in order to detect and block API attacks, making businesses more secure and resilient. Learn more at https://www.traceable.ai."
+publishedDateTime: 2022-06-01T13:57:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/traceable-ai-introduces-new-capabilities-to-api-catalog-for-api-discovery-and-risk-management/article_30c80030-218d-5e10-b2f0-3cced874f31d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/traceable-ai-introduces-new-capabilities-to-api-catalog-for-api-discovery-and-risk-management/article_30c80030-218d-5e10-b2f0-3cced874f31d.html"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg"
-    width: 400
-    height: 244
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/4e/c4e9b522-5a4c-54ce-b8e4-cbda9861d7d6/602b94ab38364.image.jpg?crop=1154%2C606%2C0%2C49&resize=1154%2C606&order=crop%2Cresize"
+    width: 1154
+    height: 606
     isCached: true
 
 related:
@@ -34,6 +34,6 @@ related:
       domain: channelvisionmag.com
     quality: 17
 
-secured: "SN8FdgYo5dzEleVci2Uy5wjeWURyOBMlzWaQD8r1OqQ2vpH5qKoghyz4ieXx37LKqFCY63OP63uL3g7ZjdPJdDrVht84oizrDxyzCG78XXEFEFunp9M8itiXgZyTjv1ylomPahYO/KL1NJZkeNkZzmk1yMPZv+fQHNd3Q9OvF8KRhJ7KMgJ8p4p/ha7wy/ogD+R6Gv6vtkwUagIgZescQxo6XeoIrga/AgABiiWffUDi02mgAs82QAjbi6dR2izvMk5ymEYVpXnXJysxATT3MdZsxC5sepcg7GStOCLrv+NHXUnZPMD6ZEV0HIOrzCqqbClglOafmjlZlm2HtVWlre9p1CXOfPS8u68bI84iDMw=;CIyp1PSkOtXjKnQ+eJTxFA=="
+secured: "Vcf1C0yTTLOFNP+FuYKgZTC+HcTdcTMkFmoAmb40S7c6qHWaAt2/Q8o78R5eiYzCNVyYOQ8QJQT1zNyXsnd/fOADxEM+kCht5X4cWI28Ul7g4M4JELK4A4Nfr8koWCMfIiwF72C4fQj1LUwY8/C5Rxz0EvvWtsH4G9lKjhpGXlghDH7/5loyR8TuNI89o1piZZKrILYfhZ+/iAh+gV8rYNndb9C0uHCje2Hj8+tUOmQc9boiIVutmWQw6VI1yD9R5S5IEsUWFOA93Gre3pXtkCWDn98L2Ae2KOkua+sR1fMz1ODI9CPA3zDPzlL+quPTT2qlR1+hXdAWBDV4ics1KwshtMaWY6ZZG2SVDTYWJtU=;tcXQhk7P7EmGKV0gBOFJcQ=="
 ---
 

@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/05/XdGsd-1038x778.png"
+    width: 1038
+    height: 778
+    isCached: true
 
 related:
   - title: "Ethical AI – How is AI Redefining the Insurance Industry?"
@@ -89,6 +96,6 @@ related:
       domain: just-auto.com
     quality: 1
 
-secured: "Z8Kmh50RiiIzzWisaBqeuJPeIbg3zT4HNAEe+W3Fj91WzBPJbEP6lYRC+rE6VLsCu9/xjT+Mk71ymdl/6UKY4M67V3JoAk8YY5ksL5zCIhOvKf6+PGSgZxTGrb8KD/C+xZH7OJpXBqVEbZlQekW6xkaubMczB5O6c+KFbEpB4uD2+xSXqXoPazCzMJ15ALfB8I0SbQvVB6HJoWWrp0iYrAFLCYcagUfRuO2L5xEHjqA0i6gfU5hk2+198H77WrSH7Q5jEkOgTTj6WT6o8dYzZFv65f0Rp8cCY+6i+IW2JbpiT6sFI6qX4xHVzBUVM+HWrTgRXyoaXb8IJS0gS992k2PoFJ2SbSh4K3dToPsGSi9ZlIqfarnUeJcIKXqLrO9kB0zouORK3vaCwj8F7keKV8rfz+qEEIZqVk/WUFG0ZkqMa/AGCVvbbEohdjMzIp/8hQhQ0MuDZi2iyZWLj20PtTch60q8toE7OPn/NCR8FHIXhiHWTboigl4ERZJxVmmydpDY4xpsapHFZKFiY7VXnA==;YptbP5L6DqQ4JMchLlKjcQ=="
+secured: "Ik5a117WMhWj15syetDnsIxw6H6kYk30xWK/elW6mF0qELrIXYwjFvzOfCH9CJj4qwgNcopGFz1t8lrZ0CvTnsOWqk5KdDygAls/2kJNCrVbSke4S8fv/SckwDXXZBVjqTLPpfHwAwGwODSxhGPCHTzCLYszkM8GJ0g4yp/upb8QzXZedU6+HvXb5ayQ38JJ2vPZnq0R0DqaAK3PYDHRn/Bt8YGwveMM7diDEfFX6qqk40zPnIybxtSe9XvTE2aiBZlM2PqRMlyxVXlcZNVD3rajkV/Ok2OBQjdNp2COsicWhqfGcaE8HROG5dF6mY0ISEpWAVeNPj8h/NjpaNL1JrF8ro9TVoVNzZZuYFhXEJQ=;sxuJAg8mH1enjG0VKM2iyQ=="
 ---
 

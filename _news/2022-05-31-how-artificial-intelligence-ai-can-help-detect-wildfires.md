@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-can-help
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp"
 type: article
 quality: 82
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -18,6 +18,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "How artificial intelligence could help detect burnout"
+    excerpt: "In order to detect signs of burnout in texts using this kind of model, a large amount of data needed to be accumulated and analysed."
+    publishedDateTime: 2022-06-02T01:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/02/how-artificial-intelligence-could-help-detect-burnout"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/01/1607301.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "S3rsHHZdgEpJAZygfdh5yVqONcZMCf1Fp3sqHhVeUa/EhW3OwwWJ169Ye4zAwHCOXWJ8oK5sA9Sztn3MPUH5pfkcthdvfil+xG/Vnf80ImELoJCtzNlkcVin5YJNS8I5wb/HPRU/zd+mQ8TgspiT6N1uMGsrLFJwvVt6GzfQK9R9FpacfgYT6yVk1lOkRxW25ul8YS3EUNC32BBD7cuzMDziyvY+BdFWObJragBfH+TeS6duBcm8/aoYlK68SFihNIpPqnkKLH6jgJKqbuJPIRp+cjKfz15rVAJegQoBjqkDtS8/VkCIufvhti5A03rO6VaS2Zf659f9ksDK3o9igQNZRfPsgaeINAPo776RW8Y=;RA24TinerCVtSxcd5wBwWA=="
 ---

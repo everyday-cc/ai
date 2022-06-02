@@ -43,15 +43,17 @@ related:
         isCached: true
   - title: "Chick-fil-A is testing out autonomous delivery robots"
     excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
-    publishedDateTime: 2022-06-01T21:12:00Z
-    webUrl: "https://www.boston25news.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+    publishedDateTime: 2022-06-02T01:12:00Z
+    webUrl: "https://www.wsbradio.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+    ampWebUrl: "https://www.wsbradio.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/?outputType=amp"
     type: article
     provider:
-      name: boston25news
-      domain: boston25news.com
-    quality: 39
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 59
     images:
-      - url: "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
+      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
         width: 1440
         height: 810
         isCached: true

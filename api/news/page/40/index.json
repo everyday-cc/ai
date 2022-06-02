@@ -2,6 +2,205 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-04-26-us-bank-launches-nations-first-spanish-language-voice-assistant-for-banking.md",
+      "title": "U.S. Bank Launches Nation’s First Spanish-Language Voice Assistant for Banking",
+      "excerpt": "U.S. Bank is the first financial institution in the United States to offer an experience Spanish-speaking customers have never had before: the ability to bank via mobile app in their preferred language – just by speaking it.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-media-minneapolis-united-states-dcc74089803c4f93a5d8c7fe8a00826a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-how-we-can-use-ai-to-help-achieve-sustainability-goals.md",
+      "title": "How We Can Use AI To Help Achieve Sustainability Goals",
+      "excerpt": "Coincidentally, in between these fascinating trips, I was asked to participate in an AI and sustainability panel at our Imagine Cup Junior 2022 girls' edition. I received the panel questions only 48 hours beforehand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6255864cad3a5bbbc0404a9c/0x0.jpg?format=jpg&crop=3003,2002,x0,y97,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-we-can-use-ai-to-help-achieve-sustainability-goals/amp/",
+      "publishedDateTime": "2022-04-26T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-how-banks-can-embrace-open-banking-with-regulatory-compliance.md",
+      "title": "How Banks Can Embrace Open Banking With Regulatory Compliance",
+      "excerpt": "Over the last several years, organizations, including banks, have learned plenty of lessons from their experiences of migrating existing applications, data and other enterprise systems to the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266a4046d73c134e2109d5b/0x0.jpg?format=jpg&crop=5728,3223,x1969,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/26/how-banks-can-embrace-open-banking-with-regulatory-compliance/amp/",
+      "publishedDateTime": "2022-04-26T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-the-looming-board-challenge-oversight-of-artificial-intelligence.md",
+      "title": "The Looming Board Challenge: Oversight Of Artificial Intelligence",
+      "excerpt": "With the competing interests of the societal benefits of AI and the need to monitor its risk hurtling at each other at hypersonic speed, the need for boards to address the challenge is urgent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266aad942a13dba45e64287/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2022/04/26/the-looming-board-challenge-oversight-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-04-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-8-current-and-future-trends-in-financial-services.md",
       "title": "8 Current And Future Trends In Financial Services",
       "excerpt": "Trends in financial services are shifting more towards digital systems because of convenience and lower costs. Like most sectors, banking and finances are",
@@ -926,185 +1125,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-computer-system-scrutinizes-video-footage-to-analyze-animal-behavior.md",
-      "title": "Computer system scrutinizes video footage to analyze animal behavior",
-      "excerpt": "Ordinarily, when studying the behavior of animals, scientists have to watch many hours of video footage of the creatures going about their daily lives. That may soon no longer be necessary, however, thanks to a new critter-watching computer system.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
-      "originalUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/255cb2c/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff8%2F09%2F6583f3c14d67a0279df513621626%2Fdepositphotos-1169283-l.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/science/animal-behavior-machine-learning-computer-system/?amp=true",
-      "publishedDateTime": "2022-04-25T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-the-pentagons-new-ai-chief-is-a-former-lyft-executive.md",
-      "title": "The Pentagon's new AI chief is a former Lyft executive",
-      "excerpt": "The Pentagon is still new to wielding artificial intelligence, and it's looking to an outsider for help. Breaking Defense has learned Lyft machine learning head Craig Martell is joining the Defense Department as its Chief Digital and Artificial Intelligence Officer (CDAO).",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/pentagon-hires-lyft-executive-as-ai-chief-194607258.html",
-      "originalUrl": "https://www.engadget.com/pentagon-hires-lyft-executive-as-ai-chief-194607258.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-images/2020-07/a484c910-c861-11ea-bd9d-7a9ce7ea6ff3",
-          "width": 3650,
-          "height": 2433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-nuna-an-aspiring-ai-powered-startup-brings-innovative-mental-health-solutions.md",
-      "title": "Nuna, an Aspiring AI-powered Startup Brings Innovative Mental Health Solutions",
-      "excerpt": "Nuna is a Denmark-based startup company that has created a unique text and voice based conversational AI designed to help people struggling with depression, anxiety, and stress. According to information sourced from the World Health Organization,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-nuna-an-aspiring-ai-powered-startup-brings-innovative-mental-health-solutions",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-4-26-nuna-an-aspiring-ai-powered-startup-brings-innovative-mental-health-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-untether-ai-and-co-founder-raymond-chik-honored-by-canadian-entrepreneurs-group-for-startup-of-the-year.md",
-      "title": "Untether AI and Co-Founder Raymond Chik Honored by Canadian Entrepreneurs Group for Startup of the Year",
-      "excerpt": "Untether AI co-founder Raymond Chik was honored by the Association of Chinese Canadian Entrepreneurs (ACCE) during a gala dinner hosted by the ACCE in Toronto on April 23, 2022. In 2018, Dr. Chik, Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-canada-toronto-artificial-intelligence-ac29b4ae94f3476595a5f4038fe51df9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-25T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-12-image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart.md",
+      "title": "Image classification and object detection using Amazon Rekognition Custom Labels and Amazon SageMaker JumpStart",
+      "excerpt": "In the last decade, computer vision use cases have been a growing trend, especially in industries like insurance, automotive, ecommerce, energy, retail, manufacturing, and others. Customers are building computer vision machine learning (ML) models to bring operational efficiencies and automation to their",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/12/Featured-images-for-ML-9522.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T15:07:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-a-closer-look-at-solving-the-kubernetes-complexity-gap.md",
+      "title": "A closer look at solving the Kubernetes complexity gap",
+      "excerpt": "The coming decade is set to be the season of the supercloud, according to enterprise technology analysts. Who will optimize it? Businesses seem to be settling on hybrid models embracing on ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/12/closer-look-solving-kubernetes-complexity-gap-stormforgeseries/",
+      "originalUrl": "https://siliconangle.com/2022/05/12/closer-look-solving-kubernetes-complexity-gap-stormforgeseries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/close-the-gap.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-intelligently-search-your-jira-projects-with-amazon-kendra-jira-cloud-connector.md",
       "title": "Intelligently search your Jira projects with Amazon Kendra Jira cloud connector",
       "excerpt": "Organizations use agile project management platforms such as Atlassian Jira to enable teams to collaborate to plan, track, and ship deliverables. Jira captures organizational knowledge about the workings of the deliverables in the issues and comments logged during project implementation. However, making",
@@ -1301,102 +1397,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-c3ai-is-this-artificial-intelligence-stock-a-buy.md",
-      "title": "C3.ai: Is This Artificial Intelligence Stock A Buy?",
-      "excerpt": "C3.ai is showing substantial revenue and customer growth. The company is doing a great job at penetrating its existing consumer base. Industry growth trends look favorable but short-term market ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "originalUrl": "https://seekingalpha.com/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319573751/image_1319573751.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4505733-c3ai-artificial-intelligence-stock-buy-hold-sell",
-      "publishedDateTime": "2022-05-02T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-aws-bags-victory-over-microsoft-in-fight-for-10bn-nsa-contract.md",
-      "title": "AWS bags victory over Microsoft in fight for $10bn NSA contract",
-      "excerpt": "An AWS spokesperson said: \"We're honored that after thorough ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
-      "originalUrl": "https://www.techradar.com/nz/news/aws-bags-victory-over-microsoft-in-fight-for-dollar10bn-nsa-contract",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8oGbNhHrdUVzT8e8dns8dE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-29T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

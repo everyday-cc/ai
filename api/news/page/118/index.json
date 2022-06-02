@@ -2,6 +2,204 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-02-18-volkswagen-in-talks-with-huawei-on-autonomous-driving-unit-manager-magazin.md",
+      "title": "Volkswagen in talks with Huawei on autonomous driving unit - Manager Magazin",
+      "excerpt": "Germany's Volkswagen is in talks with China's Huawei about acquiring an autonomous driving unit for billions of euros, Manager Magazin reported on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-talks-with-huawei-autonomous-driving-unit-manager-magazin-2022-02-17/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-talks-with-huawei-autonomous-driving-unit-manager-magazin-2022-02-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/wHE_A2ff3igWA_UNoKoWLqAchJo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JTUDKQXVCFLFZFJNXZG37U2L6A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-amazon-hampton-university-establish-robotics-program.md",
+      "title": "Amazon, Hampton University establish robotics program",
+      "excerpt": "To expand the diversity of talent that will shape the future of robotics, Amazon invested in a new collaboration with Hampton University.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/amazon-robotics-hampton-university-establish-robotics-program/",
+      "originalUrl": "https://www.therobotreport.com/amazon-robotics-hampton-university-establish-robotics-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/02/assets.amazon-1.jpg",
+          "width": 900,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-akkio-updates-no-code-ai-platform-with-snowflake-integration.md",
+      "title": "Akkio updates no-code AI platform with Snowflake integration",
+      "excerpt": "No-code AI platform Akkio has announced new product features, including integration with major data platforms such as Snowflake.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/",
+      "originalUrl": "https://venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/machine-learning-programming.jpg?w=1200&strip=all",
+          "width": 1065,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/17/akkio-updates-no-code-ai-platform-with-snowflake-integration/amp/",
+      "publishedDateTime": "2022-02-17T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-5-it-services-stocks-to-buy-in-february.md",
+      "title": "5 IT Services Stocks to Buy in February",
+      "excerpt": "Looming interest rate hikes are expected to hurt the overall technology sector’s financial performance this year. However, rising investments and innovative service offerings should drive the information technology (IT)",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/419226",
+      "originalUrl": "https://www.entrepreneur.com/article/419226",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-419226.jpeg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-jaguar-land-rover-nvidia-will-collaborate-on-in-vehicle-software.md",
       "title": "Jaguar Land Rover, Nvidia will collaborate on in-vehicle software",
       "excerpt": "The partnership is a high-profile win for Nvidia's effort to expand its reach in the auto industry, building on its base in gaming, artificial intelligence ... with Alphabet's Waymo unit to ...",
@@ -987,205 +1185,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-deepminds-ai-helps-confine-plasma-for-nuclear-fusion-research.md",
-      "title": "DeepMind's AI helps confine plasma for nuclear fusion research",
-      "excerpt": "Across decades of development, scientists have been pursuing nuclear fusion technology through endless experiments, calculations and simulations, trying to find the optimal mix of conditions for atoms to fuse and continually release huge amounts of energy.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/",
-      "originalUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/2582d7a/2147483647/strip/true/crop/1160x773+108+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd6%2F21%2Ff1cfe2dc482c922f9c65d5688776%2F1376x774.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/alphabet-deepmind-ai-plasma-nuclear-fusion/?amp=true",
-      "publishedDateTime": "2022-02-16T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-how-does-aiml-bias-come-into-play-in-hrms.md",
-      "title": "How does AI/ML & bias come into play in HRMS?",
-      "excerpt": "HRM solutions have become quite essential in the operations of an organization and with the solutions being integrated with AI/ML ... CHRO & Chief Ethics Officer, Pramerica Life Insurance said.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-89630606,imgsize-52818,width-1200,height-628,overlay-etcio/how-does-ai-ml-bias-come-into-play-in-hrms.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-does-ai/ml-bias-come-into-play-in-hrms/89630606",
-      "publishedDateTime": "2022-02-16T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-this-wearable-smart-camera-can-detect-voice-commands-without-a-sound.md",
-      "title": "This Wearable Smart Camera Can Detect Voice Commands Without a Sound",
-      "excerpt": "Here’s to hoping the researchers continue to develop the technology, because with more advanced speech recognition capabilities, the world would be a more peaceful place where no one had to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
-      "originalUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/655ba50d6201fb981d11ac499e741434.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seechin-wearable-smart-camera-voice-commands-1848548036/amp",
-      "publishedDateTime": "2022-02-16T18:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-how-soul-machines-is-making-new-gen-avatars-life-like.md",
-      "title": "How Soul Machines is making new-gen avatars life-like",
-      "excerpt": "San Francisco-based Soul Machines, a company that is rooted in both the animation and artificial intelligence (AI) sectors, is jumping at the opportunity to create animated digital avatars to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.soulmachines.com/",
-      "originalUrl": "https://venturebeat.com/2022/02/16/how-soul-machines-is-making-new-gen-avatars-life-like/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smitpurchase.wpengine.com/wp-content/uploads/Lia-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-16T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

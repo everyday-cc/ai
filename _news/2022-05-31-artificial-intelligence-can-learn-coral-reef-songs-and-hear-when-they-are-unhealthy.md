@@ -3,20 +3,26 @@ category: news
 title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
 excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
 publishedDateTime: 2022-05-31T14:38:00Z
-originalUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
-webUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
+originalUrl: "https://abc17news.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
+webUrl: "https://abc17news.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: KYMA
-  domain: kyma.com
+  name: ABC 17 News
+  domain: abc17news.com
 
 topics:
-  - AI
   - Facebook AI
+  - AI
+
+images:
+  - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/News-web-1024x576.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "How AI Can Assist In Coral Reef Restoration"
@@ -65,6 +71,6 @@ related:
       domain: localnews8.com
     quality: 11
 
-secured: "wFwpAVrfGA3TtI8keeI6B9n1BWDmWqwW6N4bBg+Rzth1DgoLs0I0prJYPJntBOeCiB2OMJCDGxpnlLr+imtigFxChH7hIF1ZWi6Ab8D9CeK6SjCps48Cze106pdyeNgafSmKohjGO3jSwkuEyoo64C6tBg6DdhBYO7+3H1DA66gbWUeNL/BCLDBk7VqJEPpCrjSYjoRnj5ciew+tZKMHEZyVahi2gqAOK8vb9UZxf4c27KiSk+xOe83vjQswFupCMI5zV+EC7Q5cw2Y5cG2Jo6vZmDhe16q52w5bNG9+OR4oesaUEXqrH860qHs48w86bgUUWNZLphBE5rw+1weUruQJ0B0aiPo2ykGDHawDFrQ=;SjpfTuSvy57ZTDc6eXIYEw=="
+secured: "ossvXiepu961I0nrQ07hwg7kNQrAjt7cVAmFN5QMV9uj0wH7rgKflmWsoYduDVpX+9YgJd/dC5ymukIhqQU/H7IeTaIOeQ7eICEtZSS0KNeEK58Tt+pFMyQFh6cb20g9FHuVBw2OPTHgnr/oO9rKncbpYQ46dTNq9TPe0mckRi8VZJy2yb2yD+fVd1dWslfcwh4XR5kKbc4/C49lz9qBfKTjs2c41ehYHc79irz/SoGqDbKhmyR6942hCFw6wdm3TB+z2SsR0b6VMXRdbjdDwVI030osPpScd0OPJeEPnesWlLkfw8km1Mxi+++iI3MSVOO8EJVBxqasDvssXyPJ8ga20NYYPTHsgphHyRsC2ew=;dL61C2D+I2LMll5kHf90wg=="
 ---
 

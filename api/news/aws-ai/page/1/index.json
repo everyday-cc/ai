@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-02-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace.md",
+      "title": "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace",
+      "excerpt": "Deeper integration with AWS to bring promise of cloud-based, data-driven marketing to more enterprises NEW YORK--(BUSINESS WIRE)--Zeta Global (NYSE:ZETA),",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/",
+      "originalUrl": "https://www.01net.it/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/amp/",
+      "publishedDateTime": "2022-06-01T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda.md",
       "title": "Automate vending Amazon SageMaker notebooks with Amazon EventBridge and AWS Lambda",
       "excerpt": "Having an environment capable of delivering Amazon SageMaker notebook instances quickly allows data scientists and business analysts to efficiently respond to organizational needs. Data is the lifeblood of an organization, and analyzing that data efficiently provides useful insights for businesses. A",
@@ -667,6 +711,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-19-dius-becomes-first-in-apj-to-gain-aws-applied-ai-competency.md",
+      "title": "DiUS becomes first in APJ to gain AWS Applied AI Competency",
+      "excerpt": "Melbourne-headquartered solutions provider DiUS has become the first Amazon Web Services (AWS) partner in Asia Pacific and Japan to obtain its Applied Artificial Intelligence (AI) Competency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/698281/dius-becomes-first-apj-gain-aws-applied-ai-competency/",
+      "originalUrl": "https://www.arnnet.com.au/article/698281/dius-becomes-first-apj-gain-aws-applied-ai-competency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/joelosinno.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-aws-and-temenos-team-up-for-speedier-banking.md",
       "title": "AWS and Temenos team up for speedier banking",
       "excerpt": "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ...",
@@ -1297,102 +1384,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart.md",
-      "title": "Image classification and object detection using Amazon Rekognition Custom Labels and Amazon SageMaker JumpStart",
-      "excerpt": "In the last decade, computer vision use cases have been a growing trend, especially in industries like insurance, automotive, ecommerce, energy, retail, manufacturing, and others. Customers are building computer vision machine learning (ML) models to bring operational efficiencies and automation to their",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-and-object-detection-using-amazon-rekognition-custom-labels-and-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/12/Featured-images-for-ML-9522.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T15:07:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-a-closer-look-at-solving-the-kubernetes-complexity-gap.md",
-      "title": "A closer look at solving the Kubernetes complexity gap",
-      "excerpt": "The coming decade is set to be the season of the supercloud, according to enterprise technology analysts. Who will optimize it? Businesses seem to be settling on hybrid models embracing on ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/12/closer-look-solving-kubernetes-complexity-gap-stormforgeseries/",
-      "originalUrl": "https://siliconangle.com/2022/05/12/closer-look-solving-kubernetes-complexity-gap-stormforgeseries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/close-the-gap.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

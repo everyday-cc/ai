@@ -38,6 +38,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "When AI is the inventor who gets the patent?"
+    excerpt: "The day is coming -- some say has already arrived -- when new inventions that benefit society are dreamt up by artificial intelligence all on its own."
+    publishedDateTime: 2022-06-02T01:27:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/06/220601200018.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "When AI is the inventor – who gets the patent?"
     excerpt: "The day is coming – some say has already arrived – when new inventions that benefit society are dreamt up by artificial intelligence all on its own."
     publishedDateTime: 2022-05-30T00:00:00Z
