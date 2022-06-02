@@ -128,6 +128,20 @@ related:
       name: xaralite.com
       domain: xaralite.com
     quality: 17
+  - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2022-05-30T10:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence (AI) in military Market Research by Key Players, Type and Application, Future Growth to 2028"
     excerpt: "The global Artificial Intelligence (AI) in military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
     publishedDateTime: 2022-06-01T12:47:00Z
@@ -165,15 +179,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2022-05-30T10:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
   - title: "Artificial Intelligence Edge Device Market 2022 is Booming across the Globe by Share, Size, Growth, Segments and Forecast to 2030"
     excerpt: "The Global Artificial Intelligence Edge Device Market size is estimated to be USD 1.73 billion in 2019 and is predicted to reach USD 13.21 billion by 2030"
     publishedDateTime: 2022-06-01T13:17:00Z

@@ -2,6 +2,117 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2022-04-01-ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia.md",
+      "title": "AI could be used to generate more biographies of women on Wikipedia",
+      "excerpt": "An algorithm capable of writing biographies of women who deserve to be included in Wikipedia has been developed. The idea is to be able to submit, in an automatic fashion, a multitude of profiles so that they can then be validated and completed by the editors of",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-04/meta_wikipedia_010422-seo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/04/01/ai-could-be-used-to-generate-more-biographies-of-women-on-wikipedia/2050907",
+      "publishedDateTime": "2022-03-31T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "malaymail",
+        "domain": "malaymail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-folk-psychology-and-cognitive-architecture.md",
+      "title": "Folk Psychology and Cognitive Architecture",
+      "excerpt": "It has recently been argued that the success of the connectionist program in cognitive science would threaten folk psychology. I articulate and defend a “minimalist” construal of folk psychology that comports well with empirical evidence on the folk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/folk-psychology-and-cognitive-architecture/E0E31B4604053F47067DBB371BF59E1A",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/folk-psychology-and-cognitive-architecture/E0E31B4604053F47067DBB371BF59E1A",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-machine-models-for-cognitive-science.md",
+      "title": "Machine Models for Cognitive Science",
+      "excerpt": "Introduction. During the past two decades philosophers of psychology have considered a large variety of computational models for philosophy of mind and more recently for cognitive science. Among the suggested models are computer programs, Turing machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/machine-models-for-cognitive-science/BE8F3B5EB2DB03D4972204443DD35012",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/machine-models-for-cognitive-science/BE8F3B5EB2DB03D4972204443DD35012",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-prepare-data-from-databricks-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
       "title": "Prepare data from Databricks for machine learning using Amazon SageMaker Data Wrangler",
       "excerpt": "Data science and data engineering teams spend a significant portion of their time in the data preparation phase of a machine learning (ML) lifecycle performing data selection, cleaning, and transformation steps. It’s a necessary and important step of any ML workflow in order to generate meaningful insights",
@@ -1030,134 +1141,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-health-advocate-improves-understanding-of-member-health-needs-using-artificial-intelligence.md",
-      "title": "Health Advocate Improves Understanding of Member Health Needs Using Artificial Intelligence",
-      "excerpt": "Health Advocate, a leading provider of health advocacy, navigation, well-being and integrated benefits programs, announced today that it has launched a patent-pending enhanced approach using Natural Language Processing (NLP) to transform real-time member interactions into digital information that provides new insights into a member's health and improves Health Advocate's capability to proactively engage with that member.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-health-advocate-improves-understanding-member-health-needs-using-/2022/03/31/9574339.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-health-advocate-improves-understanding-member-health-needs-using-/2022/03/31/9574339.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold.md",
-      "title": "Intel confirms acquisition of Granulate, reportedly for up to $650M, bringing AI-based workload optimization into its fold",
-      "excerpt": "Last year, when we wrote about new investment for Israeli startup Granulate — which applies AI to high-priority computing workloads to optimize how they travel across a customers’ cloud and on-premises networks — we noted that the network management space was going through some",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/",
-      "originalUrl": "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1095112402.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/intel-confirms-acquisition-of-granulate-reportedly-for-up-to-650m-bringing-ai-based-workload-optimization-into-its-fold/amp/",
-      "publishedDateTime": "2022-03-31T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal.md",
-      "title": "Get up to speed on deep learning with this certification bundle deal",
-      "excerpt": "Deep learning drives a wide range of IT products, from consumer-facing recommendations to internal data analysis. The Ultimate Deep Learning & NLP Certification Bundle offers a detailed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/",
-      "originalUrl": "https://www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2021/11/10/artificial-intelligence-face-header.jpg",
-          "width": 1600,
-          "height": 948,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/offer/deals/get-up-to-speed-on-deep-learning-with-this-certification-bundle-deal/amp/",
-      "publishedDateTime": "2022-03-31T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

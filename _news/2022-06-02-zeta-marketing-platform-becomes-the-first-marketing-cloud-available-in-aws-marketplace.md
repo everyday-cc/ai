@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace"
-excerpt: "Zeta Global (NYSE:ZETA), a cloud-based marketing technology company that empowers enterprises to acquire, grow, and retain customers more efficiently, today announced the company will expand its long-standing work with Amazon Web Services (AWS),"
-publishedDateTime: 2022-06-01T20:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-zeta-marketing-platform-becomes-first-marketing-cloud-available-/2022/06/01/9613268.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-zeta-marketing-platform-becomes-first-marketing-cloud-available-/2022/06/01/9613268.htm"
+excerpt: "Deeper integration with AWS to bring promise of cloud-based, data-driven marketing to more enterprises. Zeta Global (NYSE:ZETA), a cloud-based marketing technology company that em"
+publishedDateTime: 2022-06-01T22:05:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AWS AI
   - AI
   - AI in Marketing
 
-secured: "X/ZWL2t2z4r0uT+lrsw0E9ahFW8oAGB86mVPrpMzfYiVkmXEswfkS6f0sxfI7ituwAFzNj5v/FijLyVUm7vrwnhYv5pxbAB30djZPQ/liArrjp+pj79EPl8DAXQJie1sxBaB2f+QNOXh109DdytgxAH50vWX0y8dcxqKAMdSi4qAIFk2acF1eyM52sHAsJITTnH5uadzjzOyr40acmFJF3dE3Ejc+LFkSdI0Mlawxf2WWfTAxd36wpkNtEL5EiPLxdqUf735JShpVNsE7spjrdVNYls17hPjPSd8ytfVZZptnbRBKqrVsHtBy15fk/jAEse9l9P8RJFAIeLAfkoAei7E0FdpWU6n31+Jq2Zt/IE=;5hzOC5eh3Rg8FGVyVirEiQ=="
+secured: "WeGQEfhugvboRwonG4JlpXprtD7DMm55WWBMTqBbWTdIvvpr/VfzYDT/3btfTXCErxyhbvVu8lCB+dM3A4r8XOF458FcWpyWot/2CakF+eF22sYy7J+R22lB/BI3pJijddLDUDdBYnaOa0ihD7S9Sbcd/kazikwtkEZHgRdZoJ9mcf5ne4MQNN2D9WzezIV25iBPVCbuIoIx+dcMn+cCim3JEft4Y4a2Gpwddp26xayU8Meey3/7twG/33Z4ushOo4wQ1OVESYHJy+I7IA6vL3DLQbhZsFmLaWpfLaydySL/413Gul8TRmyRl9C3hZhnunCrfR0okE2iUPesHM36hmFUVx+bizG3CsKPgPtGmTM=;dABQQtnN+Q+st2W6fSRAng=="
 ---
 

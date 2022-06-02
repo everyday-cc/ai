@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/"
 type: article
 quality: 104
-heat: 106
+heat: 104
 published: true
 
 provider:

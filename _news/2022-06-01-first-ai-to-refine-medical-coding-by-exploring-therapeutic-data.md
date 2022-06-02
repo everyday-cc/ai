@@ -39,18 +39,18 @@ related:
         height: 493
         isCached: true
   - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians"
-    publishedDateTime: 2022-06-01T17:22:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/article_69d38c92-0ab3-5795-95dc-352142ec8525.html"
+    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
+    publishedDateTime: 2022-06-01T20:22:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: KTLA
+      domain: ktla.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
         width: 600
-        height: 338
+        height: 207
         isCached: true
   - title: "FPT Software Formed New Business Alliance with Landing AI, Promoting Visual Inspection Technology"
     excerpt: "Vietnam's leading IT firm, FPT Software, has recently entered a strategic partnership with Silicon Valley AI and machine vision leader Landing AI. Both companies will tap into their Artificial Intelli"

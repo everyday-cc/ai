@@ -125,6 +125,20 @@ related:
       name: xaralite.com
       domain: xaralite.com
     quality: 17
+  - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
+    publishedDateTime: 2022-05-30T10:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI in Fashion Market foresee Share, By Product scrutiny, Application, End-Use, Regional Outlook, Competitive Strategies predict up to 2026"
     excerpt: "The study on the global market for AI in Fashion evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
     publishedDateTime: 2022-06-01T13:11:00Z
@@ -171,15 +185,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2022-05-30T10:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "GGXf5wLD6UPk1pgTBPqg3iWQ2et9LaMN+2ueEcC6MblnItycb+1W+qQJ2lF5U8vIk0011utRjKHfPrd/IYq8aQcT3XTD2//1VvDGBWioKuDlM5Q4cLGtVq1akrj6Rbn0VELHuoHepvbeetaD23PMkQeo9GiasbL97oBwR7149+hi50S5AAnbPpA5UrSoV89pOKpznh4xI+Y5MQv7WRXRByLQhAaLl5duG6ORmuJGMYE2i2UoQcW5PHJz2ks7T55woS5NIBIBoDpbqTm7BxVevmxSkWiVh4kPw976zufzNf55/fkpLJwjwzYN83DxCWDbvpn6CZaIavP8t3juhKbERd6gerjgOvVHASfXcGcdTUmUy01CgdkmFqBxR9sdInH2xeHH7nTPTBcdEDHUHmoJmPPj8zAwxagks8obuz4oM/t74qAEMrNN2MM109z6wGu2bnWbifyFa3XGYRfLLoFHONNXjv9KIJT4XgZgiOai/ziPtyTcwdgf7ZwGoAiI0itv4olArrdQf5dkM2ekHg5c9w==;PiEn3F102Rrw/uKPqPTUzQ=="
 ---

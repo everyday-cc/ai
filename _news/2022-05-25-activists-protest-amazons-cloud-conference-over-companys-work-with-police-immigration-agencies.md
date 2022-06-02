@@ -3,29 +3,24 @@ category: news
 title: "Activists protest Amazon’s cloud conference over company’s work with police, immigration agencies"
 excerpt: "AWS’s Rekognition software has been criticized, including by Amazon’s own employees, as being less accurate in identifying people of color. At least three Black men have been incorrectly ..."
 publishedDateTime: 2022-05-24T21:01:00Z
-originalUrl: "https://thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/"
-webUrl: "https://thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/"
-ampWebUrl: "https://thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/amp/"
+originalUrl: "https://www.aol.com/news/activists-protest-amazon-cloud-conference-200732718.html"
+webUrl: "https://www.aol.com/news/activists-protest-amazon-cloud-conference-200732718.html"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/20220524_050826070_iOS-e1653422932564.jpg?w=1280"
-    width: 979
-    height: 548
+  - url: "https://s.yimg.com/uu/api/res/1.2/UXA1PyOfE9PrZzac3w.Hhw--~B/aD01MDM7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_hill_articles_341/bea61812685c2d7ca521be51eb7d8746"
+    width: 900
+    height: 503
     isCached: true
 
-secured: "m7Pk25q91O0tolwC+OmmEBiy/Ke/1ffW12KhepsznO62ApWgZKpZAOH6ul+41BVsgu2UvJohr+7vakKqeCyv3QzAZnsmgA/X4c4H1+VsMdI5p0frM1EqefwsjbPAr1o0k9Q06a1dMw5dEkSDB14ZOMCyhQQTokmHdj4B6/V9cgTkmDmJXpvV7LEAWv8NumoMovNXpC6tRzgrSfN2PbVxb4vn78Lx8Oxewd/7WTfcpIoEqgz6WbV5fuMqdZfto3hPHd/c1WwRIDMKTSbTKjIKfRP6ErcYAc5oeKnRW3V5J7QPkE8IoH+RqCuXp6ny57tAFKKaxV1D6eGUy8CChvGqqPT5zSMSU+lqD7ry1qwQSFA=;ojAdmaGCdEXXNl9EQp8axw=="
+secured: "HJ7VR9OeUbY9w224T6qaCoPPnZXY4wsBn1NtoAX3DinxIIyq4O+eRxXNzn2LeuULrgBSCbbDY2NzLR8oPgnJ+da05LPGfnzdvHTWBultm789AeEwZORubTzqKBnh9rA6AJRkzmNWFDhYE9Fq1dEsZhLo9X2CCZb0ZH/8aKo+8XWjm49wclQlDijxSndD5qYmopB181MB6HYp71GvLOhT8WsBSlcud7o8lfSwYkmGSxeFZ+nUVT2NRAH90hNXbXCL3oj5eGSmeSjBm39WIjBI7sA1ixjPlhqFUn5lu1nW/BSGSoP/HyXErt1mDXk6kkZe79Nvw/PV7IFJDC/BrjuG1kBjSct5ZMNFO0PknFbU3cY=;bcR5d/CIqY0XxV3FcHY6+w=="
 ---
 

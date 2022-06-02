@@ -42,16 +42,16 @@ related:
         height: 768
         isCached: true
   - title: "Chick-fil-A is testing out autonomous delivery robots"
-    excerpt: "The delivery robots have artificial intelligence systems and special cameras that help them “navigate traffic patterns, pedestrians, and even maneuver through and bike lanes, busy malls, and sidewalks,” Chick-fil-A says. WSB says the robots can travel ..."
-    publishedDateTime: 2022-06-01T21:14:00Z
-    webUrl: "https://www.krmg.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+    excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
+    publishedDateTime: 2022-06-01T21:12:00Z
+    webUrl: "https://www.boston25news.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
     type: article
     provider:
-      name: KRMG
-      domain: krmg.com
+      name: boston25news
+      domain: boston25news.com
     quality: 39
     images:
-      - url: "https://cmg-cmg-rd-20111-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
+      - url: "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
         width: 1440
         height: 810
         isCached: true
