@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/VertexLogoSOP_R_colorRGB-400x265.jpg"
@@ -23,6 +24,6 @@ images:
     height: 265
     isCached: true
 
-secured: "00+QZmEj1ZXV+IRwUD9XS1EVC6FFOJRhS+/2GjKG97SfKPfRDWS8yFxMSCoI8ZHeDN0297XeS1x8NeWfkKDSz1OYtIPD3nyCRfFz34Fs2qJJfiJKxcYhBto8P3pOwGAZ31sghREDbjdUUBxe2w25ZuzpwraAagaveyQmDauZU5bwu6AQzknusBf8oCknpCj9BbKHJLbZBXizWp9+bEGASaUkQkmuc4QKZed0ou/evk3h8CG8ZnYCvux3+CGWcWILbrCVVZ76lEBRHSgvRn/Mw87fwoXaqC87Fb4VL3CnHjicNPKnmznMEkVMTGa8M8O/Id0k7LIMZIkDDXwSpliCQVEDEfMvFtV4zCAEz2OYLcw=;QKl9xI/9iMaLigbPTPBxHQ=="
+secured: "6e6QK/HmwRhGAF3IUk6wGy8BcVdgSXgE7AKkAy1ZPFc/bmsIbVn3iTsC3nGzFFBE3JRonKFWPplZlqvtnrv442az9bh/U+krLO5/P/XJITy7R7oZ8f87nZnEZdZsKsRjfBJRtRKbWWsO4feh0+z8B9Gl9X6yUWhqVqPZ3mw+B/K8nH06L/XsawlEvrXba467eGKyCGGb6sczB2TuXWOg4/k27Fhmx9tE8EvSaaTEUl8eFfluR1RU72WRGDabcfUWRNr0A0KyAZv+2P8iTpvr+KtQXD52lZEKDxbim8m7pxhHldRU+vZnm9p2yRnVKoTG1JPRYDTF88Q7CoYpflBmOTVItw+myRX5XfMDX6Wsag95xVatpICUyeRIJxGlxhTELjq5uJDSFozn3JEamw7IT1sy5+jpiwkQB/t5bH559MrgY5S8mqdw6eK8GAoUOKBcuqDkEuk8ONVsSW2Vs7du2bfpa+Jc2jQJRWelMAofwpCui9TE74D8bNzAlirYJKIJU/IAG58ZzjnZ2qKez+QsJA==;ZxuJ9+I2XuE7CvUDTCf2RA=="
 ---
 

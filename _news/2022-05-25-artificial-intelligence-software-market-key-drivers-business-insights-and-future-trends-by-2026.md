@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/1bd9115c03cae6ad319fc7018288222372e53aea-600x337.jpg"

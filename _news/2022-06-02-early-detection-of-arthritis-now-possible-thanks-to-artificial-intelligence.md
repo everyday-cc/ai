@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Human-Brain-Artificial-Intelligence-AI-Illustration-777x518.jpg"
@@ -25,6 +26,6 @@ images:
     height: 518
     isCached: true
 
-secured: "Y0PmTGT96oQoIuSCJHghI912yu2KIMcq1m5CeZzkr7jK5tCB0OZIjhqF6h8fKQpbBqvifs8hORQATqdgost3wnxkKPxXdQjBfga4YKo9JjVsM7J2bBLSTcfqt40Pf/OAG0EOnxLtMVP8COlFqWEMk0QGTS5oIliTK9EqRmDSwjMyZQlHRzupPEKt7u2E7TsbdeArgfC68tu5s97w1GgLiBVhqxeYgche3uPvdfbhdaiyQKJ0Rn9AAjLEZjwWwdK5BMLOYXsVIZZWH94Oq9ZZQfOqbZTT0RsU0qh7mXi1OqCi1jSlWa73496O/PNEf51Ge38s7II/EmU2W6/ZLWCMK6MNMLEe+PIv/QfnYxKZALM=;+T4miywz6oxcAOSX/4PBCg=="
+secured: "2HVSwVdjget87cALeMmJLwuTsAfOiYu0900q87iI4dJs6OMJUUApvH0tLEjQi3JEVJjhrNS9jSqrbKilKV0hy2aGaluuWQ9J1EmbZGAsixfbylwY5D34zo15xah8a5IjugnC/1oVq32oRXNtChjz1ae4DMvLv1oq8CXk5RuBfjVCMFTlWanwlxFrNTwma6/h07ooRfdC06NEL6m0pWjzpzlKxOdyZbd+f0LWsfIMH7tiHmO98s3vEtH6flqtwHXtCkzxVf2MSsmH2O/BnFFYulH4P6mwybO68D7s2sMIpHBTTp77tvr1m/e8gTWNdDxFt5CFqU1ed9IufqpJYADGciatR9ppBfohTTqwlbXJAzgdIIrp+vpj5o9SdsNj07auO5l1gTS4+idyJKc7kyfZvG0jzpLHDerzyy5cWTExUv1AFk7qOMRsg4RRG7PJ+auFolz1f7B+32CufkHFybQHEj0XmlTqWIX9+nkd2/m1hm/lSzXyPfKv2Yl0opmZf/KMapiO9FW+vKkglByHT2pOJQ==;6dlTCLtDcH3yOICTmlJOpQ=="
 ---
 

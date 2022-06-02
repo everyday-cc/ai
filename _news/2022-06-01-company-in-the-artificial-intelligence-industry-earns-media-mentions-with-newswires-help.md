@@ -1,28 +1,19 @@
 ---
 category: news
 title: "Company in the Artificial Intelligence Industry Earns Media Mentions With Newswire’s Help"
-excerpt: "Gartner predicts that artificial intelligence (AI) software will reach $62 billion this year alone. As attention"
-publishedDateTime: 2022-06-01T13:06:00Z
-originalUrl: "https://www.digitaljournal.com/pr/company-in-the-artificial-intelligence-industry-earns-media-mentions-with-newswires-help"
-webUrl: "https://www.digitaljournal.com/pr/company-in-the-artificial-intelligence-industry-earns-media-mentions-with-newswires-help"
+excerpt: "Gartner predicts that artificial intelligence (AI) software will reach $62 billion this year alone. As attention on this industry continues to grow, companies in the space have a unique opportunity to capitalize and build brand awareness."
+publishedDateTime: 2022-06-01T13:24:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-6c5df2ade07a6045460a52996f99116b"
+webUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-6c5df2ade07a6045460a52996f99116b"
 type: article
-quality: 28
-heat: 28
-published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-images:
-  - url: "https://cdn.newswire.com/files/x/82/22/8da3e6197b6982de31ee3d47fa27.jpg"
-    width: 512
-    height: 288
-    isCached: true
-
-secured: "Z/Rv573EdOkcOrxjQNB0FOtbIkzOxs44BnSiuo/wx9S+Jaa0jNYQhaVmCv2oJROpM//EKKvPK+JHBl8mzbWQlMgVI2oMFw13IsJdyjvVSxkvRiWpUTXhnWCrzjlyHVxJgChptL54ae+CBBh6YHrUPidft+rUBhb0r4KK9LTVrMS4AsyvOEzNs1jZgYQ0kDTEb6ePd5yHhj9KHYhYeCVNJYKgFTnj0U4RVSepC6Nn0Jtu2M1jYiCgoPPavEVKbkY1YlyB1rcLQC3IYJKt12cZyvIOt+IxL32KBprlrs6pHXulE3bOSOUVaO1H3tdV3tiIkpdTcLIjiRudLiycRybULgZ5zGnpUtoE1nBYZRi6FyXxPSlzyeTbbdtxsvxXoh9auln+U+jj15LWx7UeQJmwa+pb2A+Y4JVJzoFztbPteVmiFXW2LRJS7r0I1Mwqp4TvQd6tiiQ/zLkW9FTFwPD6bFOCGcKZLJd13G3XeS1SHdVpyNQa1cg/fZuDk/yx5RZr66LBK3PPF0c60R6doeBBcg==;5Tf7uhZO8VfWREfuKhlo3w=="
+secured: "8YZFCMJcnez1hGc3YHq46DKV15PgXCs8P1iE0rQgZjYvMZGEKzRVNuCnxQ5nB7mYeBoR3dVS0Q6HquyDp1HdDdlQ3LLV6dBZ/5u9+Jvl7VKa+9GJ1W5J6A5VAfp4HE7qfF/MuzZkG8X0mGbMO2yi8lOmRiEM+INgQI5vrSyzHUz7AefzfV5Txa2hyKjigFiPAh3hB0TORO5dLxI8NHS/EdzQl40wCPF7IvycZt89ATOX4hc+qO8sLgCNDRozkkI82Y8lf4Jqtz2S+1c9IMbUeqaCiM7ZlAwQvRRmOmLeOekNLK/MAtM+eQj67+gB2X+mqIQyi0LiXi/bTGeUPS8k2uWUYJv1ODTlTviPmdZycN8=;3yNvNWsIybnrWj74KoZCKw=="
 ---
 

@@ -2,15 +2,10 @@
 category: news
 title: "Metaverse to create next evolution of consumer spending patterns: NatWest"
 excerpt: "The pandemic brought the urgent need for enterprises across the spectrum to adopt new and emerging technologies. The global banking sector has been at.."
-publishedDateTime: 2022-06-02T09:29:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600"
+publishedDateTime: 2022-06-02T06:37:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91956898"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91956898"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
   name: India Times
@@ -20,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-91959600,imgsize-47826,width-1200,height-628,overlay-etcio/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "etAq0UK8ODl8sH6F+RK6r2XdfSC3CrR7BhvQQeWyHG3RR0RCc4go9usGSnNd2KzshokdHni4pCZWD9eG/jSVSI29C3QIZEqh3NpPcQG2hR4JNazHg4uWZMHBPhpFOqFVOmtEuzoh7yVQLLCi5jJrhvYBEqyP7vq+unv5c/1Jeg/PHr3celHRTSYlOlqi4mtPNwuedAGtuQusuE7FhNgqPwr0tGgUU1ti4dgs8aOsd6RoZ13AAYPvO/XFg7Q+yXrNbrRyHQ3mtLGIKdfKgMbZFvGQZ0tjp4QJy/PABJ8/1s3QvG2y7SAsjlesheVOAsx1SEJW5H+BGDVOYNUuVYiFSj5ZRc1081Jy9NEZLZTP6t7aH4GhoIAwh+sePldFEX2NDdu8akg5+SWFAUUP7rl+ZIUlgYp3a8vS89bkdALXd+JPLoa5H07op8cE4tIXF35qLCWb/NrI7Ngt4nOBfd7hOOjTf1jR53l0N7Unb6ODALQvHmTHkFFERil1dZDkoNL74RAtlXSU0avPivyPD0tqfg==;6M09ca4JQ/9M73zImy3QHg=="
+secured: "CVY3SZj7ibflsu0hVGRokhHOj1F5WbTexbZkZWdc/kaFvcHFlcN9jT+kLv8/if12BN/GdtRNK9Hs98CVtMDe0TBVukhxjdSi8h6JBGMIfJ0vGEKHPO10GoNvwUMpeUtErHNaBKBAW3W0klzBni92mgQmu8Y6lCgAuW2Az4EbdX9RFXCe0jxScKroYqZ9+g4jX+wdSefBc+47jagU+AFdULFDsZK7iT9FSMbYQ2ZomBVnGlZyVse8IbYn0CP1+4y0chVw7QUr7uPcVcYibPon97R/weIsIzsOi8i2c4aF9pHjiFRLgI/0fRwf3QwuX2ox1rKrkd4mmFrf5yVB9zOMfKVhn8rCPHHLvG8U/WmS+D1+It6FAwnYafJ9IXNQ/1GkroJ1pooDBjxIiV0LRv1NmNfOeDDuuUcMIWEH2eeiKd8lpwfycHIqBFSmuAuQAHryetF9XGM+VQuj5e6eTcWEzII9RemHHVR+6xZRGse9XzMTEcksQ8zPb58CqXvb93KKnhLmuMOGW+E+WY32EjMetw==;JGsgk2HVWkECtgWYJfHBQQ=="
 ---
 

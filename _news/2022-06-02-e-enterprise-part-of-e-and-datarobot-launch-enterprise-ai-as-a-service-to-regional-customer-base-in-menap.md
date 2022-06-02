@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-06/DataRobot%20partnership.jpg?itok=tHO00tub"
@@ -50,6 +51,6 @@ related:
       domain: itp.net
     quality: 17
 
-secured: "TSEZVNBubQJhRFbBJ9rtfeNBMDZjA/80gFvTWpFkUBQETIKGlRueM/GzCpLYtz9AqE55FQJ9O+meEc+yEf12OK1lI0A2W0Zuh4/7CtVZgzCvVNBf2aIiqquorki/KTKk/vtNcmTqnNwbaXMLBMG8AkudvocLarTsdeC7mxL8bmq8JXjDhCyRn7l3CVnJIXfWf+utWGAZ00TFnglNDlbklhLWmX7kYmxqIKl5TZhF3leHCZa3e4nD2qnQ/AmM+IMJJJLUNwABQF+SrVSKPh7ZrMzo6JIgphBYthyiM5AvHHNSADH7A4V+bnNZiGoOiS0UPIPJnAEnbe3gpNHAXyQzS5g+dMC1UGAhh/8AhcX87zM=;beVa07qCoeUHpMPWJ5+I1w=="
+secured: "lVtinfC01u/6kh3fOX3G1M0KZuAxTBF5iL3bQj0Cd/isK+FP9e5MTjRfn3FgGzoFlZaKDCIbNRL0pHDjVsuxHeeI/KK4zNVqVajnuVm99QAdFf7PO3Tpkz+iaKGNxLE01UdQGtKvv7NIr9O44bEp0ZrPW3pMKeMRT0uLL5KP5MpzdhOKL38gi/+27Wf895bbFaX0NLl1QtVYgVlCElHDrZ+q9IF8dYiCTtOPSKaoo9OurPOH4RfymKZQ3AXdC0Yp5uDKfUi5141JmtDTpd7CzY34EoVyPdYHXQmD9LtEG2ym6c2R599gcTb+UFE0U8jDvwbnHdMKpH/vky/skUX0r1RHLLir5zMmtzrsTjy+7FNKv34xxqx6s7ui62veaom47TgQTLeOx9ppQTrRn80fiSqghX5mkO1E5ve7QH9i3B24VaCHHYqpK21qPoJELagsejrk6A38zOeuKvTK08j6ijgQTFo641akocvwGpruvJKHX7C6M0y/LZGT8ffL8RJ5wSZdjdVjl7XS2/KdxLIEoA==;gdCw3aWu5bLN4mu0dTy1ug=="
 ---
 
