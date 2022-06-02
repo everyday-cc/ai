@@ -7,7 +7,7 @@ originalUrl: "https://www.investing.com/news/stock-market-news/c3ai-shares-plumm
 webUrl: "https://www.investing.com/news/stock-market-news/c3ai-shares-plummet-19-on-guidance-miss-432SI-2832610"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "C3.ai plunges as after Q4 loss widens, sees sales slowdown in 2023"
-    excerpt: "C3.ai (AI) shares plunged 20% in after-hours trading after the enterprise software company posted mixed fourth-quarter results and said sales for fiscal 2023 would come in"
-    publishedDateTime: 2022-06-01T20:30:00Z
-    webUrl: "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1347310666/image_1347310666.jpg?io=getty-c-w750"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "lpeVm7n5qGvySdUaYeqigSsUDHbrKES08CLwK7FyYAbq8io2WeTa/0HD6sDZe4nNA7sgDxljVOdEbifQ5vF5U4OBPt0DAJYH/F/vgJGpA2CPjHYeDdO7cN4z18TXFF5HmoYb5EpFkVDiYRHqZfqneam8bO7JMIaHukmSf999IBiMExbVZ5E5cn8GF+2M6DaERRcA49IUVTuE7WTKaftl4QHn9rbAm9nyMOYnsu8jkuCk2ZebFvefuv/9CrmRPAFx0c+2Y46lhEu+Xv5Y6udnkyo4E966M3nDHyBV+6fjJco7xNa+EhIRCLkogiBgBGCsYC/huQcljAALKjOW4JuB9CEyAAl2w66mbYZ3j068coY=;wVZdM8dsPvZTHvPa32xmkQ=="
 ---

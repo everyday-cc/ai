@@ -27,18 +27,13 @@ images:
 related:
   - title: "Penny AI Raises $27 Million Series B to Accelerate the Transformation of Social Commerce Enablement Platforms"
     excerpt: "Penny AI, a global leader in data-driven social commerce enablement, announced today a $27 million investment led by PSG, a growth equity firm partnering with software and technology-enabled services companies to help accelerate their growth,"
-    publishedDateTime: 2022-06-01T11:03:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/penny-ai-raises-27-million-series-b-to-accelerate-the-transformation-of-social-commerce-enablement/article_bde2f6d4-0e82-5390-a7a0-2ee08122ed68.html"
+    publishedDateTime: 2022-06-01T11:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-penny-ai-raises-27-million-series-b-to-accelerate-the-transformation-of-social-commerce-enablement-platforms"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 18
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/4/db/4db34b7f-167a-5e23-88ab-1582bf8104de/629747f7d7f3a.image.jpg?crop=1783%2C936%2C108%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "ftgub+2jt4Bhh4ikKeiQ3im80lPZ06doLwMJhtAriA8+0qdtIZWsmBy4ZeN5k+qg0GhxZcR6cHyqMuDx9xPEasSI4BxpiN6Uy2FEzv/iXaGPla6lcwAih9JbVIRU3iGJwPzXHLK8lkkDWpCNVz9eCnbgj/cAfVLN0fS9LoGQe7oALO+i/Ea3CZ1olTY2p3HdglUFlpLkGh58UEaT4q52zwRHm47k/e5I7tqMCtPzAJ5erz8rF9HBaYc5wFOuxP/34VMr+xk9xxjCcx3ZfgRHNIPQDAGdl1FWAlmH+KKyLG9EJaAkw6n392/DSrX5Hh4siAZNk+6tR5CjIeri9AfZ2p7cgzxZ21BKAj5CpadtNUih2GsdeNRNowp2aifzfejuubab0WSdfTS2LkfkXd/lohuaGUdNPEfypjFG99t2EeRmpPfD8BozQuUM1gGjWi2dKBPXEvMbXtMek0I2lvw5AyRCF1N88UPGSeuMYzvyPBkg990i+2DnShzdii/P5atopmKC4iQqzrBKB1J51HaaVA==;42iAxXmw6sB3PrIgl+NFHg=="
 ---

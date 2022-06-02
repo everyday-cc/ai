@@ -2,26 +2,20 @@
 category: news
 title: "Penny AI Raises $27 Million Series B to Accelerate the Transformation of Social Commerce Enablement Platforms"
 excerpt: "Penny AI, a global leader in data-driven social commerce enablement, announced today a $27 million investment led by PSG, a growth equity firm partnering with software and technology-enabled services companies to help accelerate their growth,"
-publishedDateTime: 2022-06-01T11:03:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/penny-ai-raises-27-million-series-b-to-accelerate-the-transformation-of-social-commerce-enablement/article_bde2f6d4-0e82-5390-a7a0-2ee08122ed68.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/penny-ai-raises-27-million-series-b-to-accelerate-the-transformation-of-social-commerce-enablement/article_bde2f6d4-0e82-5390-a7a0-2ee08122ed68.html"
+publishedDateTime: 2022-06-01T11:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-penny-ai-raises-27-million-series-b-to-accelerate-the-transformation-of-social-commerce-enablement-platforms"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-penny-ai-raises-27-million-series-b-to-accelerate-the-transformation-of-social-commerce-enablement-platforms"
 type: article
-quality: 18
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/4/db/4db34b7f-167a-5e23-88ab-1582bf8104de/629747f7d7f3a.image.jpg?crop=1783%2C936%2C108%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "FarmWise Raises $45M Series B To Expand AI-Powered Farm Equipment in U.S. Farms"
@@ -39,6 +33,6 @@ related:
         height: 338
         isCached: true
 
-secured: "qaUyikznAU3RvKbfmG8ksxmYRQXxJpZCgCf6rdIDvOaaf4faE3ihoYIE0WCwCkqDxYxH66jU5H7a6g8gQuXv5QMbWRazOqgWWLpClS4xDrPCVx8nkdjcxFtOgEbLAbZurHnFO5qfsUPQI6UE6WXsaGGwhX1GkiShigfe7UHxdJpptFUg3w39t79DRlqyVIDsXW+wAS7p9r/Gz30GSEb/F36oU10FRl3Q9JMerQaB5ylXu6myS4+/DfKz22iE/hgKsrKNqBT+8jt7ihKnGgu2SC4vxbyZa0pGniYxHZvFi39YYCOIcgf7QMro/hJSBEchL9Aq9KuTqsSepLJ8MDYOynyTdoyLA2w8OWBoEOw8k6M=;QYPUwGC8Qa8vW2VVqoa8Xg=="
+secured: "N0vFBokkNEssflOK43aIMh08/vfukKgykTOSRNQrnI95k4536wdYHfhvk2SzT2syDdFJv4RaS6SNfksUL3iFcdg/hk5LXvjasmO5QYwj6R8OmAStteCR2OUO+qNK3opOiT+KSRKUWDFBe4ChPM7iuuuxEU9JnycoXBo/vy5Dx9nbdkrL7qY6wN3tKG1Suwo8ulGw0Y0tiQUyUDVI+LT/JKs37QuOx5BxoPtmSW86fwRtBeoLNY43v57d0ZMADvz/1dKIVAiHwLTq2R9d7OrhSAFY/8I2lOCBGMSGKJU2D2fn7yPYRPuUDcp1wQonc1pIhrs5Gbsv1pe0NfmM+QQo65VY4TZ7tI5G37Xzkd5pOsZD5XHTgf5LC1XoLWFU49hyiIJcTkaiQEjnerjE+7cb8hVNKBRG8rIOW4xsIrR81CbC4MYlq6jsifSFGZBiaL4OFnbYdyxPdVCe8GB133Gaiwfm51LWsYTkQA1uzufgA7RO89nu2RbdOYc6HQhyRumO4G8DWc5wW4q8rqeOB7VNsg==;jVkIg1Xb7W4B7ZzsZuwdNQ=="
 ---
 

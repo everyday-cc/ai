@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-02-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace.md",
-      "title": "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace",
-      "excerpt": "Deeper integration with AWS to bring promise of cloud-based, data-driven marketing to more enterprises NEW YORK--(BUSINESS WIRE)--Zeta Global (NYSE:ZETA),",
+      "path": "_news/2022-06-02-leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers.md",
+      "title": "Leveraging the power of AI and machine learning for more resilient data centers",
+      "excerpt": "The ability for IT department to predict disruptions and unplanned downtime can potentially minimize impact to the business, especially in today’s e..",
       "sourceUrl": null,
-      "webUrl": "https://www.01net.it/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/",
-      "originalUrl": "https://www.01net.it/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/",
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 90,
       "tags": null,
       "images": [
         {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91953454,imgsize-29370,width-1200,height-628,overlay-etcio/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.01net.it/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/amp/",
-      "publishedDateTime": "2022-06-01T17:14:00-07:00",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "publishedDateTime": "2022-06-01T20:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,50 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Marketing"
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-c3-ai-announces-fourth-quarter-and-full-year-fiscal-2022-financial-results.md",
+      "title": "C3 AI Announces Fourth Quarter and Full Year Fiscal 2022 Financial Results",
+      "excerpt": "Revenue Growth of 38% year over year to $252.8 million C3.ai, Inc. (\"C3 AI,\" \"C3,\" or the \"Company\") (NYSE: AI), the Enterprise AI application software company, today announced financial results for its fourth quarter and full fiscal year ended April 30,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/c3-ai-announces-fourth-quarter-and-full-year-2-01654114810",
+      "originalUrl": "https://www.barrons.com/articles/c3-ai-announces-fourth-quarter-and-full-year-2-01654114810",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/barrons/images/social_highres.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/c3-ai-announces-fourth-quarter-and-full-year-2-01654114810",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-announces-fourth-quarter-and-full-year-2-01654114810",
+      "publishedDateTime": "2022-06-01T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -938,48 +979,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-singsing-the-first-sing-to-earn-project-with-ai-scoring-technology.md",
-      "title": "SingSing: The first sing-to-earn project with AI-scoring technology",
-      "excerpt": "SingSing will soon become the first musical social finance (SocialFi) platform, with sing-to-earn features targeting a community of about four billion music lovers in Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology",
-      "originalUrl": "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yODZiM2FjYjczZjljY2JiODA5NTVmMGIxMzk4ZTMzYi5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp",
-      "publishedDateTime": "2022-06-01T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

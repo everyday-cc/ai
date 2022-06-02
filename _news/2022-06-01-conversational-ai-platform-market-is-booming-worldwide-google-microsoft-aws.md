@@ -40,6 +40,22 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "AMD is now within the 1st exascale supercomputer, Microsoft Azure, and Google Cloud"
+    excerpt: "AMD is once again showing its incredible prowess in supporting the computing needs of the world as they power everything from Microsoft to Google and also the new Frontier supercomputer."
+    publishedDateTime: 2022-06-02T03:00:00Z
+    webUrl: "https://www.tech-critter.com/amd-frontier-supercomp-microsoft-google/"
+    ampWebUrl: "https://www.tech-critter.com/amp/amd-frontier-supercomp-microsoft-google/"
+    cdnAmpWebUrl: "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/amd-frontier-supercomp-microsoft-google/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 68
+    images:
+      - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/06/Frontier-Supercomputer-AMD.jpg"
+        width: 1482
+        height: 859
+        isCached: true
   - title: "Nokia plugs in Microsoft Azure into its industrial edge platform"
     excerpt: "With Microsoft Azure Arc, a wide ecosystem of applications, and our long standing work with Nokia, we can provide AI-powered insights and identify solutions to workflow issues for mission critical Industry 4.0 applications running at the edge.”"
     publishedDateTime: 2022-05-31T16:20:00Z

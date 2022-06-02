@@ -39,6 +39,22 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "AMD is now within the 1st exascale supercomputer, Microsoft Azure, and Google Cloud"
+    excerpt: "AMD is once again showing its incredible prowess in supporting the computing needs of the world as they power everything from Microsoft to Google and also the new Frontier supercomputer."
+    publishedDateTime: 2022-06-02T03:00:00Z
+    webUrl: "https://www.tech-critter.com/amd-frontier-supercomp-microsoft-google/"
+    ampWebUrl: "https://www.tech-critter.com/amp/amd-frontier-supercomp-microsoft-google/"
+    cdnAmpWebUrl: "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/amd-frontier-supercomp-microsoft-google/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 68
+    images:
+      - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/06/Frontier-Supercomputer-AMD.jpg"
+        width: 1482
+        height: 859
+        isCached: true
   - title: "Conversational AI Platform Market is Booming Worldwide | Google, Microsoft, AWS"
     excerpt: "Conversational AI is a form of Artificial Intelligence technology that enables people to converse with applications, websites, and devices in the form of humanlike natural language via voice, text, touch or gesture input. Conversational AI platforms are a ..."
     publishedDateTime: 2022-06-01T10:09:00Z

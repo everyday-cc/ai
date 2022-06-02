@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-02T01:34:00Z
 originalUrl: "https://seekingalpha.com/article/4515881-c3-ai-inc-ai-ceo-tom-siebel-on-q4-2022-results-earnings-call-transcript"
 webUrl: "https://seekingalpha.com/article/4515881-c3-ai-inc-ai-ceo-tom-siebel-on-q4-2022-results-earnings-call-transcript"
 type: article
-quality: 36
-heat: 36
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"

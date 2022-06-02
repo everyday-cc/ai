@@ -34,29 +34,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians and clinical documentation improvement (CDI) teams with information about missing and wrongly coded diagnoses and procedures to correct the patient's chart in just a few clicks."
-    publishedDateTime: 2022-06-01T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data-1031502979"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
-    publishedDateTime: 2022-06-01T20:22:00Z
-    webUrl: "https://ktla.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 37
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png"
-        width: 600
-        height: 207
-        isCached: true
 
 secured: "sY0BQvBoBqsHM+UQKsnLJvNvTqaWxQvTvJkT5/+8oH+cjXHRapSAAzBWUVSDVqSttPisaV4K6qk8gc9lGwXmgfA/YDbrn9d2aLYgL2gL0EJIaXFX4rimtruo2ljudLYWbfBl8Bu6JowSqhtaSO3c1bCfiIy2v7VExG9Y5w/gxjyflPH0jCMZW2bcsR44tkOYvnLHFsa1axSUtpU7RGZf+EsC9VmrXmPbnHe7iOQIfIcDBPhNST0qv0JBgKEz8j0XA1iuksr1LUyYPzW4SNbFo1dJ+xwxOcXmhGC/1Cq4W0IIWIU8yaNp+jle3jpLFCF4IWJDNRvf0Ohlfs2z9tLGCGEBpJj8qEoyWh2Qde4WQ15+VZbUJVcl2WVcA25OkqMARknOVLgqA8cCVOxju0l6g0sQnZbohpNivGBswXIwZeCUQoENTZnUqabtExXHGTg3czKFOxJ84q6EhDPHlAZL0sXsNqqSPia6NVAmOIpNLphdWCibPiezmbQ8JgT8nTPFGxRKzwxTMuw7olRZgpkqJA==;YYkvISW88DGj0pMbsM/C0w=="
 ---
