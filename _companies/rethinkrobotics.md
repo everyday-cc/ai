@@ -2,7 +2,7 @@
 name: "Rethink Robotics"
 overview: "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain."
 type: "profile"
-heat: 114
+heat: 6
 
 website: https://www.rethinkrobotics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RethinkRobotics"
   url: "https://twitter.com/RethinkRobotics"
-  followers: 33729
+  followers: 33727
 
 size: 11-50 employees
 yearFounded: 2018
@@ -31,7 +31,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1184131997708488704/OS_GZKiw_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1532318092218474496/IWdlkhwY_400x400.jpg"
     width: 400
     height: 400
     isCached: true
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=DSy-NXSldz0"
 
-secured: "usZAkijltEUtHSW9FzgejZeTCaU7Qk0kRzSofr5g3x7dducRFVCMVhaRTVUyangZ1fxSn+MrMkyake9Frx0oK4S1nfSdjyiUrMJ2B6kjiweOc7qE0ccrQ4iMPEw3knZFfptNTJXXMIVk0LxIZ2QHmzOMlL6w00Fz9At6rMcXLP4cN4MQBkOI4FVPdl93MAj6c1j6gEMYVjO7zBLnegRNlsJTOw7X1xGJRwJo6cjs+6xw8z0YjVfNx46jn7jHC80uE1VJ86MyNXt56H4os9gwWjnH+Z4Wgc0nra0If20O1Hdaf3w8T2g4iN1P/AC8rn2kFNWauw5BdzzSHgwOy0Q8rzHkOQ1c7r8uuCnxObaBt8IqjU8SEr2/8wYzKST0GFQfABSIy11yadyVZs6vRmFXZYupDNY9QZ3lw7sZ8ZgdrEU=;Eigew0PordAfomT7j6UgAg=="
+secured: "PxepSW1MkarmvSm2gUdrrVuoswYOVtjF+IDQxJN0xI0zX9+kgA9u2riSEYHInwtuK5uMFRfs+ZlX98PlTiNVkgfDQ5jBdddR03RlGaFqwPNzMoLw8WqboRxVjcwpR0aLi7sPBH8n9YS3QECvYgtrNw9d8yEwYaBaAIabPc90qQMg7cJgYVIp+kYGf+nLcnRgh2niTgfmKkgwj11V5uxvF4Fqa5KkZ6jq4R2SFkIUWV4/ZYzEK65kvTQhci0YFpSqjhhjsNozMR++SnW6WYjLilpu0ufXPZIqA0r6/FnCRxsDzP++5CPGxAfYmfb7e/AJI6sH7PpAoXOEcaItyruXiF5FSPJC6u7ESTGx78MA3NG2ElgXimxSFYltq0N8RoBaKe0h20rzm9w9UbyQakDObrgWaDC/x0LnV5m3TapkkGo=;B5kZkC6aSZI1Sr6GX/fNLg=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Tubular Labs"
 overview: "Tubular Labs is the global leader in video intelligence for the cross-platform world."
 type: "profile"
-heat: 58
+heat: 57
 
 website: https://www.reflektion.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Tubular Labs"
 
-secured: "dUXgfzmI5sBlS5xbGRvcHLrqDDvnZByfpNhfJqKUOkkXS7iigrTJLflFinptVawgGSq9UQdFNcQhOFPT7A6WFNJ8z3E8pxA3/4SE0WwBfUDralPOP+k+Kwnv5oApOf7cMQ0c8FLOLa7mi/eXRIITNdHhh+iCvpLzPi5D5yF884NPQ6K2fZPM0U45uUw/3qjQutaubL5z6+5/LgZKG6sSeu73kP1Bmj7Isp8WdJvF4dyTM1OhYaFdMyXv5GoljqSln5EhzlpSweVU26Q9tLfjbTp/m80r8enSilbF09dEp0OeqNjDRKcglmbWaEE+vK61naPJrl28AVqGHwWgHFDRy7SwrMFh5PrD38qnneCN8VPKisIkrlHKnjs/w8lmyTcbeK/A0sqs5dCEcXyEe3xRja7+UEgeTZND0jDoqgFGkmc=;vA+Oz/ea+4DV3+ZXsowWrg=="
+secured: "EjiZ8NbsYiBahR5hXZge8zvHv4ZoIAgdM89emEwyi0sdVv6HEOYB0TLUrrhar7hzEQ8OjWZ8HzaHIYEIPzqe57RN1dIWjpwJpgcY2wQXPYnjxiZRDAqb6+kzUD0UZKp3gHst5gKWqMwBEfmYV+a6Lxqyp/+Xv250wbB8koqAdNeyPoeDhVoo9wXtKm2ALNr8We32X0ln6W3m7AWGzHOxtdE/rl5MZmlIJagWMaf5SHuf1bRHJqYqo0lwnNDViWqG+T2OE87e01Dhy4pc5h4rgt/tzS8yab7dySXJ+u65TWhLy6VZxXUBXETOxtZpnDbu8jfuvyso0Q21DmuKfjh+8LKukcYKhVycvh15rc/pMVoOZe1vQUrEG8YinlL3v7r0SEa9ZdDM8JLe36BgxRXCL0NvnihV2M72n/vVKc3wHRw=;VMxccBzGM3G2iUINOkfFGQ=="
 ---
 

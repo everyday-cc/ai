@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 65
+heat: 64
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "t3GEdeMzJI/9OjvDc1U12SZdWntPlItHtffWW7uHRX0PFKZ7u49Pu3/MUp9WUtLe52OMrNTE7s8IYXvfutFBXpkGUwiUddxxwDhClVs7JO2QFDIyY8elrCeUlGELL//wU+b/n4KFqjV1uWqQmHKhrTav3m0zwOC0o0l3w0252rUCpVLdLWf+bVvR/QzSTCiQ0i5R+jLXLfTQVSJkwLdWey28ZFX7X/+chRaZQRh/sdRwLBeigBMhsVvFfSBEGnv1ZMqv9z6R73CVbNH+oE0dbdH+swKTHDbfTSXT0O2cD4GqSGmsqqtHsjdoximPJ/9nIwNyhx3X835fb6dLfLus2IT67zpyo4dC0mzVeow122EBqJkZJfbh/xaeIOPzV64pgkIsQjl937y76Q6Y2gKX3z0P3V931Or77EjI9MP9tXQ=;xLBa5ggfNtJweq/KzHtBqg=="
+secured: "jHjMVf3Q1vZitZqT5RojLF6MUfNz3OP46CC+1QvJ0y/nRT2OfyhsbwmDIYjzmEw2sVQaztBop6mPXQaAlo6McB4QQNMAwFBnspykw3TazwfiDIOp0dKQwPzd9MZDrqwxgQKTMEzpE29RW1JytRhiBXptByPOadcAkfvZULDuiwffzimTawl2+o5QJRD1B4EIIzXn5z9lidG4xkcthBUzIJNBP9y3hF61J0txZlu4mcVyqMWoMEyPH460cZICoKwP66PbcTn7RMI8FuUXJRLFG9iqNs/wdrgKAaOru7Y6/hvJHy7XPbDdWeNewOof9P3gonC3WOzgCQRB6ZLRzGVyG7v49S7baK7IG8vhK2/8kfVztMq9maSiiOsIPtm6URWc4HU0sy3qpeCQ0GxU/La+ZH+fbr/j0Kx/DcpR8HeAIKE=;xfNlmVY5gM2vhYBRi695Cw=="
 ---
 
