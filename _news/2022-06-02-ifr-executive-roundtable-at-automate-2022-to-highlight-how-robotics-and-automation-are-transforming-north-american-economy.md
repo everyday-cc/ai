@@ -43,6 +43,15 @@ related:
       name: Morningstar%2c Inc.
       domain: morningstar.com
     quality: 7
+  - title: "AMT to Present Technical Seminars on Autonomous Mobile Robots and Mixed Load Depalletizing and at Automate 2022"
+    excerpt: "Applied Manufacturing Technologies COO Craig Salvalaggio & Controls Manager Terry Meister will share technical expertise on autonomous mobile robots and mixed load depalletizing at Automate hosted by A3 Association for Advancing Automation June 6-9,"
+    publishedDateTime: 2022-06-02T19:23:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/22250255/applied-manufacturing-technologies-amt-to-present-technical-seminars-on-autonomous-mobile-robots-and-mixed-load-depalletizing-and-at-automate-2022"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 0
 
 secured: "IoCnINAZTe1l+kz2Ckl2QRkQJSSUDwqfkUbrlR2pvkgzhgHtVckeJ2Xgb1sPpOTwHt9Di1VyiJXOWSHsvax2ie+pNroxQ+GfqyGJ6tIyEZcYb2QA53uqLSLCIl79XYXowvEfrbiQ6KaFmIsDCJn6lywo+aUPqi2NandTySqKhKfslPazr2vIs6peZtv77mrjDwT4rWJPPMPdiW4c8yAKowXVkcMHs+lkbwcHiO7goV4mYD+j1vh4JCsRFbQJAm1pbaszln7n7kC1Dho745f4TFI9BD/VtOE9SC2SFa5HUDFNw6/yiCZKViLGJdMoOmPwFwp7b9MhZ/ufr8HpgUMTWeco1JHAtltkp7DjGm+mv0M=;BAtb8TuyMyJbinRO025+Tw=="
 ---

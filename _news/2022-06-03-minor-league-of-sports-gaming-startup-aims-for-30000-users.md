@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T18:16:00Z
 originalUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2022/06/02/sports-gaming-platform-aims-for-30-000-users.html"
 webUrl: "https://www.bizjournals.com/atlanta/inno/stories/news/2022/06/02/sports-gaming-platform-aims-for-30-000-users.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Business Journals

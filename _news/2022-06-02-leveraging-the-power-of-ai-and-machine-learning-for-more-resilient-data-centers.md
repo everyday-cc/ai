@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/levera
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -27,15 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians and clinical documentation improvement (CDI) teams with information about missing and wrongly coded diagnoses and procedures to correct the patient's chart in just a few clicks."
-    publishedDateTime: 2022-06-01T16:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data-1031502697"
+  - title: "Google Cloud plans to bring more AI capabilities into the data center"
+    excerpt: "Google Cloud on Thursday announced plans to update its Google Distributed Cloud Hosted portfolio, bringing a selection of AI, ML and database capabilities directly to customer data centers. The announcement comes just about eight months after the cloud ..."
+    publishedDateTime: 2022-06-02T16:02:00Z
+    webUrl: "https://www.zdnet.com/article/google-cloud-plans-to-bring-more-ai-capabilities-into-the-data-center/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 47
+  - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
+    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
+    publishedDateTime: 2022-06-01T16:50:00Z
+    webUrl: "https://wgntv.com/business/press-releases/cision/20220601HK17662/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
+    type: article
+    provider:
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 17
   - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
     excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians and clinical documentation improvement (CDI) teams with information about missing and wrongly coded diagnoses and procedures to correct the patient’s chart in just a few clicks."
     publishedDateTime: 2022-06-01T17:48:00Z

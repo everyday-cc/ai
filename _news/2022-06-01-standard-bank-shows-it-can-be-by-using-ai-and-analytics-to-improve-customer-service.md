@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-usi
 cdnAmpWebUrl: "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, predictive analytics top list of hot technologies for banks"
+    excerpt: "AI, machine-learning, predictive analytics, natural language processing (NLP), computer vision and microarchitecture are hot technologies that banks are investing in today, according to a Forrester report."
+    publishedDateTime: 2022-06-02T20:59:00Z
+    webUrl: "https://www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html"
+    ampWebUrl: "https://www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 57
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/06/fintech_electronic_payments_banking_dollars_euros_pounds_yen_by_metamorworks_gettyimages-1127063674_2400x1600-100835370-orig-100890294-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Bringing Analytics to All: Inchcape’s AI and Business Functions Unite over Alteryx"
     excerpt: "Users of the Alteryx platform at Inchcape are singing the praises of the low-code platform: and some voices are firmly from the data science department."
     publishedDateTime: 2022-06-01T07:32:00Z

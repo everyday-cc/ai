@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-01T13:30:00Z
 originalUrl: "https://www.texomashomepage.com/business/press-releases/cision/20220601SF74761/farmwise-raises-45m-series-b-to-expand-ai-powered-farm-equipment-in-u-s-farms/"
 webUrl: "https://www.texomashomepage.com/business/press-releases/cision/20220601SF74761/farmwise-raises-45m-series-b-to-expand-ai-powered-farm-equipment-in-u-s-farms/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: TexomasHomepage.com

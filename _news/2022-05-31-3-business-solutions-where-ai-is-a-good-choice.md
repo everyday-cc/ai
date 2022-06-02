@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3662071/3-business-solutions-where
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Investing in healthcare AI a 'business necessity,' analyst says"
+    excerpt: "Health systems need to invest in the future of data, such as artificial intelligence, to reduce errors and provide better care, a Forrester analyst says. \"Healthcare organizations have been attempting to leverage massive quantities of data to their advantage for years,"
+    publishedDateTime: 2022-06-02T21:29:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/investing-in-healthcare-ai-a-business-necessity-analyst-says.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "sSKC9WGFgwec5SZhmtDKg4o2ayu7SQictbNiwebRuYotG2Mp6nzDACf/l9gQCh6xpM4Xst01jiMXn5h4n4CjN/1tw+0m7xDxwa56vzeIXIjdp6ZxmyPmRhrdN92U9AnqWxNgPugFpT6/Y52XNUya6JUeUlYX1x+jEcGEx6QJONiMFIbSDUkOqmI7EhVDxP99JgTXNWfBy4IpTC20dLYp+nz23wtcgQsxCvZsfMcWWHJ7MvhAspQGF87AOFSGLblQectd6NaE8X2Iy8Dw556SBkIngI+byEMIVnSdDIzqg10/MNUc5Ak1yJTVcufkCRuqAYJ3MKmK63XLie2a1xRoE+bvO30F8UZep1X8596BRvkMij/geEKNpm/Hof9gW6oEkbOlpcEOjvW2wfn/p+3mb4e2zCvIV/QH+d7cs+JjHkNwi7xsr+/q+PNdXEtM6m1ZZP0VDV8pNDvVvyqYkkVm/Mx8WwFs2zduFWshlBjkn54kguW5F2Yw0VhOfC1021FdwFTxiicntcLttWBe1Utlrg==;DI6Dv/2eN/mQH3vASNGBMw=="
 ---

@@ -50,6 +50,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Why C3.Ai Shares Are Getting Hammered Today"
+    excerpt: "C3.Ai (NYSE: AI) shares are trading lower after the company reported fourth-quarter financial results and issued guidance."
+    publishedDateTime: 2022-06-02T11:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-getting-hammered-today-1031504717"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "mXRnt1qkl9hdzspgIOJlIyU9H/EkLLYENlpelIllElVAANqQnJbqfX2yzmk19rD14hS1XSqiaHFjbOQWnyzeRBrfhla9DS69zv2YVkFfDWBY67Hq4IwIi8OqNa1c8rjReMdiJFKrvHIXq7oCFhztCEPphvCgFxax6RviwyP5+Bdr2Jp7RvqhZMgXi95eiTuNCQ2ZHrkqOJzsTNz/Jj/RSs7vsTms3aGv9Fo7O7e7fMmctTWYBlSaXeKjA6Gw04IZo0bBgMkM1uXJ5yxmdhCv638zZlXIO/VKkaYqFy6c8hNiHapCSjWLI8+DVG63VLhbxCl9JOL2Ljp/kdgHQj+GAMDOR2KRrKQOlO2rPzulno29PKm5O5uK9kiOnbqcmfL/gEFzUv7JYIg8NDbaCY/K3m93ytFCfQPUVo3YPqj/iunwhRDL6/Fk6koj5ZvZGa6EdhKfuRJV+KlKgMgtMMtrXW8yMOLD7FaJJsN+DVKe/48yz5hY5ntbRmka+7OEEjHvIklViK8+J4tRvgdUBIakFQ==;+iGMCXCDGrWBFwxABOtjrg=="
 ---

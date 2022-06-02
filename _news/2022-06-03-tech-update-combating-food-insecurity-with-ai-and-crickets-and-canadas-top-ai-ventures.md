@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T19:15:00Z
 originalUrl: "https://www.thestar.com/business/mars/2022/06/02/tech-update-combating-food-insecurity-with-ai-and-crickets-and-canadas-top-ai-ventures.html"
 webUrl: "https://www.thestar.com/business/mars/2022/06/02/tech-update-combating-food-insecurity-with-ai-and-crickets-and-canadas-top-ai-ventures.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: The Star

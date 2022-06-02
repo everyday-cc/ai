@@ -51,6 +51,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 87
+  - title: "Artificial Intelligence, Societal Impact, and the Future of Education"
+    excerpt: "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,"
+    publishedDateTime: 2022-06-02T16:06:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 74
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg"
+        width: 471
+        height: 354
+        isCached: true
   - title: "AI and robotics set to disrupt construction waste recycling"
     excerpt: "Recycleye pairs an AI recognition system with a robotic sorting arm to replace human pickers on material recycling facility (MRF) lines. The start-up company, founded in 2019, by two Imperial College London graduates, is a finalist in a new Young Inventors ..."
     publishedDateTime: 2022-06-01T11:47:00Z

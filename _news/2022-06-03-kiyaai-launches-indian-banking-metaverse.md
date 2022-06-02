@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T19:44:00Z
 originalUrl: "https://www.finextra.com/pressarticle/92843/kiyaai-launches-indian-banking-metaverse"
 webUrl: "https://www.finextra.com/pressarticle/92843/kiyaai-launches-indian-banking-metaverse"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Finextra

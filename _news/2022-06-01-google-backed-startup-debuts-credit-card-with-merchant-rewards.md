@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Google AI fund backs Chicago credit card startup"
+    excerpt: "A Chicago startup launched by Capital One veterans has raised $8 million, led by a venture fund run by Google. The startup, Tandym, allows companies to offer their own credit cards and lines of credit to customers. The company raised a seed round led by ..."
+    publishedDateTime: 2022-06-02T17:30:00Z
+    webUrl: "https://www.chicagobusiness.com/john-pletz-technology/google-ai-fund-backs-chicago-credit-card-startup-tandym"
+    type: article
+    provider:
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 17
+
 secured: "eGEcCYi7I96lzuQPLRXoU+bwy9HOWNCeHs9y8lhPMDlLt/yRwRcDxZp9axnht9E+M4H05JdGScP1MChoH//gjh1jVD4V6+crdV8fMquRxV5RqNHyNCImjajbXW74qYrWiZXqh69rA0N/Zz9Dccy/bdOmyJZNiSMNKOjB9sSCVyco/4PPxhXE/nDtI9RtW8/gRw4VWyeaufCkmYF2hDEbhGmVAEwWYXi63mWGCtmQL+hh6sXCit7jEewqWI1DgjPmKsk+zcEYtdOxXFO7mo487q/I8iKn/y1y7gi+j62I4GaIOXpkyzffjZvBT/KvPGEqhqG5pEOVrVQ5BZuWmGA+mwLeDMC0FRfdjOdS9tCu5uc=;gX3EhO5ogR0KScWM7MU4BA=="
 ---
 

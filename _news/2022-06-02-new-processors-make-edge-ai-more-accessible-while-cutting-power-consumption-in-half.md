@@ -1,24 +1,29 @@
 ---
 category: news
 title: "New processors make edge AI more accessible while cutting power consumption in half"
-excerpt: "Expanding on its history of delivering highly integrated processors, Texas Instruments (TI) (Nasdaq: TXN) today introduced new Sitara™ AM62 processors that help expand edge artificial intelligence (AI) processing into next-generation applications."
-publishedDateTime: 2022-06-02T13:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370"
+excerpt: "Adding edge AI features to HMI applications ... tests and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. Our passion to create a better world ..."
+publishedDateTime: 2022-06-02T16:04:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-new-processors-make-edge-ai-more-accessible-while-/2022/06/02/9613952.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-new-processors-make-edge-ai-more-accessible-while-/2022/06/02/9613952.htm"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "lgzeF2WFrEOYmTH13ExEr/PW6W/hBmm3bxwGCy3A890j1zuJYSTFfDK41EvKjC19nw4wKKr9EKo8wWl6ZwRKuAf+XG/DaRfiPoFKv7GxiareHmhAtvZ3exBgtweiRK8JchcF79UuAWlgsX7TASVKaPAAR+KYb3fNRXiDXFSFPqzEKJvEUZLjq055Pq9a2uOSdEXAwhLyxTIyZBnZiP8UQiqF7rXq21wWbjCBWXbIuZBSOq2WWzMN50JIg4Ayd8Nght7sI2iFPDzcPGhw3pJtLaF5/hFNTVXYz+QeZ9JUTTR+20mC8SzhY0BCqJOptNCxtYn62U+K51einovnhtzJ8wjGBPjDOIFepcwRpijhOSf429VcPKQ3MYM+ETCEF8i1tw4RJxZJWYE3IX9+MCBy6vISZIPloVQFAGwP/KB0swVklsUlGCukx5xV9w5wdDIlzAdWVksp22F9RGYwXDCLgYxVMiBLHQEM8C3K8IvIFTKzb7N4eFSSvjDwWE0RoSlGYKvSRAKFSSnNV/4gdOy1+A==;8eWuAniF67Nf9OdafUBQog=="
+images:
+  - url: "https://mma.prnewswire.com/media/1831042/22_25337_AM62_Texas_Instruments.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "hzCcUhusC/W9DE0ZWyMAktSQZvGARjMdu+wqfSHnrwczrbhhz3OSdBC6tduLy1COwObijGSHZ/JEK0KX+poME9ht7m/NnadPayhWs0s84wzmlbtEeJ+dlCJzcQe8MaH3tJ9MsDD6av+wJ790ChRzV+rppdO3qghGiAWJl4W38LNsuaSHSGSkjPi5plMhvI6gMH6xBHa9uqiTqaH0yv+nZVtKXKYFcR7b0yfPkRrRbN+7DXNbpoUDUPrVXxUrp55niHTvOYxOSC+t4DInq0gSChugZIOsBaHXA9tlp/YMYeYIfLqFdkA6pq/B1JsPYkjb7jJgLshmz1y+XHZF8ga4KnvXKJ7DXes32g8Z9XMtgf8=;8qZjueHnKv8pKjUyhgYZkw=="
 ---
 

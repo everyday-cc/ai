@@ -34,20 +34,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "BigBear.ai Announces Key Leadership Appointments in Finance and Corporate Development"
-    excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has expanded its leadership team to better execute on its growth strategy. Effective June 13,"
-    publishedDateTime: 2022-06-02T12:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-ed6c5575943946e196c47a57db6f0930"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 47
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Citi invests in document management spin out Arteria AI"
     excerpt: "Arteria AI, a document and contract management spin out from Deloitte, has received investments from the strategic investing arm of Citi's Global Spread Products division, and Canada's BDC Capital."
     publishedDateTime: 2022-06-01T10:23:00Z
@@ -90,6 +76,15 @@ related:
         width: 440
         height: 293
         isCached: true
+  - title: "BigBear.ai Announces Key Leadership Appointments in Finance and Corporate Development"
+    excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has expanded its leadership team to better execute on its growth strategy. Effective June 13,"
+    publishedDateTime: 2022-06-02T12:02:00Z
+    webUrl: "https://www.eagletribune.com/region/bigbear-ai-announces-key-leadership-appointments-in-finance-and-corporate-development/article_52d140de-22cd-56a7-8287-d342ac7d35dd.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 27
 
 secured: "fcu3KCSDgMh3G9sFmrYse0BXrWqsZaVbL2KYhNHV6j40Yby7Iulow0TclwF2nQ24XeunvXlatmL8QoWTk3dkmMJP0WBgLuQjxeizUG2E4f02UG3aASBpW83pQRr71rvpeZyMJhMNo3vBOUSFSKU21R7ft2k6XDP7y7h6Iv4GBlGSrigdDhE5gaKXqVREaZJpbXLjFgeON7rCHBs0LQyLRlTbMktp8gkUHgGCzMhY24rnTT2qUgeIMIJPpbt+iUFY8ltOn3AiOD0BQduaKxxXK/7WPRKS0GlmdZbaAeBm2AeE52rLBLNPNRt64VPfHssoRwzKi5f+K6t0zEI8EGzejjl8L26kpj/75tcTOK5ry74=;QDbJyl+jBV3co/XLyuW1Fw=="
 ---

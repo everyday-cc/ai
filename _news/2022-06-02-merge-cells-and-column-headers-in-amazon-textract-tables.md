@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T18:37:37Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/merge-cells-and-column-headers-in-amazon-textract-tables/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/merge-cells-and-column-headers-in-amazon-textract-tables/"
 type: article
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: AWS

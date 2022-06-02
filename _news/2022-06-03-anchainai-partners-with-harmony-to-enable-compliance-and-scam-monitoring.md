@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T17:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/anchain-ai-partners-with-harmony-to-enable-compliance-and-scam-monitoring/article_da0afe8b-25e7-57d4-a827-46eb3b938da8.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/anchain-ai-partners-with-harmony-to-enable-compliance-and-scam-monitoring/article_da0afe8b-25e7-57d4-a827-46eb3b938da8.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: WFMZ-TV

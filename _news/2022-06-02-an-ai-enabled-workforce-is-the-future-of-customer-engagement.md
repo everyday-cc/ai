@@ -49,6 +49,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 87
+  - title: "Artificial Intelligence, Societal Impact, and the Future of Education"
+    excerpt: "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,"
+    publishedDateTime: 2022-06-02T16:06:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 74
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg"
+        width: 471
+        height: 354
+        isCached: true
   - title: "Robotics and Artificial Intelligence"
     excerpt: "Robotics and Artificial Intelligence When you think of artificially intelligent robots, the Star Wars’ C-3PO and R2-D2 may come to mind, or perhaps that mechanical “bucket of bolts” that agitated Dr."
     publishedDateTime: 2022-05-31T18:59:00Z

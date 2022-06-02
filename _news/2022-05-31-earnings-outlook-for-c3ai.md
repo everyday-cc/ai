@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27474736"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27474736"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Why C3.Ai Shares Are Getting Hammered Today"
+    excerpt: "C3.Ai (NYSE: AI) shares are trading lower after the company reported fourth-quarter financial results and issued guidance."
+    publishedDateTime: 2022-06-02T11:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-getting-hammered-today-1031504717"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "C3.ai (NYSE:AI) Releases Quarterly Earnings Results, Beats Expectations By $0.08 EPS"
     excerpt: "C3.ai (NYSE:AI – Get Rating) released its quarterly earnings results on Wednesday. The company reported ($0.21) earnings per share (EPS) for the quarter, beating the consensus estimate of ($0.29) by $0."
     publishedDateTime: 2022-06-02T01:16:00Z

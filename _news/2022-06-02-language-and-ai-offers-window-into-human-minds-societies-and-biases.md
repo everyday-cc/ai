@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T00:00:00Z
 originalUrl: "https://www.santafe.edu/news-center/news/language-and-ai-offers-window-human-minds-societies-and-biases"
 webUrl: "https://www.santafe.edu/news-center/news/language-and-ai-offers-window-human-minds-societies-and-biases"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Santa Fe Institute

@@ -6,6 +6,9 @@ publishedDateTime: 2022-05-31T14:10:00Z
 originalUrl: "https://fox5sandiego.com/business/press-releases/cision/20220531MO73100/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis/"
 webUrl: "https://fox5sandiego.com/business/press-releases/cision/20220531MO73100/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Fox 5 San Diego

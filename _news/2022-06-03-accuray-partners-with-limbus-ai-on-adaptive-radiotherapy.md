@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T17:58:00Z
 originalUrl: "https://www.massdevice.com/accuray-partners-with-limbus-ai-on-adaptive-radiotherapy/"
 webUrl: "https://www.massdevice.com/accuray-partners-with-limbus-ai-on-adaptive-radiotherapy/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: MassDevice
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Accuray and Limbus AI Inc. Partner to Leverage Limbus' Innovative AI-driven Technology to Enhance Accuray Adaptive Radiotherapy Solutions"
+    excerpt: "Accuray Incorporated (NASDAQ: ARAY) and Limbus AI Inc. announced today they are partnering to augment Accuray adaptive radiotherapy capabilities by leveraging Limbus' artificial intelligence (AI)-driven autocontouring algorithms - enabling automated contouring to further streamline the treatment planning process*."
+    publishedDateTime: 2022-06-02T12:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-accuray-limbus-ai-inc-partner-leverage-limbus-innovative-/2022/06/02/9613626.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "hzusWsb/T/FTOxWUV1fGG4XT/65QFApj8sMUpQ8nc5Okbb7mtwIMffIfPij1MgXNRzzQoFLNrnLLOyO7C4Qf6Ywg4hcXRzFbsZj3P88j24lUx5KHKDzmTbSt54MOqrSjSG5ftbc9/+BmjhPMhrf9dc0YNhd+4myGTwz4rTnzH1XDXkJXeyhLOo7XysNqd/59CREWjp3rVte8kAshg73IuDsrsCEBi9VHZPRFBSNgcuQ3wtTKPvazilm1IrwOMuFGihDXtrR9Y5gRQebA+W1t/rbg44yEmkusUFZwK84/VeanmpmPuj52tQ3VtX5OFS8dSR6IvrGonK2CF2RWoTkeVrdc1kEOGpBgHzB6SGyv3zfucGKqrD1fk9cE8Wo9lxwt9VE68ghUXNItHL4gilX5ud6zUwP/Jde7EAJqqefrsTS24MN88miIjcN/7gW9WoSOly98MWK2ErKKlkEB7OG5SGW2MLAC1YVuQqGm0XBSSdGHeCxQxiTpHel1SkhPAzFOPGYfdV0RMAA7cBr+OHfF2A==;6El7LKqLKfAFqergY7c6mA=="
 ---

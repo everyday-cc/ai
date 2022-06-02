@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T17:43:00Z
 originalUrl: "https://www.ibtimes.com/appy-pie-disrupts-app-development-voice-recognition-no-coding-3528810"
 webUrl: "https://www.ibtimes.com/appy-pie-disrupts-app-development-voice-recognition-no-coding-3528810"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: International Business Times

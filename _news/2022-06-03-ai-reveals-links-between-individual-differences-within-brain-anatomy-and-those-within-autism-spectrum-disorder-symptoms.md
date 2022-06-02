@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T18:48:00Z
 originalUrl: "https://medicalxpress.com/news/2022-06-ai-reveals-links-individual-differences.html"
 webUrl: "https://medicalxpress.com/news/2022-06-ai-reveals-links-individual-differences.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Medical Xpress

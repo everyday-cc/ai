@@ -66,15 +66,20 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "A glitch in artificial intelligence"
-    excerpt: "There was just a glitch in their system. I think they are randomly walking the streets now.» CAITLYN: «Don't worry, Victor. Vi will find all the robots and bring them to you.» VIOLET: «What?? Why me?"
-    publishedDateTime: 2022-05-29T04:15:00Z
-    webUrl: "https://archiveofourown.org/works/39290073"
+  - title: "New AI Tracks Health of Coral Reefs"
+    excerpt: "A group of scientists at the University of Exeter have created a new artificial intelligence (AI) that can track the health of coral reefs by learning the “song of the reef.” Many people don’t know this,"
+    publishedDateTime: 2022-06-02T21:05:00Z
+    webUrl: "https://www.unite.ai/new-ai-tracks-health-of-coral-reefs/"
     type: article
     provider:
-      name: Archive of Our Own
-      domain: archiveofourown.org
-    quality: 19
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/fish-288988_1280.jpg"
+        width: 942
+        height: 600
+        isCached: true
   - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
     excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
     publishedDateTime: 2022-05-31T19:38:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T19:42:00Z
 originalUrl: "https://www.darkreading.com/cloud/cyberq-technologies-inc-launches-managed-ai-for-splunk-uba-customers"
 webUrl: "https://www.darkreading.com/cloud/cyberq-technologies-inc-launches-managed-ai-for-splunk-uba-customers"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Dark Reading

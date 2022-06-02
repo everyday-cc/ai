@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T19:52:00Z
 originalUrl: "https://techxplore.com/news/2022-06-ai-solutions-scientists-track-images.html"
 webUrl: "https://techxplore.com/news/2022-06-ai-solutions-scientists-track-images.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: techxplore

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-02T15:51:00Z
 originalUrl: "https://venturebeat.com/2022/06/02/announcing-the-4th-annual-venturebeat-ai-innovation-awards-at-transform-2022/"
 webUrl: "https://venturebeat.com/2022/06/02/announcing-the-4th-annual-venturebeat-ai-innovation-awards-at-transform-2022/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: VentureBeat
