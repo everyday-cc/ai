@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why education reform must include greater recognition of First Nations teachers and principals"
+    excerpt: "Changing the conversation requires the inclusion of First Nations educators, says NATSIPA president, Dyonne Anderson"
+    publishedDateTime: 2022-06-01T20:00:00Z
+    webUrl: "https://www.theeducatoronline.com/k12/news/why-education-reform-must-include-greater-recognition-of-first-nations-teachers-and-principals/280331"
+    type: article
+    provider:
+      name: theeducatoronline.com
+      domain: theeducatoronline.com
+    quality: 29
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/au/130/0413_637897319151808994.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Why a First Nations Voice will meet Dutton’s demand for practical change"
     excerpt: "He wants a Voice to “reduce the incidence of child abuse within those communities” and to improve education, employment and “many other indicators”. Dutton is correct to insist on practical impact: Indigenous recognition would be meaningless ..."
     publishedDateTime: 2022-06-01T08:16:00Z

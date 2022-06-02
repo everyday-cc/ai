@@ -1,0 +1,48 @@
+---
+category: news
+title: "Startup launches 10-minutes liquor delivery service in Kolkata"
+excerpt: "Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform."
+publishedDateTime: 2022-06-02T04:40:00Z
+originalUrl: "https://www.moneycontrol.com/news/business/startup-launches-10-minutes-liquor-delivery-service-in-kolkata-8626171.html"
+webUrl: "https://www.moneycontrol.com/news/business/startup-launches-10-minutes-liquor-delivery-service-in-kolkata-8626171.html"
+ampWebUrl: "https://www.moneycontrol.com/news/business/startup-launches-10-minutes-liquor-delivery-service-in-kolkata-8626171.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup-launches-10-minutes-liquor-delivery-service-in-kolkata-8626171.html/amp"
+type: article
+quality: 42
+heat: -1
+published: false
+
+provider:
+  name: moneycontrol.com
+  domain: moneycontrol.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2020/10/Liquor-2.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Start-up launches 10-min liquor delivery service in Kolkata"
+    excerpt: "Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform"
+    publishedDateTime: 2022-06-02T05:36:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/start-up-launches-10-min-liquor-delivery-service-in-kolkata/article65486682.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/start-up-launches-10-min-liquor-delivery-service-in-kolkata/article65486682.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/start-up-launches-10-min-liquor-delivery-service-in-kolkata/article65486682.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 42
+    images:
+      - url: "https://www.thehindubusinessline.com/news/gczg0w/article65486697.ece/alternates/LANDSCAPE_615/CCI_UDHindu_BusinessLine_UDCA0IOOT_R1422708271_0_27.jpg"
+        width: 615
+        height: 383
+        isCached: true
+
+secured: "Ui8RTaD3+RARS6E2MwYx9BWsQbmedgE6MlFh+ekByIZcWxYOc2xQxdAY+JGKLOdICQLa7RctP+5r/igyF1Gd3DdY/Jj6GTz55VyV0bABi83mjptHJ/r0xo1IIOMAToZD0B9rd0gqxVzlkjYPQHilyQ5ntEyA7nyveXhq9SKKWdoTmQblkw5yThCVk7YKA0uNcuBmAu4cD/4USZCoCPxsElqi+X+wtl+e66RGD5ejzNYn2jCkPcXlpISasBo6FYzInYITljAdWQyP6wqyxZYhOUFBU2JjtJ8blL0LzN0BWNyMkV0xPImjSe/dzeznnlSDqiOI+PmLiS/eMYcX6VjUeH3r+1fh2EqlJugTu3NLmxI=;tCGDZn3ZwSUe50pn+S6NwA=="
+---
+

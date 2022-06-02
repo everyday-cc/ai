@@ -7,7 +7,7 @@ originalUrl: "https://www.tracednews.com/argo-ai-is-currently-testing-driverless
 webUrl: "https://www.tracednews.com/argo-ai-is-currently-testing-driverless-cars-in-florida-and-texas-a-major-step-for-the-ford-and-volkswagen-backed-company/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "Argo AI Launches Driverless Vehicle Testing in Austin"
+    excerpt: "If you live in Austin, you could be sharing the road with driverless cars. Autonomous vehicle company Argo AI recently announced it's launched driverless vehicle testing in Austin and Miami.  The Argo test fleet is currently made up of the Ford Escape Hybrid and Volkswagen's all-electric ID."
+    publishedDateTime: 2022-06-01T22:00:00Z
+    webUrl: "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/26/00/76/22548401/3/rawImage.jpg"
+        width: 1200
+        height: 761
+        isCached: true
+  - title: "2 Austin Chick-fil-A’s to use self-driving vehicles"
+    excerpt: "A’s in downtown Austin received self-driving vehicles Tuesday to begin test deliveries, according to a release from Refraction AI. The company said its goal was to provide energy-efficient meal deliveries."
+    publishedDateTime: 2022-06-01T16:46:00Z
+    webUrl: "https://www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/"
+    ampWebUrl: "https://www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 44
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2022/03/gettyimages-460984624-1.jpg?w=1280"
+        width: 1280
+        height: 814
+        isCached: true
 
 secured: "Qs4YaurdrSBQKG69cIkRv5opVQNodvo+fL0tuRBew+NTnyJf1sTZfUcV/7ggyEjG9FikTNhMjPS+aFJ8komMMufCeJC1dJr7KYZmqfz9YuZ8817gX9sJQ6bjOPFeLkKuMMNbGdFQ2m9DTDgQGh4zPtcFCXphuDV2xNaZseTOoPAJCELKo+slKUX5JbGk4eyWjTHl/7eA/ks6OWNJlX/nUji8yWNkv9f1GtEXj5dXAJS9QXb+DnKvI4SHJ8BV2CBm57t5sfSM2ermIf6qRU1hn6Y/d0qYejRc+/XTQE6eYP4IrfT+n4JzvMQNXjgAgmVX4dSdPJZrZfAnuMsKe6SUBUvzOtTiJfruzct7khpOkHc=;02+2Mj6bxsCcqGGL81spFg=="
 ---

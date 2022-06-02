@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-u
 cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Students build, program self-driving vehicles for inaugural Autonomous Vehicle Racing competition"
-    excerpt: "Using newly acquired computer coding skills, Sacramento-area middle and high school students will test their designs and autonomously navigate model cars on racetracks in SMUD's inaugural Autonomo. ."
-    publishedDateTime: 2022-05-31T05:21:00Z
-    webUrl: "https://electricenergyonline.com/article/energy/category/ev-storage/143/963886/students-build-program-self-driving-vehicles-for-inaugural-autonomous-vehicle-racing-competition.html"
+  - title: "Argo AI Launches Driverless Vehicle Testing in Austin"
+    excerpt: "If you live in Austin, you could be sharing the road with driverless cars. Autonomous vehicle company Argo AI recently announced it's launched driverless vehicle testing in Austin and Miami.  The Argo test fleet is currently made up of the Ford Escape Hybrid and Volkswagen's all-electric ID."
+    publishedDateTime: 2022-06-01T22:00:00Z
+    webUrl: "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines"
     type: article
     provider:
-      name: Electric Energy Online
-      domain: electricenergyonline.com
-    quality: 0
+      name: Times Union
+      domain: timesunion.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/26/00/76/22548401/3/rawImage.jpg"
+        width: 1200
+        height: 761
+        isCached: true
+  - title: "Argo AI is currently testing driverless cars in Florida and Texas, a major step for the Ford and Volkswagen-backed company."
+    excerpt: "Driverless cars driving in Texas and Florida. The news comes after a period of stabilization in the automotive industry, leaving only a handful of well-funded"
+    publishedDateTime: 2022-05-31T08:23:00Z
+    webUrl: "https://www.tracednews.com/argo-ai-is-currently-testing-driverless-cars-in-florida-and-texas-a-major-step-for-the-ford-and-volkswagen-backed-company/"
+    type: article
+    provider:
+      name: tracednews
+      domain: tracednews.com
+    quality: 28
+    images:
+      - url: "https://www.tracednews.com/wp-content/uploads/2021/08/Waymo-already-offers-free-robotaxi-rides-in-San-Francisco-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "6ZQcdeaRgmjeVU2O2pehUsCpRYufZfSZj02SqjtfeojwMS6jzEzg0xydl41mjheT6WKfryvs2X3Qwjf9tqSPGDQVBaWztC2Rjp7hkjik0XOKfJ0JpjoaNskH7XzVI/HiEx07jlfTWuYdhM5lMfsClDK/Xm+feWxNRt/FDw2GnouZSjHKHLUS3jYVMz5Tj5Zuay1zneS9tEaVmFM6Dtcq7bIo9lu3HuP/ZpPwiI5a3I9RfzlazyUyIDwUPanJHCGKVRbeHjsS/TPkOVqe4LtSgcGXuH70lpw1ktJT1jXqImC6PWZAGUy04ypIqdIWsjQiCGf64gqEHy40PSe2meRYgYI2U4xVHw5CmztioMKvk1BwC6gQDGiKCCrX6s5gc2BuJuXtqw2e/u21IedPR/59S9iAvGDU5bgz9IwKwqRf/l8Q4bMdpZQ/RaxQMabmbgYmn0YSFrmmWqtXXbuV2QqOHqGSw+A1D8HOVRI01V0502ks+DLa4oCmKycPgsioZkQ7i2oqzP+TFss5gyr2f9oM6A==;kHl3cpy7mVvqiplwl2Bg8w=="
 ---

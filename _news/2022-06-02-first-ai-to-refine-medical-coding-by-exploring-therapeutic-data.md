@@ -2,17 +2,17 @@
 category: news
 title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
 excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
-publishedDateTime: 2022-06-01T17:22:00Z
-originalUrl: "https://fox59.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
-webUrl: "https://fox59.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
+publishedDateTime: 2022-06-01T19:22:00Z
+originalUrl: "https://kdvr.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
+webUrl: "https://kdvr.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
   - AI
@@ -44,6 +44,6 @@ related:
       domain: businessinsider.com
     quality: 47
 
-secured: "IOFsNIDlo0rCt61f17xauYgHbPETQ30bEnJgIb3soTGTe/hzYn5Z6se6rufD+XIZzTXf8fxy7G9vMMqAzuGrtUqci0Zve4dOCjWYIUD1vab6ZT0sJTywxvVWuQyskE1K+/HJzro4y8PoO9a5TeDhtEmffsGxPI4k4SX53dJIoVJ926ItY4Y2xpxyYVbRTf6yKteb5AkJ6V1EFC5Xk2kFgbWBRE/pvD4sZRhvrQzjCIrC3uykaSdJy6wlUyAPRCTT3W+sZbbcy0t/6lBLcPAHFBAhrODzgCFEI0N1U9aBh7/KSmi6JC025+ibs9uShK3LCccw0B1X6AjMJXm7YQBS960IyHMOTpoW8QCOGqmPWks=;xBKQIuhXMAx1AB7W05MMPA=="
+secured: "J0olo+Opt8KT4/e/EdrqI74b/4Mo8b9i4Ck9I9Gw1JZGu7e6HVw/IRh+GcdzZQ4SJJFZUgEZoNk+iy+pECdQ6hUrFDgy1hTlfIhoGMaTYF4qUz4iGR/OqhehIyLFoLkq4uLuaiSeS4fEieP10nncmuTS+/1E8eGmGUDbPGSzX/qLX6Zf/9PYnCmbf4rPNr9TCRyAKw1iVq6TACq5YrbyeyOCAWt3SQMaSbWz68Mr+Ua0n41ZJF0yitBo4BfKx4pn46K6F+IrjMyRp0OK3uY2aSi7PqSPmQKdtewz8YhRyrwk8L/RQwSL6by/EhrKjsbZoWEN3WUma8gwM8BQ4wabSbAaCJL7gItKjcVWFpcJCqg=;n9WKrMUetLd3t8Emnv1djw=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 730
         height: 395
         isCached: true
+  - title: "Vodafone Idea launches AI-driven ad tech platform"
+    excerpt: "Vodafone Idea has rolled out its ad tech platform, Vi Ads. The AI-driven platform will allow marketers to directly engage with the telco’s 243 million subscribers through multiple channels like Vi owned digital media- Vi App,"
+    publishedDateTime: 2022-06-02T04:42:00Z
+    webUrl: "https://analyticsindiamag.com/vodafone-idea-launches-ai-driven-ad-tech-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/unnamed.png"
+        width: 512
+        height: 288
+        isCached: true
 
 secured: "zPCV+qyjSVJ2XdSWJf3XPjUkIUNRMsIX/D1MkllzhP8H/nBdVcB6pf9+hlFrJnxQloF3V+s4SNJxzc1TCwD4TngyT+Cay7OPA8gSuGEcBJsSxvT1cEUHEorQa9ZXoKJ4LVlHaDgChWYkzNY/s8l+9Jc9a3fT1FRXu50Jg/ulxgN4L96BRXkAawRtW7e0IrqfBjnYZxUbvvzRdOLKyQzHiD/m2H6cwtL7cgTYLzNFOcbjdeGyXOVVU/rtPPQem7zc3PoNiCFcaqE1L9Vbhdzpv2PnmnldnqGq1NpB+Axf9hjcNESIYyLaVsHF89NB2XS3sXwEoCum0myaealfXF+7DIXtQMgLDFCeG5+IvqTy2Zc=;NfiVADJykwCtgLZUm55vgA=="
 ---

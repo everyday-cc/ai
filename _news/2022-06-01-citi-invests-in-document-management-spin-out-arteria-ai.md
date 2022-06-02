@@ -41,6 +41,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Citi and BDC Capital Take Stake in Arteria AI"
+    excerpt: "Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s Global Spread Products division, and BDC Capital, have invested in Arteria AI, a provider of enterprise digital documentation."
+    publishedDateTime: 2022-06-02T04:19:00Z
+    webUrl: "https://www.tradersmagazine.com/xtra/citi-and-bdc-capital-take-stake-in-arteria-ai/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2022/05/Anna_Lyudvig-scaled.jpeg"
+        width: 2560
+        height: 2560
+        isCached: true
   - title: "DaveAI, A Nasscom Deeptech Club Start-up Specializing in Visual AI, raises strategic round of funding by Marquee Investors from Japan and India"
     excerpt: "DaveAI, a virtual AI avatar led sales experience platform announced a strategic round of investment led by Maruti Suzuki India Ltd. - India's largest automobile brand, GHV - India's first and biggest industry Co-Creation innovation and investment group for Japan,"
     publishedDateTime: 2022-05-31T00:25:00Z

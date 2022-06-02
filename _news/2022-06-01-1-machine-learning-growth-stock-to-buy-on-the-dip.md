@@ -3,23 +3,31 @@ category: news
 title: "1 Machine-Learning Growth Stock to Buy on the Dip"
 excerpt: "Splunk stock has dipped 38% amid the broader tech sell-off, and here's why that's a buying opportunity. The usefulness of machine learning tools can be observed through their adoption, and right now,"
 publishedDateTime: 2022-06-01T12:16:00Z
-originalUrl: "https://www.nasdaq.com/articles/1-machine-learning-growth-stock-to-buy-on-the-dip"
-webUrl: "https://www.nasdaq.com/articles/1-machine-learning-growth-stock-to-buy-on-the-dip"
-ampWebUrl: "https://www.nasdaq.com/articles/1-machine-learning-growth-stock-to-buy-on-the-dip?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/1-machine-learning-growth-stock-to-buy-on-the-dip?amp"
+originalUrl: "https://www.fool.com/investing/2022/06/01/1-machine-learning-growth-stock-to-buy-on-the-dip/"
+webUrl: "https://www.fool.com/investing/2022/06/01/1-machine-learning-growth-stock-to-buy-on-the-dip/"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - Machine Learning
   - AI
 
-secured: "Hyj+4NDTn8tmY481f6OU+DwupJ8zDUV+xZgXVMShOKsTYrZ+HA3uZRujlWvn/yUo+bvJZHKO25/YqiOUg568TF/tt4IhXhvQ1OHN+qBv362VNQ8WyOAKHqafFePDTHDlujiPCZopV9lVUMOgcyzc2ryigSccJQ8zpOteDp3mbt73+9JeWPmIH4EsF37goOR/AU1whcID1wcH/FZ3g0qjkiiugVA3SqQ7mokgv++/IQL9VuH7Js/Rr69nbzGf6jEvAfzDuw/NLVcMEbEQHx13QgbzaSHSePDL0URubunS1jSvsQu8NTHIktTFkBHBlfIopPEH8os4+6lvRibuH+jkHAQJIi8Dk/DcesnRRwtNflY=;YYIi8OYeXJhsZbgzvDjfiA=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/682498/a-person-working-on-a-digital-dashboard-analyzing-data.jpg"
+    width: 5760
+    height: 3240
+    isCached: true
+
+secured: "zkC/J3LF50PUHBku+DgHXYJi56r24emNlzeNrbnCGq2UPRtcZ767WqYc/eaUqzuN+gq/GtI25XmtjJp83/jAUUxjHHZhukqCqmIcJCPF9UgJjFWEGAYQMwZatd6pA3gQ4/+Ekr/6UZYTm/gmJqSlHO0Ygh8l95ewIL7trJcN4VAZNx9kkz16MJqLzEDiHwU/h7D0wniEsGxa0lrkeJHlqOq7ql6Nfgvl1Qi0YX+FIiN41ciYv1T/vdDy7IpYF+MERkGMeoWFIEqAAzo6E/IaVoBHMMybLRJTUWChbVbjJkrmIubf8xIvpLoYOIkyArMe6sApiZeXAwOTmXOftpKf1cbussaO5JMPU/OSsW+fOD0=;ORDKJfO8IAQ81nMQw3HOvw=="
 ---
 

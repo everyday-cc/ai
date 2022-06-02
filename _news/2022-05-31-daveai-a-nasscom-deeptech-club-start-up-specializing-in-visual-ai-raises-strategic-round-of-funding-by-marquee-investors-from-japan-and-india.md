@@ -48,6 +48,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Citi and BDC Capital Take Stake in Arteria AI"
+    excerpt: "Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s Global Spread Products division, and BDC Capital, have invested in Arteria AI, a provider of enterprise digital documentation."
+    publishedDateTime: 2022-06-02T04:19:00Z
+    webUrl: "https://www.tradersmagazine.com/xtra/citi-and-bdc-capital-take-stake-in-arteria-ai/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2022/05/Anna_Lyudvig-scaled.jpeg"
+        width: 2560
+        height: 2560
+        isCached: true
 
 secured: "fcu3KCSDgMh3G9sFmrYse0BXrWqsZaVbL2KYhNHV6j40Yby7Iulow0TclwF2nQ24XeunvXlatmL8QoWTk3dkmMJP0WBgLuQjxeizUG2E4f02UG3aASBpW83pQRr71rvpeZyMJhMNo3vBOUSFSKU21R7ft2k6XDP7y7h6Iv4GBlGSrigdDhE5gaKXqVREaZJpbXLjFgeON7rCHBs0LQyLRlTbMktp8gkUHgGCzMhY24rnTT2qUgeIMIJPpbt+iUFY8ltOn3AiOD0BQduaKxxXK/7WPRKS0GlmdZbaAeBm2AeE52rLBLNPNRt64VPfHssoRwzKi5f+K6t0zEI8EGzejjl8L26kpj/75tcTOK5ry74=;QDbJyl+jBV3co/XLyuW1Fw=="
 ---

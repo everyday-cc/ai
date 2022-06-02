@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.guim.co.uk/img/media/e5a6ce98207d2c3081b3f504a7bd1d6f878a27e5/0_0_1000_600/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48b04f831ad125f59716e18b7f3d2a11"

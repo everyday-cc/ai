@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace"
-excerpt: "Zeta Global (NYSE:ZETA), a cloud-based marketing technology company that empowers enterprises to acquire, grow, and retain customers more efficiently, today announced the company will expand its long-standing work with Amazon Web Services (AWS),"
-publishedDateTime: 2022-06-01T20:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-zeta-marketing-platform-becomes-first-marketing-cloud-available-/2022/06/01/9613268.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-zeta-marketing-platform-becomes-first-marketing-cloud-available-/2022/06/01/9613268.htm"
+excerpt: "Deeper integration with AWS to bring promise of cloud-based, data-driven marketing to more enterprises. Zeta Global (NYSE:ZETA), a cloud-based marketing technology company that em"
+publishedDateTime: 2022-06-01T22:05:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AWS AI
   - AI
   - AI in Marketing
 
-secured: "IG9c2ldEb0pqU1N8ySFagFhVL0dgZnMGWBWJCtRdPqs1CrIRCiSTyKTOqe/O7IzyEJCRxxto4IUuxwbp4dvJ/tYRM9GTjYEavd4/UOY6rfnGpvnuY08ticKvEXfHn94Qn/IpMeIBLydikIBuDFXhZik0JwfjJIp/ubnB1WEbMs/lMeAVCzsTRmcvzOjJblBI4ElAP97DdZ9W1eaHtqZaLbTpH66uNQ1NI76LNG0exqRX8fOL1Akia+dhcJjk23nBuwVadc5Z4ECjpPuXr+clm/TxYdUyQCL6RXIczWIYv/PNw+ZFxYHbdExQkWrTTNkbKVgKyXV6IvvKicNbfCtBnZGeb7OSzkHXZqHum9VRTmk=;NPmoaAvdq+g03q8WUlrOrQ=="
+secured: "enP/+lrPhPSkdRpmbUthZViCG2Wk5bRxOEJ4s18OAw4TJh3eX+6grQx6GCGfiijJjnw+JbkmHH7f6+z5SQrFLEQwiwVEs8pAnc5XmjKkHUkPbNlF4nzUJSF1xBMfZc8fMOiugWPWqP810g8S3XcpCqvflvBhbKRqRQ0zQF5XsD/eI/5l9+QI0PuTjpCgrCHxwHzbAeUFzTBLR/2wC866JkbpRdx2UDukiQp0O0S+c0rIhU29u/ErZNAsXfEWPlYZ1k0G0kqDrqoiJksT225+8IjEc9hvtAa3TYgm/ve+D7U7+86/FO8rCUx4hhdhYWlcBAaGuOUeZjVLrsaAu3RkJsahPymUQZ/Q+nfBCfTHy5g=;UOcgB4FtYCgJjcYwZZSyRQ=="
 ---
 
