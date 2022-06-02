@@ -398,11 +398,20 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg",
+          "width": 1000,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
       "publishedDateTime": "2022-05-25T13:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -419,7 +428,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Facebook AI"
       ]
     },
     {

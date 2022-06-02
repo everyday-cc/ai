@@ -19,40 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "What’s going on with self-driving cars right now?"
-    excerpt: "One self-driving car company has experienced a setback, but others keep charging ahead. Here's what the major players are up to right now."
-    publishedDateTime: 2022-05-28T14:00:00Z
-    webUrl: "https://www.popsci.com/technology/self-driving-car-companies-status/"
-    ampWebUrl: "https://www.popsci.com/technology/self-driving-car-companies-status/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-car-companies-status/?amp"
+  - title: "Self-Driving off-Road Vehicles Could Save Your Life in the Near Future"
+    excerpt: "Whether trudging through the aftermath of hurricane flooding or scaling mountains for lost hikers, these self-driving off-road vehicles could save lives."
+    publishedDateTime: 2022-06-01T16:50:00Z
+    webUrl: "https://www.motorbiscuit.com/self-driving-off-road-vehicles-could-save-your-life/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
+      name: motorbiscuit
+      domain: motorbiscuit.com
+    quality: 24
     images:
-      - url: "https://www.popsci.com/uploads/2022/05/27/Pony.ai_next-generation_autonomous_driving_system_equipped_on_Toyota_Sienna_Autono-MaaS_S-AM_platform_-_1.jpg?auto=webp"
-        width: 2000
-        height: 1333
+      - url: "https://www.motorbiscuit.com/wp-content/uploads/2022/06/Yamaha-Viking-Side-by-Side-Off-Road.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Why self-driving car pioneers are backing an Aussie start-up"
-    excerpt: "Strong Compute, which allows AI developers to train their algorithms faster, has raised $11m from VCs and heavy hitters in the self-driving car space."
-    publishedDateTime: 2022-05-30T19:00:00Z
-    webUrl: "https://www.afr.com/technology/why-self-driving-car-pioneers-are-backing-an-aussie-start-up-20220526-p5aos5"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 4
-  - title: "Self-driving cars to be tested in Boca Raton"
-    excerpt: "The future has arrived in Boca Raton. The city is now testing self-driving cars with the hope of eventually adding them alongside drivers on the road."
-    publishedDateTime: 2022-05-31T21:36:00Z
-    webUrl: "https://www.wflx.com/2022/05/31/self-driving-cars-be-tested-boca-raton/"
-    type: article
-    provider:
-      name: WFLX
-      domain: wflx.com
-    quality: 4
 
 secured: "BoXX8bhzqKjNECgEhc5eiwNOQN3GpkOqdwvQFcWbLAHM4HYR9xV77IpqlSz2xBTNcJIkTmci6ozTx9gU4Zb4b3MQAt3Bx6xqkYYqpkHy6DyBVxfyK3yVNIgGebt99p4NluJ4tYa5/zoJewDyjnUNBINT2Hu3oGbpJXm3LvV3XBKuh2uGxrAve2xl8ceFuRcwyQgXjAMCRiLY7NfBnXgc+DwrFFSRDV0q4nNRjStYd3pl7YzAYX5S6PnItHP/oFDgBmFwil1vT6cR8iKKHTApGvjaYSWVP6XWvea5vaer0XIdIKr9ZcNMlpdQamIFHZyiy7GSZwEE313vo+a4FpXVekHx2lgkCJX/3GUkbpjTp7xjSmHWoru+cjwr6wafc+fi/ykx9ZxBGlTPAzYkJYItR/HuiGDWZcYmxkURFNa8ALhvBQ9wlGhGmL43OV97yKmFAZ7Nwyvo4nOR02CBkXrnrbdjgnFV7+Y7O3kDQY1/J/00ffsLC1tYzt9AWoQbh++/7S6YjokcpYZsCYTHvVlwCQ==;n47zq2Ts4EEDYSTlhTdp3g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-roboti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
 type: article
 quality: 123
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -127,6 +127,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Leveraging automation, AI and analytics to better compete in the digital economy"
+    excerpt: "How are some organisations using automation, AI and analytics to enhance their business processes to win in the digital age?"
+    publishedDateTime: 2022-06-02T06:31:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/leveraging-automation-ai-and-analytics-better-compete-digital-economy"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 14
 
 secured: "MtG08N/Nu5/vBiEdgt5cxxh4XLI2+MeJnZ6GrRzN36Z6nRmzreJorTQI8wz8rJuRmm8OZGTkmzrwgJUNE/hulOQjLrc3r4c+SC0AvBSPI1UtP4BaJDG8XTZm895rVfh9H8sQ1wR5sSheBi7jShjAihDFeVNuAjz1FmWuCl62KlZD+7+ypdyVeIB3sDWguZLF53OYLXSRnkMhWJmYAxKBRTYHb5qdRMrSG0Sqodz1CQ8f0fUlUaKOv+0jRePDbxAYoVUZJJXF4buZlM0mvZmhAkfJO6baGnWlfSL+a4iBgl13T+QWAXkb+2fPCVxMqusDvMJ4DlQ+9ISrb684QyIbEQCU8OsZREBx2HcdieQjMNSoLGo6qDTEbTILPwx0I5Fo4MM2Q6FEeHl7a2IILG9GCIQcXAmMQnSHKouJn0am/4dl9dmC5fIjCGHss8qFrTQob4f/udE7H7XYnmWGZeYLvMl92MZY7vngC9OQ+FdOHHhRZVG6dcEaesVqknkt1GLwcWd3YLnyte2Cmv1B0pKFNg==;G+kWFZE/ZDvkllynSvIKnQ=="
 ---

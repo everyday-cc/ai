@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facing Facts On Facial Recognition"
+    excerpt: "Clearview AI’s multi-million pound fine for breaching privacy should mark a turning point for a public debate about surveillance levels. By Niel Jones"
+    publishedDateTime: 2022-06-01T13:18:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/facing-facts-on-facial-recognition--6326.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 19
 
 secured: "z7KTtdKCAeogpCadYq3y+/+ILIn/I6yPj0bijrK8QwU5Ef+mGKaQSJOSoepdP3++Tx4xXuHnX57LRfHFDKugWMzR9Iy0H6N9ImMMrVZFiTgoB04GnbCtpC3aqAz4exrUDLNLb+0SlyWWR2Ym2xWvYyxKhz5pt3djyNZ39qjrUrEs6+aZjrY1kr/UbEEcDYs+Bnyn5lZk24jtC9rCD2OScej42pTL7/GO4GPosg1I6ErshmiqxUtJWGStCbiEBCB3Zqlrac/IN3/tP3v7ruziFduJZgSvzJiuGcElgASZI9yLTO2B7D1hR/EVA2d77MbFUGvjKkP+kbOuTIpKwZOvW9mYR5j3fO4+L6Xi3nr+TeHG6bq2+7FtkLCNHod9Cc/FAWuQpsAuO02N1dicm1ACjgxOCLRLzOgLZTGU8TTP+M24e923l+7fz85VQ0RyObgJF4qhP0IYBKLrB3g2Sin6pPfGvGpIp95Z2j9VWt0k6P90PNyStj4/iydpYj3ZKD++jXbx31A6qe3xmT3hSGSQ0w==;xLi4S/CGZhHQybdJfProrw=="
 ---

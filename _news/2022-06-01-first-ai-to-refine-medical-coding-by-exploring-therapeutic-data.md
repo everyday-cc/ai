@@ -1,22 +1,18 @@
 ---
 category: news
 title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians and clinical documentation improvement (CDI) teams with information about missing and wrongly coded diagnoses and procedures to correct the patient's chart in just a few clicks."
-publishedDateTime: 2022-06-01T16:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data-1031502979"
-webUrl: "https://markets.businessinsider.com/news/stocks/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data-1031502979"
+excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
+publishedDateTime: 2022-06-01T16:50:00Z
+originalUrl: "https://wgntv.com/business/press-releases/cision/20220601HK17662/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
+webUrl: "https://wgntv.com/business/press-releases/cision/20220601HK17662/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
 type: article
-quality: 47
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WGN-TV
+  domain: wgntv.com
 
 topics:
   - AI
@@ -48,6 +44,6 @@ related:
       domain: kdvr.com
     quality: 17
 
-secured: "yCBTrjmvkCJvpvcs2PzbkH48EZAIlhgoLOjLQttaVyRB2or0YTOiv4sCVf6Qgddg4tmtvAQqd+1EBzTxCWpsCFvBx/g1tsucmAVkssoVSKyCfhSTG9pC/1aw0TFDNGeNTwGC/kAPdkC6qrp3Epinh8at7innKNu7joYHhQzaNAPPIrw1yiGk7HVcs3wknsmgxRRtDyQHn9F1dbPBizWD9ciNWTDy/bRpBc+Vau5QMSyZQHeyfdnPckL+wfpFP/l978QmkJU0o6ZabgVpBvsJ0zDxqy+Lg35AmKycYEIK3zIJuS6NrHq97N2atbeJLoKbLL9QBif72O2VWQSgrKA8vHpUcy4E5c/mBPuccrPf3Ag=;qlCvO1tAzpr76ri3khY7Vw=="
+secured: "9lCFEPA9VfahN1QcyErlVyImMT0rhmIQV8rJs+VQKyVt41FbEJtSQBZfU2XTg/bhPVLZgQL2KhoCKpb43s5Mlp7BfyJEHMap5wsbzE6aQs6U2ZunZTj4prNQy0bqqDW0QBw3oHWy2noZORoy1Tks4BbmUyntCF2NSPY37JiqE0fA2nMSPnsxs/Tx7x9hjCatF0zNv/0zje+lBAPoz/GZ/agXoErhEZ6R92x3mwm43FAiXy80XP9WV/0Hnq6e56zp7R5rbdvCgiu34EFSAbvINCJAOXAaxHs7C6/tmjHdLyVZHrtl6K4t2V4FhSaySSLDZwHYQGLxIU6xGNkF1d3YW20UiXFZADmmf9Cx/QSvuTE=;3u6yys52eQ45ko9j4Xn7Mw=="
 ---
 

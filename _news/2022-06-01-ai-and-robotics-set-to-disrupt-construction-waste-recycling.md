@@ -121,6 +121,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Leveraging automation, AI and analytics to better compete in the digital economy"
+    excerpt: "How are some organisations using automation, AI and analytics to enhance their business processes to win in the digital age?"
+    publishedDateTime: 2022-06-02T06:31:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/leveraging-automation-ai-and-analytics-better-compete-digital-economy"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 14
 
 secured: "zoSWG8TyIT9hqQi0R7NgRZc1dkhHXBEectwrbKRHZ4pOga9Qm+FjYTEuiCjPitEhgELETXkB755wO8ht1fuJ6fpUy2qZ/vflm8hcfFi8IXHN6AJX6kU5d0HYJar4iKRrhgUHU66k3yI63DQGQ9Qnyn2glCIHOa9ZS/m4vYVtIfC/ewCNg2Fx4h1+A4cjWLSpW+jtXgYLfuVltSX6IqAknO9tC2sZ21wh9RTtHIlSkTc8+TPHyM2HiVs7XiBxCJtkXYz4YTywpZH90xUOmjuuC54DaweLwBCwYxS7CFBJriRmgBGWX+NX6uaahzzQN/GcWD8tyH9RjiBCQzGe4HHtr13dwb5AX8fHWpaDhogtJnA=;ajbbBsSj/awLzTwngAjuTA=="
 ---

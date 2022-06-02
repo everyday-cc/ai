@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facing Facts On Facial Recognition"
+    excerpt: "Clearview AI’s multi-million pound fine for breaching privacy should mark a turning point for a public debate about surveillance levels. By Niel Jones"
+    publishedDateTime: 2022-06-01T13:18:00Z
+    webUrl: "https://www.cybersecurityintelligence.com/blog/facing-facts-on-facial-recognition--6326.html"
+    type: article
+    provider:
+      name: cybersecurityintelligence.com
+      domain: cybersecurityintelligence.com
+    quality: 19
   - title: "KTU researchers investigate the links between facial recognition and Alzheimer’s disease"
     excerpt: "In recent years Alzheimer’s disease has been on the rise throughout the world and is rarely diagnosed at an early stage when it can still be effectively controlled. Using artificial intelligence, KTU researchers conducted a study to identify whether human-computer interfaces could be adapted for people with memory impairments to recognise a visible object in front of them."
     publishedDateTime: 2022-05-31T13:25:00Z

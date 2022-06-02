@@ -49,16 +49,16 @@ related:
   - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
     excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
     publishedDateTime: 2022-05-31T14:38:00Z
-    webUrl: "https://kyma.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
+    webUrl: "https://kion546.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
     type: article
     provider:
-      name: KYMA
-      domain: kyma.com
+      name: KION
+      domain: kion546.com
     quality: 31
     images:
-      - url: "https://kyma.b-cdn.net/2022/06/Screen-Shot-2022-06-01-at-5.46.18-PM-375x225.png"
-        width: 375
-        height: 225
+      - url: "https://kion546.b-cdn.net/2021/06/kion-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
     excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."

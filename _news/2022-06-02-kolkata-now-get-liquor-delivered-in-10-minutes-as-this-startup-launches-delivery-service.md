@@ -1,0 +1,96 @@
+---
+category: news
+title: "Kolkata: Now get liquor delivered in 10 minutes as this startup launches delivery service"
+excerpt: "The service was launched in the eastern metropolis after approval from the West Bengal State Excise Department, the statement said"
+publishedDateTime: 2022-06-02T06:44:00Z
+originalUrl: "https://www.livemint.com/companies/start-ups/kolkata-now-get-liquor-delivered-in-10-minutes-as-booozie-launches-delivery-service-11654148715814.html"
+webUrl: "https://www.livemint.com/companies/start-ups/kolkata-now-get-liquor-delivered-in-10-minutes-as-booozie-launches-delivery-service-11654148715814.html"
+ampWebUrl: "https://www.livemint.com/companies/start-ups/kolkata-now-get-liquor-delivered-in-10-minutes-as-booozie-launches-delivery-service/amp-11654148715814.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/kolkata-now-get-liquor-delivered-in-10-minutes-as-booozie-launches-delivery-service/amp-11654148715814.html"
+type: article
+quality: 33
+heat: -1
+published: false
+
+provider:
+  name: Mint
+  domain: livemint.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.livemint.com/img/2022/06/02/600x338/liquor_1654148920816_1654148921216.jpg"
+    width: 600
+    height: 338
+    isCached: true
+
+related:
+  - title: "Start-up launches 10-min liquor delivery service in Kolkata"
+    excerpt: "Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform"
+    publishedDateTime: 2022-06-02T05:36:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/start-up-launches-10-min-liquor-delivery-service-in-kolkata/article65486682.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/start-up-launches-10-min-liquor-delivery-service-in-kolkata/article65486682.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/start-up-launches-10-min-liquor-delivery-service-in-kolkata/article65486682.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 42
+    images:
+      - url: "https://www.thehindubusinessline.com/news/gczg0w/article65486697.ece/alternates/LANDSCAPE_615/CCI_UDHindu_BusinessLine_UDCA0IOOT_R1422708271_0_27.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Startup launches 10-min liquor delivery service in Kolkata"
+    excerpt: "Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform."
+    publishedDateTime: 2022-06-02T07:13:00Z
+    webUrl: "https://www.financialexpress.com/industry/startup-launches-10-min-liquor-delivery-service-in-kolkata/2546268/"
+    ampWebUrl: "https://www.financialexpress.com/industry/startup-launches-10-min-liquor-delivery-service-in-kolkata/2546268/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/startup-launches-10-min-liquor-delivery-service-in-kolkata/2546268/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 42
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/06/liquor-delivery-in-10-mins.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Startup launches 10-minutes liquor delivery service in Kolkata"
+    excerpt: "Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform."
+    publishedDateTime: 2022-06-02T04:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup-launches-10-minutes-liquor-delivery-service-in-kolkata-8626171.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/startup-launches-10-minutes-liquor-delivery-service-in-kolkata-8626171.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup-launches-10-minutes-liquor-delivery-service-in-kolkata-8626171.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 42
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/10/Liquor-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hyderabad startup launches 10-minutes liquor delivery service in Kolkata"
+    excerpt: "A Hyderabad-based startup has launched its services in Kolkata of delivering liquor in 10 minutes, the firm said in a statement. Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform."
+    publishedDateTime: 2022-06-02T05:37:00Z
+    webUrl: "https://www.business-standard.com/article/companies/hyderabad-startup-launches-10-minutes-liquor-delivery-service-in-kolkata-122060200240_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/hyderabad-startup-launches-10-minutes-liquor-delivery-service-in-kolkata-122060200240_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/hyderabad-startup-launches-10-minutes-liquor-delivery-service-in-kolkata-122060200240_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 41
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/30/full/1640802942-6318.jpg"
+        width: 620
+        height: 464
+        isCached: true
+
+secured: "Nbf4V+anD+a/9uQCVpbonExth8RZ+v1/WX9wfTAIGUcMo9Ak6mG4+BuaWSybpw21+o91W2TJFF4ACvzBpn39a+oa1DIejWKeRxttV/A5Ajk/vChM5DnpZE1cgvVeBoOhru5ceBEF2OSHpobKdTQRcZiWSphQc/uQgRT4uz3supXOX7pPl8UYKicQXJSsnkukCs5zoAUy8GrGyGlCLPqn+G2cMX9JTVYgtaHnLhpdmd3IVDaN5odEcP+bH+uIHd19Zcn48l5NS51dlh7gx0xLB7TLBjnz5zr9Ziyh7+2YuBP2NxKuifEUESfMnsbO8yLdGvNGEnfGfolnxKIQzV7B4k3DPi9hNb/OX4NQh+nsg50=;0PPXEWEBfLy9M+RUb+suSg=="
+---
+

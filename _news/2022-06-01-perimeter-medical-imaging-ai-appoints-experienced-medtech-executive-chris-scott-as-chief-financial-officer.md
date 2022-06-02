@@ -23,6 +23,17 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Perimeter Medical Imaging AI Reports First Quarter 2022 Financial Results and Provides Corporate Update"
+    excerpt: "Conference Call/Webcast on Wednesday, June 1, 2022 at 5 pm ET. Perimeter Medical Imaging AI, Inc. (TSX-V:PINK)(OTC:PYNKF) (FSE:4PC) (“Perimeter” or the “Company”), a medic"
+    publishedDateTime: 2022-05-31T12:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-31-perimeter-medical-imaging-ai-reports-first-quarter-2022-financial-results-and-provides-corporate-update"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 1
+
 secured: "m6Zr3YagI2l64rzyMG8Pt0EdJgCyuu+pAwoTa9zKtfzC4LLpC+ArGUjladoGTHEyZu4eOiFWMI0ZUgv81MMcWSVBmFJy4FyauTo8U5jHKE9eCcmr7i/UzCn+cq6M/94KFN3j0+hRvHGzxs5/p/6gYFLZ2azqeiSCtVBG5k86xj8AojqqFXUcpq3O8BVkRAZhmOa81nQJzgd/F5Ff/3ewk+euARZO91c7NzPDKa3dzjjqsMwi5G/Khj/yGy7FwR3/zpYehvwCdnXRP1Zbvup0gC5pKLNLVUjZvD5s/T+BHhU0pM5KO1galWXLZVufokygSt30EXmJrre6r7NFvIK5JjxteW91TiOPgfRLsmAGmHk=;eM88jMvzD0O5qCpy+gsNeg=="
 ---
 

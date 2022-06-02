@@ -1,0 +1,47 @@
+---
+category: news
+title: "Role of Conversational AI in Healthcare and Pharma industry"
+excerpt: "Artificial intelligence (AI) techniques that allow machines to learn with minimal human supervision have emerged due to the exponential rise in comput.."
+publishedDateTime: 2022-06-02T07:08:00Z
+originalUrl: "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736"
+webUrl: "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736"
+ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736"
+cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736"
+type: article
+quality: 74
+heat: 84
+published: true
+
+provider:
+  name: India Times
+  domain: indiatimes.com
+
+topics:
+  - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-91957736,imgsize-65798,width-1200,height-628,overlay-ethealthworld/role-of-conversational-ai-in-healthcare-and-pharma-industry.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+related:
+  - title: "The healthcare industry has a problem with personalization: How voice AI can help"
+    excerpt: "The intersection of human connection and technology through voice AI holds the power to revolutionize how patients interact with their healthcare providers and payers."
+    publishedDateTime: 2022-05-31T00:43:00Z
+    webUrl: "https://medcitynews.com/2022/05/the-healthcare-industry-has-a-problem-with-personalization-how-voice-ai-can-help/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 49
+    images:
+      - url: "https://medcitynews.com/uploads/2022/05/GettyImages-1314799930.jpg"
+        width: 807
+        height: 432
+        isCached: true
+
+secured: "nOZifmik2gRQTxrhg8ZEXb5P0UMWhk15gbxp1aQn9PsWFVR6nCddzKPBmbRt5YRsYO6GyxRsAsRfIshZ5rxDYhTqdh0eH40Y99/No3MStKnJgco85LleilEkirlHgsXd7KH6T7wdd3enbWMCAoeCLh2h+3bAX1X26CM28T5wR3surDLiGhneIAwnk0smeyoA/N0CZif+xyqBZIEgJQbEZoo7aQJ2E7lkSn7bUiJ3TTo0u3LSz6O+CQ5jCuEjMlfQW+2nbsvNnaOsrxt4vA1J4RZ+xh7ns75VlCuKqQhqpfyHt4f0Zkl1I2LE/AFOyAsqAbag4d8IhX2sZ3ENLVi4i4mHEmYA7uak5JHkL5Y8p2Y=;Pmb+FfgrGrlmJfUMMNk6wg=="
+---
+

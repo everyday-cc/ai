@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-02T05:30:00Z
 originalUrl: "https://analyticsindiamag.com/understand-the-lucrative-career-options-in-the-application-of-ai-in-semicon-with-intel-leaders/"
 webUrl: "https://analyticsindiamag.com/understand-the-lucrative-career-options-in-the-application-of-ai-in-semicon-with-intel-leaders/"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/Anushka-pandit-300x300.jpg"
@@ -57,6 +58,6 @@ related:
         height: 585
         isCached: true
 
-secured: "H4Sre+8g+qrzcymAz1p23eQzYf6FnRssT2a6dK7WpcixolJ4svEjcnGnBcqTVdQ4N3G5oKv/3arl50ZyN/LIw3/ILkAR0kVWjYwjseMIXsuqolWzm60lu/HPdmgn7e5r1rPxO3Rfzv/HXQje2PtNi6VIEMF+v0HfuNRonnV1okk0foliYMZK/0Qcd03TVz0xi9ByK+wY9LT8vIfc2EIuT8+ytkFAREoeUjuHBfEu0owtXFLilj692nLVOOqKCncXj8QAv4pUBF7s9w94OTJbFZawEDoCva4Z0ddGV3tJRwJXoiqUL/Zl77uf7AElCrM3TB+hVNMdjFb5Oih1UpqiW0cS+u7iJElLPfqjJzBe54w=;Htu/0QY+1KakNxvHYQgsoQ=="
+secured: "Bw93Z1rmQ6BawJAEGuEClKMYwu3TKlbJv6SXELUZ2RFSdCS4HwY5eVT+KEHJjnAnmBDeb3mJEHTGkKAVJbOkZEKLiWxnetW9/WaPpgmNlt7SM7TpnXJzBbPfrXLte4NUmli00rQWeYsEy2HjarXYsaCP1l81ShwsGCsjIPrsWpXHeIfm0vesEONqQP2pLUO630Obstdae4Lt1OgeqxhJ/i17d6DhcgFMucbfsXvY5AWI2bLQsYVJ+4kguWSUi8ol3v9IhNFs/o++CCg8wh0JhDCPIl+fLcDoIIvcPU024+/rDyUUTYIu5lyh96wU3i681/NnElonve+h9epppST8IitVgeeNWsOwiU8FTu9q5uGp5ZdUu08YPkwe1KVLWTY0tTO7nGefiV9uNy3ySPbMCuuB6TDhkFVQaJoMr8QSxlaVedobTqa4SY9Ra7eVrZ0HbE8NXUQf3OpGx0DgDgsPLhf46fN4rX/0K7PXsKqqrKFxuGEvLRx/m5975Cej1Kvmy+h53sIhHzWApkAYxK1dnw==;vUUWsF93y6G43UVmpnfS9w=="
 ---
 

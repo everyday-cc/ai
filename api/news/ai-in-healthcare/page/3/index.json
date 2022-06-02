@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-28-inspire-medical-systems-inc-announces-investments-in-ensodata-and-ognomy.md",
+      "title": "Inspire Medical Systems, Inc. Announces Investments in EnsoData and Ognomy",
+      "excerpt": "Inspire Medical Systems, Inc. (NYSE:INSP) (\"Inspire\"), a medical technology company focused on the development and commercialization of innovative, minimally",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/g26856318/inspire-medical-systems-inc-announces-investments-in-ensodata-and-ognomy",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/g26856318/inspire-medical-systems-inc-announces-investments-in-ensodata-and-ognomy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26856318",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26856318",
+      "publishedDateTime": "2022-04-27T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-global-artificial-intelligence-in-healthcare-market-2022-key-players-insights-growth-challenges-and-forecast-to-2028.md",
       "title": "Global Artificial Intelligence in Healthcare Market 2022 Key Players Insights, Growth Challenges and Forecast to 2028",
       "excerpt": "Apr 27, 2022 (Concur Wire via Comtex) -- A recently uploaded market research study on Global Artificial Intelligence in Healthcare Market 2022 by Company, Regions, Type and Application, Forecast to 2028 from MarketsandResearch.biz focuses on industry ...",
@@ -1257,40 +1300,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-algorithm-aims-to-rapidly-diagnose-cardiac-problems.md",
-      "title": "Artificial intelligence algorithm aims to rapidly diagnose cardiac problems",
-      "excerpt": "Medical AI Inc.’s technology will provide fast, accurate diagnosis of cardiac problems, kidney failure, sepsis and anemia using hospital or home electrocardiogram devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d43747-022-00111-8",
-      "originalUrl": "https://www.nature.com/articles/d43747-022-00111-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

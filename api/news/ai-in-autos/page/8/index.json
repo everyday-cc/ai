@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-20-general-motors-acquires-softbank-vision-funds-stake-in-driverless-car-unit-cruise-for-21b.md",
+      "title": "General Motors acquires SoftBank Vision Funds' stake in driverless-car unit Cruise for $2.1b",
+      "excerpt": "General Motors announced it is acquiring SoftBank Vision Fund 1’s equity ownership stake in Cruise for $2.1 billion and separately will make an additional $1.35 billion investment in Cruise, replacing a previous commitment made by the fund in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b/",
+      "originalUrl": "https://www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0322/general_motors.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/companies/general-motors-acquires-softbank-vision-funds-stake-in-driverlesscar-unit-cruise-for-21b.amp",
+      "publishedDateTime": "2022-03-20T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-dubai-eyes-the-future-with-self-driving-cabs.md",
       "title": "Dubai eyes the future with self-driving cabs",
       "excerpt": "aims to overhaul the taxi sector by employing artificial intelligence and smart systems. And as a step towards that, the RTA has already begun laying the groundwork by signing a partnership agreement with General Motors-backed Cruise to run driverless ...",
@@ -1286,49 +1329,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-artificial-intelligence-and-the-future-of-war.md",
-      "title": "Artificial Intelligence and the Future of War",
-      "excerpt": "Consider an alternative history for the war in Ukraine. Intrepid Ukrainian Army units mount an effort to pick off Russian supply convoys. But rather than rely on sporadic air cover, the Russian convoys travel under a blanket of cheap drones.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-future",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/artificial-intelligence-and-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/RussiaDrone.jpg",
-          "width": 1222,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-12T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
