@@ -261,8 +261,8 @@
       "title": "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work",
       "excerpt": "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top",
-      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top",
+      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
+      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -295,9 +295,8 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
         "AWS AI",
+        "AI",
         "Microsoft AI"
       ]
     },
@@ -1034,17 +1033,17 @@
     {
       "path": "_news/2022-05-16-top-8-predictive-analytics-tools-compared.md",
       "title": "Top 8 predictive analytics tools compared",
-      "excerpt": "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot. Visualisation tools can help users understand what’s going on ...",
+      "excerpt": "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot.",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/698085/top-8-predictive-analytics-tools-compared/",
-      "originalUrl": "https://www.reseller.co.nz/article/698085/top-8-predictive-analytics-tools-compared/",
+      "webUrl": "https://www.arnnet.com.au/article/698085/top-8-predictive-analytics-tools-compared/",
+      "originalUrl": "https://www.arnnet.com.au/article/698085/top-8-predictive-analytics-tools-compared/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/prediction_predict-the-future_crystal-ball_hand-holding-crystal-ball_by-arthur-ogleznev-via-unsplash-100811997-orig-100927909-orig.jpgautowebp8570",
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/prediction_predict-the-future_crystal-ball_hand-holding-crystal-ball_by-arthur-ogleznev-via-unsplash-100811997-orig-100927909-orig.jpgautowebp8570",
           "width": 472,
           "height": 315,
           "title": null,
@@ -1056,11 +1055,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-15T18:17:00-07:00",
+      "publishedDateTime": "2022-05-15T18:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "ARN",
+        "domain": "arnnet.com.au",
         "images": null,
         "publishers": null,
         "authors": null

@@ -51,6 +51,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "Global Deep Learning Chipset Market 2022 Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "The Global Deep Learning Chipset Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 report was recently published by MarketsandResearch.biz. The research report provides both qualitative and quantitative analyses of the market."
+    publishedDateTime: 2022-05-31T20:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-05-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cyber Security in Robotics Market Trends, Application Analysis and Growth by Forecast to 2022 – 2029"
     excerpt: "Cyber Security in Robotics Market is slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. A new market research report by Future Market Insights on cyber security in robotics market includes an industry analysis 2014-2021 and an opportunity assessment 2022-2029."
     publishedDateTime: 2022-05-31T10:38:00Z

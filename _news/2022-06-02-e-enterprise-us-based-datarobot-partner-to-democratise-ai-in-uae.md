@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "e& enterprise, part of e&, and DataRobot Launch Enterprise AI as a Service to Regional Customer Base in MENAP"
+    excerpt: "(formerly known as Etisalat Group), has entered into a strategic three-year alliance with DataRobot, a US-based leading Artifi"
+    publishedDateTime: 2022-06-02T11:32:00Z
+    webUrl: "https://www.albawaba.com/business/pr/e-enterprise-part-e-and-datarobot-launch-enterprise-ai-service-regional-customer-base"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/e-enterprise-part-e-and-datarobot-launch-enterprise-ai-service-regional-customer-base"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/e-enterprise-part-e-and-datarobot-launch-enterprise-ai-service-regional-customer-base"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 38
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-06/DataRobot%20partnership.jpg?itok=tHO00tub"
+        width: 4368
+        height: 2912
+        isCached: true
   - title: "e& enterprise, part of e&, and DataRobot launch Enterprise AI as a Service"
     excerpt: "Dubai, United Arab Emirates – e& enterprise, part of e& (formerly known as Etisalat Group), has entered into a strategic three-year alliance with DataRobot, a US-based leading A"
     publishedDateTime: 2022-06-02T09:33:00Z

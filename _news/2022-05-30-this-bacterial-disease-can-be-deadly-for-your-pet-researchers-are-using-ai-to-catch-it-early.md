@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/30/this-bacteria
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/30/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
-    excerpt: "Veterinarians and researchers have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs."
-    publishedDateTime: 2022-05-28T18:00:00Z
-    webUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/"
-    ampWebUrl: "https://www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/life/pets/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 28
   - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
     excerpt: "Veterinarians and researchers at the University of California, Davis have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs using artificial intelligence."
     publishedDateTime: 2022-05-31T09:23:00Z

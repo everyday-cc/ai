@@ -193,15 +193,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Google Assistant will soon recognize your voice"
-    excerpt: "A comprehensive dissection of the Google app for Android has revealed potential plans for improving the Google Assistant feature. Of course, those deep dives into the APKs aren't always accurate and some functionalities may not end up in future versions."
-    publishedDateTime: 2022-05-28T17:30:00Z
-    webUrl: "https://www.gsmarena.com/google_assistant_will_soon_recognize_your_voice-news-54470.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 4
   - title: "Google Assistant might soon recognize your voice even better"
     excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android. According to GSM Arena, it's interesting to see that Google is taking another big step towards improving its smart assistant experience."
     publishedDateTime: 2022-05-30T01:24:00Z

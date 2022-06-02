@@ -20,18 +20,20 @@ topics:
 
 related:
   - title: "The Race to Hide Your Voice"
-    excerpt: "As machines become better at understanding you through your voice, companies are cashing in. Voice recognition systems—from Siri and Alexa to those using your voice as your password—have proliferated in recent years as artificial intelligence and ..."
-    publishedDateTime: 2022-06-01T14:10:00Z
-    webUrl: "https://www.wired.co.uk/article/voice-recognition-privacy-speech-changer?mbid=social_twitter"
+    excerpt: "Voice recognition—and data collection—have boomed in recent years. Researchers are figuring out how to protect your privacy."
+    publishedDateTime: 2022-06-01T11:00:00Z
+    webUrl: "https://www.wired.com/story/voice-recognition-privacy-speech-changer/"
+    ampWebUrl: "https://www.wired.com/story/voice-recognition-privacy-speech-changer/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/voice-recognition-privacy-speech-changer/amp"
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 24
+      name: Wired
+      domain: wired.com
+    quality: 74
     images:
-      - url: "https://media.wired.co.uk/photos/62967caa6ce65415e60080d5/16:9/w_1280,c_limit/security-voice-ai.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media.wired.com/photos/62969e5ac54d2f0c8603ffab/master/pass/security-voice-ai.jpg"
+        width: 2401
+        height: 1351
         isCached: true
 
 secured: "54XUXQzcxJqjg+sZhcvpEi18RbVc9BK4SHNX35+6YljvF7Te2p/VgsrzfVeSKbuKMkIgNyDCE0heYfqhh5WLZM7oAYP5QiKIyaLjFnDPQoqUAKDgCcrcoZsNspEFWX4T3t0p4SiA3sEEoWFLVH/f58VL1R69aUmBkxSW7ku92Ye7u6mRJ6erSqoQF99Z/g5xJWsyJCC8Q9fV1uyjdfXnj9pnsKGQ8pW351GTvCIxIzBNvH9Sdy4sOPK/Fn0aVRcAUDBL7mrskCXubFdeyVgqN19qC4XeNs46hfuVHm7DLwbbxB+tp4NjPE8DBY9dPC+PjDrF57XZemkky8z8TAH+YoD59BughmbfjSK83ctf/Rk=;g+9zhX5GBt8KCnE4j+20EA=="

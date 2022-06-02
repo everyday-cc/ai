@@ -7,7 +7,7 @@ originalUrl: "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_amer
 webUrl: "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Square-Rigger Relics in American Speech"
-    excerpt: "The items are all nautical, but, unlike contemporary relics roped in by our American Wings, mine are far from being museum pieces. On the contrary, they are performing active service at the present time."
-    publishedDateTime: 2022-05-28T17:32:00Z
-    webUrl: "https://www.theatlantic.com/magazine/archive/1932/09/square-rigger-relics-in-american-speech/651321/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 34
   - title: "North America Facial Recognition Market to be Worth US$ 3,907.98 million by 2028: Business Market Insights"
     excerpt: "The facial recognition market in North America is expected to grow from US$ 1,628.13 million in 2021 to US$ 3,907.98 million by 2028; it is estimated to grow at a CAGR of 13.3% from 2021 to 2028. The Business Market Insights provides you regional research ..."
     publishedDateTime: 2022-06-01T07:00:00Z

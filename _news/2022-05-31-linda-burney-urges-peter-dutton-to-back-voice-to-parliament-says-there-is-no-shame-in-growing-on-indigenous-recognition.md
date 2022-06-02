@@ -7,7 +7,7 @@ originalUrl: "https://www.standard.net.au/story/7761607/no-shame-in-growing-burn
 webUrl: "https://www.standard.net.au/story/7761607/no-shame-in-growing-burney-urges-dutton-to-back-voice-to-parliament/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Albanese has pledged a referendum on an Indigenous Voice to Parliament. He may face strong headwinds in Dutton"
-    excerpt: "The Uluru Statement and voice referendum will help define the Albanese government. But it will also tell us what sort of leader Peter Dutton will be – whether he'll see it as a gift, or a political weapon,"
-    publishedDateTime: 2022-05-28T19:00:00Z
-    webUrl: "https://www.abc.net.au/news/2022-05-29/albanese-referendum-indigeous-voice-parliament-peter-dutton/101105084"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 0
 
 secured: "iLHiZNMOhqGqjpxIc5AyCKOo1UI/GksUX2tBcmpedKhFq/4Kg95yV0sYGUoXHyz5AUrtTSGXRd8jDSBFzWIHBu6PmZ5ntc8NxhWhq737vlBaW1vO71OOo8nScWUkpwCVC7iLmx6I9o6XYGLeofErQjJrBC5lcH04QmbpcfgJJ0ca9okj2HP7zb4/aVa4hwh1O6bhi3++f4Ev3YNlH1HuIZ67Grs1iAFN6MOh7u8fxGewpOmaA8AZwrFv6JShsZba5g9OqJpvQyIjwWFII7q/ezlKiSf9TXr+Yytt4uZdpK4i2U9huSSnNbKV1OzDgLSm9etCRkF0k4CTRrzKOk9nVdcize8p+d5rFng+1oaLg40gBgfLDE2IFWWwKKFNiEvJN4R0yOxgTbRctFHX0/eW9a5qgQ6m220fn+SOLobG/Oqd1lsQG+SIeuydKtlwOkUhm8kg3kF9RvO9BC8LhT5uGrjjmOqbWhKVBaFmEz8Z1fHX1xZz7IoBBTMuV5FevR/R86KZpYT/OiPIikKgC+742Q==;opp2zPnwqTm6Hv3RZ0uCxA=="
 ---

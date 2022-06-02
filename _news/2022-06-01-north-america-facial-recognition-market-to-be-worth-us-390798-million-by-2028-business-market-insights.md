@@ -67,15 +67,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Square-Rigger Relics in American Speech"
-    excerpt: "The items are all nautical, but, unlike contemporary relics roped in by our American Wings, mine are far from being museum pieces. On the contrary, they are performing active service at the present time."
-    publishedDateTime: 2022-05-28T17:32:00Z
-    webUrl: "https://www.theatlantic.com/magazine/archive/1932/09/square-rigger-relics-in-american-speech/651321/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 34
 
 secured: "oZPCS/TWlLxqooN4swQFqNK6bYwwjKwqT5rbe3uBfUX6i5PiLAtosEvCQFErCZ+8JyWWYnOw6hWuzjP9H7yDqDVYqOytISPiPX2fL9+Jbam9ekmnmWffMBKRYHpKWhvb4vuZlyfdJlXv4VfYMeTrcoV3QlySGniBZS0ztJL8e2KOFTjSO4194EZHpm+qBVXFiIWN0rpjPWtQ2k2Aav+PA8lV8XRQaLxfMlW+bBoSpTLyt8uUnx+A1skHWIBMBIHw30t2JQo7EU+sq/7VD5fCF58TXg/CARXVFza6kDuu9TVomtqtuSZ1GgCiBIfgbk5LnWEqDHdtVqSrzz+SXi0YbC1SEeOpXToseYSjiNffB3I=;RzW5IHvOteN909rw0pEVGg=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Penny AI Raises $27 Million Series B to Accelerate the Transformation of Social Commerce Enablement Platforms"
+    excerpt: "Penny AI, a global leader in data-driven social commerce enablement, announced today a $27 million investment led by PSG, a growth equity firm partnering with software and technology-enabled services companies to help accelerate their growth,"
+    publishedDateTime: 2022-06-01T11:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-penny-ai-raises-27-million-series-b-to-accelerate-the-transformation-of-social-commerce-enablement-platforms"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "YfcR024+604QLGHhKLs/A3WKSrrRsqcrWFLC3ax0y2BSFCshCKnZe5AMiCQ3AMA3u26mGQEFqrpU2ofUYpl9P6WCGijYUR4qf+NIIKa3BmeJHtZ/gGHYaz63jvhxLKMoQh5y+aigs48xe7FZXy5tOulvzMQ+GMQUAlsRrxl742gQUqHRAdECGQODzCnDD+wPx21qhYrSTKNsbR9peem2SvmbifktryzXEZLeJ+y5UEb6Kx1in0cekVMLZj3/YsOXU9B47dove9AuSjCfvPmlgYyrJ3kURMBBrAVq6C6N9mcwcY1DA3rFVa95Ov2z9MsFvrciBkTyd8FKi+jwU2mXjlZ8TDp3+pbkQJkfEByLp+s=;PwodwNWb9mHEi1cxgypzNA=="
 ---

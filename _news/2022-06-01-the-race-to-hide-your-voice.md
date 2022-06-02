@@ -1,27 +1,33 @@
 ---
 category: news
 title: "The Race to Hide Your Voice"
-excerpt: "As machines become better at understanding you through your voice, companies are cashing in. Voice recognition systems—from Siri and Alexa to those using your voice as your password—have proliferated in recent years as artificial intelligence and ..."
-publishedDateTime: 2022-06-01T14:10:00Z
-originalUrl: "https://www.wired.co.uk/article/voice-recognition-privacy-speech-changer?mbid=social_twitter"
-webUrl: "https://www.wired.co.uk/article/voice-recognition-privacy-speech-changer?mbid=social_twitter"
+excerpt: "Voice recognition—and data collection—have boomed in recent years. Researchers are figuring out how to protect your privacy."
+publishedDateTime: 2022-06-01T11:00:00Z
+originalUrl: "https://www.wired.com/story/voice-recognition-privacy-speech-changer/"
+webUrl: "https://www.wired.com/story/voice-recognition-privacy-speech-changer/"
+ampWebUrl: "https://www.wired.com/story/voice-recognition-privacy-speech-changer/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/voice-recognition-privacy-speech-changer/amp"
 type: article
-quality: 24
-heat: 24
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.wired.co.uk/photos/62967caa6ce65415e60080d5/16:9/w_1280,c_limit/security-voice-ai.jpg"
-    width: 1280
-    height: 720
+  - url: "https://media.wired.com/photos/62969e5ac54d2f0c8603ffab/master/pass/security-voice-ai.jpg"
+    width: 2401
+    height: 1351
     isCached: true
 
 related:
@@ -35,6 +41,6 @@ related:
       domain: archiveofourown.org
     quality: 4
 
-secured: "FF/nA5aHC8c2AcBrAlH9DZI9eirF7R1AF1kpZ4YJg8DeUWEQ3Ugj4UJZlfFjYNJONOoCvbAfae026TBA2oRgMuJQnrC2/z8z55L9VYq8wdFurHHuvEL2qJVcwIdCZv7xfxHWGFWbOnbo1PWOI4tSfcxAXLLEK5VW0pO2pRtFUM2NbZl1ZHEKmzCwKjA0pW94jSepGFAYPBVWvX7Jnvb4NDcBBFOoVruNtajzVzLX/er0cOGPpi/UwBurm69X9/rFBh39HVAgEF98w1pYGRKxhrgfrGwPpZJPHnM/wuFloLLCOhP3tww+MfB3LLi7zdYxdD9qP/4kIzFCKpu2YYu8QjhtTjoUFvIEh5x+qbk74ac=;xxdVnzOwOt8f1t0FmHXnuw=="
+secured: "9NAiR3DNo0MokSjE+uukFJVKueHuXmI8nFIiruoX5cKtch1UgjahFBMJeP+2RIGIIqpx2uWJZ2BRogP4Ultwd9ID5ta005sfSdRQJYHUGhctPvDu9lk0HeDNj5Fq0TTU0dZ34WWNl01Rnse5/eUrxR+8WGHdcC2yE76prkaIu54CD5aliW3S13lOPVIexyzXOwcUz0QR5Qkya+SWzYiuamC9QRoQHcs7JcUpNe7RWPSQ05wt7dIYkbZ742eEw8s/n9qQPDCDkGg+Mp7C+VIaQHDT9CFiNhQQTMOQTuafis67haL/VnerEC+oYEyYzbGkf9bNr6OsbR4yY5+AkK1PhRrB9WMXc0k5tsnJg6MdCVA=;Jwk58f/iQyMpjEfoScXSdg=="
 ---
 

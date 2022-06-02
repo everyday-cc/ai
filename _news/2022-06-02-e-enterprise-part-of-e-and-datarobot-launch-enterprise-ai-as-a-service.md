@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-enterp
 webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-enterprise-part-of-e-and-and-datarobot-launch-enterprise-ai-as-a-service-d5eza33h"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "e& enterprise, part of e&, and DataRobot Launch Enterprise AI as a Service to Regional Customer Base in MENAP"
+    excerpt: "(formerly known as Etisalat Group), has entered into a strategic three-year alliance with DataRobot, a US-based leading Artifi"
+    publishedDateTime: 2022-06-02T11:32:00Z
+    webUrl: "https://www.albawaba.com/business/pr/e-enterprise-part-e-and-datarobot-launch-enterprise-ai-service-regional-customer-base"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/e-enterprise-part-e-and-datarobot-launch-enterprise-ai-service-regional-customer-base"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/e-enterprise-part-e-and-datarobot-launch-enterprise-ai-service-regional-customer-base"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 38
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-06/DataRobot%20partnership.jpg?itok=tHO00tub"
+        width: 4368
+        height: 2912
+        isCached: true
   - title: "E& enterprise, US-based DataRobot partner to ‘democratise AI’ in UAE"
     excerpt: "AI as a service looks to offer firms machine learning algorithms without a huge initial investment. E& enterprise, US-based DataRobot partner to ‘democratise AI’ in UAE. AI, Data, DataRobot, e&, Etisalat,"
     publishedDateTime: 2022-06-02T08:45:00Z

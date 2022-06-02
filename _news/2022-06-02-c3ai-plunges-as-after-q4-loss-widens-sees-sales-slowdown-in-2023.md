@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-los
 webUrl: "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "C3.ai plunges 20% on wider Q4 loss, slowing sales, analysts worry over deals"
+    excerpt: "C3.ai (AI) shares plunged more than 20% on Thursday after the enterprise software company posted mixed fourth-quarter results and said sales for fiscal 2023 would slow,"
+    publishedDateTime: 2022-06-02T11:34:00Z
+    webUrl: "https://seekingalpha.com/news/3844912-c3ai-plunges-20-on-wider-q4-loss-slowing-sales-analysts-worry-over-deals"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 51
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/137336219/image_137336219.jpg?io=getty-c-w750"
+        width: 750
+        height: 506
+        isCached: true
   - title: "C3.ai Shares Plummet 19% on Guidance Miss"
     excerpt: "C3.ai (NYSE: AI) shares plunged more than 19% after-hours following the company’s reported Q4 results. While both EPS of ($0.21) and revenue of $72.3 millio"
     publishedDateTime: 2022-06-01T22:00:00Z

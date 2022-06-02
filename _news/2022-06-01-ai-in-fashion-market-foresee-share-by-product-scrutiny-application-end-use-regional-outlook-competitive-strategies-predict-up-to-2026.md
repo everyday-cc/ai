@@ -45,6 +45,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "Global Deep Learning Chipset Market 2022 Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
+    excerpt: "The Global Deep Learning Chipset Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 report was recently published by MarketsandResearch.biz. The research report provides both qualitative and quantitative analyses of the market."
+    publishedDateTime: 2022-05-31T20:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-05-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market 2022 - Research Status, Dynamic Innovation, Trend Analysis and Forecast by 2028"
     excerpt: "MarketsandResearch.biz contributes an in-depth examination of the offers sector's current situation & important drivers in its insightful research Global Artificial Intelligence Market 2022 by Company,"
     publishedDateTime: 2022-05-29T19:11:00Z
