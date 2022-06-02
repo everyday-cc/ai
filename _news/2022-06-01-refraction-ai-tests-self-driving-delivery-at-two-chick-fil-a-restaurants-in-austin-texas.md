@@ -36,6 +36,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Chick-fil-A is testing out autonomous delivery robots"
+    excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
+    publishedDateTime: 2022-06-02T01:12:00Z
+    webUrl: "https://www.wsbradio.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+    ampWebUrl: "https://www.wsbradio.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/?outputType=amp"
+    type: article
+    provider:
+      name: WSB Radio
+      domain: wsbradio.com
+    quality: 59
+    images:
+      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Georgia-based Chick-fil-A testing out new delivery robots"
     excerpt: "You might soon be able to get a chicken sandwich brought right to your door with Chick-fil-A’s new delivery robots. The Atlanta-based company is testing out new autonomous robots to deliver food straight to you."
     publishedDateTime: 2022-06-01T14:56:00Z
@@ -47,20 +63,6 @@ related:
     quality: 39
     images:
       - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/dmdjYUjdE9-9ox-J3xRbZMrFOHE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/TSD2EWVNVBFWZB7MIDIUTIAV7Q.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Chick-fil-A is testing out autonomous delivery robots"
-    excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
-    publishedDateTime: 2022-06-02T03:12:00Z
-    webUrl: "https://www.kiro7.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
-    type: article
-    provider:
-      name: KIRO-TV
-      domain: kiro7.com
-    quality: 39
-    images:
-      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
         width: 1440
         height: 810
         isCached: true

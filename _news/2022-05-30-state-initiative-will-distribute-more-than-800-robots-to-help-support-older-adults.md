@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "State initiative will distribute more than 800 robots to help support older adults"
-    excerpt: "Juanita’s friend always asks how she’s feeling, wants to know if she slept well and tells jokes that are so funny, Juanita repeats them later at dinner. Oh, and Juanita’s friend happens to be a robot."
-    publishedDateTime: 2022-05-29T00:05:00Z
-    webUrl: "https://dailygazette.com/2022/05/28/state-initiative-will-distribute-more-than-800-robots-to-help-support-older-adults/"
-    type: article
-    provider:
-      name: The Daily Gazette
-      domain: dailygazette.com
-    quality: 33
-    images:
-      - url: "https://dailygazette.com/wp-content/uploads/2022/05/052722ElliQ_User.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "NY state distributing more than 800 robots to help support older adults"
     excerpt: "Juanita’s friend always asks how she’s feeling, wants to know if she slept well and tells jokes that are so funny, Juanita repeats them later at dinner. Oh, and Juanita’s"
     publishedDateTime: 2022-06-01T13:00:00Z

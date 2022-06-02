@@ -40,14 +40,19 @@ related:
         height: 396
         isCached: true
   - title: "ENGIE and Google Cloud join forces to accelerate wind energy development with advanced data management and artificial intelligence"
-    excerpt: "ENGIE and Google Cloud aim to optimize wind energy management on the power markets through an Artificial Intelligence based solution. ENGIE and Google Cloud signed a new partnership for the dev. . ."
-    publishedDateTime: 2022-06-02T05:07:00Z
-    webUrl: "https://electricenergyonline.com/article/energy/category/wind/141/964422/engie-and-google-cloud-join-forces-to-accelerate-wind-energy-development-with-advanced-data-management-and-artificial-intelligence.html"
+    excerpt: "ENGIE and Google Cloud join forces to accelerate wind energy development with advanced data management and artificial intelligence"
+    publishedDateTime: 2022-06-02T11:58:00Z
+    webUrl: "https://www.powermag.com/press-releases/engie-and-google-cloud-join-forces-to-accelerate-wind-energy-development-with-advanced-data-management-and-artificial-intelligence/"
     type: article
     provider:
-      name: Electric Energy Online
-      domain: electricenergyonline.com
-    quality: 0
+      name: POWER Magazine
+      domain: powermag.com
+    quality: 7
+    images:
+      - url: "https://www.powermag.com/wp-content/uploads/2017/09/fc_pwr_030120.jpg"
+        width: 300
+        height: 400
+        isCached: true
 
 secured: "8OnAyd9harW/wO5DQWmHH5eHHURydZvW1OFzEPg6evSYHNGC3GraJv/itHX+vQxUMM/OvMUTa/XtpO7Q4DPYPvEEuiWAQy989DT6WK+uaVoqYL4tFXt0h2FuJ5kxNf8YsQTopvRQvVly+mtDE57xSTZ1V/0UjtLSAwAeWadqAt8cbsZGf5uZj8Hy0IgmR68AfLvAA0BvV4BszbtlerwFO3LMsn3zq/2bh2VfI0nluqrvI69jGjXZHkLH17PDb68aH4HbfMMyJLBp7CO0V/Ifk3ln8iJM/qhY1ejo2vyZkAMKjEBHmkAEJZgooNxkAFPysUlq1KEwCUdQpIHzqR6XE2mvtHl/Px55Is6LtWvdTMXbIIlxtVq0sbq3sebKtDuDmMjz0TarEQ7w0PeMbV6pSxof2t5Yx0TYAwfUVEjSYYOXkyqkuOrbI9YJtMy8j122SC53Jq+YCFgwlpHDwohQYDRblyhaLDmWj2UNPPHlBsHTNZsDiR76F8xdThuMzNkf4tGeDttC0Nw4+gjctxKwew==;VVAKDs9gSuF5P8wmDlebGA=="
 ---

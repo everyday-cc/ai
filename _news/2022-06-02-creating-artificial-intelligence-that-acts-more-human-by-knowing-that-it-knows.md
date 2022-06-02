@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.html"
 ampWebUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-artificial-intelligence-human.amp"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/creating-artificial-in.jpg"
@@ -44,6 +45,6 @@ related:
         height: 802
         isCached: true
 
-secured: "ItsO779Ylj9ZsMsqch0CmXtLDO/3yh9Bef2foIXdh2FkfkWwOpY8UiUSpP3s74yuFpSmyPZ8RZg+NPFrplPD/u1x1HFeRfEs0W8bJ2DXzy58bq4rHrk9MhDMOyBTJDiiVAmwFy3dcUilA1K3Vp1bO9VhqVCoQxAZuzvL5AdJBJJPDXPVwm5h721xdPPqHgvPysRNq2ZuypkuG56jal1x6IOLFPcT/dmAsyJTjnhlSYV1icgfeGkrIWzSVoH7E7Tv3RZ2uXkFqac0FoqymPtHRcvaEk6CfUbIQc7HbXp6sEr2KmlNwthorPdauLz2A2tk4+CihpJtYhAEqr1b/sr58H9mytK5/QQmBqHh3XUv1NI=;51PLRrnUlJRYGC03q7BuvQ=="
+secured: "GKbl6Blsar7tDEoCZ9sdzGjlE8a8ebjtyPvCuAuDvkaLHI2c6D1Lwgx0n7t6P5hwaU/zAWINvX2xonx3rMABvLWsoUNXlWWG+xqjiCjRpfoEFDBrEc7tlahEE00DsuWUlPGF7BzVQzm87OK31RsPNtzBpIuEsqV4Wg4NVi/NRz3/263KNw1hlTpaV4cjsmiKPftUmXPxGYsn2kJXtGxSSKzJrwlImRzklx5ZTnk5s7MAjGA4a4B5WaHC2te8dZt6lbXxjXHsiF4BdbdeZ1hLbN5bruzD/iXen/cEbWBWoGJcJ+Wtdk6OtNUcyhKMSAFKeXNn1vP2ekEiOMzPXIGeYRPZnvy7nnmDOYkR1mM5iMliMaVEIoo2DZCZtT3yhPB4T5wUc/bKzr3zkwSbkaQWN/BvaUNPQMEWMQSulQdw4EHldGnn4TC0JN89SXLFtRToQEycP0M/i4wQpb2NJFI8e86Kqm724x9gBKMa99F0hYbNp+u51JtDP3Nyhm+oFJnzGFvKbBrasCfsFiIC48cUEg==;RtmjIdbYy/i9IMvEOMEZnA=="
 ---
 

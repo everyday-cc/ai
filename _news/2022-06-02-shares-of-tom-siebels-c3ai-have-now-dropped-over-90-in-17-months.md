@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "C3.ai CEO Tom Siebel Says His Business Is Fine, but the Earth Isn’t"
+    excerpt: "Tom Siebel, head of artificial intelligence firm C3.ai, is more worried about global famine than the state of his own company."
+    publishedDateTime: 2022-06-02T17:22:00Z
+    webUrl: "https://www.barrons.com/articles/c3-ai-stock-ceo-tom-siebel-51654190517"
+    ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-stock-ceo-tom-siebel-51654190517"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-stock-ceo-tom-siebel-51654190517"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-556434/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "C3.ai, Inc. (AI) CEO Tom Siebel on Q4 2022 Results - Earnings Call Transcript"
     excerpt: "Q4 2022 Earnings Conference Call June 1, 2022 17:00 ET Company Participants Paul Phillips - Vice President, Investor Relations Tom Siebel - Chairman and"
     publishedDateTime: 2022-06-02T01:34:00Z

@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "Pentagon’s AI, data office fully operational as leadership posts filled"
-    excerpt: "In this Nov. 29, 2019, file photo, a metal head made of motor parts symbolizes artificial intelligence, or AI, at the Essen Motor Show for tuning and motorsports in Essen, Germany. (Martin Meissner/AP/File) WASHINGTON — A top-level office the Pentagon ..."
-    publishedDateTime: 2022-06-02T14:19:00Z
-    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/06/02/pentagons-ai-data-office-fully-operational-as-leadership-posts-filled/"
+    excerpt: "A top-level office the Pentagon says will speed the adoption of artificial intelligence and data analytics across the defense ecosystem achieved full operating capability, right on schedule. The Chief Digital and AI Office,"
+    publishedDateTime: 2022-06-02T14:17:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/06/02/pentagons-ai-data-office-fully-operational-as-leadership-posts-filled/"
     type: article
     provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
+      name: Defense News
+      domain: defensenews.com
     quality: 37
     images:
-      - url: "https://www.c4isrnet.com/resizer/jvz3CgpQPE2tzEAOQ2FpSFPtlxw=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/S5OBSEQZUJBSXN4VP3JD2V7P4Q.jpg"
+      - url: "https://www.defensenews.com/resizer/jvz3CgpQPE2tzEAOQ2FpSFPtlxw=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/S5OBSEQZUJBSXN4VP3JD2V7P4Q.jpg"
         width: 1024
         height: 695
         isCached: true
 
-secured: "ug6ezUvO39GsPTKQU5gfcxjTv13pGjl3cIFgCy87X749U9LT0bHi3unJ7kkYRQLR3GutP7Ph/MfKzksoIJVdIxWhzc4XRHo3B6eTXlO2BGZgUnaA86xBISd7wzXORY1+QjfJUtYK7f7Qxw0QdSqYVi4BqnkLzTc176Fx4F/8U2MxLiqZyv9CVxVuxn87QO2f3NP6nI79gs8YvetFWrzpt9+Aykh4A0a34xYZJRLVKApwnui5iOSyxryaQGh0ox3enyMLyebfQEsoFjFMUGrudbBooD4A7nAEdchyH9kq3cPDpJJOpBsG4ZwLxRHcaP46eMcd2PwCDn6RM4FjE/F67SRW9qXYMU6QHYuQ+eAN6v4=;cE34iW/C1ba1MjxA2oRK+A=="
+secured: "AUHcOZ5uTMhh7BsfA9lIlrfR4dlsHBohFISNbXTNPYtY4Bfp7XxnRBsOBCbAhDROsxIEo3s6u4iMTJYFiKNaWJ0LaeYrVdSdBi4tJ515jFC02VoVHlxjTwczbiCwCEz/CH/NIynrExOWmExATQYIOBvJcto2EFhZETyMB9b4qb8cBVbaQI0oFNYCRLWl90wdPOgbXH6DOpfeQ6IF+NyREA8j22VWerxBq453o5nvVAQ8GNSSkwoFwJupr1igJfltwpqxIO++EAZ8tVAgEMq5WBCSKVLv677qd6V9MfO/FG7FCeA7CKYxJ9ciWN2U/X2DyidMkWTWD7BLxmPEZI54fAGvRdym+3UD3eGf/AZoyBxjENjwaQiC6ktFqxgRzcs2C/PAxr6u+pqvszc5upx+zZvZuIVkCaIE1Sz5r7W8S2JUE9nWMwqH8e0csrSd+2WUNipdV7fzIrzunhnTY02721sgG1zPoj+bMCNl0/f/cFXPxoCYWbrTMOoLAUn4YzHUb7qDMu2IHn3VsCOOVco2GQ==;dpSew+q2E0ZQgyunqaVyGQ=="
 ---
 

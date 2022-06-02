@@ -9,7 +9,7 @@ ampWebUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-le
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
 type: article
 quality: 53
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "BigBear.ai Announces Key Leadership Appointments in Finance and Corporate Development"
+    excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has expanded its leadership team to better execute on its growth strategy. Effective June 13,"
+    publishedDateTime: 2022-06-02T12:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-ed6c5575943946e196c47a57db6f0930"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Citi invests in document management spin out Arteria AI"
     excerpt: "Arteria AI, a document and contract management spin out from Deloitte, has received investments from the strategic investing arm of Citi's Global Spread Products division, and Canada's BDC Capital."
     publishedDateTime: 2022-06-01T10:23:00Z

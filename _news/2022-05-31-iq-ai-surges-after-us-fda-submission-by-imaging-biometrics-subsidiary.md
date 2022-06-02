@@ -9,8 +9,8 @@ ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/983674"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/983674"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Proactiveinvestors UK
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Voice biometrics and speech recognition expand amid countermeasures, bad news for Walmart"
+    excerpt: "Voice biometrics, voice recognition and speech analysis are coming on leaps and bounds, heading to break through the $20 billion barrier in the next few years."
+    publishedDateTime: 2022-06-02T16:41:00Z
+    webUrl: "https://www.biometricupdate.com/202206/voice-biometrics-and-speech-recognition-expand-amid-countermeasures-bad-news-for-walmart"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/23162352/voice-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Consumer applications of face biometrics draw privacy lawsuits"
     excerpt: "While different from the time-and-attendance systems alleged in so many BIPA lawsuits to have violated people’s privacy, the statutes in question are the same."
     publishedDateTime: 2022-05-31T21:48:00Z

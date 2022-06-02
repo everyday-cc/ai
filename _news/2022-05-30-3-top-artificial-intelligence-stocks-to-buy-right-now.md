@@ -1,24 +1,33 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Next, we look for solid companies in growing industries that may have become undervalued. Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take ..."
-publishedDateTime: 2022-05-30T11:08:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
+excerpt: "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,"
+publishedDateTime: 2022-05-30T10:45:00Z
+originalUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
+webUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
-secured: "h8HMThwnbkMSN3r4/KMvHVR6p1bEcll+O085Xojvj7ikyaVBvmjdUuAaZ2uytD6jmEBAo46M2DIIQmx3FsoKff4yBkWfdJT7aEtYDq9qilvdq8wGHHabceOOH+JT+zUykmDQSrW5M6hx4lTdB3c4ifQhWXp/1juxoPxI9vaOXDiAyR0CLtWKZ9NMyGIpPWG7Alv2FTyCFrH+yizSMI0UloMLbmhmp76KAr93kO4Vrh5PDx2GtKypXQjjDa6Pyrj91rgwHqqMYxcbrgT1ldporRE3F8e1YvauiPimjItOBJft+snGRA5Y0YciXdfRasNKu573PjKq5iEYokCZDKo2YToTG+n//MpjVOUhcBM9jCQYKTUxBvi8QHAmQABK2ifYhELljvgGQMmzuxcONa11qnj+u3LL9T3Y1wA55uyhLvSqi3xBDiB36ZHI4xk60naIl8HQSDcnbQGT0wjW2QX+H9ufg6lt5zk+DTiwkb0itYUO5q8xgpMp/5+difDnVgunzZmNmLr0jue6pIT62lYfpA==;GBcZXcXceAxlDuAwhEN2tQ=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
+    width: 2310
+    height: 1297
+    isCached: true
+
+secured: "r+DN5QGV+yFBRiqtK3HkduSjUCs/IscZ9RIPbfMBnbATer5/pQ35Sx6a4j3pw4oxR2H4ZV9FAlmXae9YXXGnoGx7s7Nj57sAclpqZamLUz/kwQZMnVEV55mXeo3COSTYocFa/WBeq7fnPNdS5P8NsU/0/OGnRY/vHMbGOtG5Jt1VNNhdUTeOeh19JmayWTl2o6Hnzhx4f9wGHfCiiwbfgLsttgu9+B+Z2/xa5djFnRlEvohoIKATEeMCZvM3/Aw8EX1BfCUTemkNzhBjp6cgbBbHtfzQzU0m8b0P/8BDghQ8MpB11xBcVAH8LEWE4uZL6W3oxan2IGUSMCaXCdAB0g7MXabSeE0zQwwqzVAQXTs=;F2L/f/AtIZjrOy4i0gy/rg=="
 ---
 

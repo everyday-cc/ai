@@ -105,6 +105,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "An AI-enabled workforce is the future of customer engagement"
+    excerpt: "But when COVID made it impossible to swing by stores, consumers increasingly turned to messages, emails, chats, and calls to engage with companies—creating a heavy influx for customer engagement teams."
+    publishedDateTime: 2022-06-02T13:21:00Z
+    webUrl: "https://www.fastcompany.com/90756245/an-ai-enabled-workforce-is-the-future-of-customer-engagement"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
+        width: 1280
+        height: 672
+        isCached: true
   - title: "Community colleges and employer partners are teaming up to expand pathways to artificial intelligence jobs of the future"
     excerpt: "Community colleges can help ensure that diverse talent can fuel the innovation economy while accessing job opportunities."
     publishedDateTime: 2022-05-31T14:47:00Z

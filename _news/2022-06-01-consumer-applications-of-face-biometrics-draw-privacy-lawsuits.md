@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Voice biometrics and speech recognition expand amid countermeasures, bad news for Walmart"
+    excerpt: "Voice biometrics, voice recognition and speech analysis are coming on leaps and bounds, heading to break through the $20 billion barrier in the next few years."
+    publishedDateTime: 2022-06-02T16:41:00Z
+    webUrl: "https://www.biometricupdate.com/202206/voice-biometrics-and-speech-recognition-expand-amid-countermeasures-bad-news-for-walmart"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/23162352/voice-recognition-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "+RijZoC0gnyQalQTOfv9/KXZl0N8AF7IIjMtQAe/nrN8c9uhieOWm+oRUttM8JUjaFLmHHaUG62PQvQckGUCYDN+OF82+ktliDNH75yy8etNDNd6QrCpu8SMKR3rfjeRhI+7hxRDqzzjqEO7KBJwrm+ecPwqS6MHxX6lCyRPUHxwe612J4Njaqbb37E5/4ggr08jV3fwH5rN8bXMd5XBfNrdd8lBYctEO/8qBlg69Vt1rzlK/AoqDckQ8IKs1dRonSsH/U8VX3K+tW6nqOBXHaT4h0cq+uSC0zZdEWiIFqf7ammyDcXEhuQUdluGMC/2HaXccZK9qK3/Fco9B2KDNSNUPlvJhCK+6npFfw42prU=;lsBe6erXzPXVZEzBLErKqQ=="
 ---

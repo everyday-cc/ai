@@ -41,6 +41,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "BigBear.ai Announces Key Leadership Appointments in Finance and Corporate Development"
+    excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has expanded its leadership team to better execute on its growth strategy. Effective June 13,"
+    publishedDateTime: 2022-06-02T12:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-ed6c5575943946e196c47a57db6f0930"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 47
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Citi and BDC Capital Take Stake in Arteria AI"
     excerpt: "Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s Global Spread Products division, and BDC Capital, have invested in Arteria AI, a provider of enterprise digital documentation."
     publishedDateTime: 2022-06-02T04:19:00Z

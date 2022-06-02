@@ -2,24 +2,26 @@
 category: news
 title: "Chick-fil-A is testing out autonomous delivery robots"
 excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
-publishedDateTime: 2022-06-02T03:12:00Z
-originalUrl: "https://www.kiro7.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
-webUrl: "https://www.kiro7.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+publishedDateTime: 2022-06-02T01:12:00Z
+originalUrl: "https://www.wsbradio.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+webUrl: "https://www.wsbradio.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+ampWebUrl: "https://www.wsbradio.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/?outputType=amp"
+cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/?outputType=amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KIRO-TV
-  domain: kiro7.com
+  name: WSB Radio
+  domain: wsbradio.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
+  - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -97,6 +99,6 @@ related:
       domain: cioapplications.com
     quality: 12
 
-secured: "t9iQN53w9Ug7MZgRhNQoa8ehy+wjHthOHtHWPXn7EBrnhY1YPR7QAmbwm+8Ryb0dg88dAF7zezNJxrJPe0mSM8K5YsMO+6FM3cLOA6ywGC3uLs9xxsyXfrcUK1ESCPRzU5XjErb7pQF3lT/3HSFNpAZM0f4m/JZw2oYx0TbZc/0vvRDyOTRXD7S9PZTC3+Xz5vA6m0u8KZW5VyoDBJ/xqkNb07RcXJAD1SyaL8EclaTFdsJBTe7e6GtLuhnXbkRriA0CBFw8X6Ot9waTi5BoGGU/8KVsNPgeZhu9XnDsu/o+aCiMlXzNLDszj4sT6OSHKjB0uwQp+rGdgiOTEg9v4DQ5XXYq9r+GC/0D0HEr7RIxW1ws21Mb1OiB12lNAsq0p0Slws1XYxBnId3W4xGgF0izIYEEmru39oiRuHYbT/zefLlLoA/bEQxo5ifP6WThgT9QX7NiizGK0mux8/Q3oxvPfsc2Wqs8Ut5CRDkfb65Wykyz0ZbTkeyGwE9G3GKfYT6OSSbmmmyRloW9Oggukw==;SOsfI/ZHeawwIzfLlYU/2A=="
+secured: "J59ysSEzhQiLu2JynyFHLvRnXHhWQevatv2EYugYzc1DRwpkGxYev7VC+FQlG24tp4JF2FMYmCh6OsHP2tWuoCcUeH4hp1Ep9s/9KazwOzUYSB+sk+yCJ1MEXmmOIzc9QOnxj+58D8EObQ+FtwPNxtRWGKpAHDp32M3CsZUaHQ98p6p2jeImONVSOy0QSI+lFH1fhi8MknHsuwvkIdDmTfIPksTsFOH1bnDzPhi2hmBq6UATuPkkK3jUJqiCsD7WWhT7kldAhSIbdheA1IcmcF/z4ep9+yB/ig6qrjKRUOpb2++rHktDF2liQzxHmW9+OB22rmX4psYSmvHPq473Xb3sFcPHop5FM0azgWqYZ2A=;r6eKqHQrV6WDzoZ55DciRg=="
 ---
 
