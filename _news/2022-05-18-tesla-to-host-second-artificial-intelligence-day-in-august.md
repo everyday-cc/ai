@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Tesla to host second artificial intelligence day in August"
-excerpt: "Tesla Inc top boss Elon Musk said https://twitter.com/elonmusk/status/1526685434910212102 on Tuesday the electric-car maker will host its second artificial ..."
-publishedDateTime: 2022-05-18T00:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
-webUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
-ampWebUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp"
+excerpt: "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day ... expand on plans to fine-tune its self-driving technology."
+publishedDateTime: 2022-05-18T06:54:00Z
+originalUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
+webUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - AI in Autos
   - AI
 
-secured: "AELH+QWj6Yld2mn0cYI+14xdBS/mfwSVkmi3jb2Gp6GUXILAVyUfqXAyf+9Ot7Wf6JqoBSvfURYxSXQaULftT2q3LKdt9k9y7QZFkPrhZkE5GmScHj5uJz+0Pioiv4bOHMvNMNsBbc/XSLq/02dV+JWAQ6YGh/kJh++ZX6mgPqvVUrKkcO9iVzZS0keRI0OmmFbzOpa0flO2zbqoEA/0t/iTuJ01PE5TVI1uerFhoKnMcwC4VMEfysBTejMPpZvSmqSr/ZYPvlukgUMdPs6TT5y2iQtX87BeEeQQbmUSk+ymWGIESvjVJp0Rr0mwnza78RzAe2EN0vHFw0NKS9S34UDTSQkmxubFL+S9nwWgT8Q=;VMmplXXbv+YJ7hBEKthUZg=="
+secured: "9c+26SHWpCh8MK6nIUBrSpDTAmepE/qSHv6qDCy0SjLzZpaHTUhJDz22awByP8J5aJsPLXnQoclkIyxyov3v89yFO3tgcLHKgPn8YQZHQZWCTIiiDjL2VOK6hzlFgFzhzIpImWdFOuH6AU+HbEOhHoraq2cVIwMeIPp2GJdylhym8dvw+7T215Olc5CMiCqq2/dCC/q+Ub9JqNUNQakjcLf8updWVtvrv+psuTgRbJJkoeRkohuIKZzKPtZj1/Grfxr+Bk9kZrx82PUSZeeQG80WnVP0xle9AY87zMXNCETEPcytKVs129XIUGRdEMQOOknmIYO4MWXfnlg8R7oyljxO12podc36td9uGxaDCe8=;67IJg+k7kpqv6xJsnHHuMQ=="
 ---
 
