@@ -35,6 +35,22 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Digital Documentation: Arteria AI Receives Investment Co-Led by Citi SPRINT, BDC Capital"
+    excerpt: "Arteria AI, a global “leader” in enterprise digital documentation ... also represents a great opportunity to support a female-founded and led enterprise FinTech company.” This investment co-led by BDC Capital, which “helps develop high-growth ..."
+    publishedDateTime: 2022-06-03T01:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 50
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/08/Digital-Dollar-USD-Washington.jpg"
+        width: 1080
+        height: 1080
+        isCached: true
   - title: "Citi invests in document management spin out Arteria AI"
     excerpt: "Arteria AI, a document and contract management spin out from Deloitte, has received investments from the strategic investing arm of Citi's Global Spread Products division, and Canada's BDC Capital."
     publishedDateTime: 2022-06-01T10:23:00Z

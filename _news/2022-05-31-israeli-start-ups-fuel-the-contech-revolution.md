@@ -7,7 +7,7 @@ originalUrl: "https://blogs.timesofisrael.com/israeli-start-ups-fuel-the-contech
 webUrl: "https://blogs.timesofisrael.com/israeli-start-ups-fuel-the-contech-revolution/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Israeli robots to be care companions for 800 New York seniors"
-    excerpt: "Desktop robots developed by an Israeli startup are to become care companions for 800 seniors in New York. ElliQ, who takes her name from the Norse goddess of old age, actively initiates conversations,"
-    publishedDateTime: 2022-05-29T08:42:00Z
-    webUrl: "https://www.israel21c.org/israeli-robots-to-be-care-companions-for-800-new-york-seniors/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 39
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2022/05/ElliQ11.jpeg"
-        width: 1920
-        height: 1282
-        isCached: true
 
 secured: "l/+vBSNolkj/UtPRwAfGLV8qCJZdz4uUNofxDUXtaoXYKUyAxFTyn/m1a/IGfrO3zV/utZyIWfuDdpGtVVeZWTTupJBJh2vuNYM5mVO7P6eSpAGUqFe2i/GUvfJHheCpeMR34Vmon6JQxK8DSNdfskAOVBMc1qT8QSpa+H2+0agotR86CW7n4IjnaB+lT5o2sH7dJtNcMdpnEFSnICW7Uvnu5ducp2OiXSOqPCyYj3n0p153IRNtoDMPoJTdZ7IfIKpdUd+IzK5DO1HcV4Yl+NGsvAPGLdi9JJ1foIF0P9GlqZ9E77IDtGRjePu5WvYes+QrVMhCy9oZg2NqxV7Y/8sq6U37Pr8DwEPyAnbvLgI=;IO2EdAnqPSOEgB8FnY32kA=="
 ---

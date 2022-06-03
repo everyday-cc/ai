@@ -34,6 +34,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Can the ‘Gato’ AI model out-perform human intelligence?"
+    excerpt: "Deepmind, a subsidiary of Alphabet specializing in artificial intelligence, recently presented its “Gato” model. This so-called"
+    publishedDateTime: 2022-06-03T00:30:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/06/03/can-the-gato-ai-model-out-perform-human-intelligence/10416"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2022/06/03/can-the-gato-ai-model-out-perform-human-intelligence/10416"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/06/03/can-the-gato-ai-model-out-perform-human-intelligence/10416"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
+    images:
+      - url: "https://cdn4.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2022/06/03/20968.jpeg&w=800&q=100&f=jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "z93yHp1jlnBDsBkf3urC19NYL13YFw90oXjArZrjuWJy9gISAA7UKwd1FNz4dPEuLEDKhbbPS8sRJmiuyLnU3PNwYRHN28ZJfO7FYVxvW88IaYSvHeqGBM7/3oHwiRtrKCcL2nhtcgFA5RsXFD0KwnmZO63eMqx+MaTnY3cMSdkFtXpphVAdCjPjUBe7EEnKqQ0ilPvkHHguljClUrllvVi4fJSnJjttKuw7h0a9+NUO0hr1lVa6LHkGBlq0EqhvmP4PiguFhNian7A4IIs8qU1wx3DKaZ3b0Ewnhjf1mQObkntNxX1kzxqUJeSJ6ZumHszYKvnxLxyEKRoEtsZeJQx2D+mx9aCGERuPvbYg0zc0OK9xVbyxIRryztPjDY21vPgav3B0GkyGiaarMbsjW3eb7EBBXl9HM+M4L+u9QczgDpRGzHjVnkdE8vQ4CiFzAJ+pKtjpiO8PPyQUKKaKPdH06i28njmzun32je33y8oWFHuyPEBUWxe+EPX/PRE4QO1xmUFegwNllO8D7n4OVA==;QSu4t0RygxKfu9DPzP3pag=="
 ---

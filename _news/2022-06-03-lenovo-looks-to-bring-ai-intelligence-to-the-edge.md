@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intellig
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can the ‘Gato’ AI model out-perform human intelligence?"
+    excerpt: "Deepmind, a subsidiary of Alphabet specializing in artificial intelligence, recently presented its “Gato” model. This so-called"
+    publishedDateTime: 2022-06-03T00:30:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/06/03/can-the-gato-ai-model-out-perform-human-intelligence/10416"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2022/06/03/can-the-gato-ai-model-out-perform-human-intelligence/10416"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/06/03/can-the-gato-ai-model-out-perform-human-intelligence/10416"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
+    images:
+      - url: "https://cdn4.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2022/06/03/20968.jpeg&w=800&q=100&f=jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Unanimous AI and Agora World partner to bring Swarm Intelligence to the Metaverse"
     excerpt: "Swarm AI® technology empowers collaborating groups in virtual worlds to amplify their collective intelligence and generate more accurate decisions, forecasts, evaluations, and assessments. Swarm Intelligence, the science behind Swarm AI ® technology ..."
     publishedDateTime: 2022-06-01T11:48:00Z
@@ -41,6 +57,6 @@ related:
       domain: wfmz.com
     quality: 12
 
-secured: "EnUXcQiajWdkrHFtWUmwXxfF2S8pMAqcFGbY8uq+lQ0HkUzbvEocvYijlNcgRgG5kNVqXAECOQ9RpsOd95+VXd5ZWYpOYm30GPP+tOPNgpkYIcm9zXEAhsZ9jzW1/p33iSfnKWERLRoyqg4YTvE19DHj21KlUzkECfVB3L0K1lZi5n5j/lLuvt4BzFjqsJ/Lgs01SBnij0VbNkJFiLuJorY6CV6HHXgCZMS4NZabF8Am7FMKKsr8+2mqWZ3p9k5EUPpLG008TkOsOlmjsNqks2MXWTASxPd3KQQkiOKB/psnP+ngkpYSkKSksQ8aKeuHq1gNV6qJgDk3A9STlQP5HCCbNPvTSvANd9EPibXBxfI=;K/Dl7cda3a/qR6t0ty5DiQ=="
+secured: "BJZhFHUTrHXfQ42ZBRwRoQ87+Tyu1FYx0aXRsJtJRkHSwTnQB7FJvEm5iO2eVhKBKGjAU10DmmrxwjjJcV6a1y8WNs1Pql7Tz7LM2FrwY8Y/TkkEYibA3BEmKz4IHFQumq/BhfEEbObCEg37XHOWu1PbY8avaPE+rVX4SIK20+XENrMK415yHNgSiLJJOMvvinmSZF9zo6VujBZ9vBWbMVnYoj4ESArNftsojvDQushCkC4MAVJQvW0+P4C84Xbv1+XVrAQMalQAAjUGVItAHvq7La7ZIUEE7lTMA2Omz8off4dkSBESlGiemrGcsu12uifJy5pcUtvWU0FvShMiDNLnbrUJ//krLJ0XBdOn5UuKmWPO42CRqbl+Vp0VhxNeCw+12Vwz3zHAE6acIMTg7j8fL5Y7XMVxE/SSpjO7HlLkCPfZCyzkHKKIyZdMDO8iJYy+ni3L/wRRcS59D2mMJjp+JlvvK8wlNHXVjuStP9Ei4aW71AQt5ifUBvzWG7j3U/9cfewr35KyQCU9kDWAjA==;IiGgC9YbrCPFxmWFYXuviw=="
 ---
 

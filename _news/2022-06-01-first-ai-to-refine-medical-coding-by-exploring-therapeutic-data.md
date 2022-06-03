@@ -44,13 +44,13 @@ related:
       domain: zdnet.com
     quality: 47
   - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians and clinical documentation improvement (CDI) teams with information about missing and wrongly coded diagnoses and procedures to correct the patient’s chart in just a few clicks."
-    publishedDateTime: 2022-06-01T17:48:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-b0088696f131f666f52dc663eba01be9"
+    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
+    publishedDateTime: 2022-06-01T19:22:00Z
+    webUrl: "https://kdvr.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: FOX31 Denver
+      domain: kdvr.com
     quality: 17
 
 secured: "JYxI9pesvhMxiFTt0pLjQN7nx61Scyx8yLsxnYXkdRIOlOmzP37mSPbHWZhRkgCM3yYjy4AnHmP7DPVAB8+sgpVa77u4tgn7u8oePiFzInIizfXCiaYb/WvewzFOBt8e7CiiNeDfI6KByABIPTo+OByjKfi1ibIwFhWQXR/UBfrVsvPe88rLfYEOENA4k131RAGljOZZoQHUyXvev9XQR4SAIwro6DUUOvf5B6tsXCt9LzNKi/0KIzPCQwlOEI9TWE7ccsplGr4bW3ts29iJoN0Jn81tOKvZDHwgMUhjGXb+sBBwZIbaRTMZ3Aa9J77x63KKDKCFxeTbg14quiju4KmoVtlkeQraCDs5V3YAtSM=;BtcXNjuaPxcWN4Jsi7djBw=="

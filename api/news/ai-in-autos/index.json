@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-03-elon-musk-says-tesla-ai-day-pushed-to-september-30.md",
+      "title": "Elon Musk says Tesla AI Day pushed to September 30",
+      "excerpt": "\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,\" he wrote on Twitter, almost two weeks after he announced the date of Aug. 19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/05/Elon-Musk-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html/amp",
+      "publishedDateTime": "2022-06-02T18:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-argo-ai-launches-driverless-vehicle-testing-in-austin.md",
       "title": "Argo AI Launches Driverless Vehicle Testing in Austin",
       "excerpt": "If you live in Austin, you could be sharing the road with driverless cars. Autonomous vehicle company Argo AI recently announced it's launched driverless vehicle testing in Austin and Miami.  The Argo test fleet is currently made up of the Ford Escape Hybrid and Volkswagen's all-electric ID.",
@@ -597,40 +640,6 @@
       "provider": {
         "name": "TechNode",
         "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-artificial-intelligence-is-breaking-patent-law.md",
-      "title": "Artificial intelligence is breaking patent law",
-      "excerpt": "The patent system assumes that inventors are human. Inventions devised by machines require their own intellectual property law and an international treaty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-01391-x",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-01391-x",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
         "images": null,
         "publishers": null,
         "authors": null

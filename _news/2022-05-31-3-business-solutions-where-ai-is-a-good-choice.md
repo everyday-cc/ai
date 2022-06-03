@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3662071/3-business-solutions-where
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Redefining success in business with Artificial Intelligence"
+    excerpt: "At the process point, the role of humans is to maintain ethics and integrity by responsible use of the machines. Read Also National Technology Day: Five ways in which Artificial Intelligence (AI) has made an impact on our... At the output level keep a ..."
+    publishedDateTime: 2022-06-03T01:31:00Z
+    webUrl: "https://www.freepressjournal.in/education/redefining-success-in-business-with-artificial-intelligence"
+    ampWebUrl: "https://www.freepressjournal.in/amp/education/redefining-success-in-business-with-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/redefining-success-in-business-with-artificial-intelligence"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2022-06/805ed11e-da5f-4b0c-ad73-127636127ed4/artificial.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 959
+        height: 582
+        isCached: true
   - title: "Investing in healthcare AI a 'business necessity,' analyst says"
     excerpt: "Health systems need to invest in the future of data, such as artificial intelligence, to reduce errors and provide better care, a Forrester analyst says. \"Healthcare organizations have been attempting to leverage massive quantities of data to their advantage for years,"
     publishedDateTime: 2022-06-02T21:29:00Z

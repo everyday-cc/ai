@@ -1,22 +1,28 @@
 ---
 category: news
-title: "VHC Health Becomes First Health System in DMV to Utilize CERTIFY Health's Facial Recognition Technology"
-excerpt: "CERTIFY Health is excited to announce that VHC Health (VHC), a community-based health system providing medical services to the Washington, DC metropolitan area, will be implementing its positive patie"
+title: "VHC Health Becomes First Health System in DMV to Utilize CERTIFY Health’s Facial Recognition Technology"
+excerpt: "CERTIFY Health is excited to announce that VHC Health (VHC), a community-based health system providing medical services to the Washington, DC metropolitan area, will be implementing its positive patient identification (PPID) using facial biometrics at all VHC locations,"
 publishedDateTime: 2022-06-02T15:36:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/b27526220/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-healths-facial-recognition-techno"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/b27526220/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-healths-facial-recognition-techno"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-health-biometrics-07b0889166a1474b8229fcaa3a4bca4d"
+webUrl: "https://apnews.com/press-release/business-wire/technology-health-biometrics-07b0889166a1474b8229fcaa3a4bca4d"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Technology Trends in Healthcare in 2022"
@@ -43,6 +49,6 @@ related:
       domain: insidermonkey.com
     quality: 19
 
-secured: "ubSi2L4MYWFtDMKguJfNSSirJOSIZWFYCAekrp1ByMWZc8LcOnYy38F1SxtQ1kTyouQUor8rmzv2gKvjhuWEMeaVARmc6eNoN1KU3XE2oGWuoQSGE1+sTSden6kJ/qTvJIHcrxAP14H2vm5Rm1pynxp6K1kMtLxItY+K0WRVEzQI7oJMJekR9oJqmZzHrU2YfCdlHB2gycOi505QQw4tfLyYWXEJeRtQ2AUj1Dv9yoYHEhqQrRC4QPZ7sWGLD+0NyqvpK3d8kf3XGSErnFli6IyyCDaLqJ4r+wPAO6wVkGEPKZInA44J2koqNrGTBKri97PfKC1otbs3MCqCQGG8BHurR0IWLLOaH5rG3LiiGz4=;k8Pe0OOw5Ho16DIG/Az8yw=="
+secured: "9TMRdQqb6FKclidIcvMBqwjtsErGbPxeH0r1UAK0OrMSHM5yjefer8ut5mxxHXNnHytFEBjf9JLsXyZWvxHig9kcbjhji/cFL0OEGnVNl7ypW7x/YAXskhOgJA4vSHuQSlfBnEPzY/Ug5DSbw97yEhXzvFh1pR7jnkdQWmHNp1KsPTFEb40UsQAU+tNuvAMd8scM9tNjCf5Uveia4C4MLiTKF75/7kclMnZVI5WNETvNRz2U/qAMJsl83dpvQjEWRdFMH7s/exwiVNZfD5sxouPFE3T0pu0i99+B/sg25r3a8VyMKMNYDZbpAcHJ4w1DJfVTAX8NFZ4muymgr/2fhAJVIWv0rsdX7jJ8S6xpoO4=;O7qV1B58bN5PXB6tqKUmsA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-05-31T15:38:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/science-technology-supercomputing-1dcd46a2d30441f2ac8d8dab9f27a64b"
 webUrl: "https://apnews.com/press-release/business-wire/science-technology-supercomputing-1dcd46a2d30441f2ac8d8dab9f27a64b"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

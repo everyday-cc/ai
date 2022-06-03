@@ -165,20 +165,6 @@ related:
         width: 900
         height: 650
         isCached: true
-  - title: "Google Assistant could soon learn to recognize your voice"
-    excerpt: "Code found on the Google app indicates that Google is working on having Google Assistant recognize your voice."
-    publishedDateTime: 2022-05-29T07:54:00Z
-    webUrl: "https://www.phonearena.com/news/google-working-on-assistant-voice-recognition-feature_id140429"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 24
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/140429-wide-two_1200/Google-Assistant-could-soon-learn-to-recognize-your-voice.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Assistant might soon recognize your voice even better"
     excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android"
     publishedDateTime: 2022-05-29T14:14:00Z

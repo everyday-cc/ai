@@ -1,18 +1,18 @@
 ---
 category: news
 title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians and clinical documentation improvement (CDI) teams with information about missing and wrongly coded diagnoses and procedures to correct the patient’s chart in just a few clicks."
-publishedDateTime: 2022-06-01T17:48:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-health-b0088696f131f666f52dc663eba01be9"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-b0088696f131f666f52dc663eba01be9"
+excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
+publishedDateTime: 2022-06-01T19:22:00Z
+originalUrl: "https://kdvr.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
+webUrl: "https://kdvr.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
   - AI
@@ -53,6 +53,6 @@ related:
       domain: wgntv.com
     quality: 17
 
-secured: "1FJBz9H1BEVKNEOeNFiu+F/k8l6nLrKS03akCNotfh/tpVrNlQjEcXIHou+PbdQpE3y8UqvQxVgSAWDH9WYk2eNIOcAgV+a2moustC/fIg5ZTb6BIzkhmeF1902XteSYnpxsJdTxiwIWupncj3TymmbGUoh1YWPsynlTdk3fFX7CU4fkt5OVnSLWuf4TOrbSsC8uJOygYqtAMIdLUAB27B61W5Gq4bKqhgZ/n09qXr6n2RykH7k0/bLsUdTXIjX7WqhaRa/YRuIN8RvNFO4zvRJnKSAY529iJA4Q7n/dGjvgJp4bTuYEuKbb2at+YtSr3rC5FDGl6UDZxZ9oA2Cu7lsztLvJYcj51QXRJV5HERM=;9A+Q0JRavHBw+QLOpLP3aw=="
+secured: "LXcpRE8Dyw9anwSU/a/eipBFUQ5dzgzbi6o78G0/soOwWpOWX356x6D9aQEgqANPt7vW6+n00MLMZB9Axr1gavsI1Wa0vGDK2VdAwjIrucH2DN6V+mnFrs5wBiRLgH2lXzydOUZDXZG3Ey4zCxEEoFgu6djdYx/1tVV7tm+cA4Uv5I8R3NDwxEkQBqMMt0nNz3cgs9MD2zvtdknodO4iG9JlXeUmZiv9kEqbHYKBFmAjTcwXSBQpDstXW5UAINvBz+ECO/5GLa9oyP82y4ZcgILW8rgtYda3NH1JJHRhUxrnMMfccY9abYafS6hs2nKBDTpcPegEA9qbc0XBvIDldHD76TRfPpeaafiuel0OuN4=;YdAmotRSGcrW2jkNlaABvg=="
 ---
 

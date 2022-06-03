@@ -41,6 +41,22 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Digital Documentation: Arteria AI Receives Investment Co-Led by Citi SPRINT, BDC Capital"
+    excerpt: "Arteria AI, a global “leader” in enterprise digital documentation ... also represents a great opportunity to support a female-founded and led enterprise FinTech company.” This investment co-led by BDC Capital, which “helps develop high-growth ..."
+    publishedDateTime: 2022-06-03T01:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 50
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/08/Digital-Dollar-USD-Washington.jpg"
+        width: 1080
+        height: 1080
+        isCached: true
   - title: "Citi and BDC Capital Take Stake in Arteria AI"
     excerpt: "Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s Global Spread Products division, and BDC Capital, have invested in Arteria AI, a provider of enterprise digital documentation."
     publishedDateTime: 2022-06-02T04:19:00Z
