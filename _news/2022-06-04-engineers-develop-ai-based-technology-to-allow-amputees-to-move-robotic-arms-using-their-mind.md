@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T17:55:00Z
 originalUrl: "https://www.medicaldesignandoutsourcing.com/engineers-develop-ai-based-technology-to-allow-amputees-to-move-robotic-arms-using-their-mind/"
 webUrl: "https://www.medicaldesignandoutsourcing.com/engineers-develop-ai-based-technology-to-allow-amputees-to-move-robotic-arms-using-their-mind/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Medical Design and Outsourcing
@@ -14,7 +17,14 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
-secured: "5Jhljd43gqjHMuJyScMgBzhGmbMGa9whQmYB4/9r4W+DMQ672/99XDUzIp1EjqNcgoOTNIc1c1XREKW3kJ/zd7mQ02jKh/ZD56Ztnf6aRfxkTrgmLWOG8vg7iH1sUhwi39pTARaWzwCaViWmeDaCciN8MiPtRX3+Wl+JsMFgmmD/4wTQjWZEEavRU7ZcyzqK5b9yTuIEzFko6bgZfRVgr59cwA/nlSYtyFs1NPiWCyIETVM0VgkxSYTSGFqqXVgoRw2iCJVEnNbi8sVDzjBY3cyvAttE1ZiGosRfJK2Ij7CGoe1lU2ztLGeL9qa3Hx/HLEMIoMf5T5fKc+gePVN07volTQylkPk50o8U+Y18YTohA/P6dk+5xdbjGFCpVXew87mkniTInTydGww5+CftubeQOwo+U+eenchzKHHphzfQUMVQMJ+JC5g41dkxlpTuj+al18yx4y3587XNpKPNtUJMCCmy8EztC0X3R1U81R6JT/sXpepgDC/uiWwQik88CGBFzanx/AqgLLSo4XVSAQ==;bNyAZFYWqyUTqBqtknfepw=="
+images:
+  - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/06/UMN-AI-brain-signals-robotic-arm.png"
+    width: 770
+    height: 500
+    isCached: true
+
+secured: "2OvGAxoCe5OiFep6Viz7Ck9oHd0c9u6VO3DjDbgytgPpmc+bs0zSD+Gf/cD4hrAcREK+Ih4hVsaKih4qVPqY7MUvuHn68wRVxWR1PpfwHroGIIx2PTBNFPXepNa3JICe2jh4nFgGr+sIm4YR7s6C9OQuJ+vM0JogYMeMIym4fPg2+oQaFK4BU0NHdpikyh2EZvjLg0K5t2gfjQO4GFASH2aLenQFSfqZPau7m4DCYOlmqwWdV1mFQ3KvGZFjEKFEWQvyP1F/IVQ3gmqxE0tPt1Arn+HmED+En60ZVcmhojluR5tKcJLK1zSn5Cj7wEBjVngSDbmdva35Vf6qTjLaZBKVqPZ0qD0sTSIXw65L6Ow=;XmXOotjKaCJt4IzJwFaDig=="
 ---
 

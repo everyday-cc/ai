@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-05-socure-and-servicenow-create-banking-experience-of-the-future.md",
+      "title": "Socure and ServiceNow Create Banking Experience of the Future",
+      "excerpt": "built with ServiceNow Financial Services Operations. Socure’s graph-defined identity verification and fraud platform combines advanced machine learning and artificial intelligence with all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/socure-and-servicenow-create-banking-experience-of-the-future/article_22ac31c6-09a1-55f0-8e35-e039a77e2e25.html",
+      "originalUrl": "https://www.eagletribune.com/region/socure-and-servicenow-create-banking-experience-of-the-future/article_22ac31c6-09a1-55f0-8e35-e039a77e2e25.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-pioneering-banks-to-speak-on-digital-transformation-ai-machine-learning-and-analytic-innovation-at-fico-world-2022.md",
       "title": "Pioneering Banks to Speak on Digital Transformation, AI, Machine Learning, and Analytic Innovation at FICO World 2022",
       "excerpt": "Industry innovators and practitioners will share insights in financial services ... The event also features session tracks covering: AI, Machine Learning & Analytic Innovation: Includes best practices for using AI responsibly and how to use ML and ...",
@@ -1244,49 +1287,6 @@
       "provider": {
         "name": "List of Banks in Belarus",
         "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated.md",
-      "title": "Even Financial's Embedded Finance Marketplaces Surpass $5 Billion in Credit Facilitated",
-      "excerpt": "Leveraging machine learning and advanced data science, Even solves a significant pain point in financial services customer acquisition by seamlessly bridging financial service providers and channel partners via its industry-leading API and embedded finance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated/article_dab178ba-e2bf-5aca-8da1-ec3c829808fd.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/even-financials-embedded-finance-marketplaces-surpass-5-billion-in-credit-facilitated/article_dab178ba-e2bf-5aca-8da1-ec3c829808fd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/0a/40a77029-ab72-5293-9a7a-85d19c7f6454/6076f5942ed8c.image.jpg?crop=1486%2C780%2C507%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

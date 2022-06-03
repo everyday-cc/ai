@@ -33,6 +33,15 @@ related:
         width: 1000
         height: 498
         isCached: true
+  - title: "Train machine learning models using Amazon Keyspaces as a data source"
+    excerpt: "Many applications meant for industrial equipment maintenance, trade monitoring, fleet management, and route optimization are built using open-source Cassandra APIs and drivers to process data at high speeds and low latency. Managing Cassandra tables yourself can be time consuming and expensive. Amazon"
+    publishedDateTime: 2022-06-03T19:01:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-machine-learning-models-using-amazon-keyspaces-as-a-data-source/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
   - title: "Standard Bank shows ‘it can be’ by using AI and analytics to improve customer service"
     excerpt: "Africa’s largest financial institution, Standard Bank, is on a mission: to find ways to set itself apart so that the bank can meet its customer needs in today’s complex, ever-changing world. Operating in more than 20 countries in sub-Saharan Africa and globally,"
     publishedDateTime: 2022-06-01T09:09:00Z

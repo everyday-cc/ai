@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-a
 webUrl: "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 64
-  - title: "The California Department of Motor Vehicles said it would investigate Tesla over self-driving claims. Then, crickets"
-    excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the US$12,000 (RM52,548) software package that supposedly enables a Tesla car to drive itself through city and neighbourhood streets."
-    publishedDateTime: 2022-05-30T02:43:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/30/the-dmv-said-it-would-investigate-tesla-over-self-driving-claims-then-crickets"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 31
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/27/1601213.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "+BDttIneqrfKDqCnALu+B3lYshRxSQT/Uok9j045sY2sBpY7BCxrmVU/ZnjmjlHTfTz7q73aenzxZgHtvh4aqUUPw8y2Y/f4RQxnVYrY+H1s+BykraKfFi2OOkM5L9puIaLpGwJB6ZEsAqaNeUm8xM4oiUt9y3SHJcKWr7t6vggs1HPMij7HE7gwWJJXV//c7K3CqarHZWfKAaaLE2qWhFHwvBr69HDUUT/K36M9QgrMNOLk134Eq44KcUpv2WB/jJyIbg66TyrBgYyaPjK/hqMuWbw20ARN5Rzu4EJG+Trz3wt5966UK1CZ2oB+nRWO3QpeLZFVa9FIec3NPwY/5Hvrq2JisU5So+vYqGoOIAfyfCPBGNY2Ju53uA0zDxGiSadRgOuoLVy1Ar9gh8dJ7zf4b+DlI2QHrZeHMer7x4Dio1QKM04i9UE/wj32u2SMsVAa3wQLescDWCzf3cbF9EWq8Cyzq6RO1mQXz5PjJyfvSQqD9uC87aVoZmIFz6mHM5mkBqSto1yEJ9lNYft3QA==;QBY/IaXCgPqWZdTCgRe/2A=="
 ---

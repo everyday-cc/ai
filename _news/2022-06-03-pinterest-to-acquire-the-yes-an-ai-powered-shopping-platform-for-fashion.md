@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Pinterest acquires AI shopping startup 'The Yes'"
-    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum."
-    publishedDateTime: 2022-06-03T11:18:00Z
-    webUrl: "https://www.thehansindia.com/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    ampWebUrl: "https://www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
-    images:
-      - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540842-pintreset.jpg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "ServiceNow acquires Hitch to bring AI-powered skills mapping to the enterprise"
     excerpt: "ServiceNow is to acquire Hitch Works, an AI-powered platform that helps enterprises plug the talent gap through skills mapping."
     publishedDateTime: 2022-06-03T13:00:00Z
@@ -95,6 +79,15 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Pinterest acquires AI shopping startup 'The Yes'"
+    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum. THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO,"
+    publishedDateTime: 2022-06-03T05:20:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 17
 
 secured: "tOaxPs5oe3NCfxn7tiZy3ALToXibDjMgwlzY2kBBXHnEgWxYPEdWX/q6WiALc7mNBaCCT2ETuvO1UYl1Z8MN+9sAOFjaeTXnUx35iK/sLpaczF7S1EqX9G2PNGq0e2+Ungy4wFuvtZL05WtIPdk6dBlBiFOfmsWq+bhd2atSGkQCta2jE+5/CspxbHqYLu7dAYb1sLJ5x/pISLLjKu7MfG0r6SUGBpfulxsTktNgFpSaos6GR/+qUe4kc5gH50D5yPjCgW0ndxZcm/9/z5GflACKv/6CmHkv28B5EyNItrxikBqqdDro7Olwl/MF6mIJorD5/nopLFqVnB7Q775bDydZUbykv+oLn+ZSwegrZfo=;+QgccmkaDSF1JCcsUuwKkQ=="
 ---

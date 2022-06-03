@@ -151,15 +151,6 @@ related:
         width: 900
         height: 650
         isCached: true
-  - title: "Google Assistant might soon recognize your voice even better"
-    excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android. According to GSM Arena, it's interesting to see that Google is taking another big step towards improving its smart assistant experience."
-    publishedDateTime: 2022-05-30T01:24:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220529/3946622.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "f5LByOJSf8hgWYyjm3JjKBGujuMMhvB40hBfll2FTykbNoX1FdQ0YG4+k6tPobk6XRyiQjf3VDiN58YNAbJwpdzL6ioAdIs6hodQLBEVssiyZDsZUQop7KoNlLC9FDv19kt59mVqAwAnWLCpnc96UFiki77o7G7T+OQUUgfax4ueTDWQLRtH4QeIWK/6swk8e8FXks+GVgy+hoxX0GRXdp7ywmvEy1ahHFzz7iKBFUClQ27Vwuu21e4x6wnwKKU7ycL0avBaATXlpLr6IItN4+f5T80Vt3ioc5UAaPH4hvzGXvAn5Mgs8KWT11UwQIGpPTR15pCTb4bp6Ez1aSvrvTCFH1p5X6D7rKab9lcRQUsExAKb0BASZmJ3AS3z7Ti2/bqqr/2NeLnoEb0nSUMgK3V7zgpAxSeYoD9vTGLSet1w1QMowi7/U7ElBqdHXi/Xqyu/ceuMAqxffIqu/HNlejRijyOrH1+HfAs/3XTkC2vpPqgKNaQSKqcBBGlYMTjKAwIAGae0gp8iWdiXb7ToQg==;v+SCGJa+yB0z2GRuSR+XGQ=="
 ---

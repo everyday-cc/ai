@@ -52,20 +52,6 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 64
-  - title: "The California Department of Motor Vehicles said it would investigate Tesla over self-driving claims. Then, crickets"
-    excerpt: "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the US$12,000 (RM52,548) software package that supposedly enables a Tesla car to drive itself through city and neighbourhood streets."
-    publishedDateTime: 2022-05-30T02:43:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/30/the-dmv-said-it-would-investigate-tesla-over-self-driving-claims-then-crickets"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 31
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/27/1601213.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "QyKWWoCTgGKsJGMPUFaCJdwqq97HUBrG5fnfO2mUo+g1MIlsYHT3ai5hTSFtlZ7r1kzU59E/rsk6TyUqf8EDmcHJNCPc3JzslWL7YGPQLEYKxbShHkE2nFxrzfIixOF44QQy2WteNGJ5NiNJSD0S8u+t39yuwEoF/t/JZtArACISAOOZz1jzLYUDLNweWvZBFDIwUsw0k+qAqGsUtzCC55LtjNvaOA+ZMDUqZoUOSo4i1CgvBMsJKZrcHHF+DKrUJQkbGWJ8qiI0Dld+W/TtxqwF8Ftuo5hNTQaH3A07JrTCEY04BH56LrgpWoZsPct0xKfeAFQT1mU1ZcXFsQrBraFnK6/RtgdVJrTubIydiqnhRNUq0Pg8xVhPDMv4yIXV8VSkldE1XpGDtvos11hghA1DyBiI2qjugP78PGQW1HNCsS96c3yt9CajJlp+64XXktQU7tDhkh+BIX3Fb1oezblo3glOGjXSrUZP9A7gLInNiegc6QYh3xeIm+4jxt2iUXiLbqV+ifo48F8T4R7t8Q==;KmZc7hntBgXjuyMbsDwMjQ=="
 ---

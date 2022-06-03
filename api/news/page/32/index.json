@@ -2,6 +2,316 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-05-04-why-focusing-on-user-centricity-in-ai-is-the-best-move.md",
+      "title": "Why Focusing On User-Centricity In AI Is The Best Move",
+      "excerpt": "If you establish a process of evaluating meaningful insights that work within your organization's context, what can start as surprising consumer sentiments can quickly become opportunities to leverage AI for scalable interventions and results. It's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee37b6f7aa2f00006297975/0x0.jpg?format=jpg&crop=7500,4218,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/why-focusing-on-user-centricity-in-ai-is-the-best-move/amp/",
+      "publishedDateTime": "2022-05-04T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology.md",
+      "title": "VW Group To Rely On Qualcomm Chips For Its Self-Driving Technology",
+      "excerpt": "All VW Group brands will use this chip starting in 2026 in a deal that runs through to ... Instead, it is also working alongside Argo AI and has already partnered with the company to develop an all-autonomous version of the electric ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
+      "originalUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/05/VW-ID.-Buzz-2a-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/05/vw-group-to-rely-on-qualcomm-chips-for-its-self-driving-technology/amp/",
+      "publishedDateTime": "2022-05-04T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-stop-worrying-about-ai-bias-all-the-time-says-deloittes-ai-ethics-lead.md",
+      "title": "Stop worrying about AI bias all the time, says Deloitte’s AI ethics lead",
+      "excerpt": "AI that discriminates against people is a big problem, but Beena Ammanath, executive director of the Global Deloitte AI Institute and head of Trustworthy AI and Ethical Tech, says AI ethics is about a lot more than bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
+      "originalUrl": "https://www.protocol.com/enterprise/beena-ammanath-deloitte-ai-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/beena-ammanath-executive-director-of-the-global-deloitte-ai-institute-and-head-of-trustworthy-ai-and-ethical-tech.png?id=29755735&width=1500&coordinates=346%2C0%2C334%2C0&height=2000",
+          "width": 1500,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/beena-ammanath-deloitte-ai-ethics-2657258101",
+      "publishedDateTime": "2022-05-04T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system.md",
+      "title": "Worldline and Algoan to develop open-banking-based credit assessment system",
+      "excerpt": "WLN], a global leader in payment services, and Algoan, a leading credit scoring provider, today announced a collaboration agreement to jointly develop a next-level credit assessment solution to help lenders and services providers make better credit decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/92519/worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system",
+      "originalUrl": "https://www.finextra.com/pressarticle/92519/worldline-and-algoan-to-develop-open-banking-based-credit-assessment-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-facebooks-parent-developed-a-new-ai-language-model-now-its-giving-it-away-for-research.md",
+      "title": "Facebook's Parent Developed A New AI Language Model — Now It's Giving It Away For Research",
+      "excerpt": "Facebook parent Meta Platforms Inc (NASDAQ ... Recently, Meta CEO Mark Zuckerberg said that the company is working on AI research to allow people to have more natural conversations with voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/22/05/26982582/facebooks-parent-developed-new-artificial-intelligence-language-now-its-giving-it-away",
+      "originalUrl": "https://www.benzinga.com/news/22/05/26982582/facebooks-parent-developed-new-artificial-intelligence-language-now-its-giving-it-away",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/05/04/markus-spiske-8oykwqgbskq-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26982582",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26982582",
+      "publishedDateTime": "2022-05-04T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-space-discoveries-that-will-blow-your-mind.md",
+      "title": "Space discoveries that will blow your mind",
+      "excerpt": "Space discoveries that will blow your mind Since NASA’s inception in 1958, astronauts have landed on the moon, parked a robot-controlled rover on Mars, and discovered thousands of exoplanets—planets that orbit stars outside of this solar system.",
+      "sourceUrl": null,
+      "webUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "originalUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/whatsupnewp.com/wp-content/uploads/2022/04/Screen20Shot202020-10-2620at201.01.4220PM_1.png?fit=1013%2C720&ssl=1",
+          "width": 1013,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "cdnAmpWebUrl": "https://whatsupnewp-com.cdn.ampproject.org/c/s/whatsupnewp.com/2022/05/space-discoveries-that-will-blow-your-mind/",
+      "publishedDateTime": "2022-05-04T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "What'sUpNewp",
+        "domain": "whatsupnewp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities.md",
+      "title": "Global AI based Edge Computing Chip Market 2022: Overview, Manufacturing Cost Structure Analysis, Growth Opportunities",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. May 04, 2022 (The Expresswire) -- “AI based Edge Computing Chip Market” Report gives industry a wide vision into current and developing growth outlines, end-user analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities-2022-05-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2022-overview-manufacturing-cost-structure-analysis-growth-opportunities-2022-05-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-eka-partners-with-nuport-robotics-to-introduce-smart-electric-buses.md",
       "title": "EKA partners with NuPort Robotics to introduce smart Electric Buses",
       "excerpt": "NuPort Robotics, a Canadian company announced its plans earlier ... are not only environmentally friendly but also futuristic through incorporation of Artificial Intelligence thereby making our buses efficient and safer to operate on Indian roads.",
@@ -804,331 +1114,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
-      "title": "Google Faces Internal Battle Over Research on AI to Speed Chip Design",
-      "excerpt": "The new episode emerged after the scientific journal Nature in June published \"A graph placement methodology for fast chip design,\" led by Google scientists Azalia Mirhoseini and",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-05-02/google-faces-internal-battle-over-research-on-ai-to-speed-chip-design?context=amp",
-      "publishedDateTime": "2022-05-03T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-how-to-stop-losing-employees-and-start-winning-the-war-for-talent.md",
-      "title": "How To Stop Losing Employees And Start Winning The War For Talent",
-      "excerpt": "But in 2020, the nature of work fundamentally changed. In a digital workplace, companies keep employees engaged with their AI — not their HQ. We went from the physical HQ being the heart of the company, to a digital workplace that dictated the entire ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/",
-      "originalUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627001947b0091949a29d4e8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moveworks/2022/05/03/how-to-stop-losing-employees-and-start-winning-the-war-for-talent/amp/",
-      "publishedDateTime": "2022-05-03T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-google-faces-internal-battle-over-research-on-ai-to-speed-chip-design.md",
-      "title": "Google faces internal battle over research on AI to speed chip design",
-      "excerpt": "The dispute, which stems from efforts to automate chip design, threatens to undermine the reputation of Google's research in the academic community. It also could disrupt the flow of millions of dollars in government grants for research into AI and chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
-      "originalUrl": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-can-artificial-intelligence-help-fight-western-wildfires.md",
-      "title": "Can Artificial Intelligence Help Fight Western Wildfires?",
-      "excerpt": "The high-tech help could come way of an area not normally associated with fighting wildfires: artificial intelligence. And space. Lockheed Martin Space, based in Jefferson County, is tapping decades of experience of managing satellites, exploring space and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
-      "originalUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/bd7f643/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F29%2F8eabf0f5fb605508abbc28c7f04c%2Fshutterstock-2189586432.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/can-artificial-intelligence-help-fight-western-wildfires?_amp=true",
-      "publishedDateTime": "2022-05-03T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach-to-the-design-of-chips-for-high-performance-computing-applications.md",
-      "title": "Joe Costello, ex-CEO of Cadence joined Anari AI: “There must be a new approach to the design of chips for high-performance computing applications”",
-      "excerpt": "Joe Costello, ex-CEO of Cadence, joined Anari AI in the Board Advisor position to empower the wind of change in the hardware AI industry. Anari AI is a startup delivering the next-generation platform for computation to provide companies with personalized AI Systems accessible in one click.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html",
-      "originalUrl": "https://www.eagletribune.com/region/joe-costello-ex-ceo-of-cadence-joined-anari-ai-there-must-be-a-new-approach/article_f4fb1b49-ee01-5e9f-891e-54028cf611cf.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/2/3f/23f39291-cd74-541b-b0d9-4a1e2f0e5387/6271530a5dcff.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-galileo-emerges-from-stealth-to-streamline-ai-model-development.md",
-      "title": "Galileo emerges from stealth to streamline AI model development",
-      "excerpt": "As the use of AI becomes more common throughout the enterprise, the demand for products that make it easier to inspect, discover and fix critical AI errors is increasing. After all, AI is costly ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/",
-      "originalUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/05/open-source-data-science.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/galileo-emerges-from-stealth-to-streamline-ai-model-development/amp/",
-      "publishedDateTime": "2022-05-03T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-norads-vanherck-says-artificial-intelligence-capabilities-lacking.md",
-      "title": "NORAD’s VanHerck says artificial intelligence capabilities lacking",
-      "excerpt": "(Jose Luis Magana/AP) WASHINGTON — U.S. Northern Command and North American Aerospace Defense Command lack the artificial intelligence capabilities needed to do their jobs to the fullest and maintain an edge over rival nations, according to the leader of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/04/26/norads-vanherck-says-artificial-intelligence-capabilities-lacking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/T8gu2NwwdvBLNDcbYyTLx6vYnO8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/FFQY4UHAMRGAXF3IKU5VY2LE54.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

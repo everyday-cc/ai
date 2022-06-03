@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2022/jun/03/taser-firm-axon-ethics
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "Firm proposes Taser-armed drones to stop school shootings"
+    excerpt: "Taser developer Axon said this week it is working to build drones armed with the electric stunning weapons that could fly into schools and “help prevent the next Uvalde, Sandy"
+    publishedDateTime: 2022-06-03T20:12:00Z
+    webUrl: "https://globegazette.com/lifestyles/technology/firm-proposes-taser-armed-drones-to-stop-school-shootings/article_32677531-f324-5384-a6f3-c5f5cf545745.html"
+    type: article
+    provider:
+      name: Globe Gazette
+      domain: globegazette.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/custom/image/4a008fc8-c542-11ea-80d0-f71aedfaa0ef.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "MDAkeEbCPSQfcMHEkRLtvyV31WwJbXo0w9hXmAyq6cyPd8N6+wBIGcc/+Yd6D2tHQ5qgs65YliU6vtSlnkw334rUQU8uQfN4MZWBHbBf8htif3T08ZMBOkUhoUls2OXxPgbymJ3XaupBzfYtu1JxQkWkKyOcXpdjPt9w0i8CWcA2zcM8f+kZ+fDP21o7gjSiFaki/JlykmRLdSABtEzZQxHs9MrC66Azn106bXimD//OsjoIW1fEhYcOyY6FcCCQkZU6wQnrTqm9zAo+khh3UiStSsfYIBvIJ0/zpRRF1qWNF9yiiLJCdP0IeXX7RLtRFM9kZQpShK9lU/VZRPEGmylPyzM1DneaPTPqQUCX699uLG39aSS9SYyK1odrdXxCgjPcXzSPPBTaEl5UEFv3CEaJneqxxB/LOFRGjdP7gaC5HUhpU1/o7G18duhoN4ho8BvsBzAowjvrmgWH00N5Lg6YUW7lyIGJFtzQUMqVva2MFXbIyKdR0f/T90/an4AMh4Gc2Tm3NYzJj3OsukIJ+g==;FbRdoYZ8v2TVwwIuxzN5RQ=="
 ---

@@ -2,6 +2,299 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-31-where-does-ai-go-next.md",
+      "title": "Where Does AI Go Next?",
+      "excerpt": "Many computer scientists, economists, and investors believe that we are at the threshold of enormous leaps forward in artificial intelligence and machine learning – with implications for both entrepreneurs and businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/",
+      "originalUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629506ac879c5363c159c3d9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/amp/",
+      "publishedDateTime": "2022-05-31T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-earnings-outlook-for-c3ai.md",
+      "title": "Earnings Outlook For C3.ai",
+      "excerpt": "C3.ai AI is set to give its latest quarterly earnings report on Wednesday, 2022-06-01. Here's what investors need to know before the announcement. Analysts estimate that C3.ai will report an earnings per share (EPS) of $-0.29. C3.ai bulls will hope to hear ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/earnings/22/05/27474736/earnings-outlook-for-c3-ai",
+      "originalUrl": "https://www.benzinga.com/news/earnings/22/05/27474736/earnings-outlook-for-c3-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/ep_us_feature_image_3296.jpeg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27474736",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27474736",
+      "publishedDateTime": "2022-05-31T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-ethical-issues-surrounding-research-of-ai-in-health-care.md",
+      "title": "Ethical issues surrounding research of AI in health care",
+      "excerpt": "F. Lisa Murtha, Pralika Jain and Kiyong Song of Moses & Singer LLP discuss the ethical issues that arise in research on artificial intelligence for health care, such as in patient safety, data collection and transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/ethical-issues-surrounding-research-ai-health-care-2022-05-31/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/ethical-issues-surrounding-research-ai-health-care-2022-05-31/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/4r2un_3tNZyAfhM3Qthi4HKgw34=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YK6G3P7MZFO5DIKCK6L45SGSDM.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-why-robotics-and-artificial-intelligence-are-the-future-of-mankind.md",
+      "title": "Why Robotics And Artificial Intelligence Are The Future Of Mankind",
+      "excerpt": "Robotics and AI certainly have the power to transform our world, helping us navigate a rapidly changing future with greater confidence and optimism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//613246cfa37776e285f84f80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/",
+      "publishedDateTime": "2022-05-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-deloitte-teams-up-with-iit-roorkee-to-build-next-gen-ai-talent-bridge-skill-gap.md",
+      "title": "Deloitte Teams Up With IIT Roorkee To Build Next-gen AI Talent, Bridge Skill Gap",
+      "excerpt": "Deloitte on Tuesday announced a strategic collaboration with IIT Roorkee in Uttarakhand to deliver immersive programmes in Artificial Intelligence (AI) and Machine Learning (ML) to build the next generation workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/business-news/india-business/deloitte-teams-up-with-iit-roorkee-to-build-next-gen-ai-talent-bridge-skill-gap.html",
+      "originalUrl": "https://www.republicworld.com/business-news/india-business/deloitte-teams-up-with-iit-roorkee-to-build-next-gen-ai-talent-bridge-skill-gap.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/m5ybyh3tm6gfplbj_1618399351.jpeg",
+          "width": 768,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/business-news/india-business/deloitte-teams-up-with-iit-roorkee-to-build-next-gen-ai-talent-bridge-skill-gap.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/deloitte-teams-up-with-iit-roorkee-to-build-next-gen-ai-talent-bridge-skill-gap.html",
+      "publishedDateTime": "2022-05-31T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-three-consumer-trends-influencing-loyaltyand-how-to-leverage-ai-to-capitalize-on-them.md",
+      "title": "Three Consumer Trends Influencing Loyalty—And How To Leverage AI To Capitalize On Them",
+      "excerpt": "With ever-changing customer expectations and increasing competition, keeping customers happy and loyal is proving quite difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//5eea68028b106d000799955a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/three-consumer-trends-influencing-loyalty-and-how-to-leverage-ai-to-capitalize-on-them/amp/",
+      "publishedDateTime": "2022-05-31T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-scotiabanks-perspectives-on-aiml-governance-and-future.md",
       "title": "Scotiabank’s Perspectives On AI/ML Governance And Future",
       "excerpt": "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank. This blog focuses on AI Governance and Future views of Scotiabank's AI and ML practices.",
@@ -114,7 +407,7 @@
       "originalUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -208,7 +501,7 @@
       "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/983674/iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary-983674.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -903,312 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-29-ai-the-pattern-is-not-in-the-data-its-in-the-machine.md",
-      "title": "AI: The pattern is not in the data, it's in the machine",
-      "excerpt": "No, the patterns computers create are not an inherent property of data, they are an emergent property of the structure of the program itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/",
-      "originalUrl": "https://www.zdnet.com/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/111f895dc65607d9760070c5a72e57b282be8139/2022/05/29/7ffbd514-63f1-44f3-ba9e-bfc036f716a0/b21c7d8b-5465-4ff6-ad1e-a3aa0de5af4e.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/",
-      "publishedDateTime": "2022-05-29T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-29-tenda-cp3-smart-ai-security-camera-launched-in-india-for-rs-2999-39.md",
-      "title": "Tenda CP3 smart AI security camera launched in India for Rs. 2,999 ($39)",
-      "excerpt": "Tenda has announced its CP3 smart AI camera in India with an Rs. 2,999 (~$39) price tag. The Tenda CP3 comes with artificial intelligence (AI) capabilities and a 1080 pixel sensor for FHD footage. The Tenda CP3 also offers several features that make it a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/",
-      "originalUrl": "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/05/Tenda-CP3-smart-AI-security-camera.jpg",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/?amp=1",
-      "publishedDateTime": "2022-05-29T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-29-traffic-jams-just-a-maths-problem-says-israeli-ai-firm.md",
-      "title": "Traffic jams just a maths problem, says Israeli AI firm",
-      "excerpt": "Israel's traffic congestion ranks near the worst among developed economies but an algorithm can help, says one of the country's IT firms engaged in the auto and mobility sector.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/the-company-itc-says-t.jpg",
-          "width": 1024,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.amp",
-      "publishedDateTime": "2022-05-29T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself.md",
-      "title": "DeepMind: Why is AI so good at language? It's something in language itself",
-      "excerpt": "Impressive deep learning programs such as OpenAI's GPT-3 may be exploiting statistical oddities of human language such as polysemy and homonyms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
-      "originalUrl": "https://www.zdnet.com/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3ffd901c4c60d15791e3a11b786df6f9c59e485d/2022/05/27/ae1ac90a-e2b4-4b21-8343-f18ef904f3c4/deepmind-omniglot-modified-challenge-may-2022.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-why-is-ai-so-good-at-language-its-something-in-language-itself/",
-      "publishedDateTime": "2022-05-28T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection.md",
-      "title": "AI Robotics Security Leader AITX's New Software Update will Include Weapon Detection",
-      "excerpt": "AITX announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) will include gun detection",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection-2022-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection-2022-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-this-facial-recognition-site-is-creeping-everyone-out.md",
-      "title": "This Facial Recognition Site Is Creeping Everyone Out",
-      "excerpt": "A facial recognition tool called PimEyes has recently gone from unknown to infamous. PimEyes makes it easy to find pictures of people that are strewn across the internet. That isn't necessarily surprising—reverse image searches have been a thing for years—but it turns out PimEyes is astoundingly good at identifying people with naught but a single photograph.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out",
-      "originalUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/042tAv7BU4awCU1LoifhgMO-1.fit_lim.size_1200x630.v1653691896.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true",
-      "publishedDateTime": "2022-05-27T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

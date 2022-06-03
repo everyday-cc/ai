@@ -2,6 +2,265 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-25-global-adasad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous-driving-ai-data-training.md",
+      "title": "Global ADAS/AD Chip Industry Research Report 2022: SoC Vendors Accelerate the Layout of Autonomous Driving AI Data Training",
+      "excerpt": "DUBLIN, May 25, 2022 /PRNewswire/ -- The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-aiml-chips.md",
+      "title": "Ayar Labs teams with Nvidia for optical interconnects to speed up AI/ML chips",
+      "excerpt": "AI/ML and other data-heavy interactions, the company said. At least at the outset of their release into the market, the new optical chips will go to CPU and GPU makers (such as Intel, Nvidia ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
+      "originalUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-artificial-intelligence-ai-in-medical-insights-and-upcoming-business-opportunities-2022-2030nvidia-intel-ibm.md",
+      "title": "Artificial Intelligence (AI) in Medical Insights, and Upcoming Business Opportunities 2022-2030|NVIDIA, Intel, IBM",
+      "excerpt": "Artificial Intelligence (AI) in Medical Market Prime Factors And Competitive Outlook 2022-2030. Market.biz has published another report named Artificial Intelligence (AI) in Medic",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/262043/business/artificial-intelligence-ai-in-medical-market-growth-and-new-developments-2022-2030/",
+      "originalUrl": "https://xaralite.com/262043/business/artificial-intelligence-ai-in-medical-market-growth-and-new-developments-2022-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid-accurate-ml-and-ai-modeling.md",
+      "title": "TigerGraph ML Workbench Delivers Deep Learning and Graph Neural Network Frameworks for Rapid, Accurate ML and AI Modeling",
+      "excerpt": "TigerGraph, provider of a leading graph analytics platform, today announced the TigerGraph ML (Machine Learning) Workbench — a powerful toolkit that enables data scientists to significantly improve ML model accuracy,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/science-c54a247f40454b20a2e772ec392b9366",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/science-c54a247f40454b20a2e772ec392b9366",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-the-dark-secret-behind-those-cute-ai-generated-animal-images.md",
+      "title": "The dark secret behind those cute AI-generated animal images",
+      "excerpt": "Google Brain has revealed its own image-making AI, called Imagen. But don't expect to see anything that isn't wholesome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/",
+      "originalUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/",
+      "publishedDateTime": "2022-05-25T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-ai-research-lab-inspired-by-computers-internal-components.md",
+      "title": "AI research lab inspired by computer's internal components",
+      "excerpt": "Construction work is currently underway on a new artificial intelligence research laboratory designed by PLP Architecture. Located in Shanghai, China, the building's overall form is inspired by a computer motherboard and CPU.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/",
+      "originalUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/2984bc6/2147483647/strip/true/crop/2082x1388+209+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F38%2F9e43eadd4eed81fc9047bdbc62d8%2F1742-n51.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/?amp=true",
+      "publishedDateTime": "2022-05-25T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-how-to-successfully-lead-change-management-in-finance-ai-adoption.md",
       "title": "How To Successfully Lead Change Management In Finance AI Adoption",
       "excerpt": "Change can be incredibly positive. Change builds resilience, opens us up to new perspectives and creates opportunities we never saw coming. However, change can also be uncomfortable, and this discomfort feels especially pervasive during this era of rapid technological transformation.",
@@ -548,33 +807,24 @@
     {
       "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
       "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May",
+      "excerpt": "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png",
-          "width": 1500,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:45:00-07:00",
+      "publishedDateTime": "2022-05-24T17:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -585,7 +835,8 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -860,300 +1111,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-github-copilot-ai-coding-assistant-due-this-summer.md",
-      "title": "GitHub Copilot AI coding assistant due this summer",
-      "excerpt": "GitHub Copilot, the controversial AI-driven coding assistant that suggests lines of code ... which has questioned the legality and ethics of its use of freely licensed source code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.html",
-      "originalUrl": "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661436/github-copilot-ai-coding-assistant-due-this-summer.amp.html",
-      "publishedDateTime": "2022-05-24T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
-      "title": "Remarkable science: Exploring our AI and robot-supported future",
-      "excerpt": "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "originalUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/VertexLogoSOP_R_colorRGB-400x265.jpg",
-          "width": 400,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "publishedDateTime": "2022-05-24T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ai-reveals-unsuspected-math-underlying-search-for-exoplanets.md",
-      "title": "AI reveals unsuspected math underlying search for exoplanets",
-      "excerpt": "Artificial intelligence (AI) algorithms trained on real astronomical observations now outperform astronomers in sifting through massive amounts of data to find new exploding stars, identify new types of galaxies and detect the mergers of massive stars,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.html",
-      "originalUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/1-exoplanet.jpg",
-          "width": 850,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp",
-      "publishedDateTime": "2022-05-24T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-specialization-is-key-in-an-exploding-ai-chatbot-market.md",
-      "title": "Specialization is key in an exploding AI chatbot market",
-      "excerpt": "Zowie, which claims to be the only AI-powered chatbot technology specifically built for ecommerce companies that use customer support to drive sales has secured $14 million in series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
-      "originalUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/",
-      "publishedDateTime": "2022-05-24T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
-      "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
-      "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "publishedDateTime": "2022-05-24T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan.md",
-      "title": "How will AI be used ethically in the future? AI Responsibility Lab has a plan",
-      "excerpt": "AI Responsibility Lab's Mission Control provides a framework for teams to create standardized processes for ML and AI operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/amp/",
-      "publishedDateTime": "2022-05-24T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

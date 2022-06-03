@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototy
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -165,6 +165,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 36
+  - title: "Elon Musk promises a working humanoid robot later this year"
+    excerpt: "Musk has just postponed the second edition of Tesla Day, dedicated to artificial intelligence to the end of September from Aug. 19. The reason? Musk promises to present a working prototype of Optimus, a humanoid robot that will replace people in Tesla’s ..."
+    publishedDateTime: 2022-06-03T19:50:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article262131617.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 19
 
 secured: "HdOtcFQF6h+4Hy58HMNKiyrspfvpnhQgWKpqs7JU+LrCt3plt4Y6UUPtLdsXZDtUGYonrBDHK0SjX51gTl70UipGFTuCkyemhP8BIBB4hM0WH2oNvE4lYhWZZsgCmSJ54Faf3tTO3s+uAOiPPm9YOKYEc1xkkYxmSmJrHNQuj9jPJt/LS3uAmN26WO9ayGpu0phCwt9TWdSQ59mnNjL6HdqZxASlJNVwmUeecEl0G60l6evGkqrQPfxDpVIHymftSGoocGiFgiMpyI7wrP6XVbCcuW+SBdUueJi6QJDSu2bTlA8KHMS/W58FSbEvC1FAfdPRhzNYe16jpJoOQmA62ZyOf4qmb0FFcYcTga0dVBEys8ZG1ES65IJRplD4uMMSTEdu0dr1+luJmkf+hvYjM30x1+dnVobnBD6wE0aGJvPrcNoMB3MeYYGZvyvd8glMsubmlebkdwmlb8HwrCi/xufUYSst4OSeso0ttnCxCPj2lhPzbNI4/ZygdEMnCUZpJqseSIOMnWpeF5N2eH5lGQ==;3w2ECrNwZV/xslxHRmRreQ=="
 ---

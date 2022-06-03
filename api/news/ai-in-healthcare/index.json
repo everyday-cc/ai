@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-04-how-ai-brings-accessibility-and-equity-to-healthcare.md",
+      "title": "How AI brings accessibility and equity to healthcare",
+      "excerpt": "Artificial intelligence can step in to provide quality care options at a lower cost for healthcare options. Companies like Vara and Paradromics are already working to increase access, affordability and ultimately healthcare outcomes — and investors are paying close attention.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/",
+      "originalUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/01-02-workflow.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/",
+      "publishedDateTime": "2022-06-03T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence.md",
       "title": "Evaluating brain MRI scans with the help of artificial intelligence",
       "excerpt": "This is where technical innovations such as artificial intelligence can offer support in interpreting clinical images. One such tool is the AI-Rad Companion Brain MR 3. Part of a family of AI-based, decision-support solutions for imaging, AI-Rad Companion ...",
@@ -42,49 +94,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-hearing-aids-market-worth-102-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "Hearing Aids Market worth $10.2 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"Hearing Aids Market by Product Type [Aids (Receiver,Behind the Ear, In the Canal, In the Ear Aids), Implants (Cochlear,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27517496/hearing-aids-market-worth-10-2-billion-by-2026-exclusive-report-by-marketsandmarkets",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27517496/hearing-aids-market-worth-10-2-billion-by-2026-exclusive-report-by-marketsandmarkets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.giphy.com/media/XBY7Yq06tXMCvqmUQF/giphy.gif?cid=790b7611cd3bb6ee13833409883d5c3006a5f21f51a83ce9&rid=giphy.gif&ct=g",
-          "width": 480,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27517496",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27517496",
-      "publishedDateTime": "2022-06-02T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {

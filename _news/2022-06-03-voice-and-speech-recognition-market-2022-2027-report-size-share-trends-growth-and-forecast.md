@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
 type: article
 quality: 57
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -130,6 +130,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/98f149880a7684385e8c49d5397bbf7a27723e27-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Research Report 2022 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence In Drug Discovery Market Size, Share & Trends Analysis Report by Application (Drug Optimization & Repurposing, Preclinical Testing), by Therapeutic Area, by Region, and Segment Forecasts, 2022-2030 ..."
+    publishedDateTime: 2022-06-01T14:25:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-06-01/artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 25
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
   - title: "Global Machine learning as a Service Market to Boost the Growth during the Forecast Period 2022–2030"
     excerpt: "The new report on “Machine learning as a Service Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered"

@@ -2,6 +2,103 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-05-use-custom-vocabulary-in-amazon-lex-to-enhance-speech-recognition.md",
+      "title": "Use custom vocabulary in Amazon Lex to enhance speech recognition",
+      "excerpt": "In our daily conversations, we come across new words or terms that we may not know. Perhaps these are related to a new domain that we’re just getting familiar with, and we pick these up as we understand more about the domain. For example, home loan terminology (“curtailment”), shortened words, (“refi”,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-custom-vocabulary-in-amazon-lex-to-enhance-speech-recognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-custom-vocabulary-in-amazon-lex-to-enhance-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T15:34:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-05-predict-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
+      "title": "Predict customer churn with no-code machine learning using Amazon SageMaker Canvas",
+      "excerpt": "Understanding customer behavior is top of mind for every business today. Gaining insights into why and how customers buy can help grow revenue. But losing customers (also called customer churn) is always a risk, and insights into why customers leave can be just as important for maintaining revenues and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-customer-churn-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/Featured-images-for-ML-7622.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T09:27:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-artificial-intelligence-chip-market-size-is-expected-to-reach-19490-billion-by-2030.md",
       "title": "Artificial Intelligence Chip Market Size Is Expected To Reach $194.90 Billion By 2030",
       "excerpt": "According to a new report published by Allied Market Research, titled,“  Artificial Intelligence Chip Market by Chip Type  <stron",
@@ -1282,92 +1379,6 @@
       "provider": {
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing.md",
-      "title": "Integrate ServiceNow with Amazon Lex chatbot for ticket processing",
-      "excerpt": "Conversational interfaces (or chatbots) can provide an intuitive interface for processes such as creating and monitoring tickets. Let’s consider a situation in which a recent hire on your team is required to cut tickets for office equipment. To do so, they have to interact with a ticketing software that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-servicenow-with-amazon-lex-chatbot-for-ticket-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-3932-image005-500.jpg",
-          "width": 500,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T09:55:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit.md",
-      "title": "Amazon taps former Attorney General Loretta Lynch to run racial equity audit",
-      "excerpt": "related to harassment and discrimination * And an independent study of Rekognition, a facial recognition system that Amazon Web Services markets and sells to government and shareholders say is \"worse at identifying Black women than white men and misgenders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html",
-      "originalUrl": "https://www.fltimes.com/news/nation/amazon-taps-former-attorney-general-loretta-lynch-to-run-racial-equity-audit/article_c70fadd8-624e-5714-8429-b7fb5a0afd81.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finger Lakes Times",
-        "domain": "fltimes.com",
         "images": null,
         "publishers": null,
         "authors": null

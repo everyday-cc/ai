@@ -2,6 +2,301 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-04-agtech-robotics-firm-farmwise-just-raised-another-45-million.md",
+      "title": "Agtech robotics firm FarmWise just raised another $45 million",
+      "excerpt": "FarmWise, makers of autonomous weeding robotics, announced a $45 million raise, led by Fall Line Capital and Middleland Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
+      "originalUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/FarmWise-Robot.png?w=1024",
+          "width": 1024,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
+      "publishedDateTime": "2022-06-03T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls.md",
+      "title": "This business is deploying 40 Samsung-powered robots to roam its halls",
+      "excerpt": "Using a shared, cloud-based \"brain,\" the robots will move around three floors, delivering packages, coffee and lunch boxes to employees",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "originalUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/746c29f1daf507879ca69ec2c2afbb9217436925/2022/06/03/7459195f-c993-4e50-b290-c295f124b5ff/naver-package.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "publishedDateTime": "2022-06-03T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-how-ai-brings-accessibility-and-equity-to-healthcare.md",
+      "title": "How AI brings accessibility and equity to healthcare",
+      "excerpt": "Artificial intelligence can step in to provide quality care options at a lower cost for healthcare options. Companies like Vara and Paradromics are already working to increase access, affordability and ultimately healthcare outcomes — and investors are paying close attention.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/",
+      "originalUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/01-02-workflow.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/",
+      "publishedDateTime": "2022-06-03T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-adopting-mlsecops-for-secure-machine-learning-at-scale.md",
+      "title": "Adopting MLSecOps for secure machine learning at scale",
+      "excerpt": "If you’re an ML practitioner, the field of MLSecOps is rapidly developing and now is an excellent time to contribute to the discussion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/",
+      "originalUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1097722576-XH4D.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/",
+      "publishedDateTime": "2022-06-03T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly.md",
+      "title": "Improve organizational diversity, equity, and inclusion initiatives with Amazon Polly",
+      "excerpt": "Organizational diversity, equity and inclusion (DEI) initiatives are at the forefront of companies across the globe. By constructing inclusive spaces with individuals from diverse backgrounds and experiences, businesses can better represent our mutual societal needs and deliver on objectives. In the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T11:55:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing.md",
+      "title": "Scythe Robotics CEO Jack Morrison discusses autonomous mowing",
+      "excerpt": "This week, we talk to Scythe Robotics CEO and Co-founder Jack Morrison about the market for commercial autonomous mowers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
+      "originalUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/scythe-mower-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-use-serverless-inference-to-reduce-testing-costs-in-your-mlops-pipelines.md",
       "title": "Use Serverless Inference to reduce testing costs in your MLOps pipelines",
       "excerpt": "Amazon SageMaker Serverless Inference is an inference option that enables you to easily deploy machine learning (ML) models for inference without having to configure or manage the underlying infrastructure.&nbsp;SageMaker Serverless Inference is ideal for applications with intermittent or unpredictable",
@@ -62,7 +357,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -203,7 +498,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -350,7 +645,7 @@
       "originalUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -645,6 +940,48 @@
       ]
     },
     {
+      "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases.md",
+      "title": "Oregon dropping AI tool used to help decide child abuse cases",
+      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "originalUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/DarkWeb-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "publishedDateTime": "2022-06-02T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-latchbio-raises-28m-to-corral-bio-data.md",
       "title": "LatchBio raises $28M to corral bio data",
       "excerpt": "LatchBio's goal is to give researchers a simple, integrated tool that can analyze bio data without hiring a computer scientist.",
@@ -866,333 +1203,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-oral-bs-toothbrush-uses-ai-to-grade-your-teeth-brushing-habits.md",
-      "title": "Oral-B's toothbrush uses AI to grade your teeth brushing habits",
-      "excerpt": "Your teeth might not be the first thing you think about when it comes to a beauty routine. But you, like most of us, are probably in constant pursuit of a healthy and pearly white smile. Enter: the Oral-B iO Series 9 toothbrush,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review",
-      "originalUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/02RW1mKe0esLHwloSTAeh8Q/hero-image.fill.size_1200x675.v1654116314.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/oral-b-io-series-9-ai-toothbrush-review?amp",
-      "publishedDateTime": "2022-06-02T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-10-ai-predictions-for-the-next-10-years.md",
-      "title": "10 AI Predictions For The Next 10 Years",
-      "excerpt": "The past several years have been an exciting period for artificial intelligence (AI). We used to think of it as science fiction, yet today, AI has become an everyday component of life. This is especially true with advances during the global pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/",
-      "publishedDateTime": "2022-06-02T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.md",
-      "title": "GREEN500 Supercomputer Powering Robot Scientists and Transformational Machine Learning",
-      "excerpt": "England’s University of Cambridge was recognized at the ISC 2022 event in Hamburg, Germany for its Dell-based Wilkes-3 supercomputer, rated 8 in the GREEN500 and 304 in the TOP500, and Cumulus system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
-      "originalUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/green-500.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
-      "publishedDateTime": "2022-06-02T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies.md",
-      "title": "Guardforce AI announces further expansion into China with acquisition of additional 12 robotics companies",
-      "excerpt": "The deal, valued at US$12 million, follows the company's previously announced definitive agreement to acquire seven robotics companies in China",
-      "sourceUrl": null,
-      "webUrl": "https://ca.proactiveinvestors.com/companies/news/983942/guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies-983942.html",
-      "originalUrl": "https://ca.proactiveinvestors.com/companies/news/983942/guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies-983942.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA2XC9Sb2JvdC1rYmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ca.proactiveinvestors.com/companies/amp/news/983942",
-      "cdnAmpWebUrl": "https://ca-proactiveinvestors-com.cdn.ampproject.org/c/s/ca.proactiveinvestors.com/companies/amp/news/983942",
-      "publishedDateTime": "2022-06-02T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion.md",
-      "title": "Pay It Forward: The Opportunity For Digital Banking To Foster Financial Inclusion",
-      "excerpt": "This is a challenge that is worthy of serious attention and rich in its potential to drive growth and improve lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6297da60aa8f22da27e1620a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/amp/",
-      "publishedDateTime": "2022-06-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-hearing-aids-market-worth-102-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "Hearing Aids Market worth $10.2 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"Hearing Aids Market by Product Type [Aids (Receiver,Behind the Ear, In the Canal, In the Ear Aids), Implants (Cochlear,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27517496/hearing-aids-market-worth-10-2-billion-by-2026-exclusive-report-by-marketsandmarkets",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27517496/hearing-aids-market-worth-10-2-billion-by-2026-exclusive-report-by-marketsandmarkets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.giphy.com/media/XBY7Yq06tXMCvqmUQF/giphy.gif?cid=790b7611cd3bb6ee13833409883d5c3006a5f21f51a83ce9&rid=giphy.gif&ct=g",
-          "width": 480,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27517496",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27517496",
-      "publishedDateTime": "2022-06-02T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-a-fresh-start-for-a-walk-in-the-park.md",
-      "title": "A Fresh Start for a Walk in the Park",
-      "excerpt": "The Frederik Meijer Gardens & Sculpture Park had a human face long before it received its new welcome center. Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.html",
-      "originalUrl": "https://www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/05/multimedia/05sp-design-meijer1/05sp-design-meijer1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.amp.html",
-      "publishedDateTime": "2022-06-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

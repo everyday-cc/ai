@@ -42,6 +42,15 @@ related:
         width: 1000
         height: 498
         isCached: true
+  - title: "Train machine learning models using Amazon Keyspaces as a data source"
+    excerpt: "Many applications meant for industrial equipment maintenance, trade monitoring, fleet management, and route optimization are built using open-source Cassandra APIs and drivers to process data at high speeds and low latency. Managing Cassandra tables yourself can be time consuming and expensive. Amazon"
+    publishedDateTime: 2022-06-03T19:01:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-machine-learning-models-using-amazon-keyspaces-as-a-data-source/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
   - title: "AI, predictive analytics top list of hot technologies for banks"
     excerpt: "AI, machine-learning, predictive analytics, natural language processing (NLP), computer vision and microarchitecture are hot technologies that banks are investing in today, according to a Forrester report."
     publishedDateTime: 2022-06-02T20:59:00Z

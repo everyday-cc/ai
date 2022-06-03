@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-04-agtech-robotics-firm-farmwise-just-raised-another-45-million.md",
+      "title": "Agtech robotics firm FarmWise just raised another $45 million",
+      "excerpt": "FarmWise, makers of autonomous weeding robotics, announced a $45 million raise, led by Fall Line Capital and Middleland Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
+      "originalUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/FarmWise-Robot.png?w=1024",
+          "width": 1024,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
+      "publishedDateTime": "2022-06-03T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls.md",
+      "title": "This business is deploying 40 Samsung-powered robots to roam its halls",
+      "excerpt": "Using a shared, cloud-based \"brain,\" the robots will move around three floors, delivering packages, coffee and lunch boxes to employees",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "originalUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/746c29f1daf507879ca69ec2c2afbb9217436925/2022/06/03/7459195f-c993-4e50-b290-c295f124b5ff/naver-package.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "publishedDateTime": "2022-06-03T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing.md",
+      "title": "Scythe Robotics CEO Jack Morrison discusses autonomous mowing",
+      "excerpt": "This week, we talk to Scythe Robotics CEO and Co-founder Jack Morrison about the market for commercial autonomous mowers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
+      "originalUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/scythe-mower-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-elon-musk-says-tesla-may-have-a-working-humanoid-robot-prototype-by-sept-30.md",
       "title": "Elon Musk says Tesla may have a working humanoid robot prototype by Sept 30",
       "excerpt": "Elon Musk announced that Tesla might have a working prototype of Tesla Bot, the automaker's humanoid robot, by September 30th.",
@@ -10,7 +157,7 @@
       "originalUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1163,22 +1310,13 @@
       "title": "ARV and VARUNA launch AI & Robotics Hackathon 2022",
       "excerpt": "Thailand's leading technology development and venture building company dedicated to leveraging cutting-edge AI & Robotics technologies, as a technology spin-off from PTTEP, an upstream national oil & gas company of Thailand,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1824548/ARV_Hackathon_KV.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1188,146 +1326,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen.md",
-      "title": "Remy Robotics exits stealth mode with launch of third autonomous robotic kitchen",
-      "excerpt": "Pioneer in robot-enabled delivery-only restaurants expands its reach and opens to new partners to boost food operators' scalability BARCELONA,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen-1031483797",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen-1031483797",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1823888/Remy_Robotics.jpg",
-          "width": 400,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030.md",
-      "title": "Artificial Intelligence (Ai) Chipset Market [DEMAND] 2022 Size, Share, Future Growth Potential Survey By 2030",
-      "excerpt": "Quadintel published a new report on the Artificial Intelligence (Ai) Chipset Market. The research report consists of thorough information about",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-new-massrobotics-award-to-honor-female-robotics-researchers.md",
-      "title": "New MassRobotics award to honor female robotics researchers",
-      "excerpt": "MassRobotics' The Robotics Medal recognizes the wide-ranging impact of female researchers around the development of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/",
-      "originalUrl": "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/massrobotics-the-robotics-medal.jpg",
-          "width": 635,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -55,6 +55,15 @@ related:
         width: 2048
         height: 1812
         isCached: true
+  - title: "DHS details 2022 biometrics rally focused on group face processing"
+    excerpt: "The U.S. DHS Science & Technology Directorate revealed specific information about the scenario for the 2022 Biometric Technology Rally."
+    publishedDateTime: 2022-06-03T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202206/dhs-details-2022-biometrics-rally-focused-on-group-face-processing"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
 secured: "LerqD4eU05J+uZXbrQAc71yreQ7IFna0ZsTJHutJYBPqqaf5gjmvKqWpq2MirfsQmHwxr2kOqMBlXAxD8ULaxhxMz3QECos+JRIxSb4l0QhgJ+ydehrihIauh2cBcI39vcedrbzQuyf/f7c3IEFVI7lpjMJ6Ro2DhBz6+ffIDBQ47luwG+DS8cBtyr15su+6NyvuWQjgBO+aUwifjSVcI+PyWbS1kpXPu4UI3CgtmtXu0TpHBJuPbQ1K5LmksDMo8168u0PLyAfbtWL4F0k5anh/CXDnWkOohG3ynVBMwzj7Fwd19RdqvKL+wADRtxOQURVnxGKz0jTfEXXDnvylK1yJOXBPTwI4ZcDOa+KlN9yCUWN1ZS8nQxHZcL66yzwzxMCOzJ5mDij0jCDRvz44YsVh/eCztztgVy6Syilzsh4K8Xq3mmB3i0ONNKbq7IHivrmTpoeunGat6bsc4Fwg1/ER4YP70bimG9a8Ws7hMgr/8vpyd8GY3m7EVpvAiihOE1XH7hC30ktEBCXxi9Xfuw==;Ue7uFPri0xFv8RjigyWhfQ=="
 ---

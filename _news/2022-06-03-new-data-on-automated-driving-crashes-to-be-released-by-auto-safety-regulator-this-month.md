@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T15:41:00Z
 originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos2"
 webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos2"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Wall Street Journal

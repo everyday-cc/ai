@@ -7,7 +7,7 @@ originalUrl: "https://www.newstribune.com/news/2022/may/31/this-bacterial-diseas
 webUrl: "https://www.newstribune.com/news/2022/may/31/this-bacterial-disease-can-be-deadly-for-your-pet/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "This bacterial disease can be deadly for your pet. Researchers are using AI to catch it early"
-    excerpt: "Veterinarians and researchers at the University of California, Davis have developed a new way to detect leptospirosis, a life-threatening bacterial disease, in dogs using artificial intelligence."
-    publishedDateTime: 2022-05-30T05:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/30/this-bacterial-disease-can-be-deadly-for-your-pet-researchers-are-using-ai-to-catch-it-early"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 28
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/05/30/1603631.jpeg"
-        width: 1240
-        height: 827
-        isCached: true
 
 secured: "+Vi1Bvn8q6WkLEdVqzKmzX7yR7/0SwXBQX12p4Ak7EEulKlZdtOhLmT1yGbLRJYnHPPyLg9rCG7Ju0IiCoY/FcaluRO74y6XF/Plz2dw4FZ/i24pLUp/rTt0DP4JDh5oGGEftDldk0kvf2p1FSK/Bkl60SpLvVQU7mSquoneZiceKJespm0ojh/TGYxxxIRzFTGkwBtw7yaskSY2P+vsSeu1J7qATg73iTM6Gz4gWIMwBVu4ozN+FIEAVni/sPENYKqlSGShEs+hPqFXiM/xpObKqbZsr5JmaTUvNxbv3faVIeDrDyuG/dwpjkjN+D2NQ+BxpJvdwP2KhRKnNmMUp3DvuPzOxZSx1wzwvReB/FA=;VwLtjYkHtxCf7TGpdBlLZQ=="
 ---

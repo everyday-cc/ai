@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T18:17:00Z
 originalUrl: "https://www.foodengineeringmag.com/articles/100326-ai-helps-control-greenhouse-automation-systems"
 webUrl: "https://www.foodengineeringmag.com/articles/100326-ai-helps-control-greenhouse-automation-systems"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Food Engineering

@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pinterest acquires AI shopping startup 'The Yes'"
-    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum."
-    publishedDateTime: 2022-06-03T11:18:00Z
-    webUrl: "https://www.thehansindia.com/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    ampWebUrl: "https://www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
-    images:
-      - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540842-pintreset.jpg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "ServiceNow acquires Hitch to bring AI-powered skills mapping to the enterprise"
     excerpt: "ServiceNow is to acquire Hitch Works, an AI-powered platform that helps enterprises plug the talent gap through skills mapping."
     publishedDateTime: 2022-06-03T13:00:00Z
@@ -99,6 +83,15 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Pinterest acquires AI shopping startup 'The Yes'"
+    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum. THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO,"
+    publishedDateTime: 2022-06-03T05:20:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 17
 
 secured: "brSEgKUUGLn6orI4Qwb7fOLi+Kteoj3H/5kD0pOLEVsdmIlIoQIRrI29x02SLa1yjevqIRE7COAmMsS77b3usOMBaJCw8oFQC0ECZ07K7PPsDV65zQ44We2oiyC7NsrKM9xa0++aq2ysobxgiaLu+kN6+PRZMj0cO2xRdky+i9OdK+/ZcBSRwkDuQPajeoVyyMbyE55qjseQ9OxHU71aURpAabZLbbGGoJw//Q+XpBaMKvpdIRJxSEyWhYToyJk4hMrg0bU3YYzeBPPmQqK/aF26RRYvUTXXvVth0QIaKxOd8tdyp6VE2sCbBm64xCw7teDKLlasvV01xZDXBr1Pjb1j7/0tcqTT5BcE+Ha6XX+bM2qJjgBdcQ27j1imfAFN0G3k+mrC2QrOSQhdPQrsbOlIFLnjGOjnUi61v6DPpGA6RGAIUUojkMBwcHFkB3RdQITV5J20ZiVFJ9sgv+nWUHYNX/rnChci7JgBTx7kSesckd+H1nyBWJsF2dmYbPEi0qu9KRt4yhdCeRt1ZaUouw==;1lLJi24YD0BqeVlCIvPr1g=="
 ---

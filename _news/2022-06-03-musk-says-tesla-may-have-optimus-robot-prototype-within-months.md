@@ -161,6 +161,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 36
+  - title: "Elon Musk promises a working humanoid robot later this year"
+    excerpt: "Musk has just postponed the second edition of Tesla Day, dedicated to artificial intelligence to the end of September from Aug. 19. The reason? Musk promises to present a working prototype of Optimus, a humanoid robot that will replace people in Tesla’s ..."
+    publishedDateTime: 2022-06-03T19:50:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article262131617.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 19
 
 secured: "KYR/8l8WGmioT8ofh6/F3IoPZPKpid0G/QiEyRXWmgESy5GqGTSKytYhnRYPL5hqN/a3gF9aKV0xHiGfv658M9kgdxE0P86DDgaoQYloppP3Nc+rhc21ZxIA3d2fpbT8rsgrboLcVgWiKLGe8W73shSRjvh8O4HW7mqBJ/lcncxeAYfk6guSLH2eYQV+7y1GABrTppCHYKUKCXOtV1S8yohPtpBSMnRnjx2FZ+C8oxGXc17NjjeRrZYkWzWsbdBBbViUPQOH5BlO6PsOATZkAqEHUFB+JVxCC4lQuZdMRFEHy4empry6w35DjCHtdEd/sS9wqco8rdwVvfs7lHt0mWMFSIgvHSBOgzuEFCgaSKg=;2VQfNd+vCooKobdFMmuPZw=="
 ---

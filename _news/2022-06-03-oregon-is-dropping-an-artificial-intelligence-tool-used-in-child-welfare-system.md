@@ -42,6 +42,24 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Oregon dropping AI tool used in child abuse cases"
+    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
+    publishedDateTime: 2022-06-03T19:15:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/northwest/oregon-dropping-ai-tool-used-in-child-abuse-cases/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+  - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
+    excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
+    publishedDateTime: 2022-06-03T18:43:00Z
+    webUrl: "https://www.knkx.org/government/2022-06-03/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+    type: article
+    provider:
+      name: KNKX
+      domain: knkx.org
+    quality: 13
 
 secured: "d5sMRDJMXAPDO/sZ4bGBiRRuB7cSceJmDrEnqZDrtw8+YCVOl9eDkRX9/d4yfeX7Uc9XJFJWsqEPs9gxX0PeC7s8+jgq4M8QhD9K9IX/FGD8sWD1ksdfSeICdTSpsE7UrIwxxq58sSJh3CrQGDC68Or4/wTfTMZHV6NpUokFb5ZOxHSs8XEH0XZ7nQv0yRfeOHO/jRaUDvRE9I3VzzFFHONu/HNbJF1vvja8mhb0Q+3NjD92hhJ9pci3sLkILV8NznZfpmaz/wvfA7GkUHYtZM4YA37rPzcIMCkkIOOVSoKQ6yEs4WMJ2+sfl81DMmn9VDYRUckdQNicGd69fmKu37/TPjC0UAf81tU5R57Xsfc=;EOj2Mr4xwVHSYaaVaaaN9g=="
 ---

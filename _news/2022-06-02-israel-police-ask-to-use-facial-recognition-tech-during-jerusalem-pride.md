@@ -24,6 +24,17 @@ images:
     height: 483
     isCached: true
 
+related:
+  - title: "Jerusalem Police blocked from facial recognition use at Pride March"
+    excerpt: "While the Jerusalem police have denied using facial recognition, the request confirms that they have the technology ready for use."
+    publishedDateTime: 2022-06-03T19:08:00Z
+    webUrl: "https://www.biometricupdate.com/202206/jerusalem-police-blocked-from-facial-recognition-use-at-pride-march"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+
 secured: "I/z6eUwsr2UC1gOJa0AATVJ9rmwTrhYMTa9YXPgh5vKdUqFHbnx2LnBjosY24b0YaNOBUaKi0puq3dD1/z1/p8pc+7yBmW+BYm4HTZMZIO7L/hRH2m8IJ7feUIkFf9D9ZlwEGjLDt5muTeGHILGMt/rrLIj7ubX1KbpoPVqJaZYHO8ORMDN6ZaXeKUc0BYmJsgMMCAR2KfarWq9cG70ajGoC84o2yO32My28Os3Uk9/FfqTqcUW5hsiX1AJOawlVNUReHx1dQ7+6w5gDSi79WuaEsqdAN91ESrrwwCkAcziBRvkv4NSH7ezKzgAqkJLdod5T91Ikfoj6s6j/InAq6QNlpa54jvAOQLufrTZIDf0W7IdUcfWm/MOn2AI7zlycRhhsM+yTbjNcwsieCnT34IjTJAvH7X80xMzfuETe+tufA78csXzC7Zp43/w/CzCeiCc9mnvsGNjb16vLnzY+Q39zu4bmnOnT1tiBtE6uatdDt4VsyMG31gujeHti5DvY22vSLHyS5LD5kjKYgWv2Zg==;p7mLIgfeCFe0b7Nvgtb4ig=="
 ---
 

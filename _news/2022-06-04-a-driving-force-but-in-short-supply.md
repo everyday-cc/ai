@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T19:22:00Z
 originalUrl: "https://www.bizjournals.com/birmingham/news/2022/06/03/truck-driving-positions-in-high-demand.html"
 webUrl: "https://www.bizjournals.com/birmingham/news/2022/06/03/truck-driving-positions-in-high-demand.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Business Journals

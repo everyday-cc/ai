@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T19:06:00Z
 originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/06/03/special-operations-forces-need-ai-that-can-explain-its-decision-process-says-military-data-chief/"
 webUrl: "https://www.defensenews.com/artificial-intelligence/2022/06/03/special-operations-forces-need-ai-that-can-explain-its-decision-process-says-military-data-chief/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Defense News

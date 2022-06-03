@@ -67,6 +67,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Why did C3.ai stock jump today? Heavy volume rebound after Q1-linked sell-off"
+    excerpt: "C3.ai (AI) shares surged more than 11% on Friday on heavy volume, one day after the enterprise software company posted mixed fourth-quarter results and said sales for fiscal"
+    publishedDateTime: 2022-06-03T19:09:00Z
+    webUrl: "https://seekingalpha.com/news/3845622-why-did-c3ai-stock-jump-today-heavy-volume-rebound-after-q1-linked-sell-off"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 14
 
 secured: "vt0dnAURpD94IeTkf3xrjwl4L59cERccsXXhhfiz0kDbXfpfTUaxvPkgM1uHj3unmU409oF+MOr1Mcv0cEJB5lpYBWljJ06Y+4qQrs4ZOeQq863BHyzDCWNzEqw1ZkH2vvSxOGy8by05PqMxJmPi1pHXMZjgeC8zbb8HzZ1iF0QivzFUiw+99bJEU7m+9RSpJhCgkKo+K5ZeL2bdAXZUK+l/x2z76SZ04fENSTs25UNOv8OAORtUektS9WBkJ+l9eGnE1LXTvBDY7o5YBykvgrpqy92ZRzhBo25XcNJ1BLkl6Pxjor8/BFh18C6Pdnk8HTRhfoHMs6hQF0+QgBvrINRffMYt7n3wbdhH/EzzqERdE7pkgegY672r9bV+120FmykNxvSEc1hc8FRdE/wIq0/7tF4fmm/m13CqNkv/A3Na6gfCKQs6KGR9PlOFdTWEmoUgR/qQKPl5a1WZ2dLm+HNBe6RZN9WndsSYXBh3OUfWMZ6FkyAk8WtOshxKGtrFyTg7TCYSx2qxIiCTuDIy5w==;8PjbxYy47n4EYZRwndxN9w=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 752
         height: 396
         isCached: true
+  - title: "French energy firm Engie to use Google Cloud AI to predict wind power"
+    excerpt: "French energy firm Engie is using Google Cloud AI to predict wind energy power commodity prices, the company said."
+    publishedDateTime: 2022-06-03T17:12:00Z
+    webUrl: "https://enterpriseiotinsights.com/20220603/energy/french-energy-firm-engie-to-use-google-cloud-ai-to-predict-wind-power"
+    type: article
+    provider:
+      name: enterpriseiotinsights
+      domain: enterpriseiotinsights.com
+    quality: 19
   - title: "ENGIE and Google Cloud join forces to accelerate wind energy development with advanced data management and artificial intelligence"
     excerpt: "ENGIE and Google Cloud join forces to accelerate wind energy development with advanced data management and artificial intelligence"
     publishedDateTime: 2022-06-02T11:58:00Z
