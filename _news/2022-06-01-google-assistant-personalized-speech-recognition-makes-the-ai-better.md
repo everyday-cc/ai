@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2022/05/google-assistant-personaliz
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -150,20 +150,6 @@ related:
       - url: "https://static.zawya.com/version/c:MjMxODA3OWUtZjAwOC00:YWM5YTc3/picture1-jpg.jpg"
         width: 900
         height: 650
-        isCached: true
-  - title: "Google Assistant might soon recognize your voice even better"
-    excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android"
-    publishedDateTime: 2022-05-29T14:14:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272569040/google-assistant-might-soon-recognize-your-voice-even-better"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1653833298.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Google Assistant might soon recognize your voice even better"
     excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android. According to GSM Arena, it's interesting to see that Google is taking another big step towards improving its smart assistant experience."

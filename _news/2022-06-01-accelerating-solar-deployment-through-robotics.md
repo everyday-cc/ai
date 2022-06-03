@@ -47,7 +47,7 @@ related:
     provider:
       name: Design News
       domain: designnews.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.designnews.com/sites/designnews.com/files/Robotics-Grace-Still-6.jpg"
         width: 770

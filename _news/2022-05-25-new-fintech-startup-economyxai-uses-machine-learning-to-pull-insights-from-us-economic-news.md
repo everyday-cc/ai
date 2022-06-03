@@ -1,20 +1,26 @@
 ---
 category: news
 title: "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News"
-excerpt: "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,"
-publishedDateTime: 2022-05-25T00:31:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news"
+excerpt: "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May"
+publishedDateTime: 2022-05-25T00:45:00Z
+originalUrl: "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news"
+webUrl: "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
   - Machine Learning
 
-secured: "yEH5dCvx8DEv5VVsxv+MFE4amsLdY0GcWCYxONOErI6GOQ1V0eQSo5HvP585L0GEckcLIBPhd2DbcngNWBn4Je+kURnRYOb/rGz+fjcUrLOPl/kSly94MflLwmBFKZ/NbPbWIYyUwpO09fB1boVD3o/WUGeIbZtJLi9K9U+TPI82iSnoiNBwgW3dIluas8IkTplhDN9VLjHM2s1l6cthrf8OxDZuodqD7uEit4MRjxSiFV1tUay7HJvFoRtcosTCfAiYcmqqHLO/+TjCUqKZLAvgkQ9ujyNjSu8JDGQDiRcfEZFGCgyqnor/k/11lJkhAHsCRNjr13yIy5I/sigSFs6xbS6TAWQo/W2XmX8HrBvetiuMk50HpoLAZX0lExoCE69i1nZcacJ2czUfp7meuMg4JvF2OvTomTWy70b8HHXJufgOV97X6dL2GkL5VAppY0IsBS9vmsFPXVfcBx58Ru90ybieuj5YfZiGrShyv64W20e2wGOD/eWQGjkqGNubqNvhoz7kNA1YQLSR02kU0w==;55/IjzvQD0Tbj1/h57VpVw=="
+images:
+  - url: "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png"
+    width: 1500
+    height: 942
+    isCached: true
+
+secured: "gi/qlxEs21+6N96IPV42qpPQ/dWRxi7ssYjYmXSrE9tKv5rAddZPTTu4niz7BQqnfF72WtnEXj4nzgxiROC2UW1WPwd27jelFD6b7cnUlzjQCg/adUyQ5yJ/1X+xEyjWQ9tYUX8r3TZPDPE/N3NwoyH1k9RPbm9dlBCrJGmCydTwmNo4nzqMiph8cKx2rFU4OOZHBbPoUrOALxALOp9owZ7frEe7jXd6qPXj/eUorRR3Af6aZ/e2J8dhbdVk2bKi+jUz0U29uhESvf/k3xRWS4miTR5t6cCTceybf5RN0dBnngFudkNcJh1VSiAn7jS96/RgpL23ugsHUULY/kmaH5rLYXUilGciOnNFNwUu2fM=;Ch1Q2Hdgi5NDl+8i1VBb6w=="
 ---
 

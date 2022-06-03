@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/06/02/announcing-the-4th-annual-ventu
 webUrl: "https://venturebeat.com/2022/06/02/announcing-the-4th-annual-venturebeat-ai-innovation-awards-at-transform-2022/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI Weekly: Defining, debating and honoring AI innovation"
+    excerpt: "It's the beginning of Pride month. At VentureBeat, it's also the beginning of a six-week-long deep dive into AI innovation, culminating in our 4th annual AI Innovation Awards."
+    publishedDateTime: 2022-06-03T03:30:00Z
+    webUrl: "https://venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/"
+    ampWebUrl: "https://venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1370838355.jpg?w=1200&strip=all"
+        width: 1200
+        height: 768
+        isCached: true
 
 secured: "UuY84pJ47SHy8Tkq6tvgRU2/omxUVvByoWOvVXfScgwvRrVdN+yvdX0GXLY+XM+xqxXS8h2SRmLMZ/KfTL3efnRVagUOXXrQSsRtPSAaJz2F/uMZzf5/5CQ4jYK6LkKVYqV4CRMgZkctdphGuMUg7LB0gFO3ivCZkeByqGq70TPhSEqHY59OXqodmEoD/I5UOC2v3g45SuOWw4yQXsxnu1hE6CsMGNUht4WbHoo8cBsNwzImXKjlSD3H4ECYgqQk+8NslL74r9zbTUIYEqVt6wF+3r/E0Z9dxSysRr3G0E5qyvu1+wkRwAYOYpoj8tl44W7MHaMwEKtXDPzFWoMIw6x5Ka74EyJ6SV4FoOAcnvk=;zz/jGfeW4jGSM2temPD22Q=="
 ---

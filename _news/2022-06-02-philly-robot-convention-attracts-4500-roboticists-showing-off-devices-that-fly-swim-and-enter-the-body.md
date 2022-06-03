@@ -41,6 +41,20 @@ related:
         width: 526
         height: 480
         isCached: true
+  - title: "Bringing a Little Grace to Robotics"
+    excerpt: "A humanoid robot named Grace can respond to human emotion and transfer knowledge between tasks and situations."
+    publishedDateTime: 2022-06-01T07:10:00Z
+    webUrl: "https://www.designnews.com/robotics/bringing-little-grace-robotics"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 56
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/Robotics-Grace-Still-6.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Accelerating solar deployment through robotics"
     excerpt: "AES Corporation details the development of Atlas, its first-of-a-kind automated solar PV project installation robot."
     publishedDateTime: 2022-06-01T14:33:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://www.pv-tech.org/wp-content/uploads/2022/06/AES-Atlas-robot-AES.jpg"
         width: 1600
         height: 918
-        isCached: true
-  - title: "Bringing a Little Grace to Robotics"
-    excerpt: "A humanoid robot named Grace can respond to human emotion and transfer knowledge between tasks and situations."
-    publishedDateTime: 2022-06-01T07:10:00Z
-    webUrl: "https://www.designnews.com/robotics/bringing-little-grace-robotics"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Robotics-Grace-Still-6.jpg"
-        width: 770
-        height: 400
         isCached: true
 
 secured: "l6t/sqtlpDQ+FY6HtObO/by7YKN93WU1CcC2gCXhKLIv52UFHXtdhh+F7HX9w/p52yAcxtppz+MrlzccM/MbQc2PzktmbrfbfDbYZieUDUCkBlXWC4tJ98qNyE/Hc0vDmKAI++/3dczEboSY1NfgYibcQYrUm/GzkVp3MW0y6WEihj4t5ov9dio1vxp/PAjMhjhNFK+hRpOBBIyHBUmVzoxMxRhDOYZ5JCTU51hqHpEoKl8xF7rDkUwM5MaU7aW1UJfU3uHWIUKf9GiwJl9mHAClTWdKx6kDOzz6jbAAskBHimyXYPnCqLNhLGQz+3ZP3i5rQFgjx+eaG6n+clxJdlBhBoBcPugHZbr7ApgTcsFBZxqPKxTNiKWAs/VV/Er86OMeXR8/ZE9+rFFgycNzezMUsQ1YeDjZWcs232mDkGUA8uIavNrs8efPGt+dhy3tH34MuP4QPXXpHfvBCsMgESQ57FKQaevpOZOVnzOjb5NoFMf91lrDTJuK+e977juZdwyr/v/HaO2L727oJSYqqg==;nATa/6F4Ive5fFoWqj8FGQ=="

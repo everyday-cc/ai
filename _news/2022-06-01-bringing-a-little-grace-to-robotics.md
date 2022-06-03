@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-01T07:10:00Z
 originalUrl: "https://www.designnews.com/robotics/bringing-little-grace-robotics"
 webUrl: "https://www.designnews.com/robotics/bringing-little-grace-robotics"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.designnews.com/sites/designnews.com/files/Robotics-Grace-Still-6.jpg"

@@ -159,20 +159,6 @@ related:
         width: 900
         height: 650
         isCached: true
-  - title: "Google Assistant might soon recognize your voice even better"
-    excerpt: "Potential plans for improving the Google Assistant feature have been revealed after a comprehensive dissection of the Google app for Android"
-    publishedDateTime: 2022-05-29T14:14:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272569040/google-assistant-might-soon-recognize-your-voice-even-better"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1653833298.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "1y2EvSzvaeEML6nqRzaG91abBa8aUoPi/COmI8IqAgJjYU+wrmv4tWPayA9l6vv/dFb8KoiVwD3NANtOocNKw4yVgntbNqiC/o0cUz9VKyg3DNxW7YDhPMtAKitjXIqnFVW/wKocSVxyvoz44/VGWajGqrQjHO1z78w3NkKr1zRfZxUnF8D0hKaLEe7CgjU8PYNatjpHxZV2LDMN8GhUm/n1BTrd6fxmHuMEpbZ+lJN9akZVNGhFw0ZFNvsblwcQ4HI+Tl4mlIh52h6qrw39UgV0ywn2SgLeAPsvmeM8oXxVmC1Yi3W9t+BldGKAJHr44yNAXheg2LHzbNJ2zrLCIK+82OtaAMcIWt6QnHXnuAA=;D3pOv/HOvrRAQbB6aeFHfA=="
 ---

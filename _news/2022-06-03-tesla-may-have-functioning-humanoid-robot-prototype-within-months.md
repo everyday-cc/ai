@@ -39,20 +39,20 @@ related:
         height: 628
         isCached: true
   - title: "Elon Musk says Tesla AI Day pushed to September 30"
-    excerpt: "\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,\" he wrote on Twitter, almost two weeks after he announced the date of Aug. 19."
-    publishedDateTime: 2022-06-03T01:42:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html/amp"
+    excerpt: "\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,\" Elon Musk wrote on Twitter, almost two weeks after he announced the date of August 19."
+    publishedDateTime: 2022-06-03T07:02:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/elon-musk-says-tesla-ai-day-pushed-to-september-30/articleshow/91979661.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/elon-musk-says-tesla-ai-day-pushed-to-september-30/amp_articleshow/91979661.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-says-tesla-ai-day-pushed-to-september-30/amp_articleshow/91979661.cms"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: India Times
+      domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/05/Elon-Musk-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1482980,msid-91979650/elon-musk.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Elon Musk says Tesla likely to ready humanoid robot prototype within months"
     excerpt: "Elon Musk, the world's wealthiest person, has said that Tesla is likely to have a prototype version of a humanoid robot called Optimus ready in the upcoming months. Musk had first"

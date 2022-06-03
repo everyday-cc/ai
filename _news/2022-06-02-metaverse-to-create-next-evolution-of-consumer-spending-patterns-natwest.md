@@ -2,12 +2,14 @@
 category: news
 title: "Metaverse to create next evolution of consumer spending patterns: NatWest"
 excerpt: "The pandemic brought the urgent need for enterprises across the spectrum to adopt new and emerging technologies. The global banking sector has been at.."
-publishedDateTime: 2022-06-02T06:37:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91956898"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91956898"
+publishedDateTime: 2022-06-02T09:29:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600"
 type: article
-quality: 3
-heat: 3
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +20,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "CVY3SZj7ibflsu0hVGRokhHOj1F5WbTexbZkZWdc/kaFvcHFlcN9jT+kLv8/if12BN/GdtRNK9Hs98CVtMDe0TBVukhxjdSi8h6JBGMIfJ0vGEKHPO10GoNvwUMpeUtErHNaBKBAW3W0klzBni92mgQmu8Y6lCgAuW2Az4EbdX9RFXCe0jxScKroYqZ9+g4jX+wdSefBc+47jagU+AFdULFDsZK7iT9FSMbYQ2ZomBVnGlZyVse8IbYn0CP1+4y0chVw7QUr7uPcVcYibPon97R/weIsIzsOi8i2c4aF9pHjiFRLgI/0fRwf3QwuX2ox1rKrkd4mmFrf5yVB9zOMfKVhn8rCPHHLvG8U/WmS+D1+It6FAwnYafJ9IXNQ/1GkroJ1pooDBjxIiV0LRv1NmNfOeDDuuUcMIWEH2eeiKd8lpwfycHIqBFSmuAuQAHryetF9XGM+VQuj5e6eTcWEzII9RemHHVR+6xZRGse9XzMTEcksQ8zPb58CqXvb93KKnhLmuMOGW+E+WY32EjMetw==;JGsgk2HVWkECtgWYJfHBQQ=="
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-91959600,imgsize-47826,width-1200,height-628,overlay-etcio/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "jKG8Gt85lOPuFVEF1o7cfS8J0c4ZvxkwnhXWhG8U69yIEaS7WArqtqY6bJvu4YmBN1Fo0TY/ZPih/YMb9PsKzupXlemmGakrynvIBxf9s43S3wEHBZF5qsRWtDpKRNpJWzC5F139oQAbB64QYjN185cN6+ACKZbUuLCT8xvB4x/I+Fj8JXA/kBc8as6DZYuORnQPRgVV3VUo/GODIzKGsYWoNgINBBRqiVTNJc45oIhxKXd0kKfIu6TUfDDPhdUJAOrxM+sHg4n1IVGXf0MZLvalEQhZINqtu9bi5C9dx69B3UNQXvASYH8d8Ov0v5W7m5tlaj+pia/Dx1hg+rs1Ts8xzE5lEEx4eFB14qpyEgo=;1h9hqUUE5j7YKaSJt3pzcw=="
 ---
 

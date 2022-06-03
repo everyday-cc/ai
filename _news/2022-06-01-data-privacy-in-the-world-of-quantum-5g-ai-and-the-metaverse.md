@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Kiya.ai launches Banking Metaverse – Kiyaverse"
+    excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor? Well, the day is not far when you will be"
+    publishedDateTime: 2022-06-03T07:12:00Z
+    webUrl: "https://www.thehansindia.com/business/kiyaai-launches-banking-metaverse-kiyaverse-746599"
+    ampWebUrl: "https://www.thehansindia.com/amp/business/kiyaai-launches-banking-metaverse-kiyaverse-746599"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/kiyaai-launches-banking-metaverse-kiyaverse-746599"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 57
+    images:
+      - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540906-kiyaai.jpg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "Meta set to join Broadcom's $1 billion custom chip customer club - J.P. Morgan"
     excerpt: "Broadcom's (NASDAQ:AVGO) custom chip wins are speeding up at Facebook parent Meta Platforms (NASDAQ:FB), J.P. Morgan says, predicting that Meta will emerge as Broadcom's next $1 billion-plus cloud ASIC customer."
     publishedDateTime: 2022-05-31T15:49:00Z

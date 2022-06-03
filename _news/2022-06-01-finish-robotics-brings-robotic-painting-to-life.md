@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bringing a Little Grace to Robotics"
+    excerpt: "A humanoid robot named Grace can respond to human emotion and transfer knowledge between tasks and situations."
+    publishedDateTime: 2022-06-01T07:10:00Z
+    webUrl: "https://www.designnews.com/robotics/bringing-little-grace-robotics"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 56
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/Robotics-Grace-Still-6.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "Accelerating solar deployment through robotics"
     excerpt: "AES Corporation details the development of Atlas, its first-of-a-kind automated solar PV project installation robot."
     publishedDateTime: 2022-06-01T14:33:00Z
@@ -38,20 +52,6 @@ related:
       - url: "https://www.pv-tech.org/wp-content/uploads/2022/06/AES-Atlas-robot-AES.jpg"
         width: 1600
         height: 918
-        isCached: true
-  - title: "Bringing a Little Grace to Robotics"
-    excerpt: "A humanoid robot named Grace can respond to human emotion and transfer knowledge between tasks and situations."
-    publishedDateTime: 2022-06-01T07:10:00Z
-    webUrl: "https://www.designnews.com/robotics/bringing-little-grace-robotics"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Robotics-Grace-Still-6.jpg"
-        width: 770
-        height: 400
         isCached: true
   - title: "Philly robot convention attracts 4,500 roboticists showing off devices that fly, swim and enter the body"
     excerpt: "The robots are here. An eagle-sized quadcopter flew above a wooded Schuylkill river bank, counting trees as it was designed to do in the forests of the Andes."

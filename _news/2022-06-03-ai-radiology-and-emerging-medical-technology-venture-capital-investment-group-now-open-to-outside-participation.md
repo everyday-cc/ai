@@ -1,28 +1,28 @@
 ---
 category: news
-title: "AI Radiology and Emerging Medical Technology Venture Capital Investment Group Now Open to Outside Participation"
-excerpt: "National Mergers and Acquisitions company, ProNova Partners, announces a consultation agreement to assist in the expansion of an Artificial Intelligence Radiology Imaging and emerging Medical Technolo"
-publishedDateTime: 2022-06-02T18:27:00Z
-originalUrl: "https://www.djournal.com/news/nation-world/ai-radiology-and-emerging-medical-technology-venture-capital-investment-group-now-open-to-outside-participation/article_722f0536-10db-5c4e-900b-d433cbc3a619.html"
-webUrl: "https://www.djournal.com/news/nation-world/ai-radiology-and-emerging-medical-technology-venture-capital-investment-group-now-open-to-outside-participation/article_722f0536-10db-5c4e-900b-d433cbc3a619.html"
+title: "AI Radiology And Emerging Medical Technology Venture Capital Investment Group Now Open To Outside Participation"
+excerpt: "Seventeen-year-old ProNova Partners has been contracted to facilitate the expansion of an Artificial Intelligence Radiology Imaging and emerging Medical Technology Venture Capital Investment Group. “This venture capital investment partnership was founded in 2018,"
+publishedDateTime: 2022-06-03T07:39:00Z
+originalUrl: "https://menafn.com/1104316435/AI-Radiology-And-Emerging-Medical-Technology-Venture-Capital-Investment-Group-Now-Open-To-Outside-Participation"
+webUrl: "https://menafn.com/1104316435/AI-Radiology-And-Emerging-Medical-Technology-Venture-Capital-Investment-Group-Now-Open-To-Outside-Participation"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://menafn.com/updates/pr/2022-06/02/SN_f52f2image_story.jpg"
+    width: 800
+    height: 600
     isCached: true
 
-secured: "klDO76gQX2B2qeFVtm3tdC1BrPAEc2jib4PdKhjJ7AJIfkciacLj02ZGbuMOsYygpgbcU/g4y0VRQLDATBCy9Mgz6JcR0O9O3uWKSQaD+2mJVZh2/qFcVMOJZXZcnmUhwByAEjRqD5wrwgnbZPO6MyOgaqrXvmvjFe0DLXeM/lxaa6RW4JskFunLf3Hyz5NYxpL97wJ25ZTJwWvGJ6brsv6W9AgFawxVpzgz8g8bvlxsWK6975gGBCGMgQg1Q9oSeEMipvXr/WgHWUGze4Kz2AC9oZHu6CkI4fd97BcFKRQJHk81vRc9vwqq/0VOiwOl8J2FeI3+11yTRnoIwPslyLWvMzKmt5YLcW0e1w7/z9I=;7qyV0sGROd7SG2S1YuaB8Q=="
+secured: "HQWFpgPtcreUVFhTYcNpGNprUC7UAXOYraUskw7N7ZcQQm7sq3lwMMkGcQ+wCcAP4zVf6KcXOkSva2e40ex+AK3dDByKhqOHRrMW16/f8L1y07xEiOkqZZ6aIWU3wDmKdklsspyG/J641xTcD142K/rYdtx6FgUGeuiM+eR4KWSAqxNmeW78PfDpYZVX8cwdf8a4u392sJuUHhUdGxy55dtAPbt/pKF3rpBa/Y3L0LWTuEjLTWz8GhUYibJfkhxCjz13GZOuUTOz11Sd+XtdDRGOI4luAPr00ZjGAjv8Hd1/4NncEIpsWfGaI+MEbF3DBkfrgbFPVxr331XEiN1MwNQPAWVOsJ3oedQchjbPKG4=;N4r7CdQidYIKv4ijpSvzfg=="
 ---
 

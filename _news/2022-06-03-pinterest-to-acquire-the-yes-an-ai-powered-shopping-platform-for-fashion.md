@@ -41,18 +41,20 @@ related:
         height: 576
         isCached: true
   - title: "Pinterest acquires AI shopping startup 'The Yes'"
-    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum. THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO,"
-    publishedDateTime: 2022-06-03T05:20:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
+    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum."
+    publishedDateTime: 2022-06-03T05:48:00Z
+    webUrl: "https://www.thehansindia.com/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+    ampWebUrl: "https://www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 57
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sharmila_030622_Apartment1.jpg"
-        width: 600
-        height: 338
+      - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540842-pintreset.jpg"
+        width: 500
+        height: 300
         isCached: true
   - title: "Pinterest collaborates with THE YES startup, here are all the fun features you will experience"
     excerpt: "Pinterest along with THE YES startup might come up with best possible online shopping experience, but this is just a guess, as the company has not yet disclosed anything further."
