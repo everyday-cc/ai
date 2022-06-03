@@ -18,17 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "State initiative will distribute more than 800 robots to help support older adults"
-    excerpt: "Juanita’s friend always asks how she’s feeling, wants to know if she slept well and tells jokes that are so funny, Juanita repeats them later at dinner. Oh, and Juanita’s friend happens to be a robot."
-    publishedDateTime: 2022-05-29T18:02:00Z
-    webUrl: "https://leaderherald.com/gloversville-local-news-johnstown-local-news/local-news/2022/05/state-initiative-will-distribute-more-than-800-robots-to-help-support-older-adults/"
-    type: article
-    provider:
-      name: The Leader Herald
-      domain: leaderherald.com
-    quality: 13
-
 secured: "IIFYde/KoOHbQoGPcWukr8xxxw2bv0nL8ucvlFr1TTOlg/CCWh7TmAe+zZGxLhhqxBRL+MvY0FfekaoydUPqJJxSX1y+Sup1ldIRR6eCdKCrNk4dl2umNn8MZzem9uGovf8GdEDN2hMLDQ3QSAKuiI10dkKlDfnKlC+qNJ+uFc9u4cqxdxU5xiU4/n5ZRxmSd1IgBPdoE6vQidwdRX4o3B+UifddvE2JdWjADzanaEORkMeWdQuUAdgumkv1wPY+T1WI09nQ9ksEnKaHYmzCJ7LBP4J9DKe8kiogH89P2erUcs50417U8HT/C+tXBtI6Wf5n4GIum9l5rcqcjjypXW19a/jBshdKERcFrBrlnn+zsOngRlk130NGIiRp7jiCh+2ATYKE/VTBa8Jsx0G2WJ8fDnLnyFIA7rBTBSNkp6z8eyqWMt5ibI7E4EQXSE8LW+UvPun2jCo5a4QStvlmRr36rBhHhRbueiB6RzTl5SfKLSu7K6PxBxcQP+0zub9pzgH3uBiJRm0wqY7niR3uTw==;F6/tS8H++OSMSLjIjkn/zw=="
 ---
 

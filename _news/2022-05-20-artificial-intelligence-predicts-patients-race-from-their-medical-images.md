@@ -5,6 +5,8 @@ excerpt: "The miseducation of algorithms is a critical problem; when artificial 
 publishedDateTime: 2022-05-20T13:39:00Z
 originalUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-patients-medical-images.html"
 webUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-patients-medical-images.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-05-artificial-intelligence-patients-medical-images.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-artificial-intelligence-patients-medical-images.amp"
 type: article
 quality: 18
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-36.jpg"
+    width: 2880
+    height: 1373
+    isCached: true
 
 related:
   - title: "No, MIT’s new AI can’t determine a person’s race from medical images"
@@ -34,6 +43,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Su9yaMDSMaihNobLVSYM3PVmYBKTH99XoTjcoGobtO9ep1hZ7xB0LxW+ZXpGUR5s4YQRE2nZO7bcffRfYsRQ9zQZ5+t0fnKxOx7fG+FeZW4jE/oL44KN02WhzjhZOwo7cwtPp90jlRRY7Co7EKKkmNW0c/2YUNMrA6ayMtydrVQ7K4aGn4il1IR1cZXZAn5zSXPHPHKefNxcxEEW/XreVeeK0IWMj400o7cIEW58lnx/ZKXAEKW7LxB2o3JlrEgENjYhBZx5fm8aVvrZj8RKIJV1aRd6OtIhYmcQlL4+pAqB/nwZxPUR4MKqtZ2rxfAyKLVkXtb29FEkIDRo6HUJyVroqZTT7rMsgCCHbolEy2gUFSo5CgHrzNiOsg0qm0H+eJJq682QWG13bveaM11H8VA66Zbn4qCTqvQadKbIWhtIQizonFeGA2hQXDC21x1qPtD7QU+pLC96Ura0xfcFVVS7NbkycoEj5rS2YzCc21uYQsrFBR2RUaX9yQgILsoOLPHaHHDTptIGwOIhwSlS3g==;94YT+cW2HfSgPEPa+GhWMw=="
+secured: "fPx+EdnOpyrkRqpg4W83QAlgupYsYfZqTCTi6goHuSGU9Cf/Ita8fPQYvG6e3A/qNSG5F3CS0lWSVp6uhFYS6NNnB9QAtVu25BbvRWviFCXY/z8RArlL7rRmezo++MEwnU6Vy7gWSlNUo3ILOme/Y4GieE5VYrrojP6taQNnC2E42XhPeLH4IdZx2OGWGHgFCvdp/iqrjvy0BjyCYse4zgU2hO0AhWEkSF+K1tYH9yg6YbuDryfvlNLEejbfe7KjamyaFjiBtZRFAzlj3JqfES6oU7+u/CJeKaNi8Q1/8L4NdCDBXlwm1JyHBgCbVcRYH3bKExF8sHDbrahkpRpm7W0K/8JkB+tXjfGalCaJMNc=;Ru0WSGgf2c8wDAYkSrAhXw=="
 ---
 

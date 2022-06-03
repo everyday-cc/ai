@@ -31,20 +31,18 @@ images:
 
 related:
   - title: "Pinterest acquires AI shopping startup 'The Yes'"
-    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum."
-    publishedDateTime: 2022-06-03T05:48:00Z
-    webUrl: "https://www.thehansindia.com/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    ampWebUrl: "https://www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum. THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO,"
+    publishedDateTime: 2022-06-03T05:20:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
     images:
-      - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540842-pintreset.jpg"
-        width: 500
-        height: 300
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sharmila_030622_Apartment1.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "Pinterest to Acquire THE YES, an AI Powered Shopping Platform for Fashion"
     excerpt: "Today, Pinterest is announcing that it’s signed a definitive agreement to acquire THE YES, an AI powered shopping platform for fashion that enables users to shop a personalized feed based on the user’s active input on brand,"

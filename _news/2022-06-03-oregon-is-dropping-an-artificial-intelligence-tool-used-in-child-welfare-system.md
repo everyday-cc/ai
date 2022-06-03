@@ -2,25 +2,27 @@
 category: news
 title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
 excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
-publishedDateTime: 2022-06-02T21:12:00Z
-originalUrl: "https://wusfnews.wusf.usf.edu/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-webUrl: "https://wusfnews.wusf.usf.edu/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+publishedDateTime: 2022-06-02T17:12:00Z
+originalUrl: "https://www.wxxinews.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+webUrl: "https://www.wxxinews.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+ampWebUrl: "https://www.wxxinews.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
+cdnAmpWebUrl: "https://www-wxxinews-org.cdn.ampproject.org/c/s/www.wxxinews.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Health News Florida
-  domain: usf.edu
+  name: WXXI
+  domain: wxxinews.org
 
 topics:
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/3ff5ecf/2147483647/strip/true/crop/4500x2363+0+309/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F02%2Fap22152597835977_custom-39b4163664f9c1f211f24f2e60c157a4a3c0286b.jpg"
-    width: 1200
-    height: 630
+  - url: "https://npr.brightspotcdn.com/dims4/default/d46db07/2147483647/strip/true/crop/4500x2772+0+105/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F02%2Fap22152597835977_custom-39b4163664f9c1f211f24f2e60c157a4a3c0286b.jpg"
+    width: 880
+    height: 542
     isCached: true
 
 related:
@@ -41,6 +43,6 @@ related:
         height: 682
         isCached: true
 
-secured: "XAFR+Dahg9OfzwMsmdUuzkIOYixP3iUjoLHVX8/uUqtmHJT0+lAjGxAvCrtxyZoT254+5EjUgi5XvolZdrv8uYfR4NRJrzwpxCXwLNBntQuUpMKD8HwJKSO77HD+PQj6CY0j4bMmCVD02AnLay/sdfkAXBnHZaAy3tJgId50e079qI3iHmXZ06RTbXKrOsN85LRrvqRg1ez4+EUTm+IVMoZP+i1VXoxq85ppgYPvWq7nuK89IzpxZNMEuKbFSNrZHYbKc9X135cNmTLxX+cQF3ZzVrsc3xix6MuRhzKTdEGYz3XJ0/NbktnxgAWKwBDUsMpJhTar0ZUDaQzIdSRgLHIT1Am7V/lsu1YNzZl0frg=;TZjYcvlQ16HYavEv+thqJQ=="
+secured: "WIVFgWtglrDjuY150Mhgbvfs19kvf9XA75sff+W8yA8H4QGt1hTdJAm9OeguhBhU7ogzgJfX0WrnX7HmJw5qmcL/zZ5KJQJdK/QkjFJJ1HdRq1+yFeBlDM3Eq7Y4zo2MB/LxVjHMEtIhx19vyVWMfi2l1XZeycI/UBP+a72JQNIGhYcn00HlRy77+1WjPcTpUrUi/4uGiLezWdQSest5+TKk+CLBOZGgrESN+F4kqCZEGyT9M1WKGYVgbEkiFAispXbUHQasPDbXeEpxil0XK6CibHWP5dyf+UU+OwENKgotCD3IUeolg1zczFF6y3vddk6iG1Ho7X8BKbMWKcxEvr6k6CV4WQp0NuLVKZAkgyE=;3JKkw1cIvMCAlJ+1hCCBlA=="
 ---
 

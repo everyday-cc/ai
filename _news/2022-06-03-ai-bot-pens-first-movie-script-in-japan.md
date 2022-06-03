@@ -8,8 +8,8 @@ webUrl: "https://www.laprensalatina.com/ai-bot-pens-first-movie-script-in-japan/
 ampWebUrl: "https://www.laprensalatina.com/ai-bot-pens-first-movie-script-in-japan/amp/"
 cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/ai-bot-pens-first-movie-script-in-japan/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.laprensalatina.com/wp-content/uploads/2022/06/1832ce2107b3ad00ae7948ce264b64f066fad019w-1024x540.jpg"

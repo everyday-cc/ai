@@ -2,6 +2,48 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-04-12-chronic-disease-management-startup-curie-ai-secures-seed-funding-from-resmed-to-advance-respiratory-illness-evaluation-and-care.md",
+      "title": "Chronic Disease Management Startup Curie AI Secures Seed Funding From ResMed to Advance Respiratory Illness Evaluation and Care",
+      "excerpt": "Curie AI, a tech-enabled respiratory care company that has developed cutting-edge technology for passive respiratory patient monitoring, today announced the closing of a seed round from investors that include ResMed,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-ecb3537e5aaf4af6a2f50fae4387a9ad",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-ecb3537e5aaf4af6a2f50fae4387a9ad",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-exco-acquires-machine-learning-company-bibblio-to-expand-website-personalization-capabilities-for-brands-publishers-and-e-commerce-businesses.md",
       "title": "EX.CO Acquires Machine-Learning Company Bibblio to Expand Website Personalization Capabilities for Brands, Publishers, and E-commerce Businesses",
       "excerpt": "Bibblio has focused on building easy-to-use, machine-learning-based technologies that any business ... For more information, visit ex.co. We sell different types of products and services to both investment professionals and individual investors.",
@@ -1080,49 +1122,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-ai-strikes-again-self-driving-cars-are-already-here.md",
-      "title": "AI Strikes Again – Self Driving Cars Are Already Here",
-      "excerpt": "Artificial Intelligence (AI ... In forty years, it will be sixteen times faster. Self-driving cars are already on our roads. Transportation companies like Uber could increase their profits if the costs of drivers are reduced. Elon Musk has already ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here",
-      "originalUrl": "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/Self_Driving_Cars.jpeg",
-          "width": 877,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
