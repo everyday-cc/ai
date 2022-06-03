@@ -54,20 +54,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Chick-fil-A is testing out autonomous delivery robots"
-    excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
-    publishedDateTime: 2022-06-02T00:12:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 39
-    images:
-      - url: "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Chick-fil-A pilots autonomous robot delivery with Refraction AI"
     excerpt: "Refraction AI will use driverless robots to deliver from two Chick-fil-A restaurants in Austin, Texas, beginning in late June."
     publishedDateTime: 2022-06-01T17:47:00Z
@@ -85,6 +71,15 @@ related:
     provider:
       name: Restaurant Business
       domain: restaurantbusinessonline.com
+    quality: 19
+  - title: "Chick-fil-A is testing out autonomous delivery robots"
+    excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
+    publishedDateTime: 2022-06-02T01:12:00Z
+    webUrl: "https://www.wpxi.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
     quality: 19
   - title: "Refraction Ai Tests Self-Driving Delivery At Two Chick-Fil-A Restaurants In Austin, Texas"
     excerpt: "Chick-fil-A and Refraction AI intend to continue studying autonomous delivery in Austin at the Chick-fil-A restaurant on Martin Luther King Jr."

@@ -66,15 +66,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 42
-  - title: "Facing Facts On Facial Recognition"
-    excerpt: "Clearview AI’s multi-million pound fine for breaching privacy should mark a turning point for a public debate about surveillance levels. By Niel Jones"
-    publishedDateTime: 2022-06-01T13:18:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/facing-facts-on-facial-recognition--6326.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 19
 
 secured: "rFE+SOZaCoqs3g3zULn7msVEyP+uoG5FPlNSnat3PJUqLy6NXQMpxtSHOzgGJUdF9jEG8KSlDHmb5w78AqLCr8Z3SRjnHEzA/y6kMU+GOogMw0+I3yD9ArpD4c44t8DgeZV3ERXSc4Zmtx0L3Ut7u0hT93yaZXA5TQLD8WTSFUPuEXYouO3RVnt75EPtWGkzLH90HKTnVlYIABMlgPdYdPcrPGvffwfJIfEX+8m7Hw6zsnp5DBYYdFFEsY6TZuiFOK31GpasWdLKigdCXx5X//k6yp9iaZ/byEPyIBdb6NeX1PcHNu9BX22Mhusyw9Fp1uxC+VeLAc/cpFqX/qNSh2gdg+ki5vszfSiLhXNo3Nz903Ip3c9+1BXtr0e9rL2/am/jKRT7jLXIsnh+deh0T/YQd57x/2EacUBp//Af/d9zP/R9Mill8vhTz2Virf79p7E+zC9r3Kj3tA2iK9ENOlsDVYmGvsCOxa6lrXhIg66N23A6/2rujCjm51Ixow04tND9XDzxUqeRtYzPgNTsvQ==;tIJpDTzTKSOYjTneQZKWkw=="
 ---

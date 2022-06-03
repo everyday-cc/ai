@@ -1,10 +1,10 @@
 ---
 category: news
 title: "New processors make edge AI more accessible while cutting power consumption in half"
-excerpt: "Adding edge AI features to HMI applications ... tests and sells analog and embedded processing chips for markets such as industrial, automotive, personal electronics, communications equipment and enterprise systems. Our passion to create a better world ..."
+excerpt: "Expanding on its history of delivering highly integrated processors, Texas Instruments (TI) (Nasdaq: TXN) today introduced new Sitara™ AM62 processors that help expand edge artificial intelligence (AI) processing into next-generation applications."
 publishedDateTime: 2022-06-02T16:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-new-processors-make-edge-ai-more-accessible-while-/2022/06/02/9613952.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-new-processors-make-edge-ai-more-accessible-while-/2022/06/02/9613952.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/06/02/9613952.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/06/02/9613952.htm"
 type: article
 quality: 33
 heat: 33
@@ -24,6 +24,6 @@ images:
     height: 225
     isCached: true
 
-secured: "92UQKbLH6VWWFzgn7vQhD/mDroW2ULaBFeUG7ZLWFE8qDlPJeWUPfpzWCyFv9SVVl3kPyyIzNTWfmBf5ZkH3uZUFJTX6x4grRYPLc6hABrVgArbfEZc7Scd9uvet6ylfnHucCRCRTZ9KgibYPusdcG136l61C1GYxYHQTsloxLuNcVEKczXIw8FhIJaPyewCU1OoAhPN/A6AEbFMd0BUnxeOstc9cN1wvUphRJchh6c0Dx6qCJ2vlHpHi4xXvNNza/je8c7CcQTw3cVkZqXvgujiPrnTRfG1gYX4VXUIX1kCOIf+ai+rKksIM9YzavH78/XkX1QyPX1PqzHyU9UeUtZW+AUDW11uSxMPcMGpjyg=;YDf1PsRcEzhxTNrWZ2cw7g=="
+secured: "C6c4x828/gZ5YkZN3NRhJ/Lb+F7VLnVMSCsb00kOL6+arRR9gPeaqiTmG41Am+boEdSEY32Z4VE+L6nMOQ4hOni4cb6cDWE/gtBiYlA75AVUT0Tkbo5wuf0Yy2BWvH8jmArKXk9jTyGxbPktZazjPJF6d61sp1AN5c/zKwb/js3Z9cMJ/kD+QXRuDgttu2q3PY2uMTr490PBtjKqeBSTgW3d+z0ujVAOkKa2B/3pyMAH/E9NNNYQfieUIhWFbDrnUK9puLg5Te+CdAbdGy6joVdvKEsgLTkLZknyeRuGLH/6nv+Nr184kt5IT5suiHO2YaBiLuL1gzk93RronXrj8YDF+24yCvZujbne9uZWeTk=;tR0JHApnTC0yBpFbrqsKLg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototy
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -128,6 +128,24 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 51
+  - title: "Elon Musk says Tesla AI Day pushed to Sept. 30, awaits Optimus Prime"
+    excerpt: "Tesla CEO Elon Musk tweeted Thursday the the EV maker's AI day will be delayed until September and the Optimus Prime humanoid robot may be available then."
+    publishedDateTime: 2022-06-03T13:15:00Z
+    webUrl: "https://www.autoblog.com/2022/06/03/tesla-ai-optimus-prime/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 36
+  - title: "Elon Musk says Tesla AI Day pushed to Sept 30"
+    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30.\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,"
+    publishedDateTime: 2022-06-03T13:31:00Z
+    webUrl: "https://www.channelnewsasia.com/business/elon-musk-says-tesla-ai-day-pushed-sept-30-2724526"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 36
 
 secured: "HdOtcFQF6h+4Hy58HMNKiyrspfvpnhQgWKpqs7JU+LrCt3plt4Y6UUPtLdsXZDtUGYonrBDHK0SjX51gTl70UipGFTuCkyemhP8BIBB4hM0WH2oNvE4lYhWZZsgCmSJ54Faf3tTO3s+uAOiPPm9YOKYEc1xkkYxmSmJrHNQuj9jPJt/LS3uAmN26WO9ayGpu0phCwt9TWdSQ59mnNjL6HdqZxASlJNVwmUeecEl0G60l6evGkqrQPfxDpVIHymftSGoocGiFgiMpyI7wrP6XVbCcuW+SBdUueJi6QJDSu2bTlA8KHMS/W58FSbEvC1FAfdPRhzNYe16jpJoOQmA62ZyOf4qmb0FFcYcTga0dVBEys8ZG1ES65IJRplD4uMMSTEdu0dr1+luJmkf+hvYjM30x1+dnVobnBD6wE0aGJvPrcNoMB3MeYYGZvyvd8glMsubmlebkdwmlb8HwrCi/xufUYSst4OSeso0ttnCxCPj2lhPzbNI4/ZygdEMnCUZpJqseSIOMnWpeF5N2eH5lGQ==;3w2ECrNwZV/xslxHRmRreQ=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 761
         isCached: true
+  - title: "Argo AI's self-driving car prototypes go fully driverless in 2 US cities"
+    excerpt: "Argo AI, a self-driving technology startup backed by Ford and Volkswagen Group, reached a major milestone in May. The company's prototypes are now fully driverless in Austin and Miami, where they are faced not only with heavy vehicle traffic but also a high number of pedestrians and cyclists."
+    publishedDateTime: 2022-06-03T12:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1136020_argo-ai-s-self-driving-car-prototypes-go-fully-driverless-in-2-us-cities"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 33
   - title: "Argo AI is currently testing driverless cars in Florida and Texas, a major step for the Ford and Volkswagen-backed company."
     excerpt: "Driverless cars driving in Texas and Florida. The news comes after a period of stabilization in the automotive industry, leaving only a handful of well-funded"
     publishedDateTime: 2022-05-31T08:23:00Z

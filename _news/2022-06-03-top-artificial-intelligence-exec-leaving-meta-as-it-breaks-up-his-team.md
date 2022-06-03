@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T13:41:00Z
 originalUrl: "https://www.bizjournals.com/sanjose/news/2022/06/03/meta-loses-top-ai-exec-as-it-reshuffles-his-team.html"
 webUrl: "https://www.bizjournals.com/sanjose/news/2022/06/03/meta-loses-top-ai-exec-as-it-reshuffles-his-team.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: The Business Journals

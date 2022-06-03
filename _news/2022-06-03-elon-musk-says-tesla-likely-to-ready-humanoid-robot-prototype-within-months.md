@@ -124,7 +124,25 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 51
+  - title: "Elon Musk says Tesla AI Day pushed to Sept. 30, awaits Optimus Prime"
+    excerpt: "Tesla CEO Elon Musk tweeted Thursday the the EV maker's AI day will be delayed until September and the Optimus Prime humanoid robot may be available then."
+    publishedDateTime: 2022-06-03T13:15:00Z
+    webUrl: "https://www.autoblog.com/2022/06/03/tesla-ai-optimus-prime/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 36
+  - title: "Elon Musk says Tesla AI Day pushed to Sept 30"
+    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30.\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,"
+    publishedDateTime: 2022-06-03T13:31:00Z
+    webUrl: "https://www.channelnewsasia.com/business/elon-musk-says-tesla-ai-day-pushed-sept-30-2724526"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 36
 
-secured: "69G7hPyvKww4lMFFw3DxOnkviuQC44UOf0EJWM8yEVCIUenNtoFljS2Dw9hPiNbvAle3Gh5pLnT6XIqNPQApn5d/Jja7X0wWrp4nMTm2+/mK5SoeF+unVY+czYHSPtm+g/wWGDrh161AM5dx/g/LPs/iS9b50eCD+7GnyE2OmKp4jZQApbtIarI1hoAOXEM8kgXkYkQzWT8IrBGPSAsgHXuaiQD1866DGiSGM4WARfDzBiQuQaHZlWxZp8MNtcW5hDnIaIP6DH1+Lcv/C59Fck8QNhQxw7n3WyNZnRrz+gNMk+OyBKFPZbXOZUAmNUPni2sFZ9iG9agPkP30S02mpvrXS/trOppxG+6f3IRJq8U=;nhjqvD1sN7VnFAS8/tA3tg=="
+secured: "jv9jmjeB3atSDC0zi7g7YkKzNdpgxtkLwR4jbTHIPirJRrNFctvmekX5DSgSzkBzyp0lKZi3HH3bx3pb/qaqxQa9sddbs571KDi7u9fhqWsj7Zn1kjXuOM9uDyfVAOuQsKHysj6feaJ4GHdU4DShso+uhtUJjdoRNqNLwOCyITjmgXrGHwamBKlaC5pzZOArqa+VMZolbWZpUneH/RAFUrtlgEZmpf2ecQF3oXlM71NqnvoPez/5/4d/ZRYOvngEpXIs3lstuQKZvfrJKmTPQjJiRDEP3NNxwXqlTPZyUKxS28ClLC38aglsN2fAph7jIBRLZukEkwYnyWcSTTGJ3ybknn3oDXW6wm4Lln+VLsypXE524jSnxRRBu/DXfYS+Yyqq2wSeKxTNo5lIqQhCZB1/OcpsWCKvmcsUOPu+wIESoO9muweDTI4C0h4NIV/ihDNHaa6M6jZTrNvGSaF3bvZ3RQh4XyT2O5/ZH1y5FlXXQmEpp3x4+3GmQmTc5vjgZiIyY6vKfRaP5Gu3wNELOQ==;gPCTp8YOfOzv6qV26PxS6A=="
 ---
 

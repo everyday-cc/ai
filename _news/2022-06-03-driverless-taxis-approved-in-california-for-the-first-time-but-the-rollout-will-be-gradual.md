@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T12:11:00Z
 originalUrl: "https://www.businessinsider.com/driverless-taxis-california-for-the-first-time-2022-6"
 webUrl: "https://www.businessinsider.com/driverless-taxis-california-for-the-first-time-2022-6"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: Business Insider

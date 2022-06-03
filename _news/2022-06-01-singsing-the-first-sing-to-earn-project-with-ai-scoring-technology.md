@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CoinTelegraph
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Emerging technologies like AI going to have huge impact on governance: Union Minister Jitendra Singh"
+    excerpt: "Union Minister Jitendra Singh on Friday said that emerging technologies like artificial intelligence (AI), augmented reality (AR), blockchain, drones, Internet of Things (IoT), robotics, 3D printing and virtual reality (VR) are going to have a huge impact on all aspects of life including governance."
+    publishedDateTime: 2022-06-03T13:15:00Z
+    webUrl: "https://www.nyoooz.com/news/delhi/1679683/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 24
+    images:
+      - url: "https://www.nyoooz.com/df-images/delhi/df-delhi-5.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "FPT Software Formed New Business Alliance with Landing AI, Promoting Visual Inspection Technology"
     excerpt: "Vietnam's leading IT firm, FPT Software, has recently entered a strategic partnership with Silicon Valley AI and machine vision leader Landing AI. Both companies will tap into their Artificial Intelli"
     publishedDateTime: 2022-05-30T08:18:00Z

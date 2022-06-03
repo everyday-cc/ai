@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T12:59:00Z
 originalUrl: "https://multichannelmerchant.com/press-releases/plex-systems-introduces-machine-learning-to-help-companies-improve-demand-forecasting-accuracy/"
 webUrl: "https://multichannelmerchant.com/press-releases/plex-systems-introduces-machine-learning-to-help-companies-improve-demand-forecasting-accuracy/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Multichannel Merchant

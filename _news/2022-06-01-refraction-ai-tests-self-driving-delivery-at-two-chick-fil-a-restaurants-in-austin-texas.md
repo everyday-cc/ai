@@ -50,20 +50,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Chick-fil-A is testing out autonomous delivery robots"
-    excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
-    publishedDateTime: 2022-06-02T00:12:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 39
-    images:
-      - url: "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Chick-fil-A pilots autonomous robot delivery with Refraction AI"
     excerpt: "Refraction AI will use driverless robots to deliver from two Chick-fil-A restaurants in Austin, Texas, beginning in late June."
     publishedDateTime: 2022-06-01T17:47:00Z
@@ -95,6 +81,15 @@ related:
     provider:
       name: Restaurant Business
       domain: restaurantbusinessonline.com
+    quality: 19
+  - title: "Chick-fil-A is testing out autonomous delivery robots"
+    excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
+    publishedDateTime: 2022-06-02T01:12:00Z
+    webUrl: "https://www.wpxi.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
     quality: 19
 
 secured: "1hRfML3ZPPgyAni9tsS1g67UFeSNpGUUSNGRchR0UiyUTGBXwZbztc0FxB8PrsrrsuhjmretyVX0mOJ2iRMQO/kZbezcIzHj/pfWD6BS7uI9WAg/niecpAqp1xbwFQ7KL3hgBbacPNIeHJ6Y900rxV4Wqmu3t3T+0jPQwUiCyLITZb4uykeu36K1AxpbWEipDEWtaB0a9z7Q9UpjD6wLJ2v25ymsJqcxV8f+gpH6rGr94wv8Re8OYAIvVyGIYgcKRdS7hwnScFj/+tKyRd0aT9w381oTr2on3gv+uK+xYjQCwWifDr4UOKHhZLGmMERcoYWI8m2eU3pXvvvXk1OK/MCxVh7oUkLYctTBY41lRbQ2lr0R9plqxJB5agZMYhizQ4CfHBUyDhxhaF5vX5OxEHoU38r9zYCe8XG/xagm5qU6WYbMOIWzNLYRLMw9N0P7F2P8KDMbfRSHAzpAM0Ls39jKku+xP2Ufu9B1l/hMj/EalnypIZA06+un50BDCXjrK4Mchz901gKRDiRzMsXMXA==;Fl/WKW258MN8ciYLfSJ0ng=="

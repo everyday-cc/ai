@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market 2022 - Research Status, Dynamic Innovation, Trend Analysis and Forecast by 2028"
-    excerpt: "MarketsandResearch.biz contributes an in-depth examination of the offers sector's current situation & important drivers in its insightful research Global Artificial Intelligence Market 2022 by Company,"
-    publishedDateTime: 2022-05-29T19:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2022---research-status-dynamic-innovation-trend-analysis-and-forecast-by-2028-2022-05-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Service Robotics Market To Be Driven At A CAGR Of 23% In The Forecast Period Of 2021-2026"
     excerpt: "The new report by Expert Market Research titled, ‘Global Service Robotics Market Report and Forecast 2021-2026’, gives an in-depth analysis of the"
     publishedDateTime: 2022-05-30T13:07:00Z
@@ -104,6 +90,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
+    excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
+    publishedDateTime: 2022-06-02T18:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-regions-types-applications-drivers-trends-forecasts-by-2028-2022-06-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "AI In Medical Devices Market Size, Share, Product, Industry Growth, Trend, Analysis By 2029"
     excerpt: "Research Nester released a report titled “AI in Medical Devices Market : Global Demand Analysis & Opportunity Outlook 2029″  whic"
     publishedDateTime: 2022-05-31T13:29:00Z

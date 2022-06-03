@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T13:44:00Z
 originalUrl: "https://ca.proactiveinvestors.com/companies/news/983998/fobi-ai-appoints-capital-markets-veteran-sam-sangha-as-its-new-investor-relations-manager-983998.html"
 webUrl: "https://ca.proactiveinvestors.com/companies/news/983998/fobi-ai-appoints-capital-markets-veteran-sam-sangha-as-its-new-investor-relations-manager-983998.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: ca.proactiveinvestors

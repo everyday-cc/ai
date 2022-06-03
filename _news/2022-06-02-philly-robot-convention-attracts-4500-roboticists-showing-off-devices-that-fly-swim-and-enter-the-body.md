@@ -69,6 +69,20 @@ related:
         width: 1600
         height: 918
         isCached: true
+  - title: "From the Robotics Lab to the Wet Lab"
+    excerpt: "Using a bootstrap mentality he learned at Olin, Andy Barry '10 is reinventing himself from successful robotics engineer to gene therapy research scientist. Andy Barry '10 stands next to Boston Dynamics' quadruped robot,"
+    publishedDateTime: 2022-06-03T15:50:00Z
+    webUrl: "https://www.olin.edu/articles/robotics-lab-wet-lab"
+    type: article
+    provider:
+      name: Franklin W. Olin College of Engineering
+      domain: olin.edu
+    quality: 54
+    images:
+      - url: "https://www.olin.edu/sites/default/files/styles/carousel_image/public/2022-06/delta-on-launcher-with-andy.jpg?itok=uHErVkXh"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "l6t/sqtlpDQ+FY6HtObO/by7YKN93WU1CcC2gCXhKLIv52UFHXtdhh+F7HX9w/p52yAcxtppz+MrlzccM/MbQc2PzktmbrfbfDbYZieUDUCkBlXWC4tJ98qNyE/Hc0vDmKAI++/3dczEboSY1NfgYibcQYrUm/GzkVp3MW0y6WEihj4t5ov9dio1vxp/PAjMhjhNFK+hRpOBBIyHBUmVzoxMxRhDOYZ5JCTU51hqHpEoKl8xF7rDkUwM5MaU7aW1UJfU3uHWIUKf9GiwJl9mHAClTWdKx6kDOzz6jbAAskBHimyXYPnCqLNhLGQz+3ZP3i5rQFgjx+eaG6n+clxJdlBhBoBcPugHZbr7ApgTcsFBZxqPKxTNiKWAs/VV/Er86OMeXR8/ZE9+rFFgycNzezMUsQ1YeDjZWcs232mDkGUA8uIavNrs8efPGt+dhy3tH34MuP4QPXXpHfvBCsMgESQ57FKQaevpOZOVnzOjb5NoFMf91lrDTJuK+e977juZdwyr/v/HaO2L727oJSYqqg==;nATa/6F4Ive5fFoWqj8FGQ=="
 ---

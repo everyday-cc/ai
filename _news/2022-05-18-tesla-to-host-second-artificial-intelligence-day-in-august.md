@@ -5,6 +5,8 @@ excerpt: "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker wi
 publishedDateTime: 2022-05-18T06:54:00Z
 originalUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
 webUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
+ampWebUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "3uqPv+6BLhm/wflF/0ILBmAiUCDcImEldBZxyXUu8LqZVokgLhmoR1MbEffB8u2LsiZ8BI7Up+rXDd9LWIrCN9eXL3bGUxIS9yT9dhJHsP2Vng1+kcm3TUTiy+CZ3zjeVBSxCxgBVA39wylCct0NA3gxLPL5vz6huU7rY+ZaTLv8r9eKPZ/bcTcTc/EDBnghg4c1TxbX3LIBWFjdpjDqQEOOEW0xOy+sArD4oToxqG3AdRo+V3j8CparclS7C0BgVo7ebEHNrm7F3waCW7tG3HtxMJi0ozkwl5wOq8h4IlDsYtRgAZEaYozBkXMNljR8JUUhV2OIND3BamDBr20ti9HXn0Wt9rxjQlS4DTl8TJs=;n5Awk1zSiz+Fcmzh+JZPLQ=="
+images:
+  - url: " https://i.tribune.com.pk/media/images/1178652-tesla-1473332232/1178652-tesla-1473332232.jpg  "
+    width: 625
+    height: 413
+    isCached: true
+
+secured: "b7H67+14PjIncaesn3h4LqsmCFOWArUuiyRMPx3QfMUis2ps4MvK2TeAHixb8/uh7Y3Dql4cBK4FRRTb6pQbA+yMZUpQgJusIQ+fDlcbENqgJK4gdmFzspFsXmUk/isjvWa6OACnHZQX8+xovmL2SYB1rAQNgCi3YZ37rb3Lawjmfak4C4y0at1Qt0baTdJghr3PLxsdB4tUJHgNQOyBOHW/sfdVe8Ifbw8pGS6XzEI81fzT0ey23vLhF4jIiF4gSnB8lAaxD95M4oggNwHgwz+MwU5wIdlzAIxg4OHOUa7XSqKbWRgkPxEa9sEp9xXsamEu0wmJHD4xn7HRrWmhMMOcMOpoE7DTa55LqdMuVrQ=;K8Rw8nHsruTHAmUJlTvi6A=="
 ---
 

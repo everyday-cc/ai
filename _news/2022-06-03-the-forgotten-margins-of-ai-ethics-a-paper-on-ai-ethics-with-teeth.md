@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teet
 ampWebUrl: "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:

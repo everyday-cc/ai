@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-05-links-facial-recognition-alzh
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-links-facial-recognition-alzheimer-disease.amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facing Facts On Facial Recognition"
-    excerpt: "Clearview AI’s multi-million pound fine for breaching privacy should mark a turning point for a public debate about surveillance levels. By Niel Jones"
-    publishedDateTime: 2022-06-01T13:18:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/facing-facts-on-facial-recognition--6326.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 19
 
 secured: "lG+OAfug275kYAiKzymm4HV0FOwdcvbeu3Tq7JLXmHNFeoCr7tgn4U6EZNmGPmAz6amFQuwPONvXW3ZIVUt17Ou3Jn+nEflLugJUTlOkI+O4y9AASVf/q7Ruym5vyFZc8EWp4tY/gGdLmXJPqWwpE7N4qJnXqqHDxx1qAHghJX8gWMAtFbD1qpDG2sv1JXUN1621qYXDq0W61/WiiOBVNVLjLPw9BI6LVT4qqjdvtZNZM/QmrZgEyJw2CAUs4auOaZ6ypgcGoF7glavj3GgXXvredMC6BjVAZo6DmJVYAVNFlhA/MeJ17+iEgAYne+RZ/7fgK+KcicTAaT8UHSE0w3Gd+VlhHZ3W8I3jVf8q9obJE4Jjbf8Z5zn1bXB/2iHkMqCd3n5t8VGea1DoKItl0MLWmCZDTBsxS+xdTUV05LrpxEOsyChi2Ue6pQB7wWIEPeBCYcATfCfdLOAbWnCtt4wW4hlXmZP8fPDZHFILp9bedhPLiSXe9MSiJFMd5wX29om385uNGlhRpIJ+TxSg9g==;8Qg2RCNH+xI3RWEmPLpb7w=="
 ---

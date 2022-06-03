@@ -123,6 +123,24 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Elon Musk says Tesla AI Day pushed to Sept. 30, awaits Optimus Prime"
+    excerpt: "Tesla CEO Elon Musk tweeted Thursday the the EV maker's AI day will be delayed until September and the Optimus Prime humanoid robot may be available then."
+    publishedDateTime: 2022-06-03T13:15:00Z
+    webUrl: "https://www.autoblog.com/2022/06/03/tesla-ai-optimus-prime/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 36
+  - title: "Elon Musk says Tesla AI Day pushed to Sept 30"
+    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30.\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,"
+    publishedDateTime: 2022-06-03T13:31:00Z
+    webUrl: "https://www.channelnewsasia.com/business/elon-musk-says-tesla-ai-day-pushed-sept-30-2724526"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 36
 
 secured: "2Ivju/F5FQIk2sU9XeKWkirRSwAjHDIhIFhyJwkkAIQEBKqWMUNGG47se4jqn5HDrgnscfTwG9jWSvGBEBelW4P5nt99GwsYDC9Jo4MkBcvvpBb0rRKa749ZWHgE511gTyTzeUH1BaB/inBHao3XORjBHarhALfWivzSeGyNp3nswp/TMrYb/C6k4CSFhLcyQY9H5PJx1E7trU0vNSkujZCYwmQcreQri6ACL2lbyZGiL2Eab3EDZd1yzYYcpDuWgKsXxHV/UVyFVasQ6kR27/pqzUGEvaWCJhOiLi0ix+sl6eoVow8b61BUHrkuceQ+8BYNksh4NGIvNpet4eHAmBpXolMsYW/kFg2KfGrN630=;VZGaUpz/i3NlKRytjO2FOg=="
 ---

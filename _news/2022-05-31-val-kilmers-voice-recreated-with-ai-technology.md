@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/entertainment/val-kilmers-voice-recreated-wit
 webUrl: "https://www.wfmz.com/entertainment/val-kilmers-voice-recreated-with-ai-technology/article_7a1f3046-fcbd-5525-9ba7-90d178b9a458.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Val Kilmer's Dialogue In Top Gun: Maverick Was Read By AI Because He Can No Longer Speak"
+    excerpt: "He now has to use a voice box to communicate, and last year revealed that they had to use special AI software to allow him to speak in the new Top Gun film. Described as a 'Photoshop for voice', the tool is available for the actor to use for communicating in his professional and personal life."
+    publishedDateTime: 2022-06-03T15:32:00Z
+    webUrl: "https://www.ladbible.com/entertainment/val-kilmers-dialogue-top-gun-maverick-read-ai-20220603"
+    ampWebUrl: "https://www.ladbible.com/entertainment/val-kilmers-dialogue-top-gun-maverick-read-ai-20220603.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/entertainment/val-kilmers-dialogue-top-gun-maverick-read-ai-20220603.amp.html"
+    type: article
+    provider:
+      name: LADbible
+      domain: ladbible.com
+    quality: 48
+    images:
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/bltc44937871e227f6a/629a17acea67437e3cf77226/top_gun_kilmer.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Val Kilmer's voice in 'Top Gun: Maverick' was created by AI"
     excerpt: "Maverick wasn’t really a surprise to anyone but many fans had wondered about the nature of his appearance since the actor had lost his ability to speak following throat cancer treatment a few years ago."
     publishedDateTime: 2022-06-01T07:45:00Z

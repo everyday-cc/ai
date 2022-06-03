@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T12:30:00Z
 originalUrl: "https://www.iol.co.za/technology/google-adds-sepedi-and-xitsonga-to-translate-using-data-from-a-thousand-languages-fbaa4a8a-aa18-4027-9722-4f7e77cee78d"
 webUrl: "https://www.iol.co.za/technology/google-adds-sepedi-and-xitsonga-to-translate-using-data-from-a-thousand-languages-fbaa4a8a-aa18-4027-9722-4f7e77cee78d"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: IOL News
