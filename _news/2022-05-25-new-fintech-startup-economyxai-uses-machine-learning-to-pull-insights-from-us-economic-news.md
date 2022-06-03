@@ -1,26 +1,20 @@
 ---
 category: news
 title: "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News"
-excerpt: "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May"
-publishedDateTime: 2022-05-25T00:45:00Z
-originalUrl: "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news"
-webUrl: "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news"
+excerpt: "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,"
+publishedDateTime: 2022-05-25T00:31:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png"
-    width: 1500
-    height: 942
-    isCached: true
-
-secured: "gi/qlxEs21+6N96IPV42qpPQ/dWRxi7ssYjYmXSrE9tKv5rAddZPTTu4niz7BQqnfF72WtnEXj4nzgxiROC2UW1WPwd27jelFD6b7cnUlzjQCg/adUyQ5yJ/1X+xEyjWQ9tYUX8r3TZPDPE/N3NwoyH1k9RPbm9dlBCrJGmCydTwmNo4nzqMiph8cKx2rFU4OOZHBbPoUrOALxALOp9owZ7frEe7jXd6qPXj/eUorRR3Af6aZ/e2J8dhbdVk2bKi+jUz0U29uhESvf/k3xRWS4miTR5t6cCTceybf5RN0dBnngFudkNcJh1VSiAn7jS96/RgpL23ugsHUULY/kmaH5rLYXUilGciOnNFNwUu2fM=;Ch1Q2Hdgi5NDl+8i1VBb6w=="
+secured: "V2Bg2aNuup9XADxRN67m/sonJuJZhVWyyrPNpH+ikTvapeW/wZWSUqswQhZIB6QXSsvlYCLoZl+J6L6C76Rb418u9QwJBdCJ/Z4Se0ZMX/hXjvOqNxp4BiM9do5waqWpm0xM307CwnQ7fIu3ETPWb1vvOT/4iSpehAhzhgubdJeVuPYfvGxaClt+O2MRpv/+hXFhwLUSgXF4WkPK4p1mBGTimM5T19FHf3o7/RVVEVnQet5T74MaX3ZpBDCnXqpRP2YshAFizi2yibFymCY1As4DEYkm4B66gn7HtAY6CCYejKOG9knpUJKjeOBagIicE4YMrwGUhNwc1UQvyBI2MO298wT4Ng5IuI0+X8haryY8qMm0+qDHqVWahFi9fKcF9zjszI8j65oddXPeZxpGKHIvKf+L+7YKEmOIaihfIlNDrHtrFfm4Rd9kH0b7Atgis7meUMXixyDvqTQLvSxar/12elmdftaAZWSz4Q5xwWHZk609Iwed09bnpV95XkTyH7c+TOCHqrGvGCNYt4uP0w==;mB9IF4jmoj48oK4AqAGbBw=="
 ---
 

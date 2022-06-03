@@ -60,6 +60,15 @@ related:
         width: 710
         height: 400
         isCached: true
+  - title: "Val Kilmer's voice in 'Top Gun: Maverick' was entirely AI-generated"
+    excerpt: "Actor Val Kilmer was able to star in the newly released Top Gun: Maverick thanks to Sonantic, which recreated his voice using AI."
+    publishedDateTime: 2022-06-03T09:32:00Z
+    webUrl: "https://www.tweaktown.com/news/86623/val-kilmers-voice-in-top-gun-maverick-was-entirely-ai-generated/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
   - title: "Val Kilmer's Dialogue in \"Top Gun: Maverick\" Was Read by AI Because He Can't Speak Anymore"
     excerpt: "Maverick\" brings back Val Kilmer as Tom \"Iceman\" Kazansky. The only problem? Kilmer can no longer speak, because of throat cancer complications. But buried in a Page Six interview with Kilmer's daughter Mercedes late last month was a fascinating detail about how the filmmakers managed to get his voice in the movie regardless: by using advanced AI,"
     publishedDateTime: 2022-06-02T13:50:00Z

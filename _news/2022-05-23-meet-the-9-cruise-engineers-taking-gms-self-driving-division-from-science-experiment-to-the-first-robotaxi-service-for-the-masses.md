@@ -2,9 +2,9 @@
 category: news
 title: "Meet the 9 Cruise engineers taking GM's self-driving division from science experiment to the first robotaxi service for the masses"
 excerpt: "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ..."
-publishedDateTime: 2022-05-23T09:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
-webUrl: "https://markets.businessinsider.com/news/stocks/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
+publishedDateTime: 2022-05-23T10:44:00Z
+originalUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
+webUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "0EypeykiJLsBGZ55c9+Hzgx1ByrcZ2iBu8x6Trgev3GmTpyIRQskG47CGYCTG79iTGUOhK1TTxHxkQdHHexUrdjlcHwQCFYcfx+RbL+QF/Ah+yHUsUpBZvftn0D5+/G4Klc5vfPSEBAtmoWANBuWbHwhm+v1YL4XDdnGjV/47JmG2iL1otA6sdEJ2YJ2Pazs4gpte97MUSINkOAsNxpZaLG3miBnxrrBQFye2aA1JPg6yVv4yeDcALGLierV4Lrd4l3RPUuC4P9d06908ZTnmHCn/DlDmIib1dcbWc5Uv+hJgh7H3aebGN6j5vvXxotj74IeVJ3dd/moxZAvrJ/vQVAWZ4d3pNd6Xfyl18HXr0A=;gZJPNInB52TVpZM5XWZouw=="
+secured: "bG7OUuVZeJudaWQOBMVf5NRhySbdZSpR1fRINoKi/OQ/eW9ZQ+IfcaayZZwD66+AYJQMyboks0KdlTri7uGOmjfNxy4UlbWutVoJy7wSfD93M7GdyjEpEu9xBbbyCOqSjn/XnpDB3we1dgBMa/DxKeUwp3BQOYhXx1lRXGM3BqU4u/8Xa0Z4yt1+0DbVO7fd/DX8Z7QiR13yEqhHf/eFvQxI0Mc5MnnmEmYlr9oCq98zW8eZnjtpXa+Qxl6JxvtRpc5zWpLrNV6TvQNNZW5QGsYtl7WGxg9elcBACnT7JRMVCuU9lnAdIfFuzvkpea3ahOOf5gBG2zl6kn28fQSqSgl1dkQ8UnK5Q1OigekxHtU=;MKszdo7gTy6Bp/5hppTfVQ=="
 ---
 

@@ -2,7 +2,7 @@
 category: news
 title: "Study shows AI deep learning models can detect race in medical imaging"
 excerpt: "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ..."
-publishedDateTime: 2022-05-24T23:02:00Z
+publishedDateTime: 2022-05-25T00:25:00Z
 originalUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
 webUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
 ampWebUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "539a86jYdarkNsgv/JKpzSzug2st3mXet7R0c7e4DTJPRylPkflZhIsQ6uF4GvBYvEVUxtJ+T5b5bgRljlww0d4Hk3q2lV1pbykTjWg2P/mcsUSyrTxhdaNK7DuqgpyX3X1gqmS/cw/WDbjf/IcRZWJH8fa171wlW29ZhKv0WnanwaUEbPFixuqrPuNINChfxl8SfE8n0EL7GGkuzrbjN32MKFv6Qnsvipl1IjHk0YvxwRvWWcoUBNIluBYwsYqQKuhCLtnZ7lVTTuwpsF/LqoRH1wy35UTKJdF1XW8e9Om03aYXMehm1R27v9ZcuVpXJY1ddLBx+sh25hNUh2rTfWhxrrEBa9e/XRsFNsetkZc=;czmXRlL9V7kLBZ2KWTZG1g=="
+secured: "CLbduo+kvHU6r7ematgkfoB3OmoHzd7iqNvEP1cBt144zKfJApjti11fd4PKi1KRbuOIRLFK8gNpNdPlceNAe8mFuVRnAu44TsJCYa8TcvlBZr7Yh/B/FsvSvovn9e8//N7lOVyRsqfULaTWk2KO1dbrwUcqWSvh8IJBUmZGDyZVmQtRihJvmIuWl1q/SgPrkReTnt9RfSLzA8Px+Wyk53MAbhjHd84L93tauMgf0Pd0cnOzeFUdzZV3ERznF3tpdcGsSPekmoc/qwUgyPyYIaQmfs2ducqdE7sz+kjebJlsgUrrqJq+C+Xzn25xe11Tr+gLoAjR8TrwEvzSwVYOslr+hPM/GKFFv5Azqdylh8A=;gcHbDK9UG4k/+qnu6TLaIA=="
 ---
 

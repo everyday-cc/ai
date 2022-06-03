@@ -32,20 +32,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Medical Robots Market Size To Grow USD 22.68 Bn By 2027"
-    excerpt: "As per our research report, the size of the global medical robots market was worth USD 8.71 billion in 2022 and is estimated to be growing at a CAGR of"
-    publishedDateTime: 2022-06-01T09:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/medical-robots-market-size-to-grow-usd-22-68-bn-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "At 20.80% CAGR, Heart Pump Device Market Size is Expected to Reach USD 6162.34 Bn by 2028 - Exclusive Report by Zion Market Research"
     excerpt: "As per Zion Market Research study, The global Heart Pump Device market was worth around USD 1983.10 billion in 2021 and is estimated"
     publishedDateTime: 2022-05-30T16:00:00Z

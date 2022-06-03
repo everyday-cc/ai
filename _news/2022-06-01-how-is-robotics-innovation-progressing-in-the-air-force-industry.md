@@ -7,7 +7,7 @@ originalUrl: "https://www.airforce-technology.com/dashboards/patents/how-is-robo
 webUrl: "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "PNC raising the bar for branches, analysts look for AI innovation in automation transformation"
-    excerpt: "PNC Financial Services Group Inc has thrown down the gauntlet to the banking sector, an industry increasingly baffled by rapidly evolving customer preferences away from branches and the need for brick-and-mortar."
-    publishedDateTime: 2022-06-01T21:05:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/06/01/pnc-raises-branch-bar.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
 
 secured: "JeqhcKJqw/RODjUkZXmd6Lifeq2geGakrL2/gM0FkiPMqRBMwvHeBxWTISn31seG0X0I3vbnUXgJukPMhmg4DDHXU/+qDLK2HYFbAajglWe9jjg+mbwOYr9zIFinhFvKLowXlQnAyE77BMRkk1QE6C2MANX5gf1TSnqg2UFBSkBB+tF09Capy+cConvdA4qpPRUjDQaek9NRgaHYMkYW4R9RpjFnjhCyXZoE+QAqZbf28OjK3P2WWv6VOw0jyWNyUhJ+dCYWQE4qm9RoE/MDeJkmx1DndoBxWjJQHEUBvbWiurUK3Pd2b7auqP3yJAEnXYzvWLjnNm9MqrU++AVDKg+uI4PKAm+FGJDVHp0Q9xc=;G6VRo/pQb2BYe/6l+tbz1A=="
 ---

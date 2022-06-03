@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-size-
 webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2022-05-31"
 type: article
 quality: 52
-heat: 222
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Voice and Speech Recognition Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
+    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
+    publishedDateTime: 2022-06-03T09:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Construction Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
     excerpt: "The MarketsandResearch.biz has recently published a report on the Global Artificial Intelligence (AI) in Construction Market 2022 by Company, Regions, Type and Application, Forecast to 2028. The report presents the growth prospects of the Artificial Intelligence (AI) in Construction market for the forecast period of 2022-2028."
     publishedDateTime: 2022-05-30T23:38:00Z
@@ -37,29 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2022 Top Key Players, Industry Demand, Future Estimations and Key Tactics to 2028"
-    excerpt: "The research report on the Global Natural Language Processing (NLP) in Healthcare Market 2022 by Company, Regions, Type and Application, Forecast to 2028 was recently published by MarketsandResearch.biz."
-    publishedDateTime: 2022-05-29T23:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2022-top-key-players-industry-demand-future-estimations-and-key-tactics-to-2028-2022-05-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-  - title: "Global Deep Learning Chipset Market 2022 Top Manufacturers, Key Trends, Progression Status and Business Trends to 2028"
-    excerpt: "The Global Deep Learning Chipset Market 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 report was recently published by MarketsandResearch.biz. The research report provides both qualitative and quantitative analyses of the market."
-    publishedDateTime: 2022-05-31T20:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2022-top-manufacturers-key-trends-progression-status-and-business-trends-to-2028-2022-05-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -78,6 +69,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Service Robotics Market To Be Driven At A CAGR Of 23% In The Forecast Period Of 2021-2026"
+    excerpt: "The new report by Expert Market Research titled, ‘Global Service Robotics Market Report and Forecast 2021-2026’, gives an in-depth analysis of the"
+    publishedDateTime: 2022-05-30T13:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-service-robotics-market-to-be-driven-at-a-cagr-of-23-in-the-forecast-period-of-2021-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 41
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAgdkevq9l_GTNVGjumMisCtdm_JAtWd5_b5RYtClCR757pkpOPVZqHQkEoAInHSNXP_YwR9lc8209AX7-_pjkFLSFDCvs-ehMCkgWUT1a3YvW--5zJsYdaqvKMEEo08RbS8snFKlJh5uxmx5uSOvHKnXlqJiic016aAi4wiAOBTj6MYklm482zX9d/s320/Service%20Robotics%20Market.webp"
+        width: 320
+        height: 320
+        isCached: true
+  - title: "Medical Robots Market Size To Grow USD 22.68 Bn By 2027"
+    excerpt: "As per our research report, the size of the global medical robots market was worth USD 8.71 billion in 2022 and is estimated to be growing at a CAGR of"
+    publishedDateTime: 2022-06-01T09:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/medical-robots-market-size-to-grow-usd-22-68-bn-by-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Cyber Security in Robotics Market Trends, Application Analysis and Growth by Forecast to 2022 – 2029"
     excerpt: "Cyber Security in Robotics Market is slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. A new market research report by Future Market Insights on cyber security in robotics market includes an industry analysis 2014-2021 and an opportunity assessment 2022-2029."
@@ -139,15 +158,6 @@ related:
       name: xaralite.com
       domain: xaralite.com
     quality: 23
-  - title: "AI in Social Media Market Demand Analysis and Projected huge Growth by 2027"
-    excerpt: "AI in Social Media Market – Global Outlook and Forecast 2021-2027 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support."
-    publishedDateTime: 2022-05-30T20:48:00Z
-    webUrl: "https://xaralite.com/345473/business/ai-in-social-media-market-demand-analysis-and-projected-huge-growth-by-2027/"
-    type: article
-    provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 17
   - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2022-05-30T10:32:00Z
@@ -171,33 +181,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
-  - title: "Call Center AI Market 2022 Key Players, End User, Demand and Consumption by 2032"
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2022-06-03T07:04:00Z
-    webUrl: "https://www.fmiblog.com/2022/06/03/call-center-ai-market-2022-key-players-end-user-demand-and-consumption-by-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 14
-  - title: "AI in Fashion Market foresee Share, By Product scrutiny, Application, End-Use, Regional Outlook, Competitive Strategies predict up to 2026"
-    excerpt: "The study on the global market for AI in Fashion evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
-    publishedDateTime: 2022-06-01T13:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-foresee-share-by-product-scrutiny-application-end-use-regional-outlook-competitive-strategies-predict-up-to-2026-2022-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
-  - title: "Artificial Intelligence (AI) in military Market Research by Key Players, Type and Application, Future Growth to 2028"
-    excerpt: "The global Artificial Intelligence (AI) in military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
-    publishedDateTime: 2022-06-01T12:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-military-market-research-by-key-players-type-and-application-future-growth-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
   - title: "AI in Oil & Gas Market Size 2022 with 12.14% CAGR : new business prospects by identifying trends and driving forces and Forecast up to 2028"
     excerpt: "Global “AI in Oil and Gas Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI in Oil and Gas market"
     publishedDateTime: 2022-05-30T05:46:00Z
@@ -220,6 +203,15 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
+    quality: 0
+  - title: "Facial Recognition Market Industry Analysis, CAGR Value, Business Strategy, Growth Drivers, Forecast By 2028"
+    excerpt: "Emergen Research Logo Facial Recognition Market Trend –Technological advancements in facial expression detection  Facial Recogniti"
+    publishedDateTime: 2022-06-01T13:30:00Z
+    webUrl: "https://menafn.com/1104306004/Facial-Recognition-Market-Industry-Analysis-CAGR-Value-Business-Strategy-Growth-Drivers-Forecast-By-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 0
 
 secured: "v2UUt+6x2zJC7EwShq5TaVNIkaOjQiyq8P4Ix9uvdGzomBxageGzns3Wm2IFjNAhXrnyf5ay8hktweap5/Bbz4E1R0yFx0Hn+2d81Ka9IyUzHkrt3+4I4AcR1MOQoV5ggVlinHYolQtcBje2Guf+hP9XKb9URXjE134nMA/+DtWL5IiXBNB4ip0bjxkrWanC/4EAxKisOldaxIXWRN8PHU09r0VfOfJqGa7zvhP9BxH9cWnqwI32+ndjHv0NITF8vt5zjwqA2ks7c2N9/H9UK+yFa/ElhY2E7ANqA89dhIK18xSVFRYRg5pEXbrUrPaQr9GPyvnPuxncJnVdtv9oVO5+9Cb/NiKEK0Y1QK3vKbw=;0NlwVSZX7Ha1kabbuev0iw=="

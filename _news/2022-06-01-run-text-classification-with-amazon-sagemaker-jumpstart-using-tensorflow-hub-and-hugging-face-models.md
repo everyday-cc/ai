@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-text-classificat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/"
 type: article
 quality: 108
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 79
+  - title: "AWS and Amazon SageMaker (A): The Commercialization of Machine Learning Services"
+    excerpt: "Lakhani, Karim R., Shane Greenstein, and Kerry Herman. \"AWS and Amazon SageMaker (A): The Commercialization of Machine Learning Services.\" Harvard Business School Case 622-060, May 2022."
+    publishedDateTime: 2022-06-01T18:59:00Z
+    webUrl: "https://www.hbs.edu/faculty/Pages/item.aspx?num=62414"
+    type: article
+    provider:
+      name: Harvard Business School
+      domain: hbs.edu
+    quality: 66
+    images:
+      - url: "https://www.hbs.edu/Style%20Library/api/headshot.aspx?id=240491"
+        width: 440
+        height: 464
+        isCached: true
 
 secured: "+aufTVyY+jF3CcBHjGOhy3kQgqv8fKX+0JL1OE4FFtrz9w0mxC3CStBsoD5Ba5tnhq/OZUwC7+lUwlNl2hTtrUj0OxPFNShaUPTLFTIRsG3Qh2g8B7mWCKq3fyF9LwfnA8m6fI0z6DAEFtSEXj2MbKtCZoTec5A1Gl3VY51j9WtZ7A4/N5hUDxpVnE/HBvOaczIBPIJcX0ztU7n7hrgu2eafqcwXqI6yxwMiIdZyvgCHYW2TDbSbXSG8hcDl4RY3N2g073biBlO4jqVzszw00KB/MYZbIEqu43tTUSIV8RI0eLkY0t1WpGSWKRPhe0DM3tOS5xzjnGp1evVIyR4+NBJ5OInhXnhIUXxUjczMTvM=;yaajblAs2we+rOY3C0AVsg=="
 ---

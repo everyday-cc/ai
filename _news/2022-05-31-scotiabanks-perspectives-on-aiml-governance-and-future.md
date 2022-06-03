@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-pers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scotiabank’s AI And ML Solution Center Has Digital Literacy And Talent Front And Center"
-    excerpt: "This is a five part blog series on how Scotiabank is advanced its global AI/ML Solution Center. This blog discusses points of view on digital literacy and talent management."
-    publishedDateTime: 2022-05-29T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-and-ml-solution-center-has-digital-literacy-and-talent-front-and-center/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-and-ml-solution-center-has-digital-literacy-and-talent-front-and-center/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/29/scotiabanks-ai-and-ml-solution-center-has-digital-literacy-and-talent-front-and-center/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//5fc42c9bc60197a26472c1fc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 653
-        isCached: true
   - title: "Operationalizing Advanced Analytics And AI At Scotiabank."
     excerpt: "This is a five blog series focused on Scotiabank's AI and ML approaches. This is blog four and discusses operational successes and lessons learned."
     publishedDateTime: 2022-05-30T05:20:00Z

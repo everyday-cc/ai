@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Social Media Market Demand Analysis and Projected huge Growth by 2027"
+    excerpt: "AI in Social Media Market – Global Outlook and Forecast 2021-2027 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support."
+    publishedDateTime: 2022-05-30T20:48:00Z
+    webUrl: "https://xaralite.com/345473/business/ai-in-social-media-market-demand-analysis-and-projected-huge-growth-by-2027/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 17
   - title: "Medical Rehabilitation Robotics Market is expected to account for 36.9% of the total market share by 2031."
     excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
     publishedDateTime: 2022-05-30T10:56:00Z

@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "AWS Cloud is a key partner in digitally enabling Ashirvad Pipes to simplify water management for customers: Sankar K, CIO, Ashirvad Pipes"
-    excerpt: "Ashirvad Pipes is now embarking on adopting big data analytics on the AWS cloud as a key enabler that is expected to be a significant competitive advantage for the commercial organisation, says Sankar K."
-    publishedDateTime: 2022-06-03T07:20:00Z
-    webUrl: "https://www.canindia.com/aws-cloud-is-a-key-partner-in-digitally-enabling-ashirvad-pipes-to-simplify-water-management-for-customers-sankar-k-cio-ashirvad-pipes/"
+    excerpt: "AWS Cloud is a key partner in digitally enabling Ashirvad Pipes to simplify water management for customers: Sankar K, CIO, Ashirvad Pipes"
+    publishedDateTime: 2022-06-03T07:45:00Z
+    webUrl: "https://in.investing.com/news/aws-cloud-is-a-key-partner-in-digitally-enabling-ashirvad-pipes-to-simplify-water-management-for-customers-sankar-k-cio-ashirvad-pipes-3226722"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
+      name: Investing.com
+      domain: investing.com
     quality: 6
     images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/03/imageCireplace.png"
-        width: 696
-        height: 436
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
         isCached: true
 
 secured: "1UYKegj8w2TGUwMZeaGSZ1iSNkpsMQCoz4DkgluQNx8Pa8jD/2IPHidb6tVqvsKYL/u41sbX6OcTtBsXf9DNH2p0ZmZZ/rwT8ltXtc3rM6Zh/+QmPVcrnUJTsjWt3PHZNjrs6AYZ/rQRqRWIqPJO+pDFHKPV8fA1vaZTlAF81bs5Y9DyFI3wsIBkHp+BGWsoAR2ZM5U2lO642sK4uM5iGiWImSybij4gPVBUaBevMTXQRIokshuJ2kEWitFP6GIAMIXHJ0xLFwKIwwSBxsrr+MBzA9Pg3ZX2tAf+NRNUClPcMlDhCDrWlkTBKnFVY6lOba2Q2Bp2Td/ud5RL6enrVLpgAnLZq6B26THnejOJS1Y=;abGpv2SKkDxdFYgxf64INQ=="

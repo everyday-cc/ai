@@ -39,6 +39,15 @@ related:
         width: 387
         height: 250
         isCached: true
+  - title: "AI in Fashion Market foresee Share, By Product scrutiny, Application, End-Use, Regional Outlook, Competitive Strategies predict up to 2026"
+    excerpt: "The study on the global market for AI in Fashion evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
+    publishedDateTime: 2022-06-01T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-foresee-share-by-product-scrutiny-application-end-use-regional-outlook-competitive-strategies-predict-up-to-2026-2022-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
   - title: "Artificial Intelligence in BFSI Market Competitive Landscape and Strategies of for New Companies with Fastest Growing Regions with new Opportunities"
     excerpt: "The global Artificial Intelligence in BFSI market size is expected to growth from USUSD 2570.4 million in 2020 to USUSD 8321.6 million by 2027; it is"
     publishedDateTime: 2022-05-30T06:00:00Z

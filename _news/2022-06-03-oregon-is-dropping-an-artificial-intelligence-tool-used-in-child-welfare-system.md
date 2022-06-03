@@ -3,16 +3,16 @@ category: news
 title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
 excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
 publishedDateTime: 2022-06-02T21:12:00Z
-originalUrl: "https://www.wrvo.org/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-webUrl: "https://www.wrvo.org/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+originalUrl: "https://wusfnews.wusf.usf.edu/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+webUrl: "https://wusfnews.wusf.usf.edu/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WRVO
-  domain: wrvo.org
+  name: Health News Florida
+  domain: usf.edu
 
 topics:
   - AI
@@ -41,6 +41,6 @@ related:
         height: 682
         isCached: true
 
-secured: "7b+3e9of/Zt2RvWcCu1A6FiKuUijn0oreozosiTg8RTfCs6e+hXGmIY0PEc0UmujiE3Y4+R7i2nULIZFqCSRc4Q9u1+XsJhbnVKdcq5K31nIjXRY+CziMDjIws/i8tx/i9lqRsglETJklqFtDwZ8EHMoyLrjkLB04uynyTdYRCUhZyCNmm0a6ZGnMx9Qqhq6b5YYi31CeKMqzzUgQFR4KrhVT9LQjjDDPtG698gIn1yJpM3JCg3OUIy87z9IUQnUjIk3DArJPJYpWSdMlJ4sL8Aqz2Uq/TKsgSdLEdF3EfQQJbAcHFhhIwf6y7I2Wj95Z67o+w7JrDo9gtPHixu+LBI5CkMkZvoQschQ/P5HYPZxKoORkp7HomLg9yrEL4gqP8u9z/1ACnpkN1kwbRsCwSsbMwIQVc4hcsRV5nWTOdkw4UeIb7EjQyhuQvBv6Kyp5yQe3l+7Oq/+9E00xoryuuidgX9y1QAiGVLlkEWSZAEl4DB2+6Hiyo/Rd0SnKl5ZXGftzbWkZxgfftywv/6ObQ==;1LuKY3o32Rga5cahHQz8NA=="
+secured: "XAFR+Dahg9OfzwMsmdUuzkIOYixP3iUjoLHVX8/uUqtmHJT0+lAjGxAvCrtxyZoT254+5EjUgi5XvolZdrv8uYfR4NRJrzwpxCXwLNBntQuUpMKD8HwJKSO77HD+PQj6CY0j4bMmCVD02AnLay/sdfkAXBnHZaAy3tJgId50e079qI3iHmXZ06RTbXKrOsN85LRrvqRg1ez4+EUTm+IVMoZP+i1VXoxq85ppgYPvWq7nuK89IzpxZNMEuKbFSNrZHYbKc9X135cNmTLxX+cQF3ZzVrsc3xix6MuRhzKTdEGYz3XJ0/NbktnxgAWKwBDUsMpJhTar0ZUDaQzIdSRgLHIT1Am7V/lsu1YNzZl0frg=;TZjYcvlQ16HYavEv+thqJQ=="
 ---
 
