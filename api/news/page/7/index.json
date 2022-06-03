@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-25-tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid.md",
+      "title": "TigerGraph ML Workbench Delivers Deep Learning and Graph Neural Network Frameworks for Rapid,",
+      "excerpt": "The ML Workbench is a Jupyter-based Python development framework that allows data scientists to quickly build powerful deep learning AI models using connected data. Graph-enabled ML has more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid/article_7d3502f7-c1f3-593b-9e08-8b145d8db17f.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid/article_7d3502f7-c1f3-593b-9e08-8b145d8db17f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-compreface-open-source-facial-recognition-service-releases-new-features.md",
+      "title": "CompreFace Open Source Facial Recognition Service Releases New Features",
+      "excerpt": "CompreFace Version 1.0 offers more user-friendly UI benefits, no-code REST APIs, CCTV and Home Assistance integrations, AWS deployment, and more",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/compreface-open-source-facial-recognition-service-releases-new-features/article_e3624746-9b45-5cac-810c-636e8419895c.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/compreface-open-source-facial-recognition-service-releases-new-features/article_e3624746-9b45-5cac-810c-636e8419895c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-ai-chip-startup-simaai-bags-another-30m-ahead-of-growth.md",
       "title": "AI chip startup Sima.ai bags another $30M ahead of growth",
       "excerpt": "Sima.ai, a startup developing an embedded edge chip to accelerate AI workloads, has raised $30 million in an expanded venture funding round.",
@@ -1034,100 +1120,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-mit-researchers-help-robots-navigate-uncertain-environments.md",
-      "title": "MIT researchers help robots navigate uncertain environments",
-      "excerpt": "MIT's research team hopes that its findings could help autonomous robots explore remote exoplanets with unknown conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/",
-      "originalUrl": "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-MIT-trajectories.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine.md",
-      "title": "Google's Text-to-Image AI Can Make Any Wacky Image You Can Imagine",
-      "excerpt": "A plumber riding a dinosaur? Google says its AI system Imagen can create a photorealistic images from input text.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
-      "originalUrl": "https://www.cnet.com/tech/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e2f8bf45ccafbdf0e8baa635db6dd15e058ceeed/2022/05/24/9879e313-8e97-4858-abe0-ff3583b11495/imagen-text-to-image-ai-composites-2022-promo.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-text-to-image-ai-can-make-any-wacky-image-you-can-imagine/",
-      "publishedDateTime": "2022-05-24T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

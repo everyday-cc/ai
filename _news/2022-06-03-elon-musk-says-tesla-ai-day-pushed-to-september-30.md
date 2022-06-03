@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html/amp"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: moneycontrol.com
@@ -25,6 +25,70 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Elon Musk says Tesla may have a working humanoid robot prototype by Sept 30"
+    excerpt: "Elon Musk announced that Tesla might have a working prototype of Tesla Bot, the automaker's humanoid robot, by September 30th."
+    publishedDateTime: 2022-06-03T01:58:00Z
+    webUrl: "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/"
+    ampWebUrl: "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 104
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/01/elon-tesla-bot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Elon Musk says Tesla likely to ready humanoid robot prototype within months"
+    excerpt: "Elon Musk, the world's wealthiest person, has said that Tesla is likely to have a prototype version of a humanoid robot called Optimus ready in the upcoming months. Musk had first"
+    publishedDateTime: 2022-06-03T03:47:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/elon-musk-says-tesla-likely-to-ready-humanoid-robot-prototype-within-months-41654227298469.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/elon-musk-says-tesla-likely-to-ready-humanoid-robot-prototype-within-months/amp-41654227298469.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/elon-musk-says-tesla-likely-to-ready-humanoid-robot-prototype-within-months/amp-41654227298469.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/06/03/600x338/Optimus_Tesla_1654227389250_1654227396035.JPG"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Elon Musk's human-sized robot likely to be ready by September"
+    excerpt: "Tesla introduced Optimis, a human-sized robot during Tesla's inaugural Artificial Intelligence (AI) Day.Elon Musk envisioned that the one day Tesla bot will have, ‘the potential to be more significant"
+    publishedDateTime: 2022-06-03T02:48:00Z
+    webUrl: "https://www.livemint.com/news/world/elon-musk-s-human-sized-robot-likely-to-be-ready-by-september-11654222702421.html"
+    ampWebUrl: "https://www.livemint.com/news/world/elon-musk-s-human-sized-robot-likely-to-be-ready-by-september/amp-11654222702421.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/elon-musk-s-human-sized-robot-likely-to-be-ready-by-september/amp-11654222702421.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/06/03/600x338/Elon_Musk-Twitter_1654224410360_1654224410692.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Tesla Optimus prototype expected to be ready by Sept 30: The New AI Day date"
+    excerpt: "Tesla AI Day is being pushed to September 30th this year, from the earlier set date of August 19th. It is announced by Elon Musk."
+    publishedDateTime: 2022-06-03T02:19:00Z
+    webUrl: "https://techstory.in/tesla-optimus-prototype-expected-to-be-ready/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 53
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/06/Dawn-Fitzpatrick-2020-16_9.large_.medium_quality-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
 
 secured: "dkbm+Y8ujJ26//llXZyxTvekH8zCuKoZqxD5gY3uyeZ4IchWRki4lo8ewU7xGu2nS2mnnm7CoY9beFMeSHtccHiZfau/r0Z/XJ8/X+OUWKktUNrhqgQnHR2KdeYLmxLNYpdzl4DYGGkyg51QTUmzooNkGS9ljIKY2ODFM/+ng+EgDmfUvEhHm808Xe3HEW3+WHiociCOA5og8ijsgYu27mZiHbuqvmbqOqN23NfqCC/n9ByNH4FTGr43XrmxTQui4VF9cfp1DXWOKsaQzaUDwRbzNtmRE9CxZ+SSwbT2RBkKsA6K4KEcI06V7TmE8wAtOUDZDFOLGMz/h+lzncYMLPXQ/+EdmeTnXVU1ozrMTMc=;DzG4+cYP7odRGnxbtQmjLg=="
 ---

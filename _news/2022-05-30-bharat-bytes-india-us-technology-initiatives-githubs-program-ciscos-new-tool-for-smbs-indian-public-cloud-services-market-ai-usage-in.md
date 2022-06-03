@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tenda CP3 smart AI security camera launched in India for Rs. 2,999 ($39)"
-    excerpt: "Tenda has announced its CP3 smart AI camera in India with an Rs. 2,999 (~$39) price tag. The Tenda CP3 comes with artificial intelligence (AI) capabilities and a 1080 pixel sensor for FHD footage. The Tenda CP3 also offers several features that make it a ..."
-    publishedDateTime: 2022-05-29T10:30:00Z
-    webUrl: "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/"
-    ampWebUrl: "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/?amp=1"
+  - title: "India-US collaboration for neonatal and infant mortality predictors using machine learning"
+    excerpt: "The result sheds light on policy relevance and suggests new policy prescriptions such as close monitoring of at-risk babies"
+    publishedDateTime: 2022-05-30T00:00:00Z
+    webUrl: "https://biospectrumindia.com/news/58/21338/india-us-collaboration-for-neonatal-and-infant-mortality-predictors-using-machine-learning.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 103
+      name: BioSpectrum
+      domain: biospectrumindia.com
+    quality: 29
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/05/Tenda-CP3-smart-AI-security-camera.jpg"
-        width: 1000
-        height: 1000
+      - url: "https://biospectrumindia.com/uploads/articles/11-21338.png"
+        width: 419
+        height: 212
         isCached: true
 
 secured: "CM4YTG0YBj9atJmVK+rEX70oNw0ezizxBhwUlR13zFMzCR/TbnCoTZdVhDAdbzkaxwvT6KmhGXZn1NGpObih+LuCe2oks3YqrT4/j8wE00+bKdD3/GSioqOHbNgl3/Vh8v/Qzg9fhN9Wc/riLnKC2p4vOEx8AL6nPLriFsc4egYQ3bQkwsrMR/odDei5Osjnvsw/bdITqmGV1rig4PoSOK0o0Dm5lsHppgwnDEe89nLWAlS7RpuiT7rN1RehK8KJ6MB6t1yiLzDyyXS/2gX83oczW74C4SJ3kdxcauBvKqFdtQ1ayPUELyWxCzIw4TIP/rtOJrBx9aeiZSM6FAVKCPhb6YTAT5qyfC4yLmamZUZLqZDIO4rJQgi3tyZz6qVce8afEn5rT0yiAZlr0UCFWEOjUq6Lq/l2Nr1G9V5NkQIbcTT3DoruHSBORVk9xXErSV4lt/HKxsHehMWt5QG9OGpfyY8UXX6u4gTB6QFRQebBnSd9/6olQYG2PZiQz5f0DQcibI4d00Vz4fV2Dj2jaw==;xBTIwD1b/SQscjgG9LKJPw=="

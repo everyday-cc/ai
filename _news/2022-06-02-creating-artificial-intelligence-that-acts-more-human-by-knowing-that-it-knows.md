@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Creating artificial intelligence that acts more human by ’knowing that it knows’"
+    excerpt: "Development of metamemory in AI system allows it to adjust its understanding based on what it already knows, learning and evolving based on its environment as humans do."
+    publishedDateTime: 2022-06-01T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/954673"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 14
 
 secured: "GKbl6Blsar7tDEoCZ9sdzGjlE8a8ebjtyPvCuAuDvkaLHI2c6D1Lwgx0n7t6P5hwaU/zAWINvX2xonx3rMABvLWsoUNXlWWG+xqjiCjRpfoEFDBrEc7tlahEE00DsuWUlPGF7BzVQzm87OK31RsPNtzBpIuEsqV4Wg4NVi/NRz3/263KNw1hlTpaV4cjsmiKPftUmXPxGYsn2kJXtGxSSKzJrwlImRzklx5ZTnk5s7MAjGA4a4B5WaHC2te8dZt6lbXxjXHsiF4BdbdeZ1hLbN5bruzD/iXen/cEbWBWoGJcJ+Wtdk6OtNUcyhKMSAFKeXNn1vP2ekEiOMzPXIGeYRPZnvy7nnmDOYkR1mM5iMliMaVEIoo2DZCZtT3yhPB4T5wUc/bKzr3zkwSbkaQWN/BvaUNPQMEWMQSulQdw4EHldGnn4TC0JN89SXLFtRToQEycP0M/i4wQpb2NJFI8e86Kqm724x9gBKMa99F0hYbNp+u51JtDP3Nyhm+oFJnzGFvKbBrasCfsFiIC48cUEg==;RtmjIdbYy/i9IMvEOMEZnA=="
 ---

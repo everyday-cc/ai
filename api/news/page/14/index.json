@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-05-19-how-optimized-object-recognition-is-advancing-tiny-edge-devices.md",
+      "title": "How optimized object recognition is advancing tiny edge devices",
+      "excerpt": "Alif Semiconductor have demonstrated an optimized face detection model running on Alif's Ensemble microcontroller based on Arm IP. The two found it is suitable for enhancing low-power artificial intelligence (AI) at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
+      "originalUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-873875560.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
+      "publishedDateTime": "2022-05-18T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-what-exactly-is-artificial-intelligence.md",
+      "title": "What Exactly Is Artificial Intelligence?",
+      "excerpt": "On the other hand, Machine Learning (ML) is a subset of artificial intelligence. ML uses different computer algorithms such as neural networks to enable the computer to automatically learn and improve from experience without being explicitly programmed.",
+      "sourceUrl": null,
+      "webUrl": "https://kuenselonline.com/what-exactly-is-artificial-intelligence/",
+      "originalUrl": "https://kuenselonline.com/what-exactly-is-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kuenselonline.com/wp-content/uploads/2022/05/cigay.jpg",
+          "width": 1000,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kuensel Online",
+        "domain": "kuenselonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-natural-language-processing-market-size-expected-by-forecast-2031-with-swot-analysis-global-share-trends-growth.md",
       "title": "Natural Language Processing Market Size Expected by Forecast 2031 With SWOT Analysis, Global Share, Trends, Growth",
       "excerpt": "May 18, 2022 (AmericaNewsHour) -- Kenneth Research, in its repository of market research reports, has recently added a report on Natural Language Processing Market that emphasizes the latest ...",
@@ -1059,92 +1154,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-pieces-selected-for-amazon-web-services-aws-health-equity-program.md",
-      "title": "Pieces Selected for Amazon Web Services (AWS) Health Equity Program",
-      "excerpt": "Pieces, a healthcare AI company, today announced that it has been selected for a new global program from Amazon Web Services (AWS) supporting organizations that are developing solutions to advance health equity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604351.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604351.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1177522/Pieces_Logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate.md",
-      "title": "Skills shortage stalls UK’s adoption of artificial intelligence as Europe continues to accelerate",
-      "excerpt": "UK businesses are failing to progress their use of artificial intelligence (AI) at the same pace as other major European nations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mancunianmatters.co.uk/news/18052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate/",
-      "originalUrl": "https://www.mancunianmatters.co.uk/news/18052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mancunianmatters.co.uk/wp-content/uploads/2022/05/IBM-AI-Adoption-Index-2022_UK_Image-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mancunian Matters",
-        "domain": "mancunianmatters.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-03-elon-musk-says-tesla-ai-day-pushed-to-september-30.md",
-      "title": "Elon Musk says Tesla AI Day pushed to September 30",
-      "excerpt": "\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,\" he wrote on Twitter, almost two weeks after he announced the date of Aug. 19.",
+      "path": "_news/2022-06-03-elon-musk-says-tesla-may-have-a-working-humanoid-robot-prototype-by-sept-30.md",
+      "title": "Elon Musk says Tesla may have a working humanoid robot prototype by Sept 30",
+      "excerpt": "Elon Musk announced that Tesla might have a working prototype of Tesla Bot, the automaker's humanoid robot, by September 30th.",
       "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html",
-      "originalUrl": "https://www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html",
+      "webUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
+      "originalUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/05/Elon-Musk-1.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/01/elon-tesla-bot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-says-tesla-ai-day-pushed-to-september-30-8634791.html/amp",
-      "publishedDateTime": "2022-06-02T18:42:00-07:00",
+      "ampWebUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/",
+      "publishedDateTime": "2022-06-02T18:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,6 +49,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI",
         "AI in Autos"
       ]

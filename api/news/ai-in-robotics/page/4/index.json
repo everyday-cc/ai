@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-09-17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch.md",
+      "title": "17-year-old student invents low-cost prosthetic arm that can be controlled with the mind [WATCH]",
+      "excerpt": "The high-schooler used his sister's S$75 printer and some fishing line to print the arm in small pieces. After that, he bolted and branded each part together. To make the arm strong and durable, he had to run 75 iterations of the design. In the end, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091",
+      "originalUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-91434091,imgsize-100,width-1280,height-720,resizemode-75/91434091.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091/amp",
+      "publishedDateTime": "2022-05-09T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
       "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
       "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
@@ -1325,41 +1368,6 @@
       "provider": {
         "name": "Automation",
         "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-three-stocks-to-profit-from-the-robot-revolution.md",
-      "title": "Three stocks to profit from the robot revolution",
-      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
-      "publishedDateTime": "2022-04-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
         "images": null,
         "publishers": null,
         "authors": null

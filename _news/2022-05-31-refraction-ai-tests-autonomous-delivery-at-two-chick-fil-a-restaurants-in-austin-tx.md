@@ -56,15 +56,15 @@ related:
         isCached: true
   - title: "Chick-fil-A is testing out autonomous delivery robots"
     excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
-    publishedDateTime: 2022-06-02T03:12:00Z
-    webUrl: "https://www.kiro7.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+    publishedDateTime: 2022-06-02T00:12:00Z
+    webUrl: "https://www.wsoctv.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
     type: article
     provider:
-      name: KIRO-TV
-      domain: kiro7.com
+      name: WSOC-TV
+      domain: wsoctv.com
     quality: 39
     images:
-      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
+      - url: "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
         width: 1440
         height: 810
         isCached: true

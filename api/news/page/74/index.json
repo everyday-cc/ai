@@ -2,6 +2,100 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-03-29-artificial-intelligence-a-tool-for-the-future-of-mining.md",
+      "title": "Artificial intelligence: A tool for the future of mining",
+      "excerpt": "More than $379,000 in funding will support the development of a new deep learning approach for processing geophysical information. QUÉBEC and MONTRÉAL, March 29, 2022 /CNW Telbec/ - Given the massive amounts of information that must be analyzed in",
+      "sourceUrl": null,
+      "webUrl": "https://www.quebec.ca/en/news/actualites/detail/artificial-intelligence-a-tool-for-the-future-of-mining-38987",
+      "originalUrl": "https://www.quebec.ca/en/news/actualites/detail/artificial-intelligence-a-tool-for-the-future-of-mining-38987",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-contenu.quebec.ca/cdn-contenu/medias_sociaux/og-defaut-eng.png?1644250556",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "quebec",
+        "domain": "quebec.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-the-quantum-tech-arms-race-is-bringing-us-better-ai-and-unhackable-comms.md",
+      "title": "The quantum tech arms race is bringing us better AI and unhackable comms",
+      "excerpt": "Quantum tech promises breakthroughs in weapons, communications, sensing, and computing tech that could change the balance of military power.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/quantum-tech-arms-race-bringing-us-better-ai-unhackable-comms",
+      "originalUrl": "https://thenextweb.com/news/quantum-tech-arms-race-bringing-us-better-ai-unhackable-comms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2Fvriuw.jpg&signature=b5c3eff22090df30c2826d7b023f28fc",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-ai-shows-potential-in-breast-cancer-screening-programs.md",
       "title": "AI shows potential in breast cancer screening programs",
       "excerpt": "A major new study in Radiology shows that artificial intelligence (AI) is a promising tool for breast cancer detection in screening mammography programs.",
@@ -1067,101 +1161,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models.md",
-      "title": "Report: 68% of orgs rely on in-house evaluation to tune AI models",
-      "excerpt": "The addition of data annotation to this list of popular AI technologies indicates more sophisticated use cases are on the way as AI matures.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1296686780-e1648496481937.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/report-68-of-orgs-rely-on-in-house-evaluation-to-tune-ai-models/amp/",
-      "publishedDateTime": "2022-03-28T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-stem-programs-launch-at-the-county-library-for-robotics-month.md",
-      "title": "STEM programs launch at the county library for Robotics Month",
-      "excerpt": "Did you know that April is Robotics Month? Jeff Buydos, from the county library, joined us on the show to share what kind of programs are offered. Kids can learn all about engineering, robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/",
-      "originalUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc4.com/wp-content/uploads/sites/4/2022/03/AD8F06836FB07EDFE09279FCDB51733A.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/amp/",
-      "cdnAmpWebUrl": "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/gtu/stem-programs-launch-at-the-county-library-for-robotics-month/amp/",
-      "publishedDateTime": "2022-03-28T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc4.com",
-        "domain": "abc4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

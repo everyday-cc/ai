@@ -2,24 +2,24 @@
 category: news
 title: "Chick-fil-A is testing out autonomous delivery robots"
 excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
-publishedDateTime: 2022-06-02T03:12:00Z
-originalUrl: "https://www.kiro7.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
-webUrl: "https://www.kiro7.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+publishedDateTime: 2022-06-02T00:12:00Z
+originalUrl: "https://www.wsoctv.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
+webUrl: "https://www.wsoctv.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KIRO-TV
-  domain: kiro7.com
+  name: WSOC-TV
+  domain: wsoctv.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
+  - url: "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/XX1IV8pJR6aiOGnXPKc4c8DUdHo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/CLQ7NKORSBCYFG7JBX24BLQE4I.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -97,6 +97,6 @@ related:
       domain: cioapplications.com
     quality: 12
 
-secured: "FTp1DOzCadPrVuH0kNPMlzlf6SEHe/16h9gONge6VZaMpT4KTYkmDr0CVIs+SvyWpl07pNJxzNd8xUZn/rgwj0kKTo9jzcBEH2fpWcX4/Xea8Zt2VrHPp+Tn2j/sFseB7DmUAn8yhKMAXNAhRet9TUADk8d7TVxdSPJ6OI/R7ZFATHShH3vF+2xx9yM7d8yAT/JrkpVyaKGx5hNQlmRjbdGoIGvEzSOuUzJWP7sXbsCZQJ6LPdA3tlV2bKzIuvLcuhru2YetUhYnhLVJ+5Xbe5reuOBTCHrOG1wCdpRP9moXXexmqWci5c4XB0JddWprAgARomyc6v7ggFMB4It3uBXk+dFnWhn4zM9ouaft7xs=;0WjVrdtzh7TdKW5Ya11DtA=="
+secured: "Y9QP95K3FEB94X+3GQ9+k62p3s2Zd0aFG8navR1t9RO+S/3E1VC7mtH/e1cd8NHpho0KQv3SQ9AxRzYJIK3df1R7dfVz5EPfiEYpzIfDQui/9Lp5PwlDgQ/JGpj+KZFjcQUmt5IO+EB5JhHK9yyrY/nUEcI8Rot6cv6Ju4/69NP5QTN4f9E8fsHEB601aMQhrdEV8ztobcPwXnx0tGGpb72FVdEqHVeEo6zkTa3x4WkJ3rool2sulAl2z+xku5CbtgzKUrjjIxvORE+Oz9b9wNoeRzf9+Sfr1M9ErU07LErqvRStmWfsida8aLVMjbvjWkHeNa/LTqR/EeVEQ+JG1Qzl6PnPIG/7peZJFv3dEqg=;qwACsnwOgN4wzfMbvDuKAA=="
 ---
 

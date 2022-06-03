@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Traffic jams just a maths problem, says Israeli AI firm"
-    excerpt: "Israel's traffic congestion ranks near the worst among developed economies but an algorithm can help, says one of the country's IT firms engaged in the auto and mobility sector."
-    publishedDateTime: 2022-05-29T09:35:00Z
-    webUrl: "https://techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-traffic-maths-problem-israeli-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 89
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-company-itc-says-t.jpg"
-        width: 1024
-        height: 624
-        isCached: true
   - title: "Traffic jams just a maths problem, says Israeli Artificial Intelligence firm"
     excerpt: "Israel's traffic congestion ranks near the worst among developed economies but an algorithm can help, says one of the country's IT firms engaged in the auto and mobility sector."
     publishedDateTime: 2022-05-30T05:00:00Z

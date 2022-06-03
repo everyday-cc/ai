@@ -39,6 +39,22 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "AI Improves Drug Screening for Alzheimer’s Disease"
+    excerpt: "Alzheimer’s disease accounts for 60-80 percent of dementia cases and is the most common cause of dementia according to the Alzheimer’s Association. Dementia is the decline in"
+    publishedDateTime: 2022-06-03T02:57:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic254724589.jpg?itok=2OcHf9BC"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Offer for Bleeding Horse, facial recognition issues and Apple’s recycling robots"
     excerpt: "A British investment firm has made an offer, believed to be close to €9.4 million, to buy the landmark Bleeding Horse pub in Dublin city. Attestor Capital, a London firm that has bought six other well-known Dublin pubs in a little more than a year,"
     publishedDateTime: 2022-06-02T05:40:00Z
@@ -62,15 +78,6 @@ related:
       name: cybersecurityintelligence.com
       domain: cybersecurityintelligence.com
     quality: 19
-  - title: "KTU researchers investigate the links between facial recognition and Alzheimer’s disease"
-    excerpt: "In recent years Alzheimer’s disease has been on the rise throughout the world and is rarely diagnosed at an early stage when it can still be effectively controlled. Using artificial intelligence, KTU researchers conducted a study to identify whether human-computer interfaces could be adapted for people with memory impairments to recognise a visible object in front of them."
-    publishedDateTime: 2022-05-31T13:25:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/954269"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 10
 
 secured: "86ZcXRnPfkv/zATJQpLRAeKOGHRRriE4l/Iq5eqgbxaYXoYGvna/Q6SziQ4Oilrur1lZjIhiyegaxqfH5P66m21CS4yLjP+RKf5czQH1Qfkf0/ZXVTumvOQ48DYDbee424UrPrXEMKRuoLEyZfJ7xrR7/e7OZTZBdQ4AOy4mNCBYHXPkYN0oabCWwJfvVkn+3hBbn0CRLyRr3II0/scUOcb9/M/pODjXmBgqdrWikI02TLu6rm5UpAAF9Kur4TDRk0cCJ2OIlU6Pdx2Ag08S4PShFaE8bRngIFaGXG6jc0vlf/a+nZH0IOId5bOPlXghELRuR4ZBNvzTs6195jMLTALI2MleV1DSaUh0aisQ8KE=;JpEWZ18bePKIQnMBcbnn0Q=="
 ---

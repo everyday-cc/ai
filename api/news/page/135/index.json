@@ -2,6 +2,102 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2022-02-07-machine-learning-in-automobile-market-to-witness-an-outstanding-growth-during-2022-2027-with-leading-regions-and-countries-data.md",
+      "title": "Machine Learning in Automobile Market to Witness an Outstanding Growth during 2022-2027 with Leading Regions and Countries Data",
+      "excerpt": "Feb 06, 2022 (The Expresswire) -- Global “Machine Learning in Automobile Market\" is expected to ... by creating supply chain and market disruption, and by its financial impact on firms and financial markets. Our analysts monitoring the situation across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-automobile-market-to-witness-an-outstanding-growth-during-2022-2027-with-leading-regions-and-countries-data-2022-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-automobile-market-to-witness-an-outstanding-growth-during-2022-2027-with-leading-regions-and-countries-data-2022-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-06T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-multimodal-meta-analysis-of-structural-gray-matter-neurocognitive-and-social-cognitive-fmri-findings-in-schizophrenia-patients.md",
+      "title": "Multimodal meta-analysis of structural gray matter, neurocognitive and social cognitive fMRI findings in schizophrenia patients",
+      "excerpt": "Specifically, no meta-analyses have tested whether the same brain systems that are structurally different in SCZ patients are also involved in neurocognitive and social cognitive tasks. To answer this, we conducted separate meta-analyses of voxel-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/multimodal-metaanalysis-of-structural-gray-matter-neurocognitive-and-social-cognitive-fmri-findings-in-schizophrenia-patients/CCD62EAD93175E31E5A94FF9111EB146",
+      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/multimodal-metaanalysis-of-structural-gray-matter-neurocognitive-and-social-cognitive-fmri-findings-in-schizophrenia-patients/CCD62EAD93175E31E5A94FF9111EB146",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cambridge.org/covers/PSM_0_0_0/psychological_medicine.jpg?send-full-size-image=true",
+          "width": 1920,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-difference-between-a-neural-network-and-a-deep-learning-system.md",
       "title": "Difference between a Neural Network and a Deep Learning System",
       "excerpt": "Now that we have talked about Neural Networks, let’s talk about Deep Learning. Deep learning, also known as hierarchical learning, is a subset of machine learning in artificial intelligence that can mimic the computing capabilities of the human brain and ...",
@@ -1096,110 +1192,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-can-you-trust-ai-to-protect-ai.md",
-      "title": "Can you trust AI to protect AI?",
-      "excerpt": "To do this, Dobrin said IBM is working on establishing adversarial robustness at the system level of platforms like Watson. By implementing AI models that interrogate other AI models to explain ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/",
-      "originalUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/",
-      "publishedDateTime": "2022-02-04T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model.md",
-      "title": "AI Weekly: DeepMind’s AlphaCode, automatic age verification, and a new open language model",
-      "excerpt": "Register here. This week in AI, DeepMind detailed a new code-generating system, AlphaCode, that it claims is competitive with top human programmers. Supermarket chains in the U.K. announced that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/",
-      "originalUrl": "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/amp/",
-      "publishedDateTime": "2022-02-04T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

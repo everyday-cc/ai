@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2022/05/google-assistant-personaliz
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://images.mid-day.com/images/images/2022/may/Lifestylefeaturesrounduplead_d.jpg"
         width: 1280
         height: 719
-        isCached: true
-  - title: "Google Assistant could soon get even better at understanding your voice"
-    excerpt: "Google Assistant can already recognize your voice from others and pick up what you're saying pretty well, but even more improvements look to be on the way: references to \"personalized speech recognition\" have started popping up in the code of the Google app for Android."
-    publishedDateTime: 2022-05-29T09:30:00Z
-    webUrl: "https://www.techradar.com/news/google-assistant-could-soon-get-even-better-at-understanding-your-voice"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/F38KrNq63T7nzfffDttyHh-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words"
     excerpt: "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report"

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
-publishedDateTime: 2022-06-01T16:50:00Z
-originalUrl: "https://wgntv.com/business/press-releases/cision/20220601HK17662/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
-webUrl: "https://wgntv.com/business/press-releases/cision/20220601HK17662/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
+excerpt: "SAN FRANCISCO, June 1, 2022 /PRNewswire/ -- Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians and clinical documentation improvement (CDI ..."
+publishedDateTime: 2022-06-01T16:29:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/article_41f1c1da-2be1-561b-9d1f-8f3a5f58d0e2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/article_41f1c1da-2be1-561b-9d1f-8f3a5f58d0e2.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WGN-TV
-  domain: wgntv.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
 
 related:
   - title: "Leveraging the power of AI and machine learning for more resilient data centers"
@@ -53,6 +59,6 @@ related:
       domain: kdvr.com
     quality: 17
 
-secured: "JYxI9pesvhMxiFTt0pLjQN7nx61Scyx8yLsxnYXkdRIOlOmzP37mSPbHWZhRkgCM3yYjy4AnHmP7DPVAB8+sgpVa77u4tgn7u8oePiFzInIizfXCiaYb/WvewzFOBt8e7CiiNeDfI6KByABIPTo+OByjKfi1ibIwFhWQXR/UBfrVsvPe88rLfYEOENA4k131RAGljOZZoQHUyXvev9XQR4SAIwro6DUUOvf5B6tsXCt9LzNKi/0KIzPCQwlOEI9TWE7ccsplGr4bW3ts29iJoN0Jn81tOKvZDHwgMUhjGXb+sBBwZIbaRTMZ3Aa9J77x63KKDKCFxeTbg14quiju4KmoVtlkeQraCDs5V3YAtSM=;BtcXNjuaPxcWN4Jsi7djBw=="
+secured: "oFctr3lOfNY+hB/yMKALrj57rWQJLpcgiDnRP4d8r+WAhwlNmqFrPdVQiiPKb3sU7enRirclYArauj93eeP8NjPCxj5qev+schJY3XNeBnP7tSvEJgVqD35KDP5NxYMnlJ9eTxGnFul+nMw7jW4Nf18VoPWv4hkCgjIWhONToHrP136jz4CBYs8jKc8BEpRzsmmmOcs2l/pdBvFyoCw3WTKIC2kO0p5S4rFULhKmldgFeXw3EP1U7SR8jvxxnQ6ZMrvHbDs1YWxOrNMT9ggLAU/2k+jQT/brZdP6RvAMpIhqe+MIxEiZbxkJd6gClWbp8bcUi3IhpwNe2QGaWUKOvEMZIRl0lqP51X0Ytn0qSUk=;4yg9i5enPRrGz9yVNw3IBA=="
 ---
 

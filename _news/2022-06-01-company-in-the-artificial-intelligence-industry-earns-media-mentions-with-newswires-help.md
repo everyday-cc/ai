@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Company in the Artificial Intelligence Industry Earns Media Mentions With Newswire’s Help"
-excerpt: "Gartner predicts that artificial intelligence (AI) software will reach $62 billion this year alone. As attention on this industry continues to grow, companies in the space have a unique opportunity to capitalize and build brand awareness."
-publishedDateTime: 2022-06-01T13:20:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-22263913aed72aa18041939f1f5dccc2"
-webUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-22263913aed72aa18041939f1f5dccc2"
+excerpt: "Gartner predicts that artificial intelligence (AI) software will reach $62 billion this year alone. As attention"
+publishedDateTime: 2022-06-01T13:06:00Z
+originalUrl: "https://www.digitaljournal.com/pr/company-in-the-artificial-intelligence-industry-earns-media-mentions-with-newswires-help"
+webUrl: "https://www.digitaljournal.com/pr/company-in-the-artificial-intelligence-industry-earns-media-mentions-with-newswires-help"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.newswire.com/files/x/82/22/8da3e6197b6982de31ee3d47fa27.jpg"
+    width: 512
+    height: 288
     isCached: true
 
-secured: "kNbxEsILh01RSdL8Sjdd2qEVnwVVr+3e8S0G5cjIAX+fyBJPwg7ZWq7B4+E/bxaVuCi+1uZd3TRhA4HjU8i/vn9sUg+aOHRC4Mh/i2Cr3UkS6/HXWxy0+G6Cqd/rplGsma0mjkGMqld0PnvVgIb5YNmzfQP3nrdR57LhQ7i7VwnVrPi7MV8msInz6U7p1i9BTHKXxqEL1uOhAfNkCAjyRSD9Z2ZabDZOC6g1xFiIPufTZxRCch+7OGRs3Cd4+UTSxojfsmd4ENPeZjRpByRgZikrsWK5SlxH5NsB4XnTHaXTyAInyxHW2OIp5KHb7DtEctDRMAg+w1TImnZn6fC3RasRTIHMwJ3EfNS0yG7SZHI=;kQkVqVNGjFZmSEy5fVdQ5w=="
+secured: "bi1jdw+6U55tc6Yw0yPiDDLOS/+GRM1U6FWce03RWwwWRipvk4MECC3ym84PirY88Gz4Xj+4q1PM3yyRGLyevLShWEtG+rIvgg8MJn+elZfGQrNquQEOKpiSh2hoF6LP3bwcIZhQz9QUp11w9M5S+BZufcxnxqxGIK56l+1Ch6zlvx4rkwSuLyQoOvniTCs3vu27bPC1XkgDfuehLnblF9ipFoI9r0MTp7ElgYSE1P5wqq0JEJFH04igZWaupCx4Stq91dubnwpZ6+GiKfhuGhyuLoIemCo5xlJkhKj1ZSTPHop+M3VZ92CzP02mzggvFc/15cNogxQXc57GVLwWLrUi9juRvJDvo0UheLQVNCs=;CfJ9Xx3X75IcEjlV2ffx5w=="
 ---
 
