@@ -2,6 +2,108 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-04-06-bangalore-airport-and-aws-announce-new-joint-innovation-center.md",
+      "title": "Bangalore Airport and AWS Announce New Joint Innovation Center",
+      "excerpt": "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web",
+      "sourceUrl": null,
+      "webUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
+      "originalUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "T3",
+        "domain": "traveltrendstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-natural-language-processing-market-to-reach-3415-bn-globally-by-2030-at-409-cagr-allied-market-research.md",
+      "title": "Natural Language Processing Market to Reach $341.5 Bn, Globally, by 2030 at 40.9% CAGR: Allied Market Research",
+      "excerpt": "Allied Market Research recently published a report, titled, \"Natural Language Processing (NLP) Market by Component (Solution, Services),",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-to-reach-341-5-bn-globally-by-2030-at-40-9-cagr-allied-market-research-860098289.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-to-reach-341-5-bn-globally-by-2030-at-40-9-cagr-allied-market-research-860098289.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-tradeweb-launches-ai-pricing-service-for-the-us-municipal-bond-market.md",
+      "title": "Tradeweb Launches A.I. Pricing Service for the U.S. Municipal Bond Market",
+      "excerpt": "Tradeweb Markets Inc. (Nasdaq: TW), a leading, global operator of electronic marketplaces for rates, credit, equities and money markets, today announced the launch of Tradeweb Ai-Price for municipal bonds,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-tradeweb-launches-ai-pricing-service-the-us-municipal-/2022/04/06/9577813.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-tradeweb-launches-ai-pricing-service-the-us-municipal-/2022/04/06/9577813.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-artificial-intelligence-in-the-education-sector-market-growth-share-size-forecast-by-2028.md",
       "title": "Artificial Intelligence in the Education Sector Market Growth, Share, Size, Forecast by 2028",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 06, 2022 (Market Insight Reports) -- According to the business intelligence report titled \"Artificial ...",
@@ -1003,135 +1105,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-rsna-artificial-intelligence-may-improve-diabetes-diagnosis.md",
-      "title": "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis",
-      "excerpt": "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26480381",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480381",
-      "publishedDateTime": "2022-04-05T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-startup-using-voice-to-quantify-therapy-raises-20m.md",
-      "title": "Startup using voice to quantify therapy raises $20M",
-      "excerpt": "Eleos Health, a startup using voice technology to analyze behavioral health sessions, raised $20 million in Series A funding, CEO and co-founder Alon Joffe tells Axios exclusively. Why it matters: A sizzling subsector,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/pro/health-tech-deals/2022/04/05/eleos-startup-quantify-therapy-raises-20m",
-      "originalUrl": "https://www.axios.com/pro/health-tech-deals/2022/04/05/eleos-startup-quantify-therapy-raises-20m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/a8qVQy1sExZWog_vzcI3CtA6r8k=/0x0:1920x1080/1366x768/2022/04/04/1649110921859.jpg",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better.md",
-      "title": "Virtual meetings are here to stay. Microsoft wants to make them better",
-      "excerpt": "By Samantha Murphy Kelly, CNN Business Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work.",
-      "sourceUrl": null,
-      "webUrl": "https://abc17news.com/money/cnn-social-media-technology/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better/",
-      "originalUrl": "https://abc17news.com/money/cnn-social-media-technology/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://abc17news.b-cdn.net/abc17news.com/2022/04/hypatia-h_be2f286910f2053119a13aa29ee4fc16-h_42ffc1a886f87011640e58491002a6c0-300.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 17 News",
-        "domain": "abc17news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Pinterest acquires AI shopping startup 'The Yes'"
-excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum. THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO,"
-publishedDateTime: 2022-06-03T05:20:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
+excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum."
+publishedDateTime: 2022-06-03T11:18:00Z
+originalUrl: "https://www.thehansindia.com/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+webUrl: "https://www.thehansindia.com/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+ampWebUrl: "https://www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sharmila_030622_Apartment1.jpg"
-    width: 600
-    height: 338
+  - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540842-pintreset.jpg"
+    width: 500
+    height: 300
     isCached: true
 
 related:
@@ -94,6 +96,6 @@ related:
         height: 202
         isCached: true
 
-secured: "7gPHBSUE+0HkwvBXu7T1mGcbM935iz4rUK8wHX7xqLwRDb29GbCb3zZzD8yFO8aRc281mlYkxuWLjMfdQoqXLD8X84ad+4cl2p9o3SrC5LMw8YwHoel6igjEZ+rF4qsCwDZMp2sLw7wnJbYg1dUdIB5TH5sCUI7oqMdY/RWUetrFqV2BHRforAOgTkI5PIw6Ay6E6oY/3BBNxPYbfgiIo5MxrtVxQMcgXcMLcsp2+RleMMgciXdZk7ZhoPuswQ0qPsm13+Cd5BKsewFQ60qjhCx37ypJPEZi/fspXstdP7ZQITpqqTqxUpETWtDC6/BsRbfh26GQlsWe490+D4mxq+eaVD5/0Pq6xaqLtiT9z/g=;lhAMQaYMmctqfZXdb0L1QA=="
+secured: "EmU1YIKIK0XYmcLutGYz8033081CCrlAnRq9+ENmH+QJwn1mpMdJChzGkSBq5HGyGO3P2l+N0HlWurf+/rK9GgycW4i2XM4xNiaNLz3+jn4pFKhH1Z32kFpORKr9hspa27dttA4ch91S9HCS7Ont8+X/3Z0nqNd3QpHE/dKNQOCbgPrTPy9+m4WbyQhJKnHsAsCu8wDnlcKulJZrOgOpVAa8RO6bcFBN7/RvAMv/xsi5WbXFvrU5/+4eR37txEUpvA8ObOak+ARN0sB7fPYYYC8m3KgX+y7KwCkkhZw19TeIwRr5YA93OqdvUx3SXj31lKpJvTQoEPptuWxaWaJn7KREbtBuQH4Z8O9qHPO7zEg=;QRl71ybPiwYY7Db11CV2TQ=="
 ---
 

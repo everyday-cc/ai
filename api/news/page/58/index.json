@@ -2,6 +2,138 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-04-12-computer-vision-development-market-swot-analysis-face-sensetime-yitu.md",
+      "title": "Computer Vision Development Market SWOT Analysis – Face++, SenseTime, YITU",
+      "excerpt": "Apr 12, 2022 (Heraldkeepers) -- New Jersey, N.J., April 11, 2022 – The Computer Vision Development Market research report provides all the information related to the industry. It gives the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-swot-analysis-face-sensetime-yitu-2022-04-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead.md",
+      "title": "Robot-Run ETF Known For Tesla, Apple Bets Cut Out Chipmakers In March And Bet On This Retail Giant Instead",
+      "excerpt": "AMOM Hits Exit Button On Chip Giants: The QRAFT AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM) sold its entire stake in two high-profile chip names — GPU chipmaker Nvidia Corporation ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead-1031350134",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/robot-run-etf-known-for-tesla-apple-bets-cut-out-chipmakers-in-march-and-bet-on-this-retail-giant-instead-1031350134",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/04/12/fabio-bracht-e3oe-l-rtpa-unsplash.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-mission-cloud-services-wins-techtarget-award-for-its-innovative-aws-machine-learning-work-with-jibjab.md",
+      "title": "Mission Cloud Services Wins TechTarget Award for its Innovative AWS Machine Learning Work with JibJab",
+      "excerpt": "Amazon Rekognition, and Facebook’s Detectron2. This work has resulted in a seamless self-service experience for JibJab customers, who can upload their photos and have final, book-ready images ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8520279/mission-cloud-services-wins-techtarget-award-for-its-innovative-aws-machine-learning-work-with-jibjab",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8520279/mission-cloud-services-wins-techtarget-award-for-its-innovative-aws-machine-learning-work-with-jibjab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-panera-testing-cookright-robot-coffee-maker.md",
       "title": "Panera testing CookRight robot coffee maker",
       "excerpt": "... chain Panera Bread to test its latest robot, a coffee maker that can brew the perfect cup of coffee. Pasadena, California-based Miso said its CookRight Coffee line uses artificial intelligence to monitor key coffee metrics such as volume, temperature ...",
@@ -996,143 +1128,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space.md",
-      "title": "Microsoft And NASA Leverage AI To Streamline Safety In Space",
-      "excerpt": "The star-filled expanse of space seems calm and peaceful from a distance—but the reality is that outer space is a harsh and unforgiving environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6254c097b92e79c735ba25fa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
-      "publishedDateTime": "2022-04-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-your-ai-doesnt-really-understand-you.md",
-      "title": "Your AI Doesn't Really Understand You",
-      "excerpt": "Most of us interact with artificial intelligence (AI) on a daily basis, whether we realize it or not. Every time you ask Alexa or Siri a question or turn to Google to settle a bar bet on who owns ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/your-ai-doesnt-really-understand-you/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/your-ai-doesnt-really-understand-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/1182764551/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/your-ai-doesnt-really-understand-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/12/your-ai-doesnt-really-understand-you/amp/",
-      "publishedDateTime": "2022-04-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-certain-personality-traits-may-play-a-role-in-cognitive-functioning-later-in-life.md",
-      "title": "Certain personality traits may play a role in cognitive functioning later in life",
-      "excerpt": "People who are organized, with high levels of self-discipline, may be less likely to develop mild cognitive impairment as they age, while people who are moody or emotionally unstable are more likely to experience cognitive decline late in life,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220411/Certain-personality-traits-may-play-a-role-in-cognitive-functioning-later-in-life.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220411/Certain-personality-traits-may-play-a-role-in-cognitive-functioning-later-in-life.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

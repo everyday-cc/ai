@@ -55,6 +55,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "From the Robotics Lab to the Wet Lab"
+    excerpt: "Using a bootstrap mentality he learned at Olin, Andy Barry '10 is reinventing himself from successful robotics engineer to gene therapy research scientist. Andy Barry '10 stands next to Boston Dynamics' quadruped robot,"
+    publishedDateTime: 2022-06-03T15:50:00Z
+    webUrl: "https://www.olin.edu/articles/robotics-lab-wet-lab"
+    type: article
+    provider:
+      name: Franklin W. Olin College of Engineering
+      domain: olin.edu
+    quality: 56
+    images:
+      - url: "https://www.olin.edu/sites/default/files/styles/carousel_image/public/2022-06/delta-on-launcher-with-andy.jpg?itok=uHErVkXh"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Accelerating solar deployment through robotics"
     excerpt: "AES Corporation details the development of Atlas, its first-of-a-kind automated solar PV project installation robot."
     publishedDateTime: 2022-06-01T14:33:00Z
@@ -69,19 +83,19 @@ related:
         width: 1600
         height: 918
         isCached: true
-  - title: "From the Robotics Lab to the Wet Lab"
-    excerpt: "Using a bootstrap mentality he learned at Olin, Andy Barry '10 is reinventing himself from successful robotics engineer to gene therapy research scientist. Andy Barry '10 stands next to Boston Dynamics' quadruped robot,"
-    publishedDateTime: 2022-06-03T15:50:00Z
-    webUrl: "https://www.olin.edu/articles/robotics-lab-wet-lab"
+  - title: "Cowen & MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
+    excerpt: "Cowen Inc. and MassRobotics announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
+    publishedDateTime: 2022-06-03T16:11:00Z
+    webUrl: "https://www.automation.com/en-us/articles/june-2022/cowen-massrobotics-role-robotics-climate-objective"
     type: article
     provider:
-      name: Franklin W. Olin College of Engineering
-      domain: olin.edu
-    quality: 54
+      name: Automation
+      domain: automation.com
+    quality: 42
     images:
-      - url: "https://www.olin.edu/sites/default/files/styles/carousel_image/public/2022-06/delta-on-launcher-with-andy.jpg?itok=uHErVkXh"
-        width: 1200
-        height: 800
+      - url: "https://www.automation.com/getmedia/66ce7547-431a-4d87-ab2f-525f1ede115e/mass-robotics-news-June-3-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
 
 secured: "l6t/sqtlpDQ+FY6HtObO/by7YKN93WU1CcC2gCXhKLIv52UFHXtdhh+F7HX9w/p52yAcxtppz+MrlzccM/MbQc2PzktmbrfbfDbYZieUDUCkBlXWC4tJ98qNyE/Hc0vDmKAI++/3dczEboSY1NfgYibcQYrUm/GzkVp3MW0y6WEihj4t5ov9dio1vxp/PAjMhjhNFK+hRpOBBIyHBUmVzoxMxRhDOYZ5JCTU51hqHpEoKl8xF7rDkUwM5MaU7aW1UJfU3uHWIUKf9GiwJl9mHAClTWdKx6kDOzz6jbAAskBHimyXYPnCqLNhLGQz+3ZP3i5rQFgjx+eaG6n+clxJdlBhBoBcPugHZbr7ApgTcsFBZxqPKxTNiKWAs/VV/Er86OMeXR8/ZE9+rFFgycNzezMUsQ1YeDjZWcs232mDkGUA8uIavNrs8efPGt+dhy3tH34MuP4QPXXpHfvBCsMgESQ57FKQaevpOZOVnzOjb5NoFMf91lrDTJuK+e977juZdwyr/v/HaO2L727oJSYqqg==;nATa/6F4Ive5fFoWqj8FGQ=="

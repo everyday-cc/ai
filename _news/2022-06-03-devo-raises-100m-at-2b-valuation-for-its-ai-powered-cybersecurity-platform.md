@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/06/02/devo-raises-100m-2b-valuation-
 webUrl: "https://siliconangle.com/2022/06/02/devo-raises-100m-2b-valuation-ai-powered-cybersecurity-platform/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "MenuAid Raises $1M To Develop AI-Powered Food Tech Platform"
-    excerpt: "MenuAid, a cloud-based food technology platform that is solving the “What's for dinner?” dilemma has received a $1M investment from Sprout, New Zealand’s specialist AgriTech and FoodTech seed-stage investor."
-    publishedDateTime: 2022-05-30T00:12:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2205/S00500/menuaid-raises-1m-to-develop-ai-powered-food-tech-platform.htm"
+  - title: "The Great Resignation Reaches the Cybersecurity Industry, According to Deep Instinct Report"
+    excerpt: "Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today released the third edition of its annual Voice of SecOps Report. The study focused on the increasing and unsustainable stress levels among 1,"
+    publishedDateTime: 2022-06-02T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-hacking-d755d812213343c895954ab82fe05492"
     type: article
     provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
     images:
-      - url: "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg"
-        width: 800
-        height: 800
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Tx+koj/UnoB+hzu5avKXs+7gZjfh4WQp5H/YvqmqOuDJOjODz6KvvD5Ec13PTIsOvlTU/LCQFe4f6kaKBsSbv+6D5HUjt315+qSc7eZNto++fQ1cf3yyFsxZKlZB/gEkJ25birPul2VDwfQ33mmw3AjthhbKLU1QD6bgr5Ys8fggmJtaKP4cikoyR5S1P179IErnEzw9SrnO5Rhu/krUPAY7h+xy+5lLIs/AhSn8kYf7jowXGD19cdvh4Oq+tYhUbV58Qz2HoMAIsamJh0pihb2GM9/opFznrIhzKzwkNujjyuuQMETsRd38JL8HYoK8l0goAcoZYtY5ysZwL0BFtNtOPAqmzKIVHvyScA8HW7YfKdF81Bvf7nfIR+wp8xaAsRJ8sHWpPLBdIgux3Q8j/revop4DIeazG4FtwEVLFBaSxEClRsLAvjCJo5DnnCIQuNQIqNERcC5hdLVMOovSZmHDMlelDbtO3khdERchR7LOoR5NuUAm0DHewDPZjNkWIBNBQGozsnISZkIigyHeaQ==;7hYA9Uf/iH9XAtEUxI3ngQ=="

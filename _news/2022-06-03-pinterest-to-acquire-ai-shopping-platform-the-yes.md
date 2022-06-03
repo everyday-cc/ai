@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Pinterest acquires AI shopping startup 'The Yes'"
+    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum."
+    publishedDateTime: 2022-06-03T11:18:00Z
+    webUrl: "https://www.thehansindia.com/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+    ampWebUrl: "https://www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 57
+    images:
+      - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540842-pintreset.jpg"
+        width: 500
+        height: 300
+        isCached: true
   - title: "ServiceNow acquires Hitch to bring AI-powered skills mapping to the enterprise"
     excerpt: "ServiceNow is to acquire Hitch Works, an AI-powered platform that helps enterprises plug the talent gap through skills mapping."
     publishedDateTime: 2022-06-03T13:00:00Z
@@ -49,20 +65,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Pinterest acquires AI shopping startup 'The Yes'"
-    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum. THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO,"
-    publishedDateTime: 2022-06-03T05:20:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sharmila_030622_Apartment1.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Pinterest to Acquire THE YES, an AI Powered Shopping Platform for Fashion"
     excerpt: "Today, Pinterest is announcing that it’s signed a definitive agreement to acquire THE YES, an AI powered shopping platform for fashion that enables users to shop a personalized feed based on the user’s active input on brand,"
     publishedDateTime: 2022-06-02T20:12:00Z
@@ -94,6 +96,6 @@ related:
         height: 202
         isCached: true
 
-secured: "epbPzlSgGq3Y6Hs37UfkGD3UrPrAz+TRBXQxaa3a+ME+bvUUxEw0sLH1kPV3R6pBVyg+KS5oEOZ8iRoPdGEEBT+EiDHg+JGBCg+chegbpHNVOhg8D6nd/mI8oFPo6HZ3uq0nx6SrW9lVBlavW7EU0DsMlCv7myI7q77dT4Pv0+t4VxR0IxXVj4i7Z7s4FwafF3kW8/809YAfEtOABjxOU/E9o5B5rwk25VWGbXfkiC/WuA+1TJTxyK2Stt2Bq5iKH4ZCuT4ehFOF7L22icNzs8cwgAAsBndAKIGp6HiOKoB4pmvGL0RhbdSNNn2ypYOV+zdsxHWr3N9AVyAPkpy+2HYL3u9gzps1Vx5B2NjW/ko=;3vI8ymsSiIv4rhEXLk48eg=="
+secured: "dTSj4lB+9EfhmrO5ND5lgzlTh3g1cbAJAQSepo+Pm9pt9vKzFXGqY3k68q6/WeD8EOf0xxe7jtnSpuPs/GKrGNbhiMgSTr1MZn6+unEqI9lA19PODM6cKKUf/r4LHQnw+myCsJ4VsvckMJUjljuB1kOVtJOuRX2QvVKaBL7wk8Uf0+TpAJaM+awBj7cU9aG48F4rh47mhZDePHlir2V8vagPp41E6BLjQn6KvAsuLV1T+F1aE0E89v4RxTbJdE+gAijxJOg8KYo96uX3zpYmx8k+UNBY5daJQ+Nv9ek9Chw67K6K5tcNWEW1fVLoFiFPD52eaMmg7BerE/mWBE77cN0gRKJrC17p0fKWwwz7L5pd4TydAMbCb/N5Nz4bAPYkwWWX1snaMJlJxaLbwyW1SfsvZT/Na4ocC7JeReYc8m1hCkcAX2jFq3a2LsUrxFLVKPgCUT2wjf3zUKtUxp5khIqmTcSdizP9jOZYCCKl9Y847EgVxDEIbIFMweUS/woLAcp1gJVlyID7+oApFlvvZw==;HUX03y+CxEUxjrd2B3tFZQ=="
 ---
 

@@ -2,21 +2,73 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2022-05-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx.md",
-      "title": "First UK Authorized Dealer Signed for AI Robotics Leader: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)",
-      "excerpt": "Artificial Intelligence and Robotic Solutions for Multiple Applications. Expanding Sales Including Expectation of Large Orders from Global Small Box",
+      "path": "_news/2022-05-24-microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more.md",
+      "title": "Microsoft expands Azure OpenAI Service with fine-tuning features and more",
+      "excerpt": "It will be similar to other transparency notes for Azure Cognitive Services, found here. Transparency notes are part of a broader effort at Microsoft to put our AI principles into practice.”",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx",
-      "originalUrl": "https://www.digitaljournal.com/pr/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx",
+      "webUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/",
+      "originalUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://lh6.googleusercontent.com/M1OxQKTUKmexu_qMJWIZJkmS83Vi_TIycMFimESotLhW5g8EADqqnpG2vOFT5hFjGjk5Pirv_qgbIEs8lEvIKGd-VxkWuVsorceloGyE7m8ey7gfRHdj-YUaSqN8ebGrESX4NXdlYwYTKk9fEg",
-          "width": 791,
-          "height": 439,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1238869000.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/amp/",
+      "publishedDateTime": "2022-05-24T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-microsoft-is-turning-to-popular-2-billion-data-science-startup-hugging-face-to-court-machine-learning-experts.md",
+      "title": "Microsoft is turning to popular $2 billion data science startup Hugging Face to court machine learning experts",
+      "excerpt": "An curved arrow pointing right. As the competition for capturing the machine learning industry heats up, Microsoft is turning to a popular $2 billion startup to get an edge over rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-azure-hugging-face-integration-machine-learning-models-2022-5",
+      "originalUrl": "https://www.businessinsider.com/microsoft-azure-hugging-face-integration-machine-learning-models-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6206cc39e2fe3c0019ea47aa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +78,55 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T08:40:00-07:00",
+      "publishedDateTime": "2022-05-24T09:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx.md",
+      "title": "First UK Authorized Dealer Signed for AI Robotics Leader: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)",
+      "excerpt": "(RAD) has signed its first authorized dealer in the United Kingdom and has received an order for a ROSA security robot. Additional details, including the name of the new dealer will be released in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1047,92 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid.md",
-      "title": "UNC scientists using machine learning in latest efforts against ‘long’ COVID",
-      "excerpt": "A study published in The Lancet Digital Health led by UNC School of Medicine’s Emily R. Pfaff, PhD, shows how the National COVID Cohort Collaborative used XGBoost machine learning models to better define long COVID and identify potential long COVID patients with a high degree of accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/",
-      "originalUrl": "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2020/08/Coronavirus_Testing_Research-DMID1-5nrd77mz1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/?amp=1",
-      "publishedDateTime": "2022-05-24T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-arv-and-varuna-launch-ai-robotics-hackathon-2022.md",
-      "title": "ARV and VARUNA launch AI & Robotics Hackathon 2022",
-      "excerpt": "Thailand's leading technology development and venture building company dedicated to leveraging cutting-edge AI & Robotics technologies, as a technology spin-off from PTTEP, an upstream national oil & gas company of Thailand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1824548/ARV_Hackathon_KV.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

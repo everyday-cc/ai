@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-28-artificial-intelligence-in-insurance-market-2022-report-covers-top-key-players-profiling-allianz-se-berkshire-hathaway-axa-aig-aia-group.md",
+      "title": "Artificial Intelligence in Insurance Market 2022 Report Covers Top Key Players Profiling – Allianz SE, Berkshire Hathaway, AXA, AIG, AIA Group Ltd,",
+      "excerpt": "The recent report on “Artificial Intelligence in Insurance Market” offered by Credible Markets, comprises of a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business.",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/304946/technology/artificial-intelligence-in-insurance-market-2022-report-covers-top-key-players-profiling-allianz-se-berkshire-hathaway-axa-aig-aia-group-ltd/",
+      "originalUrl": "https://xaralite.com/304946/technology/artificial-intelligence-in-insurance-market-2022-report-covers-top-key-players-profiling-allianz-se-berkshire-hathaway-axa-aig-aia-group-ltd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://redskins101.com/wp-content/uploads/2022/05/116-1024x618.jpg",
+          "width": 1024,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-28-grai-matter-labs-brain-inspired-ai-for-the-edge.md",
+      "title": "GrAI Matter Labs: Brain-Inspired AI For The Edge",
+      "excerpt": "We recently tweeted about the startup GrAI Matter Labs (GML) and received a lot of questions about the company’s products and strategy. As one of the first startups to launch a neuromorphic AI platform for edge AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6290f25b3eeb6d491574921f/0x0.jpg?format=jpg&width=1200",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
+      "publishedDateTime": "2022-05-27T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation.md",
       "title": "Microsoft (MSFT) Azure Selected by Meta to Boost AI Innovation",
       "excerpt": "Thus, using Azure will enable Meta with faster distributed AI training. The Meta- Microsoft collaboration ... learning workloads compared with the company’s last-generation chips — AWS Graviton2 processors. While C7g instances offer enhanced ...",
@@ -1024,101 +1119,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-these-earthworm-inspired-robots-may-one-day-crawl-through-aircraft-engines.md",
-      "title": "These earthworm-inspired robots may one day crawl through aircraft engines",
-      "excerpt": "Researchers developed a robot that uses electrical charges to power \"muscles\" that cause the devices to move through a small pipe, like an earthworm.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/earthworm-robots-aircraft-engines",
-      "originalUrl": "https://interestingengineering.com/earthworm-robots-aircraft-engines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/qrwB17P365/sizes/screen-shot-2022-05-26-at-114723-am_resize_md.png",
-          "width": 744,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/earthworm-robots-aircraft-engines",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/earthworm-robots-aircraft-engines",
-      "publishedDateTime": "2022-05-26T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models.md",
-      "title": "Allen Institute launches new benchmark for general-purpose computer vision models",
-      "excerpt": "The Allen Institute for AI, also known as AI2, recently worked jointly with the University of Illinois at Urbana-Champaign to develop a new, unifying benchmark called GRIT (General Robust Image Task) for general purpose computer vision models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/",
-      "originalUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1209778574.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/amp/",
-      "publishedDateTime": "2022-05-26T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

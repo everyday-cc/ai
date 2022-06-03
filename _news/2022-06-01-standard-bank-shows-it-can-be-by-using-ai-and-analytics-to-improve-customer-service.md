@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-usi
 cdnAmpWebUrl: "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp"
 type: article
 quality: 69
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNBC Africa
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Translate, redact and analyze streaming data using SQL functions with Amazon Kinesis Data Analytics, Amazon Translate, and Amazon Comprehend"
+    excerpt: "You may have applications that generate streaming data that is full of records containing customer case notes, product reviews, and social media messages, in many languages. Your task is to identify the products that people are talking about, determine if they’re expressing positive or negative sentiment,"
+    publishedDateTime: 2022-06-03T16:37:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/translate-redact.jpg"
+        width: 1000
+        height: 498
+        isCached: true
   - title: "AI, predictive analytics top list of hot technologies for banks"
     excerpt: "AI, machine-learning, predictive analytics, natural language processing (NLP), computer vision and microarchitecture are hot technologies that banks are investing in today, according to a Forrester report."
     publishedDateTime: 2022-06-02T20:59:00Z
@@ -60,15 +74,45 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Global Footwear Retailer Camper Selects Invent Analytics for AI-Powered Omni-Channel Demand Forecasting"
-    excerpt: "Leading Spanish footwear retailer Camper partners with Invent Analytics to improve its omni-channel demand forecasting across its 400 stores, online channels, and e-commerce marketplaces. Invent Analytics,"
-    publishedDateTime: 2022-05-31T13:03:00Z
-    webUrl: "https://www.retaildive.com/press-release/20220531-global-footwear-retailer-camper-selects-invent-analytics-for-ai-powered-omn/"
+  - title: "Data Analytics Startup Synaptic Raises $20 Mn Funding To Help Investors Make Better Decisions"
+    excerpt: "Data analytics startup Synaptic was originally spun out of Vy Capital in 2016 by its founders, Anurag Abbott and Rohit Razdan"
+    publishedDateTime: 2022-05-31T08:39:00Z
+    webUrl: "https://inc42.com/buzz/data-analytics-startup-synaptic-raises-20-mn-funding-to-help-investors-make-better-decisions/"
+    ampWebUrl: "https://inc42.com/buzz/data-analytics-startup-synaptic-raises-20-mn-funding-to-help-investors-make-better-decisions/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/data-analytics-startup-synaptic-raises-20-mn-funding-to-help-investors-make-better-decisions/amp/"
     type: article
     provider:
-      name: Retail Dive
-      domain: retaildive.com
-    quality: 1
+      name: inc42.com
+      domain: inc42.com
+    quality: 46
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/05/Synaptic-social.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Synopsys Launches the Era of Smarter SoC Design with ML-Driven Big Data Analytics Technology"
+    excerpt: "Driving greater design productivity by harnessing previously untapped design insights with machine learning technology, Synopsys, Inc. (Nasdaq: SNPS) today announced a critical expansion of its EDA data analytics portfolio with the introduction of Synopsys DesignDash design optimization solution."
+    publishedDateTime: 2022-06-01T14:05:00Z
+    webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220601SF74500/synopsys-launches-the-era-of-smarter-soc-design-with-ml-driven-big-data-analytics-technology/"
+    type: article
+    provider:
+      name: WTVW
+      domain: tristatehomepage.com
+    quality: 8
+  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
+    excerpt: "Corelight, the leader in open network detection and response (NDR), announced Corelight Investigator, a SaaS-based solution that extends the power of open-source driven network evidence to SOC teams everywhere."
+    publishedDateTime: 2022-06-01T03:29:00Z
+    webUrl: "https://pipelinepub.com/news/Corelights-New-Platform-Delivers-Open-Source-Powered-Network-Evidence"
+    type: article
+    provider:
+      name: pipelinepub
+      domain: pipelinepub.com
+    quality: 5
+    images:
+      - url: "https://media.pipeline.pubspoke.com/files/issue/260/cover/OSS-BSS-Automation.gif"
+        width: 500
+        height: 647
+        isCached: true
 
 secured: "fKZDPgcUv7EqXPYvukx/Wql2PeP0LT3QYUgEjbKvVT2JziYYwyheFufER2hfccOIPRaZCNsP/Er9F5ki+GwddwbHrm/VbGayyqVpkzCapseLLLL64gH5/ChvQhwPQRmk501BquvPDKRM2t/16M8Tk8WuYNqgo2NkYOKI0z/5eAE7cktcO1oqB6AQkx1OriTma7DRsdEB6Y3cMuObmTS/i+oXG0sZyIrg3EoI0ylJ/LvyLVQQiyqF/Pq8+Yvnqn+5VyDFGeAwsP/W2lZvE92jRVHH8BCpxT7nXFdAHug8uvR5cYDlupd1I5PXgmQZ2re6bqMvINDaN0ffGYOo/i4qxp/zBqbQj3dQA9MVL42R3mAHUqmTniWTjkpjIOv1yi7FhkK0Rj9v2ANxLxFHKRJQk8c0GjvLME8pXixaV+cJSFUWbZ34PUjX/4/1yriM+4KaOnehr0dqqFzo/8+dIUTRiGKpIRAd4kjUfjeUt69pAiAUdks0LwGlsi0ptcUcHeZZnT/C/J9y+bRscGG4LyIYtw==;cfu7BGZXZS2j3MB+V+t/JQ=="
 ---

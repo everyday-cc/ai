@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-05-computer-vision-in-healthcare-market-2022-growth-development-tends-and-forecast-2030-ge-healthcare-mckesson-allscripts-jointown-sana-oorjit.md",
+      "title": "Computer Vision in Healthcare Market 2022 Growth Development Tends, and Forecast 2030: GE Healthcare, McKesson, Allscripts, Jointown, Sana, Oorjit",
+      "excerpt": "New Jersey, USA Computer Vision in Healthcare Market Overview: The Computer Vision in Healthcare Market research combines a thorough examination of current and future potential to forecast future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-2022-growth-development-tends-and-forecast-2030-ge-healthcare-mckesson-allscripts-jointown-sana-oorjit",
+      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-2022-growth-development-tends-and-forecast-2030-ge-healthcare-mckesson-allscripts-jointown-sana-oorjit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/e3c6eede9f0b92ea738e91a001040ed4ff797a69-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-computer-vision-as-a-solution-to-safety-challenges-in-industrial-facilities.md",
       "title": "Computer Vision As A Solution To Safety Challenges In Industrial Facilities",
       "excerpt": "In this article, we will discuss how to apply computer vision technology to detect safety hazards in industrial facilities, such as factories and logistic centers, in order to prevent human ...",
@@ -1314,58 +1358,6 @@
         "name": "Business Insider India",
         "domain": "businessinsider.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027.md",
-      "title": "Global AI in Computer Vision Market Future Demand, Top Leading Players, Competitive Situation, Emerging Trends, And Forecast To 2027",
-      "excerpt": "Apr 21, 2022 (Heraldkeepers) -- Global AI in Computer Vision Market: is expected to reach US$ 77.78 Bn by 2027 from US$ 15.6 Bn in 2020 at a CAGR of 25.8% during the forecast period of 2021-2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-future-demand-top-leading-players-competitive-situation-emerging-trends-and-forecast-to-2027-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

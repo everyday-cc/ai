@@ -7,7 +7,7 @@ originalUrl: "https://www.retaildive.com/press-release/20220531-global-footwear-
 webUrl: "https://www.retaildive.com/press-release/20220531-global-footwear-retailer-camper-selects-invent-analytics-for-ai-powered-omn/"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -16,56 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Standard Bank shows ‘it can be’ by using AI and analytics to improve customer service"
-    excerpt: "Africa’s largest financial institution, Standard Bank, is on a mission: to find ways to set itself apart so that the bank can meet its customer needs in today’s complex, ever-changing world. Operating in more than 20 countries in sub-Saharan Africa and globally,"
-    publishedDateTime: 2022-06-01T09:09:00Z
-    webUrl: "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/"
-    ampWebUrl: "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp"
-    cdnAmpWebUrl: "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
-    quality: 69
-    images:
-      - url: "https://dvqe78s2mxr8j.cloudfront.net/wp-content/uploads/2022/06/Standard-Bank_30-Baker-Street_Interior_2-1-820x389.jpg"
-        width: 820
-        height: 389
-        isCached: true
-  - title: "AI, predictive analytics top list of hot technologies for banks"
-    excerpt: "AI, machine-learning, predictive analytics, natural language processing (NLP), computer vision and microarchitecture are hot technologies that banks are investing in today, according to a Forrester report."
-    publishedDateTime: 2022-06-02T20:59:00Z
-    webUrl: "https://www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html"
-    ampWebUrl: "https://www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 57
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/06/fintech_electronic_payments_banking_dollars_euros_pounds_yen_by_metamorworks_gettyimages-1127063674_2400x1600-100835370-orig-100890294-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Bringing Analytics to All: Inchcape’s AI and Business Functions Unite over Alteryx"
-    excerpt: "Users of the Alteryx platform at Inchcape are singing the praises of the low-code platform: and some voices are firmly from the data science department."
-    publishedDateTime: 2022-06-01T07:32:00Z
-    webUrl: "https://techwireasia.com/2022/06/ai-ml-artificial-intelligence-machine-learning-business-focus-platform-best-review/"
-    ampWebUrl: "https://techwireasia.com/amp/2022/06/ai-ml-artificial-intelligence-machine-learning-business-focus-platform-best-review/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2022/06/ai-ml-artificial-intelligence-machine-learning-business-focus-platform-best-review/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 51
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2022/06/shutterstock_2072431601-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "o/QW4Vu4BXsg54L/59AUYFx6m+JquXGIypWd7XfP3yl6uqjkIKtaWLdaYPj5iM05ir3uIC8GUuB9JyEE/yRcyfOwvFwFimf3IVNW3bXB85ubUo0mfKeBnhwnFjyXCyBnyZvaSAorKjDHzVXJSMalqLCYPv/JFYt/mbMNHhMqapo9Epwr/gz+AUq9EUIG6zimY0wvg4Nttrf4bjsvWxq+dkbiwINIaEg/RJv1sJlw0qLMkmJYh3PfPXz910nsdlcTddo+I4FoeAOG1DtAxkMzo6CmRHyzjp+Y5HlasFBSw9C3iS7UyqobYZBLkX3d7SBzkKr46NrnkGo5f+YlqaqUq5O+L8mw7bNzTTSIXIWhtZhvSEdWoIBJAmZi6NorsrMM+Oko5SMtKiJ9BJW6kgNY8VYxVEUh64Q4Or/UFeIeXcIA/MAk7KhLHZR9n/s1/bZN0am82UWSpQqKK31L3oWWLjQjdGdOdXr+5GwjS4EI4gmSvX3eH6AboGEE9rcEijyT7Di1QgyjtRHdpfGercKNLA==;UpEDR234CXUYAOjRLaNQmw=="
 ---

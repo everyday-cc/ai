@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk says Tesla AI Day pushed to Sept 30"
+    excerpt: "A Tesla dealership is seen in West Drayton, just outside London, Britain, February 7, 2018. REUTERS/Hannah McKay"
+    publishedDateTime: 2022-06-03T08:40:00Z
+    webUrl: "https://www.reuters.com/news/picture/elon-musk-says-tesla-ai-day-pushed-to-se-idUSKBN2NK02X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20220603&t=2&i=1600943021&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI520CY"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Elon Musk says Tesla AI Day pushed to September 30"
     excerpt: "\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,\" Elon Musk wrote on Twitter, almost two weeks after he announced the date of August 19."
     publishedDateTime: 2022-06-03T07:02:00Z
@@ -69,6 +83,20 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2022/06/03/600x338/Optimus_Tesla_1654227389250_1654227396035.JPG"
         width: 600
         height: 337
+        isCached: true
+  - title: "Elon Musk’s humanoid robot might debut at Tesla’s AI Day"
+    excerpt: "Tesla may demonstrate a working prototype of its Optimus humanoid robot in September, company CEO Elon Musk has claimed. Musk first teased the existence of Optimus at last year’s Tesla AI Day event. Details about the robot’s eventual pricing and commercial availability are scarce."
+    publishedDateTime: 2022-06-03T16:53:00Z
+    webUrl: "https://knowtechie.com/elon-musks-humanoid-robot-might-debut-at-teslas-ai-day/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 71
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/08/tesla-bot-2-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Elon Musk's human-sized robot likely to be ready by September"
     excerpt: "Tesla introduced Optimis, a human-sized robot during Tesla's inaugural Artificial Intelligence (AI) Day.Elon Musk envisioned that the one day Tesla bot will have, ‘the potential to be more significant"
@@ -131,15 +159,6 @@ related:
     provider:
       name: Autoblog
       domain: autoblog.com
-    quality: 36
-  - title: "Elon Musk says Tesla AI Day pushed to Sept 30"
-    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30.\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,"
-    publishedDateTime: 2022-06-03T13:31:00Z
-    webUrl: "https://www.channelnewsasia.com/business/elon-musk-says-tesla-ai-day-pushed-sept-30-2724526"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
     quality: 36
 
 secured: "auLVO7LzIG01kwvaJELvdeLXjoO+vJ3H96AF+6Ts0IiAfTOZammaNsAsttzwGI7i1hd+SSF++lL0rKVBDDAZCWHKhehv5DNtgaomWcmcG3mryKVs5b6tQsVFbNcQuE0ozkN1i9pKlJDUT9C87O7oNNOvcectc4YsXVrJPSpK1dx8mOjtHqmaH/EsLH6BzeTTcXXEei6iOvZG/yBlXuYN0PwvV8FPUz6XjraCGKRR/EErT30603AJNCtB5XqMvJipmV6kcL5KJphQxPRnjiUOY1Dv/8pFx0zEguwGoj9GmYgA33pHObaKxGwzU7Shto+WfKtyz2xV9HD63oVnbGfyYP+pqHrmofa3kc1Z9NLGFNFasvLPObkNKsYqQKCqlJjZKlPI32Ssdh8S5AMVeWmaCh3yUxTvLS7xFS31P+t5zRm75XvNlbMnNRPDBpty28YGBOeBuHsSTWaIvqOl0m3P/wzWGg4rUZHO6/WsfNWud4lPtXYWAUyiqmgtgkefZKP9IdapIwoMODlvTXq3Vl8mMQ==;rBaveOjtdf5n1J5Eq3ytNQ=="

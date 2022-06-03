@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/artificial-inventors-pushing-patent-la
 webUrl: "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits"
 type: article
 quality: 67
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
         width: 733
         height: 361
         isCached: true
-  - title: "When AI is the inventor – who gets the patent?"
-    excerpt: "The day is coming – some say has already arrived – when new inventions that benefit society are dreamt up by artificial intelligence all on its own."
-    publishedDateTime: 2022-05-30T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/954337"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
 
 secured: "VG20xlbq2IcLsKqV+giANifHOTZHduG2Xhjr9d2mlyjj83K2wZYBfjmOq9iLuktIOtzTra/843JfkunfVlg8DNaJuF7jvmaIgB36L0WG1AmsAaFTjMSsKpYbDfCzTOguSP9K2NmCjhEHobwkl5eJ+XrxLT/d4UII3qrP7glRHFOmxa/7ETvVkyApa+NdB5qpPZiTQP7C/TdX5rodW5kMWMQFq0bnITMnfd+2wrvcunHH35UXwlS+xlXa7zvQONLhd3Wiv5RRxvNAIhV2YZG33FrquSXBdJFSnr4duonlMe3Ds5/vwZVKBSKfc1hfoaUTc77NK6CjlE8heg/x03V9X+sqILEl5aK2oLHkqe+qL50pd59HVHIjMth8XxMBtCO4dPjEFzJ6oc6J5gLduBinES9zWRc6VTMSZKtNQjn16dm+mk/cVglaANVuYG8ipGPPpP79VvjWICO+qNxrz8a2otXxztue6Dtxe4uNN7Cbqp8ZRicZoMNwrqxOTCD9iH+Ddr/AXB5XQ8kMOvuHLT+4/A==;fMFHPIWwrjbfD2R5in9N6g=="
 ---

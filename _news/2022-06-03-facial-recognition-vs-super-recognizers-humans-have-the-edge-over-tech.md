@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/facial-recognition-vs-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/facial-recognition-vs-super-recognizers-humans-have-the-edge-over-tech-71654264799390.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Hindustan Times
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition: Big secret! Your Face Is the Next Frontier in ESG Investing"
+    excerpt: "Their primary focus is on facial recognition technology, which is developing rapidly both as a law enforcement tool for governments and in applications for companies wanting to target individual customers."
+    publishedDateTime: 2022-06-03T17:23:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/facial-recognition-big-secret-your-face-is-the-next-frontier-in-esg-investing-71654264535914.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/facial-recognition-big-secret-your-face-is-the-next-frontier-in-esg-investing-71654264535914.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/facial-recognition-big-secret-your-face-is-the-next-frontier-in-esg-investing-71654264535914.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/06/03/1600x900/Russia-Opposition-0_1654267552786_1654267631620.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facing Facts On Facial Recognition"
     excerpt: "Clearview AI’s multi-million pound fine for breaching privacy should mark a turning point for a public debate about surveillance levels. By Niel Jones"
     publishedDateTime: 2022-06-01T13:18:00Z

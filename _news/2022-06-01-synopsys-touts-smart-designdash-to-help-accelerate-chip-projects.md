@@ -22,17 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Synopsys Launches the Era of Smarter SoC Design with ML-Driven Big Data Analytics Technology"
-    excerpt: "Driving greater design productivity by harnessing previously untapped design insights with machine learning technology, Synopsys, Inc. (Nasdaq: SNPS) today announced a critical expansion of its EDA data analytics portfolio with the introduction of Synopsys DesignDash design optimization solution."
-    publishedDateTime: 2022-06-01T14:05:00Z
-    webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220601SF74500/synopsys-launches-the-era-of-smarter-soc-design-with-ml-driven-big-data-analytics-technology/"
-    type: article
-    provider:
-      name: WTVW
-      domain: tristatehomepage.com
-    quality: 8
-
 secured: "8vaU+EpZUYhYyAvhVf9MHpYcZtjp3PajOodvZvX8jxhZWtRgLUKd2TV9KaNu3nUxAqycl3ei7IoXXW3ghjl9jaXBHestODicWpJJJzLGjBm7U9acO/2mXmXXRPZbqyBRXBu/jfFnKc5pYkX11rkg70cTdZOzax1ivS+oEFzSm5O2+IIMIfEYsLC570KlqOo8MRkMEhUcbNxpk+849e35H2ok5rX9yDd33OhVxaJXBD4bD1dAY57BRWt0RjufOWxiNzICURJduvOLYAmTfmUQg/9NP2O8QkOBTysuRV4nnGdvbmAc+oh8HWT9oLe+TsDVEyAwjLzRdvv41iol5SlX0p3Gwjqd1W0jhgn0oRBWsSZcvelYCYRxYj7WgozwdOqbFWb0yQRWmo9WlgPwPcyB4peOpMMaiBAXyiqbh0yn3MCOBQFKwhJ7Z30FarWNhGInywumtFzTHkhyk8ufJ7J/sWRiD7VpxqPFZIT6txBZdGnGctm1VX0wEyOf/dv8NCaTh7BsDwivToLjle40gSvi3A==;e5CaKWzh/UyFstI0jykbtQ=="
 ---
 

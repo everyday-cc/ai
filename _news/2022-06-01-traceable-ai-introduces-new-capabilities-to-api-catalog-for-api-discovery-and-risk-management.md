@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/trace
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/traceable-ai-introduces-new-capabilities-to-api-catalog-for-api-discovery-and-risk-management/article_30c80030-218d-5e10-b2f0-3cced874f31d.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "Why is artificial intelligence so important for managing product catalogs?"
+    excerpt: "According to the latest E-commerce Industry Report from IBEF, the Indian e-commerce market is expected to hit US$188 billion by 2025 from US$ 46.2 billion in 2020. The report further states that due to"
+    publishedDateTime: 2022-06-03T16:59:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-is-artificial-intelligence-so-important-for-managing-product-catalogs/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-is-artificial-intelligence-so-important-for-managing-product-catalogs/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-is-artificial-intelligence-so-important-for-managing-product-catalogs/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 35
   - title: "Traceable AI Enhances API Catalog for Discovery Risk Management"
     excerpt: "Traceable AI, an API security and observability company, now offers an enhanced API Catalog solution to enable organizations to overcome their challenges with API discovery and risk assessment. Inventory of assets is the root of every security program,"
     publishedDateTime: 2022-06-01T13:01:00Z

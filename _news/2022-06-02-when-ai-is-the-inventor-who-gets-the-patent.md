@@ -50,15 +50,6 @@ related:
         width: 733
         height: 361
         isCached: true
-  - title: "When AI is the inventor – who gets the patent?"
-    excerpt: "The day is coming – some say has already arrived – when new inventions that benefit society are dreamt up by artificial intelligence all on its own."
-    publishedDateTime: 2022-05-30T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/954337"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
 
 secured: "UNDIUxsL2L8M4D37mVvJ98vmBBw7I2hFQ81iW8B8sAmbTAW6su84+A6AzHVeVKu/yPDEg4XfUXtneW+yTQFqv+sqYyysTmUZWQSgqVNzd90pbNZq06P+AlbQKy6gn3x0Ccy4DCixppU2yXZAV2epYrR3OeFwH4ce7T5bnj288Fe7CICmcmMcR05Tu5Snivv/YEMTIT1yyhXat+KsfD0OfN1tse7gjOViNARcUsoVfpgH7TK9BnmaKEMHRcBYt6nlEiOqT1zmCUn4Ww9xUVjATvcxqZWKDM8kbHr7r/O8toXUc70WvfgtrbqIo3qq3ipljZEov4qb1ob5bGa5obKdXtxdJqeUQRJEN39WPTrEAHo=;Lt987jMDqNtsPF2WwjbBVg=="
 ---

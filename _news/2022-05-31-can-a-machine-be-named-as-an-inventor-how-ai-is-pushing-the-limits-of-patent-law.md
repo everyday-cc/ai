@@ -47,15 +47,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "When AI is the inventor – who gets the patent?"
-    excerpt: "The day is coming – some say has already arrived – when new inventions that benefit society are dreamt up by artificial intelligence all on its own."
-    publishedDateTime: 2022-05-30T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/954337"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
 
 secured: "6binfqWusojV+UVsW0FLbFz8q8aaCriMSRG89nKsEV+nY4XcLmr9TNloHdt/t41qF8My7Gyy5e3UJyeyBZpp3c9HPAkpq99UX8IUDordFP4TtvUx/GCUdXEEht0wnhQHmHgM+J7eVUI7axFxUGID8xXn2ReDGNU+oWIktGMtQS0S8Rggg0OO8yKn9v3+2SqnUVXqntGJXP24uEj87Sy1fZi7CtqbRBgjy9OytQhWVS3c/uGVUfNF52eUF4FNDwcqW1ro1KTyGxZyevd/z9bkr6hkV9sU9Or1nXsYi2h9RMsSxlf2nqXk5Ok5hSun7mEnwnjUHn3MNu0n7vpd850uqM6J2A7eXy0m53h0wjQSYuvyX8KbDzYjUd/dDKxVe/XyuOU/ruP4Cs/SXWvgZBRVT6bipj3bFoZacf5ch29n4XauMlprHe7sSNqfd6HQqg6zRiRRpoxOUAXnbXVE8pKYmvs/9dLxhfQycqFpiWAQAEnjS04c8iKDBYWebwjcMrWHN63m1DSfNB5NB9vbxOELIQ==;XPlxhQe+/W6dtiOv18HvSw=="
 ---

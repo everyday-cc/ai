@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Edge Artificial Intelligence (AI) Software Market Analysis Worth USD 2,519.3 Million In 2028 | Emergen Research"
-excerpt: "Edge Artificial Intelligence (AI) Software Market Trends – Rising need for real-time operations Increasing art of AI applications and rapid introduction of 5G network are key factors driving ..."
-publishedDateTime: 2022-05-19T17:21:00Z
-originalUrl: "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research"
-webUrl: "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research"
+excerpt: "which are crucial for robotics and self-driving vehicles. The Global Edge Artificial Intelligence (AI) Software Market Research Report has been formulated by analysis of key business details and ..."
+publishedDateTime: 2022-05-19T17:23:00Z
+originalUrl: "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research?source=304"
+webUrl: "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research?source=304"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
   name: Middle East North Africa Financial Network
   domain: menafn.com
 
 topics:
-  - AI
   - AI in Autos
-  - AI in Robotics
+  - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145472"
-    width: 375
-    height: 249
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?996390"
+    width: 344
+    height: 250
     isCached: true
 
-secured: "yAxXBiHvm4JitZ9YXTU2kCNBp81P7COCT14MbNk6ub2IdccYLe/U/Ql6lBBrhazAWJv3zMEJDkDFnsb1YHTaOuC9n6mEE5oS+/BeEc/KbRsPkANhvVVlYf9WUcKfsBKOkArKDJZcFyGrj8E0tGEozUA0sUbxZMf4S8H+Pd07NjBiJoX8/gvTUnm1lGXY3RuT8p0Ay0+Yjo0V8iEtgBzaRwllpsY2iTNOhIIudfR1Hd7T8p2/XN8tC0fCDdXXTn3FnDUX2FZhTcvUH40jdlsyecjlOib8CUnMB9S8MPsOqnFqm5N923FIyi0Cqwa/6n4AjNAjTigD2lSa5kG7HPtAXrfmco9NN/iihewLpHce6CI=;L2Bc9xYx/gzQoyNboPM5cg=="
+secured: "ENNLeP8vG1gHn1DZE1ebOIQR0Ym9A/LNh2SjfySQEJGFfAqEInavLeS3BRN8zm/37sbSMcE0grB3p93sA36RjjRtRsNxUX86E9LrpI3OaXJPgbfShQlVTbzYhKY6H/aUD3WmJT5zLrQuohCxDn0ujLsEEsTNSCe8Eg13gg7k5n+IfU5dCjI31UnjjSW0UqC+sbmJYFCRoXJO70ADY0IQOM9nr+FVDse5v0VUs+oZHQnwdkj1EZCLHugS1+Tx1LCkX90ChG4GIrtW2LiSCuWTZlNj0vJoytzk5Pnbs7D2NVB4SgDpKm6ZH8zs0JQBEWNTNVVJYm9jvL0YWfuABpZ8PB7dWXxiOC2NDC5dfQxQn+8=;rkdfYy1i3s6xvjQjGpIxeQ=="
 ---
 

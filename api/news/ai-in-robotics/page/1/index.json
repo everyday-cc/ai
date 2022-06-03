@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -194,7 +194,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1050,33 +1050,24 @@
     {
       "path": "_news/2022-05-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx.md",
       "title": "First UK Authorized Dealer Signed for AI Robotics Leader: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)",
-      "excerpt": "Artificial Intelligence and Robotic Solutions for Multiple Applications. Expanding Sales Including Expectation of Large Orders from Global Small Box",
+      "excerpt": "(RAD) has signed its first authorized dealer in the United Kingdom and has received an order for a ROSA security robot. Additional details, including the name of the new dealer will be released in the future.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx",
-      "originalUrl": "https://www.digitaljournal.com/pr/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://lh6.googleusercontent.com/M1OxQKTUKmexu_qMJWIZJkmS83Vi_TIycMFimESotLhW5g8EADqqnpG2vOFT5hFjGjk5Pirv_qgbIEs8lEvIKGd-VxkWuVsorceloGyE7m8ey7gfRHdj-YUaSqN8ebGrESX4NXdlYwYTKk9fEg",
-          "width": 791,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T08:40:00-07:00",
+      "publishedDateTime": "2022-05-24T08:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1172,8 +1163,8 @@
       "title": "ARV and VARUNA launch AI & Robotics Hackathon 2022",
       "excerpt": "Thailand's leading technology development and venture building company dedicated to leveraging cutting-edge AI & Robotics technologies, as a technology spin-off from PTTEP, an upstream national oil & gas company of Thailand,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

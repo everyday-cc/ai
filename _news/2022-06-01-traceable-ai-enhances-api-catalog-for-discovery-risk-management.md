@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "Why is artificial intelligence so important for managing product catalogs?"
+    excerpt: "According to the latest E-commerce Industry Report from IBEF, the Indian e-commerce market is expected to hit US$188 billion by 2025 from US$ 46.2 billion in 2020. The report further states that due to"
+    publishedDateTime: 2022-06-03T16:59:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-is-artificial-intelligence-so-important-for-managing-product-catalogs/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/why-is-artificial-intelligence-so-important-for-managing-product-catalogs/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-is-artificial-intelligence-so-important-for-managing-product-catalogs/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 35
   - title: "Traceable AI Introduces New Capabilities to API Catalog for API Discovery and Risk Management"
     excerpt: "understand any changes, and detect anomalies in order to detect and block API attacks, making businesses more secure and resilient. Learn more at https://www.traceable.ai."
     publishedDateTime: 2022-06-01T13:57:00Z
