@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://regmedia.co.uk/2022/05/27/nvidia_lanl_venado.jpg"
         width: 648
         height: 432
-        isCached: true
-  - title: "Acer supercomputer boosts AIM artificial intelligence education"
-    excerpt: "The Analytics, Computing, and Complex Systems Laboratory at the Asian Institute of Management (ACCeSs@AIM) houses a supercomputer that's the fastest"
-    publishedDateTime: 2022-05-29T11:28:00Z
-    webUrl: "https://manilastandard.net/tech/314232053/acer-supercomputer-boosts-aim-artificial-intelligence-education.html"
-    type: article
-    provider:
-      name: Manila Standard
-      domain: manilastandard.net
-    quality: 71
-    images:
-      - url: "https://manilastandard.net/wp-content/uploads/2022/05/IMG_9372-1.jpg"
-        width: 1687
-        height: 2199
         isCached: true
   - title: "Nvidia debuts Grace and Grace Hopper ‘Superchips’ for HPC and AI workloads"
     excerpt: "Nvidia has unveiled new silicon architectures for high-performance computing and AI workloads.  The Nvidia Grace CPU Superchip"

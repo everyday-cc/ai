@@ -9,8 +9,8 @@ ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20220530000643"
 cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220530000643"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Korea Herald
@@ -39,6 +39,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/c7/ac7de3ef-9c2a-5ffd-b30e-c4e36199bc2f/6298d87b5bbea.image.jpg?resize=741%2C500"
         width: 741
         height: 500
+        isCached: true
+  - title: "iWave Launches AI Powered Prospect Lists"
+    excerpt: "\"With the launch of Prospect Lists, we're putting the power of AI and big data behind every fundraising team and reimagining one of the most important steps in the donor funnel. Having the ability to identify strong donor candidates means that development ..."
+    publishedDateTime: 2022-06-02T20:02:00Z
+    webUrl: "https://www.djournal.com/news/nation-world/iwave-launches-ai-powered-prospect-lists/article_d8b1bd41-d543-52ef-967c-03088625f6ca.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "/hucHoAwZoB+H7OF5rMQ1pa9zLdNccdDZ/SVmqpge2ba+iXamDlZdnfhUzWETq1Kmd41D8/N6uApYWwkEqHzd2hwKxXSlq5AiadYJy2h8CkpKkqGtWLivL8aewzFH72uuQ26255Q6s8bXmePl4jY/9DYby2ZWSu0VpD9uCibrm8Thaz+880xsvgpl2ycvnFkOLP75aLSZHrajsB7vgx1LK/bK/bGgM+Ogfzq6glaw8gg/jmDR4WjUDfeJaS2cH7wynzeB48+TzShZZ/y4uWTHPfWDkPChqEPXsBAjxdVGRQ5LFRBdob7SJQJKPS/ToTk7UlQRUmkkaKYYptFcWxyNNV/ladCe8yzHMSs29sUVkA=;1FJ2ZSzkL0NhKffBhSkRVQ=="

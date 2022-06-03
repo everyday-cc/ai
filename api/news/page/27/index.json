@@ -2,6 +2,136 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-05-09-nvidia-unveils-new-chip-to-help-ai-understand-users.md",
+      "title": "Nvidia Unveils New Chip to Help AI Understand Users",
+      "excerpt": "Nvidia is unveiling the H100 \"Hopper,\" a new technology that has the ability to speed up Artificial Intelligence applications. It will be an",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/Nvidia-Unveils-New-Chip-to-Help-AI-Understand-Users-1024x585.png",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-unveils-new-chip-to-help-ai-understand-users/amp/",
+      "publishedDateTime": "2022-05-09T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-rgo-robotics-exits-stealth-aims-to-disrupt-mobile-robotics-with-visionary-functionality.md",
+      "title": "Rgo Robotics exits stealth, aims to disrupt mobile robotics with visionary functionality",
+      "excerpt": "Rgo Robotics enables mobile robots to operate autonomously by understanding their environment through artificial perception technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/09/rgo-robotics-exits-stealth-aims-to-disrupt-mobile-robotics-with-visionary-functionality/",
+      "originalUrl": "https://venturebeat.com/2022/05/09/rgo-robotics-exits-stealth-aims-to-disrupt-mobile-robotics-with-visionary-functionality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-09-ed-frontlines-english-has-become-the-language-of-science.md",
+      "title": "ED. FRONTLINES: English has become the language of science",
+      "excerpt": "Between 1980 and 1996, natural science publications in Russian fell from 10.8 to 2.1 percent. German dropped from 2.5 to 1.2 percent. But English rose from 74.6 to 90.7 percent. This surge in English publications did not come from American authors or other native speakers of English.",
+      "sourceUrl": null,
+      "webUrl": "https://salinapost.com/posts/6185c4ce-eeba-4af4-93ae-d56c66f57bb6",
+      "originalUrl": "https://salinapost.com/posts/6185c4ce-eeba-4af4-93ae-d56c66f57bb6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.eaglewebservices.com/public/2019/11/1573490075841.jpeg",
+          "width": 312,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salina Post",
+        "domain": "salinapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-media-alert-brainchip-drives-intelligent-edge-ai-at-autosens-detroit.md",
       "title": "Media Alert: BrainChip Drives Intelligent Edge AI at AutoSens Detroit",
       "excerpt": "About BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY) BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company’s first-to-market neuromorphic processor, Akida TM, mimics the human brain to analyze only ...",
@@ -1052,146 +1182,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-natural-language-processing-market-growing-at-a-cagr-203-key-player-ibm-microsoft-google-aws-facebook.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player IBM, Microsoft, Google, AWS, Facebook",
-      "excerpt": "“IBM (US), Microsoft (US), Google (US), AWS (US), Facebook (US), Apple (US), 3M (US), Intel (US), SAS Institute (US), Baidu (China), Inbenta (US), Veritone (US ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27060343/natural-language-processing-market-growing-at-a-cagr-20-3-key-player-ibm-microsoft-google-aws-fac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27060343",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27060343",
-      "publishedDateTime": "2022-05-07T00:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability.md",
-      "title": "India and Germany in new deal on joint AI for healthcare, sustainability",
-      "excerpt": "Indo-German Science and Technology Centre (IGSTC) is all set to propose a joint “Artificial Intelligence” (‘AI’) initiative on healthcare and - Kenya breaking news | Kenya news today | Capitalfm.co.ke",
-      "sourceUrl": null,
-      "webUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/",
-      "originalUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.capitalfm.co.ke/news/files/2022/05/JITENDRA.jpeg",
-          "width": 1200,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-capitalfm-co-ke.cdn.ampproject.org/c/s/www.capitalfm.co.ke/news/2022/05/india-and-germany-in-new-deal-on-joint-ai-for-healthcare-sustainability/amp/",
-      "publishedDateTime": "2022-05-06T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Capital FM",
-        "domain": "capitalfm.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-how-to-master-the-data-lifecycle-for-successful-ai.md",
-      "title": "How to master the data lifecycle for successful AI",
-      "excerpt": "The AI data lifecycle is ever-changing, and the approaches we take to manage its different components need to be dynamic as well.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ai_business-e1648498198314.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/06/how-to-master-the-data-lifecycle-for-successful-ai/amp/",
-      "publishedDateTime": "2022-05-06T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

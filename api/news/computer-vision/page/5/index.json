@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-06-how-ai-is-creating-higher-quality-pet-bales.md",
+      "title": "How AI is creating higher quality PET bales",
+      "excerpt": "e-scrap and construction and demolition debris with an object recognition run rate of more than 10 billion items annually. This combination of scalable accuracy and classification creates a step-level solution for data collection and measurement that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.recyclingtoday.com/article/how-ai-is-creating-higher-quality-pet-bales/",
+      "originalUrl": "https://www.recyclingtoday.com/article/how-ai-is-creating-higher-quality-pet-bales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.recyclingtoday.com/fileuploads/publications/17/issues/104003/articles/images/PET_Bale_fmt.png?w=1200&h=627&scale=both",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Recycling Today",
+        "domain": "recyclingtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-facial-recognition-system-to-be-launched-at-pune-airport-in-2023.md",
       "title": "Facial recognition system to be launched at Pune airport in 2023",
       "excerpt": "A facial recognition system will be launched at Pune's Lohegaon Airport by March 2023, Minister of State for Civil Aviation VK Singh said in Parliament. The system will be launched as part of the Centre's Digi Yatra initiative to provide passengers \"seamless and hassle-free experience at airports\".",
@@ -1269,58 +1312,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc.md",
-      "title": "Computer Vision Software Market See Huge Growth for New Normal | Algolux, ViSenze, Deep Vision AI Inc.",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 23, 2022 (Heraldkeepers) -- The Computer Vision Software Market research report provides all the information related to the industry. It gives the outlook of the market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc-2022-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-see-huge-growth-for-new-normal-algolux-visenze-deep-vision-ai-inc-2022-03-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

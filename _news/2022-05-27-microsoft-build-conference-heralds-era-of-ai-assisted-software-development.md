@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Build Conference Heralds Era of AI-Assisted Software Development"
 excerpt: "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,"
 publishedDateTime: 2022-05-26T18:14:00Z
-originalUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
-webUrl: "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1"
+originalUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
+webUrl: "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "+B9csQHAfcEwQVBW6K/+WgGpom1k14bgvaHpKQYTxteeTVbH4brf6yJi+L5A+fG0lymDj/41ntdzEs0QfI1OdOACyDbeMhSAmasx0G27nMxYKooNwqHbwO3zxM8uWHSJTeo7Ow8hg8K9ydprIz3hOByXUGQKiQa4a5J33Oj+5c9DItv1eix/gjYbOUtAGhz5ec8/oZwcKH8UB29RFe/QM6y6qvQudwEiAhTIM3KZPfRT2kVppcTvcH9cVY1xS0WfvuIT/EPoeSJOceukd4BmmvEI1abHYJJKPvnBnb8dDGFh1TBt2lGQPhRcx6KW9JR2nUnzSONGu3+nyEl7SqD59V0fT7EPGi/5tVpIQt+ArQk=;oGEFXIfdx0Gf1o9i12e6iw=="
+secured: "4IGFqxW6GZTpQa1AvilJxw1PL1u7ZiuJCjJnMWdfHRd74++ZhmPdqN1dN+Yw1gPdNBUDnBuXaeFz7TqwSICin44KiuRvHM27iAJ+sIEwGUGg9xUp0C0LC6VXBNRDzT3NbFAFKJLjBJEWZR73Ri3x0NefELFZQ7McK9kbhZCmr4PwE6PhQWF5Y0C6zrhHhK549XPdftGSG/B4yXl6zSbKfzxBodP2tDwfrP95nC2qqMfph1KJdMEFqreFRUz4CfCVtv+JGyNo/0Us+5Mgd74CeQbPKzgFLyDcbhm0p+mqnOwpXAzmCBXiJFbo9re13fkKmEG2BVBhG4gA+T8KckQ7gdlqNuN4HEl0PkE/zMJxoOs=;ph7Bxp5q5whpZFacZItG3Q=="
 ---
 

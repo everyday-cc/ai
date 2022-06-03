@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-02-why-ai-and-ml-is-reshaping-the-fintech-industry.md",
+      "title": "Why AI and ML is Reshaping the Fintech Industry",
+      "excerpt": "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
+      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg",
+          "width": 1800,
+          "height": 1011,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-ai-and-ml-key-combatants-in-the-cyber-security-conflict.md",
       "title": "AI and ML: Key combatants in the cyber security conflict",
       "excerpt": "Artificial intelligence and its subset machine learning are now key technology partners in the search for improved and faster cyber security processes.",
@@ -554,10 +599,10 @@
     {
       "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
       "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
-      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ...",
+      "excerpt": "Artificial intelligence (AI ... with their revolutionary study where they trained a deep convolutional neural network (CNN) to classify 1.2 million high-resolution images in the ImageNet LSVRC ...",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -574,9 +619,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "publishedDateTime": "2022-05-25T15:05:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T13:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -850,33 +895,24 @@
     {
       "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
       "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May",
+      "excerpt": "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png",
-          "width": 1500,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:45:00-07:00",
+      "publishedDateTime": "2022-05-24T17:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1280,58 +1316,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-23T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-artificial-neural-networks-market-2022-scope-demand-trends-growth-and-forecasts-till-2030.md",
-      "title": "Artificial Neural Networks Market 2022 Scope, Demand, Trends, Growth, and Forecasts till 2030",
-      "excerpt": "May 23, 2022 (Alliance News via COMTEX) -- Report Ocean published the latest research report on the Artificial Neural Networks market. In order to comprehend a market holistically, a variety of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-scope-demand-trends-growth-and-forecasts-till-2030-2022-05-23?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-scope-demand-trends-growth-and-forecasts-till-2030-2022-05-23?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T07:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

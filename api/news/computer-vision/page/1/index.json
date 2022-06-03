@@ -45,6 +45,51 @@
       ]
     },
     {
+      "path": "_news/2022-06-02-why-ai-and-ml-is-reshaping-the-fintech-industry.md",
+      "title": "Why AI and ML is Reshaping the Fintech Industry",
+      "excerpt": "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
+      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg",
+          "width": 1800,
+          "height": 1011,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-business-travelers-face-higher-prices-and-packed-flights-hotels.md",
       "title": "Business travelers face higher prices, and packed flights, hotels",
       "excerpt": "After a pandemic freeze, business travel is coming back, but upgrades to premium airline seats and hotel rooms are harder to come by and amenities have been scaled back.",
@@ -1330,49 +1375,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-us-cops-kick-back-against-facial-recognition-bans.md",
-      "title": "US cops kick back against facial recognition bans",
-      "excerpt": "In brief Facial recognition bans passed by US cities are being overturned as law enforcement and lobbyist groups pressure local governments to tackle rising crime rates. In July, the state of Virginia will scrap its ban on the controversial technology after less than a year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/03/05/facial.jpg",
-          "width": 1000,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/",
-      "publishedDateTime": "2022-05-16T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

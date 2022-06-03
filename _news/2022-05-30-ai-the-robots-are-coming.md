@@ -21,21 +21,21 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "AI: The pattern is not in the data, it's in the machine"
-    excerpt: "No, the patterns computers create are not an inherent property of data, they are an emergent property of the structure of the program itself."
-    publishedDateTime: 2022-05-29T11:06:00Z
-    webUrl: "https://www.zdnet.com/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/"
+  - title: "Human Vs. Artificial Intelligence: Why Finding The Right Balance Is Key To Success"
+    excerpt: "In short, now that we have increasingly capable robots and artificial intelligence (AI) systems – capable of taking on tasks that were previously the sole domain of humans – it’s easier than ever for organizations to leverage intelligent machines."
+    publishedDateTime: 2022-05-30T05:10:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://www.zdnet.com/a/img/resize/111f895dc65607d9760070c5a72e57b282be8139/2022/05/29/7ffbd514-63f1-44f3-ba9e-bfc036f716a0/b21c7d8b-5465-4ff6-ad1e-a3aa0de5af4e.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://imageio.forbes.com/specials-images/imageserve//629450cfe45063944fd631b9/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 788
+        height: 600
         isCached: true
 
 secured: "r+HGh4np6dkY9rIlfurTnIV6Iw/cgrMMF3a4VNm0rLkWeqeA+zDRXRBvqzyhtQNoPWkORAoAElN3NTgqyx5Jqzr6Xj7NswgwCCWd57S9PPxK9Lp6zE1GLmlfVfH2RViAvplZL9LdBaJoQCYuo3sbvYULWsKGoM1xDNEOPGhJjrc9N7rdDyd9qE/tcmFxYxwlxRsd+/WjwBdIye6UpHb4ul+jhMbBkqvLFkgnYlybgI8HRdmF9vkRtQA+qn9Bhq/GlaMgKJ0G0+kFj5pK33NL5iwlIfU8UmQKlZquP1avqlYKWpqcUP4Oyj5mEpMEbpY4ojqseiPw6MFDW/FdSZK7ZEA5uPuEl6I5LNG5Zvgnl8GyjR4Zm04cvRawY/Kl3b91tF2WPvmPBxykDJ/4CyhN7i4Vfr5YWvDRKd2FjTn4b0B9/ESQ1LPIVSosPtZVb9ikrDOxJyt6T0fkBFqeLIuNQI6fwJIB/7bph7Ux2EMvgUXdLpl0qJ9i4V9AdF51y4NenlOWwPsLLHHwYYPrKa6fXg==;y13kVZWcqiuXmLN2zcUPHw=="

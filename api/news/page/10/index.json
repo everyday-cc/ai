@@ -2,6 +2,134 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-24-using-artificial-intelligence-to-predict-life-threatening-bacterial-disease-in-dogs.md",
+      "title": "Using artificial intelligence to predict life-threatening bacterial disease in dogs",
+      "excerpt": "Leptospirosis, a disease that dogs can get from drinking water contaminated with Leptospira bacteria, can cause kidney failure, liver disease and severe bleeding into the lungs. Early detection of the disease is crucial and may mean the difference between life and death.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-artificial-intelligence-life-threatening-bacterial-disease.html",
+      "originalUrl": "https://phys.org/news/2022-05-artificial-intelligence-life-threatening-bacterial-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-googles-myth-of-losing-social-capital-in-hybrid-work.md",
+      "title": "Google's Myth of Losing Social Capital in Hybrid Work",
+      "excerpt": "Another cognitive bias, related to functional fixedness ... a channel in their collaboration software — such as Slack or Microsoft Teams — dedicated to personal, non-work discussions by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/427851",
+      "originalUrl": "https://www.entrepreneur.com/article/427851",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652897556-GettyImages-1281329498.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-new-massrobotics-award-to-honor-female-robotics-researchers.md",
+      "title": "New MassRobotics award to honor female robotics researchers",
+      "excerpt": "MassRobotics' The Robotics Medal recognizes the wide-ranging impact of female researchers around the development of robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/",
+      "originalUrl": "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/massrobotics-the-robotics-medal.jpg",
+          "width": 635,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-playing-by-the-rules-fintechs-use-ai-for-marketing-compliance.md",
       "title": "Playing by the Rules: Fintechs Use AI for Marketing Compliance",
       "excerpt": "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,",
@@ -998,145 +1126,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process.md",
-      "title": "Fintech Firm ForwardAI and Fifo Capital to Enhance SMB Loan Underwriting Process",
-      "excerpt": "ForwardAI, a Fintech providing aggregated access to accounting & business data and analysis, announced its partnership with Fifo Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Loans-Lending-Borrow-Debt.jpeg",
-          "width": 1280,
-          "height": 1104,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/191347-fintech-firm-forwardai-and-fifo-capital-to-enhance-smb-loan-underwriting-process/amp/",
-      "publishedDateTime": "2022-05-22T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-top-10-ai-graduate-degree-programs.md",
-      "title": "Top 10 AI graduate degree programs",
-      "excerpt": "neural networks, reinforcement learning, and robotics. It hosts myriad research centers and labs, including the Laboratory for Artificial Intelligence, which opened its doors in 1983 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html",
-      "originalUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/05/skills_programmer_data-scientist_graduate_school_college_certification_mortar-board_valedictorian_cole-keister-via-unsplash-100759473-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/350315/top-10-ai-graduate-degree-programs.html/amp",
-      "publishedDateTime": "2022-05-22T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars.md",
-      "title": "AI Ethics Unnervingly Asking Whether AI Biases Are Insidiously Hiding Societal Power Dynamics, Including For AI Self-Driving Cars",
-      "excerpt": "A bubbling up theory is that AI biases are reflections of hidden societal power dynamics, which has vital impacts for AI and AI Ethics, including the use case of self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-22T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

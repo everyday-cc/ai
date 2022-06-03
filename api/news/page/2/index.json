@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-01-ai-robotics-autonomous-vehicle-zettascale-spins-out-from-adlink-tttech-auto-investor.md",
+      "title": "AI, robotics, autonomous vehicle – ZettaScale spins out from ADLINK, TTTech Auto investor",
+      "excerpt": "ZettaScale Technologies has raised a strategic investment from TTTech Auto. The investment marks the start of a strategic partnership between the two companies that will result in the creation of the first European implementation of Data Distribution Service (OMG DDS) that is certified for use in series cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsit.com/articles/2022/06/01/ai,-robotics,-autonomous-vehicle-–-zettascale-spins-out-from-adlink,-tttech-auto-investor",
+      "originalUrl": "https://www.logisticsit.com/articles/2022/06/01/ai,-robotics,-autonomous-vehicle-–-zettascale-spins-out-from-adlink,-tttech-auto-investor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.logisticsit.com/assets/image-cache/files/images/02_06_22/publicpreview.php.7fa9aa46.jpg",
+          "width": 650,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing & Logistics IT Magazine",
+        "domain": "logisticsit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda.md",
+      "title": "Automate vending Amazon SageMaker notebooks with Amazon EventBridge and AWS Lambda",
+      "excerpt": "Having an environment capable of delivering Amazon SageMaker notebook instances quickly allows data scientists and business analysts to efficiently respond to organizational needs. Data is the lifeblood of an organization, and analyzing that data efficiently provides useful insights for businesses. A",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-5603-image001.png",
+          "width": 811,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:29:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game.md",
       "title": "Intel Arc Mobile Graphics Performance Preview: A New Player Enters The GPU Game",
       "excerpt": "I was able to not only go under the hood of an Intel Arc Graphics reference platform laptop from one of its OEM partners, but I can also now share with you an extensive array of performance metrics as well.",
@@ -1103,109 +1198,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform.md",
-      "title": "US Senate candidate runs on anti-Tesla “Full Self Driving” platform",
-      "excerpt": "Single-issue candidates for the US Senate aren't the usual fodder for Ars' car coverage, but it seems like an exception might exist for Dan O'Dowd. O'Dowd, an engineer and CEO of a software company, is running for one of California's Senate seats on a platform to ban Tesla's \"Full Self Driving\" feature.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
-      "originalUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/unsafe-at-any-speed-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-how-ai-can-assist-in-coral-reef-restoration.md",
-      "title": "How AI Can Assist In Coral Reef Restoration",
-      "excerpt": "By learning the difference between how healthy and unhealthy reefs sound, this AI algorithm may able to support coral conservation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/",
-      "originalUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62959c2799ec499d9535a8d4/0x0.jpg?format=jpg&width=1200",
-          "width": 1149,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/",
-      "publishedDateTime": "2022-05-31T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

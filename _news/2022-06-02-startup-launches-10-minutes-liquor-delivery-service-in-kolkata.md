@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Kolkata: Startup to deliver liquor in 10 minutes at doorstep"
+    excerpt: "In a first, a Hyderabad-based startup has launched a 10-minute express liquor delivery service in Kolkata. According to the company, several companies already provide online liquo"
+    publishedDateTime: 2022-06-03T05:26:00Z
+    webUrl: "https://www.newsbytesapp.com/news/business/kolkata-liquor-to-be-delivered-in-10-minutes/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/business/kolkata-liquor-to-be-delivered-in-10-minutes/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/business/kolkata-liquor-to-be-delivered-in-10-minutes/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 42
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l16720220603102940.jpeg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Hyderabad startup launches 10-minutes liquor delivery service in Kolkata"
     excerpt: "A Hyderabad-based startup has launched its services in Kolkata of delivering liquor in 10 minutes, the firm said in a statement. Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform."
     publishedDateTime: 2022-06-02T05:37:00Z

@@ -2,6 +2,163 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-04-26-jack-in-the-box-rolls-out-robots-to-flip-burgers-and-serve-drinks.md",
+      "title": "Jack in the Box Rolls Out Robots to Flip Burgers and Serve Drinks",
+      "excerpt": "Jack in Box, for one, has harnessed the power of tech, partnering with Miso Robotics to introduce robots to one of its San Diego restaurants.  Relying on a combination of artificial intelligence, machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/425734",
+      "originalUrl": "https://www.entrepreneur.com/article/425734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1650985396-GettyImages-1289092918.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-adept-aims-to-build-ai-that-can-automate-any-software-process.md",
+      "title": "Adept aims to build AI that can automate any software process",
+      "excerpt": "Adept, founded by a team of accomplished AI researchers and data scientists, aims to build AI systems that can understand and automate any software process.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/26/2304039/",
+      "originalUrl": "https://techcrunch.com/2022/04/26/2304039/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-604864142.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/26/2304039/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/2304039/amp/",
+      "publishedDateTime": "2022-04-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022.md",
+      "title": "Final week to buy 2-for-1 passes to TC Sessions: Robotics 2022",
+      "excerpt": "Who’s ready for a full day dedicated to robots, the people who build them, fund them and envision new possibilities? Would that be you? Then get ready for TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/",
+      "originalUrl": "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628-1-1.png?w=1024",
+          "width": 1022,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022/amp/",
+      "publishedDateTime": "2022-04-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-tomahawk-robotics-expands-global-coverage-to-europe-and-australasia-markets.md",
       "title": "Tomahawk Robotics Expands Global Coverage to Europe and Australasia Markets",
       "excerpt": "April 26, 2022 /PRNewswire/ -- Tomahawk Robotics ... the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture, AI-enabled control system that unlocks intuitive ...",
@@ -1005,124 +1162,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution-for-meetings.md",
-      "title": "Philips Speech Teams Up With Sembly AI to Launch a Brand-new Speech Technology Solution for Meetings",
-      "excerpt": "Together they’ll unite to provide high-quality microphones and smart meeting technology. Sembly goes beyond simple speech recognition and offers users instant searchable meeting transcripts, highlights key discussion moments, and creates summaries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution/article_94537cff-880a-5ed6-bee0-ce877808d418.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/philips-speech-teams-up-with-sembly-ai-to-launch-a-brand-new-speech-technology-solution/article_94537cff-880a-5ed6-bee0-ce877808d418.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-ai-medical-service-inc-announces-8-billion-jpy-us70-m-series-c-financing-led-by-softbank-vision-fund-2-svf2.md",
-      "title": "AI Medical Service Inc. Announces 8 Billion JPY (US$70 M) Series C Financing Led by SoftBank Vision Fund 2 (SVF2)",
-      "excerpt": "First Instance of SVF2 Investing in Japanese Medical AI Company - AI Medical Service Inc. (hereinafter AIM), the Tokyo-based med-tech company using deep learning technology to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/04/n26805202/ai-medical-service-inc-announces-8-billion-jpy-us-70-m-series-c-financing-led-by-softbank-vision-f",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/n26805202/ai-medical-service-inc-announces-8-billion-jpy-us-70-m-series-c-financing-led-by-softbank-vision-f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26805202",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26805202",
-      "publishedDateTime": "2022-04-26T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-us.md",
-      "title": "Ubie, Japanese HealthTech Startup, Launches AI-powered Symptom Checker in U.S.",
-      "excerpt": "Ubie, founded in Japan in 2017 by a physician and an engineer, is now based in Tokyo and Singapore. The company has seen rapid growth, ranked #1 in the 2021 \"LinkedIn Top Startups.\" (*) Ubie's first product offering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/",
-      "originalUrl": "https://www.tristatehomepage.com/business/press-releases/cision/20220426HK36122/ubie-japanese-healthtech-startup-launches-ai-powered-symptom-checker-in-u-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.tristatehomepage.com/wp-content/uploads/sites/92/2022/05/CARNIVAL.jpg?w=2000&#038;ssl=1",
-          "width": 1009,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVW",
-        "domain": "tristatehomepage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

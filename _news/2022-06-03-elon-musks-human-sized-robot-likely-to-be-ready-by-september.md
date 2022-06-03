@@ -75,6 +75,31 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Musk says Tesla may have ‘Optimus’ robot prototype within months"
+    excerpt: "Tesla Inc may have a functioning humanoid robot up and running within months, chief executive officer Elon Musk said on Twitter, as he postponed the electric carmaker’s second AI Day until Sept 30 for that reason."
+    publishedDateTime: 2022-06-03T04:41:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/03/musk-says-tesla-may-have-optimus-robot-prototype-within-months"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 56
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/03/1609422.jpg"
+        width: 1240
+        height: 825
+        isCached: true
+  - title: "Tesla may have functioning humanoid robot prototype within months"
+    excerpt: "Tesla Inc may have a functioning humanoid robot up and running within months, chief executive officer Elon Musk said on Twitter, as he postponed the electric carmaker’s second AI Day until September 30 for that reason."
+    publishedDateTime: 2022-06-03T05:21:00Z
+    webUrl: "https://businesstech.co.za/news/technology/593190/tesla-may-have-functioning-humanoid-robot-prototype-within-months/"
+    ampWebUrl: "https://businesstech.co.za/news/technology/593190/tesla-may-have-functioning-humanoid-robot-prototype-within-months/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/593190/tesla-may-have-functioning-humanoid-robot-prototype-within-months/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 56
   - title: "Tesla Optimus prototype expected to be ready by Sept 30: The New AI Day date"
     excerpt: "Tesla AI Day is being pushed to September 30th this year, from the earlier set date of August 19th. It is announced by Elon Musk."
     publishedDateTime: 2022-06-03T02:19:00Z
@@ -89,6 +114,15 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "Elon Musk: real Optimus robot prototype for Sept 30 at Tesla AI Day"
+    excerpt: "Tesla AI Day pushed back to September 30 with robot reveal, Elon Musk tweets 'we may have an Optimus prototype working by then'."
+    publishedDateTime: 2022-06-03T03:44:00Z
+    webUrl: "https://www.tweaktown.com/news/86620/elon-musk-real-optimus-robot-prototype-for-sept-30-at-tesla-ai-day/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 51
 
 secured: "uij8qb4E7PElusKoMd1iEUh5BoLR/+My3drghbDj7vQeeZbTXijUpzvZcFvBRzKBLWa27RtBsCzuiNh+ZkwLj1eFqBuQg56t7DjVlfXMWAqRm3wTSal5LRE9zqHbx0M1HFOme4UDa559EA7m0mo+G03X8vTrjs8LbAHJq+H6IxkBbX960nC97KCHyVFOgENymiIOJdW+gia/2G98Jsxz2xU1LMcRt8npWg+G2BvuERX2BiK3jBg7EPg/Xn39dsZB13Dq9bt3fFN2NuoEYt0Ap3LoQBM4Gnf6eisdqfpNdVxyAwHenXfOFgHPukPscHHHW5chCf+IMPrKyJAlXaLS3unoihzEc43KSvb39M5sDkU=;mnCX59p/DyYpF41x19v5iw=="
 ---

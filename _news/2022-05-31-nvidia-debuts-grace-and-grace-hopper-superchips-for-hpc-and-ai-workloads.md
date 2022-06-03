@@ -58,20 +58,6 @@ related:
         width: 648
         height: 432
         isCached: true
-  - title: "Acer supercomputer boosts AIM artificial intelligence education"
-    excerpt: "The Analytics, Computing, and Complex Systems Laboratory at the Asian Institute of Management (ACCeSs@AIM) houses a supercomputer that's the fastest"
-    publishedDateTime: 2022-05-29T11:28:00Z
-    webUrl: "https://manilastandard.net/tech/314232053/acer-supercomputer-boosts-aim-artificial-intelligence-education.html"
-    type: article
-    provider:
-      name: Manila Standard
-      domain: manilastandard.net
-    quality: 71
-    images:
-      - url: "https://manilastandard.net/wp-content/uploads/2022/05/IMG_9372-1.jpg"
-        width: 1687
-        height: 2199
-        isCached: true
   - title: "Nvidia launches Grace and Grace Hopper Superchips for HPC and AI"
     excerpt: "Nvidia introduced the Grace CPU Superchip and the Grace Hopper Superchip for high-performance computing and artificial intelligence. The chips were"
     publishedDateTime: 2022-05-31T08:39:00Z

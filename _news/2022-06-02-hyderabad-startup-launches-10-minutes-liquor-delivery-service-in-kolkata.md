@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kolkata: Startup to deliver liquor in 10 minutes at doorstep"
+    excerpt: "In a first, a Hyderabad-based startup has launched a 10-minute express liquor delivery service in Kolkata. According to the company, several companies already provide online liquo"
+    publishedDateTime: 2022-06-03T05:26:00Z
+    webUrl: "https://www.newsbytesapp.com/news/business/kolkata-liquor-to-be-delivered-in-10-minutes/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/business/kolkata-liquor-to-be-delivered-in-10-minutes/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/business/kolkata-liquor-to-be-delivered-in-10-minutes/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 42
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l16720220603102940.jpeg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Kolkata: Now get liquor delivered in 10 minutes as this startup launches delivery service"
     excerpt: "The service was launched in the eastern metropolis after approval from the West Bengal State Excise Department, the statement said"
     publishedDateTime: 2022-06-02T06:44:00Z

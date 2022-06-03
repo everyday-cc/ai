@@ -2,6 +2,126 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2022-03-14-cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report.md",
+      "title": "Cognitive Cloud Market Poised to Register 16% CAGR by 2023 | Cognitive Cloud Market Growth Analysis and COVID Research Report",
+      "excerpt": "Market Synopsis The data analysts at Market Research Future Reports (MRFR) have revealed that the global cognitive cloud market is predicted to",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform.md",
+      "title": "Ecopetrol, Accenture and AWS Work to Help Companies Advance Journey to Water Neutrality Through First-of-its-Kind Open Platform",
+      "excerpt": "By combining data from previously disparate sources across Ecopetrol’s operations, and using AWS cloud-based machine learning and artificial intelligence services, this technology will enable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220314005250/ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220314005250/ecopetrol-accenture-and-aws-work-to-help-companies-advance-journey-to-water-neutrality-through-first-of-its-kind-open-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-enotai-announces-solution-for-optimising-deep-neural-networks.md",
+      "title": "Enot.ai Announces Solution for Optimising Deep Neural Networks",
+      "excerpt": "Enot, an artificial intelligence firm, has announced the creation of a framework dedicated to optimising deep neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/03/Enot.ai-Announces-Solution-for-Optimising-Deep-Neural-Networks-01.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/enot-ai-announces-solution-for-optimising-deep-neural-networks/amp/",
+      "publishedDateTime": "2022-03-14T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-artificial-intelligence-is-redefining-the-travel-industry.md",
       "title": "Artificial Intelligence is Redefining The Travel Industry",
       "excerpt": "Artificial intelligence (AI) is transforming the travel industry by offering predictive analytics, tailored recommendations and live updates.",
@@ -993,154 +1113,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-a-survey-of-ai-news-from-around-the-web.md",
-      "title": "A Survey of A.I. News from Around the Web",
-      "excerpt": "I wanted to present some curated links about A.I. in case you have an obsession like I do to follow some of the best related stories from around the Web. If you enjoy articles about A.I. at the intersection of breaking news join AiSupremacy here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/survey-ai-news-from-around-web-michael-spencer-",
-      "originalUrl": "https://www.linkedin.com/pulse/survey-ai-news-from-around-web-michael-spencer-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH-_z21-2zajg/article-cover_image-shrink_600_2000/0/1647054721661?e=1653523200&v=beta&t=LzhFQen8sg0FC4Wgdi_XopZqwllrPOci3ZiO8hKZruE",
-          "width": 612,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-federated-learning-for-text-generation.md",
-      "title": "Federated Learning for Text Generation",
-      "excerpt": "This tutorial builds on the concepts in the Federated Learning for Image Classification tutorial, and demonstrates several other useful approaches for federated learning. In particular, we load a previously trained Keras model, and refine it using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_for_text_generation?hl=hr-ba",
-      "originalUrl": "https://www.tensorflow.org/federated/tutorials/federated_learning_for_text_generation?hl=hr-ba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=hr-ba",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-11T17:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-12-researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.md",
-      "title": "Researchers develop a system of synthetic biosensors to assess the response of cancer therapy",
-      "excerpt": "Immune checkpoint blockade (ICB) inhibitors have transformed the treatment of cancer and have become the frontline therapy for a broad range of malignancies. It's because they work better than the previous standard of care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220311/Researchers-develop-a-system-of-synthetic-biosensors-to-assess-the-response-of-cancer-therapy.aspx",
-      "publishedDateTime": "2022-03-11T17:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
