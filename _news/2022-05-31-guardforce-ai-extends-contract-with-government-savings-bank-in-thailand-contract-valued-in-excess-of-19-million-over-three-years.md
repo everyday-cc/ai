@@ -69,19 +69,19 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Tonic.ai announces new integration with Snowflake"
-    excerpt: "Tonic.ai, a San Francisco-based company pioneering data mimicking and de-identification, has announced an integration with Snowflake, the Data Cloud company."
-    publishedDateTime: 2022-06-02T15:34:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/tonic-ai-announces-new-integration-with-snowflake"
+  - title: "Tonic.ai Announces New Integration with Snowflake"
+    excerpt: "Tonic.ai and Snowflake’s partnership will enable users to de-identify data and tokenize it for increased productivitySAN FRANCISCO--(BUSINESS WIRE)--Tonic.ai, the San Francisco-based company pioneering data mimicking and de-identification,"
+    publishedDateTime: 2022-06-01T17:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=673134"
     type: article
     provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 37
     images:
-      - url: "https://www.securitysystemsnews.com/images/callout-webcasts.jpg"
-        width: 600
-        height: 450
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "rOzFFHvKylCKeJ9HnqEneJXzaQ/3t5sFOOjsImVdNu0lXKskM4Q2BpYDJwKcH0IQxz5b0VbOhb8Gku9RC4QS5IMqbbCvPiKHtAEH5wR+EwzLRZlupGE/VI7rnIer+Ces3ExsTpg81xPkXD0H+l+fuxGPuUbZWhp7CbbghtD7GPuRH71X1YF06lESaas0kgQw+v1AYWTv8kyizK8xaujEpeMXmPjV5NtOfEy36OH/8tQcJaPQ0w5NPjOnkRDmTJvnnRT1NWZQoguDBp9aiyrmNI4+xaRYoBFxUtqfJOxHit9RFDJ4vDCr8j85r+SL41qUESqExRcoloiU+V3UKncTz3ZbS/oJpw6g7x70yjUwkLA=;lRKZBwRsvow2zM38Btp5+g=="

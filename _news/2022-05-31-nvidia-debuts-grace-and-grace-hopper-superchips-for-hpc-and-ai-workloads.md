@@ -100,6 +100,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Champollion AI supercomputer powered up in France"
+    excerpt: "Hewlett Packard Enterprise today switched on a new AI Supercomputer in France the Champollion supercomputer ready for processing huge"
+    publishedDateTime: 2022-05-31T10:29:00Z
+    webUrl: "https://www.geeky-gadgets.com/champollion-ai-supercomputer-31-05-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/Champollion-supercomputer.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Leading Supercomputer Sites Choose Cerebras for AI Acceleration"
     excerpt: "At ISC 2022, Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, shared news about their man"
     publishedDateTime: 2022-05-31T15:38:00Z
@@ -127,20 +141,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "NVIDIA Omniverse is now ready to usher 3D simulation, virtual worlds, and next-gen AI into the next era"
-    excerpt: "NVIDIA’s job at COMPUTEX 2022 is not over just yet as the latest video prepared for the forum is all about Team Green’s real-time reference development platform Omniverse and the wave of revolutionary applications it’s going to bring forward."
-    publishedDateTime: 2022-05-29T05:14:00Z
-    webUrl: "https://www.tech-critter.com/nvidia-omniverse-3d-sim-virtual-worlds-ai/"
-    type: article
-    provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 21
-    images:
-      - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/05/NVIDIA-Omniverse-Featured.jpg"
-        width: 1363
-        height: 759
         isCached: true
 
 secured: "oNXkTFFJFptxhPmhD/H+eReyclwMG27MQ6Ey265nGJrBlXQFMSjGKqv5/28lRtjnqP3q/vl0eFDqnkT3RYZ1HJi3wiAFhLMK2yEtur9Qk4lScEaqrtQ0xj+7S0NvTLVI7/S4CzMGZ1TqfDrK9jHdmVH8RvFOnPBZL9Zqvo82A0hgbJsgShhQpHKgjWqSuRpHYmRhIdcNX/cB5+fr0LlH+UZxqIhiA48cCjkiUOM9e5iHb+zRaW/llHUrAIi7WLZtGzI/RHkFiTcsmsSOZZfoKjLhvqT1pxRqh5QD7NfUlV9EYHkuavcd/T5hc/CU1AejJQbPtUknc8Yqfv1yPcbs7gyGACRMW5yXmH6rDyKjYLU=;b2imJQIy48kETyifZ2IgUA=="

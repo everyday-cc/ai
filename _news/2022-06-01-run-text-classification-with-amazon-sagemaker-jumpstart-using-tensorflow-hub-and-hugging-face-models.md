@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-text-classificat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/"
 type: article
 quality: 108
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon SageMaker Notebook Instances now support configuring and restricting IMDS versions"
+    excerpt: "Today, we’re excited to announce that Amazon SageMaker now supports the ability to configure Instance Metadata Service Version 2 (IMDSv2) for Notebook Instances, and for administrators to control the minimum version with which end-users create new Notebook Instances. You can now choose IMDSv2 only for"
+    publishedDateTime: 2022-06-02T22:02:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 80
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/02/sagemaker-imds-versions.jpg"
+        width: 1000
+        height: 499
+        isCached: true
   - title: "Detect financial transaction fraud using a Graph Neural Network with Amazon SageMaker"
     excerpt: "Fraud plagues many online businesses and costs them billions of dollars each year. Financial fraud, counterfeit reviews, bot attacks, account takeovers, and spam are all examples of online fraud and malicious behaviors. Although many businesses take approaches to combat online fraud, these existing approaches"
     publishedDateTime: 2022-06-02T18:24:45Z

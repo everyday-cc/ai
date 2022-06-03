@@ -24,17 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Self-Driving Vehicles Drive Into Two Complex Ride-Hailing Environments"
-    excerpt: "Self-driving Vehicles Drive Boldly into Two of the Most Complex Ride-Hailing Environments The tipping point for shared autonomous vehicles will b"
-    publishedDateTime: 2022-05-30T18:54:00Z
-    webUrl: "https://menafn.com/1104294179/Self-Driving-Vehicles-Drive-Into-Two-Complex-Ride-Hailing-Environments"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-
 secured: "Fol25TbWTelKzi751G/uWKv5s+maEdyvqkeMRq1Zixe0eCWnfsSsuBYo5d9R5ZFdM4FicM+lvxlOUJUlp97Di958FiBD83WUMi7e3BcHYI+kegfSlWkixpHe9/anHOhYcCyUD6yJ1RWXk2y8Ma3ohf20koTwe6nLzIg5ClzHwfHzxo6dxQwLGBmKqp4fo509new2CRdbD3pRf8qnNL1zEy4Izyry0Z2vDIMYMUX9m+DkhoCiBSgBO7YSiw1PsSGo5TndN9Q//W1SnvMD9wR4ep+hVylrnCATwb2sZJN5QUB6XCjs3bxUBPiCFaa6rtK3L5Jb5k/5HVCxkk3VXeGjISZ5OvE3pn/yRhBBonXK00h40TLho6rsZrQGaUli58u+zcUn0W2mg78NZCWT+sPLh3YSYDT7BUgWQ3lnkifQsflpfGLKIrPcH9nMfUyT0y0FQ+DofIGGicQUkWNfChwk25mVWpHTpXBNjao/eHUIk0YWxCCdTyD+P2tuWO5yKh1McErlAcg3+QRNBJSH/Z9IJQ==;T5TI8Mg0ZfkGcppcyZleog=="
 ---
 

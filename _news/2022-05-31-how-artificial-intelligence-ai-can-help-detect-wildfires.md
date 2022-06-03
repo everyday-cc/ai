@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-can-help
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp"
 type: article
 quality: 82
-heat: 93
+heat: 92
 published: true
 
 provider:

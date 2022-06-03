@@ -64,15 +64,6 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 17
-  - title: "Unanimous AI and Agora World partner to bring Swarm Intelligence to the Metaverse"
-    excerpt: "Swarm AI® technology empowers collaborating groups in virtual worlds to amplify their collective intelligence and generate more accurate decisions, forecasts, evaluations, and assessments. Swarm Intelligence, the science behind Swarm AI ® technology ..."
-    publishedDateTime: 2022-06-01T11:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/unanimous-ai-and-agora-world-partner-to-bring-swarm-intelligence-to-the-metaverse/article_2e337cd3-bb8c-5539-8317-9dc1fc3b528f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
 
 secured: "ma4ggjPvTjVFeFFUYd6Sz7PyGea3E1k0zHk3eYuGOsxSuUCZHFzAJ42m7rxM37AJNyBZBgNAdtW/N1XjVP63rkV1uBeiC04+ddT1eT+RBzOIBmNM9UXApDY+139XIMfsy2fSzmHP3ryWNNZuigSIm48D7jhk50GJ7zX4jqnYVFIBa1pb93qGLzQ9GiiQ6ng2ISETxR3ASaSFKgdHMvHvd+RkZ3Z1J2EZ6cIxyQVqjZ6yUCtBN4hZDM2t/Ky6UVLKKtF4cBjKwKf+A7Sm0Z2lyFyUEyBP4qTDj+OPdMiKi1mspLmMHGLUqaCEu4fz8jb5gGgVWBsTeHfvG1VAVi+5Fyp470xvdABhezE9vz4QVCQW+ak6EEn5kRk+sWMlqsS60OI6lupcb/2rZabsu0X+owVvTKZZiM9oF7sq71XXWh/Hct7CeKYut943sHYuMTwFsuWkm98VelhNQ927t3ePGyC0Yp7TfBd+4Tumvp/W0tzSfk5RSEAxBXRA1kZW9131lYdT0iEdlnMptMVSKWJ/wQ==;ixYRlosE4sZv6EXBTMgUOg=="
 ---

@@ -2,6 +2,91 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-04-29-soundhound-ai-stock-slides-7-in-market-debut-following-spac-merger.md",
+      "title": "SoundHound AI stock slides 7% in market debut following SPAC merger",
+      "excerpt": "Newly public SoundHound AI (SOUN) saw its shares slide 7% during their market debut on Thursday following the company’s merger with SPAC Archimedes Tech SPAC Partners. Shares of SoundHound ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
+      "originalUrl": "https://seekingalpha.com/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1332332945/image_1332332945.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3829158-soundhound-ai-stock-slides-in-market-debut-following-spac-merger",
+      "publishedDateTime": "2022-04-28T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-ibm-announces-elyra-extension-for-jupyter-notebooks.md",
+      "title": "IBM announces Elyra extension for Jupyter Notebooks",
+      "excerpt": "Elyra is a set of open-source extensions for AI for Jupyter Notebooks ... IBM has recently added JupyterLab to new releases of IBM Cloud Pak for Data and Watson Studio. “",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-announces-elyra-extension-for-jupyter-notebooks/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-announces-elyra-extension-for-jupyter-notebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-ibms-watson-ai-created-this-trailer-for-the-horror-movie-morgan.md",
       "title": "IBM's Watson AI created this trailer for the horror movie 'Morgan'",
       "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
@@ -1118,91 +1203,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-man-who-gave-microwave-artificial-intelligence-claims-it-tried-to-cook-him-to-death.md",
-      "title": "Man who gave microwave artificial intelligence claims it tried to cook him to death",
-      "excerpt": "YouTuber Lucas Rizzotto said the family microwave was his imaginary childhood friend which he tried to resurrect by fitting a new one with artificial intelligence during a bizarre experiment",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597",
-      "originalUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article26824071.ece/ALTERNATES/s615/0_Lucas-Rizzotto.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/weird-news/man-who-gave-microwave-artificial-26823597.amp",
-      "publishedDateTime": "2022-04-28T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-chinas-push-to-dominate-booming-robotaxi-market.md",
-      "title": "China's push to dominate booming robotaxi market",
-      "excerpt": "Journalists take photos and videos of self-driving cars on display during a media tour of Baidu's autonomous ride-hailing services at the Apollo Park in Beijing, China, 22 April 2022 (issued 28 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.efe.com/efe/english/world/china-s-push-to-dominate-booming-robotaxi-market/50000262-4794000",
-      "originalUrl": "https://www.efe.com/efe/english/world/china-s-push-to-dominate-booming-robotaxi-market/50000262-4794000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?-P-2fL4Jfo8HOMiuUEXK-P-2bGJ1k392mKDAoyocQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UxHiMs2BCbn0GtbHp-P-2f4eNBQ-P-3d-P-3d",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EFE",
-        "domain": "efe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

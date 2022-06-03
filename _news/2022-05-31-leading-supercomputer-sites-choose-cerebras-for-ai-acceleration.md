@@ -114,6 +114,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Champollion AI supercomputer powered up in France"
+    excerpt: "Hewlett Packard Enterprise today switched on a new AI Supercomputer in France the Champollion supercomputer ready for processing huge"
+    publishedDateTime: 2022-05-31T10:29:00Z
+    webUrl: "https://www.geeky-gadgets.com/champollion-ai-supercomputer-31-05-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/05/Champollion-supercomputer.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Research Shows Improved Wellbeing in Adolescents Using AI-Powered Personal Companion Tools"
     excerpt: "Kai.ai, the market leader in AI-based technology for mental health and well-being care to adolescents, has announced that two of its research papers have been accepted for publication by The Journal of Medical Internet Research (JMIR)."
     publishedDateTime: 2022-06-02T13:02:00Z
@@ -127,20 +141,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "NVIDIA Omniverse is now ready to usher 3D simulation, virtual worlds, and next-gen AI into the next era"
-    excerpt: "NVIDIA’s job at COMPUTEX 2022 is not over just yet as the latest video prepared for the forum is all about Team Green’s real-time reference development platform Omniverse and the wave of revolutionary applications it’s going to bring forward."
-    publishedDateTime: 2022-05-29T05:14:00Z
-    webUrl: "https://www.tech-critter.com/nvidia-omniverse-3d-sim-virtual-worlds-ai/"
-    type: article
-    provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 21
-    images:
-      - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/05/NVIDIA-Omniverse-Featured.jpg"
-        width: 1363
-        height: 759
         isCached: true
 
 secured: "WzcYInA+615hEgaqnebTZRmSA20ZYwmuoyHG9qqOpKY8zrgzQ9XmRzrvuOGH9uet95Un9/qVijWZnHp9caLzxPwjyh0s08JLA8m75q5n/3akB6r5L3rVqb5zaCaNcnGgJObhd9IWLVUPKMahww+KXSUz9OoBtKm3ddywYvqza2UpzF+H6IukSdLTWXfCRgEcGG9wxO5R2Ynx4zMiL7n3hHdqcOMGwr9ImiZxIbv3ykNUbRUrxPlB9AXB+Y4RVVKXcoW6cmKORpRptpFHnwU6BVyfIjfX+iPORnjTWBaqyCVAvtcQ5sgR1LIEb7bdCzw9MB6BYTdAsbn/XgIxgEtd4isoGtIAOWkIWhIOrPX6QKg=;01ym4b+1YHHTk0mh+CwYOw=="

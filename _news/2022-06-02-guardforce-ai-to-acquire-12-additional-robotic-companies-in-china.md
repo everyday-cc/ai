@@ -54,19 +54,19 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Tonic.ai announces new integration with Snowflake"
-    excerpt: "Tonic.ai, a San Francisco-based company pioneering data mimicking and de-identification, has announced an integration with Snowflake, the Data Cloud company."
-    publishedDateTime: 2022-06-02T15:34:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/tonic-ai-announces-new-integration-with-snowflake"
+  - title: "Tonic.ai Announces New Integration with Snowflake"
+    excerpt: "Tonic.ai and Snowflake’s partnership will enable users to de-identify data and tokenize it for increased productivitySAN FRANCISCO--(BUSINESS WIRE)--Tonic.ai, the San Francisco-based company pioneering data mimicking and de-identification,"
+    publishedDateTime: 2022-06-01T17:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=673134"
     type: article
     provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 37
     images:
-      - url: "https://www.securitysystemsnews.com/images/callout-webcasts.jpg"
-        width: 600
-        height: 450
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Guardforce AI Extends Contract with Government Savings Bank in Thailand; Contract Valued in Excess of $19 Million over Three Years"
     excerpt: "Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ: GFAI, GFAIW), an integrated security solutions provider, announced today that Guardforce Cash Solutions Security (Thailand) Company Limited (“GFCS”),"

@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Tonic.ai announces new integration with Snowflake"
-excerpt: "Tonic.ai, a San Francisco-based company pioneering data mimicking and de-identification, has announced an integration with Snowflake, the Data Cloud company."
-publishedDateTime: 2022-06-02T15:34:00Z
-originalUrl: "https://www.securitysystemsnews.com/article/tonic-ai-announces-new-integration-with-snowflake"
-webUrl: "https://www.securitysystemsnews.com/article/tonic-ai-announces-new-integration-with-snowflake"
+title: "Tonic.ai Announces New Integration with Snowflake"
+excerpt: "Tonic.ai and Snowflake’s partnership will enable users to de-identify data and tokenize it for increased productivitySAN FRANCISCO--(BUSINESS WIRE)--Tonic.ai, the San Francisco-based company pioneering data mimicking and de-identification,"
+publishedDateTime: 2022-06-01T17:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=673134"
+webUrl: "https://us.acrofan.com/detail.php?number=673134"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Security Systems News
-  domain: securitysystemsnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.securitysystemsnews.com/images/callout-webcasts.jpg"
-    width: 600
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -83,6 +83,6 @@ related:
         height: 450
         isCached: true
 
-secured: "PEWZ04SzhWW4alaOGqIhEWdqqANhZaO9k/jGj0KX0O7Mqc/JgmDZg7Y0VSOsDPahATPk59A7LS6/DI6c3pAPeHAqY80HY/ZksZaL1SdgIRa45CVshUkt4HHnSR7ZNIqEmfqoZlVzzf2YyxqRnAEKClTjMTEowgL53aBYg84+1r7o7aJnXmv1z0eII5XDg2n1yyMV99Cp3c+BIrMDxtwNg02Pvgr7eh5rFuwf6t7GVoRxgrDRvw7X8TlQG62bZiAo6TFreQnRuPTL2Nv1d6KI+WWWke6b2bLQ8isighGgBUUl8jyNx6oa2hZ0aVZ4gNHQd6baR8LQSuuPoCaIRdZ+nqiRcJEc3EdNDzaPKlNkL9M=;wAslgJl0IH4dVoomLQd02w=="
+secured: "ZaUB8cZbbrLsVIXDFUikrhjcR9qQ+qy3QvW4sByZXm4IdQQFjAhPP8i7AEVQONER0tIqzcWzlIRM0AWY/wM3/WOgbcYKRH0BIMjDqomV0HiFyscYRfNbdzwwLObhHbTmOj3ErLxNFq76klNV+HGTSkA44SqiKUdoyIajdmECr/FruUnJN9BBKxl8Uvn1leY01eaAradXsqAW3PtXVEmF7Uv37rPb0kG/Nbaw8grpLlRh+n4aDg5pM09Z3oPvnYlGPQJ1obwvoRltgydauc+RB0uBsCvfPE/2nwZuk1GAjhJ4w3UYVHI+Fw0REz9O7L4wCn8beGMAN/4enNNardxaTcoJPVIMacoQnfGroGMpz20=;TQHBHXuwS4hxPj7l0zQYNQ=="
 ---
 

@@ -66,15 +66,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 16
-  - title: "Unanimous AI and Agora World partner to bring Swarm Intelligence to the Metaverse"
-    excerpt: "Swarm AI® technology empowers collaborating groups in virtual worlds to amplify their collective intelligence and generate more accurate decisions, forecasts, evaluations, and assessments. Swarm Intelligence, the science behind Swarm AI ® technology ..."
-    publishedDateTime: 2022-06-01T11:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/unanimous-ai-and-agora-world-partner-to-bring-swarm-intelligence-to-the-metaverse/article_2e337cd3-bb8c-5539-8317-9dc1fc3b528f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
 
 secured: "kKucFDkBE4AiYwPI+xxijLWEmWE/XWD3PyJIPvhKFLp7UkeQTehaXr2qLv+0sBrDHvUDGRnFAv+SOPHbERVmJkzmmJdWsQLyuDQs95w4Tv7oXZ4fZKtz/CLDHiLPMZViC6eGfLfK4J0DaY7YZWP+m18EOitqxU6vu3PwgEhwZlTkS7pMswhP95ZCTOndL/Ub9dzj8KvU9hCRBJgqkWDgAyLfdHx0Ut0ycdok6JU69Qf7Qwl6WlspZe0SIsWYp24CBs/qe0dc5QM6NN1Pt1pbq5Nu7pnEqACMdMicYfjPvl+NZAPnXIkB2nq7V9Py/8AxR6vhqDHwyApHG/AfztVvMjeLf29AOO3Lg19DEDImHgc=;US//2UfRdeaEjLi8H5F9iQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202206/clearview-ceo-pitches-devel
 webUrl: "https://www.biometricupdate.com/202206/clearview-ceo-pitches-developer-focus-as-key-to-consent-facial-recognition-success"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,63 @@ images:
     width: 2048
     height: 1536
     isCached: true
+
+related:
+  - title: "Clearview AI Draws Another Fine; UK ICO Assesses £7.5 Million for Scraping of Facial Recognition Data"
+    excerpt: "Clearview AI will be fined £7,552,800, and has been ordered to stop collecting facial recognition data in the UK and to delete all of the data it had previously collected."
+    publishedDateTime: 2022-06-02T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/"
+    ampWebUrl: "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 59
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/06/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
+  - title: "KATE THOMPSON DAVY: AI ethics debate kicking into high gear, as facial recognition firm fined in UK"
+    excerpt: "Do you know who or what Clearview AI is? It probably knows you, or your face at least. Clearview AI is, among other things, the world leader in facial recognition technologies, selling a controversial service based on an even more controversial database, a ..."
+    publishedDateTime: 2022-05-31T17:01:00Z
+    webUrl: "https://www.businesslive.co.za/bd/opinion/columnists/2022-05-31-kate-thompson-davy-ai-ethics-debate-kicking-into-high-gear-as-facial-recognition-firm-fined-in-uk/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/opinion/columnists/2022-05-31-kate-thompson-davy-ai-ethics-debate-kicking-into-high-gear-as-facial-recognition-firm-fined-in-uk/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/opinion/columnists/2022-05-31-kate-thompson-davy-ai-ethics-debate-kicking-into-high-gear-as-facial-recognition-firm-fined-in-uk/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 57
+  - title: "Clearview AI Settlement Underscores BIPA’s Growing Reach—and Limitations"
+    excerpt: "Facial recognition company Clearview AI has been banned from selling its existing facial data to all private entities, proving that Illinois' Biometric Information Privacy Act can impact even businesses outside of its state."
+    publishedDateTime: 2022-05-31T15:27:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/05/31/clearview-ai-settlement-underscores-bipas-growing-reach-and-limitations/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 36
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/05/Face-identification-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Tech: Kiwi's action against Clearview AI, what came out of the PM's US tech mission?"
+    excerpt: "Technology correspondent Peter Griffin looks at the action taken by former NZ Privacy Commissioner John Edwards against Clearview AI, now he's the UK's Information Commissioner. What was Clearview doing wrong and what precedent is being set for the UK and beyond?"
+    publishedDateTime: 2022-06-02T00:02:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018844400/tech-kiwi-s-action-against-clearview-ai-what-came-out-of-the-pm-s-us-tech-mission"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 30
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--3Q12S6Yk--/c_scale,f_auto,q_auto,w_1050/4MXQ8DD_image_crop_96617"
+        width: 1050
+        height: 701
+        isCached: true
 
 secured: "3LZ1w2yOomUfBWRQfRQtXYL17Bi9ZziK5qHEI/hmQjxarNPzD7Gtwuv5N33VbRs+7bXXcpHIWD+vcEoDNpbmuVJhFYcj1G4cQj13WWDCeiAYVe9TzHSM5giOmJE4AXyO+to5Sz+OSIsae+l0c4XE0/jxmPQc/XA5Hm9eDzh5UZb2V6HHg7+emdE+Td75efaNPJ46s5q2udG5Q3JM1P9IgFlOyQO6x6XbJie76A9RuI3G7P78bl/XeAR6lEs0TNBbVHwZCNf2n1r7SYyHiQCzQpwoUZJi276OtIHAwUnYMWy5uWGYBuwrc38J+FTU3okMU95O8HU/5ZKZSg2ksQ56cXfjAdhh79wHpbPik0grnAqxo4dOK9RZYhGgr+0zqm2Vxz0zaPqT7WlIOKajDFkuoAGP93mMNrnw/T6I/zdgxgI9SfvvX17dZCh8Cqz/QpjilePVpQlMnnnid//Y3Z+DI0nsbkTqgdBQmHAGzfNxragnHSwFyws8CH4JkU2XyjCiE2qROJP6WMO93bGqrmLywg==;xbKWOWxUBdLJipRYfbCQew=="
 ---
