@@ -1,21 +1,24 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Next, we look for solid companies in growing industries that may have become undervalued. Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take ..."
-publishedDateTime: 2022-05-30T11:08:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
+excerpt: "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,"
+publishedDateTime: 2022-05-30T10:45:00Z
+originalUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
+webUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
-secured: "Fr0SSvV4TUuTZXMeStN+olM+G5wGs0JGfRqsRyMKPMNJCAsy+Cq3ZadpP9FOgJRydGLImfDw2YpGBGwQCDlxZeQqNaqx7+sz3yrx12U9zJRTurRGzaUfE8OOIyBEWC4bSl3fDgxd5JrcJZBZDBAU2Jc6bqgwaIoOCUXnRYehDCOSn5UmfME11ZxnhnHS1hJNwN6IJziPiU0+ep6pNhpViwiMVyzCT0WIBqhi8q+Dz0fZ8C+E5wy8aQE6oRKemFdk+AQakAKWDyABEwgeQCmXmZtXkfcVQTfy4VJZleZQ3g5AoVBmZU2/nFx7ThMdkk/J1DcYtLrw0SM0kRZD2j9QT38khUFwGwn4epDXsROuBYeWaHsEw39OiuXihTp4ZrxezF/7ORZZ9vM2mlS+zDErpAEm6/YmE/PwPGtCFZxfvgN5c/UOPg95eG9+vGoF+KZuRyaY/UjQI09Xlhx5Kr6fOKeWllo4vGHMIdtnKBXzV5n43BO/aJ5bbKVDEmYclv9riSCa6YVf1tuE9Hj1KB3H8g==;z6MJsAW1G5fDhRm+jA/6TQ=="
+secured: "LHjri9deWiGD95gybAyWUbuY2CiYSsSn4K9Nbbr1/PM9yTW58mf8go1F3yoEYulZoJD2ob0xeS+Gr75BES/nK1FEJFZsoRi+1siu3uJo0iWiZ4ST3StHhD6gxsGe1z+py35u4BLJiqCUorQwLrIWaY5xWVx5/TZukvy1lk/r8wdgylPVmrnYQz5GTKBd8PRtvgkp1f8483j7B3dy3/c5Zj7IVHVuuqaDphZwHVI9LeEl8FzE6JSP5f9h5KrPRaS9x9r4kArDkTCFHybzztYPlVwL6o1VZZ4tuRBYCjLnS6KIBhzFO4LOO4UtOaAAaXC4m/0z0vG1eH2CkFV9rMrT00bdO3ZKoMbeE8jhCp/Ol8Ysv/A5uXRvxs/FZ4fA+OXz+LDg1xhEafNmFN29S0EIrNGGlz2DyvZ1v1sN1bqEElFsOi+WpdvY1gpZyqW+o+Ms+CDVGlI3Tdum16Yzw1nEYkia8A3LxL/CCL4uLGkFA45T6QENeEBwWaF88jxZo9KowQrA9UzMkcQBwZShvbCWOg==;2WIgGx7DNV3tejgdrt+keg=="
 ---
 

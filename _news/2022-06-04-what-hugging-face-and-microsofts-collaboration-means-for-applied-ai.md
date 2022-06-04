@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FHugging-Face-Microsoft.jpg&signature=137aa33a60ae3a08c1badc772b43d00e"
@@ -68,6 +69,6 @@ related:
       domain: zdnet.com
     quality: 54
 
-secured: "CsStbQ3lFW/9rVKNAYFdFZp75yEORhhzU0KyNT6KM71n34MqYXlCEjXPC+Pi+aQ2szVCXJQU/sVuJI992MzX+7m2fxT+Wt2UWekrsptwAeCSDLKVmiXwuM6b5MVxj9X9vBngfyJMKyJ7/xih083FavXSeADl8xPXfXFcKBf6S3+bXUr58YkaN9fIUjYfHKK/YA+oC4i2ZdEDffYG1l7DBP6O/i1cb1Qo7YphECFSjYahkUp48SMbPQtO2iO2Eu4qYKCKt9/tO3rRyM2jqEnlCE7k+CRun/YNIkF42AiOhSR1PzNZC0tnERK917nVFAEh+bKxR+CgTRbl88cQV2E91FoaZbtBCnYTRwWoC7Naa4c=;Y/pTkbLE/+RvNmZBmxIiEQ=="
+secured: "C5KaIA5g8hGrXR+1S4gztZgNC3QjMNV7OE2K5DkKh92fkJ3ueQvqcDUP72uCcRahXRkGGhTSU3QeNXK9fIHyt1EdtkAp7XA1p/fw884aeCnbch4sTVfR4UzTO3QWXFzeg33GzGqwYFhJ0JvAnCRJwrIe4CBM6TWMopsLkNxaMmWaFkQ2ilISmeXVinhaowWHBJvUF87HP60103VUgu9HcEaXlXMQmMcVRrlQhWdZAvkA+Mxjyugoa33CM97cULe/9H6Orilys+ZkxQW4zRLNbRII2jPJquoH1hIDlPSI4lRT16J67ync79CHMlZntLU1sqDKoE0j2h7ccbmhUGF3Lr/RlxstKa9M5RW2iP7w5WU1YQBxWA/iwkVtXTHDdtZ2MErW1qTDn5FQiJ8Ckjh34uMCiNttzFh2ZtMjDiwXpBzXRCMPSK5pa2tUjX6ZjpFSoAx7C5q2pN9GKTsQghO0USD28ohBr7lltECvid6KLWXXHUWBJ5iveSeOjkTjeMegFCY2v6kAZHBkVr7w8p1eLA==;H/Y9jhoQ1S8fg71mQPVmaw=="
 ---
 

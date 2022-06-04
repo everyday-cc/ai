@@ -3,12 +3,9 @@ category: news
 title: "A peek into Gigabyte's GPU Arm for AI, HPC shops"
 excerpt: "Arm-based servers continue to gain momentum with Gigabyte Technology introducing a system based on Ampere's Altra processors paired with Nvidia A100 GPUs, aimed at demanding workloads such as AI training and high-performance compute (HPC) applications."
 publishedDateTime: 2022-05-23T15:08:00Z
-originalUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/"
-webUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/"
+originalUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/?td=keepreading-top"
+webUrl: "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/?td=keepreading-top"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
   name: theregister
@@ -18,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "96YCmAIWVaIi8anhhADgAczFrBZ4bZdxai0NLprJlPot4RpFecC9vsNxcjdH//AJGrXkRHej0LqBu8vYjpsqyyA2a7rTjGO0d6DPLLE1ZJ2CcWiMgeYujudxq2XOVklI5IyTDJ4OyOw3pZhjzIeXsHo/XkVJRX1az+hrY6UAwzHj6ekJi3hYsW9SFP+MDeqQK2MwXfZGnttMYTC8LqYPkL0697aHj9vGyLijxsny18yevcq7i5i7faRGhJJmc6hd2oWZF/+S+qLmZgCA8CbP2k0yNb2i4UWHgyYERFvAULkvb9m7xjd/+quxJIqNYS9BkmejW8HKsQuDfiq1uMpk82JG6wVAcJMM0PGjUqp3FqNxYtRDPyPjY5/MsYMPeZPKH7xCXSg+rkmNRMtSGaPg5UjF6qT/Wwza16Q8ye5x0nsf2YMaZ2YKy6MgBlDqKTSvYILhbQBd2fu1zOWUojg/JlruS7iAkPOsYyID4DG8rUqnMB5cjX46ayxDlTHQx8JeYxjbDyvXgj063lFA4wLf/Q==;qrBY2FTtjTVU26gyuHw2yw=="
+secured: "/zLFqtU52pqNVn0pTDzsRXzynCPvkKqYRXxAaA4oeyAyDFv1PUmFSIhpycQRBSJHLGj0T6h9kKzcIcsVpZ0Lmbuw1lbbSUwnZR2TD+8tQIGHWp7QQkBM63YZh9jEZT1IYM4Lo6yDXPGG3lSiJQFdc+u8n4DwleAFV/C059vEdK+n6seCx7Ur3Kryt/qQQFZtjJgHxSkjzLI7B0QbUYEjmerycE4xQf/8s8ffmQGIe5jtrz72JZj2nRFsYTfj7lr5nEbyB2z+vw+fvkw5yNOCdaYuV+0WTSCnOt7lrbEmqt97JnjgBtEDrobFAZqAwzi6TykesrCz/qIEmuCPe+uLpboXVH/E4UH8ph116T2RB0m+Y+QvY4842muZZxE1RpQD5QQLladfdwNiKK29rzGxciTdNwzd8PMGK3fJsGBfNfZN3I2tlY798z4E/8/S7za7oY5JSFTRR9l11Uz00UYJzk1hol4f3RkQqZOd1k0O7L1dpUbPoYdrn8QVk8uW8/hpyAa9TxOLgDq4I5wTX2Z4bg==;hd6V5GZJ9ouU9envBJzM4Q=="
 ---
 
