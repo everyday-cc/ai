@@ -31,7 +31,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FHugging-Face-Microsoft.jpg&signature=137aa33a60ae3a08c1badc772b43d00e"
         width: 1280

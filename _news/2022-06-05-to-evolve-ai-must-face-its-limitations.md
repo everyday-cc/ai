@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T18:49:00Z
 originalUrl: "https://thenextweb.com/news/ai-must-face-its-limitations"
 webUrl: "https://thenextweb.com/news/ai-must-face-its-limitations"
 type: article
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: The Next Web
@@ -17,7 +20,15 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - Computer Vision
 
-secured: "B5nM9wTCPNofopIBt6+okMDkdwzSPTlIlEU/VH9EsEId9Owx2N5FwqKOlIYb3pKbUu4X2U6Exva90kxD33SV1YRxWSkpKtjb3MI4bTXLkmgmoHY5WQ51WwM+LqdTPimSJLEAo0yXdpj3sw1LIY9FemBWxWxDJaDUveQrMF/6gZy6KpjqIAWdUx/AI9CJTRxxWscduEC/HHEbJkSJmYadWjUJJDDNtMVQLecIYegSVrEPBLCgZhidyKYBZwzr6la7P7uJxJGNHZU7H+hoMCu7RTdit0iA25iajwRAisgZwqfHoWn21T1klG/AKggc9ieqbhDZabWKSspQlGqhmBtooptFxnlaQaOvkwgdWEQtpkaHU0fL6Igw9LSc/MYEujJv/4TXxvEKNjVqVfuQ9+ZbVPvPo5+317zNyCGCFreZ6T/Os8Kpxgklj6Bc9o4dX7Db4uJ1bt4sMQwDyvTAxPwJvLxUn0u8YOQkwPAL53UC7VDwJqJFIBsYQnm6h4lwGsWzQ6uJ2OFJ1tCq7tsMUHNa3Q==;Bg6mjppcxXjtlACCo8tY2A=="
+images:
+  - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b"
+    width: 1280
+    height: 640
+    isCached: true
+
+secured: "/GUn+0IEnzRokr8US2b6VCNedJrvOsY9Hxdt9u874KUxMjg4sbM+iAcLrNnmTKVAXZ2BZrKXvaSDxn8QAdqh5hZCzztjmoleJd2llMkJ4m4oOmR6gQI44vUwC/4ZVi7EMKYPlgi8Veqe+NMmcKHnrGrLAeDVVPmfILOknMB6EQMoYbvt6L82aqZ1nKv18rpZtonMiSAHymkNYZ0Xh8yvJU0gX4GtV3vGOW6nDLEG3H3ssRkjUHJ4ww9HA9Jzn+R6yc67j7EIC+8vApMBAXNHBI9ZB8CuqG/SK7cltEJcuMtW5q8NpsPnH9e4wiw0QiJs48yID3rcicfmfq9XwDaW9HIMj1WLmFcVnb5qcgVXIwQ=;W4Q5oXjHsq8/JgVRyrIwFw=="
 ---
 

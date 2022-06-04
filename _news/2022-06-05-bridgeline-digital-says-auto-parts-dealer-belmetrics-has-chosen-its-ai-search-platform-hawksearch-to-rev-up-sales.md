@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T19:14:00Z
 originalUrl: "https://ca.proactiveinvestors.com/companies/news/983950/bridgeline-digital-inc-says-auto-parts-dealer-belmetrics-has-chosen-its-ai-search-platform-hawksearch-to-rev-up-sales-983950.html"
 webUrl: "https://ca.proactiveinvestors.com/companies/news/983950/bridgeline-digital-inc-says-auto-parts-dealer-belmetrics-has-chosen-its-ai-search-platform-hawksearch-to-rev-up-sales-983950.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Proactiveinvestors

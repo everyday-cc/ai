@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T13:45:00Z
 originalUrl: "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916"
 webUrl: "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Wall Street Journal

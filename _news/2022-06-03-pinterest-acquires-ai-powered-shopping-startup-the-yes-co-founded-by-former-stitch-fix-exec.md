@@ -50,6 +50,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
+  - title: "Pinterest acquires AI shopping startup 'The Yes'"
+    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum. THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO,"
+    publishedDateTime: 2022-06-03T05:20:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 37
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_040622_spwi.jpg"
+        width: 402
+        height: 251
+        isCached: true
   - title: "Pinterest agrees to acquire AI shopping platform"
     excerpt: "Pinterest (PINS) has agreed to acquire an AI-powered shopping platform, THE YES.Financial terms of the deal were not disclosed.Founded in 2018 by CEO Julie Bornstein and CTO"
     publishedDateTime: 2022-06-02T20:21:00Z
@@ -108,15 +122,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Pinterest acquires AI shopping startup 'The Yes'"
-    excerpt: "THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO, Amit Aggarwal, a tech industry veteran."
-    publishedDateTime: 2022-06-03T11:50:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 17
 
 secured: "brSEgKUUGLn6orI4Qwb7fOLi+Kteoj3H/5kD0pOLEVsdmIlIoQIRrI29x02SLa1yjevqIRE7COAmMsS77b3usOMBaJCw8oFQC0ECZ07K7PPsDV65zQ44We2oiyC7NsrKM9xa0++aq2ysobxgiaLu+kN6+PRZMj0cO2xRdky+i9OdK+/ZcBSRwkDuQPajeoVyyMbyE55qjseQ9OxHU71aURpAabZLbbGGoJw//Q+XpBaMKvpdIRJxSEyWhYToyJk4hMrg0bU3YYzeBPPmQqK/aF26RRYvUTXXvVth0QIaKxOd8tdyp6VE2sCbBm64xCw7teDKLlasvV01xZDXBr1Pjb1j7/0tcqTT5BcE+Ha6XX+bM2qJjgBdcQ27j1imfAFN0G3k+mrC2QrOSQhdPQrsbOlIFLnjGOjnUi61v6DPpGA6RGAIUUojkMBwcHFkB3RdQITV5J20ZiVFJ9sgv+nWUHYNX/rnChci7JgBTx7kSesckd+H1nyBWJsF2dmYbPEi0qu9KRt4yhdCeRt1ZaUouw==;1lLJi24YD0BqeVlCIvPr1g=="
 ---

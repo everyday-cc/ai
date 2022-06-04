@@ -40,22 +40,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "Google Assistant to soon recognise your voice"
-    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
-    publishedDateTime: 2022-05-31T03:03:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-google-assistant-to-soon-recognise-your-voice-185950"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-google-assistant-to-soon-recognise-your-voice-185950/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-google-assistant-to-soon-recognise-your-voice-185950/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 44
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Nabd launches AI-powered personalised email newsletters"
     excerpt: "Nabd, the largest Arabic aggregator app and platform, is excited to announce the launch of its new Personalized Email Newsletter product, which provides opted-in subscribers a personalized daily news digest,"
     publishedDateTime: 2022-06-01T06:54:00Z

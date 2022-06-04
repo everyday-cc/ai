@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T15:28:00Z
 originalUrl: "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
 webUrl: "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: KSTU

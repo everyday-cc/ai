@@ -9,7 +9,7 @@ ampWebUrl: "https://observer-reporter.com/publications/canonsburgmagazine/canon-
 cdnAmpWebUrl: "https://observer--reporter-com.cdn.ampproject.org/c/s/observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.amp.html"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Petvation: The Pawfect Pet Door with Facial Recognition to Launch Soon"
-    excerpt: "Launching soon on Kickstarter, Petvation offers a turnkey solution for owners who deal with problems of having a flap pet door. ~ Petvation co"
-    publishedDateTime: 2022-05-31T02:46:00Z
-    webUrl: "https://apnews.com/press-release/marketersmedia/technology-pets-db49eb8db67977b5249f3d4a1eeb09b4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "‘Education reform must include recognition of First Nations teachers and principals’"
     excerpt: "Changing the conversation requires the inclusion of First Nations educators, says NATSIPA president, Dyonne Anderson"
     publishedDateTime: 2022-06-01T20:00:00Z

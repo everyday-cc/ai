@@ -81,15 +81,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Elon Musk Says Tesla AI Day Pushed to Sept 30"
-    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30. \"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,"
-    publishedDateTime: 2022-06-03T09:40:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-06-02/elon-musk-says-tesla-ai-day-pushed-to-sept-30"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Elon Musk's human-sized robot likely to be ready by September"
     excerpt: "Tesla introduced Optimis, a human-sized robot during Tesla's inaugural Artificial Intelligence (AI) Day.Elon Musk envisioned that the one day Tesla bot will have, ‘the potential to be more significant"
     publishedDateTime: 2022-06-03T02:48:00Z
@@ -163,6 +154,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 36
+  - title: "Elon Musk says Tesla AI Day pushed to Sept 30"
+    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30. \"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,"
+    publishedDateTime: 2022-06-03T01:31:00Z
+    webUrl: "https://kfgo.com/2022/06/02/elon-musk-says-tesla-ai-day-pushed-to-sept-30/"
+    type: article
+    provider:
+      name: KFGO
+      domain: kfgo.com
+    quality: 34
 
 secured: "NKFJirySJiu4lNIHMQJjpMFcDHCkB6mnTGiLTbOV1jtB50FyhUncaDi6dx+g84SgJq4oncBbiIOLFEMswHIjTHsVaQEToMn7XKwUqZD1+MbPbtjxnduf1iw/WBaJSbd7jsTQiduMQKLv0hHO+wgPjaHEUnrcANyl3MZBZGUWegj+cLizWgbNSjjP83XGwU0uGCLk6w71lnr6tEob9HC/orOe+iNLNv7MR5VpS/LfT/AciNQcEjxbE1a3EGkQxvYiQHBEFPopG8TzWbVFOzK+/XK+4/3ja5uSLghw9IXpQGHLa0yHH+DnnU+c3G9+8hEbzFTKJMsCYBmCRizCTTuQk4DoJOnirmqYRCX1vl3E+dDu9IaZO+O4NJ3Lw1httnFlRNH1rXuRa0p8Nwf3C4SMFeG50bt/x73qPgLOKnoYwvMDEzVloer+o1VgHM8KYKvoz0lFc/zAv17LnJhp4hB937qLStpPcIVRgk4EhouuunCEhcHBM0W15LMSsArfvoEL2tx8XtqS3XST6ajt/HxrAw==;Jn1nZ1Uf9q3oiYaIaLFGSQ=="
 ---

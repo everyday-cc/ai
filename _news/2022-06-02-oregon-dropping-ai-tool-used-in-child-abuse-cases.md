@@ -44,19 +44,19 @@ related:
         isCached: true
   - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
     excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
-    publishedDateTime: 2022-06-02T22:12:00Z
-    webUrl: "https://www.iowapublicradio.org/news-from-npr/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-    ampWebUrl: "https://www.iowapublicradio.org/news-from-npr/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
-    cdnAmpWebUrl: "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
+    publishedDateTime: 2022-06-02T17:12:00Z
+    webUrl: "https://www.kvpr.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+    ampWebUrl: "https://www.kvpr.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
+    cdnAmpWebUrl: "https://www-kvpr-org.cdn.ampproject.org/c/s/www.kvpr.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
     type: article
     provider:
-      name: Iowa Public Radio
-      domain: iowapublicradio.org
+      name: Valley Public Radio
+      domain: kvpr.org
     quality: 53
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/ed17e4d/2147483647/strip/true/crop/5328x2999+0+499/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F03%2Fap22125475466411-d12a1f4debca0998284bb0678784390ef7163bc9.jpg"
-        width: 430
-        height: 242
+      - url: "https://npr.brightspotcdn.com/dims4/default/d46db07/2147483647/strip/true/crop/4500x2772+0+105/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F02%2Fap22152597835977_custom-39b4163664f9c1f211f24f2e60c157a4a3c0286b.jpg"
+        width: 880
+        height: 542
         isCached: true
   - title: "Oregon dropping AI tool used in child abuse cases"
     excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."

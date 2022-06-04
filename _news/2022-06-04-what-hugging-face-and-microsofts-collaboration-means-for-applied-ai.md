@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-04T16:00:00Z
 originalUrl: "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai"
 webUrl: "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai"
 type: article
-quality: 86
-heat: 116
+quality: 88
+heat: 119
 published: true
 
 provider:

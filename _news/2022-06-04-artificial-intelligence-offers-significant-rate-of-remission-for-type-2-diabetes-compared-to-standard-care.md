@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T15:05:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Associated Press
