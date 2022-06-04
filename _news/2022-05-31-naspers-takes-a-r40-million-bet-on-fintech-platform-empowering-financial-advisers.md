@@ -41,20 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Fintech offers healthcare providers tools for optimum financial health"
-    excerpt: "UAE Based SANTECHTURE supports growing regional sector with evolved, proven, and compatible AI solutions for Revenue Cycle Management"
-    publishedDateTime: 2022-05-30T14:37:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/fintech-offers-healthcare-providers-tools-for-optimum-financial-health-fbserwwr"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 41
-    images:
-      - url: "https://static.zawya.com/version/c:NGRlN2FiMmEtNzFhNi00:YjJiNjVm/two-woman-with-hijab-working-on-laptop-in-office.jpg"
-        width: 788
-        height: 526
-        isCached: true
   - title: "24 Fintech Founders And Investors Make Forbes’ 30 Under 30 Asia 2022 List"
     excerpt: "Forbes has released its annual 30 Under 30 Asia list, recognizing 300 young entrepreneurs, leaders and trailblazers in Asia Pacific (APAC), all under the age of 30, across 10 different categories."
     publishedDateTime: 2022-06-01T08:00:00Z

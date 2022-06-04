@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Service Robotics Market To Be Driven At A CAGR Of 23% In The Forecast Period Of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Service Robotics Market Report and Forecast 2021-2026’, gives an in-depth analysis of the"
-    publishedDateTime: 2022-05-30T13:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-service-robotics-market-to-be-driven-at-a-cagr-of-23-in-the-forecast-period-of-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAgdkevq9l_GTNVGjumMisCtdm_JAtWd5_b5RYtClCR757pkpOPVZqHQkEoAInHSNXP_YwR9lc8209AX7-_pjkFLSFDCvs-ehMCkgWUT1a3YvW--5zJsYdaqvKMEEo08RbS8snFKlJh5uxmx5uSOvHKnXlqJiic016aAi4wiAOBTj6MYklm482zX9d/s320/Service%20Robotics%20Market.webp"
-        width: 320
-        height: 320
-        isCached: true
   - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
     excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
     publishedDateTime: 2022-06-02T18:30:00Z

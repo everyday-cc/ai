@@ -2,6 +2,142 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-26-managing-disaster-and-disruption-with-ai-one-tree-at-a-time.md",
+      "title": "Managing disaster and disruption with AI, one tree at a time",
+      "excerpt": "Ingesting loads of fine-grained data helps, but it's not enough to make fine-grained predictions. You need domain expertise too, and that's what AiDash is applying for its Disaster and Disruption Management System.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
+      "originalUrl": "https://www.zdnet.com/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/73bae000afbb29e45de6d36562f743d03de03834/2020/03/04/1467e396-e73a-4bed-9fa9-9071765a45f9/bushfires-2020-1024x341.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
+      "publishedDateTime": "2022-05-26T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-top-7-ways-to-cultivate-creative-excellence-with-ai.md",
+      "title": "Top 7 Ways to Cultivate Creative Excellence with AI",
+      "excerpt": "Today's world of work is moving fast, and the most successful leaders have a laser focus on the future, one in which change is constant and inevitable. And as technology and automation continue to transform the way we work,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/426406",
+      "originalUrl": "https://www.entrepreneur.com/article/426406",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652821115-GettyImages-454204749.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts.md",
+      "title": "AI and machine learning are improving weather forecasts, but they won’t replace human experts",
+      "excerpt": "Would you trust a weather forecast made by a machine that had learned how weather systems behaved by reviewing thousands of past weather maps?",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts-182498",
+      "originalUrl": "https://theconversation.com/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts-182498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-ai-will-revolutionize-dentistrybut-only-if-we-free-our-data-first.md",
       "title": "AI Will Revolutionize Dentistry—But Only If We Free Our Data First",
       "excerpt": "We’re on the brink of a technological revolution that will bring dentistry into the 21st century. But we can only reach that point if we break down silos and logjams and set our data free.",
@@ -690,6 +826,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
+      "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
+      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-nvidia-our-gpu-inventories-are-nearly-back-to-normal.md",
       "title": "Nvidia: Our GPU Inventories Are Nearly Back To Normal",
       "excerpt": "In another sign the GPU shortage has abated, Nvidia is reporting the company’s product inventories are almost back to normal. “Channel inventory has nearly normalized and we expect it to remain around these levels in (fiscal) Q2,",
@@ -793,21 +972,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
-      "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
-      "excerpt": "Artificial intelligence (AI ... with their revolutionary study where they trained a deep convolutional neural network (CNN) to classify 1.2 million high-resolution images in the ImageNet LSVRC ...",
+      "path": "_news/2022-05-26-northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots.md",
+      "title": "Northwestern engineers invent the world’s smallest remote-controlled walking robots",
+      "excerpt": "By Megan Marples, CNN For these tiny robotic crabs, being small is a virtue. Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking robot,",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
-      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "webUrl": "https://kesq.com/news/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/",
+      "originalUrl": "https://kesq.com/news/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb",
-          "width": 1528,
-          "height": 800,
+          "url": "https://kesq.b-cdn.net/2022/05/hypatia-h_6e786a4893d94079d8372adb51205a12-h_1076c546327634234ed4d9f557e966ca-300-scaled.jpg",
+          "width": 1920,
+          "height": 2560,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -815,13 +994,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "publishedDateTime": "2022-05-25T13:59:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T14:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
+        "name": "KESQ News",
+        "domain": "kesq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -831,7 +1010,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -973,197 +1152,6 @@
         "AI",
         "AI Ethics",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-clearview-ai-says-its-bringing-facial-recognition-to-schools.md",
-      "title": "Clearview AI Says It's Bringing Facial Recognition to Schools",
-      "excerpt": "The company revealed it's working with a U.S. company selling visitor management systems to schools within hours of a horrific school shooting.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
-      "originalUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2eafd02da366f481fe2fb052260905ba.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp",
-      "publishedDateTime": "2022-05-25T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-merlynai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update.md",
-      "title": "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG) Short Interest Update",
-      "excerpt": "Merlyn.AI Tactical Growth and Income ETF (NASDAQ:SNUG – Get Rating) was the recipient of a large decline in short interest in May. As of May 15th, there was short interest totalling 200 shares, a decline of 98.4% from the April 30th total of 12,400 shares.",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/",
-      "originalUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/05/25/merlyn-ai-tactical-growth-and-income-etf-nasdaqsnug-short-interest-update/amp/",
-      "publishedDateTime": "2022-05-25T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-how-fintech-players-are-leveraging-aiml-to-bridge-the-gap-in-msme-lending.md",
-      "title": "How Fintech players are leveraging AI/ML to bridge the gap in MSME lending",
-      "excerpt": "FinTech is a term which refers to a set of businesses which are leveraging advanced technology as a core ingredient in their business model to drive rapid evolution and transformation of financial services products",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-fintech-players-are-leveraging-ai-ml-to-bridge-the-gap-in-msme-lending/",
-      "publishedDateTime": "2022-05-25T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars.md",
-      "title": "AI Ethics And The Quagmire Of Whether You Have A Legal Right To Know Of AI Inferences About You, Including Those Via AI-Based Self-Driving Cars",
-      "excerpt": "AI Ethics and whether you ought to have a legal right to know of AI inferences about you, a topic even of concern when it comes to AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628d150732d0646182ea9402/0x0.jpg?format=jpg&crop=3116,2077,x724,y41,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/25/ai-ethics-and-the-quagmire-of-whether-you-have-a-legal-right-to-know-of-ai-inferences-about-you-including-those-via-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-25T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
       ]
     }
   ],

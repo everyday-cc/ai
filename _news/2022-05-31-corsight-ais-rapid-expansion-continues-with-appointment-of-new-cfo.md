@@ -19,17 +19,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Corsight AI's Rapid Expansion Continues with Appointment of New CFO"
-    excerpt: "TEL AVIV, Israel, May 30, 2022 /PRNewswire/ -- Corsight AI, a leading Facial Recognition Technology provider, continues its rapid expansion with the announcement of new Chief Financial Officer, Moshe Fink. Moshe joins the Corsight team with more than ..."
-    publishedDateTime: 2022-05-30T13:21:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220530ln70834/corsight-ais-rapid-expansion-continues-with-appointment-of-new-cfo"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 17
-
 secured: "Vvkrj8kjpieF9ILvDGI4Ql0zWJU6Hb2Ar3A83plH/qH3Z6vJzEhVhV2cDbHohDox5CFddQh4CdKGsOvUXBsMoAu7XLrd3C+HG5Y1fzLJP1n16SiBlo/CYDI2Lm+o1AzsCwPayEvxJ+Q/NuLnne8wvd5K3IJ1JUkJuMbzVdwFOu/UJQsrDlNDPa+04UivNzhxJez2LYXsSm/oeY8Y0Pv/QDD3C1lN7hWAPsDQmGfPkrhFIkGCawtbv88neQ7RDoNmtJUOYN4SZB3CSbcZm6iOlZ1fy8ga8LJSjjOTx/T7QgxqCuIqRMHPrQOvke1cJLfi2TP+rL39uoh3f+LzeG9tIp//nYrfc4n70xccNBw8eh8=;qysYCiKlfREL5w2g0qglvA=="
 ---
 

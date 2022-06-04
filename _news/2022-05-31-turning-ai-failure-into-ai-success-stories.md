@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-succes
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Car Guide, using AI to predict parts failures"
-    excerpt: "Knowing a vehicle’s MOT (UK’s mandated road worthiness test) history including previous failures and areas of focus is key when it comes to buying a new car or servicing one for the first time. With this is mind Car Guide aims to utilise data to uncover any used car’s full MOT history and potential running costs."
-    publishedDateTime: 2022-05-30T14:13:00Z
-    webUrl: "https://www.just-auto.com/interview/car-guide-using-ai-to-predict-parts-failures/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/05/HaloCar.jpg"
-        width: 678
-        height: 495
-        isCached: true
   - title: "Bringing AI into day trading takes emotional bias out of the process"
     excerpt: "The idea that machines may one day be able to think just as well as humans do — if not better — is not new. Artificial Intelligence, or AI, can already speak, understand emotions and even debate with human beings."
     publishedDateTime: 2022-05-31T10:00:00Z

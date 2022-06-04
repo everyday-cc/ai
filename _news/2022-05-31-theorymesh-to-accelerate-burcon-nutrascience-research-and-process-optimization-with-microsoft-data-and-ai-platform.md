@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=671645"
 webUrl: "https://us.acrofan.com/detail.php?number=671645"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
-    excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"
-    publishedDateTime: 2022-05-30T14:02:00Z
-    webUrl: "https://www.kentuckytoday.com/news/business/theorymesh-to-accelerate-burcon-nutrascience-research-and-process-optimization-with-microsoft-data-and-ai-platform/article_f41e8362-6a07-5ea8-9a0c-16ce00e9e9cb.html"
-    type: article
-    provider:
-      name: Kentucky Today
-      domain: kentuckytoday.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Penny AI Raises $27 Million Series B to Accelerate the Transformation of Social Commerce Enablement Platforms"
     excerpt: "Penny AI, a global leader in data-driven social commerce enablement, announced today a $27 million investment led by PSG, a growth equity firm partnering with software and technology-enabled services companies to help accelerate their growth,"
     publishedDateTime: 2022-06-01T11:03:00Z

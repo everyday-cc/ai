@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The rise of AI is pushing patent laws to their limits"
-    excerpt: "It was a machine learning program. One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence (AI) in Arthur C Clarke’s classic 2001: A Space Odyssey."
-    publishedDateTime: 2022-05-30T14:40:00Z
-    webUrl: "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "When AI is the inventor who gets the patent?"
     excerpt: "The day is coming -- some say has already arrived -- when new inventions that benefit society are dreamt up by artificial intelligence all on its own."
     publishedDateTime: 2022-06-02T01:27:00Z

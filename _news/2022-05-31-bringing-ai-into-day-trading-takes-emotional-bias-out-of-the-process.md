@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Car Guide, using AI to predict parts failures"
-    excerpt: "Knowing a vehicle’s MOT (UK’s mandated road worthiness test) history including previous failures and areas of focus is key when it comes to buying a new car or servicing one for the first time. With this is mind Car Guide aims to utilise data to uncover any used car’s full MOT history and potential running costs."
-    publishedDateTime: 2022-05-30T14:13:00Z
-    webUrl: "https://www.just-auto.com/interview/car-guide-using-ai-to-predict-parts-failures/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/05/HaloCar.jpg"
-        width: 678
-        height: 495
-        isCached: true
 
 secured: "gqF+2zDUaMH7gSmK/EQBn1Oadi/0zoE4AMi/bmMzIam5A0QPQ97zgdyrtXPC8DwUZ2GE4h1IslhsAmfXpWBaGwWzgPgdroOWoBYlu8HN2/UzYCFJnOEouseH7+kCPWSpD8fswEhFRfPT31qYrRBlta6ra+xjMtIm/BneV/uXCdm89eHb5c6w4oCf3CJ2LnzWnlSbE+0/GdwbG1PLKtbiX/XALO3CpogDsjl+mbb73yCixEFhz0p7iIcNw0GGvVNmrzKXQdy0g+vaYRFD0oArNlS7Al6IqDTG95ju9n5Z6HxJYkKb/NZ8c7N8GY/+XxAao0NWlAZXTL2bL6Ab/UiPfg9HgKPpQq4tmHlIhfdnQJS9OXxt5hJ0y6aOW7RpTWzEgqg/116H3PKPctVWRi3nRZoOzumA0GXz4r6ciTAAJ2bnsKvf13yx9E8HBQr0+DHp8AmaUc/TU7dPBZsHt/8jBuiAOBlh5hBLg8e3iDDrcRSj7Zhcx29kMmZViG4Wthi4/W0SbWpb3Pg5pBzKC7uZJA==;wXSWxf2aobTFd1MpaMGc2g=="
 ---

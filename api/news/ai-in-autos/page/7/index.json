@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-31-waymo-expanding-self-driving-car-operations-to-downtown-phoenix.md",
+      "title": "Waymo expanding self-driving car operations to Downtown Phoenix",
+      "excerpt": "On March 30, officials with Waymo announce they are expanding their self-driving car operations in Phoenix, years after they began self-driving car operations in a part of the East Valley. FOX 10's Linda Williams reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox10phoenix.com/video/1052039",
+      "originalUrl": "https://www.fox10phoenix.com/video/1052039",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox10phoenix.com/video/1052039.amp",
+      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/1052039.amp",
+      "publishedDateTime": "2022-03-30T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 10 Phoenix",
+        "domain": "fox10phoenix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-chinas-baidu-exploring-options-after-us-delisting-risk.md",
       "title": "China's Baidu exploring options after U.S. delisting risk",
       "excerpt": "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator’s list of companies that face the risk of being delisted.",
@@ -1276,58 +1310,6 @@
         "name": "Truck News",
         "domain": "trucknews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-21-are-there-any-risks-in-using-artificial-intelligence-to-grow-food.md",
-      "title": "Are there any risks in Using Artificial Intelligence to Grow Food?",
-      "excerpt": "It's no longer news that the world is changing rapidly and technology is the major driving force, causing major disruptions and changing what value means across different sectors and the food agricultural sector is not left out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/any-risks-using-artificial-intelligence-grow-food-nicholas-alifa",
-      "originalUrl": "https://www.linkedin.com/pulse/any-risks-using-artificial-intelligence-grow-food-nicholas-alifa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGoJvDx1Y6bWQ/article-cover_image-shrink_720_1280/0/1639399952851?e=1654128000&v=beta&t=Rb1ZJp2nNA_HtB4nbyknNjmLyMLmLlCjhlYec0_SLps",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

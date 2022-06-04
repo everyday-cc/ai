@@ -39,15 +39,6 @@ related:
         width: 1125
         height: 750
         isCached: true
-  - title: "10 Best Healthcare Stocks to Buy in 2022 According to Hedge Funds"
-    excerpt: "In this article, we discuss the 10 best healthcare stocks to buy in 2022 according to hedge funds. If you want to skip our detailed review of these stocks and the latest market situation, go directly to 5 Best Healthcare Stocks to Buy in 2022 According to Hedge Funds."
-    publishedDateTime: 2022-05-30T13:25:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-best-healthcare-stocks-to-buy-in-2022-according-to-hedge-funds-1044435/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 19
 
 secured: "9TMRdQqb6FKclidIcvMBqwjtsErGbPxeH0r1UAK0OrMSHM5yjefer8ut5mxxHXNnHytFEBjf9JLsXyZWvxHig9kcbjhji/cFL0OEGnVNl7ypW7x/YAXskhOgJA4vSHuQSlfBnEPzY/Ug5DSbw97yEhXzvFh1pR7jnkdQWmHNp1KsPTFEb40UsQAU+tNuvAMd8scM9tNjCf5Uveia4C4MLiTKF75/7kclMnZVI5WNETvNRz2U/qAMJsl83dpvQjEWRdFMH7s/exwiVNZfD5sxouPFE3T0pu0i99+B/sg25r3a8VyMKMNYDZbpAcHJ4w1DJfVTAX8NFZ4muymgr/2fhAJVIWv0rsdX7jJ8S6xpoO4=;O7qV1B58bN5PXB6tqKUmsA=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Fintech offers healthcare providers tools for optimum financial health"
-    excerpt: "UAE Based SANTECHTURE supports growing regional sector with evolved, proven, and compatible AI solutions for Revenue Cycle Management"
-    publishedDateTime: 2022-05-30T14:37:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/fintech-offers-healthcare-providers-tools-for-optimum-financial-health-fbserwwr"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 41
-    images:
-      - url: "https://static.zawya.com/version/c:NGRlN2FiMmEtNzFhNi00:YjJiNjVm/two-woman-with-hijab-working-on-laptop-in-office.jpg"
-        width: 788
-        height: 526
-        isCached: true
   - title: "Naspers Takes A R40 Million Bet On FinTech Platform Empowering Financial Advisers"
     excerpt: "Naspers (JO: NPNJn ), through its early-stage tech investment vehicle Naspers Foundry, announced a R40 million ($2.5 million) investment in LifeCheq, a FinTech platform empowering financial advisers to provide quality,"
     publishedDateTime: 2022-05-31T08:47:00Z

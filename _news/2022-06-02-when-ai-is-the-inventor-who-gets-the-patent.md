@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/06/220601200018.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/06/220601200018.htm"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "The rise of AI is pushing patent laws to their limits"
-    excerpt: "It was a machine learning program. One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence (AI) in Arthur C Clarke’s classic 2001: A Space Odyssey."
-    publishedDateTime: 2022-05-30T14:40:00Z
-    webUrl: "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Can a machine be named as an ‘inventor’? How AI is pushing the limits of patent law"
     excerpt: "Given the ever-increasing power of AI, it’s not a wild leap to suppose that AI will take on a greater role in coming up with inventions."
     publishedDateTime: 2022-05-30T23:27:00Z

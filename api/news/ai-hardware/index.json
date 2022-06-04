@@ -1000,6 +1000,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-24-supermicro-to-add-nvidia-grace-cpu-superchip-based-servers-to-the-industry-leading-portfolio-for-hpc-data-analytics-and-cloud-gaming-applications.md",
+      "title": "Supermicro to Add NVIDIA Grace CPU Superchip-Based Servers to the Industry-Leading Portfolio for HPC, Data Analytics, and Cloud Gaming Applications",
+      "excerpt": "(Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, will deploy the NVIDIA Grace CPU Superchip in a wide range of servers optimized for AI, HPC,",
+      "sourceUrl": null,
+      "webUrl": "https://who13.com/business/press-releases/cision/20220524SF66950/supermicro-to-add-nvidia-grace-cpu-superchip-based-servers-to-the-industry-leading-portfolio-for-hpc-data-analytics-and-cloud-gaming-applications/",
+      "originalUrl": "https://who13.com/business/press-releases/cision/20220524SF66950/supermicro-to-add-nvidia-grace-cpu-superchip-based-servers-to-the-industry-leading-portfolio-for-hpc-data-analytics-and-cloud-gaming-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
+          "width": 400,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "who13",
+        "domain": "who13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-qct-announces-support-of-nvidia-grace-cpu-superchips-for-use-in-hpc-and-ai-applications.md",
       "title": "QCT Announces Support of NVIDIA Grace CPU Superchips for Use in HPC and AI Applications",
       "excerpt": "Quanta Cloud Technology (QCT), a global data center solution provider, today announced new servers that will support the NVIDIA Grace ™ CPU Superchip and Grace™ Hopper™ Superchip. QCT is incorporating the NVIDIA Grace™ CPU,",
@@ -1128,6 +1171,40 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-brainchip-joins-arm-ai-partner-program.md",
+      "title": "BrainChip Joins Arm AI Partner Program",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, announced today it has been accepted into the Arm ® AI Partner Program,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-22T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1309,94 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-machine-learning-framework-pytorch-enabling-gpu-accelerated-training-on-apple-silicon-macs.md",
-      "title": "Machine Learning Framework PyTorch Enabling GPU-Accelerated Training on Apple Silicon Macs",
-      "excerpt": "In collaboration with the Metal engineering team at Apple, PyTorch today announced that its open source machine learning framework will soon support GPU-accelerated model training on Apple silicon Macs powered by M1, M1 Pro, or M1 Max chips. Until now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
-      "originalUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.macrumors.com/t/j1xq0VbOUNTowCRcKQkyv9DRnM0=/2000x/article-new/2022/05/pytorch.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacRumors",
-        "domain": "macrumors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers.md",
-      "title": "Crystal Group Brings AI to Power Grid With First GPU-Accelerated Substation Servers",
-      "excerpt": "Crystal Group, Inc., a leading designer and manufacturer of rugged computer and electronic hardware, announced today its release of the first GPU-accelerated substation servers designed to bring cutting-edge artificial intelligence (AI) capabilities to the utilities market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_45ac9083-858d-54bf-9e4f-ca5821df2d24.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_45ac9083-858d-54bf-9e4f-ca5821df2d24.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/30/7307806f-c297-5491-a21c-e18142c2b049/628511e470dc7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

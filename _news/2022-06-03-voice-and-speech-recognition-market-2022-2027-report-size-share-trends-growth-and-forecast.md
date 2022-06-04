@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
 type: article
 quality: 57
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Service Robotics Market To Be Driven At A CAGR Of 23% In The Forecast Period Of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Service Robotics Market Report and Forecast 2021-2026’, gives an in-depth analysis of the"
-    publishedDateTime: 2022-05-30T13:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-service-robotics-market-to-be-driven-at-a-cagr-of-23-in-the-forecast-period-of-2021-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAgdkevq9l_GTNVGjumMisCtdm_JAtWd5_b5RYtClCR757pkpOPVZqHQkEoAInHSNXP_YwR9lc8209AX7-_pjkFLSFDCvs-ehMCkgWUT1a3YvW--5zJsYdaqvKMEEo08RbS8snFKlJh5uxmx5uSOvHKnXlqJiic016aAi4wiAOBTj6MYklm482zX9d/s320/Service%20Robotics%20Market.webp"
-        width: 320
-        height: 320
         isCached: true
   - title: "Medical Robots Market Size To Grow USD 22.68 Bn By 2027"
     excerpt: "As per our research report, the size of the global medical robots market was worth USD 8.71 billion in 2022 and is estimated to be growing at a CAGR of"
