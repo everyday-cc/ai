@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in BFSI Market Competitive Landscape and Strategies of for New Companies with Fastest Growing Regions with new Opportunities"
-    excerpt: "The global Artificial Intelligence in BFSI market size is expected to growth from USUSD 2570.4 million in 2020 to USUSD 8321.6 million by 2027; it is"
-    publishedDateTime: 2022-05-30T06:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-bfsi-market-competitive-landscape-and-strategies-of-for-new-companies-with-fastest-growing-regions-with-new-opportunities"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "NCiKrilOMWM6f4dzKldZpzXdoQviTt1mivpwKMKH6nHgTT7E7BiWjZ4GAixBzTd9unKmIQdFx6LQvOMPUyz6ofrjeOhTgkbJ+MPjHBBjc883wvT3aTg+GgYkq9lK0XL4my21SRJInclLyoFo3Muzqd85qFcODgVILZKAtKKO97H/HNQ+e6BqHX/BvYXejrbXuflKzjxcLiFrwD6a4Pjcxudn5/etB8LEzLt87DGYbn4b88cupAD+r3y7Ohc6hlBwdZv9060gT3D7/NSHPVAcebRAtAWBc9i+y/zsjX2/GLW3QmELPoe7mrIkzyxwOpw1ezuspPfARNqj7hZAvm2s5KxZdaZZ435flYBxAaReMWE=;0pMleQaFSS07Vqtj+PbJMw=="
 ---

@@ -27,8 +27,8 @@ images:
 related:
   - title: "How Has Robotics Changed Manufacturing Technology?"
     excerpt: "Robotics has been changing manufacturing technology for decades. Production has advanced in numerous ways since the introduction of robots. Primarily, industrial robots can do repetitive tasks much more quickly than humans."
-    publishedDateTime: 2022-05-31T16:08:00Z
-    webUrl: "https://news.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm"
+    publishedDateTime: 2022-05-31T15:50:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm"
     type: article
     provider:
       name: TMCnet

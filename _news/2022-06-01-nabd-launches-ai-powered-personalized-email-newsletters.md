@@ -40,22 +40,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "Google Assistant develops personalised speech recognition feature"
-    excerpt: "According to 9to5Google, the tool will help Google Assistant get \"better at recognising your frequent words and names\""
-    publishedDateTime: 2022-05-30T06:24:00Z
-    webUrl: "https://www.business-standard.com/article/technology/google-assistant-develops-personalised-speech-recognition-feature-122053000390_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/google-assistant-develops-personalised-speech-recognition-feature-122053000390_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/google-assistant-develops-personalised-speech-recognition-feature-122053000390_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/02/full/1643789775-3091.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Google Assistant will soon have new feature for personalised speech recognition"
     excerpt: "The \"Personalised speech recognition\" feature will appear in Google Assistant settings and will get better at recognising what the user says, their frequent words and names"
     publishedDateTime: 2022-05-30T12:38:00Z
@@ -103,22 +87,6 @@ related:
       - url: "https://www.bizzbuzz.news/h-upload/2022/05/30/500x300_1539113-google.jpg"
         width: 500
         height: 300
-        isCached: true
-  - title: "Google Assistant will recognise your voice command soon"
-    excerpt: "Store audio recordings on this device to help Google Assistant get better at recognising what you say. Audio stays on this device and can be deleted any time by turning off personalised speech recognition'."
-    publishedDateTime: 2022-05-30T05:41:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-assistant-will-recognise-your-voice-command-soon-2022-05-30-780410"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-assistant-will-recognise-your-voice-command-soon-2022-05-30-780410"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-assistant-will-recognise-your-voice-command-soon-2022-05-30-780410"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 44
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/05/google-assistance-1653889126.jpg"
-        width: 360
-        height: 202
         isCached: true
   - title: "Google Assistant to soon recognise your voice"
     excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."

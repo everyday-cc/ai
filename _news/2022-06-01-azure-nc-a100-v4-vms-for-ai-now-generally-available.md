@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-g
 webUrl: "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

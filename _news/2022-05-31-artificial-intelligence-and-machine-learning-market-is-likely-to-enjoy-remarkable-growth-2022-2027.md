@@ -188,20 +188,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
-  - title: "AI in Oil & Gas Market Size 2022 with 12.14% CAGR : new business prospects by identifying trends and driving forces and Forecast up to 2028"
-    excerpt: "Global “AI in Oil and Gas Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI in Oil and Gas market"
-    publishedDateTime: 2022-05-30T05:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-oil-gas-market-size-2022-with-12-14-cagr-new-business-prospects-by-identifying-trends-and-driving-forces-and-forecast-up-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence Edge Device Market 2022 is Booming across the Globe by Share, Size, Growth, Segments and Forecast to 2030"
     excerpt: "The Global Artificial Intelligence Edge Device Market size is estimated to be USD 1.73 billion in 2019 and is predicted to reach USD 13.21 billion by 2030"
     publishedDateTime: 2022-06-01T13:17:00Z

@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Curbing the Growing Power Needs of Machine Learning"
-    excerpt: "In light of growing concern about the energy requirements of large machine learning models, a recent study from MIT Lincoln Laboratory and Northeastern University has investigated the savings that can be made by power-capping GPUs employed in model training and inference,"
-    publishedDateTime: 2022-06-02T21:37:00Z
-    webUrl: "https://www.unite.ai/curbing-the-growing-power-needs-of-machine-learning/"
+  - title: "AI: The robots are coming"
+    excerpt: "The advance of AI and its increasing capacity to perform work with a creativity indistinguishable from humans is fuelling more discussion and some concern."
+    publishedDateTime: 2022-05-30T08:09:00Z
+    webUrl: "https://www.redsharknews.com/ai-the-robots-are-coming"
+    ampWebUrl: "https://www.redsharknews.com/ai-the-robots-are-coming?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/ai-the-robots-are-coming?hs_amp=true"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:800/h:480/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/05/data-center-electricity-usage-MAIN.jpg"
-        width: 800
-        height: 480
-        isCached: true
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 54
 
 secured: "w0MQHKBY6Mlg6rLIlDZ2NOCpK4fk+A7cTUhqFc+B2bkyBcXcbN/+OGPHqyFkNTiEBRtl2N+KArRciasTYvlms76S8Yd8Ov4QEcoXtn3KGpv3TxLx1HVIADB1YTKI2uyCDHgGM+IcwpdemEBRLThLqlMzw80+DpmiqVC2eqamtDIzguWb6XeyqKFvmCPr57ypNJU8kvKI4p+2mH9l8W42uxKmNoWJnRFPeQYeYIoi6QM8W5hYeHugoxojMuSnP0VWov+PUWOVoF/XxY4gHxqDXQNuYXc9dDZImv08x9OHK4e7D/He9Phf464v2bWQWMhBwjtEpB/joUy93InrzdxT5BGszEWHZwh1xcbzDF/crLk=;kFACvoLUjgPtXspmT22GOw=="
 ---

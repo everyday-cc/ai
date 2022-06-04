@@ -2,9 +2,9 @@
 category: news
 title: "How Has Robotics Changed Manufacturing Technology?"
 excerpt: "Robotics has been changing manufacturing technology for decades. Production has advanced in numerous ways since the introduction of robots. Primarily, industrial robots can do repetitive tasks much more quickly than humans."
-publishedDateTime: 2022-05-31T16:08:00Z
-originalUrl: "https://news.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm"
-webUrl: "https://news.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm"
+publishedDateTime: 2022-05-31T15:50:00Z
+originalUrl: "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm"
+webUrl: "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm"
 type: article
 quality: 54
 heat: 74
@@ -54,6 +54,6 @@ related:
         height: 300
         isCached: true
 
-secured: "RdYE//SxiJcEw5ZZH1bCeKe+n7TNi7kVTfCpBYiPLEBIGq69xY76pA7yKB46Gi1yH1J2VdXhcr+ZaTYIFF3fWjoKBkbeFS9CKZ6itLI7ei1d3MC/ifgPWsPWII80dZmtPsjwmzgVV3T0hah2dllbe9NCfv8Xj+IpVas1WjpKS8pEJzQc/CBl3kwlC3x0WoRjxo4QGsb04nxAzxoIfaNUFbZNImPX08X29ubK1nbHVx47BdXzkuzot1ibPaWsV7bEDFPU5asCuB/MyxnzBH4KbmT8db+3HJanjPmt9F3JPucU5quZgttzafuXnOYkSj2l+aWVdwS5SMdJUL3arON6S6F8u9e0Tt3c2wVNQMrKlc0X+wIgAO7RRepMWQpY+zclNLBj0BF7swoMQc56YMqwlEvBi4wfmAQa+nVvQZr0PjDNDMPHarie3N150VDSlz+X7FBwIypfbyag1z0X/gYbjWxgtD5KxwEY+lgh0djQmagaqHI2IAuh9sCAk11jeGHUX4ltxP0WWDdMTsqU3/4/Fg==;xFO6SDZjaMJCR2WJUXVUJA=="
+secured: "H5FlZ8tomq3R59SkQlwQk8ZNLYmdjf5LIgwSasJKx2ezXWFLkW3E473Ig28REUrlDCK+EO8+qJGiRJsNyUtqzhsBaT6gnEQ4DVOlyjseoBVWOfg8fS85jWhladp49gPh0ZJC7mp2vyKp1g2vJJuG9N28yT8MtYYP0XEZT+BbPDyuiApd7xP25oZXBXqmAfsPz9xiYWqge8j3EKmJO2srwRdhuzWk/FDgNW2M0FKKhKrS1+fru1FAj5MDmkE+fP9p6Rz+6Q/WkHBk4zm+vtp8cGMzPtZ+C+HrY9FPU9382FGgiSoa95NOdpSl5RIJrK7uTkDEXDeI1c7NIOyfhE/KsexNIKsMTdeAlytuDK2VxBA=;guEaN8GoF/fUZBM+jOKz8g=="
 ---
 

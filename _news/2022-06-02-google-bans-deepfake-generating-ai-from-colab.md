@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/01/2328459/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/01/2328459/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

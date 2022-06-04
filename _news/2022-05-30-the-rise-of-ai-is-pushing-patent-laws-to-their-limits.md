@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/artificial-inventors-pushing-patent-la
 webUrl: "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits"
 type: article
 quality: 67
-heat: 89
+heat: 87
 published: true
 
 provider:

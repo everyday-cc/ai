@@ -195,20 +195,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 15
-  - title: "AI in Oil & Gas Market Size 2022 with 12.14% CAGR : new business prospects by identifying trends and driving forces and Forecast up to 2028"
-    excerpt: "Global “AI in Oil and Gas Market” 2022 by Manufacturers, Regions, Type and Application, Forecast to 2028 The global AI in Oil and Gas market"
-    publishedDateTime: 2022-05-30T05:46:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-oil-gas-market-size-2022-with-12-14-cagr-new-business-prospects-by-identifying-trends-and-driving-forces-and-forecast-up-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Facial Recognition Market Industry Analysis, CAGR Value, Business Strategy, Growth Drivers, Forecast By 2028"
     excerpt: "Emergen Research Logo Facial Recognition Market Trend –Technological advancements in facial expression detection  Facial Recogniti"
     publishedDateTime: 2022-06-01T13:30:00Z
