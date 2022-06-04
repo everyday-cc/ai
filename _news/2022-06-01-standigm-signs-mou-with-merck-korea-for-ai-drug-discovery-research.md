@@ -6,9 +6,9 @@ publishedDateTime: 2022-06-01T13:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031501848"
 webUrl: "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031501848"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1829180/1.jpg"
+    width: 400
+    height: 323
+    isCached: true
 
 related:
   - title: "Merck KGaA, South Korea's Standigm team up for AI-based drug discovery research"
@@ -37,6 +44,6 @@ related:
         height: 422
         isCached: true
 
-secured: "7tuEF28mLRxoOKU1wwFOKBGTN2IAmYuBlc6T98wea/LVOrdodx4L3vlHlqMOPW+Uz/uznXNb+Apy2C8lmwfvCe7S4dscMBxkHkrXR9WB4silv2U8JRJs0AsupP7fw5oI88CSb2qgivIDN9gh27S12ndJChh9K+NwPM7PMuyKhC9kvZzfU620HtedIvaywZCi56vsxXj+TgEjkhIU27q4usGgdpcPQ7v3jfzJ522M8yf+cZx6Aq+gizNjl8BGxuaWhR0B0e0F/SJhVLpH623k/OT33FfQ72CJWSGfhsFqRiO90vfIN/DK5QnbvHHJMcEXu1ZHeYSLdNE3T1UcK4pxM03azIr6zt7PRwvBd34lSNKqTRStFxUUvKiLuYxqh3Wmd1Ikuh/L3fWgttnZk3c4ppV/C9ePPhfWCOFmO22eR+jkkCT3IibyydmUjWTIfSKrtWJqnvgs+FKhWoE0urcgRFjKia+apUlvwDlkHEjIG2nm9EWvYXdxolmrjDgvkZBdy+o+ifw5g/F9SNmsXAzOGQ==;PYdtu9jQFanRBNqtz+h6KA=="
+secured: "4AIYW2XY8wg9YOGfev4qJIRR5NgfAdVMB6e33BnZH4Z3qU0WzBlxtoXWVOhOTsUJBldtXOvAQCo/7jGbjWlxzsqx/nr9Rc0ztRfWs/fhyF6BYFZwIf0ZLT9xwiIB+18T0NHhcoJwPULIuf+53VMawsPe8U6pJDbetbkXDaBLxj4zqmqoR1lQ34N7wRyUu8OTBe3l3zOfukuwEaXu1XRF6glHEoGBw3oTTWQHJn5hou3tbvr+N6G9rin/gf8zFTliyWjR6BY2JhGJaAwNjCs3Y5y7AGSWeI7R9lzDKMKmD83oKm1HSlYQhmW31T+rIOSywEAYFCKGvYDYaX+dSE0pUyVdSq8uaAzsGgdrDP/KZMw=;jX+J+dyjachiB30LP2kH/w=="
 ---
 

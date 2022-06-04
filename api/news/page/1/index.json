@@ -2,6 +2,230 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-04-mumbai-based-fintech-kiyaai-launches-indias-first-banking-metaverse-kiyaverse.md",
+      "title": "Mumbai-Based Fintech Kiya.ai Launches India’s First Banking Metaverse ‘Kiyaverse’",
+      "excerpt": "Kiya.ai has launched India’s first banking Metaverse, Kiyaverse, which will be used by banks and NBFCs to enable virtual interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
+      "originalUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/06/Kiyaverse-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
+      "publishedDateTime": "2022-06-04T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars.md",
+      "title": "AI Ethics And The Perplexing Societal And Legal Role Of AI Activism, Including In The Case Of Autonomous Self-Driving Cars",
+      "excerpt": "AI activism is on the rise, dovetailing into the AI Ethics movement, so it is worthy to take a close look at what AI activism is all about, including in the case of AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6296a226bb1124449cbe2b9c/0x0.jpg?format=jpg&crop=2781,2160,x934,y0,safe&width=1200",
+          "width": 1200,
+          "height": 932,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-06-04T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury.md",
+      "title": "How AI Could Revolutionize Sports: Trainers Tap Algorithms to Boost Performance, Prevent Injury",
+      "excerpt": "Computer vision, the technology behind facial recognition, will change the game in real-time analysis of athletes and sharpen training prescriptions, analytics experts say",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_featst_pos3",
+      "originalUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_featst_pos3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-555376/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
+      "publishedDateTime": "2022-06-04T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-meet-the-ai-taxi-company-thats-backed-by-ford-and-volkswagen.md",
+      "title": "Meet The AI Taxi Company That's Backed by Ford and Volkswagen",
+      "excerpt": "First I'm going to start off this testing in Miami and Austin ... You want it to just work and be safe. I know Argo AI in Florida has been, I believe they have their own, didn't they buy a little city, an abandoned city and that's where they are doing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/meet-the-ai-taxi-company-thats-backed-by-ford-and-volkswagen",
+      "originalUrl": "https://www.nasdaq.com/articles/meet-the-ai-taxi-company-thats-backed-by-ford-and-volkswagen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/meet-the-ai-taxi-company-thats-backed-by-ford-and-volkswagen?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/meet-the-ai-taxi-company-thats-backed-by-ford-and-volkswagen?amp",
+      "publishedDateTime": "2022-06-04T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-face-recognition-cams-at-mg-road-metro-station-others-for-better-security-gmda.md",
+      "title": "Face recognition cams at MG Road metro station, others for better security: GMDA",
+      "excerpt": "The Gurugram Metropolitan Development Authority (GMDA) installed eight facial recognition cameras Eight such cameras will also be installed at the Sikanderpur metro station before June 10. GMDA officials said that they are yet to receive permission from the Delhi Metro Rail Corporation for installing facial recognition cameras at the Huda City Centre station.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/06/04/1600x900/eb108b98-e3fe-11ec-8f1c-cdec0b6d3297_1654344984455.jpeg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637-amp.html",
+      "publishedDateTime": "2022-06-04T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-ai-ethical-decision-making-is-society-ready.md",
       "title": "AI ethical decision making: Is society ready?",
       "excerpt": "With the accelerating evolution of technology, artificial intelligence (AI) plays a growing role in decision-making processes. Humans are becoming increasingly dependent on algorithms to process information,",
@@ -105,7 +329,7 @@
       "originalUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -157,7 +381,7 @@
       "originalUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -302,58 +526,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-new-nhtsa-data-on-self-driving-car-crashes-coming-this-month.md",
-      "title": "New NHTSA Data on Self-Driving Car Crashes Coming This Month",
-      "excerpt": "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156",
-      "originalUrl": "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-557184/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1041,195 +1213,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-clearview-ai-draws-another-fine-uk-ico-assesses-75-million-for-scraping-of-facial-recognition-data.md",
-      "title": "Clearview AI Draws Another Fine; UK ICO Assesses £7.5 Million for Scraping of Facial Recognition Data",
-      "excerpt": "Clearview AI will be fined £7,552,800, and has been ordered to stop collecting facial recognition data in the UK and to delete all of the data it had previously collected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/",
-      "originalUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2022/06/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/",
-      "publishedDateTime": "2022-06-02T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-pinterest-acquires-ai-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec.md",
-      "title": "Pinterest acquires AI-powered shopping startup The Yes, co-founded by former Stitch Fix exec",
-      "excerpt": "As Pinterest sets its eyes on improving the online shopping experience on its platform, the company announced this afternoon it’s acquiring the AI-powered shopping service for fashion known as The Yes,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/",
-      "originalUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/the-yes.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/",
-      "publishedDateTime": "2022-06-02T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases.md",
-      "title": "Oregon dropping AI tool used to help decide child abuse cases",
-      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
-      "originalUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/DarkWeb-1024x682.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
-      "publishedDateTime": "2022-06-02T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-latchbio-raises-28m-to-corral-bio-data.md",
-      "title": "LatchBio raises $28M to corral bio data",
-      "excerpt": "LatchBio's goal is to give researchers a simple, integrated tool that can analyze bio data without hiring a computer scientist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/",
-      "originalUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1654116197955.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/amp/",
-      "publishedDateTime": "2022-06-02T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

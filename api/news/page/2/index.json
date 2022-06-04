@@ -2,6 +2,195 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-03-clearview-ai-draws-another-fine-uk-ico-assesses-75-million-for-scraping-of-facial-recognition-data.md",
+      "title": "Clearview AI Draws Another Fine; UK ICO Assesses £7.5 Million for Scraping of Facial Recognition Data",
+      "excerpt": "Clearview AI will be fined £7,552,800, and has been ordered to stop collecting facial recognition data in the UK and to delete all of the data it had previously collected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/",
+      "originalUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2022/06/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/",
+      "publishedDateTime": "2022-06-02T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-pinterest-acquires-ai-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec.md",
+      "title": "Pinterest acquires AI-powered shopping startup The Yes, co-founded by former Stitch Fix exec",
+      "excerpt": "As Pinterest sets its eyes on improving the online shopping experience on its platform, the company announced this afternoon it’s acquiring the AI-powered shopping service for fashion known as The Yes,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/",
+      "originalUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/the-yes.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/",
+      "publishedDateTime": "2022-06-02T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases.md",
+      "title": "Oregon dropping AI tool used to help decide child abuse cases",
+      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "originalUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/DarkWeb-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "publishedDateTime": "2022-06-02T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-latchbio-raises-28m-to-corral-bio-data.md",
+      "title": "LatchBio raises $28M to corral bio data",
+      "excerpt": "LatchBio's goal is to give researchers a simple, integrated tool that can analyze bio data without hiring a computer scientist.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/",
+      "originalUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1654116197955.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/amp/",
+      "publishedDateTime": "2022-06-02T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-merge-cells-and-column-headers-in-amazon-textract-tables.md",
       "title": "Merge cells and column headers in Amazon Textract tables",
       "excerpt": "Financial documents such as bank, loan, or mortgage statements are often formatted to be visually appealing and easy to read for the human eye. These same features can also make automated processing challenging at times. For instance, in the following sample statement, merging rows or columns in a table",
@@ -364,6 +553,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-02-hearing-aids-market-worth-102-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Hearing Aids Market worth $10.2 billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "According to the new market research report \"Hearing Aids Market by Product Type [Aids (Receiver,Behind the Ear, In the Canal, In the Ear Aids), Implants (Cochlear,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27517496/hearing-aids-market-worth-10-2-billion-by-2026-exclusive-report-by-marketsandmarkets",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27517496/hearing-aids-market-worth-10-2-billion-by-2026-exclusive-report-by-marketsandmarkets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.giphy.com/media/XBY7Yq06tXMCvqmUQF/giphy.gif?cid=790b7611cd3bb6ee13833409883d5c3006a5f21f51a83ce9&rid=giphy.gif&ct=g",
+          "width": 480,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27517496",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27517496",
+      "publishedDateTime": "2022-06-02T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-a-fresh-start-for-a-walk-in-the-park.md",
       "title": "A Fresh Start for a Walk in the Park",
       "excerpt": "The Frederik Meijer Gardens & Sculpture Park had a human face long before it received its new welcome center. Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.",
@@ -512,7 +744,7 @@
       "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -598,7 +830,7 @@
       "originalUrl": "https://cio.economictimes.indiatimes.com/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -684,7 +916,7 @@
       "originalUrl": "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -904,250 +1136,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ai-robotics-autonomous-vehicle-zettascale-spins-out-from-adlink-tttech-auto-investor.md",
-      "title": "AI, robotics, autonomous vehicle – ZettaScale spins out from ADLINK, TTTech Auto investor",
-      "excerpt": "ZettaScale Technologies has raised a strategic investment from TTTech Auto. The investment marks the start of a strategic partnership between the two companies that will result in the creation of the first European implementation of Data Distribution Service (OMG DDS) that is certified for use in series cars,",
-      "sourceUrl": null,
-      "webUrl": "https://www.logisticsit.com/articles/2022/06/01/ai,-robotics,-autonomous-vehicle-–-zettascale-spins-out-from-adlink,-tttech-auto-investor",
-      "originalUrl": "https://www.logisticsit.com/articles/2022/06/01/ai,-robotics,-autonomous-vehicle-–-zettascale-spins-out-from-adlink,-tttech-auto-investor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.logisticsit.com/assets/image-cache/files/images/02_06_22/publicpreview.php.7fa9aa46.jpg",
-          "width": 650,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing & Logistics IT Magazine",
-        "domain": "logisticsit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda.md",
-      "title": "Automate vending Amazon SageMaker notebooks with Amazon EventBridge and AWS Lambda",
-      "excerpt": "Having an environment capable of delivering Amazon SageMaker notebook instances quickly allows data scientists and business analysts to efficiently respond to organizational needs. Data is the lifeblood of an organization, and analyzing that data efficiently provides useful insights for businesses. A",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-5603-image001.png",
-          "width": 811,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:29:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game.md",
-      "title": "Intel Arc Mobile Graphics Performance Preview: A New Player Enters The GPU Game",
-      "excerpt": "I was able to not only go under the hood of an Intel Arc Graphics reference platform laptop from one of its OEM partners, but I can also now share with you an extensive array of performance metrics as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62965cf3efbd9026d0d94143/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-hugging-face-models.md",
-      "title": "Run text classification with Amazon SageMaker JumpStart using TensorFlow Hub and Hugging Face models",
-      "excerpt": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/01/text-classification-jumpstart.jpg",
-          "width": 1000,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:25:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-finish-robotics-brings-robotic-painting-to-life.md",
-      "title": "Finish Robotics Brings Robotic Painting To Life",
-      "excerpt": "Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA - Finish Robotics, a recent entrant into the",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
-      "originalUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/d9e065ff2a5a506c56bb783399a24f49.png",
-          "width": 526,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/review-identifies-gaps.jpg"

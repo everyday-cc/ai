@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T12:40:00Z
 originalUrl: "https://allafrica.com/stories/202206040115.html"
 webUrl: "https://allafrica.com/stories/202206040115.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: AllAfrica.com

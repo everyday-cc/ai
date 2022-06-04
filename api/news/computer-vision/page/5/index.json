@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-06-receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions.md",
+      "title": "Receive notifications for image analysis with Amazon Rekognition Custom Labels and analyze predictions",
+      "excerpt": "Amazon Rekognition Custom Labels is a fully managed computer vision service that allows developers to build custom models to classify and identify objects in images that are specific and unique to your business. Rekognition Custom Labels doesn’t require you to have any prior computer vision expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/receive-notifications-for-image-analysis-with-amazon-rekognition-custom-labels-and-analyze-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/01/ML-3899-image031.jpg",
+          "width": 1584,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T09:46:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-europe-is-building-a-huge-international-facial-recognition-system.md",
       "title": "Europe Is Building a Huge International Facial Recognition System",
       "excerpt": "Lawmakers advance proposals to let police forces across the EU link their photo databases—which include millions of pictures of people’s faces.",
@@ -1275,58 +1328,6 @@
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-datagen-raises-50-million-series-b-to-empower-computer-vision-teams.md",
-      "title": "Datagen raises $50 million Series B to empower computer vision teams",
-      "excerpt": "Datagen now has a much more scalable way to help clients themselves generate the visual data that they need to train their computer vision applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/",
-      "originalUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1303435492.jpg?w=1024",
-          "width": 1024,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/23/datagen-raises-50-million-series-b-to-empower-computer-vision-teams/amp/",
-      "publishedDateTime": "2022-03-23T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

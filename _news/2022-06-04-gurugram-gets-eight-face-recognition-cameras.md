@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Face recognition cams at MG Road metro station, others for better security: GMDA"
+    excerpt: "The Gurugram Metropolitan Development Authority (GMDA) installed eight facial recognition cameras Eight such cameras will also be installed at the Sikanderpur metro station before June 10. GMDA officials said that they are yet to receive permission from the Delhi Metro Rail Corporation for installing facial recognition cameras at the Huda City Centre station."
+    publishedDateTime: 2022-06-04T12:16:00Z
+    webUrl: "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637.html"
+    ampWebUrl: "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 71
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/06/04/1600x900/eb108b98-e3fe-11ec-8f1c-cdec0b6d3297_1654344984455.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Gurgaon: GMDA installs cameras with face recognition tech at MG Road Metro station"
     excerpt: "Using artificial intelligence, the cameras will aid in detection of missing persons as well as people with a criminal record, said an official with the Gurugram Metropolitan Development Authority."
     publishedDateTime: 2022-06-04T05:22:00Z

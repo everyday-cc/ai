@@ -18,19 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Meta could be about to buy a lot of Broadcom chips to build its metaverse"
-    excerpt: "ASIC chips are specifically designed for intensive AI applications that require huge processing power all at once. Google has been co-developing ASIC chips with Broadcom since 2016, in a deal worth over $1.3 billion in 2022. One of the hardest things is ..."
-    publishedDateTime: 2022-06-01T15:09:00Z
-    webUrl: "https://www.techradar.com/sg/news/meta-could-be-about-to-buy-a-lot-of-broadcom-chips-to-build-its-metaverse"
+  - title: "Mumbai-Based Fintech Kiya.ai Launches India’s First Banking Metaverse ‘Kiyaverse’"
+    excerpt: "Kiya.ai has launched India’s first banking Metaverse, Kiyaverse, which will be used by banks and NBFCs to enable virtual interactions."
+    publishedDateTime: 2022-06-04T15:08:00Z
+    webUrl: "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget"
+    ampWebUrl: "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 68
+      name: inc42.com
+      domain: inc42.com
+    quality: 69
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/JnLnF2yJons5D6zMUUszyi-1200-80.jpg"
+      - url: "https://inc42.com/wp-content/uploads/2022/06/Kiyaverse-social.jpg"
         width: 1200
-        height: 676
+        height: 628
         isCached: true
   - title: "Kiya.ai launches Banking Metaverse – Kiyaverse"
     excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor? Well, the day is not far when you will be"
@@ -57,20 +59,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Meta set to join Broadcom's $1 billion custom chip customer club - J.P. Morgan"
-    excerpt: "Broadcom's (NASDAQ:AVGO) custom chip wins are speeding up at Facebook parent Meta Platforms (NASDAQ:FB), J.P. Morgan says, predicting that Meta will emerge as Broadcom's next $1 billion-plus cloud ASIC customer."
-    publishedDateTime: 2022-05-31T15:49:00Z
-    webUrl: "https://seekingalpha.com/news/3844034-meta-set-to-join-broadcoms-1-billion-custom-chip-customer-club-jp-morgan"
+  - title: "Kiya.ai launches Indian banking metaverse"
+    excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor?"
+    publishedDateTime: 2022-06-02T19:44:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92843/kiyaai-launches-indian-banking-metaverse"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 35
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1196326339/image_1196326339.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 17
 
 secured: "g6uMFW8FTHRiN4jgX3WJygbQJLiDTWsySlnIcG257xPODrWR1vfgYc9cQf+ZeM5nrdP6sU9PHO85Rb5cL/Z2DHQgyV8GEkHdyueQyKOHMLM7ahfN8DxPOoJnvkPHPsoIJD0Duj5h0VjQ3Bqoe56gkgRQUvmiW6ie+OKXp2g1o+rqGZ0CT+MnD23bpM06cRRpbeh3be/9DvNUCZNh1PtXgb9Cg6dOMnU9TpMvmt4tAoPDv4jceDPNHfqM1uoOtrZ6e86wLkkEmyYLT47wOUDaWaLOyqPGGpOdPBzY13IPSBGMhqag9H5kgFr5CbdOM/dGND2viu0r9mBSH5K+8NmY8hPFXtKi56akrXYrTGzw084zG2NHEI9HsS0KC6v9MgpjgM53agUk4xP015nDVWJjyqgHInT6gruZQZ5x5yQxCjqypTcl21MqfL/tsCu3B7A+ARghbtApUVy1LjVo3RUJWCX1qA2S9CQSE8SYOlBLfLYEGPEoYioANSxXM2DWCm11WV5B0zflnmPGkllyp+3xNw==;dN+VTTUYOhF6o2ai0+0O8A=="
 ---

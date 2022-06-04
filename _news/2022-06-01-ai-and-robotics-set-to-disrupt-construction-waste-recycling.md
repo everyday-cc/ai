@@ -80,15 +80,6 @@ related:
         width: 510
         height: 332
         isCached: true
-  - title: "Israeli Firm AgroScout Proves The Impact Of AI And Robotics In Agriculture"
-    excerpt: "Israeli firm AgroScout has developed software that uses AI and commercial drones to monitor crops in real-time."
-    publishedDateTime: 2022-05-30T19:11:00Z
-    webUrl: "https://nocamels.com/2022/05/agroscout-ai-robotics-agriculture/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 47
   - title: "The role of AI in data privacy"
     excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
     publishedDateTime: 2022-06-01T18:07:00Z
@@ -126,17 +117,6 @@ related:
         width: 261
         height: 250
         isCached: true
-  - title: "Global Space Industry Report 2022: The Future of AI-Enabled Space Services"
-    excerpt: "The \"Global Artificial Intelligence in Space Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. The multiple NewSpace start-ups entering the"
-    publishedDateTime: 2022-05-30T19:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/n27465603/global-space-industry-report-2022-the-future-of-ai-enabled-space-services"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27465603"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27465603"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "Community colleges and employer partners are teaming up to expand pathways to artificial intelligence jobs of the future"
     excerpt: "Community colleges can help ensure that diverse talent can fuel the innovation economy while accessing job opportunities."
     publishedDateTime: 2022-05-31T14:47:00Z

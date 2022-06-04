@@ -22,19 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Meta could be about to buy a lot of Broadcom chips to build its metaverse"
-    excerpt: "ASIC chips are specifically designed for intensive AI applications that require huge processing power all at once. Google has been co-developing ASIC chips with Broadcom since 2016, in a deal worth over $1.3 billion in 2022. One of the hardest things is ..."
-    publishedDateTime: 2022-06-01T15:09:00Z
-    webUrl: "https://www.techradar.com/sg/news/meta-could-be-about-to-buy-a-lot-of-broadcom-chips-to-build-its-metaverse"
+  - title: "Mumbai-Based Fintech Kiya.ai Launches India’s First Banking Metaverse ‘Kiyaverse’"
+    excerpt: "Kiya.ai has launched India’s first banking Metaverse, Kiyaverse, which will be used by banks and NBFCs to enable virtual interactions."
+    publishedDateTime: 2022-06-04T15:08:00Z
+    webUrl: "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget"
+    ampWebUrl: "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 68
+      name: inc42.com
+      domain: inc42.com
+    quality: 69
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/JnLnF2yJons5D6zMUUszyi-1200-80.jpg"
+      - url: "https://inc42.com/wp-content/uploads/2022/06/Kiyaverse-social.jpg"
         width: 1200
-        height: 676
+        height: 628
         isCached: true
   - title: "Kiya.ai launches Banking Metaverse – Kiyaverse"
     excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor? Well, the day is not far when you will be"
@@ -52,20 +54,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Meta set to join Broadcom's $1 billion custom chip customer club - J.P. Morgan"
-    excerpt: "Broadcom's (NASDAQ:AVGO) custom chip wins are speeding up at Facebook parent Meta Platforms (NASDAQ:FB), J.P. Morgan says, predicting that Meta will emerge as Broadcom's next $1 billion-plus cloud ASIC customer."
-    publishedDateTime: 2022-05-31T15:49:00Z
-    webUrl: "https://seekingalpha.com/news/3844034-meta-set-to-join-broadcoms-1-billion-custom-chip-customer-club-jp-morgan"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 35
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1196326339/image_1196326339.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Kiya.ai launches India’s first-ever Banking Metaverse-Kiyaverse"
     excerpt: "Kiya.ai, a digital solutions providers serving financial institutions and governments globally, today announced the launch of India’s first-ever Banking Metaverse – Kiyaverse. Kiyaverse pioneers use cases of merging real-world banking with Metaverse banking through an avatar (virtual humanoid) based interactions,"
     publishedDateTime: 2022-06-02T13:25:00Z
@@ -74,6 +62,15 @@ related:
     provider:
       name: The Free Press Journal
       domain: freepressjournal.in
+    quality: 17
+  - title: "Kiya.ai launches Indian banking metaverse"
+    excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor?"
+    publishedDateTime: 2022-06-02T19:44:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92843/kiyaai-launches-indian-banking-metaverse"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 17
 
 secured: "3AARNPPODTFDVeTpeX1B57PwkPW/W/3EHpiz/xbIL+2skw/fkeiLiBerO/HQIo8Z+So+A50qZU2kcpjNdjnl5pq9+BYu0KH4+FHDdLi03QDnaZObN9GQUB6+L7y44xWOat1hQKdJRD6bd62IChfj74GZmU0uVnKh6kX46kNii20ibPXUPw8y3KUaR/CPo+4S+OlbPf5sheCjIzXi/Na9XZsqHd4GmBe0lSdhyhuQGIK1CRwVfheqn033u7ZF5kt3uBVhcCcmQjGxs7LXbdvqfzHEXXNKHlTQKJWX/2XzreX+p8WlQOcapqBeJempKpPlyO1W28ofYyvu7BmL5c2Zl/QKJZ1p1AWq1mgVxsH2hj3d5gokiry7nhiaADGiCi6OZs0C14MFKKPNp31q1ykr0dfXLtJ2ilHHXMYyMxh1rohgCqStFBmdYId0pq5QEI1pLaH0VBhC8z9CnkWA/B6E1dAXgSBEGcdVpdIow7fpBqZuidi7z1JCoIAB1CVY/r3nkyd5JHkaW6dwoe35O23wfQ==;GNhdaBI66pH5MB+Lok4hkw=="

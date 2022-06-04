@@ -2,27 +2,19 @@
 category: news
 title: "Intrado Offers Mosaicx Conversational Artificial Intelligence on Google Cloud Marketplace"
 excerpt: "Intrado Corporation, a global leader in technology-enabled services, today announced Mosaicx, its conversational artificial intelligence (“AI”) solution, is now available on Google Cloud Marketplace."
-publishedDateTime: 2022-05-26T13:42:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5"
+publishedDateTime: 2022-05-26T14:26:00Z
+originalUrl: "https://www.cbs17.com/business/press-releases/globenewswire/8560731/intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace/"
+webUrl: "https://www.cbs17.com/business/press-releases/globenewswire/8560731/intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace/"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: CBS17 Raleigh
+  domain: cbs17.com
 
 topics:
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "gYZiTLY1Rh2FplThG4+Jt79QYZuD5ncSmjEJuhy9eV8/bGT2Eu/XFaV0ArIiuD/VgGVzZa6J3buH0E3C2bEUAkO/0/YW7Z66RoKZcRiFBGYZmDtktk5zLs8c6IkaPN+SxAAlambMq9mEIcLwrNfImRDYdbjuZcY+8eLsXEioe/0dVELZ5LCS0UytqcGBVFq9c2IEN/a1XcKImiJghR+km8DOHsNdTrfNC4a043BbctqliloJlB7Sp7IjZSJoKj8NeUEloUHo78sj+BD8TI7OhK5giOMQz94ZzhZhfcKFIzzJ/fbcQYxoTjtPqetchcL0JRXDvm4DrECSt6W+YUJuC+zbleXOVrgNBVJwBg0pErs=;yjp2imdyZyC5QII52MrpPQ=="
+secured: "HH60AKd75+8+Avm8ZHhovecoCRjeqtI89lIibxhkTR3hy9/TByhV2oXeVvWLBaUvzDhjXXdch724/wc8nPF8ZqQwxDojtDdcPb/lCabJC7RFmNLWOxUZLySGUKw9y7AI2Ak5G/zWwzHUUjTTLmRUwm7k4pBytawyZwBQi70huL03IUfp3YGrqutN9TVQYht4H42bKM9tjAEJSADQVzFU4AfXPenIYlVlzYwvRLapba4iizE38H1t3oN3OZKoOO121qD4Y3PH8tN62XaJ0ak9jOaWvRxoTrkXVUDzzGFnXoHarc4U5mcK9VNaWfAFbW8vYWjV5A7vCpgy3ykoLX1FDNU8dQD9BulO7Sm7O3sScRc=;tsGTEVGXvcgwGsw8E1SW/w=="
 ---
 

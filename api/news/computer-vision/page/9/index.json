@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-16-keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now.md",
+      "title": "Keep Your Gear Charged for Less: Save 40% on ESR's Popular Chargers Now",
+      "excerpt": "And that's not the only safety feature in place. Short-circuit protection means your phone is safe from any current with a little too much power, and the foreign object recognition system trips to automatically turn the charger off if a metal object other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/Fd1ERiHGfWS0b-W24NAz1IJA4MM=/1200x630/2022/02/16/c08afe44-917a-4580-b071-17a619f920b6/esr-20w-mini-pd-fast-charger-set.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/keep-your-gear-charged-for-less-save-40-on-esrs-popular-chargers-now/",
+      "publishedDateTime": "2022-02-16T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-16-what-the-tech-facebook-facial-recognition.md",
       "title": "What the Tech: Facebook facial recognition",
       "excerpt": "Thanks to our willingness to upload photos and tag ourselves and our friends, Facebook and other companies have everything they need to combine our names and faces to be identified in photos and videos using facial recognition. Texas is the latest to file ...",
@@ -1311,58 +1363,6 @@
         "name": "Retail Dive",
         "domain": "retaildive.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-irs-to-stop-using-facial-recognition-for-identity-verification.md",
-      "title": "IRS to stop using facial recognition for identity verification",
-      "excerpt": "The IRS will stop using a controversial third-party service for facial recognition to verify identity for online accounts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
-      "originalUrl": "https://www.cnbc.com/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 529,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106888859-1622060828895-gettyimages-1231812116-IRS_TAX.jpeg?v=1630653821",
-          "width": 3600,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html",
-      "publishedDateTime": "2022-02-07T15:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

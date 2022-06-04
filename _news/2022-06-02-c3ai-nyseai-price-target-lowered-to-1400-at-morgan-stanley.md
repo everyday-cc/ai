@@ -50,15 +50,6 @@ related:
       name: ETF Daily News
       domain: etfdailynews.com
     quality: 17
-  - title: "BigBear.ai (NYSE:BBAI) Rating Increased to Hold at Zacks Investment Research"
-    excerpt: "BigBear.ai (NYSE:BBAI – Get Rating) was upgraded by Zacks Investment Research from a “sell” rating to a “hold” rating in a research note issued to investors on Monday, Zacks.com reports. According to Zacks,"
-    publishedDateTime: 2022-05-30T21:08:00Z
-    webUrl: "https://www.defenseworld.net/2022/05/30/bigbear-ai-nysebbai-rating-increased-to-hold-at-zacks-investment-research-3.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 14
 
 secured: "1jsXamL8XW4otM5mFhwUMgt5T45quLJvpIslHjhe5+n9leKxeLTB135C52DOmigwbhkOk6a4yx4NzeClj7VylbsbofRIBuz6sjNFcKICjQGuNLN5Rd1ZZGmzEpVUUG2A7WkbTP/ktNQTK+Ldj90t6HY9pyi2bRBejU5JsV9Ef+RkmdsF8MBHfkWeN9j+OXTHA8bNmQiH2s0hr3xmBi9LP2ysvIjvMdLKVZjqfAaXMObCgQrJxnk3YfdMLLB71L8hW0uGz+wyEXU03OfkgxyYG9WWAexNe35ovFUsA6icIGMxlfSGLUwhiWeGmnLsp6xRTrI/nT4NvH1eR4vShle8HMAVmboOKFEcIAzq4AsyQyuZVmhv0ddy97l6xY0HedvjL4dkrzVVECkh36gQNVySJ09+sEOa48M/0hm2SlfmKXRbhmWdbtVJo1cRmL9jpTJSeEoTrPk8T1tG+GZKyDj5Bzhmzp/4CQ9bw4wZtTrxhk0FINa6D0N8sZeBwl0YTvdp/SKMsGsDxkQWFHaEF+CJbA==;RQc7212eOeqaYa7oRw6j+w=="
 ---

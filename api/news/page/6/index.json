@@ -2,6 +2,281 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-27-how-to-make-it-easier-to-implement-ai-in-your-business.md",
+      "title": "How To Make It Easier To Implement AI In Your Business",
+      "excerpt": "AI continuously proves to be an asset for businesses and has been revolutionizing the way they operate. It goes a long way in helping to cut operational costs, automate and simplify business processes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628e43a297056cd9dc21d426/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/",
+      "publishedDateTime": "2022-05-27T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud.md",
+      "title": "From weeks to hours: How AI slashes the time to optimize in the cloud",
+      "excerpt": "Cloud is not a one-and-done thing - it's a journey. That's where AI and ML come in, to truly deliver on the promise of the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/",
+      "originalUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-646867384.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/amp/",
+      "publishedDateTime": "2022-05-27T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-lessons-learned-about-ai-from-a-healthcare-technology-startup-leader.md",
+      "title": "Lessons Learned About AI From A Healthcare Technology Startup Leader",
+      "excerpt": "So far, my personal crash course has made healthcare’s massive size and complexity even more apparent, and it occurred to me that others can benefit if I write about my learnings and observations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628ce443a25ac26736ea9402/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
+      "publishedDateTime": "2022-05-27T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company.md",
+      "title": "Biography: Meet Zimbabwe’s Serial Entrepreneur William Sachiti Who Owns UK’s First Black-Owned Driverless Car Company",
+      "excerpt": "From creating digital advertising bins to driverless cars, the serial inventor is not ... In 2015 Sachiti enrolled at Aberystwyth University in Wales, where he studied artificial intelligence and robotics. He kept fledging and flourishing at the university ...",
+      "sourceUrl": null,
+      "webUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
+      "originalUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cy4ad5.c2.acecdn.net/wp-content/uploads/2022/05/william-sachiti-1.jpg",
+          "width": 1200,
+          "height": 846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
+      "cdnAmpWebUrl": "https://iharare-com.cdn.ampproject.org/c/s/iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
+      "publishedDateTime": "2022-05-27T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iHarare News",
+        "domain": "iharare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to-grow-at.md",
+      "title": "Artificial Intelligence in Marketing Market to grow at",
+      "excerpt": "Artificial intelligence in marketing market report offers a comprehensive analysis by Deployment (On-premise and Cloud) and Geography (North America, APAC, Europe, Middle East, and Africa, and South America) NEW YORK,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-marketing-market-grow-a-cagr-2684-/2022/05/27/9610662.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-marketing-market-grow-a-cagr-2684-/2022/05/27/9610662.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to.md",
+      "title": "Artificial Intelligence in Marketing Market to...",
+      "excerpt": "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27435408",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408",
+      "publishedDateTime": "2022-05-27T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
       "title": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
       "excerpt": "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake.",
@@ -853,272 +1128,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-microsoft-build-conference-heralds-era-of-ai-assisted-software-development.md",
-      "title": "Microsoft Build Conference Heralds Era of AI-Assisted Software Development",
-      "excerpt": "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1",
-      "originalUrl": "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-northwestern-engineers-invent-worlds-smallest-remote-controlled-walking-robots.md",
-      "title": "Northwestern engineers invent world's smallest remote-controlled walking robots",
-      "excerpt": "Engineers at Northwestern University have invented the world's smallest remote-controlled walking robots. Each one is about half a millimeter wide, not even as thick as a penny. The students designed robots that looked like crabs and other animals.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/northwestern-university-robots-robot-worlds-smallest/11896519/",
-      "originalUrl": "https://abc7chicago.com/northwestern-university-robots-robot-worlds-smallest/11896519/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11896776_052622-wls-cnn-nu-mini-robots-7avo-vid.jpg?w=1600",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot.md",
-      "title": "Responsible AI Institute and Standards Council of Canada Launch First Artificial Intelligence Certification Pilot",
-      "excerpt": "Responsible AI Institute (RAII), the leading non-profit dedicated to independent AI assessments and certification, today announced its partnership with the Standards Council of Canada (SCC) in a first-of-its-kind pilot to determine requirements for the development of a conformity assessment program for AI management systems.",
-      "sourceUrl": null,
-      "webUrl": "https://kfor.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/",
-      "originalUrl": "https://kfor.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oklahoma's News",
-        "domain": "kfor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-researchers-build-worlds-smallest-remote-controlled-walking-robot.md",
-      "title": "Researchers build world's smallest remote-controlled walking robot",
-      "excerpt": "The tiny bot is able to walk, crawl, bend, twist and even jump. According to lead researcher Yonggang Huang, it can walk at an average speed",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "originalUrl": "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-26-image-17.jpg",
-          "width": 2388,
-          "height": 1624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "publishedDateTime": "2022-05-26T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says.md",
-      "title": "AI less about ‘killer robots,’ more about Pentagon transformation, Groen says",
-      "excerpt": "Implementation in the department, of course, is always a challenge,” the director said, “as new technology meets legacy processes, legacy organizations and legacy technology.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/ONcq6SIv1d1nvIPTPhqzHchK3Z0=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QJ6RVWDRVZGCRIYT4HX4ZLAZY4.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity.md",
-      "title": "Ethical AI Development: A Moral Responsibility And A Commercial Necessity",
-      "excerpt": "The full potential of AI will only be unleashed when its human inputs are truly valued and properly nurtured believes Shoma Kimura, Senior Director of AI Services for TaskUs. Amid the high-tech excitement and ever-rising expectations surrounding it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
-      "originalUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6286108612fba45d9fab7b9e/0x0.jpg?format=jpg&width=1200",
-          "width": 904,
-          "height": 732,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
-      "publishedDateTime": "2022-05-26T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

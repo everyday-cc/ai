@@ -7,7 +7,7 @@ originalUrl: "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverles
 webUrl: "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines"
 type: article
 quality: 54
-heat: 94
+heat: 74
 published: true
 
 provider:
@@ -50,29 +50,6 @@ related:
       name: Motor Authority
       domain: motorauthority.com
     quality: 33
-  - title: "Dubai to focus on self-driving buses as it pushes for more driverless journeys"
-    excerpt: "The Dubai government is keen on submissions for self-driving buses for its upcoming world challenge competition Dubai to focus on self-driving buses as it pushes for more driverless journeys Autonomous vehicles,"
-    publishedDateTime: 2022-06-04T09:31:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/dubai-to-focus-on-self-driving-buses-as-it-pushes-for-more-driverless-journeys"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 30
-  - title: "Argo AI is currently testing driverless cars in Florida and Texas, a major step for the Ford and Volkswagen-backed company."
-    excerpt: "Driverless cars driving in Texas and Florida. The news comes after a period of stabilization in the automotive industry, leaving only a handful of well-funded"
-    publishedDateTime: 2022-05-31T08:23:00Z
-    webUrl: "https://www.tracednews.com/argo-ai-is-currently-testing-driverless-cars-in-florida-and-texas-a-major-step-for-the-ford-and-volkswagen-backed-company/"
-    type: article
-    provider:
-      name: tracednews
-      domain: tracednews.com
-    quality: 28
-    images:
-      - url: "https://www.tracednews.com/wp-content/uploads/2021/08/Waymo-already-offers-free-robotaxi-rides-in-San-Francisco-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "XCF/wh2NyrZIZmwSnyp41wl58Cs/LdCG3aLS0yb3imMqD+uIzpHMGECf+A1LrYh7AmRB9IqoWa6szslR02s6wjIFRNZUr+WI2u5lX786sQKb7aThCxI1UnyYaDEyuIfCFFxawu3DCUiNa22I9LT3ZylWj92rh7JIQHVTj7fNQ6wmMvjwZrMVwOnZcn0I6ibF79ITzKH4eWd8VFTo+cw9id9I/pZbzRt3qPFfG8maKbpAkiAw/xz8OmjYANvNif/RfcbihNqwXNEMjB3/sZ/UD49FeCRmIb/LZpFJwlbfFPn+UvXAMLct743StgaVY2+OEZv6HEq12apJhD/F/8tVKeUNMg9OE7eBHGCvpDA7gj0uMt7WdnypyE39DzV8Yk6jz548vJlrqfApqIslnwDWi5Ntk1AC32FMxDHM/jFKmvnSKHAxvYu5r96PzJ/JZKFe02q8oQm96Z6eqRuWDrSPxldmowSaA9cFCFDVzu53ywlgjXYpnUMhm3hZYGwrMzDLNlIrpWNyfOHIzF8MvUCCJw==;L6z9wikhzyd3pawltR72cg=="
 ---

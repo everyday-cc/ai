@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Inventions by artificial intelligence are pushing patent laws to breaking point"
+    excerpt: "One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence in Arthur C Clarke’s classic 2001: A Space Odyssey. Halicin works differently from existing antibiotics,"
+    publishedDateTime: 2022-06-04T14:00:00Z
+    webUrl: "https://scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
+    ampWebUrl: "https://amp.scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 53
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/169699-bobiihxzuk-1643974563.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
     excerpt: "SAN FRANCISCO, June 1, 2022 /PRNewswire/ -- Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians and clinical documentation improvement (CDI ..."
     publishedDateTime: 2022-06-01T16:29:00Z

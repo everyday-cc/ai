@@ -33,6 +33,22 @@ related:
         width: 1800
         height: 1011
         isCached: true
+  - title: "AI Fintech TIFIN Announces Launch of Magnifi+ to “Stream” Investing Insights"
+    excerpt: "TIFIN, a Fintech platform using artificial intelligence and \"investment-driven\" personalization, announced the launch of their Magnifi+ platform."
+    publishedDateTime: 2022-06-04T15:37:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 56
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Find-Search-Money-Seek-Look-Binoculars.jpeg"
+        width: 1280
+        height: 994
+        isCached: true
   - title: "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements"
     excerpt: "With this new partnership, Identifee will embed Photon Commerce’s natural language AI API into its platform, allowing financial services organizations to create client specific"
     publishedDateTime: 2022-06-01T05:54:00Z
@@ -48,22 +64,6 @@ related:
       - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
-        isCached: true
-  - title: "Behind the Scenes: How Machine Learning is Driving Fintech Data Reporting Beyond Old Boundaries"
-    excerpt: "By Aaron Holmes, CEO and Founder of Kani Payments From retail to banking, the current process of rapid digitalisation is also having a big impact on the fintech and payments companies who support and process the skyrocketing data volumes it produces."
-    publishedDateTime: 2022-05-30T21:06:00Z
-    webUrl: "https://www.globalbankingandfinance.com/behind-the-scenes-how-machine-learning-is-driving-fintech-data-reporting-beyond-old-boundaries/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/behind-the-scenes-how-machine-learning-is-driving-fintech-data-reporting-beyond-old-boundaries/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/behind-the-scenes-how-machine-learning-is-driving-fintech-data-reporting-beyond-old-boundaries/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 49
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/05/iStock-1003133262.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "The CFPB doesn’t want to play in the fintech sandbox anymore"
     excerpt: "Leaders at the regulator have concluded that a much-hyped “compliance assistance sandbox” and related programs were ineffective."

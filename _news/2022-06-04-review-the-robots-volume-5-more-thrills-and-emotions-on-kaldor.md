@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T12:00:00Z
 originalUrl: "https://www.blogtorwho.com/review-the-robots-volume-5-more-thrills-and-emotions-on-kaldor/"
 webUrl: "https://www.blogtorwho.com/review-the-robots-volume-5-more-thrills-and-emotions-on-kaldor/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Doctor

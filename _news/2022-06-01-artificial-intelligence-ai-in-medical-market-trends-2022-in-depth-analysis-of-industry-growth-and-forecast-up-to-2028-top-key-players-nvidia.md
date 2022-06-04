@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI in Social Media Market Demand Analysis and Projected huge Growth by 2027"
-    excerpt: "AI in Social Media Market – Global Outlook and Forecast 2021-2027 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support."
-    publishedDateTime: 2022-05-30T20:48:00Z
-    webUrl: "https://xaralite.com/345473/business/ai-in-social-media-market-demand-analysis-and-projected-huge-growth-by-2027/"
-    type: article
-    provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 17
   - title: "Call Center AI Market 2022 Key Players, End User, Demand and Consumption by 2032"
     excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
     publishedDateTime: 2022-06-03T07:04:00Z

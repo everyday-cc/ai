@@ -39,40 +39,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Kiya.ai launches Banking Metaverse – Kiyaverse"
-    excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor? Well, the day is not far when you will be"
-    publishedDateTime: 2022-06-03T07:12:00Z
-    webUrl: "https://www.thehansindia.com/business/kiyaai-launches-banking-metaverse-kiyaverse-746599"
-    ampWebUrl: "https://www.thehansindia.com/amp/business/kiyaai-launches-banking-metaverse-kiyaverse-746599"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/kiyaai-launches-banking-metaverse-kiyaverse-746599"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
-    images:
-      - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540906-kiyaai.jpg"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "Data Privacy In The World Of Quantum, 5G, AI And The Metaverse"
-    excerpt: "G is inevitable, and it will usher in a new era of data access, connectivity and services. AI has already advanced in leaps and bounds during the 2010s, with quantum poised to fo"
-    publishedDateTime: 2022-06-01T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/01/data-privacy-in-the-world-of-quantum-5g-ai-and-the-metaverse/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Kiya.ai launches India’s first-ever Banking Metaverse-Kiyaverse"
-    excerpt: "Kiya.ai, a digital solutions providers serving financial institutions and governments globally, today announced the launch of India’s first-ever Banking Metaverse – Kiyaverse. Kiyaverse pioneers use cases of merging real-world banking with Metaverse banking through an avatar (virtual humanoid) based interactions,"
-    publishedDateTime: 2022-06-02T13:25:00Z
-    webUrl: "https://www.freepressjournal.in/technology/kiyaai-launches-indias-first-ever-banking-metaverse-kiyaverse"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 17
 
 secured: "kKucFDkBE4AiYwPI+xxijLWEmWE/XWD3PyJIPvhKFLp7UkeQTehaXr2qLv+0sBrDHvUDGRnFAv+SOPHbERVmJkzmmJdWsQLyuDQs95w4Tv7oXZ4fZKtz/CLDHiLPMZViC6eGfLfK4J0DaY7YZWP+m18EOitqxU6vu3PwgEhwZlTkS7pMswhP95ZCTOndL/Ub9dzj8KvU9hCRBJgqkWDgAyLfdHx0Ut0ycdok6JU69Qf7Qwl6WlspZe0SIsWYp24CBs/qe0dc5QM6NN1Pt1pbq5Nu7pnEqACMdMicYfjPvl+NZAPnXIkB2nq7V9Py/8AxR6vhqDHwyApHG/AfztVvMjeLf29AOO3Lg19DEDImHgc=;US//2UfRdeaEjLi8H5F9iQ=="
 ---

@@ -50,29 +50,6 @@ related:
       name: Motor Authority
       domain: motorauthority.com
     quality: 33
-  - title: "Dubai to focus on self-driving buses as it pushes for more driverless journeys"
-    excerpt: "The Dubai government is keen on submissions for self-driving buses for its upcoming world challenge competition Dubai to focus on self-driving buses as it pushes for more driverless journeys Autonomous vehicles,"
-    publishedDateTime: 2022-06-04T09:31:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/dubai-to-focus-on-self-driving-buses-as-it-pushes-for-more-driverless-journeys"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 30
-  - title: "Argo AI is currently testing driverless cars in Florida and Texas, a major step for the Ford and Volkswagen-backed company."
-    excerpt: "Driverless cars driving in Texas and Florida. The news comes after a period of stabilization in the automotive industry, leaving only a handful of well-funded"
-    publishedDateTime: 2022-05-31T08:23:00Z
-    webUrl: "https://www.tracednews.com/argo-ai-is-currently-testing-driverless-cars-in-florida-and-texas-a-major-step-for-the-ford-and-volkswagen-backed-company/"
-    type: article
-    provider:
-      name: tracednews
-      domain: tracednews.com
-    quality: 28
-    images:
-      - url: "https://www.tracednews.com/wp-content/uploads/2021/08/Waymo-already-offers-free-robotaxi-rides-in-San-Francisco-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "6ZQcdeaRgmjeVU2O2pehUsCpRYufZfSZj02SqjtfeojwMS6jzEzg0xydl41mjheT6WKfryvs2X3Qwjf9tqSPGDQVBaWztC2Rjp7hkjik0XOKfJ0JpjoaNskH7XzVI/HiEx07jlfTWuYdhM5lMfsClDK/Xm+feWxNRt/FDw2GnouZSjHKHLUS3jYVMz5Tj5Zuay1zneS9tEaVmFM6Dtcq7bIo9lu3HuP/ZpPwiI5a3I9RfzlazyUyIDwUPanJHCGKVRbeHjsS/TPkOVqe4LtSgcGXuH70lpw1ktJT1jXqImC6PWZAGUy04ypIqdIWsjQiCGf64gqEHy40PSe2meRYgYI2U4xVHw5CmztioMKvk1BwC6gQDGiKCCrX6s5gc2BuJuXtqw2e/u21IedPR/59S9iAvGDU5bgz9IwKwqRf/l8Q4bMdpZQ/RaxQMabmbgYmn0YSFrmmWqtXXbuV2QqOHqGSw+A1D8HOVRI01V0502ks+DLa4oCmKycPgsioZkQ7i2oqzP+TFss5gyr2f9oM6A==;kHl3cpy7mVvqiplwl2Bg8w=="
 ---

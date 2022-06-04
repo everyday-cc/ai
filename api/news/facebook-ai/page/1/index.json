@@ -143,6 +143,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-01-standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research.md",
+      "title": "Standigm Signs MOU with Merck Korea for AI drug Discovery Research",
+      "excerpt": "Merck's retrosynthesis AI software SYNTHIA™ accelerates Standigm's synthesis capabilitySEOUL, South Korea, June 1, 2022 /PRNewswire/ --",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031501848",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031501848",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1829180/1.jpg",
+          "width": 400,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-tension-inside-google-over-a-fired-ai-researchers-conduct.md",
       "title": "Tension Inside Google Over a Fired AI Researcher’s Conduct",
       "excerpt": "Google has said that TPUs have enabled breakthroughs in its AI research and services, and rents out the chips through its cloud unit. Yet Chatterjee’s criticisms of Morpheus continued even after Google’s hardware leaders decided they trusted it enough ...",
@@ -1325,49 +1377,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-01-social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.md",
-      "title": "Social media AIs are a convenient scapegoat for the decline of democracy. But we should look deeper",
-      "excerpt": "When Facebook is faulted for election ... and supplant our system of government. But his research suggests that dictators who depend on AI tools for surveillance and suppression are sowing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/politics/political-opinion/2022/05/01/social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.html",
-      "originalUrl": "https://www.thestar.com/politics/political-opinion/2022/05/01/social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thestar.com/0L0DGK-vy4vTP7nEw_1f-MwpjQY=/1200x800/smart/filters:cb(1651502987847)/https://www.thestar.com/content/dam/thestar/politics/political-opinion/2022/05/01/social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper/facebook_like.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/politics/political-opinion/2022/05/01/social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/political-opinion/2022/05/01/social-media-ais-are-a-convenient-scapegoat-for-the-decline-of-democracy-but-we-should-look-deeper.html",
-      "publishedDateTime": "2022-05-01T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com",
         "images": null,
         "publishers": null,
         "authors": null

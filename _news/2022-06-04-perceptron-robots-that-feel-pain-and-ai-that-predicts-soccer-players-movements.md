@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T13:31:00Z
 originalUrl: "https://techcrunch.com/2022/06/04/perceptron-robots-that-feel-pain-and-ai-that-predicts-soccer-players-movements/"
 webUrl: "https://techcrunch.com/2022/06/04/perceptron-robots-that-feel-pain-and-ai-that-predicts-soccer-players-movements/"
 type: article
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: TechCrunch

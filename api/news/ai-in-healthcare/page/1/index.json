@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-02-hearing-aids-market-worth-102-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Hearing Aids Market worth $10.2 billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "According to the new market research report \"Hearing Aids Market by Product Type [Aids (Receiver,Behind the Ear, In the Canal, In the Ear Aids), Implants (Cochlear,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27517496/hearing-aids-market-worth-10-2-billion-by-2026-exclusive-report-by-marketsandmarkets",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27517496/hearing-aids-market-worth-10-2-billion-by-2026-exclusive-report-by-marketsandmarkets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.giphy.com/media/XBY7Yq06tXMCvqmUQF/giphy.gif?cid=790b7611cd3bb6ee13833409883d5c3006a5f21f51a83ce9&rid=giphy.gif&ct=g",
+          "width": 480,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27517496",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27517496",
+      "publishedDateTime": "2022-06-02T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-role-of-conversational-ai-in-healthcare-and-pharma-industry.md",
       "title": "Role of Conversational AI in Healthcare and Pharma industry",
       "excerpt": "Artificial intelligence (AI) techniques that allow machines to learn with minimal human supervision have emerged due to the exponential rise in comput..",
@@ -106,7 +149,7 @@
       "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -202,7 +245,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -1292,49 +1335,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-artificial-intelligence-can-offset-human-frailties-leading-to-better-decisions.md",
-      "title": "Artificial intelligence can offset human frailties, leading to better decisions",
-      "excerpt": "Modern life can be full of baffling encounters with artificial intelligence—think misunderstandings with customer service chatbots or algorithmically misplaced hair metal in your Spotify playlist. These AI systems can't effectively work with people because they have no idea that humans can behave in seemingly irrational ways,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-artificial-intelligence-offset-human-frailties.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-artificial-intelligence-offset-human-frailties.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-35.jpg",
-          "width": 567,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-artificial-intelligence-offset-human-frailties.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-artificial-intelligence-offset-human-frailties.amp",
-      "publishedDateTime": "2022-05-12T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

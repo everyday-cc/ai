@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Inventions by artificial intelligence are pushing patent laws to breaking point"
+    excerpt: "One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence in Arthur C Clarke’s classic 2001: A Space Odyssey. Halicin works differently from existing antibiotics,"
+    publishedDateTime: 2022-06-04T14:00:00Z
+    webUrl: "https://scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
+    ampWebUrl: "https://amp.scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 53
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/169699-bobiihxzuk-1643974563.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Google Cloud plans to bring more AI capabilities into the data center"
     excerpt: "Google Cloud on Thursday announced plans to update its Google Distributed Cloud Hosted portfolio, bringing a selection of AI, ML and database capabilities directly to customer data centers. The announcement comes just about eight months after the cloud ..."
     publishedDateTime: 2022-06-02T16:02:00Z

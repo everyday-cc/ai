@@ -51,15 +51,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 17
-  - title: "BigBear.ai (NYSE:BBAI) Rating Increased to Hold at Zacks Investment Research"
-    excerpt: "BigBear.ai (NYSE:BBAI – Get Rating) was upgraded by Zacks Investment Research from a “sell” rating to a “hold” rating in a research note issued to investors on Monday, Zacks.com reports. According to Zacks,"
-    publishedDateTime: 2022-05-30T21:08:00Z
-    webUrl: "https://www.defenseworld.net/2022/05/30/bigbear-ai-nysebbai-rating-increased-to-hold-at-zacks-investment-research-3.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 14
 
 secured: "Do3YhjzNRW3J6jtE1XSnklDuiNrasHnlT4eE8bftEdxIJ4Ym1R365QFNvr3Z2m7xPa2rPp4W8miu5bDKOqQuSZzoS+UArkCeLpJchn424MB7ByQOHaE2wtQ7O+dWNPH8Hp+W/wuO0KPg3+YhOBneq9qXgWetCi3X82nL/BlkJg5Eyd3qRdHvSAMjK/kZ8rxsTy5rgmmkN8y87/kfGPd0PoBfsotjKo7ldUyRe1cey2pG6m3vl95hyvb+ARMuEdNBr0pjOsgTo8Is4c7S4KZ7HKcNQY9cs/GMxyVK914ovHZ1MxydNTupY5/NcheshCUZgeXYTVpFc+jrxHlVL7+tpuuMtjGo5D8YSpmsoLjOknI=;m1fhfiCPZGIXzaaKpKGGgA=="
 ---

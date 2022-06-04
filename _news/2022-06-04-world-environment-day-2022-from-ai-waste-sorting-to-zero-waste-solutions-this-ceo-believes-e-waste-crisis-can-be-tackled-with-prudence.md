@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T12:43:00Z
 originalUrl: "https://economictimes.indiatimes.com/magazines/panache/world-environment-day-2022-from-ai-waste-sorting-to-zero-waste-solutions-this-ceo-believes-e-waste-crisis-can-be-tackled-with-prudence/articleshow/92006785.cms"
 webUrl: "https://economictimes.indiatimes.com/magazines/panache/world-environment-day-2022-from-ai-waste-sorting-to-zero-waste-solutions-this-ceo-believes-e-waste-crisis-can-be-tackled-with-prudence/articleshow/92006785.cms"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: India Times

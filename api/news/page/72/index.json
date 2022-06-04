@@ -2,6 +2,412 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2022-04-01-boston-dynamics-spot-is-being-tested-as-a-robotic-security-guard-protecting-the-remains-of-pompeii.md",
+      "title": "Boston Dynamics' Spot Is Being Tested as a Robotic Security Guard Protecting the Remains of Pompeii",
+      "excerpt": "Serving as a robotic security guard might feel like a dystopic use of the amazing technology powering Boston Dynamics’ Spot, but the robotic dog is actually well suited to protecting a historically significant area like Pompeii,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539",
+      "originalUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/f6a978c9f31ae8972ef8b84f56b07f90.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-dynamics-spot-is-protecting-the-remains-of-pompe-1848733539/amp",
+      "publishedDateTime": "2022-03-31T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-fast-internet-brings-tech-jobs-to-nairobis-poor-neighbourhoods.md",
+      "title": "Fast internet brings tech jobs to Nairobi's poor neighbourhoods",
+      "excerpt": "Companies often outsource work that underpins artificial intelligence to people who label roadside objects, or teach driverless cars to recognise their surroundings, distinguish between a smudge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/03/31/kenya-internet-poa",
+      "originalUrl": "https://www.euronews.com/next/2022/03/31/kenya-internet-poa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/wires/841/56/8415664/1000x563_jj5six.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-why-is-baidu-bidu-stock-down-today.md",
+      "title": "Why Is Baidu (BIDU) Stock Down Today?",
+      "excerpt": "Baidu operates the largest internet search engine in China, and in recent years, has become heavily involved in other technologies, including self-driving vehicles and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
+      "originalUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/08/bidu-stock.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/why-is-baidu-bidu-stock-down-today/amp/",
+      "publishedDateTime": "2022-03-31T15:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-times-technology-went-straight-up-evil.md",
+      "title": "Times Technology Went Straight Up Evil",
+      "excerpt": "Technology is meant to make our lives easier, and most of the time it does. But there have been instances when technology doesn't go as planned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
+      "originalUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/times-technology-went-straight-up-evil/l-intro-1648759618.jpg",
+          "width": 1600,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-better-learning-through-complex-dough-manipulation.md",
+      "title": "Better learning through ‘complex dough-manipulation’",
+      "excerpt": "A disproportionate number of the early industrial food-making robots we’ve seen have been focused on pizza. I’ve long posited that this is for two key reasons. First: People like pizza. We eat a lot of it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/",
+      "originalUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/MIT-DiffSkill-01-PRESS_0.jpeg?w=900",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/amp/",
+      "publishedDateTime": "2022-03-31T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-new-citi-field-entrance-option-facial-recognition.md",
+      "title": "New Citi Field entrance option: Facial recognition",
+      "excerpt": "Mets fans will have the option of registering for facial recognition technology to enter Citi Field in lieu of showing a mobile ticket.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "originalUrl": "https://www.newsday.com/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-ace.newsday.com/ace/c:YmI3NTJjODctOGI2ZS00:MTlhZTE0/preview/1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/sports/baseball/mets/facial-recognition-citi-field-nljqymcu",
+      "publishedDateTime": "2022-03-31T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-check-out-this-crazy-video-about-neural-tts.md",
+      "title": "Check Out This Crazy Video About Neural TTS",
+      "excerpt": "Deb Adeogba, the host, is senior program manager at Microsoft AI Cognitive Services. (Radio World contributor Dan Slentz shared this video with me. When he was director of engineering at KOB(TV) in Albuquerque, Adeogba was production manager; he saw her ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.radioworld.com/columns-and-views/from-the-editor/check-out-this-crazy-video-about-neural-tts",
+      "originalUrl": "https://www.radioworld.com/columns-and-views/from-the-editor/check-out-this-crazy-video-about-neural-tts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.radioworld.com/wp-content/uploads/2022/03/Microsoft.png",
+          "width": 1032,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Radio World",
+        "domain": "radioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-why-and-where-should-healthcare-companies-increase-ai-investments.md",
+      "title": "Why and Where Should Healthcare Companies Increase AI Investments",
+      "excerpt": "Although democratizing healthcare is no small task, the industry is ripe for big change and artificial intelligence and machine learning will be huge players in that transformation. In fact, the AI healthcare market is projected to hit a value of $39.5 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments",
+      "originalUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-and-where-should-healthcare-companies-increase-ai-investments?amp",
+      "publishedDateTime": "2022-03-31T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-31-intel-arc-a-gpu-offers-full-av1-hardware-acceleration.md",
+      "title": "Intel Arc-A GPU offers full AV1 hardware acceleration",
+      "excerpt": "Introduced as Intel’s solution for both gamers and content creators, the new Arc-A graphic products are, the company says, “more than another piece of hardware in your PC” they are “your portal to play and create” on PC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
+      "originalUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.provideocoalition.com/wp-content/uploads/intelarca000.jpg",
+          "width": 1420,
+          "height": 946,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
+      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/intel-arc-a-gpu-offers-full-av1-hardware-acceleration/amp/",
+      "publishedDateTime": "2022-03-31T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-metas-ai-luminary-lecun-explores-deep-learnings-energy-frontier.md",
       "title": "Meta's AI luminary LeCun explores deep learning's energy frontier",
       "excerpt": "Three decades ago, Yann LeCun, while at Bell Labs, formalized an approach to machine learning called convolutional neural networks that would prove to be profoundly productive in solving tasks such as image recognition. CNNs, as they're commonly known ...",
@@ -750,404 +1156,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-artificial-intelligence-expands-its-terrain-as-legislation-and-ethics-rules-try-to-catch-up.md",
-      "title": "Artificial intelligence expands its terrain as legislation and ethics rules try to catch up",
-      "excerpt": "Jack Clark (Courtesy James Cham) Adams: You also tracked how much research on AI ethics was published in academic journals, which, according to your report, has really jumped. What are people ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-expands-its-terrain-as-legislation-and-ethics-rules-try-to-catch-up/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-expands-its-terrain-as-legislation-and-ethics-rules-try-to-catch-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2022/03/GettyImages-588329502-e1648673323170.jpg?w=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-you-can-now-translate-to-from-isizulu-across-the-entire-microsoft-ecosystem.md",
-      "title": "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem",
-      "excerpt": "Image sourced from NS Energy. Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
-      "originalUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Microsoft--696x452.jpg",
-          "width": 696,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2022/03/microsoft-will-now-allows-translations-to-from-isizulu/",
-      "publishedDateTime": "2022-03-31T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-natural-language-processing-a-big-leap-in-conversing-with-the-human-mind.md",
-      "title": "Natural Language Processing: A Big Leap in Conversing with the Human Mind",
-      "excerpt": "Behind all these, there is a major Artificial Intelligence (AI) application called Natural Language Processing or NLP. We, humans, have always been fascinated by others who can talk like us ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-90556508,imgsize-33542,width-1200,height-628,overlay-etcio/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/natural-language-processing-a-big-leap-in-conversing-with-the-human-mind/90556508",
-      "publishedDateTime": "2022-03-31T01:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-are-we-ready-to-transform-lives-with-ai.md",
-      "title": "Are We Ready To Transform Lives With AI?",
-      "excerpt": "AI has paved the way for dynamic changes at the workplace and in personal life, by automating a host of processes and activities",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/423551",
-      "originalUrl": "https://www.entrepreneur.com/article/423551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1648708439-Myproject141.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-siri-cant-speak-irish-tackling-the-digital-gaps-for-the-irish-language.md",
-      "title": "Siri can't speak Irish: Tackling the digital gaps for the Irish language",
-      "excerpt": "“This type of language AI doesn’t exist for Irish,” she continues ... For example, machine translation systems need to have first seen huge amounts of previously translated text that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/",
-      "originalUrl": "https://www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.thejournal.ie/article/5725794/listing/?width=600&version=5725876",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/?amp=1",
-      "cdnAmpWebUrl": "https://www-thejournal-ie.cdn.ampproject.org/c/s/www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/?amp=1",
-      "publishedDateTime": "2022-03-30T22:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheJournal.ie",
-        "domain": "thejournal.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises.md",
-      "title": "Google Using AI To Improve Search Results For Those Experiencing Personal Crises",
-      "excerpt": "Google is rolling out improvements to its search engine that will provide more reliable, trustworthy and actionable information for users experiencing personal crises, such as suicidal thoughts, sexual assault,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624519d473a84b78766f0b1b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/03/30/google-using-ai-to-improve-search-results-for-those-experiencing-personal-crises/amp/",
-      "publishedDateTime": "2022-03-30T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-estee-lauder.md",
-      "title": "AI Visionary, Leader And 21st Century Maverick Sol Rashidi Of Estée Lauder",
-      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Sol Rashidi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6244fcbb6b9172a70d31a3b8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/03/30/ai-visionary-leader-and-21st-century-maverick-sol-rashidi-of-este-lauder/amp/",
-      "publishedDateTime": "2022-03-30T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymo-expanding-self-driving-car-operations-to-downtown-phoenix.md",
-      "title": "Waymo expanding self-driving car operations to Downtown Phoenix",
-      "excerpt": "On March 30, officials with Waymo announce they are expanding their self-driving car operations in Phoenix, years after they began self-driving car operations in a part of the East Valley. FOX 10's Linda Williams reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox10phoenix.com/video/1052039",
-      "originalUrl": "https://www.fox10phoenix.com/video/1052039",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox10phoenix.com/video/1052039.amp",
-      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/video/1052039.amp",
-      "publishedDateTime": "2022-03-30T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 10 Phoenix",
-        "domain": "fox10phoenix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-chinas-baidu-exploring-options-after-us-delisting-risk.md",
-      "title": "China's Baidu exploring options after U.S. delisting risk",
-      "excerpt": "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator’s list of companies that face the risk of being delisted.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "originalUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/business-pmn/chinas-baidu-exploring-options-after-u-s-delisting-risk/wcm/fef6e639-ad92-4afe-ac2c-bd38cd525298/amp/",
-      "publishedDateTime": "2022-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

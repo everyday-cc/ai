@@ -19,20 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "Unlock Lambton self-driving tour back on the road"
-    excerpt: "TSL is re-launching the Unlock Lambton Self-Driving Tour on June 4 in celebration of National Tourism Week. The event will feature 20 different sites and attractions from Grand Bend to Petrolia to St."
-    publishedDateTime: 2022-06-03T16:21:00Z
-    webUrl: "https://blackburnnews.com/sarnia/sarnia-news/2022/06/03/unlock-lambton-self-driving-tour-back-road/"
+  - title: "AI Ethics And The Perplexing Societal And Legal Role Of AI Activism, Including In The Case Of Autonomous Self-Driving Cars"
+    excerpt: "AI activism is on the rise, dovetailing into the AI Ethics movement, so it is worthy to take a close look at what AI activism is all about, including in the case of AI-based self-driving cars."
+    publishedDateTime: 2022-06-04T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
     type: article
     provider:
-      name: Blackburn News
-      domain: blackburnnews.com
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//6296a226bb1124449cbe2b9c/0x0.jpg?format=jpg&crop=2781,2160,x934,y0,safe&width=1200"
+        width: 1200
+        height: 932
+        isCached: true
+  - title: "Dubai to focus on self-driving buses as it pushes for more driverless journeys"
+    excerpt: "The Dubai government is keen on submissions for self-driving buses for its upcoming world challenge competition Dubai to focus on self-driving buses as it pushes for more driverless journeys Autonomous vehicles,"
+    publishedDateTime: 2022-06-04T09:31:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/dubai-to-focus-on-self-driving-buses-as-it-pushes-for-more-driverless-journeys"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 30
+  - title: "Self-Driving Cars And UGA Going Higher"
+    excerpt: "Oil prices have an increasing trend for 80-year. Only reduced demand can change the trend. Self-driving cars are a proven solution to reducing demand with Mobility As A Service (MAAS). U.S. Peak ..."
+    publishedDateTime: 2022-06-02T15:24:00Z
+    webUrl: "https://seekingalpha.com/article/4516013-self-driving-cars-and-uga-going-higher"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 24
     images:
-      - url: "https://blackburnnews.com/wp-content/uploads/2019/12/Petrolia-Discovery-Foundation-400x250.png"
-        width: 400
-        height: 250
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1318302966/image_1318302966.jpg?io=getty-c-w750"
+        width: 750
+        height: 562
         isCached: true
+  - title: "Students build, program self-driving vehicles for inaugural Autonomous Vehicle Racing competition"
+    excerpt: "Using newly acquired computer coding skills, Sacramento-area middle and high school students will test their designs and autonomously navigate model cars on racetracks in SMUD's inaugural Autonomo. ."
+    publishedDateTime: 2022-05-31T05:21:00Z
+    webUrl: "https://electricenergyonline.com/article/energy/category/ev-storage/143/963886/students-build-program-self-driving-vehicles-for-inaugural-autonomous-vehicle-racing-competition.html"
+    type: article
+    provider:
+      name: Electric Energy Online
+      domain: electricenergyonline.com
+    quality: 0
 
 secured: "RckXhcUal2rSmRuUSP1ZuorIIGndzyWm2AjFVHKKoSmRVPX06k63KdK6JuasfurRA7pvlX/kObI+qZVqaVcV/rNqNAN0jSCPsHfGFvzRrQOM7Z/7+WgsJoNiqIzEH20EAOjUzTrXTYu/e96cn2PhFkPH33yTI/fqtIQ5anNJZJjEFyUxyyj4mk+Ol4J4Ym4zyi4Odhr2IBGW6QR/R+MPftjTo0roIywsOdtPWj/2czcZ727idXqnykNa5CEv+fKfU5SUslbHCT3FYPJ+FDBjWFLQHRclaHUrPMDIh2Oggj9w+/pu6DxaWCVihktlClNnvEk4T5a4NcCWFdP7cJK6XiYjSHKgiN8LRUwwIBmeBRTk6ORavXteh8p32BQ33I7couspzgcRDuPO17Ii33AGYfmE0mMOvRfeIxT1zBNPQg1VeuNyMqJwrxNyFRvd8OGg0ffyZ1htJakMa8DjnwL/6gP3KjaAPEDhOoFNF+NmrRczeHyMjUC+cJVPQYr2YPkpfi68NX5xYfEiJOBJpj6Scw==;+6P2Cp/XAxpdpiI0guLovw=="
 ---

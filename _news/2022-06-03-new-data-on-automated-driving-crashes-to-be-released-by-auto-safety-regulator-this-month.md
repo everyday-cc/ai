@@ -37,20 +37,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-Driving Cars And UGA Going Higher"
-    excerpt: "Oil prices have an increasing trend for 80-year. Only reduced demand can change the trend. Self-driving cars are a proven solution to reducing demand with Mobility As A Service (MAAS). U.S. Peak ..."
-    publishedDateTime: 2022-06-02T15:24:00Z
-    webUrl: "https://seekingalpha.com/article/4516013-self-driving-cars-and-uga-going-higher"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1318302966/image_1318302966.jpg?io=getty-c-w750"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "O3jYsSpVpAVVnt2uX9+bTR1EHMGXw6KkYY2Oq/zGvCbSowuh0cPJdPtErsep9MBQ46FMC69jWGA4tZe0ON16hgI/BvG8FQH2KzeqfjawDLlcrYczoi9UjL9JDoIT7SQp9cjWowXhmm9mwb+nVAmkLawsuqR3BkFrk3eVRksPsEkxRV+0a+UPuqUI0wmbI9/L+kLZj/yRd3BpZKc6fvXdv4dFhLCq6QbYKNS8YCayd1QBOW7wxGZWkbKtp9Jn+M8bwge+5oHHH0eElXOj8/yNZbpz0HKKVaype00hNrYxTYwPDgGRqwdU3uvlqNQS97fbDrF62x6SSpM6RXzDBGfYyi8kEu2gHknYpgPLe61R6PTQhJvRqcCGlJvgmqkhcOur2XuV2elfrC93gmSPr0uuF5fHjxE0nrnbO0ZKUj7NQGTaNafWG12jK2is9YE7QerKXeOqMyFUpsbj/9MshgD5V9bZhItgQ+o8Lp4AgWQXrsVInQvu2/hlypKJCDD4v7sASz1a5EVrMGuW0fP3ypqa8w==;p/mUaQadbO42bQCE52udEg=="
 ---

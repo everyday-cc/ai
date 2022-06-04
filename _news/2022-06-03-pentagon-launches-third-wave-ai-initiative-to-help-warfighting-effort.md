@@ -23,6 +23,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "DARPA's '3rd Wave' AI Aims to Compute Uncertainty Along with Accuracy"
+    excerpt: "The Defense Advanced Research Projects Agency is formally soliciting contracts for its new AI Exploration program. The AIE will focus on what DARPA defines as its “third wave” of artificial intelligence research,"
+    publishedDateTime: 2022-06-04T12:00:00Z
+    webUrl: "https://www.defenseone.com/technology/2022/06/darpas-new-3rd-wave-ai-aims-compute-accuracyand-uncertainty/367741/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 17
+
 secured: "MT82vwnIlLXbJaMuztwtWEtPMCTXRpzrWcHisRRVCgMqt3av6go6LMs695NXrnn83oiH/9G2Pcc1CvpPnSgraJDKoyDY9FFf0OjH/X97fUQSoFC2J+NA8fdOikKiaYPNRdEFgWjFFGP+vx3f/iMHpjuYg08505kRryR8I/nF/8FfBhgNJKa18j3zlAuSC/0ouqrdYt4wu7k29svLSt8+WlXf5jg5wVj9yP97ZNJBlsDwKZJ673RPf3lONJuhprJQ23tvxwHZTMDChqWRodYKIF43mkALbCBWb82t8EwG5fVrx5tp46QaBw0qs9xIFV8laT9594FRoXNjEPQt98HPdP0FI6f9P5H8yXGuGCSd9m/mZC51oWFKNC3b12MEqKchIi8EhYgAenDaVI1LOw1+zKGWoj2ZZauGiJ/gLt5rzeAWxBWSB5QR2R9sbXbc9wLAoQp6wsLRsk6hc4b1YcqFfmKfVclmruv+xFh2QvuyJfUUadIEoITwb27nK5xhCpVw3kkGHlx3jBFOQDC5tkHmsg==;FWZ8rB7s1D6q6ugKMseFLA=="
 ---
 

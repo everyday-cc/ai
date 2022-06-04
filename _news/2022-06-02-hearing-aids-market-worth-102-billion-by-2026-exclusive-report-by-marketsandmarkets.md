@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27517496"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27517496"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Benzinga.com
@@ -41,6 +41,15 @@ related:
         width: 400
         height: 249
         isCached: true
+  - title: "Lending and Payments Global Market Report 2022: Artificial Intelligence is Gaining Prominence - ResearchAndMarkets.com"
+    excerpt: "The “Lending And Payments Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global lending and payments market is expected to grow from $7,833.28 billion in 2021 to $8,"
+    publishedDateTime: 2022-06-03T13:42:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-china-artificial-intelligence-fd0df3fbf4c54237be40507fc9c8d63c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
 
 secured: "uHGsvIuLMZySRdSXwUc/I+EeHl03CWeY03P+XOFcb6OFWlmOzgr8R963huCwP3j5TIMR++XZTrimYSEfIpAMHKzEH9MUx5e7PN3KBar0sM6fYfrpWk91sRSTaa0EfccKghITZW8jDvUkv5X1rqgJ7OmNLCjtiAoQRRibhayoOJJpY2uB3sdavDXq7hpPhnmnmTlJSTwDQekCoWA4f0rWaSwYwRRnKv8P49cnxXTmgmXftU4rmNkdOnY3tuFvmVkZqJeayxFJdVhqP4OcBXLrlb4ob3kZiVE/biN88c2X/t5gehXJ64gp1BIDrj/mI+qgAXewtzawq0ESKpjAjQ1tWTILj2l+EL16Fbv3+4Y8fok=;Su8n902H5eOTlSUhX++dRw=="
 ---
