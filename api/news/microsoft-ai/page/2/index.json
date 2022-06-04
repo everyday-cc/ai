@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-14-lawyer-says-georgia-man-set-for-execution-should-be-spared.md",
+      "title": "Lawyer says Georgia man set for execution should be spared",
+      "excerpt": "ATLANTA (AP) — The life of a Georgia man set to be executed Tuesday for killing an 8-year-old girl should be spared, his lawyer argues, explaining that her client has significant cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations.md",
       "title": "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations",
       "excerpt": "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ...",
@@ -1275,49 +1309,6 @@
         "AI",
         "AI in Robotics",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-petuum-unveils-enterprise-mlops-platform.md",
-      "title": "Petuum Unveils Enterprise MLOps Platform",
-      "excerpt": "Tong Wen is an Architect and Director of Engineering at Petuum. Tong joined Petuum from Microsoft where he was a member of the founding team of Azure Machine Learning. Tong has 10+ years of experience in building innovative and high-impact AI/ML and HPC ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-04T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

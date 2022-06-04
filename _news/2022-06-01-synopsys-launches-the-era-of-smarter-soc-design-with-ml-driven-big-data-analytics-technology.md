@@ -106,6 +106,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Top 8 predictive analytics tools compared"
+    excerpt: "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot."
+    publishedDateTime: 2022-06-01T09:46:00Z
+    webUrl: "https://www.arnnet.com.au/article/698085/top-8-predictive-analytics-tools-compared/?fp=2&fpid=2"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/prediction_predict-the-future_crystal-ball_hand-holding-crystal-ball_by-arthur-ogleznev-via-unsplash-100811997-orig-100927909-orig.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
   - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
     excerpt: "Corelight, the leader in open network detection and response (NDR), announced Corelight Investigator, a SaaS-based solution that extends the power of open-source driven network evidence to SOC teams everywhere."
     publishedDateTime: 2022-06-01T03:29:00Z

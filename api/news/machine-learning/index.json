@@ -378,6 +378,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-30-i-tried-googles-text-to-image-ai-and-i-was-shocked-by-the-results.md",
+      "title": "I tried Google's text-to-image AI, and I was shocked by the results",
+      "excerpt": "Text-to-image artificial intelligence programs aren’t anything new. Indeed, existing neural networks like DALL-E have impressed us with their ability to generate simple, photorealistic images ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/i-tried-googles-text-to-image-ai-and-was-shocked-by-the-results",
+      "originalUrl": "https://www.techradar.com/news/i-tried-googles-text-to-image-ai-and-was-shocked-by-the-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uFKwu2BZZ5mhKVe5YmpbDS-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-29T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-microsofts-new-execs-helping-win-at-azure-ai-devices.md",
       "title": "Microsoft’s new execs helping win at Azure, AI, devices",
       "excerpt": "Marco Casalaina, Ajith Thekadath and Ashley Hart are just some of the new faces at the tech giant as it invests to accelerate its market position in cloud, artificial intelligence, devices and other areas,",
@@ -704,10 +756,10 @@
     {
       "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
       "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
-      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ...",
+      "excerpt": "Artificial intelligence (AI ... with their revolutionary study where they trained a deep convolutional neural network (CNN) to classify 1.2 million high-resolution images in the ImageNet LSVRC ...",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -724,9 +776,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "publishedDateTime": "2022-05-25T15:05:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T13:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -791,24 +843,33 @@
     {
       "path": "_news/2022-05-25-contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b-decision-makers.md",
       "title": "CONTENTGINE EMPLOYS ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TO ANALYZE MOST POPULAR AI CONTENT AMONG B2B DECISION MAKERS",
-      "excerpt": "Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by its Content Indication Platform (CIP).",
+      "excerpt": "RENO, Nev., May 25, 2022 /PRNewswire/ -- Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-contentgine-employs-artificial-intelligence-machine-learning-analyze-most-/2022/05/25/9609252.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-contentgine-employs-artificial-intelligence-machine-learning-analyze-most-/2022/05/25/9609252.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T06:14:00-07:00",
+      "publishedDateTime": "2022-05-25T06:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -818,6 +879,7 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI",
         "Machine Learning"
       ]
@@ -1040,49 +1102,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-25-study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging.md",
-      "title": "Study shows AI deep learning models can detect race in medical imaging",
-      "excerpt": "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
-      "originalUrl": "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/aeccbfd/2147483647/strip/true/crop/3253x1830+13+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F96%2Febe196d94b7d93668a2f406ee2ff%2Fstudy-shows-artificial-intelligence-deep-learning-models-can-detect-race-in-medical-imaging.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
-      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
-      "publishedDateTime": "2022-05-24T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7News and TheDenverChannel.com",
-        "domain": "thedenverchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-25-how-amalgamated-learning-could-scale-medical-ai.md",
       "title": "How amalgamated learning could scale medical AI",
       "excerpt": "A promising new AI and machine learning technique called amalgamated learning might help overcome these silos to find new cures for diseases, prevent fraud and improve industrial equipment. It may also provide a way to construct digital twins from inconsistent forms of data.",
@@ -1122,6 +1141,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging.md",
+      "title": "Study shows AI deep learning models can detect race in medical imaging",
+      "excerpt": "Most of us have experienced some form of medical imaging, whether it was at an eye appointment or after a broken bone. These images might contain more information than meets the eye. Things artificial intelligence can detect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
+      "originalUrl": "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/aeccbfd/2147483647/strip/true/crop/3253x1830+13+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F96%2Febe196d94b7d93668a2f406ee2ff%2Fstudy-shows-artificial-intelligence-deep-learning-models-can-detect-race-in-medical-imaging.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true",
+      "publishedDateTime": "2022-05-24T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSTU",
+        "domain": "fox13now.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1314,50 +1376,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-at-300-cagr-deep-learning-chip-market-is-emerging-with-us-2131-billion-by-2027.md",
-      "title": "At 30.0% CAGR, Deep Learning Chip Market is Emerging with US$ 21.31 Billion by 2027",
-      "excerpt": "The Global Deep Learning Chip Market 2021 Research Report is a professional and in-depth study on the current state of Deep Learning Chip Market. With the",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

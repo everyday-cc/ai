@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-02-04-interview-with-alice-wong-founder-and-principal-data-scientist-hyperplane-consulting.md",
+      "title": "Interview with Alice Wong, Founder and Principal data scientist, Hyperplane Consulting",
+      "excerpt": "A good data scientist has some traits that set them apart from others. As per Wong, some of these traits are: One who cannot be replaced by AutoML. What this means is that even if they use AutoML, they should be able to piece together different solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/interview-with-alice-wong-founder-and-principal-data-scientist-hyperplane-consulting/",
+      "originalUrl": "https://analyticsindiamag.com/interview-with-alice-wong-founder-and-principal-data-scientist-hyperplane-consulting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/alice-wong.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T23:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
       "title": "Neuroscientists use deep learning model to simulate brain topography",
       "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
@@ -1353,49 +1396,6 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-studying-the-big-bang-with-artificial-intelligence.md",
-      "title": "Studying the Big Bang With Artificial Intelligence",
-      "excerpt": "Immediately after the Big Bang, the entire universe was in this state; today it is produced by high-energy atomic nucleus collisions, for example at CERN. Such processes can only be studied using high-performance computers and highly complex computer simulations whose results are difficult to evaluate.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/big-bang-ai-19963/",
-      "originalUrl": "https://neurosciencenews.com/big-bang-ai-19963/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://neurosciencenews.com/files/2022/01/ai-big-bang-neurosinces.jpg",
-          "width": 770,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://neurosciencenews.com/big-bang-ai-19963/amp/",
-      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/big-bang-ai-19963/amp/",
-      "publishedDateTime": "2022-01-25T13:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
         "images": null,
         "publishers": null,
         "authors": null

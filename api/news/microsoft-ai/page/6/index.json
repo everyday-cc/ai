@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-25-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation.md",
+      "title": "Newgen Utilizes Microsoft Azure Applied AI Services for Enhanced Automation",
+      "excerpt": "Newgen Software, a global provider of low code digital transformation platform, is pleased to announce integration with Microsoft Azure Applied AI Services for enhanced automation, and support for Azure Form Recognizer for intelligent document processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciodive.com/press-release/20220324-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation/",
+      "originalUrl": "https://www.ciodive.com/press-release/20220324-newgen-utilizes-microsoft-azure-applied-ai-services-for-enhanced-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1648161116/press_release/assets/company_logos/Logo_square_ffrue0.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Dive",
+        "domain": "ciodive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-5-instructional-design-software-to-create-incredible-content.md",
       "title": "5 Instructional Design Software To Create Incredible Content",
       "excerpt": "The memories of online classes that were immersive and appealing both in outlook and delivery would forever be cemented in the subconscious of the user as their cognitive abilities ... Also, it easily integrates with Microsoft PowerPoint.",
@@ -1358,49 +1401,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-techforceai-raises-15-million-seed-funding.md",
-      "title": "Techforce.ai Raises $1.5 Million Seed Funding",
-      "excerpt": "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

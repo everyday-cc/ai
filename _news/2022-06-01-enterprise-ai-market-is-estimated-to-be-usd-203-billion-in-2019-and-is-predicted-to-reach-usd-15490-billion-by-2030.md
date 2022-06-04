@@ -32,15 +32,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "At 20.80% CAGR, Heart Pump Device Market Size is Expected to Reach USD 6162.34 Bn by 2028 - Exclusive Report by Zion Market Research"
-    excerpt: "As per Zion Market Research study, The global Heart Pump Device market was worth around USD 1983.10 billion in 2021 and is estimated"
-    publishedDateTime: 2022-05-30T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/at-20-80-cagr-heart-pump-device-market-size-is-expected-to-reach-usd-6162/article_8e7207e9-96fd-5b79-8590-e6dec5ce0b0b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "eT4OqiUwlSWgAZyguHipGlzgN24Ai+04DYR8HLj7ceLXHCIDF72ZJJ9RYzpXCQJFhpEuetiF1ne6dVpwt1rpaUvt6Yx9o7k+uM96ESxIpYa56ZHYS9DklkuEkiE2tU3JbbQ/qFwwEK8hKjo/iZ664JCbFUrE65+HihcxZkwo7HVfNq1M0fgGAWeEDw2leCNSJ3zZW+2L1GqwG0QbI1dMYHMZtyaWBFG3b59aeDSgoBlXhfRFiLhilvlOfcLJcPBZA9DbrcCwT0QhjjZE1JZPmmrjdfx65q0RKGaWjJHADnqFUmvgN/Oii/6kte8WdZapD9w0vKyqygJHYWZNayDtgdVXATCaTUsk1X7j1bf8pT6FPaY/02NUkBeEuIDGyp5OhGIGtDURyRSgZPUgb7YzOUMmE4aRxd3o2tGzCbnXEG0fnBK6Ef0j6zXmoHsmPJlxCLGG6sDxU6i1gwfmxZuI+15HzA5oYNiNrn4t+fwRHBpe3QNgv9hQZSchXNETbTGdZedS4R+Wz2cgVvNftkjyEA==;a4W04EyYwdotlapTkK7U8w=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Intel Rialto Bridge Accelerated AI and HPC processor introduced"
+    excerpt: "Intel has this week introduced its new next-generation AI and HPC datacentre GPU in the form of the Intel Rialto Bridge. The new chip was unveiled at the"
+    publishedDateTime: 2022-06-01T09:52:00Z
+    webUrl: "https://www.geeky-gadgets.com/intel-rialto-bridge-01-06-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/06/Intel-Rialto-Bridge.jpg"
+        width: 700
+        height: 421
+        isCached: true
 
 secured: "uiLficRJOssh3xkgzLyy+r7fXnwDFoJLuAJP40TOGE+TOpMEMLbRE07TklSiZLko6nN/ab82UhH2nsTNthgIdxAVXT8gLj+n3P0A81JcB8izr9XkKREtzrzbpMtnXsZZnqvnhXSEnOwxfI8PdE1HNbSMWbj2pVK4Z5aaY+wMGcek+a54MwRyLPtiIKs9CDWJjD9hSTWeKJikt+XNWQBbOtj1GivUVVUZKp4KbX3ebt0c6DrvZMBw77jGwyNDcnJbo+F5/VkmvfUFP78GFh0AJpGkRnyByqFvy92nSu5QIMY4QhQtCAQA+/7TKnOZ+tpuphmAb8ovbuKan0Spe/dh5pl6CXanHdjd1e0/n5/3V0w=;HEVnNQdN7KNS8H2OkXyXlQ=="
 ---

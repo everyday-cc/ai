@@ -2,6 +2,189 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
+      "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
+      "excerpt": "Artificial intelligence (AI ... with their revolutionary study where they trained a deep convolutional neural network (CNN) to classify 1.2 million high-resolution images in the ImageNet LSVRC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-despite-key-partnership-with-aws-meta-taps-up-microsoft-azure-for-ai-work.md",
+      "title": "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work",
+      "excerpt": "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
+      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg",
+          "width": 1000,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
+      "publishedDateTime": "2022-05-25T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-tech-leaders-say-facial-recognition-clampdown-will-spur-innovation.md",
+      "title": "Tech Leaders Say Facial-Recognition Clampdown Will Spur Innovation",
+      "excerpt": "A $10 million fine levied on Clearview AI by the U.K.’s data-privacy watchdog sets clearer ground rules for balancing software innovation with people’s right to privacy, experts say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
+      "originalUrl": "https://www.wsj.com/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-551294/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
+      "publishedDateTime": "2022-05-25T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-ethical-ai-a-challenge-for-security-applications.md",
+      "title": "Ethical AI – a challenge for security applications?",
+      "excerpt": "Recently, the movement for Ethical AI has been gaining steady momentum from academic researchers, social activists, and lawyers. Ethical AI is the development and use of artificial intelligence systems in a manner that is safe,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/technology/ethical-ai-a-challenge-for-security-spplications",
+      "originalUrl": "https://www.freepressjournal.in/technology/ethical-ai-a-challenge-for-security-spplications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2022-05/6c470164-3fbc-4b87-8656-0462e3b8145d/AI.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications",
+      "publishedDateTime": "2022-05-25T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-clearview-ai-says-its-bringing-facial-recognition-to-schools.md",
       "title": "Clearview AI Says It's Bringing Facial Recognition to Schools",
       "excerpt": "The company revealed it's working with a U.S. company selling visitor management systems to schools within hours of a horrific school shooting.",
@@ -295,24 +478,33 @@
     {
       "path": "_news/2022-05-25-contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b-decision-makers.md",
       "title": "CONTENTGINE EMPLOYS ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TO ANALYZE MOST POPULAR AI CONTENT AMONG B2B DECISION MAKERS",
-      "excerpt": "Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by its Content Indication Platform (CIP).",
+      "excerpt": "RENO, Nev., May 25, 2022 /PRNewswire/ -- Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-contentgine-employs-artificial-intelligence-machine-learning-analyze-most-/2022/05/25/9609252.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-contentgine-employs-artificial-intelligence-machine-learning-analyze-most-/2022/05/25/9609252.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T06:14:00-07:00",
+      "publishedDateTime": "2022-05-25T06:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -322,6 +514,7 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI",
         "Machine Learning"
       ]
@@ -935,180 +1128,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
-      "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
-      "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
-      "originalUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T01:00:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities.md",
-      "title": "Kao Data to Host Speechmatics' HPC and AI Supercomputer, Expanding Deep Learning Capabilities",
-      "excerpt": "Speechmatics' work within artificial intelligence-powered neural networks provides highly accurate speech-to-text to global enterprise businesses.To support its expansion Speechmatics required a specialist,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-public-confidence-must-for-using-facial-recognition-with-ai-ktr.md",
-      "title": "Public confidence must for using facial recognition with AI: KTR",
-      "excerpt": "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "originalUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/772421/ktr.jpg?w=570&h=451",
-          "width": 570,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "publishedDateTime": "2022-05-25T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers.md",
-      "title": "Zoho invests in Indian startup Genrobotics that makes robotic scavengers",
-      "excerpt": "Chennai-headquartered Zoho said that the investment will assist Genrobotics to eradicate manual scavenging in India and provide safety, dignity to workers in the sanitation and oil and gas industries",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalheraldindia.com/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
-      "originalUrl": "https://www.nationalheraldindia.com/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/nationalherald%2F2022-05%2F68081abd-40dd-4850-b1e8-55ba309408d6%2FZoho_invests_in_Indian_startup_Genrobotics_that_makes_robotic_scavengers.jpg?rect=0%2C16%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
-      "cdnAmpWebUrl": "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
-      "publishedDateTime": "2022-05-25T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Herald",
-        "domain": "nationalheraldindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

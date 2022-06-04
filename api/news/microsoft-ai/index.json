@@ -616,6 +616,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-ai-development-on-microsoft-azure-gets-beefed-up-with-access-to-openai-models.md",
+      "title": "AI development on Microsoft Azure gets beefed up with access to OpenAI models",
+      "excerpt": "Microsoft Corp. is expanding its long-running relationship with the artificial intelligence research outfit OpenAI Inc. as it launched a new service today for Azure Cognitive Services.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/",
+      "originalUrl": "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/microsoft-ai.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-github-copilot-ai-coding-assistant-due-this-summer.md",
       "title": "GitHub Copilot AI coding assistant due this summer",
       "excerpt": "GitHub Copilot, the controversial AI-driven coding assistant that suggests lines of code ... which has questioned the legality and ethics of its use of freely licensed source code.",
@@ -1334,40 +1377,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-lawyer-says-georgia-man-set-for-execution-should-be-spared.md",
-      "title": "Lawyer says Georgia man set for execution should be spared",
-      "excerpt": "ATLANTA (AP) — The life of a Georgia man set to be executed Tuesday for killing an 8-year-old girl should be spared, his lawyer argues, explaining that her client has significant cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

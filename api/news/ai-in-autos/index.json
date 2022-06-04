@@ -115,7 +115,7 @@
       "originalUrl": "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -210,7 +210,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -339,6 +339,58 @@
         "name": "iHarare News",
         "domain": "iharare.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally.md",
+      "title": "Asian markets rise, encouraged by earnings and Wall Street’s rally",
+      "excerpt": "“Improved risk sentiments in Wall Street, along with earnings outperformance from Alibaba and Baidu, may aid to fuel ... banks and retailers driving much of the rally. While trading has remained ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "originalUrl": "https://www.marketwatch.com/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-552884/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "publishedDateTime": "2022-05-26T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1338,58 +1390,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-tesla-releases-new-full-self-driving-beta-update-and-its-a-big-one.md",
-      "title": "Tesla releases new Full Self-Driving Beta update and it’s a big one",
-      "excerpt": "Beta software update with improvements based on over 250,000 training video clips from its fleet. Based on the release notes, it’s a big update. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/",
-      "originalUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/19/tesla-full-self-driving-beta-update-v10-12/amp/",
-      "publishedDateTime": "2022-05-19T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

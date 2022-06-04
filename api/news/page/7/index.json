@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-26-ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity.md",
+      "title": "Ethical AI Development: A Moral Responsibility And A Commercial Necessity",
+      "excerpt": "The full potential of AI will only be unleashed when its human inputs are truly valued and properly nurtured believes Shoma Kimura, Senior Director of AI Services for TaskUs. Amid the high-tech excitement and ever-rising expectations surrounding it,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
+      "originalUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6286108612fba45d9fab7b9e/0x0.jpg?format=jpg&width=1200",
+          "width": 904,
+          "height": 732,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
+      "publishedDateTime": "2022-05-26T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-is-california-still-investigating-teslas-self-driving-claims.md",
+      "title": "Is California Still Investigating Tesla’s Self-Driving Claims?",
+      "excerpt": "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
+      "originalUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/dac6b4f/2147483647/strip/true/crop/1169x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F10%2F047551f6e89d9c93c1029ed26dce%2Fshutterstock-369110243.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
+      "publishedDateTime": "2022-05-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-will-ai-text-to-image-generators-put-illustrators-out-of-a-job.md",
+      "title": "Will AI text-to-image generators put illustrators out of a job?",
+      "excerpt": "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/",
+      "originalUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/",
+      "publishedDateTime": "2022-05-26T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-managing-disaster-and-disruption-with-ai-one-tree-at-a-time.md",
       "title": "Managing disaster and disruption with AI, one tree at a time",
       "excerpt": "Ingesting loads of fine-grained data helps, but it's not enough to make fine-grained predictions. You need domain expertise too, and that's what AiDash is applying for its Disaster and Disruption Management System.",
@@ -232,6 +370,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-26-northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots.md",
+      "title": "Northwestern engineers invent the world’s smallest remote-controlled walking robots",
+      "excerpt": "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking",
+      "sourceUrl": null,
+      "webUrl": "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/",
+      "originalUrl": "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/",
+      "cdnAmpWebUrl": "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/",
+      "publishedDateTime": "2022-05-26T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "7News Miami",
+        "domain": "wsvn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-baidu-announces-first-quarter-2022-results.md",
       "title": "Baidu Announces First Quarter 2022 Results",
       "excerpt": "(2) This represents Baidu's share of equity method investments for other non-GAAP reconciling items, amortization and impairment of intangible assets not on the investee's books, accretion of ...",
@@ -271,6 +443,39 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-dstny-acquires-egypt-founded-tactful-ai.md",
+      "title": "Dstny acquires Egypt-founded Tactful AI",
+      "excerpt": "Belgium-based business communications provider Dstny, has acquired Egypt and UK-based Tactful AI for an undisclosed sum. Founded",
+      "sourceUrl": null,
+      "webUrl": "https://www.wamda.com/en/2022/05/dstny-acquires-egypt-founded-tactful-ai",
+      "originalUrl": "https://www.wamda.com/en/2022/05/dstny-acquires-egypt-founded-tactful-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wamda",
+        "domain": "wamda.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -826,49 +1031,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
-      "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
-      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "publishedDateTime": "2022-05-25T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-26-nvidia-our-gpu-inventories-are-nearly-back-to-normal.md",
       "title": "Nvidia: Our GPU Inventories Are Nearly Back To Normal",
       "excerpt": "In another sign the GPU shortage has abated, Nvidia is reporting the company’s product inventories are almost back to normal. “Channel inventory has nearly normalized and we expect it to remain around these levels in (fiscal) Q2,",
@@ -969,189 +1131,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots.md",
-      "title": "Northwestern engineers invent the world’s smallest remote-controlled walking robots",
-      "excerpt": "By Megan Marples, CNN For these tiny robotic crabs, being small is a virtue. Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking robot,",
-      "sourceUrl": null,
-      "webUrl": "https://kesq.com/news/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/",
-      "originalUrl": "https://kesq.com/news/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kesq.b-cdn.net/2022/05/hypatia-h_6e786a4893d94079d8372adb51205a12-h_1076c546327634234ed4d9f557e966ca-300-scaled.jpg",
-          "width": 1920,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KESQ News",
-        "domain": "kesq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-despite-key-partnership-with-aws-meta-taps-up-microsoft-azure-for-ai-work.md",
-      "title": "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work",
-      "excerpt": "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
-      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg",
-          "width": 1000,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
-      "publishedDateTime": "2022-05-25T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-tech-leaders-say-facial-recognition-clampdown-will-spur-innovation.md",
-      "title": "Tech Leaders Say Facial-Recognition Clampdown Will Spur Innovation",
-      "excerpt": "A $10 million fine levied on Clearview AI by the U.K.’s data-privacy watchdog sets clearer ground rules for balancing software innovation with people’s right to privacy, experts say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
-      "originalUrl": "https://www.wsj.com/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-551294/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-leaders-say-facial-recognition-clampdown-will-spur-innovation-11653512670",
-      "publishedDateTime": "2022-05-25T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ethical-ai-a-challenge-for-security-applications.md",
-      "title": "Ethical AI – a challenge for security applications?",
-      "excerpt": "Recently, the movement for Ethical AI has been gaining steady momentum from academic researchers, social activists, and lawyers. Ethical AI is the development and use of artificial intelligence systems in a manner that is safe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/technology/ethical-ai-a-challenge-for-security-spplications",
-      "originalUrl": "https://www.freepressjournal.in/technology/ethical-ai-a-challenge-for-security-spplications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2022-05/6c470164-3fbc-4b87-8656-0462e3b8145d/AI.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications",
-      "publishedDateTime": "2022-05-25T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Security"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-15-techforceai-raises-15-million-seed-funding.md",
+      "title": "Techforce.ai Raises $1.5 Million Seed Funding",
+      "excerpt": "To digitally enable knowledge workers with just-in-time AI and Automation \"We believe the future of work will be driven by higher cognitive ... has partnerships with Microsoft, IBM, Oracle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/techforce-ai-raises-1-5-million-seed-funding/article_b4a81607-e5bd-5bbf-8d0d-1e0d87920201.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-14T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-cognitive-cloud-market-poised-to-register-16-cagr-by-2023-cognitive-cloud-market-growth-analysis-and-covid-research-report.md",
       "title": "Cognitive Cloud Market Poised to Register 16% CAGR by 2023 | Cognitive Cloud Market Growth Analysis and COVID Research Report",
       "excerpt": "Market Synopsis The data analysts at Market Research Future Reports (MRFR) have revealed that the global cognitive cloud market is predicted to",
@@ -1369,58 +1412,6 @@
         "name": "The Next Platform",
         "domain": "nextplatform.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-microsoft-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities.md",
-      "title": "Microsoft now delivers comprehensive protection with new multi-cloud capabilities",
-      "excerpt": "New multi-cloud capabilities from Microsoft Security have been developed to secure the basis of hybrid work and digital transformations, delivering comprehensive protection to its customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-security-now-delivers-comprehensive-protection-with-new-multi-cloud-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/03/microsoft-security_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

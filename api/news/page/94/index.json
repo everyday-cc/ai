@@ -2,6 +2,256 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-03-16-tonby-robbins-professional-freelancer-in-london.md",
+      "title": "Tonby Robbins: Professional freelancer in London",
+      "excerpt": "Tonby is a freelance professional consultant based in Londo, London | A student of the Open University and has been working as an expert on various projects ever since graduating from college with experience ranging from business to IT development to data analytics and digital transformation initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://signalscv.com/2022/03/tonby-robbins-professional-freelancer-in-london/",
+      "originalUrl": "https://signalscv.com/2022/03/tonby-robbins-professional-freelancer-in-london/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://signalscv.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Clarita Signal",
+        "domain": "signalscv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-apple-wins-appeal-against-speech-recognition-patent-in-siri-suit.md",
+      "title": "Apple Wins Appeal Against Speech Recognition Patent in Siri Suit",
+      "excerpt": "The Federal Circuit summarily affirmed an administrative tribunal ruling that nixed part of a patent that Apple Inc. was accused of infringing with its Siri technology.",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/apple-wins-appeal-against-speech-recognition-patent-in-siri-suit",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/apple-wins-appeal-against-speech-recognition-patent-in-siri-suit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/b02bbd0/2147483647/legacy_thumbnail/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F6d%2Ff7%2Ff0f2f82b46c9abf842070ccc9578%2Fapple-david-paul-morrris-clouds-cool.jpg",
+          "width": 960,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg Law",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-inside-intels-self-driving-spinoff.md",
+      "title": "Inside Intel's Self-Driving Spinoff",
+      "excerpt": "At Intel's (NASDAQ: INTC) recent investor day, the company revealed it would soon be spinning off its Mobileye subsidiary, which develops self-driving cars and driver-assist systems. When our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/inside-intels-self-driving-spinoff",
+      "originalUrl": "https://www.nasdaq.com/articles/inside-intels-self-driving-spinoff",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/inside-intels-self-driving-spinoff?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/inside-intels-self-driving-spinoff?amp",
+      "publishedDateTime": "2022-03-15T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health.md",
+      "title": "Healthcare Artificial Intelligence Market to Eyewitness Massive Growth by 2026 | NVIDIA, Next IT, IBM Watson Health",
+      "excerpt": "The Latest research study released by Market Intellix “Healthcare Artificial Intelligence (AI) market” with 100+ pages of analysis on business",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-to-eyewitness-massive-growth-by-2026-nvidia-next-it-ibm-watson-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-robotics-trailblazer-dominik-boesl-joins-micropsi-industries-as-managing-director.md",
+      "title": "Robotics Trailblazer Dominik Boesl Joins Micropsi Industries as Managing Director",
+      "excerpt": "Boesl to leverage 22+ years in robotics and artificial intelligence (AI) to lead product development of ready-to-use and proven MIRAI robot control system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/march-2022/robotics-trailblazer-dominik-boesl-joins-micropsi? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/march-2022/robotics-trailblazer-dominik-boesl-joins-micropsi? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/30b78daa-fac0-4304-a31d-fcabe86e68ec/Micropsi-news-March-15-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-15T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-16-teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus.md",
+      "title": "Teaching Kubernetes To Do Fractions And Multiplication On GPUs",
+      "excerpt": "Kubernetes is still thinking in terms of integers when it comes to GPU allocation, according to Run:AI, but undoubtedly others have seen this problem and may be working on it. (Some of the server virtualization providers who have a vested interest in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/03/15/teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus/",
+      "originalUrl": "https://www.nextplatform.com/2022/03/15/teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/run-ai-logo.jpg",
+          "width": 827,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/03/15/teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/03/15/teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus/amp/",
+      "publishedDateTime": "2022-03-15T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-auto-nation-how-startup-founders-are-using-ai-to-boost-growth.md",
       "title": "Auto Nation: How startup founders are using AI to boost growth",
       "excerpt": "CEO of Addition Finance Graham Davies explains how automation can help startups create scalable processes and promote growth.",
@@ -825,284 +1075,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-cogniac-and-cisco-meraki-partner-to-automate-operations-with-computer-vision.md",
-      "title": "Cogniac and Cisco Meraki Partner to Automate Operations with Computer Vision",
-      "excerpt": "Cogniac Corporation (“Cogniac”), a leader in enterprise-class Artificial Intelligence (AI) image and video analysis, and Cisco Meraki have announced a strategic partnership to accelerate the delivery of AI-powered computer vision applications at the edge of the network.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-08f4ef5e9778c2bea6f3da6aac460229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-tensorflowjs-is-a-library-for-machine-learning-in-javascript.md",
-      "title": "TensorFlow.js is a library for machine learning in JavaScript",
-      "excerpt": "Tutorials show you how to use TensorFlow.js with complete, end-to-end examples.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/js/?hl=fi-fi",
-      "originalUrl": "https://www.tensorflow.org/js/?hl=fi-fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png?hl=fi-fi",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale.md",
-      "title": "Intuition Robotics Launches ElliQ, the Award-Winning Care Companion Robot, for Commercial Sale",
-      "excerpt": "NEW YORK, March 15, 2022 /PRNewswire/ -- Intuition Robotics today announced the ... ElliQ then proactively motivates them to take control of their physical, mental, and social health.",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220315NY88718/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220315NY88718/intuition-robotics-launches-elliq-the-award-winning-care-companion-robot-for-commercial-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
-          "width": 600,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner.md",
-      "title": "Financial services businesses must stop putting Customer Due Diligence on the backburner",
-      "excerpt": "Financial crime challenges even the most diligent of organisations. During the Covid-19 pandemic, fraud proliferated in the UK, with professional criminals targeting the public amid Covid-19 disruption to the tune of £37 million in 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
-      "originalUrl": "https://www.finextra.com/the-long-read/363/financial-services-businesses-must-stop-putting-customer-due-diligence-on-the-backburner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/oped/363.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-towards-the-reuse-of-supervised-deep-learning-algorithms-in-bioimage-analysis.md",
-      "title": "Towards the reuse of supervised deep learning algorithms in bioimage analysis",
-      "excerpt": "Over the last ten years, the amount of microscopy data acquired has increased dramatically, and so has the appetite to use deep learning to gain knowledge from these data. But how easy is this really?",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/towards-reuse-supervised-deep-learning-algorithms-bioimage-uhlmann",
-      "originalUrl": "https://www.linkedin.com/pulse/towards-reuse-supervised-deep-learning-algorithms-bioimage-uhlmann",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGs3zG-uI9z-w/article-cover_image-shrink_720_1280/0/1647342187150?e=1653523200&v=beta&t=zdG_pUpoHKVs77B_e8UzeujH8QiMPpVE5vSax9Cj6aM",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-heres-looking-at-you-kid-the-problematic-adoption-of-facial-recognition-systems.md",
-      "title": "Here's looking at you, kid - the problematic adoption of facial recognition systems",
-      "excerpt": "Facial recognition systems are one of the most controversial areas of real world AI. But despite the ethical qualms, facial recognition is now in use across multiple industries. Can regulation catch up?",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
-      "originalUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-12/facial-recognition.jpg",
-          "width": 1265,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/heres-looking-you-kid-problematic-adoption-facial-recognition-systems",
-      "publishedDateTime": "2022-03-15T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

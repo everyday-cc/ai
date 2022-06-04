@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-30-nwu-engineers-develop-a-tiny-remote-controlled-robot-crab.md",
+      "title": "NWU Engineers Develop A Tiny Remote-Controlled Robot Crab!",
+      "excerpt": "Northwestern University engineers have unveiled the world’s tiniest remote-controlled walking robot – a tiny robotic crab! The machine is only a half-millimeter broad and can fit on the edge of a penny with room to spare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/05/Low-Res_Fig.-1D-2.jpg-e1653898568941.png",
+          "width": 500,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
+      "publishedDateTime": "2022-05-30T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-naver-launches-ai-call-service-aimed-at-seniors.md",
       "title": "Naver launches AI call service aimed at seniors",
       "excerpt": "Tech giant Naver said Monday that it has officially launched an artificial intelligence-based call service for older people who live alone. The service, Clova AI Contact Center Solution, is operated by the company’s AI technology Hyperclova,",
@@ -179,6 +222,58 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-i-tried-googles-text-to-image-ai-and-i-was-shocked-by-the-results.md",
+      "title": "I tried Google's text-to-image AI, and I was shocked by the results",
+      "excerpt": "Text-to-image artificial intelligence programs aren’t anything new. Indeed, existing neural networks like DALL-E have impressed us with their ability to generate simple, photorealistic images ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/i-tried-googles-text-to-image-ai-and-was-shocked-by-the-results",
+      "originalUrl": "https://www.techradar.com/news/i-tried-googles-text-to-image-ai-and-was-shocked-by-the-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uFKwu2BZZ5mhKVe5YmpbDS-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-29T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1079,101 +1174,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to.md",
-      "title": "Artificial Intelligence in Marketing Market to...",
-      "excerpt": "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27435408",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408",
-      "publishedDateTime": "2022-05-27T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
-      "title": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
-      "excerpt": "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/05/27/business/00cheating/00cheating-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
-      "publishedDateTime": "2022-05-27T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

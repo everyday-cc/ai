@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27474736"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27474736"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "C3 AI to Present at Upcoming Investor Conference"
+    excerpt: "(NYSE: AI), the Enterprise AI application software company, today announced that management will present at the following upcoming conference. The Baird 2022 Global Consumer, Technology & Services Conference."
+    publishedDateTime: 2022-06-03T13:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-3-c3-ai-to-present-at-upcoming-investor-conference"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 17
   - title: "C3.ai (NYSE:AI) Releases Quarterly Earnings Results, Beats Expectations By $0.08 EPS"
     excerpt: "C3.ai (NYSE:AI – Get Rating) released its quarterly earnings results on Wednesday. The company reported ($0.21) earnings per share (EPS) for the quarter, beating the consensus estimate of ($0.29) by $0."
     publishedDateTime: 2022-06-02T01:16:00Z

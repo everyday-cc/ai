@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailytimes.com/business/penny-ai-raises-27-million-
 webUrl: "https://www.thedailytimes.com/business/penny-ai-raises-27-million-series-b-to-accelerate-the-transformation-of-social-commerce-enablement/article_9cd4a697-9b85-57fa-8ec5-6e0b3484164a.html"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "TheoryMesh to Accelerate Burcon Nutrascience Research and Process Optimization with Microsoft Data and AI Platform"
-    excerpt: "TheoryMesh Corp, an innovative software company delivering data driven solutions for food and agriculture supply chains, today announced the launch of a project with Burcon NutraScience Corporation, a global technology leader in the development of plant-based proteins for foods and beverages,"
-    publishedDateTime: 2022-05-30T17:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=671645"
+  - title: "Massive Bio Raises $9 Million to Scale Growth and Fuel Global Expansion of Its AI-Enabled Oncology Clinical Trial Platform"
+    excerpt: "Massive Bio, Inc., a leader in precision medicine and artificial intelligence (AI) enabled patient centric clinical trial enrollment, raised $9 million co-led by Revo Capital and Kenan Turnacioğlu, Chair of Board of Directors PaigeAI,"
+    publishedDateTime: 2022-06-02T12:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-new-york-artificial-intelligence-b7cf9db64c084b9eb4fc44caa219cb67"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 32
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "RS2Y3IYAQLHcVqwASDGTqVKLOFyYZ+EcpHUelyCMUu0wJ5dxRNZiRI+h2XD1f1nc9jVT1S0WZkkqKlqGRjJzEjlX5Um2rCagMqcLStdOaIMUXmS+YnyP1ivuRScgq/qs8HYulYrhwVJ8rfG22PWyT0Z2K/CnSBQP4e9VntBxMcdWJ+H7P+OfPDkTr8e4RJ2mnvegfh042/P8Kw2hMftCjj0xlpE/MTOuZow4+DuKcVawJEUQJek7QRefeiqrdbwvnadFQlJz31t1o77dGHEqiJ0EgB9lz/1LWTuB/koYEhquAxUGUBOb41YESutCXD+hZcNe+BZcGEiTMib+EZnAiOq2nLb4pRGUDrA8R26E8CqolBuoi+Xs3JLGRm9LaCeHvrrgyJEOrBDp9v25W/SmzqvxxY9bMPGONxSKQBmz6WGGI+gAd/FlmEMZ4BhWNpF+Rs90bngxRhfIKWMjinfTJ1MDv+A9kPGhLzmDd0o8nNHkAaMTQXSu1qYbmMKpmEquVIVhiRPi5qFmk7LpWdPFmg==;AiPBr5+g16cMo2SEBT+kYQ=="

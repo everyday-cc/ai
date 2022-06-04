@@ -199,7 +199,7 @@
       "originalUrl": "https://www.benzinga.com/news/earnings/22/05/27474736/earnings-outlook-for-c3-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -241,7 +241,7 @@
       "originalUrl": "https://www.reuters.com/legal/litigation/ethical-issues-surrounding-research-ai-health-care-2022-05-31/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -283,6 +283,48 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-nvidia-debuts-grace-and-grace-hopper-superchips-for-hpc-and-ai-workloads.md",
+      "title": "Nvidia debuts Grace and Grace Hopper ‘Superchips’ for HPC and AI workloads",
+      "excerpt": "Nvidia has unveiled new silicon architectures for high-performance computing and AI workloads.  The Nvidia Grace CPU Superchip",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/nvidia-debuts-grace-and-grace-hopper-superchips-for-hpc-and-ai-workloads/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/nvidia-debuts-grace-and-grace-hopper-superchips-for-hpc-and-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/Nvidia-debuts-Grace-and-Grace-Hopper-‘Superchips-for-HPC-and-AI-workloads.png",
+          "width": 1945,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/nvidia-debuts-grace-and-grace-hopper-superchips-for-hpc-and-ai-workloads/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-debuts-grace-and-grace-hopper-superchips-for-hpc-and-ai-workloads/amp/",
+      "publishedDateTime": "2022-05-31T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -337,7 +379,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -1012,25 +1054,43 @@
     {
       "path": "_news/2022-05-30-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Next, we look for solid companies in growing industries that may have become undervalued. Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take ...",
+      "excerpt": "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802",
+      "webUrl": "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg",
+          "width": 2310,
+          "height": 1297,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
-      "publishedDateTime": "2022-05-30T04:08:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T03:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1039,6 +1099,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1143,49 +1204,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-nwu-engineers-develop-a-tiny-remote-controlled-robot-crab.md",
-      "title": "NWU Engineers Develop A Tiny Remote-Controlled Robot Crab!",
-      "excerpt": "Northwestern University engineers have unveiled the world’s tiniest remote-controlled walking robot – a tiny robotic crab! The machine is only a half-millimeter broad and can fit on the edge of a penny with room to spare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/05/Low-Res_Fig.-1D-2.jpg-e1653898568941.png",
-          "width": 500,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
-      "publishedDateTime": "2022-05-30T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

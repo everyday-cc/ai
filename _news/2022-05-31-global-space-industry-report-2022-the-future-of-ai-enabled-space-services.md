@@ -121,6 +121,20 @@ related:
         width: 1280
         height: 672
         isCached: true
+  - title: "4 Skills That Won’T Be Replaced By AI In The Future"
+    excerpt: "You've probably heard for years that the workforce would be supplanted by robots. AI has changed several roles, such as using self-checkouts, ATMs, and customer support chatbots. The goal is not to scare people,"
+    publishedDateTime: 2022-06-04T09:43:00Z
+    webUrl: "https://menafn.com/1104322831/4-Skills-That-WonT-Be-Replaced-By-AI-In-The-Future"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?534711"
+        width: 261
+        height: 250
+        isCached: true
   - title: "Community colleges and employer partners are teaming up to expand pathways to artificial intelligence jobs of the future"
     excerpt: "Community colleges can help ensure that diverse talent can fuel the innovation economy while accessing job opportunities."
     publishedDateTime: 2022-05-31T14:47:00Z

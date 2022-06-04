@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Putting the metal to the pedal! Robotic taxi service gets green light to begin charging passengers for DRIVERLESS rides in San Francisco"
+    excerpt: "Driverless vehicles have been hailed as ... of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people, signs and hazards."
+    publishedDateTime: 2022-06-03T11:02:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10880569/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10880569/amp/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10880569/amp/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 26
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/06/03/01/wire-58620731-1654217026-117_636x382.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "GM-backed Cruise could soon charge passengers for self-driving car rides"
     excerpt: "There has also been a longstanding concern that self-driving cars cannot always correctly predict how humans will react to changing events."
     publishedDateTime: 2022-06-02T12:37:00Z

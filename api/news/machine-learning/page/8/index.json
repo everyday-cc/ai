@@ -2,6 +2,41 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-04-machine-learning-as-a-service-market-size-worth-3881-billion-globally-by-2028-at-412-cagr-verified-market-research.md",
+      "title": "Machine Learning As A Service Market size worth $ 38.81 Billion, Globally, by 2028 at 41.2% CAGR: Verified Market Research®",
+      "excerpt": "Verified Market Research recently published a report, \"Machine Learning As A Service Market\" By Component (Services, Software Tools),",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at-41-2-cagr-verified-market-research-r--882059394.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-as-a-service-market-size-worth-38-81-billion-globally-by-2028-at-41-2-cagr-verified-market-research-r--882059394.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-04T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-massaging-ai-language-models-for-fun-profit-and-ethics.md",
       "title": "Massaging AI language models for fun, profit and ethics",
       "excerpt": "For applications where there is lots of data, such as natural language processing (NLP), the amount of domain knowledge injected into the system has gone down over time. In the early days of deep learning, people would routinely train a small deep learning ...",
@@ -1380,58 +1415,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-heatwave-ml-real-time-intelligence-comes-to-mysql.md",
-      "title": "HeatWave ML: Real-Time Intelligence Comes To MySQL",
-      "excerpt": "Senior Analyst, Matt Kimball, covers Oracle's new MySQL Heatwave which enables organizations to run OLTP and analytics from a single database, eliminating extract, transform, load (ETL) functions or the need to maintain multiple databases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624360b4b7f6e4cfc8415639/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/",
-      "publishedDateTime": "2022-03-29T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

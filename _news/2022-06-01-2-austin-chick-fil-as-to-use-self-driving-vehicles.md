@@ -50,6 +50,15 @@ related:
       name: Motor Authority
       domain: motorauthority.com
     quality: 33
+  - title: "Dubai to focus on self-driving buses as it pushes for more driverless journeys"
+    excerpt: "The Dubai government is keen on submissions for self-driving buses for its upcoming world challenge competition Dubai to focus on self-driving buses as it pushes for more driverless journeys Autonomous vehicles,"
+    publishedDateTime: 2022-06-04T09:31:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/dubai-to-focus-on-self-driving-buses-as-it-pushes-for-more-driverless-journeys"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 30
   - title: "Argo AI is currently testing driverless cars in Florida and Texas, a major step for the Ford and Volkswagen-backed company."
     excerpt: "Driverless cars driving in Texas and Florida. The news comes after a period of stabilization in the automotive industry, leaving only a handful of well-funded"
     publishedDateTime: 2022-05-31T08:23:00Z

@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Putting the metal to the pedal! Robotic taxi service gets green light to begin charging passengers for DRIVERLESS rides in San Francisco"
+    excerpt: "Driverless vehicles have been hailed as ... of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people, signs and hazards."
+    publishedDateTime: 2022-06-03T11:02:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10880569/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10880569/amp/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10880569/amp/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 26
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/06/03/01/wire-58620731-1654217026-117_636x382.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "GM's Cruise wins first California permit for self-driving car rides"
     excerpt: "General Motors' Cruise on Thursday became the first company to secure a permit to charge for self-driving car rides in San Francisco, after it overcame objections by city officials. Self-driving test cars with human safety drivers have become a constant sight in San Francisco,"
     publishedDateTime: 2022-06-02T23:57:00Z

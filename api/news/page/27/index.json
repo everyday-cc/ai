@@ -2,6 +2,293 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-05-10-ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech.md",
+      "title": "AI fights discrimination: Milwaukee County team identifies inequity in local policies with SAS tech",
+      "excerpt": "The team used SAS Viya ® software running on Microsoft Azure cloud platform. The combination of AI in the cloud gives Hackathon teams – and businesses, government agencies and universities ...",
+      "sourceUrl": null,
+      "webUrl": "https://whnt.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/",
+      "originalUrl": "https://whnt.com/business/press-releases/cision/20220510CL49830/ai-fights-discrimination-milwaukee-county-team-identifies-inequity-in-local-policies-with-sas-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHNT",
+        "domain": "whnt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
+      "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
+      "excerpt": "Krishna said that he was avoiding claims that IBM cannot fulfill after what he called the company's \"error\" predicting uses prematurely for its Watson artificial intelligence (AI) services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/hype-wary-ibm-quantum-computing-sales-are-close-not-too-close-2022-05-10/",
+      "originalUrl": "https://www.reuters.com/technology/hype-wary-ibm-quantum-computing-sales-are-close-not-too-close-2022-05-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/mgPg2WVLlv5v9eVKhPFNE8EmceQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2NBGPQX2FKZVJKLPQMAE53QOE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping.md",
+      "title": "How a grocery startup in Georgia is using AI and edge computing for \"frictionless\" shopping",
+      "excerpt": "The couple who started Nourish & Bloom are banking on a \"warm, pantry feeling\" -- combined with contactless checkout and delivery robots -- to help build their brand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
+      "originalUrl": "https://www.zdnet.com/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/790605947c9350f0b7314063f5f5f416a9aef396/2022/05/10/4a74ac8a-0c2e-4034-8a78-798ecbdf150b/nourish.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-grocery-startup-in-georgia-is-using-ai-and-edge-computing-for-frictionless-shopping/",
+      "publishedDateTime": "2022-05-10T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-intel-launches-new-ai-chips-challenging-nvidias-market.md",
+      "title": "Intel launches new AI chips, challenging Nvidia's market",
+      "excerpt": "Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion. AI chip startups have been getting huge investments in recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/intel-launches-new-ai-chips-challenging-nvidias-market-2022-05-10/",
+      "originalUrl": "https://www.reuters.com/technology/intel-launches-new-ai-chips-challenging-nvidias-market-2022-05-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/AACwGwpnSd5iGcEK9g46idFVWww=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SOBZSM5ZJNMQVNYYJKHNWXFA4Y.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-intel-unveils-new-generation-of-infrastructure-processing-units.md",
+      "title": "Intel unveils new generation of infrastructure processing units",
+      "excerpt": "Intel unveiled its latest infrastructure processing unit (IPU ... model training and inferencing for computer vision and natural language applications in the datacenter. The Greco is a second ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/",
+      "originalUrl": "https://venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/ipu-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/intel-unveils-new-generation-of-infrastructure-processing-units/amp/",
+      "publishedDateTime": "2022-05-10T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-d2iq-streamlines-smart-cloud-native-application-deployments-with-kaptain-aiml-20.md",
+      "title": "D2iQ™ Streamlines Smart Cloud-Native Application Deployments with Kaptain AI/ML 2.0",
+      "excerpt": "With support for Amazon AWS EKS and Microsoft Azure AKS, Kaptain AI/ML provides more flexibility and speed when deploying AI/ML workloads on Kubernetes SAN FRANCISCO, May 10, 2022 /PRNewswire/ -- D2iQ, the leading enterprise Kubernetes provider for smart ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-artificial-intelligence-cd3ed8b1d1e1c2a514b2c57bfecbaa12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-intel-doubles-chip-power-to-expand-the-ai-revolution.md",
       "title": "Intel Doubles Chip Power to Expand the AI Revolution",
       "excerpt": "The new Gaudi2 chip may not be as fast as Nvidia's, but the fast-growing market could be ready for a cheaper AI chip.",
@@ -858,294 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case.md",
-      "title": "3D-printed Fan Mount Keeps Server GPU Cool In Desktop Case",
-      "excerpt": "or are simply experimenting with machine-learning AI, you should be prepared to shell out quite a bit more money for a proper GPU than in the good old days. Bargains are still to be had in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/11/06/3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case/",
-      "originalUrl": "https://hackaday.com/2021/11/06/3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/11/Nvidia-Tesla-K80-cooler-rear.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-clearview-ai-agrees-to-restrict-us-sales-of-facial-recognition-mostly-to-law-enforcement.md",
-      "title": "Clearview AI agrees to restrict US sales of facial recognition mostly to law enforcement",
-      "excerpt": "Clearview AI, a controversial facial-recognition software company, agreed on Monday that it will not sell its software to most companies in the United States — a decision that will largely restrict its use to law-enforcement agencies in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
-      "originalUrl": "https://www.cnn.com/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 504,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220509145253-02-clearview-ai-file-022222-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/05/09/tech/clearview-ai-aclu-settlement/index.html",
-      "publishedDateTime": "2022-05-09T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach.md",
-      "title": "Fresh off $2B valuation, machine learning platform Hugging Face highlights ‘open and collaborative approach’",
-      "excerpt": "Earlier today, community-driven machine learning platform Hugging Face announced $100 Million in new funding – raised in just one week – to continue building what many, including CEO Clement Delangue,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/",
-      "originalUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/collaboration.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/amp/",
-      "publishedDateTime": "2022-05-09T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-self-driving-microscopes-discover-shortcuts-to-new-materials.md",
-      "title": "'Self-driving' microscopes discover shortcuts to new materials",
-      "excerpt": "Researchers are teaching microscopes to drive discoveries with an intuitive algorithm that could guide breakthroughs in new materials for energy technologies, sensing and computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220509150750.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220509150750.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-a-smarter-way-to-develop-new-drugs-using-artificial-intelligence.md",
-      "title": "A Smarter Way To Develop New Drugs Using Artificial Intelligence",
-      "excerpt": "A new artificial intelligence technique has been developed that only proposes candidate molecules that can actually be produced in a lab. Pharmaceutical companies are using artificial intelligence to streamline the process of discovering new medicines.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/a-smarter-way-to-develop-new-drugs-using-artificial-intelligence/",
-      "originalUrl": "https://scitechdaily.com/a-smarter-way-to-develop-new-drugs-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Machine-Learning-Model-Proposes-New-Molecules-Drug-Discovery-Process-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/a-smarter-way-to-develop-new-drugs-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/a-smarter-way-to-develop-new-drugs-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-05-09T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-ai-upstart-waabi-adding-self-driving-veterans-in-race-to-commercialize-robot-trucks.md",
-      "title": "AI Upstart Waabi Adding Self-Driving Veterans In Race To Commercialize Robot Trucks",
-      "excerpt": "Waabi, an autonomous driving startup led by computer scientist Raquel ... The Toronto-based company, which initially focused on developing its AI-enabled technology with an advanced driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/09/ai-upstart-waabi-adding-self-driving-veterans-in-race-to-commercialize-robot-trucks/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/09/ai-upstart-waabi-adding-self-driving-veterans-in-race-to-commercialize-robot-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6201ceac39bd7c60059e4537/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/09/ai-upstart-waabi-adding-self-driving-veterans-in-race-to-commercialize-robot-trucks/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2022/05/09/ai-upstart-waabi-adding-self-driving-veterans-in-race-to-commercialize-robot-trucks/",
-      "publishedDateTime": "2022-05-09T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://technosports.co.in/2022/06/01/rialto-bridge/?amp"
 cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/06/01/rialto-bridge/?amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Rialto Bridge Accelerated AI and HPC processor introduced"
+    excerpt: "Intel has this week introduced its new next-generation AI and HPC datacentre GPU in the form of the Intel Rialto Bridge. The new chip was unveiled at the"
+    publishedDateTime: 2022-06-01T09:52:00Z
+    webUrl: "https://www.geeky-gadgets.com/intel-rialto-bridge-01-06-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/06/Intel-Rialto-Bridge.jpg"
+        width: 700
+        height: 421
+        isCached: true
   - title: "Intel Makes Rialto Bridge Accelerated AI and HPC Processor Official"
     excerpt: "Intel announced Rialto Bridge, Intel's data center graphics processing unit (GPU). Using the same architecture as the Intel data center GPU Ponte Vecchio and combining enhanced tiles with Intel's"
     publishedDateTime: 2022-06-01T07:11:00Z

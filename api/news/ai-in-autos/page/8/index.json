@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-22-a-long-road-still-ahead-for-autonomous-trucking-technologies.md",
+      "title": "A long road still ahead for autonomous trucking technologies",
+      "excerpt": "The artificial intelligence and machine learning kicks in and can learn from all these scenarios and just get better and better,” he said. Jatt added Waymo studied several decades of traffic accidents in the Phoenix, Ariz., area where its autonomous cars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.trucknews.com/technology/a-long-road-still-ahead-for-autonomous-trucking-technologies/1003157934/",
+      "originalUrl": "https://www.trucknews.com/technology/a-long-road-still-ahead-for-autonomous-trucking-technologies/1003157934/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-21T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Truck News",
+        "domain": "trucknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-21-are-there-any-risks-in-using-artificial-intelligence-to-grow-food.md",
       "title": "Are there any risks in Using Artificial Intelligence to Grow Food?",
       "excerpt": "It's no longer news that the world is changing rapidly and technology is the major driving force, causing major disruptions and changing what value means across different sectors and the food agricultural sector is not left out.",
@@ -1311,49 +1345,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-firms-step-up-to-cash-in-on-robotaxi-biz.md",
-      "title": "Firms step up to cash in on robotaxi biz",
-      "excerpt": "A Baidu Apollo robotaxi is seen in Beijing in December. HUANG YONG/FOR CHINA DAILY Competition in China's autonomous driving sector is set to heat up as several self-driving companies are accelerating commercial operation of self-driving taxis to provide ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202203/15/WS622fe7f0a310cdd39bc8c937.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202203/15/WS622fe7f0a310cdd39bc8c937.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202203/15/622fe7efa310cdd3d8356f9b.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-14T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Pinterest acquires AI shopping startup 'The Yes'"
-excerpt: "THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO, Amit Aggarwal, a tech industry veteran."
-publishedDateTime: 2022-06-03T11:50:00Z
-originalUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
-webUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
-ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
-cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum. THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO,"
+publishedDateTime: 2022-06-03T05:20:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-91986699,imgsize-107315,width-1200,height-628,overlay-etbrandequity/pinterest-acquires-ai-shopping-startup-the-yes.jpg"
-    width: 1200
-    height: 628
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_040622_spwi.jpg"
+    width: 402
+    height: 251
     isCached: true
 
 related:
@@ -62,6 +60,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
+  - title: "Pinterest agrees to acquire AI shopping platform"
+    excerpt: "Pinterest (PINS) has agreed to acquire an AI-powered shopping platform, THE YES.Financial terms of the deal were not disclosed.Founded in 2018 by CEO Julie Bornstein and CTO"
+    publishedDateTime: 2022-06-02T20:21:00Z
+    webUrl: "https://seekingalpha.com/news/3845275-pinterest-agrees-to-acquire-ai-shopping-platform"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1347295696/image_1347295696.jpg?io=getty-c-w750"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Pinterest to acquire AI shopping platform The Yes"
     excerpt: "The Yes, which was founded by former Stitch Fix COO Julie Bornstein, furthers Pinterest's goal of being a personalized shopping destination."
     publishedDateTime: 2022-06-03T15:48:00Z
@@ -107,6 +119,6 @@ related:
         height: 202
         isCached: true
 
-secured: "0DTyDE57CPP/SDy3/Fs+x/cTKko51JMctWseG9zCoR0vWExjDdBFSJKpx8iTEEqjRDGb8LkUU8iGxlPWNuQBA6fua3duuAPPLQd8HAPG98E/U2Oyw9WTlai54OfMJR4QeHsDVRmRmi2ZmOFnUGcxffuEeRhCr455Ry0IWCePhlfiScf0AcV84zA2HhLQPBXAK3n/+DCSnbiJPdIDuU15Veo0Ki+/5RAIO/gtWu7bSUO2uQmKtVPaQILstYVanx8+V0SFyE304XPvGgbZSRHmt8y0GGdJb2BMX+lv7xQBqlOkGL85w4SixxWhSyUj5+VrMec5ypyXlt3qmnXlPAjCu6hufrL8Pc3lx/3jvLLDYv5WEWC9zS6ReArqA7fKj7P7WYAZ59228YWzMK+t94QVrOLAHqvv7EtoyInie9zEZkZS8cGUCL/qzpXVkypaJD8BMuARBQ4qqg6CsaDmCIf1850E96+zNJJDSC6tQA3Ec8yRbjvJ+amKBe3KGOPLTyaPO0s1ldPZJYCORVOR+5Mg9A==;zuNxx+VD9lMKxIC0zLPPZA=="
+secured: "7InjB3HHMSBsW0bXpuWdPQn3/2ZBHhumxcMku0+rCLobtuld9FKisjD70SyNWsZdh7D/vbVTgEazP2u62j8kebQEFgq2c9OOKxr7eKzEH/eZ0ifkoBqJoLVN1C1DW3VQ0c4rQCuRu4Q9d+HFlZljkTbLO7ZQ+pBMNw0CWa3DENuPKypxbHXxmohAwtm2gXuHD7kjK7mpnGLg080XUxTuAmicSqOH3W04HXJMqhGTKTPQBkL7cTz+HwxT7xrBLzE7PRiiEYam8/MJqAegK4Mwg7npTHQJpy9IiV2x5S9IU+3GpFyCVgrSLb/1E8E7f/YAtuGQwuE/USoAzd2k3MSP7DWam4tVyHjBs/DuH0WPdDo=;CHdMOH77oaOcrkF8fX8a2A=="
 ---
 

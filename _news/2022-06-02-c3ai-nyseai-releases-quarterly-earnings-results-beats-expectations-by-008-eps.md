@@ -59,6 +59,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "C3 AI to Present at Upcoming Investor Conference"
+    excerpt: "(NYSE: AI), the Enterprise AI application software company, today announced that management will present at the following upcoming conference. The Baird 2022 Global Consumer, Technology & Services Conference."
+    publishedDateTime: 2022-06-03T13:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-3-c3-ai-to-present-at-upcoming-investor-conference"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 17
 
 secured: "mXRnt1qkl9hdzspgIOJlIyU9H/EkLLYENlpelIllElVAANqQnJbqfX2yzmk19rD14hS1XSqiaHFjbOQWnyzeRBrfhla9DS69zv2YVkFfDWBY67Hq4IwIi8OqNa1c8rjReMdiJFKrvHIXq7oCFhztCEPphvCgFxax6RviwyP5+Bdr2Jp7RvqhZMgXi95eiTuNCQ2ZHrkqOJzsTNz/Jj/RSs7vsTms3aGv9Fo7O7e7fMmctTWYBlSaXeKjA6Gw04IZo0bBgMkM1uXJ5yxmdhCv638zZlXIO/VKkaYqFy6c8hNiHapCSjWLI8+DVG63VLhbxCl9JOL2Ljp/kdgHQj+GAMDOR2KRrKQOlO2rPzulno29PKm5O5uK9kiOnbqcmfL/gEFzUv7JYIg8NDbaCY/K3m93ytFCfQPUVo3YPqj/iunwhRDL6/Fk6koj5ZvZGa6EdhKfuRJV+KlKgMgtMMtrXW8yMOLD7FaJJsN+DVKe/48yz5hY5ntbRmka+7OEEjHvIklViK8+J4tRvgdUBIakFQ==;+iGMCXCDGrWBFwxABOtjrg=="
 ---

@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to.md",
+      "title": "Artificial Intelligence in Marketing Market to...",
+      "excerpt": "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27435408",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408",
+      "publishedDateTime": "2022-05-27T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
+      "title": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
+      "excerpt": "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/27/business/00cheating/00cheating-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
+      "publishedDateTime": "2022-05-27T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit.md",
       "title": "Singapore touts need for AI transparency in launch of test toolkit",
       "excerpt": "New pilot framework and toolkit will enable businesses to demonstrate their \"objective and verifiable\" use of artificial intelligence, says the Singapore government, which hopes to drive transparency in AI deployments through technical and process checks.",
@@ -128,6 +223,58 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally.md",
+      "title": "Asian markets rise, encouraged by earnings and Wall Street’s rally",
+      "excerpt": "“Improved risk sentiments in Wall Street, along with earnings outperformance from Alibaba and Baidu, may aid to fuel ... banks and retailers driving much of the rally. While trading has remained ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "originalUrl": "https://www.marketwatch.com/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-552884/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "publishedDateTime": "2022-05-26T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -963,144 +1110,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity.md",
-      "title": "Ethical AI Development: A Moral Responsibility And A Commercial Necessity",
-      "excerpt": "The full potential of AI will only be unleashed when its human inputs are truly valued and properly nurtured believes Shoma Kimura, Senior Director of AI Services for TaskUs. Amid the high-tech excitement and ever-rising expectations surrounding it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
-      "originalUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6286108612fba45d9fab7b9e/0x0.jpg?format=jpg&width=1200",
-          "width": 904,
-          "height": 732,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
-      "publishedDateTime": "2022-05-26T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-is-california-still-investigating-teslas-self-driving-claims.md",
-      "title": "Is California Still Investigating Tesla’s Self-Driving Claims?",
-      "excerpt": "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
-      "originalUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/dac6b4f/2147483647/strip/true/crop/1169x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F10%2F047551f6e89d9c93c1029ed26dce%2Fshutterstock-369110243.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
-      "publishedDateTime": "2022-05-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-will-ai-text-to-image-generators-put-illustrators-out-of-a-job.md",
-      "title": "Will AI text-to-image generators put illustrators out of a job?",
-      "excerpt": "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/",
-      "originalUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/",
-      "publishedDateTime": "2022-05-26T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

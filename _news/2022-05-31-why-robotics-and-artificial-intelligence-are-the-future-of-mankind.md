@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-roboti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
 type: article
 quality: 123
-heat: 223
+heat: 233
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
         width: 1280
         height: 672
+        isCached: true
+  - title: "4 Skills That Won’T Be Replaced By AI In The Future"
+    excerpt: "You've probably heard for years that the workforce would be supplanted by robots. AI has changed several roles, such as using self-checkouts, ATMs, and customer support chatbots. The goal is not to scare people,"
+    publishedDateTime: 2022-06-04T09:43:00Z
+    webUrl: "https://menafn.com/1104322831/4-Skills-That-WonT-Be-Replaced-By-AI-In-The-Future"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?534711"
+        width: 261
+        height: 250
         isCached: true
   - title: "Global Space Industry Report 2022: The Future of AI-Enabled Space Services"
     excerpt: "The \"Global Artificial Intelligence in Space Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. The multiple NewSpace start-ups entering the"

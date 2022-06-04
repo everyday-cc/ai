@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "At 20.80% CAGR, Heart Pump Device Market Size is Expected to Reach USD 6162.34 Bn by 2028 - Exclusive Report by Zion Market Research"
-    excerpt: "As per Zion Market Research study, The global Heart Pump Device market was worth around USD 1983.10 billion in 2021 and is estimated"
-    publishedDateTime: 2022-05-30T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/at-20-80-cagr-heart-pump-device-market-size-is-expected-to-reach-usd-6162/article_8e7207e9-96fd-5b79-8590-e6dec5ce0b0b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
   - title: "Enterprise AI Market is estimated to be USD 2.03 billion in 2019 and is predicted to reach USD 154.90 billion by 2030"
     excerpt: "The Global Enterprise AI Market size is estimated to be USD 2.03 billion in 2019 and is predicted to reach USD 154.90 billion by 2030 with a CAGR of 48.3%"
     publishedDateTime: 2022-06-01T13:16:00Z

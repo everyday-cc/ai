@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-23-aging-politicians-like-sen-dianne-feinstein-should-know-when-its-time-to-leave-the-stage.md",
+      "title": "Aging politicians like Sen. Dianne Feinstein should know when it’s time to leave the stage",
+      "excerpt": "But without exception, decreased endurance, memory degradation, physical health concerns and general cognitive decline, are part of our balancing acts. Like cars, refrigerators and 10--year-old ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/",
+      "originalUrl": "https://www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/aging-politicians-should-know-when-its-time-to-leave-the-stage/?amp=1",
+      "publishedDateTime": "2022-04-22T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-22-dahua-launches-xvr-i3-series-to-broaden-ai-applications.md",
       "title": "Dahua launches XVR-I3 Series to broaden AI applications",
       "excerpt": "Dahua Technology, a video-centric smart IoT solution and service provider, recently unveiled an addition to its AI-enabled XVR series by releasing the XVR-I3 models. These new product",
@@ -1270,49 +1304,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-study-smart-tvs-gaming-lead-video-accessibility.md",
-      "title": "Study: Smart TVs, gaming lead video accessibility",
-      "excerpt": "According to research by Interpret, smart TV makers and gaming companies have been some of the most aggressive in the entertainment arena to bring new accessibi",
-      "sourceUrl": null,
-      "webUrl": "https://advanced-television.com/2022/04/08/study-smart-tvs-gaming-lead-video-accessibility/",
-      "originalUrl": "https://advanced-television.com/2022/04/08/study-smart-tvs-gaming-lead-video-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://advanced-television.com/wp-content/uploads/2020/11/Samsung-Smart-TV-voice-cap_main3.jpg",
-          "width": 1000,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Advanced Television",
-        "domain": "advanced-television.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

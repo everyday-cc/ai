@@ -2,17 +2,21 @@
 category: news
 title: "New processors make edge AI more accessible while cutting power consumption in half"
 excerpt: "Expanding on its history of delivering highly integrated processors, Texas Instruments (TI) (Nasdaq: TXN) today introduced new Sitara™ AM62 processors that help expand edge artificial intelligence (AI) processing into next-generation applications."
-publishedDateTime: 2022-06-02T16:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/02/9613952.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/02/9613952.htm"
+publishedDateTime: 2022-06-02T13:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370"
 type: article
-quality: 33
-heat: 33
+quality: 63
+heat: 63
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -24,6 +28,6 @@ images:
     height: 225
     isCached: true
 
-secured: "C6c4x828/gZ5YkZN3NRhJ/Lb+F7VLnVMSCsb00kOL6+arRR9gPeaqiTmG41Am+boEdSEY32Z4VE+L6nMOQ4hOni4cb6cDWE/gtBiYlA75AVUT0Tkbo5wuf0Yy2BWvH8jmArKXk9jTyGxbPktZazjPJF6d61sp1AN5c/zKwb/js3Z9cMJ/kD+QXRuDgttu2q3PY2uMTr490PBtjKqeBSTgW3d+z0ujVAOkKa2B/3pyMAH/E9NNNYQfieUIhWFbDrnUK9puLg5Te+CdAbdGy6joVdvKEsgLTkLZknyeRuGLH/6nv+Nr184kt5IT5suiHO2YaBiLuL1gzk93RronXrj8YDF+24yCvZujbne9uZWeTk=;tR0JHApnTC0yBpFbrqsKLg=="
+secured: "LW7MNYd0tHNChPT6mdgOZ1/JKtSH23rONoh9JAccct2WBiiOc2EkQSRqzaO10pPq3XI6r2p3lxqsskjkXTe1LvPnX8AlqwEQidkRicL9LjxU6y590LN55Q3tUlELAMvoW8PQF3LkYVK3EP1ZjBreH/Z/9OLWktdp4+5xj+RG+ZEG+zNxh4iifc3cPi57XnuloO75In9z2HLMdN8ZseTjsLHpP6VkuEb6TXmUA6x+WA9xHCpPo27ckPIJtv/ZXAPyrOMnL9/cS4spNMSVYAPamvWiyhjcaRJH6NK873M6sEJCqbmyczCnT4Iwh0PMExvo6i+XiZOlf//LHRKifdymuqyCQWWPspe1NUrUTih8Ugs=;qZ9s/v3Tj1yW2Cwgd5nWAw=="
 ---
 

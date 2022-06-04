@@ -2,6 +2,263 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-03-17-2-public-more-likely-to-see-facial-recognition-use-by-police-as-good-rather-than-bad-for-society.md",
+      "title": "2. Public more likely to see facial recognition use by police as good, rather than bad for society",
+      "excerpt": "Facial recognition technology dates back to the 1960s, with techniques that relied on hand coding facial features of each face in the database. The rise of massive databases, automation, complex analytical tools and machine learning has vastly transformed the capacity and reach of this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2022/03/17/public-more-likely-to-see-facial-recognition-use-by-police-as-good-rather-than-bad-for-society/",
+      "originalUrl": "https://www.pewresearch.org/internet/2022/03/17/public-more-likely-to-see-facial-recognition-use-by-police-as-good-rather-than-bad-for-society/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/03/PS_2022.03.17_ai-he_02-07.png?w=420",
+          "width": 420,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-artificial-intelligence-chipsets-market-size-worth-12567-billion-globally-by-2028-at-3408-cagr-verified-market-research.md",
+      "title": "Artificial Intelligence Chipsets Market size worth $ 125.67 Billion, Globally, by 2028 at 34.08 % CAGR: Verified Market Research®",
+      "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence Chipsets Market\" By Technology (Natural Language Processing, Machine Learning), By Hardware (Memory, Network),",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08/article_873fe271-a5f9-503b-97c5-e72bee51cd92.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chipsets-market-size-worth-125-67-billion-globally-by-2028-at-34-08/article_873fe271-a5f9-503b-97c5-e72bee51cd92.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors.md",
+      "title": "Durham startup restor3d, merging 3D printing, biomechanics, and AI, raises $14M from 147 investors",
+      "excerpt": "A Durham-based startup with ties to Duke has raised nearly $14M and could raise up to $22M, according to a filing. And 147 people have invested so far.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/",
+      "originalUrl": "https://wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2018/10/money-cash-venture-capital-profit.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/03/17/durham-startup-restor3d-merging-3d-printing-biomechanics-and-ai-raises-14m-from-147-investors/?amp=1",
+      "publishedDateTime": "2022-03-17T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-pathai-partners-with-datavant-to-enable-biopharma-companies-to-connect-digital-pathology-data-for-research.md",
+      "title": "PathAI Partners with Datavant to enable Biopharma Companies to Connect Digital Pathology Data for Research",
+      "excerpt": "PathAI, a global leader in artificial intelligence (AI)-powered technology for pathology, and Datavant, the leader in helping organizations securely connect health data, announced a collaboration to enable compliant connectivity of PathAI’s pathology platform to life sciences trial data and other real-world data.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-health-artificial-intelligence-9ba9f3f58d4a6463ba9f046d0209ed10",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-science-business-health-artificial-intelligence-9ba9f3f58d4a6463ba9f046d0209ed10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-speech-recognition-software-helps-tibetans-better-communicate.md",
+      "title": "Speech recognition software helps Tibetans better communicate",
+      "excerpt": "What helped them conquer the language barrier is a speech recognition app on the smartphone that can convert the three main Tibetan dialects — U-Tsang, Amdo, Kamba — to texts and translate them into Chinese.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/speech-recognition-software-helps-tibetans-better-communicate/",
+      "originalUrl": "https://www.macaubusiness.com/speech-recognition-software-helps-tibetans-better-communicate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mbusiness.sgp1.digitaloceanspaces.com/2019/12/Grand_Hyatt_Macau_logo3.png",
+          "width": 516,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-17T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-17-the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage.md",
+      "title": "The Internet of Beer: Robotics startup taps Bitcoin to deliver automated beverage",
+      "excerpt": "The Smart Tap system was created in 2016 and employs blockchain technology to link the future of draft beer with the future of transactions.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage",
+      "originalUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDMvNGE5ODEwM2ItOTQxYS00NTEzLWI0YTktNjQyODY2YTUyMDhkLmpwZw==.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/the-internet-of-beer-robotics-startup-taps-bitcoin-to-deliver-automated-beverage/amp",
+      "publishedDateTime": "2022-03-17T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-irobot-releases-genius-40-home-intelligence-doubles-the-intelligence-for-roomba-i3-and-i3-robot-vacuums-and-more.md",
       "title": "iRobot Releases Genius 4.0 Home Intelligence: Doubles the Intelligence for Roomba® i3 and i3+ Robot Vacuums and More",
       "excerpt": "Updates Include Imprint® Smart Mapping for Roomba i3 Series, Siri Commands, Clothing & Towel Detection for Roomba j7 Series. BEDFORD, Mass., March 17, 2022 /PRNewswire/ -- iRobot",
@@ -815,276 +1072,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-predictive-oncology-applies-artificial-intelligence-to-the-research-and-development-process-of-personalized-cancer-therapies.md",
-      "title": "Predictive Oncology applies artificial intelligence to the research and development process of personalized cancer therapies",
-      "excerpt": "Predictive Oncology Inc is a knowledge-driven company focused on applying artificial intelligence (AI ... and ultimately succeed in optimal therapy selection for patients. Predictive Oncology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/976991/predictive-oncology-applies-artificial-intelligence-to-the-research-and-development-process-of-personalized-cancer-therapies-976991.html",
-      "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/976991/predictive-oncology-applies-artificial-intelligence-to-the-research-and-development-process-of-personalized-cancer-therapies-976991.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzAzXC8yMDIxLTAxLTI5LTE2LTAxLTE4LTBmYjQ3OTQwMjlmNzU2NzY2ZDYwOTZjNzZhMzRmNDFmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/976991",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/976991",
-      "publishedDateTime": "2022-03-16T19:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors UK",
-        "domain": "proactiveinvestors.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-microsoft-surface-hub-2-smart-camera-with-laptop-grade-chip-12mp-ai-cam-launched.md",
-      "title": "Microsoft Surface Hub 2 Smart Camera with laptop-grade chip, 12MP AI cam launched",
-      "excerpt": "Microsoft has just unveiled its Surface Hub 2 Smart Camera which boasts of some highly impressive features and capabilities. The Microsoft Surface Hub 2 Smart Camera is not just an everyday webcam and it does not come cheap – it is priced at $800.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/",
-      "originalUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/03/Surface-Hub-2S-1-810x298_c.jpg",
-          "width": 810,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/03/17/microsoft-surface-hub-2-smart-camera-laptop-grade-chip-12mp-ai-cam-launched/?amp=1",
-      "publishedDateTime": "2022-03-16T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist.md",
-      "title": "These 2 Artificial Intelligence Stocks Are Set for Strong Growth, Says Truist",
-      "excerpt": "Let’s talk about artificial intelligence. AI is a growing segment of the tech sector, finding uses in almost every industry, especially those featuring autonomous systems. Self-driving cars, industrial robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist",
-      "originalUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/these-2-artificial-intelligence-stocks-are-set-for-strong-growth-says-truist?amp",
-      "publishedDateTime": "2022-03-16T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-5-key-themes-in-americans-views-about-ai-and-human-enhancement.md",
-      "title": "5 key themes in Americans’ views about AI and human enhancement",
-      "excerpt": "Americans regard advances in artificial intelligence and human enhancement technologies ... media companies to find false information on their sites and a future with driverless passenger vehicles. It also explores three developments tied to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/fact-tank/2022/03/17/5-key-themes-in-americans-views-about-ai-and-human-enhancement/",
-      "originalUrl": "https://www.pewresearch.org/fact-tank/2022/03/17/5-key-themes-in-americans-views-about-ai-and-human-enhancement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/wp-content/uploads/2022/03/FT_22.03.16_AIHumanEnhancementTakeaways_feature.jpg?w=640",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Research Center",
-        "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with.md",
-      "title": "Downer Group leverages AI-infused analytics to drive the development of next-generation health, safety and environment management systems with Crayon",
-      "excerpt": "Systems that collect and analyse evidence at a massive scale to predict potential futures before they occur (without the pre-cognitive humans in a ... In 2021, Downer Group partnered with Microsoft and IT services specialist Crayon to start building ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-au/features/downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with-crayon/",
-      "originalUrl": "https://news.microsoft.com/en-au/features/downer-group-leverages-ai-infused-analytics-to-drive-the-development-of-next-generation-health-safety-and-environment-management-systems-with-crayon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/66/2022/03/Downer.Microsoft_Image.selection.02.202219.jpg",
-          "width": 1365,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-how-ibms-watson-can-help-cut-your-tax-bill.md",
-      "title": "How IBM’s Watson Can Help Cut Your Tax Bill",
-      "excerpt": "H&R Block has “hired” IBM’s Watson--a powerful artificial intelligence system--to act as a cyberguide in preparing taxes. To study for the job, Watson digested the federal tax code (more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
-      "originalUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.kiplinger.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615837136/kiplinger_placeholder.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
-      "cdnAmpWebUrl": "https://www-kiplinger-com.cdn.ampproject.org/c/s/www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
-      "publishedDateTime": "2022-03-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kiplinger",
-        "domain": "kiplinger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

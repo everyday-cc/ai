@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and
 webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/"
 type: article
 quality: 101
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/05/Synaptic-social.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Top 8 predictive analytics tools compared"
+    excerpt: "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot."
+    publishedDateTime: 2022-06-01T09:46:00Z
+    webUrl: "https://www.arnnet.com.au/article/698085/top-8-predictive-analytics-tools-compared/?fp=2&fpid=2"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/prediction_predict-the-future_crystal-ball_hand-holding-crystal-ball_by-arthur-ogleznev-via-unsplash-100811997-orig-100927909-orig.jpgautowebp8570"
+        width: 472
+        height: 315
         isCached: true
   - title: "Synopsys Launches the Era of Smarter SoC Design with ML-Driven Big Data Analytics Technology"
     excerpt: "Driving greater design productivity by harnessing previously untapped design insights with machine learning technology, Synopsys, Inc. (Nasdaq: SNPS) today announced a critical expansion of its EDA data analytics portfolio with the introduction of Synopsys DesignDash design optimization solution."
