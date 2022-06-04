@@ -1,32 +1,44 @@
 ---
 category: news
-title: "Why AI and ML is Reshaping the Fintech Industry"
-excerpt: "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation"
-publishedDateTime: 2022-06-02T08:00:00Z
-originalUrl: "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry"
-webUrl: "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry"
+title: "The Innovators 2022: World’s Best Fintech Labs"
+excerpt: "Fintech innovations recently arising from the Morgan Stanley ... The Bulgarian company Appraiser.ai is a recent graduate. The company uses the latest AI and machine learning technologies to deliver insights to the mortgage market, then automate valuation ..."
+publishedDateTime: 2022-06-03T00:00:00Z
+originalUrl: "https://www.gfmag.com/magazine/june-2022/worlds-best-fintech-labs-innovators-2022"
+webUrl: "https://www.gfmag.com/magazine/june-2022/worlds-best-fintech-labs-innovators-2022"
 type: article
-quality: 58
-heat: 128
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: fintechmagazine
-  domain: fintechmagazine.com
+  name: Global Finance
+  domain: gfmag.com
 
 topics:
   - AI in Finance
   - AI
-  - Machine Learning
-  - Computer Vision
 
 images:
-  - url: "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg"
-    width: 1800
-    height: 1011
+  - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/innovation-labs-2022-1200-1654297965/b731b9466a0788c034d61da77581a56b.png"
+    width: 500
+    height: 262
     isCached: true
 
 related:
+  - title: "Why AI and ML is Reshaping the Fintech Industry"
+    excerpt: "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation"
+    publishedDateTime: 2022-06-02T08:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 58
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg"
+        width: 1800
+        height: 1011
+        isCached: true
   - title: "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements"
     excerpt: "With this new partnership, Identifee will embed Photon Commerce’s natural language AI API into its platform, allowing financial services organizations to create client specific"
     publishedDateTime: 2022-06-01T05:54:00Z
@@ -75,20 +87,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "The Innovators 2022: World’s Best Fintech Labs"
-    excerpt: "Fintech innovations recently arising from the Morgan Stanley ... The Bulgarian company Appraiser.ai is a recent graduate. The company uses the latest AI and machine learning technologies to deliver insights to the mortgage market, then automate valuation ..."
-    publishedDateTime: 2022-06-03T00:00:00Z
-    webUrl: "https://www.gfmag.com/magazine/june-2022/worlds-best-fintech-labs-innovators-2022"
-    type: article
-    provider:
-      name: Global Finance
-      domain: gfmag.com
-    quality: 24
-    images:
-      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/innovation-labs-2022-1200-1654297965/b731b9466a0788c034d61da77581a56b.png"
-        width: 500
-        height: 262
-        isCached: true
   - title: "Tintra is turning fintech into fully operational bank, eyes licenses in four continents"
     excerpt: "\"Within the next three months or so we will be engaged with bank licence applications on three continents - something that I'm immensely proud of the team for undertaking - and by next year taking that up to four."
     publishedDateTime: 2022-05-31T14:05:00Z
@@ -122,6 +120,6 @@ related:
       domain: independent.com.mt
     quality: 4
 
-secured: "0fC9nZwUOdSkIyfE7EV3oYjwxD+o739FxcDJNIXEPgj7EeHFvphgYGz0xciBZwXkhTydvjOWaUuv3FRfez9YTnRE0vM7ISZavdex/HRrXt1JE9htE7/PawVdTtS382+mlJzHcIWb4kl08vs6G4WFXuErz44FFv7ec+bEzdnu3/sIMN3AAXGke/Mwbou33Ai5IAPogRq8VV8Fw947NS0WNuLNfqcoO1LC5FmvznaPe+MyEYqrIog1MtNaqrNKEsVLtItJh7Ta8JVJKoszhaiY66pJSzbAmlM0bdFv32O+ZM9WuK5IpGHNB/Os6s2s/tLaDotYzeqiWkMzj8kywCSLJsFqiVbpcJPgilYbX+B0Y+E3Uqw/Xj9Jq8clYI4k1csujpsUWr0eQD55GxaQ/rFa0gZ0Srp2vKf5jt7LPx6bUrUqhGU0QPWrsAeWmDeHZhW9e3MhTukuYd6WXMJIaMwZInBSYW9j5e66x6M8sCqANVZ2jbHPkxPbbhf13xSa5AUIhVPnNwNHsQ8/K1kWKEvvXg==;7Ce0/5xgYs8e+aKPJccvIA=="
+secured: "u8RWUwDjhIMxnxnFoDILCBApBbZElZhv6LpoBuEu4tIoeVFwVuHSk5NdN/LHcQleuffNqH9r47brvU4F04322OeFWVjLMdQAB+Lza9vC1P8fbt/0S0VD8VLB3pyuVSPcCG6K3kf+VEDiL5ER1nlLa7cxbXqTvavZ2n0VNpB6oAUXJ3lhuoLjS+sdezDQfi4Lrb9+5MXtGD1S+x4kCHEcEwCX6bqAJNf3MdXh9zc7c7eAHYS+O6j0pbV8dhL759mMIahUXf2IcMUWG4Z0Wuh7tM4MXl400OQfI7YCQrexwC1uB53BDprfG+GQ41+iQdCZo+W0QOIZlPHmHK5cmb8VTdQi+DzwtdladVMh8o+qyyM=;PZCSImKHBPBLdiMXk2xv4w=="
 ---
 

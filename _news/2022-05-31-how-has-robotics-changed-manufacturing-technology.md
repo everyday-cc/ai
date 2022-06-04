@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-r
 webUrl: "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Irish Examiner view: Should we be wary of facial recognition technology?"
+    excerpt: "Should we be concerned at the news that An Garda Síochána are moving quickly to embrace facial recognition technology, which, says Justice Minister Helen McEntee, will be used to analyse CCTV footage for suspects in serious crimes or to identify missing persons,"
+    publishedDateTime: 2022-06-04T01:00:00Z
+    webUrl: "https://www.irishexaminer.com/opinion/ourview/arid-40888013.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 40
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/6081/3040946_2_seoimageog_NO_20FEE_20GRA_20CONFERENCE_2023.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition technology: A solution to problems that hardly exist"
     excerpt: "What a crazy two weeks it’s been in the business of citizen surveillance. In late May, I was planning a column on facial recognition, after the deeply controversial facial recognition technology (FRT) company Clearview AI was fined £7.5 million by the ..."
     publishedDateTime: 2022-06-02T04:59:00Z

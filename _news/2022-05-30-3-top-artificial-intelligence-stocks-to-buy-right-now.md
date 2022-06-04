@@ -1,25 +1,33 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Artificial intelligence (AI) is an emerging field that many companies ... is making hay. Amazon Web Services (AWS) is the clear cloud infrastructure leader, claiming 33% of the overall marketplace. AWS is highly profitable and multiplying."
-publishedDateTime: 2022-05-30T11:08:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
+excerpt: "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,"
+publishedDateTime: 2022-05-30T10:45:00Z
+originalUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
+webUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 quality: 69
 heat: 69
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - AI in Robotics
   - AI
 
-secured: "9QEJewfQamRvaVQLKS9dTFugnV4jxjXBh7xJVWXxkm6paU1zKIQ/e5UKrKrodwBLrKVJfaAFg1WNnHlrhljwSmY+v2iG/RssZguLG+klJ5Zfe5HduqSnFt1Oz6/HOCiXoF4tyUD5VN6zSiyNkf/ZZFo1lu+7ffndiyIDhpVAvcgl5byUc4wz9rYwxofI2d2BBaX6BRNB2CcyQkE/jMelaSaTDik6qP9M0w1LnTFkw7M3EIzFxPu8F5UWieY++P6p/gpunpOW9O/CFhVlUHpZXDqgGLIynULGJ6C+ZnFnKKTLw4KqWyakpSm8my2VW1CmGLYsCgaj7LFD7p2hbGLAbF1VPmSyKTB9kRQI7t7onFEAoOfQuIbxQlcH2lcvncvvnMTWAl514XlktheiVQ/gsvQe6C1RrbN2OqMzRy1Qlqlx6EHWyRVmp8bCZ6dT55c54SHmEpher8imc3YPR2Nj77KVILtTNmYqyAYF6eP3aGuaFr65VSpSyqUxyzl/srRJdj3Vc5o0BYDWERAz4XkOzA==;DjpttV+Y6ahh6zyKPj0yEQ=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
+    width: 2310
+    height: 1297
+    isCached: true
+
+secured: "gVEFI4VL3wA0PKueuTmUmay7l/MIsho8eYAmbUVcX1muyc6qY6w0caDIwLA02X4AJh8swI8A9oe07zLE+DvUJ7+TrnHU8z9GdqXrYtyZQEaFpZhkJIedQQVa3Jx8xdviI+Rggaug2wD7tt2OCBLgSUWsojeqbK2yUZhC0oHAy1tqgtZBejzCUH7xQZ6CnbeEEf9A4v1bbuI8gnm5KfTa7oivi9xDvXW6lEV2j7+JQ0+TUuqlDVYxPkgCtXi/wksHTOSbhEiJIS8aPC+CJlC3R0wgonmMBXNzAaNQW56TnIQM9+yplOPn+DoHD4tzKWhanuRF9tLWOthBt4wHB4CF9LxAFWpuGZBcyKDg+Jz5+mk=;BvNwwtWvCxWoSDg7YLJlmg=="
 ---
 

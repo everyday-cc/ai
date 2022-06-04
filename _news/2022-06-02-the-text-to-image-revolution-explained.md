@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vox.com/platform/amp/23150422/text-to-image-ai-deep-lear
 cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/23150422/text-to-image-ai-deep-learning"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1400
     height: 1050
     isCached: true
-
-related:
-  - title: "GN webinar to explore how conversational AI can help revolutionise customer service"
-    excerpt: "Learn how businesses can harness the power of AI for a competitive advantage Today’s customers demand exceptional service from businesses at every touchpoint. While a great experience can mean ..."
-    publishedDateTime: 2022-05-30T08:20:00Z
-    webUrl: "https://gulfnews.com/technology/gn-webinar-to-explore-how-conversational-ai-can-help-revolutionise-customer-service-1.1653898509628"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 31
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/05/30/reach-ai-webinar_18113fd342a_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
 
 secured: "Tnqx+eSv9SNSujwxvA3DK3pRABm3LrSi8aNtWn/qglNG7i3SGTV5Oaez212P6iid5rq7BIkGJFNDoOarZl/qazWdDEpucbW0Q1ZDyCS7NT7tTtawwucupDF8XSXt8pOiEHq4n9JhJliD1ygluXP8IZ6gLYeUfQNDFb8KsxzsM2EnS/OcIBs9H7DlUfiPct/60n7z4o9QmFENdmSzTbWvU8Vo7HiWPY9gs8u+S4oWEw4kB9FD5eJQwe5lVtxS3P4OaC/RCbh93bVOzdBu416ulLt3el87VlGXJWAeWhKRI5/s6jqUTPY2W4kP5H2HVy5kiG26cFOEbwhrtaTm4y09In4goBpm1oXV+BEBMeUz+fI=;fKDKR6ZNysPS7w5ayJn7iA=="
 ---

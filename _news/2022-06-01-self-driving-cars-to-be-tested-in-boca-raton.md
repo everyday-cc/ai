@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Cars And UGA Going Higher"
-    excerpt: "Oil prices have an increasing trend for 80-year. Only reduced demand can change the trend. Self-driving cars are a proven solution to reducing demand with Mobility As A Service (MAAS). U.S. Peak ..."
-    publishedDateTime: 2022-06-02T15:24:00Z
-    webUrl: "https://seekingalpha.com/article/4516013-self-driving-cars-and-uga-going-higher"
+  - title: "Unlock Lambton self-driving tour back on the road"
+    excerpt: "TSL is re-launching the Unlock Lambton Self-Driving Tour on June 4 in celebration of National Tourism Week. The event will feature 20 different sites and attractions from Grand Bend to Petrolia to St."
+    publishedDateTime: 2022-06-03T16:21:00Z
+    webUrl: "https://blackburnnews.com/sarnia/sarnia-news/2022/06/03/unlock-lambton-self-driving-tour-back-road/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: Blackburn News
+      domain: blackburnnews.com
     quality: 24
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1318302966/image_1318302966.jpg?io=getty-c-w750"
-        width: 750
-        height: 562
+      - url: "https://blackburnnews.com/wp-content/uploads/2019/12/Petrolia-Discovery-Foundation-400x250.png"
+        width: 400
+        height: 250
         isCached: true
-  - title: "Why self-driving car pioneers are backing an Aussie start-up"
-    excerpt: "Strong Compute, which allows AI developers to train their algorithms faster, has raised $11m from VCs and heavy hitters in the self-driving car space."
-    publishedDateTime: 2022-05-30T19:00:00Z
-    webUrl: "https://www.afr.com/technology/why-self-driving-car-pioneers-are-backing-an-aussie-start-up-20220526-p5aos5"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 4
 
 secured: "RckXhcUal2rSmRuUSP1ZuorIIGndzyWm2AjFVHKKoSmRVPX06k63KdK6JuasfurRA7pvlX/kObI+qZVqaVcV/rNqNAN0jSCPsHfGFvzRrQOM7Z/7+WgsJoNiqIzEH20EAOjUzTrXTYu/e96cn2PhFkPH33yTI/fqtIQ5anNJZJjEFyUxyyj4mk+Ol4J4Ym4zyi4Odhr2IBGW6QR/R+MPftjTo0roIywsOdtPWj/2czcZ727idXqnykNa5CEv+fKfU5SUslbHCT3FYPJ+FDBjWFLQHRclaHUrPMDIh2Oggj9w+/pu6DxaWCVihktlClNnvEk4T5a4NcCWFdP7cJK6XiYjSHKgiN8LRUwwIBmeBRTk6ORavXteh8p32BQ33I7couspzgcRDuPO17Ii33AGYfmE0mMOvRfeIxT1zBNPQg1VeuNyMqJwrxNyFRvd8OGg0ffyZ1htJakMa8DjnwL/6gP3KjaAPEDhOoFNF+NmrRczeHyMjUC+cJVPQYr2YPkpfi68NX5xYfEiJOBJpj6Scw==;+6P2Cp/XAxpdpiI0guLovw=="
 ---

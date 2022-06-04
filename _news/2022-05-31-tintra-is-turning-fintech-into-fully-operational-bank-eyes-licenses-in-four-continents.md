@@ -81,6 +81,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "The Innovators 2022: World’s Best Fintech Labs"
+    excerpt: "Fintech innovations recently arising from the Morgan Stanley ... The Bulgarian company Appraiser.ai is a recent graduate. The company uses the latest AI and machine learning technologies to deliver insights to the mortgage market, then automate valuation ..."
+    publishedDateTime: 2022-06-03T00:00:00Z
+    webUrl: "https://www.gfmag.com/magazine/june-2022/worlds-best-fintech-labs-innovators-2022"
+    type: article
+    provider:
+      name: Global Finance
+      domain: gfmag.com
+    quality: 24
+    images:
+      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/innovation-labs-2022-1200-1654297965/b731b9466a0788c034d61da77581a56b.png"
+        width: 500
+        height: 262
+        isCached: true
   - title: "AI in Fintech Analysis, Share, and consumption by Regional data, Investigation and Growth, Demand by Regions, Research Forecasts To 2030"
     excerpt: "Global AI in Fintech Market to surpass USD 39.87 billion by 2030 from USD 8.9 billion in 2020 at a CAGR of 36.81% in the coming years, i.e., 2021-30. Fatpos Global added a new report into their database named “AI in Fintech Market Segments: By Component: Solution Services By Deployment: Cloud On-premise 2021–2031 Global Industry Perspective,"
     publishedDateTime: 2022-05-31T09:34:00Z

@@ -41,15 +41,6 @@ related:
         width: 740
         height: 493
         isCached: true
-  - title: "FPT Software Formed New Business Alliance with Landing AI, Promoting Visual Inspection Technology"
-    excerpt: "Vietnam's leading IT firm, FPT Software, has recently entered a strategic partnership with Silicon Valley AI and machine vision leader Landing AI. Both companies will tap into their Artificial Intelli"
-    publishedDateTime: 2022-05-30T08:18:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/05/b27460278/fpt-software-formed-new-business-alliance-with-landing-ai-promoting-visual-inspection-technology"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
 
 secured: "T6vdAPnvIWhA1CitnWRG23uEsOoGql0CWIRiVjRIOki4NWgmKRIlfRaaa6wb9GqI7mqYpU+sJO8CAaB8d7lPykC3jhFZ2dIqK1ZTzoF8dCXBRHeuYiKf3xTZBX7F74MNEioqVl1tRLHRhK8RBZF2x2UszZ9w6S8CXZpPU1QLCbnjlbrSPrFLWCFu2dRuQdGXQJA4ImiCR8LVogdNKCDISi04PuEJAOJWvHQMlcEy3/OWtzgGzTbN9xvEtb4Z/U32moxnt4nzZWm+jJBDkyLKXy/jGh+NCEnR29JERWAu7MRUiLuTrErx2bDVZKMJKO3sfUzHWTWuP4Dow618rFaNOUJRxygpK0UTvl5ecUSNaRk=;cbrpD5UCTOZDdRRC9+Snhw=="
 ---

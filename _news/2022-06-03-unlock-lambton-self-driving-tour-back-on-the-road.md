@@ -24,6 +24,17 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Self-driving cars to be tested in Boca Raton"
+    excerpt: "The future has arrived in Boca Raton. The city is now testing self-driving cars with the hope of eventually adding them alongside drivers on the road."
+    publishedDateTime: 2022-05-31T21:36:00Z
+    webUrl: "https://www.wflx.com/2022/05/31/self-driving-cars-be-tested-boca-raton/"
+    type: article
+    provider:
+      name: WFLX
+      domain: wflx.com
+    quality: 4
+
 secured: "AgoQZK45aT3d9izSu7uRiY9G9ERWbE7bGS3jVMPb8ho5PQQFqkKz2/ATUDM9p0u80AgP/IGJSINXrKHlp3qOlTAz7tziC/PrIE5I4LV4OhmHGENNUupn7uGpnZxv2TVt87VTbWUMfXeNHF6GnJonWKRCtLaq1wXzjuNcGyZCGwbREnj+PGAEGJBmbuSi2Bl2kJcySBfCUKkoQt5frMc+HXlMFgOAl57c0txv8fX8IhyXsQf21URrPspSvCo0m7O6eT8n3vmEt7HpruPf4vzTp2cRjMvHmNS/9t7yW84Z8IvMxILW6F2aueGhr4DW6Bei0VPbXkNkDeeCIsHWG4Rr9t9mYIq4uJiUOqUGm3QYVhx50YlVLGnDeX0m06x57ez2hamsR34eIL1k5uFOukTct8LDxLo7vB8QiLNPY93F+VeS76kj0xxiM/LmLQj/XggZwuRm9w115gysD+XA+KKOD/tWCd8OAuHHUvR5nV8wnZA7s1yj8c8t1xqNIZTAvoAkZoLS69kIogrNtIE0IRzvfA==;7BDQzD4TA0zx3ORo3tuJjA=="
 ---
 

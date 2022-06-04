@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
 type: article
 quality: 57
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -144,20 +144,6 @@ related:
       - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
         height: 448
-        isCached: true
-  - title: "Global Machine learning as a Service Market to Boost the Growth during the Forecast Period 2022–2030"
-    excerpt: "The new report on “Machine learning as a Service Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered"
-    publishedDateTime: 2022-05-30T08:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-machine-learning-as-a-service-market-to-boost-the-growth-during-the-forecast-period-2022-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Artificial Intelligence And Machine Learning Market Is Likely to Enjoy Remarkable Growth (2022-2027)"
     excerpt: "Worldwide Artificial Intelligence And Machine Learning Market In-depth Research Report 2022, Forecast to 2027 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support (2022-2027)."

@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Pinterest acquires AI shopping startup 'The Yes'"
-excerpt: "THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO, Amit Aggarwal, a tech industry veteran."
-publishedDateTime: 2022-06-03T11:50:00Z
-originalUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
-webUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
-ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
-cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+title: "Pinterest (PINS) Acquires AI-Powered Shopping Platform The Yes"
+excerpt: "The acquisition is believed to help Pinterest accelerate its initiative to evolve as a “home of taste driven shopping” platform. The Yes, a startup founded by CEO Julie Bornstein in 2018, provides a personalized feed-based shopping platform based on users’ preference of brand,"
+publishedDateTime: 2022-06-03T14:50:00Z
+originalUrl: "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes"
+webUrl: "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes"
+ampWebUrl: "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes?amp"
 type: article
-quality: 57
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-91986699,imgsize-107315,width-1200,height-628,overlay-etbrandequity/pinterest-acquires-ai-shopping-startup-the-yes.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Pinterest acquires AI-powered shopping startup The Yes, co-founded by former Stitch Fix exec"
@@ -42,17 +36,22 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Pinterest (PINS) Acquires AI-Powered Shopping Platform The Yes"
-    excerpt: "The acquisition is believed to help Pinterest accelerate its initiative to evolve as a “home of taste driven shopping” platform. The Yes, a startup founded by CEO Julie Bornstein in 2018, provides a personalized feed-based shopping platform based on users’ preference of brand,"
-    publishedDateTime: 2022-06-03T14:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes"
-    ampWebUrl: "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes?amp"
+  - title: "Pinterest acquires AI shopping startup 'The Yes'"
+    excerpt: "THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO, Amit Aggarwal, a tech industry veteran."
+    publishedDateTime: 2022-06-03T11:50:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91986699,imgsize-107315,width-1200,height-628,overlay-etbrandequity/pinterest-acquires-ai-shopping-startup-the-yes.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "ServiceNow acquires Hitch to bring AI-powered skills mapping to the enterprise"
     excerpt: "ServiceNow is to acquire Hitch Works, an AI-powered platform that helps enterprises plug the talent gap through skills mapping."
     publishedDateTime: 2022-06-03T13:00:00Z
@@ -107,6 +106,6 @@ related:
         height: 202
         isCached: true
 
-secured: "0DTyDE57CPP/SDy3/Fs+x/cTKko51JMctWseG9zCoR0vWExjDdBFSJKpx8iTEEqjRDGb8LkUU8iGxlPWNuQBA6fua3duuAPPLQd8HAPG98E/U2Oyw9WTlai54OfMJR4QeHsDVRmRmi2ZmOFnUGcxffuEeRhCr455Ry0IWCePhlfiScf0AcV84zA2HhLQPBXAK3n/+DCSnbiJPdIDuU15Veo0Ki+/5RAIO/gtWu7bSUO2uQmKtVPaQILstYVanx8+V0SFyE304XPvGgbZSRHmt8y0GGdJb2BMX+lv7xQBqlOkGL85w4SixxWhSyUj5+VrMec5ypyXlt3qmnXlPAjCu6hufrL8Pc3lx/3jvLLDYv5WEWC9zS6ReArqA7fKj7P7WYAZ59228YWzMK+t94QVrOLAHqvv7EtoyInie9zEZkZS8cGUCL/qzpXVkypaJD8BMuARBQ4qqg6CsaDmCIf1850E96+zNJJDSC6tQA3Ec8yRbjvJ+amKBe3KGOPLTyaPO0s1ldPZJYCORVOR+5Mg9A==;zuNxx+VD9lMKxIC0zLPPZA=="
+secured: "QR4YkxysenN8AlYyOfjeSPetm+VjVdH/VsBAzs2HkvtVvxy4b7b2+4O49yZAtiwznV6yeENUXudHVkGqlGh/yJC8nCXBx4Mj03hIPvbdoMrBS06QMJC4sHaDDrvVv57S2xCM89Dv5Mdm9NjdFLvC8Wm0tfcvSZ+QpRivsOFylKv48KftXDe1rNeMc+qLJCn1uVYamP+YAXyZ0xxgIDi23W88SKl6L+Ga6U7erFWJSXz8H/LkmPKUF0sOuAEfa02ufd79eQv596e5QXOo095ghLTJ4f2IrNFjSAMjw1N071s3Zc3BtQ4euQqAnrI53+BBsjw8ZRmfVU2UUgnAySXmMNKRUI79A3X1wtXccWBaw34=;D6/u3ODhB4ViN64DP3f4Tw=="
 ---
 

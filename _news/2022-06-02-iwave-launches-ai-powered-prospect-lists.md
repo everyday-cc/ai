@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iwave
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iwave-launches-ai-powered-prospect-lists/article_a91e71ba-00cd-5476-a80c-8ef88d8a44dc.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Naver launches AI call service aimed at seniors"
-    excerpt: "Tech giant Naver said Monday that it has officially launched an artificial intelligence-based call service for older people who live alone. The service, Clova AI Contact Center Solution, is operated by the company’s AI technology Hyperclova,"
-    publishedDateTime: 2022-05-30T07:08:00Z
-    webUrl: "https://koreaherald.com/view.php?ud=20220530000643"
-    ampWebUrl: "http://m.koreaherald.com/amp/view.php?ud=20220530000643"
-    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220530000643"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 57
-    images:
-      - url: "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F05%2F30%2F20220530000595_0.jpg"
-        width: 630
-        height: 354
-        isCached: true
   - title: "iWave Launches AI Powered Prospect Lists"
     excerpt: "\"With the launch of Prospect Lists, we're putting the power of AI and big data behind every fundraising team and reimagining one of the most important steps in the donor funnel. Having the ability to identify strong donor candidates means that development ..."
     publishedDateTime: 2022-06-02T20:02:00Z

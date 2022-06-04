@@ -151,20 +151,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "Global Machine learning as a Service Market to Boost the Growth during the Forecast Period 2022–2030"
-    excerpt: "The new report on “Machine learning as a Service Market Report 2022 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2030” offered"
-    publishedDateTime: 2022-05-30T08:12:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-machine-learning-as-a-service-market-to-boost-the-growth-during-the-forecast-period-2022-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
     publishedDateTime: 2022-05-30T10:32:00Z
