@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Geisinger selects AWS as strategic cloud provider"
-excerpt: "Project will be one of the largest electronic health record cloud migrations to AWS to date, expected to enable life-saving technologies and save Geisinger several million annually DANVILLE, Pa., May 24,"
-publishedDateTime: 2022-05-24T14:07:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-geisinger-selects-aws-as-strategic-cloud-provider-/2022/05/24/9608319.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-geisinger-selects-aws-as-strategic-cloud-provider-/2022/05/24/9608319.htm"
+excerpt: "Project will be one of the largest electronic health record cloud migrations to AWS to date, expected to enable life-saving technologies and save"
+publishedDateTime: 2022-05-24T14:08:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/geisinger-selects-aws-as-strategic-cloud-provider-1031485427"
+webUrl: "https://markets.businessinsider.com/news/stocks/geisinger-selects-aws-as-strategic-cloud-provider-1031485427"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "UH3wnqYUVDLxBon/3TtBeZUP87yU//s+fAFzuc4dT7n5UPt+1SvaEwCG5RlzdjRXB9IPWd8X7HvTeELgahlB/OBjTT9OQZo+AbRwhhWVAxY8h3kYvXgtkuRqB6kj2WtqbxIIGRKDKgHYmqh2Gkskb9mCYz/7SF5Qv4KBukm5RcQT24IzZi2vMOLjdCCE5Iv8QMuL3l2h6iDY9tT7SATNq1qRQEsIw6ujhilYV9t+ophD36zlfFkOxJbVXp2CXKTb6NolmJpwn1/fNqEeKjg9qya1OcL+uAfRUr5vw4PUhk2S8o7YNNVUIn9sAM/fu1Jj6KjCkshA5pwHkW1AM4AkMKB/PQkm62ICiqwGBvK4dTWbpBJewSNqGPb6z/ATtmUDw5y+82RcCjWRTTsU8viGioQtbe3/9Kn5AykcRWzalC9fE+lIW0Rl5I9snf5WZKiPwSMJJsqqDeoVl8F2atovHfnPkXmjUIGu4mJVO1vYIS0jggaKUv/kiibHk9bW6+GrRwFgRg15lFuOO25BEJPdVQ==;stIwzB+Fo82f3XfMeQEZ1A=="
+secured: "yyV6PfiznMG3dYHLkZ2Y/2EEAQ9EdiHHRM7Y1xIkpHOPJAoRdhutxrlU1rTtjgR8bNIxf+aQVC33AAdmLkwly02VuDVNEih7vI31X28WykolL8Ev90R9yWAIcUs5nybOv3qYdEvXUlMIlTI3CP/f3Lg4wogrXz0NFlEJclRaJVfbRedLd+d4UT+Y+GSPA1WSvHtUmkEu73SXgfbVhwxwWv6FB/weETCq9DfIKlCGqGFVLcsEamDVeZmWah0riqsfghgZqjlExyobjiEI8piy+BEW4SsF7FwxpmAvIYuqz7OGg71hkSIafcweGbmASiFaRSEj7l09Rug9e6qRdp1AYH/rH6HX3dhE4pDXZjJt15BkjIrkkDUthb4fpUBKv+HxxqxaZQznNl09DiCD1C5c82oOrnIbOdIh7WRWQmGO7C52cNQR+TzyKAAAIU2kvV5hIJ+9Ga2LsUHqN0cMaCpMA1cjzVAMlib7LvO20sRJ3m+ElrW0pE3pTagL6dirBhM9Z3QD3+/R0N1YQHriWiKyBw==;QHayFNhmy/ciua1cY7JYKg=="
 ---
 

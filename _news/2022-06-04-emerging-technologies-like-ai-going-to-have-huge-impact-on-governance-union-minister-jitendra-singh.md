@@ -2,13 +2,13 @@
 category: news
 title: "Emerging technologies like AI going to have huge impact on governance: Union Minister Jitendra Singh"
 excerpt: "Emerging technologies like artificial intelligence (AI), augmented reality (AR), blockchain, drones, Internet of Things (IoT), robotics, 3D printing a.."
-publishedDateTime: 2022-06-04T03:52:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91997677"
-webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91997677"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91997677"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91997677"
+publishedDateTime: 2022-06-04T02:41:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91996424"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91996424"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91996424"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91996424"
 type: article
-quality: 44
+quality: 42
 heat: -1
 published: false
 
@@ -17,11 +17,10 @@ provider:
   domain: indiatimes.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-91997677,imgsize-57232,width-1200,height-628,overlay-etcio/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-91996424,imgsize-57232,width-1200,height-628,overlay-ettelecom/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh.jpg"
     width: 1200
     height: 628
     isCached: true
@@ -58,6 +57,6 @@ related:
         height: 315
         isCached: true
 
-secured: "KOy7WTCvqyyXwjLnhQgmi8iMMojdgh2aroeSYvGJWtmdB8v6cZKKp0DseYhQJ5QLLVMFe6ZM3RcsYbQpP/U4gRCgddM2th1vZaHghk8rPKUhn0EjS8bXGlKDpwD4mBiaUu22k2u3+W7XJWFlvcnDo4QvXeZQ4f00HN4g6tlsbMG+hf6utKTpjnU5Qk+CYjWwyBn1mLiHUQVd3kAC54Gn//kassTdzVdRW5mbNestWlHH4d2qRUaQxyPkBOcz7NKrzkyUCpc862zY+Gpl39sjRn0zZQ4rKd1KHSBj+2pZ8Zdet9jVqDoGnh8BXKAdEcrKMF5AfZkqsimN4Bi7Xph1kf9/qdi309h8I7JAyOwqgx0=;ZtF7aShEVl1cfG8yC+HQsA=="
+secured: "oLiU8PWPxTzOn4sA5BtTEgALSL16/bwNhZfgDUbysfYszqXCGGONroGzHSH1oLoxQpsenhRH/tdUqhVrptq6fe/gK4VsP9KdUrUKcOtBBRqIoWc5EeVoCVGQ1jPyHJIyighJb8kXE13BppC80snzUKKzVXID4FTxjaWOCazG7MIN2BWOf/q0/Kwo/cgZJMX7e/8xW+buJNkwRgA+M+Gxy6Xmfqp4yzBRWLueUQBABcdHUhIe6swFNJ42q6bpUUrtuESPPH+vsB1/uBjEMR8V9ghdm6KOndRtiTvmKM6oixiQz5o5UguY/+RP+wkrWTzmLSKRUqG+mrpsUAoaLQLagkbAsRphWnqBkf0EpLEz+I4=;3BUeEKRVP+M6Mletm6Erww=="
 ---
 

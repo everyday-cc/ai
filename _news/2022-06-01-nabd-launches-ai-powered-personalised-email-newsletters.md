@@ -40,38 +40,6 @@ related:
         width: 1600
         height: 1200
         isCached: true
-  - title: "Google Assistant will soon have new feature for personalised speech recognition"
-    excerpt: "The \"Personalised speech recognition\" feature will appear in Google Assistant settings and will get better at recognising what the user says, their frequent words and names"
-    publishedDateTime: 2022-05-30T12:38:00Z
-    webUrl: "https://www.mid-day.com/lifestyle/culture/article/google-assistant-will-soon-have-new-feature-for-personalised-speech-recognition-23229534?homenewsforyou"
-    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/culture/article/google-assistant-will-soon-have-new-feature-for-personalised-speech-recognition-23229534?homenewsforyou"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/culture/article/google-assistant-will-soon-have-new-feature-for-personalised-speech-recognition-23229534?homenewsforyou"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 55
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/may/Lifestylefeaturesrounduplead_d.jpg"
-        width: 1280
-        height: 719
-        isCached: true
-  - title: "Google Assistant to soon recognise your voice"
-    excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
-    publishedDateTime: 2022-05-30T12:12:00Z
-    webUrl: "https://www.thehansindia.com/business/google-assistant-to-soon-recognise-your-voice-745749"
-    ampWebUrl: "https://www.thehansindia.com/amp/business/google-assistant-to-soon-recognise-your-voice-745749"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/google-assistant-to-soon-recognise-your-voice-745749"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 44
-    images:
-      - url: "https://www.bizzbuzz.news/h-upload/2022/05/30/500x300_1539113-google.jpg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "Google Assistant to soon recognise your voice"
     excerpt: "Google Assistant will soon recognise your voice as the company is working on a personalised speech recognition feature."
     publishedDateTime: 2022-05-31T03:03:00Z

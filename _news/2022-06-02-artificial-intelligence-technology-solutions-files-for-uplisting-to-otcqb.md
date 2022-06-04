@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,"
+    publishedDateTime: 2022-06-01T12:42:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-dda034efc1d23514689024c2f1e520b3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "q37loPaB5nsCDFdnIFVGTV2lYxSLkJe+AubkF13t4xbj4bPCtQgCytTFrSNg/n0bVR6o+DBLn+E6WK3CNuxU1SIiYwBpVrF369mV2jjfs+xqiP7VM70SheDpQlcTB9L3IO/iMIWlGxqJs9Vi69GyYsPvJmKUqnR/wFmnOrANFyRsvN+DNsR7pfbwl0038+wntjLpHxHESKOCziFO9kBdZyAxQx++J4OuASQ5d0eIUioOLy8SQ5kc8Co47AjVzO2J14l7ytiFaNsojXSw+Gij82zP86FD+K0IQfqvs43mbAhuJCQCQZs3xEHM969sKAUJ/OqSsVIUt52jqDxVKaoCNNCwejUQBXRdlosNyJ1Sy7Q=;tLNsypRTOVWrk/coCEpddg=="
 ---
 

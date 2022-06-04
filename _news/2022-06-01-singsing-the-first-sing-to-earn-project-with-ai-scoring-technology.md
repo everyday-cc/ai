@@ -28,17 +28,17 @@ images:
 related:
   - title: "Emerging technologies like AI going to have huge impact on governance: Union Minister Jitendra Singh"
     excerpt: "Emerging technologies like artificial intelligence (AI), augmented reality (AR), blockchain, drones, Internet of Things (IoT), robotics, 3D printing a.."
-    publishedDateTime: 2022-06-04T03:52:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91997677"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91997677"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91997677"
+    publishedDateTime: 2022-06-04T02:41:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91996424"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91996424"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91996424"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 44
+    quality: 42
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91997677,imgsize-57232,width-1200,height-628,overlay-etcio/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91996424,imgsize-57232,width-1200,height-628,overlay-ettelecom/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh.jpg"
         width: 1200
         height: 628
         isCached: true
