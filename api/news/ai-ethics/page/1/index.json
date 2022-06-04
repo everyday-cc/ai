@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-03-stun-gun-drones-in-schools-not-so-fast-says-taser-firms-own-ethics-board.md",
+      "title": "Stun-gun drones in schools? Not so fast, says Taser firm’s own ethics board",
+      "excerpt": "Axon’s plan for stopping mass shootings condemned just hours after being announced Axon, the company formerly known as Taser, is facing a public relations crisis after its own ethics board condemned the firm’s plans to build a stun-gun-equipped drone just hours after it was announced.",
+      "sourceUrl": null,
+      "webUrl": "https://theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned",
+      "originalUrl": "https://theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/84a9d600ab639a62e777f9e5cd7b1c1d289bad06/78_0_2343_1406/master/2343.jpg?width=620&quality=85&auto=format&fit=max&s=859214115d15eca9eb54eeb277147964",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned",
+      "publishedDateTime": "2022-06-03T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-the-forgotten-margins-of-ai-ethics-a-paper-on-ai-ethics-with-teeth.md",
       "title": "The forgotten margins of AI ethics - a paper on AI ethics with teeth",
       "excerpt": "The field of AI ethics seems to generate more happy talk than potent ideas. It's rare to find an academic paper with real world teeth, but \"The forgotten margins of AI ethics\" stands out. Here's my critical review.",
@@ -1398,50 +1450,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-robot-ethics-need-to-get-specific-says-durham-university.md",
-      "title": "Robot ethics need to get specific, says Durham University",
-      "excerpt": "As previously reported, Louise Sheridan, Deputy Director of the UK’s Centre for Data Ethics and Innovation (CDEI), believes that such fears can inhibit innovation as much as inform it. Speaking at a Westminster eForum on UK AI strategy last month ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university",
-      "originalUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-06/788FF129-6DB5-4A04-A3F4-3D6CE3DA1E75.jpeg",
-          "width": 640,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robot-ethics-need-get-specific-says-durham-university?amp",
-      "publishedDateTime": "2022-05-10T23:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

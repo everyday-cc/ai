@@ -2,49 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2022-05-03-motion-gestures-using-ai-to-enhance-camera-based-gesture-recognition-technology.md",
-      "title": "Motion Gestures using AI to enhance camera-based gesture recognition technology",
-      "excerpt": "The effort involves combining a variety of Human Machine Interface (HMI) technologies such as voice recognition, gesture recognition, eye tracking, haptics, and touch for greater consumer experience and effectiveness. On the other hand, Motion Gestures has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html",
-      "originalUrl": "https://www.digitimes.com/news/a20220503VL202/ai-gesture-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220503vl202_files/5_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-03-one-platform-to-ai-it-all-google-vertex-ai-makes-aiml-simple-in-sa.md",
       "title": "One platform to AI it all: Google Vertex AI makes AI/ML simple in SA",
       "excerpt": "Says Van Schalkwyk: “For companies that aren’t ready to build their own custom models just yet, Google offers AutoML as part of VertexAI. AutoML allows you to create high quality custom ML models from your data, whether it’s image data, tabular ...",
@@ -1168,6 +1125,59 @@
         "AI",
         "Machine Learning",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-healthcare-ethics-in-ai-can-software-make-ethical-decisions.md",
+      "title": "Healthcare Ethics In AI: Can Software Make Ethical Decisions?",
+      "excerpt": "they must abide by basic principles of medical ethics. Can machines behave ethically, either with or without human oversight? It's a question without an easy answer. To facilitate discussion, let's explore a few topics related to AI-based clinical tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f4e47455e0c17f79712a595/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/02/healthcare-ethics-in-ai-can-software-make-ethical-decisions/amp/",
+      "publishedDateTime": "2022-05-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -2,58 +2,6 @@
   "page": 127,
   "value": [
     {
-      "path": "_news/2022-02-14-how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits.md",
-      "title": "How Telecom Companies Can Leverage Machine Learning To Boost Their Profits",
-      "excerpt": "Businesses can use specific capabilities, avatars or applications of machine learning and AI for this purpose. AI and Predictive Analysis: For Optimizing Global Telecom Networks Mobile networks are one of the prime components of the ever-expanding internet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/14/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/14/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61d67c285d76cd136b034eaa/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1000,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/14/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/14/how-telecom-companies-can-leverage-machine-learning-to-boost-their-profits/amp/",
-      "publishedDateTime": "2022-02-14T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-14-pure-storage-pstg-to-boost-kubernetes-platform-with-aws-tie-up.md",
       "title": "Pure Storage (PSTG) to Boost Kubernetes Platform With AWS Tie-Up",
       "excerpt": "As part of this three-year engagement with AWS, both the companies are responsible for offering ... businesses as well as strong prospects in the data-driven markets of Artificial Intelligence, Machine Learning, Internet of Things, Real-time Analytics ...",
@@ -1121,6 +1069,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-12-quad-air-drone-reviews-is-the-quadair-drone-legit.md",
+      "title": "Quad Air Drone Reviews: Is The QuadAir Drone Legit?",
+      "excerpt": "It will thrive despite strong winds. Features of good design on QuadAir include an object recognition system. Its unparalleled power and benefits come from the latest technology, as well as the use of state-of-the-art cameras. Using a clever design ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailyworld.com/national-marketplace/quad-air-drone-reviews-is-the-quadair-drone-legit/",
+      "originalUrl": "https://www.thedailyworld.com/national-marketplace/quad-air-drone-reviews-is-the-quadair-drone-legit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedailyworld.com/wp-content/uploads/2022/02/28140292_web1_M1-ADW-20220211-quad-air1302x868.jpg",
+          "width": 1302,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T16:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Grays Harbor Daily News",
+        "domain": "thedailyworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

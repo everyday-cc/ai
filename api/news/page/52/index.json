@@ -2,49 +2,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2022-04-19-microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes.md",
-      "title": "Microsoft Azure UAE Regions launches four new key services to accelerate digital transformation programmes",
-      "excerpt": "and Azure Machine Learning in our Azure UAE Regions . Governance, multi-cloud, open communications, and Artificial Intelligence are vital components of the post-COVID rush in digitisation and we are pleased to provide our regional customers with four ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes-d1mvrciz",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/microsoft-azure-uae-regions-launches-four-new-key-services-to-accelerate-digital-transformation-programmes-d1mvrciz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:N2NhNWExODAtYmJhMi00:Y2UwYzYx/necipozyucel-director-azurebusinessgrouplead-microsoftuae-jpg.jpg",
-          "width": 683,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-19-quantum-to-showcase-video-enrichment-and-analytics-solution-using-catdv-software-with-nvidia-ai-at-nab-2022.md",
       "title": "Quantum to Showcase Video Enrichment and Analytics Solution Using CatDV Software with NVIDIA AI at NAB 2022",
       "excerpt": "Customers can automate common content-tagging and enhancement tasks such as object recognition within video frames, speech-to-text transcription, video and audio super-resolution, and other tools ...",
@@ -1163,6 +1120,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-18-9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.md",
+      "title": "9 low-rent cloud providers to challenge AWS, Azure, and GCP",
+      "excerpt": "Major cloud providers do it all, and usually for a sizable price. If the high cost of cloud computing has you down, one of these smaller cloud services could be a way out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html",
+      "originalUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/clouds_binoculars_network-monitoring_future-it_looking_horizon_vision-100797672-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656688/9-low-rent-cloud-providers-to-challenge-aws-azure-and-gcp.amp.html",
+      "publishedDateTime": "2022-04-18T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

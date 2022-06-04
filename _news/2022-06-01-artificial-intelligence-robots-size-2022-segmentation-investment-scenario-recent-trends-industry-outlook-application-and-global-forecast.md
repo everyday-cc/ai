@@ -48,24 +48,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "AI hiring levels in the automotive industry rose in April 2022"
-    excerpt: "The proportion of automotive manufacturing and supply companies hiring for AI related positions rose significantly in April 2022 compared with the equivalent month last year, with 66.2% of the companies included in our analysis recruiting for at least one ..."
-    publishedDateTime: 2022-05-30T17:59:00Z
-    webUrl: "https://www.just-auto.com/analysis/ai-hiring-levels-in-the-automotive-industry-rose-in-april-2022/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 17
-  - title: "AI hiring levels in the retail industry rose to a year-high in April 2022"
-    excerpt: "The proportion of retail companies hiring for AI related positions rose in April 2022 compared with the equivalent month last year, with 50.3% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-05-30T18:00:00Z
-    webUrl: "https://www.retail-insight-network.com/analysis/ai-hiring-levels-in-the-retail-industry-rose-to-a-year-high-in-april-2022/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 16
 
 secured: "r7jaYG/yoQeAUNXnq3QF0nDgCSuf9xgHYMP+gYiUj/8a5PdAXGvSeFhgYHL62vV7+kMSWKhJ/weBmOcbhbqwi1dgLf9l5eQTLEPveJTOjvBY7MasY98vwysDni02ZapKKNR89bFm9CoDvXauTf0OhBjBBWtb+U3YgCLDJQ5bzEfI4iHIvA6EnKYXYfIfS9dOtxwDfIZ0bVXaJWZOySmxCwpjuy5G5lXCwstbTOXROizYW93EjrWSX2zdfq2VuU5yeaSc0JeN37Kfq7KECMhRHmfWYf6FK+0RmRRdd3NOwlLBugb6ZVn94zY0mW5kpxGltXym1s+EIU25t2/Wgz3d7OtWV073Gj46L3ltJCIGlrY=;Tjh1uC3luabo9agK36Y1AQ=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk says Tesla AI Day pushed to Sept 30"
-    excerpt: "A Tesla dealership is seen in West Drayton, just outside London, Britain, February 7, 2018. REUTERS/Hannah McKay"
-    publishedDateTime: 2022-06-03T08:40:00Z
-    webUrl: "https://www.reuters.com/news/picture/elon-musk-says-tesla-ai-day-pushed-to-se-idUSKBN2NK02X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20220603&t=2&i=1600943021&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI520CY"
-        width: 810
-        height: 540
-        isCached: true
   - title: "Elon Musk says Tesla AI Day pushed to September 30"
     excerpt: "\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,\" Elon Musk wrote on Twitter, almost two weeks after he announced the date of August 19."
     publishedDateTime: 2022-06-03T07:02:00Z
@@ -98,6 +84,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Elon Musk Says Tesla AI Day Pushed to Sept 30"
+    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30. \"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,"
+    publishedDateTime: 2022-06-03T09:40:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-06-02/elon-musk-says-tesla-ai-day-pushed-to-sept-30"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Elon Musk's human-sized robot likely to be ready by September"
     excerpt: "Tesla introduced Optimis, a human-sized robot during Tesla's inaugural Artificial Intelligence (AI) Day.Elon Musk envisioned that the one day Tesla bot will have, ‘the potential to be more significant"
     publishedDateTime: 2022-06-03T02:48:00Z

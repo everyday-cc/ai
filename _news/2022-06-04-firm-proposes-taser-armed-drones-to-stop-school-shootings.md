@@ -41,6 +41,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "A firm proposes using Taser-armed drones to stop school shootings"
+    excerpt: "The publicly traded company, which sells Tasers and police body cameras, floated the idea of a new police drone product last year to its artificial intelligence ethics board, a group of well-respected experts in technology, policing and privacy."
+    publishedDateTime: 2022-06-04T10:10:00Z
+    webUrl: "https://www.wksu.org/npr-news/npr-news/2022-06-04/a-firm-proposes-using-taser-armed-drones-to-stop-school-shootings"
+    ampWebUrl: "https://www.wksu.org/npr-news/npr-news/2022-06-04/a-firm-proposes-using-taser-armed-drones-to-stop-school-shootings?_amp=true"
+    cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/npr-news/npr-news/2022-06-04/a-firm-proposes-using-taser-armed-drones-to-stop-school-shootings?_amp=true"
+    type: article
+    provider:
+      name: WKSU
+      domain: wksu.org
+    quality: 44
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/305bc91/2147483647/strip/true/crop/2280x1404+108+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F04%2Fap22155042125461_wide-0baf687cd2192cd92f57389b48b737738af58355.jpg"
+        width: 880
+        height: 542
+        isCached: true
 
 secured: "l4k6UuYe6UkbCXxPVM/qNZGn177VxN7sE7EQQ79jznHDcJW0MyVJNgoGwF4yvwzSEH/OJjX0SA41hhNHsxaEa4JjBxaEaqkptrgTy5B2sBNnw7/HCbNekizmy4nAlYwwUn+RSXCu1XEwO+gvEX67G83FO5Zw4qrBiKtKXwIIbeCMNQod5Pe9AG9aSa36olSmc9cIQ36SCcF7AfXDnx97wDooNDrkMdw9OUYBbltWSvA8bqtvbfome1Nt7KJx4XUNUaWR9AgzSVAVrHTj5hBvfqZhGSKZuq9QMIoIFy0+xaNHVXKyegfzqe9SzjiT1cZAy8JI5VOmbLlscM1312RiQkjS4KecZTnyCQs514mBhL/SCiDK904xxPnPpRONrsfiTxUi1093OiIKBngIA/PbjIdHwYKnAjmCaHxtJuXkJUcE2GCJ9xUtEFP234OnNMC2RspPEy6ZyopTTYmFqjZ/6orOfNn3x7jh2J6DkW0IB5E6tbXsbvWQsIkqwaytHm3S59fkzwWNHPPhJezOOQO58A==;SmPifK4Cm/Gaza5ewLJNaw=="
 ---

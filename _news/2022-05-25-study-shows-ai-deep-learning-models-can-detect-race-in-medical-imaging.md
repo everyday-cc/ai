@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Study shows AI deep learning models can detect race in medical imaging"
-excerpt: "Most of us have experienced some form of medical imaging, whether it was at an eye appointment or after a broken bone. These images might contain more information than meets the eye. Things artificial intelligence can detect."
-publishedDateTime: 2022-05-24T21:57:00Z
-originalUrl: "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-webUrl: "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-ampWebUrl: "https://www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
-cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+excerpt: "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ..."
+publishedDateTime: 2022-05-25T00:25:00Z
+originalUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+webUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+ampWebUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
 type: article
 
 provider:
-  name: KSTU
-  domain: fox13now.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
   - Machine Learning
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mbyWuGfgk3MZ2Dh54akP5OixLL6rSgtNthuOcgONjhKaU2Hpa8+llHuAQDgsplfe0Xdil7mgwykCkTQHix3chErUDMggEaQbkDUWyLYq9foteHLjs/auNHsXnIFPUwlcdCZI1Z7FSOtqDQPoMz8nyrh1qB5SidCNLrIcG9rCKdysoMWCtjQotuBCYCZ6W5UhcTWd+pHwzHOMhDw+xAiKRads9AMnIOfNJr4M8qAWGRLEp8KSmYO44gJwwV+UqV3/ABRnJklIQP1GD9K427IPu7Bua22pjZz3XQ8O3Jr+eVrBtxqaOND+TWeUZ/cjOJkyxYFICf6AFHZHyUSVyEyHa8JItLb5wDQnssYIi15tjec=;+C1nFfhHvOvwu4QHcY04sQ=="
+secured: "fMe1BCjKusvsTB4240Cjf91agUeuqaOmFdoO/XuxtlS12tuXWRB6c5j/0eyShW/GFbbnIgB2/521m9C5BgAI1R9D5NLSiPwUvEzIdNXFhxCSl7xDZ5ZsL3J20yyUCnQOXEOUPY4uITjf4x8y8KxH/mjxbiHHsDM20gq/xjX/rpxKNI4h0SxjqF1VZekml1hGZDHvr9zffCANQXzXZmyo2CDPgt7o6U+MxsopewuBLVZCf8VpOdW1JYDnjwn7fXJP13Kn8ZFhsjabGkxiF7Z6Ptx/LjO6umB0gfuV1E9v9LZIw5LqibkPKdMF9YF6IcWbD0IJk7Q39HVVD0Xa/bBVxjJ1/d+N0MkKLG1EaZRANf0=;bL2tMymmNj71MtK6fFtwHQ=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 50,
   "value": [
     {
-      "path": "_news/2022-04-20-opinion-artificial-intelligence-should-be-embraced.md",
-      "title": "Opinion: Artificial intelligence should be embraced",
-      "excerpt": "John McCarthy, who coined the term artificial intelligence (AI) in 1955, defined AI as “the science and engineering of making intelligent machines.” As these intelligent machines develop, people should embrace their emergence.",
-      "sourceUrl": null,
-      "webUrl": "https://scotscoop.com/opinion-artificial-intelligence-should-be-embraced/",
-      "originalUrl": "https://scotscoop.com/opinion-artificial-intelligence-should-be-embraced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scotscoop.com/wp-content/uploads/2022/04/Artificial_Intelligence__AI__Machine_Learning_-_30212411048.jpg",
-          "width": 750,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carlmont High Scot Scoop",
-        "domain": "scotscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-04-20-2022-acm-awardee-prof-abbeel-for-top-work-in-ai-and-robotics.md",
       "title": "2022 ACM Awardee Prof Abbeel For Top Work In AI And Robotics",
       "excerpt": "ACM announced in April 2022, Pieter Abbeel awarded the 2021 ACM Prize in Computing for pioneering work in robot learning.",
@@ -1099,6 +1056,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-encores-backend-development-engine-for-the-cloud-transforms-developer-experience-attracts-3m-in-seed-round.md",
+      "title": "Encore’s Backend Development Engine for the Cloud Transforms Developer Experience, Attracts $3m in Seed Round",
+      "excerpt": "Encore comes out of Beta as it announces seed round, enabling more developers than ever to build and deploy new cloud backends in minutes while keeping control of their data. STOC",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/de7520f96eddc63566978cb566223c89",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/de7520f96eddc63566978cb566223c89",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-19T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

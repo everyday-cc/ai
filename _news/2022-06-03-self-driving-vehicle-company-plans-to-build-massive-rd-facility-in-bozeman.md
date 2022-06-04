@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Vehicles Drive Into Two Complex Ride-Hailing Environments"
-    excerpt: "Self-driving Vehicles Drive Boldly into Two of the Most Complex Ride-Hailing Environments The tipping point for shared autonomous vehicles will b"
-    publishedDateTime: 2022-05-30T18:54:00Z
-    webUrl: "https://menafn.com/1104294179/Self-Driving-Vehicles-Drive-Into-Two-Complex-Ride-Hailing-Environments"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
   - title: "Students build, program self-driving vehicles for inaugural Autonomous Vehicle Racing competition"
     excerpt: "Using newly acquired computer coding skills, Sacramento-area middle and high school students will test their designs and autonomously navigate model cars on racetracks in SMUD's inaugural Autonomo. ."
     publishedDateTime: 2022-05-31T05:21:00Z

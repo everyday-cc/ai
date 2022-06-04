@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-25-the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership.md",
+      "title": "The Strategic Building Blocks Of Ethical AI: Representation, Governance And Leadership",
+      "excerpt": "Consider three fundamental strategies needed to achieve fairness in AI development and use: executive leader readiness, representation of women and people of color and stakeholder governance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/25/the-strategic-building-blocks-of-ethical-ai-representation-governance-and-leadership/amp/",
+      "publishedDateTime": "2022-02-25T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-how-ai-is-shaping-the-cybersecurity-arms-race.md",
       "title": "How AI is shaping the cybersecurity arms race",
       "excerpt": "The average business receives 10,000 alerts every day from the various software tools it uses to monitor for intruders, malware and other threats. Cybersecurity staff often find themselves inundated with data they need",
@@ -1327,49 +1379,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics.md",
-      "title": "Singapore releases software toolkit to guide financial sector on AI ethics",
-      "excerpt": "The Monetary Authority of Singapore (MAS) said the documents detailed methodologies for incorporating the FEAT principles--of Fairness, Ethics, Accountability, and Transparency--into the use of AI within the financial services sector. The whitepapers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "publishedDateTime": "2022-02-04T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

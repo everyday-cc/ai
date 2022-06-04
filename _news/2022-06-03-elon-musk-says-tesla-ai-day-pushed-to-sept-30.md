@@ -1,32 +1,26 @@
 ---
 category: news
-title: "Elon Musk says Tesla AI Day pushed to Sept 30"
-excerpt: "A Tesla dealership is seen in West Drayton, just outside London, Britain, February 7, 2018. REUTERS/Hannah McKay"
-publishedDateTime: 2022-06-03T08:40:00Z
-originalUrl: "https://www.reuters.com/news/picture/elon-musk-says-tesla-ai-day-pushed-to-se-idUSKBN2NK02X"
-webUrl: "https://www.reuters.com/news/picture/elon-musk-says-tesla-ai-day-pushed-to-se-idUSKBN2NK02X"
+title: "Elon Musk Says Tesla AI Day Pushed to Sept 30"
+excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30. \"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,"
+publishedDateTime: 2022-06-03T09:40:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2022-06-02/elon-musk-says-tesla-ai-day-pushed-to-sept-30"
+webUrl: "https://money.usnews.com/investing/news/articles/2022-06-02/elon-musk-says-tesla-ai-day-pushed-to-sept-30"
 type: article
-quality: 84
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20220603&t=2&i=1600943021&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI520CY"
-    width: 810
-    height: 540
-    isCached: true
 
 related:
   - title: "Elon Musk says Tesla may have a working humanoid robot prototype by Sept 30"
@@ -174,6 +168,6 @@ related:
       domain: miamiherald.com
     quality: 19
 
-secured: "88hxYrk2fA7lytiFNSs9obM7L9FcFz565rQe5Ssa8JUSLHu01o29Ryx3f/U4E6IRcc14eUABnHGb8TEh9G4+yAlgVU2kCVQm4kKfMn7864pOPdxjxEwty7z9+fjfHz6LdZerK2cdUJly87yusB8JXeIrhkz4pKEMJdNHNNE0aEy24dafdKOv3875k26q+hiVDJ45E9wtZFEsEC/KTEtfqidkYCcM+TtqYaGxPWDBojM5zX+D+k+aKlCcns/Yb0lqO2uTfJLc2IFJeauuxG3DijvCJ+U4z3XjAPjKs8jWMd27sMJ88PjLtyxt8ULevHm+wwvOS46SXvs5hwMHdVirVke2AQPQHG1TnQt81FRsbCjLpBnfWG35BFMdedl9okKG7Z2N0QYL0hvXMX/C2DWnbVmIrvnHtaDGNcxUnGxC/qq7mA8/73VF8ryPpO0j5FHM39GqBTl2FHutCrf3yxA+dn4RO97lISsOGjwfsMu/PnMpNRxOy707w8xwJ24MJwZ4qP8LjkWtD3yU6ixYgLehJQ==;4cvucSWSZJLNdTrjkEuWaQ=="
+secured: "1flChK6M+rY/DL11TRL38X4hvfmunpjI2eF67I3KqxYlh7X9/QugbKpKw1aP/rEHaQ0vgWle/6itHSRL6IHW1D/ynV803lCEnXHBAWX2U6v0/mqOMn8hCfMlJszYs3xUmrUNMRN/od9RidwsNOLJYrwzhGu9Z0K5dqEIDWUED7lePasMMsQiONKUT3LvEcDsiBdyyqSabZIRpVDJNtIVHQfQyJaiyuxrwBtFfY3QT18q39RLIi60qvSiFcXMhazqrhlDxmXHYPzKlqFYCecCS7eJjSx5YpIMZKyO+3v4K3pg+VAqLtTJ2geUjFlmCTBeoLQ6f9Q+CJ1acTXyJ8wCD2xZ3D/wD+NRhI9bdqBwazXnUhZPB9EPURv4r9JDkzbT5VpengoZxW+l3nHSUzJpyW4iFGO60fCgfJJwxUsxr4WGRaOMgVqMMETnkpRI9rif99A+JhfKaLPSg7eclA/vZ+EsAMCNiS5JVAZi6PmdXF5IaSKk/j7Vr8ZH1N47i+nj2Rr0lbYy+axDJdyqeNN0dA==;W0IZ9FyvhFFuf6Q/zKfFVw=="
 ---
 
