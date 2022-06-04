@@ -17,7 +17,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 1502362
+        "followers": 1502713
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -41,13 +41,101 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 536,
+      "heat": 510,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Lex Fridman",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/yann-lecun.md",
+      "title": "Yann LeCun",
+      "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/yann-lecun/index.json",
+      "webUrl": "https://everyday.cc/ai/people/yann-lecun/",
+      "type": "profile",
+      "name": "Yann LeCun",
+      "bio": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
+      "location": "New York",
+      "website": "http://yann.lecun.com/",
+      "twitter": {
+        "username": "ylecun",
+        "url": "https://twitter.com/ylecun",
+        "followers": 327470
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
+        "citations": 247494
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "New York University",
+        "domain": "nyu.edu"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Robotics"
+      ],
+      "heat": 334,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Yann LeCun",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alexandr-wang.md",
+      "title": "Alexandr Wang",
+      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
+      "type": "profile",
+      "name": "Alexandr Wang",
+      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
+      "location": "San Francisco, CA",
+      "website": "https://scale.com/",
+      "twitter": {
+        "username": "alexandr_wang",
+        "url": "https://twitter.com/alexandr_wang",
+        "followers": 20290
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/alexandrwang/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Scale",
+        "domain": "scale.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Autos"
+      ],
+      "heat": 331,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1498032872116002816/5ECdf5AC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alexandr Wang",
           "isCached": true
         }
       ],
@@ -67,7 +155,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 666378
+        "followers": 666395
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -102,101 +190,13 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 389,
+      "heat": 313,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Andrew Ng",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alexandr-wang.md",
-      "title": "Alexandr Wang",
-      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
-      "type": "profile",
-      "name": "Alexandr Wang",
-      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
-      "location": "San Francisco, CA",
-      "website": "https://scale.com/",
-      "twitter": {
-        "username": "alexandr_wang",
-        "url": "https://twitter.com/alexandr_wang",
-        "followers": 20269
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/alexandrwang/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Scale",
-        "domain": "scale.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Autos"
-      ],
-      "heat": 350,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1498032872116002816/5ECdf5AC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alexandr Wang",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/yann-lecun.md",
-      "title": "Yann LeCun",
-      "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/yann-lecun/index.json",
-      "webUrl": "https://everyday.cc/ai/people/yann-lecun/",
-      "type": "profile",
-      "name": "Yann LeCun",
-      "bio": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "location": "New York",
-      "website": "http://yann.lecun.com/",
-      "twitter": {
-        "username": "ylecun",
-        "url": "https://twitter.com/ylecun",
-        "followers": 327462
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
-        "citations": 247494
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "New York University",
-        "domain": "nyu.edu"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Robotics"
-      ],
-      "heat": 313,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Yann LeCun",
           "isCached": true
         }
       ],
@@ -214,7 +214,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 111348
+        "followers": 111345
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -232,13 +232,115 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 289,
+      "heat": 284,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1425684733753626624/q521TgTG_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Ilya Sutskever",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/fei-fei-li.md",
+      "title": "Fei-Fei Li",
+      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/fei-fei-li/index.json",
+      "webUrl": "https://everyday.cc/ai/people/fei-fei-li/",
+      "type": "profile",
+      "name": "Fei-Fei Li",
+      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "location": "Stanford, CA, U.S.A.",
+      "website": "https://profiles.stanford.edu/fei-fei-li",
+      "twitter": {
+        "username": "drfeifei",
+        "url": "https://twitter.com/drfeifei",
+        "followers": 400802
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
+        "citations": 164990
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Healthcare"
+      ],
+      "heat": 273,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Fei-Fei Li",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/geoffrey-hinton.md",
+      "title": "Geoffrey Hinton",
+      "excerpt": "Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/geoffrey-hinton/index.json",
+      "webUrl": "https://everyday.cc/ai/people/geoffrey-hinton/",
+      "type": "profile",
+      "name": "Geoffrey Hinton",
+      "bio": "Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto.",
+      "twitter": {
+        "username": "geoffreyhinton",
+        "url": "https://twitter.com/geoffreyhinton",
+        "followers": 141656
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
+        "citations": 570212
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Geoffrey_Hinton"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "toronto.edu",
+        "domain": "toronto.edu"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 268,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Geoffrey Hinton",
           "isCached": true
         }
       ],
@@ -257,7 +359,7 @@
       "twitter": {
         "username": "jeffdean",
         "url": "https://twitter.com/jeffdean",
-        "followers": 212956
+        "followers": 212963
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
@@ -286,55 +388,13 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 269,
+      "heat": 268,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Jeff Dean",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/geoffrey-hinton.md",
-      "title": "Geoffrey Hinton",
-      "excerpt": "Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/geoffrey-hinton/index.json",
-      "webUrl": "https://everyday.cc/ai/people/geoffrey-hinton/",
-      "type": "profile",
-      "name": "Geoffrey Hinton",
-      "bio": "Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto.",
-      "twitter": {
-        "username": "geoffreyhinton",
-        "url": "https://twitter.com/geoffreyhinton",
-        "followers": 141654
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
-        "citations": 570212
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Geoffrey_Hinton"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "toronto.edu",
-        "domain": "toronto.edu"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 251,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Geoffrey Hinton",
           "isCached": true
         }
       ],
@@ -388,7 +448,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 251,
+          "heat": 268,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -412,7 +472,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 313,
+          "heat": 334,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
@@ -425,7 +485,7 @@
         }
       ],
       "size": 3,
-      "heat": 251,
+      "heat": 268,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -433,66 +493,6 @@
           "height": 128,
           "title": "Yoshua Bengio",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/fei-fei-li.md",
-      "title": "Fei-Fei Li",
-      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/fei-fei-li/index.json",
-      "webUrl": "https://everyday.cc/ai/people/fei-fei-li/",
-      "type": "profile",
-      "name": "Fei-Fei Li",
-      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "location": "Stanford, CA, U.S.A.",
-      "website": "https://profiles.stanford.edu/fei-fei-li",
-      "twitter": {
-        "username": "drfeifei",
-        "url": "https://twitter.com/drfeifei",
-        "followers": 400784
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
-        "citations": 164990
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Healthcare"
-      ],
-      "heat": 231,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Fei-Fei Li",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -527,7 +527,7 @@
         "Facebook AI",
         "PyTorch"
       ],
-      "heat": 210,
+      "heat": 217,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
@@ -553,7 +553,7 @@
       "twitter": {
         "username": "NandoDF",
         "url": "https://twitter.com/NandoDF",
-        "followers": 90459
+        "followers": 90457
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
@@ -568,7 +568,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 202,
+      "heat": 211,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
@@ -594,7 +594,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 91923
+        "followers": 91932
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -624,7 +624,7 @@
         "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 184,
+      "heat": 210,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -649,7 +649,7 @@
       "twitter": {
         "username": "demishassabis",
         "url": "https://twitter.com/demishassabis",
-        "followers": 251353
+        "followers": 251355
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
@@ -664,13 +664,92 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 182,
+      "heat": 203,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Demis Hassabis",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/laurence-moroney.md",
+      "title": "Laurence Moroney",
+      "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/laurence-moroney/index.json",
+      "webUrl": "https://everyday.cc/ai/people/laurence-moroney/",
+      "type": "profile",
+      "name": "Laurence Moroney",
+      "bio": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "location": "Sammamish, WA",
+      "website": "https://research.google/people/RajatMonga/",
+      "twitter": {
+        "username": "lmoroney",
+        "url": "https://twitter.com/lmoroney",
+        "followers": 27710
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/laurence-moroney/"
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
+      ],
+      "heat": 77,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Laurence Moroney",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/kyle-cranmer.md",
+      "title": "Kyle Cranmer",
+      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
+      "type": "profile",
+      "name": "Kyle Cranmer",
+      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
+      "location": "New York",
+      "website": "https://t.co/OiHC3bfPoX",
+      "twitter": {
+        "username": "KyleCranmer",
+        "url": "https://twitter.com/KyleCranmer",
+        "followers": 12752
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
+        "citations": 197635
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu",
+        "domain": "nyu.edu"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1529454611920207874/6CRRMnHU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kyle Cranmer",
           "isCached": true
         }
       ],
@@ -714,86 +793,13 @@
         "AWS AI",
         "Machine Learning"
       ],
-      "heat": 124,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Alex Smola",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
-      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
-      "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
-      "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 6159
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Andrew Moore",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/laurence-moroney.md",
-      "title": "Laurence Moroney",
-      "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/laurence-moroney/index.json",
-      "webUrl": "https://everyday.cc/ai/people/laurence-moroney/",
-      "type": "profile",
-      "name": "Laurence Moroney",
-      "bio": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
-      "location": "Sammamish, WA",
-      "website": "https://research.google/people/RajatMonga/",
-      "twitter": {
-        "username": "lmoroney",
-        "url": "https://twitter.com/lmoroney",
-        "followers": 27712
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/laurence-moroney/"
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning",
-        "TensorFlow"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Laurence Moroney",
           "isCached": true
         }
       ],
@@ -840,91 +846,44 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/kyle-cranmer.md",
-      "title": "Kyle Cranmer",
-      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
-      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
+      "path": "_people/oren-etzioni.md",
+      "title": "Oren Etzioni",
+      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/oren-etzioni/index.json",
+      "webUrl": "https://everyday.cc/ai/people/oren-etzioni/",
       "type": "profile",
-      "name": "Kyle Cranmer",
-      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "location": "New York",
-      "website": "https://t.co/OiHC3bfPoX",
+      "name": "Oren Etzioni",
+      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "location": "Seattle",
+      "website": "https://allenai.org/team/orene/",
       "twitter": {
-        "username": "KyleCranmer",
-        "url": "https://twitter.com/KyleCranmer",
-        "followers": 12752
+        "username": "etzioni",
+        "url": "https://twitter.com/etzioni",
+        "followers": 26461
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 197635
+        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
+        "citations": 43537
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
       },
       "affiliation": {
         "path": "",
-        "name": "nyu.edu",
-        "domain": "nyu.edu"
+        "name": "Allen Institute for AI (AI2)",
+        "domain": "allenai.org"
       },
       "topics": [
         "AI",
-        "Math for AI",
         "Machine Learning"
       ],
       "heat": 64,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1529454611920207874/6CRRMnHU_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Kyle Cranmer",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/christopher-m-bishop.md",
-      "title": "Christopher M. Bishop",
-      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-m-bishop/index.json",
-      "webUrl": "https://everyday.cc/ai/people/christopher-m-bishop/",
-      "type": "profile",
-      "name": "Christopher M. Bishop",
-      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "location": "Cambridge, England",
-      "website": "https://t.co/qaAoprog1k",
-      "twitter": {
-        "username": "chrisbishopmsft",
-        "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5726
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 124736
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Christopher M. Bishop",
+          "title": "Oren Etzioni",
           "isCached": true
         }
       ],
@@ -978,7 +937,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 57,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
@@ -1368,6 +1327,40 @@
           "width": 128,
           "height": 84,
           "title": "Josh Cogan",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/kalyanmoy-deb.md",
+      "title": "Kalyanmoy Deb",
+      "excerpt": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kalyanmoy-deb/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kalyanmoy-deb/",
+      "type": "profile",
+      "name": "Kalyanmoy Deb",
+      "bio": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=paTAXiIAAAAJ",
+        "citations": 169099
+      },
+      "affiliation": {
+        "path": "",
+        "name": "msu.edu",
+        "domain": "msu.edu"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=paTAXiIAAAAJ&citpid=3",
+          "width": 116,
+          "height": 127,
+          "title": "Kalyanmoy Deb",
           "isCached": false
         }
       ],
