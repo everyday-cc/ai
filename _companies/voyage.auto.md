@@ -2,7 +2,7 @@
 name: "Voyage"
 overview: "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge."
 type: "profile"
-heat: 42
+heat: 64
 
 website: https://voyage.auto/
 
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
 
-secured: "4JcfYPVlOxm7kxAsA3JDP2ipmOfS1cqpW+2MIIdbCJFeFrsHljliOxo03Hvm7FSmRW2rChytjvNmiE4u7vViG4XGApmAexdAqAKP67GT5kkRrgvPEpMKdylz7ukfzCflQgXzJXToDy2B/t/iH58xpV3d9e5lKDWsiZQCQg19/GJeyL8S2xuvqlIx7qa/B2GdvgaiKxm/atsut+Enl0Y+iOXYTlU1YT8NORno4xZng9bpvJ0uQB+k4syTXdrkLjTqPuDpGpCw9nxtNnXO5uA7T5zngLFm2dZ8AWEEmJbKxzg8hdYxoimiRmJ8ZbBbFlBlfobIMbx8NaONkkOm9Tan3yHpEPLQm8LB5auWqTjfBeHFlGsSX4YXmVc+qsTwUF5awO+tqnS8rghMnRkrhecZZDEa1Foys1Kj+s08XHkXqbc=;eXFIEOTvWaooAn2wo1XFzw=="
+secured: "oa0d8mMkLYcixv8B+xuzXnqH2ohKStdBdQ4kxO4Fhxkz0UOqeR0m4ebsClTahCpRDMxJZZvBBYXaJg4p9pS/xejv9JpXdIazayHLVYm7OR9j8ZBbjIm4IALb2Lxlx1HyM0ejBL/nu0bmTuWooT2dYHWQ5Gyy/RTmB/ySUD3sWMPiD6p3QMKvHtf37zP7khSj1Hhy97j069zaXKwd5bA8NUsDpiiS/rd8JZFM0sXeAAux7PtHC1BWt0UzhqbiOQjfNU4IJgufj5rqYFSCJ4a/Gs27DVgWRDZ0E/pHxINv19IZzSRzXAL78hctK3CGn0JbbLGxsF3RdFWbGVjliBE8lEv3+UWoVUg2X0b5Xli3wVw1Mfr15GQcbK/gYP7zqar7G5iLeYa+fTL1DAumEWCxED/6Yh0fUDL7IPfsocQ3Jrs=;W9/fqgU0OI8FuafSZIf/OA=="
 ---
 

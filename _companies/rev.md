@@ -2,7 +2,7 @@
 name: "Rev.com"
 overview: "Rev is a venture-backed internet startup in San Francisco whose mission is to give more people the freedom to work from home. We have created thousands of work-from-home jobs, and we aspire to create millions more. We have built platforms for transcription, video captioning, foreign subtitles and document translation."
 type: "profile"
-heat: 57
+heat: 71
 
 website: https://www.rev.com/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "xHhDsRqdy42JYmy+z26aDUwI2CUJpl3y5L1ZkR7EWuDVL6QMA+adnZtMFoiI/WC9Mt5YZvLquQMnCvedVbkW4mNzYvYGYp6zIP2HmW/YOEiIpP6V6aA2AOUJI9+LVsnbHmhQiXkB6dhZIxfYh3xSrgRziCAcQ/zIrRcOgVM+4S4m0XnwDjiL9Ja3heOKwCptvnZfZxDdwKgWZmUG6kctA1F47bF4qCw85hSpBgDMpYeG6jGIJ+3niX6RmG1W5yxsVaT4+pjrTc2sbiocdleeEXElj0wpgZtHaLGWopRRQZGFBZjtn2cY7YSPH/sOWsMdzyR6xGvguFtXlUXykXleJn9j5DlkPJQfYASpZLHSIdYjuJcpTgfLSRABWN+W5D56iwRPYJ3LC+vhS6kDZBJY6S4tGIHq9Yp57YXYdCdP9bE=;6ufOItK5L0TZ+uzlL7xYUw=="
+secured: "zioLboOAHMlLRzb3GJzBfllKiBCj1DprUkhls/QaKTCLDqH1ULgPGu/h/24DJccGa9nGRootCMnVnmXTxWcDemmsbeChIZia00n8kTU+LNaMC0S/G0hritRb5g5XjQS/NZvdBy9WQC0mxPzZQsoxPa0T50s8MPvkdzaEk2aX30iU+OcsZ7qB+LZYzU/ecFr+e4BinUXmkQ3cmmc0tHJMgcFKO+i7u5XZcd5FM1oUYDAzP+SJHKO4D2bD5TKPwsCnM9O/6g08TWYpZHXPA4xbO0dUdA/OouOn/nEq5Nkm2xH77tE9jWA55gN92LESy9Q2zgKYKYDz8UVbMiyn+3oIwp93TA++XfMHV8HsP0TwkmG/sXqrxv0U+1oA+dUqx/VIZWIsBaNM5PHjMLwFr/r7yAHT4xt/US38jB5D4ZgFbr8=;1MweIbAVMAdjIODTTMYzBQ=="
 ---
 

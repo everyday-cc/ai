@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 64
+heat: 71
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "jHjMVf3Q1vZitZqT5RojLF6MUfNz3OP46CC+1QvJ0y/nRT2OfyhsbwmDIYjzmEw2sVQaztBop6mPXQaAlo6McB4QQNMAwFBnspykw3TazwfiDIOp0dKQwPzd9MZDrqwxgQKTMEzpE29RW1JytRhiBXptByPOadcAkfvZULDuiwffzimTawl2+o5QJRD1B4EIIzXn5z9lidG4xkcthBUzIJNBP9y3hF61J0txZlu4mcVyqMWoMEyPH460cZICoKwP66PbcTn7RMI8FuUXJRLFG9iqNs/wdrgKAaOru7Y6/hvJHy7XPbDdWeNewOof9P3gonC3WOzgCQRB6ZLRzGVyG7v49S7baK7IG8vhK2/8kfVztMq9maSiiOsIPtm6URWc4HU0sy3qpeCQ0GxU/La+ZH+fbr/j0Kx/DcpR8HeAIKE=;xfNlmVY5gM2vhYBRi695Cw=="
+secured: "dfZIqV6KXmPwoY/o/J2QgeEKJs1oGugGPCvX0PYuHvohCAjtKkHsgh4RD27avqAVAgfheGGPgDxE6vWvRZJEwTzo6ghLvJSifSMkTCfNnU+z9zdcRj4Y428UEn57a+m0P8h+jU4ev0FyI1qwZGy91hTaKJYudf7Or4CDFEuN+EZAbulYw4Tqd+lVp/oyz82VW/dXJvsP47BjqYj+crNt0brNExAS5jAlPkXuBK4zbwyZRsbt0htfjm3s7XJl2SJWmuNUkKLcNkF7J57TG+HFEP61GLsIsinL3I43Vh8kMazuIIlyVY1fVhF3y0c4NpV1UXSEVGPRE961TkdPdXqiyLxJ1a18FSztKB9I453C12Wp2oHixvYQM9gmKklGwCfxnBdAS/0GslUBykvEJGoCAEpTCZ9P5LmrDWgkKEPZDSM=;tqfUHbL+30bSWMv7phPMMw=="
 ---
 
