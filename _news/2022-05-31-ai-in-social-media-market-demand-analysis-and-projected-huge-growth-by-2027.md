@@ -7,7 +7,7 @@ originalUrl: "https://xaralite.com/345473/business/ai-in-social-media-market-dem
 webUrl: "https://xaralite.com/345473/business/ai-in-social-media-market-demand-analysis-and-projected-huge-growth-by-2027/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,29 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "AI in Drug Discovery Market Projected to Garner Significant Revenues by 2031 -end"
-    excerpt: "Introduction. According to the report, the global AI in drug discovery market was valued at US$ 0.35 Bn in 2020 and is projected to expand at a CAGR o"
-    publishedDateTime: 2022-05-30T10:44:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-drug-discovery-market-projected-to-garner-significant-revenues-by-2031-end"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 32
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/8b228e947274b3e3adaea102613cde65635f5b3c-2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Medical Rehabilitation Robotics Market is expected to account for 36.9% of the total market share by 2031."
-    excerpt: "Pages Report] As per a recent market analysis by Future Market Insights (FMI),  the global medical rehabilitation robotics market was valued at over US$ 264.0 Mn in 2020 and is projected to expand at a stupendous 15."
-    publishedDateTime: 2022-05-30T10:56:00Z
-    webUrl: "https://www.fmiblog.com/2022/05/30/medical-rehabilitation-robotics-market-is-expected-to-account-for-36-9-of-the-total-market-share-by-2031/"
+  - title: "Call Center AI Market 2022 Key Players, End User, Demand and Consumption by 2032"
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2022-06-03T07:04:00Z
+    webUrl: "https://www.fmiblog.com/2022/06/03/call-center-ai-market-2022-key-players-end-user-demand-and-consumption-by-2032/"
     type: article
     provider:
       name: Future Market Insights
       domain: fmiblog.com
-    quality: 16
+    quality: 14
+  - title: "Artificial Intelligence (AI) in Medical Market Trends 2022, In-Depth Analysis of Industry Growth and Forecast Up To 2028 |Top key players: NVIDIA"
+    excerpt: "The Artificial Intelligence (AI) in Medical Market is projected to develop from USD 6.9 billion out of 2022 to USD 67.4 billion by 2028, it is normal to"
+    publishedDateTime: 2022-06-01T13:15:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-market-trends-2022-in-depth-analysis-of-industry-growth-and-forecast-up-to-2028-top-key-players-nvidia"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
 
 secured: "TnmCy4FGVi4sh2VwhRgSnX6MqS6N0ZH8A339OAtq4eb3Eatd+6vDTy0bZ2PetIJfeHnQzVVk7QAL6snd0fyK88vIdH18wRn3nIAAHG2WTjTK54YBx9COxUMxxx7i2H5bilsbV4iKuOWkgcvozqREZFV/vAPF+koLInRxJqd8DIYsPPmQCqa0YtEVFipXYXnOYMMqp/zIYL/mdenGWfYok8OhTzbbWJTQb8VgXreD9RibAofqO2Y5mSOHIoBizuFk3Nhycb4wmGedDmEOuD/uaywvTGcWiXKZoLFImo52FpbqmE9zUGIydHfYOZZ1eQsTTRn66jYk7ynCzQNhnpv0HGhlHHMuZng+k7Lu0jfsfb8=;dMby9v11Cu6Rwz1t4K7Cqw=="
 ---

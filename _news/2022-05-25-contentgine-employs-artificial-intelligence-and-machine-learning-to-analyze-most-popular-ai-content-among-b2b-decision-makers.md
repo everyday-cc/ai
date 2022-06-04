@@ -16,6 +16,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "hSrHzbjoIlb9qVNtZ4DtNwGwHSMUdzaouFYyAjDihYaWElpZnXPJlSk2sh3B+y+BiA+rvdDeF8SC3BxM6QazAGXbMtXvBftApGqVbJPgZNquQAhH/eRl5yf0DMA7czj8Nc20KtwO2g2yFke5p1mLeqbWWKctbYk/dOpSXU6QGb3we8lXtTfIDwB1RVBXay/lIBB5ohEUJmIFnB+TXSHhe5QZSdWpXfJDhbAf7ASHo9t+DrQ0dYK6pInq3aKEOfiI4nwAt6WKY0R1gK+SDhg8UDJpTYHDrvKQ3C58KJ3kUa4t9FrOtLA3i6Gna+ehvNx/0cOACW+llyoEadu/F/oA8jz84M5qqAz1qYjdqLFHyEllTaF2hbGbDfPwx/FQ4u7M1XIfowtlBTwhgQ+LAzrAoF3pYIn0de9wsME9VVv54VAknDFRPl0yu1SOMBmttSoKSZ7vKKl/qeLyr7cGWEaNIYgaa0tdOs05CUiI0mTHX3/qbEjBJ1BmwA00oYmwPhduaQWWKEt76owpOtJZlZot1w==;z4xF+nV5GCV4xs+qlyGghw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "NaWWXqTJhjacor/kXYvhIMjgjjCepsf8FjsIjsxXN0gfyOQK4ucfQaarAZNJjiBVVmeg7y5B91Z4inu7FXV99NQlWRezqXh/MaTHsL93h3ejdll/NWiF4irJksJavkj31+suNpATyhl5U5YxRRVzmAOrXfu4s1K+ADJoJnRc472DKiEG0PV92QnayixjV8HV9Glb98BHDdGER3uL6ZsIOBliwyNYaUvCsSvfRQZS0xVPFqXfLmk8gQfB17xnNPAW70USYSzlpXA+7xudiIqwrbM1uNES7y6x/pq4XbyRdoPXaqpB3JxSLNiQnSLvGTCKeC2jTyikNAGhLKftFntANHNP7pmfy+xSNQToFUMPcQM=;ruDCvYR7+iUlUHXppCjN6A=="
 ---
 

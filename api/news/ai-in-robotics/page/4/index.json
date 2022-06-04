@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-09-ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology.md",
+      "title": "NGO partners Oyo to train public school students on coding, robotics, drone technology",
+      "excerpt": "Oyo State government is partnering Media and Digital Skills Centre Nigeria to train its public school students on Coding, Robotics, Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "originalUrl": "https://businessday.ng/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/drones.jpg?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/news/article/ngo-partners-oyo-to-train-public-school-students-on-coding-robotics-drone-technology/",
+      "publishedDateTime": "2022-05-09T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-cogniteam-to-enhance-low-code-ai-robotics-platform-with-56m.md",
       "title": "Cogniteam to enhance low-code AI robotics platform with $5.6M",
       "excerpt": "However, the rise of digital transformation in AI and robotics begs the question — how far can low-code applications really go? In AI and robotics, designing a system from scratch often requires ...",
@@ -1333,50 +1376,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-29-visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field.md",
-      "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
-      "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning, servo control, and other core technologies to industrial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ryt9.com/en/anpi/258040",
-      "originalUrl": "https://www.ryt9.com/en/anpi/258040",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ryt9.com/img/files/20220429/iq9f569a3e44ec243e714b4394c8b83d08.jpg",
-          "width": 599,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-28T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RYT9",
-        "domain": "ryt9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

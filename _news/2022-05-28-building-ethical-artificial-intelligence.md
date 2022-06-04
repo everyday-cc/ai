@@ -18,6 +18,13 @@ topics:
   - AI in Healthcare
   - AI
   - AI Ethics
+  - AI in Autos
+
+images:
+  - url: "https://mrkp-static-production.themarkup.org/uploads/2022/05/3200x1800_hello-world-reduced-1200x628.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "AI Ethics: What It Is And Why It Matters"
@@ -37,6 +44,6 @@ related:
         height: 805
         isCached: true
 
-secured: "BEVGYwtjxZYMk3R9e5ztSYm+SEYotG+DoCoPqo9sSt6nm+oANuXstxVUnB8hbJOwCKVZ+yGcv+ZUH6MsHHr2opxtzwXrhxMRaRpeweV0zg3s+L235SIq5Yl0h5WwxuApLoCe+Y/abnKUicHldf+T+5PuJBFM4iYpK2ABXIo4AP1mbAVCb+MsMXtxah2gw3V66pYxOYR9ZwJYkb7DuYW/TeYatgTFILCEd5eNMDwFfWeFjr3sTgLiFCItp/BVQ3gLpqsdhcDafGJ1R+G1S8GWDYc7bzROqID7S3Ej9r1o/YX9+HGok6FEp3xFm7F72TiGfvUH5flKVMve4wf1kzrViURUrNlFJPMeXbfstnaGdeBKWavP2aTtQ2hsIJFu/otgDLRIrZMASG+gyuIWmXxGkxG2Zo7Z4XFlN25MN6XRBNf2BKtHDGms2pAawYk4JrPyKJIfxJ1FxNuC4GIojVFc9HEqd4lalWGLh7UZC61AGPLwi8mFgePrjehsjMh2eFlEGKvXep7Byoh1odJ5YCRwLQ==;eHQ8/RP6xN8tTZn1j1dIsA=="
+secured: "HRt1Tz1PIzj0n78+CbKm5p3pZbbpmClfQ+EzV1Tr8efVwhQkpQc6aqTfYREJJmILZ1h9n3//HH//lTYFA9tQvSiWTfjQksXrICFn1pIyYibAvxA77pFxncPbaqoqERzLMypt4/MenhXa6k2T/ZPqudXl6TqfhMaaDIdVWIBWrgDRJ2LPF71QD62RwY2aAiD9myw5bbQ4UIQ22v87Q9NQ2OAuDFkLkGBoszdu/sSzZpJPhAtNEM0cV/n9zBrXflrz3kE02rGUwRW0uh6B3bOg6bnEvEDCdnyziNEH3j3/lpDB5vmLcOuPQkxEM3kyNaQAO7lkzAHFkE1B6DUsQl/l+kVABzdkFqLjMtQkcqShiQo=;gwcmHzoQXbNL2iSgULQ1ug=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-roboti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
 type: article
 quality: 123
-heat: 233
+heat: 223
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/06/recycleye-featured.jpg"
         width: 1500
         height: 844
-        isCached: true
-  - title: "Future of AI in banking will be about leveraging unstructured data"
-    excerpt: "While banks have made significant progress in leveraging AI in risk management and sales and marketing, the applications of AI are widespread across departments, especially in compliance, where financial institutions are struggling to cope with rising global expectations on combatting AML and CFT."
-    publishedDateTime: 2022-05-30T09:09:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/future-of-ai-in-banking-will-be-about-leveraging-unstructured-data-uzba3jti"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-    images:
-      - url: "https://static.zawya.com/version/c:NmE0ZTA5NDMtM2MwMi00:MzkyYWM3/hoto-jpg.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "Israeli Firm AgroScout Proves The Impact Of AI And Robotics In Agriculture"
     excerpt: "Israeli firm AgroScout has developed software that uses AI and commercial drones to monitor crops in real-time."

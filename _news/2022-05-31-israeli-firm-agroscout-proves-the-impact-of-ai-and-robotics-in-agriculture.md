@@ -88,20 +88,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Future of AI in banking will be about leveraging unstructured data"
-    excerpt: "While banks have made significant progress in leveraging AI in risk management and sales and marketing, the applications of AI are widespread across departments, especially in compliance, where financial institutions are struggling to cope with rising global expectations on combatting AML and CFT."
-    publishedDateTime: 2022-05-30T09:09:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/future-of-ai-in-banking-will-be-about-leveraging-unstructured-data-uzba3jti"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-    images:
-      - url: "https://static.zawya.com/version/c:NmE0ZTA5NDMtM2MwMi00:MzkyYWM3/hoto-jpg.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "The role of AI in data privacy"
     excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
     publishedDateTime: 2022-06-01T18:07:00Z

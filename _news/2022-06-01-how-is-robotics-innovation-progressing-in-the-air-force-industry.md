@@ -7,7 +7,7 @@ originalUrl: "https://www.airforce-technology.com/dashboards/patents/how-is-robo
 webUrl: "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/"
 type: article
 quality: 69
-heat: 139
+heat: 109
 published: true
 
 provider:
@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How is robotics innovation progressing in the military industry?"
-    excerpt: "Research and innovation in robotics in the military equipment and technologies sector has stagnated in the last quarter. The most recent figures show that the number of robotics related patent applications in the industry stood at 32 in the three months ..."
-    publishedDateTime: 2022-05-30T10:58:00Z
-    webUrl: "https://www.army-technology.com/analysis/how-is-robotics-innovation-progressing-in-the-military-industry/"
-    type: article
-    provider:
-      name: Army Technology
-      domain: army-technology.com
-    quality: 54
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/05/bOoys-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "AI hiring levels in the mining industry rose in April 2022"
-    excerpt: "The proportion of mining industry operations and technologies companies hiring for AI-related positions rose in April 2022 compared with the equivalent month last year, with 33.8% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-05-30T10:00:00Z
-    webUrl: "https://www.mining-technology.com/analysis/ai-hiring-levels-in-the-mining-industry-rose-in-april-2022/"
-    type: article
-    provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 37
-    images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/19/2022/05/yXqvQ-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "AI hiring levels in the power industry rose in April 2022"
-    excerpt: "The proportion of power industry operations and technologies companies hiring for AI-related positions rose in April 2022 compared with the equivalent month last year, with 49.6% of the companies included in our analysis recruiting for at least one such position."
-    publishedDateTime: 2022-05-30T10:01:00Z
-    webUrl: "https://www.power-technology.com/analysis/ai-hiring-levels-in-the-power-industry-rose-in-april-2022/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 37
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/05/hToX1-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "How Storage Is Driving The Future For The Auto Industry"
     excerpt: "With vehicles becoming smarter and more connected, there are ways that memory and storage solutions providers can stay nimble and innovative in order to remain in the driver’s seat in a competitive automotive market."
     publishedDateTime: 2022-05-31T11:45:00Z

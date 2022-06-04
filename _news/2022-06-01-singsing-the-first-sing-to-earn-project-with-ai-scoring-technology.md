@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CoinTelegraph
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Emerging technologies like AI going to have huge impact on governance: Union Minister Jitendra Singh"
+    excerpt: "Emerging technologies like artificial intelligence (AI), augmented reality (AR), blockchain, drones, Internet of Things (IoT), robotics, 3D printing a.."
+    publishedDateTime: 2022-06-04T03:52:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91997677"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91997677"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/91997677"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91997677,imgsize-57232,width-1200,height-628,overlay-etcio/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Emerging technologies like AI going to have huge impact on governance: Union Minister Jitendra Singh"
     excerpt: "Union Minister Jitendra Singh on Friday said that emerging technologies like artificial intelligence (AI), augmented reality (AR), blockchain, drones, Internet of Things (IoT), robotics, 3D printing and virtual reality (VR) are going to have a huge impact on all aspects of life including governance."
     publishedDateTime: 2022-06-03T13:15:00Z

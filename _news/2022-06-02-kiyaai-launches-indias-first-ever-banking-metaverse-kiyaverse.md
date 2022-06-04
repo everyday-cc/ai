@@ -71,15 +71,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "CEOs don’t buy into the metaverse, eye AI, ESG to boost business: Survey"
-    excerpt: "Gartner survey finds business executives are ambivalent about the metaverse, but are leaning into environmental sustainability more in 2022. CEOs don’t buy into the metaverse, eye AI, ESG to boost business: Survey."
-    publishedDateTime: 2022-05-30T09:51:00Z
-    webUrl: "https://www.itp.net/emergent-tech/ceos-dont-buy-into-the-metaverse-eye-ai-esg-to-boost-business-survey"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 16
 
 secured: "g6uMFW8FTHRiN4jgX3WJygbQJLiDTWsySlnIcG257xPODrWR1vfgYc9cQf+ZeM5nrdP6sU9PHO85Rb5cL/Z2DHQgyV8GEkHdyueQyKOHMLM7ahfN8DxPOoJnvkPHPsoIJD0Duj5h0VjQ3Bqoe56gkgRQUvmiW6ie+OKXp2g1o+rqGZ0CT+MnD23bpM06cRRpbeh3be/9DvNUCZNh1PtXgb9Cg6dOMnU9TpMvmt4tAoPDv4jceDPNHfqM1uoOtrZ6e86wLkkEmyYLT47wOUDaWaLOyqPGGpOdPBzY13IPSBGMhqag9H5kgFr5CbdOM/dGND2viu0r9mBSH5K+8NmY8hPFXtKi56akrXYrTGzw084zG2NHEI9HsS0KC6v9MgpjgM53agUk4xP015nDVWJjyqgHInT6gruZQZ5x5yQxCjqypTcl21MqfL/tsCu3B7A+ARghbtApUVy1LjVo3RUJWCX1qA2S9CQSE8SYOlBLfLYEGPEoYioANSxXM2DWCm11WV5B0zflnmPGkllyp+3xNw==;dN+VTTUYOhF6o2ai0+0O8A=="
 ---

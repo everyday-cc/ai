@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/06/03/call-center-ai-market-2022-key-
 webUrl: "https://www.fmiblog.com/2022/06/03/call-center-ai-market-2022-key-players-end-user-demand-and-consumption-by-2032/"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "AI in Social Media Market Demand Analysis and Projected huge Growth by 2027"
+    excerpt: "AI in Social Media Market – Global Outlook and Forecast 2021-2027 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support."
+    publishedDateTime: 2022-05-30T20:48:00Z
+    webUrl: "https://xaralite.com/345473/business/ai-in-social-media-market-demand-analysis-and-projected-huge-growth-by-2027/"
+    type: article
+    provider:
+      name: xaralite.com
+      domain: xaralite.com
+    quality: 17
   - title: "Artificial Intelligence (AI) in Medical Market Trends 2022, In-Depth Analysis of Industry Growth and Forecast Up To 2028 |Top key players: NVIDIA"
     excerpt: "The Artificial Intelligence (AI) in Medical Market is projected to develop from USD 6.9 billion out of 2022 to USD 67.4 billion by 2028, it is normal to"
     publishedDateTime: 2022-06-01T13:15:00Z

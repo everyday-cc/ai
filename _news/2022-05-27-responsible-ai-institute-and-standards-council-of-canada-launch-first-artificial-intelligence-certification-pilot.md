@@ -1,25 +1,19 @@
 ---
 category: news
 title: "Responsible AI Institute and Standards Council of Canada Launch First Artificial Intelligence Certification Pilot"
-excerpt: "AUSTIN, Texas, May 26, 2022 (GLOBE NEWSWIRE) -- Responsible AI Institute (RAII), the leading non-profit dedicated to independent AI assessments and certification, today announced its partnership ..."
-publishedDateTime: 2022-05-26T17:50:00Z
-originalUrl: "https://fox8.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/"
-webUrl: "https://fox8.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/"
+excerpt: "Responsible AI Institute (RAII), the leading non-profit dedicated to independent AI assessments and certification, today announced its partnership with the Standards Council of Canada (SCC) in a first-of-its-kind pilot to determine requirements for the development of a conformity assessment program for AI management systems."
+publishedDateTime: 2022-05-26T18:08:00Z
+originalUrl: "https://kfor.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/"
+webUrl: "https://kfor.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/"
 type: article
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: Oklahoma's News
+  domain: kfor.com
 
 topics:
   - AI
 
-images:
-  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
-    width: 800
-    height: 340
-    isCached: true
-
-secured: "OS9XoTHwtRWsgZzHsizLXZr8126pqmTDagj3cMyDhiDMJBSZl+c3XOu3uqqbkeMzHDt/S9FMxWQs1CdYrFecjYONTu1eR0Cs4JDSUYL+O1Q6sRRGqUHQxYeZM31SWu58cNTB0Z0ZlHw4AXUEzy5G8u1z285ZKHsy9QkeOuaoWqIUo1BLAc6HXZNt3ueY6RYkHSeacWmeVVQWtKpDggQfTRsanepobEmESf73OmMidpOvCP21zqyfPUJW/1uwo9dgPYYlNX9zwbwKkjuckCzGwwLQv3BY753yL0WEmNpVz3WUjcC1dEjv1Oo5AbBUoS1HRB0GeLw42dbql8qINNWvjd6aNw0qLcRwz0tNyIROpXE=;UiILCWXxXjiniwOa70V0Iw=="
+secured: "u6I5CZTz8nX3fMC78RQDZsBPitSnn42+rdXdrE6cohQShZUQ9cT+B9ZbY/tt01d1RpWQHXtWjeOX5evRJAwTZqnQbpe2NkcTeuUsVXR3qH9FQMJ3p+/hxi9VR5LgCEd+P0CRy78FsMHettPoj1+9wJH0YustVL6gdEkVOqm8wh76uA+BD5Pfo3I7WSN0cL1T9dqQRHDQk2Qny/PA3A6wyQKgRKrUA8ZbpEJwq6inRVzNZ2myrOuzwdfazV4vTzrjqNfVeOonPG+PG5Q1cBjtrEqGDYXjJzbxv8Nqjq5pGJZa39+N/Ja2txTJtnw1mZbiBzjC6lSjq6LuklQDOoxgmcqZalqGE/0ukxvrTM6LXZM=;8g6tawMuaEltGM+IWDHWgg=="
 ---
 

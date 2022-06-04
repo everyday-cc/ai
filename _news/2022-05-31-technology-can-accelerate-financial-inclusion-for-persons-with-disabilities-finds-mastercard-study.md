@@ -29,20 +29,6 @@ images:
 related:
   - title: "Technology can accelerate financial inclusion for persons with disabilities, finds Mastercard study"
     excerpt: "Persons with disabilities consider 28% of banks in developed countries, and between 8% and 64% of banks in some emerging economies, to be inaccessible"
-    publishedDateTime: 2022-05-30T10:38:00Z
-    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/technology-can-accelerate-financial-inclusion-for-persons-with-disabilities-finds-mastercard-study-yectoh1v"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 10
-    images:
-      - url: "https://static.zawya.com/version/c:OWM0NzkwMTUtODVlOS00:NTUyZTI3/disabled-deaf-man-in-video-conference-call.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Technology can accelerate financial inclusion for persons with disabilities, finds Mastercard study"
-    excerpt: "Persons with disabilities consider 28% of banks in developed countries, and between 8% and 64% of banks in some emerging economies, to be inaccessible"
     publishedDateTime: 2022-06-01T07:26:00Z
     webUrl: "https://www.zawya.com/en/press-release/research-and-studies/technology-can-accelerate-financial-inclusion-for-persons-with-disabilities-finds-mastercard-study-jrmj61r9"
     type: article

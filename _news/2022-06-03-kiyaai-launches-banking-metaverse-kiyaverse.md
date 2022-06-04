@@ -72,15 +72,6 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 17
-  - title: "CEOs don’t buy into the metaverse, eye AI, ESG to boost business: Survey"
-    excerpt: "Gartner survey finds business executives are ambivalent about the metaverse, but are leaning into environmental sustainability more in 2022. CEOs don’t buy into the metaverse, eye AI, ESG to boost business: Survey."
-    publishedDateTime: 2022-05-30T09:51:00Z
-    webUrl: "https://www.itp.net/emergent-tech/ceos-dont-buy-into-the-metaverse-eye-ai-esg-to-boost-business-survey"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 16
 
 secured: "37eFsdGSODwbQLaapgwqh1WF5wtttK4YnP/i9tmttzfB3K5De6LQZOSjGLgdJdqbAAZJb5eYQL1tbkdxQfF1BDb9kw4TSbu1KkJbY6+OZ9O4Z5XcQak70lV5DegjApNA4/GajSqeJiCyy3AoPrbncGX+WcEaCDhlzYqxexDwt6RQI1PCJdqm89nvWKkpbGyrv2cnr/DDVmmUp0ckl7ZBIhO0hxgpFRszZkybippHC4Cc+mplx6gx4Im6gl9ymA3kw3ClhCX4WMgCLhCz9zPNN98a9r7ihlYbCFnVymRJn4QLf5B0b3cOXP46EVcpjtVyXvmZCBBzeMs0K3aP7ZpcfhNHEqRXR0fhVH7urm/tBCZmbp7hYpGR7LmxUyb8Yg9iyxKAVj4e/bEQnE0xbWqgO0uussPkRaVHb7ZDDiCvTn9dxhVwx1nknmBibsqtmAfaUZqjju7Cbhl810K0J76hD4aI9TTJQfK0ZjhRIMxcO8gBz6/KZOQK4AtoZx1wcmFBj7V4mbE8afnrBmpPE6BG/Q==;StON173xDB4ugF92mD7uNg=="
 ---

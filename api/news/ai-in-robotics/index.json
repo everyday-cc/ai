@@ -384,7 +384,7 @@
       "originalUrl": "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -557,7 +557,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -1065,6 +1065,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-10-finalists-named-in-cowen-startup-challenge-winner-chosen-at-automate-june-7.md",
+      "title": "10 Finalists Named in Cowen Startup Challenge; Winner Chosen at Automate June 7",
+      "excerpt": "Ten cutting-edge startups will compete for a $10,000 prize in “ The Cowen Startup Challenge: Automate to Outperform ” June 7 at the Automate 2022 Show and Conference, North America’s largest automation and robotics showcase.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-north-america-ann-arbor-robotics-02d90fc30c51493eb4fff467de61d3d6",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-north-america-ann-arbor-robotics-02d90fc30c51493eb4fff467de61d3d6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers.md",
       "title": "Zoho invests in Indian startup Genrobotics that makes robotic scavengers",
       "excerpt": "Chennai-headquartered Zoho said that the investment will assist Genrobotics to eradicate manual scavenging in India and provide safety, dignity to workers in the sanitation and oil and gas industries",
@@ -1292,40 +1335,6 @@
       "provider": {
         "name": "WWNO",
         "domain": "wwno.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-arv-and-varuna-launch-ai-robotics-hackathon-2022.md",
-      "title": "ARV and VARUNA launch AI & Robotics Hackathon 2022",
-      "excerpt": "Thailand's leading technology development and venture building company dedicated to leveraging cutting-edge AI & Robotics technologies, as a technology spin-off from PTTEP, an upstream national oil & gas company of Thailand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

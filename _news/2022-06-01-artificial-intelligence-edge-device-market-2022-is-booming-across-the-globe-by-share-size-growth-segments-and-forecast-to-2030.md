@@ -158,20 +158,6 @@ related:
       name: xaralite.com
       domain: xaralite.com
     quality: 23
-  - title: "Artificial Intelligence in Retail, 2022 Market Research Report - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence in Retail Market Research Report: By Offering, Technology - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering."
-    publishedDateTime: 2022-05-30T10:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-c0b5c8a055214dcb818229e97baeda30"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Artificial Intelligence Software Market 2022 - Product Type, Ongoing Trends, Competitive Insights and Worldwide Forecast to 2028"
     excerpt: "The Global Artificial Intelligence Software Market 2022 by Company, Regions, Type and Application, Forecast to"
     publishedDateTime: 2022-06-01T21:11:00Z

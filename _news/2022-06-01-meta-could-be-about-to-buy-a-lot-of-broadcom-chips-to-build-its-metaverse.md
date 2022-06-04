@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/sg/news/meta-could-be-about-to-buy-a-lot
 webUrl: "https://www.techradar.com/sg/news/meta-could-be-about-to-buy-a-lot-of-broadcom-chips-to-build-its-metaverse"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 17
-  - title: "CEOs don’t buy into the metaverse, eye AI, ESG to boost business: Survey"
-    excerpt: "Gartner survey finds business executives are ambivalent about the metaverse, but are leaning into environmental sustainability more in 2022. CEOs don’t buy into the metaverse, eye AI, ESG to boost business: Survey."
-    publishedDateTime: 2022-05-30T09:51:00Z
-    webUrl: "https://www.itp.net/emergent-tech/ceos-dont-buy-into-the-metaverse-eye-ai-esg-to-boost-business-survey"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 16
 
 secured: "G77224VQdCHkTyLQrLPPUBGxwzgExskE0Ay0uNU94+mMau4KtQXdo/IoCFwc9gHZ5VZCC9xOVkgE84t8T9U4y+f6dTxrMB2WDZwL3bDrQSr9t4aikykRMqd3KFEZbQHjFsbdNn8khgLaF1quDwpdO0euDSK0bptUke/PUdK7rsVbPmBxRhxE9nVYNUb8+Xu9ZaxBCXtT1L2NoeSU9a7tzssfEkIVA9wV5sM5it/Sift91IPpeQepA8oX4MbyhjZxckVLt4cfI3NeDZPSRy3kraN8Qv3l+ooQz5ENfZ3uwitCDFHP7LEawL7SLWJueySXurdNQ7IAH97FDi8yfd2iemamfovi0SZj0EpKv1iWG74=;cOJhqKKnCkYJUlmQZ8pLJQ=="
 ---
