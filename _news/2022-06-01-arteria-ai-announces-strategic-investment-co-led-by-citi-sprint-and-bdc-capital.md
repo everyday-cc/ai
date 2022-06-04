@@ -9,7 +9,7 @@ ampWebUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-le
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
 type: article
 quality: 53
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
       name: Eagle-Tribune
       domain: eagletribune.com
     quality: 27
-  - title: "DaveAI, A Nasscom Deeptech Club Start-up Specializing in Visual AI, raises strategic round of funding by Marquee Investors from Japan and India"
-    excerpt: "DaveAI, a virtual AI avatar led sales experience platform announced a strategic round of investment led by Maruti Suzuki India Ltd. - India's largest automobile brand, GHV - India's first and biggest industry Co-Creation innovation and investment group for Japan,"
-    publishedDateTime: 2022-05-31T00:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220530/3946978.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "XZZOxFpxdDQSPw8IELT7PxRonZLq9441VZImx5+Ul2YCVVnumzFcwQ4NAjo7rRH81PYC8XIU69LDoYKfKg8srVO10oevHhV6mKDsRAN/kSiM0GLkAn3ZOl//XKr/F0OX+eEgnSU3lJwbsm06Z2gcGhV8PelOEMu7k82EiGtK/jpLeTo/fK7w2FAHKxpbTSyBFkq9Xxk5TP9Cx6Q3j94cqnTHL62b6gBTX4kyf/R70d5QBEwbwK8/r+JXEWycmTjvve2vgnKJkV5W+9pJs4l3j7nRiT6VHga+45nl8nJYYkMXtjM1jaQ3D7Jl9g24hrrBo419cgEIvHrBuQSmHBqqRuKhc44Pk11lHXJn8HQ+ZeQ=;aNLvQ0XgSahysgYUQYxJ2Q=="
 ---

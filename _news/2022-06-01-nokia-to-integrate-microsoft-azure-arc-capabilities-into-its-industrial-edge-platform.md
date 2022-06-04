@@ -41,20 +41,6 @@ related:
         width: 500
         height: 306
         isCached: true
-  - title: "Nokia plugs in Microsoft Azure into its industrial edge platform"
-    excerpt: "With Microsoft Azure Arc, a wide ecosystem of applications, and our long standing work with Nokia, we can provide AI-powered insights and identify solutions to workflow issues for mission critical Industry 4.0 applications running at the edge.”"
-    publishedDateTime: 2022-05-31T16:20:00Z
-    webUrl: "https://telecoms.com/515630/nokia-plugs-in-microsoft-azure-into-its-industrial-edge-platform/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 54
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/08/Fotolia_163376823_Subscription_Monthly_M.jpg"
-        width: 1639
-        height: 1159
-        isCached: true
 
 secured: "xQm5shcGElpzLdJY91rDm4oDurM5FKxl+qXcCBEMckb86/NJymBTRZkOlwuw9FiryTpcj6k7UHaqxltjFsk/EVasMQ0C++pajw2znkDx4nzwt+12IMOlh3/LMYqZa1iPKOoSB8nVSfVKhPDngiNlyOy0mgzWLnLSoM0vbFfluUxcQGw5ZL/roFHhEEhC9enZlAgy8So9Nxslv6Y0P43r3wBLxjTYCQ2xvvRDWfbg+fEJrqeS1/S4aRezucMTeA2FWNafRPRof+i9Ds8H2Rj8n47wmdvQgEytdspRiqxVDkrKhe9FaV8ca0wBo3sfk5FNnnLSxCdQMuGBqbRev7d79g3gAalGxsQKWFVworQo2tsl2NqSXmi10j/fb3h2hpneHqMaSReRsIdz/PJLySrojVABHBED48Ugh0x7HHumZSL1Dv0ZLlGgGKjmBQ25bBn4dkTt8gMNALSawsGFcfOgmm/n1lXMwQGH1ehFGkv6czyHuyg9hFiK4e9OGVcAW3dJOVl8JYmTZkytztMwQWhXGw==;0RSF5JJDxskgYJ/GwIYfTA=="
 ---

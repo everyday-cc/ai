@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wltx.com/amp/article/news/can-ai-help-stop-shootings/509
 cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/can-ai-help-stop-shootings/509-c65d6530-aaac-4494-8ef2-e1d1047e5dcb"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,70 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "US shootings: Firm unveils plans for Taser-armed drones"
+    excerpt: "\"Reasonable minds can differ on the merits of police-controlled Taser-equipped drones - our own board disagreed internally - but we unanimously are concerned with the process Axon"
+    publishedDateTime: 2022-06-03T19:03:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-61685117?at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=4FB0FBCE-E3DB-11EC-83F3-F28731EBDC67&at_custom1=%5Bpost+type%5D"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-61685117.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-61685117.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/516E/production/_125264802_gettyimages-1164948747.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Stun-gun drones in schools? Not so fast, says Taser firm’s own ethics board"
+    excerpt: "Axon’s plan for stopping mass shootings condemned just hours after being announced Axon, the company formerly known as Taser, is facing a public relations crisis after its own ethics board condemned the firm’s plans to build a stun-gun-equipped drone just hours after it was announced."
+    publishedDateTime: 2022-06-03T13:07:00Z
+    webUrl: "https://theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/84a9d600ab639a62e777f9e5cd7b1c1d289bad06/78_0_2343_1406/master/2343.jpg?width=620&quality=85&auto=format&fit=max&s=859214115d15eca9eb54eeb277147964"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "A firm proposes using Taser-armed drones to stop school shootings"
+    excerpt: "The publicly traded company, which sells Tasers and police body cameras, floated the idea of a new police drone product last year to its artificial intelligence ethics board, a group of well-respected experts in technology, policing and privacy."
+    publishedDateTime: 2022-06-04T10:10:00Z
+    webUrl: "https://www.wksu.org/npr-news/npr-news/2022-06-04/a-firm-proposes-using-taser-armed-drones-to-stop-school-shootings"
+    ampWebUrl: "https://www.wksu.org/npr-news/npr-news/2022-06-04/a-firm-proposes-using-taser-armed-drones-to-stop-school-shootings?_amp=true"
+    cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/npr-news/npr-news/2022-06-04/a-firm-proposes-using-taser-armed-drones-to-stop-school-shootings?_amp=true"
+    type: article
+    provider:
+      name: WKSU
+      domain: wksu.org
+    quality: 44
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/305bc91/2147483647/strip/true/crop/2280x1404+108+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F04%2Fap22155042125461_wide-0baf687cd2192cd92f57389b48b737738af58355.jpg"
+        width: 880
+        height: 542
+        isCached: true
+  - title: "Firm proposes Taser-armed drones to stop school shootings"
+    excerpt: "Taser developer Axon said this week it is working to build drones armed with the electric stunning weapons that could fly into schools and “help prevent the next Uvalde, Sandy"
+    publishedDateTime: 2022-06-03T20:12:00Z
+    webUrl: "https://globegazette.com/lifestyles/technology/firm-proposes-taser-armed-drones-to-stop-school-shootings/article_32677531-f324-5384-a6f3-c5f5cf545745.html"
+    type: article
+    provider:
+      name: Globe Gazette
+      domain: globegazette.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/custom/image/4a008fc8-c542-11ea-80d0-f71aedfaa0ef.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "wT6qa6w+yHnv29I3iN88b6p/UaM9VRznpmEdDjLh9Zjj9y8D/bWfvwal2QgUbHSG9bXflHrth5l0ZzfSRLRAs7xH45sd1jg7M6nQPmE0lqAMa4af+6gTeOaGVDXM2mOlN5j9TiAnOkmvtmSeOoaoQNj8MOXVdCRA84EVy5Tvn+Y8YScT1MiPTaf98oTF/Lxs0zB2BwQBnfizSAEnQg9PnhDlALtGR/Lrp1zI6BnhM0dwCWuKsCyh4zfzjZZVkXPjYJ1+THFI0OEsABb+Uws4Ls/PbdmcFZgwN346vYcrW1frDxARH681A41hlGz6Fdc+cf+475w40Sk7k1CATEbw++cnfRkPXpG/9IuhJqbt2Cw=;WsdxP4ogL4l+kJJJNho0jg=="
 ---

@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Can a machine be named as an ‘inventor’? How AI is pushing the limits of patent law"
-    excerpt: "Given the ever-increasing power of AI, it’s not a wild leap to suppose that AI will take on a greater role in coming up with inventions."
-    publishedDateTime: 2022-05-30T23:27:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/machine-inventor-ai-patent-law/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 31
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/05/AI.jpg"
-        width: 733
-        height: 361
-        isCached: true
-
 secured: "UNDIUxsL2L8M4D37mVvJ98vmBBw7I2hFQ81iW8B8sAmbTAW6su84+A6AzHVeVKu/yPDEg4XfUXtneW+yTQFqv+sqYyysTmUZWQSgqVNzd90pbNZq06P+AlbQKy6gn3x0Ccy4DCixppU2yXZAV2epYrR3OeFwH4ce7T5bnj288Fe7CICmcmMcR05Tu5Snivv/YEMTIT1yyhXat+KsfD0OfN1tse7gjOViNARcUsoVfpgH7TK9BnmaKEMHRcBYt6nlEiOqT1zmCUn4Ww9xUVjATvcxqZWKDM8kbHr7r/O8toXUc70WvfgtrbqIo3qq3ipljZEov4qb1ob5bGa5obKdXtxdJqeUQRJEN39WPTrEAHo=;Lt987jMDqNtsPF2WwjbBVg=="
 ---
 

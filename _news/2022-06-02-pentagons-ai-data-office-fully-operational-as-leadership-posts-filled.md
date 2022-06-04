@@ -38,6 +38,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Pentagon announces new leadership for chief digital, AI office"
+    excerpt: "The Pentagon’s new Chief Digital and Artificial Intelligence Office (CDAO) has hired nearly a dozen senior leaders to serve in its top positions — and met its June 1 deadline to reach full operating capability,"
+    publishedDateTime: 2022-06-01T21:32:00Z
+    webUrl: "https://www.fedscoop.com/pentagon-announces-new-leadership-for-digital-ai-office/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/06/Pentagon.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
 
 secured: "Fxo8TLa4oLUw/Go6LR0LPJOzM/GXodO/CTTFBRS7x57qmUrLS53ZFW9pSXWa6tHrTeMCu/RUi8WeQS+Bj1Gjalg8ZxgvDToTFWfpgwZTYwGExU+wdmguVsR91qnBtK+u92ibcKPLy2n3qZ59UPKg/h57gQUEFZn6HtMHhNG7DeyNpkON2WgBf3t+PtxLEaAI3GesyR6lTGDE+CV//a4V9ueWlH7Xc8+bIDE6KuWJbLYOtckxPH1YkG4gaONnRJR/WkMb7mllUsZScmaCnzYc+r5XS+5abnc9ZQ3jRUB/FSGNTbZFGFANcuxLqv6kL5aXZgykdpyXhYWHuShXihFwJ9TWZpC6FKqgb18lEWLh/cvpkPbUro87WCngmXZ7IXA0wD81hPMKF2mi15i2PcdYkK00r05LlVnmmNAa1fUzkwfO7GXQnUCYuzD5atq1FtPfhy+DWwvjejclUGN/OVxoDI7JN4Wv1IY3DMBgt3ryT7pTSkMd69nmu0rzRdh8SaIgaN8GHzToNGgnQGaK1VI4vg==;oxvducoWt9JL1y43kB2h5A=="
 ---

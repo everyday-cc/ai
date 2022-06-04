@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-01-pmis-beat-technology-leads-gains.md",
+      "title": "PMIs Beat, Technology Leads Gains",
+      "excerpt": "“Baidu delivered solid first quarter results, especially regarding our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
+      "originalUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6296381d6805b5b22ed94143/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
+      "publishedDateTime": "2022-05-31T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-ethics-adviser-questions-pm-over-partygate-fine.md",
+      "title": "Ethics adviser questions PM over Partygate fine",
+      "excerpt": "Boris Johnson must explain why he has not broken the ministerial code after being fined over Partygate, his ethics adviser says",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-politics-61653755",
+      "originalUrl": "https://www.bbc.com/news/uk-politics-61653755",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-politics-61653755.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-61653755.amp",
+      "publishedDateTime": "2022-05-31T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-investigating-the-links-between-facial-recognition-and-alzheimers-disease.md",
       "title": "Investigating the links between facial recognition and Alzheimer's disease",
       "excerpt": "In recent years Alzheimer's disease has been on the rise throughout the world and is rarely diagnosed at an early stage when it can still be effectively controlled. Using artificial intelligence, KTU researchers conducted a study to identify whether human-computer interfaces could be adapted for people with memory impairments to recognize a visible object in front of them.",
@@ -905,49 +1009,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-31-nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-40.md",
-      "title": "Nokia integrates Azure Arc into MXIE bundle for mission-critical Industry 4.0",
-      "excerpt": "Nokia is to integrate Microsoft’s Azure Arc cloud management platform into its MX Industrial Edge (MXIE) solution for mission-critical Industry 4.0 environments. The tie-up will afford customers buying private wireless",
-      "sourceUrl": null,
-      "webUrl": "https://enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0",
-      "originalUrl": "https://enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/enterpriseiotinsights.com/wp-content/uploads/2022/05/Nokia-Industry-4.0-Hannover-Messe-2022.jpg?fit=500%2C306&ssl=1",
-          "width": 500,
-          "height": 306,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0/amp",
-      "cdnAmpWebUrl": "https://enterpriseiotinsights-com.cdn.ampproject.org/c/s/enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0/amp",
-      "publishedDateTime": "2022-05-31T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterpriseiotinsights",
-        "domain": "enterpriseiotinsights.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-31-iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary.md",
       "title": "IQ-AI surges after US FDA submission by Imaging Biometrics subsidiary",
       "excerpt": "Imaging Biometrics' patented artificial intelligence technology eliminates the need for gadolinium-based contrast agents in MRI exams",
@@ -1143,57 +1204,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-the-rise-of-ai-is-pushing-patent-laws-to-their-limits.md",
-      "title": "The rise of AI is pushing patent laws to their limits",
-      "excerpt": "It was a machine learning program. One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence (AI) in Arthur C Clarke’s classic 2001: A Space Odyssey.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits",
-      "originalUrl": "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

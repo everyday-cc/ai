@@ -2,41 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-05-14-call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap.md",
-      "title": "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP",
-      "excerpt": "By combining Azure Bot Services, Microsoft Bot Framework, and Azure Cognitive Services, the company provides a strong development environment for creating conversational interfaces. Users can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27204715/call-center-ai-market-growing-at-a-cagr-21-3-key-player-ibm-microsoft-oracle-aws-sap",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27204715/call-center-ai-market-growing-at-a-cagr-21-3-key-player-ibm-microsoft-oracle-aws-sap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27204715",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27204715",
-      "publishedDateTime": "2022-05-13T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-14-lawyer-says-georgia-man-set-for-execution-should-be-spared.md",
       "title": "Lawyer says Georgia man set for execution should be spared",
       "excerpt": "ATLANTA (AP) — The life of a Georgia man set to be executed Tuesday for killing an 8-year-old girl should be spared, his lawyer argues, explaining that her client has significant cognitive ...",
@@ -1291,6 +1256,59 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics.md",
+      "title": "Experiencing NVIDIA Jetson AGX Orin: The Fascinating Future Of AI-Empowered Robotics",
+      "excerpt": "As you can see, NVIDIA’s Riva AI speech recognition engine has no problem keeping ... Various configurations of Jetson AGX Orin production modules above will start shipping in July, with lower cost Jetson Orin NX modules shipping in September.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62715c96e2864518f941d642/0x0.jpg?format=jpg&width=1200",
+          "width": 1130,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/05/04/experiencing-nvidia-jetson-agx-orin-the-fascinating-future-of-ai-empowered-robotics/amp/",
+      "publishedDateTime": "2022-05-04T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
       ]
     }
   ],

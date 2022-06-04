@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-02-amd-is-now-within-the-1st-exascale-supercomputer-microsoft-azure-and-google-cloud.md",
-      "title": "AMD is now within the 1st exascale supercomputer, Microsoft Azure, and Google Cloud",
-      "excerpt": "AMD is once again showing its incredible prowess in supporting the computing needs of the world as they power everything from Microsoft to Google and also the new Frontier supercomputer.",
+      "path": "_news/2022-06-04-what-hugging-face-and-microsofts-collaboration-means-for-applied-ai.md",
+      "title": "What Hugging Face and Microsoft’s collaboration means for applied AI",
+      "excerpt": "What happens when one of the biggest cloud and enterprise software players teams up with a leading hub for transformer models?",
       "sourceUrl": null,
-      "webUrl": "https://www.tech-critter.com/amd-frontier-supercomp-microsoft-google/",
-      "originalUrl": "https://www.tech-critter.com/amd-frontier-supercomp-microsoft-google/",
+      "webUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
+      "originalUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/06/Frontier-Supercomputer-AMD.jpg",
-          "width": 1482,
-          "height": 859,
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FHugging-Face-Microsoft.jpg&signature=137aa33a60ae3a08c1badc772b43d00e",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.tech-critter.com/amp/amd-frontier-supercomp-microsoft-google/",
-      "cdnAmpWebUrl": "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/amd-frontier-supercomp-microsoft-google/",
-      "publishedDateTime": "2022-06-01T20:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-04T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "tech-critter.com",
-        "domain": "tech-critter.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -85,49 +95,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-40.md",
-      "title": "Nokia integrates Azure Arc into MXIE bundle for mission-critical Industry 4.0",
-      "excerpt": "Nokia is to integrate Microsoft’s Azure Arc cloud management platform into its MX Industrial Edge (MXIE) solution for mission-critical Industry 4.0 environments. The tie-up will afford customers buying private wireless",
-      "sourceUrl": null,
-      "webUrl": "https://enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0",
-      "originalUrl": "https://enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/enterpriseiotinsights.com/wp-content/uploads/2022/05/Nokia-Industry-4.0-Hannover-Messe-2022.jpg?fit=500%2C306&ssl=1",
-          "width": 500,
-          "height": 306,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0/amp",
-      "cdnAmpWebUrl": "https://enterpriseiotinsights-com.cdn.ampproject.org/c/s/enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0/amp",
-      "publishedDateTime": "2022-05-31T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterpriseiotinsights",
-        "domain": "enterpriseiotinsights.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -390,13 +357,22 @@
       "title": "Microsoft Build Conference Heralds Era of AI-Assisted Software Development",
       "excerpt": "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,",
       "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
+      "webUrl": "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1",
+      "originalUrl": "https://visualstudiomagazine.com/Articles/2022/05/26/build-ai.aspx?p=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0916red_Foley.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1368,6 +1344,41 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-14-call-center-ai-market-growing-at-a-cagr-213-key-player-ibm-microsoft-oracle-aws-sap.md",
+      "title": "Call Center AI Market Growing at a CAGR 21.3% | Key Player IBM, Microsoft, Oracle, AWS, SAP",
+      "excerpt": "By combining Azure Bot Services, Microsoft Bot Framework, and Azure Cognitive Services, the company provides a strong development environment for creating conversational interfaces. Users can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27204715/call-center-ai-market-growing-at-a-cagr-21-3-key-player-ibm-microsoft-oracle-aws-sap",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27204715/call-center-ai-market-growing-at-a-cagr-21-3-key-player-ibm-microsoft-oracle-aws-sap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27204715",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27204715",
+      "publishedDateTime": "2022-05-13T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

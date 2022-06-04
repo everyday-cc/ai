@@ -93,15 +93,6 @@ related:
         width: 440
         height: 293
         isCached: true
-  - title: "DaveAI, A Nasscom Deeptech Club Start-up Specializing in Visual AI, raises strategic round of funding by Marquee Investors from Japan and India"
-    excerpt: "DaveAI, a virtual AI avatar led sales experience platform announced a strategic round of investment led by Maruti Suzuki India Ltd. - India's largest automobile brand, GHV - India's first and biggest industry Co-Creation innovation and investment group for Japan,"
-    publishedDateTime: 2022-05-31T00:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220530/3946978.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "wq2OGsGr+c0xmZoO73FJtPu3YcKFB6qPyglReePfFVIe8K1sg0+eXzAiLGAMPeBlEjMQRsFlk8MCi9EaLGFUGK2rSiDrcUo6A6lvLF2YZOYsSIGxu3sRFKovek8ZpaufKkypsjQVYzarMyaJV6VUFlkFmVEQbuHrIV2MJtzV3fCUCKaKO1ExagjkQiW0E/X6I+QqmMomib+OCdbr24nObYFtxs+7l7MxfmlL8Q4SJ9KJkHB4AvXrnWWcEoNmzXmOB/cjm/xY6fExb0vpuLz61n/Etyko6xhVG7uS47ChnO/YTNp+hDHZx585Dj+ldJ/C6Rqm2sCXkyLqXGBi/BtFZUXKofdoX8VtZfmFkt5RkI3wGNpnk2kM5IKZvmDJPfXtTROcTuJAGCM/VvUiqByakR8J0La0Id/uok2iS4cF/dkORptCYV7Q2nO6HkE7+0Uu93llhbgX7JC4xS8A32yHJzXzjuq5A0/roX4iu2AFnKdFnmCJUzKgIYsKhvf9MwN1xz1vtotAAMztQQym34rfow==;s/G1UCdwlp96iYTRMaWOAg=="
 ---

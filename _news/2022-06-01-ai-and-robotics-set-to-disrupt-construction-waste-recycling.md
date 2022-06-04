@@ -80,6 +80,22 @@ related:
         width: 510
         height: 332
         isCached: true
+  - title: "4 skills that won't be replaced by AI in the future"
+    excerpt: "You've probably heard for years that the workforce would be supplanted by robots. AI has changed several roles, such as using self-checkouts, ATMs, and customer support chatbots"
+    publishedDateTime: 2022-06-04T15:00:00Z
+    webUrl: "https://www.nationalheraldindia.com/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
+    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
+    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
+    type: article
+    provider:
+      name: National Herald
+      domain: nationalheraldindia.com
+    quality: 57
+    images:
+      - url: "https://gumlet.assettype.com/nationalherald%2F2022-06%2Ff9236b72-3ab6-4501-a169-aa6afee839ed%2F4_skills_that_won_t_be_replaced_by_AI_in_the_future_.jpeg?rect=0%2C4%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 400
+        height: 210
+        isCached: true
   - title: "The role of AI in data privacy"
     excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
     publishedDateTime: 2022-06-01T18:07:00Z
@@ -102,20 +118,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
         width: 1280
         height: 672
-        isCached: true
-  - title: "4 Skills That Won’T Be Replaced By AI In The Future"
-    excerpt: "You've probably heard for years that the workforce would be supplanted by robots. AI has changed several roles, such as using self-checkouts, ATMs, and customer support chatbots. The goal is not to scare people,"
-    publishedDateTime: 2022-06-04T09:43:00Z
-    webUrl: "https://menafn.com/1104322831/4-Skills-That-WonT-Be-Replaced-By-AI-In-The-Future"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?534711"
-        width: 261
-        height: 250
         isCached: true
   - title: "Community colleges and employer partners are teaming up to expand pathways to artificial intelligence jobs of the future"
     excerpt: "Community colleges can help ensure that diverse talent can fuel the innovation economy while accessing job opportunities."

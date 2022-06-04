@@ -23,21 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "AMD is now within the 1st exascale supercomputer, Microsoft Azure, and Google Cloud"
-    excerpt: "AMD is once again showing its incredible prowess in supporting the computing needs of the world as they power everything from Microsoft to Google and also the new Frontier supercomputer."
-    publishedDateTime: 2022-06-02T03:00:00Z
-    webUrl: "https://www.tech-critter.com/amd-frontier-supercomp-microsoft-google/"
-    ampWebUrl: "https://www.tech-critter.com/amp/amd-frontier-supercomp-microsoft-google/"
-    cdnAmpWebUrl: "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/amd-frontier-supercomp-microsoft-google/"
+  - title: "What Hugging Face and Microsoft’s collaboration means for applied AI"
+    excerpt: "What happens when one of the biggest cloud and enterprise software players teams up with a leading hub for transformer models?"
+    publishedDateTime: 2022-06-04T16:00:00Z
+    webUrl: "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai"
     type: article
     provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 68
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
     images:
-      - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/06/Frontier-Supercomputer-AMD.jpg"
-        width: 1482
-        height: 859
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FHugging-Face-Microsoft.jpg&signature=137aa33a60ae3a08c1badc772b43d00e"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Conversational AI Platform Market is Booming Worldwide | Google, Microsoft, AWS"
     excerpt: "Conversational AI is a form of Artificial Intelligence technology that enables people to converse with applications, websites, and devices in the form of humanlike natural language via voice, text, touch or gesture input. Conversational AI platforms are a ..."
@@ -52,6 +50,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Nokia plugs in Microsoft Azure into its industrial edge platform"
+    excerpt: "With Microsoft Azure Arc, a wide ecosystem of applications, and our long standing work with Nokia, we can provide AI-powered insights and identify solutions to workflow issues for mission critical Industry 4.0 applications running at the edge.”"
+    publishedDateTime: 2022-05-31T16:20:00Z
+    webUrl: "https://telecoms.com/515630/nokia-plugs-in-microsoft-azure-into-its-industrial-edge-platform/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 54
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/08/Fotolia_163376823_Subscription_Monthly_M.jpg"
+        width: 1639
+        height: 1159
         isCached: true
 
 secured: "Ms05T9mdNZftgQNr1wjkxasNQPy2mvo3rM71JW1zr3V6whf26C2jt8kOHboZrRMPxR3CORKTskSbIl4e+ASifNWaS34NWygQ6ziJkd2VVoet/uDDUmE/+BgAIVtBqGTK2RerfM1doqi/SlDQvqYnW2Ov13xa+fClumi/q/16Eltke8/rFJMMcjgb4D9SrQfii3saQrCXzAYaLiuJ0ojdNckjVyc08Dixv3HU9XxlxPepyHorsUGAgAedv8utCjOBlVQgP6kFY4TXRYJ+lhiesx3BuIOIhvsY0cdo2FMeF/PGlx5xxhnC9djn+hhxK5svcZamjhukIKNBpEAbbFPICQd47qWl26MBirYmzCl82fM=;2uvCg251kUIxefn2Oc23jg=="

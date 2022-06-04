@@ -94,15 +94,6 @@ related:
       name: Eagle-Tribune
       domain: eagletribune.com
     quality: 27
-  - title: "DaveAI, A Nasscom Deeptech Club Start-up Specializing in Visual AI, raises strategic round of funding by Marquee Investors from Japan and India"
-    excerpt: "DaveAI, a virtual AI avatar led sales experience platform announced a strategic round of investment led by Maruti Suzuki India Ltd. - India's largest automobile brand, GHV - India's first and biggest industry Co-Creation innovation and investment group for Japan,"
-    publishedDateTime: 2022-05-31T00:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220530/3946978.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "LvBM8h6LvUwpRgm87MIAcPWLtwX/avvKBZLqzN7/cj1PH6glLXFpXq7xARwhS9RgrhKTKBscXoADfUjxklEqe5qhBoDsBKE0soAl9h5MeJek1PVTJGQW7iWWKcTSsMEgx8gMKbiykyvUFiVZKqzbfgh6PpHcVHm252NxlwVtGDH75nIPiXO+nsa2p4Giy/eUI629A2jGSkT9cUbFxONKduC3vsqjDeubgXbcMrLU4TObfBtRpgauNMsjfQsqNvDKyy/xE3YqgE9evzcdylmumG52/W3Q+g/D61aex1aFe0P/ENYzD6xR3riqY33nHOYzVKOIx2mJzFCwmv6Fuiep60qW7zjOLep83yAqbTbiZwyDpn7BwfmAgReeg+mQbJNC1lEKPPcl0Jl8emAVRtvVuH7E3Ss2s741kERAEqtmR7QMdI3FEoOosWy/TNxMkAotZqaLslWEvASnuSHlF398DpMHzW5hImkAM3GLZdgF9RpSgmeU6iogrm8B4Ulkn+geGKLtb8yw5fRO7ki6aoalbA==;e9ahyQWa4kvD7Kd4sFGGHw=="
 ---

@@ -1,33 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care"
-excerpt: "The TPT intervention uses the Whole-Body Digital Twin Platform, with AI and Internet of Things ... are needed to support these initial findings. Research presentation details: For more information ..."
-publishedDateTime: 2022-06-04T15:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care-1031509544"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care-1031509544"
+excerpt: "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes"
+publishedDateTime: 2022-06-04T15:03:00Z
+originalUrl: "https://www.djournal.com/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care/article_5e11842c-b0b4-5270-af6c-0837ed87b759.html"
+webUrl: "https://www.djournal.com/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care/article_5e11842c-b0b4-5270-af6c-0837ed87b759.html"
 type: article
-quality: 51
-heat: 51
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1832792/Paramesh_Remission_Graphic.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "ZgPXF0XbIybq5npcmnUU963+SFhmU00kP4YTxcMZVMPt0JiS4qU9rX24lDSnzfwpNG5k62Z9jvGN+wi9ZNWdlkyyMSx8m4n9TqR1LvPvSrjyBXWJo0QDXJ0ShVR4w+LBoI30FXTO0m3sXm2HZj7hntZWIS1+KW1LWNtRcm1hLhN+K6Epr4W1OcHh0nOUY0GmWrmHoMYaQO5JQGPP4goG8M8uoHZfFTnlXU3lms/uNhlT22OKHOmgo7b0P4vx07GvvIv+QQDibm7tKct3Gsjnedqw3PVF4VZRCex27js+MGNGdXTs84vpKX7mdqucWVGYUAv5MR++KMD/GVTPCvc08+9Owd/sFcrhSKnYhXwPY9M=;pjXuvHudz+cLqLXFBZTHrQ=="
+secured: "HT4f6G5iPlBpIny5OJGrO8u3q62/aeY1RA0IUZaPW7HjqAjYSPj18wRrXeTuVC1nhz20l63nmwd0yfWX0iDoCPHJBwNPgYv98w9Hco/HhPbWQxDpX8J/xFvlZYGPJk42QDOAi89MWV7FIt/ztfCfaWRPIRcjDJTxcqHVQ/ZX2cSROnuLzABgVBAqvuLtBY5NcHMl1LluFpw9AvlV/TgtCfaxe2hWuZadSseeMgnPqxemMVGQv9CHfR9HGEnc0iYPwyZFtdhgt8tyS59qBPXQAxHMdH8QxaE5afG043cK5kfYBYnR21aZHDtJet0QCKN+lbGzxcmdJ5PK6kGrPTO45GDy0q0GTz6qjP2ZtMy09Vs=;G2rzVQElUFdyfb4O0dz3ng=="
 ---
 

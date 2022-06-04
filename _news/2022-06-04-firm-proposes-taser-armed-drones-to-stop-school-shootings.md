@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "US shootings: Firm unveils plans for Taser-armed drones"
+    excerpt: "\"Reasonable minds can differ on the merits of police-controlled Taser-equipped drones - our own board disagreed internally - but we unanimously are concerned with the process Axon"
+    publishedDateTime: 2022-06-03T19:03:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-61685117?at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=4FB0FBCE-E3DB-11EC-83F3-F28731EBDC67&at_custom1=%5Bpost+type%5D"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-61685117.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-61685117.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/516E/production/_125264802_gettyimages-1164948747.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Stun-gun drones in schools? Not so fast, says Taser firm’s own ethics board"
     excerpt: "Axon’s plan for stopping mass shootings condemned just hours after being announced Axon, the company formerly known as Taser, is facing a public relations crisis after its own ethics board condemned the firm’s plans to build a stun-gun-equipped drone just hours after it was announced."
     publishedDateTime: 2022-06-03T13:07:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/305bc91/2147483647/strip/true/crop/2280x1404+108+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F04%2Fap22155042125461_wide-0baf687cd2192cd92f57389b48b737738af58355.jpg"
         width: 880
         height: 542
+        isCached: true
+  - title: "Can AI help stop mass shootings? AI gun detection system in high demand after Uvalde mass shooting"
+    excerpt: "Unfortunately, because of mass shootings, threats can be found in every corner of a child or adult’s life. One California based company, Omnilert says they're hoping to disable those threats before anyone can get hurt."
+    publishedDateTime: 2022-06-03T00:24:00Z
+    webUrl: "https://www.wltx.com/article/news/can-ai-help-stop-shootings/509-c65d6530-aaac-4494-8ef2-e1d1047e5dcb"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/can-ai-help-stop-shootings/509-c65d6530-aaac-4494-8ef2-e1d1047e5dcb"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/can-ai-help-stop-shootings/509-c65d6530-aaac-4494-8ef2-e1d1047e5dcb"
+    type: article
+    provider:
+      name: WLTX19
+      domain: wltx.com
+    quality: 43
+    images:
+      - url: "https://media.wltx.com/assets/KFMB/images/d0809696-1990-4403-802e-d0768ecd0c8d/d0809696-1990-4403-802e-d0768ecd0c8d_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "l4k6UuYe6UkbCXxPVM/qNZGn177VxN7sE7EQQ79jznHDcJW0MyVJNgoGwF4yvwzSEH/OJjX0SA41hhNHsxaEa4JjBxaEaqkptrgTy5B2sBNnw7/HCbNekizmy4nAlYwwUn+RSXCu1XEwO+gvEX67G83FO5Zw4qrBiKtKXwIIbeCMNQod5Pe9AG9aSa36olSmc9cIQ36SCcF7AfXDnx97wDooNDrkMdw9OUYBbltWSvA8bqtvbfome1Nt7KJx4XUNUaWR9AgzSVAVrHTj5hBvfqZhGSKZuq9QMIoIFy0+xaNHVXKyegfzqe9SzjiT1cZAy8JI5VOmbLlscM1312RiQkjS4KecZTnyCQs514mBhL/SCiDK904xxPnPpRONrsfiTxUi1093OiIKBngIA/PbjIdHwYKnAjmCaHxtJuXkJUcE2GCJ9xUtEFP234OnNMC2RspPEy6ZyopTTYmFqjZ/6orOfNn3x7jh2J6DkW0IB5E6tbXsbvWQsIkqwaytHm3S59fkzwWNHPPhJezOOQO58A==;SmPifK4Cm/Gaza5ewLJNaw=="

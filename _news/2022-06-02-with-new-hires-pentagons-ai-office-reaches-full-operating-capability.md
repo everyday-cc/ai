@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon announces new leadership for chief digital, AI office"
+    excerpt: "The Pentagon’s new Chief Digital and Artificial Intelligence Office (CDAO) has hired nearly a dozen senior leaders to serve in its top positions — and met its June 1 deadline to reach full operating capability,"
+    publishedDateTime: 2022-06-01T21:32:00Z
+    webUrl: "https://www.fedscoop.com/pentagon-announces-new-leadership-for-digital-ai-office/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/06/Pentagon.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
   - title: "Pentagon’s AI, data office fully operational as leadership posts filled"
     excerpt: "A top-level office the Pentagon says will speed the adoption of artificial intelligence and data analytics across the defense ecosystem achieved full operating capability, right on schedule. The Chief Digital and AI Office,"
     publishedDateTime: 2022-06-02T14:17:00Z

@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "This AI generates Bored Apes that are unique, free"
-    excerpt: "A machine learning enthusiast has created an AI that generates images that you'd think were part of the Bored Ape Yacht Club NFT collection."
-    publishedDateTime: 2022-05-30T23:25:00Z
-    webUrl: "https://techstory.in/this-ai-generates-bored-apes-that-are-unique-free/"
+  - title: "ISU professor creates AI — named Pop* — able to compose music"
+    excerpt: "A computer scientist from Idaho State University has created an artificial intelligence system able to compose music. Pop* — pronounced Pop Star — is the brainchild of Paul Bodily, an assistant professor of computer science at ISU,"
+    publishedDateTime: 2022-06-02T02:53:00Z
+    webUrl: "https://www.eastidahonews.com/2022/06/isu-professor-creates-ai-named-pop-able-to-compose-music/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
+      name: East Idaho News
+      domain: eastidahonews.com
     quality: 37
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/05/APE-1.png"
-        width: 1278
-        height: 717
+      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2022/05/27094655/Bodily_2.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "F47ugOLam59G7wSMrqgiWoW6EtObBbZPme0by8vE/wf1xSYNcFYYogOXs41Z4IJjLOUi+gsoZtm8K/ZZjRblo6ZlSqm91oSOd2siK13RSEONuFf2o70xkMO0buO1GzmYaKKv903t2sgv+cy/8YG9O90yaOlqzAR84aVuVqV9XDEK2kUX6Dfg7ybLNlnk2lCmKGeL+rgzWmm+6Rh5nv+i38KCaOfr5YTB9rc+qUKRtS0ELujMhg0eu2WSxo0nM3w3HFFMn+gb3GSyEeSz4JIEEeLgOLmLFPUNX4oUnmpteG+lj6hHLtd4/nhksiXf0ZtGP1hqTGw9Y3PpVN1W2kxBi36iEgaVKkOxgox+Epug0UE=;rQluzim+K44qW5Aq57ZErw=="

@@ -45,20 +45,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
-  - title: "The healthcare industry has a problem with personalization: How voice AI can help"
-    excerpt: "The intersection of human connection and technology through voice AI holds the power to revolutionize how patients interact with their healthcare providers and payers."
-    publishedDateTime: 2022-05-31T00:43:00Z
-    webUrl: "https://medcitynews.com/2022/05/the-healthcare-industry-has-a-problem-with-personalization-how-voice-ai-can-help/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 49
-    images:
-      - url: "https://medcitynews.com/uploads/2022/05/GettyImages-1314799930.jpg"
-        width: 807
-        height: 432
-        isCached: true
 
 secured: "e9mcCnFC9bS6gKXC2pmCMTiRScvnURY56euARG/XpLwJCM4FSDOoGiqIsebykLXu4w+qRx/DYgcivVWFeGfYuwdlleh8ATMzbiuLvKMsra9dJOQ+1JmD81qvse1JJ7LSmGkYCEypK3qmc9PU0Ur42m+lWQYAILjGjCxapbD/WiD23NUgCQsGV1LcYfUW2OeicNrHr4ozyWVwr5JLU4kQg6DwROxJK93GxQfPRTIN85aCA9+VsbMLN1lqfR19/Ts8NfOHsB9zFYfkNgXqQBHY1vxlQtBfwEXf8KndI7hJ+4xQWEyKqFcNF70wtNc596tTXm8PBUkSq5hM1jpLe0nmQCaysfSDv4Ep1gNSIPVkhT4OtvS+uWozsrfWqg0t9Sai3Frqy6cTnxXO5zGdtA1eoWHA+BYKHFn3Vp9pOHKlQoHpvpu/p6wqhknMXX33BMr3fSOBTlgGuWEM4bh68wB9XKeN/zipa4J27zt+W2G/VgmhgoBZHyDvO8Bw1ot5SOYjpYJ5YpskgxdjAWacGBdY7g==;chDbeL1/G1PXeOvWd6VcBw=="
 ---

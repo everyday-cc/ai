@@ -1,26 +1,28 @@
 ---
 category: news
-title: "4 Skills That Won’T Be Replaced By AI In The Future"
-excerpt: "You've probably heard for years that the workforce would be supplanted by robots. AI has changed several roles, such as using self-checkouts, ATMs, and customer support chatbots. The goal is not to scare people,"
-publishedDateTime: 2022-06-04T09:43:00Z
-originalUrl: "https://menafn.com/1104322831/4-Skills-That-WonT-Be-Replaced-By-AI-In-The-Future"
-webUrl: "https://menafn.com/1104322831/4-Skills-That-WonT-Be-Replaced-By-AI-In-The-Future"
+title: "4 skills that won't be replaced by AI in the future"
+excerpt: "You've probably heard for years that the workforce would be supplanted by robots. AI has changed several roles, such as using self-checkouts, ATMs, and customer support chatbots"
+publishedDateTime: 2022-06-04T15:00:00Z
+originalUrl: "https://www.nationalheraldindia.com/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
+webUrl: "https://www.nationalheraldindia.com/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
+ampWebUrl: "https://www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
+cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: National Herald
+  domain: nationalheraldindia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?534711"
-    width: 261
-    height: 250
+  - url: "https://gumlet.assettype.com/nationalherald%2F2022-06%2Ff9236b72-3ab6-4501-a169-aa6afee839ed%2F4_skills_that_won_t_be_replaced_by_AI_in_the_future_.jpeg?rect=0%2C4%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 400
+    height: 210
     isCached: true
 
 related:
@@ -140,6 +142,6 @@ related:
       domain: theedgesingapore.com
     quality: 16
 
-secured: "tf8bTq8KpgUU40rjr94ntq0lGwD1ua25pookvQblHrzfIifXlEfpAur9XY7y8iL7ACXbq+my4u6Tl0RZIa1tbjXnnI29Rvdb4S9jrJiBtxKcpSi4bchTkQORK+oB+DdIujWAX1Fimkw0UxnltQu10SDlsTv1Vuygr6pr3FqJaSUrOqmtAK/4Z6zUiL6WqW4n1xYMb4Lnw5sdGCrXVAOKplZXBEGF6l6HUgyRp6XC4nDbSNP2snwUdMa5T/QklsjUCbeBzHVTTs8ah/KoAbLXqpvxga3EMpK2B55G4hj/xmPR7cfH8eA1jXUUtetChlN0/fC4e0qw6mcYdYoK7aRZNjq9PlyzIGWh6+W8rCQMGBY=;qPKA3ASnnyFX2spvmm5xzg=="
+secured: "+nsBKtAQR/vOjd4PJy/H0/0KGs3CMrk8WZA1fFZc/GGUBy7grlBMpK8QzeTtE8Au8nUzn3QlPp+gZcatmCuaKS9yHxn0LLUSmXf6lUxmHw9FjpI6HdnJvVpRKfTK/RUQg6sdjG2vC8UbjEVDNCoXtldhFjSs61PBK9xuHs7C68vmyOz/G82V1vNaLoXcyAAW0DLhaJFoDYi8EYY3SaK7Z064/HSKo2f6SyVngKliiH0/TbM3VxDKWkPItQJL/fTvnsZTVcZzCpFKucOjWMnJMJmHyYVqVj+Zh5VhU0QZCORZmkapTjSHWoOIpp5SwlnrhkmNuOyKSqzND2Gik6uER7VMurG3tNxySyBzTQJkAXw=;p77jED4m6V/ZXlq03vPvpQ=="
 ---
 

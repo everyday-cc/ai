@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
-    excerpt: "The MarketsandResearch.biz has recently published a report on the Global Artificial Intelligence (AI) in Construction Market 2022 by Company, Regions, Type and Application, Forecast to 2028. The report presents the growth prospects of the Artificial Intelligence (AI) in Construction market for the forecast period of 2022-2028."
-    publishedDateTime: 2022-05-30T23:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-construction-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-05-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Medical Robots Market Size To Grow USD 22.68 Bn By 2027"
     excerpt: "As per our research report, the size of the global medical robots market was worth USD 8.71 billion in 2022 and is estimated to be growing at a CAGR of"
     publishedDateTime: 2022-06-01T09:04:00Z

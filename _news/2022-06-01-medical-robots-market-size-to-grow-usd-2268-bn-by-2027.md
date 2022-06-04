@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
-    excerpt: "The MarketsandResearch.biz has recently published a report on the Global Artificial Intelligence (AI) in Construction Market 2022 by Company, Regions, Type and Application, Forecast to 2028. The report presents the growth prospects of the Artificial Intelligence (AI) in Construction market for the forecast period of 2022-2028."
-    publishedDateTime: 2022-05-30T23:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-construction-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-05-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
     excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
     publishedDateTime: 2022-06-02T18:30:00Z

@@ -68,6 +68,20 @@ related:
         width: 1600
         height: 918
         isCached: true
+  - title: "Cowen & MassRobotics Highlight Role of Robotics in Achieving Climate Objectives"
+    excerpt: "Cowen Inc. and MassRobotics announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
+    publishedDateTime: 2022-06-04T17:18:00Z
+    webUrl: "https://www.automation.com/en-us/articles/june-2022/cowen-massrobotics-role-robotics-climate-objective"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 50
+    images:
+      - url: "https://www.automation.com/getmedia/66ce7547-431a-4d87-ab2f-525f1ede115e/mass-robotics-news-June-3-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Philly robot convention attracts 4,500 roboticists showing off devices that fly, swim and enter the body"
     excerpt: "The robots are here. An eagle-sized quadcopter flew above a wooded Schuylkill river bank, counting trees as it was designed to do in the forests of the Andes."
     publishedDateTime: 2022-06-01T17:42:00Z

@@ -151,6 +151,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-01-pmis-beat-technology-leads-gains.md",
+      "title": "PMIs Beat, Technology Leads Gains",
+      "excerpt": "“Baidu delivered solid first quarter results, especially regarding our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
+      "originalUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6296381d6805b5b22ed94143/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
+      "publishedDateTime": "2022-05-31T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform.md",
       "title": "US Senate candidate runs on anti-Tesla “Full Self Driving” platform",
       "excerpt": "Single-issue candidates for the US Senate aren't the usual fodder for Ars' car coverage, but it seems like an exception might exist for Dan O'Dowd. O'Dowd, an engineer and CEO of a software company, is running for one of California's Senate seats on a platform to ban Tesla's \"Full Self Driving\" feature.",
@@ -838,6 +890,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-24-92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges.md",
+      "title": "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges",
+      "excerpt": "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent/article_5f791ce8-16ec-5a2f-a8df-9dceb4768928.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent/article_5f791ce8-16ec-5a2f-a8df-9dceb4768928.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-drive-io-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars.md",
       "title": "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars",
       "excerpt": "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ...",
@@ -1276,83 +1371,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-transforming-government-services-with-artificial-intelligence.md",
-      "title": "Transforming Government Services with Artificial Intelligence",
-      "excerpt": "State and local agencies can find effective solutions by identifying their goals first. In this Q&A, Keith Bauer, director of data and AI for state and local government at Microsoft, shares advice on how to get started.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence",
-      "originalUrl": "https://www.govtech.com/ai-ready/transforming-government-services-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-edge-artificial-intelligence-ai-software-market-analysis-worth-usd-25193-million-in-2028-emergen-research.md",
-      "title": "Edge Artificial Intelligence (AI) Software Market Analysis Worth USD 2,519.3 Million In 2028 | Emergen Research",
-      "excerpt": "which are crucial for robotics and self-driving vehicles. The Global Edge Artificial Intelligence (AI) Software Market Research Report has been formulated by analysis of key business details and ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research?source=304",
-      "originalUrl": "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research?source=304",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?996390",
-          "width": 344,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

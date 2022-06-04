@@ -9,8 +9,8 @@ ampWebUrl: "https://enterpriseiotinsights.com/20220531/smart-factory/nokia-integ
 cdnAmpWebUrl: "https://enterpriseiotinsights-com.cdn.ampproject.org/c/s/enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0/amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: enterpriseiotinsights
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nokia plugs in Microsoft Azure into its industrial edge platform"
-    excerpt: "With Microsoft Azure Arc, a wide ecosystem of applications, and our long standing work with Nokia, we can provide AI-powered insights and identify solutions to workflow issues for mission critical Industry 4.0 applications running at the edge.”"
-    publishedDateTime: 2022-05-31T16:20:00Z
-    webUrl: "https://telecoms.com/515630/nokia-plugs-in-microsoft-azure-into-its-industrial-edge-platform/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 54
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/08/Fotolia_163376823_Subscription_Monthly_M.jpg"
-        width: 1639
-        height: 1159
-        isCached: true
   - title: "Nokia to Integrate Microsoft Azure Arc Capabilities into its Industrial Edge Platform"
     excerpt: "Nokia announced plans to integrate Microsoft Azure Arc capabilities into the Nokia MX Industrial Edge (MXIE) platform,"
     publishedDateTime: 2022-06-01T01:03:00Z

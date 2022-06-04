@@ -25,36 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Nokia integrates Azure Arc into MXIE bundle for mission-critical Industry 4.0"
-    excerpt: "Nokia is to integrate Microsoft’s Azure Arc cloud management platform into its MX Industrial Edge (MXIE) solution for mission-critical Industry 4.0 environments. The tie-up will afford customers buying private wireless"
-    publishedDateTime: 2022-05-31T08:57:00Z
-    webUrl: "https://enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0"
-    ampWebUrl: "https://enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0/amp"
-    cdnAmpWebUrl: "https://enterpriseiotinsights-com.cdn.ampproject.org/c/s/enterpriseiotinsights.com/20220531/smart-factory/nokia-integrates-azure-arc-into-mxie-bundle-for-mission-critical-industry-4-0/amp"
+  - title: "What Hugging Face and Microsoft’s collaboration means for applied AI"
+    excerpt: "What happens when one of the biggest cloud and enterprise software players teams up with a leading hub for transformer models?"
+    publishedDateTime: 2022-06-04T16:00:00Z
+    webUrl: "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai"
     type: article
     provider:
-      name: enterpriseiotinsights
-      domain: enterpriseiotinsights.com
-    quality: 56
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
     images:
-      - url: "https://i0.wp.com/enterpriseiotinsights.com/wp-content/uploads/2022/05/Nokia-Industry-4.0-Hannover-Messe-2022.jpg?fit=500%2C306&ssl=1"
-        width: 500
-        height: 306
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FHugging-Face-Microsoft.jpg&signature=137aa33a60ae3a08c1badc772b43d00e"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Nokia to Integrate Microsoft Azure Arc Capabilities into its Industrial Edge Platform"
-    excerpt: "Nokia announced plans to integrate Microsoft Azure Arc capabilities into the Nokia MX Industrial Edge (MXIE) platform,"
-    publishedDateTime: 2022-06-01T01:03:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/25245-nokia-to-integrate-microsoft-azure-arc-capabilities-into-its-industrial-edge-platform"
+  - title: "Conversational AI Platform Market is Booming Worldwide | Google, Microsoft, AWS"
+    excerpt: "Conversational AI is a form of Artificial Intelligence technology that enables people to converse with applications, websites, and devices in the form of humanlike natural language via voice, text, touch or gesture input. Conversational AI platforms are a ..."
+    publishedDateTime: 2022-06-01T10:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/conversational-ai-platform-market-is-booming-worldwide-google-microsoft-aws"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 47
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 67
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/c9fdb09851097e66576a45f50301faa8.jpg?t=20220601_005722"
-        width: 752
-        height: 408
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
+  - title: "If you're having problems with Microsoft Azure AD today, this is probably what's causing it"
+    excerpt: "Customers may have also had problems accessing Azure Portal, MSGraph, Log Analytics ... cloud via Dev Box Microsoft Teams and Power Platform to get more collaboration, AI-assisted additions Microsoft is enabling Kubernetes for Windows edge-computing ..."
+    publishedDateTime: 2022-06-01T11:43:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-azure-ad-id-service-snagged-by-logging-delays/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
 
 secured: "Nslp9T+lO5mCsq9liSis1vFKuGBCecNLNOl2MulVBEuMTd39IVmAXRJoE5l16UK98ZaiNnHj2rnrcA1iazlv+hEWgsFiGUvccV83+9f1xfFRu76f/oshaOgPX16zhHIvMxP1SUPlNs8frDSTi/Y2h67YWpPi03Mo1HUBzULs2p2RtJmwwOrt9SwN87SozsPFxdbzfeIRxveNXaCO+losRQgz277qYWtSmhEfbFWaj61VJ3OoqsR7QeL+T74pvuP8GyRDdp3JzLCkEWZZ2JH+dXlNSrupVe/yj9TZMrjZ4zmV80XaR/xNoZuWm2QImhiGfJ4uMUW36h/MAjlgBor09H1nbBhFB8fX8c7gwVJWpQwkgQwpA2l/ojbH1zurMP27iL7xoEh6XqOTsVC3GvaPY+K9uNdEkg644RUs5fZOIkU4pKkWu8hq3fiYS8m9LFDvjyjG82u0I6/+Lv1WqddE6asDro48ZUCWapzXAGo7p9BkW50uRvaW1aRoRLvMQL5maqPpgj4JY8zalpK9UHdbMA==;xbDr5AdhebRctv2lK83/0g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: PBS
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Oregon dropping AI tool used in child abuse cases"
+    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, m"
+    publishedDateTime: 2022-06-02T14:35:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/oregon-dropping-ai-tool-child-abuse-cases-85136298"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/oregon-dropping-ai-tool-child-abuse-cases-85136298"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/oregon-dropping-ai-tool-child-abuse-cases-85136298"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_963a67de25aa40cea00dd1105f1689f8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
     excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
     publishedDateTime: 2022-06-02T22:12:00Z

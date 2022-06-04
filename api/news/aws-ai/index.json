@@ -448,40 +448,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-30-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) is an emerging field that many companies ... is making hay. Amazon Web Services (AWS) is the clear cloud infrastructure leader, claiming 33% of the overall marketplace. AWS is highly profitable and multiplying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
-      "publishedDateTime": "2022-05-30T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
       "title": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
       "excerpt": "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake.",
@@ -538,8 +504,8 @@
       "title": "Amazon chooses top startups for 2022 AWS Space Accelerator programme",
       "excerpt": "Amazon Web Services (AWS) - the cloud computing wing of Amazon - has selected ten participants for its 2022 AWS Space Accelerator programme, chosen for the",
       "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/?eea=*EEA*",
-      "originalUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/?eea=*EEA*",
+      "webUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/",
+      "originalUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -859,10 +825,10 @@
     {
       "path": "_news/2022-05-24-geisinger-selects-aws-as-strategic-cloud-provider.md",
       "title": "Geisinger selects AWS as strategic cloud provider",
-      "excerpt": "Project will be one of the largest electronic health record cloud migrations to AWS to date, expected to enable life-saving technologies and save",
+      "excerpt": "Project will be one of the largest electronic health record cloud migrations to AWS to date, expected to enable life-saving technologies and save Geisinger several million annually DANVILLE, Pa., May 24,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/geisinger-selects-aws-as-strategic-cloud-provider-1031485427",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/geisinger-selects-aws-as-strategic-cloud-provider-1031485427",
+      "webUrl": "https://www.tmcnet.com/usubmit/-geisinger-selects-aws-as-strategic-cloud-provider-/2022/05/24/9608319.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-geisinger-selects-aws-as-strategic-cloud-provider-/2022/05/24/9608319.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -872,21 +838,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T07:08:00-07:00",
+      "publishedDateTime": "2022-05-24T07:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1401,6 +1358,59 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate.md",
+      "title": "Personalize your machine translation results by using fuzzy matching with Amazon Translate",
+      "excerpt": "A person’s vernacular is part of the characteristics that make them unique. There are often countless different ways to express one specific idea. When a firm communicates with their customers, it’s critical that the message is delivered in a way that best represents the information they’re trying to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/personalize-your-machine-translation-results-by-using-fuzzy-matching-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/06/ML-7026-Solution-Architecture-2.jpg",
+          "width": 780,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T10:48:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],
