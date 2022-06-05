@@ -2,6 +2,83 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-05-02-china-grants-first-driverless-taxi-permits-to-baidu-ponyai.md",
+      "title": "China grants first driverless taxi permits to Baidu, Pony.ai",
+      "excerpt": "Chinese internet services company Baidu has received a permit to provide driverless ride-hailing services to the public in Beijing, one of just two companies to receive such approvals. Baidu and a rival AI driving company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxly.com/i/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
+      "originalUrl": "https://www.kxly.com/i/china-grants-first-driverless-taxi-permits-to-baidu-pony-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXLY 4 News",
+        "domain": "kxly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-02-accern-raises-20m-series-b-round-to-accelerate-access-to-nocode-natural-language-processing-for-citizen-data-scientists.md",
+      "title": "Accern Raises $20M Series B Round to Accelerate Access to NoCode Natural Language Processing for Citizen Data Scientists",
+      "excerpt": "NEW YORK, May 2, 2022 /PRNewswire/ -- Accern, recognized as the leading NoCode NLP platform for AI breakthroughs, today announced the close of its $20 million Series B round co-led by Mighty Capital and Fusion Fund, alongside Tribe Capital, Viaduct ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-5904165dbbfce6b432e72bb63adc7ab0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-02T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-02-voiceitt-announces-new-initiative-expanding-voice-tech-capabilities-for-users-with-disabilities.md",
       "title": "Voiceitt Announces New Initiative, Expanding Voice Tech Capabilities for Users with Disabilities",
       "excerpt": "a leader in advanced speech recognition technology for people with non-standard speech, announces the launch of its community engagement and development initiative called Project Ensemble. Project Ensemble invites individuals with non-standard speech to ...",
@@ -1021,103 +1098,6 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-7-hours-of-sleep-is-optimal-in-middle-age-study.md",
-      "title": "7 hours of sleep is optimal in middle age: Study",
-      "excerpt": "Seven hours is the ideal amount of sleep for people in their middle age and upwards as a new study has found that both insufficient or excessive sleep is associated with poorer cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
-      "originalUrl": "https://www.indiatvnews.com/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/04/woman-sleep-1651251890.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/lifestyle/news/7-hours-of-sleep-is-optimal-in-middle-age-says-study-2022-04-29-773123",
-      "publishedDateTime": "2022-04-30T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-why-companies-should-stop-trying-to-be-ai-first.md",
-      "title": "Why companies should stop trying to be “AI-first”",
-      "excerpt": "Artificial intelligence has become a buzzword in the tech industry. Companies are eager to present themselves as “AI-first” and use the terms “AI,” “machine learning,” and “deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
-      "originalUrl": "https://thenextweb.com/news/why-companies-should-stop-be-ai-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F04%2FAI-first-def3.jpg&signature=be9017619396bbe48941e1ffd9fe74d5",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Google AI"
       ]
     }
   ],

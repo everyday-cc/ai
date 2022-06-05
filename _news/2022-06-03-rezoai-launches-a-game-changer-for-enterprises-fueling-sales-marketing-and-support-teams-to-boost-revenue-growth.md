@@ -24,18 +24,13 @@ topics:
 related:
   - title: "Revenue Grid launches AI Revenue Intelligence Lab with Neu.ro"
     excerpt: "Revenue Grid, the go-to Revenue Operations and Intelligence solution for sales teams around the world, is collaborating with Neu.ro, the leading machine learning (MLOps) technology company, to launch AI Revenue Intelligence Lab."
-    publishedDateTime: 2022-06-02T13:23:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-e708564203f7a44fd454d19d4a6f382e"
+    publishedDateTime: 2022-06-02T13:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/revenue-grid-launches-ai-revenue-intelligence-lab-with-neu-ro-1031505332"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "J7CJBLQ3JXEKmdNH9MTEu7RPbpxr9ggh57zXR5+JJhw66gS47woUzPfQzi9nMZq1W876/JNVqkeyl/PZYUeKPIWUddtOEQce7i83vh9KcegDw/pNOLhfiKfVkcGCC2Y6unAE2rgxSUcVGMZXahVDHWc7o+C0PW2IC6WPBNUGApAyN8BbcnwXVPCTW0482r4mUcQ4gGjo9FF1Dk4Yf5fON64MyF8Wy3f2p0Vs3IxrlpMWBEgp0bPdZiEwNqvZDuRsJWy7UYWvp2To+uhezLNp/2j8D+TaO++vHOS6Fzl4cblyO5YuYqMFmVgjlY/OZpXFP/CDhLbSzhNRzC5XLNWhJ455bryOTlJu+8Fc7bds+uI=;ccDy/y279GaWSYtcivkWVg=="
 ---

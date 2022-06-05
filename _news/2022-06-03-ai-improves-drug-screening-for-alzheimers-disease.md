@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease?amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "Investigating the links between facial recognition and Alzheimer's disease"
-    excerpt: "In recent years Alzheimer's disease has been on the rise throughout the world and is rarely diagnosed at an early stage when it can still be effectively controlled. Using artificial intelligence, KTU researchers conducted a study to identify whether human-computer interfaces could be adapted for people with memory impairments to recognize a visible object in front of them."
-    publishedDateTime: 2022-05-31T17:32:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-links-facial-recognition-alzheimer-disease.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-links-facial-recognition-alzheimer-disease.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-links-facial-recognition-alzheimer-disease.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/investigating-the-link.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
 
 secured: "hEyDSR/gEGj3IY2Dbu459zTJzN5MBh5qZdBQIGdb3uwJfnfjHW+iBMDpBIXfnMtXftP18KWnzmqXRsFG4UuYiTOhkW/YyvfH7FdH5pQA1JR0i/EYy+TYvzTkM2rnUnIuzF43YilRO8lfur+52o6NINS27FNG83wemj/FKnQrXEHHkcj9AzZuV/ysCVF9H9eEQTpH/pu7RuopDf3qlsOZFz36G1yaIafrQ2nGe7LUZDYrJqAQ+DW0aFuTbm9fBcrsBlE/nDT//xnhJeT4aKvSwMA/AUX6oeNgiiQetIrMPFNg/4NGBtnTkWDgAXSijX5PvYOwmWwcnQf+92ohLmcyV2LAGdmNF/LN/Gglmk/bqsw=;Vgn4hrAnmU3p9rqAPM4TBA=="
 ---

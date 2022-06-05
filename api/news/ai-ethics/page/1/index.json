@@ -194,49 +194,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-03-redefining-success-in-business-with-artificial-intelligence.md",
-      "title": "Redefining success in business with Artificial Intelligence",
-      "excerpt": "At the process point, the role of humans is to maintain ethics and integrity by responsible use of the machines. Read Also National Technology Day: Five ways in which Artificial Intelligence (AI) has made an impact on our... At the output level keep a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/education/redefining-success-in-business-with-artificial-intelligence",
-      "originalUrl": "https://www.freepressjournal.in/education/redefining-success-in-business-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2022-06/805ed11e-da5f-4b0c-ad73-127636127ed4/artificial.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 959,
-          "height": 582,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/education/redefining-success-in-business-with-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/redefining-success-in-business-with-artificial-intelligence",
-      "publishedDateTime": "2022-06-02T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-01-ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects.md",
       "title": "AI Ethics And Legal AI Experts Greatly Alarmed About Dual-Use AI Which Empowers So-Called Doctor Evil Projects,...",
       "excerpt": "(Answer: There is a growing push about publicizing and promulgating AI Ethics, which is one of several fronts being pursued). What types of controls or limits can be pressed into service regarding dual-use AI to aid in preventing potential societal calamities?",
@@ -1439,6 +1396,58 @@
         "name": "NDTV",
         "domain": "ndtv.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-ai-hiring-tools-can-violate-disability-protections-government-warns.md",
+      "title": "AI Hiring Tools Can Violate Disability Protections, Government Warns",
+      "excerpt": "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
+      "originalUrl": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-543409/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
+      "publishedDateTime": "2022-05-12T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

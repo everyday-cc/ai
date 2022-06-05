@@ -2,6 +2,101 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-05-10-fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach.md",
+      "title": "Fresh off $2B valuation, machine learning platform Hugging Face highlights ‘open and collaborative approach’",
+      "excerpt": "Earlier today, community-driven machine learning platform Hugging Face announced $100 Million in new funding – raised in just one week – to continue building what many, including CEO Clement Delangue,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/",
+      "originalUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/collaboration.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/09/fresh-off-2b-valuation-machine-learning-platform-hugging-face-highlights-open-and-collaborative-approach/amp/",
+      "publishedDateTime": "2022-05-09T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-self-driving-microscopes-discover-shortcuts-to-new-materials.md",
+      "title": "'Self-driving' microscopes discover shortcuts to new materials",
+      "excerpt": "Researchers are teaching microscopes to drive discoveries with an intuitive algorithm that could guide breakthroughs in new materials for energy technologies, sensing and computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220509150750.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220509150750.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-a-smarter-way-to-develop-new-drugs-using-artificial-intelligence.md",
       "title": "A Smarter Way To Develop New Drugs Using Artificial Intelligence",
       "excerpt": "A new artificial intelligence technique has been developed that only proposes candidate molecules that can actually be produced in a lab. Pharmaceutical companies are using artificial intelligence to streamline the process of discovering new medicines.",
@@ -1079,92 +1174,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-the-three-way-race-for-gpu-dominance-in-the-data-center.md",
-      "title": "The three-way race for GPU dominance in the data center",
-      "excerpt": "Nvidia, AMD, and Intel are about to slug it out for a share of the growing graphics-processing-unit market that’s being fueled by the needs of artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.html",
-      "originalUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/03/nvidia-hopper-gpu-100922543-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3659836/the-three-way-race-for-gpu-dominance-in-the-data-center.amp.html",
-      "publishedDateTime": "2022-05-09T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch.md",
-      "title": "17-year-old student invents low-cost prosthetic arm that can be controlled with the mind [WATCH]",
-      "excerpt": "The high-schooler used his sister's S$75 printer and some fishing line to print the arm in small pieces. After that, he bolted and branded each part together. To make the arm strong and durable, he had to run 75 iterations of the design. In the end, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091",
-      "originalUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-91434091,imgsize-100,width-1280,height-720,resizemode-75/91434091.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/viral/17-year-old-student-invents-low-cost-prosthetic-arm-that-can-be-controlled-with-the-mind-watch-article-91434091/amp",
-      "publishedDateTime": "2022-05-09T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

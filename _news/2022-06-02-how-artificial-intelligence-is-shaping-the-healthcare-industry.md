@@ -41,20 +41,6 @@ related:
         width: 1198
         height: 546
         isCached: true
-  - title: "Robotics and Artificial Intelligence"
-    excerpt: "Robotics and Artificial Intelligence When you think of artificially intelligent robots, the Star Wars’ C-3PO and R2-D2 may come to mind, or perhaps that mechanical “bucket of bolts” that agitated Dr."
-    publishedDateTime: 2022-05-31T18:59:00Z
-    webUrl: "https://banyanhill.com/externals/bold-profits-daily/glossary/robotics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Banyan Hill Publishing
-      domain: banyanhill.com
-    quality: 71
-    images:
-      - url: "https://cloudcollective.s3.us-east-1.amazonaws.com/shareableAssets/images/GuruSite/PaulMampilly/Robots1.jpg"
-        width: 510
-        height: 332
-        isCached: true
   - title: "Investing in healthcare AI a 'business necessity,' analyst says"
     excerpt: "Health systems need to invest in the future of data, such as artificial intelligence, to reduce errors and provide better care, a Forrester analyst says. \"Healthcare organizations have been attempting to leverage massive quantities of data to their advantage for years,"
     publishedDateTime: 2022-06-02T21:29:00Z
