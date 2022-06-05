@@ -1,24 +1,19 @@
 ---
 category: news
 title: "Leading visionary AI Leaders to convene in Indonesia to explore the potential of AI and RPA"
-excerpt: "World AI & RPA Show, an event by Trescon - world's fastest growing business events company is gearing up to connect the most influential voices in the Indonesia's AI and RPA space."
-publishedDateTime: 2022-06-05T16:03:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/a27558342/leading-visionary-ai-leaders-to-convene-in-indonesia-to-explore-the-potential-of-ai-and-rpa"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/a27558342/leading-visionary-ai-leaders-to-convene-in-indonesia-to-explore-the-potential-of-ai-and-rpa"
-ampWebUrl: "https://www.benzinga.com/amp/content/27558342"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27558342"
+excerpt: "The 34th global edition of World AI & RPA Show, supported by Kolaborasi Riset dan Inovasi industri Kecerdasan Artifisial (KORIKA) & Indonesia AI Society (IAIS), is taking place on 8 - 9 June 2022 at"
+publishedDateTime: 2022-06-05T15:26:00Z
+originalUrl: "https://www.asiaone.com/business/leading-visionary-ai-leaders-convene-indonesia-explore-potential-ai-and-rpa"
+webUrl: "https://www.asiaone.com/business/leading-visionary-ai-leaders-convene-indonesia-explore-potential-ai-and-rpa"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI
 
-secured: "/oq0yY0Hz6SFkVFUZ1lP3dDSuNPM8ypjR/rMvrqnz8/GeZoMEPUUBWsrsW4KrBk00bVWejgUuPg8Wo6d6nHX6UNLGlahUWKLhgeGw08xZQyB0zeJImlf/6Zsp1MnLL4dZvgm0YvZx7jXR8iOfo4uMOK+ZX082XhLuvMFGlCw8D6U/lnBVcwhgZCbNN/8JBwa3ruS/aXDa4wFvOxdYVaGDD6xRzYgloq6wb9yWuHf+UQOFuNKlSnUshWngV+eVtCZgz3fCgv5O2fjNmKxxnEarIv21NzzsVtjyl7zzQSA0N//SQruRP2aEo/I8NwtD+q8s+odotOap8C0MHcyWCiniaW0gMGZkiT65tAtq783HRc=;7NF4imBbmpMhw1Sddjj4EA=="
+secured: "SPrYtga522i5lWfk/W6s/IA4VuhZ8pObCbQF0efRF1kVCXEGAqBajx7wIlYcXttMoizGPu68tzNUtEd7k4vFUuZUZ6ksnQij6Yjc4eh5OSOuCpm7C4irHM8UfeYp86u+8Sy1FqhLTbiFfsIX6TWdIkFX3PZOlH8WDd9JF/Y5gAYN372hZDsb/7HnpR3gbfxvl/F7E2Q8FjpUo7g1ejksfjTd4ZCl9WrFOHjwwSzhCOpWoUtQaiOHrBIluA5EvHNysTIjM30118wtLa8p59vFYPLyC6pj9srf9DxZq46QuYvoU+lrSK7IHWUcuO+gA34Y17GsRV/6eUm+kASenoMxTXEHBy2A+WzS8jsMfYZ9rO4=;CWkD8Moq9WHL+eKB551EVA=="
 ---
 
