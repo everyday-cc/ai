@@ -58,15 +58,6 @@ related:
       name: WFLX
       domain: wflx.com
     quality: 4
-  - title: "Students build, program self-driving vehicles for inaugural Autonomous Vehicle Racing competition"
-    excerpt: "Using newly acquired computer coding skills, Sacramento-area middle and high school students will test their designs and autonomously navigate model cars on racetracks in SMUD's inaugural Autonomo. ."
-    publishedDateTime: 2022-05-31T05:21:00Z
-    webUrl: "https://electricenergyonline.com/article/energy/category/ev-storage/143/963886/students-build-program-self-driving-vehicles-for-inaugural-autonomous-vehicle-racing-competition.html"
-    type: article
-    provider:
-      name: Electric Energy Online
-      domain: electricenergyonline.com
-    quality: 0
 
 secured: "o8kNCZ7BkHXgoogikRG1IIB4rvFcOYXlkGrmn4lnYoBFhSXQxvbq7t1uLXmtyjIIVayGr7wIgADfXauBIT86NWUj46BIqu1gUWN1q7NaTp40bFVWB92EaKIvwimBbaOMQ/F2GOD8Vi55lZS4xFZx0pNY/rLYPaS5wJD9NJnrpnSqjQldc8rnlU+AbFfF8z/HdTnMtjjeLdb6umXDo9DxXIXRJISKFopiKrbw++OWRoondfoYK4kcqejPciNIUkFcecybUpqhqu6NBNuEF0mNbt777wUGXNgTSaKgZqXrwQvGZzTx351EWWGVgJgNF2ugdAs4UzFI12a1QPEzqokuaEj+wAV7SxaEvpF0KaQdWYvPNMWeWtyoEdKUa4apfmUj6f/9/J72Fnnwd+6mCIypm4bIrZ23tOlwfKM6aCBhOlj9BPQra395hwDKAKYUsnsWx+cyoFvyBxSuW+ZfVguI5/LRbUHVS+yJ7dOcuJo6sZgC66SveXaGrcThIW3HafGMZywuvSq11FSjr3Z7HYr+rA==;XFOBN2FKKqbIHdRyD0Jn2Q=="
 ---

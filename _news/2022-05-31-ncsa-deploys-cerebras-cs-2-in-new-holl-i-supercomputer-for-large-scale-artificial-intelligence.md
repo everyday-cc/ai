@@ -1,26 +1,26 @@
 ---
 category: news
 title: "NCSA Deploys Cerebras CS-2 in New HOLL-I Supercomputer for Large-Scale Artificial Intelligence"
-excerpt: "We’re thrilled to have the Cerebras CS-2 system up and running in our Center,” said Dr. Volodymyr Kindratenko, Director of the Center for Artificial Intelligence Innovation at NCSA. “This system is unique in the AI computing space in that we will have multiple clusters at NCSA that address the various levels of AI and machine learning needs -- Delta and HAL,"
+excerpt: "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, today announced that the National Center for Supercomputing Applications (NCSA) has deployed the Cerebras CS-2 system in their HOLL-I supercomputer."
 publishedDateTime: 2022-05-31T14:43:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_2d94e934-c6f4-5b1a-8d6d-6b6b90a5cda7.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_2d94e934-c6f4-5b1a-8d6d-6b6b90a5cda7.html"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-supercomputing-efbbc1dc1c8c4b03affe0de5d0982177"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-supercomputing-efbbc1dc1c8c4b03affe0de5d0982177"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Yb2T30J3akJo5btQa3AzZ6E3sFKKCRQnM8p8Ridbtc4LCvMJiUOh6tqUJcGPu/MHS7lxfv9kXmpqZDN/Sy8MkE7QmJROpiStuXU2ngQj0AXy/B5O+7PEDk6iaxJlZYGm0XqMPYNuhNKk0zA9k6P08oqAvqLl1xvEsoE2yLTr9Cl0VWAvYIILi7kWQjVMABwYCpR7oS960UnfTh7bSnE1BZri9/k3Mk1PJATJvZSb7gR1heRhV3ziFbZXUYQCGiOdIqsVnzw8/uJ1A2C8Wn4Ux24pT3f9IpO5YkS3iCd5nZL4Sti7zP4NXmQJz9sp5jG6LjuwG9YBB4lrnOajPLuUhTua2h+oJj51JfqmRQhqNKUxBh8DzdjjQU7KeJ8iwhrXLFJk4/aT34G7IZzukAJgY5mtVrsXGvn1zu/Cfzm0cni8Kn1Tz+YC007Vpe+7B6nohuc64chVTBHBhha3Y8oh4gGOBZ1ny9LablM6JS80FUamyGBeg/wswN0LarbGDnesS7tybpS4CYkHtFiBLqvbwQ==;WtbXl/AcUTDjt0a6BLlfZg=="
+secured: "lqoOHaVVr2/1EaubwpyCAJKES3WFH7f1IjM8L80PAs8xn1WV5oT+vBHNxjagbE6+3urBpEhK66z3aI9KvPnZt/B1jQ0rBXdzFQaNLP/4ZWRW3gSwfrEs1C26hK0pJCbP/0ym2c4S9tL5tNaVW/4d3zOCzgiFn7XGCvfrZQ33MyIqpo4jWEcYFGD3Qq1/xxTN6I2YBUnrLzxg1zFhAX9HeWQCcqB9BORROwBfqy2iX7Up+uzp/VKsHfE6UAyu/Zl+d+/wkosQObjw1IMwHmTfDB8Z3jcXH+hHIYal0CItg/8f28ePBx/2Q0p0LVbIGWKj7U7lf4ecJrLuHQqK36uK60DiN1CFoJVjuOgT6vGRXTg=;Rjh2EdiU7Sl+rAol909AAw=="
 ---
 

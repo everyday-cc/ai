@@ -58,15 +58,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Students build, program self-driving vehicles for inaugural Autonomous Vehicle Racing competition"
-    excerpt: "Using newly acquired computer coding skills, Sacramento-area middle and high school students will test their designs and autonomously navigate model cars on racetracks in SMUD's inaugural Autonomo. ."
-    publishedDateTime: 2022-05-31T05:21:00Z
-    webUrl: "https://electricenergyonline.com/article/energy/category/ev-storage/143/963886/students-build-program-self-driving-vehicles-for-inaugural-autonomous-vehicle-racing-competition.html"
-    type: article
-    provider:
-      name: Electric Energy Online
-      domain: electricenergyonline.com
-    quality: 0
 
 secured: "RckXhcUal2rSmRuUSP1ZuorIIGndzyWm2AjFVHKKoSmRVPX06k63KdK6JuasfurRA7pvlX/kObI+qZVqaVcV/rNqNAN0jSCPsHfGFvzRrQOM7Z/7+WgsJoNiqIzEH20EAOjUzTrXTYu/e96cn2PhFkPH33yTI/fqtIQ5anNJZJjEFyUxyyj4mk+Ol4J4Ym4zyi4Odhr2IBGW6QR/R+MPftjTo0roIywsOdtPWj/2czcZ727idXqnykNa5CEv+fKfU5SUslbHCT3FYPJ+FDBjWFLQHRclaHUrPMDIh2Oggj9w+/pu6DxaWCVihktlClNnvEk4T5a4NcCWFdP7cJK6XiYjSHKgiN8LRUwwIBmeBRTk6ORavXteh8p32BQ33I7couspzgcRDuPO17Ii33AGYfmE0mMOvRfeIxT1zBNPQg1VeuNyMqJwrxNyFRvd8OGg0ffyZ1htJakMa8DjnwL/6gP3KjaAPEDhOoFNF+NmrRczeHyMjUC+cJVPQYr2YPkpfi68NX5xYfEiJOBJpj6Scw==;+6P2Cp/XAxpdpiI0guLovw=="
 ---

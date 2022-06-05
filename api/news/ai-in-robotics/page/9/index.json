@@ -2,58 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2022-03-29-at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins.md",
-      "title": "At Pompeii, A Robot Dog Is Helping Guard And Protect The Ruins",
-      "excerpt": "A quadruped robot named Spot is the latest piece of cutting-edge technology to come into service at Italy’s Archeological Park of Pompeii in a bid to protect the ancient site.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebeccahughes/2022/03/29/at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins/",
-      "originalUrl": "https://www.forbes.com/sites/rebeccahughes/2022/03/29/at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6242ad9c2e9bb89728dcafe3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccahughes/2022/03/29/at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccahughes/2022/03/29/at-pompeii-a-robot-dog-is-helping-guard-and-protect-the-ruins/amp/",
-      "publishedDateTime": "2022-03-29T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-29-stem-programs-launch-at-the-county-library-for-robotics-month.md",
       "title": "STEM programs launch at the county library for Robotics Month",
       "excerpt": "Did you know that April is Robotics Month? Jeff Buydos, from the county library, joined us on the show to share what kind of programs are offered. Kids can learn all about engineering, robotics,",
@@ -1328,6 +1276,40 @@
       "provider": {
         "name": "Automation World",
         "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-22-adt-commercial-to-showcase-humanoid-robotics-indoor-drones-at-isc-west-2022.md",
+      "title": "ADT Commercial to showcase humanoid robotics, indoor drones at ISC West 2022",
+      "excerpt": "Over the last several years, the world and overall commercial security landscape transform rapidly in response to various threats. As the industry has looked for a path forward, it’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/adt-commercial-showcase-humanoid-robotics-indoor-co-951-ga-co-4736-ga.1647922346.html",
+      "publishedDateTime": "2022-03-22T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null

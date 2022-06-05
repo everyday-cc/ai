@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Wearable AI Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
-    excerpt: "A new report released by Market Research Update is Wearable AI Market 2022. This report provides up-to-date information on the market and also pinpoint all the opportunities for W"
-    publishedDateTime: 2022-05-31T06:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2022-05-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Medical Robots Market Size To Grow USD 22.68 Bn By 2027"
     excerpt: "As per our research report, the size of the global medical robots market was worth USD 8.71 billion in 2022 and is estimated to be growing at a CAGR of"
     publishedDateTime: 2022-06-01T09:04:00Z

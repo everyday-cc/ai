@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
-excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
-publishedDateTime: 2022-06-03T18:43:00Z
-originalUrl: "https://www.knkx.org/government/2022-06-03/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-webUrl: "https://www.knkx.org/government/2022-06-03/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+title: "State dropping artificial intelligence tool used in child abuse cases"
+excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will"
+publishedDateTime: 2022-06-02T14:29:00Z
+originalUrl: "https://www.bendbulletin.com/localstate/state/state-dropping-artificial-intelligence-tool-used-in-child-abuse-cases/article_eda5bca2-a8ea-5a13-ae45-f65b86ff8a3d.html"
+webUrl: "https://www.bendbulletin.com/localstate/state/state-dropping-artificial-intelligence-tool-used-in-child-abuse-cases/article_eda5bca2-a8ea-5a13-ae45-f65b86ff8a3d.html"
 type: article
-quality: 13
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KNKX
-  domain: knkx.org
+  name: The Bulletin
+  domain: bendbulletin.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/8/74/87447892-e2b7-11ec-af3a-671aa4c84ef6/629926ce936d9.image.jpg?crop=1762%2C928%2C0%2C123&resize=1200%2C632&order=crop%2Cresize"
+    width: 1200
+    height: 632
+    isCached: true
 
 related:
   - title: "Oregon dropping AI tool used in child abuse cases"
@@ -66,20 +72,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "State dropping artificial intelligence tool used in child abuse cases"
-    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will"
-    publishedDateTime: 2022-06-02T14:29:00Z
-    webUrl: "https://www.bendbulletin.com/localstate/state/state-dropping-artificial-intelligence-tool-used-in-child-abuse-cases/article_eda5bca2-a8ea-5a13-ae45-f65b86ff8a3d.html"
-    type: article
-    provider:
-      name: The Bulletin
-      domain: bendbulletin.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/8/74/87447892-e2b7-11ec-af3a-671aa4c84ef6/629926ce936d9.image.jpg?crop=1762%2C928%2C0%2C123&resize=1200%2C632&order=crop%2Cresize"
-        width: 1200
-        height: 632
-        isCached: true
   - title: "Oregon dropping AI tool used in child abuse cases"
     excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
     publishedDateTime: 2022-06-03T19:15:00Z
@@ -89,7 +81,16 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
+  - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
+    excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
+    publishedDateTime: 2022-06-03T18:43:00Z
+    webUrl: "https://www.knkx.org/government/2022-06-03/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+    type: article
+    provider:
+      name: KNKX
+      domain: knkx.org
+    quality: 13
 
-secured: "6ax59Ifw2kEeKzzZuOoRZyp0ocnpyCmconcTyqitkImzo6MJoNdqzwDnon0lFnZVOOrUGbMwOnhkOdU6iq/Jx513Uc32Ll1FyYl9G43GZKedzelRqIrzU8KndFvjU07+WVHl/3sGdj97JmBhW7DxNOy8+xJ1iT2TnvZq9QdHLKAPtlm5tj5Et9K1Ht/YeA5eE7aiFQO+1rF9Ua3ZNSShX3Dv+kyN4mJ4S0blffU5Sm6jLpg6moP50p10wDSg1NbjVIRuftIB8JABCoWBMe9MWCJbGz3p97przpxmXKUn9qEIYKRMR2xguPX5A3B16bgP0lVgi1DrkECwzq3aAaoNENVVPkriScc67Y3h3Ws7gRMJzTJVI59HvsogTC4hkYBd9facKuf+AU7pfJwFG1VHiQD+H/pAuD8VkJfCtpxbXQcOaywtaPikfxKXsU7Zjvsa3WyWTwpDlkAUnRbu4PRNfiQhgQeF+DxseTwwbH+vU/+RGEOKPTYa0rNHKldcx4ETwOwLV0Xnfvk9bkiERraNKA==;dv+VCpl4Pw6ggNQjSOzMBQ=="
+secured: "bRj4p9oTCcMnnpGOWSTErcGszDIjm3Awv+drTwyxr2oVrv/1XOTKqAQgIUIag/qdk+FRCYMxwsMzFCkwJ2Wwl8bIOID+UitCwjLcNgOg4HlZJFCj5Is2MZBWHjNqnIThQiexeS/YD771y6ctgUP8UdXjM6ExVsVAB1/J4TI/WbQ8HgpaWrv5weHQwFLV1KXNG3hWxPHjxAG6vw91tLAes3Fyya+tvesLhknV0N5QEHmf3OkUAEjXkfrB6v5Em19/kbhIZsRQYzI4Bu7DP5d/Vuf37rV/oKuTfcKU8BMBRF+vxSLvnSyOL95dqqDrnAtxl8WBdld/3Ob276XhS2qsoaG+7zqcrbCu8U5nL308794=;DFYcIEc1FAmmrxwk7Ojg3Q=="
 ---
 

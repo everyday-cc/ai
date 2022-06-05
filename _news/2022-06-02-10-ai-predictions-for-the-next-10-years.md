@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-pred
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.barrons.com/im-449799/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "AI facial recognition, the new detention"
+    excerpt: "Increasingly governments around the world are turning to AI facial recognition apps as cost saving surveillance measures."
+    publishedDateTime: 2022-06-04T22:39:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/sundayextra/ai-facial-recognition,-the-new-detention/13911830"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 54
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13911960-16x9-large.jpg?v=4"
+        width: 700
+        height: 394
         isCached: true
   - title: "New AI Tool INNRS Offers Reliable Financial Asset Prediction"
     excerpt: "INNRS is the new AI-based smart tool that uses the best technology to predict financial asset’s price action. While it isn’t always accurate, it comes close to offering near-accurate guesses. The new AI predicting tool has been creating quite a buzz ..."

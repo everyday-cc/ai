@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Wearable AI Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2026"
-    excerpt: "A new report released by Market Research Update is Wearable AI Market 2022. This report provides up-to-date information on the market and also pinpoint all the opportunities for W"
-    publishedDateTime: 2022-05-31T06:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2026-2022-05-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
     excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
     publishedDateTime: 2022-06-02T18:30:00Z

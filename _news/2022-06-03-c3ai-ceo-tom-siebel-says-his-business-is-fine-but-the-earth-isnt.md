@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-stock-ceo-tom-siebel-5165
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-stock-ceo-tom-siebel-51654190517"
 type: article
 quality: 57
-heat: 78
+heat: 77
 published: true
 
 provider:

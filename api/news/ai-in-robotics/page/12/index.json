@@ -2,49 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2022-03-04-4-ways-conversational-ai-can-benefit-your-business.md",
-      "title": "4 Ways Conversational AI Can Benefit Your Business",
-      "excerpt": "If you’ve reached out for customer service in the last few years, you’ve probably noticed some changes. The face and voice of many service departments are shifting away from human-to-human contact. While robots haven’t completely taken over yet,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/4-ways-conversational-ai-can-benefit-your-business/",
-      "originalUrl": "https://techbullion.com/4-ways-conversational-ai-can-benefit-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/03/artificial-intelligence-2167835_1920.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/4-ways-conversational-ai-can-benefit-your-business/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/4-ways-conversational-ai-can-benefit-your-business/amp/",
-      "publishedDateTime": "2022-03-03T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-03-why-ai-and-robotics-are-the-key-to-true-digital-transformation.md",
       "title": "Why AI and Robotics are the Key to True Digital Transformation",
       "excerpt": "Artificial Intelligence (AI) and robotics are terms used to describe machines with human-like abilities, or the simulation of natural intelligence in machines, that is programmed to learn and mimic the actions of humans.",
@@ -1390,6 +1347,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-24-dexai-robotics-signs-16-million-contract-with-dla.md",
+      "title": "Dexai Robotics signs $1.6 million contract with DLA",
+      "excerpt": "Dexai Robotics' sous-chef robot, Alfred, is currently prepping salads at the Monarch Dining Facility of Travis Air Force Base.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/dexai-robotics-signs-1-6-million-contract-with-dla/",
+      "originalUrl": "https://www.therobotreport.com/dexai-robotics-signs-1-6-million-contract-with-dla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/02/featured-web-alfred.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-23T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

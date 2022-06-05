@@ -66,6 +66,20 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "State dropping artificial intelligence tool used in child abuse cases"
+    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will"
+    publishedDateTime: 2022-06-02T14:29:00Z
+    webUrl: "https://www.bendbulletin.com/localstate/state/state-dropping-artificial-intelligence-tool-used-in-child-abuse-cases/article_eda5bca2-a8ea-5a13-ae45-f65b86ff8a3d.html"
+    type: article
+    provider:
+      name: The Bulletin
+      domain: bendbulletin.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/8/74/87447892-e2b7-11ec-af3a-671aa4c84ef6/629926ce936d9.image.jpg?crop=1762%2C928%2C0%2C123&resize=1200%2C632&order=crop%2Cresize"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
     excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
     publishedDateTime: 2022-06-03T18:43:00Z

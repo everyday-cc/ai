@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
 type: article
 quality: 80
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
       name: WFLX
       domain: wflx.com
     quality: 4
-  - title: "Students build, program self-driving vehicles for inaugural Autonomous Vehicle Racing competition"
-    excerpt: "Using newly acquired computer coding skills, Sacramento-area middle and high school students will test their designs and autonomously navigate model cars on racetracks in SMUD's inaugural Autonomo. ."
-    publishedDateTime: 2022-05-31T05:21:00Z
-    webUrl: "https://electricenergyonline.com/article/energy/category/ev-storage/143/963886/students-build-program-self-driving-vehicles-for-inaugural-autonomous-vehicle-racing-competition.html"
-    type: article
-    provider:
-      name: Electric Energy Online
-      domain: electricenergyonline.com
-    quality: 0
 
 secured: "kAQaSceShrdsCG6yyJ7zqwn6eC1Ckfp4UYWqpzZw5/nOQC3V7rBfLT8nzoyNhP783f9punZ/y6m8hIcN8XbUzVq5brNTwCXn8+umjxTmHrsjoNZCUaxj0z0FrvDQDPEJLS9UEXzgA+jtkhzIzvH/HmHjWIS7AAjP45f0ySwGZHsSJJVZyWsFwX0Rv9HpwybpFS2NRSG63NLnz2HsfdfmfqARQ0vyQ3j/frN6Y54x7RgT31Wm4QNmXqxnp42Y7DZg7rZvtFL17wacDHFTKyz+fKVS0KWTVOrbsknpREff34+RItPLWv9VXJd0VQIx6wlfFkCUusv1qT6zhyPbi5I80XVC4WuejN7hQjidfuvRkUg=;/9nCsqkYa0FygsKAPO5vfw=="
 ---
