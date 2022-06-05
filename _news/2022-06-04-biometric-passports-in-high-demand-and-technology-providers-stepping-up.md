@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202206/biometric-passports-in-high
 webUrl: "https://www.biometricupdate.com/202206/biometric-passports-in-high-demand-and-technology-providers-stepping-up"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,73 +23,6 @@ images:
     width: 1000
     height: 492
     isCached: true
-
-related:
-  - title: "Next DHS Biometric Rally to Focus on Face Recognition in Small Groups"
-    excerpt: "This September the Department of Homeland Security Science and Technology (S&T) Directorate plans to host its next Biometric Technology Rally and is"
-    publishedDateTime: 2022-05-31T16:02:00Z
-    webUrl: "https://www.defensedaily.com/next-dhs-biometric-rally-to-focus-on-face-recognition-in-small-groups-2/homeland-security/"
-    type: article
-    provider:
-      name: Defense Daily Network
-      domain: defensedaily.com
-    quality: 39
-    images:
-      - url: "https://www.defensedaily.com/wp-content/uploads/2020/07/biometric-boarding-767x300.jpg"
-        width: 766
-        height: 300
-        isCached: true
-  - title: "Voice biometrics and speech recognition expand amid countermeasures, bad news for Walmart"
-    excerpt: "Voice biometrics, voice recognition and speech analysis are coming on leaps and bounds, heading to break through the $20 billion barrier in the next few years."
-    publishedDateTime: 2022-06-02T16:41:00Z
-    webUrl: "https://www.biometricupdate.com/202206/voice-biometrics-and-speech-recognition-expand-amid-countermeasures-bad-news-for-walmart"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/23162352/voice-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "Consumer applications of face biometrics draw privacy lawsuits"
-    excerpt: "While different from the time-and-attendance systems alleged in so many BIPA lawsuits to have violated people’s privacy, the statutes in question are the same."
-    publishedDateTime: 2022-05-31T21:48:00Z
-    webUrl: "https://www.biometricupdate.com/202205/consumer-applications-of-face-biometrics-draw-privacy-lawsuits"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
-  - title: "Certify’s face biometrics to ID hospital patients in Washington, D.C. area"
-    excerpt: "The Virginia Hospital Center Health System will begin identifying patients with facial recognition to curb fraud and patient misidentification."
-    publishedDateTime: 2022-06-02T21:24:00Z
-    webUrl: "https://www.biometricupdate.com/202206/certifys-face-biometrics-to-id-hospital-patients-in-washington-d-c-area"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
-  - title: "DHS details 2022 biometrics rally focused on group face processing"
-    excerpt: "The U.S. DHS Science & Technology Directorate revealed specific information about the scenario for the 2022 Biometric Technology Rally."
-    publishedDateTime: 2022-06-03T18:50:00Z
-    webUrl: "https://www.biometricupdate.com/202206/dhs-details-2022-biometrics-rally-focused-on-group-face-processing"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
 
 secured: "g4zL+kdly5I1mxq4EhaUjg86vUjY5/brnuMa0uu7ed/iTCVLjWap4VMmlLj6henRNq55f3V9N1NTHVovlpmCBBMRO5ABgmwgIm5exEhxPcxS9pHDPJEGhfvcGFOY9hmlkT8KWCvAt5w/RTQiA6LWuIT9pAhqhPuygsmBYNsNUHS2Fqk5p9SD9uMwmvUtlmL4WpqhvAf4qkioXlSfowPDHJzTOID7k+TROB8/8bOAc7WcVEMIYxluhHIUG+OvPeOUa9x2LJsxsaY61uIP6TTB4Mmdo9fVOPoUFBz2L01biBk8VF8JAVlzA9D/8JKtdhU1p2Ms9skPpWVGJcYdHniU0x0EH1WPstZ0/gzKPpXC32cv0uf2tyvLXu9XmEmM0b4uOuJ4o+FhFwWFScoPRuS5eKLRBel5LIvJ/kpjrX+2IVNhmsi7ITzOC83yX8uyVv79PNhxsft1irQfAdLkS8ga7JCzNPHsocYl4HTqvaHvAobetTQTN0CPyh6efTHjgfdSt4H5/gI13TKfATN28G441Q==;d9Aez4PU/h7Z0lAXOhAqxQ=="
 ---

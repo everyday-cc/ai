@@ -42,15 +42,6 @@ related:
         width: 2880
         height: 1620
         isCached: true
-  - title: "Researchers investigate the links between facial recognition and Alzheimer's disease"
-    excerpt: "Kaunas University of Technology. (2022, May 31). Researchers investigate the links between facial recognition and Alzheimer's disease. ScienceDaily. Retrieved May 31, 2022 from www.sciencedaily.com/releases/2022/05/220531102702.htm Kaunas University of ..."
-    publishedDateTime: 2022-05-31T16:06:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220531102702.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
 
 secured: "hEyDSR/gEGj3IY2Dbu459zTJzN5MBh5qZdBQIGdb3uwJfnfjHW+iBMDpBIXfnMtXftP18KWnzmqXRsFG4UuYiTOhkW/YyvfH7FdH5pQA1JR0i/EYy+TYvzTkM2rnUnIuzF43YilRO8lfur+52o6NINS27FNG83wemj/FKnQrXEHHkcj9AzZuV/ysCVF9H9eEQTpH/pu7RuopDf3qlsOZFz36G1yaIafrQ2nGe7LUZDYrJqAQ+DW0aFuTbm9fBcrsBlE/nDT//xnhJeT4aKvSwMA/AUX6oeNgiiQetIrMPFNg/4NGBtnTkWDgAXSijX5PvYOwmWwcnQf+92ohLmcyV2LAGdmNF/LN/Gglmk/bqsw=;Vgn4hrAnmU3p9rqAPM4TBA=="
 ---

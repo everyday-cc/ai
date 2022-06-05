@@ -26,17 +26,6 @@ images:
     height: 542
     isCached: true
 
-related:
-  - title: "A computer program designed to sort mice squeaks is also finding whales in the deep"
-    excerpt: "By converting sounds to images, scientists can use artificial intelligence to quickly find and assess animals' calls, even deep in the ocean."
-    publishedDateTime: 2022-05-31T16:15:00Z
-    webUrl: "https://www.publicradiotulsa.org/2022-05-31/a-computer-program-designed-to-sort-mice-squeaks-is-also-finding-whales-in-the-deep"
-    type: article
-    provider:
-      name: Public Radio Tulsa
-      domain: publicradiotulsa.org
-    quality: 0
-
 secured: "cDajYNx/85Phg88lepRtMCv54omK8DBohT8DIJNysU2nZsnKL/XtRcFuK7+Oi6GEsfPvQjzW5mZvwccnZaTwWi+hPEv9pTtIFA3G+eU0JCTWWettv5HnuUGe2ou2CcNEWeC1ob7UYGZ4aKqVELagCAtQxoC1ArqxnjhSfagq6WonDFv6FlF1mtqtsxQac9/YlPjL2RbyHgxy7VSSaR9+diHa1R7YEW45PMnrWSvhxUUnocBp5vWt3tBVTb8BPNYn+YepGe7hJXcDmzLOeeogndDLYei0Sg3kStFnhzW5fZEhnfJgTzgRAq0bq4olRTO4YJIldXbFYpk+wWW5sPpw5CoBlmRVw9pwcu4eIcdG50G9i+jvYusOXDt8GHa46a+7U02/jjKCIIsYdW32JKeKPeD3fqcGGK0O5P4yGm9a3TXKSty3w4s91SpZJDMvOYBWdUZz1Bw2dFspffJ6LO6NrdRDFbVnOGNmA+DGS9hStfapBXViSnz7DSaNtlQJbK9YEkUC5Ypljo7Kf/TeWMzo+Q==;+t0hOJDEYoXqDqkjs9uNng=="
 ---
 

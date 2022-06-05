@@ -18,17 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "Business Intelligence Market likely to Reach Total Valuation of US$ 52.6 Billion by 2032"
-    excerpt: "The business intelligence market is expected to rise at a CAGR of 7% throughout the forecast period. The valuation of the business intelligence market is"
-    publishedDateTime: 2022-06-01T06:03:00Z
-    webUrl: "https://www.digitaljournal.com/pr/business-intelligence-market-likely-to-reach-total-valuation-of-us-52-6-billion-by-2032"
+  - title: "Deep Learning Software Market Comprehensive Analysis, Development Strategy, Future Plans and Industry Growth with High CAGR by Forecast 2030"
+    excerpt: "The Global Deep Learning Software Market size is estimated to be USD 5.98 billion in 2019 and is predicted to reach USD 268.08 billion by 2030 with a CAGR of 41.3 % from 2020-2030. Deep Learning ..."
+    publishedDateTime: 2022-06-01T13:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-software-market-comprehensive-analysis-development-strategy-future-plans-and-industry-growth-with-high-cagr-by-forecast-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 13
+    quality: 6
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/a63f6f2eca48ebdb526b9a1f3660b3af9b695a93-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/a0fd8939677ba8a37acb2bc0db336b69427e85e6-600x337.jpg"
         width: 600
         height: 337
         isCached: true

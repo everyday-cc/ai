@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2022/6/2/23151819/meta-head-of-ai-jerome-
 webUrl: "https://www.theverge.com/2022/6/2/23151819/meta-head-of-ai-jerome-pesenti-to-depart-in-reorg"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Verge
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Here’s how to get ahead of potential regulations on AI in HR tech"
+    excerpt: "Recent EEOC and DOJ moves suggest we may soon see formal rules around how artificial intelligence is used in hiring processes."
+    publishedDateTime: 2022-06-01T16:00:00Z
+    webUrl: "https://hrexecutive.com/heres-how-to-get-ahead-of-potential-regulations-on-ai-in-hr-tech/"
+    type: article
+    provider:
+      name: hrexecutive
+      domain: hrexecutive.com
+    quality: 37
+    images:
+      - url: "https://hrexecutive.com/wp-content/uploads/2022/06/Social.-Boese.-6.1.22.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Hgi0HnT/JbS+Fc22LwyeKHKo1VME4qfSxQCm8DMW0xzNd0B56VJFq0AFxjCXfEqcv5IHLVCQedreQB3oPbm9xf1S7Roz1GpvfgTJ8XAnpEOtNCxR1usbBmLl1SQuI0wbuKlCKUgoIn0Je/xzodlfdHmf74EAATTsJwO/OZKKaHdCvzT3Vh2n5MkOCQL8I6r6R2GvzxN9Waqoee7Ju+CtbeepN/ZHD9/BJbFA2QPtNQ/JNKhEuQDzVeMznBTIESUi6p2U63szZhHDphyPCexfMrIiXbQUIZgXBqHsZdh3YizTEVnJe6XwRSrlUM20JIECyjHBEH9iNA2qZGy5JvnrOI0depY2XFPhcI2ZxmRvnfE=;VyErizsedk23dDj6YwIP1A=="
 ---

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Oregon dropping AI tool used in child abuse cases"
-excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will"
-publishedDateTime: 2022-06-02T14:29:00Z
-originalUrl: "https://globegazette.com/lifestyles/technology/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_aa40df25-007a-559e-ba10-de9e34223401.html"
-webUrl: "https://globegazette.com/lifestyles/technology/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_aa40df25-007a-559e-ba10-de9e34223401.html"
+excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
+publishedDateTime: 2022-06-02T14:32:00Z
+originalUrl: "https://www.middletownpress.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
+webUrl: "https://www.middletownpress.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
+ampWebUrl: "https://www.middletownpress.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
+cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 117
+published: true
 
 provider:
-  name: Globe Gazette
-  domain: globegazette.com
+  name: The Middletown Press
+  domain: middletownpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/7/b7/7b7ca8d4-8aee-5854-878f-a6b213cb0015/6298ecc8309ad.image.jpg?resize=754%2C500"
-    width: 754
-    height: 500
+  - url: "https://s.hdnux.com/photos/01/26/01/67/22552019/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -103,6 +105,6 @@ related:
       domain: knkx.org
     quality: 13
 
-secured: "vwFjCKBIRstKWF29TSiicv/S5Lmm6YIsrTxWR5I8GTVETVHuKVAcnmmbXbVKeZ6EShhUmptKByoOFknDO7+nV7+B9cu8NLxmerwrQyGOv3XJ4r/dYn91CGsx4jtI5VTkSoP6Qf1ktTNEfQuBGRvnPeqLQue5PL6FPXAEsp4N8uX5AjO8floMyiZ5mkAWHpm7zVDzvJOACPM0RT4PmqjK3lJ5JlaPLf33WYqCxtiTIBgBvMN3tTLF58xKtV6eePpBpBUQtbEnmuauKNC7BBypgZau/jn6y/x9lyCqq8/KUITX9JmhrJJ9TG99qIFrHZCKMEoNS5wp+ugdZcpV0FgHZnA1NArBEXsbRu2nmHYUcoU=;XLcoho+YaAKfO0mwa/IjAg=="
+secured: "Z7/Q29q+LwN0Z6FU5Ne4vXvYU2Hj6sRT3BkvC4ZEOp9fYNlal6Ypgpq91VHoYo1nyCTm3eRzrBtXLB4aHQXpbbS03gwhCwGmoT+6eUpT2CCQbPc+lXy6gHcxa0tUZC1Y3ubjq1Ka3/bPI4Bry5HpcYgVrjV5U5wp/hJ2ARo/uWg4BtfR4sqNj+c8FA1Za3dvc5jIOHwsOu3+Wm88FTf/7n39i6hTTnU4n7xcb0CqmpCYoiM36QWD4H4hSxAVE4L6j1tnwDim0brlWbJ34Yk7zNye8JqxjNFKvjEhp5KRnAjyy3jIqz7vgSrrrzzLj/y3t5u9Uaxd8uy3rSwySsAuaPcarqz0RLgw63pVQ8H3BCI=;my4w2iLyxqPco3cojCKeqA=="
 ---
 

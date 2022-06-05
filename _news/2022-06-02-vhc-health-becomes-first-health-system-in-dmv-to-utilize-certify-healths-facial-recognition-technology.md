@@ -3,25 +3,25 @@ category: news
 title: "VHC Health Becomes First Health System in DMV to Utilize CERTIFY Health’s Facial Recognition Technology"
 excerpt: "CERTIFY Health is excited to announce that VHC Health (VHC), a community-based health system providing medical services to the Washington, DC metropolitan area, will be implementing its positive patient identification (PPID) using facial biometrics at all VHC locations,"
 publishedDateTime: 2022-06-02T15:36:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-biometrics-07b0889166a1474b8229fcaa3a4bca4d"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-biometrics-07b0889166a1474b8229fcaa3a4bca4d"
+originalUrl: "https://www.joplinglobe.com/region/national_business/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-health-s-facial-recognition/article_07286e3f-7769-5a4a-88d6-3bdb05535744.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-health-s-facial-recognition/article_07286e3f-7769-5a4a-88d6-3bdb05535744.html"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg"
+    width: 415
+    height: 539
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 750
         isCached: true
 
-secured: "9TMRdQqb6FKclidIcvMBqwjtsErGbPxeH0r1UAK0OrMSHM5yjefer8ut5mxxHXNnHytFEBjf9JLsXyZWvxHig9kcbjhji/cFL0OEGnVNl7ypW7x/YAXskhOgJA4vSHuQSlfBnEPzY/Ug5DSbw97yEhXzvFh1pR7jnkdQWmHNp1KsPTFEb40UsQAU+tNuvAMd8scM9tNjCf5Uveia4C4MLiTKF75/7kclMnZVI5WNETvNRz2U/qAMJsl83dpvQjEWRdFMH7s/exwiVNZfD5sxouPFE3T0pu0i99+B/sg25r3a8VyMKMNYDZbpAcHJ4w1DJfVTAX8NFZ4muymgr/2fhAJVIWv0rsdX7jJ8S6xpoO4=;O7qV1B58bN5PXB6tqKUmsA=="
+secured: "B1kOId2SiM8mq907ThFQq2m7bjoVsrvNpxxVnjAYWKjFX63YO3zjOb3gGo07jqZa99rCVvsqjnwXRR9jZKB521DRDa6DrbVeoPEiKkcIUT8j8fAkW6Grak5r2CcnfWql9C/oCHVSabSOXu8RMPOATEmfkUVE8b7eDRb/kwLsocBnVKKYWB7PJPFZ+8EbNhaVTcaO5Lqj0WRiNrfx+F1QEshPSVUTlLaRRSbfqLVHgGj0c73HxvD3CuD7xx5aIjHEehSxeBYVVlfg55+znD4ATlUzkg/jR5m/XHYcC5Ty6FWt+MiJIF5Y60MGBzsptEUeULSlt5DR861xzqE5r8pq35aEp8yUooj4L406Xr64Vr4=;rVLB1g8qFeRAq/tItjDnVA=="
 ---
 

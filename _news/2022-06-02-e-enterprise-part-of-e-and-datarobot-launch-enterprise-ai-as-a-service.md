@@ -41,6 +41,15 @@ related:
         width: 4368
         height: 2912
         isCached: true
+  - title: "Solving Unstructured Data: NLP and Language Models as Part of the Enterprise AI Strategy"
+    excerpt: "In this special guest feature, Prabhod Sunkara, Co-founder and COO of nRoad, Inc., discusses how enterprises are increasingly relying on unstructured data for analytic, regulatory, and corporate decision-making purposes."
+    publishedDateTime: 2022-06-01T14:00:00Z
+    webUrl: "https://insidebigdata.com/2022/06/01/solving-unstructured-data-nlp-and-language-models-as-part-of-the-enterprise-ai-strategy/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 25
   - title: "E& enterprise, US-based DataRobot partner to ‘democratise AI’ in UAE"
     excerpt: "AI as a service looks to offer firms machine learning algorithms without a huge initial investment. E& enterprise, US-based DataRobot partner to ‘democratise AI’ in UAE. AI, Data, DataRobot, e&, Etisalat,"
     publishedDateTime: 2022-06-02T08:45:00Z

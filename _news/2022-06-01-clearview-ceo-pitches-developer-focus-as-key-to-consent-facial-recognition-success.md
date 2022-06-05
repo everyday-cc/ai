@@ -42,31 +42,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "KATE THOMPSON DAVY: AI ethics debate kicking into high gear, as facial recognition firm fined in UK"
-    excerpt: "Do you know who or what Clearview AI is? It probably knows you, or your face at least. Clearview AI is, among other things, the world leader in facial recognition technologies, selling a controversial service based on an even more controversial database, a ..."
-    publishedDateTime: 2022-05-31T17:01:00Z
-    webUrl: "https://www.businesslive.co.za/bd/opinion/columnists/2022-05-31-kate-thompson-davy-ai-ethics-debate-kicking-into-high-gear-as-facial-recognition-firm-fined-in-uk/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/opinion/columnists/2022-05-31-kate-thompson-davy-ai-ethics-debate-kicking-into-high-gear-as-facial-recognition-firm-fined-in-uk/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/opinion/columnists/2022-05-31-kate-thompson-davy-ai-ethics-debate-kicking-into-high-gear-as-facial-recognition-firm-fined-in-uk/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 57
-  - title: "Clearview AI Settlement Underscores BIPA’s Growing Reach—and Limitations"
-    excerpt: "Facial recognition company Clearview AI has been banned from selling its existing facial data to all private entities, proving that Illinois' Biometric Information Privacy Act can impact even businesses outside of its state."
-    publishedDateTime: 2022-05-31T15:27:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/05/31/clearview-ai-settlement-underscores-bipas-growing-reach-and-limitations/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 36
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/05/Face-identification-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Tech: Kiwi's action against Clearview AI, what came out of the PM's US tech mission?"
     excerpt: "Technology correspondent Peter Griffin looks at the action taken by former NZ Privacy Commissioner John Edwards against Clearview AI, now he's the UK's Information Commissioner. What was Clearview doing wrong and what precedent is being set for the UK and beyond?"
     publishedDateTime: 2022-06-02T00:02:00Z

@@ -1,20 +1,21 @@
 ---
 category: news
-title: "E& enterprise, US-based DataRobot partner to ‘democratise AI’ in UAE"
-excerpt: "AI as a service looks to offer firms machine learning algorithms without a huge initial investment. E& enterprise, US-based DataRobot partner to ‘democratise AI’ in UAE. AI, Data, DataRobot, e&, Etisalat,"
-publishedDateTime: 2022-06-02T08:45:00Z
-originalUrl: "https://www.itp.net/business/e-enterprise-us-based-datarobot-partner-to-democratise-ai-in-uae"
-webUrl: "https://www.itp.net/business/e-enterprise-us-based-datarobot-partner-to-democratise-ai-in-uae"
+title: "Solving Unstructured Data: NLP and Language Models as Part of the Enterprise AI Strategy"
+excerpt: "In this special guest feature, Prabhod Sunkara, Co-founder and COO of nRoad, Inc., discusses how enterprises are increasingly relying on unstructured data for analytic, regulatory, and corporate decision-making purposes."
+publishedDateTime: 2022-06-01T14:00:00Z
+originalUrl: "https://insidebigdata.com/2022/06/01/solving-unstructured-data-nlp-and-language-models-as-part-of-the-enterprise-ai-strategy/"
+webUrl: "https://insidebigdata.com/2022/06/01/solving-unstructured-data-nlp-and-language-models-as-part-of-the-enterprise-ai-strategy/"
 type: article
-quality: 17
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: insidebigdata.com
+  domain: insidebigdata.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 related:
@@ -48,16 +49,16 @@ related:
         width: 900
         height: 453
         isCached: true
-  - title: "Solving Unstructured Data: NLP and Language Models as Part of the Enterprise AI Strategy"
-    excerpt: "In this special guest feature, Prabhod Sunkara, Co-founder and COO of nRoad, Inc., discusses how enterprises are increasingly relying on unstructured data for analytic, regulatory, and corporate decision-making purposes."
-    publishedDateTime: 2022-06-01T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/06/01/solving-unstructured-data-nlp-and-language-models-as-part-of-the-enterprise-ai-strategy/"
+  - title: "E& enterprise, US-based DataRobot partner to ‘democratise AI’ in UAE"
+    excerpt: "AI as a service looks to offer firms machine learning algorithms without a huge initial investment. E& enterprise, US-based DataRobot partner to ‘democratise AI’ in UAE. AI, Data, DataRobot, e&, Etisalat,"
+    publishedDateTime: 2022-06-02T08:45:00Z
+    webUrl: "https://www.itp.net/business/e-enterprise-us-based-datarobot-partner-to-democratise-ai-in-uae"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 25
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
-secured: "7rb0/4DUfEag7upo7EyaS67zwUyw6x6OM4ilmMKy1+GiJV/Pcr2/EjibeAzn0m6relET2vLgwNsql3H0mK4V/h5AQgSAEfCOEY2RUG2dl2L9tVdhquOQsvOH5KdLL8st/ZtwW0vTemguSPYuEdM8TKNBNwM8Dpk1TF+QHkaOvHcO+2Wb0cwH6SirsOaubfUu24xDlRluTv23vHcniG2+J4k5kerLUVTXHb1iIt6i471ozlPakV/fa2zkN+bmp4zL6L3o/jsERFLJU3tiXmmi6UdIlpK4fxvK/u1zKVAWu7N7mxVZ2bE7FMGIzaCaIPJn/JMIWS1g+AHYKm0NFZoKVHwoncIVbW/rh2cbUTwKZSyJh+Wv8xUfjEHWerI3cYaNPwDuzYaYd1Xbb4JjlK8uQyYB/VdhSmSIO3mmfpuLV61SpAxBGH9UQMSi/j1av6YvBVYS3GeT3Lz1cLnRdZhtbOkIRQzI82sMMQaLwBVUJS4rCEeVJTdw20YBJngatLSLiSmG2Qje9Zp6RUC/wHucqg==;Y9jcJTEyZ1OMVjDvfGgHJQ=="
+secured: "t9IvDqUbThyztXJ/tfs9qE0PnKi6eVMOvoOGk4I3nDUL1jVSGCtcJkjxDeVknuqmwPXvEIJFXSrN++7FoU2qCzKxOeTvEW4Raj5adO0HTug8NOK2l8uRy/4ZxZaCtxptSuB/MYNna7hVFVBYcoens5bN4vfNXzteLC8bjmXnPpTU5X/GVYRBGSjs/qPtbAqCAUnxP3xMM4E09Y/kLvY8bZ1/BaeWtjsVnQqJP+ofQpvrq2mW3SsXLa0+MVUjRytoirEKX/f/EO0RoFMfyqHE7I9Jz72+LE7mruYPuSQJTauhNJVZ8PS0fnfZOy/GxbGbo5k6eeJHg8GLFoHO+kMCSFHp5DDS2ustVReAXyjiJOUt7ilGVjPD0vzgGmrCj8xyD/NLAwZXBxkPl/3jmwf8E/cOcTkRfw/y8Eri/jV3HKnGJIcSjLakm0i7GE09vHpI3sfqXd9too/cloX6UWnGsrP/ZUe0wfYN35PIDw3VAICnxB2HapzcBi4ldmWWbNgAYWOVTwd4joO3IivAR8+DpQ==;uOn7zPHGytiYd1xTvH4fYg=="
 ---
 

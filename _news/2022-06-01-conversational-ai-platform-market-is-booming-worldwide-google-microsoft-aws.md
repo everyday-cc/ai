@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nokia plugs in Microsoft Azure into its industrial edge platform"
-    excerpt: "With Microsoft Azure Arc, a wide ecosystem of applications, and our long standing work with Nokia, we can provide AI-powered insights and identify solutions to workflow issues for mission critical Industry 4.0 applications running at the edge.”"
-    publishedDateTime: 2022-05-31T16:20:00Z
-    webUrl: "https://telecoms.com/515630/nokia-plugs-in-microsoft-azure-into-its-industrial-edge-platform/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 54
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2018/08/Fotolia_163376823_Subscription_Monthly_M.jpg"
-        width: 1639
-        height: 1159
-        isCached: true
   - title: "If you're having problems with Microsoft Azure AD today, this is probably what's causing it"
     excerpt: "Customers may have also had problems accessing Azure Portal, MSGraph, Log Analytics ... cloud via Dev Box Microsoft Teams and Power Platform to get more collaboration, AI-assisted additions Microsoft is enabling Kubernetes for Windows edge-computing ..."
     publishedDateTime: 2022-06-01T11:43:00Z

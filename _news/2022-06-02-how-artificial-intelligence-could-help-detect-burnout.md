@@ -26,17 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence (AI) Can Help Detect Wildfires"
-    excerpt: "For the period 2012-2021, there was an average of 61,289 wildfires annually and an average of 7.4 million acres impacted annually, according to statistics by the Congressional Research Service. In 2021,"
-    publishedDateTime: 2022-05-31T15:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp"
+  - title: "AI May Help Detect Breast Cancer in Mammography Screening Program"
+    excerpt: "An artificial intelligence (AI) system can help detect breast cancer in a population-based mammography screening program, according to a study published online March"
+    publishedDateTime: 2022-06-01T15:44:00Z
+    webUrl: "https://lacrossetribune.com/lifestyles/health-med-fit/ai-may-help-detect-breast-cancer-in-mammography-screening-program/article_db4c2884-1fa8-514e-af1d-e79ce3e089e8.html"
+    ampWebUrl: "https://lacrossetribune.com/lifestyles/health-med-fit/ai-may-help-detect-breast-cancer-in-mammography-screening-program/article_db4c2884-1fa8-514e-af1d-e79ce3e089e8.amp.html"
+    cdnAmpWebUrl: "https://lacrossetribune-com.cdn.ampproject.org/c/s/lacrossetribune.com/lifestyles/health-med-fit/ai-may-help-detect-breast-cancer-in-mammography-screening-program/article_db4c2884-1fa8-514e-af1d-e79ce3e089e8.amp.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 82
+      name: La Crosse Tribune
+      domain: lacrossetribune.com
+    quality: 57
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/c/78/c78ad97f-1cbb-5148-84d0-55a435edab03/62978e3c034b5.image.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "k/0AD/xzruA4CYyhsC0ysRa+JVUsSW/QYA/sbWegcxk3VK25ptE49Ue1OINbgO5wF5TJJg6aruzbDhfnZY/kks39KCnqRSGOWQiIWWvAtC7f+PfmEswSuXzguu7Ox4HPi5roOvX0svxqNXiTC9ZHpy8XW0uRmtFAkyXqsnx3TmXfNX9Q7WUlrs4++OcPCu44Hu3tG/4sXKuKG02w508cbqaOMjiE0CXHTUAxATipwGgMZqwZB6M78QVYQcjWcjHZN1dHGCA0MPZI7XySdmIqPV4KgqDsp5U6caB1AHP3CkDUPFu6xrokLxKxTixr1GSp2hJXj/fn6GA4pO5thsuwwFAAt+wHfu+oZKSmnRhnk7U=;5qVtYwV6I9cojFKjocMYRg=="
 ---

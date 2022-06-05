@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/business-intelligence-market-lik
 webUrl: "https://www.digitaljournal.com/pr/business-intelligence-market-likely-to-reach-total-valuation-of-us-52-6-billion-by-2032"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Open-Source Intelligence Market To Drive Amazing Growth By 2030 | Forecast to CAGR 20.6%"
-    excerpt: "\"Open-Source Intelligence Market\"The North American OSINT market is driven by the rising penetration of smartphones and tablets.Market Scenario: The"
-    publishedDateTime: 2022-05-31T22:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/open-source-intelligence-market-to-drive-amazing-growth-by-2030-forecast-to-cagr-20-6"
+  - title: "North America Facial Recognition Market to be Worth US$ 3,907.98 million by 2028: Business Market Insights"
+    excerpt: "The facial recognition market in North America is expected to grow from US$ 1,628.13 million in 2021 to US$ 3,907.98 million by 2028; it is estimated to grow at a CAGR of 13.3% from 2021 to 2028. The Business Market Insights provides you regional research ..."
+    publishedDateTime: 2022-06-01T07:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/north-america-facial-recognition-market-to-be-worth-us-3907-98-million-by-2028-business-market-insights"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 0
+    quality: 21
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/a63f6f2eca48ebdb526b9a1f3660b3af9b695a93-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "QMDigBiS24O+LDK4xJCsGwoWHH6v94xjSKSvgfiAt8ihqGjUCdMNoqZBY8Jl8UAc4rJidFAiNSV+8MDfzCqMLON3182/MMj+Uc8ltXANqx8rJ70cDuj0GlB2kGlINTtZxlHhQZ91gEhw1eNSk6SkC0vTOe7Bbo/x4CHxr9PWb/rNbJxmnxBO27TgG7cVS7IGYBmO3qChhvAvba8OzfjRiTAO82f9yKD48Ux1tHh6kcF69es/tjvzO83kCU1f9cme7lU3t71wTyTonpW+5jJIGrm2e25XsXTqxMnJtXgNAw6iyYY3jCzIYyVZdIwNpSS8U55/RpBI6pIty4zB5EHHBq7JFwuSeCDXVRvcOh74djc=;9nlPPjK6dBJLAKsf40ak1w=="
 ---

@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Wireless Connectivity Market Professional Survey and In-Depth Analysis, Size, Share, CAGR Status, Research Report to 2027"
-    excerpt: "The applications of artificial intelligence in the automotive and ... The current advancements in Google’s Driverless cars and Tesla’s Autopilot features, it has been already proved that ..."
-    publishedDateTime: 2022-05-31T15:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/wireless-connectivity-market-professional-survey-and-in-depth-analysis-size-share-cagr-status-research-report-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/a801a10b280a8728067389fe0d10a914d773c523-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "fgBR4dUhiBtB3b3OLkg17XenicEGN6ux4ZG+uLMYb2OuEbcgGBXHRehfjd6eJif2BoEmPUM1IYG0239YPMm02Zj5R29m2Y9I619gxZTv+ovt0gb7HV/GjLBJRdSviw7YAW7n6UTnmG9XLjttlmAE72c+gAfO63sf4FCodFc11IFhV0vTq8hMqAxA4Avi95Yk/7lj94Y8h/Lk11b6QU3FFvenFj8KLNJ+eBjt+Ut9gB5BX3YAI1m2AvBG+M06ZOFLAyopCSvK/N9ACOIzNfV7+ILqrFaAq5RO24f4PNikZJtlbQWpKrkbG2J5OXFH7ZO18kr+OiAsKC3lLONHrgmu1yZuGKWUz6glq3dzxUK2pxQ=;sgupy9I/yIndcayhseNq0w=="
 ---

@@ -303,49 +303,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-24-92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges.md",
-      "title": "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges",
-      "excerpt": "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent/article_5f791ce8-16ec-5a2f-a8df-9dceb4768928.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent/article_5f791ce8-16ec-5a2f-a8df-9dceb4768928.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-24-how-to-make-ai-marketing-initiatives-actually-deliver.md",
       "title": "How To Make AI Marketing Initiatives Actually Deliver",
       "excerpt": "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice.",
@@ -867,8 +824,8 @@
       "title": "Remy Robotics exits stealth mode with launch of third autonomous robotic kitchen",
       "excerpt": "Pioneer in robot-enabled delivery-only restaurants expands its reach and opens to new partners to boost food operators' scalability BARCELONA, Spain, May 24, 2022 /PRNewswire/ -- Remy Robotics, a food technology startup leading the disruption of delivery-only restaurants through the use of adaptive robotics and culinary engineering,",
       "sourceUrl": null,
-      "webUrl": "https://www.wjhl.com/business/press-releases/cision/20220524LN66199/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen/",
-      "originalUrl": "https://www.wjhl.com/business/press-releases/cision/20220524LN66199/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen/",
+      "webUrl": "https://www.wearegreenbay.com/business/press-releases/cision/20220524LN66199/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen/",
+      "originalUrl": "https://www.wearegreenbay.com/business/press-releases/cision/20220524LN66199/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -887,11 +844,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T00:00:00-07:00",
+      "publishedDateTime": "2022-05-24T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WJHL-TV",
-        "domain": "wjhl.com",
+        "name": "We Are Green Bay",
+        "domain": "wearegreenbay.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1127,6 +1084,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-artificial-intelligence-is-breaking-patent-law.md",
+      "title": "Artificial intelligence is breaking patent law",
+      "excerpt": "The patent system assumes that inventors are human. Inventions devised by machines require their own intellectual property law and an international treaty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01391-x/d41586-022-01391-x_21688384.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }
