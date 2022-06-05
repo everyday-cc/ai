@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "GM secures permit to operate self-driving cars in San Francisco"
+    excerpt: "General Motors subsidiary Cruise became the first company to secure a permit to charge passengers for self-driving car rides in San Francisco"
+    publishedDateTime: 2022-06-05T15:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272576321/gm-secures-permit-to-operate-self-driving-cars-in-san-francisco"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1654318469787.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "GM-backed Cruise could soon charge passengers for self-driving car rides"
     excerpt: "There has also been a longstanding concern that self-driving cars cannot always correctly predict how humans will react to changing events."
     publishedDateTime: 2022-06-02T12:37:00Z
@@ -64,15 +78,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 3
-  - title: "Early Money: This San Francisco startup is working on an app to help prevent heart attacks and strokes"
-    excerpt: "The founders of @migahealth are working on an app that would promote heart health. #startups #venture #EarlyMoney #SanFrancisco #SiliconValley #BayArea"
-    publishedDateTime: 2022-05-31T21:42:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2022/05/31/early-money-sf-startup-working-on-heart-health-app.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "puKLRtk4/somOCIPOqtNem75lptGBPqbvVtrjSXlRbG+IJwDV4+zPfLvp8aP+tI8dhoRrvfDyqBLgneExfWDkicadzUY+SxMFD3+tCIA9uwduld9ZO/jjmYXPdL4OM8wbpzpBHAOhSJb0eLdSEn6yQn5nUIUo4lIa8rIXJRgVze8KiHfp3pVeodm80qlm/vF1e70TqxhCurcvyKP5o1cA381zu6H7+N9z98wo3pZs2zLf1cn/r7ItzSNKkK70KqVr9f38sCgmvE2YzXP+TTkQR+v5WtzVgQBuMvp+lhMNVfygspvpuNi1XSb45j5YNKI2OmP42NrvguaJ+L/fE7sWXCW+6Ub/0FCLYG1EUgHRdU=;Dlwr3KauCMIAJUyafz5Wlg=="
 ---

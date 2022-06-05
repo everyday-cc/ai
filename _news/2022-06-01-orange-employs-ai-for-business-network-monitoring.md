@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-em
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-employs-ai-for-business-network-monitoring/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Mobile World Live
@@ -40,15 +40,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "NEC deploys AI-based traffic monitoring system with fiber-optic sensing tech"
-    excerpt: "NEC Corp has deployed an AI-based traffic monitoring system to Central Nippon Expressway Company Limited (Nexco Central). The system uses fiber-optic sensing and AI technologies to visualize traffic conditions,"
-    publishedDateTime: 2022-05-31T21:45:00Z
-    webUrl: "https://japantoday.com/category/tech/nec-deploys-ai-based-traffic-monitoring-system-with-fiber-optic-sensing-tech?comment-order=latest"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 14
 
 secured: "hC93bBDybAW8pw21BAFRJJ6iOzqDyZGT5ltv47CnbRVepRu1F106VxfwwILw+XTLI/CqDz+awySz6lcZvKDwiDeDYwN7BDFFVQcgJ4LvfoJtJ/9yjccZICKAzKO6D4YXH+EOlDeN/1K3LUDZ/l//95813KgUmRVurp9jbH04rZPkxVJuw/t7mh6b+ppImqdK6gxTW7EEd4cwqwEQqweaUGQ5UD5RiD8doZhPFblta8Y5UPed/dyHpQbfNBraJmWRLZo+7Kc56XTvyJ5W+7YmT1zJVoKCOagXJiJPJWcBB34KT6UEg63jkGZ5zkPAIqT88vEt/tDxLUtYZrGvnUtQYe7FNHftBJnNAHDggMOmuCU=;9HF8/ga1EA4TjnqpT/UE9w=="
 ---

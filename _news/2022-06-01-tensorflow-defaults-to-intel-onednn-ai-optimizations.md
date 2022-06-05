@@ -9,8 +9,8 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/amp/"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: enterprisetalk
@@ -26,38 +26,6 @@ images:
     width: 1024
     height: 585
     isCached: true
-
-related:
-  - title: "TensorFlow now defaults to Intel oneDNN AI optimizations"
-    excerpt: "OneDNN is an open-source cross-platform library intended for devs of deep learning applications and frameworks such as TensorFlow."
-    publishedDateTime: 2022-05-31T20:48:00Z
-    webUrl: "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/"
-    ampWebUrl: "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 121
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Understand the lucrative career options in the Application of AI in Semicon with Intel leaders"
-    excerpt: "Intel, in collaboration with Analytics India Magazine, is organising a webinar on the applications of AI in semiconductor design."
-    publishedDateTime: 2022-06-02T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/understand-the-lucrative-career-options-in-the-application-of-ai-in-semicon-with-intel-leaders/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 27
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/Anushka-pandit-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "PGUq6wESRbqFrLNDBtLlXDtFYwHVMkAhVVTTf4cEko2ptbK+KVm2PHFdi/9EK1pqb6X5qyQr3RtQkVre1KEojN0Z9pbWVT/IrxPTabzM2FmImcbqFhO5IgaBjRNjcJuC8lUlitF6RodCa86Y82jx1bIgMnXc8j0KgES2WJnlxQ09DvVWv+8UbVDF08W4UEEeah+ptrdV+T3JQuZQw1BgdYbCWAHuNpGyvZDztvDBBubd9WSFa4vyzVXe8gTHlvA+krJlf57JIQOq2ivIK0p2hwfsfc9jHCQPqS0yM8nGvJzzuNk3arCE1dImiuonjXOyOrFcO/7cduL2Qg2B4CBKR5AxqeoAKT0h+1sdBgsFKm4=;+50vkRxa/ZlIMnZm7wlhLA=="
 ---

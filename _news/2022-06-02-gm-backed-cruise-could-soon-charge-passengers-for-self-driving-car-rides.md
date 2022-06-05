@@ -63,15 +63,20 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Early Money: This San Francisco startup is working on an app to help prevent heart attacks and strokes"
-    excerpt: "The founders of @migahealth are working on an app that would promote heart health. #startups #venture #EarlyMoney #SanFrancisco #SiliconValley #BayArea"
-    publishedDateTime: 2022-05-31T21:42:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2022/05/31/early-money-sf-startup-working-on-heart-health-app.html"
+  - title: "GM secures permit to operate self-driving cars in San Francisco"
+    excerpt: "General Motors subsidiary Cruise became the first company to secure a permit to charge passengers for self-driving car rides in San Francisco"
+    publishedDateTime: 2022-06-05T15:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272576321/gm-secures-permit-to-operate-self-driving-cars-in-san-francisco"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1654318469787.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "Qoqe4GdT8rKSPAQny1BrDOm+Y7JV6SGiEDvn3UY/gPSTek/RyunB4KgPYhQZKJL/svljCwDu0UPnL4HTfxSftdYYqgPTOjhcp7Orz0NoKAAnujzVVra5gP+jnzAVHbBFjNXUFAI+LwEdpND1RekusMHnFcmiMQDTkiq/eH9P7Xx097sDr7UWjXnQJsrx+LmKPbaM0Z0V7KkUI8xe8y0vUQ96a+1tTplJeznai6SY1W0W8eQ+T/cG3gK0Tvm7GDPTFd0sUIBO8nOprNTU3V6WZPu7E4feuEYWY9pz9ty5ZxSpNL29WMpF5J9xwHYQxQ53J8plU1BP78jw5Z55YRUeMKJFKR2gLh0doTt8jcvxAncgcIWqonrIlJUfykwxrq6kUEz9+PR8H3UKrRE7Bsosx2htzH5Lw84pqQfiLN6MpjePk+c2PRvd8ncF9U34+U76XXW3HtSBBm6cep7b1gwLknQHDA9ggTk88dZtf5Hwk4dI7p16saenyiLj7rT9lwMjULlGf94u4KN6kcKtApISvg==;g/i03TmX45oskxshwgX0pw=="
 ---

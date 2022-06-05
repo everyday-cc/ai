@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-05T12:00:00Z
 originalUrl: "https://www.iol.co.za/technology/robots-can-write-stories-help-us-translate-languages-what-is-next-for-ai-697c7fb4-75b0-4cdf-98df-9a2a7028c8a5"
 webUrl: "https://www.iol.co.za/technology/robots-can-write-stories-help-us-translate-languages-what-is-next-for-ai-697c7fb4-75b0-4cdf-98df-9a2a7028c8a5"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: IOL News

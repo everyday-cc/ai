@@ -3,26 +3,24 @@ category: news
 title: "AI May Help Detect Breast Cancer in Mammography Screening Program"
 excerpt: "An artificial intelligence (AI) system can help detect breast cancer in a population-based mammography screening program, according to a study published online March"
 publishedDateTime: 2022-06-01T15:44:00Z
-originalUrl: "https://lacrossetribune.com/lifestyles/health-med-fit/ai-may-help-detect-breast-cancer-in-mammography-screening-program/article_db4c2884-1fa8-514e-af1d-e79ce3e089e8.html"
-webUrl: "https://lacrossetribune.com/lifestyles/health-med-fit/ai-may-help-detect-breast-cancer-in-mammography-screening-program/article_db4c2884-1fa8-514e-af1d-e79ce3e089e8.html"
-ampWebUrl: "https://lacrossetribune.com/lifestyles/health-med-fit/ai-may-help-detect-breast-cancer-in-mammography-screening-program/article_db4c2884-1fa8-514e-af1d-e79ce3e089e8.amp.html"
-cdnAmpWebUrl: "https://lacrossetribune-com.cdn.ampproject.org/c/s/lacrossetribune.com/lifestyles/health-med-fit/ai-may-help-detect-breast-cancer-in-mammography-screening-program/article_db4c2884-1fa8-514e-af1d-e79ce3e089e8.amp.html"
+originalUrl: "https://cumberlink.com/lifestyles/health-med-fit/ai-may-help-detect-breast-cancer-in-mammography-screening-program/article_eece9aa0-71a2-55e2-90a1-605862fe2f27.html"
+webUrl: "https://cumberlink.com/lifestyles/health-med-fit/ai-may-help-detect-breast-cancer-in-mammography-screening-program/article_eece9aa0-71a2-55e2-90a1-605862fe2f27.html"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: La Crosse Tribune
-  domain: lacrossetribune.com
+  name: The Sentinel
+  domain: cumberlink.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/c/78/c78ad97f-1cbb-5148-84d0-55a435edab03/62978e3c034b5.image.jpg"
+  - url: "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/2/d3/2d30774c-30f6-549c-a5cf-1750138bc819/62978e4a971ae.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize"
     width: 600
-    height: 337
+    height: 315
     isCached: true
 
 related:
@@ -43,6 +41,6 @@ related:
         height: 600
         isCached: true
 
-secured: "HYc2EMnTVYeytguse6GpyiOuLx5FJuouyGr4CRxsm59bV1esyObzBfK95jTKEYbCwsH9o2JJtQKZMTQv3vyxMdmRguA2W4/T2MBUyB/uF0aRhfNDn74ZKRA+Q2lCSR3hJa3UxzOkhIXOMD63wtpTFQ7qxssoi9GjSCx/ILSMHcQxtMQMBbVOJxAx7DFaGXEh7AfFb70j+YcUzwaRuPdEEN76LDlhj41XDxUO1bHwAx05q9OKy1+FVyCKOdN76jWxgEpMDLc50rauMzQS/7TuMpWOOhzEvjmLsXIwyopdWRU17sIsBXw0m/4t+JynQYNZWPeETNhVSXaNWo9klwkDRGLHSzIhN8Rqs89n2EoQo1Y=;jbTTEtGLb1E+CLv6O2QxiQ=="
+secured: "J/VYzmhgcb76usGEGemgaw78QpJNk4EjbxsnJ3aFnpFWywaiToZpYVbkb2WsH0grLAw2gmuLb1ETYRSki4qMbWtgE7jAdwHpDZfE08VB2wJ7S98FFIz1teDCdhaICtXbK1kRqm31uU2QWVS1laIqcxwFkrt2OG5/unN1ZerGQbQFw4Bg3V7mzU1s9fA3rfZnbK9AceyimNrAYdeViMC7ZLQFcqmsBoyT6luapoZu7sqE2KJtuX2Oa65hipdkaVgrLccYPWg5OV1FEZtN5v40FcyeVLP/woNuSPP93A5HSweQ1xBdpdLeHcVk4Ro3tpelWU0aabMlTmZHG47SZHNV1Mu6z0FGwN4r3by8MkInmu0=;T2oUVj6i94lAuZ5aCS7Faw=="
 ---
 

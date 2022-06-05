@@ -50,15 +50,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 30
-  - title: "Self-driving cars to be tested in Boca Raton"
-    excerpt: "The future has arrived in Boca Raton. The city is now testing self-driving cars with the hope of eventually adding them alongside drivers on the road."
-    publishedDateTime: 2022-05-31T21:36:00Z
-    webUrl: "https://www.wflx.com/2022/05/31/self-driving-cars-be-tested-boca-raton/"
-    type: article
-    provider:
-      name: WFLX
-      domain: wflx.com
-    quality: 4
 
 secured: "gxh8SIvk23E4zR+SoUZB8KVTu6IHEBXH1TsgZ+WTJVd7KEk/rN7/zJNPzcKi6Y9bmAYfy9DQRu/wd8TQgwV0UuzV309pg7lk5S4g5Otye8QeatQfKFrpo8miXIA15jkqFhH6q4KheSPpuDPE63YgJSAlmCLrVWe13olNA7C35lAm3g5vSsc1xu1rQrcpzUapoRbFw1wuzWpco5Apdnkmk/KxBivbfsJmToPZHX1s6mJaRHhrpH9fZd8se1bINUC/i3MAkF11mcKQZntAkzwrekbvRPURBiwL4m5QR1Cx+EcNYaTbDSGATX1hj9ng//ry/miPYzC1EUDxlQLNrtfZVYRAGez+LJ1ZLDWsOtF1h60oQh8Pl02IJ4CeAqXrf4YNDEj5/IMG9BYEgSWpMdb6ki7Y5PjJl7puha5QFrfua+8qiPlku3+YJ4HrmfjDJSPh6Fb0C+4z9EcN+48P7Ya+AO6tOjcrJ6XrHD0Wc13xhlQ72atwI6vYWg2iJ2G/DY1385O+jx46zoSRCX888Eg8yQ==;/C+obVF12w7oO7L4mv+5cA=="
 ---

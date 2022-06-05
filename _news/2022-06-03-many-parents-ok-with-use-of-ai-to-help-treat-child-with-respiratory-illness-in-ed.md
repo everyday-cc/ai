@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T14:28:00Z
 originalUrl: "https://www.gazettetimes.com/lifestyles/health-med-fit/many-parents-ok-with-use-of-ai-to-help-treat-child-with-respiratory-illness-in/article_432d5874-a698-5cbb-8bc5-a10ce4a06fd2.html"
 webUrl: "https://www.gazettetimes.com/lifestyles/health-med-fit/many-parents-ok-with-use-of-ai-to-help-treat-child-with-respiratory-illness-in/article_432d5874-a698-5cbb-8bc5-a10ce4a06fd2.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Corvallis Gazette-Times

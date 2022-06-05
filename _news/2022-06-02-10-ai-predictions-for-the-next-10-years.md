@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-pred
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/13911960-16x9-large.jpg?v=4"
         width: 700
         height: 394
-        isCached: true
-  - title: "New AI Tool INNRS Offers Reliable Financial Asset Prediction"
-    excerpt: "INNRS is the new AI-based smart tool that uses the best technology to predict financial asset’s price action. While it isn’t always accurate, it comes close to offering near-accurate guesses. The new AI predicting tool has been creating quite a buzz ..."
-    publishedDateTime: 2022-05-31T20:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/new-ai-tool-innrs-offers-reliable-financial-asset-prediction"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/a63f6f2eca48ebdb526b9a1f3660b3af9b695a93-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "G5hM6XU5bOBtO9S/vxwxImUqLPO49k9tZaBnYXs49KGSuriztSUGcnA6G6aoeu1lNgS3gKVFhN501uogenhzjKWPlqnwpDxrX9Duh6XmOz/RdZfSTKL3uecdcDauQq20oqeBSbr8UAXiTDQ2UAfOZ7JjSF3tTLdqF2fiGON5Bk4KcqY5SDRVYWGMRNpMJmDM/o52JP++ICXmEMNVWyBu2RU1kbEe/Ojbi6TarSXHYOH6VlJaxFId1n9QZHrZ7xiYNAU9SZQk3+APtng3euQ3U19zvARVNGNViLMyGvPiUZrEUxImtqjNhd4vFxkA3BfuMxSFFWj8uxdhUz/TTX2W7rq2Yl+MeQE2aEO4KECfJfywZhYwElNvFKPAibZahFCsGOMXvJEzYl6EzBzOYao5521ltd5w32glT1l07Sihc0br2Ja/RzAf6IKSzqWsonLiH8M39Yy0ip4VECi8rIshxyBPFbE8kDdLFeCTEIHg+k01gVJR4elOctuTcZzgB4w5+3KjsB3cMqnIfCKxlFbJiA==;pdR5YAfzA9f/6Nes9MurMQ=="

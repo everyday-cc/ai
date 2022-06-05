@@ -49,15 +49,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Your next Chick-fil-A delivery could come via robot"
-    excerpt: "The chicken sandwich chain said it is testing autonomous delivery robots in a limited number of locations in California, Texas and Florida."
-    publishedDateTime: 2022-05-31T19:31:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/your-next-chick-fil-delivery-could-come-robot"
-    type: article
-    provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 19
   - title: "Chick-fil-A is testing out autonomous delivery robots"
     excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
     publishedDateTime: 2022-06-02T01:12:00Z

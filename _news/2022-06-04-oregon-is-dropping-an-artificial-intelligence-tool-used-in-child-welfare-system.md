@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Oregon dropping AI tool used in child abuse cases"
-    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
-    publishedDateTime: 2022-06-02T14:32:00Z
-    webUrl: "https://www.middletownpress.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
-    ampWebUrl: "https://www.middletownpress.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
-    cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
-    type: article
-    provider:
-      name: The Middletown Press
-      domain: middletownpress.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/26/01/67/22552019/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Oregon dropping AI tool used to help decide child abuse cases"
     excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
     publishedDateTime: 2022-06-02T21:06:00Z
@@ -66,6 +50,20 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "Oregon dropping AI tool used in child abuse cases"
+    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will"
+    publishedDateTime: 2022-06-02T14:29:00Z
+    webUrl: "https://azdailysun.com/lifestyles/technology/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_70a9cbb4-840e-5b85-92e4-cff61a5cad11.html"
+    type: article
+    provider:
+      name: Arizona Daily Sun
+      domain: azdailysun.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/2/57/257a8cb5-4edc-558b-a295-f8c104d25f0b/6298eb86ef569.image.jpg?crop=1768%2C928%2C0%2C121&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "State dropping artificial intelligence tool used in child abuse cases"
     excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will"
     publishedDateTime: 2022-06-02T14:29:00Z
@@ -82,18 +80,13 @@ related:
         isCached: true
   - title: "Oregon dropping AI tool used in child abuse cases"
     excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
-    publishedDateTime: 2022-06-02T19:03:00Z
-    webUrl: "https://www.41nbc.com/oregon-dropping-ai-tool-used-in-child-abuse-cases/"
+    publishedDateTime: 2022-06-03T16:33:00Z
+    webUrl: "https://www.theolympian.com/news/business/article262067787.html"
     type: article
     provider:
-      name: 41 NBC News
-      domain: 41nbc.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.41nbc.com/content/uploads/2022/06/e/n/mgn-1280x720-90515b00-iqwum.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: The Olympian
+      domain: theolympian.com
+    quality: 17
   - title: "Oregon dropping AI tool used in child abuse cases"
     excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
     publishedDateTime: 2022-06-03T19:15:00Z

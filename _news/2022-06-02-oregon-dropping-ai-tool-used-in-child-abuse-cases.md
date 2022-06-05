@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Oregon dropping AI tool used in child abuse cases"
-excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
-publishedDateTime: 2022-06-02T14:32:00Z
-originalUrl: "https://www.middletownpress.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
-webUrl: "https://www.middletownpress.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
-ampWebUrl: "https://www.middletownpress.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
-cdnAmpWebUrl: "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
+excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will"
+publishedDateTime: 2022-06-02T14:29:00Z
+originalUrl: "https://azdailysun.com/lifestyles/technology/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_70a9cbb4-840e-5b85-92e4-cff61a5cad11.html"
+webUrl: "https://azdailysun.com/lifestyles/technology/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_70a9cbb4-840e-5b85-92e4-cff61a5cad11.html"
 type: article
-quality: 57
-heat: 117
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: The Middletown Press
-  domain: middletownpress.com
+  name: Arizona Daily Sun
+  domain: azdailysun.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/26/01/67/22552019/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/2/57/257a8cb5-4edc-558b-a295-f8c104d25f0b/6298eb86ef569.image.jpg?crop=1768%2C928%2C0%2C121&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -74,18 +72,13 @@ related:
         isCached: true
   - title: "Oregon dropping AI tool used in child abuse cases"
     excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
-    publishedDateTime: 2022-06-02T19:03:00Z
-    webUrl: "https://www.41nbc.com/oregon-dropping-ai-tool-used-in-child-abuse-cases/"
+    publishedDateTime: 2022-06-03T16:33:00Z
+    webUrl: "https://www.theolympian.com/news/business/article262067787.html"
     type: article
     provider:
-      name: 41 NBC News
-      domain: 41nbc.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.41nbc.com/content/uploads/2022/06/e/n/mgn-1280x720-90515b00-iqwum.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: The Olympian
+      domain: theolympian.com
+    quality: 17
   - title: "Oregon dropping AI tool used in child abuse cases"
     excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
     publishedDateTime: 2022-06-03T19:15:00Z
@@ -105,6 +98,6 @@ related:
       domain: knkx.org
     quality: 13
 
-secured: "aeZf9areB0W+qPq4HNNOjsPQiYvJelbAFTeW1CM+taYeUB34eVbxhTc/YusBO3RrSsde0O9wUtE8i4LsWgwQh85ePYfDYTAHD71YRnPND5hzxmHgOTIEVwzyveaPpYGTospg87tIyUNwJq48hBjno+CmPbCzbMqdfqbcpH4tXVEZ0qzhHIxrtFjzpk95sVbCtJNbqvKr4igpHC9ee0Q0yRfZGrfWPwceH2VasrmpspoRxBrU7Xho9wsTUFBjRjsRYytOnKNz/aiNDtb8YcbCvr2TAehZRXd7zcX+WIUEzmM/1vpwI/vasDwytGrFAJNrciNU6rPNaMLgFJMo6GCZcUqQqR3T0xsYT+z6lGp1ezmaQZCox7ZZja2ay8wMNJQIzvzGTBS0XxYek7mQ6hmCeV7eHO071hkXO6H1gNMeqDOwT+8PYsGBtCzo4lKAJkcjjWqHuyKcumARCFfA8POCCogZMztCQASoqWZOSEbBCj7vJFuoMUz4luikby6UloYCvqC6QMx3vAEpuz91tkimfQ==;6i/48iFffHKOHWXXz0MElA=="
+secured: "1iosZt91rH+Iz/9h2Ch1lqATWMr7LeyHNeQ3vmK9Fndze0qN2mKi0Vu9/B5dymPzl5qPQpVs87ObvcsACpp0YBZCy+k4Tl7idxiOdUTQG2zrXyiRvL10EBCNuXr/BgkppapjnVB24trgrXXdBPs9eEcVy+TAzN5A7YpfFSsLgqKxaPtdWUPP0Xe+X9ieWq66PTvlA8Hs7hAENCeAXG0Ks31K37a6IRkzXnsX57WIxUYXOuu3oaucBzwQFjVQaMv6i5KN/mhKyvCbC/NHbgpLwPxw9+yUeQD748jgYuSaiVagfaaEZ6n4n3nhyx4QdSDdEjOxfX0rRdDAhjPseKuvgW+LJB+9CIzCqcxesRoAO20=;oRbLQC5+PfiuA+pACgjLtw=="
 ---
 

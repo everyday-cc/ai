@@ -252,6 +252,48 @@
       ]
     },
     {
+      "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases.md",
+      "title": "Oregon dropping AI tool used to help decide child abuse cases",
+      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "originalUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/DarkWeb-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "publishedDateTime": "2022-06-02T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-latchbio-raises-28m-to-corral-bio-data.md",
       "title": "LatchBio raises $28M to corral bio data",
       "excerpt": "LatchBio's goal is to give researchers a simple, integrated tool that can analyze bio data without hiring a computer scientist.",
@@ -450,7 +492,7 @@
       "originalUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -571,48 +613,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-02-oregon-dropping-ai-tool-used-in-child-abuse-cases.md",
-      "title": "Oregon dropping AI tool used in child abuse cases",
-      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.middletownpress.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "originalUrl": "https://www.middletownpress.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/01/67/22552019/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.middletownpress.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "cdnAmpWebUrl": "https://www-middletownpress-com.cdn.ampproject.org/c/s/www.middletownpress.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
-      "publishedDateTime": "2022-06-02T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Middletown Press",
-        "domain": "middletownpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-02-10-ai-predictions-for-the-next-10-years.md",
       "title": "10 AI Predictions For The Next 10 Years",
       "excerpt": "The past several years have been an exciting period for artificial intelligence (AI). We used to think of it as science fiction, yet today, AI has become an everyday component of life. This is especially true with advances during the global pandemic.",
@@ -621,7 +621,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {

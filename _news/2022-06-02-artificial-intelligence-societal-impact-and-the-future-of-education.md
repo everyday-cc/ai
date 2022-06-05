@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 471
     height: 354
     isCached: true
-
-related:
-  - title: "AI, Semiconductors, and the Importance of Technology Education for Policymakers"
-    excerpt: "For technology policy to be effective (whether to make us more innovative, more competitive, more equitable, more secure, more sustainable, or more resilient), policymakers need working familiarity with emerging technology trends from a trusted,"
-    publishedDateTime: 2022-05-31T19:34:00Z
-    webUrl: "https://www.wilsoncenter.org/blog-post/ai-semiconductors-and-importance-technology-education-policymakers"
-    type: article
-    provider:
-      name: Wilson Center
-      domain: wilsoncenter.org
-    quality: 30
 
 secured: "BzAbNe0s9aDc4q6jgO5NDQoCsVQfCbreXCUOyJVx52hzUip0lTSWNh14+/5ALNc9VXyiLoAlTbZO4O825mpCecnj8aPIpeQHXAvkXlIX0hyKV7x6Py7LS1nCyJcrIEbvMDvOhGxsJ8MgrdjnUMkU11pAJzQuFc16wFzxSfFafvheLdE1Fh+z2ziVWEITwCbfjVjrgNluH/P06uNCahXsL1NepSbDFOC2x4HgVNNRBpOj6J1Xuz+15p+KphffoomPMN1meXNJwVaKLQs5p0uHf2RxT/YJyUp0ykz0RPwWl8f0Z2FFDqFcZ8jja2J6VQmnfHS/pSJbDnK5NWoLLpTd4vtZSM36ehmjVzPa5MfwLo0/vRf01SFpPiVwEcv4I1YvCdheV5eZqbcHSEXwkjAW8g+4fb25k2XRg0LpJ6OVQeqzlrFR0Ih0SGN6F9AvUvqijh8CtWPYbeiB2oOZxr1MK2YmnyQ/BIEDyvoMf4cLlJB0O3tKDzz8lo7bcgd4sWrsEN/Ml7gt7rNV8299Y53Kww==;b8zywd3T7SERVF5rAgSN9w=="
 ---

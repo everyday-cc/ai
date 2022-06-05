@@ -58,15 +58,6 @@ related:
       name: freightwaves.com
       domain: freightwaves.com
     quality: 34
-  - title: "Your next Chick-fil-A delivery could come via robot"
-    excerpt: "The chicken sandwich chain said it is testing autonomous delivery robots in a limited number of locations in California, Texas and Florida."
-    publishedDateTime: 2022-05-31T19:31:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/your-next-chick-fil-delivery-could-come-robot"
-    type: article
-    provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 19
   - title: "Refraction Ai Tests Self-Driving Delivery At Two Chick-Fil-A Restaurants In Austin, Texas"
     excerpt: "Chick-fil-A and Refraction AI intend to continue studying autonomous delivery in Austin at the Chick-fil-A restaurant on Martin Luther King Jr."
     publishedDateTime: 2022-06-01T12:33:00Z

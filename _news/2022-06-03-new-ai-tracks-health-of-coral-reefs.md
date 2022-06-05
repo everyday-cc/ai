@@ -23,17 +23,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
-    excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
-    publishedDateTime: 2022-05-31T19:38:00Z
-    webUrl: "https://localnews8.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 11
-
 secured: "jAAxbLhu3Ag6qzc3uLr30hi7+pTVnhCBsli3+LnH6Hlk/SlBc02OqQ5te5DdXAFZokVGcX4J2hwnGUMOVGlM0XCyPBxih52LFmIdA/h4QjI5MpdtIs8F5+P3bgdq5oEnnLQoQz51gswF2NH6IwfMQAQFizj8fPRWwC3S5ZKUTpS7ybnbZmyNBMsPURZ04GRjQvt6uoCvYC9yA9vD12HB3f0zz4FFiUUQhma0vAL9R/aNBKy0NRKDkp/uGeWNplI/hwqBN3KKHSo4vYrn00KAmFH48gf++JvQMmYS8lH48fLCpn6iBNnBWJymBp+J/GI9dibbPfnQwsAkICG0S+XH8JOkhlihhOibGMgca7ZBEOU=;7ZzL8T4kI+dDPICd0wsj4A=="
 ---
 

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Technology Trends in Healthcare in 2022"
-    excerpt: "The ongoing Covid-19 pandemic has reshaped the face of the healthcare system. Modern electronic equipment is making inroads in all spheres of medical science and improving our healthcare systems. New technologies and advanced medicines are being implemented to give people a healthier life."
-    publishedDateTime: 2022-05-31T20:18:00Z
-    webUrl: "https://news.tmcnet.com/topics/articles/2022/05/31/452482-technology-trends-healthcare-2022.htm"
+  - title: "PeaceHealth Providers File for Union Recognition"
+    excerpt: "Lee hopes being part of a union will give medical providers like him will have more of a voice regarding patient-provider ratios ... they delivered a letter to management petitioning for voluntary recognition so they could begin collective bargaining."
+    publishedDateTime: 2022-06-02T23:30:00Z
+    webUrl: "https://oregonbusiness.com/article/health-care/item/19584-peacehealth-providers-file-for-union-recognition"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: Oregon Business
+      domain: oregonbusiness.com
+    quality: 24
     images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-may/7866499491-lab.jpeg"
-        width: 1125
-        height: 750
+      - url: "https://adserver.oregonbusiness.com/www/delivery/avw.php?zoneid=22&cb=INSERT_RANDOM_NUMBER_HERE&n=aadccf32"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "EboCz3MM/r9DFD5BTmj1M5AHCFCQwjLqMgt3ROIPssrgLyZ11wRz2VN/LWQ4j8CNINITyKt2EKWQjXsN2BJ4AjEZBCImoWQFpypUuMOqoo2UDO9KISipJdXFQRBqkyA3UsJDcWg98nxdOrN7AGb1dkdyKwQWbN5F9+cypoNk9+lTjyWrMCCtB1zu6QtwfPQtKmeWED3yTpKdEDh4aMwMUayqh5ZbCb1CXlcUspkPiTcGIRLnPVRHBOg7o18ycCu9K56jofadJ/r/Hfk/MCqbWOkMqbgXLXhV97DsVkEYd0b/cO8HFPOoGLcQWX/l7K0Z+nlrGbG0wfJ/K+uyDoMwmbejd+18hExmCpPSgFgynV0=;f5NlPEkig08IO/vsmnMzjQ=="

@@ -2,17 +2,14 @@
 category: news
 title: "New Studies at ASCO 2022 Validate Effectiveness of Lunit AI as Diagnostic Aid in Cancer Treatment"
 excerpt: "Lunit to showcase 7 poster presentations and 4 online publications, the company's largest publication set at ASCO to date; Findings demonstrate the practical effectiveness of Luni"
-publishedDateTime: 2022-05-27T03:30:00Z
-originalUrl: "https://fox40.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/"
-webUrl: "https://fox40.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/"
+publishedDateTime: 2022-05-27T00:30:00Z
+originalUrl: "https://fox8.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/"
+webUrl: "https://fox8.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: FOX40
-  domain: fox40.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI
@@ -23,17 +20,6 @@ images:
     height: 294
     isCached: true
 
-related:
-  - title: "Syapse Unveils Two New Studies on Use of Machine Learning on Real-World Data to Identify and Treat Cancer With Precision at ASCO 2022"
-    excerpt: "Syapse®, a leading real-world evidence company dedicated to extinguishing the fear and burden of serious diseases by advancing real-world care, today announced two new studies focused on how the use of machine learning on real-world data can be used to power precision medicine solutions."
-    publishedDateTime: 2022-05-27T15:00:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8561124/syapse-unveils-two-new-studies-on-use-of-machine-learning-on-real-world-data-to-identify-and-treat-cancer-with-precision-at-asco-2022/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 0
-
-secured: "q1RUngHzzu2bR6OxqXJi4MSu0mEHCsrE+70utAYCnvG3/CaXQEhUqa7U1a+tlT1Je3XgQSdUCUgAXteH+slCA4GYIP2rRXJEAhkHIKAaKkHm4PnwJ2mAV87lQayunQEGK+h7iie7PZiwSs/AxxUaWhq06x8Ymj+MfQxr8q/eiEM6l/JzNOMQUgAz3zTvfJGviRFcFj5g1QVoUorCOOiSaD+jLfeuL741W7JwYGh935Q3x4GFhsdk3V/pwez2/tRWbFoLdsXhaBofTa0GeXkVVU0X3aiLMMkRcZnw5i0nYaQ+LnQ53AaY6fgzrCZMy2x6Q9vffYCzGkPllwx0lxhDLVw7O5lokAjtpXHhA6Bsm30=;PIiCTfRNTooC+x8MWqXAWg=="
+secured: "pSmgyTg0s55ot24wPo97B2SF4pN3P1FI+xrjsRsuSbGP8in2s7dIpGccKkxBzg73uvzfkROu3xAg6XB7tPbGDEXcKs8R1Szgub2Wh6WWjvM5dws5VDuuLHifc6dO5lXMUFDgVW/vMEumoeoBoVRwNmYywCrbhilkWp90upJEg/+fJmqVIDu0jeBsBxh60NZktuDy74jd2Xn9bMRexi7/Hwm0Vpw5ApE+tusG8fDMqmK3disUJo2St4RxeBTacy8ebAJ4MU5nny8zwTOp6rIAsuVBmRvulhDLUXu1e5DGstN+tACAZm6qgWGga04J8h1YWGDrDFX5n9aJI6hhqrVxCUk9E/PmQ3g01I6wI3M+n/0=;zaBFv2QaGIevOLoyhb3Cqg=="
 ---
 

@@ -2,6 +2,126 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-27-how-microsoft-plans-to-improve-the-low-code-landscape.md",
+      "title": "How Microsoft plans to improve the low-code landscape",
+      "excerpt": "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/",
+      "originalUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment.md",
+      "title": "New Studies at ASCO 2022 Validate Effectiveness of Lunit AI as Diagnostic Aid in Cancer Treatment",
+      "excerpt": "Lunit to showcase 7 poster presentations and 4 online publications, the company's largest publication set at ASCO to date; Findings demonstrate the practical effectiveness of Luni",
+      "sourceUrl": null,
+      "webUrl": "https://fox8.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/",
+      "originalUrl": "https://fox8.com/business/press-releases/cision/20220526CN71330/new-studies-at-asco-2022-validate-effectiveness-of-lunit-ai-as-diagnostic-aid-in-cancer-treatment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1827316/Lunit_SCOPE_IO.jpg",
+          "width": 400,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap.md",
+      "title": "Artificial Intelligence (AI) in Agriculture Market Report Shows Demand to Boost Industry Growth from 2022 to 2026| IBM, Intel, Microsoft, SAP, etc.",
+      "excerpt": "The Global “Artificial Intelligence (AI) in Agriculture Market” provides a comprehensive valuation of the market through in-depth understanding, accurate market growth, deep market analysis, evaluating past developments,",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/300975/uncategorized/artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap-etc/",
+      "originalUrl": "https://xaralite.com/300975/uncategorized/artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap-etc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-artificial-intelligence-platform-market-2022-report-covers-top-key-players-profiling-ayasdi-wipro-holmes-vital-ai-rainbird-meyaai-cisco.md",
       "title": "Artificial Intelligence Platform Market 2022 Report Covers Top Key Players Profiling – Ayasdi, Wipro HOLMES, Vital AI, Rainbird, Meya.ai, Cisco",
       "excerpt": "The recent report on “Artificial Intelligence Platform Market” offered by Credible Markets, comprises of a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business.",
@@ -591,7 +711,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -994,134 +1115,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ai-will-revolutionize-dentistrybut-only-if-we-free-our-data-first.md",
-      "title": "AI Will Revolutionize Dentistry—But Only If We Free Our Data First",
-      "excerpt": "We’re on the brink of a technological revolution that will bring dentistry into the 21st century. But we can only reach that point if we break down silos and logjams and set our data free.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628e3f96f806031d28cbc757/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/amp/",
-      "publishedDateTime": "2022-05-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-insurers-in-pursuit-of-autonomous-vehicle-answers.md",
-      "title": "Insurers in pursuit of autonomous vehicle answers",
-      "excerpt": "with its Autopilot capability and the significant progress of artificial intelligence (AI) technology in various domains — as well as the early overpromising of various vendors, including Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/analysis/insurers-in-pursuit-of-autonomous-vehicle-answers/",
-      "originalUrl": "https://www.just-auto.com/analysis/insurers-in-pursuit-of-autonomous-vehicle-answers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/05/NS3uC.png",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots.md",
-      "title": "Northwestern engineers invent the world’s smallest remote-controlled walking robots",
-      "excerpt": "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking",
-      "sourceUrl": null,
-      "webUrl": "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/",
-      "originalUrl": "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/",
-      "cdnAmpWebUrl": "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/",
-      "publishedDateTime": "2022-05-26T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7News Miami",
-        "domain": "wsvn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

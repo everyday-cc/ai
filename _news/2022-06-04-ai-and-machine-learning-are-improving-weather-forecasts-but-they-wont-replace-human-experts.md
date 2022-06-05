@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T01:15:00Z
 originalUrl: "https://heraldcourier.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_98eff607-c4cb-5482-ad7c-f80f8e05beb8.html"
 webUrl: "https://heraldcourier.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_98eff607-c4cb-5482-ad7c-f80f8e05beb8.html"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Bristol Herald Courier

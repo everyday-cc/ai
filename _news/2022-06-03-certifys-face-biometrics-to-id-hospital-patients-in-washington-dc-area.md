@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Consumer applications of face biometrics draw privacy lawsuits"
-    excerpt: "While different from the time-and-attendance systems alleged in so many BIPA lawsuits to have violated people’s privacy, the statutes in question are the same."
-    publishedDateTime: 2022-05-31T21:48:00Z
-    webUrl: "https://www.biometricupdate.com/202205/consumer-applications-of-face-biometrics-draw-privacy-lawsuits"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
   - title: "DHS details 2022 biometrics rally focused on group face processing"
     excerpt: "The U.S. DHS Science & Technology Directorate revealed specific information about the scenario for the 2022 Biometric Technology Rally."
     publishedDateTime: 2022-06-03T18:50:00Z

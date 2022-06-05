@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-05T10:00:00Z
 originalUrl: "https://www.motherjones.com/environment/2022/06/general-artificial-intelligence-technology/"
 webUrl: "https://www.motherjones.com/environment/2022/06/general-artificial-intelligence-technology/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

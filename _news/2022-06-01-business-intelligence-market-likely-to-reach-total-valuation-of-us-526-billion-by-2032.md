@@ -38,6 +38,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (AI) in military Market Research by Key Players, Type and Application, Future Growth to 2028"
+    excerpt: "The global Artificial Intelligence (AI) in military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
+    publishedDateTime: 2022-06-01T12:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-military-market-research-by-key-players-type-and-application-future-growth-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
 
 secured: "QMDigBiS24O+LDK4xJCsGwoWHH6v94xjSKSvgfiAt8ihqGjUCdMNoqZBY8Jl8UAc4rJidFAiNSV+8MDfzCqMLON3182/MMj+Uc8ltXANqx8rJ70cDuj0GlB2kGlINTtZxlHhQZ91gEhw1eNSk6SkC0vTOe7Bbo/x4CHxr9PWb/rNbJxmnxBO27TgG7cVS7IGYBmO3qChhvAvba8OzfjRiTAO82f9yKD48Ux1tHh6kcF69es/tjvzO83kCU1f9cme7lU3t71wTyTonpW+5jJIGrm2e25XsXTqxMnJtXgNAw6iyYY3jCzIYyVZdIwNpSS8U55/RpBI6pIty4zB5EHHBq7JFwuSeCDXVRvcOh74djc=;9nlPPjK6dBJLAKsf40ak1w=="
 ---

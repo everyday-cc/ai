@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/hans/education-careers/technical-tr
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
