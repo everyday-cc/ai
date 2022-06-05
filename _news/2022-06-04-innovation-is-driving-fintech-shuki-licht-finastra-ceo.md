@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements"
-excerpt: "With this new partnership, Identifee will embed Photon Commerce’s natural language AI API into its platform, allowing financial services organizations to create client specific"
-publishedDateTime: 2022-06-01T05:54:00Z
-originalUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/"
-webUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/"
-ampWebUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/amp/"
+title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
+excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
+publishedDateTime: 2022-06-04T08:08:00Z
+originalUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-drives-the-industry-shuki-licht-finastr"
+webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-drives-the-industry-shuki-licht-finastr"
 type: article
-quality: 50
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: fintechmagazine
+  domain: fintechmagazine.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://assets.bizclikmedia.net/1800/24c71345de77aec9ac814303f0a4806f:bc7561f1492cb253a864292e9bd39724/gettyimages-1152556266.jpg.jpg"
+    width: 1799
+    height: 1010
     isCached: true
 
 related:
@@ -57,6 +55,22 @@ related:
         width: 1280
         height: 994
         isCached: true
+  - title: "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements"
+    excerpt: "With this new partnership, Identifee will embed Photon Commerce’s natural language AI API into its platform, allowing financial services organizations to create client specific"
+    publishedDateTime: 2022-06-01T05:54:00Z
+    webUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/"
+    ampWebUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 50
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "The CFPB doesn’t want to play in the fintech sandbox anymore"
     excerpt: "Leaders at the regulator have concluded that a much-hyped “compliance assistance sandbox” and related programs were ineffective."
     publishedDateTime: 2022-06-02T17:22:00Z
@@ -87,20 +101,6 @@ related:
         width: 500
         height: 262
         isCached: true
-  - title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
-    excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
-    publishedDateTime: 2022-06-04T08:08:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-drives-the-industry-shuki-licht-finastr"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/24c71345de77aec9ac814303f0a4806f:bc7561f1492cb253a864292e9bd39724/gettyimages-1152556266.jpg.jpg"
-        width: 1799
-        height: 1010
-        isCached: true
   - title: "Tintra is turning fintech into fully operational bank, eyes licenses in four continents"
     excerpt: "\"Within the next three months or so we will be engaged with bank licence applications on three continents - something that I'm immensely proud of the team for undertaking - and by next year taking that up to four."
     publishedDateTime: 2022-05-31T14:05:00Z
@@ -120,6 +120,6 @@ related:
       domain: independent.com.mt
     quality: 4
 
-secured: "RvvMROQJBbn30kTC1+tI06oRLfN3CJYfgRjQT70khF/ZXshfUw9aOSNxmoK6klJfAgmfLIIl5X10rj4Yiy6x3t7PcC2GSD1llXdw9+uj4rcVGw+8DOmHFwoPMnrusxC1hRyqcT1OmONJBFCcG88QCXJvHGMSijZN85RCbU6rtC360GKs7zHSEoS9xPwDbKGmjIoTo9BcooiIKUvDJnP1vq7/Ne/jWoxR0ajSrKVPbIEAkvN9UKuGpndbR4Q+ewquioLZuiJ2QyPo40yVv/RYPtQa5G/IVWogCf0/Y5YDKR0Kkzp11/azHDV9nzGU8BNdxcmhUQ6r+LSbG+OLGGMYD/T5jxAU3LQW31i7vtJ3MunSkLa+DIe0PzPxrVjsxz8RNCOw3KOc61n/MTKrTxxVX4TpL9iq9drJdiHa8lo2TT2wouYa418yngnnipfI31Aq+2Kw0eNeBuzS50hzzRbkooPxQ/vwZssM7ZHw+8n2mg62++Bnrt21KO/VkEHHJONsfbGH7tdQce6end9tFV87xg==;ssfzoDJGRKwZBNmwki+V6g=="
+secured: "xnYUcxMibNYOgcdP7GAP2ETltcH2AKiUlxj7XYDF5R7eg8LLvSCdtc4qX5nuQN+sZ/z9hm2/Dzs6sUA0mV0jr5TBFrTpMZa1dtYNmvIkt5lNRzP3X8XynNx5qz9IX+Ok65HpXQAPWtXREWmDiKqFkrnc0YJrOtYVWoJezKnGymvbQV9Amz03q8TsV1xTzfJTL6DXZgQZkHzUq1LHeHtu5MwPQfZUtNizQHTyO+4meIkvwTZi7dDF0ncifmDXV4LTJ1th5p1b9NosHarf7lww+K3xrqV6VNswgpUDqXTWDSZScOCgmSr7opouWN6aUrysy3TXtvydSFeGRAd3NvLCycqn1IsDYFKyye1if7QNg4w=;1PDOKhuMZhHtng+ZByDcJg=="
 ---
 

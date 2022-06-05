@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
 type: article
 quality: 57
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "Cyber Security in Robotics Market Trends, Application Analysis and Growth by Forecast to 2022 – 2029"
-    excerpt: "Cyber Security in Robotics Market is slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the market size is projected to total US$ 7.2 Bn by 2029. A new market research report by Future Market Insights on cyber security in robotics market includes an industry analysis 2014-2021 and an opportunity assessment 2022-2029."
-    publishedDateTime: 2022-05-31T10:38:00Z
-    webUrl: "https://www.fmiblog.com/2022/05/31/cyber-security-in-robotics-market-trends-application-analysis-and-growth-by-forecast-to-2022-2029/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 36
   - title: "AI In Medical Devices Market Size, Share, Product, Industry Growth, Trend, Analysis By 2029"
     excerpt: "Research Nester released a report titled “AI in Medical Devices Market : Global Demand Analysis & Opportunity Outlook 2029″  whic"
     publishedDateTime: 2022-05-31T13:29:00Z
@@ -103,15 +94,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "Artificial Intelligence And Machine Learning Market Is Likely to Enjoy Remarkable Growth (2022-2027)"
-    excerpt: "Worldwide Artificial Intelligence And Machine Learning Market In-depth Research Report 2022, Forecast to 2027 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and tactical decision-making support (2022-2027)."
-    publishedDateTime: 2022-05-31T09:53:00Z
-    webUrl: "https://xaralite.com/357807/technology/artificial-intelligence-and-machine-learning-market-is-likely-to-enjoy-remarkable-growth-2022-2027/"
-    type: article
-    provider:
-      name: xaralite.com
-      domain: xaralite.com
-    quality: 23
   - title: "Global Artificial Intelligence Software Market 2022 - Product Type, Ongoing Trends, Competitive Insights and Worldwide Forecast to 2028"
     excerpt: "The Global Artificial Intelligence Software Market 2022 by Company, Regions, Type and Application, Forecast to"
     publishedDateTime: 2022-06-01T21:11:00Z

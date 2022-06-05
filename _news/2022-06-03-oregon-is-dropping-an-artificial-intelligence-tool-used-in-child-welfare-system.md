@@ -3,18 +3,18 @@ category: news
 title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
 excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
 publishedDateTime: 2022-06-02T17:12:00Z
-originalUrl: "https://www.kvpr.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-webUrl: "https://www.kvpr.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-ampWebUrl: "https://www.kvpr.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
-cdnAmpWebUrl: "https://www-kvpr-org.cdn.ampproject.org/c/s/www.kvpr.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
+originalUrl: "https://www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+webUrl: "https://www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+ampWebUrl: "https://www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
+cdnAmpWebUrl: "https://www-kgou-org.cdn.ampproject.org/c/s/www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Valley Public Radio
-  domain: kvpr.org
+  name: KGOU
+  domain: kgou.org
 
 topics:
   - AI
@@ -91,6 +91,6 @@ related:
       domain: knkx.org
     quality: 13
 
-secured: "RJeibZJmW1NZP9JCZyYTwBJpnpKlYpNCc6EQMq3pO4PgNOq1TuseWSGGdHX17Evg/DDsfMZMxBrZIqRySLTAi3No/v4i4zioUQOuwdIHtV+jFmfg9daImF42f6O+WazDPmCagTZZTnkEUNGexqKjIL4MDZwzxNNSg3MkbxLinB/FpOWTNS3PjiSZX2tY0NxRH0ctf8f92m8ecQPUY35tPEHGcaIkj7q/Ysv11+j9Egkn95Vt+LoaykS4nIDsEkjWK36MFY8sO1T8Z/l7lzbj3VKOa7smZVstdlNqkEIurboNPWPpZytm1CuKXBqrqcCMJwQYt7FVTj0Hi+mKyhl/fZQcJhfbzJSm6rylbekLziw=;hxHRUici2vrqk38zC/RAOA=="
+secured: "4f7PHCvaJvBt9kTFhkq1+zfWvX2mA995zlCtYjLJAQFEWAA3j9wqw+N1dAI8vyR+6hcpqYNL3/sSlsS2KFcLsPxgu9z8ZoHUHSj9hb8W/cY+5aDv/o2wpGTpEhb+Wa7Uy5Hc16rXkNDepEcxuiXEGLfmwnywA+t3twJIHeOkXGEz3tVRbWfipmRrkpV4WNlRB9Rfer6aRztp+8yzeaESClZGHoOnur5UfbIQyrY8mekrf/vJSUSKjJZZDW94+bAsuGQY+A4WJQ50jHV7urlt7SrCo1AF45v9+NTETIJE87hdonCijpDR6IODBXq/0KEp2vkI6iSoSuLuMHKs/yJS5x46/t30QC7KxmFS0j9JQHk=;U+aHRYG7K5uVDq3IaxGEsA=="
 ---
 

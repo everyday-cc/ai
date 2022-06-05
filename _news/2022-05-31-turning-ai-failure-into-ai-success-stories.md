@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing AI into day trading takes emotional bias out of the process"
-    excerpt: "The idea that machines may one day be able to think just as well as humans do — if not better — is not new. Artificial Intelligence, or AI, can already speak, understand emotions and even debate with human beings."
-    publishedDateTime: 2022-05-31T10:00:00Z
-    webUrl: "https://www.usatoday.com/story/sponsor-story/sunnyside-equity-holdings/2022/05/31/bringing-ai-into-day-trading-takes-emotional-bias-out-process/9946052002/"
+  - title: "Redefining success in business with Artificial Intelligence"
+    excerpt: "At the process point, the role of humans is to maintain ethics and integrity by responsible use of the machines. Read Also National Technology Day: Five ways in which Artificial Intelligence (AI) has made an impact on our... At the output level keep a ..."
+    publishedDateTime: 2022-06-03T01:31:00Z
+    webUrl: "https://www.freepressjournal.in/education/redefining-success-in-business-with-artificial-intelligence"
+    ampWebUrl: "https://www.freepressjournal.in/amp/education/redefining-success-in-business-with-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/redefining-success-in-business-with-artificial-intelligence"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 37
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
     images:
-      - url: "https://www.gannett-cdn.com/presto/2022/05/26/USAT/8e4723b5-5491-469b-b247-07c346e0d891-GettyImages-1323542329.jpg?auto=webp&crop=2120,1193,x0,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://gumlet.assettype.com/freepressjournal/2022-06/805ed11e-da5f-4b0c-ad73-127636127ed4/artificial.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 959
+        height: 582
         isCached: true
 
 secured: "4jbLjKeXWZ7Ilem1XLrfPxenJOw2UUgA+Snv3uNZK8hhs2WEoNMg+D0zCb6Ll1n6GDqkqG/hvFEv/wbqmUMgD5IUb1g5zqLwSnJRWoetBmzThuRcJpiDKbQaXQTFXRXGGs/c86A9aMt0uHTFLkv+OhlMxn+/X7IQVcPkoStJjb0ZAp0f9/TyKvWrwjeB4dEiAncLuakprZYcNoOY4IE8M90dYtbWVnB1y5n7QNPR5bh6Ik9rEs11L2BlBteHmMCd5smUvxrk4ExBFpQflxoF/Bf7c6HWR4s8i0zt8gRmcDCKk2zOSKDp3hUiZbBPAw+xm9QXIRemJNwQ+vwMmPgwf2N9ioVULSwbeWmdU+O5TJTDc+IKwpd6Max4c/vpEpz0mlahXuTA9R+RfYMUfBSnurvfklUbqQhRfGA8QqHM+eNu4olVYbXBFmTEdtNXr4B63lNbXT5qfw65YJur4h6f5PCskJOf89g0aAJTDSn30yxjg4mvFowqOUu/AkemjSsOTrIyEn04Nm7Sk7L2LGGuQQ==;B0MzmNHDoXUT1yX1tfuz8w=="

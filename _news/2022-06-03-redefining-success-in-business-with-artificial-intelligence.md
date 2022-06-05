@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "3 business solutions where AI is a good choice"
-    excerpt: "Now that AI is cheap and widely available, we often leverage it too often and for the wrong reason. Here's where cloud-based AI provides the most value."
-    publishedDateTime: 2022-05-31T10:06:00Z
-    webUrl: "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html"
-    ampWebUrl: "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html"
+  - title: "Turning AI failure into AI success stories"
+    excerpt: "AI implementations share a number of key characteristics. Rather than simply unleashing the technology first on one goal and then another in a linear fashion, which is the habit for most traditional technology initiatives,"
+    publishedDateTime: 2022-05-31T15:00:00Z
+    webUrl: "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/"
+    ampWebUrl: "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large-100928072-large.jpg?auto=webp&quality=85,70"
+      - url: "https://venturebeat.com/wp-content/uploads/2014/10/failure-success.jpg?w=1200&strip=all"
         width: 1200
         height: 800
         isCached: true

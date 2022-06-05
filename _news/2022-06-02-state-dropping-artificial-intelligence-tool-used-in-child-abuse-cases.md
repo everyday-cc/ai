@@ -59,13 +59,13 @@ related:
   - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
     excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
     publishedDateTime: 2022-06-02T17:12:00Z
-    webUrl: "https://www.kvpr.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-    ampWebUrl: "https://www.kvpr.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
-    cdnAmpWebUrl: "https://www-kvpr-org.cdn.ampproject.org/c/s/www.kvpr.org/npr-news/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
+    webUrl: "https://www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+    ampWebUrl: "https://www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
+    cdnAmpWebUrl: "https://www-kgou-org.cdn.ampproject.org/c/s/www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
     type: article
     provider:
-      name: Valley Public Radio
-      domain: kvpr.org
+      name: KGOU
+      domain: kgou.org
     quality: 53
     images:
       - url: "https://npr.brightspotcdn.com/dims4/default/d46db07/2147483647/strip/true/crop/4500x2772+0+105/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F02%2Fap22152597835977_custom-39b4163664f9c1f211f24f2e60c157a4a3c0286b.jpg"

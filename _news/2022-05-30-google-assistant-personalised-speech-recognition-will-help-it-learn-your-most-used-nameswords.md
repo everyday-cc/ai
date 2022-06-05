@@ -2,9 +2,9 @@
 category: news
 title: "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words"
 excerpt: "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report"
-publishedDateTime: 2022-05-30T08:25:00Z
-originalUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition"
-webUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition"
+publishedDateTime: 2022-05-30T08:37:00Z
+originalUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
+webUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
 ampWebUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
 cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "H7OhwXHfJfYstj9XkxR3NXv3KqRL3jO3rw9qoim4yALymsv+BVPiagIzFXgbwbR/pJohCqKewDype71dJ0ms3XSt34n7J4yb46RFVK5SMBNEkyZk37L5aq9ej4l1S4HRk3X6WeKx/4PhAvTD17BhET5h/vEljal8dqdcnUij8kdNgLN/6eJKUQm+UGnHihaBGqaZzrWKZ4guugQED8/N70eDXPPOel5lercoExlYDp7j/NWFfZ2i2ofXiDG6dakOYrE0GtG1dV2PQdvsTHMDg4ukrU1DogmTBJsFJKSPCT5k92s5GR1oWHUTqal0zy07SlcYJBhwGr6hMZHvSy/R/UZwr1PQ2+kEjGWiXFnP5J79Fwso1V7to+9oxVWTC1+o1JiGuSUCh2wqS+n0RgwQ4k2gyS0x7EsrEf0nvdEHvtsBJdtYoMuV/Jw3FL9cx3MgUhGTDqAdoa2kaPVrl8RrkBQzXYNArVBxvgaNu+WFi0vct5S+0YN5hC9hvGU3WmtU1JYTXxpVz/FxST+xwzslQA==;jeZXXBWw11I6lOc/jEUi3g=="
+secured: "SlN402r9m8CKpBll+mZ1kH2MWM0HoSVFRa4nDv/5ALkcOyUHY4dCDgz9XkPpwT59Wqf+KYXju6myx7XJk+VxQSiOblWN1noOGTRaHO1mK5zSWINXHxNS0p0iHwQ2Cg4NDiQS9NRptNIptxFothG2PMTRJiqKkYTRmuugQaKR3r7Crxezrv1ZA+bK+RvGFX26X85OFCt+/KxOYymr4WghAuyz0SuOQcY0nsbXUHSza920hMOs/1ClEO+22YCbvLAOllz/uzLhBw2+pFUkzNPpwWvWu5UaQQHcambBhPioLNYkQA9L2EWI4LZqGUkDqde4TfJ1WrTnkKVgppABrp7fUxetxkje2P0xnWF6tWqs4gM=;6FPzUynB3AEt+Mn8y7RvZQ=="
 ---
 

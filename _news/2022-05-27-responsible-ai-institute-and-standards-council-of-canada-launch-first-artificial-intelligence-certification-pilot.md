@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Responsible AI Institute and Standards Council of Canada Launch First Artificial Intelligence Certification Pilot"
-excerpt: "Responsible AI Institute (RAII), the leading non-profit dedicated to independent AI assessments and certification, today announced its partnership with the Standards Council of Canada (SCC) in a first-of-its-kind pilot to determine requirements for the development of a conformity assessment program for AI management systems."
-publishedDateTime: 2022-05-26T18:12:00Z
-originalUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/"
-webUrl: "https://www.wkrn.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/"
+excerpt: "AUSTIN, Texas, May 26, 2022 (GLOBE NEWSWIRE) -- Responsible AI Institute (RAII), the leading non-profit dedicated to independent AI assessments and certification, today announced its partnership ..."
+publishedDateTime: 2022-05-26T17:50:00Z
+originalUrl: "https://fox8.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/"
+webUrl: "https://fox8.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/"
 type: article
 
 provider:
-  name: WKRN
-  domain: wkrn.com
+  name: FOX8 Cleveland
+  domain: fox8.com
 
 topics:
   - AI
 
-secured: "yeqsJ1EfxcC3rKwy+UYFgaTe/vjS9WryULYLlCKQorCpO/K5qKbWGHPnWMrn/D2F/ByQ8ml+Z4SR+sXMqfzjifbQcxv90miaAqrsQiWfLLPBQZWCkm0UAWt2bfn1HK0Nb8fUZLhlm384hSN2vHTMq0OcP+QkUBGAtVmnVMlQMdf3roY6/6vCdEIcOBMWD60zTrGn7LgKlV78+VQrURLxGmtD79JXYsL5Eu3lp+ILKZW8hcuBtVYBsQcaSjdo+1lCFQCkGsLHgyLEjnvIWGCnA/pORCOiMCD/LDzU0TVw+TkEd9vmM9wFY9ZTLVMDUjX/UFWp+VSZwZZqjXXxMQOOc9pZGMBGT7KVUTCsvkzZ/5c=;sm3WKKL0rgVLVr2Aykow+w=="
+images:
+  - url: "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png"
+    width: 800
+    height: 340
+    isCached: true
+
+secured: "0kRInWRBIx8CR5YizOguJpcKRfMggyMf3uD57AOYkqTLyJK9sv8fNEiLMjoLKnyXpMIb2M5GrtXJafnxA3SuOGGm1wOI7pTe2+i0Fn7zzLL+H7OwKAUzr92nCzfp8ydxjnLEjdelbm6jeOTewnJKP95ZrERor4o7kgv4Bih+WBdbhkrqPcPa8AhDP9+U1xuU9gQZDtO7E5G2eliTFC5vmSp2Jt7+NltYNFP1pP83vePK6fZz3/jqivdZA8EJADWTyKER/4bpLgdL0TlvWGikBVz3dpFTyahhz9EmuZgVLET+pz9SxGPYRi5QEU172kT9VidzjWpBuzv8MWRD7uffkWkZJaeny9SHArxOjFemBR4=;5WaQlVDKSFfyCot8QElz+A=="
 ---
 

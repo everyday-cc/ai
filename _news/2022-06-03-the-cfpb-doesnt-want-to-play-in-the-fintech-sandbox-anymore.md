@@ -87,6 +87,20 @@ related:
         width: 500
         height: 262
         isCached: true
+  - title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
+    excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
+    publishedDateTime: 2022-06-04T08:08:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-drives-the-industry-shuki-licht-finastr"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/24c71345de77aec9ac814303f0a4806f:bc7561f1492cb253a864292e9bd39724/gettyimages-1152556266.jpg.jpg"
+        width: 1799
+        height: 1010
+        isCached: true
   - title: "Tintra is turning fintech into fully operational bank, eyes licenses in four continents"
     excerpt: "\"Within the next three months or so we will be engaged with bank licence applications on three continents - something that I'm immensely proud of the team for undertaking - and by next year taking that up to four."
     publishedDateTime: 2022-05-31T14:05:00Z
@@ -96,20 +110,6 @@ related:
       name: financefeeds
       domain: financefeeds.com
     quality: 11
-  - title: "AI in Fintech Analysis, Share, and consumption by Regional data, Investigation and Growth, Demand by Regions, Research Forecasts To 2030"
-    excerpt: "Global AI in Fintech Market to surpass USD 39.87 billion by 2030 from USD 8.9 billion in 2020 at a CAGR of 36.81% in the coming years, i.e., 2021-30. Fatpos Global added a new report into their database named “AI in Fintech Market Segments: By Component: Solution Services By Deployment: Cloud On-premise 2021–2031 Global Industry Perspective,"
-    publishedDateTime: 2022-05-31T09:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-analysis-share-and-consumption-by-regional-data-investigation-and-growth-demand-by-regions-research-forecasts-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 6
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Guns-USA-Mexico-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Impact-investing fintech opens Malta base"
     excerpt: "Prometheus Technologies is in the process of establishing a base in Malta and will benefit from the very high calibre of post-graduate talent in machine learning and investment research which is"
     publishedDateTime: 2022-06-01T12:41:00Z

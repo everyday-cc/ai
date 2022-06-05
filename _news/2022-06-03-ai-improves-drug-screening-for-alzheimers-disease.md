@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "KTU researchers investigate the links between facial recognition and Alzheimer’s disease"
+    excerpt: "In recent years Alzheimer’s disease has been on the rise throughout the world and is rarely diagnosed at an early stage when it can still be effectively controlled. Using artificial intelligence, KTU researchers conducted a study to identify whether human-computer interfaces could be adapted for people with memory impairments to recognise a visible object in front of them."
+    publishedDateTime: 2022-05-31T13:25:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/954269"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 10
 
 secured: "hEyDSR/gEGj3IY2Dbu459zTJzN5MBh5qZdBQIGdb3uwJfnfjHW+iBMDpBIXfnMtXftP18KWnzmqXRsFG4UuYiTOhkW/YyvfH7FdH5pQA1JR0i/EYy+TYvzTkM2rnUnIuzF43YilRO8lfur+52o6NINS27FNG83wemj/FKnQrXEHHkcj9AzZuV/ysCVF9H9eEQTpH/pu7RuopDf3qlsOZFz36G1yaIafrQ2nGe7LUZDYrJqAQ+DW0aFuTbm9fBcrsBlE/nDT//xnhJeT4aKvSwMA/AUX6oeNgiiQetIrMPFNg/4NGBtnTkWDgAXSijX5PvYOwmWwcnQf+92ohLmcyV2LAGdmNF/LN/Gglmk/bqsw=;Vgn4hrAnmU3p9rqAPM4TBA=="
 ---
