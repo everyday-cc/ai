@@ -68,6 +68,15 @@ related:
       name: The Free Press Journal
       domain: freepressjournal.in
     quality: 17
+  - title: "AI for the Metaverse – Bot Libre Mozilla Hubs Integration"
+    excerpt: "Bot Libre, an open-source chatbot and artificial intelligence platform for the metaverse, has introduced a brand new solution for business owners and metaverse enthusiasts.  The company has integrated its conversational chatbots onto the popular 3D platform Mozilla Hubs."
+    publishedDateTime: 2022-06-03T21:16:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-6-3-ai-for-the-metaverse-bot-libre-mozilla-hubs-integration"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 17
 
 secured: "fnuHOugAnaRbJwSjq+efg5/Em4sZ84VFP5cb/cEXuKoVZm9qeFZojv9RKCj8SmgieSUH9f8mKmGgsN8sywxgDxw2ODU/F4YW+f6TXk6eBUGuHtcmlSMV+WPQj6I1M0EP1CR0Ply893hQVLaNgISoQvLjv/qShbU7h2J2qDPgwleN32XPJctnsFkI1DhOGlIaRGZcrLeQfUNM1dPZmfeDK+Cq9oORKjtMYb3LwPW0feO7Qj8kurDk0ow6t0lGIfJeWCMCFXim47ENWfQu9dqM+TSnnRpV+d3YVOI94GlUptx06kbbIc3lthaz76S+ks7y0ypknYSbez3ktblU6tanOU/wjw0zvWatNy50B+aUeA8=;w0LeXc7vl9VzVh3A56fPOw=="
 ---

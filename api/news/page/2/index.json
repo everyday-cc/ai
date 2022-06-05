@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-03-ai-weekly-defining-debating-and-honoring-ai-innovation.md",
+      "title": "AI Weekly: Defining, debating and honoring AI innovation",
+      "excerpt": "It's the beginning of Pride month. At VentureBeat, it's also the beginning of a six-week-long deep dive into AI innovation, culminating in our 4th annual AI Innovation Awards.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/",
+      "originalUrl": "https://venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1370838355.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/amp/",
+      "publishedDateTime": "2022-06-02T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-elon-musk-says-tesla-may-have-a-working-humanoid-robot-prototype-by-sept-30.md",
+      "title": "Elon Musk says Tesla may have a working humanoid robot prototype by Sept 30",
+      "excerpt": "Elon Musk announced that Tesla might have a working prototype of Tesla Bot, the automaker's humanoid robot, by September 30th.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
+      "originalUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/01/elon-tesla-bot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/",
+      "publishedDateTime": "2022-06-02T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-automation-is-not-enough-buildings-need-ai-powered-smarts.md",
       "title": "Automation is not enough: Buildings need AI-powered smarts",
       "excerpt": "The importance of healthy workplaces, security and conservation makes developing reliable AI-based smart building systems urgent.",
@@ -621,7 +725,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1060,100 +1164,6 @@
         "name": "Barron's",
         "domain": "barrons.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-argo-ai-launches-driverless-vehicle-testing-in-austin.md",
-      "title": "Argo AI Launches Driverless Vehicle Testing in Austin",
-      "excerpt": "If you live in Austin, you could be sharing the road with driverless cars. Autonomous vehicle company Argo AI recently announced it's launched driverless vehicle testing in Austin and Miami.  The Argo test fleet is currently made up of the Ford Escape Hybrid and Volkswagen's all-electric ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines",
-      "originalUrl": "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/00/76/22548401/3/rawImage.jpg",
-          "width": 1200,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-google-bans-deepfake-generating-ai-from-colab.md",
-      "title": "Google bans deepfake-generating AI from Colab",
-      "excerpt": "In a recent policy change, Google has banned deepfake-generating AI projects from Colab, its platform for hosting and running arbitrary Python code.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/01/2328459/",
-      "originalUrl": "https://techcrunch.com/2022/06/01/2328459/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/01/2328459/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/01/2328459/amp/",
-      "publishedDateTime": "2022-06-01T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

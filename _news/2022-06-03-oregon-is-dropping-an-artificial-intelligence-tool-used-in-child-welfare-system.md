@@ -3,26 +3,24 @@ category: news
 title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
 excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
 publishedDateTime: 2022-06-02T17:12:00Z
-originalUrl: "https://www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-webUrl: "https://www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-ampWebUrl: "https://www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
-cdnAmpWebUrl: "https://www-kgou-org.cdn.ampproject.org/c/s/www.kgou.org/science-technology-and-environment/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
+originalUrl: "https://www.wbaa.org/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+webUrl: "https://www.wbaa.org/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: KGOU
-  domain: kgou.org
+  name: WBAA
+  domain: wbaa.org
 
 topics:
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/d46db07/2147483647/strip/true/crop/4500x2772+0+105/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F02%2Fap22152597835977_custom-39b4163664f9c1f211f24f2e60c157a4a3c0286b.jpg"
-    width: 880
-    height: 542
+  - url: "https://npr.brightspotcdn.com/dims4/default/3ff5ecf/2147483647/strip/true/crop/4500x2363+0+309/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F02%2Fap22152597835977_custom-39b4163664f9c1f211f24f2e60c157a4a3c0286b.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -105,6 +103,6 @@ related:
       domain: knkx.org
     quality: 13
 
-secured: "ehffcX412tel7SWJKkQcnTaOqZXr5O13cLT1I9gaNwL5NBf05hvBjPEGCDq0cboTqW8TmDB6i7wttt0Bb5ewJO9IB7u9E/Ad/xe1Ziwzq/kzkxWLl0Lw893tJPgwQ48FB3MIcmXDtxsOioCdS/DuRd4o5v1yn++RXVUTozPcsWbkoAB42CTcTURMZb8PlYedqd6FcGYNL3jBNvFxhBYx9CZx6Gagmj2+7Dcn5VFS7skUX/Hx40vGMfaPV8gEP++KwlmZZTp4M5twBPBClVhaZyniAny73Ji4IqhnoTAsJcg/rt4LwJZl3sVqgVIcppriMyLgdJTmtikZw6D95mopo32Opx5v0GDCilko7ZFD6JRWEDq1ee3Mx7aKKo08GMjGaSJb/wyFMxKE6AAJ7ghOmPcD4qS94a/SUo79eTCLD4X3sW47vLVOfBd+k3dD50dtAy7AWci4OQ3kvFxYgKSxkzA0g5eOqy5haYOrigTAwKQHSOqWP2RhRR2H7OcPTVUZDqFjziyJ1JGZf6XTXuOHbw==;T/rbUWm/VSRxdLdAk0neew=="
+secured: "msWg/N9R4t0vv7LnGbiDqJK8htU8sLLj90oO3bvey9dq9+R+b6ObsDQEUXxjhlmgnEJdzZ0OnRuog5hSLM6sCjCPB6rpjts7JCHwPDAYF/+KJF5ggFF8gAhWMDMNNZzpX3q6m5+pxeT+gCmqUeThZldFdjQwriBBwPcfu9kGSsG/BjXfLursEptqMIVsb56T1Ox87OkDIeO2TeOnZBoSnXoMUdXzxXNXpI8HYQnauGvViPF1NeH4cOk1TuUL/d92PLxXAW4U12xm4qgn0LF3o8xINRz8Q2gu0HHKLXQEG/XE0Yv4nUsFHJN98KV+vYl0DXQlE8DHSerFneKVfSWVyb4fzOiIGfbCGG49Rnjf1l8=;oU/QbWOT4ZWdDlAqQq1Yfg=="
 ---
 

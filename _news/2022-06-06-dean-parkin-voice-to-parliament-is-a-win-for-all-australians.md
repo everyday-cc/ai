@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-05T19:01:00Z
 originalUrl: "https://www.couriermail.com.au/news/opinion/dean-parkin-voice-to-parliament-is-a-win-for-all-australians/news-story/6d1ecac4a74dde1f76beeb3224e38096"
 webUrl: "https://www.couriermail.com.au/news/opinion/dean-parkin-voice-to-parliament-is-a-win-for-all-australians/news-story/6d1ecac4a74dde1f76beeb3224e38096"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Courier-Mail

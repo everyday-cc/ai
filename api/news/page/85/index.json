@@ -2,6 +2,101 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-03-23-chinas-quest-for-greater-technological-self-reliance.md",
+      "title": "China’s Quest for Greater Technological Self-Reliance",
+      "excerpt": "But what is driving this pursuit of self-reliance, especially for China ... world of e-commerce by leapfrogging from cash to cashless payment systems. Alibaba, Baidu, and other PRC firms are also active in cutting-edge artificial intelligence research.",
+      "sourceUrl": null,
+      "webUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
+      "originalUrl": "https://asiasociety.org/australia/chinas-quest-greater-technological-self-reliance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asiasociety.org/sites/default/files/styles/1200w/public/2021-03/Bates%20Gill%20essay%20-%20Made%20in%20China%20chip%20-%20ROMSVETNIK-%20shutterstock.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia Society",
+        "domain": "asiasociety.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-23-chinas-tech-giants-are-getting-into-the-autonomous-car-business.md",
+      "title": "China's tech giants are getting into the autonomous car business",
+      "excerpt": "Google and Tesla are squaring off against each other for the future of self-driving cars, so it's no surprise to see China's tech giants follow suit. Both Tencent and Baidu have announced that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2015-03-23-electric-cars-in-china.html",
+      "originalUrl": "https://www.engadget.com/2015-03-23-electric-cars-in-china.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/JsSbMqhYxiu6d.Njma6X9g--~B/aD00MTc7dz02Mjg7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/129056d5a7296d29e02ac68d9ca7db83/200513002/google-car-1.jpg",
+          "width": 628,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-23-microsoft-claims-new-ai-model-architecture-improves-language-translation.md",
       "title": "Microsoft claims new AI model architecture improves language translation",
       "excerpt": "Microsoft claims that its new model architecture, Z-code Mixture of Experts (MoE), improves language translation quality.",
@@ -1035,92 +1130,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-nvidia-unveils-latest-chip-to-speed-up-ai-computing.md",
-      "title": "Nvidia unveils latest chip to speed up AI computing",
-      "excerpt": "Nvidia Corp on Tuesday unveiled its latest new graphic chip (GPU), dubbed the H100, saying it will increase the computing speed of artificial intelligence algorithms that increasingly require more power to execute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/03/22/nvidia-unveils-latest-chip-to-speed-up-ai-computing",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/03/22/nvidia-unveils-latest-chip-to-speed-up-ai-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/03/22/1524082.jpg",
-          "width": 800,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-byjus-appoints-former-facebook-tech-lead-majid-yazdani-as-vp-byjus-lab-to-scale-research-and-innovation-vertical.md",
-      "title": "BYJU’S Appoints Former Facebook Tech Lead Majid Yazdani as VP, BYJU’S Lab to Scale Research and Innovation Vertical",
-      "excerpt": "BYJU’S, the world’s leading edtech company, today announced the appointment of Majid Yazdani as Vice President at BYJU’S Lab to propel and further shape the future of education. Working on personalisation and other AI applications to the education sector,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-united-kingdom-4ae59948ea474eba9dada964129826d0",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-business-europe-united-kingdom-4ae59948ea474eba9dada964129826d0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

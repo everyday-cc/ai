@@ -2,6 +2,84 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-27-precision-medicine-in-stroke-towards-personalized-outcome-predictions-using-artificial-intelligence.md",
+      "title": "Precision Medicine in Stroke: Towards Personalized Outcome Predictions Using Artificial Intelligence",
+      "excerpt": "Following modern rhythms, the next revolution might well be the strategic use of the steadily increasing amounts of patient-related data for generating models enabling individualized outcome predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/973222",
+      "originalUrl": "https://www.medscape.com/viewarticle/973222",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-simpleshow-explainer-videos-powered-by-artificial-intelligence.md",
+      "title": "simpleshow Explainer Videos Powered by Artificial Intelligence",
+      "excerpt": "We all know that artificial intelligence (AI) will have a significant impact on our future. In reality, we can see that AI is already operational in our daily lives and at work. Self-driving cars, vacuum cleaner robots, image analysis, and virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/",
+      "originalUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-26T20:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-how-microsoft-plans-to-improve-the-low-code-landscape.md",
       "title": "How Microsoft plans to improve the low-code landscape",
       "excerpt": "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals.",
@@ -949,40 +1027,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-26-intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace.md",
-      "title": "Intrado Offers Mosaicx Conversational Artificial Intelligence on Google Cloud Marketplace",
-      "excerpt": "Intrado Corporation, a global leader in technology-enabled services, today announced Mosaicx, its conversational artificial intelligence (“AI”) solution, is now available on Google Cloud Marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs17.com/business/press-releases/globenewswire/8560731/intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace/",
-      "originalUrl": "https://www.cbs17.com/business/press-releases/globenewswire/8560731/intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS17 Raleigh",
-        "domain": "cbs17.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-26-managing-disaster-and-disruption-with-ai-one-tree-at-a-time.md",
       "title": "Managing disaster and disruption with AI, one tree at a time",
       "excerpt": "Ingesting loads of fine-grained data helps, but it's not enough to make fine-grained predictions. You need domain expertise too, and that's what AiDash is applying for its Disaster and Disruption Management System.",
@@ -1034,63 +1078,12 @@
       ]
     },
     {
-      "path": "_news/2022-05-26-top-7-ways-to-cultivate-creative-excellence-with-ai.md",
-      "title": "Top 7 Ways to Cultivate Creative Excellence with AI",
-      "excerpt": "Today's world of work is moving fast, and the most successful leaders have a laser focus on the future, one in which change is constant and inevitable. And as technology and automation continue to transform the way we work,",
+      "path": "_news/2022-05-26-intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace.md",
+      "title": "Intrado Offers Mosaicx Conversational Artificial Intelligence on Google Cloud Marketplace",
+      "excerpt": "Intrado Corporation, a global leader in technology-enabled services, today announced Mosaicx, its conversational artificial intelligence (“AI”) solution, is now available on Google Cloud Marketplace.",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426406",
-      "originalUrl": "https://www.entrepreneur.com/article/426406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652821115-GettyImages-454204749.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts.md",
-      "title": "AI and machine learning are improving weather forecasts, but they won’t replace human experts",
-      "excerpt": "Would you trust a weather forecast made by a machine that had learned how weather systems behaved by reviewing thousands of past weather maps?",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts-182498",
-      "originalUrl": "https://theconversation.com/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts-182498",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1100,11 +1093,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T05:25:00-07:00",
+      "publishedDateTime": "2022-05-26T06:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1114,7 +1107,6 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

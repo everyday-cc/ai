@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI: The next frontier for credit unions"
+    excerpt: "Artificial Intelligence (AI) and machine learning will undoubtedly transform every industry, but lending presents a unique opportunity to disrupt the"
+    publishedDateTime: 2022-06-03T07:45:00Z
+    webUrl: "https://www.cuinsight.com/ai-the-next-frontier-for-credit-unions/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 37
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/06/bigstock-Artificial-Intelligence-Ai-Bu-443739650.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "D9j/Unyocl4xmGjYKMxOrtPMcly5680tAwV2vNj9kwZg/SC/uQ9gcdEk26hpnpfH0+N32K8i/Nhahy0PUCrT3P93Mi/rJStx4sTi9hkt1vjJRu0cKDC5ni6POIIWc+J4Ynm7HC2uFM1WZpRgo76Ggf8T+bPxf0m1QGH6L8Cts2IYl0N5FDH0+/WT1V5yHuE8Be13GHx4FQb8P3k4W8DSfpBsppliI762jItIF3YKKxa3awKByDGxiWfAejBweVJ5pbaoRkRjzIk85eBRwTc+H1MUnr4LysVpuyIfAhuvlwkwF+/Kf0ATMZ0PLqAN8ApJSMQjidRN6yQFLmYxKIvIHF3rnCtuBqU+WX5s2HZEiQw=;FbBo8MfbYHP7DkKBsI0L8w=="
 ---

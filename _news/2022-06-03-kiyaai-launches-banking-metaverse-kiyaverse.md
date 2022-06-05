@@ -69,6 +69,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 17
+  - title: "AI for the Metaverse – Bot Libre Mozilla Hubs Integration"
+    excerpt: "Bot Libre, an open-source chatbot and artificial intelligence platform for the metaverse, has introduced a brand new solution for business owners and metaverse enthusiasts.  The company has integrated its conversational chatbots onto the popular 3D platform Mozilla Hubs."
+    publishedDateTime: 2022-06-03T21:16:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-6-3-ai-for-the-metaverse-bot-libre-mozilla-hubs-integration"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 17
 
 secured: "37eFsdGSODwbQLaapgwqh1WF5wtttK4YnP/i9tmttzfB3K5De6LQZOSjGLgdJdqbAAZJb5eYQL1tbkdxQfF1BDb9kw4TSbu1KkJbY6+OZ9O4Z5XcQak70lV5DegjApNA4/GajSqeJiCyy3AoPrbncGX+WcEaCDhlzYqxexDwt6RQI1PCJdqm89nvWKkpbGyrv2cnr/DDVmmUp0ckl7ZBIhO0hxgpFRszZkybippHC4Cc+mplx6gx4Im6gl9ymA3kw3ClhCX4WMgCLhCz9zPNN98a9r7ihlYbCFnVymRJn4QLf5B0b3cOXP46EVcpjtVyXvmZCBBzeMs0K3aP7ZpcfhNHEqRXR0fhVH7urm/tBCZmbp7hYpGR7LmxUyb8Yg9iyxKAVj4e/bEQnE0xbWqgO0uussPkRaVHb7ZDDiCvTn9dxhVwx1nknmBibsqtmAfaUZqjju7Cbhl810K0J76hD4aI9TTJQfK0ZjhRIMxcO8gBz6/KZOQK4AtoZx1wcmFBj7V4mbE8afnrBmpPE6BG/Q==;StON173xDB4ugF92mD7uNg=="
 ---

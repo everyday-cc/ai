@@ -2,6 +2,110 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-04-01-times-technology-went-straight-up-evil.md",
+      "title": "Times Technology Went Straight Up Evil",
+      "excerpt": "Technology is meant to make our lives easier, and most of the time it does. But there have been instances when technology doesn't go as planned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
+      "originalUrl": "https://www.slashgear.com/818151/times-technology-went-straight-up-evil/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/times-technology-went-straight-up-evil/l-intro-1648759618.jpg",
+          "width": 1600,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-01-better-learning-through-complex-dough-manipulation.md",
+      "title": "Better learning through ‘complex dough-manipulation’",
+      "excerpt": "A disproportionate number of the early industrial food-making robots we’ve seen have been focused on pizza. I’ve long posited that this is for two key reasons. First: People like pizza. We eat a lot of it.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/",
+      "originalUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/MIT-DiffSkill-01-PRESS_0.jpeg?w=900",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/31/better-learning-through-complex-dough-manipulation/amp/",
+      "publishedDateTime": "2022-03-31T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-01-new-citi-field-entrance-option-facial-recognition.md",
       "title": "New Citi Field entrance option: Facial recognition",
       "excerpt": "Mets fans will have the option of registering for facial recognition technology to enter Citi Field in lieu of showing a mobile ticket.",
@@ -1033,102 +1137,6 @@
       "provider": {
         "name": "cio.economictimes.indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-are-we-ready-to-transform-lives-with-ai.md",
-      "title": "Are We Ready To Transform Lives With AI?",
-      "excerpt": "AI has paved the way for dynamic changes at the workplace and in personal life, by automating a host of processes and activities",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/423551",
-      "originalUrl": "https://www.entrepreneur.com/article/423551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1648708439-Myproject141.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-siri-cant-speak-irish-tackling-the-digital-gaps-for-the-irish-language.md",
-      "title": "Siri can't speak Irish: Tackling the digital gaps for the Irish language",
-      "excerpt": "“This type of language AI doesn’t exist for Irish,” she continues ... For example, machine translation systems need to have first seen huge amounts of previously translated text that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/",
-      "originalUrl": "https://www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.thejournal.ie/article/5725794/listing/?width=600&version=5725876",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/?amp=1",
-      "cdnAmpWebUrl": "https://www-thejournal-ie.cdn.ampproject.org/c/s/www.thejournal.ie/minority-languages-digital-equality-5725794-Mar2022/?amp=1",
-      "publishedDateTime": "2022-03-30T22:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheJournal.ie",
-        "domain": "thejournal.ie",
         "images": null,
         "publishers": null,
         "authors": null

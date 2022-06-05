@@ -81,6 +81,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Financial Analytics Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
+    excerpt: "According to IMARC Group latest report titled \"Financial Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
+    publishedDateTime: 2022-06-03T13:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/financial-analytics-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top 8 predictive analytics tools compared"
     excerpt: "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot."
     publishedDateTime: 2022-06-01T09:46:00Z
@@ -113,20 +127,6 @@ related:
       name: WTVW
       domain: tristatehomepage.com
     quality: 8
-  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
-    excerpt: "Corelight, the leader in open network detection and response (NDR), announced Corelight Investigator, a SaaS-based solution that extends the power of open-source driven network evidence to SOC teams everywhere."
-    publishedDateTime: 2022-06-01T03:29:00Z
-    webUrl: "https://pipelinepub.com/news/Corelights-New-Platform-Delivers-Open-Source-Powered-Network-Evidence"
-    type: article
-    provider:
-      name: pipelinepub
-      domain: pipelinepub.com
-    quality: 5
-    images:
-      - url: "https://media.pipeline.pubspoke.com/files/issue/260/cover/OSS-BSS-Automation.gif"
-        width: 500
-        height: 647
-        isCached: true
 
 secured: "M1bd7g/HWGj2MkwEzTTF7Gx4Y2nBIg8WDTfihhhdkZFOYKBn81NhKDMqowBK4XR3ftNNwfgcyZDpVRXRuPN4au+gfSH/iOP1iYPZAJN6bCESy0fDP9k3owocdPMaXkB8lViQnnSbep6s6pKsoNr9aiyXKRuZypxAnSdv5lJVF3M8sG7N+zVzopl211xTuhnQHPyJ0NDzJJchKOQH4XiCGdYTpNam7KFIUexmE5mM5NfeSZ1ucWr5mkVaPV9bmEGqzPfojpfit5gaNxewh9R58B8Ru7GuiwHf+MVPqmKsi5jeBmdxJc4eqDuhHUFqFX7jUWgcRgspZHwrz5zQ5uBc8LGESkhIgJ2zDoIErHO4Ddw=;kQV4NhnnwMq1rdHbKLd8xg=="
 ---

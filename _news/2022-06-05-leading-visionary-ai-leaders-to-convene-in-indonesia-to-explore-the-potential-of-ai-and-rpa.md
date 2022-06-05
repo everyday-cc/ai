@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-05T15:26:00Z
 originalUrl: "https://www.asiaone.com/business/leading-visionary-ai-leaders-convene-indonesia-explore-potential-ai-and-rpa"
 webUrl: "https://www.asiaone.com/business/leading-visionary-ai-leaders-convene-indonesia-explore-potential-ai-and-rpa"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Asia One

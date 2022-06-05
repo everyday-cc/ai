@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Study shows AI deep learning models can detect race in medical imaging"
-excerpt: "Most of us have experienced some form of medical imaging, whether it was at an eye appointment or after a broken bone. These images might contain more information than meets the eye. Things artificial intelligence can detect."
-publishedDateTime: 2022-05-24T21:57:00Z
-originalUrl: "https://www.wxyz.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
-webUrl: "https://www.wxyz.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+excerpt: "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ..."
+publishedDateTime: 2022-05-25T00:25:00Z
+originalUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+webUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging"
+ampWebUrl: "https://www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging?_amp=true"
 type: article
 
 provider:
-  name: WXYZ Detroit
-  domain: wxyz.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "GPk5Ye3QxmB3GtKmsKcQJ38wW1E1BiN5uBhzjlwHb4sGXGZVY+fGxGdj7uBlra/QFgqTu2rvDzjF7qluItqL+mypJLA+IVGUeTR2ylvizJfPOlCPd1/mT6+/4p9mv0bUipmPuoI2NtIS3r3wrI47iaaQUw9CASuR0qzkJlD8e5qB3Fi2C7BddTZGT9JzXwjCD5ngw5mJv/0PKB1IclEV1C9mzN9og1dOyBZrvpObKnii/ss6smjd8jc+/C2s+A0eZhBtuvHQ3sbVkrUPHKhHjIKSnxbz425qBo3LL7IpZzjuqBwcQEh8PxiTRpsgG+rNCNrIPeSMQjxNsDWxvUb8iipoJlWE4p//LdmzazoKG3Ddn8A0Jx7nsPpxPomXWC9izYi00nTjA7fcImGzSiYL6NOQiHjfqAnRobu0WHd1FlYsEZXLmsbIHBa+DvZXYekRZbKrnuMb2eWc5Ghyrf+pC5wnBPw11xOJmazjj/KMKylVfu1BubKQsoootanaE0P8rd3fL+ykSRva5eDNKy3OGA==;7O78lffQB+m0/duEC4SA/g=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/aeccbfd/2147483647/strip/true/crop/3253x1830+13+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F11%2F96%2Febe196d94b7d93668a2f406ee2ff%2Fstudy-shows-artificial-intelligence-deep-learning-models-can-detect-race-in-medical-imaging.png"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "RCl+4TFcZYTEIyIvnRvOk81zVap1pSdlRRYn7c5Egqu60DJ7fGoykt8/9Ot6MppfTqNZSLd5ZDRz+65YSJcGISj6SFaZqjaUZ03l9TLfrZTDv7mDIiqAMESB2PLlsr3l5nbHhPQExJ64xW4YCOwbopLdRDk8slVNNiVufnEMs9++yNn36c7p2/T6dzUsmM656t08Wq5rsQ5B+zgluM2TBYFL/+fxgGy9J8WXA45ix6gXGfedaIq2D4MSph/C2j4tZGuMyjlXANFWl8L4VdAZQlbrk601eEsB2tpeZQdDH8wZym/jhuWkCuGqNnN2ABMWmljiiuGs/mMXCp10TL/5jF/SkelFRXQzemYxjIOONW8=;P/NJzoqbL5oNsr2hVUUexQ=="
 ---
 

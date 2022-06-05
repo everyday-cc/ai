@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-pred
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/13911960-16x9-large.jpg?v=4"
         width: 700
         height: 394
+        isCached: true
+  - title: "AI: The next frontier for credit unions"
+    excerpt: "Artificial Intelligence (AI) and machine learning will undoubtedly transform every industry, but lending presents a unique opportunity to disrupt the"
+    publishedDateTime: 2022-06-03T07:45:00Z
+    webUrl: "https://www.cuinsight.com/ai-the-next-frontier-for-credit-unions/"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 37
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2022/06/bigstock-Artificial-Intelligence-Ai-Bu-443739650.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "G5hM6XU5bOBtO9S/vxwxImUqLPO49k9tZaBnYXs49KGSuriztSUGcnA6G6aoeu1lNgS3gKVFhN501uogenhzjKWPlqnwpDxrX9Duh6XmOz/RdZfSTKL3uecdcDauQq20oqeBSbr8UAXiTDQ2UAfOZ7JjSF3tTLdqF2fiGON5Bk4KcqY5SDRVYWGMRNpMJmDM/o52JP++ICXmEMNVWyBu2RU1kbEe/Ojbi6TarSXHYOH6VlJaxFId1n9QZHrZ7xiYNAU9SZQk3+APtng3euQ3U19zvARVNGNViLMyGvPiUZrEUxImtqjNhd4vFxkA3BfuMxSFFWj8uxdhUz/TTX2W7rq2Yl+MeQE2aEO4KECfJfywZhYwElNvFKPAibZahFCsGOMXvJEzYl6EzBzOYao5521ltd5w32glT1l07Sihc0br2Ja/RzAf6IKSzqWsonLiH8M39Yy0ip4VECi8rIshxyBPFbE8kDdLFeCTEIHg+k01gVJR4elOctuTcZzgB4w5+3KjsB3cMqnIfCKxlFbJiA==;pdR5YAfzA9f/6Nes9MurMQ=="

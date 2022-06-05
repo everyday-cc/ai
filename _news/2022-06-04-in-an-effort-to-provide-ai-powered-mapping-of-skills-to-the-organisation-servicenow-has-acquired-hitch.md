@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/in-an-effort-to-provide-ai-powered-mappi
 webUrl: "https://bestgamingpro.com/in-an-effort-to-provide-ai-powered-mapping-of-skills-to-the-organisation-servicenow-has-acquired-hitch/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "ServiceNow reveals plans to acquire AI-based skills tracking vendor Hitch Works"
+    excerpt: "Cloud-based business workflow platform provider ServiceNow Friday unveiled the planned acquisition of Hitch Works, a developer of AI-powered skills mapping and intelligence technology. With the acquisition,"
+    publishedDateTime: 2022-06-05T20:20:00Z
+    webUrl: "https://www.crn.com.au/news/servicenow-reveals-plans-to-acquire-ai-based-skills-tracking-vendor-hitch-works-580919"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 33
+    images:
+      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_iStock-1173020463.jpg"
+        width: 1253
+        height: 836
+        isCached: true
   - title: "ServiceNow To Expand AI-Based Skills Tracking With Planned Hitch Works Buy"
     excerpt: "By Joseph F. Kovar June 03, 2022, 03:18 PM EDT Cloud-based business workflow platform provider ServiceNow Friday unveiled the planned acquisition of Hitch Works, a developer of AI-powered skills mapping and intelligence technology. With the acquisition ..."
     publishedDateTime: 2022-06-03T19:21:00Z

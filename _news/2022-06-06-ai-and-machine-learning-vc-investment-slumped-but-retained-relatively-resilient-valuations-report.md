@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-05T18:28:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/06/191907-ai-and-machine-learning-vc-investment-slumped-but-retained-relatively-resilient-valuations-report/"
 webUrl: "https://www.crowdfundinsider.com/2022/06/191907-ai-and-machine-learning-vc-investment-slumped-but-retained-relatively-resilient-valuations-report/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Crowdfund Insider
