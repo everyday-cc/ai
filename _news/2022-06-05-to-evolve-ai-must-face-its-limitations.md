@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-04T18:49:00Z
 originalUrl: "https://thenextweb.com/news/ai-must-face-its-limitations"
 webUrl: "https://thenextweb.com/news/ai-must-face-its-limitations"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI
   - AI Hardware
   - Computer Vision
+  - Natural Language Processing
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b"

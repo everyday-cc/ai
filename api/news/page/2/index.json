@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
-      "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
-      "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
-      "originalUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/rebellions_ION-1.png?w=680",
-          "width": 680,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
-      "publishedDateTime": "2022-06-02T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-06-03-lenovo-looks-to-bring-ai-intelligence-to-the-edge.md",
       "title": "Lenovo looks to bring AI intelligence to the edge",
       "excerpt": "Among the many vendors eyeing a piece of the artificial intelligence (AI ... NX platform and integrates with the Amazon Web Services (AWS) Panorama service for AI computer vision (CV) processing ...",
@@ -62,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -158,7 +106,7 @@
       "originalUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -347,7 +295,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1154,6 +1102,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-ai-robotics-autonomous-vehicle-zettascale-spins-out-from-adlink-tttech-auto-investor.md",
+      "title": "AI, robotics, autonomous vehicle – ZettaScale spins out from ADLINK, TTTech Auto investor",
+      "excerpt": "ZettaScale Technologies has raised a strategic investment from TTTech Auto. The investment marks the start of a strategic partnership between the two companies that will result in the creation of the first European implementation of Data Distribution Service (OMG DDS) that is certified for use in series cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsit.com/articles/2022/06/01/ai,-robotics,-autonomous-vehicle-–-zettascale-spins-out-from-adlink,-tttech-auto-investor",
+      "originalUrl": "https://www.logisticsit.com/articles/2022/06/01/ai,-robotics,-autonomous-vehicle-–-zettascale-spins-out-from-adlink,-tttech-auto-investor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.logisticsit.com/assets/image-cache/files/images/02_06_22/publicpreview.php.7fa9aa46.jpg",
+          "width": 650,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing & Logistics IT Magazine",
+        "domain": "logisticsit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Can machine learning deliver one-minute brain MRI scans?"
-    excerpt: "With help from a machine-learning algorithm, a quantitative technique called MR fingerprinting could make a one-minute clinical brain MRI scan a reality"
-    publishedDateTime: 2022-05-31T09:00:00Z
-    webUrl: "https://physicsworld.com/a/can-machine-learning-deliver-one-minute-brain-mri-scans/"
-    type: article
-    provider:
-      name: Physics World
-      domain: physicsworld.com
-    quality: 54
-    images:
-      - url: "https://physicsworld.com/wp-content/uploads/2018/06/AuntMinnieEurope-big.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "AXRAWJfpLm1mo7uGprxRaV0Qqi78U4o2T1qLIUv9XoYcv1RsX2KP6bR+NaG9Zxb7tx7W98FqrYxfCOZoZFlu9RZdOSovi5w5r1hCOKk9wC486uHQrsgb3PepXUGbgM//MV5F+tEewSFJ+M6wjS0lDg/fsKS5a6ygHLoVzUcmoewwLKNaCGGf1M6+uFkHxGVodkldJalPDkXcW96M8/Gj0pcUceZsXX1BIB2FDvzX2H+vpiryEHRkO3H19p2+xxOWc+/1Rk4Ve+MbDmoVNpgjZEkRNFsRtbKwx3FRkiW6zxG6+aVO02eIZPTv4QXGZkLboNBjjc9H00wu6ChqDjeTupts6ZCckstdtEs5fALoV7LeSBK4P5nHb1qTQpy3l5tZLEApvtJc0w10ukQrdGNNG2vqEtxcSJ83i6v/x0jbAOYBMfVwRAhE3OG9/oGM+6qPkkaPjVSZmf3UNnoAO7g8gcDsMTAn0jGQoma3sTJY5gDVVAtqBzJjHJFv5T+1sL3ejw8DsvcM4y3m+eQhtGqHng==;iPuqO/hiXloUNsVFPPo2eg=="
 ---

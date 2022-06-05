@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-17-customize-pronunciation-using-lexicons-in-amazon-polly.md",
+      "title": "Customize pronunciation using lexicons in Amazon Polly",
+      "excerpt": "Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to synthesize natural-sounding human speech. It is used in a variety of use cases, such as contact center systems, delivering conversational user experiences with human-like voices for automated real-time status check,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/17/customize-pronunciation-polly.jpg",
+          "width": 1000,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T08:36:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-singularity-systems-named-a-star-performer-in-everest-groups-intelligent-document-processing-idp-peak-matrix-assessment-2022.md",
       "title": "Singularity Systems Named a Star Performer in Everest Group's Intelligent Document Processing (IDP) Peak Matrix® Assessment 2022",
       "excerpt": "Singularity Systems, a leader in intelligent document processing (IDP), today announces it has been recognized as a Star Performer in the IDP market, one of only four vendors from a total field of 36,",
@@ -1334,58 +1387,6 @@
         "name": "Salina Post",
         "domain": "salinapost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign.md",
-      "title": "Australians urged to back Indigenous voice to parliament in History is Calling campaign",
-      "excerpt": "First Nations leaders call for referendum to ‘do what 1967 didn’t do, which is empower our people’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "originalUrl": "https://www.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/54a124c6ee6fb27ba5b4c87e40effc7fc66bd3ed/0_0_5472_3648/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=37022ba83f8197df5fe0ab92dac90c17",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "publishedDateTime": "2022-05-08T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

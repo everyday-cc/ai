@@ -14,6 +14,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png"

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-26-kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code.md",
+      "title": "Kyrgyzstan to King’s Cross: the star baker cooking up code",
+      "excerpt": "My day can vary, it really depends on which phase of the project I'm on. Let’s say we want to add a feature to our product – my tasks could range from designing solutions and working with the team to find the best one, to deploying new features into production and doing maintenance. Along the way, I’ll",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
+      "originalUrl": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628f550a5c25a7d58313bca8_aliyah-3.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent.md",
       "title": "Report: 92% of HR leaders plan on using AI to acquire talent",
       "excerpt": "Armed with valuable data insights, HR leaders can use AI to augment their processes and build a future of work that's intelligent by design.",
@@ -286,49 +338,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
-      "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
-      "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
-      "publishedDateTime": "2022-05-25T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-26-nvidia-our-gpu-inventories-are-nearly-back-to-normal.md",
       "title": "Nvidia: Our GPU Inventories Are Nearly Back To Normal",
       "excerpt": "In another sign the GPU shortage has abated, Nvidia is reporting the company’s product inventories are almost back to normal. “Channel inventory has nearly normalized and we expect it to remain around these levels in (fiscal) Q2,",
@@ -428,6 +437,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
+      "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
+      "excerpt": "Artificial intelligence (AI ... with their revolutionary study where they trained a deep convolutional neural network (CNN) to classify 1.2 million high-resolution images in the ImageNet LSVRC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic15154.jpg?itok=t8TeVLMb",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202205/ai-deep-learning-predicts-cancer-scans-lung-nodules?amp",
+      "publishedDateTime": "2022-05-25T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1120,40 +1172,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-artificial-intelligence-ai-in-medical-insights-and-upcoming-business-opportunities-2022-2030nvidia-intel-ibm.md",
-      "title": "Artificial Intelligence (AI) in Medical Insights, and Upcoming Business Opportunities 2022-2030|NVIDIA, Intel, IBM",
-      "excerpt": "Artificial Intelligence (AI) in Medical Market Prime Factors And Competitive Outlook 2022-2030. Market.biz has published another report named Artificial Intelligence (AI) in Medic",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/262043/business/artificial-intelligence-ai-in-medical-market-growth-and-new-developments-2022-2030/",
-      "originalUrl": "https://xaralite.com/262043/business/artificial-intelligence-ai-in-medical-market-growth-and-new-developments-2022-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

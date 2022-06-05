@@ -2,6 +2,142 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-03-24-plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence-center-award.md",
+      "title": "PLUS3 IT SYSTEMS TO EXPAND DATA ANALYTICS AND ARTIFICIAL INTELLIGENCE CAPABILITIES WITH JOINT ARTIFICIAL INTELLIGENCE CENTER AWARD",
+      "excerpt": "Plus3 IT Systems, LLC (Plus3 IT) is pleased to announce it has been awarded a Basic Ordering Agreement (BOA) from the Joint Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plus3-it-systems-to-expand-data-analytics-and-artificial-intelligence-capabilities-with-joint-artificial-intelligence/article_2d4a8a12-262e-52dd-af5b-a24bcacffdff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-cagr-of-227-cleaning-robot-market-size-to-hit-usd-3494-billion-in-2028-says-brandessence-market-research.md",
+      "title": "CAGR of 22.7%, Cleaning Robot Market Size to hit USD 34.94 Billion in 2028, Says Brandessence Market Research",
+      "excerpt": "The Cleaning Robot Market Value is expected to record a valuation of USD 34.94 Billion by 2028, Registering to Accelerate at a 22.7% CAGR, According to the most recent study by Brandessence Market Research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cagr-227-cleaning-robot-market-size-hit-usd-/2022/03/24/9570077.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cagr-227-cleaning-robot-market-size-hit-usd-/2022/03/24/9570077.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-24T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-24-ai-can-make-us-more-human-heres-how.md",
+      "title": "AI Can Make Us More Human: Here’s How",
+      "excerpt": "Even though it may sound counterintuitive, when used responsibly, AI has the potential to help organizations get more personal and do better for their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623b26993128a10083ba50ab/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/24/ai-can-make-us-more-human-heres-how/amp/",
+      "publishedDateTime": "2022-03-24T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-israels-ourcrowd-to-open-global-ai-innovation-and-research-center-in-abu-dhabi.md",
       "title": "Israel’s OurCrowd to open global AI innovation and research center in Abu Dhabi",
       "excerpt": "Investment firm to launch financial service-focused operation in Emirati capital; Israel-UAE ties warm but flow of investments slower than expected, says company official",
@@ -1016,144 +1152,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now.md",
-      "title": "GOOGL Stock News: 4 Biggest Headlines That Alphabet Investors Should Know Now",
-      "excerpt": "Earlier this month, Waymo received permits from the California ... Sandbox operates as a quantum computing and artificial intelligence (AI) company. It was founded in 2016 as an independent ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/",
-      "originalUrl": "https://investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/goog1600f.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/03/googl-stock-news-4-biggest-headlines-that-alphabet-investors-should-know-now/amp/",
-      "publishedDateTime": "2022-03-23T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry.md",
-      "title": "Amazon launches AWS for Games, dedicated products and services for the gaming industry",
-      "excerpt": "AWS, Microsoft and Google are all stepping up their pitches to game developers and publishers as the industry grows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/af25c7eda187b9b71e922f0678484a7966af3102/2022/03/23/5a956e2a-eafc-4896-8d6f-c2324413032e/awsforgames.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-launches-aws-for-games-dedicated-products-and-services-for-the-gaming-industry/",
-      "publishedDateTime": "2022-03-23T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-spectrum-labs-creates-guardian-for-games-to-safeguard-player-experience-in-the-metaverse.md",
-      "title": "Spectrum Labs Creates Guardian for Games to Safeguard Player Experience in the Metaverse",
-      "excerpt": "Spectrum Labs, a leading artificial intelligence (AI)-based content moderation platform, announced today it has created a version of its Guardian product purpose-built for Gaming communities. As the industry faces the challenges and opportunities of nurturing safe and inclusive communities as the next era of the Internet emerges,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-a460f100bde545e19aef4d6672a4f838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

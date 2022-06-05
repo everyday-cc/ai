@@ -50,6 +50,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Can the 'Gato' AI model out-perform human intelligence?"
+    excerpt: "This so-called \"general-purpose\" AI model can reportedly perform more than 600 different tasks. And, in many of these tasks, the AI might even perform better than a human being. Could Deepmind have built the first general-purpose artificial intelligence model,"
+    publishedDateTime: 2022-06-05T01:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/05/can-the-039gato039-ai-model-out-perform-human-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/03/1609537.jpg"
+        width: 1240
+        height: 697
+        isCached: true
 
 secured: "z93yHp1jlnBDsBkf3urC19NYL13YFw90oXjArZrjuWJy9gISAA7UKwd1FNz4dPEuLEDKhbbPS8sRJmiuyLnU3PNwYRHN28ZJfO7FYVxvW88IaYSvHeqGBM7/3oHwiRtrKCcL2nhtcgFA5RsXFD0KwnmZO63eMqx+MaTnY3cMSdkFtXpphVAdCjPjUBe7EEnKqQ0ilPvkHHguljClUrllvVi4fJSnJjttKuw7h0a9+NUO0hr1lVa6LHkGBlq0EqhvmP4PiguFhNian7A4IIs8qU1wx3DKaZ3b0Ewnhjf1mQObkntNxX1kzxqUJeSJ6ZumHszYKvnxLxyEKRoEtsZeJQx2D+mx9aCGERuPvbYg0zc0OK9xVbyxIRryztPjDY21vPgav3B0GkyGiaarMbsjW3eb7EBBXl9HM+M4L+u9QczgDpRGzHjVnkdE8vQ4CiFzAJ+pKtjpiO8PPyQUKKaKPdH06i28njmzun32je33y8oWFHuyPEBUWxe+EPX/PRE4QO1xmUFegwNllO8D7n4OVA==;QSu4t0RygxKfu9DPzP3pag=="
 ---

@@ -34,6 +34,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Orange Business Services Launches AI Monitoring for IT Performance"
+    excerpt: "Orange Business Services is forging ahead in IT performance monitoring with the launch of Service Manage-Watch, a global supervision solution for network services and applications for both Orange-provided and third-party services."
+    publishedDateTime: 2022-06-02T02:46:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/25282-orange-business-services-launches-ai-monitoring-for-it-performance"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/6402d726ae0716c4f0f6748cfdd6e6b2.jpg?t=20220602_024427"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "Jhd36vQG8sGRv51vq8HZtIA1YQoig4oIacz53PPFREc2za32LCD054rth9ZxH98/bSylzfkGBZQn8zmm5af+vEIKYdREB/rOvX8mOt7VtQwHuG4m2fsx1qvqTQxrliMP4NefH/iE9+oNeTa2BgX+uJBxAo8KAprdJ5coc+p3nW6XDuCX/9lW5958T471RX4kjVxHpUJEaYlKNNRrF2b8dNSiV6GlHdviGHi/pasXFCN7XQ5JTcxgd5BE7bWNkIQDHQjxHEQz0LezaBuRudPhzbh5MQ4bHRlXq3REEovEb3zcjl38wQJhSzyeiiGDwiX/VPzNa8lVV0aZP9kkaiDAsXGARPtm9gk73cKBy/5/K60=;94jDl9V8FjQ+g1JqL8cqMA=="
 ---

@@ -2,6 +2,135 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-04-21-artificial-intelligence-in-manufacturing-market-worth-163-billion-by-2027-at-cagr-of-479.md",
+      "title": "Artificial Intelligence in Manufacturing Market worth $16.3 billion by 2027, at CAGR of 47.9%",
+      "excerpt": "Industrial robots generate a huge amount of data ... The key players operating in the artificial intelligence in manufacturing market NVIDIA (US), IBM (US), Intel (US), Siemens (Germany), General Electric (US), Google (US), Microsoft Corporation (US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-manufacturing-market-worth-16-3-billion-by-2027-at-cagr-of-47-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-manufacturing-market.jpg",
+          "width": 635,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-ai-is-already-learning-from-russias-war-in-ukraine-dod-says.md",
+      "title": "AI Is Already Learning from Russia’s War in Ukraine, DOD Says",
+      "excerpt": "Less has been said about the use of artificial intelligence in the Ukraine war than, say, anti-tank missiles, but the Pentagon is quietly using AI and machine-learning tools to analyze vast amounts of data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnas.org/press/in-the-news/ai-is-already-learning-from-russias-war-in-ukraine-dod-says",
+      "originalUrl": "https://www.cnas.org/press/in-the-news/ai-is-already-learning-from-russias-war-in-ukraine-dod-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/tanks.jpg?mtime=20180403141757&focal=none",
+          "width": 1024,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNAS",
+        "domain": "cnas.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-21-are-there-robot-proof-jobs.md",
+      "title": "Are There Robot-proof Jobs?",
+      "excerpt": "Robots work well in perfectly controlled environments, such as factories and warehouses, and not in ad hoc environments like your aunt Sue’s attic. Forest rangers and electricians are a couple of jobs like this that come to mind, but there are many more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/are-there-robot-proof-jobs",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/are-there-robot-proof-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/FourthAgeCover.jpg",
+          "width": 1400,
+          "height": 2113,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-healthcare-artificial-intelligence-market-2022-share-size-trend-growth-analysis-and-forecast-to-2027.md",
       "title": "Healthcare Artificial Intelligence Market 2022 Share, Size, Trend, Growth Analysis and Forecast to 2027",
       "excerpt": "and IBM Watson Health are some top-notch players in the healthcare artificial intelligence market that are listed by MRFR. The healthcare artificial intelligence market can be segmented based on ...",
@@ -998,134 +1127,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-neurotechnologys-fingerprint-recognition-algorithm-maintains-number-one-ranking-in-nist-pft-iii-evaluation.md",
-      "title": "Neurotechnology's Fingerprint Recognition Algorithm Maintains Number One Ranking in NIST PFT III Evaluation",
-      "excerpt": "Neurotechnology's fingerprint algorithms have continued to outperform all others in the NIST Proprietary Fingerprint Template (PFT) evaluations since 2019. VILNIUS, Lithuania, Apr",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220420SF28430/neurotechnologys-fingerprint-recognition-algorithm-maintains-number-one-ranking-in-nist-pft-iii-evaluation/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220420SF28430/neurotechnologys-fingerprint-recognition-algorithm-maintains-number-one-ranking-in-nist-pft-iii-evaluation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1799159/PFT_III_20_04_2022.jpg",
-          "width": 400,
-          "height": 221,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-arcannaai-introduces-ai-assisted-cybersecurity-platform-for-the-global-market.md",
-      "title": "Arcanna.ai Introduces AI-Assisted Cybersecurity Platform for the Global Market",
-      "excerpt": "Arcanna.ai scales SOC teams' expertise to reduce risk, increase capacity and retain institutional knowledge NEW YORK, April 20, 2022 /PRNewswire/ -- Arcanna.ai today announced general availability of its AI-Assisted Cybersecurity platform that captures and merges institutional expert knowledge with organizational context for generating specific,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arcanna-ai-introduces-ai-assisted-cybersecurity-platform-for-the-global-market/article_f470e99d-8494-5fef-bcf2-407bb61896b9.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/arcanna-ai-introduces-ai-assisted-cybersecurity-platform-for-the-global-market/article_f470e99d-8494-5fef-bcf2-407bb61896b9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/28/b2880aa0-991c-5f01-bfd5-3f0e8b60752e/625ffa45a0a82.image.jpg?crop=992%2C521%2C853%2C0&resize=992%2C521&order=crop%2Cresize",
-          "width": 992,
-          "height": 521,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders.md",
-      "title": "AWS Impact Accelerator Launches with $30 Million for Startups Led by Underrepresented Founders",
-      "excerpt": "(NASDAQ: AMZN), today announced it has committed more than $30 million to early stage startups led by Black, Latino, LGBTQIA+, and women founders as part of its new AWS Impact Accelerator. Over the three-year commitment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-impact-accelerator-launches-with-30-million-for-startups-led-by-underrepresented-founders/article_33fefe3c-aea7-5fda-aa3c-2485ab914bb1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-20-meet-the-finance-finalists-in-the-2022-itnews-benchmark-awards.md",
+      "title": "Meet the finance finalists in the 2022 iTnews Benchmark Awards",
+      "excerpt": "Today, we announce the three financial services finalists in the 2022 iTnews Benchmark Awards: Commonwealth Bank’s execution health score using machine learning to assess project health Westpac ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/video/meet-the-finance-finalists-in-the-2022-itnews-benchmark-awards-578913",
+      "originalUrl": "https://www.itnews.com.au/video/meet-the-finance-finalists-in-the-2022-itnews-benchmark-awards-578913",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/Videos/Finance_thumb.JPG",
+          "width": 1152,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-20-how-to-defend-the-financial-sector-against-cybersecurity-threats.md",
       "title": "How To Defend the Financial Sector Against Cybersecurity Threats",
       "excerpt": "By Moshe Hayun, threat intelligence team leader at Deep Instinct The financial sector is going through a period of rapid innovation. Crypto, open banking and the digital payments revolution are reshaping the industry,",
@@ -1243,49 +1286,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks-fintech-companies.md",
-      "title": "Gupshup acquires Active.Ai, a leading conversational AI platform for banks & fintech companies",
-      "excerpt": "Active.Ai serves BFSI customers across 43 countries with a Conversational Banking as a Service (CBaaS) platform that helps clients engage with millions of consumers every month. The acquisition strengthens Gupshup's customer experience (CX) solutions for banking,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm",
-      "originalUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2021/03/mergernacquisition2-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/business/companies/gupshup-acquires-activeai-a-leading-conversational-ai-platform-for-banks--fintech-companies-13052812.htm/amp",
-      "publishedDateTime": "2022-04-05T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

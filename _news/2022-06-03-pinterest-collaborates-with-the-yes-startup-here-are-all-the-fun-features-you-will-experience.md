@@ -53,6 +53,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Pinterest acquires AI shopping startup 'The Yes'"
+    excerpt: "THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO, Amit Aggarwal, a tech industry veteran."
+    publishedDateTime: 2022-06-03T11:50:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91986699,imgsize-107315,width-1200,height-628,overlay-etbrandequity/pinterest-acquires-ai-shopping-startup-the-yes.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "ServiceNow acquires Hitch to bring AI-powered skills mapping to the enterprise"
     excerpt: "ServiceNow is to acquire Hitch Works, an AI-powered platform that helps enterprises plug the talent gap through skills mapping."
     publishedDateTime: 2022-06-03T13:00:00Z
@@ -62,20 +78,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
-  - title: "Pinterest acquires AI shopping startup 'The Yes'"
-    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum. THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO,"
-    publishedDateTime: 2022-06-03T05:20:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 37
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_040622_spwi.jpg"
-        width: 402
-        height: 251
-        isCached: true
   - title: "Pinterest agrees to acquire AI shopping platform"
     excerpt: "Pinterest (PINS) has agreed to acquire an AI-powered shopping platform, THE YES.Financial terms of the deal were not disclosed.Founded in 2018 by CEO Julie Bornstein and CTO"
     publishedDateTime: 2022-06-02T20:21:00Z
@@ -118,6 +120,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Pinterest acquires AI-powered shopping platform The Yes"
+    excerpt: "The Yes’s technology enables people to shop a personalized feed based on their input on brand, style, and size."
+    publishedDateTime: 2022-06-03T13:31:00Z
+    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2022/06/pinterest-ai-powered-shopping-platform-the-yes.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "Rm8HDFwAQZSjVhbhdhvYtMf4i6MW+1ToR90smcV0u4s0l5k7SfvdGukgl0LQO9yuH/Icyctf7lzQXjo/MrPKny5uUG6ftA6xPPW/Pw1d3bqsf9LZoFlHaY+nyWpfg1BXYTL19iGOZePcCNgIJvTCzZNFEVTdOvw48m0GpJMr1BikFXrejNv0uVl0R+4Eiwf6QHTynDoyIzrYnTBP8tgsRHA6vaPnVoNoItMbzAOlY685gEM81hZQm7C3v777KDM5BET5eMLClbbL3Vaauogc18MNxpBLATw8sb73wzLtaztb5H7KCKx+5BdJBYebh8PYmyj068gaXbz/pHWbKB4RPGKefDUaJgq1lCQA8Y4yqEE=;ac0DnGuTbkfEDf3ZEbXYSQ=="
 ---

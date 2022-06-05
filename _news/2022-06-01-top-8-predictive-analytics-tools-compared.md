@@ -96,22 +96,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Data Analytics Startup Synaptic Raises $20 Mn Funding To Help Investors Make Better Decisions"
-    excerpt: "Data analytics startup Synaptic was originally spun out of Vy Capital in 2016 by its founders, Anurag Abbott and Rohit Razdan"
-    publishedDateTime: 2022-05-31T08:39:00Z
-    webUrl: "https://inc42.com/buzz/data-analytics-startup-synaptic-raises-20-mn-funding-to-help-investors-make-better-decisions/"
-    ampWebUrl: "https://inc42.com/buzz/data-analytics-startup-synaptic-raises-20-mn-funding-to-help-investors-make-better-decisions/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/data-analytics-startup-synaptic-raises-20-mn-funding-to-help-investors-make-better-decisions/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 46
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/05/Synaptic-social.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Synopsys Launches the Era of Smarter SoC Design with ML-Driven Big Data Analytics Technology"
     excerpt: "Driving greater design productivity by harnessing previously untapped design insights with machine learning technology, Synopsys, Inc. (Nasdaq: SNPS) today announced a critical expansion of its EDA data analytics portfolio with the introduction of Synopsys DesignDash design optimization solution."
     publishedDateTime: 2022-06-01T14:05:00Z

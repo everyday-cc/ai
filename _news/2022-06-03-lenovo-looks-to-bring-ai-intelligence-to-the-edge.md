@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intellig
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn4.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2022/06/03/20968.jpeg&w=800&q=100&f=jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "Can the 'Gato' AI model out-perform human intelligence?"
+    excerpt: "This so-called \"general-purpose\" AI model can reportedly perform more than 600 different tasks. And, in many of these tasks, the AI might even perform better than a human being. Could Deepmind have built the first general-purpose artificial intelligence model,"
+    publishedDateTime: 2022-06-05T01:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/05/can-the-039gato039-ai-model-out-perform-human-intelligence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/03/1609537.jpg"
+        width: 1240
+        height: 697
         isCached: true
   - title: "Unanimous AI and Agora World partner to bring Swarm Intelligence to the Metaverse"
     excerpt: "Swarm AI® technology empowers collaborating groups in virtual worlds to amplify their collective intelligence and generate more accurate decisions, forecasts, evaluations, and assessments. Swarm Intelligence, the science behind Swarm AI ® technology ..."

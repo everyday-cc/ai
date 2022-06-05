@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-debuts-grace-and-grace
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-debuts-grace-and-grace-hopper-superchips-for-hpc-and-ai-workloads/amp/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1945
     height: 1112
     isCached: true
-
-related:
-  - title: "Nvidia launches Grace and Grace Hopper Superchips for HPC and AI"
-    excerpt: "Nvidia introduced the Grace CPU Superchip and the Grace Hopper Superchip for high-performance computing and artificial intelligence. The chips were"
-    publishedDateTime: 2022-05-31T08:39:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/80022/nvidia-launches-grace-and-grace-hopper-superchips-for-hpc-and-ai/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/01/Nvidia-1.png"
-        width: 1500
-        height: 800
-        isCached: true
 
 secured: "oNXkTFFJFptxhPmhD/H+eReyclwMG27MQ6Ey265nGJrBlXQFMSjGKqv5/28lRtjnqP3q/vl0eFDqnkT3RYZ1HJi3wiAFhLMK2yEtur9Qk4lScEaqrtQ0xj+7S0NvTLVI7/S4CzMGZ1TqfDrK9jHdmVH8RvFOnPBZL9Zqvo82A0hgbJsgShhQpHKgjWqSuRpHYmRhIdcNX/cB5+fr0LlH+UZxqIhiA48cCjkiUOM9e5iHb+zRaW/llHUrAIi7WLZtGzI/RHkFiTcsmsSOZZfoKjLhvqT1pxRqh5QD7NfUlV9EYHkuavcd/T5hc/CU1AejJQbPtUknc8Yqfv1yPcbs7gyGACRMW5yXmH6rDyKjYLU=;b2imJQIy48kETyifZ2IgUA=="
 ---

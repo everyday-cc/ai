@@ -2,6 +2,93 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-16-local-robotics-team-finishes-competition-season-with-stellar-showing.md",
+      "title": "Local robotics team finishes competition season with stellar showing",
+      "excerpt": "The Titanium Titans robotics team, which offers STEM competition and community to Washington County youth, recently finished its tenth season with a stellar showing at two regional competitions.",
+      "sourceUrl": null,
+      "webUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.html",
+      "originalUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/observer-reporter.com/content/tncms/assets/v3/editorial/4/3d/43d33fd8-bc2b-11ec-9731-6f55b7bbde32/6258798ee1bc0.image.jpg?resize=1024%2C640",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.amp.html",
+      "cdnAmpWebUrl": "https://observer--reporter-com.cdn.ampproject.org/c/s/observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.amp.html",
+      "publishedDateTime": "2022-04-15T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer-Reporter",
+        "domain": "observer-reporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-16-a-robot-to-top-up-your-tesla.md",
+      "title": "A Robot To Top Up Your Tesla",
+      "excerpt": "Everything is controlled ... While robot won’t be winning any interior design contests, it does the job well, and adds a bit of convenience and peace of mind.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
+      "originalUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/06/2021-06-21-3.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving.md",
       "title": "Tesla's Optimus Robot Could Arrive As Soon As EV Full Self-Driving",
       "excerpt": "During Tesla Inc's (NASDAQ: TSLA) most recent earnings call, CEO Elon Musk laid out expectations for achieving full self-driving in 2022, but he",
@@ -1258,93 +1345,6 @@
       "provider": {
         "name": "graffiti",
         "domain": "culturacolectiva.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-lanner-movai-partner-to-expedite-mobile-robot-development.md",
-      "title": "Lanner, MOV.AI partner to expedite mobile robot development",
-      "excerpt": "Collaborative solution to provide both the machine vision computing and software platform developers need to build and deploy mobile robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/lanner-mov-ai-partner-expedite-mobile-robot-development/",
-      "originalUrl": "https://www.therobotreport.com/lanner-mov-ai-partner-expedite-mobile-robot-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/mov-ai-lanner-electronics.jpg",
-          "width": 1000,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-teaching-robots-to-make-pizza-could-advance-ai-and-out-pizza-the-hut.md",
-      "title": "Teaching Robots To Make Pizza Could Advance AI And Out Pizza The Hut",
-      "excerpt": "Researchers at MIT are developing a new AI method that will allow robots to think more like a human as it makes pizza",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "originalUrl": "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/58174/content/pizza-making.jpg",
-          "width": 708,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
-      "publishedDateTime": "2022-04-05T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null

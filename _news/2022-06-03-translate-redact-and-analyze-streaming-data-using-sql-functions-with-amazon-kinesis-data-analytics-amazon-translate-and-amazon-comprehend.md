@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and
 webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/"
 type: article
 quality: 101
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -86,22 +86,6 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2022/06/shutterstock_2072431601-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Data Analytics Startup Synaptic Raises $20 Mn Funding To Help Investors Make Better Decisions"
-    excerpt: "Data analytics startup Synaptic was originally spun out of Vy Capital in 2016 by its founders, Anurag Abbott and Rohit Razdan"
-    publishedDateTime: 2022-05-31T08:39:00Z
-    webUrl: "https://inc42.com/buzz/data-analytics-startup-synaptic-raises-20-mn-funding-to-help-investors-make-better-decisions/"
-    ampWebUrl: "https://inc42.com/buzz/data-analytics-startup-synaptic-raises-20-mn-funding-to-help-investors-make-better-decisions/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/data-analytics-startup-synaptic-raises-20-mn-funding-to-help-investors-make-better-decisions/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 46
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/05/Synaptic-social.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Top 8 predictive analytics tools compared"
     excerpt: "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot."

@@ -41,20 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Naspers Takes A R40 Million Bet On FinTech Platform Empowering Financial Advisers"
-    excerpt: "Naspers (JO: NPNJn ), through its early-stage tech investment vehicle Naspers Foundry, announced a R40 million ($2.5 million) investment in LifeCheq, a FinTech platform empowering financial advisers to provide quality,"
-    publishedDateTime: 2022-05-31T08:47:00Z
-    webUrl: "https://za.investing.com/news/naspers-takes-a-r40-million-bet-on-fintech-platform-empowering-financial-advisers-2563693"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 19
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
 
 secured: "I9YEFM9dUYIEe7JDt3qV1ybXojwHG1S4R9Qs7of1SuxPGcsxtcLkHB4RZA5UJyq1qD7lHRdLorpAik/Fe14JB+8hRPJ6mQOuYQaWgOIskxyVpRC16vNPQvNfXpCGdMOXGepTi/KLGCHDplhHDIVR9bMp0vgvN5YJs4v0rQTS5BmHLypU6e0IfiqMUkbU5KK6ylH6aWd7t7rxngCOonTJHckD4zPT4lRORBATRoGh2vn1tw8h2K7OjX52yGkARNXijLSawewDUFaynAE0wA+tcx4krEGBNkBvHPJNpuiZkLWV+tZ8kwAOjTZ+d3tkiZDKqy+o27cDPeFahskDkTxpKhED5siqsGM5lHT0pv7GIT+F2AHG5MxMYwMiyzpOutQbpNuHIJC3foTXDDb8yA8bIGkaV+tzk0qpG9SJdXTdn43Ww4uu3CXU04t/CKYgkrNACDR9fRl5U+fV8KFukvlh7/W1IWwo6Sr30GWoedTNo3JLX/iehosFzhwuM0FZ2R5HBizTrigijNQh6uwqO0NK7Q==;ayDlDlkT5bPSAtlNcLk0JQ=="
 ---

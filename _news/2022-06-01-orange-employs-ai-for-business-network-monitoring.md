@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-em
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-employs-ai-for-business-network-monitoring/amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Mobile World Live
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Orange Business Services Launches AI Monitoring for IT Performance"
+    excerpt: "Orange Business Services is forging ahead in IT performance monitoring with the launch of Service Manage-Watch, a global supervision solution for network services and applications for both Orange-provided and third-party services."
+    publishedDateTime: 2022-06-02T02:46:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/25282-orange-business-services-launches-ai-monitoring-for-it-performance"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/6402d726ae0716c4f0f6748cfdd6e6b2.jpg?t=20220602_024427"
+        width: 752
+        height: 408
+        isCached: true
   - title: "NEC deploys AI-based traffic monitoring system with fiber-optic sensing tech"
     excerpt: "NEC Corp has deployed an AI-based traffic monitoring system to Central Nippon Expressway Company Limited (Nexco Central). The system uses fiber-optic sensing and AI technologies to visualize traffic conditions,"
     publishedDateTime: 2022-05-31T21:45:00Z

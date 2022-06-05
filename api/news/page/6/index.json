@@ -2,6 +2,41 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-27-microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation.md",
+      "title": "Microsoft (MSFT) Azure Selected by Meta to Boost AI Innovation",
+      "excerpt": "Thus, using Azure will enable Meta with faster distributed AI training. The Meta- Microsoft collaboration ... learning workloads compared with the company’s last-generation chips — AWS Graviton2 processors. While C7g instances offer enhanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
+      "publishedDateTime": "2022-05-27T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-artificial-intelligences-role-in-trusted-national-security-supply-chains.md",
       "title": "Artificial Intelligence’s Role in Trusted National Security Supply Chains",
       "excerpt": "U.S. economic prosperity and national security is at risk due to a dependency on the resiliency, diversity, and security of global supply chains.",
@@ -1084,49 +1119,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-these-earthworm-inspired-robots-may-one-day-crawl-through-aircraft-engines.md",
-      "title": "These earthworm-inspired robots may one day crawl through aircraft engines",
-      "excerpt": "Researchers developed a robot that uses electrical charges to power \"muscles\" that cause the devices to move through a small pipe, like an earthworm.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/earthworm-robots-aircraft-engines",
-      "originalUrl": "https://interestingengineering.com/earthworm-robots-aircraft-engines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/qrwB17P365/sizes/screen-shot-2022-05-26-at-114723-am_resize_md.png",
-          "width": 744,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/earthworm-robots-aircraft-engines",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/earthworm-robots-aircraft-engines",
-      "publishedDateTime": "2022-05-26T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

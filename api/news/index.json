@@ -10,7 +10,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "AI",
         "AI Hardware",
-        "Computer Vision"
+        "Computer Vision",
+        "Natural Language Processing"
       ]
     },
     {
@@ -245,39 +246,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-meet-the-ai-taxi-company-thats-backed-by-ford-and-volkswagen.md",
-      "title": "Meet The AI Taxi Company That's Backed by Ford and Volkswagen",
-      "excerpt": "First I'm going to start off this testing in Miami and Austin ... You want it to just work and be safe. I know Argo AI in Florida has been, I believe they have their own, didn't they buy a little city, an abandoned city and that's where they are doing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/meet-the-ai-taxi-company-thats-backed-by-ford-and-volkswagen",
-      "originalUrl": "https://www.nasdaq.com/articles/meet-the-ai-taxi-company-thats-backed-by-ford-and-volkswagen",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/meet-the-ai-taxi-company-thats-backed-by-ford-and-volkswagen?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/meet-the-ai-taxi-company-thats-backed-by-ford-and-volkswagen?amp",
-      "publishedDateTime": "2022-06-04T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -689,7 +657,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -828,7 +796,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1209,6 +1177,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
+      "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
+      "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
+      "originalUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/rebellions_ION-1.png?w=680",
+          "width": 680,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
+      "publishedDateTime": "2022-06-02T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

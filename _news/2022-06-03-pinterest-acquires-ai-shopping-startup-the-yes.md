@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Pinterest acquires AI shopping startup 'The Yes'"
-excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum. THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO,"
-publishedDateTime: 2022-06-03T05:20:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=964940"
+excerpt: "THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO, Amit Aggarwal, a tech industry veteran."
+publishedDateTime: 2022-06-03T11:50:00Z
+originalUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+webUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_040622_spwi.jpg"
-    width: 402
-    height: 251
+  - url: "https://etimg.etb2bimg.com/thumb/msid-91986699,imgsize-107315,width-1200,height-628,overlay-etbrandequity/pinterest-acquires-ai-shopping-startup-the-yes.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -118,7 +120,16 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Pinterest acquires AI-powered shopping platform The Yes"
+    excerpt: "The Yes’s technology enables people to shop a personalized feed based on their input on brand, style, and size."
+    publishedDateTime: 2022-06-03T13:31:00Z
+    webUrl: "https://www.bizjournals.com/bizwomen/news/latest-news/2022/06/pinterest-ai-powered-shopping-platform-the-yes.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
-secured: "68/Yj45xsExbQSU3Vrr5c+8NEqNQPqOQKOYDUEvkt0F7Po0llS6eJffHO+CGB3+YW3Bnv8Rw0w887JGmjnLVEtOQV0Pc9AvcXKzX3JctKw7m8kUn4EmhSB/v20VcXyfBfgPqib8VDQOsOxpdXnTW+M6sHFxg8JmS9vj5VARrKFjCQ/Z0CjqM6q9jnGYwpe6WYPv5/vmfqtyuU3A4Ol6GQNGIHcT3FImNHMcF7Kioz+t6jYRoQ+uSnRBRB6VXa75HHEL19Yl7dSgb4OMEwi96RdxG7P1KfyVinitnaTtIHb+rDwGwWzZDq/vNvZCv7tEtzRNbXKsGg99+Go9XVdC4QZwzMBut5hldtwt9fZvHyOo=;yEoe7kgDC3hOg57tdoEazg=="
+secured: "jGConYP9c04PVIfiCCm507mzeHnftLJ+KRW+ZiiFpNqUIp2peUwWw2iy8XSMFyRioJXw05poBvroV1JTgmOUdz/87Rr8SRARdN3/sz0ca4IDsAWshQqMTrEH96E1VeGqI093fEkiti4YojGZGoA0TemMvubaw3pxvnMa8v+dPfmtnHEkd1vgzJWT/oZ2TucI7/sarw+YdNUiWk2p3cGsEQ0YOCN2ib2NJ8JVO7Yixw65fBouVIF9xswwtFjr3PzT2UCE4e5neXxi+IA9e4Zm8hDbHw4kqS3QiOO3PHg0JwZ6fIlK+kCCjxPZSdytpCx4VzzvKUVOwVb7c0MAAL8lYlmqgE9EaV3JZtkXTiWrKoI=;yTgFOAF3B957e1Aen9VHJw=="
 ---
 
