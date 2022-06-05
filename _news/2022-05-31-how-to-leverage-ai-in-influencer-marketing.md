@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer
 webUrl: "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Vietnam Investment Reviev
       domain: vir.com.vn
     quality: 51
-  - title: "8 Ways To Successfully Leverage AI In Your Organization"
-    excerpt: "With so many ways to leverage this versatile technology for business these days, determining the usages that will benefit your business most might seem overwhelming."
-    publishedDateTime: 2022-06-01T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2022/06/01/8-ways-to-successfully-leverage-ai-in-your-organization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Webtoon, AI influencer, catchy song: How STB sells Singapore to Korean travellers"
     excerpt: "Before the pandemic, South Korea was the ninth largest source of tourism for Singapore.   Read more at straitstimes.com."
     publishedDateTime: 2022-06-04T03:07:00Z

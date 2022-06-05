@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assis
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/06/fish-288988_1280.jpg"
         width: 942
         height: 600
-        isCached: true
-  - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
-    excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."
-    publishedDateTime: 2022-05-31T14:38:00Z
-    webUrl: "https://kion546.com/news/2022/05/31/artificial-intelligence-can-learn-coral-reef-songs-and-hear-when-they-are-unhealthy/"
-    type: article
-    provider:
-      name: KION
-      domain: kion546.com
-    quality: 31
-    images:
-      - url: "https://kion546.b-cdn.net/2021/06/kion-1.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Artificial intelligence can learn coral reef ‘songs’ – and hear when they are unhealthy"
     excerpt: "By Alexandra Mae Jones Click here for updates on this story Toronto (CTV Network) — Assessing the health of coral reefs can be a labour-intensive project, undoubtedly leaving many researchers wishing the reefs could just tell us how they were doing."

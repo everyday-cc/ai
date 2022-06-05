@@ -2,17 +2,14 @@
 category: news
 title: "DDN Adds Powerful AI Software to its Data Storage Systems and Accelerates Production to Meet Surging Customer Demand"
 excerpt: "Following the Best First Quarter in the Company's History, DDN Announces Significant Enhancements to its New Range of Hybrid AI Storage Platforms HAMBURG, Germany, May 30, 2022 /PRNewswire/ -- (IS ..."
-publishedDateTime: 2022-05-30T13:21:00Z
-originalUrl: "https://ktla.com/business/press-releases/cision/20220530LA72671/ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand/"
-webUrl: "https://ktla.com/business/press-releases/cision/20220530LA72671/ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand/"
+publishedDateTime: 2022-05-30T12:30:00Z
+originalUrl: "https://pix11.com/business/press-releases/cision/20220530LA72671/ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand/"
+webUrl: "https://pix11.com/business/press-releases/cision/20220530LA72671/ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand/"
 type: article
-quality: 14
-heat: 14
-published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: WPIX
+  domain: pix11.com
 
 topics:
   - AI
@@ -23,6 +20,6 @@ images:
     height: 400
     isCached: true
 
-secured: "1x1uFken2ePInKNqZQOL4MmTp3UTqy0r/x+JaU1L2veFto7EHoJ73M0o3xz8KhgAuCNX+CkXrnu+LBu7EVPlAB0cgoe+GY0hAKdXXU6oJfpOAlPri4moc2EnD5v8tJJs//xXORIFm8WOvBF0mlSo5+IUMd0MlL+9zEfUh9a0XghCyOf2JRNGj/Dug38hgaNNU4KF7NtZQcilaziLj4AmdMhgjyyXiLxJzLfDOxwNspHSOTEe4KYoOq+P8gwtbOprt7ULxaa3qnSIElZMLOJaSBDtq+rrBoYoi46mi+o61RAPxpYAn2esUc9SCllMJcgyuj8k/2aTpZmZam2T4nQn3In4ZirlsyNgXKes2/XqA/M=;b9G/6wtOPz1OPKa7yigAXw=="
+secured: "wD2wQ1JZQyvoyl3VRv3d0zoLOGZ2eubEaD5gaorQQaU2mT9Qsv9/FcFQ86uNNPWERegR+0wlYc/RSdInXP9/5m+vPbPnu0hRLtBd2ThcBgICXoFUxgFElmvniY74VgdritXRljnwX9ueU33gQCLi4NtfT1Ng93g5S4xMC1uQ17zECZpOEmo3FqtNq+YtJY+mRaByPc3T3WtQNZBsKo7yWanrrgi89ErOUdQnU8dFvSXlRDtlseG+l1T0xqeiU7HBuQFfnnBsokQ5r+ja+6Q+IuqvYiXOmXa1G+2IMseXlxGfQOsd/zUf03D5U9b34VGT0z6Wgvus32dCB3jaPXY7PUudaFJWIzbt2TCQGHdvl7k=;7RirEunkrm9G1MNQArwU1Q=="
 ---
 

@@ -29,7 +29,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg"
         width: 471

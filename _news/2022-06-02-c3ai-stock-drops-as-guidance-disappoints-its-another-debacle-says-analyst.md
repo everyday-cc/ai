@@ -18,6 +18,45 @@ topics:
   - AI
 
 related:
+  - title: "C3.ai Shares Swoon As Guidance Disappoints"
+    excerpt: "For the July quarter, C3.ai sees revenue of $65 million to $67 million, falling well shy of the Street consensus at $74.4 million."
+    publishedDateTime: 2022-06-02T00:08:00Z
+    webUrl: "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388"
+    ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-449799/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Why C3.Ai Shares Are Getting Hammered Today"
+    excerpt: "C3.Ai (NYSE: AI) shares are trading lower after the company reported fourth-quarter financial results and issued guidance."
+    publishedDateTime: 2022-06-02T11:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-getting-hammered-today-1031504717"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "C3.ai Shares Plummet 19% on Guidance Miss"
+    excerpt: "C3.ai (NYSE: AI) shares plunged more than 19% after-hours following the company’s reported Q4 results. While both EPS of ($0.21) and revenue of $72.3 millio"
+    publishedDateTime: 2022-06-01T22:00:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/c3ai-shares-plummet-19-on-guidance-miss-432SI-2832610"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 37
+    images:
+      - url: "https://i-invdn-com.investing.com/news/news_arrow_down_800x533_L_1414401708.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "C3.ai: Disappointing Guidance Could Weigh On Stock For A While"
     excerpt: "Data by YCharts Unfortunately, I believe the company's stock ticker of \"AI\" has attracted some investors who believe this was the gold start AI company. With the stock indicating down to $15 after ..."
     publishedDateTime: 2022-06-02T12:36:00Z
@@ -27,6 +66,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
+  - title: "New EEOC Guidance: The Use of Artificial Intelligence Can Discriminate Against Employees or Job Applicants with Disabilities"
+    excerpt: "As the use of artificial intelligence wedges its way into every side of business and culture, government regulation is (perhaps too slowly) moving to build legal boundaries ar"
+    publishedDateTime: 2022-05-31T23:08:00Z
+    webUrl: "https://www.natlawreview.com/article/new-eeoc-guidance-use-artificial-intelligence-can-discriminate-against-employees-or"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 5
 
 secured: "b7nxr4DngqAg3l0klgVce3XGEYtmpK4Ycn5gVaVR1UWYafTwSPOK50gB52NJtxKdIMeJ31OC+5zwyl2F64r0y16460/0aP9fP23aV38MBPv6mlXHv/vswt1dYG9nEfmIT5IgNkEKo+JwGAZ86B83QRE+l6MwsrHSjvFScYvAGqVC3Wzb/rPyVQouPHLC1GiHdL/2V8OpHckfJ4851p2Bw/3cPnMx+yu1cL0IIN+jBnqBvI7lS/Z9qGHpeHJicpL78B7CtaMs9EWX80qySjSvYaq22qwes3uEJCrVBDFe2OBW+KRYRaduUJjjplJ/eNVkZzdJAYIZYZpRodfURum1lmA0JMSBF5kfTs0gVNbgnEF+VJDUPrGT2bJjQ9X7j5LnvV+zGt/Bzt5E03b7Y/ZVgcN9yGyTHH5V+PJNGphmUZUO3jxBXIaPaUtBL2PXhTZ2VU6Bnq/frrOiotDWDeEzlxh4JStplO97cXh+Is0lU+9MdOaKkm1IDGrOG6QxpQ+T+jp4dTPY/lnAe6Y6j2j2sg==;CiZTrBLm6FpzoXzUjhPtLg=="
 ---

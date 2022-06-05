@@ -61,20 +61,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "AI In Medical Devices Market Size, Share, Product, Industry Growth, Trend, Analysis By 2029"
-    excerpt: "Research Nester released a report titled “AI in Medical Devices Market : Global Demand Analysis & Opportunity Outlook 2029″  whic"
-    publishedDateTime: 2022-05-31T13:29:00Z
-    webUrl: "https://menafn.com/1104299107/AI-In-Medical-Devices-Market-Size-Share-Product-Industry-Growth-Trend-Analysis-By-2029"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?840484"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Research Report 2022 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence In Drug Discovery Market Size, Share & Trends Analysis Report by Application (Drug Optimization & Repurposing, Preclinical Testing), by Therapeutic Area, by Region, and Segment Forecasts, 2022-2030 ..."
     publishedDateTime: 2022-06-01T14:25:00Z

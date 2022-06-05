@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "NEC deploys AI-based traffic monitoring system with fiber-optic sensing tech"
+    excerpt: "NEC Corp has deployed an AI-based traffic monitoring system to Central Nippon Expressway Company Limited (Nexco Central). The system uses fiber-optic sensing and AI technologies to visualize traffic conditions,"
+    publishedDateTime: 2022-05-31T21:45:00Z
+    webUrl: "https://japantoday.com/category/tech/nec-deploys-ai-based-traffic-monitoring-system-with-fiber-optic-sensing-tech?comment-order=latest"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 14
 
 secured: "T6vdAPnvIWhA1CitnWRG23uEsOoGql0CWIRiVjRIOki4NWgmKRIlfRaaa6wb9GqI7mqYpU+sJO8CAaB8d7lPykC3jhFZ2dIqK1ZTzoF8dCXBRHeuYiKf3xTZBX7F74MNEioqVl1tRLHRhK8RBZF2x2UszZ9w6S8CXZpPU1QLCbnjlbrSPrFLWCFu2dRuQdGXQJA4ImiCR8LVogdNKCDISi04PuEJAOJWvHQMlcEy3/OWtzgGzTbN9xvEtb4Z/U32moxnt4nzZWm+jJBDkyLKXy/jGh+NCEnR29JERWAu7MRUiLuTrErx2bDVZKMJKO3sfUzHWTWuP4Dow618rFaNOUJRxygpK0UTvl5ecUSNaRk=;cbrpD5UCTOZDdRRC9+Snhw=="
 ---

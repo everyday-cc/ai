@@ -63,15 +63,6 @@ related:
       name: Vietnam Investment Reviev
       domain: vir.com.vn
     quality: 51
-  - title: "8 Ways To Successfully Leverage AI In Your Organization"
-    excerpt: "With so many ways to leverage this versatile technology for business these days, determining the usages that will benefit your business most might seem overwhelming."
-    publishedDateTime: 2022-06-01T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2022/06/01/8-ways-to-successfully-leverage-ai-in-your-organization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "oWFwO0eoJ2ua9YjkZfDVYZo6A28kWGf2DRLWkIyvxueNTkSJZEML5MSZZx2SgPs5WF4uIge2/Lj/KwwNWEJRsEz04qglFSslDdBs8rxw3jXoB5EM7LoRfhrltSUFqYtB+83+y5CZ9l7HwnDEXjg3eDIOfBAV8iAj7CvTevTWIMcycg3LggYcKqfKCm0Ik8QUFfBUD+jKo8YOp2/njnBufY4riTksvovO1CrwcHIG2fZsVBmooyUMHHaRp8X1vf37YYMhp1ePdY4D602X0iIKCZ74GCsppWRIbPKbygvSCbhZsdPNhGnkQqrcPE2e43WeKMS5YyUgWm2YvmH4I0aiXln3FsPB7wLuV7vmLRZ/BxMnyBlxMfnNbjeb3OXwFNHoTJz5ap83TQ3l/NFEVs+sSrem1onHztumOYfVeiHaS556sLA0N00h7uJEtDb/WLVwlkcTclrTCsXTVJB7WKLDbfejfdBK79ScqfkRAk43G/neihccWnHqDTLbmsMCVaR94Dx/XjZzeMjmN3tGQftvPg==;n6hgd+tw70EEYwLmWhPDMg=="
 ---

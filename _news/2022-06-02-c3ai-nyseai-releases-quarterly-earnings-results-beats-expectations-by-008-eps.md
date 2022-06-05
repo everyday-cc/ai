@@ -18,55 +18,46 @@ topics:
   - AI
 
 related:
-  - title: "Earnings Outlook For C3.ai"
-    excerpt: "C3.ai AI is set to give its latest quarterly earnings report on Wednesday, 2022-06-01. Here's what investors need to know before the announcement. Analysts estimate that C3.ai will report an earnings per share (EPS) of $-0.29. C3.ai bulls will hope to hear ..."
-    publishedDateTime: 2022-05-31T14:06:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/22/05/27474736/earnings-outlook-for-c3-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27474736"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27474736"
+  - title: "Making Sense Of C3.ai Inc.’s (NYSE:AI) Volatility"
+    excerpt: "The trading price of C3.ai Inc. (NYSE:AI) closed higher on Friday, May 27, closing at $19.73, 7.29% higher than its previous close. >> 5 Best Growth Stocks for 2022 << >> 5 Best Growth Stocks for 2022"
+    publishedDateTime: 2022-05-31T15:11:00Z
+    webUrl: "https://stocksregister.com/2022/05/31/making-sense-of-c3-ai-inc-s-nyseai-volatility/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: stocksregister
+      domain: stocksregister.com
+    quality: 37
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/ep_us_feature_image_3296.jpeg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://stocksregister.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "C3.ai Shares Swoon As Guidance Disappoints"
-    excerpt: "For the July quarter, C3.ai sees revenue of $65 million to $67 million, falling well shy of the Street consensus at $74.4 million."
-    publishedDateTime: 2022-06-02T00:08:00Z
-    webUrl: "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388"
-    ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388"
+  - title: "C3.ai Inc. (NYSE:AI) – Analysts See The Stock Differently Today"
+    excerpt: "In the last trading session, 2.59 million shares of the C3.ai Inc. (NYSE:AI) were traded. Most recently the company’s share price was $18.92, and it changed around -$0.81 or -4.11% from the last close,"
+    publishedDateTime: 2022-06-01T17:14:00Z
+    webUrl: "https://marketingsentinel.com/2022/06/01/c3-ai-inc-nyseai-analysts-see-the-stock-differently-today/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-449799/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Why C3.Ai Shares Are Getting Hammered Today"
-    excerpt: "C3.Ai (NYSE: AI) shares are trading lower after the company reported fourth-quarter financial results and issued guidance."
-    publishedDateTime: 2022-06-02T11:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-getting-hammered-today-1031504717"
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 17
+  - title: "C3.ai (NYSE:AI) Given New $20.00 Price Target at Needham & Company LLC"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) had its target price lowered by analysts at Needham & Company LLC from $26.00 to $20.00 in a research report issued on Thursday, The Fly reports. Needham & Company LLC’s target price would indicate a potential upside of 7 ..."
+    publishedDateTime: 2022-06-02T13:31:00Z
+    webUrl: "https://www.etfdailynews.com/2022/06/02/c3-ai-nyseai-given-new-20-00-price-target-at-needham-company-llc/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "C3 AI to Present at Upcoming Investor Conference"
-    excerpt: "(NYSE: AI), the Enterprise AI application software company, today announced that management will present at the following upcoming conference. The Baird 2022 Global Consumer, Technology & Services Conference."
-    publishedDateTime: 2022-06-03T13:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-3-c3-ai-to-present-at-upcoming-investor-conference"
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 17
+  - title: "C3.ai (NYSE:AI) Price Target Lowered to $14.00 at Morgan Stanley"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) had its price target cut by equities research analysts at Morgan Stanley from $15.00 to $14.00 in a report issued on Thursday, Stock Target Advisor reports. The brokerage presently has an “underweight” rating on the stock."
+    publishedDateTime: 2022-06-02T15:56:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/02/c3-ai-nyseai-price-target-lowered-to-14-00-at-morgan-stanley.html"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: Defense World
+      domain: defenseworld.net
     quality: 17
 
 secured: "mXRnt1qkl9hdzspgIOJlIyU9H/EkLLYENlpelIllElVAANqQnJbqfX2yzmk19rD14hS1XSqiaHFjbOQWnyzeRBrfhla9DS69zv2YVkFfDWBY67Hq4IwIi8OqNa1c8rjReMdiJFKrvHIXq7oCFhztCEPphvCgFxax6RviwyP5+Bdr2Jp7RvqhZMgXi95eiTuNCQ2ZHrkqOJzsTNz/Jj/RSs7vsTms3aGv9Fo7O7e7fMmctTWYBlSaXeKjA6Gw04IZo0bBgMkM1uXJ5yxmdhCv638zZlXIO/VKkaYqFy6c8hNiHapCSjWLI8+DVG63VLhbxCl9JOL2Ljp/kdgHQj+GAMDOR2KRrKQOlO2rPzulno29PKm5O5uK9kiOnbqcmfL/gEFzUv7JYIg8NDbaCY/K3m93ytFCfQPUVo3YPqj/iunwhRDL6/Fk6koj5ZvZGa6EdhKfuRJV+KlKgMgtMMtrXW8yMOLD7FaJJsN+DVKe/48yz5hY5ntbRmka+7OEEjHvIklViK8+J4tRvgdUBIakFQ==;+iGMCXCDGrWBFwxABOtjrg=="

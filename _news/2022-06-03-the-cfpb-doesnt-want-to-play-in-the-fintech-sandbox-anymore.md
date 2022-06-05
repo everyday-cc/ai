@@ -101,15 +101,6 @@ related:
         width: 1799
         height: 1010
         isCached: true
-  - title: "Tintra is turning fintech into fully operational bank, eyes licenses in four continents"
-    excerpt: "\"Within the next three months or so we will be engaged with bank licence applications on three continents - something that I'm immensely proud of the team for undertaking - and by next year taking that up to four."
-    publishedDateTime: 2022-05-31T14:05:00Z
-    webUrl: "https://financefeeds.com/tintra-is-turning-fintech-into-fully-operational-bank-eyes-licenses-in-four-continents/"
-    type: article
-    provider:
-      name: financefeeds
-      domain: financefeeds.com
-    quality: 11
   - title: "Impact-investing fintech opens Malta base"
     excerpt: "Prometheus Technologies is in the process of establishing a base in Malta and will benefit from the very high calibre of post-graduate talent in machine learning and investment research which is"
     publishedDateTime: 2022-06-01T12:41:00Z

@@ -40,20 +40,6 @@ related:
         width: 352
         height: 202
         isCached: true
-  - title: "Robot Sales in North America Continue Record Surge into 2022"
-    excerpt: "The event, scheduled for June 6-9 In Detroit, hosts the industry’s leading manufacturers and system integrators in robotics, machine vision, motion control, artificial intelligence and smart automation. About Association for Advancing Automation (A3 ..."
-    publishedDateTime: 2022-05-31T15:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=672049"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 56
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "North America Facial Recognition Market to be Worth US$ 3,907.98 million by 2028: Business Market Insights"
     excerpt: "The facial recognition market in North America is expected to grow from US$ 1,628.13 million in 2021 to US$ 3,907.98 million by 2028; it is estimated to grow at a CAGR of 13.3% from 2021 to 2028. The Business Market Insights provides you regional research ..."
     publishedDateTime: 2022-06-01T07:00:00Z

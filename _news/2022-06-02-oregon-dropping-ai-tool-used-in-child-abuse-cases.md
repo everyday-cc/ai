@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Oregon dropping AI tool used in child abuse cases"
-excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, m"
-publishedDateTime: 2022-06-02T14:35:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/oregon-dropping-ai-tool-child-abuse-cases-85136298"
-webUrl: "https://abcnews.go.com/US/wireStory/oregon-dropping-ai-tool-child-abuse-cases-85136298"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/oregon-dropping-ai-tool-child-abuse-cases-85136298"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/oregon-dropping-ai-tool-child-abuse-cases-85136298"
+excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will"
+publishedDateTime: 2022-06-02T14:29:00Z
+originalUrl: "https://globegazette.com/lifestyles/technology/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_aa40df25-007a-559e-ba10-de9e34223401.html"
+webUrl: "https://globegazette.com/lifestyles/technology/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_aa40df25-007a-559e-ba10-de9e34223401.html"
 type: article
-quality: 57
-heat: 117
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Globe Gazette
+  domain: globegazette.com
 
 topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/WireAP_963a67de25aa40cea00dd1105f1689f8_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/assets/v3/editorial/7/b7/7b7ca8d4-8aee-5854-878f-a6b213cb0015/6298ecc8309ad.image.jpg?resize=754%2C500"
+    width: 754
+    height: 500
     isCached: true
 
 related:
@@ -105,6 +103,6 @@ related:
       domain: knkx.org
     quality: 13
 
-secured: "djkjzaEEaQWXl4Zf6P7EQM6/b5svkuVEG7twnY6cnh27JLkwfm7doCwDejIam/0W7cPOpFG9aM3BE9IPAAdd+8WoMDbwsvbHg4HAppcFWqy/H83JxRD/67jwKjxho4+c7NPBaR+2GUN7GFWijvMjLBru4kV8utsqDIUuaDT/ghbCemE8KjUVYluhAlZzusxMpGJoa+HFbvfnsttdZpXR7eu1tAAZnGuHuyt4EaBj4bnwV1JXu8Gu4ts4ij3aZX6UCySpsRLPrjc+0MjRqKQL8bN+JO3hCb5IdWeu5ZSFt0mF9HYvbJ/fcugIFr3zJXVC3MlyLau7kp9zX6uJC234p4l3vjr4sV/fWqZyqL+6NFA=;JFr699iTkrQ900B8XUMAqg=="
+secured: "vwFjCKBIRstKWF29TSiicv/S5Lmm6YIsrTxWR5I8GTVETVHuKVAcnmmbXbVKeZ6EShhUmptKByoOFknDO7+nV7+B9cu8NLxmerwrQyGOv3XJ4r/dYn91CGsx4jtI5VTkSoP6Qf1ktTNEfQuBGRvnPeqLQue5PL6FPXAEsp4N8uX5AjO8floMyiZ5mkAWHpm7zVDzvJOACPM0RT4PmqjK3lJ5JlaPLf33WYqCxtiTIBgBvMN3tTLF58xKtV6eePpBpBUQtbEnmuauKNC7BBypgZau/jn6y/x9lyCqq8/KUITX9JmhrJJ9TG99qIFrHZCKMEoNS5wp+ugdZcpV0FgHZnA1NArBEXsbRu2nmHYUcoU=;XLcoho+YaAKfO0mwa/IjAg=="
 ---
 

@@ -53,20 +53,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Robot Sales in North America Continue Record Surge into 2022"
-    excerpt: "The event, scheduled for June 6-9 In Detroit, hosts the industry’s leading manufacturers and system integrators in robotics, machine vision, motion control, artificial intelligence and smart automation. About Association for Advancing Automation (A3 ..."
-    publishedDateTime: 2022-05-31T15:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=672049"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 56
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "oZPCS/TWlLxqooN4swQFqNK6bYwwjKwqT5rbe3uBfUX6i5PiLAtosEvCQFErCZ+8JyWWYnOw6hWuzjP9H7yDqDVYqOytISPiPX2fL9+Jbam9ekmnmWffMBKRYHpKWhvb4vuZlyfdJlXv4VfYMeTrcoV3QlySGniBZS0ztJL8e2KOFTjSO4194EZHpm+qBVXFiIWN0rpjPWtQ2k2Aav+PA8lV8XRQaLxfMlW+bBoSpTLyt8uUnx+A1skHWIBMBIHw30t2JQo7EU+sq/7VD5fCF58TXg/CARXVFza6kDuu9TVomtqtuSZ1GgCiBIfgbk5LnWEqDHdtVqSrzz+SXi0YbC1SEeOpXToseYSjiNffB3I=;RzW5IHvOteN909rw0pEVGg=="
 ---

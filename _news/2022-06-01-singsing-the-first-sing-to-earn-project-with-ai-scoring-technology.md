@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "NEC deploys AI-based traffic monitoring system with fiber-optic sensing tech"
+    excerpt: "NEC Corp has deployed an AI-based traffic monitoring system to Central Nippon Expressway Company Limited (Nexco Central). The system uses fiber-optic sensing and AI technologies to visualize traffic conditions,"
+    publishedDateTime: 2022-05-31T21:45:00Z
+    webUrl: "https://japantoday.com/category/tech/nec-deploys-ai-based-traffic-monitoring-system-with-fiber-optic-sensing-tech?comment-order=latest"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 14
 
 secured: "5ZcHUkvbTqmw0HnDN8okCxInMej0so2/hmdNuxjiadqZ09d6IytDluDqxzU6H4BUFKvfel3yNp/dtkI5kwDl8LkQ9S0T90LcwgTptbWu4neRY0/fOXWmvTI+H1snCNE2HUuJ+1GgUhhy7aogtmKPmsJtFicU1mMaYwO29yyOw3lUnxXY2X00dv03NjC6DWrjfiL/VoWTybZLjzIwr/QnS8fKIrY30Kj1AybdkBB2f3EMjtkSxasuWYOXpCefNnNKmsFIUvnh5RBpPqgxgdS6Qc41in9n5DNgFvl4IsB+HSF7ct/OoGh5cGSzt3830hckYPoqt0RMpICmgoBUhVD9pTbobQ/kjmMEJaHmEYg1juSBHtBoOqcsoxzFOyLqz7mqcYiHO2k/7q3GETY+0xrHxb6ev17OjhmtNEPLTMlVxSPKUd40vQIjvc7n6LMRDcjj0IjhpRHPzuceTNGQqCegJadwUMvVS7IRD3gEJ6jDxu4ZQxpWBgswnUnDK1Gy7jGPB+U9/MmPBOXnPeH5mcL7WA==;JCmXm9FX7JE1bW2VY7pZ1w=="
 ---

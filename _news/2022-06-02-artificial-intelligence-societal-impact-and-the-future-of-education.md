@@ -8,8 +8,8 @@ webUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the
 ampWebUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg"
@@ -37,6 +38,6 @@ related:
       domain: wilsoncenter.org
     quality: 30
 
-secured: "P1iH39oBMs4Q5FM542AJ4ThmmDEPzgBMZfXYuNSx1flXu9ZuqCHRwmr2FqYkK5YEt+4VdGmMYkPuhkAyZ5/7qW56Ms6RwxZGdKFQm5DkI//P1szK6hcuZ7rOf88ASYxLcrbgV/tb3oJdetC1uok6MXFaJjk/Z3UOAP4b05lrK5cOROpjYN4QeWTESzRpqMSipAjL4PGNwi3prL4COBXKvoodV5kx83G9ps41WyV1Xun1xEYOapROn+jYhTZYUt5qb4h/nweB+JUgWotTtWA6iYbVCxACwe176+XvM+F4ldGVszG3TYitNXghyWagCcXdXVVkLb17jjFvF0CAZdueADMgn6yA0AwR/4zzJYEqpLY=;qujQcRywGLM5TIUzTh7mbg=="
+secured: "BzAbNe0s9aDc4q6jgO5NDQoCsVQfCbreXCUOyJVx52hzUip0lTSWNh14+/5ALNc9VXyiLoAlTbZO4O825mpCecnj8aPIpeQHXAvkXlIX0hyKV7x6Py7LS1nCyJcrIEbvMDvOhGxsJ8MgrdjnUMkU11pAJzQuFc16wFzxSfFafvheLdE1Fh+z2ziVWEITwCbfjVjrgNluH/P06uNCahXsL1NepSbDFOC2x4HgVNNRBpOj6J1Xuz+15p+KphffoomPMN1meXNJwVaKLQs5p0uHf2RxT/YJyUp0ykz0RPwWl8f0Z2FFDqFcZ8jja2J6VQmnfHS/pSJbDnK5NWoLLpTd4vtZSM36ehmjVzPa5MfwLo0/vRf01SFpPiVwEcv4I1YvCdheV5eZqbcHSEXwkjAW8g+4fb25k2XRg0LpJ6OVQeqzlrFR0Ih0SGN6F9AvUvqijh8CtWPYbeiB2oOZxr1MK2YmnyQ/BIEDyvoMf4cLlJB0O3tKDzz8lo7bcgd4sWrsEN/Ml7gt7rNV8299Y53Kww==;b8zywd3T7SERVF5rAgSN9w=="
 ---
 

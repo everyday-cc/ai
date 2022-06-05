@@ -51,6 +51,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 17
+  - title: "C3.ai (NYSE:AI) Releases Quarterly Earnings Results, Beats Expectations By $0.08 EPS"
+    excerpt: "C3.ai (NYSE:AI – Get Rating) released its quarterly earnings results on Wednesday. The company reported ($0.21) earnings per share (EPS) for the quarter, beating the consensus estimate of ($0.29) by $0."
+    publishedDateTime: 2022-06-02T01:16:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/02/c3-ai-nyseai-releases-quarterly-earnings-results-beats-expectations-by-0-08-eps.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 10
 
 secured: "Do3YhjzNRW3J6jtE1XSnklDuiNrasHnlT4eE8bftEdxIJ4Ym1R365QFNvr3Z2m7xPa2rPp4W8miu5bDKOqQuSZzoS+UArkCeLpJchn424MB7ByQOHaE2wtQ7O+dWNPH8Hp+W/wuO0KPg3+YhOBneq9qXgWetCi3X82nL/BlkJg5Eyd3qRdHvSAMjK/kZ8rxsTy5rgmmkN8y87/kfGPd0PoBfsotjKo7ldUyRe1cey2pG6m3vl95hyvb+ARMuEdNBr0pjOsgTo8Is4c7S4KZ7HKcNQY9cs/GMxyVK914ovHZ1MxydNTupY5/NcheshCUZgeXYTVpFc+jrxHlVL7+tpuuMtjGo5D8YSpmsoLjOknI=;m1fhfiCPZGIXzaaKpKGGgA=="
 ---

@@ -38,15 +38,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "How ‘cultural artifacts’ impede DOD's ability to go big on AI"
-    excerpt: "Pushing AI to the battlefield to help commanders make more informed decisions also means confronting the Defense Department’s worst enemy: the budget process."
-    publishedDateTime: 2022-05-31T13:10:00Z
-    webUrl: "https://defensesystems.com/ai-analytics/2022/05/how-cultural-artifacts-impede-dods-ability-go-big-ai/367542/"
-    type: article
-    provider:
-      name: Defense Systems
-      domain: defensesystems.com
-    quality: 17
 
 secured: "gEMK76ZPMp1hdhGu6CBLv8g5RnluPyW0FwAzZVR4xWa/a/yZRxxs18Q8Ox0CADR2JYKfpbJNkbhVGnHGw9dKD5zktvBMnsvs8EcA8InP489kYtSSKSrC8xi3N4ndSzWMlIe7Hhtcmk87lsucBeJczpp/SOHAvhxbW6rsQaCNuwQPvPhTrrLy/85s6FmvLt++5sf9Pt72ss5/fwz9ftzTB1LYKUMtrQv0UvPDEdA5fmz4k7znlAT4/zYeIL8qWy5kyihQYhOWvMFRjqP5eNFakzYizwGEGT4NGHnrk9cd1VH4G1rmu/qJJBmxmMJRJDs67EcEROl6ZZc7Rai5bGGH1AqmMtumXXbOqnQBAl5LRek=;pGE67l+MASvQGnMmZnsESQ=="
 ---

@@ -22,58 +22,65 @@ topics:
   - AI
 
 related:
-  - title: "How to Leverage AI in Influencer Marketing"
-    excerpt: "Artificial intelligence is a growing tool in any digital marketer's arsenal. Enabling quick analysis of data, machine learning"
-    publishedDateTime: 2022-05-31T16:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing"
+  - title: "Redefining success in business with Artificial Intelligence"
+    excerpt: "At the process point, the role of humans is to maintain ethics and integrity by responsible use of the machines. Read Also National Technology Day: Five ways in which Artificial Intelligence (AI) has made an impact on our... At the output level keep a ..."
+    publishedDateTime: 2022-06-03T01:31:00Z
+    webUrl: "https://www.freepressjournal.in/education/redefining-success-in-business-with-artificial-intelligence"
+    ampWebUrl: "https://www.freepressjournal.in/amp/education/redefining-success-in-business-with-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/redefining-success-in-business-with-artificial-intelligence"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 54
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
     images:
-      - url: "https://www.getnews.info/uploads/34f213753bed451d6f1428fceae18a59.jpg"
-        width: 480
-        height: 480
+      - url: "https://gumlet.assettype.com/freepressjournal/2022-06/805ed11e-da5f-4b0c-ad73-127636127ed4/artificial.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 959
+        height: 582
         isCached: true
-  - title: "How to Leverage a Growing Universe of Federal Aid to Build AI-Ready Government"
-    excerpt: "The recent influx of federal aid has offered a tremendous opportunity for state and local governments to advance IT and accelerate technology modernization."
-    publishedDateTime: 2022-06-01T00:17:00Z
-    webUrl: "https://www.govtech.com/sponsored/how-to-leverage-a-growing-universe-of-federal-aid-to-build-ai-ready-government"
-    ampWebUrl: "https://www.govtech.com/sponsored/how-to-leverage-a-growing-universe-of-federal-aid-to-build-ai-ready-government?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/how-to-leverage-a-growing-universe-of-federal-aid-to-build-ai-ready-government?_amp=true"
+  - title: "Orange employs AI for business network monitoring"
+    excerpt: "Orange Business Services has launched a network tool that uses AI to help IT personnel proactivity monitor their network services."
+    publishedDateTime: 2022-06-01T10:37:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-employs-ai-for-business-network-monitoring"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-employs-ai-for-business-network-monitoring/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-employs-ai-for-business-network-monitoring/amp"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 53
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/e44daa9/2147483647/strip/true/crop/6720x3504+0+572/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F64%2Fabe7336a4e459b5ae1a7e93e7659%2Fai-1.jpg"
-        width: 840
-        height: 438
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/05/MWL_Orange_devices_650.jpg"
+        width: 650
+        height: 400
         isCached: true
-  - title: "Unilever Vietnam embraces machine learning and AI in marketing"
-    excerpt: "Applying machine learning and AI to digital marketing and distribution channels is one of the key focuses of Unilever Vietnam in promoting digital transformation at businesses."
-    publishedDateTime: 2022-06-02T11:52:00Z
-    webUrl: "https://vir.com.vn/unilever-vietnam-embraces-machine-learning-and-ai-in-marketing-93925.html"
+  - title: "AI business snapped up by US tech company"
+    excerpt: "Deal provides \"huge potential\" for the business with has protected over $6.5 trillion of market capitalisation since launch"
+    publishedDateTime: 2022-06-01T06:45:00Z
+    webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2094538-ai-business-snapped-up-by-us-tech-company"
     type: article
     provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 51
-  - title: "Webtoon, AI influencer, catchy song: How STB sells Singapore to Korean travellers"
-    excerpt: "Before the pandemic, South Korea was the ninth largest source of tourism for Singapore.   Read more at straitstimes.com."
-    publishedDateTime: 2022-06-04T03:07:00Z
-    webUrl: "https://www.straitstimes.com/asia/east-asia/webtoon-ai-influencer-catchy-song-how-stb-sells-singapore-to-korean-travellers"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 32
+      name: The UK
+      domain: thebusinessdesk.com
+    quality: 37
     images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/06/04/rrrozy0406.png?VersionId=DM5BgniTX_mGtZ8_BZYFCwsgXpcrJxe6"
-        width: 860
-        height: 573
+      - url: "https://www.thebusinessdesk.com/_files/images/may_20/image-38-38-e1588855677579.png"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "Orange Business Services Launches AI Monitoring for IT Performance"
+    excerpt: "Orange Business Services is forging ahead in IT performance monitoring with the launch of Service Manage-Watch, a global supervision solution for network services and applications for both Orange-provided and third-party services."
+    publishedDateTime: 2022-06-02T02:46:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/25282-orange-business-services-launches-ai-monitoring-for-it-performance"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/6402d726ae0716c4f0f6748cfdd6e6b2.jpg?t=20220602_024427"
+        width: 752
+        height: 408
         isCached: true
 
 secured: "gVtOmMMLsMfhkN2NKwb8Jgnq+5kVOD9zOWTu4eLq/eGi1cDxgBG6Y3uK/TbdpearzZnlONdMe33JQEccyf0DaP1Pq8dE68YdCk3AU9wO30+JKd14VkNmiQ3ynAeRstSfpssthvH3PlkRvN1pESSMLoeTtOYp8G4E288JSJx7++cu6oYqzd1lWh8YCtdQ7FRFYJEYtvzJrU9DnfvZIBTi3P6ARO80QT+OQ5oCW/03EWrfGWy5Tz4jn0w4iBAv7aDFIOejAWtVuwuSbndECV8zKTXGySxrW1YyxMbHLmteZXqI/nRwgufgvBPvwLLqwbd04IdBX9r20CUB61wabhaxY+aguChFwE4qJVqmVhxOhzOqALYNfb/6y/mg2z//B74WwUX9rVvjoFBKPXUiFZjCLBb5nl0009WR1jhp3sgGU1yoLWLgR0Or2GTc0AaE1SLe3g8aSfe67CmX0jx8PiLWx8Cb7XSnOf4j6Nm5xIkWlPoJo9eLkbZwSQs5JCctzLd6TK9+4XK6WBObr1EXW5SjcA==;QOm4SOBR13PtSOLSutFLRg=="

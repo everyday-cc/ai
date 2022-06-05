@@ -58,20 +58,6 @@ related:
       name: freightwaves.com
       domain: freightwaves.com
     quality: 34
-  - title: "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX"
-    excerpt: "Self-driving robots provide energy-efficient meal delivery to guests' front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delivery"
-    publishedDateTime: 2022-05-31T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/article_3f63c6f8-5552-54a3-932e-0a1240de73bf.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Your next Chick-fil-A delivery could come via robot"
     excerpt: "The chicken sandwich chain said it is testing autonomous delivery robots in a limited number of locations in California, Texas and Florida."
     publishedDateTime: 2022-05-31T19:31:00Z
