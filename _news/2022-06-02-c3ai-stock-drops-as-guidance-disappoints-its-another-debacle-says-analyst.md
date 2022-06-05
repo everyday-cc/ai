@@ -66,15 +66,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 17
-  - title: "New EEOC Guidance: The Use of Artificial Intelligence Can Discriminate Against Employees or Job Applicants with Disabilities"
-    excerpt: "As the use of artificial intelligence wedges its way into every side of business and culture, government regulation is (perhaps too slowly) moving to build legal boundaries ar"
-    publishedDateTime: 2022-05-31T23:08:00Z
-    webUrl: "https://www.natlawreview.com/article/new-eeoc-guidance-use-artificial-intelligence-can-discriminate-against-employees-or"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 5
 
 secured: "b7nxr4DngqAg3l0klgVce3XGEYtmpK4Ycn5gVaVR1UWYafTwSPOK50gB52NJtxKdIMeJ31OC+5zwyl2F64r0y16460/0aP9fP23aV38MBPv6mlXHv/vswt1dYG9nEfmIT5IgNkEKo+JwGAZ86B83QRE+l6MwsrHSjvFScYvAGqVC3Wzb/rPyVQouPHLC1GiHdL/2V8OpHckfJ4851p2Bw/3cPnMx+yu1cL0IIN+jBnqBvI7lS/Z9qGHpeHJicpL78B7CtaMs9EWX80qySjSvYaq22qwes3uEJCrVBDFe2OBW+KRYRaduUJjjplJ/eNVkZzdJAYIZYZpRodfURum1lmA0JMSBF5kfTs0gVNbgnEF+VJDUPrGT2bJjQ9X7j5LnvV+zGt/Bzt5E03b7Y/ZVgcN9yGyTHH5V+PJNGphmUZUO3jxBXIaPaUtBL2PXhTZ2VU6Bnq/frrOiotDWDeEzlxh4JStplO97cXh+Is0lU+9MdOaKkm1IDGrOG6QxpQ+T+jp4dTPY/lnAe6Y6j2j2sg==;CiZTrBLm6FpzoXzUjhPtLg=="
 ---

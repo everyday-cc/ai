@@ -7,7 +7,7 @@ originalUrl: "https://www.wsbradio.com/news/local/atlanta/georgia-based-chick-fi
 webUrl: "https://www.wsbradio.com/news/local/atlanta/georgia-based-chick-fil-a-testing-out-new-delivery-robots/T6TS5N6HORG3BFFXYC7IYJU5ZQ/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chick-fil-A taps Refraction AI for autonomous delivery pilot"
-    excerpt: "The deal with Chick-fil-A is part of tests Refraction is running to understand how it could serve quick service restaurants by maximizing profitability/effectiveness of robotic delivery"
-    publishedDateTime: 2022-06-01T00:42:00Z
-    webUrl: "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/"
-    ampWebUrl: "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/SoCo_5.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Chick-fil-A pilots autonomous robot delivery with Refraction AI"
     excerpt: "Refraction AI will use driverless robots to deliver from two Chick-fil-A restaurants in Austin, Texas, beginning in late June."
     publishedDateTime: 2022-06-01T17:47:00Z
@@ -59,15 +43,6 @@ related:
       name: WPXI
       domain: wpxi.com
     quality: 19
-  - title: "Refraction Ai Tests Self-Driving Delivery At Two Chick-Fil-A Restaurants In Austin, Texas"
-    excerpt: "Chick-fil-A and Refraction AI intend to continue studying autonomous delivery in Austin at the Chick-fil-A restaurant on Martin Luther King Jr."
-    publishedDateTime: 2022-06-01T12:33:00Z
-    webUrl: "https://www.cioapplications.com/news/refraction-ai-tests-selfdriving-delivery-at-two-chickfila-restaurants-in-austin-texas-nid-9941.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 12
 
 secured: "2WeHlc0AgfnGIOP9NRDXTYTsp8ocQF1oid/TbC1LDr/pagkSP5zJf1VHOlj3Wrr0j9AKIGArQj/0GlUlQNj/eCYEU4qhKXJrDFBvu1FbTkASo+aSwfmb/0FK4Zkdc8yrQMcRu66ACQ5He+84OaejyTFfo1gv/J5nuVT7yO8YAawBUv5ipFHlHA3fM9CiTLpskErp51BzL5blSvyHOTNS1j6+2IW4nhZodYxFtkFeUWcgjE+3K8MbpZhDkenZaROXjZwoSeVXuWpEmi4yOX37yYh4btCImCZ8kDx5Nl5ZqxQ8FMcsd46vJgHiTkX8yAJRPnkRe8EOVYA4Hqg+mY54qPVh1FYoc+cptCVGkqcOAf9BFDitGPIXRmmYi/h4uqpHiTzVwB+Y9eFU54/1iDo0DnA+S5vyd/MhWAlCozSKMcrtpHmRtqFj4jwpim3l4xl1Y5aAqMup2mDJNGG/cXr8eW5c/YAU2aEFLKCdgmU9e2smCrjiwH6LiAPc7z+NoUhEZ14INc/mw/Ie9B87ueQCQw==;oTlwIsl8I67MOMl7E3IO/w=="
 ---

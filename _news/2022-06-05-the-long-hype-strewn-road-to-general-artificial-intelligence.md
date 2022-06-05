@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-05T10:00:00Z
 originalUrl: "https://www.motherjones.com/environment/2022/06/general-artificial-intelligence-technology/"
 webUrl: "https://www.motherjones.com/environment/2022/06/general-artificial-intelligence-technology/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - Google AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.motherjones.com/wp-content/uploads/2022/06/20220602-ai.jpg?w=1200&h=630&crop=1"

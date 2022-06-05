@@ -20,54 +20,45 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Chick-fil-A taps Refraction AI for autonomous delivery pilot"
-    excerpt: "The deal with Chick-fil-A is part of tests Refraction is running to understand how it could serve quick service restaurants by maximizing profitability/effectiveness of robotic delivery"
-    publishedDateTime: 2022-06-01T00:42:00Z
-    webUrl: "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/"
-    ampWebUrl: "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/"
+  - title: "Argo AI Launches Driverless Vehicle Testing in Austin"
+    excerpt: "If you live in Austin, you could be sharing the road with driverless cars. Autonomous vehicle company Argo AI recently announced it's launched driverless vehicle testing in Austin and Miami.  The Argo test fleet is currently made up of the Ford Escape Hybrid and Volkswagen's all-electric ID."
+    publishedDateTime: 2022-06-01T22:00:00Z
+    webUrl: "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Times Union
+      domain: timesunion.com
+    quality: 54
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/SoCo_5.jpg?w=1024"
-        width: 1024
-        height: 768
+      - url: "https://s.hdnux.com/photos/01/26/00/76/22548401/3/rawImage.jpg"
+        width: 1200
+        height: 761
         isCached: true
-  - title: "Georgia-based Chick-fil-A testing out new delivery robots"
-    excerpt: "You might soon be able to get a chicken sandwich brought right to your door with Chick-fil-A’s new delivery robots. The Atlanta-based company is testing out new autonomous robots to deliver food straight to you."
-    publishedDateTime: 2022-06-01T14:56:00Z
-    webUrl: "https://www.wsbradio.com/news/local/atlanta/georgia-based-chick-fil-a-testing-out-new-delivery-robots/T6TS5N6HORG3BFFXYC7IYJU5ZQ/"
+  - title: "2 Austin Chick-fil-A’s to use self-driving vehicles"
+    excerpt: "A’s in downtown Austin received self-driving vehicles Tuesday to begin test deliveries, according to a release from Refraction AI. The company said its goal was to provide energy-efficient meal deliveries."
+    publishedDateTime: 2022-06-01T16:46:00Z
+    webUrl: "https://www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/"
+    ampWebUrl: "https://www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/amp/"
     type: article
     provider:
-      name: WSB Radio
-      domain: wsbradio.com
-    quality: 39
+      name: KXAN
+      domain: kxan.com
+    quality: 44
     images:
-      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/dmdjYUjdE9-9ox-J3xRbZMrFOHE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/TSD2EWVNVBFWZB7MIDIUTIAV7Q.jpg"
-        width: 1440
-        height: 810
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2022/03/gettyimages-460984624-1.jpg?w=1280"
+        width: 1280
+        height: 814
         isCached: true
-  - title: "Chick-fil-A pilots autonomous robot delivery with Refraction AI"
-    excerpt: "Refraction AI will use driverless robots to deliver from two Chick-fil-A restaurants in Austin, Texas, beginning in late June."
-    publishedDateTime: 2022-06-01T17:47:00Z
-    webUrl: "https://www.freightwaves.com/news/chick-fil-a-pilots-autonomous-robot-delivery-with-refraction-ai"
+  - title: "Argo AI's self-driving car prototypes go fully driverless in 2 US cities"
+    excerpt: "Argo AI, a self-driving technology startup backed by Ford and Volkswagen Group, reached a major milestone in May. The company's prototypes are now fully driverless in Austin and Miami, where they are faced not only with heavy vehicle traffic but also a high number of pedestrians and cyclists."
+    publishedDateTime: 2022-06-03T12:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1136020_argo-ai-s-self-driving-car-prototypes-go-fully-driverless-in-2-us-cities"
     type: article
     provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 34
-  - title: "Chick-fil-A is testing out autonomous delivery robots"
-    excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
-    publishedDateTime: 2022-06-02T01:12:00Z
-    webUrl: "https://www.wpxi.com/news/trending/chick-fil-a-is-testing-out-autonomous-delivery-robots/QPXRF5QTQVEXRIOMELH34GGIUE/"
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 19
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 33
 
 secured: "1hRfML3ZPPgyAni9tsS1g67UFeSNpGUUSNGRchR0UiyUTGBXwZbztc0FxB8PrsrrsuhjmretyVX0mOJ2iRMQO/kZbezcIzHj/pfWD6BS7uI9WAg/niecpAqp1xbwFQ7KL3hgBbacPNIeHJ6Y900rxV4Wqmu3t3T+0jPQwUiCyLITZb4uykeu36K1AxpbWEipDEWtaB0a9z7Q9UpjD6wLJ2v25ymsJqcxV8f+gpH6rGr94wv8Re8OYAIvVyGIYgcKRdS7hwnScFj/+tKyRd0aT9w381oTr2on3gv+uK+xYjQCwWifDr4UOKHhZLGmMERcoYWI8m2eU3pXvvvXk1OK/MCxVh7oUkLYctTBY41lRbQ2lr0R9plqxJB5agZMYhizQ4CfHBUyDhxhaF5vX5OxEHoU38r9zYCe8XG/xagm5qU6WYbMOIWzNLYRLMw9N0P7F2P8KDMbfRSHAzpAM0Ls39jKku+xP2Ufu9B1l/hMj/EalnypIZA06+un50BDCXjrK4Mchz901gKRDiRzMsXMXA==;Fl/WKW258MN8ciYLfSJ0ng=="
 ---

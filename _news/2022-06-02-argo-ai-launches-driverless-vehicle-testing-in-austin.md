@@ -7,7 +7,7 @@ originalUrl: "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverles
 webUrl: "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: Motor Authority
       domain: motorauthority.com
     quality: 33
+  - title: "Refraction Ai Tests Self-Driving Delivery At Two Chick-Fil-A Restaurants In Austin, Texas"
+    excerpt: "Chick-fil-A and Refraction AI intend to continue studying autonomous delivery in Austin at the Chick-fil-A restaurant on Martin Luther King Jr."
+    publishedDateTime: 2022-06-01T12:33:00Z
+    webUrl: "https://www.cioapplications.com/news/refraction-ai-tests-selfdriving-delivery-at-two-chickfila-restaurants-in-austin-texas-nid-9941.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 12
 
 secured: "XCF/wh2NyrZIZmwSnyp41wl58Cs/LdCG3aLS0yb3imMqD+uIzpHMGECf+A1LrYh7AmRB9IqoWa6szslR02s6wjIFRNZUr+WI2u5lX786sQKb7aThCxI1UnyYaDEyuIfCFFxawu3DCUiNa22I9LT3ZylWj92rh7JIQHVTj7fNQ6wmMvjwZrMVwOnZcn0I6ibF79ITzKH4eWd8VFTo+cw9id9I/pZbzRt3qPFfG8maKbpAkiAw/xz8OmjYANvNif/RfcbihNqwXNEMjB3/sZ/UD49FeCRmIb/LZpFJwlbfFPn+UvXAMLct743StgaVY2+OEZv6HEq12apJhD/F/8tVKeUNMg9OE7eBHGCvpDA7gj0uMt7WdnypyE39DzV8Yk6jz548vJlrqfApqIslnwDWi5Ntk1AC32FMxDHM/jFKmvnSKHAxvYu5r96PzJ/JZKFe02q8oQm96Z6eqRuWDrSPxldmowSaA9cFCFDVzu53ywlgjXYpnUMhm3hZYGwrMzDLNlIrpWNyfOHIzF8MvUCCJw==;L6z9wikhzyd3pawltR72cg=="
 ---

@@ -2,20 +2,28 @@
 category: news
 title: "Oregon dropping AI tool used in child abuse cases"
 excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
-publishedDateTime: 2022-06-03T16:33:00Z
-originalUrl: "https://www.theolympian.com/news/business/article262067787.html"
-webUrl: "https://www.theolympian.com/news/business/article262067787.html"
+publishedDateTime: 2022-06-02T18:31:00Z
+originalUrl: "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
+webUrl: "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
+ampWebUrl: "https://www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
+cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 57
+heat: 117
+published: true
 
 provider:
-  name: The Olympian
-  domain: theolympian.com
+  name: New Haven Register
+  domain: nhregister.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/26/01/67/22552019/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
 related:
   - title: "Oregon dropping AI tool used to help decide child abuse cases"
@@ -97,6 +105,6 @@ related:
       domain: knkx.org
     quality: 13
 
-secured: "xqzvyg2PTPPtdrDF9JaVI8nTV+Z7uykBzC11M1yfrHi/Tc+KffAF3WLxowSZCq8pkp3e3QeYA1CxAGslwZi0uXusXJo9G+8p2+C2GExZrxTnYwuOfXfqosEyCqn01L1h3UmvbYFgYlABjVrS0Gx2tU3dqKtpLUBwgxZlh0qVYIiAxL76wb+ulz8t2/m8NRWy8IKYzs2zPMCpeVRUAzjblIO0huDdOduf+Db/O02NKH5HxnumpmkT/f1uFmghfU8/v1pfbdce6n/WE/GLyX5mmdlMD3FwiOpW996awcvdbhNyGoPAt17iUZ+QFNBiYV3FtqlLJddpNZfrHNwK+Lu2tGMunftpoAhhWLX+6eER01PYE28vs4Y72Y/qTY56jjtC8k6htNI2ePLZ65zmjBW9FOHqxULgkfc6KSt6NPfNbbiqfOFXxc/ndX7aeFyywoxw73XJDTdMnXvQ5vwmU5ss/oRolm+4sCDN2kwf/FjvoRIHKxW8Z2YfP9lA6w8KCPB/loLv5NIP3rJOoBLcT1ZK7A==;4a7oS9Z5Ou1BM6Evmwwt3Q=="
+secured: "MaJ0UcBRsSIT/3giYDB9xihWxYynyYmTL7YFBNhB4Bzoi5IkA0ay/v55/ZOwu+y/gIzVccKnZ2FrS3stJ0E/6H4qU2QnwDuAkDXbvJsUxo/Nff1t/j9jWkGd+gOhv8YnQ0wE/MFrNj2ZiyHAfW4VrhOWU2Qj2SZRtO5YHxz1a7uXpPXGCQHjv7+taid4j783gcfObg22B3ChD6krH3V+R+QgbmykWt3ibwHXWNFW6uKSZL4yGfbevD97d9cuPmvGvphAxMwyDt6arzs3L9hTWLWQi3DIReD7bPv7+AV3xewSR5vtFrj5OhqiGi9GoqVw8wzC/oKv2Q5IxPah8roFBe39V9TCQ6sVxf+N7RDskz0=;QmSzjTUAk+ylYQ5DZNMUJQ=="
 ---
 

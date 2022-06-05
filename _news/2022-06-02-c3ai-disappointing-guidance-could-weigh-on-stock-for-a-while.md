@@ -66,15 +66,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 12
-  - title: "New EEOC Guidance: The Use of Artificial Intelligence Can Discriminate Against Employees or Job Applicants with Disabilities"
-    excerpt: "As the use of artificial intelligence wedges its way into every side of business and culture, government regulation is (perhaps too slowly) moving to build legal boundaries ar"
-    publishedDateTime: 2022-05-31T23:08:00Z
-    webUrl: "https://www.natlawreview.com/article/new-eeoc-guidance-use-artificial-intelligence-can-discriminate-against-employees-or"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 5
 
 secured: "ofFuSn/C3nrgaF0yH+OIee9uzuhIdGIISd3CoK4V7v63tol0eXNRA7asaf5WdqxcOIdCdWrM9toRDS4XGhyUIo4PSoH9wE5z/wBejN7XaniTGnrgJayuMyULFLrrlcUqx/0RtHKj/Zdo3gRkCkJYdk4DBsSpVRNJTSpmjr3yFJ+9Po4tYGkJOpTT7Dy2AgvyRQIwQnkCQ40PUsNI1R/JUE144QFB98WNqe9nP4P57BMUI1+VQ2fRgcWue+Xg1fh1QKcxH1nKx6WcP/vnJnmt6411nrovNqsRFL8wYFH7aGSu/OSlS1XzEpWj3ByKIuRq6TFteVDyp0qRDlK1ux9RtCek0VSELjPmHHxUdJnNyPTrNk6FvjRSw+apzCslhIJyVRWgaPjE5BX9nU5wES/CjGe1VlB6j6uGXQvry2LuN/6bwp+1gfUZ4buRyoy8sJwLnhUl159RdwlZs21wp4OgCk0in9QsySHAqBglfeBNrOYugc6YmUWf4IgimjHXSWB+9s00CkplGtLS1kWsq3nQyA==;9KxdIafccCMpPaX1hV3t1A=="
 ---

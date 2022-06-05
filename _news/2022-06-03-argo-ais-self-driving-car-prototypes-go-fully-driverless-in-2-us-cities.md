@@ -49,6 +49,15 @@ related:
         width: 1280
         height: 814
         isCached: true
+  - title: "Refraction Ai Tests Self-Driving Delivery At Two Chick-Fil-A Restaurants In Austin, Texas"
+    excerpt: "Chick-fil-A and Refraction AI intend to continue studying autonomous delivery in Austin at the Chick-fil-A restaurant on Martin Luther King Jr."
+    publishedDateTime: 2022-06-01T12:33:00Z
+    webUrl: "https://www.cioapplications.com/news/refraction-ai-tests-selfdriving-delivery-at-two-chickfila-restaurants-in-austin-texas-nid-9941.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 12
 
 secured: "G4hkdgP+VTboASw0HkD1PEB7B0vSoHcT9N7RHybG894vGNv3qf3XmO79y5VKw8D+NhH8cqbNnbQG53LlhT0dUcdRbe3IWvLf7lOgMddxBX5T0SVRWvXTYo+pMBPTquospni43h6K1OeR9255dScraWkyvlVGtTJe1BMvwSvhKmtsYgZ7E8r0vMbyU/Xbry5PDxqevQ2mrYOtgACSccEUzrSQu7B6h3eZRwDDk8bdU+NFCfZeY7KoDp0udzvNYwMNPvAZwdWDSL2Czumozuib1/QEHmFSkJe7BW+VyFIYrv0L3fEElyCgKeTHhdGjKOx+HRrQnVqUeaTLBXw/m1nzSujIDiVnY9O/HCIJb/mMRXO4mb7zoH0po2eHav3/yQvhTugSKcYfoZvZjx6ESZtuT0Dh6c84wL1P8aGiVrd7O46kVBokWBXba2J8k+NN/6wSFi+HzFuVYd5RPWY7dZkNXDetDrg3goVfv7ef1s62g1IpkJd73bSYpQGI58BZeRi7af0VdQ66hFfP9Jgor1SYsg==;NzvIu+cTrQT0d1ktFa1MvQ=="
 ---

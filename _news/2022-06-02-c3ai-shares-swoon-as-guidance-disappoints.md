@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoin
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 12
-  - title: "New EEOC Guidance: The Use of Artificial Intelligence Can Discriminate Against Employees or Job Applicants with Disabilities"
-    excerpt: "As the use of artificial intelligence wedges its way into every side of business and culture, government regulation is (perhaps too slowly) moving to build legal boundaries ar"
-    publishedDateTime: 2022-05-31T23:08:00Z
-    webUrl: "https://www.natlawreview.com/article/new-eeoc-guidance-use-artificial-intelligence-can-discriminate-against-employees-or"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 5
 
 secured: "B4q/X2r9XF5Mnfqq+2skmRcx9a4k7MelAthGifh/a7EzfGpGVvD+y+ARu5JPwUQBdV3adHkGOLiBVLQhfRg3TMJ/ajTFHQCKH2EY09k3auIJ3bF+XUjI8IIrxW7Tki3ox7F4+JK1rp5GVUWk4pyIWdu1ovJ1OErkVTIIeOVm/PdtV2QCMuNMfXNSFsrI/KX6pjd4tJjX+NceBp7NaaOgBLd+t13RnmT2e7J2E34k/1HGsG/YzY5G4T9zkftdwyfM3ngbhu6PZqWs0625bFvVfUgbT+Mvg4PoOO6KKPTb+Q7WMefrwKiXVEIPyzyCCJ//O6qhPgxYUTKxUicuqBTyqsbLsBdRdui4kAt6c4CpNJk=;Kir6PRXkUfrp6tXP1GHLBg=="
 ---
