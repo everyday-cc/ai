@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Google AI
 
 images:
   - url: "https://www.motherjones.com/wp-content/uploads/2022/06/20220602-ai.jpg?w=1200&h=630&crop=1"
@@ -24,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "3WLz/dasSI2xuNiVS/ks7qdw1ILRjQRz2p9M/mcLp0brtrLSh5uySs56fX2JvVwOQAzOdMxZGyeSerHzwo3wIDyUFc5DecmAp8K0mEWewBK/S7ijHMKJpYvJ62vryW7E4etlX5IryTNGanNQGNRR7X/JnTN7Jk4Wv5IDRDhFpFhXjzH036iNSV2dL0bRdD2nftdhXfqz2xMZFSutna4AkL5imFRtcJbv/gT5crMbFHwXIG5Ado5D63lsVQfn8DN8lQ1avjEKj9bb5vg5LghzOAi/mwoKlTKs4o25V+9rH0ZJrVAehXOVq/OO9z9QNwC75qhwqWTz4SzAfwQTyVzc0DqJHMf3J11XA8r9u8ELASk=;uBmdLuifpb87AqkgYaapRQ=="
+secured: "KJDMVgn34AcoLAN453PJ/4VJlZNrIOva8SxKooowVOGYr5jBYEM0yFSvBA2pWdRRN0uusNolhRzIdT0/kipgYSoy67ikWiUVNZvX2KddR6kGDRPGjsk1fS72HSmU4osKB70GRPb8KvhTJGvLtO+qyyc1F5vBscvS5eosV5xhRurL2gwmGd9Ky5PQLaf4uSjgx/+y/mphg14U7uALh2lzbogCA3yiXFuekZgfsStl9E0XN1QWXuF+p4A6CI5DqmFhejJkXvGg7zlvbM4QyA7n0M71tigjTdOlWEhuZCzhqiVghY/rQ1fMXdIWIIjFFMlNv/LLWpjYHj4AkurJzNdf3JlceLmahyS1pCgKKRoDFkwrz8E6KZ/+j6Q4hoqDn+8UxMiCYL9weFke3Iobn84rLyn2bDWkFsC2J/S2dvk3sALzBHwcpE/BLt+P1xzCH+0ufL4fFFhR2gUMh5Et91dExbYt2obiSCX1dNcQwGPCb2GgQCpyisX1AJ2Z0KMK3yyDzPwUDgLfV/eFcEmfnrW71w==;Y6ESRxogw2lsGBmGvWzI+w=="
 ---
 
