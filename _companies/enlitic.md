@@ -2,7 +2,7 @@
 name: "Enlitic"
 overview: "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy."
 type: "profile"
-heat: 42
+heat: 41
 
 website: https://www.enlitic.com/
 
@@ -48,6 +48,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "UOzB63SYaaTN8LX5zeDDWj52Z5TUsccpSszU7YBBEBSDIzgR/M8i7VwDTt5f4q8+uGvmjdy51M3HVH7gP4soeZ6uLmsoLYryPoi1LRrQcShZsLK9OvyD7c+jwkMnMpqnvTWI4aInownL5ytfbaVWqVgINucDDus2WLQ4Z/nB5mJmpvXLehH7u66LK68Nedkh1OZhfSl+6woVD2eNJ01wcs8KOV4fmBZj16rCmxaO6AmlGGe450Ed2XqVHUx/spnti6w+Tod2nUufKi5RqfejvUOf7XnLeI/1wmFnaHV6QZp+8+etc/vU0QW5PW1wZbdnPQ7g2A8LctFA+/3eA3cS+69cbhFILOyhf1FNq9zsqefAyRvn/xu0L6Wh75brWAuNb4mdjhdyg7kseV26aWrg6bblu/T6PQWmS2YOIhAdS38=;IUF9GyQ7+oAc1+JlAwfvOA=="
+secured: "rkNcDdXLb9xvE92tzzONSscLrNsI7u+eclHjRhgDg6Y1slfx1DRrLgrVWqALAZ45S7p0p1JWtdJxDWpE+OX7+dS3RF3lDLUtaC22r7b2rggmFk4c60MRV87FDGIhR431UKGE28NYWxrPNA/dZX+QpIEIGv8rZ/RFrexxwnNrXpyBS6Ah1BB0OWyjN8v/NzhgMrwYawpQwjNZcwy/N/aPgYF5RTF7hNLqB3qSRXDbdxtd8s+PAHAAmvjIs2//vRaT9oBrNgVZdJoaaVYnqC4vpOXb9IsjRmK6C8hP/XqnwK/B7iNFOMkQod1EmutRXPeRp4N3cMk/GcRxgHeOFuZxaaOAu2XVTn57yJ3lSu4oGz2qtALkSvnrXZo6IrRh9Re5Fvge/3N/W1atXFZbmUecCg+05TSQlItiNf0yb0yJ2qY=;dIkzGoViSPCJAmK7LaWZSQ=="
 ---
 

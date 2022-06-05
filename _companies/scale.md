@@ -4,7 +4,7 @@ otherNames:
   - "Scale.ai"
 overview: "The Data Platform for AI: High quality training and validation data for AI applications."
 type: "profile"
-heat: 249
+heat: 203
 
 website: https://www.scale.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "scale_ai"
   url: "https://twitter.com/scale_ai"
-  followers: 14483
+  followers: 14487
 
 size: 51-200 employees
 yearFounded: 2016
@@ -49,6 +49,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "tigp3u49pP/0I9xO/7aVgC6qi5qOGRqQfDLbAriejabOO+GoGB+ugLO12oReQgbI/UfcpNHowurYYZrisNP0bYc0k8PrkzilRjCrglyWW7DdfU98zoM2ZA3hqWmkX6ud/QqfGCTLlAsmGm7EOEZMvyToZ5eMDt8kaNSmkUVQko5XmIWAtexipLw9ZIUFvB0+LiIGNYl69W2uavPBRAHHoYxkQt6wlDE24/URwDWZxT20lkipYYGD4cVjhj2mXDGkaRDiVxL8XK/WW5WV4ZUHbfIShsV3BKKmsUYnYBNM/sXsrWjAdcYWIYbpTpumUpAcMob5an5Bno7IPXUy9LVDwdmAuFt4zzId6aeEsZbMYbqt0R9USn7YmTOLqnUq2mOI1WwmDzOK02RKNAwZiSbRhmcw7rq2j2zWQG3nEwhw/90=;I2NmR+Z5c6PNqUqy0qFtqA=="
+secured: "iOFp68a+ft2uCZ8oCkOi3YKTbUh+Vy1GV2OCfGZ0OSprlnakbxqETliV2SxQ5KbjG/tPy1l7sa9LUCUG/5hadyQyzFEtEocWnit8WOHL+ZIfbU/oKuyozB/DY+rqy+gBtsEaDSsqMd1uC3z7RZ8VVX9E07RJgkV6xIfhRherUqJ/nNjiV7Xkdx+OEa+OeEMGef49UFzZ+29uXRTwthe01FrwSOEYjgnWI9saogm3T/z0XsZ90ViFerUhuI1Pq1X2YPWOYfU9YNIn7l4BYJV+H2Wqtqle+7hXNnDi3eAJa7ZxSVNLTY/guojyMYESA+m4lDcmBqFR36FegGeLa//JrgwonHqv0JYA3yLbWaW39Xm7Jhz9ikc1vxg5L7KYMjw2GDZyLOa18juSn1JiR4cKnOPL2daryv02hYtEATQY67A=;pMfPMiuzzegtDhv07VzrZw=="
 ---
 
