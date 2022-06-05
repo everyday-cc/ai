@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-rem
 webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -24,128 +24,22 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Why Robotics And Artificial Intelligence Are The Future Of Mankind"
-    excerpt: "Robotics and AI certainly have the power to transform our world, helping us navigate a rapidly changing future with greater confidence and optimism."
-    publishedDateTime: 2022-05-31T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
+  - title: "Creepy AI ‘face search engine’ sparks stalking fears as it can find any picture of you on the internet"
+    excerpt: "“The weaponization possibilities of this are endless,” a technology law and ethics expert told the The New York Times. PimEyes is aware of the controversial nature of their business - the company says they do not store data and that all the results ..."
+    publishedDateTime: 2022-05-31T20:50:00Z
+    webUrl: "https://www.thesun.co.uk/tech/18746349/creepy-ai-face-search-engine-sparks-stalking-fears/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/18746349/creepy-ai-face-search-engine-sparks-stalking-fears/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18746349/creepy-ai-face-search-engine-sparks-stalking-fears/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 123
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 43
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//613246cfa37776e285f84f80/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/05/ES_SELFIE_OFFPLAT.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Artificial Intelligence, Societal Impact, and the Future of Education"
-    excerpt: "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,"
-    publishedDateTime: 2022-06-02T16:06:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 74
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg"
-        width: 471
-        height: 354
-        isCached: true
-  - title: "Robotics and Artificial Intelligence"
-    excerpt: "Robotics and Artificial Intelligence When you think of artificially intelligent robots, the Star Wars’ C-3PO and R2-D2 may come to mind, or perhaps that mechanical “bucket of bolts” that agitated Dr."
-    publishedDateTime: 2022-05-31T18:59:00Z
-    webUrl: "https://banyanhill.com/externals/bold-profits-daily/glossary/robotics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Banyan Hill Publishing
-      domain: banyanhill.com
-    quality: 71
-    images:
-      - url: "https://cloudcollective.s3.us-east-1.amazonaws.com/shareableAssets/images/GuruSite/PaulMampilly/Robots1.jpg"
-        width: 510
-        height: 332
-        isCached: true
-  - title: "AI and robotics set to disrupt construction waste recycling"
-    excerpt: "Recycleye pairs an AI recognition system with a robotic sorting arm to replace human pickers on material recycling facility (MRF) lines. The start-up company, founded in 2019, by two Imperial College London graduates, is a finalist in a new Young Inventors ..."
-    publishedDateTime: 2022-06-01T11:47:00Z
-    webUrl: "https://www.bimplus.co.uk/ai-and-robotics-set-to-disrupt-construction-waste-recycling/"
-    type: article
-    provider:
-      name: bimplus.co.uk
-      domain: bimplus.co.uk
-    quality: 69
-    images:
-      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/06/recycleye-featured.jpg"
-        width: 1500
-        height: 844
-        isCached: true
-  - title: "4 skills that won't be replaced by AI in the future"
-    excerpt: "You've probably heard for years that the workforce would be supplanted by robots. AI has changed several roles, such as using self-checkouts, ATMs, and customer support chatbots"
-    publishedDateTime: 2022-06-04T15:00:00Z
-    webUrl: "https://www.nationalheraldindia.com/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
-    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
-    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
-    type: article
-    provider:
-      name: National Herald
-      domain: nationalheraldindia.com
-    quality: 57
-    images:
-      - url: "https://gumlet.assettype.com/nationalherald%2F2022-06%2Ff9236b72-3ab6-4501-a169-aa6afee839ed%2F4_skills_that_won_t_be_replaced_by_AI_in_the_future_.jpeg?rect=0%2C4%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "The role of AI in data privacy"
-    excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
-    publishedDateTime: 2022-06-01T18:07:00Z
-    webUrl: "https://venturebeat.com/2022/06/01/the-role-of-ai-in-data-privacy/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "An AI-enabled workforce is the future of customer engagement"
-    excerpt: "But when COVID made it impossible to swing by stores, consumers increasingly turned to messages, emails, chats, and calls to engage with companies—creating a heavy influx for customer engagement teams."
-    publishedDateTime: 2022-06-02T13:21:00Z
-    webUrl: "https://www.fastcompany.com/90756245/an-ai-enabled-workforce-is-the-future-of-customer-engagement"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
-        width: 1280
-        height: 672
-        isCached: true
-  - title: "Community colleges and employer partners are teaming up to expand pathways to artificial intelligence jobs of the future"
-    excerpt: "Community colleges can help ensure that diverse talent can fuel the innovation economy while accessing job opportunities."
-    publishedDateTime: 2022-05-31T14:47:00Z
-    webUrl: "https://www.newamerica.org/education-policy/edcentral/community-colleges-and-employer-partners-are-teaming-up-to-expand-pathways-to-artificial-intelligence-jobs-of-the-future/"
-    type: article
-    provider:
-      name: New America
-      domain: newamerica.org
-    quality: 16
-    images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/Community_colleges_with_AI_progra.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Leveraging automation, AI and analytics to better compete in the digital economy"
-    excerpt: "How are some organisations using automation, AI and analytics to enhance their business processes to win in the digital age?"
-    publishedDateTime: 2022-06-02T06:31:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/leveraging-automation-ai-and-analytics-better-compete-digital-economy"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 16
 
 secured: "l11vfsKJrCAia9J5ikEclkDB+y/Cz8VZKvzo5Cs1xjDMCcCUwARRbU5S4bTITBb9uKeblRmoLKPEY0TxqksLQOh/IEBtOLOATNt1ko0orZfDDvCm6ot7skCu+FyPUaG0YM/Nyi6MOkMtJRbqbr/VuauqZVKxkNMDlvfh/zSjn1CFm+kf3sr7nnVN7FatrRRv3ENGycDunDlNXxn3oNBsbJiaX46gHd2Q7pr3CPpKxsaHByk9tXVSWFukURsrVroiG0xyVrA6WqbOPXy0QW1HCrFZhbJA7IT5R2b+tLWsVphvV+C9YLohN9yVIyL3zC9x4ZFqZEuqGHvwBRdRYEVFYgqQ7/oPdVwU2WEiCUgCXruQdsSd0Jii8Lsf7IYV1Rp70wWhaC/7husNPvhU5jV6pkdnfTvb1aiQm6YcFjOrxOSz2wdlpy7L6OmBxd9q9qSY4eYa7RQxsdEFCEA00cycQDIzoWmkxallQ08ohCDXjEsM2U5rANeLbEsAvaSJcFBopYuuhZgimNmxGbXlJbkWXg==;0Ag8VMhp8qpcqyJUd7A7sA=="
 ---

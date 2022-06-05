@@ -69,20 +69,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Guardforce AI Extends Contract with Government Savings Bank in Thailand; Contract Valued in Excess of $19 Million over Three Years"
-    excerpt: "Guardforce AI Co., Limited (“Guardforce AI” or the “Company”) (NASDAQ: GFAI, GFAIW), an integrated security solutions provider, announced today that Guardforce Cash Solutions Security (Thailand) Company Limited (“GFCS”),"
-    publishedDateTime: 2022-05-31T11:37:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/politics-d2d11408d484fde21f517ad40ed9fc45"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "qJHcTeXpeHpI4sheR7bygOcvwdnyIBBd5ZGxdyOYlIOtjhyRHGblwkURrdgHWMvJfCtip3gK7gSF12IJmnCHRvkHkrUNJysTZq4/FuJhr+C7ujs3EOhmLNT+cTH3CgTic6ypkau718MZ5y/s0aq5rohdw5+uBRzzXbPkz1D6tMrNi0k0dVQR2/nkvBrb44dilp76FfbjDSDnAOwzibT+ZKX8N1/hWnJxk5mF/CKfGidC9iMHJq5oyeLyLPVq37/YacZtRb2jy4mVaAIyYtM1XBJqbDweToQFmn9Yo/G8bVO+0Ka0zvgPaLpYzJAWdBpK3gr0BdJruglEjDtWXYNxQ9ApJVHDWZLym3Yiu16Snfs=;61lNWNWOTwgJFPnjonEhuw=="
 ---

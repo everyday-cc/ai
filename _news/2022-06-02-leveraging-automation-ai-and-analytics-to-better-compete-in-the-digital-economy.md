@@ -20,127 +20,113 @@ topics:
   - IBM AI
 
 related:
-  - title: "Why Robotics And Artificial Intelligence Are The Future Of Mankind"
-    excerpt: "Robotics and AI certainly have the power to transform our world, helping us navigate a rapidly changing future with greater confidence and optimism."
-    publishedDateTime: 2022-05-31T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
+  - title: "Translate, redact and analyze streaming data using SQL functions with Amazon Kinesis Data Analytics, Amazon Translate, and Amazon Comprehend"
+    excerpt: "You may have applications that generate streaming data that is full of records containing customer case notes, product reviews, and social media messages, in many languages. Your task is to identify the products that people are talking about, determine if they’re expressing positive or negative sentiment,"
+    publishedDateTime: 2022-06-03T16:37:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 123
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//613246cfa37776e285f84f80/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/translate-redact.jpg"
+        width: 1000
+        height: 498
         isCached: true
-  - title: "Amazon Re:Mars Is The Place To Be If You're Into Machine Learning, AI, Robotics And Space"
-    excerpt: "Naturally, since AI will impact everyone, it's crucial to have a diverse ... technology and actual product integrations—what's already out there and how to start bringing it into their daily operations. Next, we discussed the \"final frontier\" of the ..."
-    publishedDateTime: 2022-06-01T13:09:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space/"
+  - title: "Train machine learning models using Amazon Keyspaces as a data source"
+    excerpt: "Many applications meant for industrial equipment maintenance, trade monitoring, fleet management, and route optimization are built using open-source Cassandra APIs and drivers to process data at high speeds and low latency. Managing Cassandra tables yourself can be time consuming and expensive. Amazon"
+    publishedDateTime: 2022-06-03T19:01:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-machine-learning-models-using-amazon-keyspaces-as-a-data-source/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-  - title: "Artificial Intelligence, Societal Impact, and the Future of Education"
-    excerpt: "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,"
-    publishedDateTime: 2022-06-02T16:06:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+  - title: "Standard Bank shows ‘it can be’ by using AI and analytics to improve customer service"
+    excerpt: "Africa’s largest financial institution, Standard Bank, is on a mission: to find ways to set itself apart so that the bank can meet its customer needs in today’s complex, ever-changing world. Operating in more than 20 countries in sub-Saharan Africa and globally,"
+    publishedDateTime: 2022-06-01T09:09:00Z
+    webUrl: "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/"
+    ampWebUrl: "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp"
+    cdnAmpWebUrl: "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 74
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg"
-        width: 471
-        height: 354
-        isCached: true
-  - title: "Robotics and Artificial Intelligence"
-    excerpt: "Robotics and Artificial Intelligence When you think of artificially intelligent robots, the Star Wars’ C-3PO and R2-D2 may come to mind, or perhaps that mechanical “bucket of bolts” that agitated Dr."
-    publishedDateTime: 2022-05-31T18:59:00Z
-    webUrl: "https://banyanhill.com/externals/bold-profits-daily/glossary/robotics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Banyan Hill Publishing
-      domain: banyanhill.com
-    quality: 71
-    images:
-      - url: "https://cloudcollective.s3.us-east-1.amazonaws.com/shareableAssets/images/GuruSite/PaulMampilly/Robots1.jpg"
-        width: 510
-        height: 332
-        isCached: true
-  - title: "AI and robotics set to disrupt construction waste recycling"
-    excerpt: "Recycleye pairs an AI recognition system with a robotic sorting arm to replace human pickers on material recycling facility (MRF) lines. The start-up company, founded in 2019, by two Imperial College London graduates, is a finalist in a new Young Inventors ..."
-    publishedDateTime: 2022-06-01T11:47:00Z
-    webUrl: "https://www.bimplus.co.uk/ai-and-robotics-set-to-disrupt-construction-waste-recycling/"
-    type: article
-    provider:
-      name: bimplus.co.uk
-      domain: bimplus.co.uk
+      name: CNBC Africa
+      domain: cnbcafrica.com
     quality: 69
     images:
-      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/06/recycleye-featured.jpg"
-        width: 1500
-        height: 844
+      - url: "https://dvqe78s2mxr8j.cloudfront.net/wp-content/uploads/2022/06/Standard-Bank_30-Baker-Street_Interior_2-1-820x389.jpg"
+        width: 820
+        height: 389
         isCached: true
-  - title: "4 skills that won't be replaced by AI in the future"
-    excerpt: "You've probably heard for years that the workforce would be supplanted by robots. AI has changed several roles, such as using self-checkouts, ATMs, and customer support chatbots"
-    publishedDateTime: 2022-06-04T15:00:00Z
-    webUrl: "https://www.nationalheraldindia.com/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
-    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
-    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
+  - title: "AI, predictive analytics top list of hot technologies for banks"
+    excerpt: "AI, machine-learning, predictive analytics, natural language processing (NLP), computer vision and microarchitecture are hot technologies that banks are investing in today, according to a Forrester report."
+    publishedDateTime: 2022-06-02T20:59:00Z
+    webUrl: "https://www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html"
+    ampWebUrl: "https://www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html/amp"
     type: article
     provider:
-      name: National Herald
-      domain: nationalheraldindia.com
+      name: CIO
+      domain: cio.com
     quality: 57
     images:
-      - url: "https://gumlet.assettype.com/nationalherald%2F2022-06%2Ff9236b72-3ab6-4501-a169-aa6afee839ed%2F4_skills_that_won_t_be_replaced_by_AI_in_the_future_.jpeg?rect=0%2C4%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 400
-        height: 210
+      - url: "https://www.cio.com/wp-content/uploads/2022/06/fintech_electronic_payments_banking_dollars_euros_pounds_yen_by_metamorworks_gettyimages-1127063674_2400x1600-100835370-orig-100890294-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "The role of AI in data privacy"
-    excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
-    publishedDateTime: 2022-06-01T18:07:00Z
-    webUrl: "https://venturebeat.com/2022/06/01/the-role-of-ai-in-data-privacy/"
+  - title: "Bringing Analytics to All: Inchcape’s AI and Business Functions Unite over Alteryx"
+    excerpt: "Users of the Alteryx platform at Inchcape are singing the praises of the low-code platform: and some voices are firmly from the data science department."
+    publishedDateTime: 2022-06-01T07:32:00Z
+    webUrl: "https://techwireasia.com/2022/06/ai-ml-artificial-intelligence-machine-learning-business-focus-platform-best-review/"
+    ampWebUrl: "https://techwireasia.com/amp/2022/06/ai-ml-artificial-intelligence-machine-learning-business-focus-platform-best-review/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2022/06/ai-ml-artificial-intelligence-machine-learning-business-focus-platform-best-review/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "An AI-enabled workforce is the future of customer engagement"
-    excerpt: "But when COVID made it impossible to swing by stores, consumers increasingly turned to messages, emails, chats, and calls to engage with companies—creating a heavy influx for customer engagement teams."
-    publishedDateTime: 2022-06-02T13:21:00Z
-    webUrl: "https://www.fastcompany.com/90756245/an-ai-enabled-workforce-is-the-future-of-customer-engagement"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 51
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
-        width: 1280
-        height: 672
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2022/06/shutterstock_2072431601-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Community colleges and employer partners are teaming up to expand pathways to artificial intelligence jobs of the future"
-    excerpt: "Community colleges can help ensure that diverse talent can fuel the innovation economy while accessing job opportunities."
-    publishedDateTime: 2022-05-31T14:47:00Z
-    webUrl: "https://www.newamerica.org/education-policy/edcentral/community-colleges-and-employer-partners-are-teaming-up-to-expand-pathways-to-artificial-intelligence-jobs-of-the-future/"
+  - title: "Top 8 predictive analytics tools compared"
+    excerpt: "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot."
+    publishedDateTime: 2022-06-01T09:46:00Z
+    webUrl: "https://www.arnnet.com.au/article/698085/top-8-predictive-analytics-tools-compared/?fp=2&fpid=2"
     type: article
     provider:
-      name: New America
-      domain: newamerica.org
-    quality: 16
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
     images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/Community_colleges_with_AI_progra.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/prediction_predict-the-future_crystal-ball_hand-holding-crystal-ball_by-arthur-ogleznev-via-unsplash-100811997-orig-100927909-orig.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
+  - title: "Synopsys Launches the Era of Smarter SoC Design with ML-Driven Big Data Analytics Technology"
+    excerpt: "Driving greater design productivity by harnessing previously untapped design insights with machine learning technology, Synopsys, Inc. (Nasdaq: SNPS) today announced a critical expansion of its EDA data analytics portfolio with the introduction of Synopsys DesignDash design optimization solution."
+    publishedDateTime: 2022-06-01T14:05:00Z
+    webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220601SF74500/synopsys-launches-the-era-of-smarter-soc-design-with-ml-driven-big-data-analytics-technology/"
+    type: article
+    provider:
+      name: WTVW
+      domain: tristatehomepage.com
+    quality: 8
+  - title: "Corelight Announces New Platform to Deliver Open-Source Powered Network Evidence Integrated with Machine Learning and Behavioral Analytics"
+    excerpt: "Corelight, the leader in open network detection and response (NDR), announced Corelight Investigator, a SaaS-based solution that extends the power of open-source driven network evidence to SOC teams everywhere."
+    publishedDateTime: 2022-06-01T03:29:00Z
+    webUrl: "https://pipelinepub.com/news/Corelights-New-Platform-Delivers-Open-Source-Powered-Network-Evidence"
+    type: article
+    provider:
+      name: pipelinepub
+      domain: pipelinepub.com
+    quality: 5
+    images:
+      - url: "https://media.pipeline.pubspoke.com/files/issue/260/cover/OSS-BSS-Automation.gif"
+        width: 500
+        height: 647
         isCached: true
 
 secured: "1T8u1zb+JqOL+QuuhiT9akZJ4OYNciSVQda/hpxW5VGvBZnxaYmix/0zaXwpXCOTKQPnl5/jE47ek/GfB5cPxmfTQbkeXlSIWL7UQYqCkwXy5HaUekU2DjQbwH4sFB9NjDnqC6bsDY8BX6D+ao+YPosGic1Iq1VGdBM2SJr5hETLxreyUL4LZnMJnlWzVb2oaZi96unZu3pUESjDqYoWbWkg/dXBs3JG1r4G8nq41h2MiEu4KHVPkEbyGpCzFKKhU5dSg1tInID+2DPyYVPjllzAhG32iSoC89PihpOZfuqbjs+0FThm2mOp8g6nyFVqRiW+BN0UmCmPlkr6lIREs+0+TJq+yyXggFgl7k0DEE1lb91mEq+ukFyY1wl5DhmWktnsBgqfExJvkP2M0LXc8GwMtAgS2V/k6ODX+Tq30VyhoWrWs5Iez92BfPT6jdY2eDHO1GzmgQEVLdJx5JZ9dLpRC0h3wFUyxxbrM5xWqnyhMyei8dMk3ygDZIoC7YI1XeAjUQeKAI6NQO3ghxvELw==;G7Ab6vXX/9Dd3T+cqMOfVg=="

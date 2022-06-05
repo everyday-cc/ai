@@ -89,6 +89,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Elon Musk Says Tesla AI Day Pushed to Sept 30"
+    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30. \"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,"
+    publishedDateTime: 2022-06-03T09:40:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-06-02/elon-musk-says-tesla-ai-day-pushed-to-sept-30"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Musk says Tesla may have ‘Optimus’ robot prototype within months"
     excerpt: "Tesla Inc may have a functioning humanoid robot up and running within months, chief executive officer Elon Musk said on Twitter, as he postponed the electric carmaker’s second AI Day until Sept 30 for that reason."
     publishedDateTime: 2022-06-03T04:41:00Z
@@ -146,15 +155,6 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 36
-  - title: "Elon Musk says Tesla AI Day pushed to Sept 30"
-    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30. \"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,"
-    publishedDateTime: 2022-06-03T01:31:00Z
-    webUrl: "https://kfgo.com/2022/06/02/elon-musk-says-tesla-ai-day-pushed-to-sept-30/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 34
   - title: "Elon Musk promises a working humanoid robot later this year"
     excerpt: "Musk has just postponed the second edition of Tesla Day, dedicated to artificial intelligence to the end of September from Aug. 19. The reason? Musk promises to present a working prototype of Optimus, a humanoid robot that will replace people in Tesla’s ..."
     publishedDateTime: 2022-06-03T19:50:00Z

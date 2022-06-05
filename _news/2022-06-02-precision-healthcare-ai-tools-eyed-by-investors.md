@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The role of AI in data privacy"
+    excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
+    publishedDateTime: 2022-06-01T18:07:00Z
+    webUrl: "https://venturebeat.com/2022/06/01/the-role-of-ai-in-data-privacy/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "AI and ML can transform healthcare in India but here is what we need to take care of before that"
     excerpt: "Over the past decade, the fields of medicine and healthcare management have witnessed several technology-led breakthroughs. Chief among them are changes brought on by Artificial Intelligence and Machine Learning."
     publishedDateTime: 2022-06-04T12:41:00Z

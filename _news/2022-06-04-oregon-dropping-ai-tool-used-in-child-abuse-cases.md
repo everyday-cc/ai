@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Oregon dropping AI tool used in child abuse cases"
+    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
+    publishedDateTime: 2022-06-02T19:03:00Z
+    webUrl: "https://www.41nbc.com/oregon-dropping-ai-tool-used-in-child-abuse-cases/"
+    type: article
+    provider:
+      name: 41 NBC News
+      domain: 41nbc.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.41nbc.com/content/uploads/2022/06/e/n/mgn-1280x720-90515b00-iqwum.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
     excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
     publishedDateTime: 2022-06-03T18:43:00Z

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Creating artificial intelligence that acts more human by 'knowing that it knows'"
-excerpt: "A research group from the Graduate School of Informatics, Nagoya University, has taken a big step towards creating a neural network with metamemory through a computer-based evolution experiment. Their paper appears in Scientific Reports."
-publishedDateTime: 2022-06-02T14:54:00Z
-originalUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.html"
-webUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.html"
-ampWebUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-artificial-intelligence-human.amp"
+excerpt: "Development of metamemory in AI system allows it to adjust its understanding based on what it already knows, learning and evolving based on its"
+publishedDateTime: 2022-06-02T02:37:00Z
+originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/221764"
+webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/221764"
 type: article
-quality: 56
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: AlphaGalileo
+  domain: alphagalileo.org
 
 topics:
-  - AI in Autos
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/creating-artificial-in.jpg"
-    width: 968
-    height: 476
+  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/c65469bd-d0a7-45b1-8890-5276674dca9d-ogers20cover.jpg"
+    width: 400
+    height: 599
     isCached: true
 
 related:
@@ -54,6 +50,6 @@ related:
       domain: eurekalert.org
     quality: 14
 
-secured: "GKbl6Blsar7tDEoCZ9sdzGjlE8a8ebjtyPvCuAuDvkaLHI2c6D1Lwgx0n7t6P5hwaU/zAWINvX2xonx3rMABvLWsoUNXlWWG+xqjiCjRpfoEFDBrEc7tlahEE00DsuWUlPGF7BzVQzm87OK31RsPNtzBpIuEsqV4Wg4NVi/NRz3/263KNw1hlTpaV4cjsmiKPftUmXPxGYsn2kJXtGxSSKzJrwlImRzklx5ZTnk5s7MAjGA4a4B5WaHC2te8dZt6lbXxjXHsiF4BdbdeZ1hLbN5bruzD/iXen/cEbWBWoGJcJ+Wtdk6OtNUcyhKMSAFKeXNn1vP2ekEiOMzPXIGeYRPZnvy7nnmDOYkR1mM5iMliMaVEIoo2DZCZtT3yhPB4T5wUc/bKzr3zkwSbkaQWN/BvaUNPQMEWMQSulQdw4EHldGnn4TC0JN89SXLFtRToQEycP0M/i4wQpb2NJFI8e86Kqm724x9gBKMa99F0hYbNp+u51JtDP3Nyhm+oFJnzGFvKbBrasCfsFiIC48cUEg==;RtmjIdbYy/i9IMvEOMEZnA=="
+secured: "HD6s8KJiJE3cLXwt0jKVFKfVsbKUXXRoCIP+it+iEGfJLaxt1nNiUDvQs2g94me0uas7cVuQRWx7jpOfvl33NQdsgMUGNvC7tiJ+xT+KpVHIRAC3vx8BSQoPumR8AwFxbVS6k01S+7RLG0eZo2TA8L7o4z67loxd3AjVUY5Gs4znraf3em6biesHqteBIh41T63vxRatT9BdPkH92in6n75RQLHU/oX148XSe775krjVtjPrt/qSuOwbkcQixReVI1ueVvGDNHnDIfdF8thK8Y359SQ1zneb7XogUhZUjC0Op87toHsoz/EbDZxUGerBfZ0ZezhtiCe/PLiH33O3aNXyE4kjekIcIf7Iyyiula4=;OpcuBwNezkpSty5hcuhm5A=="
 ---
 

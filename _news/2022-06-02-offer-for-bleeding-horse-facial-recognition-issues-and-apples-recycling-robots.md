@@ -25,56 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Investigating the links between facial recognition and Alzheimer's disease"
-    excerpt: "In recent years Alzheimer's disease has been on the rise throughout the world and is rarely diagnosed at an early stage when it can still be effectively controlled. Using artificial intelligence, KTU researchers conducted a study to identify whether human-computer interfaces could be adapted for people with memory impairments to recognize a visible object in front of them."
-    publishedDateTime: 2022-05-31T17:32:00Z
-    webUrl: "https://medicalxpress.com/news/2022-05-links-facial-recognition-alzheimer-disease.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-05-links-facial-recognition-alzheimer-disease.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-links-facial-recognition-alzheimer-disease.amp"
+  - title: "AI and robotics set to disrupt construction waste recycling"
+    excerpt: "Recycleye pairs an AI recognition system with a robotic sorting arm to replace human pickers on material recycling facility (MRF) lines. The start-up company, founded in 2019, by two Imperial College London graduates, is a finalist in a new Young Inventors ..."
+    publishedDateTime: 2022-06-01T11:47:00Z
+    webUrl: "https://www.bimplus.co.uk/ai-and-robotics-set-to-disrupt-construction-waste-recycling/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: bimplus.co.uk
+      domain: bimplus.co.uk
+    quality: 69
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/investigating-the-link.jpg"
-        width: 2880
-        height: 1620
+      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/06/recycleye-featured.jpg"
+        width: 1500
+        height: 844
         isCached: true
-  - title: "AI Improves Drug Screening for Alzheimer’s Disease"
-    excerpt: "Alzheimer’s disease accounts for 60-80 percent of dementia cases and is the most common cause of dementia according to the Alzheimer’s Association. Dementia is the decline in"
-    publishedDateTime: 2022-06-03T02:57:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease?amp"
+  - title: "AI in Construction Market to Register Growth of ~34%, See Why"
+    excerpt: "Latest published market study on Global AI in Construction Market provides an overview of the current market dynamics in the AI in Construction space, as well as what our survey respondents—all outsourcing decision-makers—predict the market will look ..."
+    publishedDateTime: 2022-06-01T08:05:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-construction-market-to-register-growth-of-34-see-why"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic254724589.jpg?itok=2OcHf9BC"
-        width: 1528
-        height: 800
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Researchers investigate the links between facial recognition and Alzheimer's disease"
-    excerpt: "Kaunas University of Technology. (2022, May 31). Researchers investigate the links between facial recognition and Alzheimer's disease. ScienceDaily. Retrieved May 31, 2022 from www.sciencedaily.com/releases/2022/05/220531102702.htm Kaunas University of ..."
-    publishedDateTime: 2022-05-31T16:06:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/05/220531102702.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
-  - title: "KTU researchers investigate the links between facial recognition and Alzheimer’s disease"
-    excerpt: "In recent years Alzheimer’s disease has been on the rise throughout the world and is rarely diagnosed at an early stage when it can still be effectively controlled. Using artificial intelligence, KTU researchers conducted a study to identify whether human-computer interfaces could be adapted for people with memory impairments to recognise a visible object in front of them."
-    publishedDateTime: 2022-05-31T13:25:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/954269"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 10
 
 secured: "rFE+SOZaCoqs3g3zULn7msVEyP+uoG5FPlNSnat3PJUqLy6NXQMpxtSHOzgGJUdF9jEG8KSlDHmb5w78AqLCr8Z3SRjnHEzA/y6kMU+GOogMw0+I3yD9ArpD4c44t8DgeZV3ERXSc4Zmtx0L3Ut7u0hT93yaZXA5TQLD8WTSFUPuEXYouO3RVnt75EPtWGkzLH90HKTnVlYIABMlgPdYdPcrPGvffwfJIfEX+8m7Hw6zsnp5DBYYdFFEsY6TZuiFOK31GpasWdLKigdCXx5X//k6yp9iaZ/byEPyIBdb6NeX1PcHNu9BX22Mhusyw9Fp1uxC+VeLAc/cpFqX/qNSh2gdg+ki5vszfSiLhXNo3Nz903Ip3c9+1BXtr0e9rL2/am/jKRT7jLXIsnh+deh0T/YQd57x/2EacUBp//Af/d9zP/R9Mill8vhTz2Virf79p7E+zC9r3Kj3tA2iK9ENOlsDVYmGvsCOxa6lrXhIg66N23A6/2rujCjm51Ixow04tND9XDzxUqeRtYzPgNTsvQ==;tIJpDTzTKSOYjTneQZKWkw=="
 ---

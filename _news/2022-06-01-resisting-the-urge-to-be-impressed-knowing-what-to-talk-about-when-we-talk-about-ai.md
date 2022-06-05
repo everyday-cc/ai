@@ -31,20 +31,18 @@ images:
 
 related:
   - title: "Creating artificial intelligence that acts more human by 'knowing that it knows'"
-    excerpt: "A research group from the Graduate School of Informatics, Nagoya University, has taken a big step towards creating a neural network with metamemory through a computer-based evolution experiment. Their paper appears in Scientific Reports."
-    publishedDateTime: 2022-06-02T14:54:00Z
-    webUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-artificial-intelligence-human.amp"
+    excerpt: "Development of metamemory in AI system allows it to adjust its understanding based on what it already knows, learning and evolving based on its"
+    publishedDateTime: 2022-06-02T02:37:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/221764"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 56
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 32
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/creating-artificial-in.jpg"
-        width: 968
-        height: 476
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/c65469bd-d0a7-45b1-8890-5276674dca9d-ogers20cover.jpg"
+        width: 400
+        height: 599
         isCached: true
   - title: "Creating artificial intelligence that acts more human by ’knowing that it knows’"
     excerpt: "Development of metamemory in AI system allows it to adjust its understanding based on what it already knows, learning and evolving based on its environment as humans do."

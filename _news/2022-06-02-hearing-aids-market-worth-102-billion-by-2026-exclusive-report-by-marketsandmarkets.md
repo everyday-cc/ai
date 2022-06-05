@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27517496"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27517496"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Study from StrategyR Highlights a $860.8 Billion Global Market for Digital Advertising and Marketing by 2026"
-    excerpt: "In China, digital ad revenue recorded gains led by rising investments in social media, e-commerce, and short video despite the decline in average media spend during the major part of the year. Digital gained importance among all marketers and will remain critical even in the forthcoming years."
-    publishedDateTime: 2022-05-31T11:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-study-from-strategyr-highlights-8608-billion-global-/2022/05/31/9611365.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/1828086/Digital_Advertising.jpg"
-        width: 400
-        height: 249
-        isCached: true
   - title: "Lending and Payments Global Market Report 2022: Artificial Intelligence is Gaining Prominence - ResearchAndMarkets.com"
     excerpt: "The “Lending And Payments Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global lending and payments market is expected to grow from $7,833.28 billion in 2021 to $8,"
     publishedDateTime: 2022-06-03T13:42:00Z

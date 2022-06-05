@@ -34,20 +34,6 @@ related:
         width: 480
         height: 240
         isCached: true
-  - title: "New Study from StrategyR Highlights a $860.8 Billion Global Market for Digital Advertising and Marketing by 2026"
-    excerpt: "In China, digital ad revenue recorded gains led by rising investments in social media, e-commerce, and short video despite the decline in average media spend during the major part of the year. Digital gained importance among all marketers and will remain critical even in the forthcoming years."
-    publishedDateTime: 2022-05-31T11:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-study-from-strategyr-highlights-8608-billion-global-/2022/05/31/9611365.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/1828086/Digital_Advertising.jpg"
-        width: 400
-        height: 249
-        isCached: true
 
 secured: "uQK0mINTaMbiPbhgDxqBK5Wr0yzbItwPgLyE3HEAZQ6orsyHx/13cMckfRqA9DTBpCfuw+SlnDRlfHJ+HYVsmH8Bid61NFd4yxfVwODfqQTWyHT2Fby+S0oTVdYOOnIlMzQ91KfBVKptFbtHMZv3mTO/a3mG+0AWRgOzR+aSjf0q3ZBE7hzmrI0zBG9MOwnxxYocjWsjY5IGIyM0u9tb7hyUBzMkT7OovFsmT9WRfaJPeA57PnAVXCcvt1PF3TDSz/Tc7Gu7oOZvkjpnYxbb2+Eom1VCdzHraLccbrDxPc61hxxYHlvZcyYCBtJltE3+NKd0qevJczvqXR41laQOqLouL4u9X5AJldX5hLZfRqs=;YX6tqitjL9D1XFRt2Yc4+Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/oregon-dropping-ai-tool-chil
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/oregon-dropping-ai-tool-child-abuse-cases-85136298"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/8/74/87447892-e2b7-11ec-af3a-671aa4c84ef6/629926ce936d9.image.jpg?crop=1762%2C928%2C0%2C123&resize=1200%2C632&order=crop%2Cresize"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Oregon dropping AI tool used in child abuse cases"
+    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
+    publishedDateTime: 2022-06-02T19:03:00Z
+    webUrl: "https://www.41nbc.com/oregon-dropping-ai-tool-used-in-child-abuse-cases/"
+    type: article
+    provider:
+      name: 41 NBC News
+      domain: 41nbc.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.41nbc.com/content/uploads/2022/06/e/n/mgn-1280x720-90515b00-iqwum.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Oregon dropping AI tool used in child abuse cases"
     excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."

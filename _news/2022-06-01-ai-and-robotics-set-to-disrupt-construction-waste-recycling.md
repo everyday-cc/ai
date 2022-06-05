@@ -7,8 +7,8 @@ originalUrl: "https://www.bimplus.co.uk/ai-and-robotics-set-to-disrupt-construct
 webUrl: "https://www.bimplus.co.uk/ai-and-robotics-set-to-disrupt-construction-waste-recycling/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: bimplus.co.uk
@@ -25,123 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Why Robotics And Artificial Intelligence Are The Future Of Mankind"
-    excerpt: "Robotics and AI certainly have the power to transform our world, helping us navigate a rapidly changing future with greater confidence and optimism."
-    publishedDateTime: 2022-05-31T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/"
+  - title: "AI in Construction Market to Register Growth of ~34%, See Why"
+    excerpt: "Latest published market study on Global AI in Construction Market provides an overview of the current market dynamics in the AI in Construction space, as well as what our survey respondents—all outsourcing decision-makers—predict the market will look ..."
+    publishedDateTime: 2022-06-01T08:05:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-construction-market-to-register-growth-of-34-see-why"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 123
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//613246cfa37776e285f84f80/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Amazon Re:Mars Is The Place To Be If You're Into Machine Learning, AI, Robotics And Space"
-    excerpt: "Naturally, since AI will impact everyone, it's crucial to have a diverse ... technology and actual product integrations—what's already out there and how to start bringing it into their daily operations. Next, we discussed the \"final frontier\" of the ..."
-    publishedDateTime: 2022-06-01T13:09:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-  - title: "Artificial Intelligence, Societal Impact, and the Future of Education"
-    excerpt: "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,"
-    publishedDateTime: 2022-06-02T16:06:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 74
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg"
-        width: 471
-        height: 354
-        isCached: true
-  - title: "Robotics and Artificial Intelligence"
-    excerpt: "Robotics and Artificial Intelligence When you think of artificially intelligent robots, the Star Wars’ C-3PO and R2-D2 may come to mind, or perhaps that mechanical “bucket of bolts” that agitated Dr."
-    publishedDateTime: 2022-05-31T18:59:00Z
-    webUrl: "https://banyanhill.com/externals/bold-profits-daily/glossary/robotics-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Banyan Hill Publishing
-      domain: banyanhill.com
-    quality: 71
-    images:
-      - url: "https://cloudcollective.s3.us-east-1.amazonaws.com/shareableAssets/images/GuruSite/PaulMampilly/Robots1.jpg"
-        width: 510
-        height: 332
-        isCached: true
-  - title: "4 skills that won't be replaced by AI in the future"
-    excerpt: "You've probably heard for years that the workforce would be supplanted by robots. AI has changed several roles, such as using self-checkouts, ATMs, and customer support chatbots"
-    publishedDateTime: 2022-06-04T15:00:00Z
-    webUrl: "https://www.nationalheraldindia.com/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
-    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
-    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
-    type: article
-    provider:
-      name: National Herald
-      domain: nationalheraldindia.com
-    quality: 57
-    images:
-      - url: "https://gumlet.assettype.com/nationalherald%2F2022-06%2Ff9236b72-3ab6-4501-a169-aa6afee839ed%2F4_skills_that_won_t_be_replaced_by_AI_in_the_future_.jpeg?rect=0%2C4%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "The role of AI in data privacy"
-    excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
-    publishedDateTime: 2022-06-01T18:07:00Z
-    webUrl: "https://venturebeat.com/2022/06/01/the-role-of-ai-in-data-privacy/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "An AI-enabled workforce is the future of customer engagement"
-    excerpt: "But when COVID made it impossible to swing by stores, consumers increasingly turned to messages, emails, chats, and calls to engage with companies—creating a heavy influx for customer engagement teams."
-    publishedDateTime: 2022-06-02T13:21:00Z
-    webUrl: "https://www.fastcompany.com/90756245/an-ai-enabled-workforce-is-the-future-of-customer-engagement"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 37
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
-        width: 1280
-        height: 672
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Community colleges and employer partners are teaming up to expand pathways to artificial intelligence jobs of the future"
-    excerpt: "Community colleges can help ensure that diverse talent can fuel the innovation economy while accessing job opportunities."
-    publishedDateTime: 2022-05-31T14:47:00Z
-    webUrl: "https://www.newamerica.org/education-policy/edcentral/community-colleges-and-employer-partners-are-teaming-up-to-expand-pathways-to-artificial-intelligence-jobs-of-the-future/"
+  - title: "Offer for Bleeding Horse, facial recognition issues and Apple’s recycling robots"
+    excerpt: "A British investment firm has made an offer, believed to be close to €9.4 million, to buy the landmark Bleeding Horse pub in Dublin city. Attestor Capital, a London firm that has bought six other well-known Dublin pubs in a little more than a year,"
+    publishedDateTime: 2022-06-02T05:40:00Z
+    webUrl: "https://www.irishtimes.com/business/2022/06/02/offer-for-bleeding-horse-facial-recognition-issues-and-apples-recycling-robots/"
     type: article
     provider:
-      name: New America
-      domain: newamerica.org
-    quality: 16
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 34
     images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/Community_colleges_with_AI_progra.2e16d0ba.fill-1200x630.png"
+      - url: "https://www.irishtimes.com/resizer/6JwebUt9sUdm5a8wMNHQgQ-tyYs=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/UZJOHH6YVML4RKFZ2JZKEZSYHE.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Leveraging automation, AI and analytics to better compete in the digital economy"
-    excerpt: "How are some organisations using automation, AI and analytics to enhance their business processes to win in the digital age?"
-    publishedDateTime: 2022-06-02T06:31:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/leveraging-automation-ai-and-analytics-better-compete-digital-economy"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 16
 
 secured: "zoSWG8TyIT9hqQi0R7NgRZc1dkhHXBEectwrbKRHZ4pOga9Qm+FjYTEuiCjPitEhgELETXkB755wO8ht1fuJ6fpUy2qZ/vflm8hcfFi8IXHN6AJX6kU5d0HYJar4iKRrhgUHU66k3yI63DQGQ9Qnyn2glCIHOa9ZS/m4vYVtIfC/ewCNg2Fx4h1+A4cjWLSpW+jtXgYLfuVltSX6IqAknO9tC2sZ21wh9RTtHIlSkTc8+TPHyM2HiVs7XiBxCJtkXYz4YTywpZH90xUOmjuuC54DaweLwBCwYxS7CFBJriRmgBGWX+NX6uaahzzQN/GcWD8tyH9RjiBCQzGe4HHtr13dwb5AX8fHWpaDhogtJnA=;ajbbBsSj/awLzTwngAjuTA=="
 ---

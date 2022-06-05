@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence is breaking patent law"
 excerpt: "The patent system assumes that inventors are human. Inventions devised by machines require their own intellectual property law and an international treaty."
 publishedDateTime: 2022-05-24T00:00:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco"
-webUrl: "https://www.nature.com/articles/d41586-022-01391-x?via=indexdotco"
+originalUrl: "https://www.nature.com/articles/d41586-022-01391-x"
+webUrl: "https://www.nature.com/articles/d41586-022-01391-x"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 576
     isCached: true
 
-secured: "ugoAdBjk2ZSsZ0jE72xppW5FKFo9ccI6HlFhdcJkykc6ZdxJEUDNJFCGbpaC79YnBz9+f+YkzTvQw/QhtW7fnVOVRRvIrTcSD0W8NPJhMC+p59npQ0z/BTAsaxE1zU02RzRSGaPB/5AMb3mECLYtAJ/ZQv69SByTuEqaWmc4bWxiLfBGjHz7YzocOW6UUMSV71p2/dQmJ3PftDn8XGjT8DrbJiigi6ZXslzpD7XliYQ8kvhQcgZSrVNRdYwzHNxQAafrLqFPEHXHL89hGggNdBPWYcrs4RJ735dnfIexGv3E/DEzhkQWgh3YiWaJ+WYoy0iOgK/kKNVhUrKt31xISeD8GcbEQ1GpBxbwWDK1w9g=;01T3Z4d8jKngiU7Q34u6jA=="
+secured: "oMFRJ7ovddrvc81bFAMkCU7tcdnFHoUnaXQq1C2KKWNSgHa+ziBZ77RCe/FuwGihpH8/UzRGmeoH/xnxgV+3HjhZQzDTeKunBRWbLFBJWWwewe0RSLAjUCKD8GijNRv16IH1qworqJNnufqgEKnXT6SSX3dvNGWHvG3E62/psXCHo4mJ7wmmjQQHzkE8qcVD+UKpt5S7BDCKmxhNdRCOzoCJKpomDKtW2njSkZAOcq+MV7y6o55/iNoDtr62+ZlA9T6li/DZWYn5cgE1JIZKQ1L3ztWVU3FjXLXEIfFUUmROYIvGu4FIwP+55g2gawTPIyJ+FQfD/U3sB4VAdFjdqcNB17Hjlq1uHH8oGdczgNY=;mUyorA6Wzlg9ayo1lZ5zxg=="
 ---
 

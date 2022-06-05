@@ -51,20 +51,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 42
-  - title: "Offer for Bleeding Horse, facial recognition issues and Apple’s recycling robots"
-    excerpt: "A British investment firm has made an offer, believed to be close to €9.4 million, to buy the landmark Bleeding Horse pub in Dublin city. Attestor Capital, a London firm that has bought six other well-known Dublin pubs in a little more than a year,"
-    publishedDateTime: 2022-06-02T05:40:00Z
-    webUrl: "https://www.irishtimes.com/business/2022/06/02/offer-for-bleeding-horse-facial-recognition-issues-and-apples-recycling-robots/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 34
-    images:
-      - url: "https://www.irishtimes.com/resizer/6JwebUt9sUdm5a8wMNHQgQ-tyYs=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/UZJOHH6YVML4RKFZ2JZKEZSYHE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "KTU researchers investigate the links between facial recognition and Alzheimer’s disease"
     excerpt: "In recent years Alzheimer’s disease has been on the rise throughout the world and is rarely diagnosed at an early stage when it can still be effectively controlled. Using artificial intelligence, KTU researchers conducted a study to identify whether human-computer interfaces could be adapted for people with memory impairments to recognise a visible object in front of them."
     publishedDateTime: 2022-05-31T13:25:00Z

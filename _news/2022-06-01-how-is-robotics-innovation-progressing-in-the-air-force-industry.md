@@ -7,7 +7,7 @@ originalUrl: "https://www.airforce-technology.com/dashboards/patents/how-is-robo
 webUrl: "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Storage Is Driving The Future For The Auto Industry"
-    excerpt: "With vehicles becoming smarter and more connected, there are ways that memory and storage solutions providers can stay nimble and innovative in order to remain in the driver’s seat in a competitive automotive market."
-    publishedDateTime: 2022-05-31T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/31/how-storage-is-driving-the-future-for-the-auto-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Artificial Intelligence Robots Size 2022, Segmentation, Investment Scenario, Recent Trends, Industry Outlook, Application and Global Forecast to 2030"
     excerpt: "Global Artificial Intelligence Robots Market to surpass USD 107.3 billion by 2031 from USD 7.8 billion in 2021 at a CAGR of 29.76% within the coming years, i.e., 2021-31. Fatpos Global added new report into their database named “Artificial Intelligence Robots Market Segments: By Type Service Industrial By Technology Machine Learning Computer Vision Others By Application Public Relations Military & Defense Stock Management Others By Function Training Inference 2021–2031 Global Industry Perspective,"
     publishedDateTime: 2022-06-01T10:34:00Z

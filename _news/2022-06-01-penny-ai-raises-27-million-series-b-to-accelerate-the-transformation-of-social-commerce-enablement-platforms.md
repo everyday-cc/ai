@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailytimes.com/business/penny-ai-raises-27-million-
 webUrl: "https://www.thedailytimes.com/business/penny-ai-raises-27-million-series-b-to-accelerate-the-transformation-of-social-commerce-enablement/article_9cd4a697-9b85-57fa-8ec5-6e0b3484164a.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Massive Bio Raises $9 Million to Scale Growth and Fuel Global Expansion of Its AI-Enabled Oncology Clinical Trial Platform"
-    excerpt: "Massive Bio, Inc., a leader in precision medicine and artificial intelligence (AI) enabled patient centric clinical trial enrollment, raised $9 million co-led by Revo Capital and Kenan Turnacioğlu, Chair of Board of Directors PaigeAI,"
-    publishedDateTime: 2022-06-02T12:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-new-york-artificial-intelligence-b7cf9db64c084b9eb4fc44caa219cb67"
+  - title: "An AI-enabled workforce is the future of customer engagement"
+    excerpt: "But when COVID made it impossible to swing by stores, consumers increasingly turned to messages, emails, chats, and calls to engage with companies—creating a heavy influx for customer engagement teams."
+    publishedDateTime: 2022-06-02T13:21:00Z
+    webUrl: "https://www.fastcompany.com/90756245/an-ai-enabled-workforce-is-the-future-of-customer-engagement"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/v1541101333/fcweb/FC-Twitter-Card_new2_mqyz2q.jpg"
+        width: 1280
+        height: 672
         isCached: true
+  - title: "The Otome World Ain't a Picnic for an AI Either"
+    excerpt: "The first thing I did after realizing I'd apparently become an AI was to create a humanoid body for myself. That's my story and there is no evidence to say otherwise"
+    publishedDateTime: 2022-06-01T16:17:00Z
+    webUrl: "https://archiveofourown.org/works/39367983/chapters/98520858"
+    type: article
+    provider:
+      name: Archive of Our Own
+      domain: archiveofourown.org
+    quality: 17
 
 secured: "RS2Y3IYAQLHcVqwASDGTqVKLOFyYZ+EcpHUelyCMUu0wJ5dxRNZiRI+h2XD1f1nc9jVT1S0WZkkqKlqGRjJzEjlX5Um2rCagMqcLStdOaIMUXmS+YnyP1ivuRScgq/qs8HYulYrhwVJ8rfG22PWyT0Z2K/CnSBQP4e9VntBxMcdWJ+H7P+OfPDkTr8e4RJ2mnvegfh042/P8Kw2hMftCjj0xlpE/MTOuZow4+DuKcVawJEUQJek7QRefeiqrdbwvnadFQlJz31t1o77dGHEqiJ0EgB9lz/1LWTuB/koYEhquAxUGUBOb41YESutCXD+hZcNe+BZcGEiTMib+EZnAiOq2nLb4pRGUDrA8R26E8CqolBuoi+Xs3JLGRm9LaCeHvrrgyJEOrBDp9v25W/SmzqvxxY9bMPGONxSKQBmz6WGGI+gAd/FlmEMZ4BhWNpF+Rs90bngxRhfIKWMjinfTJ1MDv+A9kPGhLzmDd0o8nNHkAaMTQXSu1qYbmMKpmEquVIVhiRPi5qFmk7LpWdPFmg==;AiPBr5+g16cMo2SEBT+kYQ=="
 ---

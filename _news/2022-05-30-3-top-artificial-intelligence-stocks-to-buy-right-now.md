@@ -1,7 +1,7 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Artificial intelligence (AI) is an emerging field that many companies ... is making hay. Amazon Web Services (AWS) is the clear cloud infrastructure leader, claiming 33% of the overall marketplace. AWS is highly profitable and multiplying."
+excerpt: "Next, we look for solid companies in growing industries that may have become undervalued. Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take ..."
 publishedDateTime: 2022-05-30T11:08:00Z
 originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802"
 webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?time=1653907802"
@@ -14,9 +14,8 @@ provider:
   domain: nasdaq.com
 
 topics:
-  - AWS AI
   - AI
 
-secured: "BcfPa8+hosyaHt4OJ9fPBV6HEC/9wivNaqC41ZAAEY1yzxQM5JpeHUbu90kQM4bn53r0e75yFQMkWGqb4um6TBC+alPFucRhP/DLwdwUtZvfF3mf4fHrSvcjpbBHxZgc2aO3owZNfS134z2Mk1he1YxvGNKnmnsPldDF7S3l5n8j7vblftOyqKWwZlWh6sKh3wM0zhYp+7UBPig8fJBVvDGyo9rZck6+/gPAK+NbfUN3JOrc72EdNx27wxnHmcmn3yFHlnZW0foFV5TjF6Gyr/n6KFJTKOUVIAkeckA2EsGnJEanzhb8akk2oNeNJbOGnvHc5SJ8ZWJiGeOLsyHIGzAMfRSceSHp9jjJrC/WmSH+pBlds7CNYpXGqDmP5m1u7txSl9osG/5NX4SKv1C5QJ9ALWMXQE0cTwI1PbOVTOMoLqQ3z6kbGsoYqSBvz+pxdl3UU1DGmqHrXG8CAp8UOGZL7SVYJCHz17d4+lDHGJLh2k+vYPMSiw9RvLlRCP7jQAsV+6ol88ob0dVsmGnmZw==;SJ3RrXDk/0PFEoF62fnhfw=="
+secured: "ReRpB2jHczJYKlddZc/3Ul/g9AIkZ/YbvMyoiH90yZcw3pBVpb597q6OrLxE42UWLzCK7ysuY0BJAZa3/LyQO8hE1d7mVr963Q/4Va9095bBEocPa7vqOKgPQAyMgmprOUA4VcT+bDVW9/M91A5/NmvzqDiM6josTIJVl5FbVt3vVUM40ffYbIT7uFESbF1XTYUGmt1S/EGOjMLfTWn5p51eF6lOTjv384MegxMVlpb8D+NqMTol5XZHIqQyQnlq80I1t8ZktivUz32wKUuKzfrDBcD6ZViaqjXtQuf0htJ/3cUeYXj+aM0eq7bEohMj+wUbXDJFYbLzDayGDwI4Ku5ccTcbwT2ZXQju+pLfFs7qKYKI1mCugIskvsvLa06ruSmn71CjQbko+ky9rdfXHaZEpgl5E3hNO8fb3qlP0o/8Ph/adxeRsWGTb1JbRuD+RzKlpEzS6BIP2P1WO9JiKTyOAZNCL7oAOlzFEVU2/qswcPlgDW3yJwFb4dLWMx5uFOCYfRuM+DeC0vHY1axaKQ==;yHr+bXyPRspu9bINMwuXdQ=="
 ---
 

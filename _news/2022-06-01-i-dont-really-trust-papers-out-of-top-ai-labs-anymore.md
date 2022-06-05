@@ -7,7 +7,7 @@ originalUrl: "https://cacm.acm.org/opinion/articles/261486-i-dont-really-trust-p
 webUrl: "https://cacm.acm.org/opinion/articles/261486-i-dont-really-trust-papers-out-of-top-ai-labs-anymore/fulltext"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "‘I don’t really trust papers out of top AI labs anymore’"
-    excerpt: "The researchers working at MIT’s Computer Science and Artificial Intelligence Laboratory, Stanford Artificial Intelligence Laboratory, Oxford University and many other top labs are shaping the future of humanity."
-    publishedDateTime: 2022-05-31T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/i-dont-really-trust-papers-out-of-top-ai-labs-anymore/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/Research-papers-from-top-Ai-labs.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "H/C2inGMcvjTvu9JWdo2JURkMKd4aL4kE7xrmFEUFKXdNXwBPw8MH2M1Ung9Os7DyWvtvgYQHEbdEHfOGXPIprxg2la2GY5IcTHGyGqMAicALqiCDbvPmaOlP5xWtLhh7meel2r09BqMQxu52zXQZszpaSc71ilS3P2iindVGFTbIJodTNzjFUc8SCdEf0ncAYWOqoNWQk0N0QhUkmAmuw1QJDuwcZhvDZmTe76IYMqpDITBHZN3J2y0Hg7EisQMbkJdhgMphMRuhbt86hAM6J2VBnYVZJV6t7uJTDVHPU6QDHZIecxSw97yrajAXkyL7QKnUIi3eJrsWuo12pfCDjpP857jtKOk2JomZHoAIVg3sp1k0Zzc9SC9tC8Cy1zh+Su9MU7M+A/eXLvds0RmHkzynJAhYs1bgZj4fKRGTtY6wM9M1MT/NdsWqCBRKQOMEyyeXcupitrQZf/VZmWGSqTGu13FUlTPSeSOyJMrV+aM+1u3bJ72UIbTT7KC4yP+jnNbDvTGknI2VZ62ZqNafw==;ScbHD3V1Z9Z6jthf0tPVyg=="
 ---
