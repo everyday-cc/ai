@@ -14,6 +14,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png"
@@ -21,6 +22,6 @@ images:
     height: 942
     isCached: true
 
-secured: "NVTfkVvvcnWQBoAfAqePNYOkVWhTzgqCp+0FoEhlrtjMzUaawsdpJQb3il8sO/vG6Y923Td0z1s+buuTZnmW2AW+2Tfv6qiDzfUH8DVU9eVzopfWc2lUkSeW94BCDvgtmVCsqfB/qYXMK3JRX244C1d3fG95RhckM4HJPyXXG7DnJ71Cdq9NaANcQKXtSn7bqvJqiXaXMsfuQ2ppQj6kC7PXKniGcvW6IBPadM6ShZ0x/gZ1/h6LN/EKsCfI4QHKEUVJijQWF8+Mze2nova2Nqfwhzk1Xt33sy8kq9l/MW0oLVeZLlFvFCPoUXxJO92Wf3RT+SG9KVIQrv2VAk6Td7Tb3S0amtp0TVr7pEAOCAQ=;y2VAqVTi41sr/wJCDWDMsw=="
+secured: "APjl9QX7P+bDmBWitglOLcYMN6YR/ZSfFfiGiWWw1fhxEpnxfmlua3HWg6Q/5uWQpEayADN50g6ol+JFFJmbX6hLM+VZkOIAY1Jy2kKNJZRYSHWR+NW+LqRoQoO4kttCP9mac27B5hIaK6B0mdlW7AWxWvxD0dh1/k3yu3GYMyCbEyI14kT6tgkUyXixILpdQo8D+K0Ktk/0llaQsm4XQNIW0wv58T3ZGiKkndNCqMXPf6FBkGy/9FdzHN0D/Yj5Tnm8fhnXhZYxdNrA45cYvHZVhM1pFwF4x2ut2IM11ArcGmOwDJpLAuC6UZk8MHXPbgKHaZ7fN4jzUHJc6+a3S2yUwdRFcw/vJNUmczFo8ItXWzNrsGIyE1ZwYGFHc4qp8P/2vGb91PO+c20NKBIYO8ZndflzzjMvtKTVaRgG2J85k+24sykltX1TGlASvZigocTF9807sMbRFPncoPMfhCsjg6mKlK6X+sEvd/EjGeTlmAy/RXR+64aWEEu6I2EVNlVrMbZKHCr9qk6BTOM8fw==;/yDw5dzYQ8iTZHqzjMgwaA=="
 ---
 
