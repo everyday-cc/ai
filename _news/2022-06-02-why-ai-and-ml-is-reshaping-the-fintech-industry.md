@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/financial-services-finserv/why-ai-and-
 webUrl: "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 1799
         height: 1010
         isCached: true
-  - title: "Impact-investing fintech opens Malta base"
-    excerpt: "Prometheus Technologies is in the process of establishing a base in Malta and will benefit from the very high calibre of post-graduate talent in machine learning and investment research which is"
-    publishedDateTime: 2022-06-01T12:41:00Z
-    webUrl: "https://www.independent.com.mt/articles/2022-06-01/business-news/Impact-investing-fintech-opens-Malta-base-6736243387"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 4
 
 secured: "0fC9nZwUOdSkIyfE7EV3oYjwxD+o739FxcDJNIXEPgj7EeHFvphgYGz0xciBZwXkhTydvjOWaUuv3FRfez9YTnRE0vM7ISZavdex/HRrXt1JE9htE7/PawVdTtS382+mlJzHcIWb4kl08vs6G4WFXuErz44FFv7ec+bEzdnu3/sIMN3AAXGke/Mwbou33Ai5IAPogRq8VV8Fw947NS0WNuLNfqcoO1LC5FmvznaPe+MyEYqrIog1MtNaqrNKEsVLtItJh7Ta8JVJKoszhaiY66pJSzbAmlM0bdFv32O+ZM9WuK5IpGHNB/Os6s2s/tLaDotYzeqiWkMzj8kywCSLJsFqiVbpcJPgilYbX+B0Y+E3Uqw/Xj9Jq8clYI4k1csujpsUWr0eQD55GxaQ/rFa0gZ0Srp2vKf5jt7LPx6bUrUqhGU0QPWrsAeWmDeHZhW9e3MhTukuYd6WXMJIaMwZInBSYW9j5e66x6M8sCqANVZ2jbHPkxPbbhf13xSa5AUIhVPnNwNHsQ8/K1kWKEvvXg==;7Ce0/5xgYs8e+aKPJccvIA=="
 ---

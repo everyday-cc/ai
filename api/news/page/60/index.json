@@ -2,6 +2,48 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-04-13-ai-can-predict-probability-of-covid-19-vs-flu-based-on-symptoms.md",
+      "title": "AI can predict probability of COVID-19 vs. flu based on symptoms",
+      "excerpt": "The next step is to create an AI, web-based calculator that can be used in the field. This would allow clinicians to arrive at a presumed diagnosis prior to the visit,\" said Alemi. From there ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/26-covid.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-ai-probability-covid-flu-based.amp",
+      "publishedDateTime": "2022-04-12T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-the-internet-cant-believe-cops-pulled-over-a-driverless-car.md",
       "title": "The Internet Can't Believe Cops Pulled Over A Driverless Car",
       "excerpt": "It's difficult for even today's most advanced artificial intelligence to predict how human drivers will act at any given moment. As automation of driving duties is enacted on city streets across the United States, so too are questions raised on whether ...",
@@ -1061,58 +1103,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-natural-language-processing-market-size-worth-usd-1653-billion-by-2028.md",
-      "title": "Natural Language Processing Market Size Worth USD 16.53 Billion by 2028",
-      "excerpt": "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-worth-usd-1653-billion-by-2028-2022-04-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-worth-usd-1653-billion-by-2028-2022-04-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -18,17 +18,6 @@ topics:
   - AI Ethics
   - AI
 
-related:
-  - title: "A new scale to curb skin tone bias in AI"
-    excerpt: "In one study, Facebook researchers ... came after a backlash within its own AI division. The company has now introduced an alternative, in partnership with Harvard professor Ellis Monk. The culmination of Monk’s research is the Monk Skin Tone (MST ..."
-    publishedDateTime: 2022-06-01T11:59:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/a-new-scale-to-curb-skin-tone-bias-in-ai/article65484094.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
-
 secured: "97RbOICDxXchqf98KP+rryfGA207glr4o+J7q/jx2N912Py/OqVytJVxpGaHdvQ4nZRahv6/JNqooHYX0Ummuc7P/cLmgVzPchGoXLi41GI7fsytSbbzgVqFU641iV8m3W+TwIOqfcpGEElOlqh+Qk/B/TeeBvBFVzKzwDXEdc4ag+ei3mI8knY/5kJUJeTd5tUmfInRp25dgmm0T0JT9+6/T9YCckYK717fr/F1GQkr0Ru1QDJnlw3vuaF8LFcDZdhu3ew4esGMiSTKE7dO8NSNhssBbjWikQZAXtDDXVvI2LGo8VHOs7m8pKHOXwdN9hCjPuCk7SZr4ZTmccgOLjvJtGk/PIwjBL3kfb+3eVNjnV1Vdxjx6N/+1XBv85khiCnKG7iHxumeqMlPJ8ZmiGVyTVYvgClwwHCE3+AChjyzPYKcwU868gcidydHJktwdxOkaVU2yefOFwtWfu/XlISuUf0aa0cFk6UGX+jgRKktsbUxlns+Y7YCU+clKW1JilFTk8h+35QE/Ce235omGg==;+UoRg1F+t7Lg23ib4OtUZQ=="
 ---
 

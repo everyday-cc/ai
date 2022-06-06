@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/25407-indias-voda
 webUrl: "https://www.thefastmode.com/technology-solutions/25407-indias-vodafone-idea-launches-ai-ml-driven-adtech-platform-vi-ads"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vi launches AI/ML-driven adtech platform 'Vi Ads'"
-    excerpt: "Vi Ads will enable marketers to engage with the operator’s over 243 million subscribers through digital media as well as traditional channels"
-    publishedDateTime: 2022-06-01T11:40:00Z
-    webUrl: "https://www.exchange4media.com/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html"
-    type: article
-    provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 74
-    images:
-      - url: "https://www.exchange4media.com/news-photo/120585-main32.jpg"
-        width: 730
-        height: 395
-        isCached: true
   - title: "Vodafone Idea launches AI-driven ad tech platform"
     excerpt: "Vodafone Idea has rolled out its ad tech platform, Vi Ads. The AI-driven platform will allow marketers to directly engage with the telco’s 243 million subscribers through multiple channels like Vi owned digital media- Vi App,"
     publishedDateTime: 2022-06-02T04:42:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-06T02:39:00Z
 originalUrl: "https://www.newswit.com/en/Lf26"
 webUrl: "https://www.newswit.com/en/Lf26"
 type: article
-quality: 4
+quality: 6
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.newswit.com/img/f/20220606/3de0d353219d5f809f8079cc3ae8c2c1-0.jpg"
@@ -50,6 +51,6 @@ related:
       domain: venturebeat.com
     quality: 44
 
-secured: "bZrqr5Dsme136/tW28U99ZL4gEfWT35NQ8Xfb3wSiYDimo9zFcqdTs+phCi0fL7whjnpyO8ZEFl/ECDzMBbPq+uVSNXQCA4+DPzsZ34L4LPvPWRmsjmxkWU8LPz7CUMEPIj7owb8T6SxsqsRVdd1zf01Lc0NxpIy8TEwqap/7o1A48ETchzWHpOfuTZLyycxawzdXTY5JtCyiH5uLwpS12XCoSytvCt/CwAkyzmDILldVDEg/4g3ffBZ8u0ST1v7SoFmy4ZsMJUq6I2dS1Wm4kQRILx4RrDkbR1A+oWgSE+i17+dUjnkmeH745vf0opM3gMtYHxV2tGFjEcc6avrPXssjeQzJRURERD71gHUvJM=;slXuwWlho6nBvu72FsapTg=="
+secured: "5d7ZHfDoSqeLfm9ddMUiGaYdgNUzIJBs/Dxynrgh2iXmG/mj//5+Cy/lrH18Khvnz//YgrfFU2NMIWriUaL/mYJtRdv+7I+tcLyRDhVCqwBfFmOAomgpFGgJSeQfNfgJBPwfn+GF7cdnoz9UGj8wGA/PPC0+5cmi6EnbDYxhA/vHTYUOXYAp9NgbEQ+yQUWhWjhcFkGqIbqPwtpdPYQCw6qg9hSX17BfshMgSEDpUAW4LOJHe+05E8RLYYvTTiBIIE7mg9IIyqL/08wJAXianf8798aOJJQjJaCEfTn273Af8Ovht031DR3eofriMK0ynHMfYHX6rfXgYz6SUcS2vXCCLrSYygNOuvCn4BCJ45Un9AQFQGlMQzc/xN4mIIU+vUZGN/IoMPRscllqg2RE5KwlGJ35jmqnuLHSNmmZFvc3UOgJEMY9Ag6R7BRz4ktt1cSMZyWuJfJYoEjScCsnVl++LZMuthaEfTpShDwYQyno/3nqLOhGxV0LS4YhzNbAtNH2QTJftJnR3qMmlUEX6g==;i3KvCRyn89FUvk8LRyWi8g=="
 ---
 

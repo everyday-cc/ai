@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-03-canon-mcmillans-music-education-program-receives-national-recognition.md",
+      "title": "Canon-McMillan's music education program receives national recognition",
+      "excerpt": "Canon-McMillan School District has been honored with the Best Communities for Music Education designation from The National Association of Music Merchants Foundation for its outstanding commitment to music education.",
+      "sourceUrl": null,
+      "webUrl": "https://observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.html",
+      "originalUrl": "https://observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/observer-reporter.com/content/tncms/assets/v3/editorial/9/8c/98c80576-d54b-11ec-b6c7-cf1590593691/6282a138658b7.image.jpg",
+          "width": 560,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.amp.html",
+      "cdnAmpWebUrl": "https://observer--reporter-com.cdn.ampproject.org/c/s/observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.amp.html",
+      "publishedDateTime": "2022-06-03T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer-Reporter",
+        "domain": "observer-reporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-rezoai-launches-a-game-changer-for-enterprises-fueling-sales-marketing-and-support-teams-to-boost-revenue-growth.md",
       "title": "Rezo.AI launches a game-changer for Enterprises fueling Sales Marketing and Support teams to boost revenue growth",
       "excerpt": "PTI takes no editorial responsibility for the same.) New Delhi, June 2, 2022: Rezo.ai, an AI-powered CX Cloud for enterprises that are transforming customer experience, improving agent productivity, and operationalizing real-time intelligence,",
@@ -295,7 +339,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1129,51 +1173,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-why-ai-and-ml-is-reshaping-the-fintech-industry.md",
-      "title": "Why AI and ML is Reshaping the Fintech Industry",
-      "excerpt": "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg",
-          "width": 1800,
-          "height": 1011,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
       ]
     }
   ],

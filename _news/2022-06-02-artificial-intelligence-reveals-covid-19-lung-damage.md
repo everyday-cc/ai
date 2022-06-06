@@ -7,7 +7,7 @@ originalUrl: "https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddlee
 webUrl: "https://www.natureasia.com/en/nmiddleeast/article/10.1038/nmiddleeast.2022.29"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Q&A: Machine learning models identify patients with long COVID"
-    excerpt: "NIH researchers using machine learning models identified key characteristics of people who have or likely have long COVID.The findings were published in The Lancet Digital Health."
-    publishedDateTime: 2022-06-01T12:59:00Z
-    webUrl: "https://www.healio.com/news/primary-care/20220601/qa-machine-learning-models-identify-patients-with-long-covid"
-    type: article
-    provider:
-      name: Healio
-      domain: healio.com
-    quality: 19
 
 secured: "mp/TY8CTIhJwv2QaCzZVfnF86sDp/MXWf3i50JsfbzLz8hZ4jxXYQiVeoPD03+0APW97cOWRnUZtcGDvODGFtk9kD+zNC5qCff+uHlvtsuhC6a8Tm0CevM7IDRXSS2oQIXptjR1AEo5Zg9ukreQL3cFrEG/5NHq3fTmJVBqqZrKFrQY5W7i4WHvQNRHmjcMv1yZNVxZt3tyZ3GzgCOfU4YPqEi8f7IaqzVBek4yJvdvk1Xk0+HUboFpri1pjSmGZEAqGwO/QRBRnk3Xg1vjhjK7VKCAMlCnf3rI7FLKTHxeNGbKGre3KiRHVng50xfKeOPVSbYBIpt2nSIPsXBod/Ved3SvujIIEGNupy9T/6IY=;T/zjCZ3UQOTwSq+xWtnSiQ=="
 ---

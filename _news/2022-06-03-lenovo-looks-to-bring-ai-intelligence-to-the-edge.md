@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intellig
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "Unanimous AI and Agora World partner to bring Swarm Intelligence to the Metaverse"
-    excerpt: "Swarm AI® technology empowers collaborating groups in virtual worlds to amplify their collective intelligence and generate more accurate decisions, forecasts, evaluations, and assessments. Swarm Intelligence, the science behind Swarm AI ® technology ..."
-    publishedDateTime: 2022-06-01T11:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/unanimous-ai-and-agora-world-partner-to-bring-swarm-intelligence-to-the-metaverse/article_2e337cd3-bb8c-5539-8317-9dc1fc3b528f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
 
 secured: "BJZhFHUTrHXfQ42ZBRwRoQ87+Tyu1FYx0aXRsJtJRkHSwTnQB7FJvEm5iO2eVhKBKGjAU10DmmrxwjjJcV6a1y8WNs1Pql7Tz7LM2FrwY8Y/TkkEYibA3BEmKz4IHFQumq/BhfEEbObCEg37XHOWu1PbY8avaPE+rVX4SIK20+XENrMK415yHNgSiLJJOMvvinmSZF9zo6VujBZ9vBWbMVnYoj4ESArNftsojvDQushCkC4MAVJQvW0+P4C84Xbv1+XVrAQMalQAAjUGVItAHvq7La7ZIUEE7lTMA2Omz8off4dkSBESlGiemrGcsu12uifJy5pcUtvWU0FvShMiDNLnbrUJ//krLJ0XBdOn5UuKmWPO42CRqbl+Vp0VhxNeCw+12Vwz3zHAE6acIMTg7j8fL5Y7XMVxE/SSpjO7HlLkCPfZCyzkHKKIyZdMDO8iJYy+ni3L/wRRcS59D2mMJjp+JlvvK8wlNHXVjuStP9Ei4aW71AQt5ifUBvzWG7j3U/9cfewr35KyQCU9kDWAjA==;IiGgC9YbrCPFxmWFYXuviw=="
 ---

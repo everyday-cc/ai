@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vi launches AI/ML-driven adtech platform 'Vi Ads'"
-    excerpt: "Vi Ads will enable marketers to engage with the operator’s over 243 million subscribers through digital media as well as traditional channels"
-    publishedDateTime: 2022-06-01T11:40:00Z
-    webUrl: "https://www.exchange4media.com/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html"
-    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html"
-    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html"
-    type: article
-    provider:
-      name: Exchange 4 Media
-      domain: exchange4media.com
-    quality: 74
-    images:
-      - url: "https://www.exchange4media.com/news-photo/120585-main32.jpg"
-        width: 730
-        height: 395
-        isCached: true
   - title: "India's Vodafone Idea Launches AI/ML Driven Adtech Platform 'Vi Ads'"
     excerpt: "India’s leading telecom operator, announced the launch of its own world class ‘Ad-Tech’ platform - Vi Ads – an AI/ML driven Adtech platform, that gives marketers a programmatic media buying platform that is cutting edge and ROI focused."
     publishedDateTime: 2022-06-06T01:18:00Z

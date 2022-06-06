@@ -34,15 +34,6 @@ related:
         width: 1154
         height: 606
         isCached: true
-  - title: "Traceable AI Enhances API Catalog for Discovery Risk Management"
-    excerpt: "Traceable AI, an API security and observability company, now offers an enhanced API Catalog solution to enable organizations to overcome their challenges with API discovery and risk assessment. Inventory of assets is the root of every security program,"
-    publishedDateTime: 2022-06-01T13:01:00Z
-    webUrl: "https://channelvisionmag.com/traceable-ai-enhances-api-catalog-for-discovery-risk-management/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 17
 
 secured: "yGWbP1xX0kojUssRYZTCZr+xAkEsuz7RVvPDft7FBf3rLjAhjnCTaCk6aNoaXe/I4jKE0PtgetopzXuKdqaYlwgG7wuY/e5R34x2Hy04pUYIclg3AoJL53Nq0qbCXj4jwAvzjwVWFpPkx492MdaTJv+5iVJGH2gx3OHgcVERt4N8oMStuADdeoWszxWUDk566q3138JF0MecwnVSMN2296JV6QDWIHptMULhi7wbTqQKnbvWj1VIA+CIaxNbKumreMlqD7yADOV4mxapgBRF56anY0sPARVVvyyTT7hVyr8xObZ/NyjnRyX3+TZ+zN4XJqS+/2w8jIuFap4MQiTLfqBo1rQ2CPDnxk//rFaWKO8gqoOzhKzhOi/Bs8sxZy3fvmRyzwwUkvMX/peG9dhbc/4YRuR3D0PzW5WUVWY/RUvvRBBsFNVMRxn/n55KqBFFwJlsv8mwhVhK3RaPKbTpVefaDVxwvb8Koe+gd4qMEf+UypL3cveFOsdrFvPnVHz6DMC54XnX64Y8I+iUyBUdTg==;vhU1aEkOmhagmvZApxGV+Q=="
 ---

@@ -57,15 +57,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Unanimous AI and Agora World partner to bring Swarm Intelligence to the Metaverse"
-    excerpt: "Swarm AI® technology empowers collaborating groups in virtual worlds to amplify their collective intelligence and generate more accurate decisions, forecasts, evaluations, and assessments. Swarm Intelligence, the science behind Swarm AI ® technology ..."
-    publishedDateTime: 2022-06-01T11:48:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/unanimous-ai-and-agora-world-partner-to-bring-swarm-intelligence-to-the-metaverse/article_2e337cd3-bb8c-5539-8317-9dc1fc3b528f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 12
 
 secured: "KvNHa0PBDrd1IuzzkoDH6DuymihhKeh4hEl3CG6MgpJgb2gzXOg9g0AF1k9ThvhQgeHpyCRM2yg2MHOvWeUuQZoJ32n7rGuU6quJps7+idZmlVaxgfZRqUhkbJrs/mJamSlQRIGamDGoRKLqZi3AsSV0MG6zwUMh2edtZj3ySbnYDnRQ6Vws0ZiEhhV7i46VyRfs4JUi5o79w4lmQj1SSd6+bA8I2trod2INkfsMOyB8x0uZGcO5vKEljj/sAiKmgFe5FW8pfoVSzQ7BdVBoBM3nbexS7ysTTuXYv3b+QPoEER/T0PXL1Ge87dlcFPWKGdNJ+mNZ7tVU8vyJYbPmWGeVWrwvKDAkooH0i1yi90828XC2gAst2AlLjDVSviSa1z+t0CZaXKt/ypDVEvZ5gxKmniWDo0jIRZE62w5iGDnLpIzCOI4dlKju3mXxoNZAfjF5mALX4wBjJ0YpR8jTDR9f/9hZ5L823BuDdnCtFOkL/2eNm5KQm/9ceWkHxmt32EJAA4LZhhEx34WwVUAREQ==;2Vk5UjlgGOWmTgKFis/eQg=="
 ---

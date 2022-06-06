@@ -50,15 +50,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Data Privacy In The World Of Quantum, 5G, AI And The Metaverse"
-    excerpt: "G is inevitable, and it will usher in a new era of data access, connectivity and services. AI has already advanced in leaps and bounds during the 2010s, with quantum poised to fo"
-    publishedDateTime: 2022-06-01T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/01/data-privacy-in-the-world-of-quantum-5g-ai-and-the-metaverse/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Kiya.ai launches Indian banking metaverse"
     excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor?"
     publishedDateTime: 2022-06-02T19:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/resisting-the-urge-to-be-im
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Reskilling the Workforce to Better Reap the Benefits of AI"
+    excerpt: "Organizations are rethinking their workforce demands to reap the b. Successful companies invest time and money in reskilling and upskilling their workforce to enable AI and leverage the technology strategically."
+    publishedDateTime: 2022-06-06T02:54:00Z
+    webUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/"
+    ampWebUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Reskilling-the-Workforce-to-Better-Reap-the-Benefits-of-AI-1024x585.png"
+        width: 1024
+        height: 585
+        isCached: true
   - title: "Creating artificial intelligence that acts more human by 'knowing that it knows'"
     excerpt: "A research group from the Graduate School of Informatics, Nagoya University, has taken a big step towards creating a neural network with metamemory through a computer-based evolution experiment. Their paper appears in Scientific Reports."
     publishedDateTime: 2022-06-02T14:54:00Z

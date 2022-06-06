@@ -32,15 +32,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 13
-  - title: "Artificial Intelligence (AI) in military Market Research by Key Players, Type and Application, Future Growth to 2028"
-    excerpt: "The global Artificial Intelligence (AI) in military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
-    publishedDateTime: 2022-06-01T12:47:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-military-market-research-by-key-players-type-and-application-future-growth-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 9
 
 secured: "FSBds/7Shofr+gqB6+PA/ks5n27beDzulxnVjeFVDsq6/NSf6vvRV19rEZUhE6+lyi14bTRez5Od9DgggQcmlN/S1B4WXLsNmZIfqvxnt4bQPhXc07X8oS0qyWPQEMviCGVc0GJmW9DKGPgwGuaXPrds8FMXU+MPVGEn9kLzP6+Znivwa+8pRtrPfCLm6sGQ7pW2cg+qxKgU5l4xt8ufglXioxuTr+smbgs1+ECBEG9l7jacAKSYyg8p1/HZ2CvCBtaWJ+iKeHKArMqN/ZIEXfgv0rSz1WX0pw9WuQ+lJmKLpVm1eiNMqmT8tYu2GGov09g55GdKHuplNp4Q6u/M+5OogjghP8PnPzwWraxHzao=;bL5yRKBeoEBtHObUH04O4w=="
 ---

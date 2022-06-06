@@ -47,7 +47,7 @@ related:
     provider:
       name: academy
       domain: newswit.com
-    quality: 4
+    quality: 6
     images:
       - url: "https://www.newswit.com/img/f/20220606/3de0d353219d5f809f8079cc3ae8c2c1-0.jpg"
         width: 1200

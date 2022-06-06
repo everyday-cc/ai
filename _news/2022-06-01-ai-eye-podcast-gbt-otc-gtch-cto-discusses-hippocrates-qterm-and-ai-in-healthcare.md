@@ -35,15 +35,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "AI Eye Podcast - GBT CTO Discusses Hippocrates, qTerm, and AI in Healthcare"
-    excerpt: "As the adoption of artificial intelligence (AI) and its adjacent technologies in the healthcare space increases, so too does its use cases within the sector. In a recent interview with Investorideas.com,"
-    publishedDateTime: 2022-06-01T12:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-6-1-ai-eye-podcast-gbt-cto-discusses-hippocrates-qterm-and-ai-in-healthcare"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 34
 
 secured: "z/kfvQw+nT6R+Bj9XTzXoNGi6fNNRbo7AtjGhnkLqdjxGE7V9sxY7Bqlbpwt9fSaWmX/C2m4mWRzh2vzJ6abQooBpCqSxJi+C9MJo5FWbib/EyH5ZTHS541HeE2uijMnsgUF6YQzDxQuVtAqYeFE7My2HGx2ym1ljY5+9AEKdZtb68w9x2Xl5DCfakywKLpP27RdoPvX3/20i+fdK/5zVHYxwxWCW/FSlltAkr6mf2pqlXhdKsgYAEOnrsFEiXz0Ozm2EFMnEUhcnc3etUDcxbYylGwR/qKZtuys9trIcY5HeGOoeQfZqcqmdYH7+kxYMcPwxIWACp/vorsuixX5bto3Z9wpUxt8tBg9XR2WY1I=;8yxYmzAJsxbDexotnqq8OA=="
 ---
