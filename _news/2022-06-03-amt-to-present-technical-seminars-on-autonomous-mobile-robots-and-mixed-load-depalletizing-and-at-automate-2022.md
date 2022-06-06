@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "IFR Executive Roundtable at Automate 2022 to Highlight How Robotics and Automation Transform the Economy"
-    excerpt: "Co-sponsored by the International Federation of Robots (IFR) and Association for Advancing Automation (A3), the June 7 panel features executives from FANUC America, Teradyne, UPS, Zebra and NVIDIA."
-    publishedDateTime: 2022-06-01T19:44:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2022/ifr-executive-roundtable-at-automate-2022-to-highl"
+  - title: "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots"
+    excerpt: "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,"
+    publishedDateTime: 2022-06-06T13:03:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-detroit-robotics-ccadf1a6df4b42ba97efc4154ee14a6c"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "0DwXsLo1Vd1uiN0L8e8Mvqlh84TnZNkmBPqnQ/Ub/YMt80uTaqBaUOyc2ffkL/laoi9TfIPMmObsyeUOzUiYHSK7bJYV3vY8ZXClpLu8PwnworAkklGeE+w9LzmXNFE6QnuPmdL6xv5DpXXDPPwqGQlFlZgeo9Va2PsM2YpbbuW5MYJGPycFJ5qVRbeY/uw56A1sD+NnzGuZ4NctdI7c77Fbs0vZ8OfNG7SVchFqMzu7UTSLB3TmQycPMowTnB/F3kdFw3rQ3vzcDtRV2uGn2h7MovlkSTtVbfmwDmnNOTv5skeCqoXdIkXvMGX9aF18kj6RAEjOqd7wrNEX0cMjJQ6FQz1M1ksK0/bKyPbryILs8SM0YeJHTplxRW6gfOserJDYt3MNDNZcyEmC6dW3aXVn2vP7gQ4AqVLHeqfMCNcXbdQweGAlb0nM0no0L6KJUDtDPktoCLL8+HC3PcYGwCP/msH0bpuSc31gafAWqOCF9dcS+CAiT+Ib9vK7pHfHnmdrkImPxmaMxLA3Es3JmA==;E1zyf3kngJtZGjaurRBSaw=="
 ---

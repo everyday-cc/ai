@@ -7,7 +7,7 @@ originalUrl: "https://www.investing.com/news/stock-market-news/nio-enters-partne
 webUrl: "https://www.investing.com/news/stock-market-news/nio-enters-partnership-with-advanced-micro-devices-to-supply-chips-432SI-2833885"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Advanced Micro Devices (AMD) enters partnership with NIO to supply Chips"
+    excerpt: "AMD and NIO entered into a partnership in recent development. AMD will be supplying chips to NIO according to the contract terms."
+    publishedDateTime: 2022-06-06T15:06:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/us/advanced-micro-devices-amd-enters-partnership-with-nio-to-supply-chips/articleshow/92043212.cms"
+    ampWebUrl: "https://m.economictimes.com/news/international/us/advanced-micro-devices-amd-enters-partnership-with-nio-to-supply-chips/amp_articleshow/92043212.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/advanced-micro-devices-amd-enters-partnership-with-nio-to-supply-chips/amp_articleshow/92043212.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17252,msid-92043224/amd.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Advanced Micro Devices, NIO join forces to supply chips to the Chinese EV maker"
     excerpt: "Advanced Micro Devices (AMD) has collaborated with Chinese EV manufacturer NIO (NIO) to supply chips to the Chinese electric vehicle.NIO will use AMD's EPYC family of processors in"
     publishedDateTime: 2022-06-06T06:47:00Z

@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 550
         isCached: true
+  - title: "3 Ways to Drive Business Growth Using AI"
+    excerpt: "Artificial intelligence (AI) has been a breakthrough technology for some of the most successful enterprises. Here are three different ways AI is being used to accelerate business growth."
+    publishedDateTime: 2022-06-06T15:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/425746"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1654032449-shutterstock-618815732.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "iOJURv9S8B5thUB9IpwGwMFCX4TFa8C9EjZf7aX5d1ik5KKju2KUzr62pIKj5BHFtg7K8Jzy/0TJKb2uCMv6AwXehTWXvohVKHgIF0po70cBjV9c7N+bey9oplYofb3o75Mh0dpy4Fsx5k5dAS4DFEsUJPqQyu5OppofPTYWDqwIqN3UCUBU67xO3kQOH+QQS9AzUlJCGmY+hJRPKtgpcH1KWKa/qw6vLCi2j3jSRNdkLNvLqjgtFukrNbPfutAoaa9a43VvK7XU986VkXoOb+Gse93s2NQufdi09dw8fVmekjXufIU07xTWJIUsg6oob0/LgjqQH9vrUkC2M7Gn7S0rJyYyPH1L517NibSwqjc=;by44GMhU+v0UzicjKTRbCA=="
 ---

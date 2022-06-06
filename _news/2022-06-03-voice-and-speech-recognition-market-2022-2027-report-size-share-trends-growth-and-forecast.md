@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "Global Artificial Intelligence Software Market 2022 - Product Type, Ongoing Trends, Competitive Insights and Worldwide Forecast to 2028"
-    excerpt: "The Global Artificial Intelligence Software Market 2022 by Company, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2022-06-01T21:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2022---product-type-ongoing-trends-competitive-insights-and-worldwide-forecast-to-2028-2022-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
 
 secured: "sLAH4Wr7QWlS0FZEBWG2WbKkRIPiYwq+G18G541zRSc1DtdDr0EaueJ4bcGd+MpqmwEAnNNEdL3dd/wHnuDi60HHkHqf/ZyX1t6qoM/bPTUjSTkQ6st9beAXuUR37AJNj4NkpMubHYTGbdJSRkAHQECWt+yVN2HWfc8oEosYbVXDjJl7CkalxmWUspd98cmb9Wrgc9Ccp62j45cxuqlDlxf8RDjT1tdRJ33tBICUoYLwjXhaXH9De857EhWuomoBh2wBVoLcGXJcOTmJKpr18cIgONG6enQk92GK0xtZ+5HcNqPEEGLQjyefQ1OMP8kFIIYphihPc4qra5Nxw42I9aXKV4rf1NljUUHtiOKNYqI=;bCV13TThC/Nnj+keQCrZPw=="
 ---

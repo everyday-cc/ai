@@ -5,7 +5,12 @@ excerpt: "To the average person, it must seem as if the field of artificial inte
 publishedDateTime: 2022-06-06T12:00:00Z
 originalUrl: "https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think/"
 webUrl: "https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think/"
+ampWebUrl: "https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think/?amp=true"
+cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think/?amp=true"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Scientific American
@@ -13,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
-secured: "FzESfncYgJgZLO3uQsoWMYWcEynLZgsmLdDCS9LfMpBO6zaX5RUaT9/ftihLLv+hcpyptMg8ed5vNdzcK6YcOF6F2tRgo9lTG0oLwjKjFI07YpMkbXReq4PreGcVUEkqcREfA3RMfZKmriiSIm8QoBZrX14IP2FYNlgMyO9+nle1RxPARNM9y9OGd8nD/dpOrsTDQNzdx1qOybhrsjVUMNvltOx4I8uQ+Lnx88iEGTAqCvpoJsuVzx/ymndopE8woOmxiI8/Xl+aAfHohDH15RyEQyLtoLX7Xo27HSV5MyqwUWNVZvC86RVwXCqlBCRM8VirWM5e4QJWw492aJNEk/c4LMeDwE1ZrTN7FiG0/XRi1MsFQotj6BtbZJToA4P7OjRlYYItcWbpEgIWhsvTDmrnKKiv0fYrtj2I0MPEVfBNO72AEawLh9r8D4kOqxc4p5fTZGha/0FHtAl/W6MFmXmgkdHTNsomNzanE0x0Aqxd04LuDMOWwZYSjPKTXW568GYsW3CEohHCpcCdvqmxtQ==;XJEAA9kEK2os+fGqFb/G5Q=="
+images:
+  - url: "https://static.scientificamerican.com/sciam/cache/file/E28FB559-B206-4F85-8BB177FF23A683CC.jpg"
+    width: 790
+    height: 496
+    isCached: true
+
+secured: "DeyxEPZmw1qxW6MYV6ZZhEiMuyDESUOIClzXq4wakf2vSHY9mk28dIajlwFeX5T4EH4HQb6LoplOsqHEFZJodIeLkDtpBjSgTi9MqXytLcLco441fdPcRNV1IGS1cLZLQux7uYOSGb4qKsGObQnRDYpULq0VeAPcPUlOPTSzASE9L5EgiDxyhg6WMLY8wA/RnU75SdLBsq61bm60RUmFNdxMBMlcop2sZsSG0w+xon1plhngTH/Vf/iJTCMfM8B8U6Do75y6wDYvvoiDEoE3BeX4TE+QRm9ATqdEtDD7b9l+dzfQ5Kt8DkO9rcbVkiXjbjng2TIme8Mf0S2eQ6aGusgqkrffxAf/ajhyqinpaM4=;gHtKSTDgbaUCBhCZ8zE1XQ=="
 ---
 

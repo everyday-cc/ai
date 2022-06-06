@@ -57,6 +57,15 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
+    excerpt: "LandingLens enables teams to build deep learning models. With the new edge capabilities, LandingLens customers will more easily integrate with factory infrastructure to communicate with cameras, apply models to images and make predictions to inform real ..."
+    publishedDateTime: 2022-06-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory/article_013fce8d-a5ec-51e8-9d21-c891fca6d7ea.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
 
 secured: "MkXfLPH92fkgClQ+0DgArJ0GgVh/bu1EDMzt8RV+YtP+eU+N7Lna+1Tr3+/BedtHliL4JYVWBICza/GNY4tyK5Na7HvLZUwHubRZaWL2GiHZf6ApGIlUk0w++x19vx+g8pUISVa0gyI5+KNVjUl7GDyl2F2VMKaO39oijBfy5xCk2+pZrgORNvEFhDb1q+zR0U11QxW4BNTVrJoE4nOHP5vUcww4PtBDW2i5nvRWaD9sTDI6AZEJyCofEG7s3BbW5cZaWdOoyWqbAGXYLyl5j362Ws6TZ+Stm1h8KPwzfQtzaLimSn4QcvOSatdXhX/1aKLoS8dCPuT6cmErvw5HbXKCJR9GM1Mulf+j+CJj1GZrTXJ+gws2HFzmkW8japkLwviodTG0R1GijTIFUNszt5TrE58fRIy6ReBW5ZawM+mWJ2emlYTPPmUECP/lnKrCT6GPVkpS5ACr3tsbCX3uFiAnJHHHMZe6wFOcWmCOvXNPuwnFiAeQTUMiLrJMcJ6zUVTXqhjlq9qZ3DICMlr5cA==;fjEXa7uYvIKG+UhNU6welA=="
 ---

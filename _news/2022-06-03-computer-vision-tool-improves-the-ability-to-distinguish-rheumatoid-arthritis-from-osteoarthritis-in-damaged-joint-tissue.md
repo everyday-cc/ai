@@ -35,6 +35,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning Tool Advances Research on Rheumatoid and Osteoarthritis"
+    excerpt: "Scientists at the Hospital for Special Surgery and collaborating institutions developed a computer vision tool that counts tens of thousands of cell nuclei in whole-slide images of synovium and effectively distinguishes rheumatoid arthritis from osteoarthritis in joint tissue taken from patients who underwent total knee replacement."
+    publishedDateTime: 2022-06-06T12:00:00Z
+    webUrl: "https://www.genengnews.com/topics/translational-medicine/machine-learning-tool-advances-research-on-rheumatoid-and-osteoarthritis/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 18
 
 secured: "hJ4jwScBaRejGKsqWIEIVw73hSz9OuILzIqaCsHX68hn3qWjzA/1fnY0UxTeeuKQ0q46xJ8SclruX1USR0XN5nYI69F/+KnlN5LR/lJvc0ByUIv1suidLrpMR4bZZr6xDyrvMZcGa99zlsKISXcjCCACH93WeMNcw2hw6ABQF3f1BVv8H+f99+gsNVGQQwp17Da6N0OQuHrPbBfj52VG/GGlk79wBOdbIJKNwxGPOIEKR19xKvsJQfZHIcHc21O5BQ3ustbrJCTet4AUwDAEQGb0L+nD+wQFKK1f8dkK02PN1Q6f0GogQjvPPNjH3pXFniglhdonAV24BUB+Hc6mWyfi+xmfXg1RLxldGAQX3q0=;mRPrsUp7tU+5rlSWQfsSoA=="
 ---

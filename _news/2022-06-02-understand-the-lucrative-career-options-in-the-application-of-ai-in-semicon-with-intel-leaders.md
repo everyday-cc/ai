@@ -66,43 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "‘Education reform must include recognition of First Nations teachers and principals’"
-    excerpt: "Changing the conversation requires the inclusion of First Nations educators, says NATSIPA president, Dyonne Anderson"
-    publishedDateTime: 2022-06-01T20:00:00Z
-    webUrl: "https://www.theeducatoronline.com/k12/news/education-reform-must-include-recognition-of-first-nations-teachers-and-principals/280331"
-    type: article
-    provider:
-      name: theeducatoronline.com
-      domain: theeducatoronline.com
-    quality: 34
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/au/130/0413_637897319151808994.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "Why education reform must include greater recognition of First Nations teachers and principals"
-    excerpt: "Changing the conversation requires the inclusion of First Nations educators, says NATSIPA president, Dyonne Anderson"
-    publishedDateTime: 2022-06-01T20:00:00Z
-    webUrl: "https://www.theeducatoronline.com/k12/news/why-education-reform-must-include-greater-recognition-of-first-nations-teachers-and-principals/280331"
-    type: article
-    provider:
-      name: theeducatoronline.com
-      domain: theeducatoronline.com
-    quality: 29
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/au/130/0413_637897319151808994.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "PNC raising the bar for branches, analysts look for AI innovation in automation transformation"
-    excerpt: "PNC Financial Services Group Inc has thrown down the gauntlet to the banking sector, an industry increasingly baffled by rapidly evolving customer preferences away from branches and the need for brick-and-mortar."
-    publishedDateTime: 2022-06-01T21:05:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/06/01/pnc-raises-branch-bar.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
 
 secured: "Bw93Z1rmQ6BawJAEGuEClKMYwu3TKlbJv6SXELUZ2RFSdCS4HwY5eVT+KEHJjnAnmBDeb3mJEHTGkKAVJbOkZEKLiWxnetW9/WaPpgmNlt7SM7TpnXJzBbPfrXLte4NUmli00rQWeYsEy2HjarXYsaCP1l81ShwsGCsjIPrsWpXHeIfm0vesEONqQP2pLUO630Obstdae4Lt1OgeqxhJ/i17d6DhcgFMucbfsXvY5AWI2bLQsYVJ+4kguWSUi8ol3v9IhNFs/o++CCg8wh0JhDCPIl+fLcDoIIvcPU024+/rDyUUTYIu5lyh96wU3i681/NnElonve+h9epppST8IitVgeeNWsOwiU8FTu9q5uGp5ZdUu08YPkwe1KVLWTY0tTO7nGefiV9uNy3ySPbMCuuB6TDhkFVQaJoMr8QSxlaVedobTqa4SY9Ra7eVrZ0HbE8NXUQf3OpGx0DgDgsPLhf46fN4rX/0K7PXsKqqrKFxuGEvLRx/m5975Cej1Kvmy+h53sIhHzWApkAYxK1dnw==;vUUWsF93y6G43UVmpnfS9w=="
 ---

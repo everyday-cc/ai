@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intellig
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
+    excerpt: "LandingLens enables teams to build deep learning models. With the new edge capabilities, LandingLens customers will more easily integrate with factory infrastructure to communicate with cameras, apply models to images and make predictions to inform real ..."
+    publishedDateTime: 2022-06-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory/article_013fce8d-a5ec-51e8-9d21-c891fca6d7ea.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
 
 secured: "BJZhFHUTrHXfQ42ZBRwRoQ87+Tyu1FYx0aXRsJtJRkHSwTnQB7FJvEm5iO2eVhKBKGjAU10DmmrxwjjJcV6a1y8WNs1Pql7Tz7LM2FrwY8Y/TkkEYibA3BEmKz4IHFQumq/BhfEEbObCEg37XHOWu1PbY8avaPE+rVX4SIK20+XENrMK415yHNgSiLJJOMvvinmSZF9zo6VujBZ9vBWbMVnYoj4ESArNftsojvDQushCkC4MAVJQvW0+P4C84Xbv1+XVrAQMalQAAjUGVItAHvq7La7ZIUEE7lTMA2Omz8off4dkSBESlGiemrGcsu12uifJy5pcUtvWU0FvShMiDNLnbrUJ//krLJ0XBdOn5UuKmWPO42CRqbl+Vp0VhxNeCw+12Vwz3zHAE6acIMTg7j8fL5Y7XMVxE/SSpjO7HlLkCPfZCyzkHKKIyZdMDO8iJYy+ni3L/wRRcS59D2mMJjp+JlvvK8wlNHXVjuStP9Ei4aW71AQt5ifUBvzWG7j3U/9cfewr35KyQCU9kDWAjA==;IiGgC9YbrCPFxmWFYXuviw=="
 ---

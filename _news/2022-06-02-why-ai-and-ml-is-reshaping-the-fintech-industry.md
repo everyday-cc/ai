@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/financial-services-finserv/why-ai-and-
 webUrl: "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry"
 type: article
 quality: 58
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 994
         isCached: true
+  - title: "The AI Leader Trying To Bring More Latin American Women Into The Tech Industry"
+    excerpt: "That’s why she created WaiCAMP by DataRobot University, a scholarship-based seven week bootcamp-style course for women in Latin America to learn applied data science and AI-related skills."
+    publishedDateTime: 2022-06-06T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/amyshoenthal/2022/06/06/the-ai-leader-trying-to-bring-more-latin-american-women-into-the-tech-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
   - title: "The CFPB doesn’t want to play in the fintech sandbox anymore"
     excerpt: "Leaders at the regulator have concluded that a much-hyped “compliance assistance sandbox” and related programs were ineffective."
     publishedDateTime: 2022-06-02T17:22:00Z
@@ -87,6 +96,15 @@ related:
         width: 1799
         height: 1010
         isCached: true
+  - title: "Addressing the challenges of fintech with adoptable solutions"
+    excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
+    publishedDateTime: 2022-06-06T09:13:00Z
+    webUrl: "https://www.crainsnewyork.com/crains-content-studio/sponsored-addressing-challenges-fintech-adoptable-solutions"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 4
 
 secured: "0fC9nZwUOdSkIyfE7EV3oYjwxD+o739FxcDJNIXEPgj7EeHFvphgYGz0xciBZwXkhTydvjOWaUuv3FRfez9YTnRE0vM7ISZavdex/HRrXt1JE9htE7/PawVdTtS382+mlJzHcIWb4kl08vs6G4WFXuErz44FFv7ec+bEzdnu3/sIMN3AAXGke/Mwbou33Ai5IAPogRq8VV8Fw947NS0WNuLNfqcoO1LC5FmvznaPe+MyEYqrIog1MtNaqrNKEsVLtItJh7Ta8JVJKoszhaiY66pJSzbAmlM0bdFv32O+ZM9WuK5IpGHNB/Os6s2s/tLaDotYzeqiWkMzj8kywCSLJsFqiVbpcJPgilYbX+B0Y+E3Uqw/Xj9Jq8clYI4k1csujpsUWr0eQD55GxaQ/rFa0gZ0Srp2vKf5jt7LPx6bUrUqhGU0QPWrsAeWmDeHZhW9e3MhTukuYd6WXMJIaMwZInBSYW9j5e66x6M8sCqANVZ2jbHPkxPbbhf13xSa5AUIhVPnNwNHsQ8/K1kWKEvvXg==;7Ce0/5xgYs8e+aKPJccvIA=="
 ---

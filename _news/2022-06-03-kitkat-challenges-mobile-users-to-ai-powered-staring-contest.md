@@ -23,17 +23,6 @@ images:
     height: 364
     isCached: true
 
-related:
-  - title: "How KitKat used AI to create a Gen Z staring contest"
-    excerpt: "KitKat has been around since 1957, but it is still engineering new ways to reach young consumers. The snack brand this week debuted “Blink Break,” a web-based game that invite"
-    publishedDateTime: 2022-06-01T19:05:00Z
-    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/kitkat-uses-ai-build-gen-z-staring-contest/2419011"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 17
-
 secured: "wxEgIKs/EJEIa66btG664RmC2+KXhd4ejulN9eSEGZUUSUyhtusffWkyD5u0m92ciU3KcE/G5ZdPrDyfvYAiIrjG6zrpHjaWYJN9tp2ztiTugeke+JDzj06eubevyw3QTsnY1cUE1T7QdlSG+kRVRXfr4dkVnnmX16GAwVJHzaOyqwAH3kNCaW4aDmEmDS9CoPKNlLf3tNGF0tCz6fi4ftAdhwHssJiELB+j0GC7gGlc+VYs+ot23oP7cQO0YlZO/p97G83ZUNQewQq/31eCfvhtj48mrUGIkUqtfHXeuALJlGSh+dzL5HXBCkH409BBval7eqg7N2HzaBOo/DNDpuw+8Wwb3iNUqjACfuZUgJI=;3QYDtlUogWuZzFUfGSh43w=="
 ---
 

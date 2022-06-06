@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1136020_argo-ai-s-self-driving
 webUrl: "https://www.motorauthority.com/news/1136020_argo-ai-s-self-driving-car-prototypes-go-fully-driverless-in-2-us-cities"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-related:
-  - title: "Argo AI Launches Driverless Vehicle Testing in Austin"
-    excerpt: "If you live in Austin, you could be sharing the road with driverless cars. Autonomous vehicle company Argo AI recently announced it's launched driverless vehicle testing in Austin and Miami.  The Argo test fleet is currently made up of the Ford Escape Hybrid and Volkswagen's all-electric ID."
-    publishedDateTime: 2022-06-01T22:00:00Z
-    webUrl: "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/26/00/76/22548401/3/rawImage.jpg"
-        width: 1200
-        height: 761
-        isCached: true
 
 secured: "G4hkdgP+VTboASw0HkD1PEB7B0vSoHcT9N7RHybG894vGNv3qf3XmO79y5VKw8D+NhH8cqbNnbQG53LlhT0dUcdRbe3IWvLf7lOgMddxBX5T0SVRWvXTYo+pMBPTquospni43h6K1OeR9255dScraWkyvlVGtTJe1BMvwSvhKmtsYgZ7E8r0vMbyU/Xbry5PDxqevQ2mrYOtgACSccEUzrSQu7B6h3eZRwDDk8bdU+NFCfZeY7KoDp0udzvNYwMNPvAZwdWDSL2Czumozuib1/QEHmFSkJe7BW+VyFIYrv0L3fEElyCgKeTHhdGjKOx+HRrQnVqUeaTLBXw/m1nzSujIDiVnY9O/HCIJb/mMRXO4mb7zoH0po2eHav3/yQvhTugSKcYfoZvZjx6ESZtuT0Dh6c84wL1P8aGiVrd7O46kVBokWBXba2J8k+NN/6wSFi+HzFuVYd5RPWY7dZkNXDetDrg3goVfv7ef1s62g1IpkJd73bSYpQGI58BZeRi7af0VdQ66hFfP9Jgor1SYsg==;NzvIu+cTrQT0d1ktFa1MvQ=="
 ---

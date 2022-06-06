@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/convers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 119
 published: true
 
 provider:
@@ -56,34 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "‘Education reform must include recognition of First Nations teachers and principals’"
-    excerpt: "Changing the conversation requires the inclusion of First Nations educators, says NATSIPA president, Dyonne Anderson"
-    publishedDateTime: 2022-06-01T20:00:00Z
-    webUrl: "https://www.theeducatoronline.com/k12/news/education-reform-must-include-recognition-of-first-nations-teachers-and-principals/280331"
-    type: article
-    provider:
-      name: theeducatoronline.com
-      domain: theeducatoronline.com
-    quality: 34
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/au/130/0413_637897319151808994.jpg"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "Why education reform must include greater recognition of First Nations teachers and principals"
-    excerpt: "Changing the conversation requires the inclusion of First Nations educators, says NATSIPA president, Dyonne Anderson"
-    publishedDateTime: 2022-06-01T20:00:00Z
-    webUrl: "https://www.theeducatoronline.com/k12/news/why-education-reform-must-include-greater-recognition-of-first-nations-teachers-and-principals/280331"
-    type: article
-    provider:
-      name: theeducatoronline.com
-      domain: theeducatoronline.com
-    quality: 29
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/au/130/0413_637897319151808994.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Understand the lucrative career options in the Application of AI in Semicon with Intel leaders"
     excerpt: "Intel, in collaboration with Analytics India Magazine, is organising a webinar on the applications of AI in semiconductor design."
     publishedDateTime: 2022-06-02T05:30:00Z
@@ -98,15 +70,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "PNC raising the bar for branches, analysts look for AI innovation in automation transformation"
-    excerpt: "PNC Financial Services Group Inc has thrown down the gauntlet to the banking sector, an industry increasingly baffled by rapidly evolving customer preferences away from branches and the need for brick-and-mortar."
-    publishedDateTime: 2022-06-01T21:05:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/06/01/pnc-raises-branch-bar.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
 
 secured: "Ibsa9pbLHM5LDz8+o06GSW/KaLTey7CUzlRUS3SR7Dez6nWp4M5Xc/psRaEB2/8fTicOH+PJtAjaLeGQml+3l0xr1Qec24nvqs+J+wdJ1e4ZcLzmB80Eu5O1LK3oQ99oIf2yMLQXWXoOQgde63Gjsq2A2A2YQGScuHlZi8HE0xxreSgSL8mwYIUfCyhQau4EYkYrk1o1XcQr2gnTDdxdV+OVXOV2isdhXrD3lC2dF/vI3FQ/Jh+vBt7UfqyDSiT4P5mIVQBB/RV6xMnes9pA//sgKbjutqBMDyMgeFRFId9PuuTxbRnaVdZQwH8Cmc3gg1cJZjnCZ5p0osSUmHeeUGfv7gmqvvLqAF4MDgFFvBMv1/obk2nLMCKxNpp9jl87CkaLWpksBKuW64f59WWFBtIfhkcR+TkuOwrHnUtUSBjBU/KNQvw82+LZsDjIFCrMVOansSOBRJw/Z5pbnfhqoxy6yqRdKpzsRdFaSlzCX4I76wnoN/KOKc8alfhxyG4asFj368Frt9GZf75M0yWFtA==;enivqhDnZpbCuhM8TBQC5Q=="
 ---

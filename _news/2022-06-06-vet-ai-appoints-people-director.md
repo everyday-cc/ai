@@ -49,20 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "C3.ai Shares Plummet 19% on Guidance Miss"
-    excerpt: "C3.ai (NYSE: AI) shares plunged more than 19% after-hours following the company’s reported Q4 results. While both EPS of ($0.21) and revenue of $72.3 millio"
-    publishedDateTime: 2022-06-01T22:00:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/c3ai-shares-plummet-19-on-guidance-miss-432SI-2832610"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 37
-    images:
-      - url: "https://i-invdn-com.investing.com/news/news_arrow_down_800x533_L_1414401708.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "C3.ai: Disappointing Guidance Could Weigh On Stock For A While"
     excerpt: "Data by YCharts Unfortunately, I believe the company's stock ticker of \"AI\" has attracted some investors who believe this was the gold start AI company. With the stock indicating down to $15 after ..."
     publishedDateTime: 2022-06-02T12:36:00Z

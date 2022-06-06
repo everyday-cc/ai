@@ -57,6 +57,15 @@ related:
         width: 1280
         height: 994
         isCached: true
+  - title: "The AI Leader Trying To Bring More Latin American Women Into The Tech Industry"
+    excerpt: "That’s why she created WaiCAMP by DataRobot University, a scholarship-based seven week bootcamp-style course for women in Latin America to learn applied data science and AI-related skills."
+    publishedDateTime: 2022-06-06T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/amyshoenthal/2022/06/06/the-ai-leader-trying-to-bring-more-latin-american-women-into-the-tech-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
   - title: "The Innovators 2022: World’s Best Fintech Labs"
     excerpt: "Fintech innovations recently arising from the Morgan Stanley ... The Bulgarian company Appraiser.ai is a recent graduate. The company uses the latest AI and machine learning technologies to deliver insights to the mortgage market, then automate valuation ..."
     publishedDateTime: 2022-06-03T00:00:00Z
@@ -85,6 +94,15 @@ related:
         width: 1799
         height: 1010
         isCached: true
+  - title: "Addressing the challenges of fintech with adoptable solutions"
+    excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
+    publishedDateTime: 2022-06-06T09:13:00Z
+    webUrl: "https://www.crainsnewyork.com/crains-content-studio/sponsored-addressing-challenges-fintech-adoptable-solutions"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 4
 
 secured: "9kpDjOPo1mZ04q2eiwP7k6milg4sM2O2/IeTP+6J+3Z04HMUIcgPNh+IiXlImQMweTy9F1GdqCkJr34M6fOGKKi0MNUzPBIyhzNbFJJJEm6GKt49XcCIN2+rwvTMF4bGyylof6mlo85b8kcJAGd9WJ1a/b25TSa5bwRb5CiJYpnThwq0yMz3uWLeaCnt89b5rkgBNuFND0SAQRAjm4SyJQrzQURStUNmFddkZBiVa6+56G3u64OM9IcGsyL2uSINKN79+3L1RofoE3K+QlgZPzTOEQvGwLKSSYZWVg15rHE26dBX8vpdUcBcLDJBsg/85lwvviPKjfSmBOmu7UVjwyYpZfu4pKOE5Ak34BrE1WOTSzBxwmR1DzWjKC4ddLEbVlE2RE2hBvJUYPh13kpa6F/XoDFjNZpVhorPY5MFz8chajg5shySRLlKFgkoL4TLgh76RSrjXahuc1YShI5RxGGZVh20MM48Vtmhoo7miLzdqYoaMLj9V52tjCy18UdHSbenB9lsRPn4Pz1l9cl6NA==;GdXKUjXV8BvAVK3V5B6zsQ=="
 ---

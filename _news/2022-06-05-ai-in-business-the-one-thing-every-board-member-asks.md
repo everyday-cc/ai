@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-one-thing-every-board-member-asks/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 Ways to Drive Business Growth Using AI"
+    excerpt: "Artificial intelligence (AI) has been a breakthrough technology for some of the most successful enterprises. Here are three different ways AI is being used to accelerate business growth."
+    publishedDateTime: 2022-06-06T15:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/425746"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1654032449-shutterstock-618815732.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Redefining success in business with Artificial Intelligence"
     excerpt: "At the process point, the role of humans is to maintain ethics and integrity by responsible use of the machines. Read Also National Technology Day: Five ways in which Artificial Intelligence (AI) has made an impact on our... At the output level keep a ..."
     publishedDateTime: 2022-06-03T01:31:00Z

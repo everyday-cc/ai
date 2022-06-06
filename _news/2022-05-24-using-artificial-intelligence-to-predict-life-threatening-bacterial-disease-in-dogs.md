@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Using Artificial Intelligence to Predict Life-Threatening Bacterial Disease in Dogs"
-excerpt: "Veterinarians and researchers have developed a technique to predict leptospirosis in dogs through artificial intelligence. Leptospirosis is a life-threatening bacterial disease dogs can get from drinking contaminated water."
-publishedDateTime: 2022-05-23T19:55:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/05/220523135026.htm"
+title: "Using artificial intelligence to predict life-threatening bacterial disease in dogs"
+excerpt: "Leptospirosis, a disease that dogs can get from drinking water contaminated with Leptospira bacteria, can cause kidney failure, liver disease and severe bleeding into the lungs. Early detection of the disease is crucial and may mean the difference between life and death."
+publishedDateTime: 2022-05-23T18:11:00Z
+originalUrl: "https://phys.org/news/2022-05-artificial-intelligence-life-threatening-bacterial-disease.html"
+webUrl: "https://phys.org/news/2022-05-artificial-intelligence-life-threatening-bacterial-disease.html"
+ampWebUrl: "https://phys.org/news/2022-05-artificial-intelligence-life-threatening-bacterial-disease.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-artificial-intelligence-life-threatening-bacterial-disease.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
-secured: "b+s9LGa+0RqviEqYMzcSxy7aR6cEh2qzgfDy4dHQt7a7OEVNBcGPtd9H3te4JDsxlXBFXlW/mD0pMd9YoiW/+7LM0jUXSwkXMzlZ4vUukbAdVmXd7y7KO4JCQ1HJxOuX/pjJX18YJ/7Jl+ohGjxWokzCmnsYR4WvUpm8g12D2I3Br2/axmq7ikZ0JnjtQ99h0I4iLZx54tZRc/v5BE9HxlEt0Zbj6OV1XsosF7FrnPdh/Kn2TldtmPAxc9ohdGbQwS085CmVQOQI0fTzvkF/2BI5d/W6kToUIVR1mB4n0KXrlJcMlfnZSs23NuKWJsFDg/wm1dIlqGqqfcm9RrkzaDDIEqFdh3zrYGKJPdRiRyY=;sPL5y0WFml3VRNkUs8eV4g=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-6.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "6T2Grh3NpHllodi0D+IGT0Y5iqyMUnq+lLb7dSnICsFdW6cJsvkzLORYJVrMisjs1TohSrZOKfunrEkcoOOf9+lLZ+Qmb7oKoOgAgsPwlJh+HgmfA1qlkc1lTrEIJ5iDNYG8lccCXEqcmEAs9umsgtbZgvWwpOFWq54V3eCZOeaemEXaQKtZDFdKdfiTvXS3hiYd2wydULCsTa4qLHjcJPqyzyPo7r9tFIT6STsTTj6lq0GKFJsddDMhi82O38wZpgQpH+iHDufUsL7XIDvmUbp3V3FgTAV9yqe7iyC+3jjtnINZ49IBJDKqVI2Bv2kv7liUUEz5AynfN2o4/HMs2ur2Mwmh77rqqC3a1RfuZgA=;XXcfCmFd5o4++lMQmeMRNQ=="
 ---
 

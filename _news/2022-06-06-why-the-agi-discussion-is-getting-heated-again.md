@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T13:20:00Z
 originalUrl: "https://venturebeat.com/2022/06/06/why-the-agi-discussion-is-getting-heated-again/"
 webUrl: "https://venturebeat.com/2022/06/06/why-the-agi-discussion-is-getting-heated-again/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: VentureBeat

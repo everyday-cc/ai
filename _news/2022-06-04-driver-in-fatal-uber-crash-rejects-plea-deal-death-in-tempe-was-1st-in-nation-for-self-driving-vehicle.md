@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-03T23:29:00Z
 originalUrl: "https://www.indystar.com/story/money/business/tech/2022/06/03/rafaela-vasquez-driver-fatal-semiautonomous-uber-crash-tempe-rejects-plea-deal/7501853001/"
 webUrl: "https://www.indystar.com/story/money/business/tech/2022/06/03/rafaela-vasquez-driver-fatal-semiautonomous-uber-crash-tempe-rejects-plea-deal/7501853001/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Indianapolis Star

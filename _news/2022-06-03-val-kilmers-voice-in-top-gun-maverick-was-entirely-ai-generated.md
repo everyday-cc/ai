@@ -48,20 +48,6 @@ related:
         width: 800
         height: 567
         isCached: true
-  - title: "That Voice You Briefly Hear From Val Kilmer In ‘Top Gun: Maverick’ Was Created Using AI Technology"
-    excerpt: "Luke Skywalker. You can listen to a sample of the AI version of Kilmer’s voice below."
-    publishedDateTime: 2022-06-01T22:41:00Z
-    webUrl: "https://uproxx.com/movies/val-kilmer-top-gun-maverick-voice-ai-technology/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 23
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2020/04/val-kilmer-iceman-feat.jpg?w=710"
-        width: 710
-        height: 400
-        isCached: true
   - title: "Val Kilmer's voice was recreated using AI technology for his role in 'Top Gun: Maverick'"
     excerpt: "he worked with tech start-up company Sonantic to create his dialogue The firm's CTO and co-founder, John Flynn, told Fortune: \"From the beginning, our aim was to make a voice model that Val would ..."
     publishedDateTime: 2022-06-01T23:46:00Z

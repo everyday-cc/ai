@@ -71,15 +71,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "Global Artificial Intelligence Software Market 2022 - Product Type, Ongoing Trends, Competitive Insights and Worldwide Forecast to 2028"
-    excerpt: "The Global Artificial Intelligence Software Market 2022 by Company, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2022-06-01T21:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2022---product-type-ongoing-trends-competitive-insights-and-worldwide-forecast-to-2028-2022-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
 
 secured: "7hjxNVf7SIYCdbO1VnNqfobPkEaAf22D7ObPgHnY0PGuoZo+fTnslE3esTd5THvOxbRANqX5JPwA/c/nZA5ULwbqkxXTFAhCHhHVzsI+5rQeYvS9AfHnsbDZC83tfXxCwVGby+Iwf04iJO/ohXeVrcRU9ce9zhK5PW8ER69Aw5M1mTgr0fX/JSXqn7FyujTj7pRYdxRnvOr0PEk7rRGQ8GZVnglj3ZJocRb18ak7UuZYyOgGNTAqj83pcLzaIBFGWCV35zPhGa4aTLTfVu9iPIjGzXEEUDQbSp49YsQstRt1wBqo2sL21KY9/wR8Ht15MQ66hwOLVIHeW66RwjrXwE4Xifh3nzug+SX05CoH0T4=;DM/QmIggXm8ImBw4qjYyvg=="
 ---

@@ -65,15 +65,6 @@ related:
         width: 890
         height: 520
         isCached: true
-  - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
-    publishedDateTime: 2022-06-01T19:22:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 17
 
 secured: "xjbzD4UEXCUv9N9bgQXisGjTELMqLTNMla5QrsklRt19OSpdsMCPmR0BGVm/ZCEc8WD+FYy7+dr0HvLynVQyfRbKfvxJlrHrFFAfSODQc9l4UKVoSbV8iyIDwzEnv1DaJN7lmJqLVpHJcsWNoCsfmyU3MvHg+EThJd4SzaTAZ+3LKSSEzNgaItgmjJbF/TsFPI4FlerKyuB1RwUHpvlm0ePk37B7wtWE5i88u5Z9PqSWItZE5BUEwKzu70iCWOVENtWc4IswoAfOADYem78INZu5ya7//ARmAlXPFPNQ5DedWyRZjt0p9Ik1y8knnqk4fRkHAjU7FfDNLamhd+y9xgmEZAFh93f/PHUaFhOzCWE=;Z6jEgi2pz3NHOJ5cgnmW2g=="
 ---

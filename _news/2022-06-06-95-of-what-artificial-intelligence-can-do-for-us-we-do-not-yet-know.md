@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T12:50:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/95-of-what-artificial-intelligence-can-do-for-us-we-do-not-yet-know/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/95-of-what-artificial-intelligence-can-do-for-us-we-do-not-yet-know/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: India Times

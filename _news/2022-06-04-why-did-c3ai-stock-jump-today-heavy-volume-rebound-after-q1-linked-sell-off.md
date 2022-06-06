@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3845622-why-did-c3ai-stock-jump-toda
 webUrl: "https://seekingalpha.com/news/3845622-why-did-c3ai-stock-jump-today-heavy-volume-rebound-after-q1-linked-sell-off"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -16,50 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "C3.ai plunges as after Q4 loss widens, sees sales slowdown in 2023"
-    excerpt: "C3.ai (AI) shares plunged 20% in after-hours trading after the enterprise software company posted mixed fourth-quarter results and said sales for fiscal 2023 would come in"
-    publishedDateTime: 2022-06-01T20:30:00Z
-    webUrl: "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1347310666/image_1347310666.jpg?io=getty-c-w750"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "C3.ai plunges 20% on wider Q4 loss, slowing sales, analysts worry over deals"
-    excerpt: "C3.ai (AI) shares plunged more than 20% on Thursday after the enterprise software company posted mixed fourth-quarter results and said sales for fiscal 2023 would slow,"
-    publishedDateTime: 2022-06-02T11:34:00Z
-    webUrl: "https://seekingalpha.com/news/3844912-c3ai-plunges-20-on-wider-q4-loss-slowing-sales-analysts-worry-over-deals"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 51
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/137336219/image_137336219.jpg?io=getty-c-w750"
-        width: 750
-        height: 506
-        isCached: true
-  - title: "C3 AI Announces Fourth Quarter and Full Year Fiscal 2022 Financial Results"
-    excerpt: "(“C3 AI,” “C3,” or the “Company”) (NYSE: AI), the Enterprise AI application software company, today announced financial results for its fourth quarter and full fiscal year ended April 30, 2022. “Our fourth quarter results showed continued strength across the business and came in ahead of expectations,"
-    publishedDateTime: 2022-06-01T20:16:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-politics-utilities-thomas-m-siebel-0e28029f946c4d3284de1c61de998ffe"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "W1FO5Hx51cSuvfhRCxC3rnmHOGv+uyA/QHaxibAM3LiR4xmaZZbW7WXooWjxW7hTPXQvnC/gDYeFTXY/2KHgObQ+5boFzEETelTC0hSZ6yPR9KNahRT5Iz1qWhRDKeLJJWWpQb1FJWuarJ62PqkXtfxWiSRUPZYlOo+iML9uAamWU02at+uD+8BbNtNr1Y8P2P/2O5UIrMpkamfrRcxsHXIurVOuZukYFv1HhLl+4x8N9vTZsdFJ21DW/ivSzEcPT5MWZUMAv5lKIKvIlUjy46lTkY6DXeqjWEIavnf8p9Ci2ckgzdXrsTFVvTrY+1ZkEjHOdaIM4/9o4lYj8+5/bd38d3TTUChCPuWS+rRmPM4=;AtTcKAk4bAsaND1oUOpXkQ=="
 ---

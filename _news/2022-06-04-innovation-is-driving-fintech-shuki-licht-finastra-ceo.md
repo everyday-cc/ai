@@ -55,6 +55,15 @@ related:
         width: 1280
         height: 994
         isCached: true
+  - title: "The AI Leader Trying To Bring More Latin American Women Into The Tech Industry"
+    excerpt: "That’s why she created WaiCAMP by DataRobot University, a scholarship-based seven week bootcamp-style course for women in Latin America to learn applied data science and AI-related skills."
+    publishedDateTime: 2022-06-06T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/amyshoenthal/2022/06/06/the-ai-leader-trying-to-bring-more-latin-american-women-into-the-tech-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
   - title: "The CFPB doesn’t want to play in the fintech sandbox anymore"
     excerpt: "Leaders at the regulator have concluded that a much-hyped “compliance assistance sandbox” and related programs were ineffective."
     publishedDateTime: 2022-06-02T17:22:00Z
@@ -85,6 +94,15 @@ related:
         width: 500
         height: 262
         isCached: true
+  - title: "Addressing the challenges of fintech with adoptable solutions"
+    excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
+    publishedDateTime: 2022-06-06T09:13:00Z
+    webUrl: "https://www.crainsnewyork.com/crains-content-studio/sponsored-addressing-challenges-fintech-adoptable-solutions"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 4
 
 secured: "iXVon7z0SsSTHIEX0wtWPPGKuziqlgddGan6hc3iBd0j0rX0QAd/InVkq5UAIE2kYWvyaV2wl0PJdeiE2kCokgX9Q/z2MddrpFNWBIG9O+MM+rWJvF14wXHUfKgOsXPihTyQz8gqcZ1QmplOAEBV0vLh6v1uo3RfOPruLKYy6b5gkYEWmA6qjZxr5mGAkszr4MSFjroorsPBNht6jDKlarsD2xuretPV+oiN7BN+s1K742vduAXxTRy8Svd0yW87z4Qr+IbP3LTxJru8mC76ZT4qNG+3xxKPgL5noioJMvbutisAYLCjT1dSg/M/uznXk7N2gwaqDbZl0oOYkHtCUuFVLMqkCpjB3GInDPTQYlXwKhlk0kYCXRv42fhH+wFeRsVZuSSX4HyQamvSOuusb6mMk5WNuBmfxmZWp3YNKRlTl26rYoX5Cn0D0pfE3Q6j38dxZYj/O0XeMZa/AFzEblhQ57v1gUVlBmSzmUcRwafL+u8j61Pn6FpZ16PQkq/JRgY1Tqr28skXJ57fiInS5w==;VSeh1cWR2dficdgSD9uGCw=="
 ---

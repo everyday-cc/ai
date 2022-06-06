@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T12:00:00Z
 originalUrl: "https://www.businessinsider.com/video-ad-company-kervs-12-million-growth-round-pitch-deck-2022-6"
 webUrl: "https://www.businessinsider.com/video-ad-company-kervs-12-million-growth-round-pitch-deck-2022-6"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Business Insider

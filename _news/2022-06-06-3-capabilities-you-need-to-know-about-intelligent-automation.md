@@ -1,24 +1,29 @@
 ---
 category: news
 title: "3 Capabilities You Need To Know About Intelligent Automation"
-excerpt: "For example, in July 2021, leaders at IBM scaled back expectations for Watson. IBM first pitched Watson as revolutionary, promising advanced AI capabilities like automating cancer detection and treatment recommendations. Now, IBM has positioned Watson as a ..."
-publishedDateTime: 2022-06-06T13:31:00Z
-originalUrl: "https://www.entrepreneur.com/article/426720"
-webUrl: "https://www.entrepreneur.com/article/426720"
+excerpt: "Intelligent automation has recently received a lot of buzz. A lot of people want to know what the future holds, and many don't want to feel left out. However, intelligent automation (also known as \"hyperautomation\") is an ever-changing collection of technologies."
+publishedDateTime: 2022-06-06T13:48:00Z
+originalUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
+webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "DP635iBnvpwbjm1dksz18vSikQpzKO8qMZZKq7w8a3HFCMY9c/u11/hFLfQx+zcz5aZKecL8SC4LzOV8BXC2eLFFWNLOxMeX8pWSfjss/b5FqaFn0lpff0UlOkAGR1vyQWeKW3J+FwopEI86fhyG3sg4e1dHiK+RVySAHCKRZrUWgUtCELXhOHlDQV3Mm+chHGb0ZjuXjteabXYYAcCZItdoMbjYMdAmCGsTx8IvQfjxd4Z+omsh7pE2ylrarVBcagNCs7kLkHxjEDF1ONvk0nHL0ZJH7k0ynxJroL1BrQvAay/VNXI9YN9zUO259kC38/hGDeAp6J/D7K9RfMUDKoNm+lLHvO+tZbSBIwmDlGtIZlgoeYg+o1Sd9kXJbO6VAsuaEYwie/fftrN2OgsfUS0ZyiZQTtZAJu2Hr6h2T4XgzqRk8JQzR9P8rMHlKdo8GNyBVDpzt6Dek1sjDEQF7KWoWr0F6eR4yznKC78U7DLBaivwqK2vj4AbEtxit30xtcYTbEiOC8MsEbsGCjEEDA==;Jtzv2BWld9HIcy+ST7FMxQ=="
+images:
+  - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
+
+secured: "KsRcTF29LtHelojbD/Z+IPzUD062VmlAxZ5zCPNaG2KIAIIbkzDMRtDUaUqgMb3fVeXdggb/66VN+mWdAU035M+261YGCsWyau+bP1Lp0IeN7YA+cdMnTp/9Kjl5RDQXXzBNkixaF3zOCuyxeE8UYYI2lVstpR7LqNanRht2nffrsD7ygpr4Zut0IbzI+VQsUr9NP0QcS5lFP7ZgihOTlWni6Ltz+vuJBoLbn4EbYdLwDAO/Eya6tS6gZCvpMf4kUZEsnm1252OT2Vj7a1MCivFhnmem34hPIYFCpK94OQZ4nrZH6tmaWeTOYpPk9l1lu3bqjZS9UvB9zDKKczL7N/4IuLf3++RtfgS3gxCDwWU=;O4jwFwYhrDOQbV4wohk65w=="
 ---
 

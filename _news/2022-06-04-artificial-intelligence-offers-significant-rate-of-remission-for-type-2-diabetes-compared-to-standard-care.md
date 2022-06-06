@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care"
-excerpt: "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered by artificial intelligence (AI),"
-publishedDateTime: 2022-06-04T15:05:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff"
+excerpt: "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes"
+publishedDateTime: 2022-06-04T15:03:00Z
+originalUrl: "https://www.djournal.com/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care/article_5e11842c-b0b4-5270-af6c-0837ed87b759.html"
+webUrl: "https://www.djournal.com/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care/article_5e11842c-b0b4-5270-af6c-0837ed87b759.html"
 type: article
-quality: 1
-heat: 1
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "0IR34aazKwbTjnbqUZxkAaSgcGdeHTMXkXdOcv+O5uc4Lg0HWRpV9TpjYaDOYHgUqs/oxn+9+wuSxag5AZ7MKJe/oMv2cznJSO8Bhnns+KaOQRgQ/eECmOPKrcoir3iJi/HOwoyE/bDowb85ZX4DV49F65DwwUHx4S5Vc75NTizPkgNDuXtLr8ah4DLWipPFf+74KHHxdWhs+IJTcI/93zpi3Ew4G2edtLt2OY6IQ+L6hJE+s6XeApip7SVQGFi10ZAi3ownmWkpNQXRQm2KCRucbxCWWqxmpPYNuzdMTGLaWZJETq5WXCuOh+19uSFgwl2i2O6zV3h8MG+VnfZJhIhiJvp7tg2pAVz3HBuOoRY=;YSbGRUJ/qZohWENJzyQPsQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "6s2mu/1+2AwR7R0e2ejKC7jies2b4ksgIU8dLj8rogir8cQBDL4T3VbiM3hYQzZ1t2tp4WA7ieF8l8fMxgVbEHcZi4P4VMYlMnN7Lyat4D/vB/DoayWqYs9kGpddfGGpPdlw0mIAzvcwlP9+nQQrEIWoAomPAffmX/hziMxzPD3Ht/vDOtBin0dX4DhJdZhnHp0kVwFkUd5SFjavi1Y1ljTzI0hmFh6gB6QVePhcztQAWYWHwHq/NPKsnVfcmQOa303HZ593v3M906waQ1tuZS8tZPuEMWdzNN9cBRrXg7jS0hobmjWSU5U4lLWH1JBSlgyaKOJfSpMNsxR+CWG2ZEezklpb/mKf3cSmFg/IDh4=;dCIcYUVGdMfXl7wUV292eg=="
 ---
 

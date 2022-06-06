@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/levera
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454"
 type: article
 quality: 70
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
         width: 890
         height: 520
         isCached: true
-  - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-    excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
-    publishedDateTime: 2022-06-01T19:22:00Z
-    webUrl: "https://kdvr.com/business/press-releases/cision/20220601HK76138/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 17
 
 secured: "DIcbgLhIrcCNcW+UEb9cWIMD16Xcd3tvgqA174XnRLA1CtaJweJIG+GpLDmydhG7rO2tlQgHoAAJLTN9RRoS55SX2/ap5S9eunqBUyheT6diy0CRF7KYzIzC7GJ6ETzWwhHt65g+szqeLG++hTQ6zK3j0HHjfn1CcMPOV4yIwgpLiuARfIXzXNv9v8Q2Lr4Ke5HE5QChI5Bp72wQK/saEJdsIB/Ty0TIMkvIrFQ9NfYr5SwPY/3VWxXXAfaQoZ9qBWk7JVi1OINOXQtBO+dc4miIlqA2ocxuG3CxqtVSI3F9FH61d+ozd2SIZcBoKLYxkeGUedTtcScgg2MKzKeU4BtXzfBZ9TmPpZkJqMi9snxjRnKCBGqpTTKWtEqc18zg5B172jIV1b4v35nUdeniXbMXC7B87rcZqyn2xoP73Ez9slYVZzE/aRSNgx3InfvKdvccfoFvL04durg1+nrJRZJ8NonyAGbdQXDDjYPucrBNJTqTdhO2OoOwiVmH2YS4m0rVQTLHf6KCLSi48J/f9w==;BoADoL1SIqW24j/DwbHurQ=="
 ---

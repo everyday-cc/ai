@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T13:36:00Z
 originalUrl: "https://endpts.com/no-humans-allowed-alex-zhavoronkov-adds-robotic-lab-to-his-ai-drug-discovery-play-as-insilico-unveils-60m-raise/"
 webUrl: "https://endpts.com/no-humans-allowed-alex-zhavoronkov-adds-robotic-lab-to-his-ai-drug-discovery-play-as-insilico-unveils-60m-raise/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: ENDPOINTS NEWS
