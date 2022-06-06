@@ -1,24 +1,19 @@
 ---
 category: news
 title: "Reply: Automation and Artificial Intelligence Are the Strategic Keys for an Effective Defense Against Growing Threats in the Digital World"
-excerpt: "Smart Homes, Connected Cars, Delivery Robots: this evolution will not stop and so, in tandem, it will be necessary to develop automated and AI-based solutions to combat the growing number of security threats."
-publishedDateTime: 2022-05-30T09:36:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa"
-webUrl: "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa"
+excerpt: "Today, cybersecurity represents an essential priority in the implementation of new technologies, especially given the crucial role that they have come to play in our private and professional lives. Smart Homes,"
+publishedDateTime: 2022-05-30T12:35:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=671547"
+webUrl: "https://us.acrofan.com/detail.php?number=671547"
 type: article
-quality: 2
-heat: 2
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
-  - AI in Healthcare
   - AI
-  - AI in Robotics
 
-secured: "Xi0d8g/hMmucqy1wZhlFY6JdT/MARF5IkObYJm3/poR8A21eoPuO1+ac+3NmfORAt4xiaVwRZCyRwPWcz1jv5M7YEngrM9stLldIf7GdHxCM74i9YxjL+QO5bJbdhfjDPvtr/NbeKvYJ/1eFGQBox7FZZUToOvwJ5bQ5e8zeESh78+5SNTyMz30pe3HRUToFlkedGn9tFwwUVQTIVJIRAcTaLcfEf501MFSmQWh0cNoGD+SKbY2RqQ+/R9hwCjcFUeK0T74+x6t65vL/km7A1WFrHAcEIfcy2BryYDJVX5AFsS0pJFypEg6TxiOsouVAlbRefitlNF4G3WGaNVPxWgxQzQSnwvv0gorz5PosT3A=;p7jL01VpFR6PNxPK/B2faw=="
+secured: "v0qtRrgGoQeICy9dz1wyVSqXWbqwTum4V53v6oJ9wFsGknCcHO27ET5N5m17vPqlj6mU0w1YoZNLanCkcovhGKU5+j9/c2sStTKyKA3acX/e+zStuImCi5nu6m+rZkgRgWtKnJy7oVpfDxKi0Ci0hP+jCsc0sOpaEjEPUbPJqckahVxkTqIy5ifa2W1Nljx1AeUnA9Kw8bxk4IvmUZ0dynfjkW9xLB6/eCSvjtxApASUYvavwaZkyfGfwE2Dez3E3IItO/pltOWZRZAxAjsH7kw8/0eA5RW1X3VzfLtjuh2CtQ86SpwIhet8N3qtFxiN4WTJRRHEtNQHEqPEQygfz6K0LUwnGsI3FDklGnSdBi4/0b/273TuTWw32+pgyNC1j2OOcM3VUe26Oo+MNADNAuuZAjw7BX4JK2KInmQazXCcEUvuVHdJaHpa1am2Bdx5tbihdUuo99qx+jro0KHH30pmhDXDayPvHz6zG+z2ndUX86Ram/2cIE02/e7NM5Cl2/Nc/gcTc9OE1vLNleGcOw==;ibCFc1AsubOoNhmiNwBP0g=="
 ---
 

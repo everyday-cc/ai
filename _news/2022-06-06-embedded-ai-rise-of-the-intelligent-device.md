@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1168105746-e1654107730283.jpg?fit=800%2C475&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 475
     isCached: true
 
-secured: "jHyhHEUSJC1EErIeD6xIsldjUnMsdBypLfAwVFFwD1NAymmwmNfMNrCP9OdezuyU91gQHmN7yA8yz6QtxOUgZO9ATh0h5lGFfD4yq1Mnxmn15bdzB5c66uUZlp+Cofph4d4s5eWbxdtxaf+SvTTOMXbs0twijCUQ3wXnzQAFkDsF3QZ2MKm4W6D57O0zOWU7Y/83d2n/ZFwJ07fwugyEGf1Haq3PD8Vce4/VkqnKRN0LLYBf4xSs7Cb+HP8Qqis7e0JUEt7C3nDNrKlg8bLJN98n2jR1lxy/1iTcM5Yeza0sKRgoEIgzWpwmlx8wkFbWwIP/Uixfo973BnCTel5s45iMJUs62LIYab/5gf9YX+E=;HqjhLbXkSwuT7u26s4O4Gw=="
+secured: "lOLLn1EGruqhDGqpEGvZJTr5McJEqT5cG7iEG6+ba0eygmh4ANGza+pZMa06NB7XwuCqdUozZzQ4a/2yyfhUpDq2cxFq/DXiNlwNsEy4BMimN4HlFGzKb8lyX0kgvENSVyVSpohNnRpqtpsLk5owHu7gY5eqHOiaKDJAxZxBhAgA+66UX/arDiwQaLVVljM5dIb5xudG6YWhzrjVtBHslebb1jNzMKCtaRu8wD9ilJbp81rohHMYqd3sULT8K//p+Q1LR5BjJtbT/Zp85Hpvr1nXmZAhJork1ICQ712bJctNmIv5D01weF1iMLoM0CRw/lAae5vCaehF5PEb4EEX0nb7tONokEPl2QjmtVtHANISjiIWWNfF0mR/wGx9fhgkeJoU24stuyvuYp6jb65I+CIwMnIhEoofSG13mlg6N4dYkdM+5DMmo1BdwCligw73Dtbm6gqfHheyov8GRdYfjaWZyG8rVDRRma1IOehRfpnUaoEoZLnmn1KEJO8z1EdVkREJNsOvleOdh82jNhcrAg==;jW37CCtQopsG3m2HIbhnzQ=="
 ---
 

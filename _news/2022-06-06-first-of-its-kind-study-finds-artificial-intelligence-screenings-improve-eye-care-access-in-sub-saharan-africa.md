@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-06T12:34:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/first-of-its-kind-study-finds-artificial-intelligence-screenings-improve-eye-care-access-in-sub-saharan-africa-1031510676"
 webUrl: "https://markets.businessinsider.com/news/stocks/first-of-its-kind-study-finds-artificial-intelligence-screenings-improve-eye-care-access-in-sub-saharan-africa-1031510676"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
   name: Business Insider
@@ -19,15 +16,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1831129/EYE_CLINIC.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "6HaoBH6dNVW1ALOFu3+0yrxCc/V4nXcu/eX41Kt5MdZYcTXqwizD11BJv3xnaJsagHkZZM4ygrlj5pUt/q7criOXPvr94Xb7zCoTZxcl+eWvF+8Zc2FuuQoWbQyFtg63WZMeyL/Gye5z+c7onQeK+lZ/48Gtxj02o9NfmytDQ+kuiJYeouLQKcg3VVAklzvWBeBKihfWniBjXPJd56Lm/88PQYWYq0DuSKFeVyAXN4udr8sNJIZDuRQLUt2x2fYkgVhnlbxVM0tGSJZXlX5rCbQ+qVm32j1HKYFuDWVZ0HoMtlbZ0ujil+s+Vcx2ec2fnlH2AOLsqQTdbFSrDEi4s7xWjm/0sl+17LrybJhlJN0=;M5Z4wbHeIehCMKyTAZrHSw=="
+secured: "JnOhClTkYh01vGH4gBDamrHZAg/cyzYrdzLMczrCMK6K0pj8AM6ImrBXF2AaHev8tpLTbBPe/y3mdxQjj8LmXMwaUUvKGMzBJ6oKN57t+JiNXtWfe4/iFQwr5HnoztjGekVW0LfbXpIRqWneK3GifzPRBMXSiB/9vD7YBeGXDc/J+YA75roclv76kBxQH6nd3Tmkkx8tsRVKJXk6Ls6oPKqsLJOObCJ3R7I9Gt6LpAnKRKoWs4k1RlkMSmWbtihwY8sRT8x2od+XecyWBlGmSuL7bRRgJpIGZBQnB84aw0Y21VKMIsu9sPXVXBJa8dKcQ1UNHlHTXqSVYUnXOLYYSRHab9tcHVOQaIjN3cyqxc4uNiWoyiSYcnXLv/XnthF0ryn2GQLmJzi1jriA8GeP5nS36JMUYwcTnVTStPUOMvvD8c3L0k2amdKn5s06/9lkqQmhUf6rDN0SL/I4FMSdyLi1PNTkD0MLoPYjcMLJ3a/WnrDEKFguFyvbJfyY01dSpmmz0kzryEFDjgbPQmvZBw==;3Bf8yjriH+RRy2lwAixZ7A=="
 ---
 

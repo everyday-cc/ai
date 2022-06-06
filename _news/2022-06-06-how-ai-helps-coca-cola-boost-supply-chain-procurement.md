@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/coke_supply_chain.jpg?fit=800%2C600&strip=all"

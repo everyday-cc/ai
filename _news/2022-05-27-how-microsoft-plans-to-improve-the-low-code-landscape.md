@@ -3,8 +3,8 @@ category: news
 title: "How Microsoft plans to improve the low-code landscape"
 excerpt: "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals."
 publishedDateTime: 2022-05-27T03:20:00Z
-originalUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/"
-webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/"
+originalUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/"
+webUrl: "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "DbNPrduhWn7rKalZXxjcz8IEa9AbC7Pdc10BY5vfak0JZw5JuMADSBindJBa24dVJm5ps/Ex4UpxUSkR1IUoRfaNmJAWeR2T6JCcGQ871CF52a6j7uqFUA0WGXf5Zng3yZvuXEWiDTBJblkN0J9/dAjpuH8FmmE2ERfZnEl8/8wcMMkbL+FMdbgza2O/NsnZz6kOXZMg7dpJ99/C0t6bXxmnRZ3jkf46ugUloqzvlHpVY/jlZ6uxGg4xCKCp5Pb31HjbPqI2lighSpAuOvpvuBZMGD1ETBIA+ROJTh5OEQW3uQkRUf7BINIaElJjiw0rmlbH0D0uYyEoPEIeZ10IHPdnn//qBOPlYLlarbkErIcq2cDRhjjQhBTti6N/FvPUBjePfVYiLo8VCyh8yIQlxMSJE5MdkTpEKXXG63T48ioNMTdj2asFM3ngm9A12ZnznLrkYvIEJUoub6HJbX0eXav2nssYchG03J6rnqxHoVb8VIEK5qEV0ndQC8xzMNyJcJDBRoThHtvMWXcNJOlNSA==;U2gOV9BO/ML/m7XlXZu4+g=="
+secured: "gbqqdZneuu9KzUbH++/iSeczDrOQmgods5Ce99hC6nXJY5ls7Z6Yzzw9WMoiyGW9mLRJQR42/i0HVk+xDeGfhuu5qvnSwpr/Bd+xOLViDaQIqyrtlG8GvUiy4TrMOgoiDCzFMx+QfosZkHiEAzRYVeBmCotMqJ3UFXz5ksjZl2z0i8eeem1p/Cnd9pL6WTKaJv4DQJNeC6AWLQ4O9rbnSAVgYm4MKfLZ96rzugoA+SUR2ewGxEgyhfn/mYbqk7a6Yw/IEi+WJlMS1Bjyb53oq8ijvrN1NcViIrvp7IvxlhHXiGANjp3v1DLG5AyNvsUfgUfSmhJS2TyPXYQiNJZb7rwKnZunoD9mGmJSQAIauGWsO7BlCYY3VnLyXLZ6+FOFNWgn/cZvtus2vxbl4sk8aQ/O1VFyxUxoN9qfj2r0F9H6GDVUA9eg6jpha6bW9G1kW9+KNadHWdj2vuSFXYtgQzng7ZG2gbtPj4zcooe+r2GBoQAEnlv3ZfYzqKTyvzXZJIrIgnRS9DkBw20+38F7AQ==;VltNBX1F411LPwEveeVtVg=="
 ---
 
