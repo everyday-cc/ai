@@ -3,21 +3,27 @@ category: news
 title: "AI and machine learning are improving weather forecasts, but they won't replace human experts"
 excerpt: "While tools like AI open up new possibilities for better weather forecasts, many parts of the job are handled more skillfully by experienced people."
 publishedDateTime: 2022-06-04T01:15:00Z
-originalUrl: "https://heraldcourier.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_98eff607-c4cb-5482-ad7c-f80f8e05beb8.html"
-webUrl: "https://heraldcourier.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_98eff607-c4cb-5482-ad7c-f80f8e05beb8.html"
+originalUrl: "https://www.wfmz.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_3fbc19cf-24a1-5d31-b6b4-1eb6f11332eb.html"
+webUrl: "https://www.wfmz.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_3fbc19cf-24a1-5d31-b6b4-1eb6f11332eb.html"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Bristol Herald Courier
-  domain: heraldcourier.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
-secured: "JKgX/uzwPtSNTdSgUuSVWv1W9DqPisX6x0RIIrgledc5TxSsbRMm1CJWWqg5BitPGbebmnrp9AVMUruHTa/T+UrnbZgaw7H4Y4UVdI48GGgrfMadO1AnPzQOeIwxJNCiaz6K8Wfjvax8KGIpnCjmYJcVbnMrLZhF9SpY0sMSAhkbBoql5LlOI3g/W4rTL1H7GcDtj6mSDERcPQfeyE3/SaSaEKW3OLO7SLbvvJhpn9K2pTJyiiJh0wCjDqjv8Xf/R+91wyDtFuE2V1pkw7MeaUeHRCdLcIOjoiI5dbq5m+KNmFbtMBH6fX1B/90QKta51ojAChMVUmfBmUSvIANP/4eNOzGuWFcRtwQ23FtlmxVuSjO3wd74tXNyEFg9Dk/WMT2YdWXQuxrcv24+uT+QaaMXHcTE96AOGf7q2K/E9JM368OgOEyXtHNnSbHbJ/D6h6QPDEJDw1ncj0g+nxSisLsgu1ICpf49OQ12cnfRjW9O+LfosrGRi2QzQjQsgc60nH0hJXiQKAeneGTtAQBhbA==;W6/80UKzGn3TfNtAZ6+C5w=="
+images:
+  - url: "https://images.theconversation.com/files/465128/original/file-20220524-20-scw9mi.jpg?ixlib=rb-1.1.0&rect=0%2C11%2C7458%2C4953&q=45&auto=format&w=496&fit=clip"
+    width: 496
+    height: 329
+    isCached: true
+
+secured: "v5UAeXOjTIk3CFy19DVYG6Q5I5Ll5aQupNsl2rwDw675QmRe+sBWgO/AAhcK7nx0Nv+6s4Fa+iLo0bSlrFUxb3zuXREePclt0tP2xY7O/TBLkkEHfGHbg4ySNnoZZu4TgX3bHFWt65Kyq3Dz0j6qgK2KKvPyuA2QjcSxKJsLUpeFnszMcuTGSyTQ0hMQ37Q7ORLPtfto19XAeIbAf3AA5AzOwODev+NRY6+18szvdpig07hlhUEqPdJzntG1MSgNTHd2LJbhoSAoqATYnZtVW3LQ/jY0oldqUtYA85WyIaVJ34Ma2v8U/8dbzSXRQdJ0k44nuiT+kuXD+rX8VSlsd5vcAfXzNo7boAUFn1FHX64=;28fHmvg8fITsXGtkBYjj5w=="
 ---
 

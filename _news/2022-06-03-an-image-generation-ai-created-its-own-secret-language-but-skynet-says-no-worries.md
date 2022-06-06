@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 820
         isCached: true
-  - title: "AI attracting investor attention"
-    excerpt: "According to market research (2021), global AI funding increased by 108% to $66.8 billion, driven by healthcare AI which accounted for 18% (37 deals) of total funding (Figure 1). Figure 1: AI funding"
-    publishedDateTime: 2022-06-01T15:24:00Z
-    webUrl: "https://www.thepharmaletter.com/article/ai-attracting-investor-attention"
-    type: article
-    provider:
-      name: The Pharma Letter
-      domain: thepharmaletter.com
-    quality: 17
 
 secured: "5vfQ4znjsPRy5KS8AOlvwNHVfEpANBvfRPS3Ge5QBUfEwPT5xD2K6yl0z+Nej9ghV8h/1UqdqcXDVcGDHjcItQE0ze7iRMO25cOPjko0CxUXP+cRlxoLc9AGZEJSIVCsm9dCKuO1WsVXOvtH9BZRxg8Ajp5f5ek6JvU585yIb3KTOgjtFki4ar3D4589nGNU5AIoct5yd8xBnSbUE77BbdEPTAb1NsdZSY8aNWBnml3fnYgE+Xb+/InKYJpcLukX2fhkmcClTbfTND6E560XQ/X6AMf1UOCD9bP5sg9YN3OUeKXFWOrbNih7gzm0bXixrPGZPB7MkdW9an+u/54Z6XVA5cRZO87eQtlKszHNP0s=;uMms9rK/mftGs4HekWFsiQ=="
 ---

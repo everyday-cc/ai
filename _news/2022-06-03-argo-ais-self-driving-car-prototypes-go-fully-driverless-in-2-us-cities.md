@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 761
         isCached: true
-  - title: "2 Austin Chick-fil-A’s to use self-driving vehicles"
-    excerpt: "A’s in downtown Austin received self-driving vehicles Tuesday to begin test deliveries, according to a release from Refraction AI. The company said its goal was to provide energy-efficient meal deliveries."
-    publishedDateTime: 2022-06-01T16:46:00Z
-    webUrl: "https://www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/"
-    ampWebUrl: "https://www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 44
-    images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2022/03/gettyimages-460984624-1.jpg?w=1280"
-        width: 1280
-        height: 814
-        isCached: true
 
 secured: "G4hkdgP+VTboASw0HkD1PEB7B0vSoHcT9N7RHybG894vGNv3qf3XmO79y5VKw8D+NhH8cqbNnbQG53LlhT0dUcdRbe3IWvLf7lOgMddxBX5T0SVRWvXTYo+pMBPTquospni43h6K1OeR9255dScraWkyvlVGtTJe1BMvwSvhKmtsYgZ7E8r0vMbyU/Xbry5PDxqevQ2mrYOtgACSccEUzrSQu7B6h3eZRwDDk8bdU+NFCfZeY7KoDp0udzvNYwMNPvAZwdWDSL2Czumozuib1/QEHmFSkJe7BW+VyFIYrv0L3fEElyCgKeTHhdGjKOx+HRrQnVqUeaTLBXw/m1nzSujIDiVnY9O/HCIJb/mMRXO4mb7zoH0po2eHav3/yQvhTugSKcYfoZvZjx6ESZtuT0Dh6c84wL1P8aGiVrd7O46kVBokWBXba2J8k+NN/6wSFi+HzFuVYd5RPWY7dZkNXDetDrg3goVfv7ef1s62g1IpkJd73bSYpQGI58BZeRi7af0VdQ66hFfP9Jgor1SYsg==;NzvIu+cTrQT0d1ktFa1MvQ=="
 ---

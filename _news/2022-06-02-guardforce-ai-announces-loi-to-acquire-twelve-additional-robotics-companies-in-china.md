@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Tonic.ai Announces New Integration with Snowflake"
-    excerpt: "Tonic.ai and Snowflake’s partnership will enable users to de-identify data and tokenize it for increased productivitySAN FRANCISCO--(BUSINESS WIRE)--Tonic.ai, the San Francisco-based company pioneering data mimicking and de-identification,"
-    publishedDateTime: 2022-06-01T17:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=673134"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 37
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "qJHcTeXpeHpI4sheR7bygOcvwdnyIBBd5ZGxdyOYlIOtjhyRHGblwkURrdgHWMvJfCtip3gK7gSF12IJmnCHRvkHkrUNJysTZq4/FuJhr+C7ujs3EOhmLNT+cTH3CgTic6ypkau718MZ5y/s0aq5rohdw5+uBRzzXbPkz1D6tMrNi0k0dVQR2/nkvBrb44dilp76FfbjDSDnAOwzibT+ZKX8N1/hWnJxk5mF/CKfGidC9iMHJq5oyeLyLPVq37/YacZtRb2jy4mVaAIyYtM1XBJqbDweToQFmn9Yo/G8bVO+0Ka0zvgPaLpYzJAWdBpK3gr0BdJruglEjDtWXYNxQ9ApJVHDWZLym3Yiu16Snfs=;61lNWNWOTwgJFPnjonEhuw=="
 ---

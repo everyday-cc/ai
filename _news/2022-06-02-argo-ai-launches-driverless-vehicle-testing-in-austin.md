@@ -7,8 +7,8 @@ originalUrl: "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverles
 webUrl: "https://www.timesunion.com/news/article/Argo-AI-Launches-Driverless-Vehicle-Testing-in-17212618.php?IPID=Times-Union-cars-headlines"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Times Union
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "2 Austin Chick-fil-A’s to use self-driving vehicles"
-    excerpt: "A’s in downtown Austin received self-driving vehicles Tuesday to begin test deliveries, according to a release from Refraction AI. The company said its goal was to provide energy-efficient meal deliveries."
-    publishedDateTime: 2022-06-01T16:46:00Z
-    webUrl: "https://www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/"
-    ampWebUrl: "https://www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/austin/some-austin-chick-fil-as-to-use-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 44
-    images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2022/03/gettyimages-460984624-1.jpg?w=1280"
-        width: 1280
-        height: 814
-        isCached: true
   - title: "Argo AI's self-driving car prototypes go fully driverless in 2 US cities"
     excerpt: "Argo AI, a self-driving technology startup backed by Ford and Volkswagen Group, reached a major milestone in May. The company's prototypes are now fully driverless in Austin and Miami, where they are faced not only with heavy vehicle traffic but also a high number of pedestrians and cyclists."
     publishedDateTime: 2022-06-03T12:45:00Z

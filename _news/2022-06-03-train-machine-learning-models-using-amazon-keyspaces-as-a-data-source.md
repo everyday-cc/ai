@@ -38,6 +38,20 @@ related:
         width: 1000
         height: 498
         isCached: true
+  - title: "Accelerate and improve recommender system training and predictions using Amazon SageMaker Feature Store"
+    excerpt: "Many companies must tackle the difficult use case of building a highly optimized recommender system. The challenge comes from processing large volumes of data to train and tune the model daily with new data and then make predictions based on user behavior during an active engagement. In this post, we"
+    publishedDateTime: 2022-06-03T16:48:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-and-improve-recommender-system-training-and-predictions-using-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/accelerate-and-improve.jpg"
+        width: 1000
+        height: 498
+        isCached: true
   - title: "AI, predictive analytics top list of hot technologies for banks"
     excerpt: "AI, machine-learning, predictive analytics, natural language processing (NLP), computer vision and microarchitecture are hot technologies that banks are investing in today, according to a Forrester report."
     publishedDateTime: 2022-06-02T20:59:00Z

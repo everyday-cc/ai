@@ -29,57 +29,68 @@ images:
     isCached: true
 
 related:
-  - title: "Run text classification with Amazon SageMaker JumpStart using TensorFlow Hub and Hugging Face models"
-    excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular"
-    publishedDateTime: 2022-06-01T16:25:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/"
+  - title: "Translate, redact and analyze streaming data using SQL functions with Amazon Kinesis Data Analytics, Amazon Translate, and Amazon Comprehend"
+    excerpt: "You may have applications that generate streaming data that is full of records containing customer case notes, product reviews, and social media messages, in many languages. Your task is to identify the products that people are talking about, determine if they’re expressing positive or negative sentiment,"
+    publishedDateTime: 2022-06-03T16:37:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 108
+    quality: 101
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/01/text-classification-jumpstart.jpg"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/translate-redact.jpg"
         width: 1000
-        height: 501
+        height: 498
         isCached: true
-  - title: "Amazon SageMaker Notebook Instances now support configuring and restricting IMDS versions"
-    excerpt: "Today, we’re excited to announce that Amazon SageMaker now supports the ability to configure Instance Metadata Service Version 2 (IMDSv2) for Notebook Instances, and for administrators to control the minimum version with which end-users create new Notebook Instances. You can now choose IMDSv2 only for"
-    publishedDateTime: 2022-06-02T22:02:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions/"
+  - title: "Train machine learning models using Amazon Keyspaces as a data source"
+    excerpt: "Many applications meant for industrial equipment maintenance, trade monitoring, fleet management, and route optimization are built using open-source Cassandra APIs and drivers to process data at high speeds and low latency. Managing Cassandra tables yourself can be time consuming and expensive. Amazon"
+    publishedDateTime: 2022-06-03T19:01:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-machine-learning-models-using-amazon-keyspaces-as-a-data-source/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/02/sagemaker-imds-versions.jpg"
-        width: 1000
-        height: 499
-        isCached: true
-  - title: "Detect financial transaction fraud using a Graph Neural Network with Amazon SageMaker"
-    excerpt: "Fraud plagues many online businesses and costs them billions of dollars each year. Financial fraud, counterfeit reviews, bot attacks, account takeovers, and spam are all examples of online fraud and malicious behaviors. Although many businesses take approaches to combat online fraud, these existing approaches"
-    publishedDateTime: 2022-06-02T18:24:45Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-financial-transaction-fraud-using-a-graph-neural-network-with-amazon-sagemaker/"
+    quality: 86
+  - title: "AI, predictive analytics top list of hot technologies for banks"
+    excerpt: "AI, machine-learning, predictive analytics, natural language processing (NLP), computer vision and microarchitecture are hot technologies that banks are investing in today, according to a Forrester report."
+    publishedDateTime: 2022-06-02T20:59:00Z
+    webUrl: "https://www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html"
+    ampWebUrl: "https://www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html/amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 79
-  - title: "AWS and Amazon SageMaker (A): The Commercialization of Machine Learning Services"
-    excerpt: "Lakhani, Karim R., Shane Greenstein, and Kerry Herman. \"AWS and Amazon SageMaker (A): The Commercialization of Machine Learning Services.\" Harvard Business School Case 622-060, May 2022."
-    publishedDateTime: 2022-06-01T18:59:00Z
-    webUrl: "https://www.hbs.edu/faculty/Pages/item.aspx?num=62414"
+      name: CIO
+      domain: cio.com
+    quality: 57
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/06/fintech_electronic_payments_banking_dollars_euros_pounds_yen_by_metamorworks_gettyimages-1127063674_2400x1600-100835370-orig-100890294-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Financial Analytics Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
+    excerpt: "According to IMARC Group latest report titled \"Financial Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
+    publishedDateTime: 2022-06-03T13:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/financial-analytics-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
     type: article
     provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 66
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://www.hbs.edu/Style%20Library/api/headshot.aspx?id=240491"
-        width: 440
-        height: 464
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Leveraging automation, AI and analytics to better compete in the digital economy"
+    excerpt: "How are some organisations using automation, AI and analytics to enhance their business processes to win in the digital age?"
+    publishedDateTime: 2022-06-02T06:31:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/leveraging-automation-ai-and-analytics-better-compete-digital-economy"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 16
 
 secured: "HlTNPTJrUVAZRmPh4gH3uUUIu51Dq9cG3iGtxPFSJfrsk5PqjHKXfoqQGI9HTEWxJmapzyM3z1w4pY9/io4P6jeSOj+wKJI3oXtgGEoMu+BX76iZSpgOGdpf+5gydxZKg4QLbD2orf+V4E3w8vGs+Q0nAB4iVHtVxvnWPh5/1wFnyHf7y3RGZUnKzatVXVKHkfoRZYqjJ693G1ffwk2iOMr9qtkD514MbDXquNmdtn/ErrPlDbvzSH2zRnd35nlBcJlrTf3fp5bERASQh6jPJjHr3sfl5InE4RPtaOVR09zbN9FUkOQLLjq+hipIFWOHkqXB8u75gpi0EulAgwdZO40d/jFGpsgU7uIPS5UlvTs=;BUZER326gnxc7uSu7Kn5hA=="
 ---

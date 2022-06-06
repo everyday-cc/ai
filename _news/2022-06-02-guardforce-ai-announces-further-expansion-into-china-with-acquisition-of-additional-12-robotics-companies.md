@@ -9,7 +9,7 @@ ampWebUrl: "https://ca.proactiveinvestors.com/companies/amp/news/983942"
 cdnAmpWebUrl: "https://ca-proactiveinvestors-com.cdn.ampproject.org/c/s/ca.proactiveinvestors.com/companies/amp/news/983942"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "Tonic.ai Announces New Integration with Snowflake"
-    excerpt: "Tonic.ai and Snowflake’s partnership will enable users to de-identify data and tokenize it for increased productivitySAN FRANCISCO--(BUSINESS WIRE)--Tonic.ai, the San Francisco-based company pioneering data mimicking and de-identification,"
-    publishedDateTime: 2022-06-01T17:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=673134"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 37
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "RZYVO4llev2DB6Ai1BM/4pCcx48Y2jAGqSQ9gQZyJ2/N3yQglN4TFuXRYpti3dg1YKk8FG5BuzSipotgGpCDD01srEfFHT8/MRXJLHxjbHhoB2qyCRP/NNUhNjf9IcNzEfjtf81n0tTkExzDgotWHnrRfH03CCW0BUs1VqVOAahWA4ue46kyDnzm/jNlZ+s44M1cmarkrqEst9pz25yCctITUPH45/FVd+NOHeEZtmpqM4G5JhlOZ28Qm5zJKFqTvgwDwMaulBxmm9vRUdGLInT3omDIXy0EYNhhxvP4kJi1dW/ISGkLM6Jg8S6jYuvPff6ZwfjQDqtwtp0nm0O93E+m0kfcIKhcI6zhIz9qemI=;pynoxMPAU4GtXpc/CGCoqg=="

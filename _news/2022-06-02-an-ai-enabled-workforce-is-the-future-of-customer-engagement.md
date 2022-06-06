@@ -23,17 +23,6 @@ images:
     height: 672
     isCached: true
 
-related:
-  - title: "The Otome World Ain't a Picnic for an AI Either"
-    excerpt: "The first thing I did after realizing I'd apparently become an AI was to create a humanoid body for myself. That's my story and there is no evidence to say otherwise"
-    publishedDateTime: 2022-06-01T16:17:00Z
-    webUrl: "https://archiveofourown.org/works/39367983/chapters/98520858"
-    type: article
-    provider:
-      name: Archive of Our Own
-      domain: archiveofourown.org
-    quality: 17
-
 secured: "VQsjlplLFb1dgNIDq6dEiuI5aDJMZoRb2wdzBUxsZShpoFVmJcLVPl256ZsAFT6PNDs8uPBwhuZtp4iK9EFo8i9wv15X5K8PVzA8WtvvW0doQ79n01fy0087x4KzzkU1RpNIvrGkrQzbYha3ubGXtDwiFvqnvv0Ay3zCEsxIX8gWtVkrrHeGZ5Mq85lhFjoirG3TiZ0XDK5/iObaYESYsJ4zkCSvQHzkQtkA12scpdLvo8Zobhq9mwBbRQX4avFURbdNSBsM/S9FIYa7+0QBa5xf1/yBhVreIQedOyk8xFydfY/6hCjUbo7N3QoNYQoRjUrwlYZCoBHvzFu5R6b5nBKejPvBXcv43Mf5KVQ5wlo=;HHQTbFO+dzb8DQhUUcZnYg=="
 ---
 

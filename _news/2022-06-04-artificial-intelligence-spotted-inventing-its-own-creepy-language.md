@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/06/03/artificial-intelligence-spotted-invent
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 820
         isCached: true
-  - title: "AI attracting investor attention"
-    excerpt: "According to market research (2021), global AI funding increased by 108% to $66.8 billion, driven by healthcare AI which accounted for 18% (37 deals) of total funding (Figure 1). Figure 1: AI funding"
-    publishedDateTime: 2022-06-01T15:24:00Z
-    webUrl: "https://www.thepharmaletter.com/article/ai-attracting-investor-attention"
-    type: article
-    provider:
-      name: The Pharma Letter
-      domain: thepharmaletter.com
-    quality: 17
 
 secured: "Xsy0wytT41QKxSg44NBx8sO1gk1iaCIgMo/q11iP1uUiLZrLop0bomLqQtf6sin83MEtimggHa183xNdU5egwnVxqaCmVnALL+gpk35fb+nvoGY5772DrowHDSdilRhLZtM5h4bIfLePrtkLUtV2EpgLEPHEtGYrQhV1aWA6JsFXsyWRXa5xfLEsXL5Bh76Cc3MCiR6JNNbf6uW5ZvHj5djeqhFA5nfBDdmHFh+d2PFF46zt2ewgqlcTR9KdVZil/MLAoHsZvxBrcqr54pOd34T9hlOXBKpzi+MDieYWxb+GPZXgAVhcyYRN0QbLjO34HIkeRAcmx78zWLhbQFm8Hr1T3x7rU3tGGTL+3Z6hhYGnzA7H+cdWEQQNkWE7p10cYczeeYG3efY8kfHeftWp6hpz/FXBHhm407TmH0cH9qhJ7mHpuRi60+x3GDQOy6Cw/YhSuAdNgMl1AfOvme0h7U+Z/6Onyo5gxjZG/r+K8D2dmcEwU1DK1I7ACN2xUxLVqSS7ytJyo85vUC5ilgYihQ==;F2JuM099d/F2OnSEB53fvA=="
 ---

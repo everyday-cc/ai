@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
-excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking"
-publishedDateTime: 2022-05-26T09:56:00Z
-originalUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
-webUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
-ampWebUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
-cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
+excerpt: "By Megan Marples, CNN For these tiny robotic crabs, being small is a virtue. Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking robot,"
+publishedDateTime: 2022-05-25T21:08:00Z
+originalUrl: "https://kesq.com/news/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/"
+webUrl: "https://kesq.com/news/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/"
 type: article
 
 provider:
-  name: 7News Miami
-  domain: wsvn.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "SRf8ltRa1dFjFwaCHmndOjOD84bwel++7+z5Ir+rUi87x0CjLFkv8dbnigHG1fPq+pWqZJ900QCJTV+a+/4Fjqlv5oNzalFngBHviS2oMqJVFCZ5rJDEE0iYXinYDTyOLNQ6sWPwmLle/mEDDFgbQZB7xngArI09NWLEgIHNr9nNZKi+Mx2XCWRFztgOsRdqA7x52fV0zAaWuZwkYLzbxFOyE6yvtXg26KMiXkisBY8RQI/walhW7gQF0mZ8uQNc/ULCpxSIl/DFt4arVKorrcE3XWD86ftPJL6EGT55N5OEWdcyOgYMurJ/Q3AfNrUXLT1tFuBhSGwP38gkwEgZM4IHh1VDyDkLqeMaGVlwHlEufnRDpDlVI8TG10CAPSEQH+ETpVGRtJCat/5MMXSmo/t6IuQBml/vlJlOWO77camJVLu+PpJHQUn4gH/mET5SbG5/OfLsISiGFaTIsxVnA5ymvxBLQpSh6L50lTivd6c3PX4jbtLZBzx6WARQWHdO9z6J84c7bXOFzAc1qk1/zg==;Xvx94HzQMKBlADkFHrhIhw=="
+images:
+  - url: "https://kesq.b-cdn.net/2022/05/hypatia-h_6e786a4893d94079d8372adb51205a12-h_1076c546327634234ed4d9f557e966ca-300-scaled.jpg"
+    width: 1920
+    height: 2560
+    isCached: true
+
+secured: "WHZECmb647WakvdqErSqUO1+j5aGHQc5q/9PVTTGJE4bQwZIJZMpYjKslTGNGQoMHs8/w0h4BBxUSeKw6uf5h8CjmgCDw51Kqu6585Gm5VucNvvpINBKrvR/v9RGQTCHLCpwsZtbSKgWS6mV4WpE0m5Qm82WPrUrGnunjjYXAjTT2H4Cq8A/jgLmzVHXJAd2qzttNESDGAdM7h0mRQUTHZngImG0AbgIVJMEZFqiyV5A4BbEG2KYy8BKPIE6sN7v7IsOMO8XCfmBPw9UP7K5aFcW+tlNkHFE6B9Ib3QSOsVpa1yTx6fxE6MIOhLJF983aIQT2rwEM580BwJqpC351QdhOvKOmZQr2/VsduOEQDg=;acxb46LlLyIgxeHvOQ3Bnw=="
 ---
 

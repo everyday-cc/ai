@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Pieces Selected for Amazon Web Services (AWS) Health Equity Program"
-excerpt: "Pieces, a healthcare AI company, today announced that it has been selected for a new global program from Amazon Web Services (AWS) supporting organizations that are developing solutions to advance health equity."
-publishedDateTime: 2022-05-18T11:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/05/18/9604351.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/05/18/9604351.htm"
+excerpt: "DALLAS, May 18, 2022 /PRNewswire/ -- Pieces, a healthcare AI company, today announced that it has been selected for a new global program from Amazon Web Services (AWS) supporting organizations ..."
+publishedDateTime: 2022-05-18T12:03:00Z
+originalUrl: "https://fox59.com/business/press-releases/cision/20220518SF61284/pieces-selected-for-amazon-web-services-aws-health-equity-program/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220518SF61284/pieces-selected-for-amazon-web-services-aws-health-equity-program/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - AWS AI
@@ -21,6 +21,6 @@ images:
     height: 209
     isCached: true
 
-secured: "JkEJQqAB/o9RkOjLCh3LWWfm1DgV4ok1iwWQq2bziyU3NYhSpQI92s3FIAP1mJFANCYa9tnql+8ekARflkkyuqJjvX4RTrCEihwnfz8gX+RA9/DoaQGxsJy+Ezmdzi2ia6LuA+7YO9kQ7i3qpE2qie8ooEPshjco7xj6OQBs4BqGLXR4C3zIRgoUIyk+UeBfNXJZ0YQxL6BNQnT1QmTW0txznVSJ+DpgRe05DK3eX2ADHMiUtxhNqUJiZXcOu5K5h6kEr4icQdJWUIxJNjKHTpUKFlIW3FVYgzKNf3HWYNTNK3rqrE1FlqOaq0MP+EhSoI5+91vCwLKGGFLAVTlJkR+rBAc3DuNMIQrIqe4/+8aKe2rXZbSBmHj/lnZ2KLDcwDwoFECh3gKYsUmLJoUv6+unjomIrcVtxqSNKwy/ebVEEdvYQ4Djuk7Z0s2DMyIK4tISd/NOVe0UgHyYpe6k8P7jBRGyx1TI6nERaQCeixw6gpBJeeNFR9WITU8qBXoI41Bv8tgM6uB1R7EuzWzoww==;hWIjExWQHE0F5rATc2wa/g=="
+secured: "ChUMmL/yy27asT6IQE8kvYLGZ+E92BjH6+6xYbwTARCILeMJL67g6QjE1jHUf6U7WlV7sB/mlaVmnfedvh0cvBBK4mH9kspNjvczl1tC/r5XKkI16H2boPgcqcmaLMFCdZ6Yp45pUvL8P4XYrdr2MOsrZY+MUb+K/Dw3LkyvdzJmukJPUpv7nqqbAIa/O399IvNFA31XKmcRZbfWccMyUkV4znujWbcm1tegwpGR73Ks5EVjvprMQxw16AEOQJHQUXqhqjEj2+7mwTZK3n2GrsAtj6EuergO22aFRFg12+6MegxwkrYrJ8yKxX7hjAt3Q91uEFHYRmHjp/Xp28aDBcFaV81buwpt+eA3O35k+o0=;3HVoRgHDDGLXJ0G5SXkjCg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-philly-robot-convention-robotici
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-philly-robot-convention-roboticists-devices.amp"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,64 +25,6 @@ images:
     width: 1920
     height: 1771
     isCached: true
-
-related:
-  - title: "Finish Robotics Brings Robotic Painting To Life"
-    excerpt: "Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA - Finish Robotics, a recent entrant into the"
-    publishedDateTime: 2022-06-01T16:25:00Z
-    webUrl: "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 69
-    images:
-      - url: "https://www.getnews.info/uploads/d9e065ff2a5a506c56bb783399a24f49.png"
-        width: 526
-        height: 480
-        isCached: true
-  - title: "From the Robotics Lab to the Wet Lab"
-    excerpt: "Using a bootstrap mentality he learned at Olin, Andy Barry '10 is reinventing himself from successful robotics engineer to gene therapy research scientist. Andy Barry '10 stands next to Boston Dynamics' quadruped robot,"
-    publishedDateTime: 2022-06-03T15:50:00Z
-    webUrl: "https://www.olin.edu/articles/robotics-lab-wet-lab"
-    type: article
-    provider:
-      name: Franklin W. Olin College of Engineering
-      domain: olin.edu
-    quality: 56
-    images:
-      - url: "https://www.olin.edu/sites/default/files/styles/carousel_image/public/2022-06/delta-on-launcher-with-andy.jpg?itok=uHErVkXh"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Cowen & MassRobotics Highlight Role of Robotics in Achieving Climate Objectives"
-    excerpt: "Cowen Inc. and MassRobotics announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
-    publishedDateTime: 2022-06-04T17:18:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2022/cowen-massrobotics-role-robotics-climate-objective"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 50
-    images:
-      - url: "https://www.automation.com/getmedia/66ce7547-431a-4d87-ab2f-525f1ede115e/mass-robotics-news-June-3-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "Cowen & MassRobotics Highlight the Increasing Role of Robotics in Achieving Climate Objectives"
-    excerpt: "Cowen Inc. and MassRobotics announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
-    publishedDateTime: 2022-06-03T16:11:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2022/cowen-massrobotics-role-robotics-climate-objective"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 42
-    images:
-      - url: "https://www.automation.com/getmedia/66ce7547-431a-4d87-ab2f-525f1ede115e/mass-robotics-news-June-3-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "l6t/sqtlpDQ+FY6HtObO/by7YKN93WU1CcC2gCXhKLIv52UFHXtdhh+F7HX9w/p52yAcxtppz+MrlzccM/MbQc2PzktmbrfbfDbYZieUDUCkBlXWC4tJ98qNyE/Hc0vDmKAI++/3dczEboSY1NfgYibcQYrUm/GzkVp3MW0y6WEihj4t5ov9dio1vxp/PAjMhjhNFK+hRpOBBIyHBUmVzoxMxRhDOYZ5JCTU51hqHpEoKl8xF7rDkUwM5MaU7aW1UJfU3uHWIUKf9GiwJl9mHAClTWdKx6kDOzz6jbAAskBHimyXYPnCqLNhLGQz+3ZP3i5rQFgjx+eaG6n+clxJdlBhBoBcPugHZbr7ApgTcsFBZxqPKxTNiKWAs/VV/Er86OMeXR8/ZE9+rFFgycNzezMUsQ1YeDjZWcs232mDkGUA8uIavNrs8efPGt+dhy3tH34MuP4QPXXpHfvBCsMgESQ57FKQaevpOZOVnzOjb5NoFMf91lrDTJuK+e977juZdwyr/v/HaO2L727oJSYqqg==;nATa/6F4Ive5fFoWqj8FGQ=="
 ---

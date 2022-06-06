@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-not
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions/"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: AWS
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Run text classification with Amazon SageMaker JumpStart using TensorFlow Hub and Hugging Face models"
-    excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular"
-    publishedDateTime: 2022-06-01T16:25:01Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 108
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/01/text-classification-jumpstart.jpg"
-        width: 1000
-        height: 501
-        isCached: true
-  - title: "Accelerate and improve recommender system training and predictions using Amazon SageMaker Feature Store"
-    excerpt: "Many companies must tackle the difficult use case of building a highly optimized recommender system. The challenge comes from processing large volumes of data to train and tune the model daily with new data and then make predictions based on user behavior during an active engagement. In this post, we"
-    publishedDateTime: 2022-06-03T16:48:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-and-improve-recommender-system-training-and-predictions-using-amazon-sagemaker-feature-store/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/accelerate-and-improve.jpg"
-        width: 1000
-        height: 498
-        isCached: true
   - title: "Detect financial transaction fraud using a Graph Neural Network with Amazon SageMaker"
     excerpt: "Fraud plagues many online businesses and costs them billions of dollars each year. Financial fraud, counterfeit reviews, bot attacks, account takeovers, and spam are all examples of online fraud and malicious behaviors. Although many businesses take approaches to combat online fraud, these existing approaches"
     publishedDateTime: 2022-06-02T18:24:45Z

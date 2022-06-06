@@ -475,24 +475,33 @@
     {
       "path": "_news/2022-05-18-tesla-to-host-second-artificial-intelligence-day-in-august.md",
       "title": "Tesla to host second artificial intelligence day in August",
-      "excerpt": "Tesla Inc top boss Elon Musk said https://twitter.com/elonmusk/status/1526685434910212102 on Tuesday the electric-car maker will host its second artificial ...",
+      "excerpt": "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day ... expand on plans to fine-tune its self-driving technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august",
-      "originalUrl": "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august",
+      "webUrl": "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august",
+      "originalUrl": "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/1178652-tesla-1473332232/1178652-tesla-1473332232.jpg  ",
+          "width": 625,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp",
-      "publishedDateTime": "2022-05-17T17:00:00-07:00",
+      "ampWebUrl": "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1",
+      "publishedDateTime": "2022-05-17T23:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
         "images": null,
         "publishers": null,
         "authors": null

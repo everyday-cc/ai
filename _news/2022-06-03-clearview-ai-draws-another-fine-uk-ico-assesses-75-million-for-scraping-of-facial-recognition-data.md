@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-anothe
 cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview CEO pitches developer focus as key to Consent facial recognition success"
-    excerpt: "The new Clearview Consent product from Clearview AI brings the company’s facial recognition algorithm to an entirely new set of customers and use cases."
-    publishedDateTime: 2022-06-01T15:29:00Z
-    webUrl: "https://www.biometricupdate.com/202206/clearview-ceo-pitches-developer-focus-as-key-to-consent-facial-recognition-success"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "Tech: Kiwi's action against Clearview AI, what came out of the PM's US tech mission?"
     excerpt: "Technology correspondent Peter Griffin looks at the action taken by former NZ Privacy Commissioner John Edwards against Clearview AI, now he's the UK's Information Commissioner. What was Clearview doing wrong and what precedent is being set for the UK and beyond?"
     publishedDateTime: 2022-06-02T00:02:00Z

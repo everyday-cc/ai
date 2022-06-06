@@ -40,20 +40,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "Clearview CEO pitches developer focus as key to Consent facial recognition success"
-    excerpt: "The new Clearview Consent product from Clearview AI brings the company’s facial recognition algorithm to an entirely new set of customers and use cases."
-    publishedDateTime: 2022-06-01T15:29:00Z
-    webUrl: "https://www.biometricupdate.com/202206/clearview-ceo-pitches-developer-focus-as-key-to-consent-facial-recognition-success"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
 
 secured: "ARZTQWIpBnkLyHXcJPG9Re0WNTl3MvgBkDgZ4ADLG4XtsGI0dAlECULabvikDtLwTzjW3PjeK6AHvjxUJ04m+9z5xnPvlj1DckdfRHBXmqAkxvuxLtSgVcKE1Hhq76a9hJY4YZ8Msac9sGx/FCLxY6VorN3Pl/5MGt0KrN2h8gebkvJqIduVHxKALGziy3QcUzqm3xARSa4Z12aK7z4r3M5OzxTqi9i79zGAKLZrVpB525xblYZP1EgDlAecNwYccgQMYEVC5UkywGarCgZp3ctPQU3TIXkLflMt0OszALB8KiBXmdLzj6ZFdqvtEGPvcxPSkp1HXFHKCrcMe+8UyLSXMBLQ+a4S+XgjJrE6gSM=;tbd27D4v7t6Neu/kEO53FA=="
 ---

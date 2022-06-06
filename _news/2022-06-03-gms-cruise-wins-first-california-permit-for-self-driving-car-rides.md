@@ -69,6 +69,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Cruise is going to start charging for rides. Meet the 9 engineers from GM's self-driving bringing the first robotaxi service to the masses."
+    excerpt: "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ..."
+    publishedDateTime: 2022-06-03T00:00:00Z
+    webUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
+    images:
+      - url: "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "GM-backed Cruise could soon charge passengers for self-driving car rides"
     excerpt: "There has also been a longstanding concern that self-driving cars cannot always correctly predict how humans will react to changing events."
     publishedDateTime: 2022-06-02T12:37:00Z

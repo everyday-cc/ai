@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Media Market Size, Share and Analysis to Expand At 20.4% CAGR Through 2028"
+    excerpt: "Jun 03, 2022 (Market Insight Reports) -- The Cognitive Media market share report ... is a hub for market intelligence products and services. We streamline the purchase of your market research ..."
+    publishedDateTime: 2022-06-03T10:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
     excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
     publishedDateTime: 2022-06-02T18:30:00Z
@@ -48,6 +62,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "Online Mobile Game Market Size By Type, Application Analysis, Trends, Key opportunities and challenges, Forecast By 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 02, 2022 (Market Insight Reports) -- “The latest Online Mobile Game Market Analysis is designed to help ..."
+    publishedDateTime: 2022-06-02T16:32:00Z
+    webUrl: "https://marketwatch.com/press-release/online-mobile-game-market-size-by-type-application-analysis-trends-key-opportunities-and-challenges-forecast-by-2028-2022-06-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Software Market 2022 - Product Type, Ongoing Trends, Competitive Insights and Worldwide Forecast to 2028"
     excerpt: "The Global Artificial Intelligence Software Market 2022 by Company, Regions, Type and Application, Forecast to"
     publishedDateTime: 2022-06-01T21:11:00Z

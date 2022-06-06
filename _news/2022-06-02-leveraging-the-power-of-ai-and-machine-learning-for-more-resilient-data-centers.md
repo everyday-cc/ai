@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/levera
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454"
 type: article
 quality: 70
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
-    excerpt: "SAN FRANCISCO, June 1, 2022 /PRNewswire/ -- Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library. DxPrime provides physicians and clinical documentation improvement (CDI ..."
-    publishedDateTime: 2022-06-01T16:29:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/first-ai-to-refine-medical-coding-by-exploring-therapeutic-data/article_41f1c1da-2be1-561b-9d1f-8f3a5f58d0e2.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Ready Or Not’s Upcoming Update Will Address AI And More"
     excerpt: "Ready or Not's June content update will address AI issues among other issues such as new mechanics. The game is available on Steam."
     publishedDateTime: 2022-06-05T16:40:00Z
