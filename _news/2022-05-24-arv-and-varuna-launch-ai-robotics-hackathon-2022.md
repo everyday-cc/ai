@@ -3,8 +3,8 @@ category: news
 title: "ARV and VARUNA launch AI & Robotics Hackathon 2022"
 excerpt: "Thailand's leading technology development and venture building company dedicated to leveraging cutting-edge AI & Robotics technologies, as a technology spin-off from PTTEP, an upstream national oil & gas company of Thailand,"
 publishedDateTime: 2022-05-24T09:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/05/24/9607586.htm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 283
     isCached: true
 
-secured: "YPLmVO6jGYJCeUBsVrSdfVGCLnHUZoRdpeqk04BL7vX6QCsPEgMHrgjVw2IgPz59Egk4cpJ4pWY3gTnAV2rHZHaQkU44+wyL/942WP7th4ojyzLxNHW+MkaOLgKkrTtrE6o8lp7wvKnwMWdeNKl+c7l/rr+jBBlfN88BvDXA6FjAL+f11ouPK3sWrN4tf5JVNX0X5I5OKD7sc9w56F0J5BqffmIDZwAjvpsY3KNhcEGzipnqE0hPa3B8SGw5u5CLobtTtRZX81dKD/ltYowU6QW7UTrEoWHUFQ+LXkdxkAN31yJ5qst9jRZi6SGmEH0ytpO/YBOAVCAqpQU7cjj80paI+HD0Sup4Fyav/WPhpuD93zgxUaBgQO+qBzsukCae+CcdO49BLepm3GGFzJantCO2SvDUtEZhZ2fzRS34ppgefwIafov+WzbnVIfmCOlUve+Kwjb9FEI1Wjs3lPIZvBTE2P/fe9MbzhmfGnfOHCzxi+uTHC8cXksgdYmYjRISlKrrYEShKUWiQGo9jnb+XA==;pTvnGmo1Fb6/TU8yBmYd3Q=="
+secured: "+wCdPqXOOTalmDyOiUNvRWHakFgjLiydiSWZhA2YBD53MUVmjYUPD2XdtOA8ojYD5bERTn/Jq9j2qAaJHkIgoTprxUvv7xWT8a7Pkny7R+qVBNMUccMWMijmj21eFO6HNviWrLKSQnHRgCAizj+SmCzD8b91vd/hO1pMfzF2/D/SejuPTZML+LLXzUveeXqfv2BUvjYHDbcnF/6pNWDdINlTuoihqLUgCJ3mzFfvIwlw7gtEuccEIukw7Z6sLXErtW5CP+KM9u3o4yzuxmog43o5nqxzNTqcAttRGqh6PkivGUp1H47Mm1OAVeiUkUfqhpTbBeMAsg6moKMdNUQizfv7Vvn82CvFTkXUSnUMJLU=;wdPNk1CBCB6tAF1MTA5suQ=="
 ---
 

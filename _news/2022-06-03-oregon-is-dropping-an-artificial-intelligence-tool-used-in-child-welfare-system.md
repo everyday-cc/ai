@@ -3,24 +3,26 @@ category: news
 title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
 excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
 publishedDateTime: 2022-06-02T17:12:00Z
-originalUrl: "https://www.wbaa.org/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-webUrl: "https://www.wbaa.org/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+originalUrl: "https://www.ketr.org/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+webUrl: "https://www.ketr.org/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
+ampWebUrl: "https://www.ketr.org/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
+cdnAmpWebUrl: "https://www-ketr-org.cdn.ampproject.org/c/s/www.ketr.org/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system?_amp=true"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WBAA
-  domain: wbaa.org
+  name: 88.9 Ketr
+  domain: ketr.org
 
 topics:
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/3ff5ecf/2147483647/strip/true/crop/4500x2363+0+309/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F02%2Fap22152597835977_custom-39b4163664f9c1f211f24f2e60c157a4a3c0286b.jpg"
-    width: 1200
-    height: 630
+  - url: "https://npr.brightspotcdn.com/dims4/default/ff795ba/2147483647/strip/true/crop/486x274+0+45/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2Fb2%2F3a4e3fe0492582606f5e84a15ff8%2F06-04-2022-horizon-smoker.JPG"
+    width: 430
+    height: 242
     isCached: true
 
 related:
@@ -103,6 +105,6 @@ related:
       domain: knkx.org
     quality: 13
 
-secured: "0LEcTXnt/8Gh2mPZWvanTC0fb5/9EM8MFCkRfS4EK+uUoFsKocla1YkbmjKAGYuQ1mqbjRQ9TOlnMMVEIJKH1BnboUq809e6NpQZ28wQVoJiXoXWpGfvF5slZOSgLrjP4xuJtTM31YQh5WtHL5moLNHbaJDS+7STfFpRWmcfdkRJG2T1p9G5Co3a+G49VN3JRw2cyA389EdXb4GatXDc0hSizTZhomfXkwziDO2I5ZS1+JxB0Q5estRDw2J4mAhQxMf7fXFlbwsGhMBSdki+fb87NRw+D5TCckKqajLquZMZHeUF8PixqTs9n/P//uUtUNbtLxY3KwLtR6oxgsNcXufg5TcAlT7b/fgXkIokB8FdBP0wmr3sK8IaRPOycgAfqRxnxhTKpikmNM5cc02quaGYzMHkoEXyM7qSiNp8S49ysTuVTgjuQpBqBk5GEa99l1d/FlNMZJjZanQB4NxA5fHMW0x64eE+usp3XSpB9IHxkF12JChsX49EDVPWfwUVCoSen2IWrDcgowF9Qc3mSg==;As1u+xQcShmFheNHfk6EJA=="
+secured: "ZgQSn0PAi1uqbqpDoFwMKdwbdoXgT1dlaJK9HtXYkH/VEE1+u8y3tmlwstamYz3kcaCl09YIo7XNW0ICyiWxP2M/elmNLlTXWf/Cjy0c56qVhYWDRczmwJLlfOcJYzuTuP5TH0ARXhynUkL+hmV2jCB6ndciz4mFoh0JGA9R0A9wmrVteKTIASRNtgo8DBqFCJa/VE3autupOWducV1fx4JFU7jnwDQgNEO7uqSeMkQ6wHFYLOTy0T25GVkEd93e+pQkiJBfXpdx7ao6mFaYRWoHnq+/YYS96iHqWTzEPtOPGkb24UIX3WZM0WTV+bR2VVP5fLJpJG/Q8KvrReo+RWMmU2/hnlXBsobXuc6c8Gs=;Ehi10DSxsB+Rw9mzhZKmGw=="
 ---
 

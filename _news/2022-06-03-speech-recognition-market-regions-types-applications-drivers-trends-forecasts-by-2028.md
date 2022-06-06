@@ -23,71 +23,89 @@ topics:
   - AI
 
 related:
-  - title: "Voice and Speech Recognition Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
-    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2022-06-03T09:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
+  - title: "Conversational AI: Trends, Forecasts, Application Options"
+    excerpt: "Text-to-speech dictation and language translation are two ways AI can help with accessibility. This can in turn help companies reduce entry barriers and become more accessible. As can be seen from above, AI chatbots and apps can reduce time and improve ..."
+    publishedDateTime: 2022-06-06T11:32:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://imageio.forbes.com/specials-images/imageserve//629a305769a5cdb9454fcbbb/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Cognitive Media Market Size, Share and Analysis to Expand At 20.4% CAGR Through 2028"
-    excerpt: "Jun 03, 2022 (Market Insight Reports) -- The Cognitive Media market share report ... is a hub for market intelligence products and services. We streamline the purchase of your market research ..."
-    publishedDateTime: 2022-06-03T10:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03"
+  - title: "Canon-McMillan's music education program receives national recognition"
+    excerpt: "Canon-McMillan School District has been honored with the Best Communities for Music Education designation from The National Association of Music Merchants Foundation for its outstanding commitment to music education."
+    publishedDateTime: 2022-06-03T07:30:00Z
+    webUrl: "https://observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.html"
+    ampWebUrl: "https://observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.amp.html"
+    cdnAmpWebUrl: "https://observer--reporter-com.cdn.ampproject.org/c/s/observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.amp.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: Observer-Reporter
+      domain: observer-reporter.com
+    quality: 61
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/observer-reporter.com/content/tncms/assets/v3/editorial/9/8c/98c80576-d54b-11ec-b6c7-cf1590593691/6282a138658b7.image.jpg"
+        width: 560
+        height: 270
         isCached: true
-  - title: "Online Mobile Game Market Size By Type, Application Analysis, Trends, Key opportunities and challenges, Forecast By 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 02, 2022 (Market Insight Reports) -- “The latest Online Mobile Game Market Analysis is designed to help ..."
-    publishedDateTime: 2022-06-02T16:32:00Z
-    webUrl: "https://marketwatch.com/press-release/online-mobile-game-market-size-by-type-application-analysis-trends-key-opportunities-and-challenges-forecast-by-2028-2022-06-02"
+  - title: "‘Education reform must include recognition of First Nations teachers and principals’"
+    excerpt: "Changing the conversation requires the inclusion of First Nations educators, says NATSIPA president, Dyonne Anderson"
+    publishedDateTime: 2022-06-01T20:00:00Z
+    webUrl: "https://www.theeducatoronline.com/k12/news/education-reform-must-include-recognition-of-first-nations-teachers-and-principals/280331"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: theeducatoronline.com
+      domain: theeducatoronline.com
+    quality: 34
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/au/130/0413_637897319151808994.jpg"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "Why education reform must include greater recognition of First Nations teachers and principals"
+    excerpt: "Changing the conversation requires the inclusion of First Nations educators, says NATSIPA president, Dyonne Anderson"
+    publishedDateTime: 2022-06-01T20:00:00Z
+    webUrl: "https://www.theeducatoronline.com/k12/news/why-education-reform-must-include-greater-recognition-of-first-nations-teachers-and-principals/280331"
+    type: article
+    provider:
+      name: theeducatoronline.com
+      domain: theeducatoronline.com
     quality: 29
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn-res.keymedia.com/cms/images/au/130/0413_637897319151808994.jpg"
+        width: 1000
+        height: 666
         isCached: true
-  - title: "Global AI Machine Learning Market Analysis To Showing Impressive Growth By Industry Trends, Share, Top Key Players Analysis And Forecast 2022-2031"
-    excerpt: "The report titled  Global AI Machine Learning Market  which was recently added by Kenneth Research, aims at providing the clients"
-    publishedDateTime: 2022-06-06T07:54:00Z
-    webUrl: "https://menafn.com/1104328287/Global-AI-Machine-Learning-Market-Analysis-To-Showing-Impressive-Growth-By-Industry-Trends-Share-Top-Key-Players-Analysis-And-Forecast-2022-2031"
+  - title: "Understand the lucrative career options in the Application of AI in Semicon with Intel leaders"
+    excerpt: "Intel, in collaboration with Analytics India Magazine, is organising a webinar on the applications of AI in semiconductor design."
+    publishedDateTime: 2022-06-02T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/understand-the-lucrative-career-options-in-the-application-of-ai-in-semicon-with-intel-leaders/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 27
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?279925"
-        width: 374
-        height: 250
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/Anushka-pandit-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Global Artificial Intelligence Software Market 2022 - Product Type, Ongoing Trends, Competitive Insights and Worldwide Forecast to 2028"
-    excerpt: "The Global Artificial Intelligence Software Market 2022 by Company, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2022-06-01T21:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2022---product-type-ongoing-trends-competitive-insights-and-worldwide-forecast-to-2028-2022-06-01"
+  - title: "PNC raising the bar for branches, analysts look for AI innovation in automation transformation"
+    excerpt: "PNC Financial Services Group Inc has thrown down the gauntlet to the banking sector, an industry increasingly baffled by rapidly evolving customer preferences away from branches and the need for brick-and-mortar."
+    publishedDateTime: 2022-06-01T21:05:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/06/01/pnc-raises-branch-bar.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
 
 secured: "FSBds/7Shofr+gqB6+PA/ks5n27beDzulxnVjeFVDsq6/NSf6vvRV19rEZUhE6+lyi14bTRez5Od9DgggQcmlN/S1B4WXLsNmZIfqvxnt4bQPhXc07X8oS0qyWPQEMviCGVc0GJmW9DKGPgwGuaXPrds8FMXU+MPVGEn9kLzP6+Znivwa+8pRtrPfCLm6sGQ7pW2cg+qxKgU5l4xt8ufglXioxuTr+smbgs1+ECBEG9l7jacAKSYyg8p1/HZ2CvCBtaWJ+iKeHKArMqN/ZIEXfgv0rSz1WX0pw9WuQ+lJmKLpVm1eiNMqmT8tYu2GGov09g55GdKHuplNp4Q6u/M+5OogjghP8PnPzwWraxHzao=;bL5yRKBeoEBtHObUH04O4w=="
 ---

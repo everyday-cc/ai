@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-not
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 79
-  - title: "AWS and Amazon SageMaker (A): The Commercialization of Machine Learning Services"
-    excerpt: "Lakhani, Karim R., Shane Greenstein, and Kerry Herman. \"AWS and Amazon SageMaker (A): The Commercialization of Machine Learning Services.\" Harvard Business School Case 622-060, May 2022."
-    publishedDateTime: 2022-06-01T18:59:00Z
-    webUrl: "https://www.hbs.edu/faculty/Pages/item.aspx?num=62414"
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 66
-    images:
-      - url: "https://www.hbs.edu/Style%20Library/api/headshot.aspx?id=240491"
-        width: 440
-        height: 464
-        isCached: true
 
 secured: "HO8nIxawxPodKPr3N9VHPjl/xbHdHpRT2eVKbb/USK4WR4m1myTMVaBbC9ACJjDMdvlznR5a6Ig3Iv5K29bv7KfkLORlCgTC9t6xT/Osq/faRNOzGfpMXc/fyJ0+vpicPphyvw16ko2nCItlXE/3/TNtkRUKcM82UJbKyHaSeKKjyQaT01kQxGq2D5TAO3SUb58ZBZuLsVa37oHDMIrgawYtIQwyXcD2E+RloAivq0sAPiJgVMUaAyOju2/Je5e1cH7/jv40FIfLqeQ1AO6vfod/wXTo641tQZk0m+zU2DU9AAZADiYOqnc/sR0JNt+py/1wOjQNBHqw7ISVcYYjio6LjJ7pd6p4yRZzAADc4uc=;yNjrIWgd2p6JWU1IEYlYWg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/june-2022/ifr-executive-
 webUrl: "https://www.automation.com/en-us/articles/june-2022/ifr-executive-roundtable-at-automate-2022-to-highl"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "IFR Executive Roundtable at Automate 2022 to Highlight “How Robotics and Automation Are Transforming North American Economy”"
-    excerpt: "Co-sponsored by the International Federation of Robots (IFR) and Association for Advancing Automation (A3), the June 7 panel features executives from FANUC America, Teradyne, UPS, Zebra and NVIDIAANN ARBOR,"
-    publishedDateTime: 2022-06-01T17:21:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=673167"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 27
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "AMT to Present Technical Seminars on Autonomous Mobile Robots and Mixed Load Depalletizing and at Automate 2022"
     excerpt: "Applied Manufacturing Technologies COO Craig Salvalaggio & Controls Manager Terry Meister will share technical expertise on autonomous mobile robots and mixed load depalletizing at Automate hosted by A3 Association for Advancing Automation June 6-9,"
     publishedDateTime: 2022-06-02T19:23:00Z

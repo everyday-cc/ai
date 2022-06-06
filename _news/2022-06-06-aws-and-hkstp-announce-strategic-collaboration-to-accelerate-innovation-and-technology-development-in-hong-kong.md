@@ -27,15 +27,6 @@ images:
 related:
   - title: "PACTERA EDGE announces AI Innovation Challenge for Retail and Manufacturing start-ups, in collaboration with IIIT Hyderabad"
     excerpt: "today announced the launch of an AI Innovation Challenge in India, in partnership with IIIT Hyderabad - Targeting innovative ideas and start-ups in thematic focus areas under Computer Vision ..."
-    publishedDateTime: 2022-06-01T18:38:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1257888&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-  - title: "PACTERA EDGE announces AI Innovation Challenge for Retail and Manufacturing start-ups, in collaboration with IIIT Hyderabad"
-    excerpt: "today announced the launch of an AI Innovation Challenge in India, in partnership with IIIT Hyderabad - Targeting innovative ideas and start-ups in thematic focus areas under Computer Vision ..."
     publishedDateTime: 2022-06-02T18:37:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1258093&cat=PR News Wire"
     type: article
@@ -44,6 +35,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "GCS8/yaSE7dvWSeWuKOWV/S44U09EJVszkuw6TLEzy87bjYw3IsmVWOYKHqWSUzSVD1KskbnYYcwVmWcY/nKdDYgh8S2Lzha/3To8T2iKHCkXb4kJH+3rWtkEr7VB0d3m4p9GEUvcCn86uxqmBg4FtntHWZC7x/SioWkaUO+pHy+u/rZNXXGInukUgWAg/RSBwZNuuEFEbmFkoI0NG5/gLu4g0DecbKntFEsgIqW10jkLqHY/YS790mrauFKuHdNjkmUtaBY+8mW8WrQ35oId51N6BYImmDotcviO16i+7hjofkpchY4A5gl81QmvXscgbYlyhNhGYiw0DI5eSdN7wQTDhuIMQcgqaKyU5OOygg=;pAsP1BOKQXI5tfsRDU4gHA=="
+secured: "6pQV7i3cPi1is0MZb5fmABNPfpbbqY0tDdsSfz/ZbBQI0odAdnFof2tXAV0sVg4osLmKD8OA/1rXwH62HQwjaekaGTpaq+htH/3SpM+/8NIa1E7v+5r01/4R96x3+MtRfJVMizx10wvRAv4rNTst39wgThZ7PhlCSTH2hB0EYkAzH5WfULWtKEnb/r1Q6gPt3LihbujneVl1GGRgX+csp2Jqtw9geh+uQqtGnBJGlFAYPX37dn9G7nyuQTijyb1ZffrgNs/ruqq/zEhrMGHYgQiFGs4KhXxddV+hNtJWKsBQdNyNVCKu6mxpHPp/wXeXjXEO/L2RICzXSUqoz86vmn4tV+aiYcw//bMROGj+jgMfGit1r7nwOb5QzYjU5xl/ruumjiNVwbx1fMgnpjBlkFSGxQxmXcJR9QkWlFB+hfBICJOBiX1HaUuhtYLvth8/eEUWyGU2nZ2+cfhudpK9e6wNKjWq+AriXLosUv6SD2ZU3QexrRcuMYnOuWzPqb5XW0+4tZk3QDfCJvNzZ/+8ew==;gq+fYEdvfKYQcToe+g2Zig=="
 ---
 

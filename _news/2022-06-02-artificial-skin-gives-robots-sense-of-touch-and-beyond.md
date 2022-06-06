@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-artificial-skin-robots.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-artificial-skin-robots.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1600
     height: 811
     isCached: true
-
-related:
-  - title: "Artificial skin capable of feeling pain could lead to new generation of touch-sensitive robots"
-    excerpt: "An electronic skin which can learn from feeling \"pain\" could help create a new generation of smart robots with human-like sensitivity."
-    publishedDateTime: 2022-06-01T18:00:00Z
-    webUrl: "https://techxplore.com/news/2022-06-artificial-skin-capable-pain-touch-sensitive.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 22
 
 secured: "gVqG8SD70lRSrnOisNfMcQB+H5uDCeq//ArBP+7uTz2ZtJrrIr8uN2iAwDjqiVPbBPX1sBt5kFA2mxxSxGl38T+4ymCeIcfEzlDe1WAHj3S7EH4IhofkbYMvxONy62VbsXkRrgaCmajN4qwn2YCdjSIn1k6PuHCKwsXUwaxq6n2eUAJmOtk7uhAGzaajBqBZGg92gGVtgDSnJov9Z88ankKiheetqiyG2lsuGllOiO/j/b96ZWRZhyGZQHypM2F+HS/+d633NTxfwzNF31yWHpfPfC1kJipdKZycSW438AC0Y317mGJea7y0UmBIAdYI/L9xgllw6tBcp9aESot/YD50uhtvNDSjrDwifY26eZ+H55GVNw7LFs5brEr4A0+Feif+TnO7Gf9bl/VsCN1xzqnKSRY4ze5DOQga36J//atla5TleSqZrk7WD/kWa6VmrDblilQDGUF1gy0Izt3vwRBiErCBhIQx9xdnljXqIMvnoDb6nrhksdd+zoG0UbVkNC36X6wYkFHorzIqHTM1kA==;1xA/Ue6Nw0EktSfJv9mCvw=="
 ---

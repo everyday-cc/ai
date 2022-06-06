@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/role-
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
-  - title: "The role of AI in data privacy"
-    excerpt: "AI can help businesses improve customer experience in a way that both satisfies data privacy advocates and makes ecommerce more efficient."
-    publishedDateTime: 2022-06-01T18:07:00Z
-    webUrl: "https://venturebeat.com/2022/06/01/the-role-of-ai-in-data-privacy/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "AI and ML can transform healthcare in India but here is what we need to take care of before that"
     excerpt: "Over the past decade, the fields of medicine and healthcare management have witnessed several technology-led breakthroughs. Chief among them are changes brought on by Artificial Intelligence and Machine Learning."
     publishedDateTime: 2022-06-04T12:41:00Z

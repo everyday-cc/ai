@@ -2,41 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-03-06-this-growth-stock-is-a-machine-learning-powerhouse.md",
-      "title": "This Growth Stock Is a Machine Learning Powerhouse",
-      "excerpt": "Estimates suggest the machine learning industry was worth $15.5 billion in 2021 ... by brothers David and Tom Gardner, The Motley Fool is a multimedia financial-services company dedicated to building the world's greatest investment community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-growth-stock-is-a-machine-learning-powerhouse",
-      "originalUrl": "https://www.nasdaq.com/articles/this-growth-stock-is-a-machine-learning-powerhouse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/this-growth-stock-is-a-machine-learning-powerhouse?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-growth-stock-is-a-machine-learning-powerhouse?amp",
-      "publishedDateTime": "2022-03-06T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-03-04-7-favorite-fintech-stocks-to-buy-after-the-correction.md",
       "title": "7 Favorite Fintech Stocks to Buy After the Correction",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Here are 7 fintech stocks trading at significant discounts with the industry poised to thrive in the foreseeable future.",
@@ -1404,6 +1369,49 @@
       "provider": {
         "name": "Finextra",
         "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-11-2022-report-on-quantum-computing-applications-in-the-financial-services-industry-end-user-cases-and-market-forecasts-researchandmarketscom.md",
+      "title": "2022 Report on Quantum Computing Applications in the Financial Services Industry - End-user Cases and Market Forecasts - ResearchAndMarkets.com",
+      "excerpt": "The report also takes a look at quantum computing’s role in accelerating the use of AI and machine learning in the financial services sector. The report provides a ten-year forecast of what the banking and financial services sector will spend on quantum ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-642eccbe40034068ae85eb4e12865b31",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-financial-services-642eccbe40034068ae85eb4e12865b31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

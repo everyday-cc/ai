@@ -38,20 +38,6 @@ related:
         width: 1000
         height: 499
         isCached: true
-  - title: "AWS and Amazon SageMaker (A): The Commercialization of Machine Learning Services"
-    excerpt: "Lakhani, Karim R., Shane Greenstein, and Kerry Herman. \"AWS and Amazon SageMaker (A): The Commercialization of Machine Learning Services.\" Harvard Business School Case 622-060, May 2022."
-    publishedDateTime: 2022-06-01T18:59:00Z
-    webUrl: "https://www.hbs.edu/faculty/Pages/item.aspx?num=62414"
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 66
-    images:
-      - url: "https://www.hbs.edu/Style%20Library/api/headshot.aspx?id=240491"
-        width: 440
-        height: 464
-        isCached: true
 
 secured: "3G6nNizlwk9/pkNgaDgCWaSYdaenhkcHpsKbwGZvOcoioDBGGfW4BVMyjJKwAsWKh5thFY8Bmx4qpugL1OGW6bDXTe19VVV2zKkGJq1ynm8ilbdkFOVcB7vs+zqicKmxztQgnxZOVzLyGUGSferc3My3Wl9hy1x52NZYmUiXppAJEd+Sy1o/L4PcYgbYol6KalRcuh4zJh2dh9AJ/RvNPrgg1THKXY6W121jeUdU2shjHE3uoPLvoMzpsh+AfxVuTtUf/B04G0IgcnwJYNG+sv2trWM0NAeddZffuMza31S3mLZyF/LHSuTvMAfQ5xOqOSEiA9XHZ/OQaXaaJ0PPwsIxx3F+rk4/FmPop/1k52E=;PNaaH5+LBHOnrIBCTNhhgg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/news/3845748-advanced-micro-devices-nio-j
 webUrl: "https://seekingalpha.com/news/3845748-advanced-micro-devices-nio-join-forces-to-supply-chips-to-the-chinese-ev-maker"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 750
     height: 438
     isCached: true
+
+related:
+  - title: "NIO Enters Partnership with Advanced Micro Devices to Supply Chips"
+    excerpt: "US chipmaker Advanced Micro Devices (NASDAQ: AMD) has entered a partnership with NIO (NYSE: NIO) to supply chips to the Chinese electric vehicle maker. NIO will"
+    publishedDateTime: 2022-06-06T11:25:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/nio-enters-partnership-with-advanced-micro-devices-to-supply-chips-432SI-2833885"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.investing.com/news/AMD_800x533_L_1596452822.jpg"
+        width: 800
+        height: 506
+        isCached: true
 
 secured: "OWj6EOQBa2iQo0COk5eciXOJLJEYf63meVxoYT8Dyw4reLdK4DVHESJKVze8fvpFYUrLGMfhZTtBTqHBkNm7/rUAJYBw/y1lqkY6Gle/fUrT4r9G7X271Ioasf0/6wQi93vvzvOlE/7rNb0d2vcpZ1S5hxtSsHfHLjG1YtmFNedEtW4F0lMNnNzkL/zcI822W817QFJF2M0J4qBU0r+E9R5kBQ62qM2/amIQomJkx++NFHnIjSZ815xLgA+g2vn6FgFyjZdJWL/ZlojhJhOhUPB6ZspLw3+YpYLAhbwPbKhkTRw73sNQqLxsArzFhCUE0NX8n/OgpqOWn+ZYw+mPXMpA36b4YvsHQvh8AaJNJBKfKPTB8DjzmhagUayu5n0j0IVseLE1NJN+tGS7MNs93MHTDYaDGpD8EacNXJyy1lylBuWZfXFhgltyU7QAKvytM7KIkh29mDHMLZKD6oUK//LlUpPeYEvl6RRCltpjWpBL/i/N17SzSkbwfCrwVAZkNYWMXzf7r5odT7WfzZJrHQ==;Qa8zamIzj88wgekwbGbOTA=="
 ---

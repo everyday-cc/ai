@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "IFR Executive Roundtable at Automate 2022 to Highlight “How Robotics and Automation Are Transforming North American Economy”"
-    excerpt: "Co-sponsored by the International Federation of Robots (IFR) and Association for Advancing Automation (A3), the June 7 panel features executives from FANUC America, Teradyne, UPS, Zebra and NVIDIAANN ARBOR,"
-    publishedDateTime: 2022-06-01T17:21:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=673167"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 27
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "IFR Executive Roundtable at Automate 2022 to Highlight How Robotics and Automation Transform the Economy"
     excerpt: "Co-sponsored by the International Federation of Robots (IFR) and Association for Advancing Automation (A3), the June 7 panel features executives from FANUC America, Teradyne, UPS, Zebra and NVIDIA."
     publishedDateTime: 2022-06-01T19:44:00Z

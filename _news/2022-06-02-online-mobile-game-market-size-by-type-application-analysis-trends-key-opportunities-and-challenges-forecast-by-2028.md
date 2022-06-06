@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
-    excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
-    publishedDateTime: 2022-06-02T18:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-regions-types-applications-drivers-trends-forecasts-by-2028-2022-06-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Global AI Machine Learning Market Analysis To Showing Impressive Growth By Industry Trends, Share, Top Key Players Analysis And Forecast 2022-2031"
     excerpt: "The report titled  Global AI Machine Learning Market  which was recently added by Kenneth Research, aims at providing the clients"
     publishedDateTime: 2022-06-06T07:54:00Z

@@ -3,10 +3,10 @@ category: news
 title: "AI Improves Drug Screening for Alzheimer’s Disease"
 excerpt: "Alzheimer’s disease accounts for 60-80 percent of dementia cases and is the most common cause of dementia according to the Alzheimer’s Association. Dementia is the decline in"
 publishedDateTime: 2022-06-03T02:57:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202206/ai-improves-drug-screening-alzheimer-s-disease?amp"
 type: article
 quality: 57
 heat: 57
@@ -25,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "hEyDSR/gEGj3IY2Dbu459zTJzN5MBh5qZdBQIGdb3uwJfnfjHW+iBMDpBIXfnMtXftP18KWnzmqXRsFG4UuYiTOhkW/YyvfH7FdH5pQA1JR0i/EYy+TYvzTkM2rnUnIuzF43YilRO8lfur+52o6NINS27FNG83wemj/FKnQrXEHHkcj9AzZuV/ysCVF9H9eEQTpH/pu7RuopDf3qlsOZFz36G1yaIafrQ2nGe7LUZDYrJqAQ+DW0aFuTbm9fBcrsBlE/nDT//xnhJeT4aKvSwMA/AUX6oeNgiiQetIrMPFNg/4NGBtnTkWDgAXSijX5PvYOwmWwcnQf+92ohLmcyV2LAGdmNF/LN/Gglmk/bqsw=;Vgn4hrAnmU3p9rqAPM4TBA=="
+secured: "rGTMewMJhQjadvLqWl11QzVionuxQIY/eHBAAiPYCFhIxhNq6QjUacBVhzmB9shgXjbGn9s8DUq8/YJKcCcoDxtgd/z7uDDxwpLNlU/t7zv3cPPj3f2tvz1UpYJhhG5hLbJ4NhSSJOxlyvAgXdrniJsdg1yW0FNC12MDSvfBp3/kZSFFkVsCfj0vRBpZ5foY9UpSAC6jqKTjBbJgZKnZcZYca9qy75f1HU41c3LuMTw3+3pxnR5GeJ1D9hUIwNumAedW8ZVQZ44VEK627iO9WA2nj8JBQv736aAPS4GocVpOiLn5E1mUjes9tJ6VITU6E4DtW2xUoPDodXItkviqN2WV9vD0WoddZALW+45PdZQ=;Gz2jgyTphTVyPr4++H9BJA=="
 ---
 

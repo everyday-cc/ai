@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-sho
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/"
 type: article
 quality: 76
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://www.retaildive.com/imgproxy/4sWHMeFkZ4Ng9u5s5xoTt2b96KN1_7tfIXPZYNMyHeU/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1BpbnRlcmVzdF94X1RIRV9ZRVMuanBn.jpg"
         width: 770
         height: 364
+        isCached: true
+  - title: "Pinterest buys AI-powered shopping platform The Yes"
+    excerpt: "Pinterest has agreed to acquire The Yes, a shopping platform that uses artificial intelligence to create personalised feeds for users."
+    publishedDateTime: 2022-06-06T11:29:00Z
+    webUrl: "https://www.drapersonline.com/news/pinterest-buys-ai-powered-shopping-platform-the-yes"
+    type: article
+    provider:
+      name: Drapers
+      domain: drapersonline.com
+    quality: 37
+    images:
+      - url: "https://cdn.rt.emap.com/wp-content/uploads/sites/2/2022/06/06102135/Asset-95-2_2-1024x587.jpg"
+        width: 1024
+        height: 587
         isCached: true
   - title: "Pinterest to Acquire THE YES, an AI Powered Shopping Platform for Fashion"
     excerpt: "Today, Pinterest is announcing that it’s signed a definitive agreement to acquire THE YES, an AI powered shopping platform for fashion that enables users to shop a personalized feed based on the user’s active input on brand,"

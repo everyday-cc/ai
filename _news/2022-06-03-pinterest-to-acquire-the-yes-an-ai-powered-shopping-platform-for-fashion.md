@@ -104,6 +104,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Pinterest buys AI-powered shopping platform The Yes"
+    excerpt: "Pinterest has agreed to acquire The Yes, a shopping platform that uses artificial intelligence to create personalised feeds for users."
+    publishedDateTime: 2022-06-06T11:29:00Z
+    webUrl: "https://www.drapersonline.com/news/pinterest-buys-ai-powered-shopping-platform-the-yes"
+    type: article
+    provider:
+      name: Drapers
+      domain: drapersonline.com
+    quality: 37
+    images:
+      - url: "https://cdn.rt.emap.com/wp-content/uploads/sites/2/2022/06/06102135/Asset-95-2_2-1024x587.jpg"
+        width: 1024
+        height: 587
+        isCached: true
   - title: "Pinterest collaborates with THE YES startup, here are all the fun features you will experience"
     excerpt: "Pinterest along with THE YES startup might come up with best possible online shopping experience, but this is just a guess, as the company has not yet disclosed anything further."
     publishedDateTime: 2022-06-03T05:25:00Z

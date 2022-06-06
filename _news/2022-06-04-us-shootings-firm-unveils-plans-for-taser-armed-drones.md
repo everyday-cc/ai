@@ -80,18 +80,18 @@ related:
         height: 641
         isCached: true
   - title: "Firm proposes Taser-armed drones to stop school shootings"
-    excerpt: "Taser developer Axon said this week it is working to build drones armed with the electric stunning weapons that could fly into schools and “help prevent the next Uvalde, Sandy"
-    publishedDateTime: 2022-06-03T20:12:00Z
-    webUrl: "https://globegazette.com/lifestyles/technology/firm-proposes-taser-armed-drones-to-stop-school-shootings/article_32677531-f324-5384-a6f3-c5f5cf545745.html"
+    excerpt: "The publicly traded company, which sells Tasers and police body cameras, floated the idea of a new police drone product last year to its artificial intelligence ethics board, a group of well ..."
+    publishedDateTime: 2022-06-03T20:44:00Z
+    webUrl: "https://nptelegraph.com/lifestyles/technology/firm-proposes-taser-armed-drones-to-stop-school-shootings/article_ac8d9660-dad3-5ad5-a7a2-519374f40cec.html"
     type: article
     provider:
-      name: Globe Gazette
-      domain: globegazette.com
+      name: North Platte Telegraph
+      domain: nptelegraph.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/globegazette.com/content/tncms/custom/image/4a008fc8-c542-11ea-80d0-f71aedfaa0ef.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://bloximages.chicago2.vip.townnews.com/nptelegraph.com/content/tncms/assets/v3/editorial/7/7b/77bc5ff0-46ba-59be-8169-99c40ac60d54/629bab2f8ddfd.image.jpg?crop=1919%2C1011%2C0%2C34&resize=1200%2C632&order=crop%2Cresize"
+        width: 1200
+        height: 632
         isCached: true
 
 secured: "mrAcGDEJk2BlsMpwO+mI7TqS571kJca/4LBUosbDs7PwhzJvxShgcnkeDzXiVaOUEZQoNnWHpKCJ+QSdxAMUbniKng8rBXwKcnOGGUaxB9EWPV41pHmUnzLYtEm6cXCR8vbbSer26Fa6W9TdPUqOzU2VS9UkdVfMEbBylbzZQ3eTg2YD5ysI98JKSZFa2n/qoFClMFLEqMn4H+Y/00NUmVJChB6+P/o4uj5Xv17UjncBAxL2hBoLHc7JocOmvv66dnkGKWHr8IvVWg5ItD1LOXjpwpOdL4rWkhgE3unANiqi1Trt8BuSqArKSEMVcwkFfZ+lwYjOzz27fScKu5xrxKKegVF5kopF7kG1IXkD70QUc2ZhTlZAjoVx/lwxJYEQTiOfIQYyxxZfyqap5mY+Wd1he7yAAq18EiGj4TpB2tTBELwSSMyhMFRIbJXfUHzJMfCA9GU4qtNEvgAGvMjheK7FlGoQNIXhKADd0PNFI3eRGlwfiK1h7qFRxVdP93IEO0A3i60YzCbWEuCGLOuJDQ==;8E63YU9Ygej+/YcOyPd4HA=="
