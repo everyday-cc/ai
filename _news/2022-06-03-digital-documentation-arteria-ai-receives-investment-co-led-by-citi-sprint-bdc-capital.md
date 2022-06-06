@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191818-digital-documentatio
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/amp/"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arteria AI Announces Strategic Investment Co-Led by Citi SPRINT and BDC Capital"
-    excerpt: "Arteria AI, an award-winning global leader in enterprise digital documentation, today announced it has received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,"
-    publishedDateTime: 2022-06-01T08:54:00Z
-    webUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/"
-    ampWebUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 53
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Citi invests in document management spin out Arteria AI"
     excerpt: "Arteria AI, a document and contract management spin out from Deloitte, has received investments from the strategic investing arm of Citi's Global Spread Products division, and Canada's BDC Capital."
     publishedDateTime: 2022-06-01T10:23:00Z
@@ -85,15 +69,6 @@ related:
         width: 440
         height: 293
         isCached: true
-  - title: "BigBear.ai Announces Key Leadership Appointments in Finance and Corporate Development"
-    excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has expanded its leadership team to better execute on its growth strategy. Effective June 13,"
-    publishedDateTime: 2022-06-02T12:02:00Z
-    webUrl: "https://www.eagletribune.com/region/bigbear-ai-announces-key-leadership-appointments-in-finance-and-corporate-development/article_52d140de-22cd-56a7-8287-d342ac7d35dd.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 27
 
 secured: "4KGsatfB7lSU4SIcD4G3Ny1k2A28JDL3rLaEBiUJmROT7aJAOLoTn4PLYaK0W9XT2pCE6s9W7h+sUNHZuRqSOJS5QHk5AcM8h7BLgTtebOXdXNuWr3QQSkysal+BRsuWbgKV2ZN85k3tMXXz4mC96DZrUZ+YMEiI7V62BmuXLxnUNxLQ9iXE553QqOoQNtS5UHxYoBO8u1AXGtCAo65kD77YDtlOIaHC/Ix+c9V2ILxDp47/NNZl09r8r3MTMDFxlpjNk5ODE4Oj3G022VtWesB+4t7So7JC2wqcQ9seZmFP9dC1G+LQCbeXxJ9bAOWXVZhHvKIPPRxKIpsVrTyrN4V4+Gfu026WURmLUXwJHNMqnciQVr5rhK5RPVXcnifBDfFmi5cQW5hZ6vHo/O8g2s6++gklINqJgOq5iXe78mePFUjxqxb1ktzfkGCdcxgWQwwE0C9fQislIqCTx7jUFHeN1eFhABUWv3uWqCqnNVX0FGpqO0r01IDG37PzWIWY0EaY+TGZk3EMQEcNygNNSQ==;ZzzSMjRd72Z9Sm6oUFkatQ=="
 ---

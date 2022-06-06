@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arteria AI Announces Strategic Investment Co-Led by Citi SPRINT and BDC Capital"
-    excerpt: "Arteria AI, an award-winning global leader in enterprise digital documentation, today announced it has received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,"
-    publishedDateTime: 2022-06-01T08:54:00Z
-    webUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/"
-    ampWebUrl: "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 53
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Digital Documentation: Arteria AI Receives Investment Co-Led by Citi SPRINT, BDC Capital"
     excerpt: "Arteria AI, a global “leader” in enterprise digital documentation ... also represents a great opportunity to support a female-founded and led enterprise FinTech company.” This investment co-led by BDC Capital, which “helps develop high-growth ..."
     publishedDateTime: 2022-06-03T01:57:00Z
@@ -85,15 +69,6 @@ related:
         width: 440
         height: 293
         isCached: true
-  - title: "BigBear.ai Announces Key Leadership Appointments in Finance and Corporate Development"
-    excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that it has expanded its leadership team to better execute on its growth strategy. Effective June 13,"
-    publishedDateTime: 2022-06-02T12:02:00Z
-    webUrl: "https://www.eagletribune.com/region/bigbear-ai-announces-key-leadership-appointments-in-finance-and-corporate-development/article_52d140de-22cd-56a7-8287-d342ac7d35dd.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 27
 
 secured: "LvBM8h6LvUwpRgm87MIAcPWLtwX/avvKBZLqzN7/cj1PH6glLXFpXq7xARwhS9RgrhKTKBscXoADfUjxklEqe5qhBoDsBKE0soAl9h5MeJek1PVTJGQW7iWWKcTSsMEgx8gMKbiykyvUFiVZKqzbfgh6PpHcVHm252NxlwVtGDH75nIPiXO+nsa2p4Giy/eUI629A2jGSkT9cUbFxONKduC3vsqjDeubgXbcMrLU4TObfBtRpgauNMsjfQsqNvDKyy/xE3YqgE9evzcdylmumG52/W3Q+g/D61aex1aFe0P/ENYzD6xR3riqY33nHOYzVKOIx2mJzFCwmv6Fuiep60qW7zjOLep83yAqbTbiZwyDpn7BwfmAgReeg+mQbJNC1lEKPPcl0Jl8emAVRtvVuH7E3Ss2s741kERAEqtmR7QMdI3FEoOosWy/TNxMkAotZqaLslWEvASnuSHlF398DpMHzW5hImkAM3GLZdgF9RpSgmeU6iogrm8B4Ulkn+geGKLtb8yw5fRO7ki6aoalbA==;e9ahyQWa4kvD7Kd4sFGGHw=="
 ---

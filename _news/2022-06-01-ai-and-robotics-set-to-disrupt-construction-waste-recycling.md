@@ -7,7 +7,7 @@ originalUrl: "https://www.bimplus.co.uk/ai-and-robotics-set-to-disrupt-construct
 webUrl: "https://www.bimplus.co.uk/ai-and-robotics-set-to-disrupt-construction-waste-recycling/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Construction Market to Register Growth of ~34%, See Why"
-    excerpt: "Latest published market study on Global AI in Construction Market provides an overview of the current market dynamics in the AI in Construction space, as well as what our survey respondents—all outsourcing decision-makers—predict the market will look ..."
-    publishedDateTime: 2022-06-01T08:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-construction-market-to-register-growth-of-34-see-why"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Offer for Bleeding Horse, facial recognition issues and Apple’s recycling robots"
     excerpt: "A British investment firm has made an offer, believed to be close to €9.4 million, to buy the landmark Bleeding Horse pub in Dublin city. Attestor Capital, a London firm that has bought six other well-known Dublin pubs in a little more than a year,"
     publishedDateTime: 2022-06-02T05:40:00Z

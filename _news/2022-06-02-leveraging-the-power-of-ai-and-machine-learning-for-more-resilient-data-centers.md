@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/data-center/levera
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454"
 type: article
 quality: 70
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
         width: 600
         height: 338
+        isCached: true
+  - title: "Ready Or Not’s Upcoming Update Will Address AI And More"
+    excerpt: "Ready or Not's June content update will address AI issues among other issues such as new mechanics. The game is available on Steam."
+    publishedDateTime: 2022-06-05T16:40:00Z
+    webUrl: "https://cogconnected.com/2022/06/ready-or-nots-upcoming-update-will-address-ai-and-more/"
+    type: article
+    provider:
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 37
+    images:
+      - url: "https://cogconnected.com/wp-content/uploads/2019/03/Ready-or-Not-890x520-min.jpg"
+        width: 890
+        height: 520
         isCached: true
   - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
     excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."

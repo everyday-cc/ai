@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Val Kilmer's voice in 'Top Gun: Maverick' was created by AI"
-    excerpt: "Maverick wasn’t really a surprise to anyone but many fans had wondered about the nature of his appearance since the actor had lost his ability to speak following throat cancer treatment a few years ago."
-    publishedDateTime: 2022-06-01T07:45:00Z
-    webUrl: "https://faroutmagazine.co.uk/val-kilmer-voice-top-gun-maverick-ai/"
-    type: article
-    provider:
-      name: Far Out Magazine
-      domain: faroutmagazine.co.uk
-    quality: 37
-    images:
-      - url: "https://faroutmagazine.co.uk/static/uploads/2021/08/Val-Kilmers-children-provide-an-update-on-his-health.jpg"
-        width: 800
-        height: 646
-        isCached: true
   - title: "Val Kilmer's voice in 'Top Gun: Maverick' was entirely AI-generated"
     excerpt: "Actor Val Kilmer was able to star in the newly released Top Gun: Maverick thanks to Sonantic, which recreated his voice using AI."
     publishedDateTime: 2022-06-03T09:32:00Z

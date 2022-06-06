@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Val Kilmer's voice in 'Top Gun: Maverick' was created by AI"
-    excerpt: "Maverick wasn’t really a surprise to anyone but many fans had wondered about the nature of his appearance since the actor had lost his ability to speak following throat cancer treatment a few years ago."
-    publishedDateTime: 2022-06-01T07:45:00Z
-    webUrl: "https://faroutmagazine.co.uk/val-kilmer-voice-top-gun-maverick-ai/"
-    type: article
-    provider:
-      name: Far Out Magazine
-      domain: faroutmagazine.co.uk
-    quality: 37
-    images:
-      - url: "https://faroutmagazine.co.uk/static/uploads/2021/08/Val-Kilmers-children-provide-an-update-on-his-health.jpg"
-        width: 800
-        height: 646
-        isCached: true
   - title: "That Voice You Briefly Hear From Val Kilmer In ‘Top Gun: Maverick’ Was Created Using AI Technology"
     excerpt: "Luke Skywalker. You can listen to a sample of the AI version of Kilmer’s voice below."
     publishedDateTime: 2022-06-01T22:41:00Z

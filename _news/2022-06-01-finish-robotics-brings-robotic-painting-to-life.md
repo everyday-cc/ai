@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-p
 webUrl: "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing a Little Grace to Robotics"
-    excerpt: "A humanoid robot named Grace can respond to human emotion and transfer knowledge between tasks and situations."
-    publishedDateTime: 2022-06-01T07:10:00Z
-    webUrl: "https://www.designnews.com/robotics/bringing-little-grace-robotics"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 56
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/Robotics-Grace-Still-6.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "From the Robotics Lab to the Wet Lab"
     excerpt: "Using a bootstrap mentality he learned at Olin, Andy Barry '10 is reinventing himself from successful robotics engineer to gene therapy research scientist. Andy Barry '10 stands next to Boston Dynamics' quadruped robot,"
     publishedDateTime: 2022-06-03T15:50:00Z

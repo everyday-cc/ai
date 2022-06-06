@@ -25,20 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "How is robotics innovation progressing in the air force industry?"
-    excerpt: "Analysis of patent filings revealse the top companies for robotics related applications in the industry over the past year"
-    publishedDateTime: 2022-06-01T08:00:00Z
-    webUrl: "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/"
+  - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
+    excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
+    publishedDateTime: 2022-06-02T18:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-regions-types-applications-drivers-trends-forecasts-by-2028-2022-06-02"
     type: article
     provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 69
-    images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/05/il8Zm-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+  - title: "AI in Fashion Market foresee Share, By Product scrutiny, Application, End-Use, Regional Outlook, Competitive Strategies predict up to 2026"
+    excerpt: "The study on the global market for AI in Fashion evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
+    publishedDateTime: 2022-06-01T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-foresee-share-by-product-scrutiny-application-end-use-regional-outlook-competitive-strategies-predict-up-to-2026-2022-06-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
+  - title: "Artificial Intelligence (AI) in military Market Research by Key Players, Type and Application, Future Growth to 2028"
+    excerpt: "The global Artificial Intelligence (AI) in military market size reached USD 6.50 billion in 2020 and is expected to register a revenue CAGR of 13.4%"
+    publishedDateTime: 2022-06-01T12:47:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-military-market-research-by-key-players-type-and-application-future-growth-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 9
 
 secured: "r7jaYG/yoQeAUNXnq3QF0nDgCSuf9xgHYMP+gYiUj/8a5PdAXGvSeFhgYHL62vV7+kMSWKhJ/weBmOcbhbqwi1dgLf9l5eQTLEPveJTOjvBY7MasY98vwysDni02ZapKKNR89bFm9CoDvXauTf0OhBjBBWtb+U3YgCLDJQ5bzEfI4iHIvA6EnKYXYfIfS9dOtxwDfIZ0bVXaJWZOySmxCwpjuy5G5lXCwstbTOXROizYW93EjrWSX2zdfq2VuU5yeaSc0JeN37Kfq7KECMhRHmfWYf6FK+0RmRRdd3NOwlLBugb6ZVn94zY0mW5kpxGltXym1s+EIU25t2/Wgz3d7OtWV073Gj46L3ltJCIGlrY=;Tjh1uC3luabo9agK36Y1AQ=="
 ---

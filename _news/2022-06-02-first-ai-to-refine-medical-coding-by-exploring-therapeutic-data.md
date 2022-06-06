@@ -73,6 +73,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Ready Or Not’s Upcoming Update Will Address AI And More"
+    excerpt: "Ready or Not's June content update will address AI issues among other issues such as new mechanics. The game is available on Steam."
+    publishedDateTime: 2022-06-05T16:40:00Z
+    webUrl: "https://cogconnected.com/2022/06/ready-or-nots-upcoming-update-will-address-ai-and-more/"
+    type: article
+    provider:
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 37
+    images:
+      - url: "https://cogconnected.com/wp-content/uploads/2019/03/Ready-or-Not-890x520-min.jpg"
+        width: 890
+        height: 520
+        isCached: true
 
 secured: "LXcpRE8Dyw9anwSU/a/eipBFUQ5dzgzbi6o78G0/soOwWpOWX356x6D9aQEgqANPt7vW6+n00MLMZB9Axr1gavsI1Wa0vGDK2VdAwjIrucH2DN6V+mnFrs5wBiRLgH2lXzydOUZDXZG3Ey4zCxEEoFgu6djdYx/1tVV7tm+cA4Uv5I8R3NDwxEkQBqMMt0nNz3cgs9MD2zvtdknodO4iG9JlXeUmZiv9kEqbHYKBFmAjTcwXSBQpDstXW5UAINvBz+ECO/5GLa9oyP82y4ZcgILW8rgtYda3NH1JJHRhUxrnMMfccY9abYafS6hs2nKBDTpcPegEA9qbc0XBvIDldHD76TRfPpeaafiuel0OuN4=;YdAmotRSGcrW2jkNlaABvg=="
 ---

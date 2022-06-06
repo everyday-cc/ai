@@ -9,7 +9,7 @@ ampWebUrl: "https://technosports.co.in/2022/06/01/rialto-bridge/?amp"
 cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/06/01/rialto-bridge/?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 700
         height: 421
         isCached: true
-  - title: "Intel Makes Rialto Bridge Accelerated AI and HPC Processor Official"
-    excerpt: "Intel announced Rialto Bridge, Intel's data center graphics processing unit (GPU). Using the same architecture as the Intel data center GPU Ponte Vecchio and combining enhanced tiles with Intel's"
-    publishedDateTime: 2022-06-01T07:11:00Z
-    webUrl: "https://www.guru3d.com/news-story/intel-makes-rialto-bridge-accelerated-ai-and-hpc-processor-official.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
 
 secured: "4NnpgQbSmp4vWEyod7neLHn402hs614naqygr1xw18s7ImA0Xvg5jyiI6Fbp77YgFPKBW9U6e0F2nnfgvMUAAdBgBIH4aeUVNF1Goabmsc1rZqr1coMO0XaB5/0OeUHjSXu1Ogz+gXm3SQpSugaXB99RTes2CGyS9sYRoU6zjlbSI2heJwKnPgqnbyg87qYXDALAsuK2OYyIe7Rm7UL19oEnlof/wssO4QY5lpWmZoSOVhpY5IPpIDpmghP+065lfV7sTTdckBJl2KIL/zEjDj7FpfbgCtc7CKLvnjAiQ+6EJD1fWiDDUjrjxY1/N79HjccKNeBCYXlikHtrTe163Ey7prrFY6h65D0X5nb+W4v0UDq+1uqavSSPmUr+IntLmSLPqbTtCuMH/RyxG6KB0ry4Zq5Bl7ci/BL8mEi/3zhPtBi6Qv+d0ZLtqK/y/sKgVN1bnRmumkguZC5ELhiU/++sG6niv1ocY3SgSqoR6zg0sya1mtTSa34OjGMxQuJmCyLn9puNqFqQs3gVovWtWg==;o39LcNytfBeQjh06hWH1aA=="
 ---

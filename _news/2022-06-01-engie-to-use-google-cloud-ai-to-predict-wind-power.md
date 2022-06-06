@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google and France’s Engie team up to accelerate wind power"
-    excerpt: "French utility Engie SA will begin using an experimental technology from Google that aims to boost efficiency and power from wind farms, the companies announced on June 1."
-    publishedDateTime: 2022-06-01T08:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/01/google-and-frances-engie-team-up-to-accelerate-wind-power"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/01/1606809.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "French energy firm Engie to use Google Cloud AI to predict wind power"
     excerpt: "French energy firm Engie is using Google Cloud AI to predict wind energy power commodity prices, the company said."
     publishedDateTime: 2022-06-03T17:12:00Z

@@ -75,22 +75,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Bringing Analytics to All: Inchcape’s AI and Business Functions Unite over Alteryx"
-    excerpt: "Users of the Alteryx platform at Inchcape are singing the praises of the low-code platform: and some voices are firmly from the data science department."
-    publishedDateTime: 2022-06-01T07:32:00Z
-    webUrl: "https://techwireasia.com/2022/06/ai-ml-artificial-intelligence-machine-learning-business-focus-platform-best-review/"
-    ampWebUrl: "https://techwireasia.com/amp/2022/06/ai-ml-artificial-intelligence-machine-learning-business-focus-platform-best-review/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2022/06/ai-ml-artificial-intelligence-machine-learning-business-focus-platform-best-review/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 51
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2022/06/shutterstock_2072431601-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Financial Analytics Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
     excerpt: "According to IMARC Group latest report titled \"Financial Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
     publishedDateTime: 2022-06-03T13:54:00Z

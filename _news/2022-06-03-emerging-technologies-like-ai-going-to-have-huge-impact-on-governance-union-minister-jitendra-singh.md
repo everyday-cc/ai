@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SingSing: The first sing-to-earn project with AI-scoring technology"
-    excerpt: "SingSing will soon become the first musical social finance (SocialFi) platform, with sing-to-earn features targeting a community of about four billion music lovers in Asia."
-    publishedDateTime: 2022-06-01T08:00:00Z
-    webUrl: "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology"
-    ampWebUrl: "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 57
-    images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yODZiM2FjYjczZjljY2JiODA5NTVmMGIxMzk4ZTMzYi5qcGc=.jpg"
-        width: 740
-        height: 493
-        isCached: true
   - title: "Emerging technologies like AI going to have huge impact on governance: Union Minister Jitendra Singh"
     excerpt: "Emerging technologies like artificial intelligence (AI), augmented reality (AR), blockchain, drones, Internet of Things (IoT), robotics, 3D printing a.."
     publishedDateTime: 2022-06-04T03:52:00Z

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon Calls for New Ideas in ‘Third Wave’ of AI Evolution"
+    excerpt: "The AIE focuses on what DARPA defines as its “third wave” of artificial intelligence research, which includes AI theory and application research that examines limitations with rule and statistical learning theories belying AI technologies."
+    publishedDateTime: 2022-06-04T12:04:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/06/pentagon-launches-third-wave-ai-initiative-help-warfighting-effort/367736/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/06/03/060322DARPANG/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "DARPA's '3rd Wave' AI Aims to Compute Uncertainty Along with Accuracy"
     excerpt: "The Defense Advanced Research Projects Agency is formally soliciting contracts for its new AI Exploration program. The AIE will focus on what DARPA defines as its “third wave” of artificial intelligence research,"
     publishedDateTime: 2022-06-04T12:00:00Z

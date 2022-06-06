@@ -65,6 +65,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Ready Or Not’s Upcoming Update Will Address AI And More"
+    excerpt: "Ready or Not's June content update will address AI issues among other issues such as new mechanics. The game is available on Steam."
+    publishedDateTime: 2022-06-05T16:40:00Z
+    webUrl: "https://cogconnected.com/2022/06/ready-or-nots-upcoming-update-will-address-ai-and-more/"
+    type: article
+    provider:
+      name: COGconnected
+      domain: cogconnected.com
+    quality: 37
+    images:
+      - url: "https://cogconnected.com/wp-content/uploads/2019/03/Ready-or-Not-890x520-min.jpg"
+        width: 890
+        height: 520
+        isCached: true
   - title: "First AI to Refine Medical Coding by Exploring Therapeutic Data"
     excerpt: "Medical AI start-up Aesop Technology announced a new partnership that made their new product, DxPrime, available in the Olive Library."
     publishedDateTime: 2022-06-01T19:22:00Z

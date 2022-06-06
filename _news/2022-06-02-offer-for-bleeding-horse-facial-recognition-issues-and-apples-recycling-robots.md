@@ -39,20 +39,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "AI in Construction Market to Register Growth of ~34%, See Why"
-    excerpt: "Latest published market study on Global AI in Construction Market provides an overview of the current market dynamics in the AI in Construction space, as well as what our survey respondents—all outsourcing decision-makers—predict the market will look ..."
-    publishedDateTime: 2022-06-01T08:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-construction-market-to-register-growth-of-34-see-why"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "rFE+SOZaCoqs3g3zULn7msVEyP+uoG5FPlNSnat3PJUqLy6NXQMpxtSHOzgGJUdF9jEG8KSlDHmb5w78AqLCr8Z3SRjnHEzA/y6kMU+GOogMw0+I3yD9ArpD4c44t8DgeZV3ERXSc4Zmtx0L3Ut7u0hT93yaZXA5TQLD8WTSFUPuEXYouO3RVnt75EPtWGkzLH90HKTnVlYIABMlgPdYdPcrPGvffwfJIfEX+8m7Hw6zsnp5DBYYdFFEsY6TZuiFOK31GpasWdLKigdCXx5X//k6yp9iaZ/byEPyIBdb6NeX1PcHNu9BX22Mhusyw9Fp1uxC+VeLAc/cpFqX/qNSh2gdg+ki5vszfSiLhXNo3Nz903Ip3c9+1BXtr0e9rL2/am/jKRT7jLXIsnh+deh0T/YQd57x/2EacUBp//Af/d9zP/R9Mill8vhTz2Virf79p7E+zC9r3Kj3tA2iK9ENOlsDVYmGvsCOxa6lrXhIg66N23A6/2rujCjm51Ixow04tND9XDzxUqeRtYzPgNTsvQ==;tIJpDTzTKSOYjTneQZKWkw=="
 ---

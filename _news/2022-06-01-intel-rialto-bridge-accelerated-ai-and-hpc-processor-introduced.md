@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Intel Makes Rialto Bridge Accelerated AI and HPC Processor Official"
-    excerpt: "Intel announced Rialto Bridge, Intel's data center graphics processing unit (GPU). Using the same architecture as the Intel data center GPU Ponte Vecchio and combining enhanced tiles with Intel's"
-    publishedDateTime: 2022-06-01T07:11:00Z
-    webUrl: "https://www.guru3d.com/news-story/intel-makes-rialto-bridge-accelerated-ai-and-hpc-processor-official.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
 
 secured: "i20bxFndHW2h8B76zvMTnVdNJq66GdCItjdTmW+iu5Q63xtHoJfQVdzNOXC0zvtei78eHV/P10+WEAnCNFvcU4e5HDmPDj4Dp0UBHkcdtvgXqEdpo5qwWAzaprUeYjxo5VHesz4naolsdVHw1BKXPb67DniYLwrcZNqjN1GYWZf73Aa8YqrHqAjR8Jd138sVpq2lpErDzlomJx3VSEyFkZ7kEUhvZYhqwQnx/GA+qzEpgnO3CVYibdBASFC6pkuxMjPcQETlh/Yyrtr1fYRrdM++tJOONSpkUV3oB5DMc6G0UFU5pVGPHj6iBn9d+wbPB7I4QwryA5psxlQTYFMautb+w6iEUGX90q2um0TKgh1AMANH7q3yYnPFUZacdHYCz3yM2Vy7AcLu67xvukglKZa6ushrrqmgk/Y22IUMEtSRKmS0CKg56QNY0oLlBZDszpSVmO9PLC6kD08CJKSNIDfxAnorQV34/dmoG8Loh+oiqLRNbX46saBoZ1YQgwAZoW8rxqsk8pmDxYY71V6jNw==;4XaAByOIVOBNsNQqC4xMqA=="
 ---
