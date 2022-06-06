@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4515966-c3ai-disappointing-guidan
 webUrl: "https://seekingalpha.com/article/4515966-c3ai-disappointing-guidance-weigh-stock"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,45 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "C3.ai Shares Swoon As Guidance Disappoints"
-    excerpt: "For the July quarter, C3.ai sees revenue of $65 million to $67 million, falling well shy of the Street consensus at $74.4 million."
-    publishedDateTime: 2022-06-02T00:08:00Z
-    webUrl: "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388"
-    ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-449799/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Why C3.Ai Shares Are Getting Hammered Today"
-    excerpt: "C3.Ai (NYSE: AI) shares are trading lower after the company reported fourth-quarter financial results and issued guidance."
-    publishedDateTime: 2022-06-02T11:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-c3-ai-shares-are-getting-hammered-today-1031504717"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Vet-AI appoints people director"
-    excerpt: "Leeds-based veterinary technology specialist Vet-AI has appointed its first people director. Laura Stocker has joined Vet-AI following its recent investment from Hill's Pet Nutrition and Correlation One Holdings."
-    publishedDateTime: 2022-06-06T07:25:00Z
-    webUrl: "https://www.insidermedia.com/news/all/vet-ai-appoints-people-director"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 37
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/Vet-AI-Laura-Stocker-66141-1654087244.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "C3.ai Stock Drops as Guidance Disappoints. It’s Another ‘Debacle,’ Says Analyst."
     excerpt: "Wedbush's Dan Ives wrote in a research note that the company's struggles to meet Wall Street expectations are damaging its credibility."
     publishedDateTime: 2022-06-02T13:08:00Z

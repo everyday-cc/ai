@@ -57,15 +57,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 17
-  - title: "Val Kilmer's voice was recreated using AI technology for his role in 'Top Gun: Maverick'"
-    excerpt: "he worked with tech start-up company Sonantic to create his dialogue The firm's CTO and co-founder, John Flynn, told Fortune: \"From the beginning, our aim was to make a voice model that Val would ..."
-    publishedDateTime: 2022-06-01T23:46:00Z
-    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=355506&tst"
-    type: article
-    provider:
-      name: nzcity.co.nz
-      domain: nzcity.co.nz
-    quality: 8
 
 secured: "zpMHL/1EabKFaW8g5L7jEaXKMVfaR+4N/P0iMlPwA0V4qx61uGbId7Dy1HDAUuS95cCRV7fjjtn8+Y4VvK5TRhChp3XET9D1lBHpKO1Y6kUugwlU/wDgNhPVwAcmE9y4DNnUxc8ObKZJwWCQirAqZs/xMRweDbuamPVRfSngelsX5kTYBSTUpzlrGLFZidqZE0WD/whH8wqyijct774YZQx9+5n7fQx/ztoGsOPKEeT8xxf51SDhO3EutCK058dxmJv6fpYezfXli/n+L26TtgVeo/cP4vTUodzd+m1JYGAr20PO/AlJ/jC31UYLrHhPzHBgJLDFjg1OVTPqrr6dq1L4A3ViRB6QWYS6HSI2a/N73O/Jz4muKFDWICoiYFskJYKp6BnaFyGHIv0W1YEU+eEAMaEydINj9UdZzimfMg0FdfKv5TE0lQ/PrItsMGvIH3JJ0+Lb9mBh6yowiagqEsSJw1Spov423OCXA+LhykgJJXBUuFfY6QUdcUVnWXSDO3+v820vQldRpzob64AOng==;RxdtDkboPJmfgy1ljbO5Kg=="
 ---

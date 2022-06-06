@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-06T15:00:00Z
 originalUrl: "https://www.entrepreneur.com/article/425746"
 webUrl: "https://www.entrepreneur.com/article/425746"
 type: article
-quality: 71
+quality: 69
 heat: -1
 published: false
 
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
-  - AI
   - Facebook AI
+  - AI
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1654032449-shutterstock-618815732.jpg"
@@ -63,6 +62,6 @@ related:
         height: 582
         isCached: true
 
-secured: "hcEwtlOWTE+0np+r8PXD8T9xfmSzB6/SgstZ6DdMjf9R6FTGE0PqgSFKVdQzd6Uyik5mnOLiPEfFGxfX2LRhAfdla+WuingLA1nbfJkClWvgSqlX42qbFbg6VD9hDgV/7oZo3p9L5B9P0GSvwX0dQPXR296Qrz5VVpyAW8nGD9AdX6orSRehmlgrnaTdXVMgRJHOXb8ciN/4U5HRtwSy/Y5TkcSwqfVEEeks+xbPn10OQe0fyZCwvjf+eZANdT+T7vrItSZyy8NeqeD2XEkA5Ya7zmooNymPQsusn8IOf4ouNGOPfBbhZStIwBFioyhPOi7zMkfuWdTe17gE9n2F6YO5Agt98SmKwtZd/r4yeB4=;9bXzcHbv8t6VTpQ84f3i7A=="
+secured: "7bCUX/q0k+5JPhUSzncOzFRxkK9sKH6/PpBm2FU7aVVy3lEe0F2S9Hpbv4rD00dUoHVOL3LifN/tVZmzPYXuLjVXt8G96gK/9Z4EKlwZUXPlwgn8875pcAGOL4zba1FFwso8eli6NaavwxNUnf4mOpUEI6j7P1f8B2pbM8GXy3jBY+p4qlJnhyMyeWw9XrEePDykbr35VjIEkje0RQvJiHn3ZXvGH/01gm64XHb2736MQCjeagY152hytXxy3j6gO4eDxjuUBPXVs0D+4xPN9b/PmOko6+TqEC7Vjq0yTpAQakWU55Nsy6ixS9RtEhbjwjcCxEuAO40O71qz6Ak6wKxgHwCyQOsTBUfoE0yAUmw=;oX9Q5RF1++Qs0Hs+juzYkw=="
 ---
 

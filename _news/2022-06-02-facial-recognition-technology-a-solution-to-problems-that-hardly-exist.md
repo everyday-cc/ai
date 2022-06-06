@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Geisinger hospitals using facial recognition technology to ID patients"
+    excerpt: "Danville, Pa.-based Geisinger will roll out biometric facial recognition to check in patients throughout its entire health system. The facial recognition technology from Certify Health has been implemented at three Geisinger locations in Pennsylvania and will soon be implemented throughout the health system,"
+    publishedDateTime: 2022-06-06T15:54:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/geisinger-hospitals-using-facial-recognition-technology-to-id-patients.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "x8joNMHe59qfFwm8LykW5C5wWP79SrXuuANLnQMZyXyN63Dl6Y1z1JtcoMH9vylBGpSr1JgPk1EuXJQO6RQ0p1AKFtca5jWBY0hCpnNs0Kqqh/JRchqI402Mc91qkR7b7gVv8JJjRwABUWUn7oCNDIzm/aGunL/MAaslTRhd7TIPzo2ukSTZ3uK2l2wDPTS4D2B6yB9jMJfBJUdNuHc74S4zOrRZsvHNY76le6pKJIxe23iFh46NnLtRkjV/ca5YjcfR8aoaZbhzKVNMR+azO7YGAUgq1zfWYEoUzWmQQdMZBZ8IGlaCRrGR9LAJIkNjhEpiWumanXemowwoe+syVKPydTyoYW4J4MLdgOXuAWE=;kU3YZw8xg+w1CV0/58HWMQ=="
 ---

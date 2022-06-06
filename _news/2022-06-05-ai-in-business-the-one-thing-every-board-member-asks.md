@@ -38,7 +38,7 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 71
+    quality: 69
     images:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1654032449-shutterstock-618815732.jpg"
         width: 2000

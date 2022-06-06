@@ -3,32 +3,20 @@ category: news
 title: "Madrona and PitchBook Partner to Bring Machine Intelligence to the Intelligent Applications 40 (#IA40) List"
 excerpt: "PitchBook Previews a New Machine Learning Intelligent Application that Predicts Company Outcomes and Finds that late stage IA40 companies are 60% more likely to IPO than the average late-stage company Madrona,"
 publishedDateTime: 2022-05-24T15:02:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia40-list"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-5-24-madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia40-list"
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/b27374218/madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia4"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/b27374218/madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia4"
+ampWebUrl: "https://www.benzinga.com/amp/content/27374218"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27374218"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
-related:
-  - title: "Madrona and PitchBook Partner to Bring Machine Intelligence to the Intelligent Applications 40 (#IA40) List"
-    excerpt: "PitchBook Previews a New Machine Learning Intelligent Application that Predicts Company Outcomes and Finds that late stage IA40 companies are 60% more likely to IPO than the average late-stage companySEATTLE--(BUSINESS WIRE)--Madrona,"
-    publishedDateTime: 2022-05-24T18:02:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=669228"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-
-secured: "6LlFuwmspkJDl3cIy4hKp2UvacT+WtWJDEs5Z6O3/fwSJdRCEPfmRYgrT+Jnib9IEYiJRiFP5tC5hahC/tYQRn4iSqQXN3VtAPMf8nWAkFMz1/8lsqK4N98ebWKP6GNGbBNgmeTAi1YcZdpkgFYZv8LnAdhWYQVycHcH6lVK1MfgwKKLVhmNHmZUC2PbnnzRfPlwPNdcSG7FtIDQWy55w3iZxknq435LbDhkQuRAkR90M7cZ3Ury1AKEjkWLTh58+cT0VQzJzybamcJ04EClM3K6SIegrdkgivJeFQyCP/YKLlp/IV7MLVLn2Zs8VE5SMM64PUggcfMBqbiaLJnlIsdv4kaZpkA6ig83jbfcBDY=;9ks9PPshiK4BwJgqGfhTNA=="
+secured: "cCos68zPXjJc9dYq4HGywqVrj7y7Ps7mw6bQcASM0Cx2xSJocsNLBmes5EuA4ob3PVzndWL/balkZ/04r4Wsut9I3D2meGRJvnYpegONqMJtpxz5ecdVSFsNm1TtHXOc75nQwMvIG9XB/sAPiLhx+1/2v1KwkPPt2bgRqwG/z2pNDpKzhUNOqN95ojgJVt/fvJYpjn2JCpMYkAckHskykOkmAEVkZoo54stbVLfnAHKapyQTNFoOsofS5VicvXYEFKpMujLDWtJdKK3njFCePmZ/JlA4AzcidEQlgmppYB2vnK/uz2tPQoQeCIcbV56YOsxOba5+yorSq1hn3kebHvoBbxp1e34Y92+LEtMZbgE=;sa9o5snrTcrA7rbfYDZ43w=="
 ---
 

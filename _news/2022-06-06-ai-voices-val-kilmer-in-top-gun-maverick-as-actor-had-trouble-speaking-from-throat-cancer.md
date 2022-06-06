@@ -49,15 +49,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 17
-  - title: "Val Kilmer's voice was recreated using AI technology for his role in 'Top Gun: Maverick'"
-    excerpt: "he worked with tech start-up company Sonantic to create his dialogue The firm's CTO and co-founder, John Flynn, told Fortune: \"From the beginning, our aim was to make a voice model that Val would ..."
-    publishedDateTime: 2022-06-01T23:46:00Z
-    webUrl: "https://home.nzcity.co.nz/news/article.aspx?id=355506&tst"
-    type: article
-    provider:
-      name: nzcity.co.nz
-      domain: nzcity.co.nz
-    quality: 8
   - title: "Val Kilmer's Dialogue in \"Top Gun: Maverick\" Was Read by AI Because He Can't Speak Anymore"
     excerpt: "Maverick\" brings back Val Kilmer as Tom \"Iceman\" Kazansky. The only problem? Kilmer can no longer speak, because of throat cancer complications. But buried in a Page Six interview with Kilmer's daughter Mercedes late last month was a fascinating detail about how the filmmakers managed to get his voice in the movie regardless: by using advanced AI,"
     publishedDateTime: 2022-06-02T13:50:00Z
