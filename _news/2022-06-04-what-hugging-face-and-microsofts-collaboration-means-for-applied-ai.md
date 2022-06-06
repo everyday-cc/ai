@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/what-hugging-face-and-microsofts-colla
 webUrl: "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai"
 type: article
 quality: 88
-heat: 109
+heat: 108
 published: true
 
 provider:

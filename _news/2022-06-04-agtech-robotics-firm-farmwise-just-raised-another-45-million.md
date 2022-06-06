@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/"
 type: article
 quality: 119
-heat: 130
+heat: 129
 published: true
 
 provider:

@@ -3,8 +3,8 @@ category: news
 title: "Dstny acquires Egypt-founded Tactful AI"
 excerpt: "Belgium-based business communications provider Dstny, has acquired Egypt and UK-based Tactful AI for an undisclosed sum. Founded"
 publishedDateTime: 2022-05-26T08:44:00Z
-originalUrl: "https://www.wamda.com/index.php/2022/05/dstny-acquires-egypt-founded-tactful-ai"
-webUrl: "https://www.wamda.com/index.php/2022/05/dstny-acquires-egypt-founded-tactful-ai"
+originalUrl: "https://www.wamda.com/2022/05/dstny-acquires-egypt-founded-tactful-ai"
+webUrl: "https://www.wamda.com/2022/05/dstny-acquires-egypt-founded-tactful-ai"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 500
     isCached: true
 
-secured: "VzmUVs6qGdwH4dv0t2wtplx1EBF/ulNkmaLnobSgYqbneh2GuExLNtLGLjZO1Gzt+i2gi5WC1aQUPELQrb0/4rVxLEnJcNTKDJ7nkGSk7vG+AAAJt8MyX0rq9vF99jbzAMeP6k8cjoOL3r+xC2V+i4uk0JqDwfp/qpM8RPBmQwOb10SD2WtQ07UPjfm/95KDhp/lol15LUGDrk6HDnowSUp2uhUtSnruu4+OBgyStI+NoB/w8pykBnLvuj1kbcGBqK6/nzGi6+xb/EffK5qItu10qAh3B24hzOKw0vlsC7uWrOahWBDkVvSfb6nw8ReKyQh3Q8wMBgWPdncD6acJ2v9zkN/fTT+VOwgZuQL8PpE=;RtGbFPIvuhWwLvtqcvLJMg=="
+secured: "UHH7T+5GzmvmFnls2LSTvnTx4VpQzJT4+eAPXvs66w9CaxU7vt1UnGZ+TI3skJObpOLoqcbykUjKGrGHfZZ3sAWVTMfFRMvj38J64Mjh6FACRA3skDv9UpjTLOm3YlLNvgeXA5KcwMpcDcrn3Bzp3vZaVVVDDatKtN9iCz0l3qQnEVEIMhQGUMMC4QSbjxXa08CKwSJyEN5XEmzwRZEYQZJjHRMPTlOCUyV8dv8xieXHrv0AbJY75oLq8siDXI2O+TQ2RwszDUc/KJVakmzbmyxLHofIHA2YAs9M0/s/9tKjANI3ACJSIOSaRjj3WwroDMSi7OhCiYuE5du6xICWvHMe/mF26OIDEE5qLCm9tw0=;wLStQRjKc3hTRPj6dhL9Cw=="
 ---
 

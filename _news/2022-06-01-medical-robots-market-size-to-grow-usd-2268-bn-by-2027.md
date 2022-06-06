@@ -25,83 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "Voice and Speech Recognition Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
-    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2022-06-03T09:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
+  - title: "Global Space Robotics Market Size to Reach USD 6.55 Billion in 2030 | Emergen Research"
+    excerpt: "USD 6.55 Billion in 2030, Market Growth – at a CAGR of 4.7%, Market Trends – Increasing demand for lightweight, compact, and affordable space vehicles is a key"
+    publishedDateTime: 2022-06-01T15:04:00Z
+    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/06/01/9612987.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 46
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1579538/Emergen_Research_Logo.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
-    excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
-    publishedDateTime: 2022-06-02T18:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-regions-types-applications-drivers-trends-forecasts-by-2028-2022-06-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Ai In Infrastructure Market specifications, detailed research analysis report 2022– 2030"
-    excerpt: "Polaris Market Research, a research consulting company published a pages research report on “Ai In Infrastructure Market: By Size, Share, Growth,"
-    publishedDateTime: 2022-06-01T14:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-infrastructure-market-specifications-detailed-research-analysis-report-2022-2030"
+  - title: "Enterprise AI Market is estimated to be USD 2.03 billion in 2019 and is predicted to reach USD 154.90 billion by 2030"
+    excerpt: "The Global Enterprise AI Market size is estimated to be USD 2.03 billion in 2019 and is predicted to reach USD 154.90 billion by 2030 with a CAGR of 48.3%"
+    publishedDateTime: 2022-06-01T13:16:00Z
+    webUrl: "https://www.digitaljournal.com/pr/enterprise-ai-market-is-estimated-to-be-usd-2-03-billion-in-2019-and-is-predicted-to-reach-usd-154-90-billion-by-2030"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/98f149880a7684385e8c49d5397bbf7a27723e27-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Research Report 2022 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence In Drug Discovery Market Size, Share & Trends Analysis Report by Application (Drug Optimization & Repurposing, Preclinical Testing), by Therapeutic Area, by Region, and Segment Forecasts, 2022-2030 ..."
-    publishedDateTime: 2022-06-01T14:25:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-06-01/artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 25
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
-  - title: "Global Artificial Intelligence Software Market 2022 - Product Type, Ongoing Trends, Competitive Insights and Worldwide Forecast to 2028"
-    excerpt: "The Global Artificial Intelligence Software Market 2022 by Company, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2022-06-01T21:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2022---product-type-ongoing-trends-competitive-insights-and-worldwide-forecast-to-2028-2022-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-  - title: "Artificial Intelligence Edge Device Market 2022 is Booming across the Globe by Share, Size, Growth, Segments and Forecast to 2030"
-    excerpt: "The Global Artificial Intelligence Edge Device Market size is estimated to be USD 1.73 billion in 2019 and is predicted to reach USD 13.21 billion by 2030"
-    publishedDateTime: 2022-06-01T13:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-edge-device-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-  - title: "Facial Recognition Market Industry Analysis, CAGR Value, Business Strategy, Growth Drivers, Forecast By 2028"
-    excerpt: "Emergen Research Logo Facial Recognition Market Trend –Technological advancements in facial expression detection  Facial Recogniti"
-    publishedDateTime: 2022-06-01T13:30:00Z
-    webUrl: "https://menafn.com/1104306004/Facial-Recognition-Market-Industry-Analysis-CAGR-Value-Business-Strategy-Growth-Drivers-Forecast-By-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
     quality: 0
 
 secured: "O1Poc1QorYTw13fRL4tl3C+qtNiQr0BMYz93XRQqNo8DkITQPajwTSapJxB++dZ2aaRYY/GlPK2mE+/i7X2nH8zRB/XuHAV2rIWzeWTuWRU6/uepBWy12hEpDqzvfj12QuVvLsX4TtdLDToSES0bYP1I4tAx42xU/MdbehCajouX7FRi0yLKVaIZZkzDlVnYnhOZ5qzA0m/usSO03KLxJC4qi6wBgyHDNDO83sB6NjFmZIEc4QnCsID23tJkRwn9aUTnkPEZZAtNtxddTQ7P6DW8vZ8mFjGfGNXDvGuVISwvvdg7HlE59pzib3/VhgMMx29QIFp7O6p2oNNXp3Hxmh3MR0o8IItO2SPPWVQQUIk=;msl0CtVhumjZ8ZXyyrNa7w=="

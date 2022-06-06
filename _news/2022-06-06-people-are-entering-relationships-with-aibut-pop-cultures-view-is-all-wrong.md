@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/05/people-are-entering-relationships-wi
 ampWebUrl: "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-594827903.jpg?fit=800%2C403&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 403
     isCached: true
 
-secured: "hEjy8W2LDdOz0pq6udR1Wtb+DYzzhuZ9ZQun0wKQko8VrTlTfIVIxTxb9jzmJnvhGS5a+rl+tcURGQHYs1I8T/JPpSc0vCbWDAoyAlR7yce0RmrGCcL8MwLCdgV207YJdRYQEw0O/6zbMUDn3BbAM0LC+LkXSJMezwp1vSYI8kWK8RqLO8hS2US3HbBBn2OTqXMDrZlFuuu/UgV0IJbGmliLp2t97hryKmeTjg47IxKuoit43hTqmfKra2BFM7qujzBhOqCwYZSxxW5onT4FUnv2kuyq4gd9xT5ZAc5YFy+uY9ztpgstxNgtn3HAfZVXG7tgT6GFFHBjXYRJpZzzrFciwUJtPPZXPAjviVN07d4=;LkrkMvQNkW60wrtr7az4xw=="
+secured: "H2Do2ansI5iNhCG8cvnlu1WUdOTq2RnZu7BAnun/NL8myk7u6LS7lWyiIypnp498EEokKqbaKFaVHFt6NV46cNzMyop+aYgKWhlGWrfEpNzCEUgEj+LI+31ZsOfNddNQHPUPLtrIVMz6nIJqmiVCOS4+GJKe0pV0roE8qCvhxr2AGRRlbFZoKUo7AGHEjPLG6gYJ6EzpQhMjI5dVGG5PA5VmKrSkSLeAY3I4hcp2LL2j0WaR0S3pNeygbtrRHlUM4WpKdBMBq6Tx1sMmVyMrEpE9EQjRMzlfSfdUBQ3eOiN9c3tzo8WUacV12j69gKBmKvM1v1pl398j/ZkDIyqpTyHNhBtr1SrqPKUdU3FYUflBgsXmDpirQgiAXv81bHWZiQVIM1ol7/cBj0bwRsXQYGJqP9aorjY9ZRNfkyh5ewORToaCbtnZLfLKTkYzo8mPEHHF5VrBEw2LXhYXGAW1ErzOvHqsqsz5Ht/Q++6cx0a1/6D1MXw6+vKPDj1JTrGG82cSaftwK8jsJz7gAf5I1w==;Fx8HPUBNi72V2Tu3vELLEA=="
 ---
 

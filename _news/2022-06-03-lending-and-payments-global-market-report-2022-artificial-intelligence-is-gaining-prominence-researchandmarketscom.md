@@ -34,6 +34,20 @@ related:
         width: 480
         height: 240
         isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Research Report 2022 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence In Drug Discovery Market Size, Share & Trends Analysis Report by Application (Drug Optimization & Repurposing, Preclinical Testing), by Therapeutic Area, by Region, and Segment Forecasts, 2022-2030 ..."
+    publishedDateTime: 2022-06-01T14:25:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-06-01/artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 25
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "uQK0mINTaMbiPbhgDxqBK5Wr0yzbItwPgLyE3HEAZQ6orsyHx/13cMckfRqA9DTBpCfuw+SlnDRlfHJ+HYVsmH8Bid61NFd4yxfVwODfqQTWyHT2Fby+S0oTVdYOOnIlMzQ91KfBVKptFbtHMZv3mTO/a3mG+0AWRgOzR+aSjf0q3ZBE7hzmrI0zBG9MOwnxxYocjWsjY5IGIyM0u9tb7hyUBzMkT7OovFsmT9WRfaJPeA57PnAVXCcvt1PF3TDSz/Tc7Gu7oOZvkjpnYxbb2+Eom1VCdzHraLccbrDxPc61hxxYHlvZcyYCBtJltE3+NKd0qevJczvqXR41laQOqLouL4u9X5AJldX5hLZfRqs=;YX6tqitjL9D1XFRt2Yc4+Q=="
 ---

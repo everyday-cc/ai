@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fashion Market foresee Share, By Product scrutiny, Application, End-Use, Regional Outlook, Competitive Strategies predict up to 2026"
-    excerpt: "The study on the global market for AI in Fashion evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
-    publishedDateTime: 2022-06-01T13:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-foresee-share-by-product-scrutiny-application-end-use-regional-outlook-competitive-strategies-predict-up-to-2026-2022-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
   - title: "Artificial Organs Market size worth $ 28.31 Billion, Globally, by 2028 at 7.56% CAGR: Verified Market Research®"
     excerpt: "Rise in chronic diseases, rise in geriatric population, and increase in acceptance of organ transplant are the major factors driving the growth of the Artificial Organs Market."
     publishedDateTime: 2022-06-01T13:15:00Z

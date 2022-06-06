@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nabd launches AI-powered personalised email newsletters"
-    excerpt: "Nabd, the largest Arabic aggregator app and platform, is excited to announce the launch of its new Personalized Email Newsletter product, which provides opted-in subscribers a personalized daily news digest,"
-    publishedDateTime: 2022-06-01T06:54:00Z
-    webUrl: "https://campaignme.com/nabd-launches-ai-powered-personalised-email-newsletters/"
-    type: article
-    provider:
-      name: Campaign Middle East
-      domain: campaignme.com
-    quality: 37
-    images:
-      - url: "https://campaignme.com/wp-content/uploads/2022/06/Picture1.png"
-        width: 635
-        height: 460
-        isCached: true
   - title: "Nabd launches AI-powered personalized email newsletters"
     excerpt: "Dubai: Nabd, the largest Arabic aggregator app and platform, is excited to announce the launch of its new Personalized Email Newsletter product, which provides opted-in subscribers a personalized daily news digest,"
     publishedDateTime: 2022-06-01T09:12:00Z

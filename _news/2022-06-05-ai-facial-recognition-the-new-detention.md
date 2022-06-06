@@ -65,7 +65,7 @@ related:
     provider:
       name: Credit Union Insight
       domain: cuinsight.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.cuinsight.com/wp-content/uploads/2022/06/bigstock-Artificial-Intelligence-Ai-Bu-443739650.jpg"
         width: 1000

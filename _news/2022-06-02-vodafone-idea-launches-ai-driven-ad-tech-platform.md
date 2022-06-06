@@ -40,22 +40,6 @@ related:
         width: 730
         height: 395
         isCached: true
-  - title: "Vi Launches Vi Ads, an AI/ML Based Ad-Tech Platform, to Help With Revenue Growth"
-    excerpt: "Vi Ads will enable marketers in engaging with the over 243 million subscribers that Vodafone Idea has. Marketers will be able to get the reach and access to multiple digital media platforms owned by Vi including Vi Movies & TV app and Vi app along with traditional channels such as IVR calls and SMS."
-    publishedDateTime: 2022-06-01T06:48:00Z
-    webUrl: "https://telecomtalk.info/vi-launches-vi-ads-an-ai-ml/522201/"
-    ampWebUrl: "https://telecomtalk.info/vi-launches-vi-ads-an-ai-ml/522201/amp/"
-    cdnAmpWebUrl: "https://telecomtalk-info.cdn.ampproject.org/c/s/telecomtalk.info/vi-launches-vi-ads-an-ai-ml/522201/amp/"
-    type: article
-    provider:
-      name: Telecom TALK
-      domain: telecomtalk.info
-    quality: 69
-    images:
-      - url: "https://telecomtalk.info/wp-content/uploads/2022/06/vi-ads-launched-in-india-now-today.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "6OY8lvFCgh2gdRnEAtb2Kit6MvPft+wOw4fakAM0+DHarDjxzcgfJdnfAnfpkY78raRueNlHSkoXUj068HTvollYTTtcvawRDpaF4fuTFpn2gV61DN6hzBlXHGbhBZR8ql4HeYMOA4K4T/m8+AGphN6zTkLJLOY6z+EW4Ephi/c7BTs5L8+z90hRWLhfILkpiK7y6iTPKBTUic6k3fiktBjFSSkoOQiyJd26H2JxDVPh2IiqldS9xcRxy2CF8MdHzdwuWZQlRKzxIaPtb3LMey28FG4FKgLECrlrRFzDERCm0YdFh3ANbtF5SuvI3QoKyvbDvk4n6bGf0p1HvN0tv86hezv6TZ63ccqc2D78gZg=;0g4quDWvkX+gAdhGsBq1fg=="
 ---

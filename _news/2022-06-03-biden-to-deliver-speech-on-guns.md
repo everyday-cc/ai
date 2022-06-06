@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Biden delivers speech on gun violence"
+    excerpt: "President Biden is delivering remarks from the White House on guns and the recent mass shootings in the country. Follow here for the latest news updates."
+    publishedDateTime: 2022-06-02T14:32:00Z
+    webUrl: "https://www.cnn.com/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/h_133f06b43789f44e578d30709847d1f2"
+    ampWebUrl: "https://amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_599/831bde8f-89f2-459f-a376-e73bcad44a7c.jpg"
+        width: 900
+        height: 599
+        isCached: true
   - title: "Biden to deliver speech on guns Thursday"
     excerpt: "President Joe Biden will deliver a rare evening speech on guns Thursday to press US lawmakers to take action as the US confronts another mass shooting, the White House said."
     publishedDateTime: 2022-06-03T02:08:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27517496"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27517496"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Drug Discovery Market Research Report 2022 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence In Drug Discovery Market Size, Share & Trends Analysis Report by Application (Drug Optimization & Repurposing, Preclinical Testing), by Therapeutic Area, by Region, and Segment Forecasts, 2022-2030 ..."
+    publishedDateTime: 2022-06-01T14:25:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-06-01/artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 25
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "Lending and Payments Global Market Report 2022: Artificial Intelligence is Gaining Prominence - ResearchAndMarkets.com"
     excerpt: "The “Lending And Payments Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global lending and payments market is expected to grow from $7,833.28 billion in 2021 to $8,"
     publishedDateTime: 2022-06-03T13:42:00Z

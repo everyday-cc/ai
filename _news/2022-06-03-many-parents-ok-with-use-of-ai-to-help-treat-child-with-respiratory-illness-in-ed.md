@@ -3,26 +3,26 @@ category: news
 title: "Many Parents OK With Use of AI to Help Treat Child With Respiratory Illness in ED"
 excerpt: "Parents are generally receptive to computer-assisted management of children with respiratory illnesses in the emergency department though some express concerns, according to a"
 publishedDateTime: 2022-06-03T14:28:00Z
-originalUrl: "https://fredericksburg.com/lifestyles/health-med-fit/many-parents-ok-with-use-of-ai-to-help-treat-child-with-respiratory-illness-in/article_ee6ff8ff-9f8a-521f-9846-77d91aa19ef0.html"
-webUrl: "https://fredericksburg.com/lifestyles/health-med-fit/many-parents-ok-with-use-of-ai-to-help-treat-child-with-respiratory-illness-in/article_ee6ff8ff-9f8a-521f-9846-77d91aa19ef0.html"
+originalUrl: "https://www.gazettetimes.com/lifestyles/health-med-fit/many-parents-ok-with-use-of-ai-to-help-treat-child-with-respiratory-illness-in/article_432d5874-a698-5cbb-8bc5-a10ce4a06fd2.html"
+webUrl: "https://www.gazettetimes.com/lifestyles/health-med-fit/many-parents-ok-with-use-of-ai-to-help-treat-child-with-respiratory-illness-in/article_432d5874-a698-5cbb-8bc5-a10ce4a06fd2.html"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Fredericksburg.com
-  domain: fredericksburg.com
+  name: Corvallis Gazette-Times
+  domain: gazettetimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/6/8b/68b1e7aa-2d1b-5268-9c4e-3f52d79f6992/629a339df3e72.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/gazettetimes.com/content/tncms/assets/v3/editorial/4/92/492d83c2-d042-5d29-b719-94eee5e6df90/629a33ba948a1.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
     width: 600
     height: 315
     isCached: true
 
-secured: "1uFkyd39O/QxlT45p87vhcNwSstrYmIu+4dP8c/cxnGkx9x+ypSPeujvEkN/UgvYzAvPX/6zp5LeEEHTZfkpy8Ham40Xa7iAyfkBm7v/hIqRLaVX79BzOp59ykxnk8A498ITSSYOdcXY2lxj5GOv+yZ5rpNRWslSJQhl3WAV95VXRPbdi9HOVi9I0Ugx5VBpIIXc4sXR+xjPBv5irwFt0v6SkH+/3D+ne57+1DVo3XAGKaN1+tzn7Jy5oJ4v0HD/JDubadiTbhVkqX8JtiDKpRrOzHHz/Ksby8wmFpbTaWx8v2pkfdF9pkrlMgdF6e0K2cx+fzY1YgXIBLB9pqOHl5gYPtbi5ujLHm5mTGLtYhU=;J6A5bfe3lmxO1HjWTMbWpw=="
+secured: "JdFlA5JpZfm0HhUcOqGp1rxImfciNfxY2KlyFkFvMKTULuf08TzGW6tt0CuemH4P+kG8R3fUYKOskJb196AV7Ga3TIB1aFeiBuHeLOSLdWAD/d+3Tr8nHwx9xzy/BSj+mRruRDO295ajx9bhEf60M6fmWe6JbqdCO8D8Eo4xEZd+hj7aKOlrpmfoSUKMEA5gpnnRhbeBclpy/V0+5570Wq2+kI/mlg8jdYLtw/DKxkzI48mvuqPo49qkr0qLNNMVnb5T/j3pzylUtl4QTOS0HXX2hYDCTLAiI+eONh22K6rW1E0SmlLvCtoPav5kGzvcnykemyvlxlfKBPNCXSamLT0O3Fsa9Up4CErKGiWUhBo=;e8E+3+uWh5A2KGEUl3qmMw=="
 ---
 

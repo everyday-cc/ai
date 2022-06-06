@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

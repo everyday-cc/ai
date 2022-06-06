@@ -39,15 +39,6 @@ related:
         width: 387
         height: 250
         isCached: true
-  - title: "AI in Fashion Market foresee Share, By Product scrutiny, Application, End-Use, Regional Outlook, Competitive Strategies predict up to 2026"
-    excerpt: "The study on the global market for AI in Fashion evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
-    publishedDateTime: 2022-06-01T13:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-foresee-share-by-product-scrutiny-application-end-use-regional-outlook-competitive-strategies-predict-up-to-2026-2022-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
 
 secured: "fwRx4tsFP8ilBKMe2Keb+7bj8FY8iHmhpAt/7Q14XGDqVFr4Ebk7RshXFh//5xuIZNyIBJtVE4VcTpiLJrzBL+xrDibQJOctSVdMPyB/HyUMWUUn/96nOA9XcSkhGnUqSMnaB9nO79BIfHtbGoCEQ0wIT6KUZ9R75J3C7IMrWsyEnWsNDIHuPfhcYzlQlREtNjD+/+rLFpgTjSDSbzL7PmfC+OjQc3nuYkjmaLb7cjVu2lcxYwF2+zFkUnd8x2lXcY5Rp127C0nnItYVnuAJFNT32QAB9FPbun4wlmXfKUzxOBnzYEqBpKVdXUZ5mGyMZSYX3xnKLE7MAsvmDd80Ex5HNu61H8qANRubc6OZNgpdR2NaPnq06tqYYwVjlNm/7QSqHg/uceM/fplHNeB48n9jaQoHI3V7MUsG63uuaOSije8yj02hy24mHrfj5zKm8u8xFxjY0CJ2bmYpY/esCv4kB/z8yzoSs4xzSus47HSRXr4Mf9tC+axL/lkm/Qohl6QaPIfMRQMWqdcT3MJC9A==;LdV7io2W3/5jAqbLllSm5w=="
 ---

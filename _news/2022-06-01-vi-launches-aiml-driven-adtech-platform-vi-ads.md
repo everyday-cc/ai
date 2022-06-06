@@ -9,7 +9,7 @@ ampWebUrl: "https://www.exchange4media.com/amp/digital-news/vi-launches-aiml-dri
 cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vi Launches Vi Ads, an AI/ML Based Ad-Tech Platform, to Help With Revenue Growth"
-    excerpt: "Vi Ads will enable marketers in engaging with the over 243 million subscribers that Vodafone Idea has. Marketers will be able to get the reach and access to multiple digital media platforms owned by Vi including Vi Movies & TV app and Vi app along with traditional channels such as IVR calls and SMS."
-    publishedDateTime: 2022-06-01T06:48:00Z
-    webUrl: "https://telecomtalk.info/vi-launches-vi-ads-an-ai-ml/522201/"
-    ampWebUrl: "https://telecomtalk.info/vi-launches-vi-ads-an-ai-ml/522201/amp/"
-    cdnAmpWebUrl: "https://telecomtalk-info.cdn.ampproject.org/c/s/telecomtalk.info/vi-launches-vi-ads-an-ai-ml/522201/amp/"
-    type: article
-    provider:
-      name: Telecom TALK
-      domain: telecomtalk.info
-    quality: 69
-    images:
-      - url: "https://telecomtalk.info/wp-content/uploads/2022/06/vi-ads-launched-in-india-now-today.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Vodafone Idea launches AI-driven ad tech platform"
     excerpt: "Vodafone Idea has rolled out its ad tech platform, Vi Ads. The AI-driven platform will allow marketers to directly engage with the telco’s 243 million subscribers through multiple channels like Vi owned digital media- Vi App,"
     publishedDateTime: 2022-06-02T04:42:00Z

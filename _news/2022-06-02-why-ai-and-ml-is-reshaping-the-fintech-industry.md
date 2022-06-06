@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/financial-services-finserv/why-ai-and-
 webUrl: "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry"
 type: article
 quality: 58
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Find-Search-Money-Seek-Look-Binoculars.jpeg"
         width: 1280
         height: 994
-        isCached: true
-  - title: "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements"
-    excerpt: "With this new partnership, Identifee will embed Photon Commerce’s natural language AI API into its platform, allowing financial services organizations to create client specific"
-    publishedDateTime: 2022-06-01T05:54:00Z
-    webUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/"
-    ampWebUrl: "https://www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements/amp/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 50
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
         isCached: true
   - title: "The CFPB doesn’t want to play in the fintech sandbox anymore"
     excerpt: "Leaders at the regulator have concluded that a much-hyped “compliance assistance sandbox” and related programs were ineffective."

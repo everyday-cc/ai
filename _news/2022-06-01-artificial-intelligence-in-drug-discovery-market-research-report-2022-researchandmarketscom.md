@@ -24,84 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Voice and Speech Recognition Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
-    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2022-06-03T09:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
+  - title: "Hearing Aids Market worth $10.2 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Hearing Aids Market by Product Type [Aids (Receiver,Behind the Ear, In the Canal, In the Ear Aids), Implants (Cochlear,"
+    publishedDateTime: 2022-06-02T10:51:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27517496/hearing-aids-market-worth-10-2-billion-by-2026-exclusive-report-by-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27517496"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27517496"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media4.giphy.com/media/XBY7Yq06tXMCvqmUQF/giphy.gif?cid=790b7611cd3bb6ee13833409883d5c3006a5f21f51a83ce9&rid=giphy.gif&ct=g"
+        width: 480
+        height: 240
         isCached: true
-  - title: "Medical Robots Market Size To Grow USD 22.68 Bn By 2027"
-    excerpt: "As per our research report, the size of the global medical robots market was worth USD 8.71 billion in 2022 and is estimated to be growing at a CAGR of"
-    publishedDateTime: 2022-06-01T09:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/medical-robots-market-size-to-grow-usd-22-68-bn-by-2027"
+  - title: "Lending and Payments Global Market Report 2022: Artificial Intelligence is Gaining Prominence - ResearchAndMarkets.com"
+    excerpt: "The “Lending And Payments Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global lending and payments market is expected to grow from $7,833.28 billion in 2021 to $8,"
+    publishedDateTime: 2022-06-03T13:42:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-china-artificial-intelligence-fd0df3fbf4c54237be40507fc9c8d63c"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/531bc825e667035d8d8c000b07c08d0ab72b8cae-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
-    excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
-    publishedDateTime: 2022-06-02T18:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-regions-types-applications-drivers-trends-forecasts-by-2028-2022-06-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-  - title: "Ai In Infrastructure Market specifications, detailed research analysis report 2022– 2030"
-    excerpt: "Polaris Market Research, a research consulting company published a pages research report on “Ai In Infrastructure Market: By Size, Share, Growth,"
-    publishedDateTime: 2022-06-01T14:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-infrastructure-market-specifications-detailed-research-analysis-report-2022-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/98f149880a7684385e8c49d5397bbf7a27723e27-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Artificial Intelligence Software Market 2022 - Product Type, Ongoing Trends, Competitive Insights and Worldwide Forecast to 2028"
-    excerpt: "The Global Artificial Intelligence Software Market 2022 by Company, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2022-06-01T21:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2022---product-type-ongoing-trends-competitive-insights-and-worldwide-forecast-to-2028-2022-06-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-  - title: "Artificial Intelligence Edge Device Market 2022 is Booming across the Globe by Share, Size, Growth, Segments and Forecast to 2030"
-    excerpt: "The Global Artificial Intelligence Edge Device Market size is estimated to be USD 1.73 billion in 2019 and is predicted to reach USD 13.21 billion by 2030"
-    publishedDateTime: 2022-06-01T13:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-edge-device-market-2022-is-booming-across-the-globe-by-share-size-growth-segments-and-forecast-to-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-  - title: "Facial Recognition Market Industry Analysis, CAGR Value, Business Strategy, Growth Drivers, Forecast By 2028"
-    excerpt: "Emergen Research Logo Facial Recognition Market Trend –Technological advancements in facial expression detection  Facial Recogniti"
-    publishedDateTime: 2022-06-01T13:30:00Z
-    webUrl: "https://menafn.com/1104306004/Facial-Recognition-Market-Industry-Analysis-CAGR-Value-Business-Strategy-Growth-Drivers-Forecast-By-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
 
 secured: "f1MeEC++Oqc3lAJ7GsXMw2kB6MZnRmrYtG37/LU2xcdiyBYGJJlvF48R5roURVvfJDM8Qf7uM/pRrUKC6z1DvSW+nrl0HxRVol91avDBFTlhGpWa/QHk2a+kOuf9xose+an7zxJDjMmD0uf7W1y6bbpTniT8KxLlbgafk/uG936L8AHjZOB52EdLjz9yxSUwZ38Aj8T6ofm6DDmUGzgE0gYnEyZW3KiZGY2ieI/EwZtHzzTf3FZoq0nzvtAw02HlaKehSkhrnuvrkiXntBtpyK9r5zES69Buiz8yAvWxGDG63YNLyQ5Rs+I86d5Nz1hHivUQhqOFTr37ZbvZAlByHQCNyNaoaqo0xyZZZIKQf+o=;+DCHsO3J2vQiP5WJ3wEchQ=="
 ---

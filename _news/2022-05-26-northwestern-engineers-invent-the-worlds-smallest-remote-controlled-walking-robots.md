@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Northwestern engineers invent the world’s smallest remote-controlled walking robots"
-excerpt: "By Megan Marples, CNN For these tiny robotic crabs, being small is a virtue. Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking robot,"
-publishedDateTime: 2022-05-25T21:08:00Z
-originalUrl: "https://kesq.com/news/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/"
-webUrl: "https://kesq.com/news/2022/05/25/tiny-robotic-crabs-that-are-smaller-than-the-width-of-a-coin-use-heat-from-lasers-to-crawl/"
+excerpt: "For these tiny robotic crabs, being small is a virtue.Engineers at Northwestern University in Evanston, Illinois, invented the world’s smallest remote-controlled walking"
+publishedDateTime: 2022-05-26T09:56:00Z
+originalUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
+webUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/"
+ampWebUrl: "https://wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
+cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/northwestern-engineers-invent-the-worlds-smallest-remote-controlled-walking-robots/amp/"
 type: article
 
 provider:
-  name: KESQ News
-  domain: kesq.com
+  name: 7News Miami
+  domain: wsvn.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://kesq.b-cdn.net/2022/05/hypatia-h_6e786a4893d94079d8372adb51205a12-h_1076c546327634234ed4d9f557e966ca-300-scaled.jpg"
-    width: 1920
-    height: 2560
-    isCached: true
-
-secured: "NbspTZUn5H7B4AgarCbP90bS2msWlX0MVG0jemt3c41zKzAflR6agpYyLIIL0A8meI3CGHb1ofPepvQuG54dr+lxn3C4vP+hotaZI3ofS74tacbHMBLPWcr1vo9iykxI6WBdHlhivBv/8LjkJotKPywbxpyjbbNsuIAU+VLJrivWl81WvdRs4xpNBHj6Qu0zBLq8tsPuAizsggz1FYkf1W5kNHqQvTPftNqDWMasFjpaikTo2KgKp1n4Ij2Bucnw5vihJLTkOQT1YXxeJzdRV6bzssUOBZ929N17p/Al3AkKqKudTgE2oiG9IF81d49m/+vhvKLvXblC7NVz2J72VEWQNbR+UHAYru5KWTomUZw=;glf/WqxG2cNWrJ3CWFcI6w=="
+secured: "SRf8ltRa1dFjFwaCHmndOjOD84bwel++7+z5Ir+rUi87x0CjLFkv8dbnigHG1fPq+pWqZJ900QCJTV+a+/4Fjqlv5oNzalFngBHviS2oMqJVFCZ5rJDEE0iYXinYDTyOLNQ6sWPwmLle/mEDDFgbQZB7xngArI09NWLEgIHNr9nNZKi+Mx2XCWRFztgOsRdqA7x52fV0zAaWuZwkYLzbxFOyE6yvtXg26KMiXkisBY8RQI/walhW7gQF0mZ8uQNc/ULCpxSIl/DFt4arVKorrcE3XWD86ftPJL6EGT55N5OEWdcyOgYMurJ/Q3AfNrUXLT1tFuBhSGwP38gkwEgZM4IHh1VDyDkLqeMaGVlwHlEufnRDpDlVI8TG10CAPSEQH+ETpVGRtJCat/5MMXSmo/t6IuQBml/vlJlOWO77camJVLu+PpJHQUn4gH/mET5SbG5/OfLsISiGFaTIsxVnA5ymvxBLQpSh6L50lTivd6c3PX4jbtLZBzx6WARQWHdO9z6J84c7bXOFzAc1qk1/zg==;Xvx94HzQMKBlADkFHrhIhw=="
 ---
 

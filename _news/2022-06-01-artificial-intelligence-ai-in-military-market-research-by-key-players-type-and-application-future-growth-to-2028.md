@@ -18,34 +18,24 @@ topics:
   - AI
 
 related:
-  - title: "North America Facial Recognition Market to be Worth US$ 3,907.98 million by 2028: Business Market Insights"
-    excerpt: "The facial recognition market in North America is expected to grow from US$ 1,628.13 million in 2021 to US$ 3,907.98 million by 2028; it is estimated to grow at a CAGR of 13.3% from 2021 to 2028. The Business Market Insights provides you regional research ..."
-    publishedDateTime: 2022-06-01T07:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/north-america-facial-recognition-market-to-be-worth-us-3907-98-million-by-2028-business-market-insights"
+  - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
+    excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
+    publishedDateTime: 2022-06-02T18:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-regions-types-applications-drivers-trends-forecasts-by-2028-2022-06-02"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 21
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/a63f6f2eca48ebdb526b9a1f3660b3af9b695a93-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Business Intelligence Market likely to Reach Total Valuation of US$ 52.6 Billion by 2032"
-    excerpt: "The business intelligence market is expected to rise at a CAGR of 7% throughout the forecast period. The valuation of the business intelligence market is"
-    publishedDateTime: 2022-06-01T06:03:00Z
-    webUrl: "https://www.digitaljournal.com/pr/business-intelligence-market-likely-to-reach-total-valuation-of-us-52-6-billion-by-2032"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+  - title: "AI in Fashion Market foresee Share, By Product scrutiny, Application, End-Use, Regional Outlook, Competitive Strategies predict up to 2026"
+    excerpt: "The study on the global market for AI in Fashion evaluated the historical and current performance of this market, especially highlighting the key trends and growth opportunities. According to the study,"
+    publishedDateTime: 2022-06-01T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-foresee-share-by-product-scrutiny-application-end-use-regional-outlook-competitive-strategies-predict-up-to-2026-2022-06-01"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/a63f6f2eca48ebdb526b9a1f3660b3af9b695a93-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "fgBR4dUhiBtB3b3OLkg17XenicEGN6ux4ZG+uLMYb2OuEbcgGBXHRehfjd6eJif2BoEmPUM1IYG0239YPMm02Zj5R29m2Y9I619gxZTv+ovt0gb7HV/GjLBJRdSviw7YAW7n6UTnmG9XLjttlmAE72c+gAfO63sf4FCodFc11IFhV0vTq8hMqAxA4Avi95Yk/7lj94Y8h/Lk11b6QU3FFvenFj8KLNJ+eBjt+Ut9gB5BX3YAI1m2AvBG+M06ZOFLAyopCSvK/N9ACOIzNfV7+ILqrFaAq5RO24f4PNikZJtlbQWpKrkbG2J5OXFH7ZO18kr+OiAsKC3lLONHrgmu1yZuGKWUz6glq3dzxUK2pxQ=;sgupy9I/yIndcayhseNq0w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/companies-news/nabd-launche
 webUrl: "https://www.zawya.com/en/press-release/companies-news/nabd-launches-ai-powered-personalized-email-newsletters-pvt3302u"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nabd launches AI-powered personalised email newsletters"
-    excerpt: "Nabd, the largest Arabic aggregator app and platform, is excited to announce the launch of its new Personalized Email Newsletter product, which provides opted-in subscribers a personalized daily news digest,"
-    publishedDateTime: 2022-06-01T06:54:00Z
-    webUrl: "https://campaignme.com/nabd-launches-ai-powered-personalised-email-newsletters/"
-    type: article
-    provider:
-      name: Campaign Middle East
-      domain: campaignme.com
-    quality: 37
-    images:
-      - url: "https://campaignme.com/wp-content/uploads/2022/06/Picture1.png"
-        width: 635
-        height: 460
-        isCached: true
   - title: "iWave Launches AI Powered Prospect Lists"
     excerpt: "PRNewswire/ - iWave, the industry's top-rated fundraising intelligence solution, today announced the launch of Prospect Lists, a new feature that reimagines prospecting in the nonprofit"
     publishedDateTime: 2022-06-02T15:33:00Z
