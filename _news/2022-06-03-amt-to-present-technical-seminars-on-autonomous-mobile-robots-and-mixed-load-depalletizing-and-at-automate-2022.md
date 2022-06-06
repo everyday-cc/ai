@@ -42,15 +42,6 @@ related:
       name: Automation
       domain: automation.com
     quality: 17
-  - title: "IFR Executive Roundtable at Automate 2022 to Highlight “How Robotics and Automation Are Transforming North American Economy”"
-    excerpt: "The event will bring more than 500 companies showcasing the latest in robotics, machine vision, artificial intelligence (AI), motion control, and smart automation—and an expected 20,000 attendees—to the city’s Huntington Place center. The Association ..."
-    publishedDateTime: 2022-06-01T15:02:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220601005899/ifr-executive-roundtable-at-automate-2022-to-highlight-how-robotics-and-automation-are-transforming-north-american-economy"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 7
 
 secured: "0DwXsLo1Vd1uiN0L8e8Mvqlh84TnZNkmBPqnQ/Ub/YMt80uTaqBaUOyc2ffkL/laoi9TfIPMmObsyeUOzUiYHSK7bJYV3vY8ZXClpLu8PwnworAkklGeE+w9LzmXNFE6QnuPmdL6xv5DpXXDPPwqGQlFlZgeo9Va2PsM2YpbbuW5MYJGPycFJ5qVRbeY/uw56A1sD+NnzGuZ4NctdI7c77Fbs0vZ8OfNG7SVchFqMzu7UTSLB3TmQycPMowTnB/F3kdFw3rQ3vzcDtRV2uGn2h7MovlkSTtVbfmwDmnNOTv5skeCqoXdIkXvMGX9aF18kj6RAEjOqd7wrNEX0cMjJQ6FQz1M1ksK0/bKyPbryILs8SM0YeJHTplxRW6gfOserJDYt3MNDNZcyEmC6dW3aXVn2vP7gQ4AqVLHeqfMCNcXbdQweGAlb0nM0no0L6KJUDtDPktoCLL8+HC3PcYGwCP/msH0bpuSc31gafAWqOCF9dcS+CAiT+Ib9vK7pHfHnmdrkImPxmaMxLA3Es3JmA==;E1zyf3kngJtZGjaurRBSaw=="
 ---

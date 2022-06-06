@@ -55,6 +55,20 @@ related:
         width: 2560
         height: 2560
         isCached: true
+  - title: "Deloitte Spin-Out Arteria AI on Its Citi Investment"
+    excerpt: "It’s not every day that a global bank invests in a legal tech company, so Artificial Lawyer caught up with Abrar Huq, Co-Founder & Chief Revenue Officer at Arteria AI, to ask some questions"
+    publishedDateTime: 2022-06-06T06:33:00Z
+    webUrl: "https://www.artificiallawyer.com/2022/06/06/deloitte-spin-out-arteria-ai-on-its-citi-investment/"
+    type: article
+    provider:
+      name: artificiallawyer.com
+      domain: artificiallawyer.com
+    quality: 37
+    images:
+      - url: "https://www.artificiallawyer.com/wp-content/uploads/2022/06/Screenshot-2022-06-06-at-06.50.40.png"
+        width: 1600
+        height: 1037
+        isCached: true
 
 secured: "WjK79vI1TEksj4zvrFapQYdZ5hsu7Em3jdJiXvrDssCSYKM7j+fLSnhcpWebb2K5guatSvk7Qr7+L6IdKeEIQS/tssjp9D/afAdX195rpddzPLJw8RE+moqT8HsJKTNu8BPffMlF+kVKwbtcWkgn+OHS8gdI28giAfJ5u4WtMWqZHtPxo13XmqPVT5ykXNdb1rMXDM/dPw4UrsW05IM50hYn1NL2/IJwJt5FNChru6qRvLTDiymI+ngl2wNduOITZPAD0dDPUz84b6IYC+fxK9GtmDO6Om7XIUnUQTYRJotU59MmZ+9DpqFF95Rz9oKFbOlG/ldXIrP7XJ7FwGnfwZmfQAzvMibIcHRIJSc7mag=;kelP2Q13MytFVpfbrC81ag=="
 ---

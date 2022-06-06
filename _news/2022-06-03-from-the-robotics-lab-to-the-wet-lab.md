@@ -40,20 +40,6 @@ related:
         width: 526
         height: 480
         isCached: true
-  - title: "Accelerating solar deployment through robotics"
-    excerpt: "AES Corporation details the development of Atlas, its first-of-a-kind automated solar PV project installation robot."
-    publishedDateTime: 2022-06-01T14:33:00Z
-    webUrl: "https://www.pv-tech.org/accelerating-solar-deployment-through-robotics/"
-    type: article
-    provider:
-      name: PV Tech
-      domain: pv-tech.org
-    quality: 54
-    images:
-      - url: "https://www.pv-tech.org/wp-content/uploads/2022/06/AES-Atlas-robot-AES.jpg"
-        width: 1600
-        height: 918
-        isCached: true
   - title: "Cowen & MassRobotics Highlight Role of Robotics in Achieving Climate Objectives"
     excerpt: "Cowen Inc. and MassRobotics announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
     publishedDateTime: 2022-06-04T17:18:00Z

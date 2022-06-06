@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1024
     height: 566
     isCached: true
-
-related:
-  - title: "FarmWise Raises $45M Series B To Expand AI-Powered Farm Equipment in U.S. Farms"
-    excerpt: "Farm automation startup FarmWise Labs, Inc. today announced that it has completed an oversubscribed $45m Series B funding round, led by leading AgTech venture firms Fall Line Capital and Middleland Capital,"
-    publishedDateTime: 2022-06-01T13:30:00Z
-    webUrl: "https://www.texomashomepage.com/business/press-releases/cision/20220601SF74761/farmwise-raises-45m-series-b-to-expand-ai-powered-farm-equipment-in-u-s-farms/"
-    type: article
-    provider:
-      name: TexomasHomepage.com
-      domain: texomashomepage.com
-    quality: 15
 
 secured: "6H3F40CDAL5POn40Om+SjKvj+x7eOJ1ki5k0S1YC0irfFrBCezPYF2oo9UGx1N6B6Ddv0jUcCyq7i4E1Rsu9DjJtKH1EtdbbriWkrUZKtCRWUzb+P3QzQIirO59oi/ZMPPtRHKTXhJFJLxcUsNPg8O6VmjgDshxA91KUHPoL00qY+9wGBT5nN0VTD6/QgmvwfdSMWLuR35D0zS+gPyE0SjC9rCa4yoIpmdtZ6eC24O7odbdDBXHy4ErJddZv7XxlUZ69wLFrF1mVD7zmmZ53VE8W2+PErAmWf7wgksjh7rqJ8i5yluUG/hd2Q2C9G35KzhU7lBJU6XJtnKsrT8OQtbWzUSQKNxo5Cw/z6NLy8r690N+MfKRJgF9q/UQZzOMl0iQuPPiWQqs7PZlPyEubG8uCDvCdgFeQMBe9Gtxr7EHVP3YSAx1FXT0NIy0u2bpUaEzvYJwz7Csf2zmBeZs7FREO59Ctu5f5BvBuYtStCRHYJjPsrNDzhD8DfoR2QvtLHRwWWsVb8lPza/6MUjXNOw==;aYNwFyK7wFkQCJhH+GGCQQ=="
 ---

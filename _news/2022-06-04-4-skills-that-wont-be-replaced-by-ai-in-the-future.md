@@ -42,6 +42,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Reskilling the Workforce to Better Reap the Benefits of AI"
+    excerpt: "Organizations are rethinking their workforce demands to reap the b. Successful companies invest time and money in reskilling and upskilling their workforce to enable AI and leverage the technology strategically."
+    publishedDateTime: 2022-06-06T02:54:00Z
+    webUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/"
+    ampWebUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Reskilling-the-Workforce-to-Better-Reap-the-Benefits-of-AI-1024x585.png"
+        width: 1024
+        height: 585
+        isCached: true
 
 secured: "07U0VFT/FJBvF5DdD1ZGdEIWkp6DJNUAyiwkcDtL2m7JxDOdgkBPctlDkOcbpmH5NkEnzBcMMdg9HM1K8QRdi1N18dySBOCch1qif3mM6JvrShP5ZQexK5qg3MnLLRAbCzPzaKTFDQxxNILN6007+CIdKSJ6I/QtJBbPJrjmM8W2uUrGlzcH6szRtlMpOl20Kzm9+cqkgSWIvYh5tFxjFfoYKbLllx+mff3N3N2UVfOc6EHKXHVKlsDdW7Q3kRCt4j+qKy2+x5V3anzZ7bqCE5075aLJz15gGY7x7RcMaWAcjlbJG6jrDEjgRHn3DpZT45mk0Pk4wcf8Fic0WdSJH43KCSa2UqauH/oakxBqwTfSTZ8QFtrZYFoHIkMRr8fZKHoKQRoskXps5qTFLbOnyW7vHrZn/OOq31F2KnlsyXlyoQb8Gl63Pk9uIi2v1QH1Wuv7y5z2WIPzMQOawhZ0jo3ZMMmUPY4+2CgOazi7InXfNmfTpLYDgEQlfMgnGTD98m74ZqOToH1OnBBfIWDjDw==;qFdTn7vrBd+6361zMBZdgg=="
 ---

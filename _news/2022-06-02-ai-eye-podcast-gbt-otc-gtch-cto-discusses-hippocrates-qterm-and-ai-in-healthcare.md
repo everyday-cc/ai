@@ -26,17 +26,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "AI Eye Podcast - GBT (OTC: $GTCH) CTO Discusses Hippocrates, qTerm, and AI in Healthcare"
-    excerpt: "Hear the AI Eye on Spotify. As the adoption of artificial intelligence (AI) and its adjacent technologies in the healthcare space increases, so too does its use cas"
-    publishedDateTime: 2022-06-01T13:21:00Z
-    webUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/06011GTCH.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 29
-
 secured: "/rj+Mp1SA87WMv2WaAryLJyoN0HWw2HnqxfsIIX/ebuzLYlG8klHU/prdDoIaLYBez7PA/bIkgNTxe8+FUeI5toYuYTb+WYUBrJYTphEnLdNATUf9pqkpFuLdS6AEbgFuU6vqBeUauRnJJl3IUP3ywXYIAINKeUEVAa6zSmAqfdtj3FXijL7OW3VuQASpBuHnBAOiIQE2f2ztlWgDNU3ixNi+W6mLFL+YgWYPFbI/XAocfHNCmmW/Y+F/QoxDeg+dK3MSICZ/mGfC5ZI81q14loBWNF+iJ4mdBY7FgRaWYMZUhtWFcmk1tFWvpPAgxowmZrInwcmj3bowbWO6vl4wlyVvgvb8a+r5QUn1teTG2k=;gvmf9zr5rdtaPnW5aE/kaw=="
 ---
 

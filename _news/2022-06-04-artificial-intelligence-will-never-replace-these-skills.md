@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dnaindia.com/technology/report-artificial-intelligence-w
 cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: DNA India
@@ -42,6 +42,22 @@ related:
       - url: "https://gumlet.assettype.com/nationalherald%2F2022-06%2Ff9236b72-3ab6-4501-a169-aa6afee839ed%2F4_skills_that_won_t_be_replaced_by_AI_in_the_future_.jpeg?rect=0%2C4%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 400
         height: 210
+        isCached: true
+  - title: "Reskilling the Workforce to Better Reap the Benefits of AI"
+    excerpt: "Organizations are rethinking their workforce demands to reap the b. Successful companies invest time and money in reskilling and upskilling their workforce to enable AI and leverage the technology strategically."
+    publishedDateTime: 2022-06-06T02:54:00Z
+    webUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/"
+    ampWebUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Reskilling-the-Workforce-to-Better-Reap-the-Benefits-of-AI-1024x585.png"
+        width: 1024
+        height: 585
         isCached: true
 
 secured: "Mb6f+nTx5w9k5unPz2IEyKt5BAr8g3l+v4xb9wexSCCxo/EREB10OosMUm3BfUdAaMYORoHT8Qx6Dr17+4KK6w2OcH2dNDeB/nt4ahx4T49pE1LXHLj1U3AF5BsmozP/urGf5MS1mlRjh/CMBOtkAc+rQG50mnBNCK8IvXnOG9kdhrwbyzBc/ylh2yJcrsj16TQ7Lfi8UWh4pN1cFvtGRaL2shuhOS9rge/iwmSW2JiSAajx9zVk2UcsRvQYKonU6wMvf7ANUpd1VZwtij5H6UuNnmmDQcQ5Rkby2Kc7k9HZChfhko+QZxhzPqmHtRO4BTFzM7cULfSY/3JGvq4c4HVDMWPBYAZz8/J47uRIkE8OWHyfED7BUK39aEcOAyONVRk5+wTsjBbe8RjI701lVyRNWD3vhzy607OrkL87pL5ojyYDrrxl5kuULmB1mOA05StJpwDlrMWWljbwgV1iXpOlhylzIHR+KaxNUwQs8Mjdd2tMi8iUnKJQIkElKxCZhtTY9cPoe0WMq4QXSdXd7A==;oK1/CL89vCG3leUlxPISFQ=="

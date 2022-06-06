@@ -70,6 +70,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "The AI Ecosystem – Reflections"
+    excerpt: "By Sophia Adams Bhatti, Head of Purpose & Impact, Simmons & Simmons. The team and I at Simmons & Simmons recently had the pleasure of hosting Lord Tim Clement-Jones and Stephen"
+    publishedDateTime: 2022-06-06T06:11:00Z
+    webUrl: "https://www.artificiallawyer.com/2022/06/06/the-ai-ecosystem-reflections/"
+    type: article
+    provider:
+      name: artificiallawyer.com
+      domain: artificiallawyer.com
+    quality: 37
+    images:
+      - url: "https://www.artificiallawyer.com/wp-content/uploads/2022/06/kings-college-g029312e2c_1920.jpg"
+        width: 1457
+        height: 1018
+        isCached: true
 
 secured: "q5d1tb2kj2m9xn1v4ZZ13ikFHTjOYH44C67AloVVHNaUc7gGz25MkJNbB3b7jclmKg2bL35lUOVZF2mptbvmDhEcV+HrY++EqxxC0Nu+NLY9HREbuIa5cLg5jsXKJ9DYne2MNgyelyx4xKIy/ozK+VdDDASUk8kqLWmnTYhH4QG250Qeuj3lfrDsmi/Ww+oiq/cIoj/sOxCaw/cNMswvg0PBHHBvWw2qeVYBNxn73pYi5LMp2M5ZBH7JIRJbYtyGeQGgC30lEeLVZu/53UI1aAeL2+1YMkCccoK3OceBcgpGlZ9RE5KpWGsxzEuFul0fmYms6z6365cIcFO49nroffnkefed4Tzw+6k3hRkASYU=;H8LdZs8GSGnBI8ORc9IsiQ=="
 ---

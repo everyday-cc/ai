@@ -72,15 +72,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 16
-  - title: "Synopsys Launches the Era of Smarter SoC Design with ML-Driven Big Data Analytics Technology"
-    excerpt: "Driving greater design productivity by harnessing previously untapped design insights with machine learning technology, Synopsys, Inc. (Nasdaq: SNPS) today announced a critical expansion of its EDA data analytics portfolio with the introduction of Synopsys DesignDash design optimization solution."
-    publishedDateTime: 2022-06-01T14:05:00Z
-    webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220601SF74500/synopsys-launches-the-era-of-smarter-soc-design-with-ml-driven-big-data-analytics-technology/"
-    type: article
-    provider:
-      name: WTVW
-      domain: tristatehomepage.com
-    quality: 8
 
 secured: "6CDKsZHPalhnZMBZ8MUnnm5z8dXao9fGGTxz18qHTXgituZjwyLKY23fMXMYqhXWx1ToBwLHOTb0HBBwGM2mC45EnJm4cDurJ6vOu2KnGczQUBP78jYh7LYQcTbAgGhONJUB1S3OgQ5JK2ggAtvn75RW9Zso6fwxFthECyWyNHwf8vpjsAZXOn8A5huccbwa1mQ8DzQlT5ay209h+pVZxeRMmxpNcdvZLuFEF63XaPzyNF/f8ZzxDvzjPv6m2yXIYzx/LzFsIH9tbPcfTIU2cJVqAFH40HrkU5x7dJrBrAA0neERGeWTLqW3h35wBJg9y7UHUeoDOueO4PxBtp6YJRNz4Z7fMyAHIInGpY99AFMPallExhxRPVdm+P97yoDYCjBLWymidXkkeffgbVRbXOLXrYdVjHdRlxADtkpeuiN2i2ffUWiwy0LtsgmSYYSOubZnuCfjt+4VBLiGJ3OIkAqPOM78l8vZ1RQeDTv4WeTvHX3I5kKPxasUARg5FC0LTorBrsBqoEhSdTqNPvpg5Q==;uKPQIBxnW/EXp+Iyp7e7xg=="
 ---

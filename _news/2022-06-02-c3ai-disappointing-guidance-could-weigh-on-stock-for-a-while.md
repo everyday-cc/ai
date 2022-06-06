@@ -57,6 +57,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Vet-AI appoints people director"
+    excerpt: "Leeds-based veterinary technology specialist Vet-AI has appointed its first people director. Laura Stocker has joined Vet-AI following its recent investment from Hill's Pet Nutrition and Correlation One Holdings."
+    publishedDateTime: 2022-06-06T07:25:00Z
+    webUrl: "https://www.insidermedia.com/news/yorkshire/vet-ai-appoints-people-director"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 37
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/Vet-AI-Laura-Stocker-66141-1654087244.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "C3.ai Stock Drops as Guidance Disappoints. It’s Another ‘Debacle,’ Says Analyst."
     excerpt: "Wedbush's Dan Ives wrote in a research note that the company's struggles to meet Wall Street expectations are damaging its credibility."
     publishedDateTime: 2022-06-02T13:08:00Z

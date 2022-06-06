@@ -73,15 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Synopsys Launches the Era of Smarter SoC Design with ML-Driven Big Data Analytics Technology"
-    excerpt: "Driving greater design productivity by harnessing previously untapped design insights with machine learning technology, Synopsys, Inc. (Nasdaq: SNPS) today announced a critical expansion of its EDA data analytics portfolio with the introduction of Synopsys DesignDash design optimization solution."
-    publishedDateTime: 2022-06-01T14:05:00Z
-    webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220601SF74500/synopsys-launches-the-era-of-smarter-soc-design-with-ml-driven-big-data-analytics-technology/"
-    type: article
-    provider:
-      name: WTVW
-      domain: tristatehomepage.com
-    quality: 8
 
 secured: "1T8u1zb+JqOL+QuuhiT9akZJ4OYNciSVQda/hpxW5VGvBZnxaYmix/0zaXwpXCOTKQPnl5/jE47ek/GfB5cPxmfTQbkeXlSIWL7UQYqCkwXy5HaUekU2DjQbwH4sFB9NjDnqC6bsDY8BX6D+ao+YPosGic1Iq1VGdBM2SJr5hETLxreyUL4LZnMJnlWzVb2oaZi96unZu3pUESjDqYoWbWkg/dXBs3JG1r4G8nq41h2MiEu4KHVPkEbyGpCzFKKhU5dSg1tInID+2DPyYVPjllzAhG32iSoC89PihpOZfuqbjs+0FThm2mOp8g6nyFVqRiW+BN0UmCmPlkr6lIREs+0+TJq+yyXggFgl7k0DEE1lb91mEq+ukFyY1wl5DhmWktnsBgqfExJvkP2M0LXc8GwMtAgS2V/k6ODX+Tq30VyhoWrWs5Iez92BfPT6jdY2eDHO1GzmgQEVLdJx5JZ9dLpRC0h3wFUyxxbrM5xWqnyhMyei8dMk3ygDZIoC7YI1XeAjUQeKAI6NQO3ghxvELw==;G7Ab6vXX/9Dd3T+cqMOfVg=="
 ---

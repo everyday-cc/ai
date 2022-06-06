@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Distinguishing AI Hype From Reality in SecOps"
-    excerpt: "These use cases for ML, such as spoken language understanding for your smart-home assistant and object recognition for self-driving cars, make use of vast amounts of labeled data and computation required to train complex deep learning models. They also ..."
-    publishedDateTime: 2022-06-01T14:27:00Z
-    webUrl: "https://www.darkreading.com/analytics/distinguishing-ai-hype-from-reality-in-secops"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt89661adcacbe9c43/62911639bcee916ef642a845/AI_marcos_alvarado_Alamy.jpg"
-        width: 1200
-        height: 774
-        isCached: true
 
 secured: "8PW8/+4X5Zj1md7lSzDyYlADLGh2kFgLgCDeWo2gjEzeDsODxD1oYYxmR/l6N8Hrrzple658ULGzDlbg6ei5QJG/w17IAX17oecOI2fZ+vjTEVa7QVaF274FsPGHeiH2NjkE7a0kt74NnlMgiX3Emro8xCKRKyi3bZhd3eI+T1dfgsfo+iuLFWdxUR3CTa4LZh4nHsH5k9TG/pZ0iACzfAIx/SC/TMSKfyqPk7rSQAkLoWWuSWOxXAimyNXASKA+M5urpvgtHVO2UemVPbEYhoRGrYHSOs46nddGeKil31LejjCGGx6a4p+1X4xvXVlFa5YyArSDhSev5ebo6SNdKk4vHRZo8mzCTOV9o1BleH1fMiZbZQCWYHB82jY1OV2le5aIdz1AVoGTxsQeki1ERdBTuRisOULwDnUleJvppS7O8sd8cr29H7inqNGUbgF6U1rLiyDG15LgqP8dS4NdgskeUXQ4I6AEiaWch+c4i9KzjeL6Ns2Sm1KDERH0mxucrHC8ZMQEbVVlbBEWtgobAQ==;PjPviiGhnBtk6ztZHE4NIg=="
 ---

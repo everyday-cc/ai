@@ -26,39 +26,39 @@ images:
     isCached: true
 
 related:
-  - title: "Resisting the urge to be impressed, knowing what to talk about when we talk about AI"
-    excerpt: "The barrage of new AI models released by the likes of DeepMind, Google, Meta and OpenAI is intensifying. Each of them is different in some way, each of them renewing the conversation about their achievements, applications, and implications. Imagen ..."
-    publishedDateTime: 2022-06-01T14:54:00Z
-    webUrl: "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/"
+  - title: "Artificial intelligence will NEVER replace THESE skills"
+    excerpt: "According to a McKinsey report, depending on the adoption scenario, automation will displace between 400 and 800 million jobs by 2030."
+    publishedDateTime: 2022-06-04T10:31:00Z
+    webUrl: "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945"
+    ampWebUrl: "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
+      name: DNA India
+      domain: dnaindia.com
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/img/resize/728bdcace26af7271985d45af09c70fc07b98765/2021/10/18/7064a693-160b-4306-b2fa-82172337ef98/innovation-ai-automation.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 802
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/06/04/2139148-untitled-design-2022-06-04t160005.913.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Creating artificial intelligence that acts more human by 'knowing that it knows'"
-    excerpt: "A research group from the Graduate School of Informatics, Nagoya University, has taken a big step towards creating a neural network with metamemory through a computer-based evolution experiment. Their paper appears in Scientific Reports."
-    publishedDateTime: 2022-06-02T14:54:00Z
-    webUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.html"
-    ampWebUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-artificial-intelligence-human.amp"
+  - title: "4 skills that won't be replaced by AI in the future"
+    excerpt: "You've probably heard for years that the workforce would be supplanted by robots. AI has changed several roles, such as using self-checkouts, ATMs, and customer support chatbots"
+    publishedDateTime: 2022-06-04T15:00:00Z
+    webUrl: "https://www.nationalheraldindia.com/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
+    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
+    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/india/4-skills-that-wont-be-replaced-by-ai-in-the-future"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 54
+      name: National Herald
+      domain: nationalheraldindia.com
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/creating-artificial-in.jpg"
-        width: 968
-        height: 476
+      - url: "https://gumlet.assettype.com/nationalherald%2F2022-06%2Ff9236b72-3ab6-4501-a169-aa6afee839ed%2F4_skills_that_won_t_be_replaced_by_AI_in_the_future_.jpeg?rect=0%2C4%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 400
+        height: 210
         isCached: true
 
-secured: "4sSwLZq76MuUnRhEQhl1f2Aalw4hIHFIroD1ozun3C6+3OxOVXZDDNGFymXsdYvF4ZZQ+2I/V7IAJRJH1ZpG74a8pzGEELCAy0+QlVYGJ0ieA5R7JbdsUiguTU8TWxz/rfaI7ZnQyBWIaP5Y+j4m/HcxkEMXAHEcWPEc+c61EskZNBxzXosu2XdfaByD83AMI2mIo6hjgmIO3KQJwrcFs6hm3SpKAsqsk0uS8swLp0vxxHI70ZK8TUxtLyZMpdT2SV1kBDKcfxQwXsTCh7sTpJ48zXy7oURpWkMU+okazLNaKwd0jN6ogtArFuahBIBTfpyojki9cNj93kYcGlzb4WdNCMnxDtUB1lOaFmgVou0=;tOhdvJr6I4D5hxPvbXIDIw=="
+secured: "Ysug7QJQ5taPJT0v2d07dX7Fub2VPZoODM+4hXSntRqLgm7N1paujaYY8zYjNUD9kOKQWKkuT5V2WpiR/pxyFLoNQPg+wnGXjExdYd3M+B7Ig/K/h5YZgCZmC8NcDVgYiqwnm0GH0x91o+q3j/w205J6NxHPqcTJ5OQpRFan6doP2CJNVi7DAUSJWZUN8vsw/Fk6XQrJYxAcBxCE6eCtS8cAUtc+c0J5p5ly6JTvOE8JamQOigXenUXW+iVXtkbGewo1C+gsTuAEo0A5Z4zrzlmh9cx9VlY83ExmED1N98XuQmZBsoghDxEURQb19RF+9Qz9YlfHuNEKnL9mzDth1G9nKPv8VNl22DLVQeXxn7bIUO/YJT7gPd45UYU9RCOKiNWPr19rbZ2uB0VcdWzRSBAGdKCiiboPWasXV+UU1CunoV4KdvnvfXwmXxQ3bBwoUvoRfG5ZHQefZV+Oyf3mmtfF069lRTlUm5PaDO9qVW0MNGGXUs4JA1Edsiyu339EDDY4cQsOQe3ieHfjbL6C8Q==;VbW2LWkO8miY3bt/9Ler3A=="
 ---
 

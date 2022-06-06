@@ -18,17 +18,6 @@ topics:
   - IBM AI
   - AI
 
-related:
-  - title: "Artificial Intelligence (AI) in Medical Market Trends 2022, In-Depth Analysis of Industry Growth and Forecast Up To 2028 |Top key players: NVIDIA"
-    excerpt: "The Artificial Intelligence (AI) in Medical Market is projected to develop from USD 6.9 billion out of 2022 to USD 67.4 billion by 2028, it is normal to"
-    publishedDateTime: 2022-06-01T13:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-medical-market-trends-2022-in-depth-analysis-of-industry-growth-and-forecast-up-to-2028-top-key-players-nvidia"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-
 secured: "jA9c4JsZMlA5JJfQz+p2m2PMEaMOF5kYck9l19dyPAIDYMpfx8Zvha5VL4UYUHC+FGqd/qRseoQBjf+7vMlBN21SZytsgX9nKcnn4lsV6QtbH9NIJTGd9LrUWBvv8SSTFGg0B3+m+2H62QuBwboSbW/DlgqSMkqlIxV+cwiSYOeXbAw4vmdTFn8NeWHFqjoqT0yhEx+vd9ORSQu/Ba8FcDxO4/sY1osYa930VWhRFr8oeNTQPPmHcDdzaVJNsDrtyev9h1w/I7QbgFdrEEk0XoWAq0CwKOARIF68vUVjfl1WGV4WuJAAkYX6jcbz7LNiI2jv8Zo+nxOCaO6TmG7sxqTJBW+jJpJHnkD08bdYNI8=;qDXYYLjDNsJKzv6cJKS7EQ=="
 ---
 

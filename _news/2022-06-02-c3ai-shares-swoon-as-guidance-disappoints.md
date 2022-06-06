@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoin
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://i-invdn-com.investing.com/news/news_arrow_down_800x533_L_1414401708.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Vet-AI appoints people director"
+    excerpt: "Leeds-based veterinary technology specialist Vet-AI has appointed its first people director. Laura Stocker has joined Vet-AI following its recent investment from Hill's Pet Nutrition and Correlation One Holdings."
+    publishedDateTime: 2022-06-06T07:25:00Z
+    webUrl: "https://www.insidermedia.com/news/yorkshire/vet-ai-appoints-people-director"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 37
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/Vet-AI-Laura-Stocker-66141-1654087244.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "C3.ai: Disappointing Guidance Could Weigh On Stock For A While"
     excerpt: "Data by YCharts Unfortunately, I believe the company's stock ticker of \"AI\" has attracted some investors who believe this was the gold start AI company. With the stock indicating down to $15 after ..."

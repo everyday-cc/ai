@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and
 webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/"
 type: article
 quality: 101
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 16
-  - title: "Synopsys Launches the Era of Smarter SoC Design with ML-Driven Big Data Analytics Technology"
-    excerpt: "Driving greater design productivity by harnessing previously untapped design insights with machine learning technology, Synopsys, Inc. (Nasdaq: SNPS) today announced a critical expansion of its EDA data analytics portfolio with the introduction of Synopsys DesignDash design optimization solution."
-    publishedDateTime: 2022-06-01T14:05:00Z
-    webUrl: "https://www.tristatehomepage.com/business/press-releases/cision/20220601SF74500/synopsys-launches-the-era-of-smarter-soc-design-with-ml-driven-big-data-analytics-technology/"
-    type: article
-    provider:
-      name: WTVW
-      domain: tristatehomepage.com
-    quality: 8
 
 secured: "JSVdAqisCFt+AE12615EZaczqrzddPB0VVIvlsHkU58LsDOlG/LQiHrV9xGELSeZN060le4fsHMYHBMHi15mEJ8eWHDQGTpu0JE4MK864476rAathDD6bSSaK9PBjPa6hBGR2GB9RhRHHgfEGy0d2pPXUz2E+OqPaLFKQNP/CVZs+oc/W+Hc7R8JCMqgjEA8g4qc0OqIOVfSOlUsTRsfDoi+9j/2Ko08deW95Q18kmNLM8jeNbHGtccNK0wcqP5cLFUKTDBxv4U/d06Hr/MubA7JyzpXfNvGUd8lBePQ2hoKaw+Ek/srfapWO8gm2v2usqEgniVsFVkIAgaBSJ0lTRvzjCSNYDby4VMWecJhYt4=;VFLF7Ine6IO2lkcDam9Obg=="
 ---

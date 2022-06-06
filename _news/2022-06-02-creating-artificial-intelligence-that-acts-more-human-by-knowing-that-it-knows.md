@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-artificial-intelligence-human.amp"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 968
     height: 476
     isCached: true
-
-related:
-  - title: "Resisting the urge to be impressed, knowing what to talk about when we talk about AI"
-    excerpt: "The barrage of new AI models released by the likes of DeepMind, Google, Meta and OpenAI is intensifying. Each of them is different in some way, each of them renewing the conversation about their achievements, applications, and implications. Imagen ..."
-    publishedDateTime: 2022-06-01T14:54:00Z
-    webUrl: "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/728bdcace26af7271985d45af09c70fc07b98765/2021/10/18/7064a693-160b-4306-b2fa-82172337ef98/innovation-ai-automation.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 802
-        isCached: true
-  - title: "Reskilling the Workforce to Better Reap the Benefits of AI"
-    excerpt: "Organizations are rethinking their workforce demands to reap the b. Successful companies invest time and money in reskilling and upskilling their workforce to enable AI and leverage the technology strategically."
-    publishedDateTime: 2022-06-06T02:54:00Z
-    webUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/"
-    ampWebUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Reskilling-the-Workforce-to-Better-Reap-the-Benefits-of-AI-1024x585.png"
-        width: 1024
-        height: 585
-        isCached: true
 
 secured: "oFRr2i+DHCv3KKPg4Tq4yJ0NQOxIKyT7BqEe4dKqRbJXKyh0pCQxiqYed3NxBrLr+/shdQ60X8ZZKWXQoFCiQZjaD05YmimB+hHLNt2EcZelqedW77KcPpigT0wJ3uxJ9wS9J1PHw10I+WrJ9OaVVNz02JIGPupUK623BwFMqZwgBMnh2EXbhjjCRfjAQVwyDCZAOmghmX7RONF7Wdj2D0Sx8lFK4Fg1O5OQ2aXVdbWabniTk851xRfukEBKHv6geR63MhVpOCoV1aJBdjPcD3mDqhUY+Rf1/wbgX1QiB3QAtLRUApf33Yttum1K6JqHMHkBExnA0hvSQa3NgkIyVbT3MzAixRTuW9HPZdeXvJPDw4+cd8Sex042wZifhngXUV8aDlFVDcGijaQ+wp3I4TGsP+xjbFAN/VYZoGrIRVisiInksHhgjj/F2If/WGwadiYB9ePilh/qrtA8hnFOp1M0S9C8v8F0oKKeacGASf3qNYtm0viPI//7XXnLgor/JiTsyISJyymQCg0efCpBDQ==;zUGIU1gnhMCTyx4wcndRkw=="
 ---

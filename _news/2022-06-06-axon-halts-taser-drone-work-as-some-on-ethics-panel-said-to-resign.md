@@ -7,7 +7,7 @@ originalUrl: "https://www.rappler.com/technology/axon-halts-taser-drone-work/"
 webUrl: "https://www.rappler.com/technology/axon-halts-taser-drone-work/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive-Axon Halts Taser Drone Work As Most Of Its Ethics Panel Said To Resign"
+  - title: "EXCLUSIVE Axon halts Taser drone work as most of its ethics panel said to resign"
     excerpt: "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel."
-    publishedDateTime: 2022-06-06T02:54:00Z
-    webUrl: "https://www.ibtimes.com/exclusive-axon-halts-taser-drone-work-most-its-ethics-panel-said-resign-3530838"
+    publishedDateTime: 2022-06-06T05:15:00Z
+    webUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 49
+      name: Reuters
+      domain: reuters.com
+    quality: 79
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/05/the-headquarters-for-axon-enterprise-inc-formerly-taser.jpg"
+      - url: "https://www.reuters.com/resizer/0BNS6N-mG3uSH0JDp4dlNoBKSXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BTQXZ7O7GFIHNPLLWC75HAR5ZQ.jpg"
         width: 1200
-        height: 767
+        height: 628
+        isCached: true
+  - title: "Taser manufacturer drops proposal to put armed drones in schools after mass resignation from ethics board"
+    excerpt: "The company that developed the electric stun gun says it is halting a plan to offer taser-equipped drones to police forces and schools to combat mass shootings, after a majority of its own ethics board resigned in protest."
+    publishedDateTime: 2022-06-06T05:07:00Z
+    webUrl: "https://www.abc.net.au/news/2022-06-06/ethics-panel-members-resign-axon-taser-drones-mass-shootings/101129270"
+    ampWebUrl: "https://amp.abc.net.au/article/101129270"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101129270"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 42
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/cc0411565d6a973fe2f132575dd59778?impolicy=wcms_crop_resize&cropH=443&cropW=787&xPos=0&yPos=81&width=862&height=485"
+        width: 787
+        height: 443
         isCached: true
 
 secured: "/NdBfCATAlcC3o4anhgQPl/ePYGlECcLfM/OLduLAz+VHZ95U1Es6+BBl9wyKixpLA7M2fMurAhZxXoEC+Menxv+TfU1e+dxcmuTHiIpo9zkc7etDbgEDNAegpUe67ON3lZ6fmbR5p9v+kTISVSiKIzP+DYoYqZkcMS5knFmfJjVRXjI/7li4jg2xWvO4vV3TP6EdPPTRJ0o8WiMLR4VU8sZ0SzYv08DolQmUzXHtoNGs7CIWMe6lroH9Oz4BWrnNaZaOX1ZtKWAkznA9OAjMy750MTbfgRsy+kX8DOxCgJ1PkqWLsTpuhum/xA3cM17n1N5xPC3fon/MyHIYZv/OWlJ8HWGdRY0CeAWx2P6wVI=;d0Z2wP+YESn0yJ60WyOlsg=="

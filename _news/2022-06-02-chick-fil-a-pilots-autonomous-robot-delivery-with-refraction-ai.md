@@ -7,7 +7,7 @@ originalUrl: "https://www.freightwaves.com/news/chick-fil-a-pilots-autonomous-ro
 webUrl: "https://www.freightwaves.com/news/chick-fil-a-pilots-autonomous-robot-delivery-with-refraction-ai"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Georgia-based Chick-fil-A testing out new delivery robots"
-    excerpt: "You might soon be able to get a chicken sandwich brought right to your door with Chick-fil-A’s new delivery robots. The Atlanta-based company is testing out new autonomous robots to deliver food straight to you."
-    publishedDateTime: 2022-06-01T14:56:00Z
-    webUrl: "https://www.wsbradio.com/news/local/atlanta/georgia-based-chick-fil-a-testing-out-new-delivery-robots/T6TS5N6HORG3BFFXYC7IYJU5ZQ/"
-    type: article
-    provider:
-      name: WSB Radio
-      domain: wsbradio.com
-    quality: 39
-    images:
-      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/dmdjYUjdE9-9ox-J3xRbZMrFOHE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/TSD2EWVNVBFWZB7MIDIUTIAV7Q.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Chick-fil-A is testing out autonomous delivery robots"
     excerpt: "During the testing process, they will have “safety chasers” following the robots in cars to make sure they get to the destination safely."
     publishedDateTime: 2022-06-02T01:12:00Z

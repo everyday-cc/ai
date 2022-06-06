@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.abc.net.au/article/101129270"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101129270"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,36 @@ images:
     height: 443
     isCached: true
 
-secured: "h2mElaxZ5SYCyXnjOqFzO4y0VtKOYgEjjkPIPGy2gBI9g9RV3n3DKNZFcspecYmWpN/PMtD6oZiW4xDL3HDoYY2gfJeJlucQwEJqPYVC8g335guUtVIfvuUlBLwnfSW2FXIGWkK9fKqWZOEQhxqklfsilk2APzhP00B74Re350B8SVchdgJHu+CTLoSCzX/Od7kSBj6hJMi1wRVJeAaH+JokEmYm8w2L3m6ZX0iFWmzatmw9BXtknYU7QA+McIEeQXGbW5H/o32jFQkASLi+B7Oy3oOzb9agHMpib7swnRxg+zZGxWEKkkYGo0zB1vh/F84PM46/4Vll/NCdYeWpfTcDMb64Lbv9ys5hB1+9Gjc=;8TVp0plqurKwchJChsWrUw=="
+related:
+  - title: "EXCLUSIVE Axon halts Taser drone work as most of its ethics panel said to resign"
+    excerpt: "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel."
+    publishedDateTime: 2022-06-06T05:15:00Z
+    webUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 79
+    images:
+      - url: "https://www.reuters.com/resizer/0BNS6N-mG3uSH0JDp4dlNoBKSXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BTQXZ7O7GFIHNPLLWC75HAR5ZQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Axon halts Taser drone work as some on ethics panel said to resign"
+    excerpt: "The aim behind such groups is to gather feedback on emerging technologies, such as drones and artificial intelligence software. Smith said it was unfortunate that some members of the ethics advisory panel “have chosen to withdraw from directly engaging ..."
+    publishedDateTime: 2022-06-06T03:50:00Z
+    webUrl: "https://www.rappler.com/technology/axon-halts-taser-drone-work/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 54
+    images:
+      - url: "https://www.rappler.com/tachyon/2022/06/TASER-Drone-Yellow-front.jpg"
+        width: 1138
+        height: 640
+        isCached: true
+
+secured: "MzGxFfXgxBDiTao0IeVdOvbuMBdoZZRPIqwyFzt0j0HBErf/x1qTGF9aMAOPp2iCEtvYXvebzY5kkXm5dZqopEaqSy7fKqdC9+LycYOG7Q6OYW25ZzaAGb9sxXQ/O/l4Ugs1LW4Yq9tLCrJdkqqUNL5QoFM5X7UCuIBmnRDoBdq9nhQfRwSi13DUzf1jUrepCtYRz05sgN7IUsP/N0PluEtTW+4f7jTpjcJt0NKSBIo7QoU6K1I6Pe9awsKf2gpsT1nNeEV0DkeChvupGwyy9ZLoJYXHv7WE/Ia9v77/D/8Oi6++RcsrizMDG46MhrxqkJafB8HSF/ViyczscK0nyihFIvKUYFbNsgZNTMPyVV0KVgmaHG8X/i4Y4DzWme6eUmn1uvDYziSk+IXcqYWiqKcN6tlAY3n8EJEJwcz8Z0AjHrFJQFRT1lNrmaXY+F09QdM8iUs/rHRKH7Tmrh8zZ84A0s07O1NtsvFe0MKW+sBveTv0ZDNr5drY09REVx0ifvZLloL1L2agk5xj3mUxIQ==;fUhFcnF+vt/uhRjZdWH+mw=="
 ---
 

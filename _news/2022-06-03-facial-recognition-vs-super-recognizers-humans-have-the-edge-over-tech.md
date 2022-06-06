@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/facial-recognition-vs-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/facial-recognition-vs-super-recognizers-humans-have-the-edge-over-tech-71654264799390.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Hindustan Times
@@ -44,15 +44,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Facing Facts On Facial Recognition"
-    excerpt: "Clearview AI’s multi-million pound fine for breaching privacy should mark a turning point for a public debate about surveillance levels. By Niel Jones"
-    publishedDateTime: 2022-06-01T13:18:00Z
-    webUrl: "https://www.cybersecurityintelligence.com/blog/facing-facts-on-facial-recognition--6326.html"
-    type: article
-    provider:
-      name: cybersecurityintelligence.com
-      domain: cybersecurityintelligence.com
-    quality: 19
 
 secured: "1qt9+DwuzyZNQJahibpNxJVNOZt5ZuUmDe/eNUAVni6rFUoU0DOdN+TaR5kqgi+QTOXJzs30J84RIJ2n82g7Qs8RwSDaH3YAK02yQObe0y/VT0BCrUsbmO9KxUqZRHobPhHaZs4UUhN6+D5p0mDTvLhzPJzXCZ7GH0Sqt1L9haHwaBuCnyh97gL3nfl0onLOZCQMUD7u8XbQFtJFJJzmg3cmeu44TG49cz3h8Ny8s3z7Ne+k1EVnMIYMD/uhHk0s55skoKDbnz0HopyAaQ+voUbh5eOWx99PWQu1yK4SMMzety9IbeFzvGJ86ozP+O4/yKaron8tQeplbJXz77b7SypwUnIUeO253HOe5dBUqa1JBWE2htDMiY4bUIV7TY86YYLwi79scT1yHXG+Z1C7tGTSugy1GXxXxJh6UuZaXVUjuG7cZdD+Y9nLya+EN+V0id8YjvkOpx8VYfde2ZHVkGqFi43u0wsuRFOzvhLCF7OPCvHcXLezbgSLoXOPLQaDrsoxIFAs76gGLY08PCTtQA==;7OQKlQcylFBe3vonOp0rdw=="
 ---
