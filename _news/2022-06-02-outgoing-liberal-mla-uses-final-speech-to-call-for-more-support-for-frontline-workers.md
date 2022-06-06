@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Reality check for AI before serving on climate change frontlines"
-    excerpt: "Tilda, a designer, will be presenting a handmade collection of 30 fashionwear created entirely from discarded and repurposed material in a metaverse store on World Environment Day on 5 June"
-    publishedDateTime: 2022-06-03T19:16:00Z
-    webUrl: "https://www.livemint.com/technology/reality-check-for-ai-before-serving-on-climate-change-frontlines-11654279825982.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 17
-
 secured: "lGUqO/US+GkHmHoC99czDZlK/yOLtJLoI3lx6MZTBs0IFtgJ8YBYOFzcUY1GeBJIBPA7jUdC8cK3UBqpQ8XojK57RO7OfCHRQAvKJ52/mNfg+k5CfcqU67PJ9rsbta8iwmcVyB43xdL7mH/yEMDAk8lD4s630a6GjQd4A8dE2Hiz+7T49vfZucTSoh/mGiomWtV2a270D7quzBGlaGtYEEOpSfQkBUeAwcSOMjLDlugvYe8Qagw3PL6xIBX4ApC6fzLT8eyALx7OYUlE4X2+CCzd4UHKhPToSqx7QgDouTNzxzI+oJdtCCoaKmgxQLdrP097O00B8UlbiKCNlasKLQoqc+nAUidvr2Bd+nlWESpHTaxVpT5ug+3g/cXxagrujfbXVaA6WN8Gk7Xnpy/WluXi4x7Xjp6VIUKRzFP8TpM5rZ+/DEtpHDoGOwgzqab/ykgu6tgUlUHDBoJQE6C2jS5q+1zfKAPWA9J1quhxjlZTjVj+OpqKHl7CAXV1NV02zYKr3nGHB2Xceiqd3JoUWA==;SgGPYSqpY/JR2BzLw8PbjQ=="
 ---
 

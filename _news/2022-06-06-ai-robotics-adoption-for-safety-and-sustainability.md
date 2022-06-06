@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Investing in healthcare AI a 'business necessity,' analyst says"
-excerpt: "Health systems need to invest in the future of data, such as artificial intelligence, to reduce errors and provide better care, a Forrester analyst says. \"Healthcare organizations have been attempting to leverage massive quantities of data to their advantage for years,"
-publishedDateTime: 2022-06-02T21:29:00Z
-originalUrl: "https://www.beckershospitalreview.com/ehrs/investing-in-healthcare-ai-a-business-necessity-analyst-says.html"
-webUrl: "https://www.beckershospitalreview.com/ehrs/investing-in-healthcare-ai-a-business-necessity-analyst-says.html"
+title: "AI, robotics adoption for safety and sustainability"
+excerpt: "Technology is key to the future of farming sustainability and shouldn’t be feared by growers and young people interested in starting a career in agriculture...Read More"
+publishedDateTime: 2022-06-06T03:09:00Z
+originalUrl: "https://www.graincentral.com/ag-tech/ai-robotics-adoption-for-safety-and-sustainability/"
+webUrl: "https://www.graincentral.com/ag-tech/ai-robotics-adoption-for-safety-and-sustainability/"
 type: article
-quality: 34
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Becker's Hospital Review
-  domain: beckershospitalreview.com
+  name: graincentral
+  domain: graincentral.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.graincentral.com/wp-content/uploads/2022/06/AgTech-event.png"
+    width: 1121
+    height: 807
+    isCached: true
 
 related:
   - title: "How AI brings accessibility and equity to healthcare"
@@ -35,20 +41,6 @@ related:
         width: 1198
         height: 546
         isCached: true
-  - title: "AI, robotics adoption for safety and sustainability"
-    excerpt: "Technology is key to the future of farming sustainability and shouldn’t be feared by growers and young people interested in starting a career in agriculture...Read More"
-    publishedDateTime: 2022-06-06T03:09:00Z
-    webUrl: "https://www.graincentral.com/ag-tech/ai-robotics-adoption-for-safety-and-sustainability/"
-    type: article
-    provider:
-      name: graincentral
-      domain: graincentral.com
-    quality: 69
-    images:
-      - url: "https://www.graincentral.com/wp-content/uploads/2022/06/AgTech-event.png"
-        width: 1121
-        height: 807
-        isCached: true
   - title: "How Artificial Intelligence is Shaping the Healthcare Industry"
     excerpt: "Artificial intelligence (AI) is enhancing the ability of healthcare professionals to better treat patients. Even though the term ‘artificial intelligence’ goes back to the 50s, it has gained more popularity in more recent years – all thanks to innovative technology and the power of advanced algorithms."
     publishedDateTime: 2022-06-02T15:30:00Z
@@ -63,7 +55,16 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Investing in healthcare AI a 'business necessity,' analyst says"
+    excerpt: "Health systems need to invest in the future of data, such as artificial intelligence, to reduce errors and provide better care, a Forrester analyst says. \"Healthcare organizations have been attempting to leverage massive quantities of data to their advantage for years,"
+    publishedDateTime: 2022-06-02T21:29:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/investing-in-healthcare-ai-a-business-necessity-analyst-says.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
-secured: "XuxlE8bATyOsPJXdboHPyW5qFg+BmrYfOsM1zgt7ntCi+H3iH7qj3p75Tj5pp4HBiGOwdF1gPbz/BMsFE+SW37v29vQwep/rxG15WA0JHidpsXNmSRPceCRZc1rCx/6C0MRJ27mF8fT3nE4oYbI1jAKc4JFC+QkXbtkjW7kHzDvidACSpBox3fHlIc81+tkMytza5+twrwK7jrjQMdj+3XH3QSHn8q0tD3Pgy5krB8HO3y0IGaPZamgdts6MgnN4dvmzOfPnLvGOOUzkQd0dnDInQ4cY2b5B60deyZNIRT5n9ZczLh+OdlG6Mt5HpmlWtbV5aDeVZWqkUW+nJ5/CmZoR6wFM31WNka/iPXgwwvI=;x3WmzoD1bsnB8TGi8qMCPQ=="
+secured: "/dYJBo7DSbRNuoadsQwZ3zQmbBySpBl8LMUFGJzA8ymrWgzkZT6MrbXHyX7gJqQTPfuhidMEQhSm1wT+z9OvKX9dKOG7ZUqnN6R+EB2olflGBGHnJL52kaUVqwlHj/1HxRAr7RQieCgKZfxz12roe/rErfJDXnrvLLuGY354I9z47Y4v8FoZoB/+rHkvEReBBAt9KIDYokhk/1B3dcuyHso5ydGfoYrVv7hpzev/2oLPfPIXZnQJtq8N9qz90/22XFHJGBy09suIb5ZzpLOEc7tXXSFOoIF1R50iQfsmJJH7K2po+de/s0R550lL5mmxh9G1JBgZxF2X/2NrTFFsaJ3g6GG8aTet7EtHfgsmW5M=;AyrgZwzYb6j4TXQ9w+ymFg=="
 ---
 

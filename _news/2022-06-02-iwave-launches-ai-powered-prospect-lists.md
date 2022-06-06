@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iwave
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iwave-launches-ai-powered-prospect-lists/article_a91e71ba-00cd-5476-a80c-8ef88d8a44dc.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nabd launches AI-powered personalized email newsletters"
-    excerpt: "Dubai: Nabd, the largest Arabic aggregator app and platform, is excited to announce the launch of its new Personalized Email Newsletter product, which provides opted-in subscribers a personalized daily news digest,"
-    publishedDateTime: 2022-06-01T09:12:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/nabd-launches-ai-powered-personalized-email-newsletters-pvt3302u"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 37
-    images:
-      - url: "https://static.zawya.com/version/c:MjMxODA3OWUtZjAwOC00:YWM5YTc3/picture1-jpg.jpg"
-        width: 900
-        height: 650
-        isCached: true
   - title: "iWave Launches AI Powered Prospect Lists"
     excerpt: "\"With the launch of Prospect Lists, we're putting the power of AI and big data behind every fundraising team and reimagining one of the most important steps in the donor funnel. Having the ability to identify strong donor candidates means that development ..."
     publishedDateTime: 2022-06-02T20:02:00Z

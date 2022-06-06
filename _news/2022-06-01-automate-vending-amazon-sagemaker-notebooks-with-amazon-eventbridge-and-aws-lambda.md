@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-vending-ama
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/"
 type: article
 quality: 98
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 811
     height: 441
     isCached: true
-
-related:
-  - title: "Can Sagemaker Studio Lab compete with Google Colab"
-    excerpt: "Having been around since 2014, Google Colab has become quite the developer kit staple – will SageMaker Studio Lab disrupt that?"
-    publishedDateTime: 2022-06-01T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/can-sagemaker-studio-lab-compete-with-google-colab/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Sagemaker-vs-google-colab-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "wDO9BEUzls2Ipyl8/VyR4RakIzD9+L9bvnwM4Isf3WwnpHcKSPx33qRPZNCYTSxijbMJX7s8LCdzEX7qtUijGhSsQTCqTSEOdk0+6l71cF7NpQvDeVL9lQuKdr8xaeF+mZX8bksZH+4TDIEZKCkQMG9NLiWbJXJ07aLXCbFL71a2iok+dtYijenVHMjZ7742q2Hf1eC28Y1wMm8sNIJAu/xQtArhsnSvfADKMpEs1e/q+dJetBEulpAZo/O0pOYwDB27Sxf1VXRrchlia+5hjd8x+Hr1BVwqJpXZr/Mnno2yT6eAlKfqThkD5LeuYjoEG2YhbP7Wg0ax7u3Q6WEQQ01nsCtCBd+AZ112z2cOEB0=;loEU4+AYSvixij7Gkoyhaw=="
 ---

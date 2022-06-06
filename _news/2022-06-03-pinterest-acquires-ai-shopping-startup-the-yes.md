@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Pinterest acquires AI shopping startup 'The Yes'"
-excerpt: "THE YES was founded in 2018 by CEO Julie Bornstein, an ecommerce and fashion industry veteran and CTO, Amit Aggarwal, a tech industry veteran."
-publishedDateTime: 2022-06-03T11:50:00Z
-originalUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
-webUrl: "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
-ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
-cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/pinterest-acquires-ai-shopping-startup-the-yes/91986699"
+excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum."
+publishedDateTime: 2022-06-03T11:18:00Z
+originalUrl: "https://www.thehansindia.com/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+webUrl: "https://www.thehansindia.com/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+ampWebUrl: "https://www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-91986699,imgsize-107315,width-1200,height-628,overlay-etbrandequity/pinterest-acquires-ai-shopping-startup-the-yes.jpg"
-    width: 1200
-    height: 628
+  - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540842-pintreset.jpg"
+    width: 500
+    height: 300
     isCached: true
 
 related:
@@ -130,6 +130,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "YeXFCtwaBB91A0GhK4Qv5TqI76T+KiwglKL2TBdk+yHbY/SRElmReWXu1DrMsaJsdQPQJErTmPwgJOktzRupfOAIBEQ5Cz9J3bItNVW00wOvzNwssJJuGAggGNLVTMpkwXXL9/vQJ4Izlf43O3DaIyGyafQ6vMfue0XWY2EEMFN/9H7Yj02lyiluVPg/mhaVrI/Xt+vieeISIg81YV+FPuKvRyGzng1vmpI57iBhKGoD48vFYaEcLgvKJOWrMeJntqLSJC1tnrkDoMRZGz59554m+g9xEPGjkrcsQa17pGClUZKwYZ6PjGGXzrAzmOhFz+GF6mD4SRBzJtPWPSyubUmJJHbq0Lh6F78+A54Sp07zNKCIUIvtfRdQaVVPDdQEnpgog0HM0olWcV+N0HjO1FEUK0rniB/qSLQvZPvZ95tsg1lXtgnHujh/aweIMBDttW6ywb6YpFl/waUWBmi8cN49KXGq6psAMriwzxNxMlyPsw44p3ZTrklnOgOKhH8kClZHsB5bHNY+Zyd2hIN7OA==;8YYpfSl0QBd3eFunQrux9Q=="
+secured: "NA5gv0CpsJwYA8IhTPO4XPcYJBCkEh1BK58CC4TBIBiPlsNxlNKdaUeraJQI9eLRO5ijV9mzgCYCZK2ff358vCRUvVvjLSQNdnYI3khU9BTFjgJEnVkz6Fddk8x3jq0AfyTDht8KC5bmOx3VW3eUwDhwZC23KCEbBuk4f5TLQcurWhtKwd9AEhfAmkDop880qMPkmzaL7LXIsse4bPKVrWpc0gRTebKmHrkP7G4NkHYG70X0Ho1sIgTsc6tGC7ifd5Ov4f4a1dPfdh07Qr0qkGM2K7+nl8IV30bf/1BCIJaeIlepciwd9V1er4oDaL+AzvHg2m8Ll1KMlFiUUwyzWHdiS71gJ9XjpTsjD+k/sFs=;IIJvkOjC0twrRD3jBgB+1g=="
 ---
 

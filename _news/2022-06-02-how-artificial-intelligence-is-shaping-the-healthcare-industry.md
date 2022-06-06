@@ -41,6 +41,20 @@ related:
         width: 1198
         height: 546
         isCached: true
+  - title: "AI, robotics adoption for safety and sustainability"
+    excerpt: "Technology is key to the future of farming sustainability and shouldn’t be feared by growers and young people interested in starting a career in agriculture...Read More"
+    publishedDateTime: 2022-06-06T03:09:00Z
+    webUrl: "https://www.graincentral.com/ag-tech/ai-robotics-adoption-for-safety-and-sustainability/"
+    type: article
+    provider:
+      name: graincentral
+      domain: graincentral.com
+    quality: 69
+    images:
+      - url: "https://www.graincentral.com/wp-content/uploads/2022/06/AgTech-event.png"
+        width: 1121
+        height: 807
+        isCached: true
   - title: "Investing in healthcare AI a 'business necessity,' analyst says"
     excerpt: "Health systems need to invest in the future of data, such as artificial intelligence, to reduce errors and provide better care, a Forrester analyst says. \"Healthcare organizations have been attempting to leverage massive quantities of data to their advantage for years,"
     publishedDateTime: 2022-06-02T21:29:00Z

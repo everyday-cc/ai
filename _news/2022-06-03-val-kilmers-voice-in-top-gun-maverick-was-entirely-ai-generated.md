@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI voices Val Kilmer in Top Gun: Maverick as actor had trouble speaking from throat cancer"
+    excerpt: "Maverick has broken barriers on its way into the stratosphere since the film launched into theatres in May. It had the highest-grossing opening weekend for a Tom Cruise-led film, proving that there is still a market"
+    publishedDateTime: 2022-06-06T02:43:00Z
+    webUrl: "https://www.asiaone.com/entertainment/ai-voices-val-kilmer-top-gun-maverick-actor-had-trouble-speaking-throat-cancer"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 27
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/60622_Topgun_Paramountpictures.jpg?itok=6Al4J1jt"
+        width: 800
+        height: 567
+        isCached: true
   - title: "That Voice You Briefly Hear From Val Kilmer In ‘Top Gun: Maverick’ Was Created Using AI Technology"
     excerpt: "Luke Skywalker. You can listen to a sample of the AI version of Kilmer’s voice below."
     publishedDateTime: 2022-06-01T22:41:00Z

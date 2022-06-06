@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI, robotics adoption for safety and sustainability"
+    excerpt: "Technology is key to the future of farming sustainability and shouldn’t be feared by growers and young people interested in starting a career in agriculture...Read More"
+    publishedDateTime: 2022-06-06T03:09:00Z
+    webUrl: "https://www.graincentral.com/ag-tech/ai-robotics-adoption-for-safety-and-sustainability/"
+    type: article
+    provider:
+      name: graincentral
+      domain: graincentral.com
+    quality: 69
+    images:
+      - url: "https://www.graincentral.com/wp-content/uploads/2022/06/AgTech-event.png"
+        width: 1121
+        height: 807
+        isCached: true
   - title: "How Artificial Intelligence is Shaping the Healthcare Industry"
     excerpt: "Artificial intelligence (AI) is enhancing the ability of healthcare professionals to better treat patients. Even though the term ‘artificial intelligence’ goes back to the 50s, it has gained more popularity in more recent years – all thanks to innovative technology and the power of advanced algorithms."
     publishedDateTime: 2022-06-02T15:30:00Z

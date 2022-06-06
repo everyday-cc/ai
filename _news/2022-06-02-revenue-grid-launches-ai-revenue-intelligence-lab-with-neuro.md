@@ -33,6 +33,20 @@ related:
       name: The Week
       domain: theweek.in
     quality: 50
+  - title: "e& unit launches Enterprise AI as a Service"
+    excerpt: "Enterprise AI as a Service is an end- to-end cloud offering for building, training, deploying, and managing AI and Machine Learning solutions"
+    publishedDateTime: 2022-06-06T03:27:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/e-and-unit-launches-enterprise-ai-as-a-service-vjxxmyy6"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 37
+    images:
+      - url: "https://static.zawya.com/version/c:OTE0ZDgxZWQtMGE2NC00:YTJiZDYy/evisionstarzplayacquisition-png.png"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "+B7yn7IfG5EX/gJXcjGqFEzAGK6Tcaz2HU9wRdkGxMwcrZ6vRw90AjEQpnUxLuUuMmWg3nsDz7F4NTpv2MSXqlp///bQGqDaLrkZv4DSQ52SsHe3e0ThY/FsFjjsD3q70spo3+kvy+8eYqyuddFBMW8LKV+fqvSU/98BfhDAO4uPCH6apwjVJVP992fBAUXesJMyZ5esjtIRD2u94cXTvUDEkGjQcCbnaQo5qvEcUfVYzVcE6eXOSOB3ybN6yquPJwqSySQgXtDAcMxmd5naxezW3xihEKbOqn7YGsUuBewWXYOYl+54RzsZiuEku+evJ+16ufR5vK8kq/xSTg8FkZKFjp3VGrSSFt/JxDuXjHY=;HZbz4mT7RtYhNdcCgo2mLg=="
 ---

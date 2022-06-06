@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Penny AI Raises $27 Million Series B to Accelerate the Transformation of Social Commerce Enablement Platforms"
-    excerpt: "Penny AI, a global leader in data-driven social commerce enablement, announced today a $27 million investment led by PSG, a growth equity firm partnering with software and technology-enabled services companies to help accelerate their growth,"
-    publishedDateTime: 2022-06-01T11:03:00Z
-    webUrl: "https://www.thedailytimes.com/business/penny-ai-raises-27-million-series-b-to-accelerate-the-transformation-of-social-commerce-enablement/article_9cd4a697-9b85-57fa-8ec5-6e0b3484164a.html"
-    type: article
-    provider:
-      name: thedailytimes
-      domain: thedailytimes.com
-    quality: 18
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/e/27/e27df829-3e53-551e-a677-84328efb9cc3/62974acd3d0ba.image.jpg?crop=1783%2C936%2C108%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Otome World Ain't a Picnic for an AI Either"
     excerpt: "The first thing I did after realizing I'd apparently become an AI was to create a humanoid body for myself. That's my story and there is no evidence to say otherwise"
     publishedDateTime: 2022-06-01T16:17:00Z

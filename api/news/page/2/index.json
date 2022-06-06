@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-03-rezoai-launches-a-game-changer-for-enterprises-fueling-sales-marketing-and-support-teams-to-boost-revenue-growth.md",
+      "title": "Rezo.AI launches a game-changer for Enterprises fueling Sales Marketing and Support teams to boost revenue growth",
+      "excerpt": "PTI takes no editorial responsibility for the same.) New Delhi, June 2, 2022: Rezo.ai, an AI-powered CX Cloud for enterprises that are transforming customer experience, improving agent productivity, and operationalizing real-time intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/wire-updates/business/2022/06/03/pwr9-rezo.ai.html",
+      "originalUrl": "https://www.theweek.in/wire-updates/business/2022/06/03/pwr9-rezo.ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/wire-updates/business/2022/06/03/pwr9-rezo.ai.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2022/06/03/pwr9-rezo.ai.amp.html",
+      "publishedDateTime": "2022-06-03T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-ai-weekly-defining-debating-and-honoring-ai-innovation.md",
       "title": "AI Weekly: Defining, debating and honoring AI innovation",
       "excerpt": "It's the beginning of Pride month. At VentureBeat, it's also the beginning of a six-week-long deep dive into AI innovation, culminating in our 4th annual AI Innovation Awards.",
@@ -10,7 +45,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -61,7 +96,7 @@
       "originalUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -114,7 +149,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1139,50 +1174,6 @@
         "AI",
         "Machine Learning",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-ai-and-ml-key-combatants-in-the-cyber-security-conflict.md",
-      "title": "AI and ML: Key combatants in the cyber security conflict",
-      "excerpt": "Artificial intelligence and its subset machine learning are now key technology partners in the search for improved and faster cyber security processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG",
-      "originalUrl": "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/vYkpjEzwFxX7WoWvv6pXqSmM-0Vy0whE8WTdxfaPH6QwmIIkCRCvWMwPnRKSXbjPfGVTQY5Ls6G5BZ5S9raS7ZY=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG",
-      "publishedDateTime": "2022-06-02T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Security"
       ]
     }
   ],

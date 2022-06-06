@@ -35,7 +35,7 @@ related:
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/bird.jpg?quality=75&strip=all&w=1024"
         width: 1024

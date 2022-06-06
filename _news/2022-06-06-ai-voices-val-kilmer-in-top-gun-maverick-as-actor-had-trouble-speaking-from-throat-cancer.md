@@ -1,26 +1,26 @@
 ---
 category: news
-title: "That Voice You Briefly Hear From Val Kilmer In ‘Top Gun: Maverick’ Was Created Using AI Technology"
-excerpt: "Luke Skywalker. You can listen to a sample of the AI version of Kilmer’s voice below."
-publishedDateTime: 2022-06-01T22:41:00Z
-originalUrl: "https://uproxx.com/movies/val-kilmer-top-gun-maverick-voice-ai-technology/"
-webUrl: "https://uproxx.com/movies/val-kilmer-top-gun-maverick-voice-ai-technology/"
+title: "AI voices Val Kilmer in Top Gun: Maverick as actor had trouble speaking from throat cancer"
+excerpt: "Maverick has broken barriers on its way into the stratosphere since the film launched into theatres in May. It had the highest-grossing opening weekend for a Tom Cruise-led film, proving that there is still a market"
+publishedDateTime: 2022-06-06T02:43:00Z
+originalUrl: "https://www.asiaone.com/entertainment/ai-voices-val-kilmer-top-gun-maverick-actor-had-trouble-speaking-throat-cancer"
+webUrl: "https://www.asiaone.com/entertainment/ai-voices-val-kilmer-top-gun-maverick-actor-had-trouble-speaking-throat-cancer"
 type: article
-quality: 23
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Uproxx
-  domain: uproxx.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI
 
 images:
-  - url: "https://uproxx.com/wp-content/uploads/2020/04/val-kilmer-iceman-feat.jpg?w=710"
-    width: 710
-    height: 400
+  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/60622_Topgun_Paramountpictures.jpg?itok=6Al4J1jt"
+    width: 800
+    height: 567
     isCached: true
 
 related:
@@ -40,19 +40,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI voices Val Kilmer in Top Gun: Maverick as actor had trouble speaking from throat cancer"
-    excerpt: "Maverick has broken barriers on its way into the stratosphere since the film launched into theatres in May. It had the highest-grossing opening weekend for a Tom Cruise-led film, proving that there is still a market"
-    publishedDateTime: 2022-06-06T02:43:00Z
-    webUrl: "https://www.asiaone.com/entertainment/ai-voices-val-kilmer-top-gun-maverick-actor-had-trouble-speaking-throat-cancer"
+  - title: "That Voice You Briefly Hear From Val Kilmer In ‘Top Gun: Maverick’ Was Created Using AI Technology"
+    excerpt: "Luke Skywalker. You can listen to a sample of the AI version of Kilmer’s voice below."
+    publishedDateTime: 2022-06-01T22:41:00Z
+    webUrl: "https://uproxx.com/movies/val-kilmer-top-gun-maverick-voice-ai-technology/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 27
+      name: Uproxx
+      domain: uproxx.com
+    quality: 23
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/60622_Topgun_Paramountpictures.jpg?itok=6Al4J1jt"
-        width: 800
-        height: 567
+      - url: "https://uproxx.com/wp-content/uploads/2020/04/val-kilmer-iceman-feat.jpg?w=710"
+        width: 710
+        height: 400
         isCached: true
   - title: "Val Kilmer's voice in 'Top Gun: Maverick' was entirely AI-generated"
     excerpt: "Actor Val Kilmer was able to star in the newly released Top Gun: Maverick thanks to Sonantic, which recreated his voice using AI."
@@ -82,6 +82,6 @@ related:
       domain: futurism.com
     quality: 7
 
-secured: "bJNe+iIJtI/L8XTCqNjUDz0MEJHFa6ILrjcUtFbk09bVce3qtnEarjHOqNzO3P8YPustbGSc8rpapt6Q1tsz6/RxH5PFXy3OLBtwzH6f7am00itU9j0athN/8XhaXCrjXZqPwe+Z3I/nJfULr1cI8FeXc7EVFxKAoXquayK/67VyczNTUYfz1kkIq/LKZ3iXlRTEQ93f8346WYG5mE/B01ZwmbsCF0z5xSJ652AHsIiAR0ebQgJD1bAMWeblpOygJjhgiokRzZtHgjUqsTRoEngWKK+N+2rOBsTKxTaL4GnreFB42vuyqFWOI2tJfeQD7tQh8tu1Ns6HtwgPHFKEYumKo3P4eTWfU+C8o62GZOS2YDqYguano7lHJbnyMDRmOWgcw2KxzkGJcH7hoVKEHh49lcxFfkwTXGfhL/9VTA2a6SBa9gTWJJ3MBewDYeBGiZqawFuNz2NI4OkwNujGjp0/68oPE4YiYX0K1gImwLR/zPDgj0qg0F7MQkRIb/44W5KVMBR0GT1oF/fxRonreQ==;05yozNXNxZFRqW9KN2kKQQ=="
+secured: "8mOvwJWtiPKrQJv1BDpKF4li3ViJq0Ibc1sHYqKMgLExWxAv1IuSTSoDgXrm16YabyppGvUmsklYk1tg0qig8aH58kc8kBG4A3FL50UVYZuaG3SEUxtdg5/z4fl+ThBWuWec6aa0f4nj059l8kDYMfT1VUTMCRwLLLv8fMIJFrRiK167ZOpz/ujSrmzEJyjBPCU0xMXf2TuBEONkoM3ljZX9OIE3oZ8RGWbCe6zjsAkPm4Exu/3Elnb/PVIEh3Nya0ThQzcyr3aC1M+tf1zbCMJJCb/HskPI6cvgloth6TBWfqlIAJ0DdpCMmJucHI6YnIB5GbUf9jy18cb9QQv5chk1sOS424h4z7dJYnudId8=;wvv7DFqWhr9DsCtPJc62kg=="
 ---
 

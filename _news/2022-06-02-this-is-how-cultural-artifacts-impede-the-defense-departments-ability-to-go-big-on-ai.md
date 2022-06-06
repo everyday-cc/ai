@@ -7,7 +7,7 @@ originalUrl: "https://www.govexec.com/defense/2022/06/how-cultural-artifacts-imp
 webUrl: "https://www.govexec.com/defense/2022/06/how-cultural-artifacts-impede-dod-ability-go-big-ai/367612/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Cultural Artifacts’ Are Keeping DOD From Going Big on AI"
-    excerpt: "Margarita Konaev, a security and defense fellow at the Atlantic Council and Georgetown University’s Center for Security and Emerging Technology, described the Defense Department’s implementation of AI was like “working on a common goal but,"
-    publishedDateTime: 2022-06-01T10:00:00Z
-    webUrl: "https://www.defenseone.com/technology/2022/06/how-cultural-artifacts-impede-dods-ability-go-big-ai/367552/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 37
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2022/05/31/052622_fcw_dvids_groen-1/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "This is How ‘Cultural Artifacts’ Impede the Defense Department's Ability to Go Big on AI"
     excerpt: "Margarita Konaev, a security and defense fellow at the Atlantic Council and Georgetown University’s Center for Security and Emerging Technology, described the Defense Department’s implementation of AI was like “working on a common goal but ..."
     publishedDateTime: 2022-06-05T12:47:00Z

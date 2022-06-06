@@ -49,22 +49,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 86
-  - title: "Standard Bank shows ‘it can be’ by using AI and analytics to improve customer service"
-    excerpt: "Africa’s largest financial institution, Standard Bank, is on a mission: to find ways to set itself apart so that the bank can meet its customer needs in today’s complex, ever-changing world. Operating in more than 20 countries in sub-Saharan Africa and globally,"
-    publishedDateTime: 2022-06-01T09:09:00Z
-    webUrl: "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/"
-    ampWebUrl: "https://www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp"
-    cdnAmpWebUrl: "https://www-cnbcafrica-com.cdn.ampproject.org/c/s/www.cnbcafrica.com/2022/standard-bank-shows-it-can-be-by-using-ai-and-analytics-to-improve-customer-service/amp"
-    type: article
-    provider:
-      name: CNBC Africa
-      domain: cnbcafrica.com
-    quality: 69
-    images:
-      - url: "https://dvqe78s2mxr8j.cloudfront.net/wp-content/uploads/2022/06/Standard-Bank_30-Baker-Street_Interior_2-1-820x389.jpg"
-        width: 820
-        height: 389
-        isCached: true
   - title: "Financial Analytics Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
     excerpt: "According to IMARC Group latest report titled \"Financial Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
     publishedDateTime: 2022-06-03T13:54:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Top 8 predictive analytics tools compared"
-    excerpt: "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot."
-    publishedDateTime: 2022-06-01T09:46:00Z
-    webUrl: "https://www.arnnet.com.au/article/698085/top-8-predictive-analytics-tools-compared/?fp=2&fpid=2"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 24
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/prediction_predict-the-future_crystal-ball_hand-holding-crystal-ball_by-arthur-ogleznev-via-unsplash-100811997-orig-100927909-orig.jpgautowebp8570"
-        width: 472
-        height: 315
         isCached: true
   - title: "Leveraging automation, AI and analytics to better compete in the digital economy"
     excerpt: "How are some organisations using automation, AI and analytics to enhance their business processes to win in the digital age?"

@@ -7,7 +7,7 @@ originalUrl: "https://www.gulf-times.com/story/718424/MoL-launches-new-e-service
 webUrl: "https://www.gulf-times.com/story/718424/MoL-launches-new-e-services"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,29 @@ images:
     isCached: true
 
 related:
+  - title: "Orange Business Services Launches AI Monitoring for IT Performance"
+    excerpt: "Orange Business Services is forging ahead in IT performance monitoring with the launch of Service Manage-Watch, a global supervision solution for network services and applications for both Orange-provided and third-party services."
+    publishedDateTime: 2022-06-02T02:46:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/25282-orange-business-services-launches-ai-monitoring-for-it-performance"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/6402d726ae0716c4f0f6748cfdd6e6b2.jpg?t=20220602_024427"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Reality check for AI before serving on climate change frontlines"
+    excerpt: "Tilda, a designer, will be presenting a handmade collection of 30 fashionwear created entirely from discarded and repurposed material in a metaverse store on World Environment Day on 5 June"
+    publishedDateTime: 2022-06-03T19:16:00Z
+    webUrl: "https://www.livemint.com/technology/reality-check-for-ai-before-serving-on-climate-change-frontlines-11654279825982.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 17
   - title: "Mol Launches New E-Services"
     excerpt: "The digital transformation will result in excellence in performance and speedy completion of transactions  <br/> <br/> <br/>"
     publishedDateTime: 2022-06-03T19:06:00Z
