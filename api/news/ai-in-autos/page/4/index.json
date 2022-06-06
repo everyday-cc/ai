@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-30-visionnav-robotics-raises-80m-in-c-round-leading-the-largest-funding-in-driverless-industrial-vehicles-field.md",
+      "title": "VisionNav Robotics Raises $80m in C+ Round, Leading the Largest Funding in Driverless Industrial Vehicles Field",
+      "excerpt": "Founded in 2016, VisionNav Robotics is now a leading company of driverless industrial vehicles. It is committed to applying artificial intelligence (AI), environmental perception, deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250117&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1250117&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1781506/image_5015562_22125589.jpg",
+          "width": 400,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-04-30-omaha-world-herald-inspired-living.md",
       "title": "Omaha World-Herald: Inspired Living",
       "excerpt": "Alphabet’s Waymo began offering driverless taxi services in Phoenix ... years invested heavily in autonomous driving and artificial intelligence technology, including automated personal ...",
@@ -1329,58 +1373,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-21T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-21-artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading.md",
-      "title": "Artificial Intelligence (AI) Market 2021 Witness Widespread Expansion of Industry Growth with leading",
-      "excerpt": "Moreover, developments such as self-driving cars, space exploration, accurate weather predictions, and other prominent developments are boosting the demand for artificial intelligence technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading-2022-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading-2022-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-21T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

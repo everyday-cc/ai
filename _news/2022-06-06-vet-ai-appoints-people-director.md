@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermedia.com/news/all/vet-ai-appoints-people-direc
 webUrl: "https://www.insidermedia.com/news/all/vet-ai-appoints-people-director"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaoice: Artificial intelligence assistants to outnumber people"
-    excerpt: "Harry Shum, chairman of Xiaoice and former executive vice-president of Microsoft, said just as Microsoft predicted in 1975 that everyone would have a personal computer in the future, the company believes that everyone will have a personal artificial intelligence assistant in the future."
-    publishedDateTime: 2022-06-06T01:12:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202206/06/WS629d546da310fd2b29e60cc8.html"
+  - title: "It’s Time For “People-Facing” AI"
+    excerpt: "Learn how leading organizations are unlocking the full potential of AI – and massive customer and seller engagement data sets – to improve sales performance by refocusing their design criteria on simplifying the seller experience and improving seller adoption and utilization."
+    publishedDateTime: 2022-06-06T20:06:00Z
+    webUrl: "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/amp/"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202206/06/629d5edba310fd2bec8d7645.jpeg"
-        width: 693
-        height: 462
+      - url: "https://imageio.forbes.com/specials-images/imageserve//629e5d98dfe70c6f1e93c9a0/0x0.jpg?format=jpg&crop=3250,1523,x0,y119,safe&width=1200"
+        width: 1200
+        height: 562
         isCached: true
 
 secured: "vVvW0OGJv+jdkgesMlGP4O7KxG22YhmryglffNL5WXeC8LUC5POSXf9m9sL0avU3W1Ve4jS0jtsCGqSWPBmikfnsut4e2wiWWcyUhbYG8mgPJy9IBA7hrHH/LbFy7dN2ywELHglhSsbIBJus/nDADqoJA3z8lm96NCusLgKvLIq9o7/7/OmQ936/3gLW9UU2x0r/+i1aAWlFRWJMAJ+Ivd76Ki0AeEGy1pY+UfKUd9b3fTXqZDmp6ocEgdBcaaAVOD2TBvyu9le5xm/vsm/DkWUsRi2XlLC3hYP4nLmF2gjgILfSlsSjzeRTwmDUyGK0BILXGKdADApwiBd+7KRJV8e+55jwlCvdA0WzROqxToU=;ADiyWJ3jNrWGzKBdfdxPig=="

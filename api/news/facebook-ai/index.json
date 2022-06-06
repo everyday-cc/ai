@@ -2,6 +2,215 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-07-its-time-for-people-facing-ai.md",
+      "title": "It’s Time For “People-Facing” AI",
+      "excerpt": "Learn how leading organizations are unlocking the full potential of AI – and massive customer and seller engagement data sets – to improve sales performance by refocusing their design criteria on simplifying the seller experience and improving seller adoption and utilization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629e5d98dfe70c6f1e93c9a0/0x0.jpg?format=jpg&crop=3250,1523,x0,y119,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/amp/",
+      "publishedDateTime": "2022-06-06T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-meta-shakes-up-ai-unit-amid-drive-for-growth.md",
+      "title": "Meta Shakes Up AI Unit Amid Drive for Growth",
+      "excerpt": "AI hubs will become part of product groups as a way of turning research into business assets more quickly, and in line with the company’s metaverse aspirations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
+      "originalUrl": "https://www.wsj.com/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-558336/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
+      "publishedDateTime": "2022-06-06T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-embedded-ai-rise-of-the-intelligent-device.md",
+      "title": "Embedded AI: Rise of the intelligent device",
+      "excerpt": "For the most part, embedded AI will work behind the scenes, quietly working out system hiccups that would otherwise go unnoticed. It might lend some support to more flashy applications like natural language processing and intelligent analytics,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/",
+      "originalUrl": "https://venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1168105746-e1654107730283.jpg?fit=800%2C475&strip=all",
+          "width": 799,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/amp/",
+      "publishedDateTime": "2022-06-06T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-how-ai-helps-coca-cola-boost-supply-chain-procurement.md",
+      "title": "How AI helps Coca-Cola boost supply chain procurement",
+      "excerpt": "Artificial intelligence and machine learning tools have become indispensable in order to boost procurement and sourcing efforts at Coca-Cola and other enterprise companies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/",
+      "originalUrl": "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/coke_supply_chain.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/",
+      "publishedDateTime": "2022-06-06T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-roadblocks-to-getting-real-time-ai-right.md",
       "title": "Roadblocks to getting real-time AI right",
       "excerpt": "Specialized hedge funds and big-name AI players – like Google and Facebook – make use of real ... This makes transitions from research to production expensive and labor-intensive.",
@@ -1244,178 +1453,6 @@
         "AI in Healthcare",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-facebook-ai-and-a-less-friendly-news-feed.md",
-      "title": "Facebook, AI, and a less friendly news feed",
-      "excerpt": "... company’s main competitive response to TikTok will be to change the way that Facebook and Instagram news feeds function, relying more heavily on artificial intelligence to select and promote the content that features in users’ news feeds. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cjr.org/the_media_today/facebook-ai-and-a-less-friendly-news-feed.php",
-      "originalUrl": "https://www.cjr.org/the_media_today/facebook-ai-and-a-less-friendly-news-feed.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-05T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Columbia Journalism Review",
-        "domain": "cjr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-facebooks-parent-developed-a-new-ai-language-model-now-its-giving-it-away-for-research.md",
-      "title": "Facebook's Parent Developed A New AI Language Model — Now It's Giving It Away For Research",
-      "excerpt": "Facebook parent Meta Platforms Inc (NASDAQ ... Recently, Meta CEO Mark Zuckerberg said that the company is working on AI research to allow people to have more natural conversations with voice ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/05/26982582/facebooks-parent-developed-new-artificial-intelligence-language-now-its-giving-it-away",
-      "originalUrl": "https://www.benzinga.com/news/22/05/26982582/facebooks-parent-developed-new-artificial-intelligence-language-now-its-giving-it-away",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/05/04/markus-spiske-8oykwqgbskq-unsplash.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26982582",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26982582",
-      "publishedDateTime": "2022-05-04T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers.md",
-      "title": "Facebook-owner Meta makes AI large language model accessible for more researchers",
-      "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/meta.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/lite/",
-      "publishedDateTime": "2022-05-03T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
-      "title": "Facebook-owner Meta opens access to AI large language model",
-      "excerpt": "May 3 (Reuters) - Facebook-owner Meta Platforms Inc (FB.O) is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/06/03/artificial-intelligence-spotted-invent
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Do AI systems really have their own secret language?"
+    excerpt: "Vicootes’, ‘wa ch zod rea’ and other strings of gibberish seem to have special meanings to state-of-the-art AI models. What’s going on here?"
+    publishedDateTime: 2022-06-06T20:01:00Z
+    webUrl: "https://theconversation.com/do-ai-systems-really-have-their-own-secret-language-184335"
+    ampWebUrl: "https://theconversation.com/amp/do-ai-systems-really-have-their-own-secret-language-184335"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/do-ai-systems-really-have-their-own-secret-language-184335"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 57
+    images:
+      - url: "https://images.theconversation.com/files/467100/original/file-20220606-20-1noqrh.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=319&fit=crop"
+        width: 320
+        height: 319
+        isCached: true
   - title: "An Image Generation AI Created Its Own Secret Language But Skynet Says No Worries"
     excerpt: "We've playfully referenced Skynet probably a million times over the years (or thereabout), and it's always been in jest pertaining to some kind of deep learning development or achievement. We're hoping that turns out to be the case again,"
     publishedDateTime: 2022-06-03T15:59:00Z

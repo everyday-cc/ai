@@ -2,6 +2,60 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-03-the-rise-of-artificial-intelligence-will-robots-actually-replace-people.md",
+      "title": "The Rise Of Artificial Intelligence: Will Robots Actually Replace People?",
+      "excerpt": "Robots and artificial intelligence (AI) are expected to permeate our daily lives by 2025. This could have huge implications on several business sectors, most notably health care, customer service, and logistics. Already, AI is responsible for medical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
+      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e432e1ba854780006b10cf4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashleystahl/2022/05/03/the-rise-of-artificial-intelligence-will-robots-actually-replace-people/amp/",
+      "publishedDateTime": "2022-05-03T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-marketbeat-podcast-investing-in-innovation-robotics-ai-and-healthcare.md",
       "title": "MarketBeat Podcast: Investing In Innovation, Robotics, AI and Healthcare",
       "excerpt": "In today's show, Kate chats with Bill Studebaker, president and chief investment officer at ROBO Global ETFs, an index, advisory, and research company focused on fast-growing industries including robotics, artificial intelligence, and healthcare technology.",
@@ -1301,49 +1355,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-a-model-to-improve-robots-ability-to-hand-over-objects-to-humans.md",
-      "title": "A model to improve robots' ability to hand over objects to humans",
-      "excerpt": "For decades, researchers worldwide have been trying to develop robots that can efficiently assist humans and work alongside them as they tackle a variety of everyday tasks. To do this effectively, however,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.html",
-      "originalUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-model-to-improve-rob.jpg",
-          "width": 2040,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-robots-ability-humans.amp",
-      "publishedDateTime": "2022-04-26T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

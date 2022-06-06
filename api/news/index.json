@@ -2,6 +2,207 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-07-axons-taser-drone-plans-prompt-ai-ethics-board-resignations.md",
+      "title": "Axon’s Taser Drone Plans Prompt AI Ethics Board Resignations",
+      "excerpt": "A majority of Axon’s AI ethics board resigned in protest yesterday, following an announcement last week that the company planned to equip drones with Tasers and cameras as a way to end mass shootings in schools. The company backed down on its proposal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
+      "originalUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/629e51d2726e817487080861/master/pass/business-axon-drone-wired.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/taser-drone-axon-ai-ethics-board/amp",
+      "publishedDateTime": "2022-06-06T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-its-time-for-people-facing-ai.md",
+      "title": "It’s Time For “People-Facing” AI",
+      "excerpt": "Learn how leading organizations are unlocking the full potential of AI – and massive customer and seller engagement data sets – to improve sales performance by refocusing their design criteria on simplifying the seller experience and improving seller adoption and utilization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629e5d98dfe70c6f1e93c9a0/0x0.jpg?format=jpg&crop=3250,1523,x0,y119,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/amp/",
+      "publishedDateTime": "2022-06-06T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas.md",
+      "title": "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas",
+      "excerpt": "Retail businesses are data-driven—they analyze data to get insights about consumer behavior, understand shopping trends, make product recommendations, optimize websites, plan for inventory, and forecast sales. A common approach for sales forecasting is to use historical sales data to predict future demand.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T12:23:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-meta-shakes-up-ai-unit-amid-drive-for-growth.md",
+      "title": "Meta Shakes Up AI Unit Amid Drive for Growth",
+      "excerpt": "AI hubs will become part of product groups as a way of turning research into business assets more quickly, and in line with the company’s metaverse aspirations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
+      "originalUrl": "https://www.wsj.com/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-558336/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470",
+      "publishedDateTime": "2022-06-06T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-embedded-ai-rise-of-the-intelligent-device.md",
       "title": "Embedded AI: Rise of the intelligent device",
       "excerpt": "For the most part, embedded AI will work behind the scenes, quietly working out system hiccups that would otherwise go unnoticed. It might lend some support to more flashy applications like natural language processing and intelligent analytics,",
@@ -10,7 +211,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -50,7 +251,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -302,7 +504,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -341,7 +543,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -543,6 +746,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-06-an-artificial-intelligence-pilots-a-modern-mayflower-to-canada.md",
+      "title": "An artificial intelligence pilots a modern Mayflower to Canada.",
+      "excerpt": "The robot ship designed by IBM was meant to dock in Massachusetts, but mechanical trouble forced it to dock in Halifax, Canada. The ship didn't have a crew.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada",
+      "originalUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/02694ec/2147483647/strip/true/crop/2800x1576+0+145/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F06%2F02%2Funtitled-12-edit_custom-03b26b91cc9401b9e284abc36b6d11aa03e1eebc.jpg",
+          "width": 430,
+          "height": 242,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada?_amp=true",
+      "cdnAmpWebUrl": "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada?_amp=true",
+      "publishedDateTime": "2022-06-06T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boise State Public Radio",
+        "domain": "boisestatepublicradio.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve.md",
       "title": "AI translates maths problems into code to make them easier to solve",
       "excerpt": "An artificial intelligence that can turn mathematical concepts written in English into a formal proving language for computers could make problems easier for other AIs to solve",
@@ -726,21 +972,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-06-exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign.md",
-      "title": "EXCLUSIVE Axon halts Taser drone work as most of its ethics panel said to resign",
-      "excerpt": "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel.",
+      "path": "_news/2022-06-06-val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak.md",
+      "title": "Val Kilmer’s Top Gun: Maverick dialog was all AI since he can no longer speak",
+      "excerpt": "An interview with Val Kilmer's daughter revealed that he used a special voice AI to bring Iceman to life in Top Gun: Maverick.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055",
-      "originalUrl": "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055",
+      "webUrl": "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/",
+      "originalUrl": "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/0BNS6N-mG3uSH0JDp4dlNoBKSXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BTQXZ7O7GFIHNPLLWC75HAR5ZQ.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://bgr.com/wp-content/uploads/2022/06/val-kilmer-as-iceman-in-top-gun-maverick.jpg?quality=82&strip=all",
+          "width": 1920,
+          "height": 1031,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -748,23 +994,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T22:15:00-07:00",
+      "ampWebUrl": "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/amp/",
+      "publishedDateTime": "2022-06-05T21:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -773,7 +1010,6 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -941,7 +1177,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-one-thing-every-board-member-asks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -980,251 +1216,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-how-ai-could-help-predictand-avoidsports-injuries-boost-performance.md",
-      "title": "How AI Could Help Predict—and Avoid—Sports Injuries, Boost Performance",
-      "excerpt": "Computer vision, the technology behind facial recognition, will change the game in real-time analysis of athletes and sharpen training prescriptions, analytics experts say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_listc_pos3",
-      "originalUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_listc_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-555376/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
-      "publishedDateTime": "2022-06-04T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-to-evolve-ai-must-face-its-limitations.md",
-      "title": "To evolve, AI must face its limitations",
-      "excerpt": "And let’s face it: although not perfect, AI’s capabilities are pretty impressive. Even something as seemingly simple and routine as a Google search represents one of AI’s most successful examples, capable of searching vastly more information at a vastly greater rate than humanly possible and consistently providing results that are (at least most of the time) exactly what you were looking for.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
-      "originalUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-technical-training-for-school-students-to-promote-robotics-ai.md",
-      "title": "Technical Training For School Students To Promote Robotics, AI",
-      "excerpt": "Learning curves have drastically shifted for school students in the past 2.5 years, owing to the Covid-19 induced challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "originalUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/06/04/1296068-training.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
-      "publishedDateTime": "2022-06-04T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-what-hugging-face-and-microsofts-collaboration-means-for-applied-ai.md",
-      "title": "What Hugging Face and Microsoft’s collaboration means for applied AI",
-      "excerpt": "What happens when one of the biggest cloud and enterprise software players teams up with a leading hub for transformer models?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
-      "originalUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FHugging-Face-Microsoft.jpg&signature=137aa33a60ae3a08c1badc772b43d00e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-mumbai-based-fintech-kiyaai-launches-indias-first-banking-metaverse-kiyaverse.md",
-      "title": "Mumbai-Based Fintech Kiya.ai Launches India’s First Banking Metaverse ‘Kiyaverse’",
-      "excerpt": "Kiya.ai has launched India’s first banking Metaverse, Kiyaverse, which will be used by banks and NBFCs to enable virtual interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
-      "originalUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/06/Kiyaverse-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
-      "publishedDateTime": "2022-06-04T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

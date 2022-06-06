@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-06-reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas.md",
+      "title": "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas",
+      "excerpt": "Retail businesses are data-driven—they analyze data to get insights about consumer behavior, understand shopping trends, make product recommendations, optimize websites, plan for inventory, and forecast sales. A common approach for sales forecasting is to use historical sales data to predict future demand.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T12:23:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-neural-networks-dont-work-like-the-human-brain-because-they-learn-differently.md",
       "title": "Neural networks don’t work like the human brain because they ‘learn’ differently",
       "excerpt": "We’re told neural networks ‘learn’ the way humans do. A neuroscientist explains why that’s not the case — and why AI can't think like us yet.",
@@ -1308,50 +1353,6 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
-      "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png",
-          "width": 1500,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
         "AI in Finance"
       ]
     }

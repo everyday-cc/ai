@@ -2,6 +2,444 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-03-20-siemens-energy-chooses-razor-labs-datamind-ai-for-increased-efficiency-utilizing-deep-learning.md",
+      "title": "Siemens Energy Chooses Razor Labs' DATAMIND AI For Increased Efficiency Utilizing Deep Learning",
+      "excerpt": "Razor Labs, a leading developer of AI solutions for industrial manufacturing processes, today announced that  Siemens Energy has selected Razor Labs to implement a pilot at its O&M site in Israel, for the station’s cooling system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/march-2022/siemens-energy-razor-labs-datamind-ai-learning",
+      "originalUrl": "https://www.automation.com/en-us/articles/march-2022/siemens-energy-razor-labs-datamind-ai-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/72785a7c-db29-4846-ae17-b65d6be3000f/Deep-learning-news-March-18-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-dubai-eyes-the-future-with-self-driving-cabs.md",
+      "title": "Dubai eyes the future with self-driving cabs",
+      "excerpt": "aims to overhaul the taxi sector by employing artificial intelligence and smart systems. And as a step towards that, the RTA has already begun laying the groundwork by signing a partnership agreement with General Motors-backed Cruise to run driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/dubai-eyes-the-future-with-self-driving-cabs-vhunr4g0",
+      "originalUrl": "https://www.zawya.com/en/business/dubai-eyes-the-future-with-self-driving-cabs-vhunr4g0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:M2I5MjZmOWEtMjAyMS00:ZDczZWZj/210412111336zrvz-jpg.jpg",
+          "width": 3508,
+          "height": 2480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-19T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-poor-ai-has-to-suffer-listening-to-people-describing-their-drug-experiences.md",
+      "title": "Poor AI Has To Suffer Listening to People Describing Their Drug Experiences",
+      "excerpt": "Two researchers and psychiatrists published research about taken from an AI's interpretation of almost 7,000 psychedelic trip reports written by users.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/neoscope/ai-trip-reports-drugs",
+      "originalUrl": "https://futurism.com/neoscope/ai-trip-reports-drugs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/03/ai-trip-reports-psychedelics-600x315.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/ai-trip-reports-drugs/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-trip-reports-drugs/amp",
+      "publishedDateTime": "2022-03-19T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-chinas-driverless-delivery-startup-whale-dynamic-targets-us-market-with-25m-funding.md",
+      "title": "China’s driverless delivery startup Whale Dynamic targets US market with $2.5M funding",
+      "excerpt": "A nascent Nuro challenger from China has its sight set on the delivery market in the US and has just raised some seed funding to advance its ambitions. Whale Dynamic, a Shenzhen-based autonomous delivery startup founded by Baidu veteran David Chang,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/19/whale-dynamics-autonomous-delivery-2-5-million/",
+      "originalUrl": "https://techcrunch.com/2022/03/19/whale-dynamics-autonomous-delivery-2-5-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/4951647682802_.pic_hd.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/19/whale-dynamics-autonomous-delivery-2-5-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/19/whale-dynamics-autonomous-delivery-2-5-million/amp/",
+      "publishedDateTime": "2022-03-19T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-ai-can-help-historians-unravel-ancient-texts.md",
+      "title": "AI can help historians unravel ancient texts",
+      "excerpt": "The study, done by Thea Sommerschield of the University of Venice, and DeepMind Research Scientist Yannis Assael, was peer-reviewed and published in Nature, one of the world's most widely read and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/archaeology/article-701716",
+      "originalUrl": "https://www.jpost.com/archaeology/article-701716",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/499764",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/archaeology/article-701716/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/archaeology/article-701716/amp",
+      "publishedDateTime": "2022-03-19T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-daos-will-never-develop-above-their-present-state-without-the-help-of-robots.md",
+      "title": "DAOs will never develop above their present state without the help of robots",
+      "excerpt": "DAOs (decentralized autonomous organizations) are already transforming the world by empowering significant groups of individuals to make autonomous choices. These groups are reducing the need for centralized management teams,",
+      "sourceUrl": null,
+      "webUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/",
+      "originalUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tokeneo.com/uploads/2022/03/AI.jpg",
+          "width": 640,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/amp/",
+      "cdnAmpWebUrl": "https://tokeneo-com.cdn.ampproject.org/c/s/tokeneo.com/daos-will-never-develop-above-their-present-state-without-the-help-of-robots/amp/",
+      "publishedDateTime": "2022-03-18T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tokeneo",
+        "domain": "tokeneo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-neuro-symbolic-ai-could-provide-machines-with-common-sense.md",
+      "title": "Neuro-symbolic AI could provide machines with common sense",
+      "excerpt": "Machines could plan their actions based on mental representations of the world they develop through intuitive physics and neuro-symbolic AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
+      "originalUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1341811309-e1647616199862.jpg?fit=800%2C500&strip=all",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/18/neuro-symbolic-ai-could-provide-machines-with-common-sense/amp/",
+      "publishedDateTime": "2022-03-18T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-what-to-know-about-robotic-surgery.md",
+      "title": "What to Know About Robotic Surgery",
+      "excerpt": "Keep in mind that your doctor is always in control of the robot. It only does what the surgeon directs it to do and can’t make decisions on its own. Doctors need training to use robotic surgery ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.webmd.com/a-to-z-guides/robotic-surgery-what-know",
+      "originalUrl": "https://www.webmd.com/a-to-z-guides/robotic-surgery-what-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WebMD",
+        "domain": "webmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-artificial-intelligence-paves-the-way-to-discovering-new-rare-earth-compounds.md",
+      "title": "Artificial intelligence paves the way to discovering new rare-earth compounds",
+      "excerpt": "Artificial intelligence advances how scientists explore materials. Researchers trained a machine-learning (ML) model to assess the stability of rare-earth compounds. The framework they developed builds on current state-of-the-art methods for experimenting with compounds and understanding chemical instabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220318161444.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220318161444.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships.md",
+      "title": "Upstart presents free webinar on leveraging AI and fintech partnerships!",
+      "excerpt": "Upstart is partnering with AgFed to bring you a free webinar this Wednesday, on how credit unions can leverage AI and fintech partnerships to expand into new product lines and grow their membership. This virtual event features Jeff Keltner,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/press-release/upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships/",
+      "originalUrl": "https://www.cuinsight.com/press-release/upstart-presents-free-webinar-on-leveraging-ai-and-fintech-partnerships/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png",
+          "width": 792,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Credit Union Insight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-19-heres-how-americans-view-facial-recognition-and-driverless-cars.md",
       "title": "Here's how Americans view facial recognition and driverless cars",
       "excerpt": "In recent years, the proliferation of artificial intelligence has given the world ... More people say it's a good idea than not. Driverless cars? Not so much. The survey focused on six questions ...",
@@ -638,462 +1076,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-modern-intelligence-raises-5m-in-seed-funding.md",
-      "title": "Modern Intelligence Raises $5M In Seed Funding",
-      "excerpt": "Modern Intelligence, an Austin, Texas-based AI startup focused on the defense sector, raised $5m in seed funding",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/03/modern-intelligence-raises-5m-in-seed-funding.html",
-      "originalUrl": "https://www.finsmes.com/2022/03/modern-intelligence-raises-5m-in-seed-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/03/image-37.jpeg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws.md",
-      "title": "Dataiku's No-Code Cloud Stack Accelerator Is Now Available on AWS",
-      "excerpt": "Dataiku, the platform for Everyday AI, today unveiled the Dataiku cloud stack accelerator on Amazon Web Services (AWS) — a… | London | Technology | Technology |",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2022/03/18/dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws",
-      "originalUrl": "https://bdaily.co.uk/articles/2022/03/18/dataikus-no-code-cloud-stack-accelerator-is-now-available-on-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/iFJg6ldR3QdXTRrS0MWiI9D6hovcMvFg4IW9okwb.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=3986c8ad3f1bbc4e1be11c102d82efb8",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-how-machine-learning-and-edge-computing-power-sustainability.md",
-      "title": "How Machine Learning And Edge Computing Power Sustainability",
-      "excerpt": "Less work. Less electricity used. That’s the sustainability power of edge computing and machine learning, and we’re just getting started.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6233402bd6429ea2350435ec/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/18/how-machine-learning-and-edge-computing-power-sustainability/amp/",
-      "publishedDateTime": "2022-03-18T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-expertai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech.md",
-      "title": "Expert.ai Takes Top Honors in FinTech Breakthrough Awards for \"Best Use of AI in FinTech\"",
-      "excerpt": "the leader in artificial intelligence (AI) for language understanding, has been named the winner in the 6 th Annual FinTech Breakthrough Awards for \"Best Use of AI in FinTech.\" Attracting nearly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26196779/expert-ai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26196779/expert-ai-takes-top-honors-in-fintech-breakthrough-awards-for-best-use-of-ai-in-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26196779",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26196779",
-      "publishedDateTime": "2022-03-18T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-poll-shows-americans-optimism-toward-ai-and-and-facial-recognitionbut-brain-implants-not-so-much.md",
-      "title": "Poll Shows Americans’ Optimism Toward AI And And Facial Recognition—But Brain Implants? Not So Much",
-      "excerpt": "like chips implanted in the brain and driverless vehicles. Output of an artificial intelligence system from Google Vision, performing facial recognition on a ... [+] photograph of a man ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
-      "originalUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62335e6539b745afd96e9434/0x0.jpg?format=jpg&crop=3421,1924,x0,y172,safe&fit=crop",
-          "width": 3421,
-          "height": 1924,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2022/03/17/poll-shows-americans-optimism-toward-ai-and-and-facial-recognition---but-brain-implants-not-so-much/amp/",
-      "publishedDateTime": "2022-03-18T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-google-uses-deep-learning-to-design-faster-smaller-ai-chips.md",
-      "title": "Google uses deep learning to design faster, smaller AI chips",
-      "excerpt": "Googlers and UC Berkeley academics say they have devised a way to use artificial intelligence to design faster and smaller chips that accelerate artificial intelligence. In a note shared on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
-      "originalUrl": "https://www.theregister.com/2022/03/18/google_deep_learning_chip_design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/10/08/shutterstock_ai_chip_design.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/18/google_deep_learning_chip_design/",
-      "publishedDateTime": "2022-03-17T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi.md",
-      "title": "AI Startup Aibee Becomes Unicorn With Fresh Funds From Xiaomi",
-      "excerpt": "Aibee, a Chinese artificial intelligence startup, is getting fresh funding from smartphone maker Xiaomi Corp, which propels its valuation to more than $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-03-18/ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-03-18/ai-startup-aibee-becomes-unicorn-with-fresh-funds-from-xiaomi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivTtsHgCl1wk/v1/1200x859.png",
-          "width": 1200,
-          "height": 859,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-speech-recognition-software-helps-tibetans-communicate-better.md",
-      "title": "Speech recognition software helps Tibetans communicate better",
-      "excerpt": "CHENGDU: When away from home, Gerong, who speaks only Kamba Tibetan, a Tibetan dialect, often found himself in awkward situa­tions where few people could understand him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/03/18/speech-recognition-software-helps-tibetans-communicate-better",
-      "originalUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/03/18/speech-recognition-software-helps-tibetans-communicate-better",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-combining-afm-and-deep-learning-to-improve-nanomanipulation.md",
-      "title": "Combining AFM and Deep Learning to Improve Nanomanipulation",
-      "excerpt": "Deep learning algorithms contribute to artificial intelligence (AI) – computer processes that do not need constant user input to yield results. They instruct computers to process data and learn from it (known as training the algorithm) to inform their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azonano.com/article.aspx?ArticleID=6047",
-      "originalUrl": "https://www.azonano.com/article.aspx?ArticleID=6047",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1otjdv2bf0507.cloudfront.net/images/Article_Images/ImageForArticle_6047_16475098610109717.jpg",
-          "width": 1000,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azonano.com/amp/article.aspx?ArticleID=6047",
-      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/article.aspx?ArticleID=6047",
-      "publishedDateTime": "2022-03-17T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZoNano",
-        "domain": "azonano.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-startup-quadric-secures-21m-to-advance-its-disruptive-edge-ai-platform.md",
-      "title": "Startup Quadric Secures $21M to Advance Its Disruptive Edge AI platform",
-      "excerpt": "Quadric, the company building high-performance edge processing platform optimized for on-device AI at the network edge, this week announced a $21M Series B funding round. NSITEXE, a group company of a leading mobility supplier DENSO,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/investments-and-expansions/23729-startup-quadric-secures-21m-to-advance-its-disruptive-edge-ai-platform",
-      "originalUrl": "https://www.thefastmode.com/investments-and-expansions/23729-startup-quadric-secures-21m-to-advance-its-disruptive-edge-ai-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/739d77f9a9c67df18cdb344cc13ccf05.jpg?t=20220318_004635",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

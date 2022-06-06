@@ -9,8 +9,8 @@ ampWebUrl: "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intel
 cdnAmpWebUrl: "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Boise State Public Radio
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "An artificial intelligence pilots a modern Mayflower to Canada."
+    excerpt: "The robot ship designed by IBM was meant to dock in Massachusetts, but mechanical trouble forced it to dock in Halifax, Canada. The ship didn't have a crew."
+    publishedDateTime: 2022-06-06T18:10:00Z
+    webUrl: "https://www.kalw.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
+    quality: 19
   - title: "Tech update: Combating food insecurity with AI and crickets, and Canada’s top AI ventures"
     excerpt: "Many families are starting to worry about how they can put food on the table. Protein costs are skyrocketing. There has been unprecedented growth in global meat consumption. In Canada, prices of traditional proteins like beef have risen by almost $3 per kilogram."
     publishedDateTime: 2022-06-02T19:15:00Z

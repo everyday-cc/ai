@@ -2,6 +2,490 @@
   "page": 135,
   "value": [
     {
+      "path": "_news/2022-02-10-mphasis-goes-all-in-on-cloud-technology.md",
+      "title": "Mphasis goes all in on cloud technology",
+      "excerpt": "Mumbai, Mphasis (BSE: 526299; NSE: MPHASIS), an information technology (IT) solutions provider specializing in cloud and cognitive ... and Microsoft Azure • Advisor & Stock Plan Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/91383/mphasis-goes-all-in-on-cloud-technology",
+      "originalUrl": "https://www.finextra.com/pressarticle/91383/mphasis-goes-all-in-on-cloud-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-sony-ais-first-project-can-drive-circles-around-you.md",
+      "title": "Sony AI's First Project Can Drive Circles Around You",
+      "excerpt": "Sony AI, a research and development division of the multimedia giant, has had its first AI breakthrough, and it makes the rest of us look like Sunday drivers. Called Gran Turismo Sophy, the AI was trained by Gran Turismo 7's hyper-realistic simulated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
+      "originalUrl": "https://www.gamespot.com/articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1640/16407182/3938443-granturismo73.png",
+          "width": 1918,
+          "height": 1073,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-ai-first-project-can-drive-circles-around-you/1100-6500488/",
+      "publishedDateTime": "2022-02-09T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-the-campaign-against-irs-use-of-facial-recognition-is-a-model-for-digital-activism.md",
+      "title": "The campaign against IRS use of facial recognition is a model for digital activism",
+      "excerpt": "Likes Werner Herzog films and Arsenal FC. Digital activists can celebrate a memorable victory after the IRS ditched a controversial facial recognition system. The agency had planned to use third ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-tech-activism-can-work",
+      "originalUrl": "https://thenextweb.com/news/irs-facial-recognition-reversal-shows-tech-activism-can-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FUntitled-design-3.jpg&signature=42e3c8ee5d842e1747b4a6479bf4aeb1",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-navrina-singh-founded-credo-ai-to-align-ai-with-human-values.md",
+      "title": "Navrina Singh Founded Credo AI To Align AI With Human Values",
+      "excerpt": "“We are already generating revenue. As an early state start-up, I'm a huge believer in commending our lighthouse customers and our design partners who are those AI first ethics forward companies,” says Singh. Credo AI’s customers are primarily among ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6203e02ea9ce90ee549e7ae6/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/09/navrina-singh-founds-credo-ai-to-align-ai-with-human-values/amp/",
+      "publishedDateTime": "2022-02-09T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-autox-hits-1000-vehicles-milestone-for-its-robo-taxi-fleet-in-china.md",
+      "title": "AutoX hits 1,000 vehicles milestone for its Robo Taxi fleet in China",
+      "excerpt": "In a press statement, the company also states that it has also opened a new Robo Taxi operations center in San Francisco in the United States, to expand self-driving vehicle testing ... vehicle industry leaders like Baidu, Waymo which are both yet to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
+      "originalUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/02/auto-x.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/02/09/autox-1000-vehicles-milestone-robo-taxi-fleet-china/?amp=1",
+      "publishedDateTime": "2022-02-09T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-09-extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition.md",
+      "title": "Extract entities from insurance documents using Amazon Comprehend named entity recognition",
+      "excerpt": "Intelligent document processing (IDP) is a common use case for customers on AWS. You can utilize&nbsp;Amazon Comprehend&nbsp;and&nbsp;Amazon Textract&nbsp;for a variety of use cases ranging from document extraction, data classification, and entity extraction. One specific industry that uses IDP is insurance.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extract-entities-from-insurance-documents-using-amazon-comprehend-named-entity-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/04/Screen-Shot-2022-02-04-at-1.49.29-PM.png",
+          "width": 1079,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-09T09:30:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-lawmakers-warn-clearview-ai-could-end-public-anonymity-if-feds-dont-ditch-it.md",
+      "title": "Lawmakers Warn Clearview AI Could End Public Anonymity if Feds Don't Ditch It",
+      "excerpt": "or simply appear in public without being identified,” the lawmakers wrote. Clearview AI’s partnerships with government agencies are of particular concern, the authors argued, because a public ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/lawmakers-warn-clearview-ai-could-end-public-anonymity-if-feds-dont-ditch-it/ar-AATEKdn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1d0d9a38a8a76273eea71dddc6c24b0a.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135/amp",
+      "publishedDateTime": "2022-02-09T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135",
+        "domain": "https://gizmodo.com/clearview-ai-facial-recognition-end-of-anonymity-us-age-1848507135",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-health-bulletin-for-feb-10-17-dementia-infants-and-toddlers-and-health-and-wellness.md",
+      "title": "Health Bulletin for Feb. 10-17 – Dementia, infants and toddlers and health and wellness",
+      "excerpt": "Low Impact Aerobics – An ongoing class for seniors. Mondays at 10:30 a.m. and Thursdays at 10 a.m., Zion Lutheran Church, 8304 E. Buckeye Ave., Spokane Valley. Free. (509) 926-5407. Smart Driver ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/",
+      "originalUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumb.spokesman.com/tu8tlF_QKzAj2M-nQcC701-x4o8=/480x0/media.spokesman.com/photos/2022/02/08/6202dc5900ddb.hires.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/?amp-content=amp",
+      "cdnAmpWebUrl": "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/feb/09/health-bulletin-for-feb-10-17-dementia-infants-and/?amp-content=amp",
+      "publishedDateTime": "2022-02-09T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Spokesman-Review",
+        "domain": "spokesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-sonys-ai-drives-a-race-car-like-a-champ.md",
+      "title": "Sony's AI Drives a Race Car Like a Champ",
+      "excerpt": "For instance, Waymo, the self-driving car company owned by Alphabet, says its vehicles have traveled the equivalent of 20 million miles in simulations. Search our artificial intelligence database and discover stories by sector, tech, company, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
+      "originalUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6202f033c14aa6d334a5d859/master/pass/Business_Gran%20Turismo-1344602439.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/sony-ai-drives-race-car-champ/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sony-ai-drives-race-car-champ/amp",
+      "publishedDateTime": "2022-02-09T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-10-irs-will-transition-away-from-facial-recognition-after-wave-of-criticism.md",
+      "title": "IRS will transition away from facial recognition after wave of criticism",
+      "excerpt": "A hot potato: Privacy advocates have managed to convince lawmakers that the IRS shouldn’t use a facial recognition system such as ID.me due to concerns about privacy, identity protections, and unequal access to reliable broadband in the US. Other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "originalUrl": "https://www.techspot.com/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-09-image-15.jpg",
+          "width": 3800,
+          "height": 2533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/93310-irs-transition-away-facial-recognition-after-wave-criticism.html",
+      "publishedDateTime": "2022-02-09T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-ibm-launches-watson-backed-virtual-assistant-for-td-securities.md",
       "title": "IBM launches Watson-backed virtual assistant for TD Securities",
       "excerpt": "IBM unveiled a new AI-based virtual assistant powered by IBM Watson Assistant that is designed to help customers answer crucial questions. The first company to take advantage of the tool is TD Securities, which will use the virtual agent system for its ...",
@@ -695,466 +1179,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-irs-drops-facial-recognition-program-used-to-verify-identities.md",
-      "title": "IRS Drops Facial Recognition Program Used to Verify Identities",
-      "excerpt": "Also, Amazon’s Rekognition software has been previously shown to be inaccurate when trying to identify people of color. This led Amazon to announce it would no longer sell its facial recognition software to law enforcement agencies in 2020, as an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/331443-irs-drops-facial-recognition-program-used-to-verify-identities",
-      "originalUrl": "https://www.extremetech.com/extreme/331443-irs-drops-facial-recognition-program-used-to-verify-identities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2018/10/598521-facial-recognition-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-scandit-raises-150m-to-automate-inventory-scanning-with-computer-vision.md",
-      "title": "Scandit raises $150M to automate inventory scanning with computer vision",
-      "excerpt": "Scandit, a company developing algorithms to help companies manage inventory by scanning labels, has raised $150 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/09/scandit-raises-150m-to-automate-inventory-scanning-with-computer-vision/",
-      "originalUrl": "https://venturebeat.com/2022/02/09/scandit-raises-150m-to-automate-inventory-scanning-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/shutterstock_149630039.jpg?w=1200&#038;strip=all",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T00:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-indium-invests-in-ai-and-ml-solutions-focuses-on-text-natural-language-processing-nlp-image-and-video-analytics.md",
-      "title": "Indium Invests in AI and ML Solutions: Focuses on Text, Natural Language Processing (NLP), Image and Video analytics",
-      "excerpt": "Indium, a fast-growing Digital Engineering Services provider, has been recognized as a strong Contender in the ISG Provider LensTM Analytics Services US Report 2021. Indium has been recognized for its capabilities in Data Engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/indium-invests-in-ai-and-ml-solutions-focuses-on-text-natural-language-processing-nlp-image-and-video-analytics/",
-      "originalUrl": "https://indiaeducationdiary.in/indium-invests-in-ai-and-ml-solutions-focuses-on-text-natural-language-processing-nlp-image-and-video-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/indium-invests-in-ai-and-ml-solutions-focuses-on-text-natural-language-processing-nlp-image-and-video-analytics/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/indium-invests-in-ai-and-ml-solutions-focuses-on-text-natural-language-processing-nlp-image-and-video-analytics/",
-      "publishedDateTime": "2022-02-08T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-dubai-diaries-when-a-robot-delivers-pizza.md",
-      "title": "Dubai Diaries: When a robot delivers pizza",
-      "excerpt": "I knew it was my seven-cheese pizza — so I fished out a Dh5 bill from my wallet for the rider who came all the way to our desert village just to bring me my lunch. But when I opened the door, the pizza box was already at our doorstep and no one was there — except a robot rolling away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza",
-      "originalUrl": "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=a94933f3-afe1-5c12-9766-2b1117e73eb2&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/life-and-living/dubai-diaries-when-a-robot-delivers-pizza?amp=1",
-      "publishedDateTime": "2022-02-08T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-komprise-partners-with-microsoft-to-support-azure-file-data-migration-program.md",
-      "title": "Komprise partners with Microsoft to support Azure File Data Migration program",
-      "excerpt": "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. Krishna Subramanian, President and COO of Komprise says, “By working closely with the Microsoft Azure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
-      "originalUrl": "https://www.freepressjournal.in/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/import/2016/01/handshake.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/komprise-partners-with-microsoft-to-support-azure-file-data-migration-program",
-      "publishedDateTime": "2022-02-08T21:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine.md",
-      "title": "2022 Healthcare trends will be driven by AI, wearables and virtual medicine",
-      "excerpt": "Tech like AI, advanced telehealth systems and remote devices will be change healthcare for physicians and patients alike in the coming year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/",
-      "originalUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/02/AdobeStock_476627816.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/2022-healthcare-trends-will-be-driven-by-ai-wearables-and-virtual-medicine/amp/",
-      "publishedDateTime": "2022-02-08T20:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-deloitte-expands-converge-platform-to-consumer-and-financial-services-markets.md",
-      "title": "Deloitte expands Converge platform to consumer and financial services markets",
-      "excerpt": "Building on this growth, Deloitte today announced Converge by Deloitte, which brings ConvergeHealth to the consumer and financial services ... presented by AI and machine learning, as well as ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/08/deloitte-expands-converge-platform-to-consumer-and-financial-services-markets/",
-      "originalUrl": "https://venturebeat.com/2022/02/08/deloitte-expands-converge-platform-to-consumer-and-financial-services-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/08/deloitte-expands-converge-platform-to-consumer-and-financial-services-markets/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/08/deloitte-expands-converge-platform-to-consumer-and-financial-services-markets/amp/",
-      "publishedDateTime": "2022-02-08T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-irs-does-an-about-face-on-facial-recognition-plans.md",
-      "title": "IRS does an about-face on facial recognition plans",
-      "excerpt": "The IRS is abandoning plans to require facial recognition to authenticate online access following criticism from politicians, privacy advocates, and tech experts, forcing the agency to look at",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/irs-does-an-about-face-on-facial-recognition-plans-08711162/",
-      "originalUrl": "https://www.slashgear.com/irs-does-an-about-face-on-facial-recognition-plans-08711162/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/02/IRS-facial-recognition.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/irs-does-an-about-face-on-facial-recognition-plans-08711162/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/irs-does-an-about-face-on-facial-recognition-plans-08711162/amp/",
-      "publishedDateTime": "2022-02-08T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-mphasis-launches-focused-cloud-ecosystem-channel-organization-to.md",
-      "title": "Mphasis launches focused cloud ecosystem channel organization to",
-      "excerpt": "NEW YORK, Feb. 9, 2022 /PRNewswire/ -- Mphasis (BSE: 526299; NSE: MPHASIS), an information technology (IT) solutions provider specializing in cloud and cognitive services ... four major cloud providers - AWS, Microsoft Azure, Google Cloud Platform ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mphasis-launches-focused-cloud-ecosystem-channel-organization-accelerate-/2022/02/09/9542326.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mphasis-launches-focused-cloud-ecosystem-channel-organization-accelerate-/2022/02/09/9542326.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-09-ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation.md",
-      "title": "AI-Enabled Prostate Cancer Therapy Wins Breakthrough Designation",
-      "excerpt": "The Santa Monica, CA-based company said the Avenda Health Focal Therapy System, is an artificial intelligence (AI)-enabled focal therapy system being developed to treat localized prostate cancer in a urologist’s office under local anesthesia. In ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/ai-enabled-prostate-cancer-therapy-wins-breakthrough-designation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_May112021at124830PM.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-08T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

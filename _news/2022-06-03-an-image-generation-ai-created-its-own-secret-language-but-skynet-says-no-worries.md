@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Do AI systems really have their own secret language?"
+    excerpt: "Vicootes’, ‘wa ch zod rea’ and other strings of gibberish seem to have special meanings to state-of-the-art AI models. What’s going on here?"
+    publishedDateTime: 2022-06-06T20:01:00Z
+    webUrl: "https://theconversation.com/do-ai-systems-really-have-their-own-secret-language-184335"
+    ampWebUrl: "https://theconversation.com/amp/do-ai-systems-really-have-their-own-secret-language-184335"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/do-ai-systems-really-have-their-own-secret-language-184335"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 57
+    images:
+      - url: "https://images.theconversation.com/files/467100/original/file-20220606-20-1noqrh.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=319&fit=crop"
+        width: 320
+        height: 319
+        isCached: true
   - title: "Image-generating AI could be creating its own strange ‘secret language,’ research suggests"
     excerpt: "OpenAI’s text-to-image generating artificial intelligence (AI ... in major breakthrough General Motors gets green light for driverless taxi fleet When researchers fed the text “Vicootes ..."
     publishedDateTime: 2022-06-03T13:16:00Z

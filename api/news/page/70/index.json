@@ -2,6 +2,446 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-04-05-rsna-artificial-intelligence-may-improve-diabetes-diagnosis.md",
+      "title": "RSNA: Artificial Intelligence May Improve Diabetes Diagnosis",
+      "excerpt": "Using a fully-automated artificial intelligence (AI) deep learning model, researchers were able to identify early signs of type 2 diabetes on abdominal CT scans, according to a new study published in",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/p26480381/rsna-artificial-intelligence-may-improve-diabetes-diagnosis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26480381",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26480381",
+      "publishedDateTime": "2022-04-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-startup-using-voice-to-quantify-therapy-raises-20m.md",
+      "title": "Startup using voice to quantify therapy raises $20M",
+      "excerpt": "Eleos Health, a startup using voice technology to analyze behavioral health sessions, raised $20 million in Series A funding, CEO and co-founder Alon Joffe tells Axios exclusively. Why it matters: A sizzling subsector,",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/pro/health-tech-deals/2022/04/05/eleos-startup-quantify-therapy-raises-20m",
+      "originalUrl": "https://www.axios.com/pro/health-tech-deals/2022/04/05/eleos-startup-quantify-therapy-raises-20m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/a8qVQy1sExZWog_vzcI3CtA6r8k=/0x0:1920x1080/1366x768/2022/04/04/1649110921859.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better.md",
+      "title": "Virtual meetings are here to stay. Microsoft wants to make them better",
+      "excerpt": "By Samantha Murphy Kelly, CNN Business Microsoft is unveiling new Windows features in an attempt to improve the experience of virtual meetings and make sure the needs of people with disabilities are supported in a new era of hybrid work.",
+      "sourceUrl": null,
+      "webUrl": "https://abc17news.com/money/cnn-social-media-technology/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better/",
+      "originalUrl": "https://abc17news.com/money/cnn-social-media-technology/2022/04/05/virtual-meetings-are-here-to-stay-microsoft-wants-to-make-them-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://abc17news.b-cdn.net/abc17news.com/2022/04/hypatia-h_be2f286910f2053119a13aa29ee4fc16-h_42ffc1a886f87011640e58491002a6c0-300.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 17 News",
+        "domain": "abc17news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-teaching-robots-to-make-pizza-could-advance-ai-and-out-pizza-the-hut.md",
+      "title": "Teaching Robots To Make Pizza Could Advance AI And Out Pizza The Hut",
+      "excerpt": "Researchers at MIT are developing a new AI method that will allow robots to think more like a human as it makes pizza",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
+      "originalUrl": "https://hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/58174/content/pizza-making.jpg",
+          "width": 708,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/teaching-robots-to-make-pizza-could-advance-ai",
+      "publishedDateTime": "2022-04-05T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-real-time-data-analytics-firm-tinybird-nets-37m-in-series-a.md",
+      "title": "Real-time data analytics firm Tinybird nets $37m in Series A",
+      "excerpt": "A data analytics company claiming to be able to process millions of rows per second, in real time, has just closed out a Series A funding round to take-in $37 million. Tinybird raised the funds via investors Crane Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/05/tinybird_series_a/",
+      "originalUrl": "https://www.theregister.com/2022/04/05/tinybird_series_a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/07/26/time-stand-still.jpg",
+          "width": 648,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/05/tinybird_series_a/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/tinybird_series_a/",
+      "publishedDateTime": "2022-04-05T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022.md",
+      "title": "Registration opens with 2-4-1 passes to TC Sessions: Robotics 2022",
+      "excerpt": "Robotics returns this year as a live and in-person event! It’s been far too long, and we can’t wait to see you — and plenty of robots — on July 22 at the Hynes Convention Center in Boston, Massachusetts.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/",
+      "originalUrl": "https://techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x628.png?w=1024",
+          "width": 1022,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/05/registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022/amp/",
+      "publishedDateTime": "2022-04-05T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-quantum-memristor-points-to-new-neural-networks.md",
+      "title": "Quantum memristor points to new neural networks",
+      "excerpt": "Studies of quantum computing and its overlap with photonics have gathered pace in recent years, with groups such as the Danish PhotoQ consortium investigating the development of photonic quantum processors.",
+      "sourceUrl": null,
+      "webUrl": "https://optics.org/dcs/news/13/4/6",
+      "originalUrl": "https://optics.org/dcs/news/13/4/6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Optics",
+        "domain": "optics.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-microsoft-taps-ai-to-make-you-look-your-best-in-video-meetings.md",
+      "title": "Microsoft taps AI to make you look your best in video meetings",
+      "excerpt": "Microsoft is applying artificial intelligence to meetings, with a host of new AI-driven technologies from Eye Contact, automatic framing, plus improved background blur and echo cancellation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
+      "originalUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 216,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/04/Intelligent-meeting-eye-contact-background-blur.png?w=1024",
+          "width": 1023,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/629031/microsoft-will-apply-ai-to-meetings-with-webcam-framing-eye-contact.html/amp",
+      "publishedDateTime": "2022-04-05T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-google-ai-deepminds-high-ideals-are-tainted.md",
+      "title": "Google AI DeepMind's high ideals are tainted?",
+      "excerpt": "It’s discouraging but perhaps not surprising that an organization such as DeepMind, which proclaims such high ideals, would have trouble recognizing that harassment and bullying are occurring within its walls,",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/04/05/1600x900/UKRAINE-CRISIS-RUSSIA-GOOGLE-1_1649166461655_1649166516153.JPG",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-ai-deepmind-s-high-ideals-are-tainted-71649161524770.html",
+      "publishedDateTime": "2022-04-05T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-05-expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams.md",
+      "title": "Expo 2020: How Dubai helped a 12-year-old Kenyan robotics wiz realise his dreams",
+      "excerpt": "This innovative robotic solution drew the attention of Expo 2020 Dubai who asked Patrick to display the innovation at the Annual Investment Meeting (AIM) Startup at the world ... a regional hub of innovation, artificial intelligence (AI), big data and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/expo/expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams",
+      "originalUrl": "https://www.khaleejtimes.com/expo/expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=c137a97f-0694-5cc9-80ee-d06997ffe602&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95561&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/expo/expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/expo/expo-2020-how-dubai-helped-a-12-year-old-kenyan-robotics-wiz-realise-his-dreams?amp=1",
+      "publishedDateTime": "2022-04-05T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-fabric-recognized-as-a-strong-performer-in-2022-gartner-peer-insights-voice-of-the-customer-report-for-digital-commerce.md",
       "title": "fabric Recognized as a Strong Performer in 2022 Gartner Peer Insights™ ‘Voice of the Customer’ Report for Digital Commerce",
       "excerpt": "Headless commerce platform received highest overall rating by customers across the Gartner Peer Insights™ Digital Commerce report. SEATTLE , April 5, 2022 /PRNewswire/ -- fabric",
@@ -644,453 +1084,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before.md",
-      "title": "Vivienne Ming: A Force In AI Unlike Any We Have Seen Before",
-      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to have a conversation with Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624bc25428c6d4f79594b9e5/0x0.jpg?format=jpg&crop=3000,1688,x0,y72,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/05/vivienne-ming-a-force-in-ai-unlike-any-we-have-seen-before/amp/",
-      "publishedDateTime": "2022-04-04T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-spot-goes-to-pompeii-why-a-robot-dog-is-patrolling-ancient-ruins.md",
-      "title": "Spot goes to Pompeii: Why a robot dog is patrolling ancient ruins",
-      "excerpt": "Boston Dynamics’ robot dog Spot has been tasked with a new job - patrolling the ancient ruins of Pompeii. The robot will be used to inspect the site for safety issues and record structural changes over time to better manage the historic ruins.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/",
-      "originalUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1fd4b68/2147483647/strip/true/crop/1200x800+0+50/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fa0%2F73%2F3a41043447099cb7763ce64776e8%2Fspot-2-1200x900.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/spot-pompeii-robot-dog-patrolling-ancient-ruins/?amp=true",
-      "publishedDateTime": "2022-04-04T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-3-reasons-why-you-should-buy-amazon-pre-split.md",
-      "title": "3 Reasons Why You Should Buy Amazon Pre-Split",
-      "excerpt": "Additionally, AWS has the deepest functionality within ... a device that uses artificial intelligence technology to monitor glass windows or doors, alerting customers whenever glass is broken.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-reasons-why-you-should-buy-amazon-pre-split",
-      "originalUrl": "https://www.nasdaq.com/articles/3-reasons-why-you-should-buy-amazon-pre-split",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-reasons-why-you-should-buy-amazon-pre-split?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-reasons-why-you-should-buy-amazon-pre-split?amp",
-      "publishedDateTime": "2022-04-04T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-eleutherai-open-sources-20-billion-parameter-ai-language-model-gpt-neox-20b.md",
-      "title": "EleutherAI Open-Sources 20 Billion Parameter AI Language Model GPT-NeoX-20B",
-      "excerpt": "Researchers from EleutherAI have open-sourced GPT-NeoX-20B, a 20-billion parameter natural language processing (NLP) AI model similar to GPT-3. The model was trained on 825GB of publicly available text data and has performance comparable to similarly-sized ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/04/eleutherai-gpt-neox/",
-      "originalUrl": "https://www.infoq.com/news/2022/04/eleutherai-gpt-neox/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/04/eleutherai-gpt-neox/en/headerimage/generatedHeaderImage-1647708360533.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-alphabets-other-bet-a-deep-dive-into-deepmind.md",
-      "title": "Alphabet's Other Bet: A Deep Dive Into DeepMind",
-      "excerpt": "DeepMind has evolved from a small startup into a promising part of Alphabet. In 2020, cash flow was positive for the first time, and revenue tripled compared to the previous year. DeepMind's ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
-      "originalUrl": "https://seekingalpha.com/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1299482930/image_1299482930.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
-      "publishedDateTime": "2022-04-04T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-tech-roundup-pizza-chains-put-robots-on-the-phone.md",
-      "title": "Tech roundup: Pizza chains put robots on the phone",
-      "excerpt": "Marco’s and Jet’s are testing artificial intelligence to take calls and texts. Also, Brinker expands its use of drone delivery and",
-      "sourceUrl": null,
-      "webUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "originalUrl": "https://www.restaurantbusinessonline.com/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2022-04/background/tech-roundup_1626880425.gif?VersionId=a3EXtwkfUCrhVtJBTO6Ib_6aflhWEk8w",
-          "width": 903,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "cdnAmpWebUrl": "https://restaurantbusinessonline-com.cdn.ampproject.org/c/s/restaurantbusinessonline.com/amp/technology/tech-roundup-pizza-chains-put-robots-phone",
-      "publishedDateTime": "2022-04-04T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Restaurant Business",
-        "domain": "restaurantbusinessonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-humanoid-robot-paints-portraits-with-ai.md",
-      "title": "Humanoid robot paints portraits with AI",
-      "excerpt": "Da. This robot is dubbed the “world’s first ultra-realistic humanoid robot artist” by its creators. Ai-Da was built in 2019, and the robot now features an upgraded r",
-      "sourceUrl": null,
-      "webUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
-      "originalUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wane.com/wp-content/uploads/sites/21/2022/04/robot-painter.jpg?w=1280",
-          "width": 1280,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/dont-miss/humanoid-robot-paints-portraits-with-ai/amp/",
-      "publishedDateTime": "2022-04-04T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wane",
-        "domain": "wane.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-4-considerations-for-the-managing-aws-cloud-platform-in-higher-ed.md",
-      "title": "4 Considerations for the Managing AWS Cloud Platform in Higher Ed",
-      "excerpt": "AWS also works with universities on solutions that employ voice technology, artificial intelligence and machine learning to support innovative learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed",
-      "originalUrl": "https://edtechmagazine.com/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1223790471.jpg?itok=tW41D7Ie",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed?amp",
-      "publishedDateTime": "2022-04-04T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space.md",
-      "title": "This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space",
-      "excerpt": "The post This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/blog/2022/04/04/this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space/",
-      "originalUrl": "https://blogs.microsoft.com/blog/2022/04/04/this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T11:15:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist.md",
-      "title": "‘Mind-blowing’: Ai-Da becomes first robot to paint like an artist",
-      "excerpt": "AI algorithms prompt robot to interrogate, select, decision-make to create a painting",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist?via=indexdotco",
-      "originalUrl": "https://www.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/d667f757ead9e72c5c0bb09a2c27e5ce1dff6a67/0_186_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=7763a33c2cde2b46bef7294ee12e40f8",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/apr/04/mind-blowing-ai-da-becomes-first-robot-to-paint-like-an-artist",
-      "publishedDateTime": "2022-04-04T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

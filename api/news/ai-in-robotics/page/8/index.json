@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-04-08-dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china.md",
+      "title": "Dystopian scenes of robots enforcing lockdown emerge from China",
+      "excerpt": "Recently, a Twitter user @JayinShanghai posted a similar video of robot dogs ... by any great mind of science fiction writers,’ said another. ‘Being told to control my soul’s desire ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/",
+      "originalUrl": "https://metro.co.uk/2022/04/08/dystopian-scenes-of-robots-enforcing-lockdown-emerge-from-china-16425926/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-tesla-is-aiming-to-start-production-of-its-optimus-humanoid-robot-in-2023.md",
       "title": "Tesla is aiming to start production of its Optimus humanoid robot in 2023",
       "excerpt": "Elon Musk gave a timeline to production for the first time for the Tesla Optimus project, a humanoid robot capable of doing general tasks. The CEO believes the company can bring the ambitious project to production as soon as next year.",
@@ -1337,58 +1371,6 @@
         "name": "bdnews24",
         "domain": "bdnews24.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-get-ready-for-the-industrial-intelligence-revolution.md",
-      "title": "Get Ready For The Industrial Intelligence Revolution",
-      "excerpt": "Industry 4.0 is bringing disruptive changes, converting industrial spaces to smart, connected and intelligent environments. Manufacturing has been irreversibly changed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
-      "publishedDateTime": "2022-03-30T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

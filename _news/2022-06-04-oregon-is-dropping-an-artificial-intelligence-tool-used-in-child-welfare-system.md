@@ -88,13 +88,13 @@ related:
       domain: seattletimes.com
     quality: 17
   - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
-    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
-    publishedDateTime: 2022-06-02T17:21:00Z
-    webUrl: "https://wskg.org/npr_story_post/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system/"
+    excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
+    publishedDateTime: 2022-06-02T21:12:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
     type: article
     provider:
-      name: WSKG
-      domain: wskg.org
+      name: Health News Florida
+      domain: usf.edu
     quality: 13
 
 secured: "6ax59Ifw2kEeKzzZuOoRZyp0ocnpyCmconcTyqitkImzo6MJoNdqzwDnon0lFnZVOOrUGbMwOnhkOdU6iq/Jx513Uc32Ll1FyYl9G43GZKedzelRqIrzU8KndFvjU07+WVHl/3sGdj97JmBhW7DxNOy8+xJ1iT2TnvZq9QdHLKAPtlm5tj5Et9K1Ht/YeA5eE7aiFQO+1rF9Ua3ZNSShX3Dv+kyN4mJ4S0blffU5Sm6jLpg6moP50p10wDSg1NbjVIRuftIB8JABCoWBMe9MWCJbGz3p97przpxmXKUn9qEIYKRMR2xguPX5A3B16bgP0lVgi1DrkECwzq3aAaoNENVVPkriScc67Y3h3Ws7gRMJzTJVI59HvsogTC4hkYBd9facKuf+AU7pfJwFG1VHiQD+H/pAuD8VkJfCtpxbXQcOaywtaPikfxKXsU7Zjvsa3WyWTwpDlkAUnRbu4PRNfiQhgQeF+DxseTwwbH+vU/+RGEOKPTYa0rNHKldcx4ETwOwLV0Xnfvk9bkiERraNKA==;dv+VCpl4Pw6ggNQjSOzMBQ=="

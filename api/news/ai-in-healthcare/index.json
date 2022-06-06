@@ -62,7 +62,7 @@
       "originalUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -280,6 +280,41 @@
       ]
     },
     {
+      "path": "_news/2022-06-02-artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro.md",
+      "title": "Artificial Intelligence in Platform as a Service Market to Eyewitness Massive Growth by key players Rainbird AI, Azure, Wipro",
+      "excerpt": "Ample Market Research published a new research report Artificial Intelligence in Platform as a Service (PaaS) market contains a clear arrangement of the declared information as pie charts, follows, the line follows,",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
+      "originalUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-ethical-issues-surrounding-research-of-ai-in-health-care.md",
       "title": "Ethical issues surrounding research of AI in health care",
       "excerpt": "F. Lisa Murtha, Pralika Jain and Kiyong Song of Moses & Singer LLP discuss the ethical issues that arise in research on artificial intelligence for health care, such as in patient safety, data collection and transparency.",
@@ -335,10 +370,10 @@
     {
       "path": "_news/2022-05-31-inveniai-and-kyowa-kirin-announce-achievement-of-milestone-in-research-collaboration.md",
       "title": "InveniAI and Kyowa Kirin Announce Achievement of Milestone in Research Collaboration",
-      "excerpt": "About AlphaMeld® AlphaMeld® is an Artificial Intelligence (AI) and Machine Learning (ML ... small molecule, cell and gene therapy, and gene-editing modalities), disease severity, gene ontology, disease pathways, proteinopathies, standard of care ...",
+      "excerpt": "InveniAI® LLC, a global leader in applying Artificial Intelligence (AI) and Machine Learning (ML) to transform drug and target discovery and development, and Kyowa Kirin Co., Ltd. (Kyowa Kirin, TSE:4151),",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-health-artificial-intelligence-7bc178ab2bb27255598601b684090154",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-health-artificial-intelligence-7bc178ab2bb27255598601b684090154",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-health-artificial-intelligence-7bc178ab2bb27255598601b684090154",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-health-artificial-intelligence-7bc178ab2bb27255598601b684090154",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -716,6 +751,40 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges.md",
+      "title": "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges",
+      "excerpt": "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca",
+      "sourceUrl": null,
+      "webUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
+      "originalUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LocalSYR",
+        "domain": "localsyr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1197,101 +1266,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-using-ai-to-predict-heart-attacks.md",
-      "title": "Using AI to predict heart attacks",
-      "excerpt": "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg",
-          "width": 1000,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
-      "publishedDateTime": "2022-05-17T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-the-next-frontier-for-healthcare-blockchain-ar-and-vr.md",
-      "title": "The Next Frontier For Healthcare: Blockchain, AR and VR",
-      "excerpt": "The medical industry has traditionally been slow to adopt new technologies, but blockchain, augmented reality and virtual reality technologies are changing that thought process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/425443",
-      "originalUrl": "https://www.entrepreneur.com/article/425443",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652285926-GettyImages-954960690.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

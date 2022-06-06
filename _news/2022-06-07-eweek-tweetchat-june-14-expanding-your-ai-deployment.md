@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T18:11:00Z
 originalUrl: "https://www.eweek.com/big-data-and-analytics/eweek-tweetchat-june-14-expanding-your-ai-deployment/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/eweek-tweetchat-june-14-expanding-your-ai-deployment/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: eWeek

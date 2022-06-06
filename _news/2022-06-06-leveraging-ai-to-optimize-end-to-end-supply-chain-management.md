@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/coke_supply_chain.jpg?fit=800%2C600&strip=all"
         width: 800

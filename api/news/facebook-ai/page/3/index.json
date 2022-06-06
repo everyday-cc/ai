@@ -2,6 +2,210 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-03-31-are-we-ready-to-transform-lives-with-ai.md",
+      "title": "Are We Ready To Transform Lives With AI?",
+      "excerpt": "AI has paved the way for dynamic changes at the workplace and in personal life, by automating a host of processes and activities",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/423551",
+      "originalUrl": "https://www.entrepreneur.com/article/423551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1648708439-Myproject141.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-omniml-secures-10-million-to-accelerate-ai-computing-on-edge-devices.md",
+      "title": "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices",
+      "excerpt": "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20309928.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20309928.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database.md",
+      "title": "Pinecone gears up to support next-gen web apps with AI-powered database",
+      "excerpt": "Pinecone's AI-powered database is optimized to speed up queries to improve the efficiency of complex operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
+      "originalUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1352189853-1-e1648494908738.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
+      "publishedDateTime": "2022-03-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
+      "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
+      "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
+      "publishedDateTime": "2022-03-27T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Google AI",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-7-virtual-reality-stocks-bringing-web-30-to-life.md",
       "title": "7 Virtual Reality Stocks Bringing Web 3.0 to Life",
       "excerpt": "In case you didn’t know already, virtual reality stocks are stocks that are related to the virtual reality industry. They can be companies that produce VR headsets, software, or content. Overall, the gaming industry and the ability to explore a construct without boundaries via immersive VR experiences will be one of the driving forces behind the increase in VR adoption.",
@@ -1197,210 +1401,6 @@
         "AI Hardware",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-use-directml-to-train-pytorch-machine-learning-models-on-a-pc.md",
-      "title": "Use DirectML to train PyTorch machine learning models on a PC",
-      "excerpt": "There are two parts to working with machine learning. If you have a prebuilt model, you can run it from a cloud platform such as Azure ML, using a REST API to work with its predictions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.html",
-      "originalUrl": "https://www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651930/use-directml-to-train-pytorch-machine-learning-models-on-a-pc.amp.html",
-      "publishedDateTime": "2022-03-02T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-03-analyst-ratings-for-c3ai.md",
-      "title": "Analyst Ratings For C3.ai",
-      "excerpt": "In the last 3 months, 4 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $33.5 with a high of $40.00 and a low of $27.00. Below is a summary of how these 4 analysts rated C3.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031248762",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_3929.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-02T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-25-h2oai-brings-ai-grandmaster-powered-nlp-to-the-enterprise.md",
-      "title": "H2O.ai brings AI grandmaster-powered NLP to the enterprise",
-      "excerpt": "Hydrogen Torch, H2O's latest product, is designed to deliver the AI capabilities of web giants to the rest of the world, says CEO Sri Ambati.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "originalUrl": "https://www.zdnet.com/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/08d382de07cd537698342f28b54b062cc846a7b8/2022/02/21/84c11a8a-f04c-4bf0-89d3-0c4b98db6ea1/h2ohydrogentorch.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h2o-introduces-hydrogen-torch-to-bring-the-grandmasters-of-ai-for-image-video-and-natural-language-processing-to-the-enterprise/",
-      "publishedDateTime": "2022-02-24T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-meta-plans-ai-driven-universal-translator.md",
-      "title": "Meta plans AI-driven universal translator",
-      "excerpt": "Facebook parent company Meta on Wednesday detailed several research efforts that it insists are key to its project of building a metaverse. The big picture: While some of the work, like a new type of haptic gloves,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "originalUrl": "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/NxzBynvHAAjmzngPOi3qiO5XJM8=/0x0:2635x1482/1366x768/2022/02/24/1645664901557.png",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "publishedDateTime": "2022-02-23T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

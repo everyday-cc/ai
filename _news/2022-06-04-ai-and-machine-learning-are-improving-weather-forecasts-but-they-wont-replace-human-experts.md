@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T01:15:00Z
 originalUrl: "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html"
 webUrl: "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: St. Louis Post-Dispatch

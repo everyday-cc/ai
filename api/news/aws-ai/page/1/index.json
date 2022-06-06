@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-06-reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas.md",
+      "title": "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas",
+      "excerpt": "Retail businesses are data-driven—they analyze data to get insights about consumer behavior, understand shopping trends, make product recommendations, optimize websites, plan for inventory, and forecast sales. A common approach for sales forecasting is to use historical sales data to predict future demand.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T12:23:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly.md",
       "title": "Improve organizational diversity, equity, and inclusion initiatives with Amazon Polly",
       "excerpt": "Organizational diversity, equity and inclusion (DEI) initiatives are at the forefront of companies across the globe. By constructing inclusive spaces with individuals from diverse backgrounds and experiences, businesses can better represent our mutual societal needs and deliver on objectives. In the",
@@ -106,7 +151,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -200,58 +245,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions.md",
-      "title": "Amazon SageMaker Notebook Instances now support configuring and restricting IMDS versions",
-      "excerpt": "Today, we’re excited to announce that Amazon SageMaker now supports the ability to configure Instance Metadata Service Version 2 (IMDSv2) for Notebook Instances, and for administrators to control the minimum version with which end-users create new Notebook Instances. You can now choose IMDSv2 only for",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/02/sagemaker-imds-versions.jpg",
-          "width": 1000,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T15:02:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -962,6 +955,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-24-aws-announces-general-availability-of-amazon-ec2-c7g-instances-powered-by-aws-designed-graviton3-processors.md",
+      "title": "AWS Announces General Availability of Amazon EC2 C7g Instances Powered by AWS-designed Graviton3 Processors",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) C7g instances, the next generation of compute-optimized instances powered by AWS-designed Graviton3 processors.",
+      "sourceUrl": null,
+      "webUrl": "https://cloud-computing.tmcnet.com/news/2022/05/23/9607396.htm",
+      "originalUrl": "https://cloud-computing.tmcnet.com/news/2022/05/23/9607396.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-pioneering-uk-start-up-participates-in-aws-summit-washington-dc-to-showcase-value-of-ai-patient-listening-tool-to-us-market.md",
       "title": "Pioneering UK Start-up Participates in AWS Summit Washington, DC to Showcase Value of AI Patient Listening Tool to US Market",
       "excerpt": "WASHINGTON, DC / ACCESSWIRE / May 23, 2022 / UK-based health technology company PEP Health will today (Monday 23rd May 2022) participate in the AWS Summit in Washington, DC to showcase the value that its pioneering AI patient listening tool can provide to the U.",
@@ -1376,59 +1403,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-customize-pronunciation-using-lexicons-in-amazon-polly.md",
-      "title": "Customize pronunciation using lexicons in Amazon Polly",
-      "excerpt": "Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to synthesize natural-sounding human speech. It is used in a variety of use cases, such as contact center systems, delivering conversational user experiences with human-like voices for automated real-time status check,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/17/customize-pronunciation-polly.jpg",
-          "width": 1000,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T08:36:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

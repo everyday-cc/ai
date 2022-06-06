@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-21-artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading.md",
+      "title": "Artificial Intelligence (AI) Market 2021 Witness Widespread Expansion of Industry Growth with leading",
+      "excerpt": "Moreover, developments such as self-driving cars, space exploration, accurate weather predictions, and other prominent developments are boosting the demand for artificial intelligence technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading-2022-04-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2021-witness-widespread-expansion-of-industry-growth-with-leading-2022-04-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-21T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-billionaire-ceos-us-senate-run-focuses-on-one-issue-banning-self-driving-teslas.md",
       "title": "Billionaire CEO’s US Senate run focuses on one issue: Banning ‘self-driving’ Teslas",
       "excerpt": "Dan O’Dowd, the billionaire founder of The Dawn Project and Green Hills Software, is running for U.S. Senate on a single issue. It’s not unemployment or inflation or even education. It’s about making computers safer for humans,",
@@ -1264,58 +1316,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-the-internet-cant-believe-cops-pulled-over-a-driverless-car.md",
-      "title": "The Internet Can't Believe Cops Pulled Over A Driverless Car",
-      "excerpt": "It's difficult for even today's most advanced artificial intelligence to predict how human drivers will act at any given moment. As automation of driving duties is enacted on city streets across the United States, so too are questions raised on whether ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/830134/the-internet-cant-believe-cops-pulled-over-a-driverless-car/",
-      "originalUrl": "https://www.slashgear.com/830134/the-internet-cant-believe-cops-pulled-over-a-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/the-internet-cant-believe-cops-pulled-over-a-driverless-car/l-intro-1649790585.jpg",
-          "width": 1600,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

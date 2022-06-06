@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-06-exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign.md",
-      "title": "EXCLUSIVE Axon halts Taser drone work as most of its ethics panel said to resign",
-      "excerpt": "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel.",
+      "path": "_news/2022-06-07-axons-taser-drone-plans-prompt-ai-ethics-board-resignations.md",
+      "title": "Axon’s Taser Drone Plans Prompt AI Ethics Board Resignations",
+      "excerpt": "A majority of Axon’s AI ethics board resigned in protest yesterday, following an announcement last week that the company planned to equip drones with Tasers and cameras as a way to end mass shootings in schools. The company backed down on its proposal ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055",
-      "originalUrl": "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055",
+      "webUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
+      "originalUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 304,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/0BNS6N-mG3uSH0JDp4dlNoBKSXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BTQXZ7O7GFIHNPLLWC75HAR5ZQ.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://media.wired.com/photos/629e51d2726e817487080861/master/pass/business-axon-drone-wired.jpg",
+          "width": 2400,
+          "height": 1350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T22:15:00-07:00",
+      "ampWebUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/taser-drone-axon-ai-ethics-board/amp",
+      "publishedDateTime": "2022-06-06T13:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-61685117?at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=4FB0FBCE-E3DB-11EC-83F3-F28731EBDC67&at_custom1=%5Bpost+type%5D",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {

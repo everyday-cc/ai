@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-06T12:37:00Z
 originalUrl: "https://venturebeat.com/2022/06/06/andrew-ngs-landing-ai-aims-to-help-manufacturers-deploy-ai-vision-systems/"
 webUrl: "https://venturebeat.com/2022/06/06/andrew-ngs-landing-ai-aims-to-help-manufacturers-deploy-ai-vision-systems/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:

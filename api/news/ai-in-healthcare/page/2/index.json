@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-17-using-ai-to-predict-heart-attacks.md",
+      "title": "Using AI to predict heart attacks",
+      "excerpt": "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg",
+          "width": 1000,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
+      "publishedDateTime": "2022-05-17T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-the-next-frontier-for-healthcare-blockchain-ar-and-vr.md",
+      "title": "The Next Frontier For Healthcare: Blockchain, AR and VR",
+      "excerpt": "The medical industry has traditionally been slow to adopt new technologies, but blockchain, augmented reality and virtual reality technologies are changing that thought process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/425443",
+      "originalUrl": "https://www.entrepreneur.com/article/425443",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652285926-GettyImages-954960690.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Size Forecast to Reach USD 64 billion by 2027, expanding at a compound annual growth rate of 43%",
       "excerpt": "Artificial Intelligence Healthcare Market size is predicted to touch USD 64 billion by 2027, registering a CAGR of 43% over the forecast period (2020-2027), owing to the increasing application of AI in medical imaging,",
@@ -1255,101 +1350,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions.md",
-      "title": "RPT-FOCUS-Startups apply artificial intelligence to supply chain disruptions",
-      "excerpt": "Interos Inc, Fero Labs, KlearNow Corp and others are using artificial intelligence and other cutting-edge tools so manufacturers and their customers can react more swiftly to supplier snarl-ups, monitor raw material availability and get through the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tech-supplychain/rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2WV0DC",
-      "originalUrl": "https://www.reuters.com/article/tech-supplychain/rpt-focus-startups-apply-artificial-intelligence-to-supply-chain-disruptions-idUSL2N2WV0DC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MFY-JqxYxQR3Wsr503cT_CH9ERo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TCGONGKABFPRFLSQW3DBEECCN4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.md",
-      "title": "Tech update: Using artificial intelligence to solve supply chain snarls, and consolidation in Canadian crypto",
-      "excerpt": "Federal artificial intelligence agency Scale AI has announced ... has a huge opportunity to take the lead in gene and cell therapy. The country has the capacity to create a multibillion dollar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html",
-      "originalUrl": "https://www.thestar.com/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/business/mars/2022/05/19/tech-update-toronto-ventures-among-top-global-tech-pioneers-and-renewable-naturals-gas-usage-expands-into-ontario-buildings/_1_stormfisher.jpg.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html",
-      "publishedDateTime": "2022-05-03T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

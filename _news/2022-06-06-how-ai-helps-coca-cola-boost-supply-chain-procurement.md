@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-
 ampWebUrl: "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 119
 published: true
 
 provider:

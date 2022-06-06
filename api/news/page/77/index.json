@@ -2,6 +2,490 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-03-30-iar-systems-enables-powerful-aiml-applications-based-on-alif-semiconductors-microcontrollers-and-fusion-processors.md",
+      "title": "IAR Systems enables powerful AI/ML applications based on Alif Semiconductor's microcontrollers and fusion processors",
+      "excerpt": "The partnership between IAR Systems and Alif Semiconductor accelerates innovation in the embedded space through strong artificial intelligence (AI) and machine learning (ML) capabilities UPPSALA, Sweden,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mystateline.com/business/press-releases/cision/20220330IO08628/iar-systems-enables-powerful-ai-ml-applications-based-on-alif-semiconductors-microcontrollers-and-fusion-processors/",
+      "originalUrl": "https://www.mystateline.com/business/press-releases/cision/20220330IO08628/iar-systems-enables-powerful-ai-ml-applications-based-on-alif-semiconductors-microcontrollers-and-fusion-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.mystateline.com/wp-content/uploads/sites/17/2022/04/cd9b6d1688864bbb93696d84252c4054.jpg?w=2000&#038;ssl=1",
+          "width": 1999,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVO",
+        "domain": "mystateline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-six-fintech-trends-to-watch-in-2022.md",
+      "title": "Six Fintech Trends To Watch In 2022",
+      "excerpt": "Despite pandemic-induced delays, 2021 was still a strong year for growth in the fintech industry. What can we expect going forward in fintech?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62436cd289a4b767dd415637/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/six-fintech-trends-to-watch-in-2022/amp/",
+      "publishedDateTime": "2022-03-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-arize-ai-goes-self-service-with-ml-observability-platform.md",
+      "title": "Arize AI goes self-service with ML observability platform",
+      "excerpt": "Arize AI makes older black box-type systems transparent in order to ensure that more effective and responsible AI models move smoothly from research to production.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/30/arize-ai-goes-self-service-with-ml-observability-platform/",
+      "originalUrl": "https://venturebeat.com/2022/03/30/arize-ai-goes-self-service-with-ml-observability-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-532029221.jpg?fit=800%2C596&strip=all",
+          "width": 799,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/30/arize-ai-goes-self-service-with-ml-observability-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/arize-ai-goes-self-service-with-ml-observability-platform/amp/",
+      "publishedDateTime": "2022-03-30T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-how-robots-can-assist-students-with-disabilities.md",
+      "title": "How robots can assist students with disabilities",
+      "excerpt": "according to the Centers for Disease Control and Prevention. And those students tend to respond to robots “in a way that they don’t to puppets or pet therapies or to many of the other kinds of ...",
+      "sourceUrl": null,
+      "webUrl": "https://bdnews24.com/technology/2022/03/30/how-robots-can-assist-students-with-disabilities",
+      "originalUrl": "https://bdnews24.com/technology/2022/03/30/how-robots-can-assist-students-with-disabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2022/03/30/educ-disabilities-300322-01.jpg/BINARY/educ-disabilities-300322-01.jpg",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/technology/2038551",
+      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2038551",
+      "publishedDateTime": "2022-03-30T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bdnews24",
+        "domain": "bdnews24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-how-to-find-the-business-value-in-ai-and-ml.md",
+      "title": "How to find the business value in AI and ML",
+      "excerpt": "Despite the fact that businesses are increasingly undertaking initiatives to leverage ML and AI, many tools and projects lack appropriate resources, are far less productive than they should be, lag in deployment,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/",
+      "originalUrl": "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/how-to-find-the-business-value-in-ai-and-ml/amp/",
+      "publishedDateTime": "2022-03-30T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-aera-technology-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
+      "title": "Aera Technology Named Winner in 2022 Artificial Intelligence Excellence Awards",
+      "excerpt": "Aera Technology, the Decision Intelligence company, today announced it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards. Aera was recognized for its innovative Aera Decision Cloud™ platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aera-technology-named-winner-2022-artificial-intelligence-excellence-/2022/03/30/9573441.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aera-technology-named-winner-2022-artificial-intelligence-excellence-/2022/03/30/9573441.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve.md",
+      "title": "The Scarcity Of AI Talent: A Problem Of Our Own Making Is A Problem We Can Solve",
+      "excerpt": "The scarcity of AI talent is not an inevitable state of nature — it’s just easy to tell ourselves the story that it is, even as our own actions perpetuate the problem. The good news is that the problems we create,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/",
+      "originalUrl": "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/622772ce83369a21d3beb604/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/judithspitz/2022/03/30/the-scarcity-of-ai-talent-a-problem-of-our-own-making-is-a-problem-we-can-solve/amp/",
+      "publishedDateTime": "2022-03-30T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-lotus-eletre-suv-revealed-with-hidden-self-driving-tech-tesla-doesnt-use.md",
+      "title": "Lotus Eletre SUV revealed with hidden self-driving tech Tesla doesn't use",
+      "excerpt": "The Eletre is slightly longer than a Ford Explorer, but only has two rows of seats. It’s equipped with a 600 hp all-wheel-drive system that Lotus says will be able to accelerate",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla",
+      "originalUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/03/720/405/lotus-5.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/lotus-eletre-suv-hidden-self-driving-tech-tesla.amp",
+      "publishedDateTime": "2022-03-30T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-get-ready-for-the-industrial-intelligence-revolution.md",
+      "title": "Get Ready For The Industrial Intelligence Revolution",
+      "excerpt": "Industry 4.0 is bringing disruptive changes, converting industrial spaces to smart, connected and intelligent environments. Manufacturing has been irreversibly changed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
+      "publishedDateTime": "2022-03-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain.md",
+      "title": "How The Digital Ecosystem Improves Engagement Across The Manufacturing Value Chain",
+      "excerpt": "Digital transformation is disrupting all industries globally and has accelerated over the last two years during the pandemic. The Industry 4.0 market, currently estimated at $116 billion, is expected to grow at a CAGR of 16.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6242fa6e9eceb44afd4ab6ab/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/03/30/how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain/amp/",
+      "publishedDateTime": "2022-03-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-palo-alto-networks-launches-a-managed-next-generation-firewall-service-for-aws-to-accelerate-enterprise-journey-to-cloud.md",
       "title": "Palo Alto Networks Launches a Managed Next-Generation Firewall Service for AWS to Accelerate Enterprise Journey to Cloud",
       "excerpt": "Palo Alto Networks (NASDAQ: PANW), a 10-time leader in network firewalls, today announced that it has teamed up with Amazon Web Services (AWS) to unveil the new Palo Alto Networks Cloud NGFW for AWS — a managed Next-Generation Firewall (NGFW) service designed to simplify securing AWS deployments — enabling organizations to speed their pace of innovation while remaining highly secure.",
@@ -674,453 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-omniml-releases-platform-for-building-lightweight-ml-models-for-the-edge.md",
-      "title": "OmniML releases platform for building lightweight ML models for the edge",
-      "excerpt": "OmniML’s solution enables users to design, optimize and deploy advanced machine learning models to hardware devices at the network edge. It’s designed to enable enterprises to use small, scalable, and efficient machine learning models to give edge devices the ability to perform AI inference tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/GettyImages-1193139738-e1632245679253.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/omniai-releases-platform-for-building-lightweight-ml-models-for-the-edge/amp/",
-      "publishedDateTime": "2022-03-29T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-how-speech-recognition-and-ai-are-fighting-insurance-fraud.md",
-      "title": "How Speech Recognition and AI are Fighting Insurance Fraud",
-      "excerpt": "By Nigel Cannings, CTO at Intelligent Voice. Speech recognition and AI technology are at the forefront of the fight against fraud in the insurance sector. As fraudulent individuals and organisations evolve,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/",
-      "originalUrl": "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/03/iStock-1173091710.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-speech-recognition-and-ai-are-fighting-insurance-fraud/",
-      "publishedDateTime": "2022-03-29T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-video-teslas-new-full-self-driving-technology-still-a-work-in-progress.md",
-      "title": "VIDEO: Tesla's new \"full-self driving\" technology still a work in progress",
-      "excerpt": "Don't let the phrase \"full-self driving\" fool you. It's going to be a while before drivers can let their Tesla do all the",
-      "sourceUrl": null,
-      "webUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "originalUrl": "https://www.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.kelownanow.com/files/files/images/tewtes.jpg",
-          "width": 828,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "cdnAmpWebUrl": "https://amp-kelownanow-com.cdn.ampproject.org/c/s/amp.kelownanow.com/watercooler/news/news/Kelowna/VIDEO_Tesla_s_new_full_self_driving_technology_still_a_work_in_progress",
-      "publishedDateTime": "2022-03-29T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kelowna",
-        "domain": "kelownanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-trace3-doubles-down-on-strategic-partnership-with-effectual-for-enterprise-aws-cloud-expertise.md",
-      "title": "Trace3 Doubles Down on Strategic Partnership with Effectual for Enterprise AWS Cloud Expertise",
-      "excerpt": "Trace3 Doubles Down on Strategic Partnership with Effectual for Enterprise AWS Cloud Expertise. Effectual, an AWS Premier Consulting Partner, and Trace3 deliver services for migra",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/03/29/9572826.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/03/29/9572826.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-trendforce-aws-to-give-arm-a-leg-up-to-22-of-datacenter-servers-by-2025.md",
-      "title": "TrendForce: AWS to give Arm a leg up to 22% of datacenter servers by 2025",
-      "excerpt": "The increasing adoption of Arm-compatible processors by cloud service providers is expected to grow the CPU architecture's penetration rate in datacenter servers to 22 percent by 2025, according to a report by Taiwan-based research firm TrendForce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/",
-      "originalUrl": "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/29/server_shutterstock.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/",
-      "publishedDateTime": "2022-03-29T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-heatwave-ml-real-time-intelligence-comes-to-mysql.md",
-      "title": "HeatWave ML: Real-Time Intelligence Comes To MySQL",
-      "excerpt": "Senior Analyst, Matt Kimball, covers Oracle's new MySQL Heatwave which enables organizations to run OLTP and analytics from a single database, eliminating extract, transform, load (ETL) functions or the need to maintain multiple databases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624360b4b7f6e4cfc8415639/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/",
-      "publishedDateTime": "2022-03-29T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow.md",
-      "title": "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow",
-      "excerpt": "March 29, 2022 /PRNewswire/ -- TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox59.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
-      "originalUrl": "https://fox59.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-otterai-which-powers-speech-transcription-with-ai-unveils-updates.md",
-      "title": "Otter.ai, which powers speech transcription with AI, unveils updates",
-      "excerpt": "The new Otter.ai hopes to streamline communication with what the company claims is \"the first use of conversational AI to power meetings.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/otter-ai-which-powers-speech-transcription-with-ai-unveils-updates/amp/",
-      "publishedDateTime": "2022-03-29T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-boostupai-raises-29m-to-better-support-revenue-operations.md",
-      "title": "BoostUp.ai raises $29M to better support revenue operations",
-      "excerpt": "Santa Clara headquartered revenue operations platform BoostUp.ai today raised $28.5 million as part of its series B round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-680315933.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/boostup-ai-raises-29m-to-better-support-revenue-operations/amp/",
-      "publishedDateTime": "2022-03-29T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-oracle-adds-automl-to-its-mysql-heatwave-service.md",
-      "title": "Oracle adds autoML to its MySQL HeatWave service",
-      "excerpt": "Oracle has added autoML, real-time elasticity, and price-performance trade-offs to Heatwave, the analytics engine it piggybacks on MySQL transactional database. Nipun Agarwal, veep of HeatWave and advanced development at Oracle,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/29/oracle_automl_mysql/?td=amp-keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/03/29/oracle_automl_mysql/?td=amp-keepreading-btm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

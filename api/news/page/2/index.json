@@ -2,6 +2,251 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-05-how-ai-could-help-predictand-avoidsports-injuries-boost-performance.md",
+      "title": "How AI Could Help Predict—and Avoid—Sports Injuries, Boost Performance",
+      "excerpt": "Computer vision, the technology behind facial recognition, will change the game in real-time analysis of athletes and sharpen training prescriptions, analytics experts say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_listc_pos3",
+      "originalUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_listc_pos3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-555376/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
+      "publishedDateTime": "2022-06-04T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-05-to-evolve-ai-must-face-its-limitations.md",
+      "title": "To evolve, AI must face its limitations",
+      "excerpt": "And let’s face it: although not perfect, AI’s capabilities are pretty impressive. Even something as seemingly simple and routine as a Google search represents one of AI’s most successful examples, capable of searching vastly more information at a vastly greater rate than humanly possible and consistently providing results that are (at least most of the time) exactly what you were looking for.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
+      "originalUrl": "https://thenextweb.com/news/ai-must-face-its-limitations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fmatrix-brain.jpg&signature=5e2613be0fd78bfb07d0ec832129756b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-04T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-05-technical-training-for-school-students-to-promote-robotics-ai.md",
+      "title": "Technical Training For School Students To Promote Robotics, AI",
+      "excerpt": "Learning curves have drastically shifted for school students in the past 2.5 years, owing to the Covid-19 induced challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
+      "originalUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/06/04/1296068-training.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
+      "publishedDateTime": "2022-06-04T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-what-hugging-face-and-microsofts-collaboration-means-for-applied-ai.md",
+      "title": "What Hugging Face and Microsoft’s collaboration means for applied AI",
+      "excerpt": "What happens when one of the biggest cloud and enterprise software players teams up with a leading hub for transformer models?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
+      "originalUrl": "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FHugging-Face-Microsoft.jpg&signature=137aa33a60ae3a08c1badc772b43d00e",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-mumbai-based-fintech-kiyaai-launches-indias-first-banking-metaverse-kiyaverse.md",
+      "title": "Mumbai-Based Fintech Kiya.ai Launches India’s First Banking Metaverse ‘Kiyaverse’",
+      "excerpt": "Kiya.ai has launched India’s first banking Metaverse, Kiyaverse, which will be used by banks and NBFCs to enable virtual interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
+      "originalUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/06/Kiyaverse-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
+      "publishedDateTime": "2022-06-04T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars.md",
       "title": "AI Ethics And The Perplexing Societal And Legal Role Of AI Activism, Including In The Case Of Autonomous Self-Driving Cars",
       "excerpt": "AI activism is on the rise, dovetailing into the AI Ethics movement, so it is worthy to take a close look at what AI activism is all about, including in the case of AI-based self-driving cars.",
@@ -150,7 +395,7 @@
       "originalUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -497,7 +742,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-61685117?at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=4FB0FBCE-E3DB-11EC-83F3-F28731EBDC67&at_custom1=%5Bpost+type%5D",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -688,7 +933,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -965,256 +1210,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital.md",
-      "title": "Digital Documentation: Arteria AI Receives Investment Co-Led by Citi SPRINT, BDC Capital",
-      "excerpt": "Arteria AI, a global “leader” in enterprise digital documentation ... also represents a great opportunity to support a female-founded and led enterprise FinTech company.” This investment co-led by BDC Capital, which “helps develop high-growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/08/Digital-Dollar-USD-Washington.jpg",
-          "width": 1080,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/amp/",
-      "publishedDateTime": "2022-06-02T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-automation-is-not-enough-buildings-need-ai-powered-smarts.md",
-      "title": "Automation is not enough: Buildings need AI-powered smarts",
-      "excerpt": "The importance of healthy workplaces, security and conservation makes developing reliable AI-based smart building systems urgent.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/02/automation-is-not-enough-buildings-need-ai-powered-smarts/",
-      "originalUrl": "https://venturebeat.com/2022/06/02/automation-is-not-enough-buildings-need-ai-powered-smarts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1332612761.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/02/automation-is-not-enough-buildings-need-ai-powered-smarts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/automation-is-not-enough-buildings-need-ai-powered-smarts/amp/",
-      "publishedDateTime": "2022-06-02T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
-      "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
-      "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
-      "originalUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/rebellions_ION-1.png?w=680",
-          "width": 680,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
-      "publishedDateTime": "2022-06-02T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-lenovo-looks-to-bring-ai-intelligence-to-the-edge.md",
-      "title": "Lenovo looks to bring AI intelligence to the edge",
-      "excerpt": "Among the many vendors eyeing a piece of the artificial intelligence (AI ... NX platform and integrates with the Amazon Web Services (AWS) Panorama service for AI computer vision (CV) processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/",
-      "originalUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/",
-      "publishedDateTime": "2022-06-02T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions.md",
-      "title": "Amazon SageMaker Notebook Instances now support configuring and restricting IMDS versions",
-      "excerpt": "Today, we’re excited to announce that Amazon SageMaker now supports the ability to configure Instance Metadata Service Version 2 (IMDSv2) for Notebook Instances, and for administrators to control the minimum version with which end-users create new Notebook Instances. You can now choose IMDSv2 only for",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/02/sagemaker-imds-versions.jpg",
-          "width": 1000,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T15:02:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

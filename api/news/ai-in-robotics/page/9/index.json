@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-30-get-ready-for-the-industrial-intelligence-revolution.md",
+      "title": "Get Ready For The Industrial Intelligence Revolution",
+      "excerpt": "Industry 4.0 is bringing disruptive changes, converting industrial spaces to smart, connected and intelligent environments. Manufacturing has been irreversibly changed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/612cfe722afc9777411adcb0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/30/get-ready-for-the-industrial-intelligence-revolution/amp/",
+      "publishedDateTime": "2022-03-30T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-how-the-digital-ecosystem-improves-engagement-across-the-manufacturing-value-chain.md",
       "title": "How The Digital Ecosystem Improves Engagement Across The Manufacturing Value Chain",
       "excerpt": "Digital transformation is disrupting all industries globally and has accelerated over the last two years during the pandemic. The Industry 4.0 market, currently estimated at $116 billion, is expected to grow at a CAGR of 16.",
@@ -1305,49 +1357,6 @@
       "provider": {
         "name": "uah",
         "domain": "uah.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-24-cagr-of-227-cleaning-robot-market-size-to-hit-usd-3494-billion-in-2028-says-brandessence-market-research.md",
-      "title": "CAGR of 22.7%, Cleaning Robot Market Size to hit USD 34.94 Billion in 2028, Says Brandessence Market Research",
-      "excerpt": "The Cleaning Robot Market Value is expected to record a valuation of USD 34.94 Billion by 2028, Registering to Accelerate at a 22.7% CAGR, According to the most recent study by Brandessence Market Research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cagr-227-cleaning-robot-market-size-hit-usd-/2022/03/24/9570077.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cagr-227-cleaning-robot-market-size-hit-usd-/2022/03/24/9570077.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

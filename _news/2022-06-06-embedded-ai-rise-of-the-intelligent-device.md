@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-
 ampWebUrl: "https://venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:

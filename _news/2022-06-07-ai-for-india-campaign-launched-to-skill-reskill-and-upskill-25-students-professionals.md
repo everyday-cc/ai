@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T17:17:00Z
 originalUrl: "https://menafn.com/1104331059/AI-For-India-Campaign-Launched-To-Skill-Reskill-And-Upskill-25-Students-Professionals"
 webUrl: "https://menafn.com/1104331059/AI-For-India-Campaign-Launched-To-Skill-Reskill-And-Upskill-25-Students-Professionals"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

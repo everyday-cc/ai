@@ -34,6 +34,15 @@ related:
         width: 430
         height: 242
         isCached: true
+  - title: "An artificial intelligence pilots a modern Mayflower to Canada."
+    excerpt: "The robot ship designed by IBM was meant to dock in Massachusetts, but mechanical trouble forced it to dock in Halifax, Canada. The ship didn't have a crew."
+    publishedDateTime: 2022-06-06T18:10:00Z
+    webUrl: "https://www.kalw.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada"
+    type: article
+    provider:
+      name: KALW
+      domain: kalw.org
+    quality: 19
 
 secured: "dA+fyiXjwWnKFwCs6qF4QvdxqM/vBpHrDXpU7R4J0wPQrebs1ZqivSMhotHBR/nj+YDsbwNTK9gWo6lQZgI+7rNOiVy2+vUwBq9rZle/SuRMOol0mHEnGNk3tShFBbBLTkH8OaTI+BQE4oBi1xWacowuZdku4eQiqGFiAzG1lQ5ID3Ag4/TIhDUVsVINQVEpVk0VbP9z8C9RjRHL8uOJtV8o8kIynCYcQ+JuBn5nEQV+bCb83PEqgs5ySyCKTLzPv7EhJA7aqXaJxq45z6ck4N1J/8HMAeVvbbuJMMEBF9eBig8fzsF8o0GxB6cm+eRyfky+NnkKJrllu7J62Y8dsAtUBFW2/JzBg8xTTi0wPaQ=;nkWaCPw1hpmugBtqDpJtaA=="
 ---

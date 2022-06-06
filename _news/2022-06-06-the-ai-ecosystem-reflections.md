@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 645
         isCached: true
-  - title: "C3.ai’s Revenue Projections Fall Short. The AI Company’s Stock Swoons."
-    excerpt: "Shares of the artificial intelligence software company C3.ai were trading sharply lower after the company provided disappointing guidance for the July quarter and the full fiscal year ending in April 2023. For the quarter ended April 30, C3.ai (ticker ..."
-    publishedDateTime: 2022-06-02T12:40:00Z
-    webUrl: "https://www.barrons.com/articles/c3-ai-stock-price-earnings-revenue-51654128388?refsec=technology"
-    ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-stock-price-earnings-revenue-51654128388"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-stock-price-earnings-revenue-51654128388"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-449799/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI facial recognition, the new detention"
     excerpt: "Increasingly governments around the world are turning to AI facial recognition apps as cost saving surveillance measures."
     publishedDateTime: 2022-06-04T22:39:00Z

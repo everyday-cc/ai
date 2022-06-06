@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-not
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions/"
 type: article
 quality: 80
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,29 @@ images:
     isCached: true
 
 related:
+  - title: "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas"
+    excerpt: "Retail businesses are data-driven—they analyze data to get insights about consumer behavior, understand shopping trends, make product recommendations, optimize websites, plan for inventory, and forecast sales. A common approach for sales forecasting is to use historical sales data to predict future demand."
+    publishedDateTime: 2022-06-06T19:23:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 105
+  - title: "Accelerate and improve recommender system training and predictions using Amazon SageMaker Feature Store"
+    excerpt: "Many companies must tackle the difficult use case of building a highly optimized recommender system. The challenge comes from processing large volumes of data to train and tune the model daily with new data and then make predictions based on user behavior during an active engagement. In this post, we"
+    publishedDateTime: 2022-06-03T16:48:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-and-improve-recommender-system-training-and-predictions-using-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/accelerate-and-improve.jpg"
+        width: 1000
+        height: 498
+        isCached: true
   - title: "Detect financial transaction fraud using a Graph Neural Network with Amazon SageMaker"
     excerpt: "Fraud plagues many online businesses and costs them billions of dollars each year. Financial fraud, counterfeit reviews, bot attacks, account takeovers, and spam are all examples of online fraud and malicious behaviors. Although many businesses take approaches to combat online fraud, these existing approaches"
     publishedDateTime: 2022-06-02T18:24:45Z

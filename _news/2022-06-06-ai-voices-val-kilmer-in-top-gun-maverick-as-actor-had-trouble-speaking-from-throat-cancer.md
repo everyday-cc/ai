@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Val Kilmer’s Top Gun: Maverick dialog was all AI since he can no longer speak"
+    excerpt: "An interview with Val Kilmer's daughter revealed that he used a special voice AI to bring Iceman to life in Top Gun: Maverick."
+    publishedDateTime: 2022-06-06T04:11:00Z
+    webUrl: "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/"
+    ampWebUrl: "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/06/val-kilmer-as-iceman-in-top-gun-maverick.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1031
+        isCached: true
   - title: "Val Kilmer's Dialogue In Top Gun: Maverick Was Read By AI Because He Can No Longer Speak"
     excerpt: "He now has to use a voice box to communicate, and last year revealed that they had to use special AI software to allow him to speak in the new Top Gun film. Described as a 'Photoshop for voice', the tool is available for the actor to use for communicating in his professional and personal life."
     publishedDateTime: 2022-06-03T15:32:00Z

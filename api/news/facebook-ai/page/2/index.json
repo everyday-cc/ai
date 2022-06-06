@@ -2,6 +2,178 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-05-facebook-ai-and-a-less-friendly-news-feed.md",
+      "title": "Facebook, AI, and a less friendly news feed",
+      "excerpt": "... company’s main competitive response to TikTok will be to change the way that Facebook and Instagram news feeds function, relying more heavily on artificial intelligence to select and promote the content that features in users’ news feeds. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cjr.org/the_media_today/facebook-ai-and-a-less-friendly-news-feed.php",
+      "originalUrl": "https://www.cjr.org/the_media_today/facebook-ai-and-a-less-friendly-news-feed.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Columbia Journalism Review",
+        "domain": "cjr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-facebooks-parent-developed-a-new-ai-language-model-now-its-giving-it-away-for-research.md",
+      "title": "Facebook's Parent Developed A New AI Language Model — Now It's Giving It Away For Research",
+      "excerpt": "Facebook parent Meta Platforms Inc (NASDAQ ... Recently, Meta CEO Mark Zuckerberg said that the company is working on AI research to allow people to have more natural conversations with voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/22/05/26982582/facebooks-parent-developed-new-artificial-intelligence-language-now-its-giving-it-away",
+      "originalUrl": "https://www.benzinga.com/news/22/05/26982582/facebooks-parent-developed-new-artificial-intelligence-language-now-its-giving-it-away",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/05/04/markus-spiske-8oykwqgbskq-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26982582",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26982582",
+      "publishedDateTime": "2022-05-04T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers.md",
+      "title": "Facebook-owner Meta makes AI large language model accessible for more researchers",
+      "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. Meta said its model was the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/",
+      "originalUrl": "https://www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/meta.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/facebook-owner-meta-makes-ai-large-language-model-accessible-for-more-researchers/2512260/lite/",
+      "publishedDateTime": "2022-05-03T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
+      "title": "Facebook-owner Meta opens access to AI large language model",
+      "excerpt": "May 3 (Reuters) - Facebook-owner Meta Platforms Inc (FB.O) is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/",
+      "originalUrl": "https://www.reuters.com/technology/facebook-owner-meta-opens-access-ai-large-language-model-2022-05-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/HyLCKe6thWvXteMsiyFhttvHFQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CYL4EW5CPRNGBMHAPWE5VAGPAQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-facebook-owner-meta-opens-access-to-ai-large-language-model.md",
       "title": "Facebook-owner Meta opens access to AI large language model",
       "excerpt": "Facebook-owner Meta Platforms Inc is opening up access to a large language model for artificial intelligence research, the social media company said on Tuesday. May 3 (Reuters) - Facebook-owner ...",
@@ -1210,210 +1382,6 @@
         "AI",
         "Facebook AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-are-we-ready-to-transform-lives-with-ai.md",
-      "title": "Are We Ready To Transform Lives With AI?",
-      "excerpt": "AI has paved the way for dynamic changes at the workplace and in personal life, by automating a host of processes and activities",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/423551",
-      "originalUrl": "https://www.entrepreneur.com/article/423551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1648708439-Myproject141.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-30T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-omniml-secures-10-million-to-accelerate-ai-computing-on-edge-devices.md",
-      "title": "OmniML Secures $10 Million to Accelerate AI Computing on Edge Devices",
-      "excerpt": "OmniML, a startup developing smaller and faster machine learning models, today announced $10 million in seed funding to accelerate the use of artificial intelligence (AI) on edge devices. GGV Capital led the round with additional investment",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20309928.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20309928.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database.md",
-      "title": "Pinecone gears up to support next-gen web apps with AI-powered database",
-      "excerpt": "Pinecone's AI-powered database is optimized to speed up queries to improve the efficiency of complex operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
-      "originalUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1352189853-1-e1648494908738.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/29/pinecone-gears-up-to-support-next-gen-web-apps-with-ai-powered-database/amp/",
-      "publishedDateTime": "2022-03-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-a-wave-of-billion-dollar-language-ai-startups-is-coming.md",
-      "title": "A Wave Of Billion-Dollar Language AI Startups Is Coming",
-      "excerpt": "Given language’s ubiquity throughout the economy, few areas of technology will have a more far-reaching impact in the years ahead than NLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6240e81218e4f5d1deaf91c3/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/amp/",
-      "publishedDateTime": "2022-03-27T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Google AI",
-        "Facebook AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Startup launches 10-minutes liquor delivery service in Kolkata"
-    excerpt: "Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform."
-    publishedDateTime: 2022-06-02T04:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup-launches-10-minutes-liquor-delivery-service-in-kolkata-8626171.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/startup-launches-10-minutes-liquor-delivery-service-in-kolkata-8626171.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup-launches-10-minutes-liquor-delivery-service-in-kolkata-8626171.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 42
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2020/10/Liquor-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Hyderabad startup launches 10-minutes liquor delivery service in Kolkata"
     excerpt: "A Hyderabad-based startup has launched its services in Kolkata of delivering liquor in 10 minutes, the firm said in a statement. Booozie, the flagship brand of Innovent Technologies Private Limited, claimed it is India's first 10-minute liquor delivery platform."
     publishedDateTime: 2022-06-02T05:37:00Z

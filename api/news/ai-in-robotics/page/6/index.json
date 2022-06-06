@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-26-a-model-to-improve-robots-ability-to-hand-over-objects-to-humans.md",
+      "title": "A model to improve robots' ability to hand over objects to humans",
+      "excerpt": "For decades, researchers worldwide have been trying to develop robots that can efficiently assist humans and work alongside them as they tackle a variety of everyday tasks. To do this effectively, however,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.html",
+      "originalUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-model-to-improve-rob.jpg",
+          "width": 2040,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-04-robots-ability-humans.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-04-robots-ability-humans.amp",
+      "publishedDateTime": "2022-04-26T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-the-other-ai-augmented-intelligence.md",
       "title": "The Other AI: Augmented Intelligence",
       "excerpt": "Augmented intelligence is empowering organizations with resources that impact ease, effectiveness and emotion for customers and employees that move traditional measures and CSAT in new ways. One type of augmented intelligence,",
@@ -1319,50 +1362,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-turnbulls-ai-robotics-bet-taps-investors-for-blockbuster-raising.md",
-      "title": "Turnbull’s AI robotics bet taps investors for blockbuster raising",
-      "excerpt": "AI robotics innovator Advanced Navigation has had no trouble finding its path to market. The company, which counts former Prime Minister Malcolm Turnbull as a director, is tapping investors this month to raise between $80 million and $135 million and is expected to have no trouble getting the raise away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/street-talk/turnbull-s-ai-robotics-bet-taps-investors-for-blockbuster-raising-20220419-p5aegf",
-      "originalUrl": "https://www.afr.com/street-talk/turnbull-s-ai-robotics-bet-taps-investors-for-blockbuster-raising-20220419-p5aegf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_0.5828%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_405%2C$y_518/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/deb6deddee4d769777d4d19f8c52a0e5d693186d",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-19T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

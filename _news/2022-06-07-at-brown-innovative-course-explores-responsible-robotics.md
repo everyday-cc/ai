@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T19:38:00Z
 originalUrl: "https://www.brown.edu/news/2022-06-06/choreorobotics"
 webUrl: "https://www.brown.edu/news/2022-06-06/choreorobotics"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Brown University

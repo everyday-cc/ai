@@ -2,6 +2,189 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-09-5-best-ai-stocks-for-2022.md",
+      "title": "5 Best AI Stocks for 2022",
+      "excerpt": "The California-based tech giant utilizes AI in blocking misinformation and other harmful content on its family of apps. Additionally, AI tools developed by Meta Platforms, Inc. (NASDAQ:FB) play a major role in improving the customer shopping experience on Facebook,",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-08T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips.md",
+      "title": "Meta claims its AI improves speech recognition quality by reading lips",
+      "excerpt": "People perceive speech both by listening to it and watching the lip movements of speakers. In fact, studies show that visual cues play a key role in language learning. By contrast",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/",
+      "originalUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1351969920.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/",
+      "publishedDateTime": "2022-01-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-behind-huggingfaces-bigscience-project-that-crowdsources-research-on-large-language-models.md",
+      "title": "Behind HuggingFace’s BigScience Project that crowdsources research on large language models",
+      "excerpt": "The BigScience project is an ambitious attempt at creating a globally expansive and collaborative LLM model designed purely for research.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/behind-hugginfaces-bigscience-project-that-crowdsources-research-on-large-language-models/",
+      "originalUrl": "https://analyticsindiamag.com/behind-hugginfaces-bigscience-project-that-crowdsources-research-on-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Untitled-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-gestalt-diagnostics-and-mindpeak-provide-the-first-artificial-intelligence-based-diagnostics-solution-used-in-clinical-routine-pathology-in-the.md",
+      "title": "Gestalt Diagnostics and MindPeak provide the first Artificial Intelligence based diagnostics solution used in clinical routine pathology in the USA",
+      "excerpt": "Hamburg, Germany, based Mindpeak and Spokane, WA, based Gestalt Diagnostics have achieved a major success on their way to improve patient care with Digital Pathology and Artificial Intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-health-united-states-spokane-artificial-intelligence-192541526b721f6e8f049dabf37fb267",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-health-united-states-spokane-artificial-intelligence-192541526b721f6e8f049dabf37fb267",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-abi-research-2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality.md",
       "title": "ABI Research: 2022 Will See Increasing AI Role in Augmented and Virtual Reality",
       "excerpt": "Trend Report identifies the key AR market trend that will deliver in 2022-and the one that won't NEW YORK, Jan. 4, 2022 /PRNewswire/ -- In its new whitepaper, 70 Technology",

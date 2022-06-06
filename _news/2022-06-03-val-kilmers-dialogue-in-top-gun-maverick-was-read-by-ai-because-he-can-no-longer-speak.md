@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ladbible.com/entertainment/val-kilmers-dialogue-top-gun-
 cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/entertainment/val-kilmers-dialogue-top-gun-maverick-read-ai-20220603.amp.html"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Val Kilmer’s Top Gun: Maverick dialog was all AI since he can no longer speak"
+    excerpt: "An interview with Val Kilmer's daughter revealed that he used a special voice AI to bring Iceman to life in Top Gun: Maverick."
+    publishedDateTime: 2022-06-06T04:11:00Z
+    webUrl: "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/"
+    ampWebUrl: "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/06/val-kilmer-as-iceman-in-top-gun-maverick.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1031
+        isCached: true
   - title: "AI voices Val Kilmer in Top Gun: Maverick as actor had trouble speaking from throat cancer"
     excerpt: "Maverick has broken barriers on its way into the stratosphere since the film launched into theatres in May. It had the highest-grossing opening weekend for a Tom Cruise-led film, proving that there is still a market"
     publishedDateTime: 2022-06-06T02:43:00Z

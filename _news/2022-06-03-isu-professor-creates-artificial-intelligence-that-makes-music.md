@@ -7,7 +7,7 @@ originalUrl: "https://www.kpvi.com/news/local_news/isu-professor-creates-artific
 webUrl: "https://www.kpvi.com/news/local_news/isu-professor-creates-artificial-intelligence-that-makes-music/article_9ac5e5b6-e2d2-11ec-bdc1-8bbd813a6cbc.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "ISU professor creates AI — named Pop* — able to compose music"
-    excerpt: "A computer scientist from Idaho State University has created an artificial intelligence system able to compose music. Pop* — pronounced Pop Star — is the brainchild of Paul Bodily, an assistant professor of computer science at ISU,"
-    publishedDateTime: 2022-06-02T02:53:00Z
-    webUrl: "https://www.eastidahonews.com/2022/06/isu-professor-creates-ai-named-pop-able-to-compose-music/"
-    type: article
-    provider:
-      name: East Idaho News
-      domain: eastidahonews.com
-    quality: 37
-    images:
-      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2022/05/27094655/Bodily_2.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "J7yq9r1GPpy3KWUV2JzO/kQTJoy8/hCPHO5XcDHrA1Od9tfu0eVgSXKUyEvxWALzIdP5RNSre6AsFFJYZzI0Z8fw2B3qZgu9YfytpS+sGR7lX4XO0udYrg8YEsFV7/WidLGW4nCcmp7tp49lTm5cLKNT4PuuiwUB6w8YU3yUV9rNkjcQH7dZrD9y+jGGUlcqkzrHsvbN5usbQNRaxhUMFANtbrZrO4Vk/BnvvRCeXRvLz/7xcBXjoONDKbLiVg47514N+Tr8bqxobphpdvKUq2INpkG/qCcbWIfw3Q+DJuu6RGWCOaiOozz7lt8oDvj6JTfgqbmXVlVltLlTX11MU2u0IoilwKh9L7uUwa5Q4QP52qsEQDYsidVlT97bnmOBFAyd/GdfADepezSQycggFiJ0TwDiBbnZako1dXEfZO/s30YrRpz4qahOFHRTUPurLAy/hbJHgV+FM97slVj6ZuwVxQESWDdBn+2q+vFRu9/IWMhc9TBgooh0kRvbZEEZbQtNVBva27uueSg78CzkvA==;vLylrr/k4/UpRIqHl/LKVw=="
 ---

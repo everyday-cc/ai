@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T18:30:00Z
 originalUrl: "https://seekingalpha.com/article/4516700-intel-texas-instruments-and-insatiable-demand-for-digital-and-analog-chips"
 webUrl: "https://seekingalpha.com/article/4516700-intel-texas-instruments-and-insatiable-demand-for-digital-and-analog-chips"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Seeking Alpha

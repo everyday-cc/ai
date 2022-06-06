@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
+      "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
+      "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "originalUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png",
+          "width": 1500,
+          "height": 942,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T17:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-study-shows-ai-deep-learning-models-can-detect-race-in-medical-imaging.md",
       "title": "Study shows AI deep learning models can detect race in medical imaging",
       "excerpt": "A recent study found that AI deep learning models can be trained to identify race in these same medical images. Something radiologists could only determine with 50 percent accuracy. “The AI ...",
@@ -1393,50 +1437,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet.md",
-      "title": "Too Little Too Late: Apple Reverses Remote Work Policy After Machine Learning Head Decamps to Alphabet",
-      "excerpt": "Well, this is awkward. One of Apple’s highest-profile return-to-office detractors reportedly landed a new gig at Alphabet’s DeepMind, marking the latest drama over Big Tech’s remote work ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/1df6fad1a744c6167d22b8a2880b1d68.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/amp/",
-      "publishedDateTime": "2022-05-18T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,272 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-30-artificial-intelligence-a-gift-for-healthcare.md",
+      "title": "Artificial Intelligence: A gift for healthcare",
+      "excerpt": "From diagnosis to treatment, from prevention to therapeutics, artificial intelligence has made many things possible which had been unachievable before.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-91880419,width-1070,height-580,imgsize-156724,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms",
+      "publishedDateTime": "2022-05-29T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-new-insights-into-the-complexity-of-the-brain.md",
+      "title": "New Insights Into the Complexity of the Brain",
+      "excerpt": "Neurology research can include information involving brain research, neurological disorders, medicine, brain cancer, peripheral nervous systems, central nervous systems, nerve damage, brain tumors, seizures,",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/computer-neuron-model-20693/",
+      "originalUrl": "https://neurosciencenews.com/computer-neuron-model-20693/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-29T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-i-tried-googles-text-to-image-ai-and-i-was-shocked-by-the-results.md",
+      "title": "I tried Google's text-to-image AI, and I was shocked by the results",
+      "excerpt": "Text-to-image artificial intelligence programs aren’t anything new. Indeed, existing neural networks like DALL-E have impressed us with their ability to generate simple, photorealistic images ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/i-tried-googles-text-to-image-ai-and-was-shocked-by-the-results",
+      "originalUrl": "https://www.techradar.com/news/i-tried-googles-text-to-image-ai-and-was-shocked-by-the-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uFKwu2BZZ5mhKVe5YmpbDS-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-29T17:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-global-artificial-intelligence-platform-market-2022-business-scenario-corporate-profiles-competitive-strategy-analysis-and-forecast-2028.md",
+      "title": "Global Artificial Intelligence Platform Market 2022 - Business Scenario, Corporate Profiles, Competitive Strategy Analysis and Forecast 2028",
+      "excerpt": "The Global Artificial Intelligence Platform Market industry study has been published by MarketsandResearch.biz",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2022---business-scenario-corporate-profiles-competitive-strategy-analysis-and-forecast-2028-2022-05-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2022---business-scenario-corporate-profiles-competitive-strategy-analysis-and-forecast-2028-2022-05-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-29T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-microsofts-new-execs-helping-win-at-azure-ai-devices.md",
+      "title": "Microsoft’s new execs helping win at Azure, AI, devices",
+      "excerpt": "Marco Casalaina, Ajith Thekadath and Ashley Hart are just some of the new faces at the tech giant as it invests to accelerate its market position in cloud, artificial intelligence, devices and other areas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620",
+      "originalUrl": "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/20220531071319_crn-14_microsoft_iStock-1191485295.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-29T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-29-ai-based-traffic-management-system-in-delhi-soon-say-officials.md",
+      "title": "AI-based traffic management system in Delhi soon, say officials",
+      "excerpt": "To reduce congestion and facilitate faster vehicular movement, Delhi Traffic Police is planning an Integrated Traffic Management System which works on machine learning and artificial intelligence and",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials-11653821388311.html",
+      "originalUrl": "https://www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials-11653821388311.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/05/29/600x338/traffic_1653823598585_1653823598703.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials/amp-11653821388311.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials/amp-11653821388311.html",
+      "publishedDateTime": "2022-05-29T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-29-ai-the-pattern-is-not-in-the-data-its-in-the-machine.md",
       "title": "AI: The pattern is not in the data, it's in the machine",
       "excerpt": "No, the patterns computers create are not an inherent property of data, they are an emergent property of the structure of the program itself.",
@@ -872,282 +1138,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
-      "title": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
-      "excerpt": "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/05/27/business/00cheating/00cheating-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
-      "publishedDateTime": "2022-05-27T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit.md",
-      "title": "Singapore touts need for AI transparency in launch of test toolkit",
-      "excerpt": "New pilot framework and toolkit will enable businesses to demonstrate their \"objective and verifiable\" use of artificial intelligence, says the Singapore government, which hopes to drive transparency in AI deployments through technical and process checks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
-      "publishedDateTime": "2022-05-26T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-fortinet-introduces-self-learning-ai-capabilities-in-new-network-detection-and-response-offering.md",
-      "title": "Fortinet Introduces Self-Learning AI Capabilities In New Network Detection And Response Offering",
-      "excerpt": "FortiNDR leverages machine learning and deep neural networks – the next-generation ... and response offering that leverages powerful artificial intelligence and pragmatic analytics to enable ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
-      "originalUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-05/26/M_ae5e7image_story.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-amazon-chooses-top-startups-for-2022-aws-space-accelerator-programme.md",
-      "title": "Amazon chooses top startups for 2022 AWS Space Accelerator programme",
-      "excerpt": "Amazon Web Services (AWS) - the cloud computing wing of Amazon - has selected ten participants for its 2022 AWS Space Accelerator programme, chosen for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/",
-      "originalUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2022/05/26181543/AWS-accelerator.jpg",
-          "width": 919,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-platinum-jubilee-ai-robot-paints-queens-portrait.md",
-      "title": "Platinum Jubilee: AI robot paints Queen's portrait",
-      "excerpt": "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
-      "originalUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B895/production/_124935274_mediaitem124935040.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp",
-      "publishedDateTime": "2022-05-26T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally.md",
-      "title": "Asian markets rise, encouraged by earnings and Wall Street’s rally",
-      "excerpt": "“Improved risk sentiments in Wall Street, along with earnings outperformance from Alibaba and Baidu, may aid to fuel ... banks and retailers driving much of the rally. While trading has remained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
-      "originalUrl": "https://www.marketwatch.com/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-552884/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
-      "publishedDateTime": "2022-05-26T21:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

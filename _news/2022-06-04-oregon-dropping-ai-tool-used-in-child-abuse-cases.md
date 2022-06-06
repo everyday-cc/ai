@@ -79,13 +79,13 @@ related:
         height: 632
         isCached: true
   - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
-    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
-    publishedDateTime: 2022-06-02T17:21:00Z
-    webUrl: "https://wskg.org/npr_story_post/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system/"
+    excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
+    publishedDateTime: 2022-06-02T21:12:00Z
+    webUrl: "https://wusfnews.wusf.usf.edu/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
     type: article
     provider:
-      name: WSKG
-      domain: wskg.org
+      name: Health News Florida
+      domain: usf.edu
     quality: 13
   - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
     excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
