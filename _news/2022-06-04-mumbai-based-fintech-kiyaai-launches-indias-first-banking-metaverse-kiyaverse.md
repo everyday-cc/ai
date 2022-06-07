@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metavers
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Kiya.ai launches India’s first-ever Banking Metaverse-Kiyaverse"
-    excerpt: "Kiya.ai, a digital solutions providers serving financial institutions and governments globally, today announced the launch of India’s first-ever Banking Metaverse – Kiyaverse. Kiyaverse pioneers use cases of merging real-world banking with Metaverse banking through an avatar (virtual humanoid) based interactions,"
-    publishedDateTime: 2022-06-02T13:25:00Z
-    webUrl: "https://www.freepressjournal.in/technology/kiyaai-launches-indias-first-ever-banking-metaverse-kiyaverse"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 17
   - title: "Kiya.ai launches Indian banking metaverse"
     excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor?"
     publishedDateTime: 2022-06-02T19:44:00Z

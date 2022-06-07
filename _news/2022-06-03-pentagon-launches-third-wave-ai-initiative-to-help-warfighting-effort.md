@@ -38,6 +38,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Pentagon calls for new ideas in ‘third wave’ of AI evolution"
+    excerpt: "A new artificial intelligence program attempts to streamline machine learning algorithms to make better warfighting decisions."
+    publishedDateTime: 2022-06-07T01:00:00Z
+    webUrl: "https://defensesystems.com/ai-analytics/2022/06/pentagon-launches-third-wave-ai-initiative-help-warfighting-effort/367836/"
+    type: article
+    provider:
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 37
+    images:
+      - url: "https://cdn.defensesystems.com/media/img/cd/2022/06/06/060322DARPANG/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "DARPA's '3rd Wave' AI Aims to Compute Uncertainty Along with Accuracy"
     excerpt: "The Defense Advanced Research Projects Agency is formally soliciting contracts for its new AI Exploration program. The AIE will focus on what DARPA defines as its “third wave” of artificial intelligence research,"
     publishedDateTime: 2022-06-04T12:00:00Z

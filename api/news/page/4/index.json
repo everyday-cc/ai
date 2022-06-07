@@ -1125,21 +1125,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-01-ai-ethics-what-it-is-and-why-it-matters.md",
-      "title": "AI Ethics: What It Is And Why It Matters",
-      "excerpt": "As AI proliferates, and governments attempt to catch up in structure and law to the fast growing technology, AI Ethics has emerged as a critical topic that everyone should be aware of.",
+      "path": "_news/2022-06-01-3-brilliant-minutes-artificial-intelligence-raises-questions.md",
+      "title": "3 BRILLIANT MINUTES: Artificial intelligence raises questions",
+      "excerpt": "In today’s edition of 3 Brilliant Minutes, Brad Spakowitz brings up a sticky situation related to artificial intelligence. If you could transfer ownership from the AI inventor to a person, is it the original software writer of the AI?",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/",
+      "webUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/",
+      "originalUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6296d7085f56620471be2bda/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 805,
+          "url": "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/FwdWle11_tBInLmtCmBnBtFLPhM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FJ4NAQ7UHVBZZOXQOUSOAXEPDI.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1147,23 +1147,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/amp/",
-      "publishedDateTime": "2022-05-31T20:58:00-07:00",
+      "ampWebUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wbay-com.cdn.ampproject.org/c/s/www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/?outputType=amp",
+      "publishedDateTime": "2022-05-31T22:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WBAY",
+        "domain": "wbay.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1172,7 +1163,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Healthcare",
         "AI"
       ]
     }

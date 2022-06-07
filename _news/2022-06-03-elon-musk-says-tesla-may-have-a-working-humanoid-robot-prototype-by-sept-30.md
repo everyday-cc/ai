@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototy
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/"
 type: article
 quality: 104
-heat: 215
+heat: 216
 published: true
 
 provider:

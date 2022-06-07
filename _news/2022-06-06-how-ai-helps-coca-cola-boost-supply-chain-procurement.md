@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence could help detect burnout"
-    excerpt: "While many tools and tests exist online to try to address the issue, a new method, based on artificial intelligence and the use of natural language processing, could offer new perspectives"
-    publishedDateTime: 2022-06-02T13:27:00Z
-    webUrl: "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-could-help-detect-burnout/76921/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-could-help-detect-burnout/76921/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-could-help-detect-burnout/76921/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 57
-    images:
-      - url: "https://www.forbesindia.com/media/images/2022/Jun/img_186575_professionalexhaustion.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Leveraging AI to Optimize End-to-End Supply Chain Management"
     excerpt: "Artificial Intelligence (AI), supply chain management, data analytics, inventory management, supply chain analytics"
     publishedDateTime: 2022-06-06T02:50:00Z

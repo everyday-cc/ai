@@ -16,6 +16,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -24,6 +25,6 @@ images:
     height: 1297
     isCached: true
 
-secured: "3a+qfhZyyZ2pHCQwSUWG3gfM4WIr/503dILgmWwb0I3cYiGZLKYykmq3CUcozZXWo02hMZlB5QELmIteGf2ow8aoyg7gAfbaKZeiqqnwpHQL3P8XUb18dfOt/BO9ruSDJ++d0nIcrCulIbjEdTzzXCbUQDyxl9S1oG1KwizHTwnvmD2pE0r0NU9jzTLShBp3D8Yh8wlxllrL7dIXqkL0kEFO+lfCSBZzBfBZj8sNHx6hwBiC+zjXi6B70fszRNsGHn6TztBLT2WhrvZ8mYi/TmHin1/5o9gJ/GBL/4bXY9CLhXeuFWxYcL6aZbl75eFIP/oZ2FZd5xgAw3k3vBjya68ox74w7R7mVNiEogK1A0g=;Or8YAJC6P6qYUQFWY/1pWQ=="
+secured: "r0h6Nr8clU5ZutmGWQPcINADGzPZ1veajYPyS7KdGsIl+mWHTz1ZjIaX9FxvwIQmOW/gCjdzIhbOALvrmn1Y2oDdrMNlATZtQqLuF48azDD7oFzYxvRMgqq0vpnpFSeo2lzocagOsJqwBsmgBUTA+sZ5AipS3iAsuawbNIBQAESWaWjGsPtoZ8Zi86ipOq/4B9xVCPz8l+F/9HY8BPmjOi67g+8PktxTAqm+wPdxn/kRA3iQucBAwkmY5d+uw9FX5N0Y667B6ZT0g70p4PPUrdrbfYPwLDbr8YozDWcDvQ6pDU3QABh+jNnUNUZwf3L3bKKbCOYfo3FpCsXK9AhOnB1Y2GQU2oBBxHEljUn8x+s=;3FOE/oCf0e9Ywt7zPR0W7g=="
 ---
 

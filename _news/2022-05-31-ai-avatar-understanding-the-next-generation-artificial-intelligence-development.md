@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://binarynewsnetwork.com/wp-content/uploads/2022/05/1.jpg"

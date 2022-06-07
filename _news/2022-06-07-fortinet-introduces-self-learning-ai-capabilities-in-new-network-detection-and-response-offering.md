@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "With New Hires, Pentagon’s AI Office Reaches Full Operating Capability"
+  - title: "With new hires, Pentagon’s AI Office reaches full operating capability"
     excerpt: "Stood up earlier this year, the Defense Department’s Office of the Chief Digital and Artificial Intelligence Officer, or CDAO, reached full operating capability Wednesday with the appointment of two new personnel."
-    publishedDateTime: 2022-06-02T13:58:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/06/new-hires-pentagons-ai-office-reaches-full-operating-capability/367659/"
+    publishedDateTime: 2022-06-07T06:00:00Z
+    webUrl: "https://defensesystems.com/ai-analytics/2022/06/new-hires-pentagons-ai-office-reaches-full-operating-capability/367838/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: Defense Systems
+      domain: defensesystems.com
     quality: 39
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/06/02/060222pentagonNG/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Pentagon’s AI, data office fully operational as leadership posts filled"
-    excerpt: "A top-level office the Pentagon says will speed the adoption of artificial intelligence and data analytics across the defense ecosystem achieved full operating capability, right on schedule. The Chief Digital and AI Office,"
-    publishedDateTime: 2022-06-02T14:17:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/06/02/pentagons-ai-data-office-fully-operational-as-leadership-posts-filled/"
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 37
-    images:
-      - url: "https://www.defensenews.com/resizer/jvz3CgpQPE2tzEAOQ2FpSFPtlxw=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/S5OBSEQZUJBSXN4VP3JD2V7P4Q.jpg"
-        width: 1024
-        height: 695
+      - url: "https://cdn.defensesystems.com/media/img/cd/2022/06/06/060222pentagonNG/860x394.jpg?1654571519"
+        width: 860
+        height: 394
         isCached: true
 
-secured: "4z8EwEOegfQ7LVXaXBG5oRE9thrujYzbyQcyjS6ls2Rbn9ZPsQAI3ffN+laDypLX9/OS1EzzHde630Rn0QVUb9LjZbb0zC6MAQvUvD4oMmlPCRvuGdaeQqgMse4vFk/DD/yG/GYnExhWVj+EJESN4zkUgiWYXkzvk10Y7/rBkrTwSdB3LDRm94MR9+Aku0GSPLbWMzo+L/ye135EX26mON7d/ck75P9zqq6oAFCYz2z5Lz7Q19p++L7OAbbIfZjLw3U5jAS7ZhUjiaNHWHTMa4flTVEtklQf7kBX7+yMksuCepfhhi3H+raANV0tuvLv5xvkdcHGbJOjPmbKgPPC1W2PU/JoHx31WnsIAZ3BbBQ=;MKs5b/8VkAvn6f/3aIr+WA=="
+secured: "/SEt8yHOYEVp5YKTrG+Q6kPIB1objk71IIIdDq/wjvNT+RK7Yl3JMHlS56iN6zCx8t0OeOd/LsyR5s83bAgUqRHD27w4k7YfuiYXsoPsVHPUKPt97/7b6KKY964nUB6Rk+cdYTH06tCqmiWI8fkhVJgTgIdfTUPOfMEr8Vszxo6sBHJElyGCr+jh+ReTRvrHNyYwbXJdc0KfjqewiFYg0mLgVvSa3aO5D6JOuoVPER89Myd36SK1wR8OQ90tv2EC8xx7MAiJon/J84Ly66tctE81Mm13p2uOxi5XRItwYfcBCEA5zuMG0H7Vwo8zEXrGDTi5DVbZ94YqIIRudhvW8SA3zka/5E3odno82NWuCgX9GG0Fnno+sGO07CXOHeJUkEGL+YiWtlT5zmw9Ubwvc9sru/cYGcPJaUUcluHIb/asnui9e9dzlpvqzx4noPhUmpc7vfkuoQ6kUGjRBzu0oBxC3o7W7+l2ipAREF6T4lmPGxER8gBV9c2RD7sXwHV4/7X9frv21dhAO/GY4v9J6Q==;N4nb2Gn05gA22Zqz6n4D9Q=="
 ---
 

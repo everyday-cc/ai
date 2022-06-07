@@ -41,6 +41,20 @@ related:
         width: 1198
         height: 546
         isCached: true
+  - title: "How artificial intelligence (AI) improves healthcare access and equality"
+    excerpt: "Investors are paying particular attention to companies like Vara and Paradromics, who are already striving to improve access, cost, and ultimately healthcare outcomes. According to Lu Zhang, head of FusionFund,"
+    publishedDateTime: 2022-06-03T18:00:00Z
+    webUrl: "https://bestgamingpro.com/how-artificial-intelligence-ai-improves-healthcare-access-and-equality/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 70
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/How-AI-brings-accessibility-and-equity-to-healthcare.png"
+        width: 600
+        height: 350
+        isCached: true
   - title: "How Artificial Intelligence is Shaping the Healthcare Industry"
     excerpt: "Artificial intelligence (AI) is enhancing the ability of healthcare professionals to better treat patients. Even though the term ‘artificial intelligence’ goes back to the 50s, it has gained more popularity in more recent years – all thanks to innovative technology and the power of advanced algorithms."
     publishedDateTime: 2022-06-02T15:30:00Z

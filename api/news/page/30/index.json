@@ -2,6 +2,101 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-05-10-point-predictive-announces-innovative-partnership-with-provenir-global-leader-in-ai-powered-risk-decisioning-software.md",
+      "title": "Point Predictive Announces Innovative Partnership with Provenir, Global Leader in AI-Powered Risk Decisioning Software",
+      "excerpt": "Point Predictive Inc., the San Diego-based company that provides artificial intelligence (AI) solutions to lenders, announced today its strategic partnership with Provenir, a global leader in AI-powered risk decisioning software for the fintech industry.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-software-san-diego-artificial-intelligence-9212e215fdca0ffc1e37c9c0ab9a5088",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-software-san-diego-artificial-intelligence-9212e215fdca0ffc1e37c9c0ab9a5088",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform.md",
+      "title": "ProteanTecs gets $45M to strengthen its AI-enabled chip analytics platform",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/",
+      "originalUrl": "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-172252776.jpg?fit=800%2C517&strip=all",
+          "width": 800,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform/amp/",
+      "publishedDateTime": "2022-05-10T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-salesforce-acquires-troopsai-to-make-useful-slack-bots.md",
       "title": "Salesforce acquires Troops.ai to make useful Slack bots",
       "excerpt": "Salesforce has acquired Troops.ai, a startup developing a Slack bot to push and pull customer relationship management data across Salesforce software.",
@@ -1057,94 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology.md",
-      "title": "Clearwater AI agrees to restrict sales of facial recognition technology",
-      "excerpt": "In a landmark settlement, facial recognition company Clearwater AI, known for downloading billions of user photos from social media and other websites to build a face-search database for use by law enforcement, has agreed to cease sales to private ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
-      "originalUrl": "https://www.zdnet.com/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 323,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/clearwater-ai-agrees-to-restrict-sales-of-facial-recognition-technology/",
-      "publishedDateTime": "2022-05-09T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-the-three-way-race-for-gpu-dominance-in-the-data-centre.md",
-      "title": "The three-way race for GPU dominance in the data centre",
-      "excerpt": "The modern graphics processing unit (GPU) started out as an accelerator for Windows video games, but over the last 20 years has morphed into an enterprise server processor for high-performance computing and artificial intelligence (AI) applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/",
-      "originalUrl": "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nvidia_amd_intel.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

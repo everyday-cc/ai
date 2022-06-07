@@ -2,6 +2,82 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-05-27-california-dmv-suspends-another-ponyai-test-permit.md",
+      "title": "California DMV suspends another Pony.ai test permit",
+      "excerpt": "Pony.ai had its permit to test its autonomous vehicle technology with a driver revoked due to the DMV's concerns about its safety drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/california-dmv-suspends-another-pony-ai-test-permit/",
+      "originalUrl": "https://www.therobotreport.com/california-dmv-suspends-another-pony-ai-test-permit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-ponyai.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-microsoft-build-conference-heralds-era-of-ai-assisted-software-development.md",
+      "title": "Microsoft Build Conference Heralds Era of AI-Assisted Software Development",
+      "excerpt": "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-northwestern-engineers-invent-worlds-smallest-remote-controlled-walking-robots.md",
       "title": "Northwestern engineers invent world's smallest remote-controlled walking robots",
       "excerpt": "Engineers at Northwestern University have invented the world's smallest remote-controlled walking robots. Each one is about half a millimeter wide, not even as thick as a penny. The students designed robots that looked like crabs and other animals.",
@@ -144,15 +220,15 @@
       "title": "AI less about ‘killer robots,’ more about Pentagon transformation, Groen says",
       "excerpt": "Implementation in the department, of course, is always a challenge,” the director said, “as new technology meets legacy processes, legacy organizations and legacy technology.”",
       "sourceUrl": null,
-      "webUrl": "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
-      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.defensenews.com/resizer/ONcq6SIv1d1nvIPTPhqzHchK3Z0=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QJ6RVWDRVZGCRIYT4HX4ZLAZY4.jpg",
+          "url": "https://www.c4isrnet.com/resizer/ONcq6SIv1d1nvIPTPhqzHchK3Z0=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QJ6RVWDRVZGCRIYT4HX4ZLAZY4.jpg",
           "width": 1024,
           "height": 683,
           "title": null,
@@ -164,11 +240,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T09:08:00-07:00",
+      "publishedDateTime": "2022-05-26T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Defense News",
-        "domain": "defensenews.com",
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1010,99 +1086,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent.md",
-      "title": "Report: 92% of HR leaders plan on using AI to acquire talent",
-      "excerpt": "Armed with valuable data insights, HR leaders can use AI to augment their processes and build a future of work that's intelligent by design.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/",
-      "originalUrl": "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/amp/",
-      "publishedDateTime": "2022-05-25T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence.md",
-      "title": "Navy Unmanned Task Force Lead: Common Control System Critical to Enable Artificial Intelligence",
-      "excerpt": "The head of the Navy’s Unmanned Task Force said a control system common for aerial, surface and underwater unmanned systems is still the goal as the Navy develops and fields unmanned systems for the fleet,",
-      "sourceUrl": null,
-      "webUrl": "https://seapowermagazine.org/navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence/",
-      "originalUrl": "https://seapowermagazine.org/navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://seapowermagazine.org/wp-content/uploads/2022/05/MUMT-2-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SEAPOWER",
-        "domain": "seapowermagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -50,15 +50,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Kiya.ai launches India’s first-ever Banking Metaverse-Kiyaverse"
-    excerpt: "Kiya.ai, a digital solutions providers serving financial institutions and governments globally, today announced the launch of India’s first-ever Banking Metaverse – Kiyaverse. Kiyaverse pioneers use cases of merging real-world banking with Metaverse banking through an avatar (virtual humanoid) based interactions,"
-    publishedDateTime: 2022-06-02T13:25:00Z
-    webUrl: "https://www.freepressjournal.in/technology/kiyaai-launches-indias-first-ever-banking-metaverse-kiyaverse"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 17
   - title: "AI for the Metaverse – Bot Libre Mozilla Hubs Integration"
     excerpt: "Bot Libre, an open-source chatbot and artificial intelligence platform for the metaverse, has introduced a brand new solution for business owners and metaverse enthusiasts.  The company has integrated its conversational chatbots onto the popular 3D platform Mozilla Hubs."
     publishedDateTime: 2022-06-03T21:16:00Z

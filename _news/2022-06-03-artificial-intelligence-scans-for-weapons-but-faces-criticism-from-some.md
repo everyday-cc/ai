@@ -1,22 +1,23 @@
 ---
 category: news
 title: "Artificial intelligence scans for weapons, but faces criticism from some"
-excerpt: "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work."
-publishedDateTime: 2022-06-03T15:28:00Z
-originalUrl: "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
-webUrl: "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
-ampWebUrl: "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
-cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
+excerpt: "With a gun in his pocket, Mike walks through the scanning system. In addition to alarms going off, the system uses artificial intelligence to pinpoint where on his body the weapon is located. Four cameras then send a real-time image to a nearby computer ..."
+publishedDateTime: 2022-06-03T16:36:00Z
+originalUrl: "https://www.thedenverchannel.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
+webUrl: "https://www.thedenverchannel.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
+ampWebUrl: "https://www.thedenverchannel.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
+cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: KSTU
-  domain: fox13now.com
+  name: 7News and TheDenverChannel.com
+  domain: thedenverchannel.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "i3AdbJL6L8pNV5lH7oWzg3DlZKV03QiHgPx85jD3Oc3eMclVJtoiVrPz+tOVUM5xfVRx9PsePZKpqxr50LwEVWNrjkRdcFfgBeHvHmrlfnenrmPb3TyB2sk/VE2iqgr4bqb4Cf50LP/FsuB1yu/jNM31DjqT4L1KRs4BM331g1WAQfsiHjImezr44BEBcOrKtQqwx8IltB7ZsP53snhBmd7bWZ587L04dNES41thfahS40cb5NnC++l1mkDvATtAnKU3VUTU48WYFQM0xxQuXsdGD3KMdJO3vWKSIZQRVBEbIgRRiYR0ZpGPO4QSiZWfM482Ct2E31HggHz1nbgSQc7NkJ7xHnQDe8w082+mS9M=;gWOEtnQuX4sOfIL3xj9Q/A=="
+secured: "DqI6Ysc2D0VxJhwvT5mN5i0VEk6shzPQtmEDcuFCvP6maz4nbKtD6vEWqxhAvAPfloEXEKjob4ktfqM34I/l6tY0Un3HGg75MtUTZSA+r4laHVdaOSEus2Uwz1T4WnAtKpZIIzCLW2c8Rse+7zFOTblwpBaJ3cJuVrCc8MIKYUzaEQxHxbEwi2b50yvgTmMhiyGCZtTLlztgit6r4GSoVo1G3FUHuFmjXs2QQbCCmek3P22QID2MQaO0CgqbzY5D+69/9fah+fo61E1yb6jixCg93QOrsLNzuLtfd76auELodorgL1eX8vAOdwFNgsMwR6RXeHhYDtIGyckSxO7PgX9q8RIecUDXDXvFbpjHbBo=;tkXL0W7CiFW4PY+i2ZW5sg=="
 ---
 

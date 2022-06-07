@@ -1,10 +1,10 @@
 ---
 category: news
-title: "EXCLUSIVE Axon halts Taser drone work as most of its ethics panel said to resign"
+title: "Exclusive-Axon halts Taser drone work as most of its ethics panel said to resign"
 excerpt: "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel."
 publishedDateTime: 2022-06-06T05:15:00Z
-originalUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
-webUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
+originalUrl: "https://www.reuters.com/article/axon-enterprise-drones-idTRNIKBN2NN055"
+webUrl: "https://www.reuters.com/article/axon-enterprise-drones-idTRNIKBN2NN055"
 type: article
 quality: 79
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/0BNS6N-mG3uSH0JDp4dlNoBKSXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BTQXZ7O7GFIHNPLLWC75HAR5ZQ.jpg"
-    width: 1200
-    height: 628
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20220606&t=2&i=1601136153&r=LYNXMPEI5502F&w=800"
+    width: 800
+    height: 511
     isCached: true
 
 related:
@@ -350,6 +350,6 @@ related:
       domain: abcnews.go.com
     quality: 19
 
-secured: "lirNLdN2KQN8EM6dxCFBOvcGdnhVQCwsaqs7KdB95hg2bbMsFCUTK7KR4ueS3IW05qv17y00Om8b2RC+/Px7+11fRL+EvrE9+Kyhp+koqmQ3eCUAte6PXP4Ls9VtWfgNNarBqBnjNJ2Qp1ZwWsFxfDVowbtKwYwfWallW63GnEUfR1YIkG4IVz4O8Y3hG2mqcXO1G2Y8rtXwtx8I4tOt0Y0VL9LgZS7WMfXbT3zx1aXvfidz/8+QNkm3Qb9zkrxqAl/98uxyaa1mzUkHmD4NqCMcvEM64rxixLnMaVBuCIEQPat3kz+TjhkBZDvfSCrP9KATOPQDWPaLe9T32WGw4ptHZbYYSDzSVbkcqY5xfIMhR7Hnl2mGbPxW8gJadRNorTMpIWOHOh4ZntFvaS2q1Stor94zJnE0ZDf/qG4lFcxwLweJl1TFgczkdQG4lyHQZUutbMoP4BEMchE175FVkE+U5FEJ9vknQ0ZtbF3DbwJbMjTfJRtma/kDfOrwC7YTkcq0dKAIt/ttK5a1FcJs2A==;qJyYVqqFDW95PSC6iZOCkg=="
+secured: "JlHad47s+vrxSPWf8o3aaFGhUoAkW+AxZGmtrzOfRpewzl1ZKBSkLWDcL/CmTDL5Zi3YOhUToCfoMO2f3E9sMv4QCWXtXo9URcBKG4jcGMBR7L+tsvasXFJTfaRHVg7M2ec9egiFbt3NVm2V092Qw3Fp9UWoLB2iPusEU3RToEB9MwkvmAI5P3pBlcZm4TTWwYBGh3KY60H0stcayKRaA8xUHMRbO0iRK1kD191D9kgwd1DRgOrcirmGJXZ/LXaaVveqGYCURkg+/ZzSOKcqoQIucx7drjXNbrKm/Arxu3f3IltpPTIklhO4KY/FKUgNFT9NkP/7nk6ShIaG1V/MO/4I+FpKcrkGj6vnlzFQXGc=;/BModRG3gk2gqUPo6e8iNA=="
 ---
 

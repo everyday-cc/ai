@@ -42,22 +42,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "How artificial intelligence could help detect burnout"
-    excerpt: "While many tools and tests exist online to try to address the issue, a new method, based on artificial intelligence and the use of natural language processing, could offer new perspectives"
-    publishedDateTime: 2022-06-02T13:27:00Z
-    webUrl: "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-could-help-detect-burnout/76921/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-could-help-detect-burnout/76921/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-could-help-detect-burnout/76921/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 57
-    images:
-      - url: "https://www.forbesindia.com/media/images/2022/Jun/img_186575_professionalexhaustion.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "AI in process control"
     excerpt: "AI use in food processing is expected to have a compound annual growth rate of 45% between now and 2026, promising improved safety and food quality, according to HUB Risk Services. But AI in food processing is not without risk."
     publishedDateTime: 2022-06-06T15:21:00Z

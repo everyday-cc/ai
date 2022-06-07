@@ -3,16 +3,16 @@ category: news
 title: "3 Ways to Drive Business Growth Using AI"
 excerpt: "Unfortunately, not every business followed its example right away. Some skeptics wrongly predicted the internet would collapse in 1996, which influenced some companies to deprioritize anything related to the web."
 publishedDateTime: 2022-06-06T19:20:00Z
-originalUrl: "https://www.chron.com/business/article/3-Ways-to-Drive-Business-Growth-Using-AI-17222279.php"
-webUrl: "https://www.chron.com/business/article/3-Ways-to-Drive-Business-Growth-Using-AI-17222279.php"
+originalUrl: "https://www.timesunion.com/business/article/3-Ways-to-Drive-Business-Growth-Using-AI-17222279.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/3-Ways-to-Drive-Business-Growth-Using-AI-17222279.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "DflPB81qXhVAwqrhBNVls44w50onfF0SaqrTSEuAu+zTXq73OYyrK26haX9FqfBIVr7Z8zIspdS+FEr5qeOrY2E82XC/8WTqAuFZxy5KZ8qVEri2ENAynHs8v7rnDSK4MUXP0nX9k/GXnPjlQLdYNlkOdmfA083slaWesucyoRyKpkgUCkHNnBnuqMel61UjzXfoPQ1KvgxiMves52RecBEHKGc0aJ4YvbLDsp+NPSZ6YxnI+YTofdo0S2EoFE3UTzp3+/xpPP4gSccHCFevAOvHk8Kpg8Sy/KJU7ZQ6EnJeKmPYvV6GeMDT1uvHAf7M1hZNMbOg0n6wMCxJNbu7r3zk/nEGsDrxkvKpU+866bWsMhT3wo1w+o9FsvNAy66lPFlA18o6NwqW9ZKNO6CSEbV48IovX6mERgIvzdfosyLrHRKCshyPUacGXuRe5uqtGpf3js93o9muh8OW2HWROzKMtohmkipmg+PNJecfW49f14PKRjozwgOb4QUlLDUQUlGUzsIVl3iY+xDKyKMPKw==;SjqPR704e6gvvGrRmmpp8g=="
+secured: "mHEZRBCBuCGzqLfm2o835rHZmB2R75oBOHGFpdl+AVYByF8MDNhLeXuBxEjHKoBF3PjypL9vcD9hxKtHZnQ7hREkzCRGubaoapA0ixSuTJ7q5/SpAjk5ex2KdKqsT3WGKGA1HSOxpi247MoK4lBc9ApVOC+IX7A/0ehoiDzqjzOsqK1oCFw4Yg4vfMkVGvGax3B0NgANTNOI6zx0w78lUfhvu0ZjVd8lgQpiKvl7VPoMQi+5iE+CHLpSrKf7eQogYKDrJupOMXqSGWrtM7fN3yhbbw6uBlZ/nmpOUQxtkMp2uuvvU8nag50YhMe2mTIpr4WEUjeLIzhBsLI1uzu6RPaH+7WEiXH4lMWbXxrBEXE=;80JY5lwhlZgtgiC7PuHplA=="
 ---
 

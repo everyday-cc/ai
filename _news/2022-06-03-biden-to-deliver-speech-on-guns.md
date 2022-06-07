@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Biden delivers speech on gun violence"
-    excerpt: "President Biden is delivering remarks from the White House on guns and the recent mass shootings in the country. Follow here for the latest news updates."
-    publishedDateTime: 2022-06-02T14:32:00Z
-    webUrl: "https://www.cnn.com/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/h_133f06b43789f44e578d30709847d1f2"
-    ampWebUrl: "https://amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 74
-    images:
-      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_599/831bde8f-89f2-459f-a376-e73bcad44a7c.jpg"
-        width: 900
-        height: 599
-        isCached: true
   - title: "Biden to deliver speech on guns Thursday"
     excerpt: "President Joe Biden will deliver a rare evening speech on guns Thursday to press US lawmakers to take action as the US confronts another mass shooting, the White House said."
     publishedDateTime: 2022-06-03T02:08:00Z
@@ -49,6 +33,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Automate 2022 Opens Today in Detroit; Students Invited to 'Workforce Development Day' on Thursday"
+    excerpt: "Opens Today in Detroit; Students Invited to 'Workforce Development Day' on Thursday. Automate, North America's largest automation tradeshow, opens today at Huntingto"
+    publishedDateTime: 2022-06-06T14:02:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/06/9615437.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 0
 
 secured: "VenE20M5dgUuYABDC96hrYA7n7niA33beBy6MHrSh4dKETI3Wkil6tnVGqCtTpYWkOvXX5MoXxv0Kz4ZlbkQzKBoskOlsIe/yJCJCuDUgPupPBRSbNqyQrf+1G20TjbiqVWV0U1NF/msredTzyRFoTek1f0GBhJ7NtU8oaLQUCpS9Fu1Bhq10/elVjPj0K2//Ofw+8GyHktbVztMxlSA+31Ht1TF9BZ7KYSBhygSfTHrrfTgxHTs0x1ZjnOheoEusNy2q2EIguOnmPhgvQCnMkSTWYGimxF5j4CXeipqs77N+El/+kTxGyDXTfKoFlysOP7BHqwGWiNLfwFcPj4aDGQZIDV7cL6f6yltmpf8yRGvsscLbCpWDFGJZNQXF/wxjeXyMG6pU8DCVXVWtJ1uPRmt5NosecvACE53c6rUkHXSmq0eWZ7rJOuHOiW0GLFlP17n3lmGGNtHS8RO9HAhBSlJRmZMEWJRGPN9Ngx92pST7jpSDCduz7iQHSiQULjSRiS8u5L+NpZvkLGVgtIVbw==;VQsf1WOYldYE8rz8++wHJQ=="
 ---

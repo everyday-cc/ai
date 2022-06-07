@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "A New Approach to Regulating Credit-Scoring AI"
+    excerpt: "These gaps arise out of the technologies used to advance AI in credit reporting. Companies that employ credit scoring models use proprietary algorithms protected by trade secret laws, obscuring the methods used to obtain these scores."
+    publishedDateTime: 2022-06-07T04:01:00Z
+    webUrl: "https://www.theregreview.org/2022/06/07/moss-new-approach-to-regulating-credit-scoring-ai/"
+    type: article
+    provider:
+      name: theregreview
+      domain: theregreview.org
+    quality: 37
+    images:
+      - url: "https://www.theregreview.org/wp-content/uploads/2022/06/1203955041.jpg"
+        width: 800
+        height: 470
+        isCached: true
 
 secured: "KJDMVgn34AcoLAN453PJ/4VJlZNrIOva8SxKooowVOGYr5jBYEM0yFSvBA2pWdRRN0uusNolhRzIdT0/kipgYSoy67ikWiUVNZvX2KddR6kGDRPGjsk1fS72HSmU4osKB70GRPb8KvhTJGvLtO+qyyc1F5vBscvS5eosV5xhRurL2gwmGd9Ky5PQLaf4uSjgx/+y/mphg14U7uALh2lzbogCA3yiXFuekZgfsStl9E0XN1QWXuF+p4A6CI5DqmFhejJkXvGg7zlvbM4QyA7n0M71tigjTdOlWEhuZCzhqiVghY/rQ1fMXdIWIIjFFMlNv/LLWpjYHj4AkurJzNdf3JlceLmahyS1pCgKKRoDFkwrz8E6KZ/+j6Q4hoqDn+8UxMiCYL9weFke3Iobn84rLyn2bDWkFsC2J/S2dvk3sALzBHwcpE/BLt+P1xzCH+0ufL4fFFhR2gUMh5Et91dExbYt2obiSCX1dNcQwGPCb2GgQCpyisX1AJ2Z0KMK3yyDzPwUDgLfV/eFcEmfnrW71w==;Y6ESRxogw2lsGBmGvWzI+w=="
 ---

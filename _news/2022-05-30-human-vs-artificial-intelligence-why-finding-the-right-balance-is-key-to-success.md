@@ -24,6 +24,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//629450cfe45063944fd631b9/0x0.jpg?format=jpg&width=1200"

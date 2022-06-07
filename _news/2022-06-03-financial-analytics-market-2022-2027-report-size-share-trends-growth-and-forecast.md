@@ -84,6 +84,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Accelerating customer experience through Voice Analytics in the BFSI industry"
+    excerpt: "BFSI industry is facing today is keeping the customer engaged. Undoubtedly, customer service is the fulcrum of BFSI operations, and providing exceptional customer experience is the answer to all the industry’s engagement issues."
+    publishedDateTime: 2022-06-07T06:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/accelerating-customer-experience-through-voice-analytics-in-the-bfsi-industry/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/accelerating-customer-experience-through-voice-analytics-in-the-bfsi-industry/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/accelerating-customer-experience-through-voice-analytics-in-the-bfsi-industry/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 21
 
 secured: "oTTVBorSXKKugzaxHZNAvRk1N4JN6IyGcphgUcH5mGu1sRpAPi1QQin1aJMLNRgYn9uhf5l/XylohO4roPeRSUPxqAJN+uhqsYbVGwoRyqO5dwFjVz40erDNffBiynV6g3LMGtNZQkMXao/oRC8v3o7BsL4jmqc9YCNqVdoJfgujUAY8kvCCMpoBaymdurrctIt7tgQjPqtJLH6zXiQiVFe8IO5Do4fpQimNaGhdHtccL3IyF+xr0NwnNSK8oJnSrapjU3kigiamLgc3kcCIxOlW8NYzEOoQOwnq3c8M2DDMJhkS9i+GSOf84Ic3H3jYkUjhg0Yid8qk0w6NfBlRwkElfS5JZOGDYzIURdGcRcw=;U3FJBukFd6CL4wBA5UqryA=="
 ---

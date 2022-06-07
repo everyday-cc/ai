@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and
 webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/"
 type: article
 quality: 101
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -85,6 +85,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Accelerating customer experience through Voice Analytics in the BFSI industry"
+    excerpt: "BFSI industry is facing today is keeping the customer engaged. Undoubtedly, customer service is the fulcrum of BFSI operations, and providing exceptional customer experience is the answer to all the industry’s engagement issues."
+    publishedDateTime: 2022-06-07T06:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/accelerating-customer-experience-through-voice-analytics-in-the-bfsi-industry/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/accelerating-customer-experience-through-voice-analytics-in-the-bfsi-industry/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/accelerating-customer-experience-through-voice-analytics-in-the-bfsi-industry/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 21
 
 secured: "JSVdAqisCFt+AE12615EZaczqrzddPB0VVIvlsHkU58LsDOlG/LQiHrV9xGELSeZN060le4fsHMYHBMHi15mEJ8eWHDQGTpu0JE4MK864476rAathDD6bSSaK9PBjPa6hBGR2GB9RhRHHgfEGy0d2pPXUz2E+OqPaLFKQNP/CVZs+oc/W+Hc7R8JCMqgjEA8g4qc0OqIOVfSOlUsTRsfDoi+9j/2Ko08deW95Q18kmNLM8jeNbHGtccNK0wcqP5cLFUKTDBxv4U/d06Hr/MubA7JyzpXfNvGUd8lBePQ2hoKaw+Ek/srfapWO8gm2v2usqEgniVsFVkIAgaBSJ0lTRvzjCSNYDby4VMWecJhYt4=;VFLF7Ine6IO2lkcDam9Obg=="
 ---

@@ -59,19 +59,19 @@ related:
         width: 1024
         height: 722
         isCached: true
-  - title: "EXCLUSIVE Axon halts Taser drone work as most of its ethics panel said to resign"
+  - title: "Exclusive-Axon halts Taser drone work as most of its ethics panel said to resign"
     excerpt: "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel."
     publishedDateTime: 2022-06-06T05:15:00Z
-    webUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
+    webUrl: "https://www.reuters.com/article/axon-enterprise-drones-idTRNIKBN2NN055"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 79
     images:
-      - url: "https://www.reuters.com/resizer/0BNS6N-mG3uSH0JDp4dlNoBKSXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BTQXZ7O7GFIHNPLLWC75HAR5ZQ.jpg"
-        width: 1200
-        height: 628
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20220606&t=2&i=1601136153&r=LYNXMPEI5502F&w=800"
+        width: 800
+        height: 511
         isCached: true
   - title: "Axon drops Taser drone idea after 9 on ethics board resign"
     excerpt: "CEO Rick Smith wanted to develop a drone-powered Taser after being \"catastrophically disappointed\" by police actions in Uvalde."

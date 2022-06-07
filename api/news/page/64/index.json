@@ -2,6 +2,101 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-04-11-artificial-intelligence-voice-market-set-to-witness-explosive-growth-by-2029-iflytek-google-apple.md",
+      "title": "Artificial Intelligence Voice Market Set to Witness Explosive Growth by 2029 | iFlyTek, Google, Apple",
+      "excerpt": "New Jersey, N.J., April 11, 2022 – The Artificial Intelligence Voice Market research report provides all the information related to the industry. It gives the outlook of the market by giving authentic data to its client which helps to make essential decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-set-to-witness-explosive-growth-by-2029-iflytek-google-apple-2022-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-set-to-witness-explosive-growth-by-2029-iflytek-google-apple-2022-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027.md",
+      "title": "Cognitive Computing Market Trends 2021 | Industry Growth, Size, Share, Demand and Forecast to 2027",
+      "excerpt": "Some of the leading players profiled in the report include Google LLC, HP, IBM, Microsoft Corporation, Nuance Communications, Inc., Oracle Corporation, SAP SE, among others. The cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027-2022-04-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-trends-2021-industry-growth-size-share-demand-and-forecast-to-2027-2022-04-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-money-matters-learning-about-financial-literacy.md",
       "title": "Money Matters: Learning about financial literacy",
       "excerpt": "April is Financial Literacy Month. Barry Bigelow from Great Waters Financial answered a few questions about how we can improve financial literacy.",
@@ -1034,110 +1129,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-how-hospitals-are-using-ai-to-save-lives.md",
-      "title": "How Hospitals Are Using AI to Save Lives",
-      "excerpt": "Emergency rooms and ICUs are turning to artificial intelligence to identify and treat patients who are most at risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-hospitals-are-using-ai-to-save-lives-11649610000",
-      "originalUrl": "https://www.wsj.com/articles/how-hospitals-are-using-ai-to-save-lives-11649610000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-521047/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-hospitals-are-using-ai-to-save-lives-11649610000",
-      "publishedDateTime": "2022-04-10T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-fintech-roundup-how-going-fast-and-furious-can-ruin-your-startup.md",
-      "title": "Fintech Roundup: How going Fast and furious can ruin your startup",
-      "excerpt": "The big events in the fintech world over the last week felt like a very different vibe from 2021, which was filled with mega rounds, celebrations and lofty valuations. First off, 3-year-old one-click checkout startup Fast announced it was shutting down after struggling to raise more capital to keep operations running.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/",
-      "originalUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1162497947.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/",
-      "publishedDateTime": "2022-04-10T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

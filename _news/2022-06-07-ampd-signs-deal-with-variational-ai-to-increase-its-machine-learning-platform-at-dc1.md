@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-06T21:01:00Z
 originalUrl: "https://apnews.com/press-release/accesswire/technology-ai-inc-vancouver-canada-1b08220113e517a28cc52510e20ff331"
 webUrl: "https://apnews.com/press-release/accesswire/technology-ai-inc-vancouver-canada-1b08220113e517a28cc52510e20ff331"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
