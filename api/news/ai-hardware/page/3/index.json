@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-10-3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case.md",
+      "title": "3D-printed Fan Mount Keeps Server GPU Cool In Desktop Case",
+      "excerpt": "or are simply experimenting with machine-learning AI, you should be prepared to shell out quite a bit more money for a proper GPU than in the good old days. Bargains are still to be had in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/11/06/3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case/",
+      "originalUrl": "https://hackaday.com/2021/11/06/3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/11/Nvidia-Tesla-K80-cooler-rear.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus.md",
       "title": "How Much Of A Premium Will Nvidia Charge For Hopper GPUs?",
       "excerpt": "And network ASIC chips are architected to meet this goal. Nvidia is architecting GPU accelerators to take on ever-larger and ever-more-complex AI workloads, and in the classical HPC sense, it is in pursuit of performance at any cost, not the best cost at ...",
@@ -1327,49 +1370,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-samsung-others-test-drive-esperantos-1000-core-risc-v-ai-chip.md",
-      "title": "Samsung, others test drive Esperanto's 1,000-core RISC-V AI chip",
-      "excerpt": "Samsung's IT services arm and other companies are said to be testing out a processor that sports more than 1,000 general-purpose RISC-V cores to deliver what the chip's designer claims is faster and more energy-efficient AI inference performance than power-hungry specialty silicon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/22/samsung_esperanto_riscv/",
-      "originalUrl": "https://www.theregister.com/2022/04/22/samsung_esperanto_riscv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/04/22/esperanto_et_soc_1.jpg",
-          "width": 1032,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/22/samsung_esperanto_riscv/",
-      "publishedDateTime": "2022-04-22T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,23 +1,28 @@
 ---
 category: news
 title: "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1"
-excerpt: "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) (\"AMPD\" or the \"Company\"), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc."
-publishedDateTime: 2022-06-06T23:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-6-6-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-6-6-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1"
+excerpt: "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) (“AMPD” or the “Company”), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc."
+publishedDateTime: 2022-06-06T21:01:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-ai-inc-vancouver-canada-1b08220113e517a28cc52510e20ff331"
+webUrl: "https://apnews.com/press-release/accesswire/technology-ai-inc-vancouver-canada-1b08220113e517a28cc52510e20ff331"
 type: article
-quality: 29
-heat: 29
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AMPD Ventures Inc.: AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1"
@@ -30,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 19
 
-secured: "6v2OaJ46Op5GegwMw0KYiWJX+nfq8o6n+py+PP7B/xPkDPN8TP2UJRJlt7LOBwyTqtZlkvGUqCjjRn6KbP5594AP/AO45QR/V8+6w8EX2ZIyN06SucNa/hfTH7gKjMqfNvM9q+/29Znp//1tN3JjmtoUl3fxZRlbCBZy0i4A/dDaFfWOkwC3F5J3L20Hua0UkhEM3gmfsez6K+/B7CvGGVGNsENAdxzyyMCPXp88rPc9JatuO5zF/RtQrZRpkgtl16QNogMk5VOmBwVQ8xdkBlRDQLE7IrKISNsmjqoff4cxEzl2M+9N/uXkq9EwhqwpX3tbb9H+lbfRbovByjiiGcAncFZ6xSsm9xrdW0A4eo8=;BK+o8KHZ+O0ENI4pl09nJQ=="
+secured: "nEP4WoqabQoaCWnn9ZPPu5wqa+uSx79XUEOcw2DmPOA1NKrqA8c3mQlFslxnc79/auM4Wjz2GJj9l5kqf7yiyKJRBBS/fXGVHrF8a4CGu9TjFk/rXJxKZUkPvpb32hgsxs3r7qO0eI1t5HO8Pdh0OCtd/IGwx6V9kBLDZ3+DQtLnYxYxFeCaXQ3MCHv0OFXCkHnFYGCUYfa9G1qo42GJAPjgpll+zqUQb7ramFyqiceNeyac277o2lBoVYWs4A0skJgvAI4Nt49M18ISVAlhP7sDxX+PPznAlmkA5nNvbMmZKIQ0sJ5PQVKvvBCck8AwflLCAs+eK2aO3FUM8NagzBC1aycfjHPtw9e8/tbMhWE=;cBS4TDPk/Ez/ZLa8DSVtJA=="
 ---
 

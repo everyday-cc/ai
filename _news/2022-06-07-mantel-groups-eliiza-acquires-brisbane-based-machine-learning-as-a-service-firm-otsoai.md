@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-07T00:53:00Z
 originalUrl: "https://www.crn.com.au/news/mantel-groups-eliiza-acquires-brisbane-based-machine-learning-as-a-service-firm-otsoai-581008"
 webUrl: "https://www.crn.com.au/news/mantel-groups-eliiza-acquires-brisbane-based-machine-learning-as-a-service-firm-otsoai-581008"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://i.nextmedia.com.au/News/20220607105415_crn-14_ai_artificial_intelligence_iStock-961970568.jpg"
@@ -24,6 +25,6 @@ images:
     height: 900
     isCached: true
 
-secured: "mlaTto/m0psA57iBWDIDlR7Q3CkCk1AQEui8GK3SBRxoxPKCP9lFzEAQQ3rH+Nv+Nn+nEL8FWBu0sQ5ldgtsT1NdZnCFGwI8Q1mm+Y1AII7fHkdw8yGU/+H1jk8MyW/Lm1TgsSoYyVg5ZVPT1TOx0PGUEWSIWwPROSsqAoUjz0kZZx904kkNNluhrEKP/XIMk5wZR5QHOeT8abBeyMkM9IY2DSUtdgf2uWjeUkOHINDKxIXe5KWMhD/Z2ynb/4B/IgJ7u+FsTQhOFzDdtjDfETQH6qI7BWtDY/5zep6FSdgBJSAIvkouXdU9v1Qc6FGhQWg3DICRzIQnbbOJSFBOQZ1iv4wMt2GKp1/G7f7S0KM=;3ou9FUJDlWo8PAjcjj2T3w=="
+secured: "5Gm30GADXL1JqFsBdjB+WiHrg/rzD99iUd1s8G2y8t+/F2eOM2MtSz8EItK+fLVNmUeKZNqujNnJMAzb8EnokRu/SRQB7vExd9Afp7yUZccGBGMxUeeV2Mk8nkRBz+Hra6mwQmpdLp963jA/y3fVDiEN5wnaUcQVgnJyKyf1veiCzljtWRs8kgiX5qN19TzipBInZuyrIS5SNNJhy/sKA3LywwzY28MvXrAiTSxZotTr+6/eBT6qROQSVVqPLoKnjLDBrt1TlyrJnbVj1x9KxVC6iOW5MM+23zMLt41jE/6lV9AWoKcMGp1nqMXI+KBZ0z7pcctdb33sUUXtmfrTG77kcInKFOAFgCgywgXOPILvBk8vJHJyz47zW+5Kh/WPNyCubaRL/X1Ghoxz8LNGsdPTIrDE81Ndf0xTfuJZfr2vgrUMZ9w5FcetDj5Pj/t7gQJv7j2VuGcfvUSdI2vzrfzvulOxaDyLWuLhocYYUQW+Yv6axO1c4gj3HGnhxcKWfD+EMjm/0WUJP+IjNvq4Pg==;nHNJfuBaF1/Nbx2sU+WhKg=="
 ---
 

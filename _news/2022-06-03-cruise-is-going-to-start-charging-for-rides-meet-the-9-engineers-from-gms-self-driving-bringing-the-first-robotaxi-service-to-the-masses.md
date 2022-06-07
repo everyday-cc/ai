@@ -87,15 +87,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "GM-backed Cruise could soon charge passengers for self-driving car rides"
-    excerpt: "There has also been a longstanding concern that self-driving cars cannot always correctly predict how humans will react to changing events."
-    publishedDateTime: 2022-06-02T12:37:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/gmbacked-cruise-could-soon-charge-passengers-for-self-driving-car-rides-41654170542052.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 3
 
 secured: "LqGvYDwBKBsU3jnOzhCVyBp3KADfKpbwqDilgl0V6G63xKTNmT3+NTj+v0f9APQlnQk4U8QzC9t3GcOQD1rhRaV5uEivbXsASfeK7/XJRMGUUbEa+54nhHoRB8fueFXo724oS0sXS2Bb2yxOW+J6uKW1YK5VssqywOTytMJEWlM6KT5qvJ4FEg6cOnV5ufxGTDf3Qwv+P/huidYolCckN6pmMUmFAuis3qLhRAAj2I9f+VlNixQBC5tXKgFBwqC3u6o50aS5ZeZdVO3uA0rQhBV43zheVmVuHoEfSAhBQGjtpmXx2EJ7y0rzR7wi1BjIGDsHY9zqSvseHEPbpRQbjt+31lMSB4Hr00ISpNGcnq0=;3Ac2saISOPWrsC7pYhXAxQ=="
 ---

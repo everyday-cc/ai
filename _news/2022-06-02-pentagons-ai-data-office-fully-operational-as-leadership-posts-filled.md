@@ -38,6 +38,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Fortinet Introduces Self-Learning AI Capabilities in New Network Detection and Response Offering"
+    excerpt: "FortiNDR leverages machine learning and deep neural networks – the next-generation of AI – to identify cyberattacks based on anomalous network activity and limit threat exposure HONG KONG SAR - Media OutReach - 7 June 2022 -John Maddison,"
+    publishedDateTime: 2022-06-07T04:30:00Z
+    webUrl: "https://www.asiaone.com/business/fortinet-introduces-self-learning-ai-capabilities-new-network-detection-and-response"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 26
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/Fortinet-Logo_0.jpg?h=bde28bee&itok=KfKUdCRS"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "Fxo8TLa4oLUw/Go6LR0LPJOzM/GXodO/CTTFBRS7x57qmUrLS53ZFW9pSXWa6tHrTeMCu/RUi8WeQS+Bj1Gjalg8ZxgvDToTFWfpgwZTYwGExU+wdmguVsR91qnBtK+u92ibcKPLy2n3qZ59UPKg/h57gQUEFZn6HtMHhNG7DeyNpkON2WgBf3t+PtxLEaAI3GesyR6lTGDE+CV//a4V9ueWlH7Xc8+bIDE6KuWJbLYOtckxPH1YkG4gaONnRJR/WkMb7mllUsZScmaCnzYc+r5XS+5abnc9ZQ3jRUB/FSGNTbZFGFANcuxLqv6kL5aXZgykdpyXhYWHuShXihFwJ9TWZpC6FKqgb18lEWLh/cvpkPbUro87WCngmXZ7IXA0wD81hPMKF2mi15i2PcdYkK00r05LlVnmmNAa1fUzkwfO7GXQnUCYuzD5atq1FtPfhy+DWwvjejclUGN/OVxoDI7JN4Wv1IY3DMBgt3ryT7pTSkMd69nmu0rzRdh8SaIgaN8GHzToNGgnQGaK1VI4vg==;oxvducoWt9JL1y43kB2h5A=="
 ---

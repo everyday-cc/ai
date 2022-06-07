@@ -2,6 +2,49 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-03-22-icertis-launches-industry-first-contract-intelligence-solution-for-healthcare-providers.md",
+      "title": "Icertis Launches Industry-First Contract Intelligence Solution for Healthcare Providers",
+      "excerpt": "Icertis, the contract intelligence company that pushes the boundaries of what's possible with contract lifecycle management (CLM), announced the launch of  (ICI) for Healthcare Providers. The industry-first CLM solution helps healthcare providers accelerate digital transformation by modernizing complex agreements such as payer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
+      "originalUrl": "https://www.law.com/legalnewswire/news.php?id=2996268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1765967/Patient_Centered_Care_and_Contracts.jpg?w=500",
+          "width": 500,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-22T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-22-breyer-capital-backs-quantum-ai-startup-sandbox-aq.md",
       "title": "Breyer Capital Backs Quantum AI Startup, Sandbox AQ",
       "excerpt": "Hidary, the inspiration for Sandbox AQ and some of its team began at Alphabet Inc. (NASDAQ: GOOG) in 2016. In 202",
@@ -1048,50 +1091,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment.md",
-      "title": "Using artificial intelligence in health sciences education requires interdisciplinary collaboration and risk assessment",
-      "excerpt": "Over the past five years, there has been an increase in research and development related to the use of artificial intelligence ... nursing and occupational therapy. AI-enhanced technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.canadianmanufacturing.com/features/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment/",
-      "originalUrl": "https://www.canadianmanufacturing.com/features/using-artificial-intelligence-in-health-sciences-education-requires-interdisciplinary-collaboration-and-risk-assessment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.canadianmanufacturing.com/wp-content/uploads/2022/03/Artificial-Intelligence.jpeg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-21T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canadian Manufacturing",
-        "domain": "canadianmanufacturing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

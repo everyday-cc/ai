@@ -2,6 +2,49 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2022-04-09-aacr22-artificial-intelligence-predicts-side-effects-of-combination-therapies.md",
+      "title": "AACR22: Artificial intelligence predicts side effects of combination therapies",
+      "excerpt": "Researchers at the Cancer Center Amsterdam (Netherlands) report their preliminary findings using artificial intelligence to predict the adverse ... making it difficult to decide whether a new combination therapy would risk their health,” explains Bart ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.biotechniques.com/cancer-research/artificial-intelligence-predicts-side-effects-of-combination-therapies/",
+      "originalUrl": "https://www.biotechniques.com/cancer-research/artificial-intelligence-predicts-side-effects-of-combination-therapies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.biotechniques.com/wp-content/uploads/2022/04/Drug-combination-therapeis.png",
+          "width": 802,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioTechniques",
+        "domain": "biotechniques.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-artificial-intelligence-enhanced-heart-disease-diagnosis-in-ultrasounds.md",
       "title": "Artificial Intelligence Enhanced Heart Disease Diagnosis in Ultrasounds",
       "excerpt": "Following the implementation of an artificial intelligence system into ultrasound procedures, researchers from the RIKEN Center for Advanced Intelligence Project (AIP) noticed a sharp increase in the accuracy of heart disease diagnoses.",
@@ -1129,58 +1172,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become.md",
-      "title": "IBM And MLCommons Show How Pervasive Machine Learning Has Become",
-      "excerpt": "IBM announced its latest Z-series mainframe and MLCommons released its latest benchmark series. The two announcements had something in common – Machine Learning – which is becoming pervasive everywhere from financial fraud detection in mainframes to detecting wake words in appliances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624f9430713ac031f54ebda5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/04/07/ibm-and-mlcommons-show-how-pervasive-machine-learning-has-become/amp/",
-      "publishedDateTime": "2022-04-07T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

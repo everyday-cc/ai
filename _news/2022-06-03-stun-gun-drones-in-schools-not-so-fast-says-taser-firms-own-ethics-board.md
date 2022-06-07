@@ -205,22 +205,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "C3.ai’s Revenue Projections Fall Short. The AI Company’s Stock Swoons."
-    excerpt: "Shares of the artificial intelligence software company C3.ai were trading sharply lower after the company provided disappointing guidance for the July quarter and the full fiscal year ending in April 2023. For the quarter ended April 30, C3.ai (ticker ..."
-    publishedDateTime: 2022-06-02T12:40:00Z
-    webUrl: "https://www.barrons.com/articles/c3-ai-stock-price-earnings-revenue-51654128388?refsec=technology"
-    ampWebUrl: "https://www.barrons.com/amp/articles/c3-ai-stock-price-earnings-revenue-51654128388"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-stock-price-earnings-revenue-51654128388"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-449799/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Company halts plans for Taser drone after 9 members of its ethics board resign"
     excerpt: "The company best known for developing the Taser says it's halting plans to develop a Taser-equipped drone. The decision by Axon comes as a majority of its ethics board resigned over the project."
     publishedDateTime: 2022-06-07T00:20:00Z

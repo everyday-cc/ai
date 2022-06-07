@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Accuray and Limbus AI Inc. Partner to Leverage Limbus' Innovative AI-driven Technology to Enhance Accuray Adaptive Radiotherapy Solutions"
-    excerpt: "Accuray Incorporated (NASDAQ: ARAY) and Limbus AI Inc. announced today they are partnering to augment Accuray adaptive radiotherapy capabilities by leveraging Limbus' artificial intelligence (AI)-driven autocontouring algorithms - enabling automated contouring to further streamline the treatment planning process*."
-    publishedDateTime: 2022-06-02T12:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-accuray-limbus-ai-inc-partner-leverage-limbus-innovative-/2022/06/02/9613626.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
-
 secured: "cK3r6JaD4z20bIlfH3o+zvjtzpCZ32hPvdd+kASqtnzGDSgQIDo5gjbl+nylqaDwTLzLfIYLOzqkl0bkWyVLDq6R+uHvFOaO2JLfPWu9/gWHnFedGty8dv7dA1E2aEdjhpFL/YldzBmjXEugcr+TaaDSo4OFumhfgn43bASJfF7YVsgnBbvxM1oyB6DjHdZh+2Ssh+dey/iDmTiHX3KidRMNwA3mWbhfBOBhioV6Lu/iJbZFsrzo9oobTQbE0erVu5QJfhJChFJCqp//GI4k5aTQ/Um2itnfUEEIBZ2NnB7cDZ7RlCSY5Nk30auptHGHU2Lui2rLokVd+uyZVSAoWaPVnKKnyWUXkEqwh2h/UjOtNxw9cd82Mw+lIVdVQ6QQykLLPbswKM3ovYiXC7AbmEhTHtGc+GUNaYpE+KWMDILtd4tRkFPrd1rw1ReM5Nm/XrNDEpM4iR1OhtXnsHwg1Vvq1qwkxcr/vkCiNF0dS+xWAKdJSTHdD8BthETRmSuN7ywRYUHeAHPlBhgW/o6l5g==;kwSkne/y7k5jBr896G2rlQ=="
 ---
 

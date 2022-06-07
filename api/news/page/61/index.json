@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-04-13-aventis-collaborates-with-ibm-to-automate-training-management-system.md",
+      "title": "Aventis collaborates with IBM to automate Training Management System",
+      "excerpt": "Aventis used IBM Watson Natural Language Understanding to ... Aventis taking the first step to embrace the growing trend of AI and cloud to gain a greater advantage in the market.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/aventis-collaborates-ibm-automate-training-management-system",
+      "originalUrl": "https://www.asiaone.com/business/aventis-collaborates-ibm-automate-training-management-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Apr2022/pr-newswire_500_4_642.jpg?h=7de12b8a&itok=JWl17ZwG",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T23:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-new-id-partners-with-sk-telecom-to-develop-ai-post-production-platform-to-export-korean-content.md",
       "title": "NEW ID Partners with SK Telecom to Develop AI Post Production Platform to Export Korean Content",
       "excerpt": "NEW ID provides an all-in-one post production solution necessary for content localization, including specialized AI solution, translation ... content is not only the language but also music ...",
@@ -1091,49 +1134,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-machine-learning-predicts-conduct-disorder-in-kids.md",
-      "title": "Machine learning predicts conduct disorder in kids",
-      "excerpt": "Now, a new study uses a machine-learning approach for the first time to assess risk factors across all three domains in combination and predict later development of CD with high accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-machine-disorder-kids.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-machine-disorder-kids.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/rowdy-children.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-machine-disorder-kids.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-disorder-kids.amp",
-      "publishedDateTime": "2022-04-12T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

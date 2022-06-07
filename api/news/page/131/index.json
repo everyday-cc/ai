@@ -2,6 +2,49 @@
   "page": 131,
   "value": [
     {
+      "path": "_news/2022-02-12-allen-institute-for-artificial-intelligence.md",
+      "title": "Allen Institute for Artificial Intelligence",
+      "excerpt": "Once again, Seattle’s tech scene provides the backdrop for a high-profile movie on HBO Max — but this time, it’s serious. Oscar-winning film director Steven Soderbergh’s tech-noir thriller ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/tag/allen-institute-for-artificial-intelligence/",
+      "originalUrl": "https://www.geekwire.com/tag/allen-institute-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-11T17:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-12-quad-air-drone-reviews-is-the-quadair-drone-legit.md",
       "title": "Quad Air Drone Reviews: Is The QuadAir Drone Legit?",
       "excerpt": "It will thrive despite strong winds. Features of good design on QuadAir include an object recognition system. Its unparalleled power and benefits come from the latest technology, as well as the use of state-of-the-art cameras. Using a clever design ...",
@@ -1104,50 +1147,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-robotic-assistance-receives-order-for-wally-security-robot-from-fortune-500-logistics-company.md",
-      "title": "Robotic Assistance Receives Order for Wally Security Robot from Fortune 500 Logistics Company",
-      "excerpt": "Robotic Assistance Devices (RAD) is a high-tech start-up that delivers robotics and artificial intelligence-based solutions that empower organizations to gain new insight, solve complex security challenges, and fuel new business ideas at reduced costs.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-robotics-bb4f1e78e85cbeb4fc71b3a3068b3034",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-robotics-bb4f1e78e85cbeb4fc71b3a3068b3034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-11T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

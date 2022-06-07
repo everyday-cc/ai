@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-04-29-voi-technology-to-deploy-ai-computer-vision-on-e-scooters-in-oslo-norway.md",
+      "title": "Voi Technology to deploy AI computer vision on e-scooters in Oslo, Norway",
+      "excerpt": "As part of a new partnership, Voi will use AI technology to deploy computer vision on its e-scooters throughout Oslo in order to tackle pavement riding and fix e-scooter parking, ultimately delivering a safer riding experience. Credit: Voi Technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.intelligenttransport.com/transport-news/135330/voi-ai-computer-vision-e-scooters-oslo/",
+      "originalUrl": "https://www.intelligenttransport.com/transport-news/135330/voi-ai-computer-vision-e-scooters-oslo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.intelligenttransport.com/wp-content/uploads/My-project-12-4.jpg",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-29T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "intelligenttransport",
+        "domain": "intelligenttransport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-29-recent-updates-are-reminder-of-chinas-big-role-in-av-world.md",
       "title": "Recent updates are reminder of China's big role in AV world",
       "excerpt": "Starting Thursday, Baidu was authorized to operate driverless ... robotaxi company WeRide launched its Robosweeper this week, a self-driving street-sweeping product developed as \"we observed ...",
@@ -1142,58 +1185,6 @@
         "AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters.md",
-      "title": "Richard Bartle and Richard Garriott: How humans should treat advanced AI characters",
-      "excerpt": "Richard Bartle and Richard Garriott talked at GamesBeat Summit 2022 about being new citizens of the metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
-      "originalUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/garriott-bartle.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/richard-bartle-and-richard-garriott-how-humans-should-treat-advanced-ai-characters/amp/",
-      "publishedDateTime": "2022-04-28T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

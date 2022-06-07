@@ -2,6 +2,49 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2022-03-02-how-to-help-humans-understand-robots.md",
+      "title": "How to help humans understand robots",
+      "excerpt": "Scientists who study human-robot interaction often focus on understanding human intentions from a robot's perspective, so the robot learns to cooperate with people more effectively. But human-robot interaction is a two-way street,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-03-humans-robots.html",
+      "originalUrl": "https://techxplore.com/news/2022-03-humans-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-robot.jpg",
+          "width": 1920,
+          "height": 1169,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-03-humans-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-humans-robots.amp",
+      "publishedDateTime": "2022-03-02T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-its-time-to-automate-insurance-document-processing-workflows.md",
       "title": "It’s Time To Automate Insurance Document-Processing Workflows",
       "excerpt": "A hyperautomation platform can thus automate the processing of insurance supplemental forms. AI technologies (computer vision, natural language processing, machine learning and fuzzy logic), along with business rules and workflows, can accomplish end-to ...",
@@ -1085,49 +1128,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-02-why-a-multicloud-solution-is-better-for-government.md",
-      "title": "Why a Multicloud Solution is Better for Government",
-      "excerpt": "The multicloud world is already here. However, multicloud is much more than using services in each cloud independently. Multicloud is about connecting the best services and capabilities of each cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government",
-      "originalUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/e5a1824/2147483647/strip/true/crop/4500x2346+0+497/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8f%2F1c%2F442abd3148219ac52b1a9dcac01a%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xOTEyOTUxOTYwL2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NDYxODU1NDQsICJtIjogMX0sICJGRmU5eEZ1ekFJN2VTOTgyRzg2V0Y3RmZxdHMiXQ%3D%3D%2Fshutterstock_1912951960.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/why-a-multicloud-solution-is-better-for-government?_amp=true",
-      "publishedDateTime": "2022-03-01T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

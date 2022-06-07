@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/c2i
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/c2i-genomics-and-karkinos-healthcare-partner-to-bring-ai-powered-cancer-detection-and-monitoring-to-india/91995537"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "AI and ML can transform healthcare in India but here is what we need to take care of before that"
+    excerpt: "Over the past decade, the fields of medicine and healthcare management have witnessed several technology-led breakthroughs. Chief among them are changes brought on by Artificial Intelligence and Machine Learning."
+    publishedDateTime: 2022-06-04T12:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-ml-can-transform-healthcare-in-india-but-here-is-what-we-need-to-take-care-of-before-that/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 38
 
 secured: "ZA+4Q7/WlJwitj4yzXWL6VLcmwXdlPTH7MnSmTb8iCTTK9a/5V+XO35pYzUTt0p4zxo0YMH7cbgk1/U63xgGkXF5vFkmfFm39/tgjXBaHilSJnXzgMtlSnqWHJSyO987MNG54qihA5OUm4betUW01mYyVu6922bKRpTZ/bnFeJd+7z4qMGoTtxR/w5B51FtnuIUCcbFOPZ+ZFR3jsvXje8ZvPPkBQ/icQ7tgJEZozyL2R7bVaEVJ9swxxP0ICBnil84eXZNrCri22TXnj3SzaXuscKB4XFY1AdxiUt4WdeVoJ5xmvU6EEY6wJvMi99u8KeMpfiGhUqOFFA+rfZp5JGw+f4cO9cjoU+a6Go6WdFM=;pbf331zi05hjHY96SyzVYA=="
 ---

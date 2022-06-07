@@ -3,10 +3,12 @@ category: news
 title: "How AI Could Revolutionize Sports: Trainers Tap Algorithms to Boost Performance, Prevent Injury"
 excerpt: "Computer vision, the technology behind facial recognition, will change the game in real-time analysis of athletes and sharpen training prescriptions, analytics experts say"
 publishedDateTime: 2022-06-04T13:45:00Z
-originalUrl: "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916"
-webUrl: "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916"
+originalUrl: "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_featst_pos3"
+webUrl: "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_featst_pos3"
+ampWebUrl: "https://www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://images.wsj.net/im-555376/social"
+    width: 1279
+    height: 640
+    isCached: true
 
 related:
   - title: "How AI Could Help Predict—and Avoid—Sports Injuries, Boost Performance"
@@ -39,6 +47,6 @@ related:
         height: 640
         isCached: true
 
-secured: "1mBS89wefV6HsD9QWa4b7iMiQ7n6m7Wde2wMzWzWhVuLyQPwrotUhB7/V4mFhwvRF+b6KiDeq109dniRZKkEGCaPddA6XxhduWLHdFzr49BR8g24qvj1DWwO20JWW6p5Fdyc4JZT2ddouCR+2w0WRUDUuFtzHMOK9whoorW0ZfUwo6HdXUfhCjnrQ8Qn9/XoQ+4Hw7B/rFZhrqPmlN/upTjbyI4S78g1/UsCFWblggl3uQACZXA9WYw0que54m703ZHpmGBuXxbC06E7beyL5WbLMPWOc3lUoeAKihdpyCfCdN9/s4BTEjXhKyGrg9Klf/KwW18rx4/Wcgz6cOvCeir/pxa4pzLuEYFcul5PJwW7Kh38gv6ZsJPpWS4hMSKZ0OCtkO4LxJS3qUGM9fJ3+EqUBOlcL5jL1Jc0zzYuakz7z5UJY9o+bXlMu4TJPb6CdU1QT2l7B9xTGgv0mYTRKGUC6kaY7q55ZmDBFoTcZiG8s5Ds+QWqV6pxUaiOrI85I6+bpDNRA0GbCW7C8Z8dXg==;SXwTnaM1lAI30o1Ek9JhRQ=="
+secured: "TdM065tEKkF0LOPqiQgdH3Qj5ceB/IKssHTXGD1Wd+gDDNIa1/mke1DZaSOWeRkjs21U91NjiwoDkgDFLDhLyaB9152J4EpBkF3m9d9yvekh2Kcs0CjC1+72eZp7rPZvja7Q3w4Qju+7L5MMlM/7XuYRG2JURbcZLgMn8bMPdskRwG5HaXOpmyPxkE+I577qNxXewZr4eT5+HYx/nev5yV2Xph63pBqs4kV16yM10iHERcJK2JUuI5gV+IKQHJX8Jcz4UQWTW+uEiNLUQe3N1D8gYk2dtMHM4J0XTfRSHLF8VCc4+CznZH386+Ep3iOJNMUHIAnfKOqYGiMli2TvhbeGiGddOSAliHD2lmZtRa0=;so6cO+4uoPZb1N144kKSRQ=="
 ---
 

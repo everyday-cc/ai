@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-20-scientists-develop-real-life-mind-controllable-robotic-hand-using-ai.md",
+      "title": "Scientists develop real-life mind controllable robotic hand using AI",
+      "excerpt": "A team of researchers at the University of Minnesota has created a robotic arm that can function according to your thoughts. In the future, such advance prosthetic body parts might allow humans to control computer-based devices with their minds.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/ai-powered-prosthetic-arm",
+      "originalUrl": "https://interestingengineering.com/ai-powered-prosthetic-arm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2p754w9/sizes/neuroprostheric-hand-umn_resize_md.JPG",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/ai-powered-prosthetic-arm",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-powered-prosthetic-arm",
+      "publishedDateTime": "2022-05-20T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-computer-chip-giant-asml-places-big-bets-on-a-tiny-future.md",
       "title": "Computer chip giant ASML places big bets on a tiny future",
       "excerpt": "ASML , a semiconductor industry and stock market giant, has to think smaller. Or maybe bigger. It is building machines the size of doubl",
@@ -1302,49 +1346,6 @@
       "provider": {
         "name": "Reseller News",
         "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case.md",
-      "title": "3D-printed Fan Mount Keeps Server GPU Cool In Desktop Case",
-      "excerpt": "or are simply experimenting with machine-learning AI, you should be prepared to shell out quite a bit more money for a proper GPU than in the good old days. Bargains are still to be had in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2021/11/06/3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case/",
-      "originalUrl": "https://hackaday.com/2021/11/06/3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2021/11/Nvidia-Tesla-K80-cooler-rear.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Forethought Announces Enhancements to AI Platform with the General Availability of Workflow Builder"
-    excerpt: "Forethought, the human-centered AI platform, today announced Workflow Builder —an extension of its Solve product— is now available to all enterprise organizations. The significant enhancement allows companies to enable seamless service for their customers."
-    publishedDateTime: 2022-06-02T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/9af46caa23f74e3894166fa24783aee4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "NelUpoKn3HmeqK/D9K4kw1ZbfBO1GSrINa5cb2gOJXs21RIORn5sTlH6AYPbaOV1G4BLT7ECbBW/atuPsdaQA1IhzIVBSXz9FhA+7UiB0YItIoMUG8M93qmMNUzxZ4rRTdt/Syd1YSA4WsY97Wg3IMQihci4MdUJrlIl0o+3YzwONT71JoFhtIbg9bcCHEzrhicmeIg2gNpodwH88HZ5i1SLxALzwzDoHLNcxT2Aa4QFqi+CWtLtn3JwsKaQqi1MkPJ72/Jk9s7qVQvWEwtnDc3KMo+f+nWz8nyWOKlmPUJy9Zyvk3Cm8ff/gsra2BsQKN9lxTy9SZYy1CF1Omv69WKbVYKVvaZlX1GEnBDU8Ek=;VCCQLkHmWVeK5+eHvc1ctA=="
 ---
 

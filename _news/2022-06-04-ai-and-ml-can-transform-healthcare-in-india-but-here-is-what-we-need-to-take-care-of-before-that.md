@@ -20,15 +20,22 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Precision healthcare AI tools eyed by investors"
-    excerpt: "AI and ML promise to transform healthcare across the board, but particularly through the use of precision medicine."
-    publishedDateTime: 2022-06-02T12:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/"
+  - title: "C2i Genomics and Karkinos Healthcare partner to bring AI-Powered Cancer detection and monitoring to India"
+    excerpt: "“Since founding C2i Genomics our team has been laser-focused on making sophisticated AI-informed cancer diagnostics and tumor monitoring available throughout the world, regardless of where ..."
+    publishedDateTime: 2022-06-04T01:15:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/diagnostics/c2i-genomics-and-karkinos-healthcare-partner-to-bring-ai-powered-cancer-detection-and-monitoring-to-india/91995537"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/diagnostics/c2i-genomics-and-karkinos-healthcare-partner-to-bring-ai-powered-cancer-detection-and-monitoring-to-india/91995537"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/c2i-genomics-and-karkinos-healthcare-partner-to-bring-ai-powered-cancer-detection-and-monitoring-to-india/91995537"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-91995537,imgsize-816866,width-1200,height-628,overlay-ethealthworld/c2i-genomics-and-karkinos-healthcare-partner-to-bring-ai-powered-cancer-detection-and-monitoring-to-india.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "e9mcCnFC9bS6gKXC2pmCMTiRScvnURY56euARG/XpLwJCM4FSDOoGiqIsebykLXu4w+qRx/DYgcivVWFeGfYuwdlleh8ATMzbiuLvKMsra9dJOQ+1JmD81qvse1JJ7LSmGkYCEypK3qmc9PU0Ur42m+lWQYAILjGjCxapbD/WiD23NUgCQsGV1LcYfUW2OeicNrHr4ozyWVwr5JLU4kQg6DwROxJK93GxQfPRTIN85aCA9+VsbMLN1lqfR19/Ts8NfOHsB9zFYfkNgXqQBHY1vxlQtBfwEXf8KndI7hJ+4xQWEyKqFcNF70wtNc596tTXm8PBUkSq5hM1jpLe0nmQCaysfSDv4Ep1gNSIPVkhT4OtvS+uWozsrfWqg0t9Sai3Frqy6cTnxXO5zGdtA1eoWHA+BYKHFn3Vp9pOHKlQoHpvpu/p6wqhknMXX33BMr3fSOBTlgGuWEM4bh68wB9XKeN/zipa4J27zt+W2G/VgmhgoBZHyDvO8Bw1ot5SOYjpYJ5YpskgxdjAWacGBdY7g==;chDbeL1/G1PXeOvWd6VcBw=="
 ---

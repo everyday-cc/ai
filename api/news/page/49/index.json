@@ -2,6 +2,49 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-04-23-tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.md",
+      "title": "Tech update: Using artificial intelligence to solve supply chain snarls, and consolidation in Canadian crypto",
+      "excerpt": "Federal artificial intelligence agency Scale AI has announced ... has a huge opportunity to take the lead in gene and cell therapy. The country has the capacity to create a multibillion dollar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thespec.com/ts/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html?itm_source=parsely-api",
+      "originalUrl": "https://www.thespec.com/ts/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto.html?itm_source=parsely-api",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thestar.com/9EPJkM2V2ypv4CrXYqw3aQjoWEA=/1120x888/smart/filters:cb(1650901728922)/https://www.thespec.com/content/dam/thestar/business/mars/2022/04/22/tech-update-using-artificial-intelligence-to-solve-supply-chain-snarls-and-consolidation-in-canadian-crypto/techupdate1.jpg",
+          "width": 1120,
+          "height": 888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-23T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hamilton Spectator",
+        "domain": "thespec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-video-shows-tesla-self-driving-into-a-35-million-private-jet.md",
       "title": "Video Shows Tesla Self Driving Into A $3.5 Million Private Jet",
       "excerpt": "Tesla vehicle using Smart Summon feature has crashed into a $3.5 million private jet. Here is why the incident took place.",
@@ -1063,49 +1106,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-22-state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international-visitors.md",
-      "title": "State to use facial recognition at Honolulu Airport to speed up travel time for international visitors",
-      "excerpt": "The state plans to spend $15 million to install facial recognition cameras on departure gates at the Daniel K Inouye International Airport, a project aimed at speeding up the screening",
-      "sourceUrl": null,
-      "webUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
-      "originalUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/4/06/40611144-6dcb-11ec-9c2b-b794470070e4/61d4fbcdbb7ed.image.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
-      "cdnAmpWebUrl": "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/news/local/state-to-use-facial-recognition-at-honolulu-airport-to-speed-up-travel-time-for-international/article_176dbd70-c1de-11ec-bc45-83287326a416.amp.html",
-      "publishedDateTime": "2022-04-21T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KITV",
-        "domain": "kitv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

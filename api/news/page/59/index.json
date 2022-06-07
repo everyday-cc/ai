@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-04-14-use-automation-to-support-experience-not-to-cut-costs.md",
+      "title": "Use Automation to Support Experience, Not to Cut Costs",
+      "excerpt": "For some this means we've delayed our robot overlords from taking control, to others this means ... Tim Kulp is the Chief Innovation Officer at Mind Over Machines and a member of the Forbes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/",
+      "originalUrl": "https://www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/3aec731273844ef5ad2c77d291e5fa37.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/use-automation-to-support-experience-not-to-cut-costs/amp/",
+      "publishedDateTime": "2022-04-14T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-14-5-things-to-know-about-the-hottest-new-trend-in-ai-foundation-models.md",
       "title": "5 things to know about the hottest new trend in AI: foundation models",
       "excerpt": "Machine learning systems like DALL-E impress with their ability to generate creative work. These systems are known as \"foundational models.\"",
@@ -1095,40 +1138,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-six-nines-announces-support-for-aws-for-games.md",
-      "title": "Six Nines Announces Support for AWS for Games",
-      "excerpt": "Advisor Insights Personal Finance Market Volatility Retirement Planning Start Investing Save for College Best Investments See All",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220413sf22045/six-nines-announces-support-for-aws-for-games",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220413sf22045/six-nines-announces-support-for-aws-for-games",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
