@@ -4,7 +4,7 @@ otherNames:
   - "Scale.ai"
 overview: "The Data Platform for AI: High quality training and validation data for AI applications."
 type: "profile"
-heat: 203
+heat: 172
 
 website: https://www.scale.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "scale_ai"
   url: "https://twitter.com/scale_ai"
-  followers: 14523
+  followers: 14526
 
 size: 51-200 employees
 yearFounded: 2016
@@ -49,6 +49,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "iOFp68a+ft2uCZ8oCkOi3YKTbUh+Vy1GV2OCfGZ0OSprlnakbxqETliV2SxQ5KbjG/tPy1l7sa9LUCUG/5hadyQyzFEtEocWnit8WOHL+ZIfbU/oKuyozB/DY+rqy+gBtsEaDSsqMd1uC3z7RZ8VVX9E07RJgkV6xIfhRherUqJ/nNjiV7Xkdx+OEa+OeEMGef49UFzZ+29uXRTwthe01FrwSOEYjgnWI9saogm3T/z0XsZ90ViFerUhuI1Pq1X2YPWOYfU9YNIn7l4BYJV+H2Wqtqle+7hXNnDi3eAJa7ZxSVNLTY/guojyMYESA+m4lDcmBqFR36FegGeLa//JrgwonHqv0JYA3yLbWaW39Xm7Jhz9ikc1vxg5L7KYMjw2GDZyLOa18juSn1JiR4cKnOPL2daryv02hYtEATQY67A=;pMfPMiuzzegtDhv07VzrZw=="
+secured: "q71DFudpO0Hg17wYHS3YoM9MCvjX2OjSkH+3tKp+yaey/TtcPrf/w+Woln/RO3mWv5nXlrRMREqo+uDEKe7YadkdAIlBcLuBFc3QcfP/xDI7VD6BhCBn1pb9Vx50ogtG7MOa6N7evaEpVFNY4AwNW8C9pmsS0E/dCXVSIHW47Ikn1764Nvf4zk7CTLGa6qD9LRfSiihlIUtR5sR4EgsGsFw8AnIU8O1AfTXhOuC0SFYLdOmWZO06rpcEPoevERjFhP0DTg4gS7mtN7M5DN9FxQunDSI4avwUcCNWHPcLXiwcvbEiIMxRPpm+OgcMVDk3n5iUTRj2Qusb6AqAtjR03Iwjf+ZPAohdP7eVJCK0j3monBHXPSz5ZDsy3UBlwg9i6ez/AapgTy7ORkIPbof3BQJABRHcVtFSt8AurGgshJU=;j3dWs+I8vLCsWHs3C6QcEQ=="
 ---
 
