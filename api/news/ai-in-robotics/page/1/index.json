@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-07-can-a-recruiting-robot-be-ethical.md",
+      "title": "Can A Recruiting Robot Be Ethical?",
+      "excerpt": "Ethics as they relate to AI and hiring employees can be divided into 4 categories: Fairness, Accountability, Privacy and Transparency. It is my feeling that transparency should be the first priority. Without transparency there is no place to start the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629f30684b84f80d22b62126/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
+      "publishedDateTime": "2022-06-07T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-teslas-robot-has-potential-to-be-revolutionary-get-exposure-with-these-3-etfs.md",
       "title": "Tesla’s Robot Has Potential to be Revolutionary; Get Exposure With These 3 ETFs",
       "excerpt": "News broke late last week that Tesla’s second Artificial Intelligence Day has been pushed back to September 30 as the firm may have a working Optimus prototype by then. Oppenheimer analyst Colin Rush told Nasdaq he sees Optimus generating economies of scale at Tesla,",
@@ -132,6 +185,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-06-an-artificial-intelligence-pilots-a-modern-mayflower-to-canada.md",
+      "title": "An artificial intelligence pilots a modern Mayflower to Canada",
+      "excerpt": "The robot ship designed by IBM was meant to dock in Massachusetts, but mechanical trouble forced it to dock in Halifax, Canada. The ship didn't have a crew.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada",
+      "originalUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/0acc448/2147483647/strip/true/crop/1066x600+79+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fe5%2F5849f0b84b2199a671bd181ea0ed%2Fhcdhr-cz.jpeg",
+          "width": 430,
+          "height": 242,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada?_amp=true",
+      "cdnAmpWebUrl": "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada?_amp=true",
+      "publishedDateTime": "2022-06-06T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boise State Public Radio",
+        "domain": "boisestatepublicradio.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain.md",
       "title": "Chitti The Robot Got Competition! Indian Researcher Develops E-Skin That Can Actually Feel Pain",
       "excerpt": "The artificial skin was developed by Ravinder Dahiya's team at the university using a novel sort of processing system based on synaptic transistors.",
@@ -184,7 +280,7 @@
       "originalUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1273,92 +1369,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.md",
-      "title": "Remote-controlled crab-like robot is the smallest ever, university says",
-      "excerpt": "Engineers at Northwestern University in Evanston, Ill., announced they have created what they believe is \"the smallest-ever remote-controlled walking robot.\"   The robot resembles a tiny crab and measures just a half-millimeter wide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says",
-      "originalUrl": "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/05/932/470/Tiny-robot.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp",
-      "cdnAmpWebUrl": "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/remote-controlled-crab-like-robot-is-the-smallest-ever-university-says.amp",
-      "publishedDateTime": "2022-05-26T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 10 Phoenix",
-        "domain": "fox10phoenix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you.md",
-      "title": "Can you feel the world’s smallest remote control robot crawling on you?",
-      "excerpt": "Researchers at Northwestern University are definitely not helping prevent the robot apocalypse with their latest invention: The smallest remote-controlled robot in the world. Measuring half a millimeter wide and about 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you",
-      "originalUrl": "https://www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/6a3fc82/2147483647/strip/true/crop/800x417+0+91/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4e%2F6c%2F0d2ac2263e5c1b632cb137cfa5d6%2Fblue-robot.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you?_amp=true",
-      "publishedDateTime": "2022-05-26T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

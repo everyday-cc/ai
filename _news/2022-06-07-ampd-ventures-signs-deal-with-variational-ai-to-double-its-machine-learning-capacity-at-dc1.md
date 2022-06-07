@@ -1,0 +1,56 @@
+---
+category: news
+title: "AMPD Ventures signs deal with Variational AI to double its machine learning capacity at DC1"
+excerpt: "The deal will nearly double the machine learning capacity supplied by the AMPD AI Platform to Variational, the company said"
+publishedDateTime: 2022-06-07T10:35:00Z
+originalUrl: "https://ca.proactiveinvestors.com/companies/news/984202/ampd-ventures-signs-deal-with-variational-ai-to-double-its-machine-learning-capacity-at-dc1-984202.html"
+webUrl: "https://ca.proactiveinvestors.com/companies/news/984202/ampd-ventures-signs-deal-with-variational-ai-to-double-its-machine-learning-capacity-at-dc1-984202.html"
+ampWebUrl: "https://ca.proactiveinvestors.com/companies/amp/news/984202"
+cdnAmpWebUrl: "https://ca-proactiveinvestors-com.cdn.ampproject.org/c/s/ca.proactiveinvestors.com/companies/amp/news/984202"
+type: article
+quality: 64
+heat: 84
+published: true
+
+provider:
+  name: Proactiveinvestors
+  domain: proactiveinvestors.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA2XC8yMDIwLTExLTIwLTE0LTU1LTM1LWFjNmQyM2UxNjFlYTAzOTYxNWZjNjIwMGI2YzhiODAzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
+    width: 1200
+    height: 740
+    isCached: true
+
+related:
+  - title: "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1"
+    excerpt: "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) (“AMPD” or the “Company”), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc."
+    publishedDateTime: 2022-06-06T21:01:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-ai-inc-vancouver-canada-1b08220113e517a28cc52510e20ff331"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 49
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "AMPD Ventures Inc.: AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1"
+    excerpt: "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) (\"AMPD\" or the \"Company\"), a next-generation digital infrastructure provider, is pleased to announce t"
+    publishedDateTime: 2022-06-06T21:08:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56240991-ampd-ventures-inc-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
+
+secured: "bIASqK5CxvlwX5O+3Bq68EKdEZUd3qQWgkRQVJgQfBOJSwzOXXVu0+Xm2d3b18s2NmN63rUdTvDsIzwOD8Cyixd0GR18a8FJEMQ8n9TTBBt8ZZh8GNtJ1aytriqJ8MiC3Wd3jo5TwuP9TUmnuA5IOh3hicnTifNXMOzYP0A5zBMsDwUJoH/C7p6fkZyY7BB5/HEDZhTqqI0buKnC1MM+xucw7BopXUNctucqKA5bPY5refyIY8HFJtzbm7f7bwzM6TTulm4YgjXCne54PI+fSwepyjbmhtiAHZrt+FPyxVw/i3gYanfrKcLL4ZunynxlXX4bk7Fbyzn6O+h6q5Ws/07SQsgI01phf94dLGQcUq0=;gMuJ7l16i0oBTa3p4eyx2A=="
+---
+

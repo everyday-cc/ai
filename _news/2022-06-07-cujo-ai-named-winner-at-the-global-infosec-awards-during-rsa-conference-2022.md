@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-cujo-ai-named-winner-the-global-in
 webUrl: "https://www.tmcnet.com/usubmit/-cujo-ai-named-winner-the-global-infosec-awards-/2022/06/06/9615750.htm"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 291
     isCached: true
-
-related:
-  - title: "AI Spera to Showcase CTI Search Engine at RSA Conference 2022"
-    excerpt: "AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, will spotlight its latest advanced security solutions at this year's RSA Conference, June 6-9, 2022, at the Moscone Center in San Francisco."
-    publishedDateTime: 2022-06-02T17:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/02/9614241.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1831418/RSAC_event__1.jpg"
-        width: 400
-        height: 332
-        isCached: true
 
 secured: "uASo0LVccoqlyncYVq0IwjkL3MGlz98ZQ6jX52a8j2ktFXz1y3FL0Yf+SmT+oD3rE0z+fnDBJqsvu2z6cRKJPUr1hlYR38Q59dYoyMeQ/xDjXayEF1fG3Ckt0wROv9dZi88+ul8NDKyhrgB9Gb0YeLzaJCrip9dxaWyGlI39BeMmB5tCZ+K24nEvZsNF5/C6Jn4N1PkXAwWv9qdab9Tz56RiYrXCH+qWKB7xupVvghI+LSZXqGV+QjaX3HhIzNinCjccO3s0GoG/YADOfpWg3dn7ElZTy92iy49IdbWT2T5B0Dcw6bEerNZkxK2iDMQA0vMRzDOhfGIi5yRkHuyi9eUUQRU/CafynhZmvlEfook=;2V6yxavJyWrP475bq+9fwA=="
 ---

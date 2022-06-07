@@ -33,15 +33,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Biden to deliver speech on guns"
-    excerpt: "President Joe Biden will deliver a rare evening speech on guns Thursday to press US lawmakers to take action as the US confronts another mass shooting, the White House said. The address will take place at 7:30 p."
-    publishedDateTime: 2022-06-02T18:40:00Z
-    webUrl: "https://www.wishtv.com/news/politics/biden-to-deliver-speech-on-guns/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 4
 
 secured: "dftqTbtX/0OuOzE135Jj8Eu9flBhf7aJysGF/G6ati8lmaNvTqNNAYpDqNClDtNZh8luAnOotqMAGMpIoaIk1470SlruTRqcdTBosrNtKxt0tRB1ybPGsOaor+Izh6YXcgAiU89wYvlhvMblx8pdTvvlnFTOCv7l0KHVErPVCUXPfYuz7tQWprorQkZwka3+2Zd6VpR0Fh679yfQOjnqa4W11/IlM9i7ilnktTBixSPXk4ZpZtd8R6TZWwqLmRBq7pEPERKX8g5/jgvEX9XQbSQqUfOJL8K+PeWvNveN0nYr4+EbWu7tfRQqGgsWInkIbHbqxuGUKN0x6RBSynFeZ52FUxJUGoSG4sWrpmISJG0=;O3xae4X7Xnw2+pmWY+wnSA=="
 ---

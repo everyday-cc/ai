@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-w
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/"
 type: article
 quality: 105
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 1000
         height: 499
         isCached: true
-  - title: "Detect financial transaction fraud using a Graph Neural Network with Amazon SageMaker"
-    excerpt: "Fraud plagues many online businesses and costs them billions of dollars each year. Financial fraud, counterfeit reviews, bot attacks, account takeovers, and spam are all examples of online fraud and malicious behaviors. Although many businesses take approaches to combat online fraud, these existing approaches"
-    publishedDateTime: 2022-06-02T18:24:45Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-financial-transaction-fraud-using-a-graph-neural-network-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 79
 
 secured: "fr7DtmR8mGJera7FNJ6cB/MgSw5NqA6/BDK2WPz0mibcLVMuA/r1KrYroktm3IZFDIPwi61D23BZYV6nGjSqtpwwPiq7QcLGNGbA6cH6YO2k+4nuYnoKoy5ySmVMbzEGtCmx0sSTnJoGR11+RsezSPXH9GrGIuwnt+XmUqeGRVALHE5LmgW1LfueJ65WUfJkMGxhUqhh0odWBLf9CozMXXVWJT1nT/mzWzSq3PTWDZ5rVFx4bw+oUJsiNIE2/+sWOiJ3atl8pdtt1MQWB2Q3hPKP1HvxpUJVZMAH1Tt8O2BqjlwKTc5aI3z5Jp7i4b4xqLekCrMMORe2jSKkPLiUMXwKFWgKLosDfevdHj1FXXM=;0Cs9qtFIPJC5LvS+7jpYZw=="
 ---

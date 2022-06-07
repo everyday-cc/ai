@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The CFPB doesn’t want to play in the fintech sandbox anymore"
-    excerpt: "Leaders at the regulator have concluded that a much-hyped “compliance assistance sandbox” and related programs were ineffective."
-    publishedDateTime: 2022-06-02T17:22:00Z
-    webUrl: "https://www.protocol.com/fintech/cfpb-fintech-sandbox"
-    ampWebUrl: "https://www.protocol.com/amp/cfpb-fintech-sandbox-2657444487"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/cfpb-fintech-sandbox-2657444487"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 44
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-no-action-letters-and-sandboxes-apparent-sunset-indicates-a-shifting-regulatory-stance-on-financial-technology-less-than-p-greater-than.jpg?id=29866106&width=400&coordinates=0%2C280%2C0%2C281&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
   - title: "The Innovators 2022: World’s Best Fintech Labs"
     excerpt: "Fintech innovations recently arising from the Morgan Stanley ... The Bulgarian company Appraiser.ai is a recent graduate. The company uses the latest AI and machine learning technologies to deliver insights to the mortgage market, then automate valuation ..."
     publishedDateTime: 2022-06-03T00:00:00Z
@@ -48,6 +32,20 @@ related:
       - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/innovation-labs-2022-1200-1654297965/b731b9466a0788c034d61da77581a56b.png"
         width: 500
         height: 262
+        isCached: true
+  - title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
+    excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
+    publishedDateTime: 2022-06-04T08:08:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-drives-the-industry-shuki-licht-finastr"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/24c71345de77aec9ac814303f0a4806f:bc7561f1492cb253a864292e9bd39724/gettyimages-1152556266.jpg.jpg"
+        width: 1799
+        height: 1010
         isCached: true
 
 secured: "bYzJI7IsQKAaABIJPbpqVq0+nTGyErGx9BWEeSLudt3I3UJ/mt9jtW+m7vrGXw/V0g1K3/vJQ6lI0e2+0uqpF7C6yUj6TrAFb6KiilXRfV4waj3o40JH+m/AZHWOgrDs9prB5qqWqbWyzNuXolsg02z65I7/qCoegyt/dQsd/8rkozvZEssag+fbd+CDK3Ny3xeww4sz47i7zWz5eaEC6PsoNbsu1BzNCDoKPjj3Y5WYpSIw1Bzhkau2ZIlbFHQCUDYYGj0CQYnRR7uxdxI+Q4oOwrKDoPC0LaVO+RTscXZa65Zh4xOJXasm+9rKI6xdfCCgmW3g5li7GZmidTb1vlfY9K/2TTQwrY7cugKQ0SY=;MuUhoTzsJ184vvyxoK419Q=="

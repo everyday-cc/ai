@@ -23,17 +23,6 @@ images:
     height: 831
     isCached: true
 
-related:
-  - title: "AI reveals links between individual differences within brain anatomy and those within autism spectrum disorder symptoms"
-    excerpt: "Differences in behavior among people with autism spectrum disorder (ASD) are closely related to differences in neuroanatomy—the shape of a brain—a team of Boston College neuroscientists report today in the journal Science."
-    publishedDateTime: 2022-06-02T18:48:00Z
-    webUrl: "https://medicalxpress.com/news/2022-06-ai-reveals-links-individual-differences.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 0
-
 secured: "AaAbNj1gM2RuM0TnTiC8Qs4PLHj//MROHlqPb4XuUJ1vQHyhxWfprVhVJDn9Ih2H3/t1Qo4Lc3Dh3eNNkf0KMHw4Cgk6lW9F4kmTVnXR/Lbjfk3exnfHrDANZOgBE9PwRbLisuPMHm5hu9OyzaNSTHsWDY20THsPkN4i/nJqfv3ZqyKUF6BxtQEL+JDaTihUWakFj1EZNlxl+LLl8XT+QmzDwD0Vlk4wDo+SYyv5BiGwnGwEtvoyvywvk0XXfOAisVwEFxF2+tMqi33ROZT/+r3FqLXPCdVJUPW+Bv9ijPDet381lz26245z+oPKYsyVlj0/ZvbqzywmYKnIABQayOd4hwEP8M4RClQ2+t7VL1gKWrOthoCopbK2PL4zpqK5UrzXSLWsodAmJh9mVjqQ5tCvTCKxiKxABv6+xn9CdG8N8r5mFsLZ0dA3YMZk/uriHJcHD5GQkveOBBFmGL7KctsgX+kziCS+KhVuPWkMUqJ9y73YE9fx99gjpLZzlufCf6VR6ozWN1R4iNmyp4WXBw==;F8rylxJ/msiNqfdW5u9ldw=="
 ---
 

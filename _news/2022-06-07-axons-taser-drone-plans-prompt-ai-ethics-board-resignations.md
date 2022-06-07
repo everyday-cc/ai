@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/taser-drone-axon-ai-ethics-board/amp"
 type: article
 quality: 104
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -348,6 +348,15 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
+    quality: 19
+  - title: "Taser-equipped drone development on hold, ethics board members resign"
+    excerpt: "Axon, formerly known as TASER International, announced and halted plans for its development of a Taser drone within only a week."
+    publishedDateTime: 2022-06-07T10:04:00Z
+    webUrl: "https://www.tweaktown.com/news/86693/taser-equipped-drone-development-on-hold-ethics-board-members-resign/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
     quality: 19
 
 secured: "yrA9wsRlOCZctiBtL5R0ETOMXM0qGjrki3EK/wbhKdEl1eqAPtcYqJzzW7novO4biqGKOKABDFBnT0jtoQAfqnEk8lZuBON7a2k6oIMoqO7pADOTM2MwecFZOMUTleOgx/VIFU+tMhyQV7CfG2+zR8INMOhXEem/T9XnUuIr9KZTgjvU1c/aNvW+qThOqpcebcNkCxIfrqOBlITEPUatVOi99UJPHwZJ9LmybbytvgY/tVW7eiWnw4oTjAEmTWiSTGi3iqPEB2RmD6rsIam11Qd3SUANb/8V2DPXcJQFMQRBKAcu8oPZjHR9atPqxZzy3OkVWS4J7XOYXCPFIufsXHRGPY/upZLyls9nmnkb5XDXJ+B0zhtf8QiB7vTCb/TGCkdkEpc90ltFEk4udVDrp41Jr37H/BkHD2wofmFyLOPtzvTeA2aSJ2LdHrxY/5mW1MlPF0aXiy7Qc8lphNeNAo62AtdSrswNHEsc5E+W4ljD65y4f23OjZ7DoCZethiKq8DJez+snrKnhgWKqtsbjg==;ew5oTM+VrI3vQqfdZOH3Rg=="

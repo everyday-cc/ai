@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-06-roadblocks-to-getting-real-time-ai-right.md",
+      "title": "Roadblocks to getting real-time AI right",
+      "excerpt": "Specialized hedge funds and big-name AI players – like Google and Facebook – make use of real ... This makes transitions from research to production expensive and labor-intensive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/",
+      "originalUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1171820924.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/",
+      "publishedDateTime": "2022-06-05T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong.md",
+      "title": "People are entering relationships with AI…but pop culture’s view is all wrong",
+      "excerpt": "AI is new, and its ability to help humans is promising. But if all you know about AI is from Hollywood, you should think again.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/",
+      "originalUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-594827903.jpg?fit=800%2C403&strip=all",
+          "width": 799,
+          "height": 403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/amp/",
+      "publishedDateTime": "2022-06-05T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-05-satellites-and-ai-can-help-solve-big-problemsif-given-the-chance.md",
+      "title": "Satellites and AI Can Help Solve Big Problems—If Given the Chance",
+      "excerpt": "Traditional hurdles stand in the way of ambitious plans to use imagery to help feed people, reduce poverty, and protect the planet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/",
+      "originalUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/629a411d034df35b6080c33c/master/pass/Satellite-AI-Solve-Big-Problems-Deforestation-Amazon-Brazil-Business-1318751110.jpg",
+          "width": 2400,
+          "height": 1697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/satellite-images-ai-solve-problems-governments/amp",
+      "publishedDateTime": "2022-06-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-05-ai-in-business-the-one-thing-every-board-member-asks.md",
       "title": "AI In Business: The One Thing Every Board Member Asks",
       "excerpt": "Board members already have a long list of mission-critical issues in their sights, including risk and reputation management, advising and encouraging the CEO, financial performance, and growth opportunities.",
@@ -166,7 +321,7 @@
       "originalUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1071,162 +1226,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast.md",
-      "title": "Voice and Speech Recognition Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast",
-      "excerpt": "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-ai-weekly-defining-debating-and-honoring-ai-innovation.md",
-      "title": "AI Weekly: Defining, debating and honoring AI innovation",
-      "excerpt": "It's the beginning of Pride month. At VentureBeat, it's also the beginning of a six-week-long deep dive into AI innovation, culminating in our 4th annual AI Innovation Awards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/",
-      "originalUrl": "https://venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1370838355.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/amp/",
-      "publishedDateTime": "2022-06-02T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-elon-musk-says-tesla-may-have-a-working-humanoid-robot-prototype-by-sept-30.md",
-      "title": "Elon Musk says Tesla may have a working humanoid robot prototype by Sept 30",
-      "excerpt": "Elon Musk announced that Tesla might have a working prototype of Tesla Bot, the automaker's humanoid robot, by September 30th.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
-      "originalUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/01/elon-tesla-bot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/amp/",
-      "publishedDateTime": "2022-06-02T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Oregon dropping AI tool used in child abuse cases"
-    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
-    publishedDateTime: 2022-06-02T18:31:00Z
-    webUrl: "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
-    ampWebUrl: "https://www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php"
-    type: article
-    provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/26/01/67/22552019/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Oregon dropping AI tool used to help decide child abuse cases"
     excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
     publishedDateTime: 2022-06-02T21:06:00Z

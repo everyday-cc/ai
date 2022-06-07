@@ -2,6 +2,178 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-02-ai-and-ml-key-combatants-in-the-cyber-security-conflict.md",
+      "title": "AI and ML: Key combatants in the cyber security conflict",
+      "excerpt": "Artificial intelligence and its subset machine learning are now key technology partners in the search for improved and faster cyber security processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG",
+      "originalUrl": "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/vYkpjEzwFxX7WoWvv6pXqSmM-0Vy0whE8WTdxfaPH6QwmIIkCRCvWMwPnRKSXbjPfGVTQY5Ls6G5BZ5S9raS7ZY=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG",
+      "publishedDateTime": "2022-06-02T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-role-of-conversational-ai-in-healthcare-and-pharma-industry.md",
+      "title": "Role of Conversational AI in Healthcare and Pharma industry",
+      "excerpt": "Artificial intelligence (AI) techniques that allow machines to learn with minimal human supervision have emerged due to the exponential rise in comput..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91957736,imgsize-65798,width-1200,height-628,overlay-ethealthworld/role-of-conversational-ai-in-healthcare-and-pharma-industry.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
+      "publishedDateTime": "2022-06-02T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers.md",
+      "title": "Leveraging the power of AI and machine learning for more resilient data centers",
+      "excerpt": "The ability for IT department to predict disruptions and unplanned downtime can potentially minimize impact to the business, especially in today’s e..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91953454,imgsize-29370,width-1200,height-628,overlay-etcio/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "publishedDateTime": "2022-06-01T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-c3ai-shares-swoon-as-guidance-disappoints.md",
+      "title": "C3.ai Shares Swoon As Guidance Disappoints",
+      "excerpt": "For the July quarter, C3.ai sees revenue of $65 million to $67 million, falling well shy of the Street consensus at $74.4 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388",
+      "originalUrl": "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-449799/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388",
+      "publishedDateTime": "2022-06-01T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-google-bans-deepfake-generating-ai-from-colab.md",
       "title": "Google bans deepfake-generating AI from Colab",
       "excerpt": "In a recent policy change, Google has banned deepfake-generating AI projects from Colab, its platform for hosting and running arbitrary Python code.",
@@ -819,19 +991,19 @@
     {
       "path": "_news/2022-06-01-artificial-intelligence-technology-solutions-files-10-k-and-audited-financials.md",
       "title": "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
       "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
-      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-dda034efc1d23514689024c2f1e520b3",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-dda034efc1d23514689024c2f1e520b3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -841,11 +1013,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T05:40:00-07:00",
+      "publishedDateTime": "2022-06-01T05:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -855,7 +1027,6 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -994,186 +1165,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-the-race-to-hide-your-voice.md",
-      "title": "The Race to Hide Your Voice",
-      "excerpt": "Voice recognition—and data collection—have boomed in recent years. Researchers are figuring out how to protect your privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/",
-      "originalUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62969e5ac54d2f0c8603ffab/master/pass/security-voice-ai.jpg",
-          "width": 2401,
-          "height": 1351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/voice-recognition-privacy-speech-changer/amp",
-      "publishedDateTime": "2022-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital.md",
-      "title": "Arteria AI Announces Strategic Investment Co-Led by Citi SPRINT and BDC Capital",
-      "excerpt": "Arteria AI, an award-winning global leader in enterprise digital documentation, today announced it has received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/",
-      "originalUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/",
-      "publishedDateTime": "2022-06-01T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-azure-nc-a100-v4-vms-for-ai-now-generally-available.md",
-      "title": "Azure NC A100 v4 VMs for AI now generally available",
-      "excerpt": "AI is revolutionizing the world we live in—from the way we entertain ourselves, to the products and services that we consume, to the way we care for our bodies, and how we go about our daily work. At Microsoft, our NC series virtual machines (VMs) allow our customers and partners access to almost limitless",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T01:00:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-how-is-robotics-innovation-progressing-in-the-air-force-industry.md",
-      "title": "How is robotics innovation progressing in the air force industry?",
-      "excerpt": "Analysis of patent filings revealse the top companies for robotics related applications in the industry over the past year",
-      "sourceUrl": null,
-      "webUrl": "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/",
-      "originalUrl": "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/05/il8Zm-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Airforce Technology",
-        "domain": "airforce-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,186 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-27-artificial-intelligences-role-in-trusted-national-security-supply-chains.md",
+      "title": "Artificial Intelligence’s Role in Trusted National Security Supply Chains",
+      "excerpt": "U.S. economic prosperity and national security is at risk due to a dependency on the resiliency, diversity, and security of global supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnas.org/publications/commentary/artificial-intelligences-role-in-trusted-national-security-supply-chains",
+      "originalUrl": "https://www.cnas.org/publications/commentary/artificial-intelligences-role-in-trusted-national-security-supply-chains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/artificial-intelligence.jpeg?mtime=20180423114444&focal=none",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNAS",
+        "domain": "cnas.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-ai-based-tech-company-hitlab-is-shaking-up-the-music-industry.md",
+      "title": "AI-Based Tech Company HITLAB Is Shaking Up The Music Industry",
+      "excerpt": "AI-based music technology company, HITLAB, is revolutionizing how entertainment content is discovered, produced, and consumed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
+      "originalUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62900a18798f8afff74d8a31/0x0.jpg?format=jpg&crop=1767,1178,x204,y7,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
+      "publishedDateTime": "2022-05-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-smarter-health-how-ai-is-transforming-health-care.md",
+      "title": "Smarter health: How AI is transforming health care",
+      "excerpt": "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care",
+      "originalUrl": "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWNO",
+        "domain": "wwno.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-how-to-make-it-easier-to-implement-ai-in-your-business.md",
+      "title": "How To Make It Easier To Implement AI In Your Business",
+      "excerpt": "AI continuously proves to be an asset for businesses and has been revolutionizing the way they operate. It goes a long way in helping to cut operational costs, automate and simplify business processes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628e43a297056cd9dc21d426/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/",
+      "publishedDateTime": "2022-05-27T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-artificial-general-intelligence-whats-behind-you.md",
       "title": "Artificial General Intelligence: What's Behind You?",
       "excerpt": "AGI is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can.",
@@ -938,195 +1118,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-microsoft-azure-to-spin-up-amd-mi200-gpu-clusters-for-large-scale-ai-training.md",
-      "title": "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training",
-      "excerpt": "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/",
-      "originalUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/11/16/amdmi100.jpg",
-          "width": 894,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
-      "publishedDateTime": "2022-05-26T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-foursquare-founder-banks-funding-for-mystery-3d-social-network-startup.md",
-      "title": "Foursquare founder banks funding for mystery 3D social network startup",
-      "excerpt": "The excitement around web3 and the metaverse have pulled plenty of entrepreneurs who defined the first generation of native mobile apps to begin questioning what’s next. Foursquare founder Dennis Crowley is on the co-founding team with Matt Miesnieks,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/",
-      "originalUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/disrupt-dennis-crowley-0207.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/amp/",
-      "publishedDateTime": "2022-05-26T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-meta-and-googles-gradient-back-latam-startup-olaclick.md",
-      "title": "Meta and Google’s Gradient back LatAm startup OlaClick",
-      "excerpt": "Over 80% of food delivery orders in Latin America are still made over phone calls and settled with cash. OlaClick, a young startup that is helping these restaurants sell online and collect money digitally,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/",
-      "originalUrl": "https://techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Copia-de-TODOS-FUNDADORES-2021.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/26/meta-and-google-gradient-invest-latam-startup-olaclick/amp/",
-      "publishedDateTime": "2022-05-26T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-the-dmv-said-it-would-investigate-tesla-over-self-driving-claims-then-crickets.md",
-      "title": "The DMV said it would investigate Tesla over self-driving claims. Then, crickets",
-      "excerpt": "Why doesn't the DMV have anything to say about its investigation of Tesla's autonomous driving claims after a full year? The agency isn't talking, and lawmakers are getting impatient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sandiegouniontribune.com/business/story/2022-05-26/dmv-tesla-year-long-slow-walk",
-      "originalUrl": "https://www.sandiegouniontribune.com/business/story/2022-05-26/dmv-tesla-year-long-slow-walk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/24fe7d2/2147483647/strip/true/crop/1871x1251+0+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe4%2F2f%2Fddad095e40d9a5832e02834713aa%2F958471-tn-dpt-me-nb-fatal-collision-1.jpg",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sandiegouniontribune.com/business/story/2022-05-26/dmv-tesla-year-long-slow-walk?_amp=true",
-      "cdnAmpWebUrl": "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-05-26/dmv-tesla-year-long-slow-walk?_amp=true",
-      "publishedDateTime": "2022-05-26T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Diego Union-Tribune",
-        "domain": "sandiegouniontribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

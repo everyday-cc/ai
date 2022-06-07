@@ -52,15 +52,6 @@ related:
         width: 1000
         height: 498
         isCached: true
-  - title: "Detect financial transaction fraud using a Graph Neural Network with Amazon SageMaker"
-    excerpt: "Fraud plagues many online businesses and costs them billions of dollars each year. Financial fraud, counterfeit reviews, bot attacks, account takeovers, and spam are all examples of online fraud and malicious behaviors. Although many businesses take approaches to combat online fraud, these existing approaches"
-    publishedDateTime: 2022-06-02T18:24:45Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-financial-transaction-fraud-using-a-graph-neural-network-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 79
 
 secured: "HO8nIxawxPodKPr3N9VHPjl/xbHdHpRT2eVKbb/USK4WR4m1myTMVaBbC9ACJjDMdvlznR5a6Ig3Iv5K29bv7KfkLORlCgTC9t6xT/Osq/faRNOzGfpMXc/fyJ0+vpicPphyvw16ko2nCItlXE/3/TNtkRUKcM82UJbKyHaSeKKjyQaT01kQxGq2D5TAO3SUb58ZBZuLsVa37oHDMIrgawYtIQwyXcD2E+RloAivq0sAPiJgVMUaAyOju2/Je5e1cH7/jv40FIfLqeQ1AO6vfod/wXTo641tQZk0m+zU2DU9AAZADiYOqnc/sR0JNt+py/1wOjQNBHqw7ISVcYYjio6LjJ7pd6p4yRZzAADc4uc=;yNjrIWgd2p6JWU1IEYlYWg=="
 ---

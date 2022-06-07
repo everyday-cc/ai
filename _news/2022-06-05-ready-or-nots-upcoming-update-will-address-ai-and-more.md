@@ -33,15 +33,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 17
-  - title: "Tech update: Combating food insecurity with AI and crickets, and Canada’s top AI ventures"
-    excerpt: "Many families are starting to worry about how they can put food on the table. Protein costs are skyrocketing. There has been unprecedented growth in global meat consumption. In Canada, prices of traditional proteins like beef have risen by almost $3 per kilogram."
-    publishedDateTime: 2022-06-02T19:15:00Z
-    webUrl: "https://www.thestar.com/business/mars/2022/06/02/tech-update-combating-food-insecurity-with-ai-and-crickets-and-canadas-top-ai-ventures.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 8
 
 secured: "vGe8suHo/lALPlAOtBoLtCibxA7d0mh48kZ+ZxH/bkGfjm72IGnD1Xn6L3FpcFKDWTN+jFbMWvgwLHUHbWYLnv3nw5UyxMIlyZCiM1eTG3/gAvWuzwMSCXQuwgTa62ghBhA0wWOAw4z+zayMb0p/4T7JRiedn1mjK4ye2jTextefwH24MsVwO6A0IaCEs+ssjTHQ7Z5lsd+1r2gOpQ0sdjDvcqmEruiRtiOTO8m8YAOERqX9RakBaMVcMeUKAD4qoWmDNsBrZFYN56yj/XanA/MP6iGNnrBXhLPyjj+YiiQRuRoR8DUW6wpfuSpp1I0gP0HVvpmT0ccgGghC8ovHTakILAhuhpUnnmPf72zzDeA=;+adftHjieMnAWBoKCR18Zw=="
 ---

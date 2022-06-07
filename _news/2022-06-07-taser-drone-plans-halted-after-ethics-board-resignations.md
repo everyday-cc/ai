@@ -345,6 +345,15 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 19
+  - title: "Taser-equipped drone development on hold, ethics board members resign"
+    excerpt: "Axon, formerly known as TASER International, announced and halted plans for its development of a Taser drone within only a week."
+    publishedDateTime: 2022-06-07T10:04:00Z
+    webUrl: "https://www.tweaktown.com/news/86693/taser-equipped-drone-development-on-hold-ethics-board-members-resign/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "OXysJwW3Z5jZS6h0kSCXglDxEuLI+s3oHTEAOBrXGF3x5qkSshtkATowj4Jr2EL63mxG5DaUMnRiTe8FK5vhB2amzt6iYyh+z8RuosWpCRt9DbH21Nz0pAWoyUR2kk7/NsZ6Nr0F8PzSoHdoke8GCRL8ljGp0fg/OHikbzCQRiizuefunB2bs0lfbfNGGDBfMyKhhHgZxiU5PeHLlOGmFNid4+/Dbtb+p2QeFLMiifKXJn4s/ouxJeh+bwRQF4qt5tCXPlphmt98O3pRcKj/c7jIMqm1bz0UJ4F4LyhfHag9WkP3mBlcGjhh7MQJEDyq9kHp5D1E3hNElZB9H6Lw9rn+fJjaBMDNOd0PeQEPn8NitMFwQTiPjaBfmG7fEnGZIpSCFghjEwiAyB3w/Xdu592IqlZeAZv9PBRB1chuqGhEeEtbbxW3F9Vb9gn6R1b61xgPzBOwQk9ScQMlsdZQ3651uqbPq3K9z60eRdTewgb8g3F816NjDJDpmdxlEyTu1JlinrCZ+HU3GRcKdZn3rw==;m8qRyM/+VpmCu5gfUZr6Cw=="
 ---

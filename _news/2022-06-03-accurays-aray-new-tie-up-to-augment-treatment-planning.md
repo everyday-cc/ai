@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/accurays-aray-new-tie-up-to-augment-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accurays-aray-new-tie-up-to-augment-treatment-planning?amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -19,17 +19,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Accuray partners with Limbus AI on adaptive radiotherapy"
-    excerpt: "Accuray (Nasdaq:ARAY) and Limbus AI announced today that they are partnering to augment Accuray’s adaptive radiotherapy capabilities. The partnership aims to leverage Limbus’ artificial intelligence (AI)-driven auto contouring algorithms to enable a streamlined treatment planning process."
-    publishedDateTime: 2022-06-02T17:58:00Z
-    webUrl: "https://www.massdevice.com/accuray-partners-with-limbus-ai-on-adaptive-radiotherapy/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 34
 
 secured: "8ms6TWIy3Do5xP3JF+LELD3dlTVdbjnwQ2CA8e8YljaqcIKYq3U9y/AGYzjnhQlLhYa3Ptp29+qUxFx8R3qs3B+xWC38eu4IdzB402VtOFgCZojQpfy9aD7wMgWWk4OWaPbAhBxOyS1B2a7B7gjblRpTtgqM6Smu7w9MLd+NahIIvOWwLoYIEM3jd3uyvVVnphMjaiwG4uhFksyMYycZjkCq8kz23akITVOg79roLCs0clDW/vzbuTY12coOscKQFAFMZfboOeemOhL1AkZ+iPjP09sS/DzHSXsjC/hR7f6o3PCR8zjbAVDjO6nt912ZOdWgHtgahonfl9YMIDN6L07rf07vmQE87DIE1cVWtnQ=;v0OMCmKGj6jhztWQ78YHOg=="
 ---

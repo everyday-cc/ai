@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-25-tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid-accurate-ml-and-ai-modeling.md",
+      "title": "TigerGraph ML Workbench Delivers Deep Learning and Graph Neural Network Frameworks for Rapid, Accurate ML and AI Modeling",
+      "excerpt": "TigerGraph, provider of a leading graph analytics platform, today announced the TigerGraph ML (Machine Learning) Workbench — a powerful toolkit that enables data scientists to significantly improve ML model accuracy,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/science-c54a247f40454b20a2e772ec392b9366",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/science-c54a247f40454b20a2e772ec392b9366",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities.md",
       "title": "Kao Data to Host Speechmatics' HPC and AI Supercomputer, Expanding Deep Learning Capabilities",
       "excerpt": "Speechmatics' work within artificial intelligence-powered neural networks provides highly accurate speech-to-text to global enterprise businesses.To support its expansion Speechmatics required a specialist,",
@@ -92,24 +135,33 @@
     {
       "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
       "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,",
+      "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "webUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "originalUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png",
+          "width": 1500,
+          "height": 942,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:31:00-07:00",
+      "publishedDateTime": "2022-05-24T17:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1368,58 +1420,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-chatbots-can-be-weaponized-how-to-defend-against-these-attacks.md",
-      "title": "Chatbots Can Be Weaponized — How To Defend Against These Attacks",
-      "excerpt": "The speed of chatbot adoption has outpaced the expansion of cybersecurity programs to protect against threats introduced by these technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6284f6da3e3c95aefd5ef10d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/chatbots-can-be-weaponized---how-to-defend-against-these-attacks/amp/",
-      "publishedDateTime": "2022-05-19T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

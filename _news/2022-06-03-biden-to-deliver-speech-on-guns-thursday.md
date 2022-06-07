@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to deliver speech on guns"
-    excerpt: "President Joe Biden will deliver a rare evening speech on guns Thursday to press US lawmakers to take action as the US confronts another mass shooting, the White House said. The address will take place at 7:30 p."
-    publishedDateTime: 2022-06-02T18:40:00Z
-    webUrl: "https://www.wishtv.com/news/politics/biden-to-deliver-speech-on-guns/"
-    type: article
-    provider:
-      name: WISHTV8
-      domain: wishtv.com
-    quality: 4
   - title: "Automate 2022 Opens Today in Detroit; Students Invited to 'Workforce Development Day' on Thursday"
     excerpt: "Opens Today in Detroit; Students Invited to 'Workforce Development Day' on Thursday. Automate, North America's largest automation tradeshow, opens today at Huntingto"
     publishedDateTime: 2022-06-06T14:02:00Z

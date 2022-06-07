@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -490,6 +490,40 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
+      "publishedDateTime": "2022-05-30T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1349,49 +1383,6 @@
       "provider": {
         "name": "FOX59 News",
         "domain": "fox59.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-temenos-delivers-digital-banking-solutions-on-aws.md",
-      "title": "Temenos Delivers Digital Banking Solutions on AWS",
-      "excerpt": "Temenos and AWS started working together in 2019 to integrate Temenos ... Amazon Connect capabilities include skills-based contact routing, voice and chat recording, built-in artificial intelligence (AI) and machine learning (ML) to personalize ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-a989e1728a344261a06309ce63603287",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-a989e1728a344261a06309ce63603287",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

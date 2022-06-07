@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-03-one-platform-to-ai-it-all-google-vertex-ai-makes-aiml-simple-in-sa.md",
+      "title": "One platform to AI it all: Google Vertex AI makes AI/ML simple in SA",
+      "excerpt": "Says Van Schalkwyk: “For companies that aren’t ready to build their own custom models just yet, Google offers AutoML as part of VertexAI. AutoML allows you to create high quality custom ML models from your data, whether it’s image data, tabular ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
+      "originalUrl": "https://www.itweb.co.za/content/Pero3MZ3A4wqQb6m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/Wza03qX-xmJUelSFZnXHTeP9yo1B46ikfxMDhAlMZI8WgCmyGGoGl_beifZkPUon4b-XWbgvFpbMxhroGzZyvGBv7uautu21Vfs=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/Pero3MZ3A4wqQb6m",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero3MZ3A4wqQb6m",
+      "publishedDateTime": "2022-05-02T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-traceable-ai-nabs-60m-to-secure-app-apis-using-machine-learning.md",
       "title": "Traceable AI nabs $60M to secure app APIs using machine learning",
       "excerpt": "Businesses need machine learning here. To have zero trust you need API clarity. You can no longer easily buy or hire security people, so you need to solve these vulnerabilities via technology.”",
@@ -1370,59 +1413,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker.md",
-      "title": "Part 3: How NatWest Group built auditable, reproducible, and explainable ML models with Amazon SageMaker",
-      "excerpt": "This is the third post of a four-part series detailing how NatWest Group, a major financial services institution, partnered with AWS Professional Services to build a new machine learning operations (MLOps) platform. This post is intended for data scientists, MLOps engineers, and data engineers who are",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-natwest-group-built-auditable-reproducible-and-explainable-ml-models-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/22/Featured-images-for-ML-8228.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-26T08:17:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

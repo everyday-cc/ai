@@ -7,7 +7,7 @@ originalUrl: "https://www.gfmag.com/magazine/june-2022/worlds-best-fintech-labs-
 webUrl: "https://www.gfmag.com/magazine/june-2022/worlds-best-fintech-labs-innovators-2022"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The CFPB doesn’t want to play in the fintech sandbox anymore"
-    excerpt: "Leaders at the regulator have concluded that a much-hyped “compliance assistance sandbox” and related programs were ineffective."
-    publishedDateTime: 2022-06-02T17:22:00Z
-    webUrl: "https://www.protocol.com/fintech/cfpb-fintech-sandbox"
-    ampWebUrl: "https://www.protocol.com/amp/cfpb-fintech-sandbox-2657444487"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/cfpb-fintech-sandbox-2657444487"
+  - title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
+    excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
+    publishedDateTime: 2022-06-04T08:08:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-drives-the-industry-shuki-licht-finastr"
     type: article
     provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 44
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-no-action-letters-and-sandboxes-apparent-sunset-indicates-a-shifting-regulatory-stance-on-financial-technology-less-than-p-greater-than.jpg?id=29866106&width=400&coordinates=0%2C280%2C0%2C281&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
+      - url: "https://assets.bizclikmedia.net/1800/24c71345de77aec9ac814303f0a4806f:bc7561f1492cb253a864292e9bd39724/gettyimages-1152556266.jpg.jpg"
+        width: 1799
+        height: 1010
         isCached: true
   - title: "Addressing the challenges of fintech with adoptable solutions"
     excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."

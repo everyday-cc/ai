@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
-    excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
-    publishedDateTime: 2022-06-02T18:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-regions-types-applications-drivers-trends-forecasts-by-2028-2022-06-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
 
 secured: "G/OL2hb3v0p18c+M4nuUv7RMaNR593k8lXbu+dSXo9e9la9ZP5S4FgduKdpkUnCaJXsEP+QMfzmVg8Px9yd91JGmV4xdhdqbLh9VQXieSooSnFbqDMboAIky5DT2+KqzJijMuUNXHjpbpViTdduwBhukpdW4Rcqb21zk8pvjef/h4JfE6qLHf0Yq9lKo+GzR7nZjyI0ZcILbJR0/mPpaZ4mksV8lFFVa1rfEOSlOBzEaTjtWrdKokdwYmF/HItXvkxj2XlJXrk0UYRZzAS8AhjJoteHdOCLZePNs2aT3V2pnLPgIanUxqcWkCvw8Fg8eo9EBFKNAE4O7FyisO1bfW9CGODkfdS3A852b+PLOnuU0KGYexDXHv+0TuClngddH3iAvyqQCMN+zxmRW6lmssR+rJzHM/AWyLmJxvFW+1dHCnY5UwTk5EUwpbTvkHuVwC3mbI8aDuS2se7CRFCK8GjyqOhDTkEfktuNz/3DA0Yfhsiri98nIZInfahR01IMRPPXEUC3Dr12cEUD28JmfWA==;r6lhdJoMEbDJMsSmnHJytw=="
 ---

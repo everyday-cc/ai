@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-07-can-a-recruiting-robot-be-ethical.md",
+      "title": "Can A Recruiting Robot Be Ethical?",
+      "excerpt": "Ethics as they relate to AI and hiring employees can be divided into 4 categories: Fairness, Accountability, Privacy and Transparency. It is my feeling that transparency should be the first priority. Without transparency there is no place to start the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629f30684b84f80d22b62126/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
+      "publishedDateTime": "2022-06-07T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-axons-taser-drone-plans-prompt-ai-ethics-board-resignations.md",
       "title": "Axon’s Taser Drone Plans Prompt AI Ethics Board Resignations",
       "excerpt": "A majority of Axon’s AI ethics board resigned in protest yesterday, following an announcement last week that the company planned to equip drones with Tasers and cameras as a way to end mass shootings in schools. The company backed down on its proposal ...",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -1406,58 +1459,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-cncf-launches-ethics-in-open-source-training-course.md",
-      "title": "CNCF launches ethics in open source training course",
-      "excerpt": "The Cloud Native Computing Foundation has developed a new certification for developers looking to better incorporate ethical-first thinking into their open source software design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
-      "originalUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/05/cio-ethics-imageby-rapideye-gettyimages-162922472-100842471-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
-      "publishedDateTime": "2022-05-16T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

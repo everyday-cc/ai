@@ -187,49 +187,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-01-artificial-intelligence-technology-solutions-files-10-k-and-audited-financials.md",
-      "title": "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
-      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-01-self-driving-cars-to-be-tested-at-boca-raton-innovation-campus.md",
       "title": "Self-driving cars to be tested at Boca Raton Innovation Campus",
       "excerpt": "The future has arrived in Boca Raton. The city is now testing self-driving cars with the hope of eventually adding them alongside drivers on the road.",
@@ -1095,8 +1052,8 @@
       "title": "Artificial Intelligence Market 2022 Overview, Demand, New Opportunities & SWOT Analysis by 2030",
       "excerpt": "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25?mod=search_headline",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1347,6 +1304,49 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-a-start-up-aims-to-bring-driverless-cars-to-indian-roads.md",
+      "title": "A start-up aims to bring driverless cars to Indian roads",
+      "excerpt": "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
+      "originalUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
+      "publishedDateTime": "2022-05-23T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

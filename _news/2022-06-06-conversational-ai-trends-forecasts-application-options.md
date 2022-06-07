@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/convers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 560
         height: 270
         isCached: true
-  - title: "Speech Recognition Market Regions, Types, Applications, Drivers, Trends & Forecasts by 2028"
-    excerpt: "The recent Speech Recognition market research report shares an exhaustive analysis of the current and future trends of this business space. The report indicates the primary trends, opportunities, challenges,"
-    publishedDateTime: 2022-06-02T18:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-regions-types-applications-drivers-trends-forecasts-by-2028-2022-06-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
 
 secured: "Ibsa9pbLHM5LDz8+o06GSW/KaLTey7CUzlRUS3SR7Dez6nWp4M5Xc/psRaEB2/8fTicOH+PJtAjaLeGQml+3l0xr1Qec24nvqs+J+wdJ1e4ZcLzmB80Eu5O1LK3oQ99oIf2yMLQXWXoOQgde63Gjsq2A2A2YQGScuHlZi8HE0xxreSgSL8mwYIUfCyhQau4EYkYrk1o1XcQr2gnTDdxdV+OVXOV2isdhXrD3lC2dF/vI3FQ/Jh+vBt7UfqyDSiT4P5mIVQBB/RV6xMnes9pA//sgKbjutqBMDyMgeFRFId9PuuTxbRnaVdZQwH8Cmc3gg1cJZjnCZ5p0osSUmHeeUGfv7gmqvvLqAF4MDgFFvBMv1/obk2nLMCKxNpp9jl87CkaLWpksBKuW64f59WWFBtIfhkcR+TkuOwrHnUtUSBjBU/KNQvw82+LZsDjIFCrMVOansSOBRJw/Z5pbnfhqoxy6yqRdKpzsRdFaSlzCX4I76wnoN/KOKc8alfhxyG4asFj368Frt9GZf75M0yWFtA==;enivqhDnZpbCuhM8TBQC5Q=="
 ---
