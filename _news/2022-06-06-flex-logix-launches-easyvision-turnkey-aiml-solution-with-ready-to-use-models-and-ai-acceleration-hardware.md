@@ -25,6 +25,17 @@ images:
     height: 756
     isCached: true
 
+related:
+  - title: "Flex Logix launches EasyVision with ready-to-use models and AI acceleration hardware"
+    excerpt: "Flex Logix Technologies, a supplier of edge AI inference accelerators, has announced the availability of EasyVision Platforms designed to help customers get to market quickly with edge computer vision products addressing a wide range of different markets."
+    publishedDateTime: 2022-06-07T09:25:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/flex-logix-launches-easyvision-with-ready-to-use-models-and-ai-acceleration-hardware"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 10
+
 secured: "WYf8viDvODJXE4swU4nd1zqwaAP+obOwGXcL6Twv83Mc3wRXKC6OeqxDCn5aLGZNFA8Jkilyck4HXL6z82/8zFUFSwE6bQIECxDf4Z86w+e6jIY/1m8Z0eIewSryI3C2UEDmBfance56sRzsHekWXsUjNZeKtiy396FFdWX5SPPSCTbVqY6Li/vJvn8iZeXgQ4F1cow5ualT3+0ep7nlOn+4imrPD1Uqby2qMYXjjUCGaLA35Ab/+YugcK+1i4gjQTe2rsXSC4IlWTCQK34P0QcMJH+mD+rlhsjsqM6cA5JJ+KUQYqpp9+7b4fo7qc2yhWs4GaCSTiF7cqdcyNdLxkfUDXWP+TwGCE2dLMFnuYI=;PfrzEM4YBwWW0sm0lq7ZPA=="
 ---
 

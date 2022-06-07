@@ -1,23 +1,22 @@
 ---
 category: news
 title: "Artificial intelligence scans for weapons, but faces criticism from some"
-excerpt: "With a gun in his pocket, Mike walks through the scanning system. In addition to alarms going off, the system uses artificial intelligence to pinpoint where on his body the weapon is located. Four cameras then send a real-time image to a nearby computer ..."
-publishedDateTime: 2022-06-03T16:36:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
-webUrl: "https://www.thedenverchannel.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
-ampWebUrl: "https://www.thedenverchannel.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
-cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
+excerpt: "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work."
+publishedDateTime: 2022-06-03T15:28:00Z
+originalUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
+webUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
+ampWebUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
+cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
 type: article
-quality: 58
-heat: 58
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: ABC Action News
+  domain: abcactionnews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DqI6Ysc2D0VxJhwvT5mN5i0VEk6shzPQtmEDcuFCvP6maz4nbKtD6vEWqxhAvAPfloEXEKjob4ktfqM34I/l6tY0Un3HGg75MtUTZSA+r4laHVdaOSEus2Uwz1T4WnAtKpZIIzCLW2c8Rse+7zFOTblwpBaJ3cJuVrCc8MIKYUzaEQxHxbEwi2b50yvgTmMhiyGCZtTLlztgit6r4GSoVo1G3FUHuFmjXs2QQbCCmek3P22QID2MQaO0CgqbzY5D+69/9fah+fo61E1yb6jixCg93QOrsLNzuLtfd76auELodorgL1eX8vAOdwFNgsMwR6RXeHhYDtIGyckSxO7PgX9q8RIecUDXDXvFbpjHbBo=;tkXL0W7CiFW4PY+i2ZW5sg=="
+secured: "WcQ8bacMJQiDDjU5UliW+GvrP689EdCVi1xL0Smdf98b8/QFMknO4z+vYA1kDRuN8hQt8slcXZX6JcJG9b9vYAy4SHZQokO20vrtFyh9FgjH/PIXfAemr/TltziGKVu5mocnfoHwc7PxcJMIL8Ku3Z+Gut7xoV2w5FQqIi0stuGME0QOZkTaUpAMOX3UcKrjS6aWji2dh8wYSQaOt5zfDgdSDR3ax3WNidxSyTKlv3gLtidMaMCuKT/RJDVwifKDwqjKCjcmSv4KR70c9merU1q7XdwxYu03m1qO6gDW+oyqGDaicFuJr8qmr2vdOtUJOwIHE3KB9A2KInBxtFEj7K9U+GGxfMmJ2EwYH+xPx80=;qrjUtnwT/W1TR3MH5ofmig=="
 ---
 

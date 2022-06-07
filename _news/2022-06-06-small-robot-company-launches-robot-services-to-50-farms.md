@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robot services launched with over 50 farms"
+    excerpt: "The Small Robot Company (SRC), a British agritech start-up for sustainable farming, has announced the launch of its commercial Per Plant Farming robot services."
+    publishedDateTime: 2022-06-07T08:04:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/robot-services-launched-with-over-50-farms"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/3pjp1n24/src-1.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "MoL launches new e-services"
     excerpt: "Meanwhile, the service of submitting labour recruitment applications for Qatar Financial Centre companies enables the ... speed up and improve procedures through the introduction of machine learning techniques, the statement explains."
     publishedDateTime: 2022-06-02T22:10:00Z

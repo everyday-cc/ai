@@ -32,6 +32,15 @@ related:
         width: 890
         height: 520
         isCached: true
+  - title: "Tech update: Combating food insecurity with AI and crickets, and Canada’s top AI ventures"
+    excerpt: "Many families are starting to worry about how they can put food on the table. Protein costs are skyrocketing. There has been unprecedented growth in global meat consumption. In Canada, prices of traditional proteins like beef have risen by almost $3 per kilogram."
+    publishedDateTime: 2022-06-02T19:15:00Z
+    webUrl: "https://www.thestar.com/business/mars/2022/06/02/tech-update-combating-food-insecurity-with-ai-and-crickets-and-canadas-top-ai-ventures.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 8
 
 secured: "yLm4JL1yb0JmkBRRKkR6qs95RFrjzDP+YiVHxxt4ul1XHWgjftFxJk72kpsOwbO12rWJbhqkX9srN1D/+NHaOlObPbsZ12SYaVwCPpKxrNp1/HfSquPXAM1cYkxVCtTs9mMEDZWKAfzrP3tAQec6Fqg7WfbIOQR86KMw+fWMcm+r4KqMdlL6o8XG/5BvHTEpr4tk/LoFRP/eLeHdALetgoEEMzGAI7czciVFvKdXw6bAoz2qouhvoxB3+R4djyla0ivR5/woWHZe4GXpXi/0MM7RYSBntjVpu+fq1KtBszR6sMoC4qVAY695V+0QL1UlpBSbOLuM3uvGe7r9QYkP4oxQJgyZS3BbGNUhG39vcRA=;kj7dAyrnipFM3e6857QiYQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Online Mobile Game Market Size By Type, Application Analysis, Trends, Key opportunities and challenges, Forecast By 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 02, 2022 (Market Insight Reports) -- “The latest Online Mobile Game Market Analysis is designed to help ..."
-    publishedDateTime: 2022-06-02T16:32:00Z
-    webUrl: "https://marketwatch.com/press-release/online-mobile-game-market-size-by-type-application-analysis-trends-key-opportunities-and-challenges-forecast-by-2028-2022-06-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -3,16 +3,16 @@ category: news
 title: "3 Ways to Drive Business Growth Using AI"
 excerpt: "Unfortunately, not every business followed its example right away. Some skeptics wrongly predicted the internet would collapse in 1996, which influenced some companies to deprioritize anything related to the web."
 publishedDateTime: 2022-06-06T19:20:00Z
-originalUrl: "https://www.timesunion.com/business/article/3-Ways-to-Drive-Business-Growth-Using-AI-17222279.php?IPID=Times-Union-jobs-entrepreneurship-river"
-webUrl: "https://www.timesunion.com/business/article/3-Ways-to-Drive-Business-Growth-Using-AI-17222279.php?IPID=Times-Union-jobs-entrepreneurship-river"
+originalUrl: "https://www.chron.com/business/article/3-Ways-to-Drive-Business-Growth-Using-AI-17222279.php"
+webUrl: "https://www.chron.com/business/article/3-Ways-to-Drive-Business-Growth-Using-AI-17222279.php"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "mHEZRBCBuCGzqLfm2o835rHZmB2R75oBOHGFpdl+AVYByF8MDNhLeXuBxEjHKoBF3PjypL9vcD9hxKtHZnQ7hREkzCRGubaoapA0ixSuTJ7q5/SpAjk5ex2KdKqsT3WGKGA1HSOxpi247MoK4lBc9ApVOC+IX7A/0ehoiDzqjzOsqK1oCFw4Yg4vfMkVGvGax3B0NgANTNOI6zx0w78lUfhvu0ZjVd8lgQpiKvl7VPoMQi+5iE+CHLpSrKf7eQogYKDrJupOMXqSGWrtM7fN3yhbbw6uBlZ/nmpOUQxtkMp2uuvvU8nag50YhMe2mTIpr4WEUjeLIzhBsLI1uzu6RPaH+7WEiXH4lMWbXxrBEXE=;80JY5lwhlZgtgiC7PuHplA=="
+secured: "xnrSoFb2us69i8i3D1xkDiScRdg9/U+bnkxUmLv2r/gCr+qqWxJlDB87yj+CrT6C8/U53VcH+bydfEGVPfeotmSF/6wC1NG5tmuuSEyQhhGuET34aeLBU2A4bT2zcXX63/abQi2p8DO3igsa4QrDUgdgkBwVAjtFpO3f369akYjGSXe1ip87arvLc0TZJAvlTgVKyXgo33z+o3EhDN43++RGxj+3csQu1ryuoQve7KmIqgdi+6ezLE2mdwaxx1JFhdmdCkxXCDY8W5CDNu/8ud6saoEmZazEhcBmPDglOLkr+huQgenr5f23mMWoIqZzVI05c2Jwi/G7RfKc/b8RIk9zJLb0WZC2ngu8I8qv8C8=;lQsQPxW2mQdoOfFFlR9m6Q=="
 ---
 

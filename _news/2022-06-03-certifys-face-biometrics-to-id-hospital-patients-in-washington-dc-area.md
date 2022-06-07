@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202206/certifys-face-biometrics-to
 webUrl: "https://www.biometricupdate.com/202206/certifys-face-biometrics-to-id-hospital-patients-in-washington-d-c-area"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice biometrics and speech recognition expand amid countermeasures, bad news for Walmart"
-    excerpt: "Voice biometrics, voice recognition and speech analysis are coming on leaps and bounds, heading to break through the $20 billion barrier in the next few years."
-    publishedDateTime: 2022-06-02T16:41:00Z
-    webUrl: "https://www.biometricupdate.com/202206/voice-biometrics-and-speech-recognition-expand-amid-countermeasures-bad-news-for-walmart"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/23162352/voice-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "DHS details 2022 biometrics rally focused on group face processing"
     excerpt: "The U.S. DHS Science & Technology Directorate revealed specific information about the scenario for the 2022 Biometric Technology Rally."
     publishedDateTime: 2022-06-03T18:50:00Z

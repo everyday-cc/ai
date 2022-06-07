@@ -26,7 +26,7 @@ related:
   - title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
     excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
     publishedDateTime: 2022-06-03T19:51:00Z
-    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
+    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156"
     type: article
     provider:
       name: Wall Street Journal

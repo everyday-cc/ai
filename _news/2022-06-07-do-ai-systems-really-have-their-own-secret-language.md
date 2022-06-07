@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Do AI systems really have their own secret language?"
-excerpt: "Vicootes’, ‘wa ch zod rea’ and other strings of gibberish seem to have special meanings to state-of-the-art AI models. What’s going on here?"
-publishedDateTime: 2022-06-06T20:01:00Z
-originalUrl: "https://theconversation.com/do-ai-systems-really-have-their-own-secret-language-184335"
-webUrl: "https://theconversation.com/do-ai-systems-really-have-their-own-secret-language-184335"
-ampWebUrl: "https://theconversation.com/amp/do-ai-systems-really-have-their-own-secret-language-184335"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/do-ai-systems-really-have-their-own-secret-language-184335"
+excerpt: "ANALYSIS: “Vicootes”, “wa ch zod rea” and other strings of gibberish seem to have special meanings to state-of-the-art AI models. What’s going on here?"
+publishedDateTime: 2022-06-07T00:18:00Z
+originalUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
+webUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
 type: article
-quality: 57
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Stuff.co.nz
+  domain: stuff.co.nz
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/467100/original/file-20220606-20-1noqrh.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=319&fit=crop"
-    width: 320
-    height: 319
+  - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/8/g/image.related.StuffLandscapeSixteenByNine.1420x800.4yz28k.png/1654561300186.jpg"
+    width: 1420
+    height: 800
     isCached: true
 
 related:
@@ -36,7 +35,7 @@ related:
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/bird.jpg?quality=75&strip=all&w=1024"
         width: 1024
@@ -73,6 +72,6 @@ related:
         height: 820
         isCached: true
 
-secured: "qGUA0F39Qs3Og4BLz3xFPL74aflXeQtodZxIaXON7RQacJOSCkOqTl8KJahN9ZDrYAvlx1Xb0tOqETgo2wtH5CUZL7rnHcwW0Av1ROXhwCs1C4Pt5AKtD33V75GG6yov/DK1+8naKWYxSuKsZ+9jmK/YaZVqyyCxyZEOl9ULkTkvB79BlYWVdc+Lg7ZDEagHzRv455JGrshyDsRm1K7m4KvzvYj+ky8shldYXfSYOwwN9e6pbdCYpo/4JAgyDMoCegD5Gk8hAh09wmmN8SUnLSnW7EQwtnL0iMwoGumvHPzpMr/waGOcvAcZeA/C9JmZasT8KbQW/aTCm47fPNikzoJw24cgz5seTgjd9t2AGVQ=;GZXnh4/zPGgv1z7VkNIH0w=="
+secured: "JE/TMePzH1SRt7ua5BIpB4slN3Xbim1PH+Hc+rv88v+L3Wd2OVaMdukwhAJ4pDne0urrIfasPPDTBVFLJ082S6QB3NB5jCenbLz2tp0uj0MttOTM8+ckR46wl0tfvdhYa6fa/03Z8zs9Q87vi9IrbbUdjhveLJ/tm+DXUbNMR8MhaLC2tDlthDdCJIw3HwwmJUosCUT0PjOaxh3QDAmnn+Pb/3fjFjD7Scy0FCdUv0BouYutwEp7D0ruK2qSzvTbucl2ZhPmM0JQZdwia7m0ZfRK9YdrFQghcflZkGklpl8v6Cj9Vb66QIwMW0FUmbJXREeTYt+gEbwdDKnOHsSvMqSS3GMLK8f/ghtOi1koo1c=;RwPLrDAtzJJipvFrc3e5gQ=="
 ---
 

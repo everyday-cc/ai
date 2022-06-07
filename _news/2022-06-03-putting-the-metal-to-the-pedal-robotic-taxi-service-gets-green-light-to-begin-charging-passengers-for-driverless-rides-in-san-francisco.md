@@ -27,62 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars from GM's Cruise could soon carry paying riders in San Francisco"
-    excerpt: "General Motors Co's Cruise on Thursday could become the first company to secure a permit to charge for self-driving car rides in San Francisco, if it can overcome objections by city officials."
-    publishedDateTime: 2022-06-02T15:28:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-cars-gms-cruise-could-soon-carry-paying-riders-san-francisco-2022-06-02/"
+  - title: "Argo AI's self-driving car prototypes go fully driverless in 2 US cities"
+    excerpt: "Argo AI, a self-driving technology startup backed by Ford and Volkswagen Group, reached a major milestone in May. The company's prototypes are now fully driverless in Austin and Miami, where they are faced not only with heavy vehicle traffic but also a high number of pedestrians and cyclists."
+    publishedDateTime: 2022-06-03T12:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1136020_argo-ai-s-self-driving-car-prototypes-go-fully-driverless-in-2-us-cities"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 48
-    images:
-      - url: "https://www.reuters.com/resizer/MOAR8CRw1cjC3hfAaS31AxUss7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6CPCJS5RENKQFCLZ7ABT3Q2FHU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "GM's Cruise wins first California permit for self-driving car rides"
-    excerpt: "General Motors' Cruise on Thursday became the first company to secure a permit to charge for self-driving car rides in San Francisco, after it overcame objections by city officials. Self-driving test cars with human safety drivers have become a constant sight in San Francisco,"
-    publishedDateTime: 2022-06-02T23:57:00Z
-    webUrl: "https://asia.nikkei.com/Business/Technology/GM-s-Cruise-wins-first-California-permit-for-self-driving-car-rides"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F1%252F7%252F0%252F40730711-6-eng-GB%252FCropped-16542184642022-06-02T111340Z_1995971461_RC2MJU98K7IL_RTRMADP_3_AUTONOMOUS-CALIFORNIA.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "GM secures permit to operate self-driving cars in San Francisco"
-    excerpt: "General Motors subsidiary Cruise became the first company to secure a permit to charge passengers for self-driving car rides in San Francisco"
-    publishedDateTime: 2022-06-05T15:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272576321/gm-secures-permit-to-operate-self-driving-cars-in-san-francisco"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1654318469787.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Cruise is going to start charging for rides. Meet the 9 engineers from GM's self-driving bringing the first robotaxi service to the masses."
-    excerpt: "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ..."
-    publishedDateTime: 2022-06-03T00:00:00Z
-    webUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
-    images:
-      - url: "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 33
 
 secured: "puKLRtk4/somOCIPOqtNem75lptGBPqbvVtrjSXlRbG+IJwDV4+zPfLvp8aP+tI8dhoRrvfDyqBLgneExfWDkicadzUY+SxMFD3+tCIA9uwduld9ZO/jjmYXPdL4OM8wbpzpBHAOhSJb0eLdSEn6yQn5nUIUo4lIa8rIXJRgVze8KiHfp3pVeodm80qlm/vF1e70TqxhCurcvyKP5o1cA381zu6H7+N9z98wo3pZs2zLf1cn/r7ItzSNKkK70KqVr9f38sCgmvE2YzXP+TTkQR+v5WtzVgQBuMvp+lhMNVfygspvpuNi1XSb45j5YNKI2OmP42NrvguaJ+L/fE7sWXCW+6Ub/0FCLYG1EUgHRdU=;Dlwr3KauCMIAJUyafz5Wlg=="
 ---

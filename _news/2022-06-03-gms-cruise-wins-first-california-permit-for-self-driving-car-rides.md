@@ -25,63 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars from GM's Cruise could soon carry paying riders in San Francisco"
-    excerpt: "General Motors Co's Cruise on Thursday could become the first company to secure a permit to charge for self-driving car rides in San Francisco, if it can overcome objections by city officials."
-    publishedDateTime: 2022-06-02T15:28:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-cars-gms-cruise-could-soon-carry-paying-riders-san-francisco-2022-06-02/"
+  - title: "California-based start-up Superhuman sacks 22% staff"
+    excerpt: "The California-based start-up had raised $75 million in its Series C round led by ... enabled by artificial intelligence (AI). Superhuman joins a growing list of Indian and global companies who have been reducing expenses by either scaling back on hiring ..."
+    publishedDateTime: 2022-06-04T22:37:00Z
+    webUrl: "https://www.financialexpress.com/industry/california-based-start-up-superhuman-sacks-22-staff/2548822/"
+    ampWebUrl: "https://www.financialexpress.com/industry/california-based-start-up-superhuman-sacks-22-staff/2548822/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/california-based-start-up-superhuman-sacks-22-staff/2548822/lite/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 48
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 42
     images:
-      - url: "https://www.reuters.com/resizer/MOAR8CRw1cjC3hfAaS31AxUss7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6CPCJS5RENKQFCLZ7ABT3Q2FHU.jpg"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/02/Startup-1.jpg"
         width: 1200
-        height: 628
-        isCached: true
-  - title: "Putting the metal to the pedal! Robotic taxi service gets green light to begin charging passengers for DRIVERLESS rides in San Francisco"
-    excerpt: "Driverless vehicles have been hailed as ... of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people, signs and hazards."
-    publishedDateTime: 2022-06-03T11:02:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10880569/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10880569/amp/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10880569/amp/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 26
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/06/03/01/wire-58620731-1654217026-117_636x382.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "GM secures permit to operate self-driving cars in San Francisco"
-    excerpt: "General Motors subsidiary Cruise became the first company to secure a permit to charge passengers for self-driving car rides in San Francisco"
-    publishedDateTime: 2022-06-05T15:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272576321/gm-secures-permit-to-operate-self-driving-cars-in-san-francisco"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1654318469787.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Cruise is going to start charging for rides. Meet the 9 engineers from GM's self-driving bringing the first robotaxi service to the masses."
-    excerpt: "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ..."
-    publishedDateTime: 2022-06-03T00:00:00Z
-    webUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
-    images:
-      - url: "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+        height: 667
         isCached: true
 
 secured: "8IZeKmBo61eoMz8Xx0FvYE4hVurCA+g9NuY5XAWf7AjT+3HfjNRmhb/0BWlWupyw+fhHYYe1hqT8L8lBPBsd/VvARC0tPdIls1Fj7RedT1a6C3KKyXLMQvf9CZnwTDYsOjPQ3vPn0sSd6MoREvGw13ziRmKJ3/uPHBFPUEr1aGNjl8cGCK7jLLsBagoqoP4gnn585reYpfdIMkDK+HEJ+jRDY1CrPiD0QGIkJU0E8/zh5/H4x5qAs2pBcn0kW99Gw5IeUlgN9pO7O+RTuMpZEewEzsdhav9oJboIy++qZ8zz761xrHJfu0SWrr6xKckNAI6g5VGiMGiUChL3M8spitH8MvfyM9lQ2NwgQKpguxiJvuKFjs/td9sqFQuUYCv8ty8VOOU3JfK/z7VDO1Dh9JpVK808uFuRKn8fxNzrQdnT1S/yXO1sTNvG0d+cnU/0PV0/W+GuZhTx7w+qfpEei27BCcXAZOF8bCuQTU2Cv28RuolGCMHSv2Tu1wtUO57Oi/oWauo40xW/yoo1BWip3Q==;vHSRHtohCCLuyq/CDK3eaw=="

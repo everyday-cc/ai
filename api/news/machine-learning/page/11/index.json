@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-03-16-deep-learning-speeds-triage-of-brain-scans.md",
+      "title": "Deep learning speeds triage of brain scans",
+      "excerpt": "A team headed up at King’s College London hopes that deep learning models could address this bottleneck. The researchers have developed a deep learning framework, based on convolutional neural networks (CNNs), that can identify abnormalities in MRI scans.",
+      "sourceUrl": null,
+      "webUrl": "https://physicsworld.com/a/deep-learning-speeds-triage-of-brain-scans/",
+      "originalUrl": "https://physicsworld.com/a/deep-learning-speeds-triage-of-brain-scans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://physicsworld.com/wp-content/uploads/2022/03/head-MRI-deep-learning.jpg",
+          "width": 1200,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Physics World",
+        "domain": "physicsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-16-solving-big-problems-with-computer-vision-deep-learning.md",
       "title": "Solving big problems with computer vision & deep learning",
       "excerpt": "And the winners were both startups from India. Deep learning solution for hearing impaired Jayasudan Munsamy Jayasudan Munsamy and Arul Praveen T’s DeepVisionTech won two of the three awards ...",
@@ -1284,50 +1327,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-ai-core-software-deep-learning-compiler-developed.md",
-      "title": "AI core software 'Deep Learning Compiler' developed",
-      "excerpt": "A Korean research team has unveiled a core technology which reduces the time and cost invested in developing artificial intelligence (AI) chips in small and medium-sized enterprises and startups. Thanks to the development of system software that solved the problems of compatibility and scalability between hardware and software which have been obstacles in the past,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.html",
-      "originalUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/etri-developed-ai-core.jpg",
-          "width": 2880,
-          "height": 1915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-03-ai-core-software-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-03-ai-core-software-deep.amp",
-      "publishedDateTime": "2022-03-08T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Machine Learning"
       ]

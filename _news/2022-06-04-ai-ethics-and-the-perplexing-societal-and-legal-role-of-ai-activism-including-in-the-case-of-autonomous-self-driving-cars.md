@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 30
-  - title: "Self-Driving Cars And UGA Going Higher"
-    excerpt: "Oil prices have an increasing trend for 80-year. Only reduced demand can change the trend. Self-driving cars are a proven solution to reducing demand with Mobility As A Service (MAAS). U.S. Peak ..."
-    publishedDateTime: 2022-06-02T15:24:00Z
-    webUrl: "https://seekingalpha.com/article/4516013-self-driving-cars-and-uga-going-higher"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1318302966/image_1318302966.jpg?io=getty-c-w750"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "kAQaSceShrdsCG6yyJ7zqwn6eC1Ckfp4UYWqpzZw5/nOQC3V7rBfLT8nzoyNhP783f9punZ/y6m8hIcN8XbUzVq5brNTwCXn8+umjxTmHrsjoNZCUaxj0z0FrvDQDPEJLS9UEXzgA+jtkhzIzvH/HmHjWIS7AAjP45f0ySwGZHsSJJVZyWsFwX0Rv9HpwybpFS2NRSG63NLnz2HsfdfmfqARQ0vyQ3j/frN6Y54x7RgT31Wm4QNmXqxnp42Y7DZg7rZvtFL17wacDHFTKyz+fKVS0KWTVOrbsknpREff34+RItPLWv9VXJd0VQIx6wlfFkCUusv1qT6zhyPbi5I80XVC4WuejN7hQjidfuvRkUg=;/9nCsqkYa0FygsKAPO5vfw=="
 ---

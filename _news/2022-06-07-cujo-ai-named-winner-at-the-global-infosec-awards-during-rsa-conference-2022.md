@@ -25,20 +25,6 @@ images:
 
 related:
   - title: "AI Spera to Showcase CTI Search Engine at RSA Conference 2022"
-    excerpt: "AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, will spotlight its latest advanced security solutions at this year’s RSA Conference, June 6-9, 2022, at the Moscone Center in San Francisco."
-    publishedDateTime: 2022-06-02T16:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-175477bc5c2af0ca5c4d6fe969d595bf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AI Spera to Showcase CTI Search Engine at RSA Conference 2022"
     excerpt: "AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, will spotlight its latest advanced security solutions at this year's RSA Conference, June 6-9, 2022, at the Moscone Center in San Francisco."
     publishedDateTime: 2022-06-02T17:20:00Z
     webUrl: "https://www.tmcnet.com/usubmit/2022/06/02/9614241.htm"

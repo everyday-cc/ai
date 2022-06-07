@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-h
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/ai-weekly-defining-debating-and-honoring-ai-innovation/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing the 4th annual VentureBeat AI Innovation Awards at Transform 2022"
-    excerpt: "this award spotlights a startup that holds great promise for making an impact with its AI innovation. We look forward to sharing a list of final AI Innovation Award nominees towards the end of ..."
-    publishedDateTime: 2022-06-02T15:51:00Z
-    webUrl: "https://venturebeat.com/2022/06/02/announcing-the-4th-annual-venturebeat-ai-innovation-awards-at-transform-2022/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
   - title: "Bumrungrad launches Radiology AI--assisting radiologists in analyzing & locating abnormalities in the lungs and detecting breast cancer."
     excerpt: "In the press conference \"The Evolution of Medical Imaging Technology\", Pharmacist Artirat Charukitpipat, CEO of Bumrungrad International Hospital, discussed Bumrungrad's vision and direction to continue creating innovative clinical experiences."
     publishedDateTime: 2022-06-06T02:39:00Z

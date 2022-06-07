@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Online Mobile Game Market Size By Type, Application Analysis, Trends, Key opportunities and challenges, Forecast By 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 02, 2022 (Market Insight Reports) -- “The latest Online Mobile Game Market Analysis is designed to help ..."
-    publishedDateTime: 2022-06-02T16:32:00Z
-    webUrl: "https://marketwatch.com/press-release/online-mobile-game-market-size-by-type-application-analysis-trends-key-opportunities-and-challenges-forecast-by-2028-2022-06-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI Machine Learning Market Analysis To Showing Impressive Growth By Industry Trends, Share, Top Key Players Analysis And Forecast 2022-2031"
     excerpt: "The report titled  Global AI Machine Learning Market  which was recently added by Kenneth Research, aims at providing the clients"
     publishedDateTime: 2022-06-06T07:54:00Z

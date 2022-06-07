@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 768
         isCached: true
-  - title: "Announcing the 4th annual VentureBeat AI Innovation Awards at Transform 2022"
-    excerpt: "this award spotlights a startup that holds great promise for making an impact with its AI innovation. We look forward to sharing a list of final AI Innovation Award nominees towards the end of ..."
-    publishedDateTime: 2022-06-02T15:51:00Z
-    webUrl: "https://venturebeat.com/2022/06/02/announcing-the-4th-annual-venturebeat-ai-innovation-awards-at-transform-2022/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
 
 secured: "5d7ZHfDoSqeLfm9ddMUiGaYdgNUzIJBs/Dxynrgh2iXmG/mj//5+Cy/lrH18Khvnz//YgrfFU2NMIWriUaL/mYJtRdv+7I+tcLyRDhVCqwBfFmOAomgpFGgJSeQfNfgJBPwfn+GF7cdnoz9UGj8wGA/PPC0+5cmi6EnbDYxhA/vHTYUOXYAp9NgbEQ+yQUWhWjhcFkGqIbqPwtpdPYQCw6qg9hSX17BfshMgSEDpUAW4LOJHe+05E8RLYYvTTiBIIE7mg9IIyqL/08wJAXianf8798aOJJQjJaCEfTn273Af8Ovht031DR3eofriMK0ynHMfYHX6rfXgYz6SUcS2vXCCLrSYygNOuvCn4BCJ45Un9AQFQGlMQzc/xN4mIIU+vUZGN/IoMPRscllqg2RE5KwlGJ35jmqnuLHSNmmZFvc3UOgJEMY9Ag6R7BRz4ktt1cSMZyWuJfJYoEjScCsnVl++LZMuthaEfTpShDwYQyno/3nqLOhGxV0LS4YhzNbAtNH2QTJftJnR3qMmlUEX6g==;i3KvCRyn89FUvk8LRyWi8g=="
 ---

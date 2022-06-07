@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Online Mobile Game Market Size By Type, Application Analysis, Trends, Key opportunities and challenges, Forecast By 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 02, 2022 (Market Insight Reports) -- “The latest Online Mobile Game Market Analysis is designed to help ..."
-    publishedDateTime: 2022-06-02T16:32:00Z
-    webUrl: "https://marketwatch.com/press-release/online-mobile-game-market-size-by-type-application-analysis-trends-key-opportunities-and-challenges-forecast-by-2028-2022-06-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/JH+eJPxDJVMc4ogZVwMlPSBmGxvLssyvDs5IyJmukLPC9ORzj2uuc0OHgTOs3nScfDtFGQJz7P2IqL4EmrWI7Ahp/yzoQj3h4PviH0/AhbvxDLZU0av3PoB48i5/tR668pM4z1p39giJi/QX+eCYOMeHYRXUZqbwuT0uMEobhmi3KhaY78OYlNQTmMd/y/KQhcGupzWLX7pEcTooHu3UPk5IrRIFF+Fl0bOZzl/ZkLJGpx9Rb15e/oTQaeKYUmTZHJyu8cMjJGC2uEPyHbdPiHHd10bvy6lg0P3baS+BYUpsQSHyD/jChZuUEz/L+dtxdW8wsTaFTI1zs3LPKZ6nkfmEJfr+AB9y4K8bTKvFA8=;rWMK+CxnI6+OWHpA09KHHA=="
 ---

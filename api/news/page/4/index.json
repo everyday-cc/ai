@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-02-google-bans-deepfake-generating-ai-from-colab.md",
+      "title": "Google bans deepfake-generating AI from Colab",
+      "excerpt": "In a recent policy change, Google has banned deepfake-generating AI projects from Colab, its platform for hosting and running arbitrary Python code.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/01/2328459/",
+      "originalUrl": "https://techcrunch.com/2022/06/01/2328459/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/01/2328459/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/01/2328459/amp/",
+      "publishedDateTime": "2022-06-01T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-the-text-to-image-revolution-explained.md",
       "title": "The text-to-image revolution, explained",
       "excerpt": "Beginning in January 2021, advances in AI research have produced a plethora of deep-learning models capable of generating original images from simple text prompts, effectively extending the human ...",
@@ -766,6 +817,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-01-artificial-intelligence-technology-solutions-files-10-k-and-audited-financials.md",
+      "title": "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
+      "sourceUrl": null,
+      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
+      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
+          "width": 800,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-phil-edmundon-creates-ai-driven-corvus-to-transform-commercial-insurance.md",
       "title": "Phil Edmundon Creates AI-Driven Corvus To Transform Commercial Insurance",
       "excerpt": "One company changing the commercial insurance industry is Corvus Insurance. Founded in 2017 by insurance veteran and entrepreneur, Phill Edmundson, the Boston-based company is applying AI techniques and data to provide smarter commercial insurance policies for companies of all sizes.",
@@ -1079,91 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-singsing-the-first-sing-to-earn-project-with-ai-scoring-technology.md",
-      "title": "SingSing: The first sing-to-earn project with AI-scoring technology",
-      "excerpt": "SingSing will soon become the first musical social finance (SocialFi) platform, with sing-to-earn features targeting a community of about four billion music lovers in Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology",
-      "originalUrl": "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yODZiM2FjYjczZjljY2JiODA5NTVmMGIxMzk4ZTMzYi5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp",
-      "publishedDateTime": "2022-06-01T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-3-brilliant-minutes-artificial-intelligence-raises-questions.md",
-      "title": "3 BRILLIANT MINUTES: Artificial intelligence raises questions",
-      "excerpt": "In today’s edition of 3 Brilliant Minutes, Brad Spakowitz brings up a sticky situation related to artificial intelligence. If you could transfer ownership from the AI inventor to a person, is it the original software writer of the AI?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/",
-      "originalUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/FwdWle11_tBInLmtCmBnBtFLPhM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FJ4NAQ7UHVBZZOXQOUSOAXEPDI.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wbay-com.cdn.ampproject.org/c/s/www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/?outputType=amp",
-      "publishedDateTime": "2022-05-31T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBAY",
-        "domain": "wbay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

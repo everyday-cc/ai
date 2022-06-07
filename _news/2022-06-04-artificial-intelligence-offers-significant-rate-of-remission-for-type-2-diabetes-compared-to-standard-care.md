@@ -1,32 +1,29 @@
 ---
 category: news
 title: "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care"
-excerpt: "2022 /PRNewswire/ -- A new study powered by artificial intelligence (AI), Whole Body Digital Twin, reveals the highest reported rate of remission of type 2 diabetes to date. The findings were ..."
-publishedDateTime: 2022-06-04T15:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care-1031509544"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care-1031509544"
+excerpt: "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered by artificial intelligence (AI),"
+publishedDateTime: 2022-06-04T15:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff"
 type: article
-quality: 49
-heat: 49
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1832792/Paramesh_Remission_Graphic.jpg"
-    width: 400
-    height: 225
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "lwZzdPjIZcUhqCzL15C4I2JCeiM771EmYFPYgyDgLrI1iBwcXN+6KeHpXoaJB6dPwqsZgRPL+R+dH7dCB3mhiTBmwV4rcBeuk3Ttrs6YBtgSJPAlllxM91Z3BRGCDye9quLSielFntDrH3+BXzqYeyh45Cw2dBTODD2C8cfFWcyO3ubExHBTqy/mm0Ed9Jw7ufUWdzWUj8/az2C9dQlCjaQx83hky0yl40nHOrfHrAFWFvUR8cXBszkxEsziWqaaSxpJZA0pbdZLrpg+XKMBNkCpw+1svbkOwPijoGKYjiS9Hhp/wG5i5vl8M19YqP7rWCoRkE3VrJ8RrOagyMYp/LJSF7qU7ve9KqntBB3JIw8=;iRXoZvD0PhC2ZHnioZ+OMA=="
+secured: "gbESDx4++WSAYsdnn1z3EIA5DmOq0k5P0Jhc+/NWineWtMQd/4ZI1A0sQVMx/dVZAvLsTawYdq2MAZCR2D1CvIJYiElYvOUeh7TV1WGmGUmG4lhUFvv58oSlJRkS9JZQCy6opJz4Im1eWRNX37MJi8tC+4qbirDIFwdpLSzfn6QhDS0hX5SHXy7168Ti5FIGQzGM+w3u7GleOkFmYjczKzp8JfOUIsdvOltDRf33oiErFZjEp12HWEnqwbrFioczH9IVp2f0+CD2vKWTxjqsL0Xu0d8SxMiJPE3XqTMU+idMpm4cVLtK6iigvW2+ArPFgx792WcNSWYO0A4Wxel7I1JeUfE6Zx7rGwFWLTULxD8=;DwXOXB5c9oxkAF+r2RPr1A=="
 ---
 

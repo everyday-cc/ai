@@ -8,8 +8,8 @@ webUrl: "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing
 ampWebUrl: "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/"
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/"
 type: article
-quality: 59
-heat: 89
+quality: 61
+heat: 91
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/bird.jpg?quality=75&strip=all&w=1024"
@@ -27,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Do AI systems really have their own secret language?"
-    excerpt: "Vicootes’, ‘wa ch zod rea’ and other strings of gibberish seem to have special meanings to state-of-the-art AI models. What’s going on here?"
-    publishedDateTime: 2022-06-06T20:01:00Z
-    webUrl: "https://theconversation.com/do-ai-systems-really-have-their-own-secret-language-184335"
-    ampWebUrl: "https://theconversation.com/amp/do-ai-systems-really-have-their-own-secret-language-184335"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/do-ai-systems-really-have-their-own-secret-language-184335"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 57
-    images:
-      - url: "https://images.theconversation.com/files/467100/original/file-20220606-20-1noqrh.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=319&fit=crop"
-        width: 320
-        height: 319
-        isCached: true
   - title: "An Image Generation AI Created Its Own Secret Language But Skynet Says No Worries"
     excerpt: "We've playfully referenced Skynet probably a million times over the years (or thereabout), and it's always been in jest pertaining to some kind of deep learning development or achievement. We're hoping that turns out to be the case again,"
     publishedDateTime: 2022-06-03T15:59:00Z
@@ -58,6 +43,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/58739/content/AI_Heads.jpg"
         width: 708
         height: 398
+        isCached: true
+  - title: "Do AI systems really have their own secret language?"
+    excerpt: "ANALYSIS: “Vicootes”, “wa ch zod rea” and other strings of gibberish seem to have special meanings to state-of-the-art AI models. What’s going on here?"
+    publishedDateTime: 2022-06-07T00:18:00Z
+    webUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/8/g/image.related.StuffLandscapeSixteenByNine.1420x800.4yz28k.png/1654561300186.jpg"
+        width: 1420
+        height: 800
         isCached: true
   - title: "Image-generating AI could be creating its own strange ‘secret language,’ research suggests"
     excerpt: "OpenAI’s text-to-image generating artificial intelligence (AI ... in major breakthrough General Motors gets green light for driverless taxi fleet When researchers fed the text “Vicootes ..."

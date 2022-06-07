@@ -5,6 +5,8 @@ excerpt: "As the use of artificial intelligence wedges its way into every side o
 publishedDateTime: 2022-05-31T23:08:00Z
 originalUrl: "https://www.natlawreview.com/article/new-eeoc-guidance-use-artificial-intelligence-can-discriminate-against-employees-or"
 webUrl: "https://www.natlawreview.com/article/new-eeoc-guidance-use-artificial-intelligence-can-discriminate-against-employees-or"
+ampWebUrl: "https://www.natlawreview.com/article/new-eeoc-guidance-use-artificial-intelligence-can-discriminate-against-employees-or?amp"
+cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/new-eeoc-guidance-use-artificial-intelligence-can-discriminate-against-employees-or?amp"
 type: article
 quality: 5
 heat: -1
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+    width: 1426
+    height: 808
+    isCached: true
 
 related:
   - title: "C3.ai Shares Swoon As Guidance Disappoints"

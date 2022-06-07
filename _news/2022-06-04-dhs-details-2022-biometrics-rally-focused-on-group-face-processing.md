@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Voice biometrics and speech recognition expand amid countermeasures, bad news for Walmart"
-    excerpt: "Voice biometrics, voice recognition and speech analysis are coming on leaps and bounds, heading to break through the $20 billion barrier in the next few years."
-    publishedDateTime: 2022-06-02T16:41:00Z
-    webUrl: "https://www.biometricupdate.com/202206/voice-biometrics-and-speech-recognition-expand-amid-countermeasures-bad-news-for-walmart"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/23162352/voice-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Certify’s face biometrics to ID hospital patients in Washington, D.C. area"
     excerpt: "The Virginia Hospital Center Health System will begin identifying patients with facial recognition to curb fraud and patient misidentification."
     publishedDateTime: 2022-06-02T21:24:00Z
