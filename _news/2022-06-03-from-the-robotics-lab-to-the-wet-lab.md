@@ -40,6 +40,22 @@ related:
         width: 1500
         height: 700
         isCached: true
+  - title: "Making robotic assistive walking more natural"
+    excerpt: "A paper published in the April 2022 issue of IEEE Robotics and Automation Letters outlines the AMBER team's method and represents the first instance of combining hybrid zero dynamics (HZD)—a mathematical framework for generating stable locomotion—with a musculoskeletal model to control a robotic assistive device for walking."
+    publishedDateTime: 2022-06-07T20:35:00Z
+    webUrl: "https://techxplore.com/news/2022-06-robotic-natural.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-robotic-natural.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robotic-natural.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/making-robotic-assisti.jpg"
+        width: 1711
+        height: 867
+        isCached: true
   - title: "Cowen & MassRobotics Highlight Role of Robotics in Achieving Climate Objectives"
     excerpt: "Cowen Inc. and MassRobotics announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
     publishedDateTime: 2022-06-04T17:18:00Z

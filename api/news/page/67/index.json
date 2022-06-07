@@ -2,6 +2,265 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-04-09-a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave.md",
+      "title": "A newcomer to AI data labeling, Encord looks to ride a rising tidal wave",
+      "excerpt": "Aiming to generate labeled data sets for computer vision projects, Encord launched its own beta version of an AI-assisted labeling program called CordVision.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
+      "originalUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Screenshot-2022-03-24-at-16.41.23-copy.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/a-newcomer-to-ai-data-labeling-encord-looks-to-ride-a-rising-tidal-wave/amp/",
+      "publishedDateTime": "2022-04-08T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-cognos-vs-tableau-2022-software-comparison.md",
+      "title": "Cognos vs. Tableau: 2022 Software Comparison",
+      "excerpt": "Tableau and IBM Cognos are two well-respected business ... For other formats, ease of use can suffer. Similarly, the AI-powered and Watson-backed analytics of Cognos lower the barrier to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/cognos-vs-tableau/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/cognos-vs-tableau/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/woman-at-computer-analytics.jpeg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-apply-to-pitch-your-startup-at-tc-sessions-mobility.md",
+      "title": "Apply to pitch your startup at TC Sessions: Mobility",
+      "excerpt": "TechCrunch Editorial is on the hunt for six early stage startups to feature in a pitch-off on the Main Stage at TC Sessions: Mobility. You can apply here.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/",
+      "originalUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Mobility_Event_Graphic_1750x800-2-1.png?w=1024",
+          "width": 1024,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/",
+      "publishedDateTime": "2022-04-08T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-build-a-custom-entity-recognizer-for-pdf-documents-using-amazon-comprehend.md",
+      "title": "Build a custom entity recognizer for PDF documents using Amazon Comprehend",
+      "excerpt": "In many industries, it’s critical to extract custom entities from documents in a timely manner. This can be challenging. Insurance claims, for example, often contain dozens of important attributes (such as dates, names, locations, and reports) sprinkled across lengthy and dense documents. Manually scanning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-entity-recognizer-for-pdf-documents-using-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-entity-recognizer-for-pdf-documents-using-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/03/25/image-46.png",
+          "width": 730,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-08T10:32:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-04-09-mlops-the-key-to-pushing-ai-into-the-mainstream.md",
+      "title": "MLops: The Key to Pushing AI into the Mainstream",
+      "excerpt": "MLops is still an emerging field, so it may be tempting to write it off as just another techy buzzword, but its track-record proves that when designed the right way and targeted at the proper goal: to maximize model performance and improve ROI,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/",
+      "originalUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/08/mlops-the-key-to-pushing-ai-into-the-mainstream/amp/",
+      "publishedDateTime": "2022-04-08T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-aacr22-artificial-intelligence-predicts-side-effects-of-combination-therapies.md",
       "title": "AACR22: Artificial intelligence predicts side effects of combination therapies",
       "excerpt": "Researchers at the Cancer Center Amsterdam (Netherlands) report their preliminary findings using artificial intelligence to predict the adverse ... making it difficult to decide whether a new combination therapy would risk their health,” explains Bart ...",
@@ -929,249 +1188,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-storage-requirements-for-ai-ml-and-analytics-in-2022.md",
-      "title": "Storage requirements for AI, ML and analytics in 2022",
-      "excerpt": "We look at what is needed for artificial intelligence and machine learning, and the pros and cons of block, file and object storage to store and access very large amounts of often unstructured data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022",
-      "originalUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/rms/onlineimages/ai_a373894778.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Storage-requirements-for-AI-ML-and-analytics-in-2022?amp=1",
-      "publishedDateTime": "2022-04-07T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-china-uses-ai-software-to-improve-its-surveillance-capabilities.md",
-      "title": "China uses AI software to improve its surveillance capabilities",
-      "excerpt": "Uniview surveillance cameras overlook a street next to a residential building in Beijing, China December 10, 2021. Picture taken December 10, 2021. REUTERS/Carlos Garcia Rawlins",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/china-uses-ai-software-to-improve-its-su-idUSKCN2M0001",
-      "originalUrl": "https://www.reuters.com/news/picture/china-uses-ai-software-to-improve-its-su-idUSKCN2M0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20220408&t=2&i=1596721193&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEI370A5",
-          "width": 810,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-tesla-is-aiming-to-start-production-of-its-optimus-humanoid-robot-in-2023.md",
-      "title": "Tesla is aiming to start production of its Optimus humanoid robot in 2023",
-      "excerpt": "Elon Musk gave a timeline to production for the first time for the Tesla Optimus project, a humanoid robot capable of doing general tasks. The CEO believes the company can bring the ambitious project to production as soon as next year.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/",
-      "originalUrl": "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/04/07/tesla-production-optimus-humanoid-robot-2023/amp/",
-      "publishedDateTime": "2022-04-07T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute.md",
-      "title": "AI Visionary And A Prominent Ethics Leader Beena Ammanath Of Deloitte AI Institute",
-      "excerpt": "My Conversation with one of the most influential, inspirational and brilliant minds. As part of my Series of The 9 Inspirational Women Leaders In AI Shaping The 21st Century, I was honored to converse with Beena Ammanath.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624fa29fef1ef8b65b4ebda9/0x0.jpg?format=jpg&crop=1777,999,x0,y139,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2022/04/07/ai-visionary-and-a-prominent-ethics-leader-beena-ammanath-of-deloitte-ai-institute/amp/",
-      "publishedDateTime": "2022-04-07T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-ukraine-uses-facial-recognition-software-to-spot-russian-spies.md",
-      "title": "Ukraine uses facial recognition software to spot Russian spies",
-      "excerpt": "According to one email, Ukraine’s national police obtained two photos of dead Russian soldiers, which have been viewed by The New York Times, on March 21. One dead man had identifying patches on his uniform,",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
-      "originalUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/04/UKRAINE-FACIAL-RECOGNITION.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/world/ukraine-uses-facial-recognition-software-to-spot-russian-spies-7859099/lite/",
-      "publishedDateTime": "2022-04-07T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

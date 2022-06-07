@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-07T17:21:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
 webUrl: "https://markets.businessinsider.com/news/stocks/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services-1031514336"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:

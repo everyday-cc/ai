@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T19:24:00Z
 originalUrl: "https://www.pharmiweb.com/press-release/2022-06-07/spineguard-announces-a-new-partnership-with-sorbonne-cnrs-and-inserm-to-associate-its-dsg-technolo"
 webUrl: "https://www.pharmiweb.com/press-release/2022-06-07/spineguard-announces-a-new-partnership-with-sorbonne-cnrs-and-inserm-to-associate-its-dsg-technolo"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: PharmiWeb

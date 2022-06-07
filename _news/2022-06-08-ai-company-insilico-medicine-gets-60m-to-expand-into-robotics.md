@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/ai-company-insili
 webUrl: "https://www.beckershospitalreview.com/innovation/ai-company-insilico-medicine-gets-60m-to-expand-into-robotics.html"
 type: article
 quality: 69
-heat: 89
+heat: 94
 published: true
 
 provider:

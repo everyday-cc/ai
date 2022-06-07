@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-05-28-grai-matter-labs-brain-inspired-ai-for-the-edge.md",
-      "title": "GrAI Matter Labs: Brain-Inspired AI For The Edge",
-      "excerpt": "We recently tweeted about the startup GrAI Matter Labs (GML) and received a lot of questions about the company’s products and strategy. As one of the first startups to launch a neuromorphic AI platform for edge AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6290f25b3eeb6d491574921f/0x0.jpg?format=jpg&width=1200",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
-      "publishedDateTime": "2022-05-27T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-05-27-platinum-jubilee-ai-robot-paints-queens-portrait.md",
       "title": "Platinum Jubilee: AI robot paints Queen's portrait",
       "excerpt": "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm.",
@@ -1285,6 +1232,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best.md",
+      "title": "Netflix’s Love, Death & Robots Season 3 Review – Every Short Ranked From Worst To Best",
+      "excerpt": "Shaun Munro reviews season 3 of Love, Death & Robots… Netflix’s acclaimed animated anthology series Love, Death & Robots is back for its third season, and while this collection of nine episodes is likely the weakest of the bunch to date,",
+      "sourceUrl": null,
+      "webUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
+      "originalUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Flickeringmyth",
+        "domain": "flickeringmyth.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

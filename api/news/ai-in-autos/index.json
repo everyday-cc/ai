@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/waymo-and-uber-partner-trucking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -187,6 +187,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-03-elon-musk-says-tesla-ai-day-pushed-to-sept-30.md",
+      "title": "Elon Musk says Tesla AI Day pushed to Sept 30",
+      "excerpt": "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/elon-musk-says-tesla-ai-day-pushed-sept-30-2022-06-03/",
+      "originalUrl": "https://www.reuters.com/technology/elon-musk-says-tesla-ai-day-pushed-sept-30-2022-06-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/3NNM9uV9ThNnzmnNHy32TFr22_Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3LFCZXMPA5PDXL5MUIP5J22M6A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-elon-musk-says-tesla-may-have-a-working-humanoid-robot-prototype-by-sept-30.md",
       "title": "Elon Musk says Tesla may have a working humanoid robot prototype by Sept 30",
       "excerpt": "Elon Musk announced that Tesla might have a working prototype of Tesla Bot, the automaker's humanoid robot, by September 30th.",
@@ -237,6 +289,40 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-artificial-intelligence-technology-solutions-files-10-k-and-audited-financials.md",
+      "title": "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
+      "sourceUrl": null,
+      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
+      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8563633/artificial-intelligence-technology-solutions-files-10-k-and-audited-financials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX8 Cleveland",
+        "domain": "fox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1251,101 +1337,6 @@
       "provider": {
         "name": "TechNode",
         "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-meet-the-9-cruise-engineers-taking-gms-self-driving-division-from-science-experiment-to-the-first-robotaxi-service-for-the-masses.md",
-      "title": "Meet the 9 Cruise engineers taking GM's self-driving division from science experiment to the first robotaxi service for the masses",
-      "excerpt": "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5",
-      "originalUrl": "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-self-driving-vehicle-start-up-minus-zero-raises-17mn-in-seed-fund.md",
-      "title": "Self-driving vehicle start-up Minus Zero raises $1.7mn in seed fund",
-      "excerpt": "Minus Zero, the self-driving vehicle start-up, has raised $1.7 million in a seed round led by Chiratae Ventures and clocking participation from JITO Angel Network. Angel investors from the autonomous vehicles industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/23/full/1653301694-2772.png",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
-      "publishedDateTime": "2022-05-23T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
         "images": null,
         "publishers": null,
         "authors": null

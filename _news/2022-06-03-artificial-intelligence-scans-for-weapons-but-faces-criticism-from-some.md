@@ -5,7 +5,12 @@ excerpt: "Ellenbogen is the founder of a company called Evolv. Inside the compan
 publishedDateTime: 2022-06-03T15:28:00Z
 originalUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
 webUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
+ampWebUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
+cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: ABC Action News
@@ -14,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "7ZjhMth0CXHELc2nvm7iYaM5/izgUf4qg1MCCUnDiVZSLuEcqp40+Dkndzz6tWl018IlmtASxVIinSTKUPz4bdRRqbqqVGndscF9KgRnER0rANEd0US5h9i0Xwz42qumNQW1daCEixQkhz56GtFg14ojZusebqYQatYosR43WH5gkH2pj48x/bF37SZTL4YaskWaDIMMBZ4VD9V6gFl/ASEunf1t7/KEi+peRQCdhFZ/9HjF+lADmp/SFoZO6euYN1jhV9qysJLgq7LYXjpu/6fMx/96lXemrNUco1gHQU9ZXXYDZDF/Yz+oXkUNInD9Vi+aamCVJnWH8NQD5EiCr3Ib7N2PKC0lpffusG0ngM77zk0opFnbKRorkbWr8F8g+e7vtAC5oi0ZHQUjOuO5KCJPAWe6OSeGPmdImTHy23gP/7NYuKcibe3RG2OKW3OuURct2G1iTN3qw2saZ2Qg8yllhTUuCU4r8gejnKMriqtZk7akO2CTxdYDT11nJ3RDm5RM4bOL0jineSbR1CIdZA==;6T5S1XoevtQqsmja9GkiQA=="
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "RZ1xzFDcD/XTeIVknc9zJ2BFtApRUS0tzI107ZafeRkEnVvHyc3oi4z3Bmjrx9Mk7CG2rHB+5hADJ4Inc/HrtyqHhTap6qewofpsTiRUjBbC0x65NJDBitwu9ZrZUjXzhxvRexJXt7IdQUdFzLLRhsVv1KPqeV4gyY9ZkCu9iOIznrSzcQgryB1l0qmqoFQIQ1CADHPqsv0YrCH8vZM4rSvV3BAifeLNpHXmFV/5W7phjX/pa0P09C8F2JXpjY/+4Y4pOn6z1wwjq8blSl9+LPNLFTfLiNswDg073QmKJt1ib/JABed+1zHURY4Nlyh5z2xMuL6nynZuZA6Sg5QrWFMZ48yzmCnNo2PBJ0e+iNk=;Iz3nXH7Zi6iPep8qea7UqQ=="
 ---
 

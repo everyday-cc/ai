@@ -2,6 +2,224 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-04-06-ibm-releases-new-server-that-uses-ai-chip-developed-in-albany.md",
+      "title": "IBM releases new server that uses AI chip developed in Albany",
+      "excerpt": "ALBANY - IBM has released its newest mainframe computer server - the z16 - that uses artificial intelligence and chips developed in Albany that protect businesses and consumers from hackers even before a transaction goes through.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesunion.com/business/article/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
+      "originalUrl": "https://www.timesunion.com/business/article/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/25/04/73/22302450/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
+      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/business/amp/IBM-releases-new-server-that-uses-AI-chip-17059251.php",
+      "publishedDateTime": "2022-04-05T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-lanner-movai-partner-to-expedite-mobile-robot-development.md",
+      "title": "Lanner, MOV.AI partner to expedite mobile robot development",
+      "excerpt": "Collaborative solution to provide both the machine vision computing and software platform developers need to build and deploy mobile robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/lanner-mov-ai-partner-expedite-mobile-robot-development/",
+      "originalUrl": "https://www.therobotreport.com/lanner-mov-ai-partner-expedite-mobile-robot-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/04/mov-ai-lanner-electronics.jpg",
+          "width": 1000,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-as-data-drives-reinvention-aws-leverages-machine-learning-and-serverless-to-meet-enterprise-needs.md",
+      "title": "As data drives reinvention, AWS leverages machine learning and serverless to meet enterprise needs",
+      "excerpt": "Cloud provider Amazon Web Services Inc. is in prime position ... This fits neatly with AWS’ focus on machine learning within many elements of its cloud-based portfolio. “The idea of data ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/04/05/as-data-drives-reinvention-aws-leverages-machine-learning-and-serverless-to-meet-enterprise-needs-awsshowcases2e2/",
+      "originalUrl": "https://siliconangle.com/2022/04/05/as-data-drives-reinvention-aws-leverages-machine-learning-and-serverless-to-meet-enterprise-needs-awsshowcases2e2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Rahul-Pathak-AWS-Startup-Showcase-April-2022.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-05T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-microsoft-hpe-put-ai-to-work-checking-astronaut-gloves.md",
+      "title": "Microsoft, HPE put AI to work checking astronaut gloves",
+      "excerpt": "Video From the department of \"we've got this supercomputer on the space station, what shall we do with it?\" comes news of AI technology being used to check the gloves of spacewalkers. Wear and tear is a problem for astronauts venturing out of the orbiting lab,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top",
+      "originalUrl": "https://www.theregister.com/2022/04/05/hpe_spaceborne_ai/?td=keepreading-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/01/13/kopra_spacewalk.jpg",
+          "width": 700,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/hpe_spaceborne_ai/",
+      "publishedDateTime": "2022-04-05T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-06-researchers-identify-new-medicines-using-interpretable-deep-learning-predictions.md",
+      "title": "Researchers identify new medicines using interpretable deep learning predictions",
+      "excerpt": "An important aspect of drug discovery involves determining how well a drug binds to its target (protein) molecule. Typically, this step involves aligning a 3D structure of a drug and its target protein at various configurations in a process called \"docking.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-at-the-gis.jpg",
+          "width": 1379,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-medicines-deep.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-medicines-deep.amp",
+      "publishedDateTime": "2022-04-05T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-customize-the-amazon-sagemaker-xgboost-algorithm-container.md",
       "title": "Customize the Amazon SageMaker XGBoost algorithm container",
       "excerpt": "The built-in Amazon SageMaker XGBoost algorithm provides a managed container to run the popular XGBoost machine learning (ML) framework, with added convenience of supporting advanced training or inference features like distributed training, dataset sharding for large-scale datasets, A/B model testing,",
@@ -886,212 +1104,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson.md",
-      "title": "What’s in a name? Buffalo’s link to IBM Supercomputer, Watson",
-      "excerpt": "Most folk are aware of IBM’s Watson, the deep-thinking supercomputer that won jeopardy and launched an artificial intelligence bonanza. Watson is not the fastest supercomputer in the world ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/",
-      "originalUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.buffalorising.com/wp-content/uploads/2018/03/Idea-1024x614.jpeg",
-          "width": 1024,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/amp/",
-      "cdnAmpWebUrl": "https://www-buffalorising-com.cdn.ampproject.org/c/s/www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/amp/",
-      "publishedDateTime": "2022-04-05T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Buffalo Rising",
-        "domain": "buffalorising.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-facial-recognition-system-to-be-launched-at-pune-airport-in-2023.md",
-      "title": "Facial recognition system to be launched at Pune airport in 2023",
-      "excerpt": "A facial recognition system will be launched at Pune's Lohegaon Airport by March 2023, Minister of State for Civil Aviation VK Singh said in Parliament. The system will be launched as part of the Centre's Digi Yatra initiative to provide passengers \"seamless and hassle-free experience at airports\".",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
-      "originalUrl": "https://inshorts.com/en/news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/04_apr/5_tue/img_1649144346258_275.jpg?",
-          "width": 537,
-          "height": 356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/facial-recognition-system-to-be-launched-at-pune-airport-in-2023-1649147998197",
-      "publishedDateTime": "2022-04-05T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-uks-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright.md",
-      "title": "UK’s mental health crisis alleviated by online therapy services from Onebright",
-      "excerpt": "Around 1.6 million Britons are waiting for specialised treatment, and another 8 million cannot get on the waiting list but would benefit from support. Could online therapy be the key to unlocking the mental health crisis?",
-      "sourceUrl": null,
-      "webUrl": "https://www.journalism.co.uk/press-releases/uk-s-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright/s66/a917259/",
-      "originalUrl": "https://www.journalism.co.uk/press-releases/uk-s-mental-health-crisis-alleviated-by-online-therapy-services-from-onebright/s66/a917259/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Journalism.co.uk",
-        "domain": "journalism.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-mirae-asset-partners-with-ai-based-fintech-qraft-technologies.md",
-      "title": "Mirae Asset partners with AI-based fintech Qraft Technologies",
-      "excerpt": "Mirae Asset Securities formed a strategic partnership with fintech firm Qraft Technologies earlier this week, planning joint research on AI-based financial models and cooperation in bringing about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/biz/2022/04/126_326802.html?fl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202204/2c4bd0b08b3248539a1a524032d091f6.jpg",
-          "width": 980,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326802",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=326802",
-      "publishedDateTime": "2022-04-05T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-netcore-cloud-expands-ties-with-aws-to-boost-digital-experiences-for-b2c-brands.md",
-      "title": "Netcore Cloud expands ties with AWS to boost digital experiences for B2C brands",
-      "excerpt": "Artificial Intelligence and Machine Learning. In addition, the collaboration will allow Netcore Cloud access to the AWS Partner Network (APN) and the APN Customer Engagements (ACE) Programme ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands",
-      "originalUrl": "https://menafn.com/1103963410/Netcore-Cloud-expands-ties-with-AWS-to-boost-digital-experiences-for-B2C-brands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-04/05/I_97f69image_story.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

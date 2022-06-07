@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T19:11:00Z
 originalUrl: "https://www.nbcnews.com/tech/social-media/family-sues-meta-blames-instagram-daughters-eating-disorder-self-harm-rcna32221"
 webUrl: "https://www.nbcnews.com/tech/social-media/family-sues-meta-blames-instagram-daughters-eating-disorder-self-harm-rcna32221"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: NBC News

@@ -69,6 +69,20 @@ related:
         width: 550
         height: 315
         isCached: true
+  - title: "Banks Are Partnering With Fintech Companies To Solve Banking Problems"
+    excerpt: "Other fintech businesses may improve financial transactions and procedures. Large banks’ consumers may benefit from new services such as online notarization, AI-driven banking security, and bill payment. Many banks will require fintech partners in their ..."
+    publishedDateTime: 2022-06-07T20:57:00Z
+    webUrl: "https://www.finsmes.com/2022/06/banks-are-partnering-with-fintech-companies-to-solve-banking-problems.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/06/image.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Addressing the challenges of fintech with adoptable solutions"
     excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
     publishedDateTime: 2022-06-06T09:13:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-must-face-its-limitations"
 webUrl: "https://thenextweb.com/news/ai-must-face-its-limitations"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

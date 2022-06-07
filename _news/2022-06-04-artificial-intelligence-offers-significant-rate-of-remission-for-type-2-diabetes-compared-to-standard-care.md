@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T15:03:00Z
 originalUrl: "https://www.djournal.com/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care/article_5e11842c-b0b4-5270-af6c-0837ed87b759.html"
 webUrl: "https://www.djournal.com/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care/article_5e11842c-b0b4-5270-af6c-0837ed87b759.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Journal

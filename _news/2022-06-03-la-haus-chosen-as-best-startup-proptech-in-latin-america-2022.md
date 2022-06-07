@@ -33,6 +33,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
+  - title: "Autonomous Mayflower reaches American shores -- in Canada"
+    excerpt: "Piloted by artificial intelligence technology, the 50-foot (15-meter) Mayflower Autonomous Ship didn't have a captain, navigator or any humans on board — though it might have helped to have a ..."
+    publishedDateTime: 2022-06-05T19:09:00Z
+    webUrl: "https://rapidcityjournal.com/lifestyles/technology/article_4a4dc1ce-0e3e-50cc-ae32-9ced631ebff6.html"
+    type: article
+    provider:
+      name: Rapid City Journal
+      domain: rapidcityjournal.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/a/be/abe4f251-a04d-505f-8979-7974e0c2fb99/629cfda02a7b9.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI tool takes on corporate logos; Latin American IP and Gender Network expands; United Spirits sells 32 brands – news digest"
     excerpt: "In our latest round-up, we look at basketball player Kevin Durant filing 26 crypto applications, Frasers Group snapping up the Missguided brand, and much more."
     publishedDateTime: 2022-06-03T14:21:00Z

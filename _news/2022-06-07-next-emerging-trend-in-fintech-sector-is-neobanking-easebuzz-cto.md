@@ -56,6 +56,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Banks Are Partnering With Fintech Companies To Solve Banking Problems"
+    excerpt: "Other fintech businesses may improve financial transactions and procedures. Large banks’ consumers may benefit from new services such as online notarization, AI-driven banking security, and bill payment. Many banks will require fintech partners in their ..."
+    publishedDateTime: 2022-06-07T20:57:00Z
+    webUrl: "https://www.finsmes.com/2022/06/banks-are-partnering-with-fintech-companies-to-solve-banking-problems.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/06/image.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
     excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
     publishedDateTime: 2022-06-04T08:08:00Z

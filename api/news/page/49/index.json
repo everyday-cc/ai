@@ -2,6 +2,248 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-04-25-six-robotics-pioneers-win-2022-engelberger-awards.md",
+      "title": "Six Robotics Pioneers Win 2022 Engelberger Awards",
+      "excerpt": "The event will bring more than 500 companies showcasing the latest in robotics, machine vision, artificial intelligence (AI), motion control, and smart automation—and an expected 20,000 attendees—to the city's Huntington Place center. The Association ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/b26791476/six-robotics-pioneers-win-2022-engelberger-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26791476",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26791476",
+      "publishedDateTime": "2022-04-25T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand.md",
+      "title": "Why companies need to get a handle on ethical and responsible AI (VB On-Demand)",
+      "excerpt": "As AI is integrated into day-to-day lives, justifiable concerns over its fairness, power, and effects on privacy, speech, and autonomy grow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/",
+      "originalUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1135199002.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/why-companies-need-to-get-a-handle-on-ethical-and-responsible-ai-vb-on-demand/amp/",
+      "publishedDateTime": "2022-04-25T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars.md",
+      "title": "AI Ethics Fretting Over The Use Of AI To Goad Humans Into Unethical Behaviors, Possibly Even Via Those Autonomous Self-Driving Cars",
+      "excerpt": "AI that provides unethical advice is going to be a vexing problem for humans, including as showcased via the advent of autonomous self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62467316d1ffaded5f503f2f/0x0.jpg?format=jpg&crop=1421,760,x243,y0,safe&width=1200",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/04/25/ai-ethics-fretting-over-the-use-of-ai-to-goad-humans-into-unethical-behaviors-possibly-even-via-those-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-04-25T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-cast-ai-puts-out-report-on-extent-of-enterprises-cloud-resource-overspend.md",
+      "title": "CAST AI puts out report on extent of enterprises cloud resource overspend",
+      "excerpt": "A report from cloud startup CAST AI claims companies running cloud-native applications typically spend three times as much as they need on resources because of over-provisioning. The startup, which hopes to convince users to consider its platform as a way to control the problem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm",
+      "originalUrl": "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/01/20/shutterstock_cluster.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/",
+      "publishedDateTime": "2022-04-25T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-25-web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive.md",
+      "title": "Web3 startup Internxt, valued at $40M aims to compete with Google Drive",
+      "excerpt": "Valencia, Spain-based startup, Internxt, is building distributed internet services for Web3, designed to compete with those currently provided by Google, Microsoft and Amazon.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/",
+      "originalUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/web3.jpg?fit=800%2C431&strip=all",
+          "width": 800,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/25/web3-startup-internxt-valued-at-40m-aims-to-compete-with-google-drive/amp/",
+      "publishedDateTime": "2022-04-25T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-healthcare-natural-language-processing-market-is.md",
       "title": "Healthcare Natural Language Processing Market Is...",
       "excerpt": "Companies Profiled in Healthcare Natural Language Processing Market are Apple Inc, NLP Technologies, NEC Corporation, Microsoft Corporation, IBM Corporation NEWARK, N.J., April 25, 2022 (GLOBE NEWSWIR",
@@ -901,257 +1143,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-commerces-bis-can-help-stop-chinas-quest-for-ai-dominance.md",
-      "title": "Commerce’s BIS Can Help Stop China’s Quest For AI Dominance",
-      "excerpt": "AI will transform militaries through innovations in intelligence, surveillance, reconnaissance, logistics, command and control capabilities, weapons systems, and so on. Last year a landmark U.S. National Security Commission on Artificial Intelligence (NSCAI) report found,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/",
-      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62642f15dba64174ee30febc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/04/23/commerces-bis-can-help-stop-chinas-quest-for-ai-dominance/amp/",
-      "publishedDateTime": "2022-04-23T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai.md",
-      "title": "The Innovative Ways The United States Space Force Is Leveraging Data And AI",
-      "excerpt": "Speaking at an upcoming AI in Government event on May 19, 2022, Dr. Lisa Costa, Chief Technology & Innovation Officer of the United States Space Force will be sharing insights in how the US Space Force is delivering the first fully digital service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6264256f61e2dd81de312206/0x0.jpg?format=jpg&crop=2400,1350,x0,y240,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/04/23/the-innovative-ways-the-united-states-space-force-is-leveraging-data-and-ai/amp/",
-      "publishedDateTime": "2022-04-23T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022.md",
-      "title": "AWS CMO Rachel Thornton on the future of customer-obsessed marketing in 2022",
-      "excerpt": "Customer obsession is core to AWS, and being data-driven in everything ... Experimenting with technology, such as machine learning (ML) or artificial intelligence (AI), in marketing can help ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1364769258-coffeekai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/23/aws-cmo-rachel-thornton-on-the-future-of-customer-obsessed-marketing-in-2022/amp/",
-      "publishedDateTime": "2022-04-23T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-a-california-tech-ceo-is-running-for-us-senate-on-one-issue-banning-teslas-full-self-driving-technology.md",
-      "title": "A California tech CEO is running for US Senate on one issue: banning Tesla's Full Self-Driving technology",
-      "excerpt": "Dan O'Dowd launched a multimillion-dollar ad campaign that takes aim at Tesla's self-driving software and claims the company \"skates by regulations.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4",
-      "originalUrl": "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6260156c4f524b00194d5dc8?width=1200&format=jpeg",
-          "width": 1081,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/california-tech-ceo-runs-for-senate-to-ban-tesla-fsd-2022-4?amp",
-      "publishedDateTime": "2022-04-23T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-23-facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting.md",
-      "title": "Facial Recognition Tech Leads to Arrest in Fatal Miami-Dade Strip Club Shooting",
-      "excerpt": "\"The subject fled on foot as the crowd inside the club dispersed.\" The entire incident was captured on surveillance video, which detectives used along with facial recognition software to identify Solomon as a suspect, the warrant said. A witness who was at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/",
-      "originalUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcmiami.com/2022/04/042122-the-office-gentlemens-club-miami-dade-shooting.jpg?quality=85&strip=all&fit=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/?amp",
-      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/facial-recognition-tech-leads-to-arrest-in-fatal-miami-dade-strip-club-shooting/2741728/?amp",
-      "publishedDateTime": "2022-04-23T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 6 South Florida",
-        "domain": "nbcmiami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

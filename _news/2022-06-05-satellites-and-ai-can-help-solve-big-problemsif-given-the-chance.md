@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/satellite-images-ai-solve-problems-gover
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/satellite-images-ai-solve-problems-governments/amp"
 type: article
 quality: 87
-heat: 88
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 2400
     height: 1697
     isCached: true
+
+related:
+  - title: "New digital and AI chief commits to helping solve the Pentagon’s ‘software problem’"
+    excerpt: "The Pentagon’s first permanent chief digital and artificial intelligence officer (CDAO) agreed to deliberately confront the complex software development and implementation challenges plaguing the massive defense enterprise during his early days on the job."
+    publishedDateTime: 2022-06-07T20:06:00Z
+    webUrl: "https://www.fedscoop.com/new-digital-and-ai-chief-commits-to-helping-solve-the-pentagons-software-problem/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 31
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/06/GettyImages-505142971-e1654630872683.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
 
 secured: "3EABSILFzUFAMcoywAFI0MPXqs7wGURBsc1K4UOXPov1JwTVY/4Byo8/Ms1NNVfCcf7CVnzDTjTZaZXPksuOtBJgTXhfd571lhiHb0mnwRglOca+AlCfabZGvksiXTXzxSg7qQIcaQOTGYfxBhNu4Bj0MMaWt+iE7+Hk9aFsf1p8btC+9rW9Q7pUeVaWMk3ulXhPdJHvF0rqSumF9edDi8i/LncROU7zr4SZnEHlhEDwFUCpUeu+V29FhEvmmexjU6zjY8OorYFYY9K0l7aWBoelqCCklkjLnGegzj2sXM5Wm92zVY1U/2e/us76bxW/IpFXrn2k+7kYkpkXBvgX9Y4KkTj7Qldl/HJbRNf1vC5UvlDZaewZhmrxOXQaJvxMnCXps01JmEmLCN7+Z8a2ybBX0HnIwTycWtrjoq4sPcQAzqR2loALyrf4XCDXUe75bldlkuQQb0CxvizsOd4Y8izFX3CRCVIperIiAuGWACiVYEr81E0de4mpRuAXS90cvlTtmpDmXGCIDmKJUtDOTg==;Ek3xdzB0+P3LFpPgPr/2HQ=="
 ---

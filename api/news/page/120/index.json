@@ -2,6 +2,231 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-02-23-microsofts-new-singularity-ai-system-might-have-100000-gpus.md",
+      "title": "Microsoft’s New ‘Singularity’ AI System Might Have 100,000+ GPUs",
+      "excerpt": "Microsoft's research teams are working on Singularity, a new infrastructre to manage AI and deep learning workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/",
+      "originalUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2022/02/microsoft-ai.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/microsoft-singularity-ai-gpu/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/microsoft-singularity-ai-gpu/amp/",
+      "publishedDateTime": "2022-02-22T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-artificial-intelligence-and-robotics-could-be-growth-are-for-bradford-but-there-are-still-gaps-in-tech-inequality.md",
+      "title": "Artificial intelligence and robotics could be 'growth are' for Bradford - but there are still gaps in tech inequality",
+      "excerpt": "ARTIFICIAL Intelligence and robotics could \"major growth areas\" for Bradford in the coming years - a meeting has heard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/",
+      "originalUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.artificial-intelligence-robotics-growth-are-bradford---still-gaps-tech-inequality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetelegraphandargus.co.uk/resources/images/13502282/?type=responsive-gallery",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thetelegraphandargus.co.uk/news/19943900.amp/",
+      "cdnAmpWebUrl": "https://www-thetelegraphandargus-co-uk.cdn.ampproject.org/c/s/www.thetelegraphandargus.co.uk/news/19943900.amp/",
+      "publishedDateTime": "2022-02-22T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telegraph & Argus",
+        "domain": "thetelegraphandargus.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-irs-doesnt-completely-scrap-facial-recognition-just-makes-it-optional.md",
+      "title": "IRS doesn't completely scrap facial recognition, just makes it optional",
+      "excerpt": "Folks setting up an online IRS account will be given the choice of providing biometric data, or speaking with a human agent in a video call, to authenticate. Those who are comfortable with facial recognition can submit a selfie,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/02/23/irs_facial_deletion/",
+      "originalUrl": "https://www.theregister.com/2022/02/23/irs_facial_deletion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/01/17/shutterstock_facial_recognition.jpg",
+          "width": 1000,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/02/23/irs_facial_deletion/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/02/23/irs_facial_deletion/",
+      "publishedDateTime": "2022-02-22T20:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-control-formality-in-machine-translated-text-using-amazon-translate.md",
+      "title": "Control formality in machine translated text using Amazon Translate",
+      "excerpt": "Amazon Translate&nbsp;is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. Amazon Translate now supports formality customization. This feature allows you to customize the level of formality in your translation output. At the time",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/control-formality-in-machine-translated-text-using-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T19:45:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-02-23-semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict.md",
+      "title": "Semiconductor Watch List: Key Chip Ingredients At Risk in Ukraine Conflict",
+      "excerpt": "The alarming prospect of war on the European continent -- in what would be the largest scale conflict since the Yugoslav wars -- has roiled the markets,” wrote Real Money’s Kevin Curran recently. “Meanwhile,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "originalUrl": "https://www.thestreet.com/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzkyMTc5NTIzODIyOTI1/stock-trader-distressed.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/semiconductor-watch-list-key-chip-ingredients-at-risk-in-ukraine-conflict",
+      "publishedDateTime": "2022-02-22T18:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-23-eca-to-inaugurate-africas-1st-ai-research-centre-in-brazzaville-congo.md",
       "title": "ECA to Inaugurate Africa’s 1st AI Research Centre in Brazzaville Congo",
       "excerpt": "Addis Ababa, February 23/2022 /ENA/ The Economic Commission for Africa (ECA) is set to launch Africa’s first Artificial Intelligence (AI) research center in Brazzaville Congo, with focus on technology and innovationThe center,",
@@ -893,248 +1118,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-paving-the-way-for-ai-and-machine-learning-success.md",
-      "title": "Paving the way for AI and Machine Learning success",
-      "excerpt": "Simith Nambiar, Practice Lead, Emerging Tech, APJ, Rackspace Technology, tells us how businesses can overcome the challenges they experience with their Artificial Intelligence/Machine Learning efforts ... Program in Finance, financial institutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
-      "originalUrl": "https://www.intelligentcio.com/apac/2022/02/22/paving-the-way-for-ai-and-machine-learning-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/02/AdobeStock_295768020.jpg",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligentcio.com",
-        "domain": "intelligentcio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-research-chief.md",
-      "title": "Exclusive-Facial Recognition Company Clearview AI Seeks First Big Deals, Discloses Research Chief",
-      "excerpt": "Clearview has become one of the highest-profile developers of facial recognition over the last two years because it sends authorities matches from an ever-growing database of over 10 billion photos that it finds posted publicly on the internet. Results ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-3409221",
-      "originalUrl": "https://www.ibtimes.com/exclusive-facial-recognition-company-clearview-ai-seeks-first-big-deals-discloses-3409221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/22/an-illustration-picture-shows-a-projection-of-text.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-how-neuralspace-is-driving-low-resource-language-processing.md",
-      "title": "How NeuralSpace is driving low-resource language processing",
-      "excerpt": "“In India, Reverie Language Technologies and Skit AI are competitors but they mainly focus on Machine Translation and Speech Recognition, respectively. NeuralSpace offers the first platform that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Voice-recognition.NLP_.GettyImages-1199031078.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/how-neuralspace-is-driving-low-resource-language-processing/amp/",
-      "publishedDateTime": "2022-02-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million.md",
-      "title": "Rios, a startup developing robots that can grasp objects, has raised $28 million",
-      "excerpt": "Rios’ robotics stack combines an AI orchestration system (deployed in the cloud or on-premises), embedded processors, computer vision, touch sensors, and accessories like gripper arms and pincers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-553200801-e1630698097462.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/rios-a-startup-developing-robots-that-can-grasp-objects-has-raised-28-million/amp/",
-      "publishedDateTime": "2022-02-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-22-ydata-launches-data-centric-ai-community-for-data-scientists.md",
-      "title": "YData launches data-centric AI community for data scientists",
-      "excerpt": "Register here. Chief data officers, data scientists and data analysts of all stripes may be interested in a new AI support and information community that’s debuting today. That special ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/",
-      "originalUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1327569482-e1645483723963.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/ydata-launches-data-centric-ai-community-for-data-scientists/amp/",
-      "publishedDateTime": "2022-02-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

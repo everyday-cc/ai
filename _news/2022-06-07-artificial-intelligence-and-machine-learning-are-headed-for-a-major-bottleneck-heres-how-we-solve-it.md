@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-07T16:13:00Z
 originalUrl: "https://www.datanami.com/2022/06/07/artificial-intelligence-and-machine-learning-are-headed-for-a-major-bottleneck-heres-how-we-solve-it/"
 webUrl: "https://www.datanami.com/2022/06/07/artificial-intelligence-and-machine-learning-are-headed-for-a-major-bottleneck-heres-how-we-solve-it/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:

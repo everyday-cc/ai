@@ -241,6 +241,31 @@ related:
         width: 1138
         height: 640
         isCached: true
+  - title: "Axon halts plans for Taser drone as 9 on ethics board resign over controversial project"
+    excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week — which drew a rebuke from its artificial intelligence ethics board — was intended to “initiate a conversation on this as a potential solution.\" Smith said the ensuing ..."
+    publishedDateTime: 2022-06-07T18:37:00Z
+    webUrl: "https://www.wmur.com/article/axon-taser-drone-plans-halted/40209721"
+    ampWebUrl: "https://www.wmur.com/amp/article/axon-taser-drone-plans-halted/40209721"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/axon-taser-drone-plans-halted/40209721"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 51
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22151654625675.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
+    excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week was intended to “initiate a conversation on this as a potential solution.”"
+    publishedDateTime: 2022-06-06T14:34:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/axon-halts-plans-taser-drone-9-ethics-board-resign-rcna32124"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 49
   - title: "Taser Drone Grounded After Company's Ethics Board Resigns"
     excerpt: "Axon proposed developing the drone to help stop school shootings, but now the company is hitting pause on the plan after a majority of its AI ethics board resigned."
     publishedDateTime: 2022-06-06T18:23:00Z
@@ -335,15 +360,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
-    excerpt: "Axon, the company best known for developing the Taser, says it is halting plans to develop a Taser-equipped drone"
-    publishedDateTime: 2022-06-06T13:57:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/axon-halts-plans-taser-drone-ethics-board-resign-85211941"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 19
   - title: "Taser-equipped drone development on hold, ethics board members resign"
     excerpt: "Axon, formerly known as TASER International, announced and halted plans for its development of a Taser drone within only a week."
     publishedDateTime: 2022-06-07T10:04:00Z
@@ -353,6 +369,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Axon abruptly halts plans to weaponize drones after ethics board resignations"
+    excerpt: "Just days after CEO Rick Smith had said Scottsdale-based Axon Enterprise Inc. would ramp up a program that would weaponize drones armed with its nonlethal Taser products, the company has abruptly dropped those plans after members of Axon's artificial intelligence ethics board resigned in protest."
+    publishedDateTime: 2022-06-07T20:38:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2022/06/07/axon-halts-drone-taser-plans.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "bLfcpIyTTYd4rLi3vUm+4y15+JCzjy7xZltNDM7qWcb/qmm/uhEBLA6ICIiwVVOAZhA9Ri5fs+vcTtlAjg3dJv+0e53xRyLe+ycd3UH1+Br0M0cHqv7H+ymrkEQMRPY0CWJe+xD4RSXJzeptzpdM+9ChFlyhkWPeRPSQaGYj+bDtuKoYvRmWQXU1gxJasWB+LDMxfjG0TuVp0htwU3Kh4Auh6r1ItNtj92odQSPun6lIRMsjkyeb4d4CkSm0TGkwu75ivYitl/PHY5MIICUNHw4FdnoROp69XVK2mKupeUqSqyhzzUtIhhxxWRsS696FYlGCZPYNkoqfadVAcmpr+Swqm9xKfUC654+SI95EgxgfNWE5LtTbesQqv0UGK9akwTGObpvZEGltWB6YtThBQ/HHx3201T+tq1xOa53lHKhRApMH+vPmYMgbEappgonfuCClyOllS2r+LcZOIv6RVoQWqQ6VAo2l5YgsAxYWbJlqxE8i8zaZAe2Xm3CUL46grqgYwtU5qFrzzBB4YZyecw==;cYGnRxSq5Kyaua24uxhDKw=="
 ---

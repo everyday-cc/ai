@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/pet
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/petuum-and-inception-institute-for-ai-partner-for-advanced-ai/article_c10652cc-9d68-5dbc-aa20-7a33f629769f.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Petuum and Inception Institute for AI Make Strategic Business Alliance for Advanced AI"
+    excerpt: "Petuum and the Inception Institute for Artificial Intelligence (IIAI), have agreed to partner on the development of revolutionary AI"
+    publishedDateTime: 2022-06-07T13:16:00Z
+    webUrl: "https://enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/"
+    ampWebUrl: "https://enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/petuum-and-inception-institute-for-ai-make-strategic-business-alliance-for-advanced-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 51
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Petuum-and-Inception-Institute-for-AI-Make-Strategic-Business-Alliance-for-Advanced-AI-01.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "LHolv/c46rcSEaSS6FoTKZ4sEyCL8H5tyPeCYkRovABkRgy1kmGptsKVDcGhklq5vCvY1Nb5e8EPs05u0UgfyraMTOo0oqKQ0FsjhZUKYW4IUe684BVl6eAtc6gCHh3N8PUZQjxZdatKha4oW2ge+5+PlgGC1rOAnO8jnE0N9H08LtoAwZR9zYNuIsal3AzhTkYj4BbqIw5Rsnn5XQUgkkzlRRRYMIRNxx5CYUHhuFpowAq9yoOCUBzK9xAD1Z+z5Q5ZeVrqkDXcFWbuSmB8Oreozk41b6ET3NbSHms0n2hZGC4sPLAtNsfjX2gR25f2b9i9NC2BTo9nPx6HdCjhpPVwKjnW181+6a8V+hsCeYldgb+cF7Gw7HrYyUgx8UINAR3okE5cyoXg/ZWf2vr8u33sXrhdSz4tsiXBY2dr1MJxE6mC4SXIRR3SXPcu0ZI2AKajkDxNm/cxLJWZ5M5L4A4/6yTnQqVdEBCr/xnBP8cJ1H/08HAGmdwd/IbMZn5D5mIJ1KMeu3+dBf//HVJCUg==;+NMnx9uIUgSHm9hkBwNc7A=="
 ---

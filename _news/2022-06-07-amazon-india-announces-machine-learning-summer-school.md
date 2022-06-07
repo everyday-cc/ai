@@ -9,7 +9,7 @@ ampWebUrl: "https://telanganatoday.com/amazon-india-announces-machine-learning-s
 cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:

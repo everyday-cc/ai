@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T18:55:00Z
 originalUrl: "https://www.washingtontimes.com/news/2022/jun/7/a-review-of-state-secretary-blinkens-china-speech/"
 webUrl: "https://www.washingtontimes.com/news/2022/jun/7/a-review-of-state-secretary-blinkens-china-speech/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Washington Times

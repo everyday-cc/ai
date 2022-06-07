@@ -2,49 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2022-03-10-robot-that-seems-to-convey-emotion-while-reading.md",
-      "title": "Robot that seems to convey emotion while reading",
-      "excerpt": "Robot that seems to convey emotion while reading Date: March 10, 2022 Source: University of Tsukuba Summary: Researchers have created a robot with an internal weight that can give the impression ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/03/220310100010.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/03/220310100010.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-10-ambi-robotics-and-pitney-bowes-sign-23-million-expansion.md",
       "title": "Ambi Robotics and Pitney Bowes sign $23 million expansion",
       "excerpt": "Ambi Robotics, the creator of the AmbiSort robotic sorting solution, and Pitney Bowes, a global shipping and mailing company, signed a $23 million expansion deal. Pitney Bowes will make the investment over the next four years in Robot as a Service (RaaS) fees.",
@@ -1364,6 +1321,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-28-we-created-robot-dogs-to-patrol-the-us-border.md",
+      "title": "'We Created Robot Dogs To Patrol The U.S. Border'",
+      "excerpt": "and our four-legged Minitaur robot was the easiest to control. Originally, it was really just about research. There were no customers in mind, and we were actually selling the robots to other researchers. We had seen what other companies were doing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/robot-dogs-patrol-us-border-1681325",
+      "originalUrl": "https://www.newsweek.com/robot-dogs-patrol-us-border-1681325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1990618/robot-dog-created-ghost-robotics.jpg",
+          "width": 3241,
+          "height": 2700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/robot-dogs-patrol-us-border-1681325?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robot-dogs-patrol-us-border-1681325?amp=1",
+      "publishedDateTime": "2022-02-27T11:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

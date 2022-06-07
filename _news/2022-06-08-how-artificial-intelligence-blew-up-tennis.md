@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T19:30:00Z
 originalUrl: "https://www.bbc.co.uk/news/business-61609689?at_medium=RSS"
 webUrl: "https://www.bbc.co.uk/news/business-61609689?at_medium=RSS"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: BBC

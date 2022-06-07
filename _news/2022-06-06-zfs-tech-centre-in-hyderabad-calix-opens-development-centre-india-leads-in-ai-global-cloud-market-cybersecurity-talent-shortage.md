@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3662774/zfs-tech-centre-in-hyd
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3662774/zfs-tech-centre-in-hyderabad-calix-opens-development-centre-india-leads-in-ai-global-cloud-market-c.amp.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How to use AI in cybersecurity?"
+    excerpt: "Let’s talk about how AI in cybersecurity protects the corporate networks of companies. Technological progress has not only pleasing but also bad consequences. Together with the accelerated pace of corporate security systems development,"
+    publishedDateTime: 2022-06-07T20:41:00Z
+    webUrl: "https://www.hackread.com/how-to-use-ai-in-cybersecurity/"
+    type: article
+    provider:
+      name: hackread
+      domain: hackread.com
+    quality: 37
+    images:
+      - url: "https://www.hackread.com/wp-content/uploads/2022/06/how-to-use-ai-cybersecurity.jpg"
+        width: 1200
+        height: 650
+        isCached: true
 
 secured: "Ol6s3BXxwOngsN+E676PUXzDXPVTGWP0NX2yvhnF6jD94BPXBl0FEV3mFwvs0CpQPCT/Sda8oDGulpcc33fypprx09Zq7m63yNEmPWk3HtUZV8ptDcQcpXJYMkPYwRlXLtUYAwd2i7akyzbx3bziDqZnB+Li7x2dwFSWoUICzD/0V4znDwvXxjTSJgg1IwYCCOPpz5JLeuDrTg6mZ6ii+k8E7p2fImMclKx5wg0KOnrOV4RMKiuGNS9rJP9xLaD877uiP36qYaQa1DFK6vBZd0F9GKEv3b2XydbWzjTxzIUC+ZYMNFvfJkNkwEiS00H0Y4xeVrfnp3vnCzJq+VSoYNigf9QWh/Y1OGLvUylj1cylQCOdjdczCK1QOO0wigSMwulYP4xU6213U/BFKYHdU5Ae7fXuGA0OMmFc9IHH5QxxcaWHoY/BAIkHquckXARUjYFuEP83awfgCECY6Dl48DLRqjyw5fyt1WJGEgCLKoBVZ1iCS3i0bK8/hU3zPmJlZTo4coZAm1VwjMsjs1Dwfw==;AH1Xm4IIMKHIHEX7jwi7jQ=="
 ---

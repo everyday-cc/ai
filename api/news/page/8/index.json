@@ -2,6 +2,180 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-30-human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success.md",
+      "title": "Human Vs. Artificial Intelligence: Why Finding The Right Balance Is Key To Success",
+      "excerpt": "In short, now that we have increasingly capable robots and artificial intelligence (AI) systems – capable of taking on tasks that were previously the sole domain of humans – it’s easier than ever for organizations to leverage intelligent machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629450cfe45063944fd631b9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/",
+      "publishedDateTime": "2022-05-29T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-traffic-jams-just-a-maths-problem-says-israeli-artificial-intelligence-firm.md",
+      "title": "Traffic jams just a maths problem, says Israeli Artificial Intelligence firm",
+      "excerpt": "Israel's traffic congestion ranks near the worst among developed economies but an algorithm can help, says one of the country's IT firms engaged in the auto and mobility sector.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/traffic-jams-just-a-maths-problem-says-israeli-artificial-intelligence-firm-71653794790863.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/traffic-jams-just-a-maths-problem-says-israeli-artificial-intelligence-firm-71653794790863.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/05/30/1600x900/PTI05-23-2022-000061B-0_1653886387458_1653886475677.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/traffic-jams-just-a-maths-problem-says-israeli-artificial-intelligence-firm-71653794790863.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/traffic-jams-just-a-maths-problem-says-israeli-artificial-intelligence-firm-71653794790863.html",
+      "publishedDateTime": "2022-05-29T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-artificial-intelligence-a-gift-for-healthcare.md",
+      "title": "Artificial Intelligence: A gift for healthcare",
+      "excerpt": "From diagnosis to treatment, from prevention to therapeutics, artificial intelligence has made many things possible which had been unachievable before.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/articleshow/91880430.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-91880419,width-1070,height-580,imgsize-156724,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/artificial-intelligence-a-gift-for-healthcare/amp_articleshow/91880430.cms",
+      "publishedDateTime": "2022-05-29T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-new-insights-into-the-complexity-of-the-brain.md",
+      "title": "New Insights Into the Complexity of the Brain",
+      "excerpt": "Neurology research can include information involving brain research, neurological disorders, medicine, brain cancer, peripheral nervous systems, central nervous systems, nerve damage, brain tumors, seizures,",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/computer-neuron-model-20693/",
+      "originalUrl": "https://neurosciencenews.com/computer-neuron-model-20693/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-29T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-i-tried-googles-text-to-image-ai-and-i-was-shocked-by-the-results.md",
       "title": "I tried Google's text-to-image AI, and I was shocked by the results",
       "excerpt": "Text-to-image artificial intelligence programs aren’t anything new. Indeed, existing neural networks like DALL-E have impressed us with their ability to generate simple, photorealistic images ...",
@@ -984,178 +1158,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-lessons-learned-about-ai-from-a-healthcare-technology-startup-leader.md",
-      "title": "Lessons Learned About AI From A Healthcare Technology Startup Leader",
-      "excerpt": "So far, my personal crash course has made healthcare’s massive size and complexity even more apparent, and it occurred to me that others can benefit if I write about my learnings and observations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628ce443a25ac26736ea9402/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
-      "publishedDateTime": "2022-05-27T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company.md",
-      "title": "Biography: Meet Zimbabwe’s Serial Entrepreneur William Sachiti Who Owns UK’s First Black-Owned Driverless Car Company",
-      "excerpt": "From creating digital advertising bins to driverless cars, the serial inventor is not ... In 2015 Sachiti enrolled at Aberystwyth University in Wales, where he studied artificial intelligence and robotics. He kept fledging and flourishing at the university ...",
-      "sourceUrl": null,
-      "webUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
-      "originalUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cy4ad5.c2.acecdn.net/wp-content/uploads/2022/05/william-sachiti-1.jpg",
-          "width": 1200,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
-      "cdnAmpWebUrl": "https://iharare-com.cdn.ampproject.org/c/s/iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
-      "publishedDateTime": "2022-05-27T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iHarare News",
-        "domain": "iharare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to-grow-at.md",
-      "title": "Artificial Intelligence in Marketing Market to grow at",
-      "excerpt": "Artificial intelligence in marketing market report offers a comprehensive analysis by Deployment (On-premise and Cloud) and Geography (North America, APAC, Europe, Middle East, and Africa, and South America) NEW YORK,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-marketing-market-grow-a-cagr-2684-/2022/05/27/9610662.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-marketing-market-grow-a-cagr-2684-/2022/05/27/9610662.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to.md",
-      "title": "Artificial Intelligence in Marketing Market to...",
-      "excerpt": "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27435408",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408",
-      "publishedDateTime": "2022-05-27T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

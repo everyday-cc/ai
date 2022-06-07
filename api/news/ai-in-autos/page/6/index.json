@@ -2,6 +2,83 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-13-aktify-named-winner-in-2022-artificial-intelligence-excellence-awards.md",
+      "title": "Aktify Named Winner in 2022 Artificial Intelligence Excellence Awards",
+      "excerpt": "LEHI, Utah, April 13, 2022 /PRNewswire/ -- Aktify today announced that it has been named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards program. The award recognizes Aktify's achievements in collective intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aktify-named-winner-2022-artificial-intelligence-excellence-awards-/2022/04/13/9582380.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-13-self-driving-car-pulled-over-in-san-francisco-confounding-police-aint-nobody-in-it.md",
+      "title": "Self-driving car pulled over in San Francisco, confounding police. 'Ain't nobody in it.'",
+      "excerpt": "License and registration? The first words police officers use weren't applicable when San Francisco police pulled over a car without a person inside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/tech/2022/04/13/self-driving-car-california-police/7302081001/",
+      "originalUrl": "https://www.freep.com/story/tech/2022/04/13/self-driving-car-california-police/7302081001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/3b8b0abcb585d9841e5193c3d072eed1e5ce62bc/c=0-30-580-356/local/-/media/2017/10/12/USATODAY/usatsports/bolt-cruise-3rd-gen-design-dome-sept-2017_large.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/7302081001",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7302081001",
+      "publishedDateTime": "2022-04-13T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-humans-close-to-losing-autonomy-to-artificial-intelligence.md",
       "title": "Humans Close to Losing Autonomy To Artificial Intelligence?",
       "excerpt": "The biggest change of artificial intelligence will be the loss of autonomy of the human being and by extension of governments. What I mean to say is this: a self driving car is better because it ...",
@@ -1272,83 +1349,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-focus-logistics-giants-hedge-their-bets-in-uncertain-us-self-driving-truck-race.md",
-      "title": "FOCUS-Logistics giants hedge their bets in uncertain U.S. self-driving truck race",
-      "excerpt": "U.S. self-driving truck companies have a golden opportunity in the form of a nationwide driver shortage, but their robot drivers still are not ready and neither are their biggest potential customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race",
-      "originalUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-logistics-giants-hedge-their-bets-in-uncertain-u.s.-self-driving-truck-race?amp",
-      "publishedDateTime": "2022-04-04T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended.md",
-      "title": "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended",
-      "excerpt": "The difference in these cases is that neither Cruise or Waymo are relying on a human to remain continually watchful for danger. Their systems have been developed to a point where regulators are ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/",
-      "originalUrl": "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/10/teslafsdmain.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
