@@ -227,6 +227,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Company halts plans for Taser drone after 9 members of its ethics board resign"
+    excerpt: "The company best known for developing the Taser says it's halting plans to develop a Taser-equipped drone. The decision by Axon comes as a majority of its ethics board resigned over the project."
+    publishedDateTime: 2022-06-07T00:20:00Z
+    webUrl: "https://www.pbs.org/newshour/economy/company-halts-plans-for-taser-drone-after-9-members-of-its-ethics-board-resign"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/economy/company-halts-plans-for-taser-drone-after-9-members-of-its-ethics-board-resign"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/company-halts-plans-for-taser-drone-after-9-members-of-its-ethics-board-resign"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 55
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2022/06/2017-08-24T110519Z_52568189_RC1A44141950_RTRMADP_3_USA-TASER-EXPERTS-1024x655.jpg"
+        width: 1024
+        height: 655
+        isCached: true
   - title: "Axon halts Taser drone work as some on ethics panel said to resign"
     excerpt: "The aim behind such groups is to gather feedback on emerging technologies, such as drones and artificial intelligence software. Smith said it was unfortunate that some members of the ethics advisory panel “have chosen to withdraw from directly engaging ..."
     publishedDateTime: 2022-06-06T03:50:00Z

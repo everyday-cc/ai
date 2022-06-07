@@ -19,45 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Why AI and ML is Reshaping the Fintech Industry"
-    excerpt: "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation"
-    publishedDateTime: 2022-06-02T08:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 58
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg"
-        width: 1800
-        height: 1011
-        isCached: true
-  - title: "AI Fintech TIFIN Announces Launch of Magnifi+ to “Stream” Investing Insights"
-    excerpt: "TIFIN, a Fintech platform using artificial intelligence and \"investment-driven\" personalization, announced the launch of their Magnifi+ platform."
-    publishedDateTime: 2022-06-04T15:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 56
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Find-Search-Money-Seek-Look-Binoculars.jpeg"
-        width: 1280
-        height: 994
-        isCached: true
-  - title: "The AI Leader Trying To Bring More Latin American Women Into The Tech Industry"
-    excerpt: "That’s why she created WaiCAMP by DataRobot University, a scholarship-based seven week bootcamp-style course for women in Latin America to learn applied data science and AI-related skills."
-    publishedDateTime: 2022-06-06T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/amyshoenthal/2022/06/06/the-ai-leader-trying-to-bring-more-latin-american-women-into-the-tech-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
   - title: "The CFPB doesn’t want to play in the fintech sandbox anymore"
     excerpt: "Leaders at the regulator have concluded that a much-hyped “compliance assistance sandbox” and related programs were ineffective."
     publishedDateTime: 2022-06-02T17:22:00Z
@@ -87,20 +48,6 @@ related:
       - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/innovation-labs-2022-1200-1654297965/b731b9466a0788c034d61da77581a56b.png"
         width: 500
         height: 262
-        isCached: true
-  - title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
-    excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
-    publishedDateTime: 2022-06-04T08:08:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-drives-the-industry-shuki-licht-finastr"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/24c71345de77aec9ac814303f0a4806f:bc7561f1492cb253a864292e9bd39724/gettyimages-1152556266.jpg.jpg"
-        width: 1799
-        height: 1010
         isCached: true
 
 secured: "bYzJI7IsQKAaABIJPbpqVq0+nTGyErGx9BWEeSLudt3I3UJ/mt9jtW+m7vrGXw/V0g1K3/vJQ6lI0e2+0uqpF7C6yUj6TrAFb6KiilXRfV4waj3o40JH+m/AZHWOgrDs9prB5qqWqbWyzNuXolsg02z65I7/qCoegyt/dQsd/8rkozvZEssag+fbd+CDK3Ny3xeww4sz47i7zWz5eaEC6PsoNbsu1BzNCDoKPjj3Y5WYpSIw1Bzhkau2ZIlbFHQCUDYYGj0CQYnRR7uxdxI+Q4oOwrKDoPC0LaVO+RTscXZa65Zh4xOJXasm+9rKI6xdfCCgmW3g5li7GZmidTb1vlfY9K/2TTQwrY7cugKQ0SY=;MuUhoTzsJ184vvyxoK419Q=="

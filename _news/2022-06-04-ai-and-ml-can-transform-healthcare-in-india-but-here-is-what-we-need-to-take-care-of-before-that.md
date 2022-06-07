@@ -20,22 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Role of Conversational AI in Healthcare and Pharma industry"
-    excerpt: "Artificial intelligence (AI) techniques that allow machines to learn with minimal human supervision have emerged due to the exponential rise in comput.."
-    publishedDateTime: 2022-06-02T07:08:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-91957736,imgsize-65798,width-1200,height-628,overlay-ethealthworld/role-of-conversational-ai-in-healthcare-and-pharma-industry.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Precision healthcare AI tools eyed by investors"
     excerpt: "AI and ML promise to transform healthcare across the board, but particularly through the use of precision medicine."
     publishedDateTime: 2022-06-02T12:00:00Z

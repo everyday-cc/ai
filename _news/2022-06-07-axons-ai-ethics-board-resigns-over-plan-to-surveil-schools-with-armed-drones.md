@@ -221,6 +221,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Company halts plans for Taser drone after 9 members of its ethics board resign"
+    excerpt: "The company best known for developing the Taser says it's halting plans to develop a Taser-equipped drone. The decision by Axon comes as a majority of its ethics board resigned over the project."
+    publishedDateTime: 2022-06-07T00:20:00Z
+    webUrl: "https://www.pbs.org/newshour/economy/company-halts-plans-for-taser-drone-after-9-members-of-its-ethics-board-resign"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/economy/company-halts-plans-for-taser-drone-after-9-members-of-its-ethics-board-resign"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/company-halts-plans-for-taser-drone-after-9-members-of-its-ethics-board-resign"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 55
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2022/06/2017-08-24T110519Z_52568189_RC1A44141950_RTRMADP_3_USA-TASER-EXPERTS-1024x655.jpg"
+        width: 1024
+        height: 655
+        isCached: true
   - title: "Axon halts Taser drone work as some on ethics panel said to resign"
     excerpt: "The aim behind such groups is to gather feedback on emerging technologies, such as drones and artificial intelligence software. Smith said it was unfortunate that some members of the ethics advisory panel “have chosen to withdraw from directly engaging ..."
     publishedDateTime: 2022-06-06T03:50:00Z
@@ -350,6 +366,6 @@ related:
       domain: abcnews.go.com
     quality: 19
 
-secured: "ThXfb22GB2zKOvvcgZTS/Rbq2K3LisZN8QcIOEgKAzSXJRq+r02XTQVw8YhHEkvq73Uy+OWrvuy6Y4CsOWpcnD/5st7299NsXKs8deeszw2HQaZbXujDoGkIG8DsDo9HJEdV4c547fu5trkq7zUtreKxAMUzngBoRDUV3a8H/viR80RW0Z/k4DsVhxPF2qouHSgVdOA94mTpUWCjybtoSM+updedfIj2DQKqcAZfqlDM7gyiiDjFVWDmJfGwdPeM9zmTPbMC8ak/iPwrQCWJPGVVG9grA7n2KiOjsbF3Qjodxx/vGLI2buk1H0sFvcnukYrwdpYk2fqHz/1WvNakgRrJ/J7tjA7+YycRTcr+6Ec=;u5LoUoLcbOPiJEbsumffEg=="
+secured: "yto21euX4OnRYD/GtH1ohZuFWevTWXafJVd4lqdZniE0T4+KA4Nj++BwcODhoIS4LvZo9GiopWzhiIJX7kFHVdRtCO6vveQlZhztDAUVreiEafJJDfz8k57QUvvIV7AZA/gPbArfLAFVapffdycPw7QHSRWqRruFVmJd91477JaznhadR182OTDVBjybpG2ioV2ylVAen6Ren0Ku80+W7GLlhc4ICkmpEORTeE08FrtUvcpu04xdwBw+GjDjpKXqoXJNsRmDHee1owSsZ5vpLDiD5rL4RonfPdWQF6t454qn4HxVLsigcfU/R1DqMS0XiGCt3AbZt+XGjbFv6/ODSVPDLw0/j+a2P3tK7Y8X4za5m2mGDn2yy7FFE6lkH05vqNitR0ACuYA+/geaHVeDMPXP5Ms4gbSSXctQEtF3i3n0E8fl9nORZAIGcxVf9Q7P4FjdMTTJ6qE5O69kXrdaSaBwP7MnB8NJyskTqVxmrVV2xkWzfHyyl8Ejgq45oDFpAD0NgOU4IF6kLjgMdL87mg==;DlXw8k/LeBBKcPPn4CtvDA=="
 ---
 

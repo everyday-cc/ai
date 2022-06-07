@@ -7,7 +7,7 @@ originalUrl: "https://www.cyberdefensemagazine.com/ai-for-cyber-threat/"
 webUrl: "https://www.cyberdefensemagazine.com/ai-for-cyber-threat/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 697
     height: 526
     isCached: true
-
-related:
-  - title: "AI and ML: Key combatants in the cyber security conflict"
-    excerpt: "Artificial intelligence and its subset machine learning are now key technology partners in the search for improved and faster cyber security processes."
-    publishedDateTime: 2022-06-02T07:15:00Z
-    webUrl: "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 91
-    images:
-      - url: "https://lh3.googleusercontent.com/vYkpjEzwFxX7WoWvv6pXqSmM-0Vy0whE8WTdxfaPH6QwmIIkCRCvWMwPnRKSXbjPfGVTQY5Ls6G5BZ5S9raS7ZY=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
 
 secured: "RnNYfeaVglX0H5LZI9RW0bH4p0PkeecXuegp+nZTs9CIV84SSrtB2T/T4xEvkMqezP2fkpAy/OXbB4WQHxQbLEoJAYb25vD0D6bBMAqVG/Q9YkUq5Ev/cowBBP5KqeF+erIMgb3s2PYAgUcls5nF9PMeQ2OFw+1avG/O4Ao8nnJsd8sAqYNlgGACXCdInLozs9ndpcqQccGd+/H/nPrkl63aNphRxvYZdfnu75C7UQE4Z2NBR566gM7+G7l5VNDWxQZL0mh7CZ1cFbU2JLXlY9l+hswWXevhd+URVheqkfKugYTk1kZ1EYTIyQT77kt7u9FnjvSMRUV8yykPc8L7oW5Kw6XZpGiopo19hhSHmyw=;nTnrco7+mphoQdjb9ippCQ=="
 ---

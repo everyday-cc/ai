@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Do AI systems really have their own secret language?"
-excerpt: "Vicootes’, ‘wa ch zod rea’ and other strings of gibberish seem to have special meanings to state-of-the-art AI models. What’s going on here?"
-publishedDateTime: 2022-06-06T20:01:00Z
-originalUrl: "https://theconversation.com/do-ai-systems-really-have-their-own-secret-language-184335"
-webUrl: "https://theconversation.com/do-ai-systems-really-have-their-own-secret-language-184335"
-ampWebUrl: "https://theconversation.com/amp/do-ai-systems-really-have-their-own-secret-language-184335"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/do-ai-systems-really-have-their-own-secret-language-184335"
+excerpt: "ANALYSIS: “Vicootes”, “wa ch zod rea” and other strings of gibberish seem to have special meanings to state-of-the-art AI models. What’s going on here?"
+publishedDateTime: 2022-06-07T00:18:00Z
+originalUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
+webUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
 type: article
-quality: 57
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Stuff.co.nz
+  domain: stuff.co.nz
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/467100/original/file-20220606-20-1noqrh.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=319&fit=crop"
-    width: 320
-    height: 319
+  - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/8/g/image.related.StuffLandscapeSixteenByNine.1420x800.4yz28k.png/1654561300186.jpg"
+    width: 1420
+    height: 800
     isCached: true
 
 related:
@@ -73,6 +72,6 @@ related:
         height: 820
         isCached: true
 
-secured: "MjD3KYbsy7X/xYkSMNF2Qo3lEfDQxCEMCguX5E8FdeWzoje1X5OdRzrMgJ0cTbHCbffr8T/CDhPGnNqFB4kwQzl7Lv7t/by49LRlQEkENewmVWneKsFPq7kPow0TaZk1R1jAFrP0SKrqpa3JSs423sxppdaYMP7Dj7TmxrErX7KnMm0dFIA4LGaOyEu+MsjtEgdzcGK7WDw60v/gMKAzvaOmpixr+9RUyXn26UrqjKJETaYOSJzC5OlHUn5fOdfwbRJf1U2kaB4ujWm9oATcFX+cicsrYSp3TSju7acZ9sw8ZI2Fk1Hhr3FooRnDYvHtmtbqmsIQDLnOBqWLtZULcJAfodyFwBB9bHVom4fm/Ow=;sonlokiT94TAxPWV55XcPw=="
+secured: "L1MKy5iXrFUcVVMxD1XCxJ8pcnvL9vApmflDm54EkAEz89UdRRPB1DquWksxrVjFI9rZbEPnE4J2HnoUe3dEAqEHQ/d2Vk8iChPta0IrZAFGPJ+x7hIy8j4oFvUMeI0FWe0/+LVgopbGJh+fVUpvweKHNRhbbG9hwU0B6BqvPFOYwsnn6qt5r18duYUHdPYAOG8Zbr4gW0Liu+eAZS+oTzhqojObkmlty4RR8pajLN3LD2Vn+Wf0mQMVfwWCW99a64lT8uzbvuUJCyBzSqM391aipyjKYBEYf/v9hiSOpTU72ohm+9aIMx1Dmjg4cAkauIf/vkwnaJFFR/LRpVxq1mNReGZVzVdULMk8xit4UXY=;/wTz5+gdt2iv1X6pnbY5/Q=="
 ---
 

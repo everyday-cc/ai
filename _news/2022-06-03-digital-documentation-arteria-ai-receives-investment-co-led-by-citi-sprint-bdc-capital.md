@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191818-digital-documentatio
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191818-digital-documentation-arteria-ai-receives-investment-co-led-by-citi-sprint-bdc-capital/amp/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -40,20 +40,6 @@ related:
       - url: "https://www.artificiallawyer.com/wp-content/uploads/2022/06/Screenshot-2022-06-06-at-06.50.40.png"
         width: 1600
         height: 1037
-        isCached: true
-  - title: "Arteria AI Receives Strategic Investment Co-Led by Citi SPRINT and BDC Capital"
-    excerpt: "Arteria AI, a Toronto, Canada-based enterprise digital documentation company, received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,"
-    publishedDateTime: 2022-06-02T09:01:00Z
-    webUrl: "https://www.finsmes.com/2022/06/arteria-ai-receives-strategic-investment-co-led-by-citi-sprint-and-bdc-capital.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 35
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2019/06/delvelabs-440x293.jpg"
-        width: 440
-        height: 293
         isCached: true
 
 secured: "4KGsatfB7lSU4SIcD4G3Ny1k2A28JDL3rLaEBiUJmROT7aJAOLoTn4PLYaK0W9XT2pCE6s9W7h+sUNHZuRqSOJS5QHk5AcM8h7BLgTtebOXdXNuWr3QQSkysal+BRsuWbgKV2ZN85k3tMXXz4mC96DZrUZ+YMEiI7V62BmuXLxnUNxLQ9iXE553QqOoQNtS5UHxYoBO8u1AXGtCAo65kD77YDtlOIaHC/Ix+c9V2ILxDp47/NNZl09r8r3MTMDFxlpjNk5ODE4Oj3G022VtWesB+4t7So7JC2wqcQ9seZmFP9dC1G+LQCbeXxJ9bAOWXVZhHvKIPPRxKIpsVrTyrN4V4+Gfu026WURmLUXwJHNMqnciQVr5rhK5RPVXcnifBDfFmi5cQW5hZ6vHo/O8g2s6++gklINqJgOq5iXe78mePFUjxqxb1ktzfkGCdcxgWQwwE0C9fQislIqCTx7jUFHeN1eFhABUWv3uWqCqnNVX0FGpqO0r01IDG37PzWIWY0EaY+TGZk3EMQEcNygNNSQ==;ZzzSMjRd72Z9Sm6oUFkatQ=="
