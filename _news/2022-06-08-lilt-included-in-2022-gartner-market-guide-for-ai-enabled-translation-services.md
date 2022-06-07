@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Tencent Recognized as a Challenger in 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services"

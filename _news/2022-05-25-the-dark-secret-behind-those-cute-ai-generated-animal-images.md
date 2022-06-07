@@ -20,6 +20,7 @@ topics:
   - AI Ethics
   - AI
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?w=3000"

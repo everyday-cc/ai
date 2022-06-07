@@ -18,6 +18,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/04/AI_abstract_head_shutterstock_ArtemisDiana.jpg"
@@ -25,6 +26,6 @@ images:
     height: 704
     isCached: true
 
-secured: "NS2xWZNXTVF3NUAbuZpt89ZpT/dncxUUJydl/kqhblVtbsFI7kBT2awJcwEmfZano0dOncSXvNjrzTUJBaBwcNcMnLA0yj9kqJT7XQiW9Fsu3ZLxw8CxOu06B8JTgRAyUPIAuCil97WtiCx6tb5vsfzMkFn2t/powu9ubnWqm4Xi1g8ndXRAMhQ/4uNgaNVhkGmHTY+39KZAl6JJbKlch08M9H0yse22Yx0XxY8TQoJeHO9jEMkWndjyhVPgNng0yphNLym0T/tFQjUKCJDKGC5nfX/ZKmZodocFLNHkNc74CYkMSrH0htek94jkMWe6pOp67JKe2ZaXY+DNehhv7kTrcWnSroWdeMBjrKnm8m4=;7WJvfIl/TTprzdofySBnNg=="
+secured: "yhIkLfU6oQsQqAPASxVi8j43uMeG+d82HIQWva4kxkvaM40ETXsi0Drj/Y8MmBvQqfmP0rFolQP6b/D7t0pxJOLQLP/WU/NG9Egt6CG1cZAxUCnC1jLgnhW/J6iN8dqZDTGMLJvlop4oE9cuO15Y1aI/qM/vw1e04ATI9arz7tiASsDZCiWgkdIIAYbeq5wLcvxiGA9SXiVMy+6RDHtKarEpxeKCkufbLkoogP27eDtPZqgt7kH8mnAT4uHLuvJtNvZaXxdr677Y+TXQPidlP0To3NAmCfnQ8Sv2JHReW2Xkux4fGx7CCTfFd4ylIW0moG56M1UtMkgKSBEYWBEcsqJpdC0EMLI14dTWLS6q7elTvcFhCI9bf6HvGBV3vYhEHedLD1VL5VbUIr2Qfi5D2G3kcaTA7gr30v20SL3/+1vBZ+SlhdGF21EcbB4dx9MGuGiKEMyuG9noJimD+G0P/IHWx3jjgykofVVckt5NI7FhOzwR3MUJ7yQcmFXF7anPeESd5DP1xDO4YhN0YST2zw==;mqJXAFIvSbljjnh+39HdrA=="
 ---
 

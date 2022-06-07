@@ -19,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
-    width: 2310
-    height: 1297
-    isCached: true
-
-secured: "/+mmJB/l4DdpHKfE8zSep2KM1ZZyae19Vm4vHeWCoKgGS2J2k1F4zTupLejA1qekGH0CUFnTGW8vc7l5u1ykLvrseSYvPW9LZSPd2geZgzwWkB9zaCtBwyUUehPqwHWozW/iHi0cXw82n+MTBEpVwqt/IyRsMDcI5+kxkuL7h6zommqzS+BH3BtKvKjmbi/6YdEi73RKRx3vBT7Nk8uxasN0cZ3uwm6yjUnpkfgoGD97hDdM22RJ5vk+RwmdVp6iObFWf/XLXLB8gCCzT9jB9Rs8PTsREf67YOC5d346cG/BN7ehpOPEgkgIr8NvsqdL1ZiYAKwLb4Gb5CCFddlxf9p4wo+pkP0uWERWsM154J0=;LmTTGybTjWxTsJjM/gP0lw=="
+secured: "XnAIPJyryOj6PF7QJHpxloymPZAOoxKhEMaJzvg55Gp19mF8JsN2ajLnTfgQQhiQbOE9EImIvurbeWnB/+dn6dnEDOTuwljG8pAJdTmfHnA6ofYyA01HcSr2lCFcQ6JFP2Ymh0W0gqG2wLhpUzbT8RXTh+ENsWo+tp4Ua3/jgIynRrs1VUkCyHbjbe52R0oJmCgel6emHeSN+trxPa29tTxMa2laKXu7USbGxxccB08fL3pcfo4jBDupXcrdGVGFW1i9gvqkm6ZG6ul9lGzykHORNHiiuGCSBMQewl2K7+f7QbbWofySBqG/cxokw4sA6CFJnNMl+d7cqH0qPnCtmhVEAV0SDqP5LbvgwY09z0eCRjZTd6xk7wc5uSm2bhd25Jj/zyiJgMdbyHRoYbXPT7MNltTGoc85jdbZ6FFRzIMA/nK25iuhYi/ZJxK/p7kspEx5BNyseSVD6VqsdmscgLiedDAcd3NMXkAmiOVm6cRql/M6MCGx5J9HcjlXw+rYzt/iasrqLEmQUMgzW1ToGQ==;y0bBkDnuP/MFKNi5HGkLYQ=="
 ---
 

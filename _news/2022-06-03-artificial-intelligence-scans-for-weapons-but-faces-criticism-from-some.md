@@ -5,12 +5,7 @@ excerpt: "Ellenbogen is the founder of a company called Evolv. Inside the compan
 publishedDateTime: 2022-06-03T15:28:00Z
 originalUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
 webUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
-ampWebUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
-cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
 type: article
-quality: 56
-heat: 56
-published: false
 
 provider:
   name: ABC Action News
@@ -19,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "7LEY2ACEHwvy6IxwNRGiESD5z+46OBtYD4DM/9qI1sNx9j3r97xImW2DiJiX/fFimKgeC+F5tyWpHR79Ky1cwSTxRUBPBMg8nL8rZmNU1CiF9uBi2T5UeZjpD8/GYZlmCCxK7iaO02IjB/133yJEU2UdZ1+04kNz8pxzgtaev2tJUqQkfEAmv75ZdmZ51AbeabqeHSSq4/bAieA8BFfH3pZViKLAMkXW7GsKl8gSFPR0IZfRW53b4aAJDWXqstuPTvvkmLBY1QdcSB8BsjhaRS37sudgJ5Jm/5PmHDIT+sErNOpt3wPFsHnxBIuEWokIPMQt3kJ+5EuWO3FOek/YK69gIx1+IQ6KzClMmBbnFvM=;+nJXs8YOZyB56c1Ep61IGw=="
+secured: "7ZjhMth0CXHELc2nvm7iYaM5/izgUf4qg1MCCUnDiVZSLuEcqp40+Dkndzz6tWl018IlmtASxVIinSTKUPz4bdRRqbqqVGndscF9KgRnER0rANEd0US5h9i0Xwz42qumNQW1daCEixQkhz56GtFg14ojZusebqYQatYosR43WH5gkH2pj48x/bF37SZTL4YaskWaDIMMBZ4VD9V6gFl/ASEunf1t7/KEi+peRQCdhFZ/9HjF+lADmp/SFoZO6euYN1jhV9qysJLgq7LYXjpu/6fMx/96lXemrNUco1gHQU9ZXXYDZDF/Yz+oXkUNInD9Vi+aamCVJnWH8NQD5EiCr3Ib7N2PKC0lpffusG0ngM77zk0opFnbKRorkbWr8F8g+e7vtAC5oi0ZHQUjOuO5KCJPAWe6OSeGPmdImTHy23gP/7NYuKcibe3RG2OKW3OuURct2G1iTN3qw2saZ2Qg8yllhTUuCU4r8gejnKMriqtZk7akO2CTxdYDT11nJ3RDm5RM4bOL0jineSbR1CIdZA==;6T5S1XoevtQqsmja9GkiQA=="
 ---
 
