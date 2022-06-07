@@ -2,6 +2,678 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-02-22-why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare.md",
+      "title": "Why Developing Decision Intelligence And Support Is The Crucial Next Step For AI In Healthcare",
+      "excerpt": "To be clear, much of what is commonly dubbed \"artificial intelligence\" today doesn't really live up to the definition. In healthcare, particularly, plenty of purportedly AI-powered solutions merely represent long-overdue IT automation implementations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6205174d5de155a4329ea195/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/why-developing-decision-intelligence-and-support-is-the-crucial-next-step-for-ai-in-healthcare/amp/",
+      "publishedDateTime": "2022-02-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-microsoft-reveals-singularity-ai-infrastructure-service.md",
+      "title": "Microsoft reveals ‘Singularity’ AI infrastructure service",
+      "excerpt": "Microsoft Azure and Research teams are working together to build a new AI infrastructure service, called Unity. The Unity Team is working to build what Microsoft describes in some of its team operations as a new AI service from the beginning platform that ...",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Microsoft-reveals-Singularity-AI-infrastructure-service-01.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/microsoft-reveals-singularity-ai-infrastructure-service/amp/",
+      "publishedDateTime": "2022-02-22T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers.md",
+      "title": "Sustainable AI Turns Small Data Into Huge Results For Manufacturers And Researchers",
+      "excerpt": "Just ask some of the customers from Hacarus, a Japan-based startup that’s developed a standout AI-fueled visual inspection solution. Manufacturers and medical researchers have discovered sparse modeling is the sustainable antidote to traditional AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620a7008f65109a2886f0b25/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/02/22/sustainable-ai-turns-small-data-into-huge-results-for-manufacturers-and-researchers/amp/",
+      "publishedDateTime": "2022-02-22T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation.md",
+      "title": "Making Sense Of The 'Unknown' With Data Intelligence And Hyperautomation",
+      "excerpt": "Analysts like Gartner propose that robotic process automation (RPA), low-code application platforms, integration platform as a service (iPaaS), artificial intelligence (AI), intelligent document processing and other streamlining hyperautomation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f5a781e94c16200363132d/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/22/making-sense-of-the-unknown-with-data-intelligence-and-hyperautomation/amp/",
+      "publishedDateTime": "2022-02-22T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-key-learnings-for-financial-brands-to-use-in-2022.md",
+      "title": "Key Learnings For Financial Brands To Use In 2022",
+      "excerpt": "Dmitry Dolgorukov is the Co-Founder and CRO of HES Fintech, a leader in providing financial institutions with intelligent ... So how can brands engage artificial intelligence (AI) and machine learning (ML) effectively to get tangible results?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee0f9275f89c800062e36cd/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/22/key-learnings-for-financial-brands-to-use-in-2022/amp/",
+      "publishedDateTime": "2022-02-22T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-facilio-which-develops-ai-powered-property-management-software-nabs-35m.md",
+      "title": "Facilio, which develops AI-powered property management software, nabs $35M",
+      "excerpt": "GE Digital’s Predix and startup Petasense offer similar Wi-Fi-enabled, cloud- and AI-driven monitoring sensors. And Sidewalk Labs and Carbon Relay boast products that leverage sensor data to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/",
+      "originalUrl": "https://venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1282120747-e1638981626372.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/22/facilio-which-develops-ai-powered-property-management-software-nabs-35m/amp/",
+      "publishedDateTime": "2022-02-22T02:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-apple-looks-to-korean-company-for-chips-for-its-self-driving-car.md",
+      "title": "Apple looks to Korean company for chips for its self-driving car",
+      "excerpt": "Apple's much written about autonomous car project cannot seem to let go off its Korean connection. It was initially rumoured that the project was to be handled by Hyundai and Kia. But they pulled out eventually. Yet, Apple continued to be in talks with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/apple-looks-to-korean-company-for-chips-for-its-self-driving-car",
+      "originalUrl": "https://www.techradar.com/in/news/apple-looks-to-korean-company-for-chips-for-its-self-driving-car",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zpTknw8wuFKPVDf9pdG3Re-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-vision-elements-joins-nvidia-metropolis-partner-program-to-provide-state-of-the-art-development-services-for-vision-ai-applications.md",
+      "title": "Vision Elements Joins NVIDIA Metropolis Partner Program, to Provide State-of-the-Art Development Services for Vision AI Applications",
+      "excerpt": "Vision Elements, a leading service provider offering customized research and algorithm development services for computer vision and artificial intelligence (AI), today announced it has joined the NVIDIA Metropolis Partner Program, which is designed to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220222005211/vision-elements-joins-nvidia-metropolis-partner-program-to-provide-state-of-the-art-development-services-for-vision-ai-applications",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220222005211/vision-elements-joins-nvidia-metropolis-partner-program-to-provide-state-of-the-art-development-services-for-vision-ai-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-22T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-voice-recognition-technologies-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2027.md",
+      "title": "Voice Recognition Technologies Market 2022: Demand, Market Share, Trend, Business Growth, Prime Key Players Analysis and Forecast by 2027",
+      "excerpt": "Global \"Voice Recognition Technologies\" Market (2022-2027) report identifies Sales of Market by regional analysis",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-recognition-technologies-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2027-2022-02-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-recognition-technologies-market-2022-demand-market-share-trend-business-growth-prime-key-players-analysis-and-forecast-by-2027-2022-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-report-on-deep-learning-processor-chip-market-outlook-2022-analysis-by-technological-trends-industry-share-and-future.md",
+      "title": "Report On Deep Learning Processor Chip Market Outlook 2022 Analysis By Technological Trends, Industry Share And Future",
+      "excerpt": "Feb 22, 2022 (The Expresswire) -- \"The Global Deep Learning Processor Chip Market research report concentrates on the product of this market that is traded. It explains all the aspects like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/report-on-deep-learning-processor-chip-market-outlook-2022-analysis-by-technological-trends-industry-share-and-future-2022-02-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/report-on-deep-learning-processor-chip-market-outlook-2022-analysis-by-technological-trends-industry-share-and-future-2022-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T19:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-deep-learning-chipset-market-size-sale-2022-drivers-and-applications-are-pertinent-for-sustenance-during-the-forecast-period-2026.md",
+      "title": "Deep Learning Chipset Market Size, sale 2022 drivers and applications are pertinent for sustenance during the forecast period 2026",
+      "excerpt": "Global “ Deep Learning Chipset Market” By Type (Graphics Processing Units (GPUs), Central Processing Units (CPUs), Application Specific Integrated Circuits (ASICs)), By Application ( Consumer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-sale-2022-drivers-and-applications-are-pertinent-for-sustenance-during-the-forecast-period-2026-2022-02-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-sale-2022-drivers-and-applications-are-pertinent-for-sustenance-during-the-forecast-period-2026-2022-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-driverless-cars-technology-brings-dream-a-step-closer.md",
+      "title": "Driverless cars: Technology brings dream a step closer",
+      "excerpt": "At this month’s CES technology show in Las Vegas, chipmaker Nvidia launched the Drive PX 2 in-­vehicle artificial intelligence platform for driverless operation. Nvidia says the PX2 has the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a",
+      "originalUrl": "https://www.theaustralian.com.au/business/technology/driverless-cars-technology-brings-dream-a-step-closer/news-story/cf07ac9cdf48b0934551afe33acbb71a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-self-driving-cars-an-epidemic-of-questionable-assertions.md",
+      "title": "Self-Driving Cars: An Epidemic Of Questionable Assertions",
+      "excerpt": "Self-driving vehicles require relentless scrutiny. However, some fundamental misunderstandings cause industry observers to make broad definitive statements with very little to back up their conclusions. To respond each time would be one long game of Whack ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardbishop1/2022/02/21/self-driving-cars-an-epidemic-of-questionable-assertions/",
+      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2022/02/21/self-driving-cars-an-epidemic-of-questionable-assertions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604028248716bfd54e0df5bf%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2022/02/21/self-driving-cars-an-epidemic-of-questionable-assertions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2022/02/21/self-driving-cars-an-epidemic-of-questionable-assertions/amp/",
+      "publishedDateTime": "2022-02-21T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-22-nice-alliance-provides-total-solutions-to-accelerate-expansion-of-ecosystem-with-launch-of-platform-as-a-service-paas-powered-by-microsoft.md",
+      "title": "NICE Alliance Provides Total Solutions to Accelerate Expansion of Ecosystem With Launch of Platform as a Service (PaaS) Powered by Microsoft Azure",
+      "excerpt": "Scenera's managed PaaS relies on Azure infrastructure and help its customers to maximize the edge AI computing capabilities.\" said David Lee, CEO of Scenera inc. Acceleration of Time-to-Market and Quality Improvement: Utilizing the solutions allows NICE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/02/b25741040/nice-alliance-provides-total-solutions-to-accelerate-expansion-of-ecosystem-with-launch-of-platfor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/b25741040/nice-alliance-provides-total-solutions-to-accelerate-expansion-of-ecosystem-with-launch-of-platfor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25741040",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25741040",
+      "publishedDateTime": "2022-02-21T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-22-general-motors-autonomous-driving-unit-cruise-is-seeking-nhtsa-approval-to-deploy-vehicles-without-steering-wheels-or-brake-pedals.md",
       "title": "General Motors' Autonomous Driving Unit Cruise is Seeking NHTSA Approval to Deploy Vehicles Without Steering Wheels or Brake Pedals",
       "excerpt": "General Motors’ autonomous driving unit Cruise has petitioned the U.S. National Highway Traffic Safety Administration (NHTSA) for permission to deploy the Cruise Origin driverless shuttle on roads in the U.",
@@ -534,660 +1206,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.md",
-      "title": "A Look at What’s Next in AI, Virtual Collaboration, and Beyond",
-      "excerpt": "Choose from 900+ sessions across robotics, speech AI, data science, and more The conference is packed with talks from the brightest minds in the business. With over 900 sessions to choose from, you’ll find the insights needed to accelerate your life’s work: whether you’re fascinated by robotics research;",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
-      "originalUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/02/2158900-gtc22-spring-digital-advertorial-bnr-1200x675-engb-100919670-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3650474/a-look-at-whats-next-in-ai-virtual-collaboration-and-beyond.amp.html",
-      "publishedDateTime": "2022-02-21T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-irs-adds-option-that-lets-taxpayers-skip-facial-recognition.md",
-      "title": "IRS Adds Option That Lets Taxpayers Skip Facial Recognition",
-      "excerpt": "The Internal Revenue Service on Monday said it has enabled a new option that allows taxpayers to sign up for online accounts with the agency without the use of any biometric data, including facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "originalUrl": "https://www.cnet.com/personal-finance/taxes/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 319,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/7betrcU9jHZ1tSz-tNe_qVOBzRw=/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-adds-option-that-lets-taxpayers-skip-facial-recognition/",
-      "publishedDateTime": "2022-02-21T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-self-driving-trucks-still-need-humans.md",
-      "title": "Self-driving trucks still need humans",
-      "excerpt": "The future of autonomous trucking requires the definition of a man-machine interface that can handle every operational situation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/self-driving-trucks-still-need-humans/",
-      "originalUrl": "https://www.techrepublic.com/article/self-driving-trucks-still-need-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2014/03/truck_849x565_031814.jpg?x23932",
-          "width": 849,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/self-driving-trucks-still-need-humans/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/self-driving-trucks-still-need-humans/amp/",
-      "publishedDateTime": "2022-02-21T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-ongoing-investigation-notice-the-schall-law-firm-encourages-investors-in-c3ai-inc-with-losses-of-100000-to-contact-the-firm.md",
-      "title": "ONGOING INVESTIGATION NOTICE: The Schall Law Firm Encourages Investors in C3.ai, Inc. with Losses of $100,000 to Contact the Firm",
-      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / February 21, 2022 / The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/02/ac25738076/ongoing-investigation-notice-the-schall-law-firm-encourages-investors-in-c3-ai-inc-with-losses-of",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/02/ac25738076/ongoing-investigation-notice-the-schall-law-firm-encourages-investors-in-c3-ai-inc-with-losses-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25738076",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25738076",
-      "publishedDateTime": "2022-02-21T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-how-ai-is-changing-data-infrastructure.md",
-      "title": "How AI is changing data Infrastructure",
-      "excerpt": "The impact artificial intelligence (AI) is having on enterprise data processes and workloads is well-documented, as is its capability to monitor and manage complex systems. But what is not widely reco",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/subspace-globe.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/21/how-ai-is-changing-data-infrastructure/amp/",
-      "publishedDateTime": "2022-02-21T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-israeli-ai-edtech-startup-magnilearn-joins-forces-with-korean-education-company.md",
-      "title": "Israeli AI EdTech startup MagniLearn joins forces with Korean education company",
-      "excerpt": "MagniLearn has partnered with Korean company BELT English to integrate its AI learning platform across schools in South Korea.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-696959",
-      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-696959",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/496600",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-696959/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-696959/amp",
-      "publishedDateTime": "2022-02-21T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-teslas-autopilot-feature-is-reportedly-being-investigated-by-german-regulators.md",
-      "title": "Tesla's Autopilot feature is reportedly being investigated by German regulators",
-      "excerpt": "Tesla's Autopilot is being probed by regulators at Germany's Federal Motor Transport Authority, according to newspaper Bild am Sonntag.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/21/teslas-autopilot-feature-is-reportedly-being-investigated-in-germany.html",
-      "originalUrl": "https://www.msn.com/en-us/news/other/teslas-autopilot-feature-is-reportedly-being-investigated-by-german-regulators/ar-AAU7wNh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1629294162",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/21/teslas-autopilot-feature-is-reportedly-being-investigated-in-germany.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/21/teslas-autopilot-feature-is-reportedly-being-investigated-in-germany.html",
-      "publishedDateTime": "2022-02-21T04:22:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2022/02/21/teslas-autopilot-feature-is-reportedly-being-investigated-in-germany.html",
-        "domain": "com/2022/02/21/teslas-autopilot-feature-is-reportedly-being-investigated-in-germany.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-artificial-intelligence-the-future-is-data-capture-not-machine-learning.md",
-      "title": "Artificial Intelligence: The future is data capture, not machine learning",
-      "excerpt": "Adoption of Artificial Intelligence (AI) has accelerated since the pandemic hit as the whole world moved towards digitization. A study by Oxford University and Yale University indicates that AI will outperform humans in many",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-the-future-is-data-capture-not-machine-learning/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-the-future-is-data-capture-not-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-the-future-is-data-capture-not-machine-learning/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-the-future-is-data-capture-not-machine-learning/",
-      "publishedDateTime": "2022-02-21T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-the-station-delorean-teases-an-ev-vw-and-hauwei-are-talking-and-feds-investigate-tesla.md",
-      "title": "The Station: DeLorean teases an EV, VW and Hauwei are ‘talking’ and feds investigate Tesla",
-      "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your central hub for all past,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/21/the-station-delorean-teases-ev-vw-hauwei-are-talking-feds-investigate-tesla/",
-      "originalUrl": "https://techcrunch.com/2022/02/21/the-station-delorean-teases-ev-vw-hauwei-are-talking-feds-investigate-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/Screen-Shot-2022-02-20-at-6.17.54-PM.png?w=1024",
-          "width": 1023,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/21/the-station-delorean-teases-ev-vw-hauwei-are-talking-feds-investigate-tesla/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/21/the-station-delorean-teases-ev-vw-hauwei-are-talking-feds-investigate-tesla/amp/",
-      "publishedDateTime": "2022-02-21T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-leveraging-ai-to-decrease-potential-logistics-costs.md",
-      "title": "Leveraging AI to decrease potential logistics costs",
-      "excerpt": "Artificial intelligence (AI) has now become an all-pervasive technology that is being increasingly seen as the panacea for almost all the challenges in different business verticals. From customer support to analysing diagnostic reports,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/leveraging-ai-to-decrease-potential-logistics-costs/",
-      "publishedDateTime": "2022-02-21T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-y-combinator-startup-nanonets-uses-ai-to-extract-data-from-documents-check-out-the-17-slide-pitch-deck-it-used-to-raise-10-million.md",
-      "title": "Y Combinator startup Nanonets uses AI to extract data from documents. Check out the 17-slide pitch deck it used to raise $10 million.",
-      "excerpt": "Nanonets' software uses machine learning to make it easier for enterprises to extract data from documents, such as scanned invoices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-startup-nanonets-raises-10m-pitch-deck-2022-2",
-      "originalUrl": "https://www.businessinsider.com/ai-startup-nanonets-raises-10m-pitch-deck-2022-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/620ba2d916a6300018c90e1c?width=1200&format=jpeg",
-          "width": 971,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-21T00:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-cerence-expands-cloud-capabilities-for-korean-drivers-through-interoperability-with-kts-ai-assistant-giga-genie.md",
-      "title": "Cerence Expands Cloud Capabilities for Korean Drivers through Interoperability with KT's AI Assistant, GiGA Genie",
-      "excerpt": "CloseCurlyDoubleQuote; Cerence Cognitive Arbitrator makes it fast and easy for automakers to build in-car voice systems that deliver co-existence between the wide variety of virtual assistants, third-party services, and content – including KT&CloseCurlyQ ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/17/cerence-expands-cloud-capabilities-for-korean-drivers-through-interoperability",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/17/cerence-expands-cloud-capabilities-for-korean-drivers-through-interoperability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-20T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market Is Anticipated Grow Aggressively during 2022 to 2028",
-      "excerpt": "Feb 21, 2022 (Market Insight Reports) -- Global Computer Vision in Artificial Intelligence (AI) Market Insights, Regional Analysis, Market Share & Competitive Analysis The Computer Vision in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028-2022-02-21?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-is-anticipated-grow-aggressively-during-2022-to-2028-2022-02-21?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-20T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-21-the-best-robot-dinosaur-toy.md",
-      "title": "The best robot dinosaur toy",
-      "excerpt": "You'll see many robot dinosaur toys sold with a remote control. This technological tool ... The image that comes to mind when most people think of dinosaurs is a mighty roar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/consumer-reviews/sns-bestreviews-games-best-robot-toy-20220221-2zzwt3h5grhkpble7ltlzt5zbq-story.html",
-      "originalUrl": "https://www.nydailynews.com/consumer-reviews/sns-bestreviews-games-best-robot-toy-20220221-2zzwt3h5grhkpble7ltlzt5zbq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/umF2aZ6ABk--EEpHZHpPRZe6s6o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SDDOV7PNZVIOUQL2FX276RU4YU.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-20T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

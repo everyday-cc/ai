@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-25-cast-ai-puts-out-report-on-extent-of-enterprises-cloud-resource-overspend.md",
+      "title": "CAST AI puts out report on extent of enterprises cloud resource overspend",
+      "excerpt": "A report from cloud startup CAST AI claims companies running cloud-native applications typically spend three times as much as they need on resources because of over-provisioning. The startup, which hopes to convince users to consider its platform as a way to control the problem,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm",
+      "originalUrl": "https://www.theregister.com/2022/04/25/cast_ai_cloud_spending/?td=amp-keepreading-btm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/01/20/shutterstock_cluster.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/25/cast_ai_cloud_spending/",
+      "publishedDateTime": "2022-04-25T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-mastercards-digital-transactions-deploys-microsoft-ai-to-improve-fraud-protection.md",
       "title": "Mastercard's Digital Transactions deploys Microsoft AI to improve fraud protection",
       "excerpt": "The two companies are combining their innovative technologies to better protect consumers from an increasingly prevalent form of digital fraud.",
@@ -1225,58 +1268,6 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-microsoft-goes-all-in-on-hybrid-cloud-and-edge-at-ignite-2019.md",
-      "title": "Microsoft Goes All-In On Hybrid Cloud And Edge At Ignite 2019",
-      "excerpt": "Azure Synapse is integrated with Power BI and Azure Machine Learning, which should allow customers to apply ML models and derive insights from all their data. Going back to that trust thing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2019/11/11/microsoft-goes-all-in-on-hybrid-cloud-and-edge-at-ignite-2019/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2019/11/11/microsoft-goes-all-in-on-hybrid-cloud-and-edge-at-ignite-2019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5dc9809de0af7b0006b10d6f/0x0.jpg?format=jpg&crop=4032,2268,x0,y432,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2019/11/11/microsoft-goes-all-in-on-hybrid-cloud-and-edge-at-ignite-2019/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2019/11/11/microsoft-goes-all-in-on-hybrid-cloud-and-edge-at-ignite-2019/amp/",
-      "publishedDateTime": "2022-04-11T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

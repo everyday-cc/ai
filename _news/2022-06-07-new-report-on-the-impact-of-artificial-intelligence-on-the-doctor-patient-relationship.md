@@ -48,6 +48,15 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 17
+  - title: "AI standards essential to protect doctor-patient relationships and human rights"
+    excerpt: "Clear ethical standards and guidance must be in place for use of Artificial Intelligence in health settings to protect the relationship of trust between doctors and patients and to safeguard human rights,"
+    publishedDateTime: 2022-06-07T12:46:00Z
+    webUrl: "https://medicalxpress.com/news/2022-06-ai-standards-essential-doctor-patient-relationships.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 15
 
 secured: "heEDEy4/edn/5T7Sq0SjNnzCmEz5+PuKDrCJfnUSfJq7HU41QJ34Str8TAoFGxwHwH4OWLHmONFuCDC9HWdT2mwA+FnTlVFL5+fKDGY23Q6zMQtFljrxfbq+F/MFhDgMN4uAUhRq6NRPotCrP9MYyH4Jndm+JWsG40uErEk/5Ot/YhjsEpOGfpevbK0c8oGgU+MWSn6Gn+kNTq8rDfOBTQ0E0SaB4kVVvy2gq2vsEQpLpurOH1YT+LTeFCDRoqFuWRo6fLobLT4s8hkRnk1qkTJ5uP+NmAjqxlyjRhwSczmO25BdMOSUmNxA6B0/6t1WMn95mbFMLtO3pfzShNvxR6dUqPJiT+4mOTxXekryKsycin4VSOfjRgBLctxWwUbH2kqQ4ZV/G9Xt7vlSGBPNaCoEremrB/AntW6VqwhNYwE6s8f6HfnoP9Kn8cv04oT106bv2G4pnsheuf9vBchXHLWxdXC0G+/9hiZuDyuQI7yRlju7ZX/BkcI8VQenKcQvrVSBlQXOFXZSz5slwBUIVw==;9U3EfI8LuYdihO+Jcojauw=="
 ---

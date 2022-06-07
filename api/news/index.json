@@ -2,6 +2,482 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-07-gantry-launches-out-of-stealth-to-help-data-scientists-keep-ai-models-fresh.md",
+      "title": "Gantry launches out of stealth to help data scientists keep AI models fresh",
+      "excerpt": "The demand for AI in the enterprise is insatiable ... the co-founder of industrial robotics startup Covariant. “Our product helps machine learning engineers use the data that is flowing through ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/07/crunch/",
+      "originalUrl": "https://techcrunch.com/2022/06/07/crunch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1308719817.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/07/crunch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/07/crunch/amp/",
+      "publishedDateTime": "2022-06-07T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-waymo-and-uber-partner-to-deploy-self-driving-trucks-at-scale.md",
+      "title": "Waymo and Uber Partner to Deploy Self-Driving Trucks at Scale",
+      "excerpt": "Waymo and Uber are partnering to make it easier for shippers and carriers to use autonomous trucks. This is another step towards making self-driving semi trucks mainstream and widely available. It's easy to think of self-driving cars as the main battleground for autonomy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-and-uber-partner-trucking/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-and-uber-partner-trucking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/a9ec5b2725e71857fb4bc61733b794bcdc7ca812/2022/06/07/3f662fc3-12e2-4d72-9fe9-ace4456b9bc8/waymo-via-uber-freight-ogi.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/",
+      "publishedDateTime": "2022-06-07T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving.md",
+      "title": "AI Ethics Alarmed At The Rise In Underhanded Juicing Or Doping Of AI Machine Learning By Trusted Insiders, Including Autonomous Self-Driving Cars",
+      "excerpt": "Worries are that juicing or doping of AI Machine Learning is gaining traction, an AI Ethical woe and dangerous, including for the case of AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628ab0b5c6b6ddedd0fce126/0x0.jpg?format=jpg&crop=2647,1765,x0,y128,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-06-07T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-amazon-india-announces-machine-learning-summer-school.md",
+      "title": "Amazon India announces Machine Learning summer school",
+      "excerpt": "Hyderabad: Amazon India on Tuesday launched the second edition of Machine Learning (ML) Summer School, an immersive programme that aims to provide",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school",
+      "originalUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://telanganatoday.com/wp-content/uploads/2022/06/amazon-67.jpg",
+          "width": 680,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp",
+      "publishedDateTime": "2022-06-07T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report.md",
+      "title": "AI may be more effective than humans for business use cases: Redbox report",
+      "excerpt": "Industries like healthcare and ecommerce are utilizing AI to enhance employees’ productivity by simplifying monotonous office tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/",
+      "originalUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1307770579-e1652718837966.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/amp/",
+      "publishedDateTime": "2022-06-07T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-lunit-to-accelerate-ai-powered-medical-service-at-military-hospitals.md",
+      "title": "Lunit to accelerate AI-powered medical service at military hospitals",
+      "excerpt": "Lunit to supply chest x-ray analysis AI software to military hospitals nationwide in Korea for better detection of critical lung diseases,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lunit-to-accelerate-ai-powered-medical-service-at-military-hospitals-1031513838",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lunit-to-accelerate-ai-powered-medical-service-at-military-hospitals-1031513838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1834531/LUNIT_INSIGHT_CXR.jpg",
+          "width": 400,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning.md",
+      "title": "Teal Is Revolutionizing The Career Journey With Tech, AI And Machine Learning",
+      "excerpt": "However, there is a startup that can help level the playing field. David Fano, founder and CEO of Teal, created a machine learning and AI- based careertech platform to help job seekers and people who want to advance their careers. Fano said, “In the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2022/06/07/teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2022/06/07/teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-regie-automates-sales-and-marketing-content-creation-with-ai.md",
+      "title": "Regie automates sales and marketing content creation with AI",
+      "excerpt": "Startup Regie, which was founded in 2020, has been building out an AI-powered content generator for sales and marketing. The Regie technology makes use of the GPT-3 natural language model from ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/07/regie-automates-sales-and-marketing-content-creation-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/06/07/regie-automates-sales-and-marketing-content-creation-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience.md",
+      "title": "Bengaluru Airport Introduces AI Robots For Enhanced Passenger Experience",
+      "excerpt": "Currently at the trial stage, these 10 robots have been deployed at the airport to help guide passengers and answer basic queries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
+      "originalUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/05/bengaluru-airport.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
+      "publishedDateTime": "2022-06-07T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale.md",
+      "title": "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale",
+      "excerpt": "AWS RoboMaker Enables Miso to Run Hundreds of Simulations to Ensure Software StabilityPASADENA, Calif., June 7, 2022 /PRNewswire/ -- Today, Miso",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-can-a-recruiting-robot-be-ethical.md",
       "title": "Can A Recruiting Robot Be Ethical?",
       "excerpt": "Ethics as they relate to AI and hiring employees can be divided into 4 categories: Fairness, Accountability, Privacy and Transparency. It is my feeling that transparency should be the first priority. Without transparency there is no place to start the ...",
@@ -55,6 +531,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-07-open-banking-fintech-bud-inks-80m-funding-round.md",
+      "title": "Open banking fintech Bud inks $80m funding round",
+      "excerpt": "Series B funding, led by Bellis Phantom Holdco, an indirect affiliate of investment funds managed by TDR Capital. The investment, which was also backed by existing investors including Outward VC, will be used to develop the firm’s models and allow for further international expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/",
+      "originalUrl": "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2022/06/BUD.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1",
+      "publishedDateTime": "2022-06-07T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-ampd-ventures-signs-deal-with-variational-ai-to-double-its-machine-learning-capacity-at-dc1.md",
       "title": "AMPD Ventures signs deal with Variational AI to double its machine learning capacity at DC1",
       "excerpt": "The deal will nearly double the machine learning capacity supplied by the AMPD AI Platform to Variational, the company said",
@@ -94,57 +613,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming.md",
-      "title": "AI-Powered Hong Kong Biotech Startup Raises $60 Million From Top VCs Including B Capital, Qiming",
-      "excerpt": "Insilico Medicine uses AI to speed up drug research for diseases like cancer. Before starting Insilico Medicine in 2014, Zhavoronkov founded Deep Longevity, another AI-powered healthcare startup in Hong Kong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/",
-      "originalUrl": "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629f13ed0c991cb629d8d39f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/",
-      "publishedDateTime": "2022-06-07T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -261,7 +729,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -727,472 +1195,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers.md",
-      "title": "Cool, Cutting-Edge AI Videos Will Change How Companies Communicate With Their Workers",
-      "excerpt": "D-ID is launching a new platform that produces uniquely personalized and engaging e-learning, corporate training and marketing AI video content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//617c1ef97d3ecf82b2fcf7db/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/amp/",
-      "publishedDateTime": "2022-06-06T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-neural-networks-dont-work-like-the-human-brain-because-they-learn-differently.md",
-      "title": "Neural networks don’t work like the human brain because they ‘learn’ differently",
-      "excerpt": "We’re told neural networks ‘learn’ the way humans do. A neuroscientist explains why that’s not the case — and why AI can't think like us yet.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/neural-networks-dont-work-like-the-human-brain-because-they-learn-differently",
-      "originalUrl": "https://thenextweb.com/news/neural-networks-dont-work-like-the-human-brain-because-they-learn-differently",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-conversational-ai-trends-forecasts-application-options.md",
-      "title": "Conversational AI: Trends, Forecasts, Application Options",
-      "excerpt": "Text-to-speech dictation and language translation are two ways AI can help with accessibility. This can in turn help companies reduce entry barriers and become more accessible. As can be seen from above, AI chatbots and apps can reduce time and improve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629a305769a5cdb9454fcbbb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
-      "publishedDateTime": "2022-06-06T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever.md",
-      "title": "As The Society Grows Older, Will Cognitive Robotics Become More Relevant Than Ever?",
-      "excerpt": "Robots can be very relevant in elderly care, offering companionship, assistance in doing mundane tasks, feeding and cleaning the owner and more. They can be preprogrammed with instructions or have a semi or fully automated mode of operation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628dce5105c629476f59856e/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/amp/",
-      "publishedDateTime": "2022-06-06T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-an-artificial-intelligence-pilots-a-modern-mayflower-to-canada.md",
-      "title": "An artificial intelligence pilots a modern Mayflower to Canada",
-      "excerpt": "The robot ship designed by IBM was meant to dock in Massachusetts, but mechanical trouble forced it to dock in Halifax, Canada. The ship didn't have a crew.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada",
-      "originalUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/0acc448/2147483647/strip/true/crop/1066x600+79+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fe5%2F5849f0b84b2199a671bd181ea0ed%2Fhcdhr-cz.jpeg",
-          "width": 430,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada?_amp=true",
-      "cdnAmpWebUrl": "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada?_amp=true",
-      "publishedDateTime": "2022-06-06T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boise State Public Radio",
-        "domain": "boisestatepublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve.md",
-      "title": "AI translates maths problems into code to make them easier to solve",
-      "excerpt": "An artificial intelligence that can turn mathematical concepts written in English into a formal proving language for computers could make problems easier for other AIs to solve",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2322999-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve/",
-      "originalUrl": "https://www.newscientist.com/article/2322999-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/06/06114333/SEI_107484895.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data.md",
-      "title": "How Traditional Enterprises Can Supercharge Legacy Products And Operations With AI And Wide Data",
-      "excerpt": "Many traditional enterprises are looking to artificial intelligence (AI) to help drive digital transformation. That might mean supercharging a company's own software or hardware products with AI capabilities that are being sold to their customer base and/or transforming their internal business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6239f1f3eb42ed971885909e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/amp/",
-      "publishedDateTime": "2022-06-06T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-rstudio-is-now-available-on-azure-ml.md",
-      "title": "RStudio is now available on Azure ML",
-      "excerpt": "RStudio has announced a new partnership with Azure ML to deliver RStudio WorkBench on the Azure platform. RStudio, an integrated development environment (IDE) for programming language R, provides open source and enterprise-ready professional software for data science,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/rstudio-is-now-available-on-azure-ml/",
-      "originalUrl": "https://analyticsindiamag.com/rstudio-is-now-available-on-azure-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-24.png",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain.md",
-      "title": "Chitti The Robot Got Competition! Indian Researcher Develops E-Skin That Can Actually Feel Pain",
-      "excerpt": "The artificial skin was developed by Ravinder Dahiya's team at the university using a novel sort of processing system based on synaptic transistors.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain",
-      "originalUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/781e9c68-ff8c-4e9b-9f9f-e20bd4397e4c_95zq.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain?amp=1",
-      "publishedDateTime": "2022-06-06T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak.md",
-      "title": "Val Kilmer’s Top Gun: Maverick dialog was all AI since he can no longer speak",
-      "excerpt": "An interview with Val Kilmer's daughter revealed that he used a special voice AI to bring Iceman to life in Top Gun: Maverick.",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/",
-      "originalUrl": "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2022/06/val-kilmer-as-iceman-in-top-gun-maverick.jpg?quality=82&strip=all",
-          "width": 1920,
-          "height": 1031,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/amp/",
-      "publishedDateTime": "2022-06-05T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

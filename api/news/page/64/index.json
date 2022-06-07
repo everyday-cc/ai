@@ -2,6 +2,615 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-04-12-microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space.md",
+      "title": "Microsoft And NASA Leverage AI To Streamline Safety In Space",
+      "excerpt": "The star-filled expanse of space seems calm and peaceful from a distance—but the reality is that outer space is a harsh and unforgiving environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6254c097b92e79c735ba25fa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/04/11/microsoft-and-nasa-leverage-ai-to-streamline-safety-in-space/amp/",
+      "publishedDateTime": "2022-04-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-your-ai-doesnt-really-understand-you.md",
+      "title": "Your AI Doesn't Really Understand You",
+      "excerpt": "Most of us interact with artificial intelligence (AI) on a daily basis, whether we realize it or not. Every time you ask Alexa or Siri a question or turn to Google to settle a bar bet on who owns ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/your-ai-doesnt-really-understand-you/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/your-ai-doesnt-really-understand-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/1182764551/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/04/12/your-ai-doesnt-really-understand-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/04/12/your-ai-doesnt-really-understand-you/amp/",
+      "publishedDateTime": "2022-04-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-certain-personality-traits-may-play-a-role-in-cognitive-functioning-later-in-life.md",
+      "title": "Certain personality traits may play a role in cognitive functioning later in life",
+      "excerpt": "People who are organized, with high levels of self-discipline, may be less likely to develop mild cognitive impairment as they age, while people who are moody or emotionally unstable are more likely to experience cognitive decline late in life,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220411/Certain-personality-traits-may-play-a-role-in-cognitive-functioning-later-in-life.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220411/Certain-personality-traits-may-play-a-role-in-cognitive-functioning-later-in-life.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T16:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-feature-as-malaysia-tests-ai-court-sentencing-some-lawyers-fear-for-justice.md",
+      "title": "FEATURE-As Malaysia tests AI court sentencing, some lawyers fear for justice",
+      "excerpt": "Few cases ruffle Hamid Ismail after nearly two decades as a lawyer, but he was taken aback when a man he defended was sentenced with the help of an artificial intelligence tool in the Malaysian state of Sabah.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
+      "originalUrl": "https://www.reuters.com/article/malaysia-tech-lawmaking-idUSL8N2HD3V7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2HD3V7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2HD3V7",
+      "publishedDateTime": "2022-04-11T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum.md",
+      "title": "Government Deep Tech 2022 Top Funding Focus Explainable AI, Photonics, Quantum",
+      "excerpt": "An example is from 2015, where I was invited to help the top 100 CEOs, representing nearly $100 Trillion in assets under management, to look ten years into the future for their investments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/11/government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum/",
+      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/11/government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/625313b3bdcfa658074ebda5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/04/11/government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/04/11/government-deep-tech-2022-top-funding-focus-explainable-ai-photonics-quantum/amp/",
+      "publishedDateTime": "2022-04-11T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws.md",
+      "title": "Bulgaria to develop AI research centre in partnership with Google, AWS",
+      "excerpt": "Bulgaria is launching the Institute for Computer Science, Artificial Intelligence and Technology, or INSAIT, which will develop AI, in partnership",
+      "sourceUrl": null,
+      "webUrl": "https://intellinews.com/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria",
+      "originalUrl": "https://intellinews.com/bulgaria-to-develop-ai-research-centre-in-partnership-with-google-aws-241089/?source=bulgaria",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/01_1649673621_Cropped.jpg",
+          "width": 900,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business New Europe",
+        "domain": "intellinews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-insight-partners-celebrates-inaugural-scaleup-series-with-ai-conference-scaleupai.md",
+      "title": "Insight Partners Celebrates Inaugural ScaleUp Series with AI Conference, ScaleUp:AI",
+      "excerpt": "Over 1,700 attendees from 50 Countries Across the Globe Joined to Discuss the Impacts of AINEW YORK, April 11, 2022 /PRNewswire/ -- This week,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insight-partners-celebrates-inaugural-scaleup-series-with-ai-conference-scaleup-ai-1031347625",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/insight-partners-celebrates-inaugural-scaleup-series-with-ai-conference-scaleup-ai-1031347625",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-ai-strikes-again-self-driving-cars-are-already-here.md",
+      "title": "AI Strikes Again – Self Driving Cars Are Already Here",
+      "excerpt": "Artificial Intelligence (AI ... In forty years, it will be sixteen times faster. Self-driving cars are already on our roads. Transportation companies like Uber could increase their profits if the costs of drivers are reduced. Elon Musk has already ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here",
+      "originalUrl": "https://www.bbntimes.com/technology/ai-strikes-again-self-driving-cars-are-already-here",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/Self_Driving_Cars.jpeg",
+          "width": 877,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-prognostics-of-unsupported-railway-sleepers-and-their-severity-diagnostics-using-machine-learning.md",
+      "title": "Prognostics of unsupported railway sleepers and their severity diagnostics using machine learning",
+      "excerpt": "Railway sleepers are safety–critical components of a railway structure. They support ballasted track superstructure and are a critical factor in track geometry and track components’ deterioration. Unsupported sleepers are a common issue incurred after tracks have been utilized.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-022-10062-w",
+      "originalUrl": "https://www.nature.com/articles/s41598-022-10062-w",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-10062-w/MediaObjects/41598_2022_10062_Fig1_HTML.png",
+          "width": 685,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-how-low-code-machine-learning-can-power-responsible-ai.md",
+      "title": "How low-code machine learning can power responsible AI",
+      "excerpt": "Although accuracy of AI models is important, there is an urgent need to understand how AI can be designed to operate responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/",
+      "originalUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1182764552.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/16/how-low-code-machine-learning-can-power-responsible-ai/amp/",
+      "publishedDateTime": "2022-04-11T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-12-tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving.md",
+      "title": "Tesla fans struggle to get loved ones on board with ‘full self-driving’",
+      "excerpt": "Frugal Tesla Guy, a YouTube personality focused on Tesla, gives his passengers a speech to prepare them before he turns on “full self-driving.” “I need you to understand that I have complete ...",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/",
+      "originalUrl": "https://localnews8.com/money/cnn-business-consumer/2022/04/11/tesla-fans-struggle-to-get-loved-ones-on-board-with-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2022/04/hypatia-h_76fc8d5f09eb04d40e3771d33a9c88b8-h_05c90993896ab07f75425a693e99237b-300.jpg",
+          "width": 2000,
+          "height": 1351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-artificial-intelligence-algorithm-aims-to-rapidly-diagnose-cardiac-problems.md",
+      "title": "Artificial intelligence algorithm aims to rapidly diagnose cardiac problems",
+      "excerpt": "Medical AI Inc.’s technology will provide fast, accurate diagnosis of cardiac problems, kidney failure, sepsis and anemia using hospital or home electrocardiogram devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d43747-022-00111-8",
+      "originalUrl": "https://www.nature.com/articles/d43747-022-00111-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-how-artificial-intelligence-is-enabling-t-cell-receptor-screening-for-cell-therapy-discovery.md",
+      "title": "How artificial intelligence is enabling T cell receptor screening for cell therapy discovery",
+      "excerpt": "Exogene has combined artificial intelligence (AI) with cutting-edge lab-based technologies to create a fast, scalable TCR screening platform to identify TCRs for cell therapy applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d43747-022-00114-5",
+      "originalUrl": "https://www.nature.com/articles/d43747-022-00114-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw800/magazine-assets/d43747-022-00114-5/d43747-022-00114-5_20301090.png",
+          "width": 800,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-11T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-11-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "T he artificial intelligence (AI) market has grown like a weed in recent years as organizations gather and process more data to make smarter decisions. However, it can be difficul",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-1",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-1?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-1?amp",
+      "publishedDateTime": "2022-04-11T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-11-microsoft-goes-all-in-on-hybrid-cloud-and-edge-at-ignite-2019.md",
       "title": "Microsoft Goes All-In On Hybrid Cloud And Edge At Ignite 2019",
       "excerpt": "Azure Synapse is integrated with Power BI and Azure Machine Learning, which should allow customers to apply ML models and derive insights from all their data. Going back to that trust thing ...",
@@ -490,646 +1099,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope.md",
-      "title": "Israeli startup Sanolla receives FDA clearance for the world's first AI-ready infrasound stethoscope",
-      "excerpt": "Israeli startup Sanolla, which provides AI-powered primary care diagnostic solutions, announced that the FDA has granted 510(k) clearance for the clinical use of the AI-ready VoqX TM, the first stethoscope in the world that can listen to infrasound - acoustic waves that cannot be heard by humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbtw.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
-      "originalUrl": "https://www.wbtw.com/business/press-releases/cision/20220411IO20968/israeli-startup-sanolla-receives-fda-clearance-for-the-worlds-first-ai-ready-infrasound-stethoscope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.wbtw.com/wp-content/uploads/sites/22/2022/04/police-lights-generic_30929150_ver1.0-7-1-1.jpg?w=2000&#038;ssl=1",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBTW",
-        "domain": "wbtw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks.md",
-      "title": "Artificial intelligence and cybersecurity among top priorities for Brazilian banks",
-      "excerpt": "Artificial intelligence (AI) and cybersecurity are among the top priorities when it comes to the technology strategy of banking institutions in Brazil, a new study has found. The annual research published by the Brazilian Banking Federation (Febraban ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "originalUrl": "https://www.zdnet.com/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/artificial-intelligence-and-cybersecurity-among-top-priorities-for-brazilian-banks/",
-      "publishedDateTime": "2022-04-11T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-technology-innovation-institute-announces-launch-of-noor-the-worlds-largest-arabic-nlp-model.md",
-      "title": "Technology Innovation Institute Announces Launch of NOOR, the World’s Largest Arabic NLP Model",
-      "excerpt": "Apr 11, 2022-- Technology Innovation Institute (TII), a global research center and applied research pillar of Abu Dhabi’s Advanced Technology Research Council, today announced the launch of NOOR, the world’s largest Arabic natural language processing (NLP) model to date.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-united-arab-emirates-middle-east-abu-dhabi-410cd804413342d6bf0c0428671e533e",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-united-arab-emirates-middle-east-abu-dhabi-410cd804413342d6bf0c0428671e533e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-hopkins-researchers-develop-ai-technique-to-predict-cardiac-arrests.md",
-      "title": "Hopkins researchers develop AI technique to predict cardiac arrests",
-      "excerpt": "This deep-learning concept could potentially be developed for other fields of medicine that rely on visual diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
-      "originalUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/04/Johns-hopkins-cardiac-arrest-ai-detection.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/science/hopkins-researchers-develop-ai-technique-to-predict-if-and-when-cardiac-arrests-will-happen-7864069/lite/",
-      "publishedDateTime": "2022-04-11T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-ai-in-medical-market-2022-research-with-revenue-share-analysis-to-2027-by-nvidia-intel-ibm.md",
-      "title": "Artificial Intelligence (AI) in Medical Market 2022 Research with Revenue, Share Analysis to 2027 | By -NVIDIA, Intel, IBM",
-      "excerpt": "AWS, GE Healthcare, Siemens Healthineers, Medtronic, & Others The Global Artificial Intelligence (AI) in Medical Market Research Report contains a point by point investigation of the significant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2022-research-with-revenue-share-analysis-to-2027-by--nvidia-intel-ibm-2022-04-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-2022-research-with-revenue-share-analysis-to-2027-by--nvidia-intel-ibm-2022-04-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-how-are-indian-banks-adopting-digitisation-and-ai.md",
-      "title": "How are Indian banks adopting digitisation and AI?",
-      "excerpt": "An estimated 205 million Indian adults already have a digital-only bank account, and this number is predicted to increase to 397 million within the next five years.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
-      "originalUrl": "https://analyticsindiamag.com/how-are-indian-banks-adopting-digitisation-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/Banking-banner.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-investing-in-eastern-europes-ai-future.md",
-      "title": "Investing in Eastern Europe’s AI future",
-      "excerpt": "It was an honor and a privilege to attend a special event in the Bulgarian capital, Sofia, today to launch INSAIT, the Institute for Computer Science, Artificial Intelligence and Technology. INSAIT is a new AI and computer science research institute that will provide truly world-class facilities.It’s",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
-      "originalUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/investing-in-eastern-europes-ai-future/amp/",
-      "publishedDateTime": "2022-04-11T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup.md",
-      "title": "Artificial Intelligence Is Changing Soccer, And Could Decide The 2022 World Cup",
-      "excerpt": "Artificial intelligence and machine learning have improved so much that they can even be used to collect data on historical broadcasts and previous World Cup tournaments. At the same time, limb-tracking AI technology could change the upcoming 2022 Qatar World Cup.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/",
-      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6253f9796eb6ee328d44c77e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/04/11/artificial-intelligence-is-changing-soccer-and-could-decide-the-2022-world-cup/amp/",
-      "publishedDateTime": "2022-04-11T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-startups-join-ai-acquisition-rush.md",
-      "title": "Startups Join AI Acquisition Rush",
-      "excerpt": "startup founders and investors say. Venture-backed startups spent roughly $8 billion acquiring an estimated 72 AI startups last year, compared with 49 in 2020, according to 451 Research, a unit of analytics provider S&P Global Market Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401",
-      "originalUrl": "https://www.wsj.com/articles/startups-join-ai-acquisition-rush-11649669401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-520831/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations.md",
-      "title": "Using AI To Predict Side Effects From New Anticancer Drug Combinations",
-      "excerpt": "Preliminary data from an artificial intelligence model could potentially predict side effects resulting from new combination therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/cancer-research/news/using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations-360478",
-      "originalUrl": "https://www.technologynetworks.com/cancer-research/news/using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations-360478",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/360478/using-ai-to-predict-side-effects-from-new-anticancer-drug-combinations-360478-640x360.jpg?cb=20220411",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-self-driving-water-taxi-stalls-out-in-knoxville-as-company-struggles-to-find-an-operator.md",
-      "title": "Self-driving water taxi stalls out in Knoxville as company struggles to find an operator",
-      "excerpt": "The startup behind the world’s first autonomous water taxi is having difficulty partnering with Knoxville companies. But all is not lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.knoxnews.com/story/money/2022/04/11/knoxville-companies-worlds-first-self-driving-taxi-stalls-out-knoxvilleworlds-first-self-driving-tax/7269137001/",
-      "originalUrl": "https://www.knoxnews.com/story/money/2022/04/11/knoxville-companies-worlds-first-self-driving-taxi-stalls-out-knoxvilleworlds-first-self-driving-tax/7269137001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/07/PKNS/1ecb9ad5-6e77-4d2f-801f-297cd76fcd14-kns-taxi00108_BP_2.jpg?auto=webp&crop=2799,1575,x0,y959&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.knoxnews.com/amp/7269137001",
-      "cdnAmpWebUrl": "https://amp-knoxnews-com.cdn.ampproject.org/c/s/amp.knoxnews.com/amp/7269137001",
-      "publishedDateTime": "2022-04-10T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Knox News",
-        "domain": "knoxnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-artificial-intelligence-may-help-trainee-teachers-with-assessments-study.md",
-      "title": "Artificial intelligence may help trainee teachers with assessments – study",
-      "excerpt": "Artificial intelligence (AI) could be used to mark the work of trainee teachers who are trying to identify pupils with potential learning difficulties, a study suggests. Researchers said it could be an “effective substitute” when personal feedback is not readily available.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kentonline.co.uk/_media/img/PNXUYCBHBEQ1IKRA6CE8.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/artificial-intelligence-may-help-trainee-teachers-with-assessments-study-55867/",
-      "publishedDateTime": "2022-04-10T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-this-bengaluru-based-ai-enabled-startup-helps-identify-and-remove-fake-users.md",
-      "title": "This Bengaluru-based AI-enabled startup helps identify and remove fake users",
-      "excerpt": "Founded in 2017, TrustCheckr is an AI-enabled tool that helps identify and remove fake users. The startup has a proprietary algorithm tested on 1 million+ data points and used in AI and ML in ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/04/bengaluru-ai-startup-fake-users-trustcheckr-identity-fraud-cybercrime/amp",
-      "originalUrl": "https://yourstory.com/2022/04/bengaluru-ai-startup-fake-users-trustcheckr-identity-fraud-cybercrime/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/ba9e8080834311ec9e7e95cb06cf6856/TrustCheckrfinal-1649327099112.png ",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/04/bengaluru-ai-startup-fake-users-trustcheckr-identity-fraud-cybercrime/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/04/bengaluru-ai-startup-fake-users-trustcheckr-identity-fraud-cybercrime/amp",
-      "publishedDateTime": "2022-04-10T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-cops-confused-as-they-pull-over-an-empty-self-driving-car.md",
-      "title": "Cops confused as they pull over an empty self-driving car",
-      "excerpt": "In what appears to be the first incident of its kind, cops recently pulled over a self-driving car with no one inside it. A video shows what happened next",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/",
-      "originalUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cruise-automation.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/cops-confused-pull-over-empty-self-driving-car/?amp",
-      "publishedDateTime": "2022-04-10T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T12:17:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110"
 webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110"
 type: article
+quality: 81
+heat: 81
+published: true
 
 provider:
   name: Business Insider

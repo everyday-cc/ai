@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-04-20-designing-a-soft-robot-to-improve-lung-examinations.md",
+      "title": "Designing a soft robot to improve lung examinations",
+      "excerpt": "Seniors in the Department of Mechanical Engineering at the University of Colorado Boulder are designing a new soft robot to improve physicians' ability to examine the deepest part of a patient's lung.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/mechanical-engineering-2.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-soft-robot-lung.amp",
+      "publishedDateTime": "2022-04-19T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-19-cheap-robot-vacuums-roomba-shark-robovacs-on-sale-from-180.md",
+      "title": "Cheap robot vacuums: Roomba, Shark robovacs on sale from $180",
+      "excerpt": "If you're on the hunt for a robot vacuum, you should take advantage of Best Buy's offers for various models from iRobot's Roomba and Shark, starting at $180.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/",
+      "originalUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/iroomba-s9-best-robot-vacs-1.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/?amp",
+      "publishedDateTime": "2022-04-19T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-recycling-robotics-firm-glacier-emerges-from-stealth-with-45m.md",
       "title": "Recycling robotics firm Glacier emerges from stealth with $4.5M",
       "excerpt": "Glacier Robotics emerges from stealth with $4.5M; funding will go toward increasing headcount and accelerating the system’s commercial deployment.",
@@ -1271,102 +1366,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-best-smart-robot-vacuums.md",
-      "title": "Best smart robot vacuums",
-      "excerpt": "Shop our top robot vacuum picks, some of which include AI object recognition, Wi-Fi compatibility, mapping sensors and even the ability to avoid pet waste (a must in pet households), not to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-smart-robot-vacuums/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-smart-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/04/07/e3fee72c-dc32-49c4-8e79-fb673fd7499a/thumbnail/1200x630/543193c804ff31d26a1ca1be53622f97/robot-vacuum.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-smart-robot-vacuums/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-smart-robot-vacuums/",
-      "publishedDateTime": "2022-04-08T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-09-apply-to-pitch-your-startup-at-tc-sessions-mobility.md",
-      "title": "Apply to pitch your startup at TC Sessions: Mobility",
-      "excerpt": "TechCrunch Editorial is on the hunt for six early stage startups to feature in a pitch-off on the Main Stage at TC Sessions: Mobility. You can apply here.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/",
-      "originalUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/TC22_Sessions_Mobility_Event_Graphic_1750x800-2-1.png?w=1024",
-          "width": 1024,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/08/founders-application-mobility-startups-cars-transportation-pitchoff/amp/",
-      "publishedDateTime": "2022-04-08T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

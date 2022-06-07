@@ -56,15 +56,6 @@ related:
         width: 1121
         height: 807
         isCached: true
-  - title: "Investing in healthcare AI a 'business necessity,' analyst says"
-    excerpt: "Health systems need to invest in the future of data, such as artificial intelligence, to reduce errors and provide better care, a Forrester analyst says. \"Healthcare organizations have been attempting to leverage massive quantities of data to their advantage for years,"
-    publishedDateTime: 2022-06-02T21:29:00Z
-    webUrl: "https://www.beckershospitalreview.com/ehrs/investing-in-healthcare-ai-a-business-necessity-analyst-says.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "2KvyIfdHx+3x0TypIhUMBWTeygYlJUEarOVtPo5szHmIpoujXTSzzNnYyIWz3fZvPM501LdH1ZZYTFD4/rq4pnag9FexSUuABcaQnhPuIzDF/omo32S+rZrPWKcnZ0Ho9LPLPCLJO5XVZq8RePcHE65cVtSwsDL/IpDmFwaKoEWvb7uBy099QpcmZQLValv497Msol23JVel+Sl/SpmGcl+3mO9hKGvI0tU1Y2Fip+DWzjoDT8bSmnJrCRTTZ/bdF+p38qPraC1sbYsQrfeK8Zbw2u56xxRpTZ3s8Qmuv+UJXRvjev/m39IyHTx47f4rylcD9wtmvNlWpSf6J7j1R37k0BZF55jkNRmjLvk0jlE=;WE/YH9WXLIZtoSxw+ei4lg=="
 ---

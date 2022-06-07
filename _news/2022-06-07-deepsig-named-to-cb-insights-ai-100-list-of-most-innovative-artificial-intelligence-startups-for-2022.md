@@ -9,7 +9,7 @@ ampWebUrl: "https://www.01net.it/deepsig-named-to-cb-insights-ai-100-list-of-mos
 cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/deepsig-named-to-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-for-2022/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 735
     height: 552
     isCached: true
+
+related:
+  - title: "Talon Cyber Security Named \"Most Innovative Startup\" at RSA Conference Innovation Sandbox Contest 2022"
+    excerpt: "Expert Judges Select Talon Cyber Security for Creating the First Enterprise Browser to Modernize Security and Improve the User Experience for"
+    publishedDateTime: 2022-06-07T12:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/talon-cyber-security-named-most-innovative-startup-at-rsa-conference-innovation-sandbox-contest-2022-1031513123"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
 
 secured: "yNnvqge2Q5Jfx4zjyhKlGMPG6B13QqxyDZ2pmXlLU5EHK0LA5ZlswMQaNRfgmYDEIoR5pDb2dns1aGXOvN3fHfERSoJZJl7I2W53l77Tv+YFX/qAPRSI5i5fT0NXAljidRGg2oLhnxhc7Z3OgUloORVfmiXKgn/zxUNN9PBRHDGMTZcGgCnYlMIZZNOea8VvZmlruTWnxPJWDbIPzZuBaQ0rLNHQ88Gq45n9O0PEHXZc/N75kwUYDSfpnvY4LUgxD+9QMQg/KlXKpbUR2WP3Z26E6uOHJq+UUPgPEkZglmySPrVpF2eOF3ihJ3eCn0X9XaMUxMpqEBXpkumh7jdPAlh2evw+uVyFU1WuM/Bje5A=;uosDjswrqJUMGt8GcqRH2A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T13:40:00Z
 originalUrl: "https://phys.org/news/2022-06-machine-health-soybean-fields.html"
 webUrl: "https://phys.org/news/2022-06-machine-health-soybean-fields.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Phys.org

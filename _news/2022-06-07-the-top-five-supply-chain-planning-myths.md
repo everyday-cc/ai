@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T13:49:00Z
 originalUrl: "https://business-reporter.co.uk/management/the-top-five-supply-chain-planning-myths"
 webUrl: "https://business-reporter.co.uk/management/the-top-five-supply-chain-planning-myths"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: business-reporter.co.uk

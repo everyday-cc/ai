@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AICTE Onboards Microsoft, AWS And More To Promote Technical Training To Students, Academics"
+    excerpt: "Marching towards making India the globe hub of future technologies, government bodies and private players have come together to provide necessary technical skill training to 1 crore youths in"
+    publishedDateTime: 2022-06-07T14:30:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 81
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/06/07/1296568-aicte.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "EteLI3l4LQD1oldyL1oz/D6/N6uAum30oaKxcgIkeEDQHC1j7DxB4U2u0bEKcaSK0NSTczbaWIrzzjpTuCxK7T5rkd49sWd6TkdWF7b9RBhQv9UEYrUByRhbhfqU/KaJzcDNskPgCCKgCr0aZkrYKgXdr53qKN2vDFvRRzfl2Kp//iqhA0cwJVGmEdCBbdUYz84jylP1rANDAf+dSFqm7MxYYSB2i8fI1nvZrIXB2Zw2BM1bkoOXNfyP6sa3RNrE1I7Qt4HH18aToSxaIcFLWSXZMHBKIN4As7DPPC0m8Wzn0lKvVqi1X/94Q20fXpirF8lhngXaBaiBlfxm34HBEY+2EJg9CQnnTTdmppBAp9SvMn2Nm+W+AwImvyleoznDR1+msitgJkx6uzuHzLmrdqSGDaavDRcZadK5jByA+tSD3qd41wesgLXuTIYkktk2E1Ta7FTgWp+uIcfx1I4xuFMm3SyREYVr/ZdKMro8gED4M2tiUVHovfYxXy3fLMH6inHHi/y2fYQ5Q4JE9cwvvg==;305FkAlDzqmrbOWuftBiJQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-28-microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup.md",
+      "title": "Microsoft adds more 5G-centric services to its Azure-for-telcos lineup",
+      "excerpt": "Microsoft is continuing with its strategy to try to make Azure the best cloud for telecommunications companies and their partners with new hybrid and edge services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/354ca0ea40eee5a313656b702d39236307e0466a/2022/02/25/9cad18a8-e9ef-4210-9220-5f84805d8ba6/microsoftmwcazuretelcos.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-adds-more-5g-centric-services-to-its-azure-for-telcos-lineup/",
+      "publishedDateTime": "2022-02-27T17:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-25-machine-learning-the-aiops-system-azure-uses-to-make-the-cloud-reliable.md",
       "title": "Machine learning: The AIOps system Azure uses to make the cloud reliable",
       "excerpt": "To spot faults quickly even if they take a month to show up, Azure feeds signals into a machine learning system: in the future, you will be able to do that for your own cloud workloads.",
@@ -1310,49 +1362,6 @@
       "provider": {
         "name": "India Infoline",
         "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-microsoft-has-plans-to-make-autonomous-cars-intelligent.md",
-      "title": "Microsoft Has Plans to Make Autonomous Cars Intelligent",
-      "excerpt": "as well as the Microsoft Cognitive Services API. Seven talked about how Microsoft's Cognitive Services API already includes an Emotion API capable of understanding the emotions of someone's face, including anger, contempt, disgust, fear, happiness ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/microsoft-has-plans-make-autonomous-cars-intelligent",
-      "originalUrl": "https://www.designnews.com/microsoft-has-plans-make-autonomous-cars-intelligent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Microsoft_connected-car-image.png",
-          "width": 1188,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

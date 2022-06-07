@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Remarkable science: Exploring our AI and robot-supported future"
-excerpt: "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,"
-publishedDateTime: 2022-05-24T20:03:00Z
-originalUrl: "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future"
-webUrl: "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future"
-ampWebUrl: "https://amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future"
-cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future"
+excerpt: "On the public misconceptions about the future of AI and robotics DANIELA RUS: “Let me say that when I usually tell people what I do, I get one of two reactions. So some people start making jokes about Skynet and ask me when their jobs will go away."
+publishedDateTime: 2022-05-25T03:39:00Z
+originalUrl: "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future"
+webUrl: "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future"
 type: article
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: WLRN
+  domain: wlrn.org
 
 topics:
   - AI in Robotics
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/VertexLogoSOP_R_colorRGB-400x265.jpg"
-    width: 400
-    height: 265
+  - url: "https://npr.brightspotcdn.com/dims4/default/db60692/2147483647/strip/true/crop/2830x1486+0+290/resize/1200x630!/quality/90/?url=https%3A%2F%2Fd279m997dpfwgl.cloudfront.net%2Fwp%2F2022%2F05%2FGettyImages-1231248517.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "6e6QK/HmwRhGAF3IUk6wGy8BcVdgSXgE7AKkAy1ZPFc/bmsIbVn3iTsC3nGzFFBE3JRonKFWPplZlqvtnrv442az9bh/U+krLO5/P/XJITy7R7oZ8f87nZnEZdZsKsRjfBJRtRKbWWsO4feh0+z8B9Gl9X6yUWhqVqPZ3mw+B/K8nH06L/XsawlEvrXba467eGKyCGGb6sczB2TuXWOg4/k27Fhmx9tE8EvSaaTEUl8eFfluR1RU72WRGDabcfUWRNr0A0KyAZv+2P8iTpvr+KtQXD52lZEKDxbim8m7pxhHldRU+vZnm9p2yRnVKoTG1JPRYDTF88Q7CoYpflBmOTVItw+myRX5XfMDX6Wsag95xVatpICUyeRIJxGlxhTELjq5uJDSFozn3JEamw7IT1sy5+jpiwkQB/t5bH559MrgY5S8mqdw6eK8GAoUOKBcuqDkEuk8ONVsSW2Vs7du2bfpa+Jc2jQJRWelMAofwpCui9TE74D8bNzAlirYJKIJU/IAG58ZzjnZ2qKez+QsJA==;ZxuJ9+I2XuE7CvUDTCf2RA=="
+secured: "5YO+NJjJv4R4zsgTLw035eoHcTu6EyzEWJE8SWBrgD2uJlxheHGqxjybZnKBpbxgLG+KimeaQM5csdUpt9vU2/MLJnnxQFbHk2hO4gt8S+8pgUe/9aokQWAWv02FzZgMD9Pz/EzPnQ0tdkZ6mfeaaW9AF2zd8vRQ0MMviIerZXck3Id/PNKYrsN5zBpHT909rOusHR/tGkAH9mP9k78jiTuG0OinYYZJ6M5vLuL4/NJpxuTHMEkLGEnyLoQ3BCIFfBly0fJaW7krhQOJM9gE+kuwlB2pbGh21klWXGE96ECoABq+GybkOfaBwCoj8/jPfNImKPRNkxAoax4YuWmfZqr0Ehwyn+pJ/LI3ex9hL6M=;P89Mn390yG/yGMKBmCVOFA=="
 ---
 

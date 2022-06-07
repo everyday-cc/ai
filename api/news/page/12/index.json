@@ -2,6 +2,594 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-25-the-dark-secret-behind-those-cute-ai-generated-animal-images.md",
+      "title": "The dark secret behind those cute AI-generated animal images",
+      "excerpt": "Google Brain has revealed its own image-making AI, called Imagen. But don't expect to see anything that isn't wholesome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/",
+      "originalUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/05/Imagen-comp.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/05/25/1052695/dark-secret-cute-ai-animal-images-dalle-openai-imagen-google/amp/",
+      "publishedDateTime": "2022-05-25T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-ai-research-lab-inspired-by-computers-internal-components.md",
+      "title": "AI research lab inspired by computer's internal components",
+      "excerpt": "Construction work is currently underway on a new artificial intelligence research laboratory designed by PLP Architecture. Located in Shanghai, China, the building's overall form is inspired by a computer motherboard and CPU.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/",
+      "originalUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/2984bc6/2147483647/strip/true/crop/2082x1388+209+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd1%2F38%2F9e43eadd4eed81fc9047bdbc62d8%2F1742-n51.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/architecture/plp-shanghai-artificial-intelligence-lab/?amp=true",
+      "publishedDateTime": "2022-05-25T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-how-to-successfully-lead-change-management-in-finance-ai-adoption.md",
+      "title": "How To Successfully Lead Change Management In Finance AI Adoption",
+      "excerpt": "Change can be incredibly positive. Change builds resilience, opens us up to new perspectives and creates opportunities we never saw coming. However, change can also be uncomfortable, and this discomfort feels especially pervasive during this era of rapid technological transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/25/how-to-successfully-lead-change-management-in-finance-ai-adoption/amp/",
+      "publishedDateTime": "2022-05-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-clearview-ai-launches-clearview-consent-companys-first-consent-based-product-for-commercial-uses.md",
+      "title": "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses",
+      "excerpt": "Clearview Consent is available today as a cloud service, with pricing more affordable than other FRT providers such as Amazon Rekognition and Microsoft Azure, while providing much higher performance and accuracy. Clearview Consent is also available for on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_ac316dfe-f089-5a74-9305-dd50401cd4af.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_ac316dfe-f089-5a74-9305-dd50401cd4af.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-pixm-pioneers-first-real-time-computer-vision-solution-to-stop-phishing-on-mobile-devices.md",
+      "title": "PIXM Pioneers First Real-Time Computer Vision Solution to Stop Phishing on Mobile Devices",
+      "excerpt": "PIXM, a Computer Vision cybersecurity startup, today announced the expansion of its anti-phishing products with the launch of PIXM Mobile, which protects individuals and enterprises from targeted and unknown phishing attacks on mobile devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-pixm-pioneers-first-real-time-computer-vision-solution-/2022/05/25/9608915.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-pixm-pioneers-first-real-time-computer-vision-solution-/2022/05/25/9608915.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030.md",
+      "title": "Artificial Intelligence Market 2022 Overview, Demand, New Opportunities & SWOT Analysis by 2030",
+      "excerpt": "For instance, Google, with the help of its experimental driverless technology has transformed cars including, Toyota Prius. Integration of various tools by artificial intelligence has helped in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-overview-demand-new-opportunities-swot-analysis-by-2030-2022-05-25?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
+      "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
+      "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
+      "originalUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T01:00:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities.md",
+      "title": "Kao Data to Host Speechmatics' HPC and AI Supercomputer, Expanding Deep Learning Capabilities",
+      "excerpt": "Speechmatics' work within artificial intelligence-powered neural networks provides highly accurate speech-to-text to global enterprise businesses.To support its expansion Speechmatics required a specialist,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities/article_5a892265-1178-5b4a-9155-261e39e80bc6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-public-confidence-must-for-using-facial-recognition-with-ai-ktr.md",
+      "title": "Public confidence must for using facial recognition with AI: KTR",
+      "excerpt": "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
+      "originalUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data1.ibtimes.co.in/en/full/772421/ktr.jpg?w=570&h=451",
+          "width": 570,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
+      "publishedDateTime": "2022-05-25T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes India",
+        "domain": "ibtimes.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers.md",
+      "title": "Zoho invests in Indian startup Genrobotics that makes robotic scavengers",
+      "excerpt": "Chennai-headquartered Zoho said that the investment will assist Genrobotics to eradicate manual scavenging in India and provide safety, dignity to workers in the sanitation and oil and gas industries",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalheraldindia.com/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
+      "originalUrl": "https://www.nationalheraldindia.com/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/nationalherald%2F2022-05%2F68081abd-40dd-4850-b1e8-55ba309408d6%2FZoho_invests_in_Indian_startup_Genrobotics_that_makes_robotic_scavengers.jpg?rect=0%2C16%2C400%2C210&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
+      "cdnAmpWebUrl": "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-and-tech/zoho-invests-in-indian-startup-genrobotics-that-makes-robotic-scavengers",
+      "publishedDateTime": "2022-05-25T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Herald",
+        "domain": "nationalheraldindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-why-mastercards-new-face-recognition-payment-system-raises-concerns.md",
+      "title": "Why Mastercard’s New Face Recognition Payment System Raises Concerns",
+      "excerpt": "Mastercard’s biometric checkout system will provide customers with facial recognition-based payments, by linking the biometric authentication systems of a number of third-party companies with Mastercard’s own payment systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427",
+      "originalUrl": "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Facial_Recognition_1640922171.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/pay-with-a-smile-or-a-wave-why-mastercard-s-new-face-recognition-payment-system-raises-concerns-news-198427/amp",
+      "publishedDateTime": "2022-05-24T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-how-this-startup-is-bringing-smartest-solutions-through-ai.md",
+      "title": "How This Startup Is Bringing Smartest Solutions Through AI",
+      "excerpt": "With an eye on finding the smartest solutions for any problem, Pixis was born. The platform is a codeless AI infrastructure for demand generation and marketing optimization. It was founded in late 2018 by Shubham Mishra (Global CEO),",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/428229",
+      "originalUrl": "https://www.entrepreneur.com/article/428229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1653456757-Untitleddesign-2022-05-25T110036996.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-ai-development-on-microsoft-azure-gets-beefed-up-with-access-to-openai-models.md",
+      "title": "AI development on Microsoft Azure gets beefed up with access to OpenAI models",
+      "excerpt": "Microsoft Corp. is expanding its long-running relationship with the artificial intelligence research outfit OpenAI Inc. as it launched a new service today for Azure Cognitive Services.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/",
+      "originalUrl": "https://siliconangle.com/2022/05/24/microsoft-beefs-ai-development-azure-access-openai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/microsoft-ai.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search.md",
       "title": "Westwin (formerly Microsoft Online) launches new English language SEM solution for Baidu paid search",
       "excerpt": "Recently Westwin (formerly Microsoft Online) is proud to announce the launch of SEM.Wreach.net – enabling non Chinese speakers to run paid search campaigns on Baidu. Wreach SEM will form part of Wreach.",
@@ -34,6 +622,49 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
+      "title": "Remarkable science: Exploring our AI and robot-supported future",
+      "excerpt": "On the public misconceptions about the future of AI and robotics DANIELA RUS: “Let me say that when I usually tell people what I do, I get one of two reactions. So some people start making jokes about Skynet and ask me when their jobs will go away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "originalUrl": "https://www.wlrn.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/db60692/2147483647/strip/true/crop/2830x1486+0+290/resize/1200x630!/quality/90/?url=https%3A%2F%2Fd279m997dpfwgl.cloudfront.net%2Fwp%2F2022%2F05%2FGettyImages-1231248517.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLRN",
+        "domain": "wlrn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -134,33 +765,24 @@
     {
       "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
       "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it’s all doing? (PRUnderground) May",
+      "excerpt": "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://www.digitaljournal.com/pr/new-fintech-startup-economyx-ai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.prunderground.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-24-at-12.47.05-PM.png",
-          "width": 1500,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:45:00-07:00",
+      "publishedDateTime": "2022-05-24T17:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -170,6 +792,7 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
@@ -500,651 +1123,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
-      "title": "Remarkable science: Exploring our AI and robot-supported future",
-      "excerpt": "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "originalUrl": "https://www.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/05/VertexLogoSOP_R_colorRGB-400x265.jpg",
-          "width": 400,
-          "height": 265,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/05/24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "publishedDateTime": "2022-05-24T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ai-reveals-unsuspected-math-underlying-search-for-exoplanets.md",
-      "title": "AI reveals unsuspected math underlying search for exoplanets",
-      "excerpt": "Artificial intelligence (AI) algorithms trained on real astronomical observations now outperform astronomers in sifting through massive amounts of data to find new exploding stars, identify new types of galaxies and detect the mergers of massive stars,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.html",
-      "originalUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/1-exoplanet.jpg",
-          "width": 850,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp",
-      "publishedDateTime": "2022-05-24T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-specialization-is-key-in-an-exploding-ai-chatbot-market.md",
-      "title": "Specialization is key in an exploding AI chatbot market",
-      "excerpt": "Zowie, which claims to be the only AI-powered chatbot technology specifically built for ecommerce companies that use customer support to drive sales has secured $14 million in series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
-      "originalUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/",
-      "publishedDateTime": "2022-05-24T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-facial-recognition-market-report-2022-2027-top-companies-new-technology-size-and-forecast.md",
-      "title": "Facial Recognition Market Report 2022-2027: Top Companies, New Technology, Size and Forecast",
-      "excerpt": "According to IMARC Group latest report titled “Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027”, offers a comprehensive analysis of the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/247195/technology/facial-recognition-market-report-2022-2027-top-companies-new-technology-size-and-forecast/",
-      "originalUrl": "https://xaralite.com/247195/technology/facial-recognition-market-report-2022-2027-top-companies-new-technology-size-and-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
-      "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
-      "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "publishedDateTime": "2022-05-24T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan.md",
-      "title": "How will AI be used ethically in the future? AI Responsibility Lab has a plan",
-      "excerpt": "AI Responsibility Lab's Mission Control provides a framework for teams to create standardized processes for ML and AI operations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/amp/",
-      "publishedDateTime": "2022-05-24T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more.md",
-      "title": "Microsoft expands Azure OpenAI Service with fine-tuning features and more",
-      "excerpt": "It will be similar to other transparency notes for Azure Cognitive Services, found here. Transparency notes are part of a broader effort at Microsoft to put our AI principles into practice.”",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/",
-      "originalUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1238869000.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/amp/",
-      "publishedDateTime": "2022-05-24T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence.md",
-      "title": "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence",
-      "excerpt": "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-c93e1680ec8ce4105e11fb794029b423",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-c93e1680ec8ce4105e11fb794029b423",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-microsoft-is-turning-to-popular-2-billion-data-science-startup-hugging-face-to-court-machine-learning-experts.md",
-      "title": "Microsoft is turning to popular $2 billion data science startup Hugging Face to court machine learning experts",
-      "excerpt": "An curved arrow pointing right. As the competition for capturing the machine learning industry heats up, Microsoft is turning to a popular $2 billion startup to get an edge over rivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-azure-hugging-face-integration-machine-learning-models-2022-5",
-      "originalUrl": "https://www.businessinsider.com/microsoft-azure-hugging-face-integration-machine-learning-models-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6206cc39e2fe3c0019ea47aa?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies.md",
-      "title": "Activists protest Amazon’s cloud conference over company’s work with police, immigration agencies",
-      "excerpt": "AWS’s Rekognition software has been criticized, including by Amazon’s own employees, as being less accurate in identifying people of color. At least three Black men have been incorrectly ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/",
-      "originalUrl": "https://thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/05/20220524_050826070_iOS-e1653422932564.jpg?w=1280",
-          "width": 979,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/amp/",
-      "publishedDateTime": "2022-05-24T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx.md",
-      "title": "First UK Authorized Dealer Signed for AI Robotics Leader: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)",
-      "excerpt": "(RAD) has signed its first authorized dealer in the United Kingdom and has received an order for a ROSA security robot. Additional details, including the name of the new dealer will be released in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers.md",
-      "title": "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers",
-      "excerpt": "TOGGLE AI to offer commission-free trading and subscriber-exclusive options pricing for new IBKR usersNEW YORK--(BUSINESS WIRE)--TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=669020",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=669020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-nvidia-details-plans-to-transform-data-centers-into-ai-factories.md",
-      "title": "Nvidia details plans to transform data centers into AI factories",
-      "excerpt": "At Computex, Nvidia announced hardware milestones and new innovations toward its roadmap for more powerful AI-enabled data centers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/chip.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/amp/",
-      "publishedDateTime": "2022-05-24T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery.md",
-      "title": "Two NHS surgeons are using Azure AI to spot patients facing increased risks during surgery",
-      "excerpt": "An NHS trust is exploring how AI could help reduce waiting times, support recommendations from healthcare teams and help patients.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/",
-      "originalUrl": "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/05/Microsoft_9716b-1-scaled.jpg",
-          "width": 2560,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

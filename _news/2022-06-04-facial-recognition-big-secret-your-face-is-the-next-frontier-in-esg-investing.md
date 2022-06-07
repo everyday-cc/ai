@@ -43,6 +43,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI facial recognition, the new detention"
+    excerpt: "Increasingly governments around the world are turning to AI facial recognition apps as cost saving surveillance measures."
+    publishedDateTime: 2022-06-04T22:39:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/sundayextra/ai-facial-recognition,-the-new-detention/13911830"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 54
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13911960-16x9-large.jpg?v=4"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "PsgFUqW6mQ7LaXTso/M3Ipfwn+/7D5yTICxN95AO/n50GccAf1zXGhBpsddbGQTxOGLmbJTWpads4JgEFwaUN801hSqyog6shHx50I1lD6kfGdaAtCxu195qG1X26CzN2CjoUqka2x1Flb7ldYR4BC8wVBcoNsZ/fqWWwa0/cZG3nQP4WnRbwHtY62NSNYFllR8xPxnXjnSwP0sQffulDccOVnmNtPXAP81yTC8MPXphZMcIj8xFdMl2bRnXf2WOmTkg6h5fwjI2ZNKXJjAaraq7r128jes3faBntDDoPUTT+rgBwPTVcDocdMpqxnoXXhwQh1+5B5ah5/EEZeGAqC19JFJJLjW8Gx5BWdtM6vE=;JseAAVnGuB1zGyFs5/W0NA=="
 ---

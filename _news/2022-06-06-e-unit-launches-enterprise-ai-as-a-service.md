@@ -24,17 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Rezo.AI launches a game-changer for Enterprises fueling Sales Marketing and Support teams to boost revenue growth"
-    excerpt: "PTI takes no editorial responsibility for the same.) New Delhi, June 2, 2022: Rezo.ai, an AI-powered CX Cloud for enterprises that are transforming customer experience, improving agent productivity, and operationalizing real-time intelligence,"
-    publishedDateTime: 2022-06-03T07:27:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2022/06/03/pwr9-rezo.ai.html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2022/06/03/pwr9-rezo.ai.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2022/06/03/pwr9-rezo.ai.amp.html"
+  - title: "Lunit to accelerate AI-powered medical service at military hospitals"
+    excerpt: "Lunit to supply chest x-ray analysis AI software to military hospitals nationwide in Korea for better detection of critical lung diseases,"
+    publishedDateTime: 2022-06-07T14:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lunit-to-accelerate-ai-powered-medical-service-at-military-hospitals-1031513838"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 50
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://mma.prnewswire.com/media/1834531/LUNIT_INSIGHT_CXR.jpg"
+        width: 400
+        height: 213
+        isCached: true
 
 secured: "y06tqI2VpfeZan6vi/GkGp30BwEQ1A5a2G1Tn3MwvHQYeTvqYTme3QS78bY3vEsQOZfvCLWlkfG7pOF1q33ovbDRi/3X+/hsO+LKns6JGDvHmFMlUy5+7axpwVauH15wS4MBYX61r6Bu96zSGT4iQXAX4NgZxgz7/h2yZElypgc00mtq1usg01ogIllLZLWjnsLCJUvHVP5XXk4frfjEQeULa12Vfl9qrk5KGsPU2ZASVZ0FSvaTtLwfCQTEcYTPtU314+jpvb2Kd2L2Oq9Vk4DIajUWwlnnt2JFVSgdiu22FfJbRONhKbrFl/rIcPJPDZh6bG+UaeQzOhHHz29EflZEE2U4MKegt7SAjEfmK14=;9d1dy0+Lq9UUQgiVg1IC6w=="
 ---

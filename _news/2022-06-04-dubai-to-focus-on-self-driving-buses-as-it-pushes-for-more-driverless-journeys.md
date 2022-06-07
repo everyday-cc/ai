@@ -19,21 +19,30 @@ topics:
   - AI
 
 related:
-  - title: "AI Ethics And The Perplexing Societal And Legal Role Of AI Activism, Including In The Case Of Autonomous Self-Driving Cars"
-    excerpt: "AI activism is on the rise, dovetailing into the AI Ethics movement, so it is worthy to take a close look at what AI activism is all about, including in the case of AI-based self-driving cars."
-    publishedDateTime: 2022-06-04T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
+  - title: "Argo AI's self-driving car prototypes go fully driverless in 2 US cities"
+    excerpt: "Argo AI, a self-driving technology startup backed by Ford and Volkswagen Group, reached a major milestone in May. The company's prototypes are now fully driverless in Austin and Miami, where they are faced not only with heavy vehicle traffic but also a high number of pedestrians and cyclists."
+    publishedDateTime: 2022-06-03T12:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1136020_argo-ai-s-self-driving-car-prototypes-go-fully-driverless-in-2-us-cities"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 33
+  - title: "Putting the metal to the pedal! Robotic taxi service gets green light to begin charging passengers for DRIVERLESS rides in San Francisco"
+    excerpt: "Driverless vehicles have been hailed as ... of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people, signs and hazards."
+    publishedDateTime: 2022-06-03T11:02:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10880569/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10880569/amp/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10880569/amp/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 26
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//6296a226bb1124449cbe2b9c/0x0.jpg?format=jpg&crop=2781,2160,x934,y0,safe&width=1200"
-        width: 1200
-        height: 932
+      - url: "https://i.dailymail.co.uk/1s/2022/06/03/01/wire-58620731-1654217026-117_636x382.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "o8kNCZ7BkHXgoogikRG1IIB4rvFcOYXlkGrmn4lnYoBFhSXQxvbq7t1uLXmtyjIIVayGr7wIgADfXauBIT86NWUj46BIqu1gUWN1q7NaTp40bFVWB92EaKIvwimBbaOMQ/F2GOD8Vi55lZS4xFZx0pNY/rLYPaS5wJD9NJnrpnSqjQldc8rnlU+AbFfF8z/HdTnMtjjeLdb6umXDo9DxXIXRJISKFopiKrbw++OWRoondfoYK4kcqejPciNIUkFcecybUpqhqu6NBNuEF0mNbt777wUGXNgTSaKgZqXrwQvGZzTx351EWWGVgJgNF2ugdAs4UzFI12a1QPEzqokuaEj+wAV7SxaEvpF0KaQdWYvPNMWeWtyoEdKUa4apfmUj6f/9/J72Fnnwd+6mCIypm4bIrZ23tOlwfKM6aCBhOlj9BPQra395hwDKAKYUsnsWx+cyoFvyBxSuW+ZfVguI5/LRbUHVS+yJ7dOcuJo6sZgC66SveXaGrcThIW3HafGMZywuvSq11FSjr3Z7HYr+rA==;XFOBN2FKKqbIHdRyD0Jn2Q=="

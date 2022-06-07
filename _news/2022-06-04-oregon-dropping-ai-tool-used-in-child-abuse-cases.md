@@ -7,7 +7,7 @@ originalUrl: "https://www.seattletimes.com/seattle-news/northwest/oregon-droppin
 webUrl: "https://www.seattletimes.com/seattle-news/northwest/oregon-dropping-ai-tool-used-in-child-abuse-cases/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,31 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Oregon dropping AI tool used to help decide child abuse cases"
-    excerpt: "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions."
-    publishedDateTime: 2022-06-02T21:06:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/DarkWeb-1024x682.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
-    excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
-    publishedDateTime: 2022-06-02T21:12:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2022-06-02/oregon-is-dropping-an-artificial-intelligence-tool-used-in-child-welfare-system"
-    type: article
-    provider:
-      name: Health News Florida
-      domain: usf.edu
-    quality: 13
   - title: "Oregon is dropping an artificial intelligence tool used in child welfare system"
     excerpt: "Officials will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a process that officials say will make more racially equitable decisions."
     publishedDateTime: 2022-06-03T18:43:00Z

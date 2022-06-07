@@ -19,6 +19,15 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Dubai to focus on self-driving buses as it pushes for more driverless journeys"
+    excerpt: "The Dubai government is keen on submissions for self-driving buses for its upcoming world challenge competition Dubai to focus on self-driving buses as it pushes for more driverless journeys Autonomous vehicles,"
+    publishedDateTime: 2022-06-04T09:31:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/dubai-to-focus-on-self-driving-buses-as-it-pushes-for-more-driverless-journeys"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 30
   - title: "Putting the metal to the pedal! Robotic taxi service gets green light to begin charging passengers for DRIVERLESS rides in San Francisco"
     excerpt: "Driverless vehicles have been hailed as ... of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people, signs and hazards."
     publishedDateTime: 2022-06-03T11:02:00Z

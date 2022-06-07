@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T12:53:00Z
 originalUrl: "https://tuoitrenews.vn/news/education/20220607/all-students-in-ho-chi-minh-city-to-access-ai-teaching-soon/67502.html"
 webUrl: "https://tuoitrenews.vn/news/education/20220607/all-students-in-ho-chi-minh-city-to-access-ai-teaching-soon/67502.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Tuoi Tre news

@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-27-man-recreates-childhood-friend-with-ai-then-it-tries-to-murder-him.md",
+      "title": "Man Recreates Childhood Friend With AI, Then It Tries to 'Murder' Him",
+      "excerpt": "YouTuber Lucas Rizzotto said he modified a microwave with a text-based AI in an effort to build a friend that ended up being un-friendly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128",
+      "originalUrl": "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2026354/person-typing-keyboard.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lucas-rizzotto-youtuber-microwave-artificial-intelligence-tried-murder-1701128?amp=1",
+      "publishedDateTime": "2022-04-26T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-jack-in-the-box-rolls-out-robots-to-flip-burgers-and-serve-drinks.md",
+      "title": "Jack in the Box Rolls Out Robots to Flip Burgers and Serve Drinks",
+      "excerpt": "Jack in Box, for one, has harnessed the power of tech, partnering with Miso Robotics to introduce robots to one of its San Diego restaurants.  Relying on a combination of artificial intelligence, machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/425734",
+      "originalUrl": "https://www.entrepreneur.com/article/425734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1650985396-GettyImages-1289092918.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-26T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-final-week-to-buy-2-for-1-passes-to-tc-sessions-robotics-2022.md",
       "title": "Final week to buy 2-for-1 passes to TC Sessions: Robotics 2022",
       "excerpt": "Who’s ready for a full day dedicated to robots, the people who build them, fund them and envision new possibilities? Would that be you? Then get ready for TC Sessions: Robotics 2022 on July 22 at the Hynes Convention Center in Boston,",
@@ -1276,101 +1380,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-designing-a-soft-robot-to-improve-lung-examinations.md",
-      "title": "Designing a soft robot to improve lung examinations",
-      "excerpt": "Seniors in the Department of Mechanical Engineering at the University of Colorado Boulder are designing a new soft robot to improve physicians' ability to examine the deepest part of a patient's lung.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/mechanical-engineering-2.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-soft-robot-lung.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-soft-robot-lung.amp",
-      "publishedDateTime": "2022-04-19T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-19-cheap-robot-vacuums-roomba-shark-robovacs-on-sale-from-180.md",
-      "title": "Cheap robot vacuums: Roomba, Shark robovacs on sale from $180",
-      "excerpt": "If you're on the hunt for a robot vacuum, you should take advantage of Best Buy's offers for various models from iRobot's Roomba and Shark, starting at $180.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/",
-      "originalUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/iroomba-s9-best-robot-vacs-1.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/irobot-roomba-shark-robot-vacuums-deal-best-buy-april-2022/?amp",
-      "publishedDateTime": "2022-04-19T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

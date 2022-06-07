@@ -2,6 +2,616 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-01-pmis-beat-technology-leads-gains.md",
+      "title": "PMIs Beat, Technology Leads Gains",
+      "excerpt": "“Baidu delivered solid first quarter results, especially regarding our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
+      "originalUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6296381d6805b5b22ed94143/0x0.jpg?format=jpg&width=1200",
+          "width": 1024,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
+      "publishedDateTime": "2022-05-31T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-can-video-games-boost-kids-cognitive-development.md",
+      "title": "Can video games boost kids’ cognitive development?",
+      "excerpt": "Researchers have found that children between the ages of eight and 12 who play video games perform better on a variety of tests associated with intelligence and cognitive development. Can video ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/05/31/can-video-games-boost-kids-cognitive-development",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/05/31/can-video-games-boost-kids-cognitive-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/05/30/1604464.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-ethics-adviser-questions-pm-over-partygate-fine.md",
+      "title": "Ethics adviser questions PM over Partygate fine",
+      "excerpt": "Boris Johnson must explain why he has not broken the ministerial code after being fined over Partygate, his ethics adviser says",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-politics-61653755",
+      "originalUrl": "https://www.bbc.com/news/uk-politics-61653755",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-politics-61653755.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-61653755.amp",
+      "publishedDateTime": "2022-05-31T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform.md",
+      "title": "US Senate candidate runs on anti-Tesla “Full Self Driving” platform",
+      "excerpt": "Single-issue candidates for the US Senate aren't the usual fodder for Ars' car coverage, but it seems like an exception might exist for Dan O'Dowd. O'Dowd, an engineer and CEO of a software company, is running for one of California's Senate seats on a platform to ban Tesla's \"Full Self Driving\" feature.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
+      "originalUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/unsafe-at-any-speed-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-how-ai-can-assist-in-coral-reef-restoration.md",
+      "title": "How AI Can Assist In Coral Reef Restoration",
+      "excerpt": "By learning the difference between how healthy and unhealthy reefs sound, this AI algorithm may able to support coral conservation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/",
+      "originalUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62959c2799ec499d9535a8d4/0x0.jpg?format=jpg&width=1200",
+          "width": 1149,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/",
+      "publishedDateTime": "2022-05-31T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-how-to-leverage-ai-in-influencer-marketing.md",
+      "title": "How to Leverage AI in Influencer Marketing",
+      "excerpt": "Artificial intelligence is a growing tool in any digital marketer's arsenal. Enabling quick analysis of data, machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
+      "originalUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.getnews.info/uploads/34f213753bed451d6f1428fceae18a59.jpg",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-how-artificial-intelligence-ai-can-help-detect-wildfires.md",
+      "title": "How Artificial Intelligence (AI) Can Help Detect Wildfires",
+      "excerpt": "For the period 2012-2021, there was an average of 61,289 wildfires annually and an average of 7.4 million acres impacted annually, according to statistics by the Congressional Research Service. In 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires",
+      "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp",
+      "publishedDateTime": "2022-05-31T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-how-has-robotics-changed-manufacturing-technology.md",
+      "title": "How Has Robotics Changed Manufacturing Technology?",
+      "excerpt": "Robotics has been changing manufacturing technology for decades. Production has advanced in numerous ways since the introduction of robots. Primarily, industrial robots can do repetitive tasks much more quickly than humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm",
+      "originalUrl": "https://www.tmcnet.com/topics/articles/2022/05/31/452472-how-has-robotics-changed-manufacturing-technology.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2022-may/9384508427-robot-2791671_960_720.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-depressed-this-algorithm-can-tell-from-the-tone-of-your-voice.md",
+      "title": "Depressed? This algorithm can tell from the tone of your voice",
+      "excerpt": "Mental health issues have come into a clearer focus amid the pandemic. Depression became endemic, but it still too often goes undetected. Even when it does, health care providers struggle to meet demand.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/",
+      "originalUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1243567776.jpg?w=1024",
+          "width": 1024,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/depressed-this-algorithm-can-tell-from-the-tone-of-your-voice/amp/",
+      "publishedDateTime": "2022-05-31T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-amazon-to-develop-new-consumer-robotics-software-development-centre-in-india.md",
+      "title": "Amazon To Develop New Consumer Robotics Software Development Centre In India",
+      "excerpt": "The Indian centre will help support Amazon's international Robotics division, which launched its first robot Astro last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/",
+      "originalUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/05/Astro.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/amp/",
+      "publishedDateTime": "2022-05-31T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-a3-robot-sales-in-north-america-continue-record-increase-into-2022.md",
+      "title": "A3: robot sales in North America continue record increase into 2022",
+      "excerpt": "VP Alex Shikany to discuss latest on how companies solve labor shortages with robotics at Automate June 6 in Detroit",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
+      "originalUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2205_F_LMEx_DigitalSC-Main600p_350_200_bor1_b9b3be_s_c1.jpg",
+          "width": 352,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-turning-ai-failure-into-ai-success-stories.md",
+      "title": "Turning AI failure into AI success stories",
+      "excerpt": "AI implementations share a number of key characteristics. Rather than simply unleashing the technology first on one goal and then another in a linear fashion, which is the habit for most traditional technology initiatives,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/",
+      "originalUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/10/failure-success.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/",
+      "publishedDateTime": "2022-05-31T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-where-does-ai-go-next.md",
+      "title": "Where Does AI Go Next?",
+      "excerpt": "Many computer scientists, economists, and investors believe that we are at the threshold of enormous leaps forward in artificial intelligence and machine learning – with implications for both entrepreneurs and businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/",
+      "originalUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629506ac879c5363c159c3d9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/amp/",
+      "publishedDateTime": "2022-05-31T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx.md",
       "title": "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX",
       "excerpt": "Self-driving robots provide energy-efficient meal delivery to guests' front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delivery",
@@ -514,588 +1124,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-tension-inside-google-over-a-fired-ai-researchers-conduct.md",
-      "title": "Tension Inside Google Over a Fired AI Researcher’s Conduct",
-      "excerpt": "Google has said that TPUs have enabled breakthroughs in its AI research and services, and rents out the chips through its cloud unit. Yet Chatterjee’s criticisms of Morpheus continued even after Google’s hardware leaders decided they trusted it enough ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-brain-ai-researcher-fired-tension/",
-      "originalUrl": "https://www.wired.com/story/google-brain-ai-researcher-fired-tension/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62915e44055b58ec351db05c/master/pass/Tension-Inside-Google-Splashed-Paint-Business-594800569.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-brain-ai-researcher-fired-tension/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-brain-ai-researcher-fired-tension/amp",
-      "publishedDateTime": "2022-05-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-3-business-solutions-where-ai-is-a-good-choice.md",
-      "title": "3 business solutions where AI is a good choice",
-      "excerpt": "Now that AI is cheap and widely available, we often leverage it too often and for the wrong reason. Here's where cloud-based AI provides the most value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html",
-      "originalUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large-100928072-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html",
-      "publishedDateTime": "2022-05-31T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary.md",
-      "title": "IQ-AI surges after US FDA submission by Imaging Biometrics subsidiary",
-      "excerpt": "Imaging Biometrics' patented artificial intelligence technology eliminates the need for gadolinium-based contrast agents in MRI exams",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/983674/iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary-983674.html",
-      "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/983674/iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary-983674.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC8yMDIxLTAzLTA0LTA3LTM4LTA3LTBiMTFlNzhiYTY5OWY1ODU4MDAzZTNhMTFjOWYwOGFiXzYyOTVkMGYzNTAwNDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/983674",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/983674",
-      "publishedDateTime": "2022-05-31T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors UK",
-        "domain": "proactiveinvestors.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028.md",
-      "title": "Face Recognition Door Lock Market Size, Share And Major Industry Players Forecast (2021-2028)",
-      "excerpt": "The global “Face Recognition Door Lock Market Size ” research report encompasses a thorough study of the current situation of the global market along with several market dynamics. To formulate this report,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/351663/news/face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028/",
-      "originalUrl": "https://xaralite.com/351663/news/face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution.md",
-      "title": "The Amazon Echo Was Just The Beginning Of Alexa's Voice-First Revolution",
-      "excerpt": "With 47 very high quality voices in 23 languages. Finally Amazon Rekognition will allow Alexa projects to also use image recognition to add visual decoding to Alexa-like solutions. These tools are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/530109090/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
-      "publishedDateTime": "2022-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-how-ai-is-improving-the-digital-ad-experience-for-consumers.md",
-      "title": "How AI is improving the digital ad experience for consumers",
-      "excerpt": "AI technologies can make a big impact in improving the ad experience, but it still takes a human touch to interpret and inform the model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/",
-      "originalUrl": "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/amp/",
-      "publishedDateTime": "2022-05-30T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research.md",
-      "title": "Nvidia’s AI-powered supercomputers advance nuclear fusion research",
-      "excerpt": "At the International Supercomputing Conference in Germany, Nvidia has detailed how its latest HPC systems work. Including how it is using the Nvidia Omniverse simulation platform to accelerate the design and development of a full-scale fusion reactor.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/",
-      "originalUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1283648497-e1653671703268.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/",
-      "publishedDateTime": "2022-05-30T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-the-rise-of-ai-is-pushing-patent-laws-to-their-limits.md",
-      "title": "The rise of AI is pushing patent laws to their limits",
-      "excerpt": "It was a machine learning program. One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence (AI) in Arthur C Clarke’s classic 2001: A Space Odyssey.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits",
-      "originalUrl": "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-c3ai-ai-to-report-q4-earnings-whats-in-the-offing.md",
-      "title": "C3.ai (AI) to Report Q4 Earnings: What's in the Offing?",
-      "excerpt": "C3.ai AI is set to report fourth-quarter fiscal 2022 results on Jun 1. For the quarter, C3.ai expects revenues between $71 million and $72 million. The Zacks Consensus Estimate for revenues is currently pegged at $71.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing",
-      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing?amp",
-      "publishedDateTime": "2022-05-30T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-aws-introduces-new-p4de-instance-for-ai-training.md",
-      "title": "AWS Introduces New P4de Instance for AI Training",
-      "excerpt": "which is included in the company’s EC2 Inf1 instances, is designed for inference workloads and can execute up to 128 trillion operations per second. AWS showed off AWS Trainium, a second AI processor tailored for AI training, in November.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/AWS-Introduces-New-P4de-Instance-for-AI-Training-1024x585.png",
-          "width": 1024,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/amp/",
-      "publishedDateTime": "2022-05-30T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-ibm-adds-side-order-of-nlp-to-mcdonalds-ai-drive-thru-chatbots.md",
-      "title": "IBM adds side order of NLP to McDonald's AI drive-thru chatbots",
-      "excerpt": "CEO talks up 'great economics to franchisees ... through the power of software... AI and creative construct'.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/30/ibm/",
-      "originalUrl": "https://www.theregister.com/2022/05/30/ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/06/10/mcdonalds.jpg",
-          "width": 5782,
-          "height": 3854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/30/ibm/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/30/ibm/",
-      "publishedDateTime": "2022-05-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand.md",
-      "title": "DDN Adds Powerful AI Software to its Data Storage Systems and Accelerates Production to Meet Surging Customer Demand",
-      "excerpt": "Following the Best First Quarter in the Company's History, DDN Announces Significant Enhancements to its New Range of Hybrid AI Storage Platforms HAMBURG, Germany, May 30, 2022 /PRNewswire/ -- (IS ...",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/business/press-releases/cision/20220530LA72671/ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand/",
-      "originalUrl": "https://pix11.com/business/press-releases/cision/20220530LA72671/ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
-          "width": 283,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPIX",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
-      "publishedDateTime": "2022-05-30T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

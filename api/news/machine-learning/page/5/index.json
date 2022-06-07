@@ -2,6 +2,136 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-04-bigbearai-to-highlight-artificial-intelligence-and-machine-learning-capabilities-at-upcoming-industry-events.md",
+      "title": "BigBear.ai to Highlight Artificial Intelligence and Machine Learning Capabilities at Upcoming Industry Events",
+      "excerpt": "... and the responsible use of AI and other emerging technologies. Prior to starting as General Counsel, Carolyn organized and led Thomson Reuters' cross-functional team that outlined the organization's first set of Data Ethics Principles. ProModel was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/03/9594921.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-14-steps-for-getting-started-with-data-driven-market-segmentation.md",
+      "title": "14 Steps For Getting Started With Data-Driven Market Segmentation",
+      "excerpt": "Shane Paladin, Siteimprove 2. Identify Trends Using AutoML AutoML capabilities help identify trends in data, allowing segmentation to be recognized automatically by intelligent decision support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62702e786a33e85a57a3642e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/05/03/14-steps-for-getting-started-with-data-driven-market-segmentation/amp/",
+      "publishedDateTime": "2022-05-03T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-human-brain-organoids-reveal-how-a-genetic-mutation-disrupts-neural-development.md",
+      "title": "Human Brain Organoids Reveal How a Genetic Mutation Disrupts Neural Development",
+      "excerpt": "Scientists at the University of California, San Diego (UCSD), School of Medicine used human brain organoids to reveal how a genetic mutation associated with a profound form of autism disrupts neural development. Using gene therapy tools to recover the gene ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/developmental-disorders/autism/human-brain-organoids-reveal-how-a-genetic-mutation-disrupts-neural-development/",
+      "originalUrl": "https://www.genengnews.com/developmental-disorders/autism/human-brain-organoids-reveal-how-a-genetic-mutation-disrupts-neural-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.genengnews.com/wp-content/uploads/2022/05/Getty_1015900158_AutismBrain-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-one-platform-to-ai-it-all-google-vertex-ai-makes-aiml-simple-in-sa.md",
       "title": "One platform to AI it all: Google Vertex AI makes AI/ML simple in SA",
       "excerpt": "Says Van Schalkwyk: “For companies that aren’t ready to build their own custom models just yet, Google offers AutoML as part of VertexAI. AutoML allows you to create high quality custom ML models from your data, whether it’s image data, tabular ...",
@@ -1264,145 +1394,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment.md",
-      "title": "New DeepMind Framework Provides Fine-Grained Analysis of Distribution Shifts for ML Model Deployment",
-      "excerpt": "When researchers create a new machine learning (ML) model, they seek to avoid the overfitting problem, where the model only performs well on data distributions similar to those in its training set. Instead,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
-      "originalUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/04/image-82.png?fit=604%2C340&ssl=1",
-          "width": 604,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/04/26/new-deepmind-framework-provides-fine-grained-analysis-of-distribution-shifts-for-ml-model-deployment/amp/",
-      "publishedDateTime": "2022-04-26T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications.md",
-      "title": "Baseten nabs $20M to make it easier to build machine learning-based applications",
-      "excerpt": "As the tech world inches a closer to the idea of artificial general intelligence, we’re seeing another interesting theme emerging in the ongoing democratization of AI: a wave of startups building tech to make AI technologies more accessible overall by a wider range of users and organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/",
-      "originalUrl": "https://techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1047349788.jpg?w=1024",
-          "width": 1024,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/26/baseten-nabs-20m-to-make-it-easier-to-build-machine-learning-based-applications/amp/",
-      "publishedDateTime": "2022-04-26T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-machine-learning-model-can-steer-traumatic-brain-injury-patients-to-life-saving-care.md",
-      "title": "Machine learning model can steer traumatic brain injury patients to life-saving care",
-      "excerpt": "A prognostic model developed by University of Pittsburgh School of Medicine data scientists and UPMC neurotrauma surgeons is the first to use automated brain scans and machine learning to inform outcomes in patients with severe traumatic brain injuries (TBI).",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/2-brain.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-04-machine-traumatic-brain-injury-patients.amp",
-      "publishedDateTime": "2022-04-26T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

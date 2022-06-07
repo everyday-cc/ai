@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T11:28:00Z
 originalUrl: "https://www.forbes.com/sites/carrierubinstein/2022/06/07/end-of-evaluations-overflow-era-a-unique-method-for-investors-to-determine-startup-value/"
 webUrl: "https://www.forbes.com/sites/carrierubinstein/2022/06/07/end-of-evaluations-overflow-era-a-unique-method-for-investors-to-determine-startup-value/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Forbes

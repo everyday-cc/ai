@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T13:07:00Z
 originalUrl: "https://tribune.com.pk/story/2360460/google-to-pay-100-million-for-photo-facial-recognition-lawsuit"
 webUrl: "https://tribune.com.pk/story/2360460/google-to-pay-100-million-for-photo-facial-recognition-lawsuit"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: The Express Tribune

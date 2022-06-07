@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T12:10:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56247552-duos-technologies-group-inc-duos-technologies-joins-nvidia-metropolis-to-accelerate-railcar-inspections-enhance-safety-with-vision-ai-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56247552-duos-technologies-group-inc-duos-technologies-joins-nvidia-metropolis-to-accelerate-railcar-inspections-enhance-safety-with-vision-ai-200.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Finanznachrichten

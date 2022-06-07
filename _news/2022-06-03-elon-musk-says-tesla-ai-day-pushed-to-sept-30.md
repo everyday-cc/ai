@@ -164,6 +164,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 36
+  - title: "Tesla could have a working humanoid robot by September 2022, says Elon Musk"
+    excerpt: "Elon Musk postponed Tesla AI Day until August 19, anticipating a 'working' Optimus prototype. Here's everything you need to know about the Tesla bot."
+    publishedDateTime: 2022-06-06T21:52:00Z
+    webUrl: "https://interestingengineering.com/tesla-humanoid-robot-elon-musk"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
   - title: "Elon Musk promises a working humanoid robot later this year"
     excerpt: "Musk has just postponed the second edition of Tesla Day, dedicated to artificial intelligence to the end of September from Aug. 19. The reason? Musk promises to present a working prototype of Optimus, a humanoid robot that will replace people in Tesla’s ..."
     publishedDateTime: 2022-06-03T19:50:00Z

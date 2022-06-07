@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T13:17:00Z
 originalUrl: "https://info.uwe.ac.uk/news/uwenews/news.aspx?id=4239"
 webUrl: "https://info.uwe.ac.uk/news/uwenews/news.aspx?id=4239"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: University of the West of England, Bristol

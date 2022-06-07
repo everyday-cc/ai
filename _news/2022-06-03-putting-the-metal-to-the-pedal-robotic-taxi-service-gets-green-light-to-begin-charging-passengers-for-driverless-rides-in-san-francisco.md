@@ -36,6 +36,15 @@ related:
       name: Motor Authority
       domain: motorauthority.com
     quality: 33
+  - title: "Dubai to focus on self-driving buses as it pushes for more driverless journeys"
+    excerpt: "The Dubai government is keen on submissions for self-driving buses for its upcoming world challenge competition Dubai to focus on self-driving buses as it pushes for more driverless journeys Autonomous vehicles,"
+    publishedDateTime: 2022-06-04T09:31:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/dubai-to-focus-on-self-driving-buses-as-it-pushes-for-more-driverless-journeys"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 30
 
 secured: "puKLRtk4/somOCIPOqtNem75lptGBPqbvVtrjSXlRbG+IJwDV4+zPfLvp8aP+tI8dhoRrvfDyqBLgneExfWDkicadzUY+SxMFD3+tCIA9uwduld9ZO/jjmYXPdL4OM8wbpzpBHAOhSJb0eLdSEn6yQn5nUIUo4lIa8rIXJRgVze8KiHfp3pVeodm80qlm/vF1e70TqxhCurcvyKP5o1cA381zu6H7+N9z98wo3pZs2zLf1cn/r7ItzSNKkK70KqVr9f38sCgmvE2YzXP+TTkQR+v5WtzVgQBuMvp+lhMNVfygspvpuNi1XSb45j5YNKI2OmP42NrvguaJ+L/fE7sWXCW+6Ub/0FCLYG1EUgHRdU=;Dlwr3KauCMIAJUyafz5Wlg=="
 ---

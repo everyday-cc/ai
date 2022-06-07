@@ -1,20 +1,28 @@
 ---
 category: news
 title: "First UK Authorized Dealer Signed for AI Robotics Leader: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)"
-excerpt: "(RAD) has signed its first authorized dealer in the United Kingdom and has received an order for a ROSA security robot. Additional details, including the name of the new dealer will be released in the future."
-publishedDateTime: 2022-05-24T15:36:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-5-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx"
+excerpt: "Robotic Assistance Devices (RAD) is a high-tech start-up that delivers robotics and artificial intelligence-based solutions that empower organizations to gain new insight, solve complex security challenges, and fuel new business ideas at reduced costs."
+publishedDateTime: 2022-05-24T16:02:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/05/ab27375720/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solut"
+webUrl: "https://www.benzinga.com/pressreleases/22/05/ab27375720/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solut"
+ampWebUrl: "https://www.benzinga.com/amp/content/27375720"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27375720"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "yQT9CzmeBuRSeP0iOsjBR10nqp6Oo558bXgeWSaXNnXlijCKP1mR1DhA/EEA8nCtfkWQ3HBE2cO/OUmAQaRPKS7rLVi8sFdcwVrq6DB5nciR8zsvEs1MFuUe+Owzz6wbwGCDvcamMO4vQ8yBtQg2VXjz3uoa+2q5rOwt027hdZTsDIAwixcr+sRSQ0iLpcJqOs/We0LqFgYxyJ0F0aGPHRki0NIfeNuGXj7W11lNVOOEspC3rnMXBunaP6S6h2EzGJxqKdXo4XHJD0h1tx5ThM8Z3MZ/OGEwQUyRwv+iJKdawCnlKmqkQDoyDwDR1gVvSEaQD8L/7SWaL0mwUcLED/L1hocgQHqZi7fx5d6FZg3l341qdYJc+5fDL4smEGPOSEP7tUnXRIR+9kNqL0s1PFWxT+kz275UlHAEtOujMALTTNj8hBu2J5AWl0IKysHFjbk/+ymVgBHMP55rnev1djVPPm4lwBGgmGXjcFzWIPYNN3jO+byTiR9Nb1epjc90JcM9CQm/s7aY9xze8epOsA==;xlkvDTmfgiQbi3T/UQEyUQ=="
+images:
+  - url: "https://lh6.googleusercontent.com/M1OxQKTUKmexu_qMJWIZJkmS83Vi_TIycMFimESotLhW5g8EADqqnpG2vOFT5hFjGjk5Pirv_qgbIEs8lEvIKGd-VxkWuVsorceloGyE7m8ey7gfRHdj-YUaSqN8ebGrESX4NXdlYwYTKk9fEg"
+    width: 791
+    height: 439
+    isCached: true
+
+secured: "nIdAloW7hez28ql7bZg/kJJ+b9xoQ0t/kFQlwB2izyIubpXcck6KEs8QtlnIU2O2mSQVY4hQTYJKcHm4gDRIw0ABJ3ZjUVogDjwm1mevaHItOlGXh3yon9VILRUCFK0kCT6vAG74ZZvQL0NX//uVjGloufAz7Zi3tz0Ofy55dzre2gca+WszH4O3lSDUHsbZIWSeBXexEFhRsv+z+wx1I3MjaHb9p/sNys8Punrtgh334JaXlM1VOy/G41b+KXFG4lsH/rUs+NZ8RH4Jqlubivi2q+I4Q+tnAmeL2ibO9VgqNa1sFDGOg/srulW3RTYHiLSLD2VPb8CYLSBYMzxxUflV5GMy8sQqnWev9wfdWFQ=;Ncc3X7lEU+HTWwdx4ekeSw=="
 ---
 

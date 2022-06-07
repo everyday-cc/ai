@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/hans/education-careers/technical-tr
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AICTE Onboards Microsoft, AWS And More To Promote Technical Training To Students, Academics"
+    excerpt: "Marching towards making India the globe hub of future technologies, government bodies and private players have come together to provide necessary technical skill training to 1 crore youths in"
+    publishedDateTime: 2022-06-07T14:30:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 81
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/06/07/1296568-aicte.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab"
     excerpt: "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,"
     publishedDateTime: 2022-06-07T10:43:00Z

@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI Draws Another Fine; UK ICO Assesses £7.5 Million for Scraping of Facial Recognition Data"
-    excerpt: "Clearview AI will be fined £7,552,800, and has been ordered to stop collecting facial recognition data in the UK and to delete all of the data it had previously collected."
-    publishedDateTime: 2022-06-02T22:00:00Z
-    webUrl: "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/"
-    ampWebUrl: "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/"
+  - title: "Facial Recognition vs ‘Super-Recognizers': Humans have the edge over tech?"
+    excerpt: "An elite police team in London with the ability to recognize thousands of different people is outperforming the technology — for now."
+    publishedDateTime: 2022-06-03T15:29:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/facial-recognition-vs-super-recognizers-humans-have-the-edge-over-tech-71654264799390.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/facial-recognition-vs-super-recognizers-humans-have-the-edge-over-tech-71654264799390.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/facial-recognition-vs-super-recognizers-humans-have-the-edge-over-tech-71654264799390.html"
     type: article
     provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 61
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/06/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data_1500.jpg"
-        width: 1500
-        height: 860
+      - url: "https://images.hindustantimes.com/tech/img/2022/06/03/1600x900/woman-gd72989594_1920_1649583543266_1654266511195.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Facial recognition: Big secret! Your Face Is the Next Frontier in ESG Investing"
+    excerpt: "Their primary focus is on facial recognition technology, which is developing rapidly both as a law enforcement tool for governments and in applications for companies wanting to target individual customers."
+    publishedDateTime: 2022-06-03T17:23:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/facial-recognition-big-secret-your-face-is-the-next-frontier-in-esg-investing-71654264535914.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/facial-recognition-big-secret-your-face-is-the-next-frontier-in-esg-investing-71654264535914.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/facial-recognition-big-secret-your-face-is-the-next-frontier-in-esg-investing-71654264535914.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/06/03/1600x900/Russia-Opposition-0_1654267552786_1654267631620.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "D9j/Unyocl4xmGjYKMxOrtPMcly5680tAwV2vNj9kwZg/SC/uQ9gcdEk26hpnpfH0+N32K8i/Nhahy0PUCrT3P93Mi/rJStx4sTi9hkt1vjJRu0cKDC5ni6POIIWc+J4Ynm7HC2uFM1WZpRgo76Ggf8T+bPxf0m1QGH6L8Cts2IYl0N5FDH0+/WT1V5yHuE8Be13GHx4FQb8P3k4W8DSfpBsppliI762jItIF3YKKxa3awKByDGxiWfAejBweVJ5pbaoRkRjzIk85eBRwTc+H1MUnr4LysVpuyIfAhuvlwkwF+/Kf0ATMZ0PLqAN8ApJSMQjidRN6yQFLmYxKIvIHF3rnCtuBqU+WX5s2HZEiQw=;FbBo8MfbYHP7DkKBsI0L8w=="

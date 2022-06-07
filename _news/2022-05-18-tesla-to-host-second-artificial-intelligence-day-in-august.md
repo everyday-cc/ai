@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Tesla to host second artificial intelligence day in August"
-excerpt: "Tesla Inc top boss Elon Musk said https://twitter.com/elonmusk/status/1526685434910212102 on Tuesday the electric-car maker will host its second artificial ..."
-publishedDateTime: 2022-05-18T00:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
-webUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
+excerpt: "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day ... expand on plans to fine-tune its self-driving technology."
+publishedDateTime: 2022-05-18T06:54:00Z
+originalUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
+webUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
+ampWebUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - AI in Autos
   - AI
 
-secured: "K/7yDk+V9J8ZCgl1v1I3LEpEpAjw+lVaV2SEJ6Jr2kbsmNPpPdA0dsSuHHpCxHqshSaDOqLA+09l7f7CNe+k8ZcDcMLsZUnKae6McMRBF08oW+AZHH6CGksoKNBBWBxLdKVCmpvXazBPcs+XDfZc4dDfTEVdM7PgkrmZP1Bh9R4c+ywWGWUwB2BT0TmHBMIHMoq7V/dWDO8GnRhHRMfOuVUAfcVc3/BmFR/K/Kt6lKW/Z9SjLM1joVWGevZeFWebgAHjifqM6ConkBeJvpuhYvEoimB9EiqPrgEdY2u1nBUUlCnFo5lw5ZWUY80+h3xFc27QHlfJXsjeSKcvyQEYuhGQQHLdhdrwvIEhbNN4bls=;/m1dusHbOqs5TZ6A6ynHXg=="
+images:
+  - url: " https://i.tribune.com.pk/media/images/1178652-tesla-1473332232/1178652-tesla-1473332232.jpg  "
+    width: 625
+    height: 413
+    isCached: true
+
+secured: "R/MFW+M4GKcpId7hW+idOAvaiLmPEOEnzwJgGAxsNfquftKHxIn4Tkx0YfGxGefeO5yQx4Cg+Lm8apIcAx8oN7spX1j+IBow71OJxHZ1S4Xn1WH+Xrmit8UkPtd9jzYKno9Vt9b+Fu+hJTtaOLnbfz36rVhM2jzJuRF37BnUOt6AYQSshLHjF6raoDLxFj8WFfqU/A+IxWzicVrlqRt/3jcZdPUn9/23S4MJWWCY7UkZ5qikZIAYaUe51EWGQ3Lyf4ckuj0R0sL+K2pgEzewfmgvkfUh4Z576ORJgkH3Njy584veVZ4dtQeL9j9doCEHl1CJVPDCdSTYK+pkOJWD5O2haksrpA+m0r9xi1bkRFw=;dK3wZRgcqqfZfYHcmee8aw=="
 ---
 

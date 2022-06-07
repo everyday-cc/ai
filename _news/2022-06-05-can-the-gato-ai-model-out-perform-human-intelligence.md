@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lenovo looks to bring AI intelligence to the edge"
-    excerpt: "Among the many vendors eyeing a piece of the artificial intelligence (AI ... NX platform and integrates with the Amazon Web Services (AWS) Panorama service for AI computer vision (CV) processing ..."
-    publishedDateTime: 2022-06-02T22:10:00Z
-    webUrl: "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/"
-    ampWebUrl: "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Can the ‘Gato’ AI model out-perform human intelligence?"
     excerpt: "Deepmind, a subsidiary of Alphabet specializing in artificial intelligence, recently presented its “Gato” model. This so-called"
     publishedDateTime: 2022-06-03T00:30:00Z
@@ -57,15 +41,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
-    excerpt: "LandingLens enables teams to build deep learning models. With the new edge capabilities, LandingLens customers will more easily integrate with factory infrastructure to communicate with cameras, apply models to images and make predictions to inform real ..."
-    publishedDateTime: 2022-06-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory/article_013fce8d-a5ec-51e8-9d21-c891fca6d7ea.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
 
 secured: "KvNHa0PBDrd1IuzzkoDH6DuymihhKeh4hEl3CG6MgpJgb2gzXOg9g0AF1k9ThvhQgeHpyCRM2yg2MHOvWeUuQZoJ32n7rGuU6quJps7+idZmlVaxgfZRqUhkbJrs/mJamSlQRIGamDGoRKLqZi3AsSV0MG6zwUMh2edtZj3ySbnYDnRQ6Vws0ZiEhhV7i46VyRfs4JUi5o79w4lmQj1SSd6+bA8I2trod2INkfsMOyB8x0uZGcO5vKEljj/sAiKmgFe5FW8pfoVSzQ7BdVBoBM3nbexS7ysTTuXYv3b+QPoEER/T0PXL1Ge87dlcFPWKGdNJ+mNZ7tVU8vyJYbPmWGeVWrwvKDAkooH0i1yi90828XC2gAst2AlLjDVSviSa1z+t0CZaXKt/ypDVEvZ5gxKmniWDo0jIRZE62w5iGDnLpIzCOI4dlKju3mXxoNZAfjF5mALX4wBjJ0YpR8jTDR9f/9hZ5L823BuDdnCtFOkL/2eNm5KQm/9ceWkHxmt32EJAA4LZhhEx34WwVUAREQ==;2Vk5UjlgGOWmTgKFis/eQg=="
 ---

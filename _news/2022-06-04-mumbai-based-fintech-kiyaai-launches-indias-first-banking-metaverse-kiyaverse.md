@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metavers
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Kiya.ai launches Indian banking metaverse"
-    excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor?"
-    publishedDateTime: 2022-06-02T19:44:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92843/kiyaai-launches-indian-banking-metaverse"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
   - title: "AI for the Metaverse – Bot Libre Mozilla Hubs Integration"
     excerpt: "Bot Libre, an open-source chatbot and artificial intelligence platform for the metaverse, has introduced a brand new solution for business owners and metaverse enthusiasts.  The company has integrated its conversational chatbots onto the popular 3D platform Mozilla Hubs."
     publishedDateTime: 2022-06-03T21:16:00Z

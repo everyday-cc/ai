@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T13:20:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/united-real-estate-launches-specialty-properties-group-an-ai-powered-suite-of-websites-1031513629"
 webUrl: "https://markets.businessinsider.com/news/stocks/united-real-estate-launches-specialty-properties-group-an-ai-powered-suite-of-websites-1031513629"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Business Insider

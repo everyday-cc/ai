@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Pinterest acquires AI-powered shopping startup The Yes, co-founded by former Stitch Fix exec"
-    excerpt: "As Pinterest sets its eyes on improving the online shopping experience on its platform, the company announced this afternoon it’s acquiring the AI-powered shopping service for fashion known as The Yes,"
-    publishedDateTime: 2022-06-02T21:58:00Z
-    webUrl: "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/"
-    ampWebUrl: "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 76
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/the-yes.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Pinterest (PINS) Acquires AI-Powered Shopping Platform The Yes"
     excerpt: "The acquisition is believed to help Pinterest accelerate its initiative to evolve as a “home of taste driven shopping” platform. The Yes, a startup founded by CEO Julie Bornstein in 2018, provides a personalized feed-based shopping platform based on users’ preference of brand,"
     publishedDateTime: 2022-06-03T14:50:00Z
@@ -65,20 +49,6 @@ related:
       - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540842-pintreset.jpg"
         width: 500
         height: 300
-        isCached: true
-  - title: "Pinterest agrees to acquire AI shopping platform"
-    excerpt: "Pinterest (PINS) has agreed to acquire an AI-powered shopping platform, THE YES.Financial terms of the deal were not disclosed.Founded in 2018 by CEO Julie Bornstein and CTO"
-    publishedDateTime: 2022-06-02T20:21:00Z
-    webUrl: "https://seekingalpha.com/news/3845275-pinterest-agrees-to-acquire-ai-shopping-platform"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1347295696/image_1347295696.jpg?io=getty-c-w750"
-        width: 750
-        height: 422
         isCached: true
   - title: "Pinterest to acquire AI shopping platform The Yes"
     excerpt: "The Yes, which was founded by former Stitch Fix COO Julie Bornstein, furthers Pinterest's goal of being a personalized shopping destination."
@@ -108,20 +78,6 @@ related:
         width: 1024
         height: 587
         isCached: true
-  - title: "Pinterest to Acquire THE YES, an AI Powered Shopping Platform for Fashion"
-    excerpt: "Today, Pinterest is announcing that it’s signed a definitive agreement to acquire THE YES, an AI powered shopping platform for fashion that enables users to shop a personalized feed based on the user’s active input on brand,"
-    publishedDateTime: 2022-06-02T20:12:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/politics-technology-julie-bornstein-shopping-dd6e295f64be42929ffed35d3c15756c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Pinterest collaborates with THE YES startup, here are all the fun features you will experience"
     excerpt: "Pinterest along with THE YES startup might come up with best possible online shopping experience, but this is just a guess, as the company has not yet disclosed anything further."
     publishedDateTime: 2022-06-03T05:25:00Z
@@ -137,6 +93,20 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/06/pintrest-freepik-1654233432.jpg"
         width: 360
         height: 202
+        isCached: true
+  - title: "In an effort to provide AI-powered mapping of skills to the organisation, ServiceNow has acquired Hitch"
+    excerpt: "A platform driven by artificial intelligence (AI) that helps firms close the skills gap by matching current workers’ abilities with new jobs and training opportunities throughout the company has been disclosed by ServiceNow as a potential acquisition target."
+    publishedDateTime: 2022-06-03T17:50:00Z
+    webUrl: "https://bestgamingpro.com/in-an-effort-to-provide-ai-powered-mapping-of-skills-to-the-organisation-servicenow-has-acquired-hitch/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 21
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/ServiceNow-acquires-Hitch-to-bring-AI-powered-skills-mapping-to-the-enterprise.png"
+        width: 600
+        height: 350
         isCached: true
   - title: "Pinterest acquires AI-powered shopping platform The Yes"
     excerpt: "The Yes’s technology enables people to shop a personalized feed based on their input on brand, style, and size."

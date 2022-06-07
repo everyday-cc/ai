@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/400313/automating-signature-recognition-
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CIO
@@ -40,6 +40,22 @@ related:
     quality: 46
     images:
       - url: "https://www.cio.com/wp-content/uploads/2022/06/iStock-1276413465.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Reimagining Digital Transformation with Capgemini’s Digital Cloud Platform for Restaurants on AWS"
+    excerpt: "In the age of digital ordering, mobile payments, curbside pickup, and minimal human interaction, restaurants are rethinking how they do business. Innovative solutions are within reach."
+    publishedDateTime: 2022-06-06T00:00:00Z
+    webUrl: "https://www.cio.com/article/400303/reimagining-digital-transformation-with-capgeminis-digital-cloud-platform-for-restaurants-on-aws.html"
+    ampWebUrl: "https://www.cio.com/article/400303/reimagining-digital-transformation-with-capgeminis-digital-cloud-platform-for-restaurants-on-aws.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400303/reimagining-digital-transformation-with-capgeminis-digital-cloud-platform-for-restaurants-on-aws.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 46
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/06/iStock-1227370385.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
         isCached: true

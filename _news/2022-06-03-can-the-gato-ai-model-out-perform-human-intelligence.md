@@ -9,7 +9,7 @@ ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2022/06/03/can-the-g
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/06/03/can-the-gato-ai-model-out-perform-human-intelligence/10416"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lenovo looks to bring AI intelligence to the edge"
-    excerpt: "Among the many vendors eyeing a piece of the artificial intelligence (AI ... NX platform and integrates with the Amazon Web Services (AWS) Panorama service for AI computer vision (CV) processing ..."
-    publishedDateTime: 2022-06-02T22:10:00Z
-    webUrl: "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/"
-    ampWebUrl: "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Can the 'Gato' AI model out-perform human intelligence?"
     excerpt: "This so-called \"general-purpose\" AI model can reportedly perform more than 600 different tasks. And, in many of these tasks, the AI might even perform better than a human being. Could Deepmind have built the first general-purpose artificial intelligence model,"
     publishedDateTime: 2022-06-05T01:00:00Z
@@ -57,15 +41,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
-    excerpt: "LandingLens enables teams to build deep learning models. With the new edge capabilities, LandingLens customers will more easily integrate with factory infrastructure to communicate with cameras, apply models to images and make predictions to inform real ..."
-    publishedDateTime: 2022-06-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory/article_013fce8d-a5ec-51e8-9d21-c891fca6d7ea.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
 
 secured: "MkXfLPH92fkgClQ+0DgArJ0GgVh/bu1EDMzt8RV+YtP+eU+N7Lna+1Tr3+/BedtHliL4JYVWBICza/GNY4tyK5Na7HvLZUwHubRZaWL2GiHZf6ApGIlUk0w++x19vx+g8pUISVa0gyI5+KNVjUl7GDyl2F2VMKaO39oijBfy5xCk2+pZrgORNvEFhDb1q+zR0U11QxW4BNTVrJoE4nOHP5vUcww4PtBDW2i5nvRWaD9sTDI6AZEJyCofEG7s3BbW5cZaWdOoyWqbAGXYLyl5j362Ws6TZ+Stm1h8KPwzfQtzaLimSn4QcvOSatdXhX/1aKLoS8dCPuT6cmErvw5HbXKCJR9GM1Mulf+j+CJj1GZrTXJ+gws2HFzmkW8japkLwviodTG0R1GijTIFUNszt5TrE58fRIy6ReBW5ZawM+mWJ2emlYTPPmUECP/lnKrCT6GPVkpS5ACr3tsbCX3uFiAnJHHHMZe6wFOcWmCOvXNPuwnFiAeQTUMiLrJMcJ6zUVTXqhjlq9qZ3DICMlr5cA==;fjEXa7uYvIKG+UhNU6welA=="
 ---

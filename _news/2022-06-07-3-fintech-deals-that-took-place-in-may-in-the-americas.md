@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T13:06:00Z
 originalUrl: "https://ibsintelligence.com/ibsi-news/3-fintech-deals-that-took-place-in-may-in-the-americas/"
 webUrl: "https://ibsintelligence.com/ibsi-news/3-fintech-deals-that-took-place-in-may-in-the-americas/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: IBS

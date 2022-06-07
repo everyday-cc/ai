@@ -50,15 +50,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Kiya.ai launches Indian banking metaverse"
-    excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor?"
-    publishedDateTime: 2022-06-02T19:44:00Z
-    webUrl: "https://www.finextra.com/pressarticle/92843/kiyaai-launches-indian-banking-metaverse"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
 
 secured: "q54fumYPm1MfaJBRvb9fUsjH1uFKJ69i59mrSSLhrAbFrTUNuRSMPSkxho8zVT96duFZ+0C6RNVSEImNq549nGp+DTg7xe+xqBrdDYfC5Q+6ny2aFp9XRBRJRmfvKMyOXcM6fKtnEjw96Jm4R/ca1sRMyNBmAgy4FcRoQ5ggnkG0CGvGazNf3V+5XnIZh6JsjCUNoDMtlrjhqv15ff3NFxFRU9D066maGrSKwwaUkLn9UqzsaX3ty43Zx0pOZkzJSl1fClqevDeXiP/QtoJw0X3EQwk3HDgpRSWt17t/pTyqdpgQNAZz7t4lTd5GK8jUf6eJzchqkz/XbKGXGU69WeaTafpUSpfmO/zggBRpLLtaHF/9vq0EdQBii519LjyWE67KQKOWsdfjUQDAR9IFtb48JNS9IsKMasnmKNKwBLGv45wmUbk81wmgyh02V/rZc0jOJu3l640f+Gp62cU+kHWBoLjZu+3xWULu0LvBBtsEWTn0aRaW1NU1WtePWDqjOlJppwVLl53uUnCN3RMr8A==;LgWrem/QudX6qNfVuFDdVQ=="
 ---

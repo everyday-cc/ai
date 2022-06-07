@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,28 +30,74 @@ images:
     isCached: true
 
 related:
-  - title: "Hong Kong’s AI drug discovery firm Insilico closes $60M Series D"
-    excerpt: "As part of the deal, Insilico also received an equity investment from Fosun Pharma, which has financed over 60 startups, according to startup database ... to its AI drug discovery platform."
-    publishedDateTime: 2022-06-06T13:16:00Z
-    webUrl: "https://techcrunch.com/2022/06/06/hong-kongs-ai-drug-discovery-firm-insilico-50m-series-d/"
+  - title: "AI Ethics Alarmed At The Rise In Underhanded Juicing Or Doping Of AI Machine Learning By Trusted Insiders, Including Autonomous Self-Driving Cars"
+    excerpt: "Worries are that juicing or doping of AI Machine Learning is gaining traction, an AI Ethical woe and dangerous, including for the case of AI self-driving cars."
+    publishedDateTime: 2022-06-07T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "AWS and HKSTP Announce Strategic Collaboration to Accelerate Innovation and Technology Development in Hong Kong"
-    excerpt: "Amazon Web Services (AWS) and Hong Kong Science and Technology Parks Corporation (HKSTP) announced a strategic collaboration today, aiming to foster a robust Innovation and Technology (I&T) ecosystem in Hong Kong."
-    publishedDateTime: 2022-06-06T09:03:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong/article_37960012-dab4-59e1-95ee-2beff9a44ab1.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628ab0b5c6b6ddedd0fce126/0x0.jpg?format=jpg&crop=2647,1765,x0,y128,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI Ethics And The Perplexing Societal And Legal Role Of AI Activism, Including In The Case Of Autonomous Self-Driving Cars"
+    excerpt: "AI activism is on the rise, dovetailing into the AI Ethics movement, so it is worthy to take a close look at what AI activism is all about, including in the case of AI-based self-driving cars."
+    publishedDateTime: 2022-06-04T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//6296a226bb1124449cbe2b9c/0x0.jpg?format=jpg&crop=2781,2160,x934,y0,safe&width=1200"
+        width: 1200
+        height: 932
+        isCached: true
+  - title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
+    excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
+    publishedDateTime: 2022-06-03T19:51:00Z
+    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-557184/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
+    excerpt: "LandingLens enables teams to build deep learning models. With the new edge capabilities, LandingLens customers will more easily integrate with factory infrastructure to communicate with cameras, apply models to images and make predictions to inform real ..."
+    publishedDateTime: 2022-06-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory/article_013fce8d-a5ec-51e8-9d21-c891fca6d7ea.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
+  - title: "Cruise is going to start charging for rides. Meet the 9 engineers from GM's self-driving bringing the first robotaxi service to the masses."
+    excerpt: "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ..."
+    publishedDateTime: 2022-06-03T00:00:00Z
+    webUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
+    images:
+      - url: "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Q8CXdTNsQ4bx47qOitgZqZsLl0wgePXRDOUJLw6q1EsqWSmzuK7mnqFirQjySfTOZqwn2PZhkXSfGEowAY27hYJXdXajQQ4F9i4BoSDKrHJ+Xby8835GuUKaaMOTW1LW21bBKZF7NKo8bslDeG24bu+a3h0xqWMVfgOBlmXT7+7gJtZ0BfpaPW8iKOtjaqPPEkGs/nVK5axIvIUR5pHMuG5iDzqgFTQMM3p18kfROGtJD6KREdRsNFHysYpUr3IFC5avVGhtRH4AghCpTJRil6V6+pqIuTyEoOqUExKiUondxz+RZAsrraiSymVkAzduJE4XWp/fPuLxRMeLxA3IFdcN5marhLPC6lemZqZjMZ2fMxYI8HdQwyXwOJ4cu9tG8ckm5dBfz3U+yU+TJSCn+kCB3kmhAQ+T2H3z5nx32In2GhIhslSh9sVXyUsSCD65b2cd9YCt9tGlETTnr1ZHJfvCjfvRLyniSYec2l1Y5eBUeVQDHecsepEXPAM2OwRmGhro9OBdth+HhzpDcLZH3A==;WIfYJ9bxq105m+/Ix1lojw=="

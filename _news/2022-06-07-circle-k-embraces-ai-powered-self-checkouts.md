@@ -7,7 +7,7 @@ originalUrl: "https://www.ccr-mag.com/circle-k-embraces-ai-powered-self-checkout
 webUrl: "https://www.ccr-mag.com/circle-k-embraces-ai-powered-self-checkouts/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "iWave Launches AI Powered Prospect Lists"
-    excerpt: "\"With the launch of Prospect Lists, we're putting the power of AI and big data behind every fundraising team and reimagining one of the most important steps in the donor funnel. Having the ability to identify strong donor candidates means that development ..."
-    publishedDateTime: 2022-06-02T20:02:00Z
-    webUrl: "https://www.djournal.com/news/nation-world/iwave-launches-ai-powered-prospect-lists/article_d8b1bd41-d543-52ef-967c-03088625f6ca.html"
+  - title: "Touchless AI-powered self-serve cash registers coming to Couche-Tards and Circle K stores"
+    excerpt: "Those days of interacting with cashiers at Couche-Tard and Circle K might soon be over as AI-powered cash registers are coming to the franchise."
+    publishedDateTime: 2022-06-03T14:24:00Z
+    webUrl: "https://dailyhive.com/vancouver/couche-tard-circle-k-ai-cash-registers"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 37
+      name: Daily Hive
+      domain: dailyhive.com
+    quality: 28
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/bfc7269c-600d-11ec-9643-8b34fd62a341.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://images.dailyhive.com/20220603072219/couche-tard-circle-k-ai-touchless-500x256.jpg"
+        width: 500
+        height: 256
         isCached: true
 
 secured: "FjbJHe7oIyGBt14Ivr3p2EsyuEalpEDWEn01VS5Z9XmG3UPWTbgtnQ6SHvhjLs1qgDw8taZThWxUBLI5z3ouYhDFTHZOorYSCjn5VxGMHwZkObbl0wChH04c3r8/Ci23X7Zn8wXdSyJqs2pmkgYTDf/Ts+RQYeF5nprwq/g6bUOuKAKhd+SYFLWAJe5FcOglX9IOdRQwEdct/tc9g1SaXE7s+hKXCA06F0mqCIaAczAl3RGygZ0zo2Yry9Ca7p69KvsK8kZAw1SQKzp+ZSPVZNNOQ7zgfdjUBEvg9R6NqhQlY6Aovyfwc0mNJRfmIEF66L4ADixLOHm7BGVRpIrvYuK6e58v8EDpBAR2heB13FI=;CqWvzXqcyfQi/C3m2UYKRA=="

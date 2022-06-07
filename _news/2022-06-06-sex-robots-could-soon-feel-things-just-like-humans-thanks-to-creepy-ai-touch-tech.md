@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-271
 cdnAmpWebUrl: "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Daily Star
@@ -25,6 +25,24 @@ images:
     width: 615
     height: 409
     isCached: true
+
+related:
+  - title: "Sex robots could soon feel things ‘just like humans’ after creepy new ‘printed skin’ developed giving a sense of touch"
+    excerpt: "SEX robots could start to experience human-like sensations after scientists developed a new piece of artificial intelligence technology. Researchers in California have created a printed skin that could see robots experience senses such as touch."
+    publishedDateTime: 2022-06-07T15:10:00Z
+    webUrl: "https://www.thesun.co.uk/tech/18811097/sex-robots-feel-things-humans-printed-skin/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/18811097/sex-robots-feel-things-humans-printed-skin/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18811097/sex-robots-feel-things-humans-printed-skin/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 35
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/06/NINTCHDBPICT000738768810.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "f9CJEZkonS2AsmsZY/dmbZQswhXjHcsgSDGcXyMax5e3aiBM3X6zikVGhSepTaBY4bwFxjFVCEH0TUmHeFW5wtcwX4pO3vGvoy/UhS/p28J+ZA5FSmbXGcUtpi3W6Q4yBkPToL7GYez1f4sRSSaaVxEgzV7N+WzPpEkwtrOJmZV+wCAqQLr3Ezg1Fa1NkwLAVRfJcBEyUFBGu8IsAu8HCT86HRbRQK+1uzckJtzJM02K11qiEp8gucq298WNu2ovn9pHyeFhOxocC/1+8wYxhaTur9njMqcCoweCOhLoi/+HXRVf7UaV7j9ssYtRkfKDoRzmKCLRr9JOVSBYFjxGoqF0iauz6/qtbMgNgHHsjUxw1o3eIekKlJRF+jGauId6yTQkSpgGnriGoYyxOa1Iwr+W/jfBEcXiKJlImghPXL7hN7dSNWzUoo+1cOQprYWM9ertVKMrsgkrbaWC2S1lVOQnAuxdVzqEaObsi2VNFgBR+1ABEXw24hht1ibr6gZrqiyJZ69OoT6owTLLuwPd4A==;TwJJgK6+RwrRkR/zenkbXQ=="
 ---

@@ -19,51 +19,81 @@ topics:
   - AI
 
 related:
-  - title: "Lenovo looks to bring AI intelligence to the edge"
-    excerpt: "Among the many vendors eyeing a piece of the artificial intelligence (AI ... NX platform and integrates with the Amazon Web Services (AWS) Panorama service for AI computer vision (CV) processing ..."
-    publishedDateTime: 2022-06-02T22:10:00Z
-    webUrl: "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/"
-    ampWebUrl: "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/"
+  - title: "AI Ethics Alarmed At The Rise In Underhanded Juicing Or Doping Of AI Machine Learning By Trusted Insiders, Including Autonomous Self-Driving Cars"
+    excerpt: "Worries are that juicing or doping of AI Machine Learning is gaining traction, an AI Ethical woe and dangerous, including for the case of AI self-driving cars."
+    publishedDateTime: 2022-06-07T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628ab0b5c6b6ddedd0fce126/0x0.jpg?format=jpg&crop=2647,1765,x0,y128,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Can the ‘Gato’ AI model out-perform human intelligence?"
-    excerpt: "Deepmind, a subsidiary of Alphabet specializing in artificial intelligence, recently presented its “Gato” model. This so-called"
-    publishedDateTime: 2022-06-03T00:30:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/06/03/can-the-gato-ai-model-out-perform-human-intelligence/10416"
-    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2022/06/03/can-the-gato-ai-model-out-perform-human-intelligence/10416"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/06/03/can-the-gato-ai-model-out-perform-human-intelligence/10416"
+  - title: "AI Ethics And The Perplexing Societal And Legal Role Of AI Activism, Including In The Case Of Autonomous Self-Driving Cars"
+    excerpt: "AI activism is on the rise, dovetailing into the AI Ethics movement, so it is worthy to take a close look at what AI activism is all about, including in the case of AI-based self-driving cars."
+    publishedDateTime: 2022-06-04T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 80
     images:
-      - url: "https://cdn4.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2022/06/03/20968.jpeg&w=800&q=100&f=jpg"
-        width: 800
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve//6296a226bb1124449cbe2b9c/0x0.jpg?format=jpg&crop=2781,2160,x934,y0,safe&width=1200"
+        width: 1200
+        height: 932
         isCached: true
-  - title: "Can the 'Gato' AI model out-perform human intelligence?"
-    excerpt: "This so-called \"general-purpose\" AI model can reportedly perform more than 600 different tasks. And, in many of these tasks, the AI might even perform better than a human being. Could Deepmind have built the first general-purpose artificial intelligence model,"
-    publishedDateTime: 2022-06-05T01:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/06/05/can-the-039gato039-ai-model-out-perform-human-intelligence"
+  - title: "AI-Powered Hong Kong Biotech Startup Raises $60 Million From Top VCs Including B Capital, Qiming"
+    excerpt: "Insilico Medicine uses AI to speed up drug research for diseases like cancer. Before starting Insilico Medicine in 2014, Zhavoronkov founded Deep Longevity, another AI-powered healthcare startup in Hong Kong."
+    publishedDateTime: 2022-06-07T09:19:00Z
+    webUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/"
+    ampWebUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/06/03/1609537.jpg"
-        width: 1240
-        height: 697
+      - url: "https://imageio.forbes.com/specials-images/imageserve//629f13ed0c991cb629d8d39f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 585
+        isCached: true
+  - title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
+    excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
+    publishedDateTime: 2022-06-03T19:51:00Z
+    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-557184/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Cruise is going to start charging for rides. Meet the 9 engineers from GM's self-driving bringing the first robotaxi service to the masses."
+    excerpt: "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ..."
+    publishedDateTime: 2022-06-03T00:00:00Z
+    webUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
+    images:
+      - url: "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "pmgjSTqn07wFDh7vRdSXFdVqbnV+P39qQnUlINb9SbQF5eRjoHoPxNKBmhGwfMmNGLJ5jFOXUsUMO+XKRlzojdaODMFrf3PXp9/Q0+w3KtLomYzQ7rg075MoWRvdLDX3sYhhuPfJ2xNLSSnC4O8KLsCBfBqyeRjD9XhHcO1+k5yl5yN7NPzOtqBhJBvA29esYEyMyyD3i0FSafH6OKbz7Kibc+RXCszIi9v0tnLqYcJKV1E8v++dsBNub4zv0NjYD7Fdej9XH8pvQfs6kzAN99Iz05opdXnl/H5NQWfCkmgHdtS5lNOkaW5Dcb6k7XqVOae4HVMjYPTLkchxWvu+hiFFO35Nohj4J5ZcdPTDzcWg5NcEUgsreU2Wyaq5XsE/3WXxlB8JYmlOF/SJfhqBtYS9YGcpbYLN/+geQVBvnz+ce7VH7LNKsVWRMvZhwwBEiwhT9P16m2zVIVup3TmCSDWzS4Pz3RmuS0f7QUasD3gmuJ7NT1oChpFW9NUJ7fHOFILxx36A2SqUJrqiohYvbw==;tB/o9LVyK4Dessce2qkruw=="

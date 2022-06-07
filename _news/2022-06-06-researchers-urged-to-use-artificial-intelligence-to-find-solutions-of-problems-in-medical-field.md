@@ -27,6 +27,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Researchers use Overcooked to train AI to be a better gaming buddy"
+    excerpt: "These new, more diverse approaches to training AI let it adapt to different play-styles, to make it a better team mate. DeepMind researchers have been using the chaotic cooking game Overcooked (opens in new tab) to teach AI to better collaborate with humans."
+    publishedDateTime: 2022-06-07T13:40:00Z
+    webUrl: "https://www.pcgamer.com/researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
+
 secured: "CSHKAxiebCqPg6DLczrJBbMsioIOA0MrO6HSIlnt6bvrjOje9DBiaoCrT9FS/SkTvR0KWO5T1t6WK2XzG23eXYtX8dMWNhizo655oOrNffyJi4d9eU64g1xY0LjI5EyrxSdhPxSG9Te1LtzS8jLeWXjJGb6p3Wb1Vs0j/dTr0ynE8f07nkJi7ilwtUs2H/DRI1uwQhoN8xlipKM0GAHxxVsFX2sGR2T5/EiXH316JCImNS/Ac5yANP8YIEp9cDw2qlcgVBErqtEBoJMY5qYCrlm4w21lphL+xXhcKdzebQhwIDuy9gcdCQH7CyRsrDbsrHnn8V0iFE6wlW8xjKksFx9u2VeBQ+LEyX+MK7b3guU=;Wls4aHvhfRlvdeKZ/8ZBRQ=="
 ---
 

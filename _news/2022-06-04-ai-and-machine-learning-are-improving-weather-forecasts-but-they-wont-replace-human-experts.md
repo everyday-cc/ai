@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-04T01:15:00Z
 originalUrl: "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html"
 webUrl: "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: GoDanRiver.com

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T13:41:00Z
 originalUrl: "https://www.artificiallawyer.com/2022/06/07/contract-data-startup-syntheia-acquires-motionize/"
 webUrl: "https://www.artificiallawyer.com/2022/06/07/contract-data-startup-syntheia-acquires-motionize/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: artificiallawyer.com

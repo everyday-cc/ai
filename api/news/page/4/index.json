@@ -2,6 +2,559 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-02-evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence.md",
+      "title": "Evaluating brain MRI scans with the help of artificial intelligence",
+      "excerpt": "This is where technical innovations such as artificial intelligence can offer support in interpreting clinical images. One such tool is the AI-Rad Companion Brain MR 3. Part of a family of AI-based, decision-support solutions for imaging, AI-Rad Companion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/",
+      "originalUrl": "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/05/1738_U_Screen_Retusche_AIRC_16-9_1920px.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-02T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-biologically-plausible-spatiotemporal-adjustment-helps-train-deep-spiking-neural-networks.md",
+      "title": "Biologically plausible spatiotemporal adjustment helps train deep spiking neural networks",
+      "excerpt": "Spiking neural networks (SNNs) capture the most important aspects of brain information processing. They are considered a promising approach for next-generation artificial intelligence. However ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/954275",
+      "originalUrl": "https://www.eurekalert.org/news-releases/954275",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-oral-bs-toothbrush-uses-ai-to-grade-your-teeth-brushing-habits.md",
+      "title": "Oral-B's toothbrush uses AI to grade your teeth brushing habits",
+      "excerpt": "Your teeth might not be the first thing you think about when it comes to a beauty routine. But you, like most of us, are probably in constant pursuit of a healthy and pearly white smile. Enter: the Oral-B iO Series 9 toothbrush,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review",
+      "originalUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/02RW1mKe0esLHwloSTAeh8Q/hero-image.fill.size_1200x675.v1654116314.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/oral-b-io-series-9-ai-toothbrush-review?amp",
+      "publishedDateTime": "2022-06-02T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-biden-delivers-speech-on-gun-violence.md",
+      "title": "Biden delivers speech on gun violence",
+      "excerpt": "President Biden is delivering remarks from the White House on guns and the recent mass shootings in the country. Follow here for the latest news updates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/h_133f06b43789f44e578d30709847d1f2",
+      "originalUrl": "https://www.cnn.com/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/h_133f06b43789f44e578d30709847d1f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_599/831bde8f-89f2-459f-a376-e73bcad44a7c.jpg",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html",
+      "publishedDateTime": "2022-06-02T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-10-ai-predictions-for-the-next-10-years.md",
+      "title": "10 AI Predictions For The Next 10 Years",
+      "excerpt": "The past several years have been an exciting period for artificial intelligence (AI). We used to think of it as science fiction, yet today, AI has become an everyday component of life. This is especially true with advances during the global pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/",
+      "publishedDateTime": "2022-06-02T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half.md",
+      "title": "New processors make edge AI more accessible while cutting power consumption in half",
+      "excerpt": "Expanding on its history of delivering highly integrated processors, Texas Instruments (TI) (Nasdaq: TXN) today introduced new Sitara™ AM62 processors that help expand edge artificial intelligence (AI) processing into next-generation applications.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1831042/22_25337_AM62_Texas_Instruments.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.md",
+      "title": "GREEN500 Supercomputer Powering Robot Scientists and Transformational Machine Learning",
+      "excerpt": "England’s University of Cambridge was recognized at the ISC 2022 event in Hamburg, Germany for its Dell-based Wilkes-3 supercomputer, rated 8 in the GREEN500 and 304 in the TOP500, and Cumulus system,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
+      "originalUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/06/green-500.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
+      "publishedDateTime": "2022-06-02T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-precision-healthcare-ai-tools-eyed-by-investors.md",
+      "title": "Precision healthcare AI tools eyed by investors",
+      "excerpt": "AI and ML promise to transform healthcare across the board, but particularly through the use of precision medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/",
+      "originalUrl": "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies.md",
+      "title": "Guardforce AI announces further expansion into China with acquisition of additional 12 robotics companies",
+      "excerpt": "The deal, valued at US$12 million, follows the company's previously announced definitive agreement to acquire seven robotics companies in China",
+      "sourceUrl": null,
+      "webUrl": "https://ca.proactiveinvestors.com/companies/news/983942/guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies-983942.html",
+      "originalUrl": "https://ca.proactiveinvestors.com/companies/news/983942/guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies-983942.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA2XC9Sb2JvdC1rYmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ca.proactiveinvestors.com/companies/amp/news/983942",
+      "cdnAmpWebUrl": "https://ca-proactiveinvestors-com.cdn.ampproject.org/c/s/ca.proactiveinvestors.com/companies/amp/news/983942",
+      "publishedDateTime": "2022-06-02T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion.md",
+      "title": "Pay It Forward: The Opportunity For Digital Banking To Foster Financial Inclusion",
+      "excerpt": "This is a challenge that is worthy of serious attention and rich in its potential to drive growth and improve lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6297da60aa8f22da27e1620a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/02/pay-it-forward-the-opportunity-for-digital-banking-to-foster-financial-inclusion/amp/",
+      "publishedDateTime": "2022-06-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-a-fresh-start-for-a-walk-in-the-park.md",
+      "title": "A Fresh Start for a Walk in the Park",
+      "excerpt": "The Frederik Meijer Gardens & Sculpture Park had a human face long before it received its new welcome center. Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.html",
+      "originalUrl": "https://www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/05/multimedia/05sp-design-meijer1/05sp-design-meijer1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/02/arts/design/meijer-gardens-and-sculpture-park-welcome-center.amp.html",
+      "publishedDateTime": "2022-06-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-why-ai-and-ml-is-reshaping-the-fintech-industry.md",
+      "title": "Why AI and ML is Reshaping the Fintech Industry",
+      "excerpt": "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
+      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg",
+          "width": 1800,
+          "height": 1011,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-ai-and-ml-key-combatants-in-the-cyber-security-conflict.md",
       "title": "AI and ML: Key combatants in the cyber security conflict",
       "excerpt": "Artificial intelligence and its subset machine learning are now key technology partners in the search for improved and faster cyber security processes.",
@@ -596,575 +1149,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-resisting-the-urge-to-be-impressed-knowing-what-to-talk-about-when-we-talk-about-ai.md",
-      "title": "Resisting the urge to be impressed, knowing what to talk about when we talk about AI",
-      "excerpt": "The barrage of new AI models released by the likes of DeepMind, Google, Meta and OpenAI is intensifying. Each of them is different in some way, each of them renewing the conversation about their achievements, applications, and implications. Imagen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "originalUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/728bdcace26af7271985d45af09c70fc07b98765/2021/10/18/7064a693-160b-4306-b2fa-82172337ef98/innovation-ai-automation.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "publishedDateTime": "2022-06-01T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects.md",
-      "title": "AI Ethics And Legal AI Experts Greatly Alarmed About Dual-Use AI Which Empowers So-Called Doctor Evil Projects,...",
-      "excerpt": "(Answer: There is a growing push about publicizing and promulgating AI Ethics, which is one of several fronts being pursued). What types of controls or limits can be pressed into service regarding dual-use AI to aid in preventing potential societal calamities?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6293e3735e5e40627fd631af/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2022-06-01T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-tensorflow-defaults-to-intel-onednn-ai-optimizations.md",
-      "title": "TensorFlow defaults to Intel oneDNN AI optimizations",
-      "excerpt": "Following Google and Intel's partnership, the open-source TensorFlow has announced that their machine learning library is being updated.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/TensorFlow-defaults-to-Intel-oneDNN-AI-optimizations-1024x585.png",
-          "width": 1024,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "publishedDateTime": "2022-06-01T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-rendered-ai-streamlines-synthetic-data-for-gis-digital-twins.md",
-      "title": "Rendered AI streamlines synthetic data for GIS digital twins",
-      "excerpt": "Satellite imagery promises to play an essential role in creating digital twins that could help model carbon emissions, increase farming yields and monitor the oceans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/",
-      "originalUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1337105696.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/amp/",
-      "publishedDateTime": "2022-06-01T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game.md",
-      "title": "AI and natural language processing are here to change the IELTS prep game!",
-      "excerpt": "IELTS test aspirants, over the years, have been confounded by how to self-assess their writing and speaking skills. It is not as if you can have a certified tutor available at hand all the time. But thanks to natural language processing and artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.html",
-      "originalUrl": "https://www.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2022/6/1/w600X390/DELSEP2021430_06062246.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.amp",
-      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.amp",
-      "publishedDateTime": "2022-06-01T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "edexlive",
-        "domain": "edexlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-computer-vision-market-2022-size-revenue-growth-rate-restraints-and-forecast-analysis-by-2030.md",
-      "title": "Computer Vision Market 2022 Size, Revenue, Growth Rate, Restraints, and Forecast Analysis by 2030",
-      "excerpt": "Jun 01, 2022 (Alliance News via COMTEX) -- Computer vision Market 2022 with Size, Status, and Development Strategy Pre and Post COVID-19, by Corporate Strategy Analysis, Landscape, Type ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2022-size-revenue-growth-rate-restraints-and-forecast-analysis-by-2030-2022-06-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2022-size-revenue-growth-rate-restraints-and-forecast-analysis-by-2030-2022-06-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space.md",
-      "title": "Amazon Re:Mars Is The Place To Be If You're Into Machine Learning, AI, Robotics And Space",
-      "excerpt": "Naturally, since AI will impact everyone, it's crucial to have a diverse ... technology and actual product integrations—what's already out there and how to start bringing it into their daily operations. Next, we discussed the \"final frontier\" of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research.md",
-      "title": "Standigm Signs MOU with Merck Korea for AI drug Discovery Research",
-      "excerpt": "Merck's retrosynthesis AI software SYNTHIA™ accelerates Standigm's synthesis capabilitySEOUL, South Korea, June 1, 2022 /PRNewswire/ --",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031501848",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031501848",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1829180/1.jpg",
-          "width": 400,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-artificial-intelligence-technology-solutions-files-10-k-and-audited-financials.md",
-      "title": "Artificial Intelligence Technology Solutions Files 10-K and Audited Financials",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its annual report on Form 10-K with the Securities and Exchange Commission for its fiscal year 2022 ended February 28,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-dda034efc1d23514689024c2f1e520b3",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-dda034efc1d23514689024c2f1e520b3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-phil-edmundon-creates-ai-driven-corvus-to-transform-commercial-insurance.md",
-      "title": "Phil Edmundon Creates AI-Driven Corvus To Transform Commercial Insurance",
-      "excerpt": "One company changing the commercial insurance industry is Corvus Insurance. Founded in 2017 by insurance veteran and entrepreneur, Phill Edmundson, the Boston-based company is applying AI techniques and data to provide smarter commercial insurance policies for companies of all sizes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/06/01/phil-edmundon-creates-ai-driven-corvus-to-transform-commercial-insurance/",
-      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/06/01/phil-edmundon-creates-ai-driven-corvus-to-transform-commercial-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62963827555252661b666003/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/06/01/phil-edmundon-creates-ai-driven-corvus-to-transform-commercial-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/06/01/phil-edmundon-creates-ai-driven-corvus-to-transform-commercial-insurance/amp/",
-      "publishedDateTime": "2022-06-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ai-and-robotics-set-to-disrupt-construction-waste-recycling.md",
-      "title": "AI and robotics set to disrupt construction waste recycling",
-      "excerpt": "Recycleye pairs an AI recognition system with a robotic sorting arm to replace human pickers on material recycling facility (MRF) lines. The start-up company, founded in 2019, by two Imperial College London graduates, is a finalist in a new Young Inventors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bimplus.co.uk/ai-and-robotics-set-to-disrupt-construction-waste-recycling/",
-      "originalUrl": "https://www.bimplus.co.uk/ai-and-robotics-set-to-disrupt-construction-waste-recycling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bimplus.co.uk/wp-content/uploads/2022/06/recycleye-featured.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bimplus.co.uk",
-        "domain": "bimplus.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-vi-launches-aiml-driven-adtech-platform-vi-ads.md",
-      "title": "Vi launches AI/ML-driven adtech platform 'Vi Ads'",
-      "excerpt": "Vi Ads will enable marketers to engage with the operator’s over 243 million subscribers through digital media as well as traditional channels",
-      "sourceUrl": null,
-      "webUrl": "https://www.exchange4media.com/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
-      "originalUrl": "https://www.exchange4media.com/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.exchange4media.com/news-photo/120585-main32.jpg",
-          "width": 730,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
-      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
-      "publishedDateTime": "2022-06-01T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Exchange 4 Media",
-        "domain": "exchange4media.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

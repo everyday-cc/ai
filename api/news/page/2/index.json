@@ -2,6 +2,515 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-06-cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers.md",
+      "title": "Cool, Cutting-Edge AI Videos Will Change How Companies Communicate With Their Workers",
+      "excerpt": "D-ID is launching a new platform that produces uniquely personalized and engaging e-learning, corporate training and marketing AI video content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//617c1ef97d3ecf82b2fcf7db/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2022/06/06/cool-cutting-edge-ai-videos-will-change-how-companies-communicate-with-their-workers/amp/",
+      "publishedDateTime": "2022-06-06T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-neural-networks-dont-work-like-the-human-brain-because-they-learn-differently.md",
+      "title": "Neural networks don’t work like the human brain because they ‘learn’ differently",
+      "excerpt": "We’re told neural networks ‘learn’ the way humans do. A neuroscientist explains why that’s not the case — and why AI can't think like us yet.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/neural-networks-dont-work-like-the-human-brain-because-they-learn-differently",
+      "originalUrl": "https://thenextweb.com/news/neural-networks-dont-work-like-the-human-brain-because-they-learn-differently",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-conversational-ai-trends-forecasts-application-options.md",
+      "title": "Conversational AI: Trends, Forecasts, Application Options",
+      "excerpt": "Text-to-speech dictation and language translation are two ways AI can help with accessibility. This can in turn help companies reduce entry barriers and become more accessible. As can be seen from above, AI chatbots and apps can reduce time and improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629a305769a5cdb9454fcbbb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
+      "publishedDateTime": "2022-06-06T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever.md",
+      "title": "As The Society Grows Older, Will Cognitive Robotics Become More Relevant Than Ever?",
+      "excerpt": "Robots can be very relevant in elderly care, offering companionship, assistance in doing mundane tasks, feeding and cleaning the owner and more. They can be preprogrammed with instructions or have a semi or fully automated mode of operation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628dce5105c629476f59856e/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/amp/",
+      "publishedDateTime": "2022-06-06T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve.md",
+      "title": "AI translates maths problems into code to make them easier to solve",
+      "excerpt": "An artificial intelligence that can turn mathematical concepts written in English into a formal proving language for computers could make problems easier for other AIs to solve",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2322999-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve/",
+      "originalUrl": "https://www.newscientist.com/article/2322999-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/06/06114333/SEI_107484895.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data.md",
+      "title": "How Traditional Enterprises Can Supercharge Legacy Products And Operations With AI And Wide Data",
+      "excerpt": "Many traditional enterprises are looking to artificial intelligence (AI) to help drive digital transformation. That might mean supercharging a company's own software or hardware products with AI capabilities that are being sold to their customer base and/or transforming their internal business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6239f1f3eb42ed971885909e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/amp/",
+      "publishedDateTime": "2022-06-06T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-sex-robots-could-soon-feel-things-just-like-humans-thanks-to-creepy-ai-touch-tech.md",
+      "title": "Sex robots could soon feel things 'just like humans' thanks to creepy AI touch tech",
+      "excerpt": "A new breakthrough in 'printed skin' gives robots a sense of touch just like humans - it could make sex robots even more advanced for steaming hot romps with doll lovers in the bedroom",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933",
+      "originalUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dailystar.co.uk/incoming/article27157316.ece/ALTERNATES/s615/0_Inside-Londons-first-sex-robot-party-where-humans-romp-with-dolls.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp",
+      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp",
+      "publishedDateTime": "2022-06-06T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Star",
+        "domain": "dailystar.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-rstudio-is-now-available-on-azure-ml.md",
+      "title": "RStudio is now available on Azure ML",
+      "excerpt": "RStudio has announced a new partnership with Azure ML to deliver RStudio WorkBench on the Azure platform. RStudio, an integrated development environment (IDE) for programming language R, provides open source and enterprise-ready professional software for data science,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/rstudio-is-now-available-on-azure-ml/",
+      "originalUrl": "https://analyticsindiamag.com/rstudio-is-now-available-on-azure-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-24.png",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain.md",
+      "title": "Chitti The Robot Got Competition! Indian Researcher Develops E-Skin That Can Actually Feel Pain",
+      "excerpt": "The artificial skin was developed by Ravinder Dahiya's team at the university using a novel sort of processing system based on synaptic transistors.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain",
+      "originalUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/781e9c68-ff8c-4e9b-9f9f-e20bd4397e4c_95zq.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain?amp=1",
+      "publishedDateTime": "2022-06-06T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak.md",
+      "title": "Val Kilmer’s Top Gun: Maverick dialog was all AI since he can no longer speak",
+      "excerpt": "An interview with Val Kilmer's daughter revealed that he used a special voice AI to bring Iceman to life in Top Gun: Maverick.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/",
+      "originalUrl": "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/06/val-kilmer-as-iceman-in-top-gun-maverick.jpg?quality=82&strip=all",
+          "width": 1920,
+          "height": 1031,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/val-kilmers-top-gun-maverick-dialog-was-all-ai-since-he-can-no-longer-speak/amp/",
+      "publishedDateTime": "2022-06-05T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.md",
+      "title": "Automating Signature Recognition Using Capgemini MLOps Pipeline on AWS",
+      "excerpt": "Signature-recognition technologies can help reduce human error, time, and limitations involved in manual verification processes. With Capgemini and AWS, creating the necessary machine learning models is easy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html",
+      "originalUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/06/iStock-1322050816.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp",
+      "publishedDateTime": "2022-06-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-roadblocks-to-getting-real-time-ai-right.md",
       "title": "Roadblocks to getting real-time AI right",
       "excerpt": "Specialized hedge funds and big-name AI players – like Google and Facebook – make use of real ... This makes transitions from research to production expensive and labor-intensive.",
@@ -321,7 +830,7 @@
       "originalUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -418,7 +927,7 @@
       "originalUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -450,59 +959,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars.md",
-      "title": "AI Ethics And The Perplexing Societal And Legal Role Of AI Activism, Including In The Case Of Autonomous Self-Driving Cars",
-      "excerpt": "AI activism is on the rise, dovetailing into the AI Ethics movement, so it is worthy to take a close look at what AI activism is all about, including in the case of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6296a226bb1124449cbe2b9c/0x0.jpg?format=jpg&crop=2781,2160,x934,y0,safe&width=1200",
-          "width": 1200,
-          "height": 932,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-06-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -729,503 +1185,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-agtech-robotics-firm-farmwise-just-raised-another-45-million.md",
-      "title": "Agtech robotics firm FarmWise just raised another $45 million",
-      "excerpt": "FarmWise, makers of autonomous weeding robotics, announced a $45 million raise, led by Fall Line Capital and Middleland Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
-      "originalUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/FarmWise-Robot.png?w=1024",
-          "width": 1024,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
-      "publishedDateTime": "2022-06-03T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls.md",
-      "title": "This business is deploying 40 Samsung-powered robots to roam its halls",
-      "excerpt": "Using a shared, cloud-based \"brain,\" the robots will move around three floors, delivering packages, coffee and lunch boxes to employees",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
-      "originalUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/746c29f1daf507879ca69ec2c2afbb9217436925/2022/06/03/7459195f-c993-4e50-b290-c295f124b5ff/naver-package.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
-      "publishedDateTime": "2022-06-03T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-how-ai-brings-accessibility-and-equity-to-healthcare.md",
-      "title": "How AI brings accessibility and equity to healthcare",
-      "excerpt": "Artificial intelligence can step in to provide quality care options at a lower cost for healthcare options. Companies like Vara and Paradromics are already working to increase access, affordability and ultimately healthcare outcomes — and investors are paying close attention.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/",
-      "originalUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/01-02-workflow.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/",
-      "publishedDateTime": "2022-06-03T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-adopting-mlsecops-for-secure-machine-learning-at-scale.md",
-      "title": "Adopting MLSecOps for secure machine learning at scale",
-      "excerpt": "If you’re an ML practitioner, the field of MLSecOps is rapidly developing and now is an excellent time to contribute to the discussion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/",
-      "originalUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1097722576-XH4D.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/",
-      "publishedDateTime": "2022-06-03T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-us-shootings-firm-unveils-plans-for-taser-armed-drones.md",
-      "title": "US shootings: Firm unveils plans for Taser-armed drones",
-      "excerpt": "\"Reasonable minds can differ on the merits of police-controlled Taser-equipped drones - our own board disagreed internally - but we unanimously are concerned with the process Axon",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-61685117?at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=4FB0FBCE-E3DB-11EC-83F3-F28731EBDC67&at_custom1=%5Bpost+type%5D",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-61685117?at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=4FB0FBCE-E3DB-11EC-83F3-F28731EBDC67&at_custom1=%5Bpost+type%5D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/516E/production/_125264802_gettyimages-1164948747.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-61685117.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-61685117.amp",
-      "publishedDateTime": "2022-06-03T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly.md",
-      "title": "Improve organizational diversity, equity, and inclusion initiatives with Amazon Polly",
-      "excerpt": "Organizational diversity, equity and inclusion (DEI) initiatives are at the forefront of companies across the globe. By constructing inclusive spaces with individuals from diverse backgrounds and experiences, businesses can better represent our mutual societal needs and deliver on objectives. In the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T11:55:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing.md",
-      "title": "Scythe Robotics CEO Jack Morrison discusses autonomous mowing",
-      "excerpt": "This week, we talk to Scythe Robotics CEO and Co-founder Jack Morrison about the market for commercial autonomous mowers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
-      "originalUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/scythe-mower-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-use-serverless-inference-to-reduce-testing-costs-in-your-mlops-pipelines.md",
-      "title": "Use Serverless Inference to reduce testing costs in your MLOps pipelines",
-      "excerpt": "Amazon SageMaker Serverless Inference is an inference option that enables you to easily deploy machine learning (ML) models for inference without having to configure or manage the underlying infrastructure.&nbsp;SageMaker Serverless Inference is ideal for applications with intermittent or unpredictable",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-serverless-inference-to-reduce-testing-costs-in-your-mlops-pipelines/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-serverless-inference-to-reduce-testing-costs-in-your-mlops-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/use-serverless-inference.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T09:52:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend.md",
-      "title": "Translate, redact and analyze streaming data using SQL functions with Amazon Kinesis Data Analytics, Amazon Translate, and Amazon Comprehend",
-      "excerpt": "You may have applications that generate streaming data that is full of records containing customer case notes, product reviews, and social media messages, in many languages. Your task is to identify the products that people are talking about, determine if they’re expressing positive or negative sentiment,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/translate-redact.jpg",
-          "width": 1000,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T09:37:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-the-forgotten-margins-of-ai-ethics-a-paper-on-ai-ethics-with-teeth.md",
-      "title": "The forgotten margins of AI ethics - a paper on AI ethics with teeth",
-      "excerpt": "The field of AI ethics seems to generate more happy talk than potent ideas. It's rare to find an academic paper with real world teeth, but \"The forgotten margins of AI ethics\" stands out. Here's my critical review.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
-      "originalUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2015-09/Fotolia_85545935_Subscription_Monthly_M-e1540994230373.jpg",
-          "width": 701,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
-      "publishedDateTime": "2022-06-03T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

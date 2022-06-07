@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T13:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/spheregan-novel-and-improved-neural-network-developed-by-researchers-from-chung-ang-university/article_dc811626-e649-563e-9532-498a81367a4a.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/spheregan-novel-and-improved-neural-network-developed-by-researchers-from-chung-ang-university/article_dc811626-e649-563e-9532-498a81367a4a.html"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: WFMZ-TV

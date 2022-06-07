@@ -38,20 +38,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 105
-  - title: "Amazon SageMaker Notebook Instances now support configuring and restricting IMDS versions"
-    excerpt: "Today, we’re excited to announce that Amazon SageMaker now supports the ability to configure Instance Metadata Service Version 2 (IMDSv2) for Notebook Instances, and for administrators to control the minimum version with which end-users create new Notebook Instances. You can now choose IMDSv2 only for"
-    publishedDateTime: 2022-06-02T22:02:36Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-notebook-instances-now-support-configuring-and-restricting-imds-versions/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/02/sagemaker-imds-versions.jpg"
-        width: 1000
-        height: 499
-        isCached: true
 
 secured: "HlTNPTJrUVAZRmPh4gH3uUUIu51Dq9cG3iGtxPFSJfrsk5PqjHKXfoqQGI9HTEWxJmapzyM3z1w4pY9/io4P6jeSOj+wKJI3oXtgGEoMu+BX76iZSpgOGdpf+5gydxZKg4QLbD2orf+V4E3w8vGs+Q0nAB4iVHtVxvnWPh5/1wFnyHf7y3RGZUnKzatVXVKHkfoRZYqjJ693G1ffwk2iOMr9qtkD514MbDXquNmdtn/ErrPlDbvzSH2zRnd35nlBcJlrTf3fp5bERASQh6jPJjHr3sfl5InE4RPtaOVR09zbN9FUkOQLLjq+hipIFWOHkqXB8u75gpi0EulAgwdZO40d/jFGpsgU7uIPS5UlvTs=;BUZER326gnxc7uSu7Kn5hA=="
 ---

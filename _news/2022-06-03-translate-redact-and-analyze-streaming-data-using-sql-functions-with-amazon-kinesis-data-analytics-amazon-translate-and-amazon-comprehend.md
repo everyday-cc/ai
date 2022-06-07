@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and
 webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-redact-and-analyze-streaming-data-using-sql-functions-with-amazon-kinesis-data-analytics-amazon-translate-and-amazon-comprehend/"
 type: article
 quality: 101
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1327016094-e1654538126130.jpg?fit=800%2C533&strip=all"
         width: 800
         height: 450
-        isCached: true
-  - title: "AI, predictive analytics top list of hot technologies for banks"
-    excerpt: "AI, machine-learning, predictive analytics, natural language processing (NLP), computer vision and microarchitecture are hot technologies that banks are investing in today, according to a Forrester report."
-    publishedDateTime: 2022-06-02T20:59:00Z
-    webUrl: "https://www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html"
-    ampWebUrl: "https://www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400345/ai-predictive-analytics-top-list-of-hot-technologies-for-banks.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 57
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/06/fintech_electronic_payments_banking_dollars_euros_pounds_yen_by_metamorworks_gettyimages-1127063674_2400x1600-100835370-orig-100890294-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Financial Analytics Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
     excerpt: "According to IMARC Group latest report titled \"Financial Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"

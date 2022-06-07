@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T13:20:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/compact-ai-powered-dwarf-ii-telescope-makes-astronomy-and-nature-photography-easy-for-consumers-1031513643"
 webUrl: "https://markets.businessinsider.com/news/stocks/compact-ai-powered-dwarf-ii-telescope-makes-astronomy-and-nature-photography-easy-for-consumers-1031513643"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Business Insider

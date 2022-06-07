@@ -39,20 +39,6 @@ related:
         width: 912
         height: 512
         isCached: true
-  - title: "MoL launches new e-services"
-    excerpt: "Meanwhile, the service of submitting labour recruitment applications for Qatar Financial Centre companies enables the ... speed up and improve procedures through the introduction of machine learning techniques, the statement explains."
-    publishedDateTime: 2022-06-02T22:10:00Z
-    webUrl: "https://www.gulf-times.com/story/718424/MoL-launches-new-e-services"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 24
-    images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/6202231956306653207.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "Mol Launches New E-Services"
     excerpt: "The digital transformation will result in excellence in performance and speedy completion of transactions  <br/> <br/> <br/>"
     publishedDateTime: 2022-06-03T19:06:00Z

@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-07-bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience.md",
+      "title": "Bengaluru Airport Introduces AI Robots For Enhanced Passenger Experience",
+      "excerpt": "Currently at the trial stage, these 10 robots have been deployed at the airport to help guide passengers and answer basic queries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
+      "originalUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/05/bengaluru-airport.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
+      "publishedDateTime": "2022-06-07T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale.md",
+      "title": "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale",
+      "excerpt": "AWS RoboMaker Enables Miso to Run Hundreds of Simulations to Ensure Software StabilityPASADENA, Calif., June 7, 2022 /PRNewswire/ -- Today, Miso",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-announces-collaboration-with-aws-to-test-robots-at-scale-1031513110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-can-a-recruiting-robot-be-ethical.md",
       "title": "Can A Recruiting Robot Be Ethical?",
       "excerpt": "Ethics as they relate to AI and hiring employees can be divided into 4 categories: Fairness, Accountability, Privacy and Transparency. It is my feeling that transparency should be the first priority. Without transparency there is no place to start the ...",
@@ -185,21 +272,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-06-an-artificial-intelligence-pilots-a-modern-mayflower-to-canada.md",
-      "title": "An artificial intelligence pilots a modern Mayflower to Canada",
-      "excerpt": "The robot ship designed by IBM was meant to dock in Massachusetts, but mechanical trouble forced it to dock in Halifax, Canada. The ship didn't have a crew.",
+      "path": "_news/2022-06-06-sex-robots-could-soon-feel-things-just-like-humans-thanks-to-creepy-ai-touch-tech.md",
+      "title": "Sex robots could soon feel things 'just like humans' thanks to creepy AI touch tech",
+      "excerpt": "A new breakthrough in 'printed skin' gives robots a sense of touch just like humans - it could make sex robots even more advanced for steaming hot romps with doll lovers in the bedroom",
       "sourceUrl": null,
-      "webUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada",
-      "originalUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada",
+      "webUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933",
+      "originalUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://npr.brightspotcdn.com/dims4/default/0acc448/2147483647/strip/true/crop/1066x600+79+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fe5%2F5849f0b84b2199a671bd181ea0ed%2Fhcdhr-cz.jpeg",
-          "width": 430,
-          "height": 242,
+          "url": "https://i2-prod.dailystar.co.uk/incoming/article27157316.ece/ALTERNATES/s615/0_Inside-Londons-first-sex-robot-party-where-humans-romp-with-dolls.jpg",
+          "width": 615,
+          "height": 409,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -207,13 +294,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada?_amp=true",
-      "cdnAmpWebUrl": "https://www-boisestatepublicradio-org.cdn.ampproject.org/c/s/www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada?_amp=true",
-      "publishedDateTime": "2022-06-06T04:05:00-07:00",
+      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp",
+      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp",
+      "publishedDateTime": "2022-06-06T03:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Boise State Public Radio",
-        "domain": "boisestatepublicradio.org",
+        "name": "Daily Star",
+        "domain": "dailystar.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -280,7 +367,7 @@
       "originalUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -513,7 +600,7 @@
       "originalUrl": "https://electrek.co/2022/06/02/tesla-bot-have-humanoid-robot-prototype-elon-musk-sept-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -1290,85 +1377,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-simpleshow-explainer-videos-powered-by-artificial-intelligence.md",
-      "title": "simpleshow Explainer Videos Powered by Artificial Intelligence",
-      "excerpt": "We all know that artificial intelligence (AI) will have a significant impact on our future. In reality, we can see that AI is already operational in our daily lives and at work. Self-driving cars, vacuum cleaner robots, image analysis, and virtual ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/",
-      "originalUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-05-26T20:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap.md",
-      "title": "Artificial Intelligence (AI) in Agriculture Market Report Shows Demand to Boost Industry Growth from 2022 to 2026| IBM, Intel, Microsoft, SAP, etc.",
-      "excerpt": "The Global “Artificial Intelligence (AI) in Agriculture Market” provides a comprehensive valuation of the market through in-depth understanding, accurate market growth, deep market analysis, evaluating past developments,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/300975/uncategorized/artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap-etc/",
-      "originalUrl": "https://xaralite.com/300975/uncategorized/artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap-etc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

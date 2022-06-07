@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/story/money/business/tech/2022/06/03/rafa
 webUrl: "https://www.usatoday.com/story/money/business/tech/2022/06/03/rafaela-vasquez-driver-fatal-semiautonomous-uber-crash-tempe-rejects-plea-deal/7501853001/"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 678
     isCached: true
+
+related:
+  - title: "Waymo and Uber Partner to Deploy Self-Driving Trucks at Scale"
+    excerpt: "Waymo and Uber are partnering to make it easier for shippers and carriers to use autonomous trucks. This is another step towards making self-driving semi trucks mainstream and widely available. It's easy to think of self-driving cars as the main battleground for autonomy."
+    publishedDateTime: 2022-06-07T15:01:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/waymo-and-uber-partner-trucking/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/a9ec5b2725e71857fb4bc61733b794bcdc7ca812/2022/06/07/3f662fc3-12e2-4d72-9fe9-ace4456b9bc8/waymo-via-uber-freight-ogi.jpg?auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "enIj0pWlnDVS/csa0NJn47stjCnIej9gueBXa7pYBc/n8neJE/u/dKWsImIFBjEkzewS0zWieK2WKbnOzzVGp6YzyNxO7htYFNrT7rc57BQcMx8AuOJguWn4CAa2n+IEZ7kpiOBCfvz2LDKuM1RNZeDlyzweDvjkNyne8bCmQ362s1wotf4KME7c7eMKrUkommpKRyZWYW0X1CIAV8U46Ve4fzy78NhKQ+yJ4lh6kBgSwRT3e6F+3oP9gwIlTBCQG/iX7By4iub6njTx7iXlJL0YD3ybt35NgT2bLQOD8xak4F1Ls2+rG0QgRMJAldDqMmGH5vOwUyArwLj1gsgQ2AdtMRJlg9Di+BpCHWw4sEOTJ9UzJzExl2cFrCsIf8LXh3WvBaTe1Y8rIQ/hEyMdn2wfxeeJyxq+mCyKXuoRSPVuzomFSRByxPvrxufSyo3nJbR6zKOcdCiGMQmK+8YJLyALNy62xbeLhMHjlbGewEWuqIyAa7hPbq5hORFNtuzeNUs+pz3MdOHFq6DmoFCD6A==;gIsgbAVznCQ7khLzU5d00g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.daily-sun.com/amp/post/624512/Startups-fuel-Indias-growi
 cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/624512/Startups-fuel-Indias-growing-obsession-with-skincare"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,33 @@ images:
     width: 976
     height: 549
     isCached: true
+
+related:
+  - title: "Amazon India announces Machine Learning summer school"
+    excerpt: "Hyderabad: Amazon India on Tuesday launched the second edition of Machine Learning (ML) Summer School, an immersive programme that aims to provide"
+    publishedDateTime: 2022-06-07T14:42:00Z
+    webUrl: "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school"
+    ampWebUrl: "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp"
+    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 59
+    images:
+      - url: "https://telanganatoday.com/wp-content/uploads/2022/06/amazon-67.jpg"
+        width: 680
+        height: 370
+        isCached: true
+  - title: "Amazon India launches second edition of Machine Learning training programme for students"
+    excerpt: "Amazon India has launched the second edition of Machine Learning (ML) Summer School, that aims to provide students the opportunity to learn key ML technologies from scientists at Amazon making them ready for careers in science. The course, conducted over ..."
+    publishedDateTime: 2022-06-07T13:11:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/education/amazon-india-launches-second-edition-of-machine-learning-training-programme-for-students/article65503857.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 25
 
 secured: "ixaZORCd0TZdplaSJOXYzj81H3Hkv0bdhbEb9UZj8giFlHhveJlW5VHgVfag8tXd2gnX6+gygsxGSvcyWTSBtIrKrZeOvvqnMWYE1E2n5GzNx15ssTQhWecHeMQW9s4kxSqguq1/rxWbj9LtrMo26wLup0OVbI3vaRx2jtjqXFQxSb0BF7QWf0w5yGVDC8VW+sZxmmouWH8i+Iu9q5g6LJnYVxt+YoB8YvMFjy5fVugCqTI/qWv9eGiVw25nfBGtbiuPjyAh3OEl7b6RTuBXd3Rg7YPOSGiH3ypp21Ykd+tk3H0SOBcLtr6IFmgycxIf44qJpl0qE5d0tiaQVBeCgio/9gtwJRHmY9+X8LaSKfrlZONjaXptGRpTyuhNG9hyx9AEUFHc/ML22ql4SZohuZZGA4WoMb/faNWCgjP8P/xYigH8gHzvffeJ2im/bzUQptgMuXJz6XxvBiXp1JoYgOaf0FXV5J1D5wkLpCo2gD/ji7X1GC65JGraBqqTM26UW3qex9A48GxqVH67ansdyw==;WM8hVUQ5C60MT+omIAys9A=="
 ---

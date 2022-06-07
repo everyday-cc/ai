@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T12:00:00Z
 originalUrl: "https://www.pharmaceutical-technology.com/dashboards/filings/filings-buzz-in-pharmaceuticals-52-increase-in-artificial-intelligence-mentions-in-q4-of-2021/"
 webUrl: "https://www.pharmaceutical-technology.com/dashboards/filings/filings-buzz-in-pharmaceuticals-52-increase-in-artificial-intelligence-mentions-in-q4-of-2021/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Pharmaceutical Technology
