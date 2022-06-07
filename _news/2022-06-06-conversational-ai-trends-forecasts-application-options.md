@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/convers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "Understand the lucrative career options in the Application of AI in Semicon with Intel leaders"
-    excerpt: "Intel, in collaboration with Analytics India Magazine, is organising a webinar on the applications of AI in semiconductor design."
-    publishedDateTime: 2022-06-02T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/understand-the-lucrative-career-options-in-the-application-of-ai-in-semicon-with-intel-leaders/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 27
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/Anushka-pandit-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "Ibsa9pbLHM5LDz8+o06GSW/KaLTey7CUzlRUS3SR7Dez6nWp4M5Xc/psRaEB2/8fTicOH+PJtAjaLeGQml+3l0xr1Qec24nvqs+J+wdJ1e4ZcLzmB80Eu5O1LK3oQ99oIf2yMLQXWXoOQgde63Gjsq2A2A2YQGScuHlZi8HE0xxreSgSL8mwYIUfCyhQau4EYkYrk1o1XcQr2gnTDdxdV+OVXOV2isdhXrD3lC2dF/vI3FQ/Jh+vBt7UfqyDSiT4P5mIVQBB/RV6xMnes9pA//sgKbjutqBMDyMgeFRFId9PuuTxbRnaVdZQwH8Cmc3gg1cJZjnCZ5p0osSUmHeeUGfv7gmqvvLqAF4MDgFFvBMv1/obk2nLMCKxNpp9jl87CkaLWpksBKuW64f59WWFBtIfhkcR+TkuOwrHnUtUSBjBU/KNQvw82+LZsDjIFCrMVOansSOBRJw/Z5pbnfhqoxy6yqRdKpzsRdFaSlzCX4I76wnoN/KOKc8alfhxyG4asFj368Frt9GZf75M0yWFtA==;enivqhDnZpbCuhM8TBQC5Q=="
 ---

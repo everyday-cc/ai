@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-06-machine-learning-method-hallucinate
 ampWebUrl: "https://techxplore.com/news/2022-06-machine-learning-method-hallucinates-text.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-machine-learning-method-hallucinates-text.amp"
 type: article
-quality: 43
-heat: 43
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
+  - IBM AI
 
 images:
   - url: "https://scx1.b-cdn.net/csz/news/800/2022/hallucinating-to-bette-1.jpg"
@@ -26,6 +28,6 @@ images:
     height: 480
     isCached: true
 
-secured: "y4/Yy7f2VHkm5jLkERZ9Uz3BSso2FqWirObGCEAJQ+k37MbGT0OxGhDfxy0hmARH84QKcDeWWrPwqTaIUuSd3b31pt6aKXYfMyW8xsdN/n9yR+mqjh0vjS4buNt4WLPXPisTnUQkmwIAI+EdrMOMJl+TxdZSSoJ20adhkVE++NQ5lG68O6Ack7EXNvB50qQkHCeNS6Weh51B3OI/C9+5byYRPotelyOvmhKhtXTGfp03Dph2dXjr5pM8imck3iDhqyr0j2vfHf9qKn+f9phHJ8uzxHO3YuDwnXBkucou+J+BjowjLmRnZfeivzPUO+Tmtz/MSVXcZBUG5ExvsGJ6l14H0hQRBNBkW/GOs/lRuPg=;bLJR80ltq5Q0+0PcXDDCfg=="
+secured: "qzL/Z0QHXRcW5fseU5fxtJC9vnAt/mXBwXzDoP3zQ2Wv+OPsq+HWWYOPM54kSDWw0De3QcrO6/msp0NjnMuTK8CsVGQhSEoNQ8CdqO49bndIHu5effAdTKj2LhunuDdLmkhTLhkzIN6OdPoHUmWnppGAHprUKT5/oaQIjeGtgEe7VMwF+mNnTBruMLuPcqOKrUzwzMgzG+DhTir/NdCVDFTgASbXGu2HATbLDCSOnaZ5VDXT3y3UaT6b6I19g2OmEZSAD/gB5E0h1pKsOCW4H4PnClSlo29FZuoEUbyy30hCj0O2AX5w6R0erdsEZ0ZLpd5+TZZeeAXdaIHGRcOD3ZOrk89HkhldronQO0Pmu8KKwOdBHjA9OOwJbaYvVF+Cx0NZG5N7Yex+31NfxgzK/hGUWzgYtnS4qeD5sOzbkWlIxwWSyIpLbzLtznmnbc5c8FovxPbEWaifwXKGBJktLKrX/CYCHw1kUM6w4TONd/xioSZsHxWykqZL3SEDk+mwK0f2JsH6/3QHtAjUTP0Qfg==;n8l4fj4hWesEWRhF0n5NyA=="
 ---
 

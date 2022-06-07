@@ -2,6 +2,91 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-03-30-reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence.md",
+      "title": "Reputation launches AI platform to provide enterprises with competitive intelligence",
+      "excerpt": "California-based Reputation has launched Competitive Intelligence, a new product aimed at helping enterprises better track their rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/",
+      "originalUrl": "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/Customize-Brands-to-Compare-e1648650585265.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/30/reputation-launches-ai-platform-to-provide-enterprises-with-competitive-intelligence/amp/",
+      "publishedDateTime": "2022-03-30T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-waymo-to-expand-autonomous-vehicle-rides-to-san-francisco.md",
+      "title": "Waymo to expand autonomous vehicle rides to San Francisco",
+      "excerpt": "SAN FRANCISCO (AP) — Waymo’s self-driving ride-hailing service is branching out to San Francisco. The autonomous vehicle unit of Alphabet, Google’s parent company, said Wednesday that it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/waymo-to-expand-autonomous-vehicle-rides-to-san-francisco/",
+      "originalUrl": "https://www.seattletimes.com/business/waymo-to-expand-autonomous-vehicle-rides-to-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-30T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-iar-systems-enables-powerful-aiml-applications-based-on-alif-semiconductors-microcontrollers-and-fusion-processors.md",
       "title": "IAR Systems enables powerful AI/ML applications based on Alif Semiconductor's microcontrollers and fusion processors",
       "excerpt": "The partnership between IAR Systems and Alif Semiconductor accelerates innovation in the embedded space through strong artificial intelligence (AI) and machine learning (ML) capabilities UPPSALA, Sweden,",
@@ -1064,100 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program.md",
-      "title": "Sygno, Provider of Automated Machine Learning Monitoring Models, Enters ING Labs Program",
-      "excerpt": "Sygno, the provider of Automated Machine Learning (AutoML) transaction monitoring models, has reportedly joined the recent cohort of scale-ups that will enter the ING Labs 2022 Program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/amp/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2017/08/Science-Chemistry-Lab-Experiment.jpg",
-          "width": 1280,
-          "height": 998,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/03/189040-sygno-provider-of-automated-machine-learning-monitoring-models-enters-ing-labs-program/amp/",
-      "publishedDateTime": "2022-03-29T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-ai-handing-out-rough-justice-in-the-uk.md",
-      "title": "AI Handing Out Rough Justice In The U.K.",
-      "excerpt": "Report raises fears over the use of AI in the U.K. justice system, with algorithms used to determine risk of reoffending and sham marriages",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62430d3e3c540bd1d38590c8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/ai-handing-out-rough-justice-in-the-uk/amp/",
-      "publishedDateTime": "2022-03-29T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

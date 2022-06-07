@@ -2,6 +2,92 @@
   "page": 141,
   "value": [
     {
+      "path": "_news/2022-02-05-google-owned-deepminds-alphacode-one-step-closer-to-autonomous-coding.md",
+      "title": "Google-owned DeepMind's AlphaCode one step closer to autonomous coding",
+      "excerpt": "Google-owned artificial intelligence company DeepMind has created a new coding engine called AlphaCode, that it says is as competent as an average programmer. The company tested AlphaCode by putting it through coding challenges used in competitions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/google-owned-deepminds-alphacode-one-step-closer-to-autonomous-coding-8041151.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/google-owned-deepminds-alphacode-one-step-closer-to-autonomous-coding-8041151.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/02/DeepMind-AlphaCode-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/google-owned-deepminds-alphacode-one-step-closer-to-autonomous-coding-8041151.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-owned-deepminds-alphacode-one-step-closer-to-autonomous-coding-8041151.html/amp",
+      "publishedDateTime": "2022-02-04T11:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-chinese-scientists-build-robot-nanny-to-care-for-babies-in-artificial-womb.md",
+      "title": "Chinese scientists build robot nanny to care for babies in artificial womb",
+      "excerpt": "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
+      "originalUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp",
+      "publishedDateTime": "2022-02-04T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-innovations-in-robotics-ai-will-continue-to-power-this-etf.md",
       "title": "Innovations in Robotics, AI Will Continue to Power This ETF",
       "excerpt": "More innovation in robotics and artificial intelligence could bloom out of healthy competition, which could power the First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT) even further. The disruptive space, highlighted by robots and AI ...",
@@ -1072,102 +1158,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-tesla-full-self-driving-beta-runs-into-a-pole-in-what-could-be-the-first-fsd-accident-caught-on-video.md",
-      "title": "Tesla Full Self-Driving Beta runs into a pole in what could be the first FSD accident caught on video",
-      "excerpt": "A Tesla vehicle using Full Self-Driving Beta has been caught on video running into a pole in what could be the first accident on the FSD Beta. Last month, Elon Musk was claiming that Tesla’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/",
-      "originalUrl": "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dtTtANwfvfg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/",
-      "publishedDateTime": "2022-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-why-collaborative-robots-are-spiking-in-sales.md",
-      "title": "Why Collaborative Robots Are Spiking in Sales",
-      "excerpt": "Our hands are great, and they work well with the mind,” said Fitzgerald. “For robotics, Robotiq makes great grippers ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has covered include ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/why-collaborative-robots-are-spiking-sales",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/why-collaborative-robots-are-spiking-sales",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Rethink_0.jpg",
-          "width": 251,
-          "height": 201,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -52,6 +52,22 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 86
+  - title: "Does cognitive computing offer the next wave of analytics beyond data science?"
+    excerpt: "Cognitive computing goes beyond AI and ML by leveraging systems such as pattern recognition that strive to simulate human thought processing."
+    publishedDateTime: 2022-06-06T22:50:00Z
+    webUrl: "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/"
+    ampWebUrl: "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1327016094-e1654538126130.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AI, predictive analytics top list of hot technologies for banks"
     excerpt: "AI, machine-learning, predictive analytics, natural language processing (NLP), computer vision and microarchitecture are hot technologies that banks are investing in today, according to a Forrester report."
     publishedDateTime: 2022-06-02T20:59:00Z
@@ -68,15 +84,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Leveraging automation, AI and analytics to better compete in the digital economy"
-    excerpt: "How are some organisations using automation, AI and analytics to enhance their business processes to win in the digital age?"
-    publishedDateTime: 2022-06-02T06:31:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/leveraging-automation-ai-and-analytics-better-compete-digital-economy"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 16
 
 secured: "oTTVBorSXKKugzaxHZNAvRk1N4JN6IyGcphgUcH5mGu1sRpAPi1QQin1aJMLNRgYn9uhf5l/XylohO4roPeRSUPxqAJN+uhqsYbVGwoRyqO5dwFjVz40erDNffBiynV6g3LMGtNZQkMXao/oRC8v3o7BsL4jmqc9YCNqVdoJfgujUAY8kvCCMpoBaymdurrctIt7tgQjPqtJLH6zXiQiVFe8IO5Do4fpQimNaGhdHtccL3IyF+xr0NwnNSK8oJnSrapjU3kigiamLgc3kcCIxOlW8NYzEOoQOwnq3c8M2DDMJhkS9i+GSOf84Ic3H3jYkUjhg0Yid8qk0w6NfBlRwkElfS5JZOGDYzIURdGcRcw=;U3FJBukFd6CL4wBA5UqryA=="
 ---

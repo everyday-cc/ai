@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-  - title: "Understand the lucrative career options in the Application of AI in Semicon with Intel leaders"
-    excerpt: "Intel, in collaboration with Analytics India Magazine, is organising a webinar on the applications of AI in semiconductor design."
-    publishedDateTime: 2022-06-02T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/understand-the-lucrative-career-options-in-the-application-of-ai-in-semicon-with-intel-leaders/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 27
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/Anushka-pandit-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "G/OL2hb3v0p18c+M4nuUv7RMaNR593k8lXbu+dSXo9e9la9ZP5S4FgduKdpkUnCaJXsEP+QMfzmVg8Px9yd91JGmV4xdhdqbLh9VQXieSooSnFbqDMboAIky5DT2+KqzJijMuUNXHjpbpViTdduwBhukpdW4Rcqb21zk8pvjef/h4JfE6qLHf0Yq9lKo+GzR7nZjyI0ZcILbJR0/mPpaZ4mksV8lFFVa1rfEOSlOBzEaTjtWrdKokdwYmF/HItXvkxj2XlJXrk0UYRZzAS8AhjJoteHdOCLZePNs2aT3V2pnLPgIanUxqcWkCvw8Fg8eo9EBFKNAE4O7FyisO1bfW9CGODkfdS3A852b+PLOnuU0KGYexDXHv+0TuClngddH3iAvyqQCMN+zxmRW6lmssR+rJzHM/AWyLmJxvFW+1dHCnY5UwTk5EUwpbTvkHuVwC3mbI8aDuS2se7CRFCK8GjyqOhDTkEfktuNz/3DA0Yfhsiri98nIZInfahR01IMRPPXEUC3Dr12cEUD28JmfWA==;r6lhdJoMEbDJMsSmnHJytw=="
 ---

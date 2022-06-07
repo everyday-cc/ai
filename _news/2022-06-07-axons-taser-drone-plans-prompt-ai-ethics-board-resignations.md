@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/taser-drone-axon-ai-ethics-board/amp"
 type: article
 quality: 104
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Axon’s AI Ethics Board resigns over plan to surveil schools with armed drones"
+    excerpt: "Axon to advise its technology decisions have resigned, citing the company’s plan to install Taser-equipped drones and pervasive surveillance at schools. “After several years of work, the company has fundamentally failed to embrace the"
+    publishedDateTime: 2022-06-06T23:02:00Z
+    webUrl: "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/"
+    ampWebUrl: "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 101
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/taser-drone.jpg?w=1024"
+        width: 1024
+        height: 722
+        isCached: true
   - title: "EXCLUSIVE Axon halts Taser drone work as most of its ethics panel said to resign"
     excerpt: "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel."
     publishedDateTime: 2022-06-06T05:15:00Z
@@ -126,20 +142,36 @@ related:
         height: 575
         isCached: true
   - title: "Plans for Taser drone halted as 9 on company’s ethics board resign"
-    excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week — which drew a rebuke from its artificial intelligence ethics board — was intended to “initiate a conversation on this as a potential solution.” Smith said the ensuing ..."
-    publishedDateTime: 2022-06-06T17:31:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/amp/"
+    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial"
+    publishedDateTime: 2022-06-06T22:01:00Z
+    webUrl: "https://www.dailynews.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/"
+    ampWebUrl: "https://www.dailynews.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/amp/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 59
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/06/OCR-Z-TASER-DRONE.jpg?w=1024&h=575"
+      - url: "https://www.dailynews.com/wp-content/uploads/2022/06/OCR-Z-TASER-DRONE.jpg?w=1024&h=575"
         width: 1024
         height: 575
+        isCached: true
+  - title: "Taser drone plans halted after ethics board resignations"
+    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone."
+    publishedDateTime: 2022-06-06T23:23:00Z
+    webUrl: "https://www.reviewjournal.com/news/science-and-technology/taser-drone-plans-halted-after-ethics-board-resignations-2587981/"
+    ampWebUrl: "https://www.reviewjournal.com/news/science-and-technology/taser-drone-plans-halted-after-ethics-board-resignations-2587981/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/science-and-technology/taser-drone-plans-halted-after-ethics-board-resignations-2587981/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 59
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2022/06/16545307_web1_16545307-09aa1277fbea4efdad4d210e30030dc1.jpg?w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Controversial plans for Taser drones halted as 9 resign from ethics board"
     excerpt: "The board recommend Axon not proceed with the project amid concerns about weaponizing drones in over-policed communities of color."
@@ -318,6 +350,6 @@ related:
       domain: abcnews.go.com
     quality: 19
 
-secured: "+DJjnhc7t7TOZZzy5VWFpoXUoygJTg0Oi10oBC8rIgcgtWHTnHN9kakzUOU8V9MS2yTT6tn35/XWoSKbW35mOUKIjS3cX3lFhM0Q68+XBSVF0J7ndhALVr8wSufzf80rjsUIv1MWmGALpZStgGDVZenvg1fzuBhN/57pXDPluP6lZai4w3mqf7nrqr67DKiSCGi31Xd0hozkR/b06aZztdNR6PKTjecexTB738sZvPqadz6Gz8T2VdBGt8x9YWX4GQjFv286/ESYVS7eiD9dVZIMEz8wRXLLzAYxWHsdg3MftJLHs4vdN586m763n8N32gEBWR52h46uHbi2GBy8ZMvJTgAIgCmCOb+qWfbPsw0=;saVesx2ggwV6mhYb3LdtdQ=="
+secured: "yrA9wsRlOCZctiBtL5R0ETOMXM0qGjrki3EK/wbhKdEl1eqAPtcYqJzzW7novO4biqGKOKABDFBnT0jtoQAfqnEk8lZuBON7a2k6oIMoqO7pADOTM2MwecFZOMUTleOgx/VIFU+tMhyQV7CfG2+zR8INMOhXEem/T9XnUuIr9KZTgjvU1c/aNvW+qThOqpcebcNkCxIfrqOBlITEPUatVOi99UJPHwZJ9LmybbytvgY/tVW7eiWnw4oTjAEmTWiSTGi3iqPEB2RmD6rsIam11Qd3SUANb/8V2DPXcJQFMQRBKAcu8oPZjHR9atPqxZzy3OkVWS4J7XOYXCPFIufsXHRGPY/upZLyls9nmnkb5XDXJ+B0zhtf8QiB7vTCb/TGCkdkEpc90ltFEk4udVDrp41Jr37H/BkHD2wofmFyLOPtzvTeA2aSJ2LdHrxY/5mW1MlPF0aXiy7Qc8lphNeNAo62AtdSrswNHEsc5E+W4ljD65y4f23OjZ7DoCZethiKq8DJez+snrKnhgWKqtsbjg==;ew5oTM+VrI3vQqfdZOH3Rg=="
 ---
 

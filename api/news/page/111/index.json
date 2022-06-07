@@ -2,6 +2,102 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2022-03-02-human-speech-recognition-model-to-overcome-hearing-impairment.md",
+      "title": "Human Speech Recognition Model to Overcome Hearing-Impairment",
+      "excerpt": "Human speech recognition may be improved by machine learning as per a study at the American Institute of Physics, published in The Journal of the Acoustical Society of America, by the Acoustical Society of America through AIP Publishing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "originalUrl": "https://www.medindia.net/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/hearing-impairment-mental-health.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/human-speech-recognition-model-to-overcome-hearing-impairment-205897-1.htm",
+      "publishedDateTime": "2022-03-01T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25.md",
+      "title": "ML inferencing at the edge with Amazon SageMaker Edge and Ambarella CV25",
+      "excerpt": "Ambarella builds computer vision SoCs (system on chips) based on a very efficient AI chip architecture and CVflow that provides the Deep Neural Network (DNN) processing required for edge inferencing use cases like intelligent home monitoring and smart surveillance cameras. Developers convert models trained",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ml-inferencing-at-the-edge-with-amazon-sagemaker-edge-and-ambarella-cv25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/18/ML-7753-image001.png",
+          "width": 1232,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T09:34:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-02-could-ai-powered-silicon-remastering-be-a-solution-to-the-chip-shortage.md",
       "title": "Could AI-Powered Silicon Remastering Be A Solution To The Chip Shortage?",
       "excerpt": "There’s an excellent opportunity for a solution to at least some of our current chip shortage issues. And it may lie in the idea of making something old new again.",
@@ -1105,101 +1201,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029.md",
-      "title": "Cyber Security in Robotics Market 2022 Key Players, End User, Demand and Consumption by 2029",
-      "excerpt": "AM 'A new market research report by Future Market Insights on cyber security in robotics market includes industry analysis 201",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103780722/Cyber-Security-in-Robotics-Market-2022-Key-Players-End-User-Demand-and-Consumption-by-2029",
-      "originalUrl": "https://menafn.com/1103780722/Cyber-Security-in-Robotics-Market-2022-Key-Players-End-User-Demand-and-Consumption-by-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?55562",
-          "width": 444,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-att-and-ibm-co-develop-ai-5g-and-hybrid-cloud-simulation-center.md",
-      "title": "AT&T and IBM co-develop AI, 5G, and hybrid cloud simulation center",
-      "excerpt": "AT&T and IBM have partnered to offer simulated environments for enterprises to test out AT&T's 5G network capabilities alongside IBM's artificial intelligence (AI) and hybrid cloud technologies. The firms noted businesses across all industries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/mobile/5g/364038/att-and-ibm-co-develop-ai-5g-and-hybrid-cloud-simulation-center",
-      "originalUrl": "https://www.itpro.co.uk/mobile/5g/364038/att-and-ibm-co-develop-ai-5g-and-hybrid-cloud-simulation-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596721605/itpro/IBM_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-01T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -55,20 +55,6 @@ related:
         width: 560
         height: 270
         isCached: true
-  - title: "Understand the lucrative career options in the Application of AI in Semicon with Intel leaders"
-    excerpt: "Intel, in collaboration with Analytics India Magazine, is organising a webinar on the applications of AI in semiconductor design."
-    publishedDateTime: 2022-06-02T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/understand-the-lucrative-career-options-in-the-application-of-ai-in-semicon-with-intel-leaders/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 27
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/Anushka-pandit-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "FSBds/7Shofr+gqB6+PA/ks5n27beDzulxnVjeFVDsq6/NSf6vvRV19rEZUhE6+lyi14bTRez5Od9DgggQcmlN/S1B4WXLsNmZIfqvxnt4bQPhXc07X8oS0qyWPQEMviCGVc0GJmW9DKGPgwGuaXPrds8FMXU+MPVGEn9kLzP6+Znivwa+8pRtrPfCLm6sGQ7pW2cg+qxKgU5l4xt8ufglXioxuTr+smbgs1+ECBEG9l7jacAKSYyg8p1/HZ2CvCBtaWJ+iKeHKArMqN/ZIEXfgv0rSz1WX0pw9WuQ+lJmKLpVm1eiNMqmT8tYu2GGov09g55GdKHuplNp4Q6u/M+5OogjghP8PnPzwWraxHzao=;bL5yRKBeoEBtHObUH04O4w=="
 ---

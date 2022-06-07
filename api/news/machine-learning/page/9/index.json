@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-03-31-black-crow-ai-raises-25-million-series-a-financing-to-make-enterprise-grade-machine-learning-available-to-all.md",
+      "title": "Black Crow AI Raises $25 Million Series A Financing to Make Enterprise-Grade Machine Learning Available to All",
+      "excerpt": "Imaginary Ventures leads the round with participation from founders of leading digital commerce brands, demonstrating the power of Black Crow AI’s breakthrough approach to delivering ‘machine learning for everyone’.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-business-7144501f7458c8aee9d260d8a8bca1f1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights.md",
       "title": "Global Neural Network Market Size Worth USD 2,26,403.1 Million By 2028 – CAGR 33.7% By: Reports and Insights",
       "excerpt": "The report is titled 'Neural Network Market: Opportunity Analysis and Future Assessment 2020-2028'. An overview",
@@ -1377,49 +1421,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-23-deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting.md",
-      "title": "Deep Bio Presented Deep Learning-based Cancer Research at the USCAP 111th Annual Meeting",
-      "excerpt": "These deep learning-based pathology algorithms demonstrated their potential utility as cancer diagnostic support software. The studies explore how deep learning can be utilized in cancer diagnosis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting/article_fb89bd72-1138-5658-a13c-550b38c89c13.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deep-bio-presented-deep-learning-based-cancer-research-at-the-uscap-111th-annual-meeting/article_fb89bd72-1138-5658-a13c-550b38c89c13.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-23T06:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

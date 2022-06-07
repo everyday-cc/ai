@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.html"
 ampWebUrl: "https://techxplore.com/news/2022-06-artificial-intelligence-human.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-artificial-intelligence-human.amp"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/creating-artificial-in.jpg"

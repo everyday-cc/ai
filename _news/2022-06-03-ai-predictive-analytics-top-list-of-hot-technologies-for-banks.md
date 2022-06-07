@@ -49,6 +49,22 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 86
+  - title: "Does cognitive computing offer the next wave of analytics beyond data science?"
+    excerpt: "Cognitive computing goes beyond AI and ML by leveraging systems such as pattern recognition that strive to simulate human thought processing."
+    publishedDateTime: 2022-06-06T22:50:00Z
+    webUrl: "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/"
+    ampWebUrl: "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1327016094-e1654538126130.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Financial Analytics Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
     excerpt: "According to IMARC Group latest report titled \"Financial Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
     publishedDateTime: 2022-06-03T13:54:00Z
@@ -63,15 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Leveraging automation, AI and analytics to better compete in the digital economy"
-    excerpt: "How are some organisations using automation, AI and analytics to enhance their business processes to win in the digital age?"
-    publishedDateTime: 2022-06-02T06:31:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/leveraging-automation-ai-and-analytics-better-compete-digital-economy"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 16
 
 secured: "6CDKsZHPalhnZMBZ8MUnnm5z8dXao9fGGTxz18qHTXgituZjwyLKY23fMXMYqhXWx1ToBwLHOTb0HBBwGM2mC45EnJm4cDurJ6vOu2KnGczQUBP78jYh7LYQcTbAgGhONJUB1S3OgQ5JK2ggAtvn75RW9Zso6fwxFthECyWyNHwf8vpjsAZXOn8A5huccbwa1mQ8DzQlT5ay209h+pVZxeRMmxpNcdvZLuFEF63XaPzyNF/f8ZzxDvzjPv6m2yXIYzx/LzFsIH9tbPcfTIU2cJVqAFH40HrkU5x7dJrBrAA0neERGeWTLqW3h35wBJg9y7UHUeoDOueO4PxBtp6YJRNz4Z7fMyAHIInGpY99AFMPallExhxRPVdm+P97yoDYCjBLWymidXkkeffgbVRbXOLXrYdVjHdRlxADtkpeuiN2i2ffUWiwy0LtsgmSYYSOubZnuCfjt+4VBLiGJ3OIkAqPOM78l8vZ1RQeDTv4WeTvHX3I5kKPxasUARg5FC0LTorBrsBqoEhSdTqNPvpg5Q==;uKPQIBxnW/EXp+Iyp7e7xg=="
 ---

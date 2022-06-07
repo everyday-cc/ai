@@ -43,6 +43,22 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Axon’s AI Ethics Board resigns over plan to surveil schools with armed drones"
+    excerpt: "Axon to advise its technology decisions have resigned, citing the company’s plan to install Taser-equipped drones and pervasive surveillance at schools. “After several years of work, the company has fundamentally failed to embrace the"
+    publishedDateTime: 2022-06-06T23:02:00Z
+    webUrl: "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/"
+    ampWebUrl: "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 101
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/taser-drone.jpg?w=1024"
+        width: 1024
+        height: 722
+        isCached: true
   - title: "EXCLUSIVE Axon halts Taser drone work as most of its ethics panel said to resign"
     excerpt: "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel."
     publishedDateTime: 2022-06-06T05:15:00Z
@@ -122,20 +138,36 @@ related:
         height: 575
         isCached: true
   - title: "Plans for Taser drone halted as 9 on company’s ethics board resign"
-    excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week — which drew a rebuke from its artificial intelligence ethics board — was intended to “initiate a conversation on this as a potential solution.” Smith said the ensuing ..."
-    publishedDateTime: 2022-06-06T17:31:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/amp/"
+    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial"
+    publishedDateTime: 2022-06-06T22:01:00Z
+    webUrl: "https://www.dailynews.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/"
+    ampWebUrl: "https://www.dailynews.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/06/06/plans-for-taser-drone-halted-as-9-on-companys-ethics-board-resign/amp/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
+      name: Los Angeles Daily News
+      domain: dailynews.com
     quality: 59
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/06/OCR-Z-TASER-DRONE.jpg?w=1024&h=575"
+      - url: "https://www.dailynews.com/wp-content/uploads/2022/06/OCR-Z-TASER-DRONE.jpg?w=1024&h=575"
         width: 1024
         height: 575
+        isCached: true
+  - title: "Taser drone plans halted after ethics board resignations"
+    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone."
+    publishedDateTime: 2022-06-06T23:23:00Z
+    webUrl: "https://www.reviewjournal.com/news/science-and-technology/taser-drone-plans-halted-after-ethics-board-resignations-2587981/"
+    ampWebUrl: "https://www.reviewjournal.com/news/science-and-technology/taser-drone-plans-halted-after-ethics-board-resignations-2587981/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/science-and-technology/taser-drone-plans-halted-after-ethics-board-resignations-2587981/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 59
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2022/06/16545307_web1_16545307-09aa1277fbea4efdad4d210e30030dc1.jpg?w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Controversial plans for Taser drones halted as 9 resign from ethics board"
     excerpt: "The board recommend Axon not proceed with the project amid concerns about weaponizing drones in over-policed communities of color."
