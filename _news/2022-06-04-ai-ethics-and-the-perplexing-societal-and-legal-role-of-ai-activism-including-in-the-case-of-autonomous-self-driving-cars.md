@@ -67,7 +67,7 @@ related:
   - title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
     excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
     publishedDateTime: 2022-06-03T19:51:00Z
-    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156"
+    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
     type: article
     provider:
       name: Wall Street Journal
@@ -87,20 +87,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 21
-  - title: "Cruise is going to start charging for rides. Meet the 9 engineers from GM's self-driving bringing the first robotaxi service to the masses."
-    excerpt: "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ..."
-    publishedDateTime: 2022-06-03T00:00:00Z
-    webUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
-    images:
-      - url: "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "kAQaSceShrdsCG6yyJ7zqwn6eC1Ckfp4UYWqpzZw5/nOQC3V7rBfLT8nzoyNhP783f9punZ/y6m8hIcN8XbUzVq5brNTwCXn8+umjxTmHrsjoNZCUaxj0z0FrvDQDPEJLS9UEXzgA+jtkhzIzvH/HmHjWIS7AAjP45f0ySwGZHsSJJVZyWsFwX0Rv9HpwybpFS2NRSG63NLnz2HsfdfmfqARQ0vyQ3j/frN6Y54x7RgT31Wm4QNmXqxnp42Y7DZg7rZvtFL17wacDHFTKyz+fKVS0KWTVOrbsknpREff34+RItPLWv9VXJd0VQIx6wlfFkCUusv1qT6zhyPbi5I80XVC4WuejN7hQjidfuvRkUg=;/9nCsqkYa0FygsKAPO5vfw=="
 ---

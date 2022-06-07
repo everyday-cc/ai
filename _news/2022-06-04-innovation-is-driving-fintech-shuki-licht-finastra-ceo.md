@@ -69,20 +69,6 @@ related:
         width: 550
         height: 315
         isCached: true
-  - title: "The Innovators 2022: World’s Best Fintech Labs"
-    excerpt: "Fintech innovations recently arising from the Morgan Stanley ... The Bulgarian company Appraiser.ai is a recent graduate. The company uses the latest AI and machine learning technologies to deliver insights to the mortgage market, then automate valuation ..."
-    publishedDateTime: 2022-06-03T00:00:00Z
-    webUrl: "https://www.gfmag.com/magazine/june-2022/worlds-best-fintech-labs-innovators-2022"
-    type: article
-    provider:
-      name: Global Finance
-      domain: gfmag.com
-    quality: 24
-    images:
-      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/innovation-labs-2022-1200-1654297965/b731b9466a0788c034d61da77581a56b.png"
-        width: 500
-        height: 262
-        isCached: true
   - title: "Addressing the challenges of fintech with adoptable solutions"
     excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
     publishedDateTime: 2022-06-06T09:13:00Z

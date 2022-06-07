@@ -55,20 +55,6 @@ related:
         width: 550
         height: 315
         isCached: true
-  - title: "The Innovators 2022: World’s Best Fintech Labs"
-    excerpt: "Fintech innovations recently arising from the Morgan Stanley ... The Bulgarian company Appraiser.ai is a recent graduate. The company uses the latest AI and machine learning technologies to deliver insights to the mortgage market, then automate valuation ..."
-    publishedDateTime: 2022-06-03T00:00:00Z
-    webUrl: "https://www.gfmag.com/magazine/june-2022/worlds-best-fintech-labs-innovators-2022"
-    type: article
-    provider:
-      name: Global Finance
-      domain: gfmag.com
-    quality: 24
-    images:
-      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/innovation-labs-2022-1200-1654297965/b731b9466a0788c034d61da77581a56b.png"
-        width: 500
-        height: 262
-        isCached: true
   - title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
     excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
     publishedDateTime: 2022-06-04T08:08:00Z
@@ -93,6 +79,6 @@ related:
       domain: crainsnewyork.com
     quality: 4
 
-secured: "3HM2q/TKaLTf7LWlhEJqtkEdHKU0A4iG8aqYTiCzTKmkeUXMZXDKGKFmA0hZC4Q66Xsglh0JYrW0sptw4Jus4g2off0yJ2YJF7bthaTWXJb0LHKHtqrTv6xeEnuI0uJ5gtMtAHn3p19k3b4QQVsTwWpnq58UGVHdEthHU0MWZkpBcPa3r1FDvmp1U5AnbsN8U5YMzHjyxDIyPfcP7Oysqw3ArlYiQlxH1B5K+bnpvkZaq1q1YwHJwTqXs6EW0EnQa0EME1uiNfOQn/MdylaJ+i0DL3D6hxHZWmMaisPe43hIAfyDULp7JPaInZYjLA1Lv7v9Ij3NrcAqgWZiYirLHF+JxRxN2P+8yOU+cCLwx9s=;UY7GlTsEkCmujnYlou+qqw=="
+secured: "oWm3gxzKXBI0SJTf4PMq+8rN0Z4P0IyA8x25ZrUxOA3n1HpsLIpY/J7J4kz59Ryd8o6yoKvGk91Z44SvH5tkUYwuHt7Wrj1dPdfkR/p7u8Tn1kYG+GZFhoB6EfnX7CqUQtTxhBy2fgHv2D3M3svfx86P7urDgiqlRKRHQPeuynffuBc4C1cHnlXLtoY3wrrDAKSViXZrimw6Mj3bL8pu2L1vvKJKBmYTIV5wejWx2hhTL2DLfxyuNT+YtcfEwQeEq1+0yHkxvvdtd7NBeT/LN9rJUFF7Cz1v3bdRy4U1oSqmdXIDg4DI9b8xxHhkramVsbIdjpdnb1IqQUqHBhujTT5X6YNcvXjbDZ1rEGidTQ0he2zpEcBAZdfEuw9DyRT5GTjRMkjmLrPcS944754F6IpOsTzxPGRoQsqmDh1xh9AelhBgzLZfzRQeitpCYLDykDFpAMPO+2pAZ8BlLkoHco3h4t1nXOr7N5ciDD2UloS/PVAEux1vGI0nCOmZGyACFXs7eT/GNpS2+qbiViEubg==;Znzcyqpbf4BBjskbK2VJgQ=="
 ---
 

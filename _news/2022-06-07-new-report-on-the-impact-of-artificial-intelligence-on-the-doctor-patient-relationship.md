@@ -39,6 +39,20 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Council of Europe: “Impact of artificial intelligence on doctor-patient relationship”, report published. Ethical standards needed"
+    excerpt: "The impact of artificial intelligence (AI) on the doctor-patient relationship is the focus of the report published today by the Council of Europe's Steering Committee for Human Rights in the fields of Biomedicine and Health (CDBIO)."
+    publishedDateTime: 2022-06-07T14:11:00Z
+    webUrl: "https://www.agensir.it/quotidiano/2022/6/7/council-of-europe-impact-of-artificial-intelligence-on-doctor-patient-relationship-report-published-ethical-standards-needed/"
+    type: article
+    provider:
+      name: SIR
+      domain: agensir.it
+    quality: 27
+    images:
+      - url: "https://www.agensir.it/wp-content/uploads/2022/06/7e69e389-07fb-4864-b44b-a8af344f00db-578x491.jpg"
+        width: 578
+        height: 491
+        isCached: true
   - title: "AI and deepfakes present new risks for internet relationships"
     excerpt: "People looking for genuine relationships via the internet will need to become a lot more savvy about new technologies which expose them to romance fraud at an \"entirely new level of risk,\" warns QUT internet fraud researcher Associate Professor Cassandra Cross."
     publishedDateTime: 2022-06-06T17:58:00Z

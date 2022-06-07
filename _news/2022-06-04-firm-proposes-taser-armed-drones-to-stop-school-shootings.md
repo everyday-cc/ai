@@ -57,22 +57,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "Can AI help stop mass shootings? AI gun detection system in high demand after Uvalde mass shooting"
-    excerpt: "Unfortunately, because of mass shootings, threats can be found in every corner of a child or adult’s life. One California based company, Omnilert says they're hoping to disable those threats before anyone can get hurt."
-    publishedDateTime: 2022-06-03T00:24:00Z
-    webUrl: "https://www.wltx.com/article/news/can-ai-help-stop-shootings/509-c65d6530-aaac-4494-8ef2-e1d1047e5dcb"
-    ampWebUrl: "https://www.wltx.com/amp/article/news/can-ai-help-stop-shootings/509-c65d6530-aaac-4494-8ef2-e1d1047e5dcb"
-    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/can-ai-help-stop-shootings/509-c65d6530-aaac-4494-8ef2-e1d1047e5dcb"
-    type: article
-    provider:
-      name: WLTX19
-      domain: wltx.com
-    quality: 43
-    images:
-      - url: "https://media.wltx.com/assets/KFMB/images/d0809696-1990-4403-802e-d0768ecd0c8d/d0809696-1990-4403-802e-d0768ecd0c8d_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "LmyQgt/qQk7sWVqaHneCNOojrz2P4E54sFgo4OXWbRfY+UvsU610Enw4g8J8sXwYBbq0j5MT4UyEMqokP2Ugt8c6ifWRfwfktAGqmYUIXXIyGCHvMx+0utbaioWpYR+fwupm6QUDQdwZjSkocwwm4J14V7sFGFkVVl0DVZIE+uY1dLDOAhx7cS9ZdE4+Gvb6bQpJ24u4+Xb7k/FSSL2HxIJ+VajYvX/CaAIJ8Li1ymjlAMNz/y7GDEmWmwWAowP16ffFRClALZnOfzfTovat2rQ5rg9WL6n+GjhaIb8BfLM/bkhObqSk/JxgVEIJBXNuKtZU3P5WZB5JocckJh3dTiCpi2ugbigyr5/ohuABbMU=;e2VdroslMXuSs817p0qV5w=="
 ---

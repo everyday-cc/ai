@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -429,27 +429,45 @@
       ]
     },
     {
-      "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
-      "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
-      "excerpt": "Austin, TX based financial information startup, economyx.AI is aiming to build a world where AI takes on some of that cognitive load. “We see AI as a tool to enable cognitive amplification.” says co-founder,",
+      "path": "_news/2022-05-24-hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service.md",
+      "title": "Hugging Face collaborates with Microsoft for new AI-powered Azure service",
+      "excerpt": "Available through Azure Machine Learning Services ... a large South African bank and financial services group. It’ll be free during the preview period, with customers only having to pay for ...",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/prunderground-2022-5-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news",
+      "webUrl": "https://techcrunch.com/2022/05/24/hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service/",
+      "originalUrl": "https://techcrunch.com/2022/05/24/hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T17:31:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/05/24/hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service/amp/",
+      "publishedDateTime": "2022-05-24T09:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -460,7 +478,7 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Microsoft AI"
       ]
     },
     {

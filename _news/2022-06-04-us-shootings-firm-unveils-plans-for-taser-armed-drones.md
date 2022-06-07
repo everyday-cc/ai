@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-61685117.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-61685117.amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/305bc91/2147483647/strip/true/crop/2280x1404+108+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F06%2F04%2Fap22155042125461_wide-0baf687cd2192cd92f57389b48b737738af58355.jpg"
         width: 880
         height: 542
-        isCached: true
-  - title: "Can AI help stop mass shootings? AI gun detection system in high demand after Uvalde mass shooting"
-    excerpt: "Unfortunately, because of mass shootings, threats can be found in every corner of a child or adult’s life. One California based company, Omnilert says they're hoping to disable those threats before anyone can get hurt."
-    publishedDateTime: 2022-06-03T00:24:00Z
-    webUrl: "https://www.wltx.com/article/news/can-ai-help-stop-shootings/509-c65d6530-aaac-4494-8ef2-e1d1047e5dcb"
-    ampWebUrl: "https://www.wltx.com/amp/article/news/can-ai-help-stop-shootings/509-c65d6530-aaac-4494-8ef2-e1d1047e5dcb"
-    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/can-ai-help-stop-shootings/509-c65d6530-aaac-4494-8ef2-e1d1047e5dcb"
-    type: article
-    provider:
-      name: WLTX19
-      domain: wltx.com
-    quality: 43
-    images:
-      - url: "https://media.wltx.com/assets/KFMB/images/d0809696-1990-4403-802e-d0768ecd0c8d/d0809696-1990-4403-802e-d0768ecd0c8d_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Firm proposes Taser-armed drones to stop school shootings"
     excerpt: "The publicly traded company, which sells Tasers and police body cameras, floated the idea of a new police drone product last year to its artificial intelligence ethics board, a group of well ..."

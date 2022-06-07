@@ -70,7 +70,7 @@ related:
   - title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
     excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
     publishedDateTime: 2022-06-03T19:51:00Z
-    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156"
+    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
     type: article
     provider:
       name: Wall Street Journal
@@ -80,20 +80,6 @@ related:
       - url: "https://images.wsj.net/im-557184/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Cruise is going to start charging for rides. Meet the 9 engineers from GM's self-driving bringing the first robotaxi service to the masses."
-    excerpt: "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ..."
-    publishedDateTime: 2022-06-03T00:00:00Z
-    webUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
-    images:
-      - url: "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "pmgjSTqn07wFDh7vRdSXFdVqbnV+P39qQnUlINb9SbQF5eRjoHoPxNKBmhGwfMmNGLJ5jFOXUsUMO+XKRlzojdaODMFrf3PXp9/Q0+w3KtLomYzQ7rg075MoWRvdLDX3sYhhuPfJ2xNLSSnC4O8KLsCBfBqyeRjD9XhHcO1+k5yl5yN7NPzOtqBhJBvA29esYEyMyyD3i0FSafH6OKbz7Kibc+RXCszIi9v0tnLqYcJKV1E8v++dsBNub4zv0NjYD7Fdej9XH8pvQfs6kzAN99Iz05opdXnl/H5NQWfCkmgHdtS5lNOkaW5Dcb6k7XqVOae4HVMjYPTLkchxWvu+hiFFO35Nohj4J5ZcdPTDzcWg5NcEUgsreU2Wyaq5XsE/3WXxlB8JYmlOF/SJfhqBtYS9YGcpbYLN/+geQVBvnz+ce7VH7LNKsVWRMvZhwwBEiwhT9P16m2zVIVup3TmCSDWzS4Pz3RmuS0f7QUasD3gmuJ7NT1oChpFW9NUJ7fHOFILxx36A2SqUJrqiohYvbw==;tB/o9LVyK4Dessce2qkruw=="

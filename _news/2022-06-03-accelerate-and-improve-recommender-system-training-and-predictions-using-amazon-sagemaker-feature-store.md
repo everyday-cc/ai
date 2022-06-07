@@ -38,6 +38,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 105
+  - title: "Create train, test, and validation splits on your data for machine learning with Amazon SageMaker Data Wrangler"
+    excerpt: "In this post, we talk about how to split a machine learning (ML) dataset into train, test, and validation datasets with Amazon SageMaker Data Wrangler so you can easily split your datasets with minimal to no code. Data used for ML is typically split into the following datasets: Training – Used to train"
+    publishedDateTime: 2022-06-07T16:47:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-train-test-and-validation-splits-on-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/07/create-train-test.jpg"
+        width: 1000
+        height: 498
+        isCached: true
 
 secured: "HlTNPTJrUVAZRmPh4gH3uUUIu51Dq9cG3iGtxPFSJfrsk5PqjHKXfoqQGI9HTEWxJmapzyM3z1w4pY9/io4P6jeSOj+wKJI3oXtgGEoMu+BX76iZSpgOGdpf+5gydxZKg4QLbD2orf+V4E3w8vGs+Q0nAB4iVHtVxvnWPh5/1wFnyHf7y3RGZUnKzatVXVKHkfoRZYqjJ693G1ffwk2iOMr9qtkD514MbDXquNmdtn/ErrPlDbvzSH2zRnd35nlBcJlrTf3fp5bERASQh6jPJjHr3sfl5InE4RPtaOVR09zbN9FUkOQLLjq+hipIFWOHkqXB8u75gpi0EulAgwdZO40d/jFGpsgU7uIPS5UlvTs=;BUZER326gnxc7uSu7Kn5hA=="
 ---

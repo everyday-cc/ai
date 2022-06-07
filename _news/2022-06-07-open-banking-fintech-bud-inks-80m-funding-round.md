@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-rou
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
         width: 550
         height: 315
         isCached: true
-  - title: "The Innovators 2022: World’s Best Fintech Labs"
-    excerpt: "Fintech innovations recently arising from the Morgan Stanley ... The Bulgarian company Appraiser.ai is a recent graduate. The company uses the latest AI and machine learning technologies to deliver insights to the mortgage market, then automate valuation ..."
-    publishedDateTime: 2022-06-03T00:00:00Z
-    webUrl: "https://www.gfmag.com/magazine/june-2022/worlds-best-fintech-labs-innovators-2022"
-    type: article
-    provider:
-      name: Global Finance
-      domain: gfmag.com
-    quality: 24
-    images:
-      - url: "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/innovation-labs-2022-1200-1654297965/b731b9466a0788c034d61da77581a56b.png"
-        width: 500
-        height: 262
-        isCached: true
   - title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
     excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
     publishedDateTime: 2022-06-04T08:08:00Z
@@ -93,6 +79,6 @@ related:
       domain: crainsnewyork.com
     quality: 4
 
-secured: "UfovzuDHv+A//NtoVpJ3iaZpxMDX0szHbudmiSbii4d2u6fx5bRBpRt6xUQRIlJZbtlF3LY50W0qz8UZZIKGnrdQdN0+nFfk2Xi9M084mW4u7yZIQTFmPO4Ax0UqLxzyNTLubJ13T4KT3XGPxpnrzzhj8pHpoLhQ1aldp5u/I3PPCbdhNfdwAnEvqP9TZREs6OgGVh7BdjhL2SazLq144UGhkNoFiXPXNgoAgK8s/bFuV3e7ZzmN7L6QVlSs6orZuZ5cA2l0fw+I0tDaqXxIhdfz11FJlhu3Hb98kI/l/CyPfUq+O/cUU1k21p6ChItCkmmsGY1wA6WAkQSPjw7fhtI+aJ5PQiM06EoJBMm05Kw=;ylVA4ClTf6SRJurcmjM5Bg=="
+secured: "wE4BkExSLSNl03Z5Eq7/LKSJwMN4JumQ0PXwuIkkWvVEH/ArnSPBpqOizyKQX7u3HUMn9UHMKt3R4gyMDzO9Vl0ZQmCuPf9QUUk7xzFy8v21kjv2srmVXo6MdJlJF43Bm2Gi2NDVszNyiAXepKdkz3IgkC+1GO0n/Vwxrd0V5r3+oHO0kFfMRsYfBZKiCkV5x0hFqyPZuELwY2UlZ1RSh5yr0fBfKEY7NpJ+f4uBp8rnB/dkA8OsLj1eEYGUQuOjQRKevg1Ac5FFyvhG0Rn7UkBK9j8uN3kegh2Il903tez/EZrHThEYZHu/8uCHzXd6l6C5oex6abXjAZyuX3w1RMbMLkJmhhY+3F69ptXK1zVfixQJ1OuXtTlrr9JYffACHzuZR0LU2UGuwsLXSGJdbLxTQMm7Q0rg0rZOp8PRbPhkONoY2sH0Nt3D0GZ6WLOpW6pyMDkyn//8nKXw9N7mM/5cfBnXxIB2X8RdE2Q2rattoCamTaqvCemNvQJJsvwh3MQ5YitSgvwMv7/Wdo9+sQ==;UsLXc9peaUNVbL9ZCNbuiA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-w
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/"
 type: article
 quality: 105
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI in Sales
 
 related:
+  - title: "Create train, test, and validation splits on your data for machine learning with Amazon SageMaker Data Wrangler"
+    excerpt: "In this post, we talk about how to split a machine learning (ML) dataset into train, test, and validation datasets with Amazon SageMaker Data Wrangler so you can easily split your datasets with minimal to no code. Data used for ML is typically split into the following datasets: Training – Used to train"
+    publishedDateTime: 2022-06-07T16:47:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-train-test-and-validation-splits-on-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/07/create-train-test.jpg"
+        width: 1000
+        height: 498
+        isCached: true
   - title: "Accelerate and improve recommender system training and predictions using Amazon SageMaker Feature Store"
     excerpt: "Many companies must tackle the difficult use case of building a highly optimized recommender system. The challenge comes from processing large volumes of data to train and tune the model daily with new data and then make predictions based on user behavior during an active engagement. In this post, we"
     publishedDateTime: 2022-06-03T16:48:23Z

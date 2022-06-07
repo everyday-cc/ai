@@ -3,21 +3,27 @@ category: news
 title: "AI and machine learning are improving weather forecasts, but they won't replace human experts"
 excerpt: "While tools like AI open up new possibilities for better weather forecasts, many parts of the job are handled more skillfully by experienced people."
 publishedDateTime: 2022-06-04T01:15:00Z
-originalUrl: "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html"
-webUrl: "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html"
+originalUrl: "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html"
+webUrl: "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: GoDanRiver.com
-  domain: godanriver.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "OiaXZ9OheNyvI7oxvx4LBZ99GsU3UZfT5xHNI6b1Es/MMqX0Nh3mF70kh6s1ydAqd/ShPq0g15ddfxzZ2mwbjtJ1aR0NP42wu9k2GaHjoK3IVaLX8wa3/p8ZAnSi8Q8G51nOQPDpsFUHMPYWtjh9cd8thGRbm3qb+fcS52QdlN2/EbDsn3p4z1n7hgcspNWcI1qyYyiKwgdVuIMqy3bE8wIIRCk99JXwlvV8+snhu+8YKJqJl3LC4I+BzqDNqDTSIJ3jbIx/O/8M6yoaTcWKncyUB+R11EF+eQtWElCF/kdaR8t8F8CS2yrAruvOvfXOTZDZ9NcSTF+bAjprEx78ZPzFy+YUBbnR++t9gcnI1x1OpKjSpinxaI1IGxBMVcnP3YHTdJ6DAIeLQBGftiRnwJA3x+sSVKDcupuwWn0NwWRjs67LXVR+bvwQSP3a7PjfihmdmHNi7/wBPtSck9a3kpcTT165pIlCPfrvWSOVdTwxrcHNheP6BJcMZrxqyQZDggStY2cemuJTCOAvWL+0ug==;1HVPi/7pTfmUZWszs2QbGg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/f7/cf7aed5c-6eb0-5685-8758-e9106031199e/6296857066ee0.preview.jpg?crop=606%2C318%2C0%2C36&resize=606%2C318&order=crop%2Cresize"
+    width: 606
+    height: 318
+    isCached: true
+
+secured: "Folk7X+SAQaLZW+i5Cfcc2t+GGfJWJIZ5yS6eNzTV0v4hyUl6QaXv3q0izClZqIf+XNmXfPBieC3hRtCUqNBdxsuyO47OMmOt4b9OZ8Yv2uxJLWNfwfe9x3CQgnL89c4GnrFTgjHQwHPmGCLoWjEVUVRUnqGBX87ShTeTB6+Q63XBmoCseU/FYeEYL/F+qtqaFLAvvPoCkRme1bjgkBRSn9a4daHyOqVlXmc/CNt3foLDfNaMgwyUeoW56pi1N+Qnu0qAqYzdRYpYytpQbiWh6lBm5+M44hoN1iQn5mHlU6R/IFJieyrxrMiUgm0ugZi4qzzhtzwE6tfi5F2H7LGRBnSQHGvSifEQ5EtVhIgekM=;rrKWHLIuGhgufSrlKzOqhw=="
 ---
 

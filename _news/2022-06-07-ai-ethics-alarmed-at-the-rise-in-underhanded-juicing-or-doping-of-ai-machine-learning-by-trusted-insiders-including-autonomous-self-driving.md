@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -68,7 +68,7 @@ related:
   - title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
     excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
     publishedDateTime: 2022-06-03T19:51:00Z
-    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156"
+    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
     type: article
     provider:
       name: Wall Street Journal
@@ -88,21 +88,7 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 21
-  - title: "Cruise is going to start charging for rides. Meet the 9 engineers from GM's self-driving bringing the first robotaxi service to the masses."
-    excerpt: "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ..."
-    publishedDateTime: 2022-06-03T00:00:00Z
-    webUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
-    images:
-      - url: "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "jZ55vjQ/SKHp7JCkb+gMPE6fJjJBCv5TUNqqHbrOVMel6IuiyvkuF9HZ5g2jPmPfBk7F7G+4a2OL5TvGrCiusW2gpGr21AR9JyC2dNGV1wWsOZ60iSB8CtGU8Hiyi5ika7s6J0KucTcoNjs7lVOTsdGgqNgFD/oThf1sg31j17h6ZqcT6GYNOY+9jDdpSG5kZVlf6SBzpKylyhFX1CsFmgIDEB1po+7yKbpBifIMO5X+fJM8nYeKZPNCAIsGShz1a+e/FZJ5RK9QfkQNgIpEjHrtQhdlfQXCBhx1nPxKfem0WiUf0mYc1cymxhtyJTWIY3VE9kBP7/35zsB2GkkbWB61e6S/vh3Yo8qdKdRtLS8=;sMnkvGyTwtubWPKuJ9LaWw=="
+secured: "Q9w18w5RI6hZphZYXSFA//Xe4hwgrd73EnCXY93nOxIpbk5GY51o7z4y2MmDoyEF9qGNYW5EJuOW3HVCpOdBXo0fA3fSy7lyRXRHi9MGhWaIh9w3ayPd2dLaGiqWY6lMgs8CWdOUNyxLo37NaSCeQe8QW/lRE5O4G9e55zVtr/FhFz+KttqZkbSKUGWEg8UI+W1FehGNIlArOzi8cHzypOIslJsk+tgc3yEviE2WEUni8bd7O85ElzAJ4emReqGd39l/xXtEJzpUcHL8ARbHnc5Py18oBhLCl6Yv5SJulFyams2Tsx8SBStzYbZ8N4hF0x1U3Ok9QaVhCIX3evS5vFhQRqS+qpM4x8LZzuDZxwJlsVvPQ5WVCdCi7dgohbvv4jxKbqMs0ZlRtzu6++UKrGfp/YVxUFanuRud5nYz17uTJFJqWnxEbIet8feFxYGgQlMiDxj7tU9msU6L0HvJ8P972h+0a11drPk5GXAsN+jbrzC1nzSmswIpGjN+qRflUrKq4j3I+vDQX2sVsMTA4w==;zKde+/vcj8MxiWCHolt0cQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
 excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
 publishedDateTime: 2022-06-03T19:51:00Z
-originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156"
-webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156"
+originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
+webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
 type: article
 quality: 54
 heat: -1
@@ -86,21 +86,7 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 21
-  - title: "Cruise is going to start charging for rides. Meet the 9 engineers from GM's self-driving bringing the first robotaxi service to the masses."
-    excerpt: "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ..."
-    publishedDateTime: 2022-06-03T00:00:00Z
-    webUrl: "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
-    images:
-      - url: "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "H/j1LBL1rM3sLWQrE9DvI/18IgQHcJy1mE0Tw1TcG/gVKo41huNhEE0q8DntxlujoHpAxm4pL8lpnONY4fxJ1gOZ3Y/OHWNw4RSYVT81sDFv58pqytjNnt/2alyAf8xkvcScu57BtLn8t85pvI4sC0E2QTwyZUenLbtKin5Ez9hyI5t0AEQejwxVruWImam3+m4bMnUBM1BQ7becCSoEG4zCF3GXS2osYv4nCcppCrNaOsxaltooHb0NE0VPUqm988qT/cPEQ/uruWt5di3oCk81zjpuSFVwPuaNy2TiCHNOLlz/OmoAizpbq7VlysMd7gHmqPpAf/dMOGDMomSkbLOnRU3J4mCSG7jp7DaEnlDxz1uA82/7rOuoCEJV/4xp158E/MJlihJFzEyvlFKLF8lFVxzjQ8uVSECrlUel0OJdeKHFsysSFIlRUfYZspv90V2ylbzpJxcf4TjEJ+IheuLvYYTgf9jCN9YnDcq9gFpOwacZX2fHrXp9d7p0RTH+FmKkiu5VvAPect7tuSBWvg==;AxMREUsjWVI1Evp6qGAM1Q=="
+secured: "B7k5YzCcVHXXTnpKvtzs8843mPuFgcTCKn3CfUZeR20MuKkcVsjWoIhFmePyrA9C33y5afhF/ueFtB4sR466AwetSI4GlOFz4X+1b3IY+uJ5vz8F8FioLVADVN/2jOWjDZd/qwE1ZzDmjgiFgU0Zw3AUzAeOm3eI2zOxmZEc22yOUA4muxfaGYtElW+1TDOHt18zCbIoujtUt9AK+fG1K8KSXkeDWY+WqxxqwX+DOrMsXbLkRpcgZMLJnjVP8ERLbvOLpYK3s4w+VyuZIF9EdjEV7rTp99tFMWccjL8GxUz1lasbSHz1Rq4GQWmraMzPt28y35unZc7z5zVugRCV/AwHNHOSAJ4yzx405FN3im0=;LcFn2UqOM69w1zpoGLmLEw=="
 ---
 

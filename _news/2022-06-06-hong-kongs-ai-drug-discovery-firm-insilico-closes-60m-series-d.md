@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/06/06/hong-kongs-ai-drug-discovery-fir
 webUrl: "https://techcrunch.com/2022/06/06/hong-kongs-ai-drug-discovery-firm-insilico-50m-series-d/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "AI company Insilico Medicine gets $60M to expand into robotics"
+    excerpt: "A company that uses artificial intelligence to discover and develop new drugs has received a $60 million series D investment to grow its robotics offerings. Insilico Medicine, based in Hong Kong, said it intends to use the capital to expand its global operations and planned initiatives,"
+    publishedDateTime: 2022-06-07T17:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/ai-company-insilico-medicine-gets-60m-to-expand-into-robotics.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 69
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+        width: 460
+        height: 460
+        isCached: true
   - title: "Insilico Medicine Raises $60 Million in Series D Financing to Advance Pipeline and Launch AI-powered Drug Discovery Robotics Laboratory"
     excerpt: "BEIJING, CHINA - Media OutReach - 6 June 2022 - Insilico Medicine, a clinical-stage end-to-end artificial intelligence (AI)-driven drug discovery company, announced today that"
     publishedDateTime: 2022-06-06T13:50:00Z
