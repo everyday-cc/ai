@@ -22,7 +22,7 @@ related:
   - title: "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots"
     excerpt: "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,"
     publishedDateTime: 2022-06-06T13:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-detroit-robotics-ccadf1a6df4b42ba97efc4154ee14a6c"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-detroit-robotics-ccadf1a6df4b42ba97efc4154ee14a6c"
     type: article
     provider:
       name: Associated Press

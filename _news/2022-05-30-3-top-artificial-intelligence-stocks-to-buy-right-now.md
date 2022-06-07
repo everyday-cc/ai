@@ -16,8 +16,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
@@ -25,6 +25,6 @@ images:
     height: 1297
     isCached: true
 
-secured: "ZjGi0hYVlT/Y37n8r74wCMjt9Ig6EvaBs1y+P69jKUZ9Xd9TrW+959kiUyTlQ9O4rif0t3dUrw9n1j96usKDmAbveCBDoK1QcsRJn/ACEpSqPaCcKF6TZsslm+yIL2K9I+zooVAG028+vUO+ruWdbNj+yxsBIJp1h3dOYLL9XUgddsKlB+ua+Q63Q4KuupgVs8ojQsxfmwy5nIgkmPffJsHtDiP7MXP5mAqoAxMJqhsMuVN8xvdfnFi5Fo0qaMJ0Y8SxNv8lW8IbcZ5q77JC5xRgS5qLc7DKho6lzMZ5yj14AjhREy9wcqaTOUofN0KNqUd3TBlwIF4Xcy5It0C0FoBP2XIF/VBZsRzkuydRl4I=;E8iOPXjE+zvlgrn8T5OciQ=="
+secured: "mVYFnmDuvMrsQGW9ocYZeLTTM21lxAkYqwrhrG5A8WV8C2yLssFOzb/xMh2ysAWlJN1rl30Zbl1whAbv6pjs43DOP7PRLF3300zMsacLOX8AZ+0rPzkFlrfP8jin+rPHTukmgvhsP2sGGEXhZ7oUo5ggpmrw8GEXMB4UfowKN0YXc/4N9rQx219UO6YYuYCpj8UgbZFYo9CXfAfPGVyTuiAr24L/lFngrgumfIV/onNTD1vUE27QQNGrCpOskgHJyNs2Ot5zTt1kVmh9sSenCkK05OfQ8b32aZxbN5mFp6xNurbtSry+FH1euWNHoGUoSUMJoiXyY9dzn9rVsqmXkxfv+G8XzStmaNlZqGxg37M=;X+gsPKKTalk90b3oy3lLEg=="
 ---
 

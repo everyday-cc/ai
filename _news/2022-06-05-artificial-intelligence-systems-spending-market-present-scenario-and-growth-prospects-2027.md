@@ -26,6 +26,17 @@ images:
     height: 679
     isCached: true
 
+related:
+  - title: "Lending and Payments Global Market Report 2022: Artificial Intelligence is Gaining Prominence - ResearchAndMarkets.com"
+    excerpt: "The “Lending And Payments Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global lending and payments market is expected to grow from $7,833.28 billion in 2021 to $8,"
+    publishedDateTime: 2022-06-03T13:42:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-china-artificial-intelligence-fd0df3fbf4c54237be40507fc9c8d63c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+
 secured: "JtPu+bKQESdniMVmQWV6kp3LGzhIA9/IhIGd2OKRf2KbWjDBNijvDtcFRbYBdMutSVIPFDKjZ9tFZqFgh/30CYMZ3qk6N8eJXY1wfppwysg/lxy+6rzqutp0uI7+mNPe9SCF9CuSlmIxuUtoiPjw6aiI/AVoXpjvz4ptROzkq4QTmsL7zMj0Olje5agLF+ogCS9cgOFcHtEC8HM11SAURTNTU6qYc7gCaJeogM2B+jNtDq/CCJbYTIvkiuPl0Y0+gQXGPHcaEQfrJ5PzlYFX+kZze9/icoW/f4bOE60KC3mlkqY9Svaoq1dCTmpYlzazCCG6cvJeeXWTUs4mXetUn83F/Mi9+qu5UhPbf5aMK7nx0mNIBpyFprUzhHJppVdXIWGX0dwRWUIlOem9biHHlwEA7CPXBXh1Rgql9GiIP8gXaaqrJasoCNa+m23Xaom7ITz+6fkvKK2IkXqFidgrZHRd96LMyVCBElYB3F14s8iStMKMjYjEzrfCxLUW1HTLXu9ngllGA9ZCdyOLPJxoYg==;/kK5xh+oYY+u5BLxBrVbhw=="
 ---
 

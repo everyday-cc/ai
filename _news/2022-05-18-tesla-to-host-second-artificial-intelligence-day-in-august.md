@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Tesla to host second artificial intelligence day in August"
-excerpt: "Tesla Inc top boss Elon Musk said https://twitter.com/elonmusk/status/1526685434910212102 on Tuesday the electric-car maker will host its second artificial ..."
-publishedDateTime: 2022-05-18T00:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
-webUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
-ampWebUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp"
+excerpt: "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day ... expand on plans to fine-tune its self-driving technology."
+publishedDateTime: 2022-05-18T06:54:00Z
+originalUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
+webUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
+ampWebUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ti6pTh92MXQsHuWoS0d5HpNGLj6QFAfo7IZr/OTQstDlyg2GxrnaMBJ5zXLzWutS1mLBaJgxGstMt+0G/HUh3SWDN0/QOk8G5uo7oYCAPQNmAibhXkKC+SkBjjDRgdJZDyPK/P2UW/43Mw+F2pbISVUFQNMQloykVR8MgPQWDaBHMiFi1A96Jc1NvFxok+UHbM5HVNqJIsi2l0PoLM7DZP3DRfMyXDd6wEMI9sg+qvM+6mXd6fMPIKrnaxaPxvCbFnKg20JL7LgFx87XZUMF8SzdSwVrDkSg353Op4Cx+/fBkCWiSKzw9LkWLhgeCPoqGx50mcLuCk72TovZf/s1kn7WcYaAp+ibpssaiHocXiA=;Mh1ZHcW/gdN9LXbSpwDGyw=="
+images:
+  - url: " https://i.tribune.com.pk/media/images/1178652-tesla-1473332232/1178652-tesla-1473332232.jpg  "
+    width: 625
+    height: 413
+    isCached: true
+
+secured: "XXpuG8OsMDQjGLodib7kJa/Ayg72xvsUY/WGPXgfyK1U4cL+9RBMfze15KZgiH25B1cev+YWpf4QYgIa5lVS/Pjh4xIU9yR/Rw7a9WPYPr4ZlSEMzriNa/wU7PjfM2t2jNJFHZtzxJj3bOHYvJzLKu+6UvOIl0YMuU9eaN9q7FJhJhWHUstGhRZ9w6fACri3YUmLWrFFFvN8Ae99h0d2PNHUYztwJVD9ezYxKG5La+wr5Ra9Q1XnYT+czOPHw2mUA6B4sHIyVbBb0y1MqPp018pReoh4kyPv2ImRFZ30Ucr8zz66cAuBtWy8RsdYqiv3TDlx0TN36t9WY9wLGvi+AucDi2l4qoN8t+XjvbXY0WY=;Yi9AhFX4TbitZYSIVvlDKA=="
 ---
 

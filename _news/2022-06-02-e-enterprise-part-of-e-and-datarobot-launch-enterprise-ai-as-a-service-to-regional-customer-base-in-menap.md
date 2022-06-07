@@ -26,22 +26,6 @@ images:
     height: 2912
     isCached: true
 
-related:
-  - title: "e& enterprise, part of e&, and DataRobot launch Enterprise AI as a Service"
-    excerpt: "Dubai, United Arab Emirates – e& enterprise, part of e& (formerly known as Etisalat Group), has entered into a strategic three-year alliance with DataRobot, a US-based leading A"
-    publishedDateTime: 2022-06-02T09:33:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-enterprise-part-of-e-and-and-datarobot-launch-enterprise-ai-as-a-service-d5eza33h"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 37
-    images:
-      - url: "https://static.zawya.com/version/c:NzVlMDE1OGYtN2E5Mi00:NjE1Njk4/datarobotpartnership2-jpg.jpg"
-        width: 900
-        height: 453
-        isCached: true
-
 secured: "lVtinfC01u/6kh3fOX3G1M0KZuAxTBF5iL3bQj0Cd/isK+FP9e5MTjRfn3FgGzoFlZaKDCIbNRL0pHDjVsuxHeeI/KK4zNVqVajnuVm99QAdFf7PO3Tpkz+iaKGNxLE01UdQGtKvv7NIr9O44bEp0ZrPW3pMKeMRT0uLL5KP5MpzdhOKL38gi/+27Wf895bbFaX0NLl1QtVYgVlCElHDrZ+q9IF8dYiCTtOPSKaoo9OurPOH4RfymKZQ3AXdC0Yp5uDKfUi5141JmtDTpd7CzY34EoVyPdYHXQmD9LtEG2ym6c2R599gcTb+UFE0U8jDvwbnHdMKpH/vky/skUX0r1RHLLir5zMmtzrsTjy+7FNKv34xxqx6s7ui62veaom47TgQTLeOx9ppQTrRn80fiSqghX5mkO1E5ve7QH9i3B24VaCHHYqpK21qPoJELagsejrk6A38zOeuKvTK08j6ijgQTFo641akocvwGpruvJKHX7C6M0y/LZGT8ffL8RJ5wSZdjdVjl7XS2/KdxLIEoA==;gdCw3aWu5bLN4mu0dTy1ug=="
 ---
 

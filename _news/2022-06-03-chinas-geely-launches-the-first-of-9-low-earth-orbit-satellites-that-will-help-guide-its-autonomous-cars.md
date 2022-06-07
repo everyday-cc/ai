@@ -7,7 +7,7 @@ originalUrl: "https://www.futurecar.com/5440/China’s-Geely-Launches-the-First-
 webUrl: "https://www.futurecar.com/5440/China’s-Geely-Launches-the-First-of-9-Low-Earth-Orbit-Satellites-That-will-Help-Guide-its-Autonomous-Cars"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "China's Geely launches 1st 9 low-orbit satellites for self-driving cars"
-    excerpt: "China-based Zhejiang Geely has launched its first nine low earth orbit satellites to build a satellite network to provide more accurate navigation for autonomous vehicles. Geely expects another 63 GeeSAT-1 satellites to be in orbit by 2025."
-    publishedDateTime: 2022-06-02T10:47:00Z
-    webUrl: "https://inshorts.com/en/news/chinas-geely-launches-1st-9-loworbit-satellites-for-selfdriving-cars-1654166875567"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/chinas-geely-launches-1st-9-loworbit-satellites-for-selfdriving-cars-1654166875567"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/chinas-geely-launches-1st-9-loworbit-satellites-for-selfdriving-cars-1654166875567"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 44
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/06_jun/2_thu/img_1654164751589_546.jpg?"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "YrClQqRv5nDJvAqrtSnW/4yZmcINx+3uamF6NQBmDAx8EHh4kFrA0gaySPepWS2P+9WhRIfK/c+G1iW1GxNkK14yp9X+ZHGvSLocYt1PrJcJaqHI2DQhvu7z/cWWHvVt5yqqTDnQT5jotnKgv9d6rGmitjRNwI2XLCAkJKozgXCYRNEyzVXJCC4SrDqhiShzELWxxjaK9mpM5Mz9AyLNh1xN0q27c9zJK4AXQJZd6cGiMHR07OymG6zGUIbTlTeX91tp3kSCR8qHa7RuRL1sujY1sx4D678TKrqfSe8Xh2MIWbkr9qUxQ4vxf/YBpb8HAkedyzyax6NxJJa5aJ2dGT5sdQIJ+273Sv/a7MpzMJuoh//yUy3Hono4k3mgfYVjrlALxxUwvYND9j/sKRZrHLB2/KjnbyHAeugOTgZP6BZlUnVh7kP5d6XGFoeN6XGgKASFAfzf3fxOeD2jtO/StpWG2A+6/nIv6yNQ2O+0TpxShghWcHkC49JtNYrOf8bh/5Bp5cf8z+2Kihj7X2IBtw==;Md/EYzZoB8Wcq7o33DCIng=="
 ---
