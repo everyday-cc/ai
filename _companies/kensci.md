@@ -13,11 +13,6 @@ linkedin:
 crunchbase:
   url: "https://www.crunchbase.com/organization/kensci"
 
-twitter:
-  username: "KenSci"
-  url: "https://twitter.com/KenSci"
-  followers: 1521
-
 size: 51-200 employees
 yearFounded: 2015
 locations:
