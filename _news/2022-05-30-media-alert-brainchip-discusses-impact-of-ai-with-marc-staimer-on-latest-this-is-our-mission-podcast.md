@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Media Alert: BrainChip Discusses Impact of AI with Marc Staimer on Latest ‘This is our Mission’ Podcast"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 29, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of"
-publishedDateTime: 2022-05-29T21:34:00Z
-originalUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-discusses-impact-of-ai-with-marc-staimer-on-latest-this-is-our-mission-podcast"
-webUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-discusses-impact-of-ai-with-marc-staimer-on-latest-this-is-our-mission-podcast"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 29, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, today announced that Marc Staimer,"
+publishedDateTime: 2022-05-29T21:31:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-4ed735cc2a8449626664b432849e6d83"
+webUrl: "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-4ed735cc2a8449626664b432849e6d83"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Davos-Selensky-AFP-1K-02-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "OoUOaUdVBduNmACEbAoRmpGpM+x0AayMY6PPUr5YXCHFJz5PgEmO+xLqmk52YnejbAQ/eanfapC3tlZPaYXmRKuNPzFYGzzQLI1F4DxkWdwMAMwSNsZBmb1pS4bLlFs/b3MeWXO10Wb46LixyGP9gGq2gTDgOg1QL6DLnVxBw60Ka3nwrS8cYRX0fjob3LjN07Lpc6DofwbjpXbG3j9i6TFq6RvtItjKAec6k3VFj8AQg+b5XaqQdvfnuBGEPuKPw/TLVGz0E+0jJTZIqdmyB2O32aE3mQEi0W6UX651YGbIDk/DktE24929Zt+oR0PIhfAOMy3QqzuHmD2oSVPMiXr/U7eHA8K7owF+jqRRgMc=;FaKAkAlTT2whAZpjd091yA=="
+secured: "lclL3oS+Y/ggQXtGSCuXhNYwJDjsQ4f9c5z4JrqQAhCCqTj/WcZvQdzAEfjmGSYcbx9RP0eqFWWzr63/XafFlbkw3ouuULAcnXL98PUgT5vlhIRViEyg08g/sNAS0fFa7LNqA4OtIQoz3s4BTKdU17vGvy0zTxEAcn5pnbl/tFH0tvjlBhHcGFCH7MUF5sV/xOdvggr3cwnQM3B8lyiIyxr0cpL+AQZ3BOQlGNg45qAo6///z0cumpTA3qZgCnZCifVL7Lq2Uo+ZUM2SvtUQ73J+1S40fnsFYVAHAf0jrrorwIaDz+yiNB631WjjKvv8VQpg9FuAxiq3tc14qlSh122oHSVndmL/jf+lvear+Lg=;ZYTE+fTThvI3S4VfK8eoDw=="
 ---
 

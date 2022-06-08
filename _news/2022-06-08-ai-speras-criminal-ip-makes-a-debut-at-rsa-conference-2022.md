@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1834303/1.jpg"
@@ -43,6 +44,6 @@ related:
         height: 291
         isCached: true
 
-secured: "HkA2amMot8Of5iQOtE7lA2wYp/9uYOnYbduRZWilo8Vj1M5Dya8XpzwoliqacgEBs2fw6g4ZA29TPc58J809PzXKb7qSt7g2RnBycGQ/hTywEyogrYI22NygAqBVZzuVdgGr6WcTKGBvJTl32TVicJMLgvc7xIh6IcHfnZfsI8IMzao9XC37Gjp6O03XHcvIHJrxXacz6WmKfErkgB8gS67/SpxyMHPDN8jqmxsjoEj+3P+pokDWQRT5mwSaWUA+hsnyuIPOYZQzt7LnIti7tZwxeuOvTFZQuKzrp2+Z4cQsU0Y33LARZWFgT57zhvM4hu+wshz8Rm8lnQcYN0MwFhCbEOuENQ7WovXYVxzio0g=;I3qtcNeucDZrX6ofxqkUTw=="
+secured: "Eng3h0vtR60NwuVbskHrnwbbc6tBBtROyYSx6B8ruzuP+fuG5Uw7RAahvKlHuf0k5kCJhowuojNyiKMOJMBGxBmluCxo0IjaINjXZMFJtVqKoSTU1lHrbA1eg/YaIFAoh0BS4VTD/IzGXW6JQWBK4/Fycb3Q3s+4CriBJ79sL3HGJRqRTJJGtT2FTsZdpz4DbQo0aTCopTJ7iepVlxORvK+UGtD/+/FMd+P9EmtiNzt7u0ThcCUbI08TIqT6X6XcMYx4zFznAcxTBjy8OjRQFwhTkiNB98tgSHNU77Qn9xXNIGE0igeo1tlzSZR81FhqqcU1JMK1hd8bAECM7iw2LWe6Tt2Udclhmld6j/T2EPh7A/Zb6sEdi1dFEW9a+qcZpTXzYEPBEa8O3dT2UNty26dgCLRmTOg9Y/3qUP2XwZhADBhSghsBHhWX6PopAzXzAm+Th6u539S5doVbXmFUG/4LZ9jwBGv8sEcB6VY1RHdlXPclbKUrgm5iwHzdoTeTlVT6JzSSU+9NtfJ+2H0igg==;+JC01Jqi89u0zSglOTewwQ=="
 ---
 
