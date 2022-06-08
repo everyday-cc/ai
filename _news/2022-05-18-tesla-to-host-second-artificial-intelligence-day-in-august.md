@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Tesla to host second artificial intelligence day in August"
-excerpt: "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day ... expand on plans to fine-tune its self-driving technology."
-publishedDateTime: 2022-05-18T06:54:00Z
-originalUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
-webUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
-ampWebUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1"
-cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august?amp=1"
+excerpt: "Tesla Inc top boss Elon Musk said https://twitter.com/elonmusk/status/1526685434910212102 on Tuesday the electric-car maker will host its second artificial ..."
+publishedDateTime: 2022-05-18T00:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
+webUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
+ampWebUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp"
 type: article
 
 provider:
-  name: The Express Tribune
-  domain: tribune.com.pk
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: " https://i.tribune.com.pk/media/images/1178652-tesla-1473332232/1178652-tesla-1473332232.jpg  "
-    width: 625
-    height: 413
-    isCached: true
-
-secured: "z5/1ajBuATUFqF/73+dGew2VjyhVIICGWDoQkDjkddEnqf+JQKpHZn2LPF7ARuB7LJKspbbwrzbzUEjz9FwEfk7lKrx5qJoTvvsnvgTWaB9UCGL1wtoFyRuicPC29NT5XCgRKoyS9kRHHHKy4jaEdPVefpsBnRFiAIFrpCXG2T/RLwoDsAYKcpqH3LoNHgJVY/ACRZ4OsgOdzpK4Zw/CMLBzPjy2LzoqjkgF5oMKUuXgqVIdXFVijcRbp3jyT/wtAV2lEhp+trgUBapXh6Wl5YVFtKwEhpN2wuihCmmhu91apKGMERbedeY7c/25+3BKz6Lnym6U+1JhYjgFEy+D8j8+O082saU3Jx4SN6WTHdA=;wMj7aKv9biiTf3e8a0Zpwg=="
+secured: "tcBWxzCwNG5Y3pRfG3+OLBghYog4M4rXT78cVCOwF+KrbZ68e/UBwa+szr6SHn+Q29vlCP8IFwljgd85FDr4VtO2gwKKi8Gk3zT/9hPF8mu1apuju2cwpc1utxLXGF977GhW+zI76IkM7JKpTR0PX01Pa3kmIVfvRsf02UleMQwXEyJe2tIs6g9KM5VOWVBCwVmO8d2ePMkJddnKAL8RUXVbYdKSxCOXLh3vDfGJGggI1JF8DFbpAsl6om69Wf3x9UF7QxsrpsN7A1BDhf0Av1B3JJOny9gTW30EDqleLqI0DcD9ScIDxkzugH7+YLiyh3zOJZgCC5G6exYyv4+g5/B9dm+9cHlhhDXF3lvpois=;OA+4LXRBkkKBsFdik1SzMA=="
 ---
 

@@ -2,19 +2,19 @@
 category: news
 title: "Axon halts plans for Taser drone as 9 on ethics board resign over controversial project"
 excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week — which drew a rebuke from its artificial intelligence ethics board — was intended to “initiate a conversation on this as a potential solution.\" Smith said the ensuing ..."
-publishedDateTime: 2022-06-07T18:37:00Z
-originalUrl: "https://www.wmur.com/article/axon-taser-drone-plans-halted/40209721"
-webUrl: "https://www.wmur.com/article/axon-taser-drone-plans-halted/40209721"
-ampWebUrl: "https://www.wmur.com/amp/article/axon-taser-drone-plans-halted/40209721"
-cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/axon-taser-drone-plans-halted/40209721"
+publishedDateTime: 2022-06-07T18:48:00Z
+originalUrl: "https://www.kcra.com/article/axon-taser-drone-plans-halted/40209721"
+webUrl: "https://www.kcra.com/article/axon-taser-drone-plans-halted/40209721"
+ampWebUrl: "https://www.kcra.com/amp/article/axon-taser-drone-plans-halted/40209721"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/axon-taser-drone-plans-halted/40209721"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - AI Ethics
@@ -308,14 +308,14 @@ related:
     quality: 39
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
-    publishedDateTime: 2022-06-08T13:35:00Z
-    webUrl: "https://www.theolympian.com/news/business/article262197492.html"
-    ampWebUrl: "https://amp.theolympian.com/news/business/article262197492.html"
-    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/business/article262197492.html"
+    publishedDateTime: 2022-06-08T13:41:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article262197492.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article262197492.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article262197492.html"
     type: article
     provider:
-      name: The Olympian
-      domain: theolympian.com
+      name: The Sun News
+      domain: myrtlebeachonline.com
     quality: 39
   - title: "Axon Hits Pause on 'Dystopian' Taser Drone Project Following Ethics Board's Mass Resignations"
     excerpt: "An attorney told Gizmodo board members were “blindsided,” by the CEO’s short-lived vision for drones to combat school shooters."
@@ -375,6 +375,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "EX2rVH2c/7Pp1KXyCnsAr6KSoVIGixqd7cYnyAQWCjU1w6Ju2BH9BTB26i92UbkfWEOL83agdGAtzx+q7ePIXsEbTkpKXF4uI9paukDrNoBVJ4woqwdkdqoFQWp9crSI0resgD0PuEWrwISqcwqD6Gsxr73Ncu5pl7CYYBMrtg06REARz0JPfZfPQp7g/btV6Yjk1Bh1lLkwuyshowH+OGyH7fOLJieKsFdsOzkAwQa4vSx4hKVs6Y2c5WrJZ4oyEDOWwlKTpNj7dKV6SVZPWH814g53WLQvVpmdgdCq9bmKgjSuavLVpCgT74RwR+zlEN+3R72oRQ602QLIu5jmyg8eZW6+U+6ZPXFwZgT0sMYXlAJf6uIKAQTqkw/11szIqigfJsZYnOcUWWH/o0B2G1THecXLAsFf+L+U1LS8ZB+8qKo9vs/ly7Glblkx4wnHgWkmh81qzpc+etyi76iouOk4JRgKV6U7ZFnuDkQRbz5IgbsCGaGq3eSWHX3Sri3T4f+s3Iqfmq0A//7nmc063w==;rSA6P6jmY23TkUVn+Xr7ww=="
+secured: "WBU3jPreHPVWT6hLXpYX2FCOe1UGT1N57etxdRnobROX+/hScIy2yCAfA1A6Zh0VC4a9TKFyHNeObSqF8S6peWTAesVNG06v12spVNxpzF4WdH+Y4oh5Ogy5UbalI5U9JRk33KvuLnCPmiq2CYTAcucCCKwy+42iRhKSQ8Qp8H41YhjZILRGF+fXeub41Tn/VXNnVxnYQZJZWrNW52U8RYTr0lKRYoWR+HFTbZXxBXT8QLMRp5lp0tVi8qZFfNla34H45xLBMupDcBqez8XAAjh6D52jfx/dDQs92VDRuAZpM8iEODaFrG7OnzpEhsDV4Wb1Nzo/TmefkM77w3d0F4nYZE09+43BDehdY3sERlQ=;bsFx2zrBr/J4rQHSNQskaA=="
 ---
 

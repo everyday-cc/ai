@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple Launches Own Buy Now, Pay Later Service"
+    excerpt: "The announcement is the latest curveball to be slung into the industry, one that's already rife with uncertainty."
+    publishedDateTime: 2022-06-08T15:39:00Z
+    webUrl: "https://tech.co/news/apple-launches-buy-now-pay-later-service"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 24
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2015/03/apple-pay-640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "BEGjGJap79t4ZNYzEjW11rN7kDwSvvzKUv8e/5ZQrB5DgwecOmhnY8zYUcOUobn+zqKXfy1ajxAS6DxCF0zsGEWM1QnNeszeC53p0NXSSWjoai/2fc0t5QXKzKLeDO4GDetmkNgmJyYhw5YySoNs6auT5qdEQ+UWeFRffVRetwd3+2YSQ2iZXabpGCH9m/PukQ3qiLHyuXDDPwRG/BVc4XoA2QbW8ydygOKbUJXyQT4GuBPjHAZqX1ywJ0zrbMr2Os4Ee8HRLA+Uwwzti/WUtdalxZiM+cYYCBf65L17rjiiJJLqNvPq6qe6C/CroovEqkT/AjP7dx9M9GcaQM3X3iBjVVSVqgEkYNerb2R/MHg=;wiYnvGV38XAH2Sc03Amg2Q=="
 ---

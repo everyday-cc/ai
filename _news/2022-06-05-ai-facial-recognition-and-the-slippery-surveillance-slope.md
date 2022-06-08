@@ -7,7 +7,7 @@ originalUrl: "https://www.abc.net.au/radionational/programs/sundayextra/ai-facia
 webUrl: "https://www.abc.net.au/radionational/programs/sundayextra/ai-facial-recogntion-and-the-slippery-surveillance-slope/13911830"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://img.chdrstatic.com/media/871ec302-51a4-4373-9578-860cd6c4257d.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Real-time facial recognition surveillance planned in Ireland, moratorium demanded"
+    excerpt: "Civil society and academics find the move premature given the current stage of the EU AI Act and call for a moratorium on facial recognition technology."
+    publishedDateTime: 2022-06-08T16:12:00Z
+    webUrl: "https://www.biometricupdate.com/202206/real-time-facial-recognition-surveillance-planned-in-ireland-moratorium-demanded"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "xCati4Zglt9fX4U+ePplcg2TCC95pEl9Q0c2y0gQT/VJguYed/UqFiFevicQlT+Pb/FUsQ6P7ydrZoQKT1r6kJZW5ZCwQq3sgFRU9985YXs6FiXzkNWkkQV9AI76qHQd+rGzz0jApAM2+DNgYwjTEAu1fSi8MBhgsB5Cl8torehe003G1UMHDo58jiclucHgoVW+CfqW9xA5e8R/KH259UIKPcTlaUd9miuPIev4fyoVRaRM3WftpFyDUBmOjNKT0ewkzieUyMbz7qtkbvhfTrewpWhMOmLUI1Z36InphyOcrlNnREljwCMnNvROiGSwonPclHsLWyK/Iwj4/em8kF79VFouy8O02nih1Foo/Ps=;bA6gf8gvF2nqv7mFm/BoHg=="

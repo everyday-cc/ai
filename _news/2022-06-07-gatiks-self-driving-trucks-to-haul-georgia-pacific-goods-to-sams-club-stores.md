@@ -125,20 +125,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Driver in fatal Uber crash rejects plea deal; death in Tempe was 1st in nation for self-driving vehicle"
-    excerpt: "Rafaela Vasquez was streaming 'The Voice' on her phone when the Uber vehicle she was operating struck and killed Elaine Herzberg in 2018, police say."
-    publishedDateTime: 2022-06-03T23:29:00Z
-    webUrl: "https://www.usatoday.com/story/money/business/tech/2022/06/03/rafaela-vasquez-driver-fatal-semiautonomous-uber-crash-tempe-rejects-plea-deal/7501853001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 8
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/7134542bf3e418987256805089ad3321ef9f8215/c=0-283-5568-3429/local/-/media/2018/06/21/Phoenix/Phoenix/636652203671613433-DSC-0039-JPG.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
 
 secured: "liWCLAnSzsk6NHMe38JLFbSUDb01bFGP5o2u7GRUJViFK8VF7BVm9+eaNMtrbhKx4fv0MDpVp2gEQ+K4t1ZeCW0bfv4DxmATjzTvgdFsznvLPbYFWttKXGs7D0Mv7wwAepT4wX9O6g2TYBfXvRi9JQBLq12DFZVcaLTNoVd4VNhQtVLAUjLu1cZ3jXo6TMh1g9hUGHz4f0jMkvsyzXhVoNBO/BFx2kSX9O7La5B2yizZ6KJEf19sz9QZAShykqMyD6bRLxyffLyu748tZOU+ihwE2Y5izTsA4J7jAdeg1w3mnnciFlrUNbp5dHLlSj3FFoJc8fVHi7EVMDHOCohyItEfhJIDVyTMm5RhODnm+DTK/uFiSpLhruAUQO6SLK2Vr6L+kz/6JO9F6eLbTLCmirMwoGkly8mJ2wbQ9nITt9dIwBrp9hWS5TjsZNQ0qERKHx8jiBLkWzEZBAl65l5kRipck/jenKEaCW6Xoa1rNmwR/WbR8N/yErI4JZv7dvOQNuo+dyjpLya6EAa3/I8Q2g==;Hm2LGmKus8C5ZNJggbk2PQ=="
 ---

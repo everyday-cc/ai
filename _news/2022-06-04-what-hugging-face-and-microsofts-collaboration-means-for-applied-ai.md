@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/what-hugging-face-and-microsofts-colla
 webUrl: "https://thenextweb.com/news/what-hugging-face-and-microsofts-collaboration-means-for-applied-ai"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Reiterated Outperform by Oppenheimer Following Azure Talk"
+    excerpt: "Oppenheimer analyst Timothy Horan reiterated an Outperform rating and $340 price target on Microsoft (NASDAQ: MSFT) Wednesday, following a \"fireside chat\" with M"
+    publishedDateTime: 2022-06-08T17:34:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-2834958"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 54
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEA6103X_L.jpg"
+        width: 800
+        height: 537
+        isCached: true
   - title: "SCG joins forces with Microsoft to drive complete digital transformation, delivering customer experiences with intelligence"
     excerpt: "SCG and Microsoft Thailand have announced a partnership to strengthen SCG's capabilities as a digital organization. Both parties will seek to deliver better experiences for customers with world-class digital technologies that bring greater intelligence to understand and anticipate customers' changing needs,"
     publishedDateTime: 2022-06-08T02:02:00Z

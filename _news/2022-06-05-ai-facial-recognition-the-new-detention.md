@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Real-time facial recognition surveillance planned in Ireland, moratorium demanded"
+    excerpt: "Civil society and academics find the move premature given the current stage of the EU AI Act and call for a moratorium on facial recognition technology."
+    publishedDateTime: 2022-06-08T16:12:00Z
+    webUrl: "https://www.biometricupdate.com/202206/real-time-facial-recognition-surveillance-planned-in-ireland-moratorium-demanded"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "D9j/Unyocl4xmGjYKMxOrtPMcly5680tAwV2vNj9kwZg/SC/uQ9gcdEk26hpnpfH0+N32K8i/Nhahy0PUCrT3P93Mi/rJStx4sTi9hkt1vjJRu0cKDC5ni6POIIWc+J4Ynm7HC2uFM1WZpRgo76Ggf8T+bPxf0m1QGH6L8Cts2IYl0N5FDH0+/WT1V5yHuE8Be13GHx4FQb8P3k4W8DSfpBsppliI762jItIF3YKKxa3awKByDGxiWfAejBweVJ5pbaoRkRjzIk85eBRwTc+H1MUnr4LysVpuyIfAhuvlwkwF+/Kf0ATMZ0PLqAN8ApJSMQjidRN6yQFLmYxKIvIHF3rnCtuBqU+WX5s2HZEiQw=;FbBo8MfbYHP7DkKBsI0L8w=="
 ---

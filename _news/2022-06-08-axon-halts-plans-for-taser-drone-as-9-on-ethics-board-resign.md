@@ -2,19 +2,19 @@
 category: news
 title: "Axon halts plans for Taser drone as 9 on ethics board resign"
 excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
-publishedDateTime: 2022-06-08T13:35:00Z
-originalUrl: "https://www.theolympian.com/news/business/article262197492.html"
-webUrl: "https://www.theolympian.com/news/business/article262197492.html"
-ampWebUrl: "https://amp.theolympian.com/news/business/article262197492.html"
-cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/business/article262197492.html"
+publishedDateTime: 2022-06-08T13:41:00Z
+originalUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article262197492.html"
+webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article262197492.html"
+ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article262197492.html"
+cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article262197492.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Olympian
-  domain: theolympian.com
+  name: The Sun News
+  domain: myrtlebeachonline.com
 
 topics:
   - AI Ethics
@@ -227,14 +227,14 @@ related:
         isCached: true
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign over controversial project"
     excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week — which drew a rebuke from its artificial intelligence ethics board — was intended to “initiate a conversation on this as a potential solution.\" Smith said the ensuing ..."
-    publishedDateTime: 2022-06-07T18:37:00Z
-    webUrl: "https://www.wmur.com/article/axon-taser-drone-plans-halted/40209721"
-    ampWebUrl: "https://www.wmur.com/amp/article/axon-taser-drone-plans-halted/40209721"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/axon-taser-drone-plans-halted/40209721"
+    publishedDateTime: 2022-06-07T18:48:00Z
+    webUrl: "https://www.kcra.com/article/axon-taser-drone-plans-halted/40209721"
+    ampWebUrl: "https://www.kcra.com/amp/article/axon-taser-drone-plans-halted/40209721"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/axon-taser-drone-plans-halted/40209721"
     type: article
     provider:
-      name: WMUR9
-      domain: wmur.com
+      name: KCRA
+      domain: kcra.com
     quality: 51
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22151654625675.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
@@ -374,6 +374,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "c0EHaKrCd1JGUkuPLEs5UlnLsa3mNCZlMh/zhArivK1oqG72JIio5GJR5eOhZK9p74iJ0c4QtQB7gy34EdTTHdNiHQdboAaNSRdi6ZVJOwE6H6rjiGi0oV7qE0YXwkj6lz22hmxZV7lS8iTowd0umzQk+kx+oKyeLBbVXEPD8A6lCPIuxB3EoF25v1YCkDWCZLI7H4DtVJBXfLpfcTmhAfvL7pqdJyxaLqR6cMrAZQtA0TQY0besBKwwLcHVqrkjuPHJoVdGuijpAabqAQ8qrG+w2S2P3EPXwBGQnushx6LO40tpO3DaMHmHu3BcAhqLoZZZKUV9xP8hTAf1Bo5TqlY+TuspPBOa6sw4hrYyoH4C4x5Dk7kJajvnD1+QUMx/hWmzldkNxKA0Q3VGfPY6cTIK6J8WTEhizRJREoA+jGrmfyaQvTSwn8UYsSWzvPbd1H6Pv3C2ZGTEWqvOd8OXq9qWRVEB53zOBly/bDIl/6UnrDilWoWua62z4JylgrdJ1HZd9yTisyuhZqxPE2Ei1w==;YOVopQj4+9z2m8Nz/R9dfA=="
+secured: "UA4D5lGXomCgOcCns549gkCyLj5KvfNbDXYOLP148BMLviRPnTQUvU1rWF9wmgsAV8v4Ff9GdAiym9n2sLmeSc9MM8blLxWHcPm7zZ/R5EU1J+ZZO8RnwRkQOUNzqnxXEUK2BzKhIguGcTjK5bvPnnG19HAJKLm/R4mG29Zd3dKIozUfcb5oeRj5UDA86N1ToWSVj9ZLwZr7GRRt/1AgzdX6gAL7CuWVzjoTUuKxZECfMTQnMUdWJY5DEmK04d5yl+8v/ENjQCI2PdKkIWQS2FoJODIQ45iQqioyBMVXS40Fbmid6bWtOfnOIYNFXRgScRiPPTyrmGOHGG/grw91ReXyqECfMepCA38xzOcLA22x9DWGt3PumKOypsYz5qKJ7fbKO23hjtAl6RvyGbX0HElRd0BcsOt1nKlM+Kd/I13dPmQlRyqfRO8tgUJj8snXlvaxJ6hABeDyGqTJ2PcASnNTdOAP9vm4kaPeeARmYUiqrSL0hTXthIo8AXnT1uuBspv3CuokGPGylr1xv9macQ==;+46dvbe5sHWOh99MTb5QnQ=="
 ---
 

@@ -57,9 +57,9 @@ related:
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?993574"
-        width: 377
-        height: 250
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?178825"
+        width: 375
+        height: 249
         isCached: true
   - title: "3 FinTech deals that took place in May in the Americas"
     excerpt: "FinTech describes new tech that seeks to improve and automate the delivery and use of financial services. The COVID-19 pandemic has"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Driver in fatal Uber crash rejects plea deal; death in Tempe was 1st in nation for self-driving vehicle"
-    excerpt: "Rafaela Vasquez was streaming 'The Voice' on her phone when the Uber vehicle she was operating struck and killed Elaine Herzberg in 2018, police say."
-    publishedDateTime: 2022-06-03T23:29:00Z
-    webUrl: "https://www.usatoday.com/story/money/business/tech/2022/06/03/rafaela-vasquez-driver-fatal-semiautonomous-uber-crash-tempe-rejects-plea-deal/7501853001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 8
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/7134542bf3e418987256805089ad3321ef9f8215/c=0-283-5568-3429/local/-/media/2018/06/21/Phoenix/Phoenix/636652203671613433-DSC-0039-JPG.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
         isCached: true
 
 secured: "6G4jDeL9GRXRAtRng5rm6wkZCvj+eLCXa/pT76m7gxZqwGqgTFPw76HSJfJ5YUVe7/YZqCKiVeXsi5pBlc9xGdC1e+oes7HXuCvwr9ZzoOpfZBZg5gnqxfn//DnUE/1NbStNlrSAI0ZCnBN1nunj1H88iIbiaDXz06spoZ2wZ8t3xug2PVYcTJXegYfF491UQkvbDhv7XCgS4ozA2gwlZR2Hdoe7SsqgLCY564YnL03YKdKnG0nTis6e/LYEVaHQHM8fWv7i5zNdN4s1M7Te1+v6ofOkWbsTKpE4pIKVNhUtpyhtg3JpNcLIOo8BKgpRD8Im1GOhFWW/DhqOuKFiclXqUcWkHCWVi66Wj6sbpCAxweWvzgfTxCzsUQUjkh3T54EXLNxuoctlQAyuaOzF3uNGWTZIc0POIG+mOiwos8gPfqqMGsKPJQupXOVup7blJAL0+55AViuRTkSzBt351ZCB4V5YVIarkIP+uql+JHOk+5DNmNnjE4UFSCjCPlccw2vqPWUkKuLCMtEuhRor4Q==;kAbjdr253DiHWUr0Zesy4w=="

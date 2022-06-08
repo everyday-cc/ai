@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft Reiterated Outperform by Oppenheimer Following Azure Talk"
+    excerpt: "Oppenheimer analyst Timothy Horan reiterated an Outperform rating and $340 price target on Microsoft (NASDAQ: MSFT) Wednesday, following a \"fireside chat\" with M"
+    publishedDateTime: 2022-06-08T17:34:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-2834958"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 54
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEA6103X_L.jpg"
+        width: 800
+        height: 537
+        isCached: true
 
 secured: "6ubgBvHd65kfOUiQyicvUBkwG6O1r7SBIEwbSbGwKLENV2PzIAc8bsTlmctVgHdUhaggXOtZmnErCXgObSQz7D4oHTniaz6UzOshx0Y09nrCSLBvgl3nEttNIyQHBoJCzGqlpnrG/0ppDbBtuJjF8NW4rEVbZZK8aFfxvVOGWhdAt+HGka2yzN1Go1tUt4m+RY0yUeKcwrnWn7Yp50sYc/BskwVj88EGZ9loOGxxcHJ8GafGsNdaDX6+V1cQV6nWXf0YT3qYDfmG5L7P7WDfoVLUW3fP5iUgtF8ZX5sljnOFOHmvdJBwcwJQoF7tFTivHfhiWR1M5cBVXdwxOOhzMmjUa/kGK6vKjeZt7Hmyrmk=;X9OTelUXjE0rrQyYH2P7Nw=="
 ---

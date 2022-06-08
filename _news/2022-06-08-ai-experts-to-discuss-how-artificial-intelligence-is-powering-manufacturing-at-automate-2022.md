@@ -25,6 +25,22 @@ images:
     height: 313
     isCached: true
 
+related:
+  - title: "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022"
+    excerpt: "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing."
+    publishedDateTime: 2022-06-08T17:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "dARlyTrhvHcoUudAJt0CRMThgMNTJDWgznAcNV8f3tTU+JjOBDSvy5PGI7oOxlXPYc0t4ZIAIBr2A8uUW0KSTc1tQkEaj/FSrhOoQQOzTE22JrYD4w6fDXwCOXK3NXEpbIQ3vhVBW4xQj2X8F89Xa92hxF49x+/VDrXnG/dOXz556Ry3Dbw6ADFdB9pDVUYvyoa/5/fIXTkPXvf4i/fKhhk2yljGePKRk/XJSt5uluVHaWkMzfdXvLFdfM5i5oc9UAWyFTvXyU4t6rx6JJn5BaANs0t/XkXg0ynGw8YUeXUMhkjMY+moYulVM/hazgJy2npwwHX1s2pEZxH0qbH+BkoRcjG5D6OEqduLG0K/WB0=;bnfrghF9utHQnoigXcHfhw=="
 ---
 
