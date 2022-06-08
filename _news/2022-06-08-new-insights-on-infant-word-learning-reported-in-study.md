@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-06-insights-infant-word.html"
 ampWebUrl: "https://medicalxpress.com/news/2022-06-insights-infant-word.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-insights-infant-word.amp"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/new-insights-on-infant.jpg"
@@ -26,6 +27,6 @@ images:
     height: 723
     isCached: true
 
-secured: "zYPVLupNhfzfnySGHl/JtdRwDwc5pcmUJXAsa91mFuFGhvY0ZC4d1EhorUFJdEIOHnQAlOYBSVczZIi8Xk3FUWLY5Ck1A7xpxJm+aK+cDhZ2TD58MkXGj50bAxaFHtIDRGHcTgkaEuI1W7N2RjWq5nr0Ky09aQyalrbuNIxuBNqt1zVRblFujBRBirJMNK1e8gc9xiEplQ0y2Jzrs4tq4yTzusmAVQuHSJdTI6v1DzdYENKHE9KgkTYdIGDjbun8ge8/hIZDmPy1ituKugmb9qyulf7sWgMFGFi7sGNP1vnZk1t1owldcbBqztInaJssX3y7Phg1ZSTfXfQcKj+CUJB6ZXzuMRXYZ6UkO++9ljo=;QlR2xGm/fW8XQm0QRGsC8g=="
+secured: "ItGFH8hZ9h2qDLB24oTsJSRx24RTSt31wN2mecc3L37lwUQJD1fYIno85pjYjb8rBgrEMGyy/70EEBypwCwKDH2GO6DQnMNrOsjJolMk6qW92dI+NydOPkzH38XC8Jyz25F6tmxKwpOIitWydZ7MAoYH++Oi3z/mxMU2N9mJlhLDbDgdny+oktLemg7/Otlve0Qu/qgasAoliWkKwA2xazmHeoQxPRWegO5GkuGeGcdigz0oiV106UWiEyK1wJm8kQn73xdihz3neuL9EaR/m55gfjk3ejwOc9jSCUQ4Dq+em6rNZ2ERmsOCZLo24Gc7PsBCytM2R4iX9olut8/xFBxRSPdovbnKzaLoL6Ptfc/QDfosR74hSCTJr888iSSWPsYPx8+uKLbFq77G2+0pABQaFCRFPjS4zERysSNCFgY3tmpRgL66hg+otp6o5NuI0aTmMXRM3c+0s56TXKsA9Args0q41nD4K1XaqL84fZwz3R8i3Asr7iksPTvL/iuillKgBLqQ7+xsFvWY5L52/A==;WVA8+cb6gpOzpt5NwmMEHQ=="
 ---
 

@@ -1,22 +1,31 @@
 ---
 category: news
 title: "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care"
-excerpt: "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes"
+excerpt: "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered"
 publishedDateTime: 2022-06-04T15:03:00Z
-originalUrl: "https://www.djournal.com/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care/article_5e11842c-b0b4-5270-af6c-0837ed87b759.html"
-webUrl: "https://www.djournal.com/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care/article_5e11842c-b0b4-5270-af6c-0837ed87b759.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand"
+ampWebUrl: "https://www.benzinga.com/amp/content/27555974"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27555974"
 type: article
-quality: 0
-heat: 0
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "Rbwy5LagGCTjhrMOjAMQv8iaOkdbBoNvolXA2SRV+qYyA8tZSfUDcvWWnf7DjW3HtFVPZ2CFGlNcNfhAVPtFgdE2hd+6NVscC3nWeXelEdXKoDSYLem4XiuFwadY/Is/rXxSuRgO0UcfspFMf2wgKfs+A2DYOrxDoDHikfmmzOXNRnkH6UNc1nX1nHnUUMKVb5nDipjL7sq5VPeiMaTdlWeR7pOEuM01pPARrMaTG8S/XTtm951rJeZkyqILlmn4urxyjDnaf6+3bwGKKt3aafmbWSTlpQu7RhwW9ABVZKkVa5rhrrLIiBplIFgiczVZ9/Q7kmKuDbu9Iwcm/rwQwViRyRmupjAxUvNWWwipq+Dg051GP5xOAX63R65FPLwpLj9GMxvcWUVCE98cn3PuabjVZ5Qp34f/FV8KGelwGdGIeVZmSJBKjdMIloNOxW5ITf4tRGvT5APqS2dWC0j8XOkFLj8CWVe3AEk1kypqNogObpK0BmxiVFSJ8OZC8vYS2Lo1t/7kgMWCyXmBnfbr1Q==;ZoUEOFbbdFkzAcsDC1rKzQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1832792/Paramesh_Remission_Graphic.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "R4kfBnJq7uQKlxHTvvnSDx4H9XKbHpi2szCMIUHjkDr65WP7gfZqctzVeyiX/t5OpnatmlN8nwk5eY+wQhYmeQnbh+x8lFYoEcK4AvITkyfGu+l8l4G3BnsPtnhXLk6loU/ymwztLl3wYIo2otUPLuX28bjMApruamD5VilDzzA8WvVeVUc3qQxt/4IBbnTwZShsvdIzY/fDVdCoaaH3M0DIRzhcA6gGnAV0NtCKRj1lgvPLm4kIKGnU7JUH0ztxSlOUmSI0j9y+K35xZN8Op2xs6s/wJNJGq9Sex+EL2780yIlQP/s+Q+MezbhgrCfhDI7JlmV3su3SGRpY+YNjMww4OoB6R6H24rIPyVfcyNc=;t1V9ye6Z03fRkQbfhL/JCQ=="
 ---
 

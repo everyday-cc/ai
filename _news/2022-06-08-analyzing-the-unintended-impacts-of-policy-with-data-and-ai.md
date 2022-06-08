@@ -1,0 +1,58 @@
+---
+category: news
+title: "Analyzing the Unintended Impacts of Policy With Data and AI"
+excerpt: "The technology used was SAS Viya Suite for analytics and AI, hosted on the Microsoft Azure platform, as explained by SAS head of smart cities partnerships James Caton. “They found open source data on foreclosure rates in the county,” Caton said."
+publishedDateTime: 2022-06-07T22:00:00Z
+originalUrl: "https://www.govtech.com/civic/analyzing-the-unintended-impacts-of-policy-with-data-and-ai"
+webUrl: "https://www.govtech.com/civic/analyzing-the-unintended-impacts-of-policy-with-data-and-ai"
+ampWebUrl: "https://www.govtech.com/civic/analyzing-the-unintended-impacts-of-policy-with-data-and-ai?_amp=true"
+cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/civic/analyzing-the-unintended-impacts-of-policy-with-data-and-ai?_amp=true"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: Government Technology
+  domain: govtech.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://erepublic.brightspotcdn.com/dims4/default/6e3dada/2147483647/strip/true/crop/940x490+0+19/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F71%2Fa8%2F7330a18334af2e7e3aa1ddc50a78%2Fshutterstock-287157809.jpg"
+    width: 840
+    height: 438
+    isCached: true
+
+related:
+  - title: "Teal Is Revolutionizing The Career Journey With Tech, AI And Machine Learning"
+    excerpt: "However, there is a startup that can help level the playing field. David Fano, founder and CEO of Teal, created a machine learning and AI- based careertech platform to help job seekers and people who want to advance their careers. Fano said, “In the ..."
+    publishedDateTime: 2022-06-07T13:28:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2022/06/07/teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+  - title: "Building a better society with better AI"
+    excerpt: "Creating a more equitable and inclusive AI through decentralized data and reduced algorithmic bias can help improve equity."
+    publishedDateTime: 2022-06-07T14:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/06/07/1053031/building-a-better-society-with-better-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2022/06/07/1053031/building-a-better-society-with-better-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/07/1053031/building-a-better-society-with-better-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/06/41365210_1200.png"
+        width: 1200
+        height: 985
+        isCached: true
+
+secured: "4XXkSZidENKTxLdE278nFUjPWUnbN1BN1NyYJuChiLCew4hqQHtI+UUCscquU5ydTvvGK41wOEhXElMZVawD8RRTGWEiS0zn7YIKcCaVyeO95akkWkebGY6t9q6B+S6pYW0SZifem0bKkGthmPfzJaSuG1c6jC/DF7VwmqWQ6yN4cuZ7zIJtK3WiWwKiUAmFHEaUMVzplrKf5neCzJDneaXRKUXVW9hQQf8LuKtSOz0qDX57rpuj2iK66sb+lDXgVQ167dB3sTKm/qpcBhaFVIELAmO4ovprgtQpUwukaspLUxhIh/XtHbCJZcLBlZ+LrgRDm5wkrjUD7H9lOOqqiv/Gdg8xSo4AMSzxAMAjYwg=;/L3oUFBGg3ZsqYFz2iu8+A=="
+---
+

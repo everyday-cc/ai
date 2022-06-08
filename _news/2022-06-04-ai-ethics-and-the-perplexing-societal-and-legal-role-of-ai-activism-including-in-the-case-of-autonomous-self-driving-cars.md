@@ -67,7 +67,7 @@ related:
   - title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
     excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
     publishedDateTime: 2022-06-03T19:51:00Z
-    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
+    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines"
     type: article
     provider:
       name: Wall Street Journal
@@ -79,13 +79,13 @@ related:
         height: 640
         isCached: true
   - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
-    excerpt: "LandingLens enables teams to build deep learning models. With the new edge capabilities, LandingLens customers will more easily integrate with factory infrastructure to communicate with cameras, apply models to images and make predictions to inform real ..."
-    publishedDateTime: 2022-06-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory/article_013fce8d-a5ec-51e8-9d21-c891fca6d7ea.html"
+    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
+    publishedDateTime: 2022-06-06T13:19:00Z
+    webUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: WTEN
+      domain: news10.com
     quality: 21
 
 secured: "kAQaSceShrdsCG6yyJ7zqwn6eC1Ckfp4UYWqpzZw5/nOQC3V7rBfLT8nzoyNhP783f9punZ/y6m8hIcN8XbUzVq5brNTwCXn8+umjxTmHrsjoNZCUaxj0z0FrvDQDPEJLS9UEXzgA+jtkhzIzvH/HmHjWIS7AAjP45f0ySwGZHsSJJVZyWsFwX0Rv9HpwybpFS2NRSG63NLnz2HsfdfmfqARQ0vyQ3j/frN6Y54x7RgT31Wm4QNmXqxnp42Y7DZg7rZvtFL17wacDHFTKyz+fKVS0KWTVOrbsknpREff34+RItPLWv9VXJd0VQIx6wlfFkCUusv1qT6zhyPbi5I80XVC4WuejN7hQjidfuvRkUg=;/9nCsqkYa0FygsKAPO5vfw=="

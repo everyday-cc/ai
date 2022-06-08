@@ -88,22 +88,6 @@ related:
         width: 1024
         height: 587
         isCached: true
-  - title: "Pinterest collaborates with THE YES startup, here are all the fun features you will experience"
-    excerpt: "Pinterest along with THE YES startup might come up with best possible online shopping experience, but this is just a guess, as the company has not yet disclosed anything further."
-    publishedDateTime: 2022-06-03T05:25:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/pinterest-collaborates-with-the-yes-startup-here-are-all-the-fun-features-you-will-experience-2022-06-03-781611"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/pinterest-collaborates-with-the-yes-startup-here-are-all-the-fun-features-you-will-experience-2022-06-03-781611"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/pinterest-collaborates-with-the-yes-startup-here-are-all-the-fun-features-you-will-experience-2022-06-03-781611"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 30
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/06/pintrest-freepik-1654233432.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "Pinterest acquires AI-powered shopping platform The Yes"
     excerpt: "The Yes’s technology enables people to shop a personalized feed based on their input on brand, style, and size."
     publishedDateTime: 2022-06-03T13:31:00Z

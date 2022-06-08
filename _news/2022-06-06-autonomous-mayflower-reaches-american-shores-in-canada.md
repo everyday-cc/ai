@@ -3,23 +3,23 @@ category: news
 title: "Autonomous Mayflower reaches American shores -- in Canada"
 excerpt: "Piloted by artificial intelligence technology, the 50-foot (15-meter) Mayflower Autonomous Ship didn't have a captain, navigator or any humans on board — though it might have helped to have a ..."
 publishedDateTime: 2022-06-05T19:09:00Z
-originalUrl: "https://rapidcityjournal.com/lifestyles/technology/article_4a4dc1ce-0e3e-50cc-ae32-9ced631ebff6.html"
-webUrl: "https://rapidcityjournal.com/lifestyles/technology/article_4a4dc1ce-0e3e-50cc-ae32-9ced631ebff6.html"
+originalUrl: "https://napavalleyregister.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_835789e8-d421-5f05-9676-01f353092925.html"
+webUrl: "https://napavalleyregister.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_835789e8-d421-5f05-9676-01f353092925.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Rapid City Journal
-  domain: rapidcityjournal.com
+  name: Napa Valley Register
+  domain: napavalleyregister.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/a/be/abe4f251-a04d-505f-8979-7974e0c2fb99/629cfda02a7b9.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/7/08/70883c25-d720-55be-8033-108605b5ac44/629cfd53b1c7f.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -63,6 +63,6 @@ related:
         height: 526
         isCached: true
 
-secured: "ewGLD038rotSBgfeCvBJP+fOt13gbq2VeqpxllcFXRLAoMZaAZyxTNXuGK3Z36F7indi9NwXYGKk6Ep6rw4lHcwvZuatlHSIisG4REHLPLSt4B6CF2i3KM73snBUC+ccFKv1fNL2xPnTCDKV+t11G7Q/StMADG1E8DObR+Vyx52zjOrq2rhE6m/evI6YVgif/sJMynqB/6m48h8JqsN1O2Vv5Qo3w0DRwlSEc/TbG7/mvMPDfuy0wsnaWG92L+5RZgnXF6ToRHdYKeHSgK5t7PT/7B6adZFJaC1YletU8JjrSBFpL2B4cBG95W6P0jFfbCapzRmSDLpsxMcHSIUQPiA4XuofAopPVF73kta+W3A=;A/Lmqt4ZKsJgCzbhzf0Iew=="
+secured: "ARGiBAHJwTVNxpRTuXYBbzdhXH5hiaicNhQ+VfHvrXpPjCVU3HEO3RhysXa//It2Xjppz89wgNWFhjxchW1U2FlV/ZkWxdj0kSK2yJciv1FYhMd0VgM+1Cd2pSz3TqxgJTv5smmx9zEeufuozqjB0c0+nf2Ad42IkcCyiPQQy+DVArXqYhWZVEOlDHqDfU6W74dNxxOglVG9slY0VmYSq6cIMOX+4q9vdg4yZ0ADgT2PIzM+BewxBHZUNuH/ccad/Rc8wnCV4HeVas30Tc3TgacpjmBnKbeZF3feyJIJm1jMclpggB8ywgs301QMp5zjlyCPaz/X+wSIXuvM9yw6vBsGROD+RTrMy4L/hfn7McA=;hj7JS19dxRNCD0yBu0sfCA=="
 ---
 

@@ -36,6 +36,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 61
+  - title: "Analyzing the Unintended Impacts of Policy With Data and AI"
+    excerpt: "The technology used was SAS Viya Suite for analytics and AI, hosted on the Microsoft Azure platform, as explained by SAS head of smart cities partnerships James Caton. “They found open source data on foreclosure rates in the county,” Caton said."
+    publishedDateTime: 2022-06-07T22:00:00Z
+    webUrl: "https://www.govtech.com/civic/analyzing-the-unintended-impacts-of-policy-with-data-and-ai"
+    ampWebUrl: "https://www.govtech.com/civic/analyzing-the-unintended-impacts-of-policy-with-data-and-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/civic/analyzing-the-unintended-impacts-of-policy-with-data-and-ai?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/6e3dada/2147483647/strip/true/crop/940x490+0+19/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F71%2Fa8%2F7330a18334af2e7e3aa1ddc50a78%2Fshutterstock-287157809.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "s6OVcSnl2H2ONa+BGXxLpCAU0k+N7pGD1FCCM5J7sExjOCyvdBngarEbOJ9eaeM0r2C4BFVqZdfAot7d0wUX4XaM8gZL16NCscJo6OTzZKu1628eqfEIApwb+FkeS5lyeAV5bQpzV1u4Q5btLs1VGWdQbaObwA838mp5yNxiaNqN4s0Y1SLuk+TRB3n2FPfANWkyabABWY0BH4h9T5kl8d3mzY6+90FbkVNfVEVEHxT7AiN7E7WPY80qxpOZuvXZFCDtl6nHCGZQ2X3SsnxP2ubGBa0xkLm0W/MStl4UrHcpZAOeqAspN3OofM/CEp+eCj5xsmr1jjnl0mwjECTSU3vhAK80Ku+n8c6gDncxMp/cqDW28sfHw1dp7DPCpDrB9g/9eHDa67XBHmjQrQSq2F7zgcoeV+tgb7sOYBcauMF4piRJmGyJydo8Car2gevkhFhEg/wKq80butz6IRoqe0JF3a1hjdecE0mBBWN7kOvTDZYZqwDjI+u5zmoeI6y62LnUo4rnpihmLDekJFHlOQ==;MD8L4VLktl5RDdDwFTAUvw=="
 ---

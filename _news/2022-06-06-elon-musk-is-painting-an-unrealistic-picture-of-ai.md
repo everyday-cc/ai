@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk says Tesla AI Day pushed to September 30"
-    excerpt: "\"Tesla AI Day pushed to Sept 30, as we may have an Optimus prototype working by then,\" Elon Musk wrote on Twitter, almost two weeks after he announced the date of August 19."
-    publishedDateTime: 2022-06-03T07:02:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/elon-musk-says-tesla-ai-day-pushed-to-september-30/articleshow/91979661.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/elon-musk-says-tesla-ai-day-pushed-to-september-30/amp_articleshow/91979661.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-says-tesla-ai-day-pushed-to-september-30/amp_articleshow/91979661.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1482980,msid-91979650/elon-musk.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Elon Musk’s humanoid robot might debut at Tesla’s AI Day"
     excerpt: "Tesla may demonstrate a working prototype of its Optimus humanoid robot in September, company CEO Elon Musk has claimed. Musk first teased the existence of Optimus at last year’s Tesla AI Day event. Details about the robot’s eventual pricing and commercial availability are scarce."
     publishedDateTime: 2022-06-03T16:53:00Z
@@ -70,17 +54,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Tesla may have functioning humanoid robot prototype within months"
-    excerpt: "Tesla Inc may have a functioning humanoid robot up and running within months, chief executive officer Elon Musk said on Twitter, as he postponed the electric carmaker’s second AI Day until September 30 for that reason."
-    publishedDateTime: 2022-06-03T05:21:00Z
-    webUrl: "https://businesstech.co.za/news/technology/593190/tesla-may-have-functioning-humanoid-robot-prototype-within-months/"
-    ampWebUrl: "https://businesstech.co.za/news/technology/593190/tesla-may-have-functioning-humanoid-robot-prototype-within-months/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/593190/tesla-may-have-functioning-humanoid-robot-prototype-within-months/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 56
   - title: "Elon Musk says Tesla AI Day pushed to Sept. 30, awaits Optimus Prime"
     excerpt: "Tesla CEO Elon Musk tweeted Thursday the the EV maker's AI day will be delayed until September and the Optimus Prime humanoid robot may be available then."
     publishedDateTime: 2022-06-03T13:15:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.cio.com/article/400661/why-financial-services-firms-are-cha
 ampWebUrl: "https://www.cio.com/article/400661/why-financial-services-firms-are-championing-natural-language-processing.html/amp"
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400661/why-financial-services-firms-are-championing-natural-language-processing.html/amp"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.cio.com/wp-content/uploads/2022/06/natural-language-1.jpeg?quality=50&strip=all&w=1024"

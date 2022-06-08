@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Natural Language Processing Software Market 2022 - Segment Overview, Scope, Advance Technology, Top Players Data by Forecast to 2028"
+    excerpt: "MarketandResearch.biz reports offer an in-depth analysis Global Natural Language Processing Software Market, including its applications, definition, and manufacturing technology. According to the latest investigation,"
+    publishedDateTime: 2022-06-05T23:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-software-market-2022---segment-overview-scope-advance-technology-top-players-data-by-forecast-to-2028-2022-06-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

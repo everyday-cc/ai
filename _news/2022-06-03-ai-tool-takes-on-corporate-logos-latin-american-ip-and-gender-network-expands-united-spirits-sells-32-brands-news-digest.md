@@ -36,14 +36,14 @@ related:
   - title: "Autonomous Mayflower reaches American shores -- in Canada"
     excerpt: "Piloted by artificial intelligence technology, the 50-foot (15-meter) Mayflower Autonomous Ship didn't have a captain, navigator or any humans on board — though it might have helped to have a ..."
     publishedDateTime: 2022-06-05T19:09:00Z
-    webUrl: "https://rapidcityjournal.com/lifestyles/technology/article_4a4dc1ce-0e3e-50cc-ae32-9ced631ebff6.html"
+    webUrl: "https://napavalleyregister.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_835789e8-d421-5f05-9676-01f353092925.html"
     type: article
     provider:
-      name: Rapid City Journal
-      domain: rapidcityjournal.com
+      name: Napa Valley Register
+      domain: napavalleyregister.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/a/be/abe4f251-a04d-505f-8979-7974e0c2fb99/629cfda02a7b9.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/7/08/70883c25-d720-55be-8033-108605b5ac44/629cfd53b1c7f.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
 excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
 publishedDateTime: 2022-06-03T19:51:00Z
-originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
-webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
+originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines"
 type: article
 quality: 54
 heat: -1
@@ -78,15 +78,15 @@ related:
         height: 585
         isCached: true
   - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
-    excerpt: "LandingLens enables teams to build deep learning models. With the new edge capabilities, LandingLens customers will more easily integrate with factory infrastructure to communicate with cameras, apply models to images and make predictions to inform real ..."
-    publishedDateTime: 2022-06-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory/article_013fce8d-a5ec-51e8-9d21-c891fca6d7ea.html"
+    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
+    publishedDateTime: 2022-06-06T13:19:00Z
+    webUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: WTEN
+      domain: news10.com
     quality: 21
 
-secured: "qW0HhhHwoytRmBQkoGiLMIhbSC9aUvApMvvpe2uxgsImlGQtY9iA/poQRZQAbAucWpClnMwFDZrHko/DrOwwbNL5ndprItU9CHLBgBXQmFZd1i7TVO7gxigKJU2ssno99sAi7bDJLEaVR4SSQIK1ftam7EGF8vOr+L4mHltxjMRcNxGjXGFs04paIBlldH4HYazB7sipfjVveybJEt9hEEH1izY3LGgqcwTN54aRY1BATMcteKm4af5yKKUs/lF1SUzevNmw9dDcJJU77KVxHYYQP7UMZ/z8s0Yk/6UNE8SdJyO/HEtEANdX7/ZKf4OBXB6AblpRzFYml+j+MDoitD1vwF6oF3jTl0mvmY3j6qlcr6Dh+lcuBs1rhk6q8nCDAxPP98t/H1t98A3PIh/hViT6Ukk/d6SfHn+OkJRLfToMi3nP0Y5YBkFB3/b9dWaJw1sDLjKK7QL5bRCPrsladbjwnKaxUevrizmyDSsqH7Ocl6Lr4SzTsig24Ck7fkgPqr1FnfW6p0sZK+zxofQdEQ==;wIehRAN88IctqOsIcnGxfA=="
+secured: "LnQ8u/KYQSeNg4/L5c4mwKl2i2trXyvW4Qf0Yun8d11LrJVh1nv8d2Iga2QMh1/FcoFFzqCksyos7itG7CkWTcZ4r285aVNse38D0mEPxfhH/wN3XG3xaAvBgeUDLhe0xVSZfMU1WlAqWHZ7NH3Litjz5K2jOGRIAPb0NB0QhJN7OWg1fkRB5HNswVXZawmNzP5uDWBmuaJUHD+XisuVa06HyF8GOgh0PsEG7qMdZqGsLherRctNLsrQhh9YLH1XA4CWg++yvqcPHcdQHSApJa1WxXphbFXj58yEVh4Xhsj3TF+RCgA9Ce1GoJQf0HqCfG0HEH1DHzBpvebqVvYIrWjM6+x4JxcEnW3Ck028XrI=;J0SBFzlX8SN7dPM6ntvVaQ=="
 ---
 

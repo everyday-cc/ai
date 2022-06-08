@@ -3,20 +3,21 @@ category: news
 title: "Artificial intelligence scans for weapons, but faces criticism from some"
 excerpt: "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work."
 publishedDateTime: 2022-06-03T15:28:00Z
-originalUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
-webUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
-ampWebUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
-cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
+originalUrl: "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
+webUrl: "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some"
+ampWebUrl: "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
+cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: ABC Action News
-  domain: abcactionnews.com
+  name: KSTU
+  domain: fox13now.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RZ1xzFDcD/XTeIVknc9zJ2BFtApRUS0tzI107ZafeRkEnVvHyc3oi4z3Bmjrx9Mk7CG2rHB+5hADJ4Inc/HrtyqHhTap6qewofpsTiRUjBbC0x65NJDBitwu9ZrZUjXzhxvRexJXt7IdQUdFzLLRhsVv1KPqeV4gyY9ZkCu9iOIznrSzcQgryB1l0qmqoFQIQ1CADHPqsv0YrCH8vZM4rSvV3BAifeLNpHXmFV/5W7phjX/pa0P09C8F2JXpjY/+4Y4pOn6z1wwjq8blSl9+LPNLFTfLiNswDg073QmKJt1ib/JABed+1zHURY4Nlyh5z2xMuL6nynZuZA6Sg5QrWFMZ48yzmCnNo2PBJ0e+iNk=;Iz3nXH7Zi6iPep8qea7UqQ=="
+secured: "UI+k+gvEksHhVBvnP+tqzzp06juCvfX+G+IWFTpcgyPR5esK8vraCn8Mo+dGdGEzEkoRY6ljgjNjBPszXjutASPEVxkqoQsHYaPjFnrr6ISjBa5WjywhkaovHjM7VJ5qzwJOM8nbO2YlYgkTlKBPxWwUj6wA8rCzKBR8+G2WALyljD4PvAoPo6pwGzHU7YAP8U3nxCFQ8aJAoIlJ8fBCNTyeSZ/LFjUTXU+rYsxMImnn6mStDjWwSifqF9ZqfnzPkquTNo+IVZH7VxvBOb4RgW+b8fTSZvhRJADKVdDTEJN0zFjCTk59+D9SjIzv3fA57bXk1AeGBRvevlY9uVWYRif9E1+Ce6afHZOiivQBhHo=;mD4uAmw09hMb6JH5/9P61Q=="
 ---
 

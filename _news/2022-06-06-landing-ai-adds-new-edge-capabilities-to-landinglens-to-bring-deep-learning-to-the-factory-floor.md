@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
-excerpt: "LandingLens enables teams to build deep learning models. With the new edge capabilities, LandingLens customers will more easily integrate with factory infrastructure to communicate with cameras, apply models to images and make predictions to inform real ..."
-publishedDateTime: 2022-06-06T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory/article_013fce8d-a5ec-51e8-9d21-c891fca6d7ea.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory/article_013fce8d-a5ec-51e8-9d21-c891fca6d7ea.html"
+excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
+publishedDateTime: 2022-06-06T13:19:00Z
+originalUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+webUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: WTEN
+  domain: news10.com
 
 topics:
   - Machine Learning
@@ -70,7 +70,7 @@ related:
   - title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
     excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
     publishedDateTime: 2022-06-03T19:51:00Z
-    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
+    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines"
     type: article
     provider:
       name: Wall Street Journal
@@ -82,6 +82,6 @@ related:
         height: 640
         isCached: true
 
-secured: "pmgjSTqn07wFDh7vRdSXFdVqbnV+P39qQnUlINb9SbQF5eRjoHoPxNKBmhGwfMmNGLJ5jFOXUsUMO+XKRlzojdaODMFrf3PXp9/Q0+w3KtLomYzQ7rg075MoWRvdLDX3sYhhuPfJ2xNLSSnC4O8KLsCBfBqyeRjD9XhHcO1+k5yl5yN7NPzOtqBhJBvA29esYEyMyyD3i0FSafH6OKbz7Kibc+RXCszIi9v0tnLqYcJKV1E8v++dsBNub4zv0NjYD7Fdej9XH8pvQfs6kzAN99Iz05opdXnl/H5NQWfCkmgHdtS5lNOkaW5Dcb6k7XqVOae4HVMjYPTLkchxWvu+hiFFO35Nohj4J5ZcdPTDzcWg5NcEUgsreU2Wyaq5XsE/3WXxlB8JYmlOF/SJfhqBtYS9YGcpbYLN/+geQVBvnz+ce7VH7LNKsVWRMvZhwwBEiwhT9P16m2zVIVup3TmCSDWzS4Pz3RmuS0f7QUasD3gmuJ7NT1oChpFW9NUJ7fHOFILxx36A2SqUJrqiohYvbw==;tB/o9LVyK4Dessce2qkruw=="
+secured: "0o0RSCLb3mUM1nziJ2o7mOKb3pMm1+BtcBTGepUfuTzsE5dJdOqAA9+73wTeVqIGTm625IdR29cIwdC8uszCBLbAct5lu/xNVsF9jxLwScbM56m31/T3w6YGQvRGd9n/bdlYSvxXPYTcq9nWTuHRjY5mUeQinMs45bzcvOC2PRSR1IPf0Ji1CtaWyLZuVODpfvhaTH6yI+t6xeNEiXYxdczJDI7HKOpkAjUe3wBbHfb1gROVy9PFjLSEVBVks3m9dTtEA61NuIBtdvqj5UEaEFP43sjCGfEdHb6MEadWnfFYxB8oT8UsM9nhtBKxY58hQKba5PIKbV/Pp+QUdKBX/mSxb5lJD9fWUQVP9CQIDgI=;1WwxMkxeSs+Co9EawRFJ3w=="
 ---
 
