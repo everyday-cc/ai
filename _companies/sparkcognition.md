@@ -35,7 +35,7 @@ tags:
   - Security
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1196452944943681536/z754dUZo_400x400.png"
+  - url: "https://pbs.twimg.com/profile_images/1534384791910490117/DuSG4wvm_400x400.jpg"
     width: 400
     height: 400
     isCached: true
