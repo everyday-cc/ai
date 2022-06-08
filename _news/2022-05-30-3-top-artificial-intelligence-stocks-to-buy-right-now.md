@@ -19,12 +19,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
-    width: 2310
-    height: 1297
-    isCached: true
-
-secured: "hAqSwFvqrpKSOE1NFTi0uPBST1BS5c8SQ5BhKW5MAzqb4gkYuGmEGxgcG4S88qYa0/JexLrOSUon4mX6ME2NfGhV4077wMUb5GoSS/knsFWv+TtXtyAtHg0fZEn5jg8/e3WmzqHziIyA93aR8PyqPvLhhF7H2QhJYjL7nzOKXP7pZT28ymTO3k47m/crEK7bqOKELrtQR7HdCPKjMj4hXZ4YIaZbK52a0p603idhGWSeKi8KFeNSN8hLlmpMcDQMc13rUR7pOeztCqA2jNV4ipc+FKEJExOJvmrqxpOULTjJV5REC37+k9PjeEQC6kP5JYiVx71e6fNMOJth54wCKzoi6xalkSdwdSRssLbGSIU=;A810jkbKn67bdbbIJL33DA=="
+secured: "WtwzFS7H7LUrX+o4o7TDMtSpLaeRL9Kd7D65oeZIakf7XMkUtQXlMwOgmkclWPC3Qz3Z9ScaLX+x/WRqlzHyc1s937S7/JPIFgK5ClJ57fqdbdP/YkaOpddrlfXpFn21LrIXbjp4D+oc7NIZvkHJnrJqVUJ+Hu91Sv88EeaWBcaA4ZYRcunf9vQcw1GStY5wjZp7dLOuEnBl7aeNav+XSxRt0TVPsNXRzKSHRebQ/vPSS7o7SO/CqMIO+9XTKm00nv/IgcdbzNUrvE9LcVuoSBeg1NEHu/0qx2ln7NA3sT73AWvttLP1kcGQzzS+NtFVbKX0+qAZllc/pJDoCk8uZA1DyK1HzxRzCOj4KjTYg4nKfs+4wPwmE18Y1GJ02k1xyAzkgx0B/7Srx8P668S/9u0O7hn7EVQtgtomSJQ/7ieFXVD+hYaK7XlMyQoAvAD5JtUQ99TEhcZPq02+a1ukHVoSVfAgmwa5tWrpn6NCEHJhQw4kWaNLNugobalELpy8/DEn7Ozv0J3SY3AehIFtEg==;mK9Q8SkY5lDTES1KO+IgTA=="
 ---
 

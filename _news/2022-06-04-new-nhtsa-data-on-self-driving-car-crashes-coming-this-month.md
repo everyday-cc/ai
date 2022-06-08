@@ -3,12 +3,9 @@ category: news
 title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
 excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
 publishedDateTime: 2022-06-03T19:51:00Z
-originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
+webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
   name: Wall Street Journal
@@ -22,71 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://images.wsj.net/im-557184/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-related:
-  - title: "AI Ethics Alarmed At The Rise In Underhanded Juicing Or Doping Of AI Machine Learning By Trusted Insiders, Including Autonomous Self-Driving Cars"
-    excerpt: "Worries are that juicing or doping of AI Machine Learning is gaining traction, an AI Ethical woe and dangerous, including for the case of AI self-driving cars."
-    publishedDateTime: 2022-06-07T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//628ab0b5c6b6ddedd0fce126/0x0.jpg?format=jpg&crop=2647,1765,x0,y128,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI Ethics And The Perplexing Societal And Legal Role Of AI Activism, Including In The Case Of Autonomous Self-Driving Cars"
-    excerpt: "AI activism is on the rise, dovetailing into the AI Ethics movement, so it is worthy to take a close look at what AI activism is all about, including in the case of AI-based self-driving cars."
-    publishedDateTime: 2022-06-04T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//6296a226bb1124449cbe2b9c/0x0.jpg?format=jpg&crop=2781,2160,x934,y0,safe&width=1200"
-        width: 1200
-        height: 932
-        isCached: true
-  - title: "AI-Powered Hong Kong Biotech Startup Raises $60 Million From Top VCs Including B Capital, Qiming"
-    excerpt: "Insilico Medicine uses AI to speed up drug research for diseases like cancer. Before starting Insilico Medicine in 2014, Zhavoronkov founded Deep Longevity, another AI-powered healthcare startup in Hong Kong."
-    publishedDateTime: 2022-06-07T09:19:00Z
-    webUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/"
-    ampWebUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//629f13ed0c991cb629d8d39f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 585
-        isCached: true
-  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
-    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-    publishedDateTime: 2022-06-06T13:18:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 21
-
-secured: "AQp9az83YCMep3xw/d5KO9I5scdhnMIFzhbkxXJ9yOKHZkT2Huxb78Gxrxjl2/1+mJMMH+HliJMzWuRg7eEMCt5MGv2MFIlCye5q1tGCg38FPEc7T0UHgEJCLZuCVsaU/yRUbyetvLTW1XTAZjI1g0zUTCgWbhW29jgNYbOY+18KjKVRQLNUXGdMp1MQtYg/w1+YEGReDZCaR61M0OOOgSKKd81mPT626RDfPHmgu1m3mRgSdkvUZvcfVgiHgQtzrtX96exxsI3n6XuyArdtKClCcjx515K+Enzt1xuah6cCBXncyIDisZNZ5DW5wHdxcGNHarmSH9c5HQfmfpYS2w80uVzn2VSK7n0aWAOjoPD0ncq3BA+4jYO1f2U/KZrM7q622rXUspo8k6f2D0Xyt9juVXG4ITtUfY0ky/VHIGIdNjsbaXhxUHSAiw2G8h6JmKuo7dz6fGm/SOq3XEvx7539tbf7h07FP1zqgoRXKELkc2+Y8NAo09zsBORVRH+myLJUYu+7uP3/mwjKPn7HyQ==;3BSxb0MJRT6/n/fg5JRShw=="
+secured: "mmy2R5DZjujxsjDpgjCNtXHzGNTJvKpSBZZ+vkMnvpe5Yfq3BjxdMj+/EqbY2AQBaCIr6JDOF3CPAPtLbI2qaT6lnGi1/8HjXjP67QTVrkA79/NC+hkRnp7aN9ppOIYw0q4jj2JoBHztAcIurNuEGKAWaoz5yLT+uvKAs/Xzgx4y2fc2cqZw9KOiGU8CpEYTrvA5zqIib2sAmKeWju82zInibFjDc7qyM/nq4AbclUryyknVyZrcnC+XRLt9gyDs4sOTYiqpHGmbnrklg8FiIBR85WL8KrX4BHbI+sf2AQZGQRWqtCt2B4bgZ3jtmH8zuU8YKE24mIXspSymtI4LlrX98tsSxjz7ja6DRaAwDM7a16Pi6t5ubxVihrWxmtVS7jU8FH/pf6FbFoltblzoIyXqx0QAzjo4iV/EBeyIEXoHZ27pSzF0GF7ZluMASAo1dY4C07DDCbf9gibBsmmHw4keY+0lZFUD3eF2wfPxxfHV+zPl73BChw8P1gwwIxktlYjJT1pP6hFkOHWys9irMw==;+uOKG8cXGxOr16P24NO+0Q=="
 ---
 

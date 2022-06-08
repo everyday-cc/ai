@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 secured: "T4pZVfCu6iYywp1MspUsHLVgW7A6PN2yeglSv9lU3W2Tb0yLTvF4eKvl4N7hZg9IbjzRx012Vsv65VoHFN3E/gw4KI1ppXjjAw3GkVqTsY925Peoi7x25o6nuWweYASnBBo252cv/fvz6aG5nZ8OvxZqcf2whYyiG5438NL9DnqSX4zMPB3tJJFhP5/w0MNBiJpuTngAguDmJsqYf2VwBCE9OzXoITfwtUR57/d4ZR/e/7OoUEyWovP0ptxSI2SxfQIv/0BmXUC1QryK0Zv3RGO9Kph/26soWKSHSBBu+6iXWNBFPnuP/9b1xx23ohM1KcYgz1TTkEfJX5ONF6nlOkCaMNPMb0bDBsgI59PtCAc=;jbQHOaWUnRBbnfQagsyr/Q=="
 ---

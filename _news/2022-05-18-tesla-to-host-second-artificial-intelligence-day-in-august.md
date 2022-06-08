@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Tesla to host second artificial intelligence day in August"
-excerpt: "Tesla Inc top boss Elon Musk said https://twitter.com/elonmusk/status/1526685434910212102 on Tuesday the electric-car maker will host its second artificial ..."
-publishedDateTime: 2022-05-18T00:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
-webUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august"
-ampWebUrl: "https://www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-host-second-artificial-intelligence-day-in-august?amp"
+excerpt: "Tesla Inc top boss Elon Musk said on Tuesday the electric-car maker will host its second artificial intelligence day ... expand on plans to fine-tune its self-driving technology."
+publishedDateTime: 2022-05-18T06:54:00Z
+originalUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
+webUrl: "https://tribune.com.pk/story/2357116/tesla-to-host-second-artificial-intelligence-day-in-august"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - AI in Autos
   - AI
 
-secured: "ftkO9VYlB1YDbg3NAadHpa2h/1VSUiwJv98xymCRDWOLfmonZSYOdq61iohfWmlQQqE0t5jVzWQtAZH6mQD7XVYLS+hMSj2meWBorcI+FmR9eFTJuiwKwNfoMZmrkwhBvUrjyuX2f7yT+8rsFgIeQdebRLveQm2t7/Z2267oy7ohFG3oaVf2D2Vx7j8wegb3Vi0zQnH8Ek0hrIjP6lr5O1BOaJGyyrft7XuqiRx//vkzKuXRTM5IRv0YG4w+ES4vlR+NIVy4bgXkmt3HU7Hd57GZokYazRkcuYR6uayC5RPmSIvIGHCKQOljJmfCC+CkufWC6q0B53inJM/tI1azyDZ5g7N15q4XYzFiW/XxJwo=;+n9yhhbbF2VQupUg3IXm7g=="
+secured: "VQLgaf+wWXK7yMtcle+foqpQuEMLzdO/G6TXCWBskYBnqhp2r7uKXMRGLgkRc0syqD2rS4TOJA3Fz9fgOJYKy5EFD6d6/mjfW8IqQLrdF0q4wHY74StL+pJPIn0BroC2IpmWv0EB9HzY9Qer+FqwVu9zdj6AwyRcxfmIMp7s5dnOw5bijMNizlMRC9+xv1/f45QAKqlCp8NFYHC/MTZaqcKfI+9zKwd8m310enhdfxPFBo08X/SKwGysZ2mf1aQkPX4J/KgeKx7SudX0tk0fQVgLd6DLA0kdISTpsTg/oi7LvowoLi7OBgS3seNzToCIWmRBhOhi1PgTFwP3LkYM6jL/wKNFRBye5jzKeWl8R6M=;sBeZrT9CHsq7pnxZ46/FYQ=="
 ---
 

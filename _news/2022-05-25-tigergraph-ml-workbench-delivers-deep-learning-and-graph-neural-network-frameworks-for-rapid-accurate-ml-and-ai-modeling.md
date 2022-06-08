@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
