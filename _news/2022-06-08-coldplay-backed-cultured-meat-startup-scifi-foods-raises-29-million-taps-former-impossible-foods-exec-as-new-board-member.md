@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/douglasyu/2022/06/08/coldplay-backed-cultured-meat-startup-scifi-foods-raises-29-million-taps-former-impossible-foods-exec-as-new-board-member/"
 webUrl: "https://www.forbes.com/sites/douglasyu/2022/06/08/coldplay-backed-cultured-meat-startup-scifi-foods-raises-29-million-taps-former-impossible-foods-exec-as-new-board-member/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Forbes

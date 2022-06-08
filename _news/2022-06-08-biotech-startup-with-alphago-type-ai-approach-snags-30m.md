@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T12:00:00Z
 originalUrl: "https://medcitynews.com/2022/06/biotech-startup-with-alphago-type-ai-approach-snags-30m/"
 webUrl: "https://medcitynews.com/2022/06/biotech-startup-with-alphago-type-ai-approach-snags-30m/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MedCity News

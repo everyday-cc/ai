@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A self-driving truck will soon deliver goods to 34 locations in Dallas-Fort Worth"
+    excerpt: "A California-based autonomous trucking company will begin making deliveries to 34 Sam's Club locations in Dallas-Fort Worth, beginning in July."
+    publishedDateTime: 2022-06-08T15:10:00Z
+    webUrl: "https://techxplore.com/news/2022-06-self-driving-truck-goods-dallas-fort-worth.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-self-driving-truck-goods-dallas-fort-worth.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-self-driving-truck-goods-dallas-fort-worth.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-self-driving-truck-w.jpg"
+        width: 2617
+        height: 1704
+        isCached: true
   - title: "Self-Driving Truck Startup Gatik Will Deliver Goods Autonomously to 34 DFW Sam’s Clubs"
     excerpt: "Until now, most autonomous delivery pilots have involved 18-wheelers driving on highways between cities. Gatik says its new partnership announced today is \"the first time that class 6 autonomous box trucks have been deployed\" to disrupt short-haul logistics networks."
     publishedDateTime: 2022-06-07T19:36:00Z

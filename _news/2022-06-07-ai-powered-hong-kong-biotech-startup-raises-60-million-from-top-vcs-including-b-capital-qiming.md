@@ -62,28 +62,14 @@ related:
         width: 1200
         height: 932
         isCached: true
-  - title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
-    excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
-    publishedDateTime: 2022-06-03T19:51:00Z
-    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-557184/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
     excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-    publishedDateTime: 2022-06-06T13:18:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+    publishedDateTime: 2022-06-06T13:19:00Z
+    webUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
+      name: WTEN
+      domain: news10.com
     quality: 21
 
 secured: "Q8CXdTNsQ4bx47qOitgZqZsLl0wgePXRDOUJLw6q1EsqWSmzuK7mnqFirQjySfTOZqwn2PZhkXSfGEowAY27hYJXdXajQQ4F9i4BoSDKrHJ+Xby8835GuUKaaMOTW1LW21bBKZF7NKo8bslDeG24bu+a3h0xqWMVfgOBlmXT7+7gJtZ0BfpaPW8iKOtjaqPPEkGs/nVK5axIvIUR5pHMuG5iDzqgFTQMM3p18kfROGtJD6KREdRsNFHysYpUr3IFC5avVGhtRH4AghCpTJRil6V6+pqIuTyEoOqUExKiUondxz+RZAsrraiSymVkAzduJE4XWp/fPuLxRMeLxA3IFdcN5marhLPC6lemZqZjMZ2fMxYI8HdQwyXwOJ4cu9tG8ckm5dBfz3U+yU+TJSCn+kCB3kmhAQ+T2H3z5nx32In2GhIhslSh9sVXyUsSCD65b2cd9YCt9tGlETTnr1ZHJfvCjfvRLyniSYec2l1Y5eBUeVQDHecsepEXPAM2OwRmGhro9OBdth+HhzpDcLZH3A==;WIfYJ9bxq105m+/Ix1lojw=="

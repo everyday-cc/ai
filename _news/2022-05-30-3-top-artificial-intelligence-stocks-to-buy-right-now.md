@@ -16,9 +16,15 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
-secured: "WtwzFS7H7LUrX+o4o7TDMtSpLaeRL9Kd7D65oeZIakf7XMkUtQXlMwOgmkclWPC3Qz3Z9ScaLX+x/WRqlzHyc1s937S7/JPIFgK5ClJ57fqdbdP/YkaOpddrlfXpFn21LrIXbjp4D+oc7NIZvkHJnrJqVUJ+Hu91Sv88EeaWBcaA4ZYRcunf9vQcw1GStY5wjZp7dLOuEnBl7aeNav+XSxRt0TVPsNXRzKSHRebQ/vPSS7o7SO/CqMIO+9XTKm00nv/IgcdbzNUrvE9LcVuoSBeg1NEHu/0qx2ln7NA3sT73AWvttLP1kcGQzzS+NtFVbKX0+qAZllc/pJDoCk8uZA1DyK1HzxRzCOj4KjTYg4nKfs+4wPwmE18Y1GJ02k1xyAzkgx0B/7Srx8P668S/9u0O7hn7EVQtgtomSJQ/7ieFXVD+hYaK7XlMyQoAvAD5JtUQ99TEhcZPq02+a1ukHVoSVfAgmwa5tWrpn6NCEHJhQw4kWaNLNugobalELpy8/DEn7Ozv0J3SY3AehIFtEg==;mK9Q8SkY5lDTES1KO+IgTA=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
+    width: 2310
+    height: 1297
+    isCached: true
+
+secured: "qecwSai581Ys8ikQLtd6Ci5+zpEstmElMDW1GVLyMtFeI7wXPEpJYFmUC/kwNYAM9iBnvyMpPMHGWeQsZYMmwpRq2i5IC4uTdPNJqwjjLEuZaXiV1v+z7juNwOc1vkhghhL4tnlsUfyeG9zxEnmC44GyuuIbOfcuYLjRhaFbZfke+j5tdbb/LjlKK1XbsfyfBlCm0wos5JIu6l5UTR3ovk2me0EYpn9ziM4lxm/HAyWTlbsIwWuSFdKGuI9yhcVDFsvDC/TIcI7vRwLKuMehWaoPUnG9YbvY8oSdPlbfTFXxAVsXo/AfxptOpcnfjjxKCUvCKeoSWsTaG5fp2jWZUldSC5IKlfhCbUT9NwlC/f8=;Tj5GBQdC77oyy7kHQcaJOw=="
 ---
 

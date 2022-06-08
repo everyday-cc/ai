@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-chip-billion-images.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-chip-billion-images.amp"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 699
     height: 358
     isCached: true
+
+related:
+  - title: "A new optical brain-like chip can process 2 billion images per second"
+    excerpt: "Researchers at the Penn School of Engineering and Applied Science have created a new optical brain-like chip that processes 2 billion images a second."
+    publishedDateTime: 2022-06-08T15:25:00Z
+    webUrl: "https://interestingengineering.com/optical-chip-2-billion-images-per-second"
+    ampWebUrl: "https://amp.interestingengineering.com/optical-chip-2-billion-images-per-second"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/optical-chip-2-billion-images-per-second"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 76
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DaWMDwx/sizes/new-penn-chip_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "HJqbOUwZCFrNng0ej6zIwJ3b34PoAyzaBlNJM/yedUCncI6wmnjYUOVIVHJm+AfGu9c1ZR+eNGGzYyA3AF0vUxSRz7QIVWYZHf3noiDdzG4qkdjyy/BWAWiWo7EhPM8hoaIM+iOxZ1dC6jj+msSMAFxTUYPT216G7f2VgFYyTB2cbCk7SLtf6xQPqvL1EErB2e3pEZneU0AGQ3Cc3Lg6ONP4CCvzQ2xFRAB+KCMYN0lKDhaDF/rCX90QgwE2pemkQmTucwz3QZoq8tEa9NYjXsvqQTmQG1ZKJSWrVuzVRw7AN7i/wA2/fgZDyqFeGhPxPvfBSY6WdSWqoeBFx0XaEeqe1Kb6QO6f93dKDTqlR8c=;C+JodW+aelI/kGrfkCzRYA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T13:00:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: PR Newswire

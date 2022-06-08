@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-08T10:25:00Z
 originalUrl: "https://www.tweaktown.com/news/86718/ai-bot-trained-with-4chan-content-turned-into-hate-speech-machine/index.html"
 webUrl: "https://www.tweaktown.com/news/86718/ai-bot-trained-with-4chan-content-turned-into-hate-speech-machine/index.html"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:

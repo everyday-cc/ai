@@ -7,7 +7,7 @@ originalUrl: "https://www.graincentral.com/ag-tech/ai-robotics-adoption-for-safe
 webUrl: "https://www.graincentral.com/ag-tech/ai-robotics-adoption-for-safety-and-sustainability/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1121
     height: 807
     isCached: true
-
-related:
-  - title: "How AI brings accessibility and equity to healthcare"
-    excerpt: "Artificial intelligence can step in to provide quality care options at a lower cost for healthcare options. Companies like Vara and Paradromics are already working to increase access, affordability and ultimately healthcare outcomes — and investors are paying close attention."
-    publishedDateTime: 2022-06-03T21:20:00Z
-    webUrl: "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/"
-    ampWebUrl: "https://venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/how-ai-brings-accessibility-and-equity-to-healthcare/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/01-02-workflow.png?w=1200&strip=all"
-        width: 1198
-        height: 546
-        isCached: true
 
 secured: "/dYJBo7DSbRNuoadsQwZ3zQmbBySpBl8LMUFGJzA8ymrWgzkZT6MrbXHyX7gJqQTPfuhidMEQhSm1wT+z9OvKX9dKOG7ZUqnN6R+EB2olflGBGHnJL52kaUVqwlHj/1HxRAr7RQieCgKZfxz12roe/rErfJDXnrvLLuGY354I9z47Y4v8FoZoB/+rHkvEReBBAt9KIDYokhk/1B3dcuyHso5ydGfoYrVv7hpzev/2oLPfPIXZnQJtq8N9qz90/22XFHJGBy09suIb5ZzpLOEc7tXXSFOoIF1R50iQfsmJJH7K2po+de/s0R550lL5mmxh9G1JBgZxF2X/2NrTFFsaJ3g6GG8aTet7EtHfgsmW5M=;AyrgZwzYb6j4TXQ9w+ymFg=="
 ---

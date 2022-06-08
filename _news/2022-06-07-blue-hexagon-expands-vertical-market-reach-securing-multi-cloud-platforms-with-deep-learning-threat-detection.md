@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-07T13:02:00Z
 originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-4a3f8ea1caf246009ad1b66d3b58b051"
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-4a3f8ea1caf246009ad1b66d3b58b051"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

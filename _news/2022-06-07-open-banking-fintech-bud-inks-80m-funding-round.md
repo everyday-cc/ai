@@ -57,15 +57,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "ServiceNow To Expand AI-Based Skills Tracking With Planned Hitch Works Buy"
-    excerpt: "By Joseph F. Kovar June 03, 2022, 03:18 PM EDT Cloud-based business workflow platform provider ServiceNow Friday unveiled the planned acquisition of Hitch Works, a developer of AI-powered skills mapping and intelligence technology. With the acquisition ..."
-    publishedDateTime: 2022-06-03T19:21:00Z
-    webUrl: "https://www.crn.com/news/channel-programs/servicenow-to-expand-ai-based-skills-tracking-with-planned-hitch-works-buy"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 15
 
 secured: "wE4BkExSLSNl03Z5Eq7/LKSJwMN4JumQ0PXwuIkkWvVEH/ArnSPBpqOizyKQX7u3HUMn9UHMKt3R4gyMDzO9Vl0ZQmCuPf9QUUk7xzFy8v21kjv2srmVXo6MdJlJF43Bm2Gi2NDVszNyiAXepKdkz3IgkC+1GO0n/Vwxrd0V5r3+oHO0kFfMRsYfBZKiCkV5x0hFqyPZuELwY2UlZ1RSh5yr0fBfKEY7NpJ+f4uBp8rnB/dkA8OsLj1eEYGUQuOjQRKevg1Ac5FFyvhG0Rn7UkBK9j8uN3kegh2Il903tez/EZrHThEYZHu/8uCHzXd6l6C5oex6abXjAZyuX3w1RMbMLkJmhhY+3F69ptXK1zVfixQJ1OuXtTlrr9JYffACHzuZR0LU2UGuwsLXSGJdbLxTQMm7Q0rg0rZOp8PRbPhkONoY2sH0Nt3D0GZ6WLOpW6pyMDkyn//8nKXw9N7mM/5cfBnXxIB2X8RdE2Q2rattoCamTaqvCemNvQJJsvwh3MQ5YitSgvwMv7/Wdo9+sQ==;UsLXc9peaUNVbL9ZCNbuiA=="
 ---

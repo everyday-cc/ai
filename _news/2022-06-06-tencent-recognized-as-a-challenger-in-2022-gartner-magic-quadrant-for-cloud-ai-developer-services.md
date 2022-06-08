@@ -27,6 +27,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Snorkel AI Named a 2022 Gartner® Cool Vendor"
+    excerpt: "Snorkel AI, the data-centric AI platform company, announced it has been named a 2022 Cool Vendor in Gartner’s AI Core Technologies report. According to Gartner, “Data challenges of accessibility, volume and quality are the top three barriers to AI implementation."
+    publishedDateTime: 2022-06-08T13:03:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_3c3fe0cc-d955-5afd-9994-53e49a756365.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "A8D7jkUU8hT1mwtHr3712P8ZhMHMcMj+z2oanOt1KoOx5XIC9V9zBryZrPcrbBH0226dej1aIPDXeXDPKJ3hQluGqqhnl68JNAbAFzI8qdU4ZqVwArsCfsZVXIQC0oEQF7hJ+YtjmLDwbCHhCyvOF5CUdpILmNidwHBXVrQwel1ZOgBHV1Gxy+hRNCIlNoMHUKxEYepLaKsCgsc9752z71NZfDZzd1AeM9h00FsFDhxBwGHJh2bJEIfWe2g8dF4b35iT8Fq/phWe56qFQGkFD2yztZ9ZYbhw8n5FBkKU4yMK8P1OzYiIST/c8kRkxM/NaVErsiY0sxpkwI811UfaX8qMGnPRgdnkZLGizR4JavM=;3ACY8BpGiwMtXIg1RDIWig=="
 ---

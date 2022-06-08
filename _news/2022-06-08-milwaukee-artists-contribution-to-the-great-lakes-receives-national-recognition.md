@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T13:57:00Z
 originalUrl: "https://www.wuwm.com/2022-06-08/milwaukee-artists-contribution-to-the-great-lakes-receives-national-recognition"
 webUrl: "https://www.wuwm.com/2022-06-08/milwaukee-artists-contribution-to-the-great-lakes-receives-national-recognition"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WUWM

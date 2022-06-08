@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T13:06:00Z
 originalUrl: "https://channelvisionmag.com/everlaw-launches-ai-based-clustering-to-legal-teams/"
 webUrl: "https://channelvisionmag.com/everlaw-launches-ai-based-clustering-to-legal-teams/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: ChannelVision Magazine

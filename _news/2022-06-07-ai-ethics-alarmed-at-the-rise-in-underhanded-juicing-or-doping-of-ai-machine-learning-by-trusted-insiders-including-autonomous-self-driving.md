@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -65,28 +65,14 @@ related:
         width: 1200
         height: 585
         isCached: true
-  - title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
-    excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
-    publishedDateTime: 2022-06-03T19:51:00Z
-    webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-557184/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
     excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-    publishedDateTime: 2022-06-06T13:18:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+    publishedDateTime: 2022-06-06T13:19:00Z
+    webUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
+      name: WTEN
+      domain: news10.com
     quality: 21
 
 secured: "Q9w18w5RI6hZphZYXSFA//Xe4hwgrd73EnCXY93nOxIpbk5GY51o7z4y2MmDoyEF9qGNYW5EJuOW3HVCpOdBXo0fA3fSy7lyRXRHi9MGhWaIh9w3ayPd2dLaGiqWY6lMgs8CWdOUNyxLo37NaSCeQe8QW/lRE5O4G9e55zVtr/FhFz+KttqZkbSKUGWEg8UI+W1FehGNIlArOzi8cHzypOIslJsk+tgc3yEviE2WEUni8bd7O85ElzAJ4emReqGd39l/xXtEJzpUcHL8ARbHnc5Py18oBhLCl6Yv5SJulFyams2Tsx8SBStzYbZ8N4hF0x1U3Ok9QaVhCIX3evS5vFhQRqS+qpM4x8LZzuDZxwJlsVvPQ5WVCdCi7dgohbvv4jxKbqMs0ZlRtzu6++UKrGfp/YVxUFanuRud5nYz17uTJFJqWnxEbIet8feFxYGgQlMiDxj7tU9msU6L0HvJ8P972h+0a11drPk5GXAsN+jbrzC1nzSmswIpGjN+qRflUrKq4j3I+vDQX2sVsMTA4w==;zKde+/vcj8MxiWCHolt0cQ=="

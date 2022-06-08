@@ -2,19 +2,19 @@
 category: news
 title: "Axon halts plans for Taser drone as 9 on ethics board resign"
 excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
-publishedDateTime: 2022-06-08T06:10:00Z
-originalUrl: "https://www.kentucky.com/news/business/article262197492.html"
-webUrl: "https://www.kentucky.com/news/business/article262197492.html"
-ampWebUrl: "https://amp.kentucky.com/news/business/article262197492.html"
-cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article262197492.html"
+publishedDateTime: 2022-06-08T13:35:00Z
+originalUrl: "https://www.theolympian.com/news/business/article262197492.html"
+webUrl: "https://www.theolympian.com/news/business/article262197492.html"
+ampWebUrl: "https://amp.theolympian.com/news/business/article262197492.html"
+cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/news/business/article262197492.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Lexington Herald Leader
-  domain: kentucky.com
+  name: The Olympian
+  domain: theolympian.com
 
 topics:
   - AI Ethics
@@ -374,6 +374,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "X1WeWgljNbE454/YODtSmrR2Z39eVuJaojyNATU1bbZ/+yOnaNWQu5svO+vLg3zhhfbEAWTjLz61Wh5LgZZZscuOhmBlR3V88d+DGcTjGIJ5H57jLMFIG3KknsXqJSsyDbumzJYA8JjUcC+Q9MHoqEY4fxCfiOYwV8rx4390QSLU5NvoD/sG2nwLpCB5WlqKzKEpH0JAbwV/cTVAEyvEehv79oOTPEMUIEnwVyJvFL5oeSeOLf/L4+4fBXtsEsN5fU9YAbgQwqrRJcTYt1b7Xv+EP2E5G1SqUSG2MyjdrNPTJyC1rPbFFpMTDdZHr4aJjDFmSu3mZhVHc7Vk8czPtX3KcglO73iNGQpzFyy3HocVglTIisgTM4tP94uSDCqjb1ZvehG+31PX/q0katCgptKk/Gy9bvNbg0sG1wGcjpyTlShJPRHi5Mo7G6JMc+XCvDMbF+fJoOWnf24iO7hwDoKJuCm9WDQPgehw8gzpfGmYiFBxUPMM90W+WXjnWx++BhBiiR0lNPXfETz/bjsjLg==;Rpp/dZp1v9V+njyybCFniw=="
+secured: "c0EHaKrCd1JGUkuPLEs5UlnLsa3mNCZlMh/zhArivK1oqG72JIio5GJR5eOhZK9p74iJ0c4QtQB7gy34EdTTHdNiHQdboAaNSRdi6ZVJOwE6H6rjiGi0oV7qE0YXwkj6lz22hmxZV7lS8iTowd0umzQk+kx+oKyeLBbVXEPD8A6lCPIuxB3EoF25v1YCkDWCZLI7H4DtVJBXfLpfcTmhAfvL7pqdJyxaLqR6cMrAZQtA0TQY0besBKwwLcHVqrkjuPHJoVdGuijpAabqAQ8qrG+w2S2P3EPXwBGQnushx6LO40tpO3DaMHmHu3BcAhqLoZZZKUV9xP8hTAf1Bo5TqlY+TuspPBOa6sw4hrYyoH4C4x5Dk7kJajvnD1+QUMx/hWmzldkNxKA0Q3VGfPY6cTIK6J8WTEhizRJREoA+jGrmfyaQvTSwn8UYsSWzvPbd1H6Pv3C2ZGTEWqvOd8OXq9qWRVEB53zOBly/bDIl/6UnrDilWoWua62z4JylgrdJ1HZd9yTisyuhZqxPE2Ei1w==;YOVopQj4+9z2m8Nz/R9dfA=="
 ---
 

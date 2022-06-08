@@ -1175,10 +1175,10 @@
     {
       "path": "_news/2022-05-24-geisinger-selects-aws-as-strategic-cloud-provider.md",
       "title": "Geisinger selects AWS as strategic cloud provider",
-      "excerpt": "Project will be one of the largest electronic health record cloud migrations to AWS to date, expected to enable life-saving technologies and save",
+      "excerpt": "Project will be one of the largest electronic health record cloud migrations to AWS to date, expected to enable life-saving technologies and save Geisinger several million annually",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/geisinger-selects-aws-as-strategic-cloud-provider-1031485427",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/geisinger-selects-aws-as-strategic-cloud-provider-1031485427",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/geisinger-selects-aws-as-strategic-cloud-provider/article_49d52056-0f1d-5b8e-ac8c-2337ce15f7e1.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/geisinger-selects-aws-as-strategic-cloud-provider/article_49d52056-0f1d-5b8e-ac8c-2337ce15f7e1.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1188,21 +1188,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T07:08:00-07:00",
+      "publishedDateTime": "2022-05-24T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

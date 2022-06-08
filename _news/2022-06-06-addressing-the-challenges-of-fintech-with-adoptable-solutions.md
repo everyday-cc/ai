@@ -57,8 +57,8 @@ related:
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?586732"
-        width: 375
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?993574"
+        width: 377
         height: 250
         isCached: true
   - title: "3 FinTech deals that took place in May in the Americas"

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T13:01:00Z
 originalUrl: "https://news.usni.org/2022/06/08/report-on-deep-fakes-and-national-security"
 webUrl: "https://news.usni.org/2022/06/08/report-on-deep-fakes-and-national-security"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: USNI

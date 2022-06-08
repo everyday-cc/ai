@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T13:02:00Z
 originalUrl: "https://techcrunch.com/2022/06/08/zoom-and-enhance-kinda-goes-from-fact-to-fiction-with-picsarts-ai-image-enhancer/"
 webUrl: "https://techcrunch.com/2022/06/08/zoom-and-enhance-kinda-goes-from-fact-to-fiction-with-picsarts-ai-image-enhancer/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: TechCrunch

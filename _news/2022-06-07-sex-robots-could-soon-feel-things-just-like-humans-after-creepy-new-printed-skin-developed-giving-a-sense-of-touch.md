@@ -43,6 +43,22 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Sex robots could soon feel sensations ‘just like humans’ after creepy ‘printed skin’ developed giving a sense of touch"
+    excerpt: "Sex robots could start to experience human-like sensations after scientists developed a new piece of artificial intelligence technology."
+    publishedDateTime: 2022-06-08T14:54:00Z
+    webUrl: "https://nypost.com/2022/06/08/sex-robots-could-soon-feel-sensations-just-like-humans-after-creepy-printed-skin-developed-giving-a-sense-of-touch/"
+    ampWebUrl: "https://nypost.com/2022/06/08/sex-robots-could-soon-feel-sensations-just-like-humans-after-creepy-printed-skin-developed-giving-a-sense-of-touch/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/08/sex-robots-could-soon-feel-sensations-just-like-humans-after-creepy-printed-skin-developed-giving-a-sense-of-touch/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 35
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/robot-35.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "9qtG/Q+peHKKvzc8PxXyY1jf+l3vzETB/d+AZakf+zo28vOeV+y0o15JUqUwb3Dsn6ycNP89dkWBHVk4id2r+0QIMMy9voFLAqfOkhFF0pDjff2YGRUSWSXdGxkahdyZpYL0T+SD52aNXxv35YdWc1hpqq37KLskm+AHi3pa9Hne1g3v00UzVEEnWlkWYcwW6k+pJWuBqm60r7AQeVNSDiKeIHXkVm9Sk9zsYQDcLgV1fqMcSdboV9HeTjuO9U5MILZT65AmoeGwH5M3A5Pn8twEsiyNdrF+b9fPjFXnna+LqNXh1bzmv+kLlhjNWbC0qJxI32+iNP4WPqzJ9wgaPiUFnnk71WE497u+vy91m+E=;nOaeLXfoq1e9go5FhkxRQg=="
 ---

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-08-a-new-optical-brain-like-chip-can-process-2-billion-images-per-second.md",
+      "title": "A new optical brain-like chip can process 2 billion images per second",
+      "excerpt": "Researchers at the Penn School of Engineering and Applied Science have created a new optical brain-like chip that processes 2 billion images a second.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
+      "originalUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DaWMDwx/sizes/new-penn-chip_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/optical-chip-2-billion-images-per-second",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/optical-chip-2-billion-images-per-second",
+      "publishedDateTime": "2022-06-08T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-poor-hardware-utilization-puts-squeeze-on-ai-compression.md",
       "title": "Poor Hardware Utilization Puts Squeeze on AI Compression",
       "excerpt": "One of the most pressing challenges in deploying deep learning at scale, especially for social media giant, Meta, is making full use of hardware for inference as well as training. Researchers have been chipping away at this problem via various compression ...",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -192,6 +236,58 @@
         "AI Hardware",
         "Computer Vision",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-gpu-for-ai-market-2022-facts-figures-analytical-insights-growth-size-and-forecast-till-2030.md",
+      "title": "GPU for AI Market 2022 Facts, Figures, Analytical Insights, Growth, Size, and Forecast till 2030",
+      "excerpt": "In addition, the GPU for AI market study demonstrates a detailed examination of the business state, which represents creative ways for company growth, financial factors such as production value ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-2022-facts-figures-analytical-insights-growth-size-and-forecast-till-2030-2022-06-02?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-2022-facts-figures-analytical-insights-growth-size-and-forecast-till-2030-2022-06-02?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -493,34 +589,25 @@
     },
     {
       "path": "_news/2022-05-30-media-alert-brainchip-discusses-impact-of-ai-with-marc-staimer-on-latest-this-is-our-mission-podcast.md",
-      "title": "Media Alert: BrainChip Discusses Impact of AI with Marc Staimer on Latest 'This is our Mission' Podcast",
-      "excerpt": "Past episodes are available at https://brainchipinc.com/brainchip-podcasts. About BrainChip Holdings Ltd (BRNBRCHFBCHPY BrainChip is the worldwide leader in edge AI on-chip processing and learning. The company's first-to-market neuromorphic processor ...",
+      "title": "Media Alert: BrainChip Discusses Impact of AI with Marc Staimer on Latest ‘This is our Mission’ Podcast",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 29, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, today announced that Marc Staimer,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ac27459069/media-alert-brainchip-discusses-impact-of-ai-with-marc-staimer-on-latest-this-is-our-mission-podc",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ac27459069/media-alert-brainchip-discusses-impact-of-ai-with-marc-staimer-on-latest-this-is-our-mission-podc",
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-4ed735cc2a8449626664b432849e6d83",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-4ed735cc2a8449626664b432849e6d83",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://media4.giphy.com/media/XBY7Yq06tXMCvqmUQF/giphy.gif?cid=790b7611cd3bb6ee13833409883d5c3006a5f21f51a83ce9&rid=giphy.gif&ct=g",
-          "width": 480,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27459069",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27459069",
-      "publishedDateTime": "2022-05-29T14:44:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-29T14:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1308,75 +1395,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-3-top-ai-stocks-ready-for-bull-runs.md",
-      "title": "3 Top AI Stocks Ready for Bull Runs",
-      "excerpt": "The lockdown measures also caused people to use more apps and cloud-based services, which drove data centers to install more of its high-end GPUs to process the incoming data with machine learning and AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-ai-stocks-ready-for-bull-runs-0?time=1653320101",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-ai-stocks-ready-for-bull-runs-0?time=1653320101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-ai-stocks-ready-for-bull-runs-0?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-ai-stocks-ready-for-bull-runs-0?amp",
-      "publishedDateTime": "2022-05-23T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-a-peek-into-gigabytes-gpu-arm-for-ai-hpc-shops.md",
-      "title": "A peek into Gigabyte's GPU Arm for AI, HPC shops",
-      "excerpt": "Arm-based servers continue to gain momentum with Gigabyte Technology introducing a system based on Ampere's Altra processors paired with Nvidia A100 GPUs, aimed at demanding workloads such as AI training and high-performance compute (HPC) applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/",
-      "originalUrl": "https://www.theregister.com/2022/05/23/gigabyte_intros_arm_server/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mol Launches New E-Services"
-    excerpt: "The digital transformation will result in excellence in performance and speedy completion of transactions  <br/> <br/> <br/>"
-    publishedDateTime: 2022-06-03T19:06:00Z
-    webUrl: "https://menafn.com/1104320868/Mol-Launches-New-E-Services"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 4
 
 secured: "BEGjGJap79t4ZNYzEjW11rN7kDwSvvzKUv8e/5ZQrB5DgwecOmhnY8zYUcOUobn+zqKXfy1ajxAS6DxCF0zsGEWM1QnNeszeC53p0NXSSWjoai/2fc0t5QXKzKLeDO4GDetmkNgmJyYhw5YySoNs6auT5qdEQ+UWeFRffVRetwd3+2YSQ2iZXabpGCH9m/PukQ3qiLHyuXDDPwRG/BVc4XoA2QbW8ydygOKbUJXyQT4GuBPjHAZqX1ywJ0zrbMr2Os4Ee8HRLA+Uwwzti/WUtdalxZiM+cYYCBf65L17rjiiJJLqNvPq6qe6C/CroovEqkT/AjP7dx9M9GcaQM3X3iBjVVSVqgEkYNerb2R/MHg=;wiYnvGV38XAH2Sc03Amg2Q=="
 ---

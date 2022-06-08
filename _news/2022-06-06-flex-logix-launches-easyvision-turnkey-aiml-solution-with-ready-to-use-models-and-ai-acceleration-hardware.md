@@ -42,6 +42,20 @@ related:
         width: 1300
         height: 500
         isCached: true
+  - title: "Researchers study society’s readiness for AI ethical decision making"
+    excerpt: "With the accelerating evolution of technology, artificial intelligence (AI) plays a growing role in decision-making processes. Humans are becoming increasingly dependent on algorithms to process information,"
+    publishedDateTime: 2022-06-04T03:27:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/954833"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/1d1f7a56-8972-41e1-8a2b-f939bc8ef668/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Flex Logix launches EasyVision with ready-to-use models and AI acceleration hardware"
     excerpt: "Flex Logix Technologies, a supplier of edge AI inference accelerators, has announced the availability of EasyVision Platforms designed to help customers get to market quickly with edge computer vision products addressing a wide range of different markets."
     publishedDateTime: 2022-06-07T09:25:00Z

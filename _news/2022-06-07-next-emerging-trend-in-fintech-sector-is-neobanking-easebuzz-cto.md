@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T12:19:00Z
 originalUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
 webUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
 type: article
+quality: 24
+heat: -1
+published: false
 
 provider:
   name: Middle East North Africa Financial Network
@@ -15,6 +18,60 @@ topics:
   - AWS AI
   - AI
 
-secured: "BLQScvXkl0yGLPqpVRjKVMCUCpy6Vr1gmBA6d1vf+oohcA3rPtkiSW/0x8+AmQZB9mWRpw6m7cPy13CXekHJuvB/9k14NuS4MdRa4EPVWpCQpQ4G+WOk+wezb2P8ovEmTG422bgXhlkfiieednV2l4uJNFEw4jJnuLkUC8KioCYVHT+WzdTDxwDcDvcvFBtfeiA+lvBajzSfkGQhZ+/WLLI9k+ft7jv0O+ExvabFAlW2c8NIQw0LCQ9Yf9bQtHARI8lB2zwUieAbkV03wBpTvK9Rad0kpnNJP61KnsIdemkx6rYmiHB42p7j6PvUdo+zFgUGzYBs75P+DbVYgmiJ/zQtGmzXDH8Br+PCfK17hXM=;XxbcT4hH37fh7gk6T66GUA=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?993574"
+    width: 377
+    height: 250
+    isCached: true
+
+related:
+  - title: "Banks Are Partnering With Fintech Companies To Solve Banking Problems"
+    excerpt: "Other fintech businesses may improve financial transactions and procedures. Large banks’ consumers may benefit from new services such as online notarization, AI-driven banking security, and bill payment. Many banks will require fintech partners in their ..."
+    publishedDateTime: 2022-06-07T20:57:00Z
+    webUrl: "https://www.finsmes.com/2022/06/banks-are-partnering-with-fintech-companies-to-solve-banking-problems.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/06/image.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Neobanking': Next Emerging Trend in Fintech Sector"
+    excerpt: "What are some of the emerging technologies that you are most excited about over the medium term in your industry? A. With emerging technologies such as Blockchain, Cloud Computing, AI and ML Fintech has emerged from payments,"
+    publishedDateTime: 2022-06-08T09:31:00Z
+    webUrl: "https://ummid.com/news/2022/june/08.06.2022/neobanking-next-emerging-trend-in-fintech-sector.html"
+    type: article
+    provider:
+      name: Ummid
+      domain: ummid.com
+    quality: 39
+    images:
+      - url: "https://ummid.com/news/2022/june/08.06.2022/neobanking.jpg"
+        width: 790
+        height: 530
+        isCached: true
+  - title: "Addressing the challenges of fintech with adoptable solutions"
+    excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
+    publishedDateTime: 2022-06-06T09:13:00Z
+    webUrl: "https://www.crainsnewyork.com/crains-content-studio/sponsored-addressing-challenges-fintech-adoptable-solutions"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 4
+  - title: "3 FinTech deals that took place in May in the Americas"
+    excerpt: "FinTech describes new tech that seeks to improve and automate the delivery and use of financial services. The COVID-19 pandemic has"
+    publishedDateTime: 2022-06-07T13:06:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-fintech-deals-that-took-place-in-may-in-the-americas/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 4
+
+secured: "yj4/QWG7oEpLLeO3FN2OZUxqPFwuaai/VH1mGP81HqteBItwVF/OoAJnNcbtCn9Gfvb32rnQyk++zs40s079vwHMG3ZOSC+7uLW0fjiUTC4S0Vx8XVdlAt9+VKHuoit86D32BfVreXYTuiz0VfEdsAbUY/mxk9uImtq5bf6CnrDigNmHps4pH+5lqBY956CWj5I4NSADpHH/cSgyOknOQT/sZRXSx8hE3iT59FLR3VIATz54G6wBJz0zQXuqLzL0Q0pF5EeJmHQWkmxdW7sfQc9TQJzVFj/WXO3qx9znRQD4sxTLhB4AUEuG9H0YtRtb9FW6jqAJ78SXsClJ42xxj5Bip+tnKcka2mXSkWnN+5I=;25pK5pXMWB1rnrLul7NeNA=="
 ---
 

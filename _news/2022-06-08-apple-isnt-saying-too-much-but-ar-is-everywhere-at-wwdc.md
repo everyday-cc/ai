@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T10:28:00Z
 originalUrl: "https://www.computerworld.com/article/3663036/apple-isnt-saying-too-much-but-ar-is-everywhere-at-wwdc.html"
 webUrl: "https://www.computerworld.com/article/3663036/apple-isnt-saying-too-much-but-ar-is-everywhere-at-wwdc.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Computerworld

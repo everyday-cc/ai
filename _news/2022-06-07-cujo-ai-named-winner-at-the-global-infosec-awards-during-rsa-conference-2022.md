@@ -1,18 +1,22 @@
 ---
 category: news
 title: "CUJO AI Named Winner at the Global Infosec Awards during RSA Conference 2022"
-excerpt: "CUJO AI wins in the Cybersecurity Artificial Intelligence category in the 10th annual Global InfoSec Awards at the RSA Conference 2022. LOS ANGELES, June 6, 2022 /PRNewswire/ -- CUJO AI, a global leader in cybersecurity and network intelligence solutions for Internet Service Providers (ISPs),"
-publishedDateTime: 2022-06-06T17:30:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cujo-ai-named-winner-the-global-infosec-awards-/2022/06/06/9615750.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cujo-ai-named-winner-the-global-infosec-awards-/2022/06/06/9615750.htm"
+excerpt: "CUJO AI wins in the Cybersecurity Artificial Intelligence category in the 10th annual Global InfoSec Awards at the RSA Conference 2022.LOS"
+publishedDateTime: 2022-06-06T18:03:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-named-winner-at-the-global-infosec-awards-during-rsa-conference-2022-1031511439"
+webUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-named-winner-at-the-global-infosec-awards-during-rsa-conference-2022-1031511439"
 type: article
-quality: 34
-heat: 34
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -23,6 +27,6 @@ images:
     height: 291
     isCached: true
 
-secured: "uASo0LVccoqlyncYVq0IwjkL3MGlz98ZQ6jX52a8j2ktFXz1y3FL0Yf+SmT+oD3rE0z+fnDBJqsvu2z6cRKJPUr1hlYR38Q59dYoyMeQ/xDjXayEF1fG3Ckt0wROv9dZi88+ul8NDKyhrgB9Gb0YeLzaJCrip9dxaWyGlI39BeMmB5tCZ+K24nEvZsNF5/C6Jn4N1PkXAwWv9qdab9Tz56RiYrXCH+qWKB7xupVvghI+LSZXqGV+QjaX3HhIzNinCjccO3s0GoG/YADOfpWg3dn7ElZTy92iy49IdbWT2T5B0Dcw6bEerNZkxK2iDMQA0vMRzDOhfGIi5yRkHuyi9eUUQRU/CafynhZmvlEfook=;2V6yxavJyWrP475bq+9fwA=="
+secured: "MWS7WJd3wU9WgS+rwDa72GClsDIKF3XODNwnP/cHUfzNlS13h/iGUHWZGHPzy6J3T0kY90VHdh+4qhNLkO7AKwrjDjq1SuvALfNb+RxeAXRWi060VbzqTnB3w5vO+QsWc/hZrdV7r+l8jAimgMlAPDZc1bwJvN3PolQ1EWuqKAMR887Ad9v+EiMsfUUq707gu/4vOQvzyq3QLzoda8FCD02+qAUOFQP3OrI/Lul4/HzlRalSc5htFHlYzPVTeJNR3MSgsQ5FKLoXWvSSpPp8oAkIPtkWIXL/JjYhLu6iBJ2UUlXC1pR5Jbe2g1cAua1K3klU/TQtb+ve70WU/ZRZ2I7GSVtVIgxJ7AvodbhfM+M=;3qlfgaXLO3hNZol4721Z4w=="
 ---
 

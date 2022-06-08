@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T11:56:00Z
 originalUrl: "https://news.webindia123.com/news/Articles/Business/20220608/3950292.html"
 webUrl: "https://news.webindia123.com/news/Articles/Business/20220608/3950292.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Webindia 123

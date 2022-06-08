@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
-excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
+title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
+excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
 publishedDateTime: 2022-06-07T20:32:00Z
-originalUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+originalUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
 type: article
-quality: 85
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -142,6 +136,6 @@ related:
         height: 678
         isCached: true
 
-secured: "XR0Zmlc9V123yMmMa8UdeWod1XDKhmFnsTKz+k2G/sOCTXE9/uO4teZs3KBgSdfMw4YrXAUHm3WyPHL6szlDToJ9a7Hol3vJDO939CTJ2S14ay7fIbwpKJF5Pxy8wYs3QyGhOyXzgnNmVEx0GylulAO9Z294cSCgHJDzgNYsRjezMZTIFLMfkpX8T0l/fcuq5ILcaHB6NVWfvFOz3l1dJwccAXPDOmsSDuYt/pCVZv2jl0wdoXGKjr/XlWuS6w/UFQ29nlOLce0Fq3h6z8utIb3w2fDG6Yc+n1csoxBTFQUZlQ4WWtS5ZrxPXjar33xrVoab1uKvXvXlT4esE26vQ1F85aqBBiD4KZRErxA+GEpE1ZZ3zuptM52uLKRG/5yI5ufX5X/2K0cfBA3b6j6YCekVmC1I22hkc145C0wc+z7FfzEeemt6zmBshXnR9VHmh2EEv4vPJHaaiUiYzTShyPpl0aMGvkltDMZsNQudBKFvZtJZmGQ/XEur4JpYQaGxyH3glPTAJD0CTx3zRqACcw==;R0RStlrVNR5uRejeOrDGuw=="
+secured: "FfGNzSYbMLxm5nUqnd+4XQ5YHZFaCpMWFHwW0lnmnpm1xUZGOVDGMyhbl/Jx2iBQDrbRB9w2Qock6KT4rjdjOKmPYp90zjsXSTCeLATGdJT5n6/cAfBPJ/JdrD3GziQhVVRU0fXyHr7BfD2bqFM09Xkt5E2lJCyCNz+9dRtYJaEgWkc4VgAS3ssDUD5kcTC9dGmcsuMi69S2HkOkuPZLEPODc/KYYRX0G6p66+7lHxmtCIiSHgd62pteoPUAch4opt82weAVoEVXGCBEwaPeH1QRdKt28BB71iV3m05FEHGeNCFkmDNpp7zrdmMvOj79j5Rb9+hJdWojLAj4cV0eRtMjtKwvmoM3DZqjkwMO/Y0=;752Ra0UpuyMA50uicmCwrg=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T13:15:00Z
 originalUrl: "https://www.hawaiinewsnow.com/2022/06/08/project-hokulani-students-are-coding-new-future-starting-with-self-driving-cars/"
 webUrl: "https://www.hawaiinewsnow.com/2022/06/08/project-hokulani-students-are-coding-new-future-starting-with-self-driving-cars/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: KHNL

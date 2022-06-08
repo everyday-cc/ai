@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T13:33:00Z
 originalUrl: "https://www.ripplesnigeria.com/esusu-and-chipper-cash-make-forbes-fintech-50-list-2-other-stories-and-a-trivia/"
 webUrl: "https://www.ripplesnigeria.com/esusu-and-chipper-cash-make-forbes-fintech-50-list-2-other-stories-and-a-trivia/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: All protocol(s) observed

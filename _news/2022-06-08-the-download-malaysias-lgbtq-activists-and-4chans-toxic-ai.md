@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T13:39:00Z
 originalUrl: "https://www.technologyreview.com/2022/06/08/1053250/download-malaysia-lgbtq-activists-4chans-toxic-ai/"
 webUrl: "https://www.technologyreview.com/2022/06/08/1053250/download-malaysia-lgbtq-activists-4chans-toxic-ai/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MIT Technology Review

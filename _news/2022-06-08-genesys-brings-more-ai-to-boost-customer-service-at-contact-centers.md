@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T12:01:00Z
 originalUrl: "https://venturebeat.com/2022/06/08/genesys-brings-more-ai-to-cx-with-pointillist-contact-center-optimizations/"
 webUrl: "https://venturebeat.com/2022/06/08/genesys-brings-more-ai-to-cx-with-pointillist-contact-center-optimizations/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat
