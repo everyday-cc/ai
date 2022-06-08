@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/tesla-humanoid-robot-elon-musk"
 webUrl: "https://interestingengineering.com/tesla-humanoid-robot-elon-musk"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -20,36 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Elon Musk’s humanoid robot might debut at Tesla’s AI Day"
-    excerpt: "Tesla may demonstrate a working prototype of its Optimus humanoid robot in September, company CEO Elon Musk has claimed. Musk first teased the existence of Optimus at last year’s Tesla AI Day event. Details about the robot’s eventual pricing and commercial availability are scarce."
-    publishedDateTime: 2022-06-03T16:53:00Z
-    webUrl: "https://knowtechie.com/elon-musks-humanoid-robot-might-debut-at-teslas-ai-day/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 71
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2021/08/tesla-bot-2-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Elon Musk is painting an unrealistic picture of AI"
-    excerpt: "The truth is there is a missing link between today’s AI, which is primarily pattern recognition, and the kind of Star Trek computer-level AI that Musk is dreaming about"
-    publishedDateTime: 2022-06-06T14:46:00Z
-    webUrl: "https://www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502.html"
-    ampWebUrl: "https://www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/06/06/1600x900/TWITTER-M-A-MUSK-PAY-2_1654521931585_1654527612396.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Elon Musk promises a working humanoid robot later this year"
     excerpt: "Musk has just postponed the second edition of Tesla Day, dedicated to artificial intelligence to the end of September from Aug. 19. The reason? Musk promises to present a working prototype of Optimus, a humanoid robot that will replace people in Tesla’s ..."
     publishedDateTime: 2022-06-03T19:50:00Z

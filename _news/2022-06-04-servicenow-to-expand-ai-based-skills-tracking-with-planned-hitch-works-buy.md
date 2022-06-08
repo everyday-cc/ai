@@ -18,33 +18,51 @@ topics:
   - AI
 
 related:
-  - title: "ServiceNow reveals plans to acquire AI-based skills tracking vendor Hitch Works"
-    excerpt: "Cloud-based business workflow platform provider ServiceNow Friday unveiled the planned acquisition of Hitch Works, a developer of AI-powered skills mapping and intelligence technology. With the acquisition,"
-    publishedDateTime: 2022-06-05T20:20:00Z
-    webUrl: "https://www.crn.com.au/news/servicenow-reveals-plans-to-acquire-ai-based-skills-tracking-vendor-hitch-works-580919"
+  - title: "Bud raises $80M more to expand its AI-based open banking platform, used to power lending tools and more"
+    excerpt: "Embedded finance — where financial services companies and others bring in different kinds of fintech technology by way of APIs to enhance their own offerings with more data and functionality — remains a growing opportunity,"
+    publishedDateTime: 2022-06-08T09:05:00Z
+    webUrl: "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/"
+    ampWebUrl: "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 33
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
     images:
-      - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_iStock-1173020463.jpg"
-        width: 1253
-        height: 836
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1218896782.jpg?w=1024"
+        width: 1024
+        height: 716
         isCached: true
-  - title: "In an effort to provide AI-powered mapping of skills to the organisation, ServiceNow has acquired Hitch"
-    excerpt: "A platform driven by artificial intelligence (AI) that helps firms close the skills gap by matching current workers’ abilities with new jobs and training opportunities throughout the company has been disclosed by ServiceNow as a potential acquisition target."
-    publishedDateTime: 2022-06-03T17:50:00Z
-    webUrl: "https://bestgamingpro.com/in-an-effort-to-provide-ai-powered-mapping-of-skills-to-the-organisation-servicenow-has-acquired-hitch/"
+  - title: "Open banking fintech Bud inks $80m funding round"
+    excerpt: "Series B funding, led by Bellis Phantom Holdco, an indirect affiliate of investment funds managed by TDR Capital. The investment, which was also backed by existing investors including Outward VC, will be used to develop the firm’s models and allow for further international expansion."
+    publishedDateTime: 2022-06-07T11:09:00Z
+    webUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/"
+    ampWebUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
     type: article
     provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 21
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/ServiceNow-acquires-Hitch-to-bring-AI-powered-skills-mapping-to-the-enterprise.png"
-        width: 600
-        height: 350
+      - url: "https://www.cityam.com/wp-content/uploads/2022/06/BUD.jpg"
+        width: 1200
+        height: 795
+        isCached: true
+  - title: "Open banking fintech Bud raises $80m"
+    excerpt: "Open banking fintech Bud has raised $80 million in a Series B funding round led by an indirect affiliate of investment funds managed by TDR Capital."
+    publishedDateTime: 2022-06-07T15:58:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40399/open-banking-fintech-bud-raises-80m"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz000021070018.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "dACtSpUMB/inlARGc7g2K+sp7qyqo/o0gPyUWEKVxZDfH3WqSuV6cgiq41e8AjEvgHxL3zjMpOIoFCXphR6zplo0lXA5l94gnkxS3JYd/15iQk9jX+AQM0CNPjPGfiUQsCbdPO8KK+AFsNjd7p90GNzYCm40K2uVSuVP8wYkPHIGdXGEONTeRHmippZYMKMxVC1Qe9NljpzcXkGnFidMHwwqtlz+cgZa+nyf3fhtm1o2S2eqAQo13Z0lcjaeTixQDcC3k1/8/a4ucOjNrm19zS2WnV7LaHSdJjRLyJGVL1Rjbie5nVyzolLui3wv21fjmQa4nnkmMkzLpjvrRxrG9CGBVyJPPc4lXegiyOsCaXTJmNWgGwD/j94NNCsXiiGcqmvQA/1PC2NYeRGyYkW7IeMjSGA8OUWX8drBKGZDkta2cX+HGccGoRSVTecna0isHOt0ICDvmdC8RMeZfcCAc1lPa2xh3I84DGdfUV2GRgOtnXXIyd8/tDzTKpvT3GehOuSy2F9okNLvrLa+00wI7A==;WHQ5Z/aBVXumTNg1xZcAFg=="

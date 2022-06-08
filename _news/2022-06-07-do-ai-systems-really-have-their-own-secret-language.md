@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "An Image Generation AI Created Its Own Secret Language But Skynet Says No Worries"
-    excerpt: "We've playfully referenced Skynet probably a million times over the years (or thereabout), and it's always been in jest pertaining to some kind of deep learning development or achievement. We're hoping that turns out to be the case again,"
-    publishedDateTime: 2022-06-03T15:59:00Z
-    webUrl: "https://hothardware.com/news/image-generation-ai-created-secret-language"
-    ampWebUrl: "https://amp.hothardware.com/news/image-generation-ai-created-secret-language"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/image-generation-ai-created-secret-language"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 52
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/58739/content/AI_Heads.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
 secured: "4etpIf0olmkSY3N9sE/QSoqgV6QAEm/naVD5WrRuYvoBnhLttltcdUdMZ5gTA3im8cbrxbPuT+F36KUdk0jaNZnj4mqsB53UEFfQ8ACMsgPZ7zsDkBM9Zk9l3CxxaYpFSHY+lQzKJxeA8p65+8rghhyXmgiyjSlvmT8UF3uzP+vXox0Hc9r7DrAwrmVf9rdnneTzvoz64bIZsLdWDx/utk2buDrd8k1hi0aKSW+P5DXGmYAVUA8Lbed7+xqr5634Jp5niYb4gRabS0SrHRHLKrmFP65c5GC4nl7VfMRivKcALbjgjlAam+xV6XlTqzSv4Sk3Y7tzf8iRvethjsVJUY+92DqwAYwm1A6OMA9wZ/XdvuY5IQBz5y1A4ZNsUQZ4s/rKcoy1tPiR704J6kPbzswpXJISaYtogvjfvIp74CgayJ0WGJ3ZWbXWvZh572p7sA2GemWVQXVzaznuX2wBKyErziVd+Sg1WpFA/z/hItYyWNxY2N6lCWY9bKZTN4w6QBoysuZWjlbzFLIFZH6CZw==;99+53CytbroKHz0tPMQ1TA=="
 ---

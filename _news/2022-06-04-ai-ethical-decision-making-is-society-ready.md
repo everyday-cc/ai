@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/06/220603124906.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/06/220603124906.htm"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Can supply chain decision-making be automated?"
-    excerpt: "Aera Technology has introduced new decision-making software that it believes can improve processes and speed common tasks within the supply chain."
-    publishedDateTime: 2022-06-07T00:30:00Z
-    webUrl: "https://www.freightwaves.com/news/can-supply-chain-decision-making-be-automated"
-    ampWebUrl: "https://www.freightwaves.com/news/can-supply-chain-decision-making-be-automated/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/can-supply-chain-decision-making-be-automated/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 59
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/06/Supply_Chain_Technology_1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "Researchers study society’s readiness for AI ethical decision making"
     excerpt: "With the accelerating evolution of technology, artificial intelligence (AI) plays a growing role in decision-making processes. Humans are becoming increasingly dependent on algorithms to process information,"
     publishedDateTime: 2022-06-04T03:27:00Z

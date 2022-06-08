@@ -19,50 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Open banking fintech Bud inks $80m funding round"
-    excerpt: "Series B funding, led by Bellis Phantom Holdco, an indirect affiliate of investment funds managed by TDR Capital. The investment, which was also backed by existing investors including Outward VC, will be used to develop the firm’s models and allow for further international expansion."
-    publishedDateTime: 2022-06-07T11:09:00Z
-    webUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/"
-    ampWebUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2022/06/BUD.jpg"
-        width: 1200
-        height: 795
-        isCached: true
-  - title: "Open banking fintech Bud raises $80m"
-    excerpt: "Open banking fintech Bud has raised $80 million in a Series B funding round led by an indirect affiliate of investment funds managed by TDR Capital."
-    publishedDateTime: 2022-06-07T15:58:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40399/open-banking-fintech-bud-raises-80m"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rsz000021070018.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO"
-    excerpt: "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,"
-    publishedDateTime: 2022-06-07T11:35:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 41
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_060622_ur.jpg"
-        width: 550
-        height: 315
-        isCached: true
   - title: "Banks Are Partnering With Fintech Companies To Solve Banking Problems"
     excerpt: "Other fintech businesses may improve financial transactions and procedures. Large banks’ consumers may benefit from new services such as online notarization, AI-driven banking security, and bill payment. Many banks will require fintech partners in their ..."
     publishedDateTime: 2022-06-07T20:57:00Z
@@ -77,20 +33,43 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
-    excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
-    publishedDateTime: 2022-06-04T08:08:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-drives-the-industry-shuki-licht-finastr"
+  - title: "'Neobanking': Next Emerging Trend in Fintech Sector"
+    excerpt: "What are some of the emerging technologies that you are most excited about over the medium term in your industry? A. With emerging technologies such as Blockchain, Cloud Computing, AI and ML Fintech has emerged from payments,"
+    publishedDateTime: 2022-06-08T09:31:00Z
+    webUrl: "https://ummid.com/news/2022/june/08.06.2022/neobanking-next-emerging-trend-in-fintech-sector.html"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: Ummid
+      domain: ummid.com
+    quality: 39
+    images:
+      - url: "https://ummid.com/news/2022/june/08.06.2022/neobanking.jpg"
+        width: 790
+        height: 530
+        isCached: true
+  - title: "Next Emerging Trend In Fintech Sector Is Neobanking: Easebuzz CTO"
+    excerpt: "2) We are using Amazon Sagemaker to implement our fraud risk models. This acts as a core service that is used by one of our fraud detection products. 3) We are also breaking and moving large ..."
+    publishedDateTime: 2022-06-07T12:19:00Z
+    webUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://assets.bizclikmedia.net/1800/24c71345de77aec9ac814303f0a4806f:bc7561f1492cb253a864292e9bd39724/gettyimages-1152556266.jpg.jpg"
-        width: 1799
-        height: 1010
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?140151"
+        width: 444
+        height: 250
         isCached: true
+  - title: "3 FinTech deals that took place in May in the Americas"
+    excerpt: "FinTech describes new tech that seeks to improve and automate the delivery and use of financial services. The COVID-19 pandemic has"
+    publishedDateTime: 2022-06-07T13:06:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-fintech-deals-that-took-place-in-may-in-the-americas/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 4
 
 secured: "bYzJI7IsQKAaABIJPbpqVq0+nTGyErGx9BWEeSLudt3I3UJ/mt9jtW+m7vrGXw/V0g1K3/vJQ6lI0e2+0uqpF7C6yUj6TrAFb6KiilXRfV4waj3o40JH+m/AZHWOgrDs9prB5qqWqbWyzNuXolsg02z65I7/qCoegyt/dQsd/8rkozvZEssag+fbd+CDK3Ny3xeww4sz47i7zWz5eaEC6PsoNbsu1BzNCDoKPjj3Y5WYpSIw1Bzhkau2ZIlbFHQCUDYYGj0CQYnRR7uxdxI+Q4oOwrKDoPC0LaVO+RTscXZa65Zh4xOJXasm+9rKI6xdfCCgmW3g5li7GZmidTb1vlfY9K/2TTQwrY7cugKQ0SY=;MuUhoTzsJ184vvyxoK419Q=="
 ---

@@ -39,19 +39,19 @@ related:
         width: 1000
         height: 498
         isCached: true
-  - title: "Accelerate and improve recommender system training and predictions using Amazon SageMaker Feature Store"
-    excerpt: "Many companies must tackle the difficult use case of building a highly optimized recommender system. The challenge comes from processing large volumes of data to train and tune the model daily with new data and then make predictions based on user behavior during an active engagement. In this post, we"
-    publishedDateTime: 2022-06-03T16:48:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-and-improve-recommender-system-training-and-predictions-using-amazon-sagemaker-feature-store/"
+  - title: "Incorporating deep learning into X-ray CT imaging"
+    excerpt: "In recent years, deep learning gained a lot of attention and made impressive achievements in various applications. Incorporating deep learning in X-ray CT has become a non-reversible trend. In this webinar, we’ll give a brief overview of deep learning ..."
+    publishedDateTime: 2022-06-06T14:09:00Z
+    webUrl: "https://physicsworld.com/a/incorporating-deep-learning-into-x-ray-ct-imaging/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
+      name: Physics World
+      domain: physicsworld.com
+    quality: 39
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/03/accelerate-and-improve.jpg"
-        width: 1000
-        height: 498
+      - url: "https://physicsworld.com/wp-content/uploads/2022/05/AI-Medical-Week-image-1.jpg"
+        width: 800
+        height: 428
         isCached: true
 
 secured: "fr7DtmR8mGJera7FNJ6cB/MgSw5NqA6/BDK2WPz0mibcLVMuA/r1KrYroktm3IZFDIPwi61D23BZYV6nGjSqtpwwPiq7QcLGNGbA6cH6YO2k+4nuYnoKoy5ySmVMbzEGtCmx0sSTnJoGR11+RsezSPXH9GrGIuwnt+XmUqeGRVALHE5LmgW1LfueJ65WUfJkMGxhUqhh0odWBLf9CozMXXVWJT1nT/mzWzSq3PTWDZ5rVFx4bw+oUJsiNIE2/+sWOiJ3atl8pdtt1MQWB2Q3hPKP1HvxpUJVZMAH1Tt8O2BqjlwKTc5aI3z5Jp7i4b4xqLekCrMMORe2jSKkPLiUMXwKFWgKLosDfevdHj1FXXM=;0Cs9qtFIPJC5LvS+7jpYZw=="

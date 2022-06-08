@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://gulfbusiness.com/wp-content/uploads/2022/05/MBZUAI-IBM-MOU-Signing-Image.jpg"

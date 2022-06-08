@@ -27,28 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "AI ethical decision making: Is society ready?"
-    excerpt: "With the accelerating evolution of technology, artificial intelligence (AI) plays a growing role in decision-making processes. Humans are becoming increasingly dependent on algorithms to process information,"
-    publishedDateTime: 2022-06-03T22:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/06/220603124906.htm"
+  - title: "How decision intelligence can be applied to automate decision-making"
+    excerpt: "Updates include integration with Jupyter data science notebooks to easily integrate data science projects and other custom code using Python and R, AutoML options to enable development of ML ..."
+    publishedDateTime: 2022-06-06T17:12:00Z
+    webUrl: "https://venturebeat.com/2022/06/06/how-decision-intelligence-can-be-applied-to-automate-decision-making/"
+    ampWebUrl: "https://venturebeat.com/2022/06/06/how-decision-intelligence-can-be-applied-to-automate-decision-making/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-decision-intelligence-can-be-applied-to-automate-decision-making/amp/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-  - title: "Researchers study society’s readiness for AI ethical decision making"
-    excerpt: "With the accelerating evolution of technology, artificial intelligence (AI) plays a growing role in decision-making processes. Humans are becoming increasingly dependent on algorithms to process information,"
-    publishedDateTime: 2022-06-04T03:27:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/954833"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/1d1f7a56-8972-41e1-8a2b-f939bc8ef668/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1336522614-e1649786490326.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
+  - title: "3 Capabilities You Need To Know About Intelligent Automation"
+    excerpt: "Intelligent automation has recently received a lot of buzz. A lot of people want to know what the future holds, and many don't want to feel left out. However, intelligent automation (also known as \"hyperautomation\") is an ever-changing collection of technologies."
+    publishedDateTime: 2022-06-06T13:48:00Z
+    webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "3 Capabilities You Need To Know About Intelligent Automation"
+    excerpt: "Intelligent automation has recently received a lot of buzz. A lot of people want to know what the future holds, and many don't want to feel left out. However, intelligent automation (also known as \"hyperautomation\") is an ever-changing collection of technologies."
+    publishedDateTime: 2022-06-06T17:48:00Z
+    webUrl: "https://www.timesunion.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php?IPID=Times-Union-jobs-entrepreneurship-river"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "QoYMgmFXs+hxp0KnGfhfZyEhawhAfcdHie1WZh5dsJKRa0XqVvCustPqHbK9RrCmm697+3Ky+AqVA6q7cRoN9JbWWRfqMlVW3HwxZQhib5H6I3v7CjK04m/Lr4EelBoTTQk4aYAg3uqPtKuxA0ExSVMKJwbEfrvKgBW5Vwejr8n3CKPthQwfYn6YFRwdZw8NlALZN4K+mqNfP7f/UqnaFuKbTycEO/3oyOtCYY9W+sWhDj6WHgzri85UikWFx3K4eAVJm9YqWSVJYOmYz9qoSr6Eru63Lj1fcZysD37UTGM4FqJeOpekZgWlzbaoXNjzz/3jTDp2u+JVSbM5kZNuIpKwJ/jrDCFxrLt8VNX8giI=;FuTlJNids1N045G5tgLtXw=="

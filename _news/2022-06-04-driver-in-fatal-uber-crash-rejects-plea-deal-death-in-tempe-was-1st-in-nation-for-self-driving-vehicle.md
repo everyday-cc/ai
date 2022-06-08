@@ -57,22 +57,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
-    excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
-    publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 85
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Gatik’s self-driving trucks to haul Georgia-Pacific goods to Sam’s Club stores"
     excerpt: "Gatik, the autonomous vehicle startup focused on the “middle mile,” will start using its self-driving trucks this summer to deliver Georgia-Pacific paper goods like Dixie cups and Northern ..."
     publishedDateTime: 2022-06-07T11:07:00Z
@@ -120,6 +104,20 @@ related:
       - url: "https://thehill.com/wp-content/uploads/sites/2/2022/05/special-section_minivan_040721ap-ross-d-franklin_lobbyists-self-driving_web.jpg?w=1280"
         width: 980
         height: 551
+        isCached: true
+  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
+    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
+    publishedDateTime: 2022-06-07T20:32:00Z
+    webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 35
+    images:
+      - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "enIj0pWlnDVS/csa0NJn47stjCnIej9gueBXa7pYBc/n8neJE/u/dKWsImIFBjEkzewS0zWieK2WKbnOzzVGp6YzyNxO7htYFNrT7rc57BQcMx8AuOJguWn4CAa2n+IEZ7kpiOBCfvz2LDKuM1RNZeDlyzweDvjkNyne8bCmQ362s1wotf4KME7c7eMKrUkommpKRyZWYW0X1CIAV8U46Ve4fzy78NhKQ+yJ4lh6kBgSwRT3e6F+3oP9gwIlTBCQG/iX7By4iub6njTx7iXlJL0YD3ybt35NgT2bLQOD8xak4F1Ls2+rG0QgRMJAldDqMmGH5vOwUyArwLj1gsgQ2AdtMRJlg9Di+BpCHWw4sEOTJ9UzJzExl2cFrCsIf8LXh3WvBaTe1Y8rIQ/hEyMdn2wfxeeJyxq+mCyKXuoRSPVuzomFSRByxPvrxufSyo3nJbR6zKOcdCiGMQmK+8YJLyALNy62xbeLhMHjlbGewEWuqIyAa7hPbq5hORFNtuzeNUs+pz3MdOHFq6DmoFCD6A==;gIsgbAVznCQ7khLzU5d00g=="

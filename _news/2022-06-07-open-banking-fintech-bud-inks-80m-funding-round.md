@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-rou
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
 type: article
 quality: 59
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: City A.M.
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bud raises $80M more to expand its AI-based open banking platform, used to power lending tools and more"
+    excerpt: "Embedded finance — where financial services companies and others bring in different kinds of fintech technology by way of APIs to enhance their own offerings with more data and functionality — remains a growing opportunity,"
+    publishedDateTime: 2022-06-08T09:05:00Z
+    webUrl: "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/"
+    ampWebUrl: "https://techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/08/bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 88
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1218896782.jpg?w=1024"
+        width: 1024
+        height: 716
+        isCached: true
   - title: "Open banking fintech Bud raises $80m"
     excerpt: "Open banking fintech Bud has raised $80 million in a Series B funding round led by an indirect affiliate of investment funds managed by TDR Capital."
     publishedDateTime: 2022-06-07T15:58:00Z
@@ -41,57 +57,15 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO"
-    excerpt: "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,"
-    publishedDateTime: 2022-06-07T11:35:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
+  - title: "ServiceNow To Expand AI-Based Skills Tracking With Planned Hitch Works Buy"
+    excerpt: "By Joseph F. Kovar June 03, 2022, 03:18 PM EDT Cloud-based business workflow platform provider ServiceNow Friday unveiled the planned acquisition of Hitch Works, a developer of AI-powered skills mapping and intelligence technology. With the acquisition ..."
+    publishedDateTime: 2022-06-03T19:21:00Z
+    webUrl: "https://www.crn.com/news/channel-programs/servicenow-to-expand-ai-based-skills-tracking-with-planned-hitch-works-buy"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 41
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/allwyn_060622_ur.jpg"
-        width: 550
-        height: 315
-        isCached: true
-  - title: "Banks Are Partnering With Fintech Companies To Solve Banking Problems"
-    excerpt: "Other fintech businesses may improve financial transactions and procedures. Large banks’ consumers may benefit from new services such as online notarization, AI-driven banking security, and bill payment. Many banks will require fintech partners in their ..."
-    publishedDateTime: 2022-06-07T20:57:00Z
-    webUrl: "https://www.finsmes.com/2022/06/banks-are-partnering-with-fintech-companies-to-solve-banking-problems.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/06/image.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Innovation is driving fintech, Shuki Licht, Finastra CEO"
-    excerpt: "Shuki Licht SVP and Chief Innovation Officer, discusses life at Finastra, a provider of financial software applications, open-platform and marketplaces"
-    publishedDateTime: 2022-06-04T08:08:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-drives-the-industry-shuki-licht-finastr"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/24c71345de77aec9ac814303f0a4806f:bc7561f1492cb253a864292e9bd39724/gettyimages-1152556266.jpg.jpg"
-        width: 1799
-        height: 1010
-        isCached: true
-  - title: "Addressing the challenges of fintech with adoptable solutions"
-    excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
-    publishedDateTime: 2022-06-06T09:13:00Z
-    webUrl: "https://www.crainsnewyork.com/crains-content-studio/sponsored-addressing-challenges-fintech-adoptable-solutions"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 4
+      name: CRN
+      domain: crn.com
+    quality: 15
 
 secured: "wE4BkExSLSNl03Z5Eq7/LKSJwMN4JumQ0PXwuIkkWvVEH/ArnSPBpqOizyKQX7u3HUMn9UHMKt3R4gyMDzO9Vl0ZQmCuPf9QUUk7xzFy8v21kjv2srmVXo6MdJlJF43Bm2Gi2NDVszNyiAXepKdkz3IgkC+1GO0n/Vwxrd0V5r3+oHO0kFfMRsYfBZKiCkV5x0hFqyPZuELwY2UlZ1RSh5yr0fBfKEY7NpJ+f4uBp8rnB/dkA8OsLj1eEYGUQuOjQRKevg1Ac5FFyvhG0Rn7UkBK9j8uN3kegh2Il903tez/EZrHThEYZHu/8uCHzXd6l6C5oex6abXjAZyuX3w1RMbMLkJmhhY+3F69ptXK1zVfixQJ1OuXtTlrr9JYffACHzuZR0LU2UGuwsLXSGJdbLxTQMm7Q0rg0rZOp8PRbPhkONoY2sH0Nt3D0GZ6WLOpW6pyMDkyn//8nKXw9N7mM/5cfBnXxIB2X8RdE2Q2rattoCamTaqvCemNvQJJsvwh3MQ5YitSgvwMv7/Wdo9+sQ==;UsLXc9peaUNVbL9ZCNbuiA=="
 ---

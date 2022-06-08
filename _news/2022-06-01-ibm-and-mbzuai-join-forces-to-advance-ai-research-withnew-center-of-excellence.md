@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://menafn.com/updates/pr/2022-06/01/pr_11692_eeb0f5c5_image_story.jpg"

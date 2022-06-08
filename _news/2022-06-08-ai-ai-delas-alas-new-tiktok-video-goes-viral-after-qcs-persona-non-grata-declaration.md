@@ -40,6 +40,22 @@ related:
         width: 686
         height: 392
         isCached: true
+  - title: "QC’s Lagman: ‘Sincere public apology’ from Ai-Ai, Yap may lift ‘persona non grata’ status"
+    excerpt: "A sincere public apology over a video that “defaced” Quezon City’s official seal may lift the persona non grata status of actress-comedian Ai-Ai Delas Alas and movie"
+    publishedDateTime: 2022-06-08T09:07:00Z
+    webUrl: "https://newsinfo.inquirer.net/1608121/qcs-lagman-sincere-public-apology-from-ai-ai-yap-may-lift-persona-non-grata-status"
+    ampWebUrl: "https://newsinfo.inquirer.net/1608121/qcs-lagman-sincere-public-apology-from-ai-ai-yap-may-lift-persona-non-grata-status/amp"
+    cdnAmpWebUrl: "https://newsinfo-inquirer-net.cdn.ampproject.org/c/s/newsinfo.inquirer.net/1608121/qcs-lagman-sincere-public-apology-from-ai-ai-yap-may-lift-persona-non-grata-status/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 48
+    images:
+      - url: "https://newsinfo.inquirer.net/files/2022/06/Ivy-Xenia-Lim-Lagman-620x621.jpg"
+        width: 620
+        height: 621
+        isCached: true
   - title: "Ai-Ai delas Alas, Darryl Yap declared personae non gratae in Quezon City"
     excerpt: "Ai-Ai delas Alas and Darryl Yap have been declared personae non gratae in Quezon City for “disrespecting the city’s official seal.” The Quezon City C"
     publishedDateTime: 2022-06-08T03:19:00Z
@@ -53,6 +69,20 @@ related:
       - url: "https://www.rappler.com/tachyon/2022/06/Ai-Ai-delas-alas-file.jpeg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Cristy Fermin, dinepensahan sina Ai-Ai delas Alas, Darryl Yap na idineklarang persona non grata sa QC"
+    excerpt: "Cristy Fermin came to Ai-Ai delas Alas and director Darryl Yap’s defense after the two have both been declared by Quezon City council as persona non grata."
+    publishedDateTime: 2022-06-08T09:18:00Z
+    webUrl: "https://kami.com.ph/entertainment/celebrities/143533-cristy-fermin-dinepensahan-sina-ai-ai-delas-alas-darryl-yap-na-idineklarang-persona-grata-sa-qc/"
+    type: article
+    provider:
+      name: KAMI Philippine News
+      domain: kami.com.ph
+    quality: 22
+    images:
+      - url: "https://netstorage-kami.akamaized.net/images/c50114b313e2a3fa.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "iosxKn93EitkOiXnzUVC66hhfT269dyp0ZDkKf0lYdfK538Uu0pKSgFfpWzP2+Ote8o6KFze3pkgn3CmUZRt5rYNDJW3nhBsIA2keddK16RX1y6tE81StN2x7ZLMaPf0Gs3pe7swN0DexnqXxaXnZn/EO7Qpj/mm3FMDdU/U7vbsCvK8ibsJLzlkICygfqpoeiyeTdIA5ixGKh4nwv0R1IWhOSPz1oEK62fxWiDLe+K8cyg+pm9YfdjfkiI0+JU1V/kTZAZhIO9qftaRDDV4lOdZH9oNHpLxoaHpPZBBFti6bsdZD3cy77ge+qnCECeenlwP9eNk0QyCgJcad+su3yM80HtaAD1zVILQkvAfWdI=;1s0cJz2d+J+4J+x/pbTWiA=="

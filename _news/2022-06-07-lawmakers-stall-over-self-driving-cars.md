@@ -59,22 +59,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
-    excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
-    publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 85
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Gatik’s self-driving trucks to haul Georgia-Pacific goods to Sam’s Club stores"
     excerpt: "Gatik, the autonomous vehicle startup focused on the “middle mile,” will start using its self-driving trucks this summer to deliver Georgia-Pacific paper goods like Dixie cups and Northern ..."
     publishedDateTime: 2022-06-07T11:07:00Z
@@ -107,6 +91,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
+    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
+    publishedDateTime: 2022-06-07T20:32:00Z
+    webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 35
+    images:
+      - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Driver in fatal Uber crash rejects plea deal; death in Tempe was 1st in nation for self-driving vehicle"
     excerpt: "Rafaela Vasquez was streaming 'The Voice' on her phone when the Uber vehicle she was operating struck and killed Elaine Herzberg in 2018, police say."
     publishedDateTime: 2022-06-03T23:29:00Z
@@ -122,6 +120,6 @@ related:
         height: 678
         isCached: true
 
-secured: "ICEUs/uAN6NNmAhCuH5hUpSnRe4rvX6JQBfdU2QpsPNah0KKsIoE6+vlyIDhMJcXP0+kEJIs1uNOaJOG5UTvd8OCt+tfV1gwu+f17hYIUgU+bgoiC2hWbzjNslbjDNUopQxw5hkw72zKPacDWIcccBTmPFPEOvzHGqv6z58c1EuQMM3Fjt226FXXFLwqY8TNClIXwT4s2RICB/PhMl517pvCh5nJTmXhNYoQ1JaZ/4Nb6XBiRo6zMnTB0d6wDbnCCOVot2JmWvoqfBSS1OZc2wWklkYZLZrvJk752F56K/0fZnDOGSS532LoeYSqkOzX7vTFM+B3c3XdLGAgobfLnEArs7caqbSU5QMzso6ZfOc=;Q7Udiwqf4ke8FoXdlKx38w=="
+secured: "qhBkWT3ENMmpcQiyAJkA7z8/6kEsZUcKPjOzotRXMdNpGiK7VhtzAooO1nthwEkjCQF5jQeyp7tL/+B9v8RMJmz+GhJ5oqvQINaCkZ84Img4QXxQ53TGhxpa9lSFOl3piB2Cku0T4u/hyPWh2NbMkEDCsJ/LDy4ymxDSjjm4/W9yfpUtNJ3gZJVGOlGBfXW9myaFkZTmi5BiJUzQ1wXFia+K72Rp1/m7r+Z4gxM0QrjA7qTinF1uuoM559N2afhetdW6ZmW1JghJEsuW3FdhoEfA1VrW9Nt8C5N15I1iiEc63GzIQEoN2lTevwL/97qGW8zLLIgfVTaYvHuLpR3LsgBHlrF9di+iBIJdpVy+3696JaypvITLfBVoC9p681qKBn5080ubHfcajguERTq51O5t0mEOsGOFAaQoPUYBL52hYczce9SVP9iCWYAPeRs/hztplBRTDJeZl5WcMtMTGG3ED6C3hYjZf9lT3hxBiHIuPjWqxymv/wrzNywwOs+vCGFFpvRtTRMBeHXgnma35A==;mC1LKTK91Ma3EJpuWtEwmw=="
 ---
 

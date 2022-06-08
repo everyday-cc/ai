@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2022/06/pentagon-launches-th
 webUrl: "https://www.nextgov.com/emerging-tech/2022/06/pentagon-launches-third-wave-ai-initiative-help-warfighting-effort/367736/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pentagon Launches ‘Third Wave’ AI Initiative to Help Warfighting Effort"
-    excerpt: "The Defense Advanced Research Projects Agency is formally soliciting contracts for its new AI Exploration program. The AIE will focus on what DARPA defines as its “third wave” of artificial intelligence research, which includes AI theory and ..."
-    publishedDateTime: 2022-06-03T15:21:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/06/pentagon-launches-third-wave-ai-initiative-help-warfighting-effort/367736/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/06/03/060322DARPANG/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Pentagon calls for new ideas in ‘third wave’ of AI evolution"
     excerpt: "A new artificial intelligence program attempts to streamline machine learning algorithms to make better warfighting decisions."
     publishedDateTime: 2022-06-07T01:00:00Z
