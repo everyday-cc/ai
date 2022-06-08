@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-06-ai-secret-language.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-secret-language.amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1356
     height: 668
     isCached: true
-
-related:
-  - title: "Artificial intelligence spotted inventing its own creepy language"
-    excerpt: "An artificial intelligence program has developed its own language and no one can understand it. OpenAI is an artificial intelligence systems developer – their programs are fantastic examples of super-computing but there are quirks."
-    publishedDateTime: 2022-06-04T02:21:00Z
-    webUrl: "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/"
-    ampWebUrl: "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 61
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/06/bird.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "4etpIf0olmkSY3N9sE/QSoqgV6QAEm/naVD5WrRuYvoBnhLttltcdUdMZ5gTA3im8cbrxbPuT+F36KUdk0jaNZnj4mqsB53UEFfQ8ACMsgPZ7zsDkBM9Zk9l3CxxaYpFSHY+lQzKJxeA8p65+8rghhyXmgiyjSlvmT8UF3uzP+vXox0Hc9r7DrAwrmVf9rdnneTzvoz64bIZsLdWDx/utk2buDrd8k1hi0aKSW+P5DXGmYAVUA8Lbed7+xqr5634Jp5niYb4gRabS0SrHRHLKrmFP65c5GC4nl7VfMRivKcALbjgjlAam+xV6XlTqzSv4Sk3Y7tzf8iRvethjsVJUY+92DqwAYwm1A6OMA9wZ/XdvuY5IQBz5y1A4ZNsUQZ4s/rKcoy1tPiR704J6kPbzswpXJISaYtogvjfvIp74CgayJ0WGJ3ZWbXWvZh572p7sA2GemWVQXVzaznuX2wBKyErziVd+Sg1WpFA/z/hItYyWNxY2N6lCWY9bKZTN4w6QBoysuZWjlbzFLIFZH6CZw==;99+53CytbroKHz0tPMQ1TA=="
 ---

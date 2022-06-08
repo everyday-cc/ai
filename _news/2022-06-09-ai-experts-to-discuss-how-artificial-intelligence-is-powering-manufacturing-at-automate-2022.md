@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-08T17:02:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
 webUrl: "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
 type: article
-quality: 43
-heat: -1
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Autos
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

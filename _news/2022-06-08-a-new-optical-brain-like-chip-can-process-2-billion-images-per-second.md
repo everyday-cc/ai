@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/optical-chip-2-billion-images
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/optical-chip-2-billion-images-per-second"
 type: article
 quality: 76
-heat: 86
+heat: 88
 published: true
 
 provider:

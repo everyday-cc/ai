@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu’s first robocar looks like the future we pictured 20 years ago"
+    excerpt: "Chinese tech giant Baidu has unveiled a concept robocar called the ROBO-01. With it, the company's EV car subsidiary JIDU, and Chinese automaker Geely hope to lead the charge into a world of fully-autonomous cars. The ROBO-01, which Baidu announced on ..."
+    publishedDateTime: 2022-06-08T21:35:00Z
+    webUrl: "https://www.techradar.com/sg/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Atczmc6ShrzgeTvTauUuw6-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "JIDU unveils first concept production robocar"
     excerpt: "Powered by Baidu's leading intelligent driving technology, JIDU is set to deliver robocars that fully meet the needs of advanced autonomous"
     publishedDateTime: 2022-06-08T15:18:00Z

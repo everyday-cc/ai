@@ -1,20 +1,30 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "Artificial intelligence (AI) is an emerging field that ... Amazon Web Services (AWS) is the clear cloud infrastructure leader, claiming 33% of the overall marketplace. AWS is highly profitable ..."
-publishedDateTime: 2022-05-30T11:06:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
+excerpt: "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,"
+publishedDateTime: 2022-05-30T10:45:00Z
+originalUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
+webUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - AI in Robotics
   - AI
 
-secured: "OYd19AfsrfAuuRL08kJlC7dLs/lZuOBS0UTm2tiIqM1JbR2XLerdomenSJVWoADFyW0tjS0OHwzKANrX4BHqGc4m2W968pvK7RKZP//kFTM8M4GLzfU5TV+K4rJs6t0AXeJWH2K8h/QEueFbKlw5c43eLFkRHoJwVGPRw9/yNWPAxZDVtNhHWWOxWXzvOMM7lLzsLkAkTjwNpFWd6dipvDufm77lhuu+no7DBLfG/W/ky3HtcvPi3bWVejk/LPpz8OcKtbJ/iS4B1hnIKGNdoPF+ktk/iLy3onaJ2K8sP7t0l3AbKsiLb0qlKLwWDLOY7NmhsVl+x6ZEaM2pzuMTjxToI/nMmf0aaOu6OZ3faGc=;A9tFc3vnCn7WlZYzSU2/Ng=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
+    width: 2310
+    height: 1297
+    isCached: true
+
+secured: "KxtVdd0arlEqHypb6961y3Ww393pW9nwn5Y4qDuu/WnFvpGb03aTAef0QnveLuDfSFtrM6kTStIJLycMXKManlWwEOja6RQBounRrA44i4MdPJcmnnBGUaaHWOUDCA/ekeLqrYui+6lBCSkSkkZAY5zXmTyhh7hs/wMC8CWcG24EnFy1bybXB7ftAaPw9lc+qpGn/MLHtHjS21/Zm6ok4QxS80HiyLR/1/DTDTiY8thSRwNxA6EyFh2/NkfaSDI2JEUyboZAktDNdn7kXIEtEmT9StbouUESROPzl+1QvA4X+TuadOaD/aBnNhsQ8KOB3X2XSlVkpmNp7iQZOZJqsvM3kx0fWS6CdlqQD3JdQQ0=;VOxvPn9nEaiHdf0Th1DQGA=="
 ---
 

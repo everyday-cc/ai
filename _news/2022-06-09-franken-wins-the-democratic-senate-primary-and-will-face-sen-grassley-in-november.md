@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T19:32:00Z
 originalUrl: "https://www.iowapublicradio.org/ipr-news/2022-06-08/franken-wins-the-democratic-senate-primary-and-will-face-sen-grassley-in-november"
 webUrl: "https://www.iowapublicradio.org/ipr-news/2022-06-08/franken-wins-the-democratic-senate-primary-and-will-face-sen-grassley-in-november"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Iowa Public Radio

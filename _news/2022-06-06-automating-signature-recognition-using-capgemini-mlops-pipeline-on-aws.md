@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/400313/automating-signature-recognition-
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

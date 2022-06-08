@@ -38,6 +38,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "SONGTRADR EXPANDS ITS B2B MUSIC TECHNOLOGY SOLUTIONS - ACQUIRES LEADING ADVANCED AI SEARCH COMPANY, MUSICUBE"
+    excerpt: "Using neural networks and proprietary artificial intelligence, Musicube's semantic search has reached product leadership in both quality and data depth. It helps match music to content and a brand ..."
+    publishedDateTime: 2022-06-08T19:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1259476&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "vUJ4O6n8V9VVy+6+1jirpYG6m7eWD4hFGEbgtrTp42LF5/36heMeXRmNebN8i4XZVLqpQ0rVA4zQmpBZPddgjN9bACn6TY43B2VdHVsoSLv4H2CAc8Ux2xmRJEnGBbVNduxOPq60MQMSpO/BZJOyV99aOKRvGjEZ9pgYp0s9tiHF0Nf6NRCCfR0NoNYdIxigdZGLiAatxdYAKNhxO+UkNNTpxPvAxhUULg5LDeZ4CcLhXwgZQSXUT7CZFOj7eUy1OgnXxHGIQMKSmnUuqEZJ1B0y5m1DZoSmZ56YTLMJyL5XRDB2RgmV0FCBMbJqfZefAsfc8vC4rahmqs3sUVJCGfZ/liLqIlvbYx9GGJEp46I=;0qS2vyDUwvzhyEDGS8zhJA=="
 ---

@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "Snorkel AI Named a 2022 Gartner® Cool Vendor"
+    excerpt: "Press Release Snorkel AI, the data-centric AI platform company, announced it has been named a 2022 Cool Vendor in Gartner's AI Core Technologies report. According to Gartner, \"Data challenges of accessibility,"
+    publishedDateTime: 2022-06-08T20:26:00Z
+    webUrl: "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/"
+    ampWebUrl: "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
   - title: "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services"
     excerpt: "Lilt Is Recognized as a Representative Vendor in this 2022 reportSAN FRANCISCO, June 7, 2022 /PRNewswire/ -- Lilt, the leading Global Experience"
     publishedDateTime: 2022-06-07T17:21:00Z
@@ -35,12 +46,7 @@ related:
     provider:
       name: Daily News
       domain: galvnews.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
+    quality: 17
 
 secured: "A8D7jkUU8hT1mwtHr3712P8ZhMHMcMj+z2oanOt1KoOx5XIC9V9zBryZrPcrbBH0226dej1aIPDXeXDPKJ3hQluGqqhnl68JNAbAFzI8qdU4ZqVwArsCfsZVXIQC0oEQF7hJ+YtjmLDwbCHhCyvOF5CUdpILmNidwHBXVrQwel1ZOgBHV1Gxy+hRNCIlNoMHUKxEYepLaKsCgsc9752z71NZfDZzd1AeM9h00FsFDhxBwGHJh2bJEIfWe2g8dF4b35iT8Fq/phWe56qFQGkFD2yztZ9ZYbhw8n5FBkKU4yMK8P1OzYiIST/c8kRkxM/NaVErsiY0sxpkwI811UfaX8qMGnPRgdnkZLGizR4JavM=;3ACY8BpGiwMtXIg1RDIWig=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/june-2022/ai-experts-art
 webUrl: "https://www.automation.com/en-us/articles/june-2022/ai-experts-artificial-intelligence-manufacturing"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 43
+    quality: 47
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

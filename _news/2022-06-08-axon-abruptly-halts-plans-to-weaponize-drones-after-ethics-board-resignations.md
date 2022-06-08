@@ -51,6 +51,22 @@ related:
         width: 1024
         height: 722
         isCached: true
+  - title: "Axon ethics board members resign over taser-equipped drone"
+    excerpt: "Taser maker Axon is walking back plans to make a taser-equipped drone after nine members of its AI Ethics board resigned. Axon, a technology company known for developing tasers and products for police and the military, wanted to market the product as a ..."
+    publishedDateTime: 2022-06-08T20:32:00Z
+    webUrl: "https://www.zdnet.com/article/board-members-resign-over-taser-equipped-drone/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/board-members-resign-over-taser-equipped-drone/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/board-members-resign-over-taser-equipped-drone/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/01ebfe773288e8d7a3d952c1ec40e6414d3f0f2f/2022/06/08/2bda3fad-bfc5-4d9d-b98e-7f998203ab26/taser-drone.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 901
+        isCached: true
   - title: "Exclusive-Axon halts Taser drone work as most of its ethics panel said to resign"
     excerpt: "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel."
     publishedDateTime: 2022-06-06T05:15:00Z
@@ -223,22 +239,6 @@ related:
         width: 1138
         height: 640
         isCached: true
-  - title: "Axon halts plans for Taser drone as 9 on ethics board resign over controversial project"
-    excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week — which drew a rebuke from its artificial intelligence ethics board — was intended to “initiate a conversation on this as a potential solution.\" Smith said the ensuing ..."
-    publishedDateTime: 2022-06-07T18:48:00Z
-    webUrl: "https://www.kcra.com/article/axon-taser-drone-plans-halted/40209721"
-    ampWebUrl: "https://www.kcra.com/amp/article/axon-taser-drone-plans-halted/40209721"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/axon-taser-drone-plans-halted/40209721"
-    type: article
-    provider:
-      name: KCRA
-      domain: kcra.com
-    quality: 51
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22151654625675.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week was intended to “initiate a conversation on this as a potential solution.”"
     publishedDateTime: 2022-06-06T14:34:00Z
@@ -373,6 +373,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Axon halts plans for Taser drone as 9 on ethics board resign over controversial project"
+    excerpt: "The company best known for developing the Taser said it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the project."
+    publishedDateTime: 2022-06-07T17:34:00Z
+    webUrl: "https://www.kcci.com/article/axon-taser-drone-plans-halted/40209721"
+    type: article
+    provider:
+      name: KCCI Des Moines
+      domain: kcci.com
+    quality: 11
 
 secured: "6Kb14HwTfW9zu6qVpbcA6M+IzjiVMtDuCJngQ0IXLdniKmsO7L/b/zvvRNvb+Laxe3V2m2LCTt49dPKt5EKYAvSVg6Lj6ECzjpHy/CclQWoNpQV/kOK9Dkrw+iBSD1PWrR32Ho1VyBQ9jFqyd9EcJiXsWcHy8+kvynSM7RQ5wPdhiJiqnTri0sFKoI5rn/s/s5ZYrXCxAoOBpLkEefTSSTRqw1VPSAUtLlsmUMsjLobAyR5U24Vph+DobrBi/0KbGfD8gE78URajkshVFGF2uN6036rnjOawuF+yFIH8DWf4sco/jLMt4w5+uUstfCOmJ31SmjrO0otEexqFzh+MRqYy85bNtJjY/4G+LdniCRt55CakjBBxtsGREF/tOlHSiXSeIO3TtzE+IkS0R+/xxABHfXKe1+R59x7oY+fbnmaWu4JYZ20nKM+vk9n1ZjMRKlOdDUJkWLY74f/+5SiuhIf1pI1wUyAi1Yx1DqVLx21CtCXeWr2jK1ljBhF557ETLIeoRs6A1pzvsr5/zOWvKg==;y8O7/0opIilcu21V+l7PLQ=="
 ---

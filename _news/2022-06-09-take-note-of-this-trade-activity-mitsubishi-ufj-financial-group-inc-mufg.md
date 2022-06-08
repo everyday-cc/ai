@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T18:51:00Z
 originalUrl: "https://investchronicle.com/2022/06/08/take-note-of-this-trade-activity-mitsubishi-ufj-financial-group-inc-mufg/"
 webUrl: "https://investchronicle.com/2022/06/08/take-note-of-this-trade-activity-mitsubishi-ufj-financial-group-inc-mufg/"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: investchronicle

@@ -111,20 +111,29 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
-    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
+  - title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
+    excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
     publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+    webUrl: "https://www.kadn.com/news/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/article_aba92784-deb6-5014-8975-5412b460d823.html"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
+      name: KADN
+      domain: kadn.com
     quality: 35
     images:
-      - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
-        width: 1280
-        height: 720
+      - url: "https://bloximages.newyork1.vip.townnews.com/kadn.com/content/tncms/custom/image/d51d6f80-494a-11ec-8535-97a900e28795.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
+  - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
+    excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."
+    publishedDateTime: 2022-06-08T18:32:00Z
+    webUrl: "https://jalopnik.com/waymo-will-put-self-driving-trucks-on-uber-freights-net-1849035119"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 28
 
 secured: "VJxd4BNMySysE2JimFVm4kIAKyQkwtJG4Cx/6Jo8yu5dqNyTh9WMdM7y1jWVkDhAH1Yt1xBRUfldJWVDdTRuMQMowU3gdIbZn1lyUeQF/eqMlsV18RsH+lNbd4KptGS4czZ2uMyBHEL6INzivOUgnA36OEl7cCH5zzPRFA4r22qRJ4t2RFkOtoxWjB9uf+l4NO3Ekj5sTJ8RfA/CXef6Fj696m4jU2rzvBjAYxewHr8eGBIvarJhZ6AAiSTq3M1TDOvqIK05nM5SXVficsMNyoNpxarkVwPNHJx4GLUJNkcE2frNU/tIZ9FzlAcisgTnHyTf2rhQugcNxqHim7GUhkDjD8FWAAfyUT8GiFgWsZdhl/6eC+9B2iUPKvpD9ANzww5pNh/WOyqWgcCygPCcOWFqTiP+rrBdWq5MaOgoBgqrGObuICS7m31qdJ5sDQTAth5Qj2jXkB0pAutsxFdtVJhWJT6s+WFHckKZBdTkjKvLx3Y7rdatGf8dqP1VgU5J2jeeK1bc45JaPNICh36NrQ==;ikrlw0ue8wxleK0H0kKKmA=="
 ---

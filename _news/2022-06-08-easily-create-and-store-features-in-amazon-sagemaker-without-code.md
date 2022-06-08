@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T18:08:26Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/easily-create-and-store-features-in-amazon-sagemaker-without-code/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-create-and-store-features-in-amazon-sagemaker-without-code/"
 type: article
+quality: 69
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -18,6 +21,45 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas"
+    excerpt: "Retail businesses are data-driven—they analyze data to get insights about consumer behavior, understand shopping trends, make product recommendations, optimize websites, plan for inventory, and forecast sales. A common approach for sales forecasting is to use historical sales data to predict future demand."
+    publishedDateTime: 2022-06-06T19:23:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 105
+  - title: "Create train, test, and validation splits on your data for machine learning with Amazon SageMaker Data Wrangler"
+    excerpt: "In this post, we talk about how to split a machine learning (ML) dataset into train, test, and validation datasets with Amazon SageMaker Data Wrangler so you can easily split your datasets with minimal to no code. Data used for ML is typically split into the following datasets: Training – Used to train"
+    publishedDateTime: 2022-06-07T16:47:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-train-test-and-validation-splits-on-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/07/create-train-test.jpg"
+        width: 1000
+        height: 498
+        isCached: true
+  - title: "Incorporating deep learning into X-ray CT imaging"
+    excerpt: "In recent years, deep learning gained a lot of attention and made impressive achievements in various applications. Incorporating deep learning in X-ray CT has become a non-reversible trend. In this webinar, we’ll give a brief overview of deep learning ..."
+    publishedDateTime: 2022-06-06T14:09:00Z
+    webUrl: "https://physicsworld.com/a/incorporating-deep-learning-into-x-ray-ct-imaging/"
+    type: article
+    provider:
+      name: Physics World
+      domain: physicsworld.com
+    quality: 39
+    images:
+      - url: "https://physicsworld.com/wp-content/uploads/2022/05/AI-Medical-Week-image-1.jpg"
+        width: 800
+        height: 428
+        isCached: true
 
 secured: "6V0q2ZZljUypc82dXcO2QswK0DjjyNRZtUx7V8f9b1rkZbpOO1wdT7pkrh6Dt25MYs/7F7LfiAiddsxjAOR+3qkhaWgLRNqSC8trbNxihd/h/nFJODWkKlRmlAlO9PQJSTd8W06GEvC00WG90g9xaX5XTZHoBelCnb6koUkFQypmKr7SRhdbwBLxB4dEE7crMR9Q+G/YFB/JgMFx7SeUDFAsTJEbfix1wEvq8yznRx8BysnoLpeWe9cSJPg7rCUsYn0fjduQkv5k9LOR/Ord2O6FjTkCKXfrF+zs9y+t2hA1+A1LmX3OZj0iEWR9lMRnuW82hwCj018Qh2JhViCd2HtXOU1TToPkIFJFAXOAoCA=;+UrdnJLV8zR8R5FbupV/MA=="
 ---

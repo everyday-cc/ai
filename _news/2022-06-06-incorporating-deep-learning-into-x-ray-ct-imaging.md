@@ -48,6 +48,15 @@ related:
         width: 1000
         height: 498
         isCached: true
+  - title: "Easily create and store features in Amazon SageMaker without code"
+    excerpt: "Data scientists and machine learning (ML) engineers often prepare their data before building ML models. Data preparation typically includes data preprocessing and feature engineering. You preprocess data by transforming data into the right shape and quality for training, and you engineer features by"
+    publishedDateTime: 2022-06-08T18:08:26Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-create-and-store-features-in-amazon-sagemaker-without-code/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
 
 secured: "QbGyKdjEjSnRmHcUcesyrG/G1MqLi1x2nzqghszYyHK4TVBfntEG9DVGgVrindu8q72NZL1HsLLob8Q0QbSs5EFpwg4Ud5Hr1NT9si6f+qiPDFnaOW8zhzGwkM60ldXrNP0QawfVDkvdSRZmROr4XzjsKZtljhHzieiHSp5iotl3JJT33ptrM3eRa0w2oT1WzmB01Zd86wiKtTlsXi+brkNYWTjwvWYvicYEeMb/xZU0QXGROAJY2vEkTMX0RXsxeWLb9R464oaJvWSJZWZfLqkZpyF2n7bw5CiO7HiHlUedJwsR9c/TWOJ1yE5Jl04T8KSnp68elxvJaeW4/rNMKBH6QxM2N0tu+Dr2x9DYdDw=;juqhD9y+8QbcckM4mCOo4g=="
 ---

@@ -39,6 +39,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 105
+  - title: "Easily create and store features in Amazon SageMaker without code"
+    excerpt: "Data scientists and machine learning (ML) engineers often prepare their data before building ML models. Data preparation typically includes data preprocessing and feature engineering. You preprocess data by transforming data into the right shape and quality for training, and you engineer features by"
+    publishedDateTime: 2022-06-08T18:08:26Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/easily-create-and-store-features-in-amazon-sagemaker-without-code/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
   - title: "Incorporating deep learning into X-ray CT imaging"
     excerpt: "In recent years, deep learning gained a lot of attention and made impressive achievements in various applications. Incorporating deep learning in X-ray CT has become a non-reversible trend. In this webinar, we’ll give a brief overview of deep learning ..."
     publishedDateTime: 2022-06-06T14:09:00Z

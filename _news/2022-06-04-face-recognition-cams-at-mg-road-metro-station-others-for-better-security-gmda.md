@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/cities/gurugram-news/face-recognition
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637-amp.html"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.indianexpress.com/2018/07/cctv-1200.jpg"
         width: 1200
         height: 667
-        isCached: true
-  - title: "Gurugram gets eight face-recognition cameras"
-    excerpt: "The Gurugram Metropolitan Development Authority (GMDA) has installed eight face recognition cameras at the entry and exit gates of MG Metro Station, which are now functioning."
-    publishedDateTime: 2022-06-04T02:36:00Z
-    webUrl: "https://www.tribuneindia.com/news/haryana/gurugram-gets-eight-face-recognition-cameras-400839"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 24
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/6/2022_6$largeimg_311801405.jpg"
-        width: 660
-        height: 375
         isCached: true
 
 secured: "VnHjjirBgQiijgZenBAxNTq1CE49iA+scLaFlIpcUtx/BpGkeea0tN6AD6/SWZABxXm+4kv5A45gwRTaqJL3bzMMTKv9dFYIR1aS+35q8fof75LnWhed4c78m30OecO0hyUKobG/CDe9/h9Jf8BFm6UU3EosPJL8z4kiB3F6XYG4lwnnKie8a0xELbQvhNm0DqEZGXrw/s3lT4y0nH7x56GO/50AZTR5XPvRozDKGuqPrMF9e+JCdIiel2dJyEdZeFGuXIRst6hQRJYTt8jhLhLBqw7o3vPdZuq+kDzU+UNJdOkulnd0NhNgvkCeog9EuMLJePS1FPqivGYzxRWHx2iDLEjnAmvK3rw5mArHJCYRhkjnYyssGsBMe/KbaUoXtu3nQyGTHGd5IR+f+LWlHsI3y/BGSuvWcnRj4EbFmb5k1czBrd/v5zqYfPL1seRJ2kbhd8QufKpyj+COxYIg7RyVSklMDNEs+sRpc7hv03WJltrsXLaxA1zduKF9vLPEDGhuKQgpoePFavIaZTF86Q==;VnsTOo01Z+pL7msTX7qQ9g=="

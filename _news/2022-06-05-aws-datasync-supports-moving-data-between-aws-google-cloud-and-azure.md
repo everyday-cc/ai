@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-05T16:13:00Z
 originalUrl: "https://www.infoq.com/news/2022/06/aws-datasync-gcp-azure/"
 webUrl: "https://www.infoq.com/news/2022/06/aws-datasync-gcp-azure/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: InfoQ
