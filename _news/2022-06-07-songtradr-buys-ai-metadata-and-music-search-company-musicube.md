@@ -23,6 +23,22 @@ images:
     height: 1440
     isCached: true
 
+related:
+  - title: "Songtradr acquires leading AI search company Musicube"
+    excerpt: "The Hamburg-based AI technology company enables measurable ROI-driven licensing that optimises the creative performance of content."
+    publishedDateTime: 2022-06-08T08:43:00Z
+    webUrl: "https://shots.net/news/view/songtradr-acquires-leading-ai-search-company-musicube"
+    type: article
+    provider:
+      name: shots
+      domain: shots.net
+    quality: 37
+    images:
+      - url: "https://d17mj1ha1c2g57.cloudfront.net/v1/kRHWRIyITvHTnn-_47Sdnu_ygIM/1200x630%23/80/shotsmag/production/clips/0917785c-392e-4ae5-8fde-a39381cfcc46/paul-wiltshire.jpeg?v=1&quality=70&format=jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "CBnqZzzP6NrdssnaqhpMqWAPvSIRUEGCM128Tf05EIIiA54xWzqP7ihZWeaFV7YPI9G50UKJjTOtoraE6YzTRvGjbjkw4uK2KTkRrty0EEhAjyLVN99Q+G5Jhr5dLHJC3CnZnMpdbC56GdsbE/nSvQOeprCOH/Oj/H586F+uE4qy7BgfqeClaQBXfMCnYnHCjgNCm8dkDmogS1rPMHi3kuw3NAP/qD7EY7qnZZc8l6w61pGa5rYmgZUgXtdw1BAI11yZrS5XnCxemMKFvmag6JrjS5EkneS99PkMqMY6w9vNFiBeFCPpjKmQtLHcC+bt11uW7c7/9z5qtEpACBEHJHGQjuYNnb8n+VpUh2RXsw0=;B9Lv4hSHAxMv5oR71Kr5ag=="
 ---
 

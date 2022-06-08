@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wksu.org/npr-news/npr-news/2022-06-04/a-firm-proposes-us
 cdnAmpWebUrl: "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/npr-news/npr-news/2022-06-04/a-firm-proposes-using-taser-armed-drones-to-stop-school-shootings?_amp=true"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US shootings: Firm unveils plans for Taser-armed drones"
-    excerpt: "\"Reasonable minds can differ on the merits of police-controlled Taser-equipped drones - our own board disagreed internally - but we unanimously are concerned with the process Axon"
-    publishedDateTime: 2022-06-03T19:03:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-61685117?at_campaign=64&at_custom2=twitter&at_medium=custom7&at_custom4=4FB0FBCE-E3DB-11EC-83F3-F28731EBDC67&at_custom1=%5Bpost+type%5D"
-    ampWebUrl: "https://www.bbc.com/news/world-us-canada-61685117.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-61685117.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/516E/production/_125264802_gettyimages-1164948747.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Firm proposes Taser-armed drones to stop school shootings"
     excerpt: "The publicly traded company, which sells Tasers and police body cameras, floated the idea of a new police drone product last year to its artificial intelligence ethics board, a group of well ..."
     publishedDateTime: 2022-06-03T20:44:00Z

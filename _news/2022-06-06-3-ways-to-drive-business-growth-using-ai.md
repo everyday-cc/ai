@@ -29,21 +29,46 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Shakes Up AI Unit Amid Drive for Growth"
-    excerpt: "AI hubs will become part of product groups as a way of turning research into business assets more quickly, and in line with the company’s metaverse aspirations."
-    publishedDateTime: 2022-06-06T19:14:00Z
-    webUrl: "https://www.wsj.com/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470"
-    ampWebUrl: "https://www.wsj.com/amp/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-shakes-up-ai-unit-amid-drive-for-growth-11654546470"
+  - title: "Five Ways Marketers Are Using AI To Elevate Their Content Marketing Strategy"
+    excerpt: "AI is proving to be a valuable asset in many different areas, one area being content creation. It is no secret that content has become an integral part of business marketing strategies in 2022, and due to the ever-present demand to produce high-quality content on a regular basis,"
+    publishedDateTime: 2022-06-08T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 101
     images:
-      - url: "https://images.wsj.net/im-558336/social"
-        width: 1280
-        height: 640
+      - url: "https://imageio.forbes.com/specials-images/imageserve//629f75674916d75720516f17/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 652
+        isCached: true
+  - title: "Regie automates sales and marketing content creation with AI"
+    excerpt: "Startup Regie, which was founded in 2020, has been building out an AI-powered content generator for sales and marketing. The Regie technology makes use of the GPT-3 natural language model from ..."
+    publishedDateTime: 2022-06-07T13:01:00Z
+    webUrl: "https://venturebeat.com/2022/06/07/regie-automates-sales-and-marketing-content-creation-with-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+  - title: "Inventions by artificial intelligence are pushing patent laws to breaking point"
+    excerpt: "One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence in Arthur C Clarke’s classic 2001: A Space Odyssey. Halicin works differently from existing antibiotics,"
+    publishedDateTime: 2022-06-04T14:00:00Z
+    webUrl: "https://scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
+    ampWebUrl: "https://amp.scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 53
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/169699-bobiihxzuk-1643974563.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "3 Ways to Drive Business Growth Using AI"
     excerpt: "Unfortunately, not every business followed its example right away. Some skeptics wrongly predicted the internet would collapse in 1996, which influenced some companies to deprioritize anything related to the web."

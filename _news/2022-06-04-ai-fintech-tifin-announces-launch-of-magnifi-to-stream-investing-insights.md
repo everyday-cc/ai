@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-ann
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tifin introduces conversational AI for investing"
+    excerpt: "TIFIN, a fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, today announced the launch of their new Magnifi Mentor capability."
+    publishedDateTime: 2022-06-08T10:13:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92907/tifin-introduces-conversational-ai-for-investing"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "TIFIN Announces Magnifi Mentor, The First Conversational AI-Powered Assistant Designed For Investing'"
     excerpt: "Magnifi also reaches the 100 million search results milestone and announces Jon Klaff, former executive from Meta Financial and Paypal as GM,"
     publishedDateTime: 2022-06-07T21:58:00Z

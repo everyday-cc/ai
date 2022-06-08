@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 994
         isCached: true
+  - title: "Tifin introduces conversational AI for investing"
+    excerpt: "TIFIN, a fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, today announced the launch of their new Magnifi Mentor capability."
+    publishedDateTime: 2022-06-08T10:13:00Z
+    webUrl: "https://www.finextra.com/pressarticle/92907/tifin-introduces-conversational-ai-for-investing"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "Hzkpar7oJ0+dhMkoZ5am16syBMLy/zH8Y8iPVSR4Ovug+K6s5hPAE3oRUdoyhPfYHLcsxjs0s97rHlkKqeQ9QRXqNqdzbIUVAmLKjtQbtxBYtmkNHVLYSRF0GE/wKrV5y629FJI9HtCugrmIA0n9hmP788j7QPBTkb38a4BC1BaCmoEhdOkMuCqUCMFAPJxxfsxanQZuIADbt1bPpFhFo4Ny0lt2PM27PQpTjhb65CYwNT7xoxLvRol2hxKpCK4VOB3o6uXpvi204oSqwZ+QYRFscACGLLYvtyi2s/5qL3vGxbruAQX52Z45+PsCbJrkz4IBvOW2Ec2UQ24nJmujIv3Nbl/wGL1UlJyb4POrmi0=;AgbcYIT4rjhgMxTqWj/7Pw=="
 ---

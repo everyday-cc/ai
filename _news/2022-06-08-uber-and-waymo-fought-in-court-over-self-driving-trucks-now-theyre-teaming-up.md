@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
-excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
+title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
+excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
 publishedDateTime: 2022-06-07T20:32:00Z
-originalUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
-webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+originalUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
 type: article
-quality: 35
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: KVIA
-  domain: kvia.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -105,6 +111,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "From enemies to partners: Uber, Waymo fought in court over self-driving trucks. Now they’re teaming up"
+    excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. Here are the details."
+    publishedDateTime: 2022-06-08T11:52:00Z
+    webUrl: "https://wraltechwire.com/2022/06/08/from-enemies-to-partners-uber-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+    ampWebUrl: "https://wraltechwire.com/2022/06/08/from-enemies-to-partners-uber-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/06/08/from-enemies-to-partners-uber-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 43
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2020/03/waymo-truck.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Driver in fatal Uber crash rejects plea deal; death in Tempe was 1st in nation for self-driving vehicle"
     excerpt: "Rafaela Vasquez was streaming 'The Voice' on her phone when the Uber vehicle she was operating struck and killed Elaine Herzberg in 2018, police say."
     publishedDateTime: 2022-06-03T23:29:00Z
@@ -120,6 +142,6 @@ related:
         height: 678
         isCached: true
 
-secured: "UeA4oI9fKKWEtfU9GNyG7dPjUiqkVvWZ1Tx46kA8zsMOUiPwXc6vHdb2VnyofCLQ/LRj8t4vR7BY7xptXc9NezgOnPCK+TUeX/L6UAdqvQatDMBX+xhT9B1vqnUo8+fjhW07hGyersJNWToKhdH4N3fbkgrLzniNFSDiE6L4/+QL9gALT3B+aHUJNU0vqHA1yRLnRg9aNDZ9y2p6u0Dcl/spTIV5B26NmTAx553Nv1YM7m/RZUGtkB50zI2pim+SqoFHAecgxFi2RsLEV2CMApdl5DRFrOp91bcVLwP6dj/rVDJjz3VOHV5NUVhHT/mizHU/RNJQrJF/flBv8q2l0lpeCNEzLH5YWQEqzkTShfE=;v8bRdtElDJRd3OEF3WmdDw=="
+secured: "l+SsGGMDEE4EQT4KaG4xKcWu3dTE9ceMtSC2gHOUNrCVNk89x2sXRXS2FDHftjzG5UZNjVyFpi3xIunykGnP6ZYOgKcaq1zE9ruzlebPpJOxZv5k+l4qtVESHzuVGy0Up/H9XAmZjH5OM/Fx5EGBgxOuguF70j+0GmXoDKoGVLb5berhN23qgwEUzl6EVGpyFniI0nbb/ikzDQU49LEGKFVqI5Z1tuFEJ0MUkTiwmqz2bBCFBwCQ3XJHC6RJ51u4TI1TZEBVG0qeBNBtTccfRzLlvNTmPTNtvDx5UdNdqVihi3388PWV4mLwjbeANEUWVes8x5ZhazNd9TdrJes1c6YEZZ6NN360pSc7KFPMLzM=;PghEd4b+dNkvwasSQZ6u7w=="
 ---
 

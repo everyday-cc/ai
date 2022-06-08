@@ -3,10 +3,10 @@ category: news
 title: "Global Disruptors in the Artificial Intelligence Market 2022 and Key Adoption Challenges - ResearchAndMarkets.com"
 excerpt: "The “Global Disruptors - Artificial Intelligence 2022” report has been added to ResearchAndMarkets.com’s offering. With technological breakthroughs in big data, supercomputing, and machine learning, AI has become increasingly capable of problem-solving,"
 publishedDateTime: 2022-06-07T13:29:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-e2007c53f3ca48798a47b6f488f44863"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-e2007c53f3ca48798a47b6f488f44863"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-e2007c53f3ca48798a47b6f488f44863"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-e2007c53f3ca48798a47b6f488f44863"
 type: article
-quality: 18
+quality: 16
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -42,6 +41,6 @@ related:
         height: 240
         isCached: true
 
-secured: "h/VOt8+SNtSLOg47R1Z+Llvi5VNtAib7Y28aQzyyBTuco4+pZhHziBiou/ohPD7Dx0IjglBziTVP/2YZZiWyBtknaMZnQ9Cj51+NeHe1NbahDEzPxt/sx4mMMJ7doxLIE79MxatFlNndBhyX1YwZk8AEXsIlNFdKnyJEHrsEIFO/gWwofxZhV+9rzEFLxoUcJhW3UAgdDOLCAbvZxF6uSxkAJp7hgKialQfWi6e1eRYaEyeKT5Uby8H/y/vy5FJ6WIEyeQCi3XqrcHH6iaq6Uz4wiXlinh4lfWPwvjaD2dFiE9gffxVDLqLdcOQEsRIPutGIjB/+NAS4sqL2HvNCPuk3sxzbkXn+ZpQHQUuYNBQ=;I1/R2AhAlm1Yt8xvzVVbsA=="
+secured: "wUqF5MXfNubAjUaVlcDkbrNt+y+vmbEJEapUik28dPoS41+9pBK84HzV5ZWGAr0YG9YHxk10HXMfudZdpcbrkZM6OTOXH+37uZiop0hb8C7t8vq4RLVweUEeqH4ah0AvPu0k/M/AUbJtZ4AWLSqxy6dznXRkzcTILnAuXYhfi13SC5JvLTjiiT6zoHhOmeBo1xkTcfkpVfPv0FMxsc9I9p6+bw7k6RQGtYEZeBVoPLwks06WujLGJgY1wVT++5yWDZa6qkS55TxQy5S2deV9kp7oHVN6ZcZ5oygyD3cvq/3PMYhvioHPm+iXYP4eS6CeNhxLCVtNHbjxmHuA9y8FCxNEu9jgDMngzNEbcqh95BM=;U/zPkoiCjtFjtVmo6+sDqA=="
 ---
 

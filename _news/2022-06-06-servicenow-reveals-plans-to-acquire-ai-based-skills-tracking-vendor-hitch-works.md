@@ -23,22 +23,6 @@ images:
     height: 836
     isCached: true
 
-related:
-  - title: "In an effort to provide AI-powered mapping of skills to the organisation, ServiceNow has acquired Hitch"
-    excerpt: "A platform driven by artificial intelligence (AI) that helps firms close the skills gap by matching current workers’ abilities with new jobs and training opportunities throughout the company has been disclosed by ServiceNow as a potential acquisition target."
-    publishedDateTime: 2022-06-03T17:50:00Z
-    webUrl: "https://bestgamingpro.com/in-an-effort-to-provide-ai-powered-mapping-of-skills-to-the-organisation-servicenow-has-acquired-hitch/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 21
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/ServiceNow-acquires-Hitch-to-bring-AI-powered-skills-mapping-to-the-enterprise.png"
-        width: 600
-        height: 350
-        isCached: true
-
 secured: "sMnr2ROtutWTV11nd3e0LQSpESDrLFTiHHYlv1hP7h0lswp5mFT058Be4r08ddubabXMPqVXASrfGBq+yljADzQeFllNbSJJgdsy+/NhO2erX7hRVzVSjI9kMWZt7f6DghI/f+eaXaySbXe6BoG57cIpPg3L8icf8+tpeN4SDVCne+TauyRRYHJqGnZ17chZEGMj7NbCfPkeWFyNBO3y1YqpLxjBZM6HFshEW1QjH3FUs2NiSOQ19tTDJLrj+J+hgZf1we8CQg+taFXCxOMlhkwh3s+ZRWUozuH5CSBOlIIhcL8KCvQzjutgsM/Sby/g3JQgwDVDnXM8nyHUUfpi0gCrCpKSJx3WFERZ2M+bGiM=;u/2hGR+0Lc40s/6/URNy2Q=="
 ---
 

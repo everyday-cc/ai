@@ -57,8 +57,8 @@ related:
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?140151"
-        width: 444
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?586732"
+        width: 375
         height: 250
         isCached: true
   - title: "Addressing the challenges of fintech with adoptable solutions"
