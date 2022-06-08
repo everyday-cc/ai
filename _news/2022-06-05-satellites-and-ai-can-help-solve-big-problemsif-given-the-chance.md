@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/satellite-images-ai-solve-problems-gover
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/satellite-images-ai-solve-problems-governments/amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Hatchery salutes clean-tech start-ups ‘solving problems’"
+    excerpt: "A year after the launch of its new Africa office, global clean-tech start-up incubator The Hatchery is basking in the success of HatchTWO. This is the company’s bi-yearly event which showcases innovation within its network."
+    publishedDateTime: 2022-06-08T05:56:00Z
+    webUrl: "https://ventureburn.com/2022/06/the-hatchery-salutes-clean-tech-start-ups-solving-problems/"
+    ampWebUrl: "https://ventureburn.com/2022/06/the-hatchery-salutes-clean-tech-start-ups-solving-problems/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2022/06/the-hatchery-salutes-clean-tech-start-ups-solving-problems/?amp=1"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 44
+    images:
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2022/06/ct35.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "New digital and AI chief commits to helping solve the Pentagon’s ‘software problem’"
     excerpt: "The Pentagon’s first permanent chief digital and artificial intelligence officer (CDAO) agreed to deliberately confront the complex software development and implementation challenges plaguing the massive defense enterprise during his early days on the job."
     publishedDateTime: 2022-06-07T20:06:00Z

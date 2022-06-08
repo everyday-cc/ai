@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
-  - title: "AI tool takes on corporate logos; Latin American IP and Gender Network expands; United Spirits sells 32 brands – news digest"
-    excerpt: "In our latest round-up, we look at basketball player Kevin Durant filing 26 crypto applications, Frasers Group snapping up the Missguided brand, and much more."
-    publishedDateTime: 2022-06-03T14:21:00Z
-    webUrl: "https://www.worldtrademarkreview.com/article/ai-tool-takes-corporate-logos-latin-american-ip-and-gender-network-expands-united-spirits-sells-32-brands-news-digest"
-    type: article
-    provider:
-      name: World Trademark Review
-      domain: worldtrademarkreview.com
-    quality: 10
-    images:
-      - url: "https://d4r15a7jvr7vs.cloudfront.net/ewoJICAgICAgICAgICAgICAgICJidWNrZXQiOiAiZmlsZXMubGJyLmNsb3VkIiwKCSAgICAgICAgICAgICAgICAia2V5IjogInB1YmxpYy8yMDIyLTA2L2FpIGxvZ28gdG9vbC5qcGciLAoJICAgICAgICAgICAgICAgICJlZGl0cyI6IHsKCSAgICAgICAgICAgICAgICAgICJyZXNpemUiOiB7CgkgICAgICAgICAgICAgICAgICAgICJ3aWR0aCI6IDk0NSwKCSAgICAgICAgICAgICAgICAgICAgImhlaWdodCI6IDUyNiwKCSAgICAgICAgICAgICAgICAgICAgImZpdCI6ICJjb3ZlciIKCSAgICAgICAgICAgICAgICAgIH0KCSAgICAgICAgICAgICAgICB9CgkgICAgICAgICAgICB9"
-        width: 945
-        height: 526
-        isCached: true
 
 secured: "ARGiBAHJwTVNxpRTuXYBbzdhXH5hiaicNhQ+VfHvrXpPjCVU3HEO3RhysXa//It2Xjppz89wgNWFhjxchW1U2FlV/ZkWxdj0kSK2yJciv1FYhMd0VgM+1Cd2pSz3TqxgJTv5smmx9zEeufuozqjB0c0+nf2Ad42IkcCyiPQQy+DVArXqYhWZVEOlDHqDfU6W74dNxxOglVG9slY0VmYSq6cIMOX+4q9vdg4yZ0ADgT2PIzM+BewxBHZUNuH/ccad/Rc8wnCV4HeVas30Tc3TgacpjmBnKbeZF3feyJIJm1jMclpggB8ywgs301QMp5zjlyCPaz/X+wSIXuvM9yw6vBsGROD+RTrMy4L/hfn7McA=;hj7JS19dxRNCD0yBu0sfCA=="
 ---

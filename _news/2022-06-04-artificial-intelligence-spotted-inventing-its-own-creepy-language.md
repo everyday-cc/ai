@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/06/03/artificial-intelligence-spotted-invent
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/58739/content/AI_Heads.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "Image-generating AI could be creating its own strange ‘secret language,’ research suggests"
-    excerpt: "OpenAI’s text-to-image generating artificial intelligence (AI ... in major breakthrough General Motors gets green light for driverless taxi fleet When researchers fed the text “Vicootes ..."
-    publishedDateTime: 2022-06-03T13:16:00Z
-    webUrl: "https://www.independent.co.uk/tech/image-generating-ai-secret-language-b2093257.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 29
-    images:
-      - url: "https://static.independent.co.uk/2022/06/03/09/Screenshot%202022-06-03%20at%201.51.16%20PM.png?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 820
         isCached: true
 
 secured: "Xsy0wytT41QKxSg44NBx8sO1gk1iaCIgMo/q11iP1uUiLZrLop0bomLqQtf6sin83MEtimggHa183xNdU5egwnVxqaCmVnALL+gpk35fb+nvoGY5772DrowHDSdilRhLZtM5h4bIfLePrtkLUtV2EpgLEPHEtGYrQhV1aWA6JsFXsyWRXa5xfLEsXL5Bh76Cc3MCiR6JNNbf6uW5ZvHj5djeqhFA5nfBDdmHFh+d2PFF46zt2ewgqlcTR9KdVZil/MLAoHsZvxBrcqr54pOd34T9hlOXBKpzi+MDieYWxb+GPZXgAVhcyYRN0QbLjO34HIkeRAcmx78zWLhbQFm8Hr1T3x7rU3tGGTL+3Z6hhYGnzA7H+cdWEQQNkWE7p10cYczeeYG3efY8kfHeftWp6hpz/FXBHhm407TmH0cH9qhJ7mHpuRi60+x3GDQOy6Cw/YhSuAdNgMl1AfOvme0h7U+Z/6Onyo5gxjZG/r+K8D2dmcEwU1DK1I7ACN2xUxLVqSS7ytJyo85vUC5ilgYihQ==;F2JuM099d/F2OnSEB53fvA=="

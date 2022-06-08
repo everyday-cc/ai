@@ -58,20 +58,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Image-generating AI could be creating its own strange ‘secret language,’ research suggests"
-    excerpt: "OpenAI’s text-to-image generating artificial intelligence (AI ... in major breakthrough General Motors gets green light for driverless taxi fleet When researchers fed the text “Vicootes ..."
-    publishedDateTime: 2022-06-03T13:16:00Z
-    webUrl: "https://www.independent.co.uk/tech/image-generating-ai-secret-language-b2093257.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 29
-    images:
-      - url: "https://static.independent.co.uk/2022/06/03/09/Screenshot%202022-06-03%20at%201.51.16%20PM.png?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 820
-        isCached: true
 
 secured: "4etpIf0olmkSY3N9sE/QSoqgV6QAEm/naVD5WrRuYvoBnhLttltcdUdMZ5gTA3im8cbrxbPuT+F36KUdk0jaNZnj4mqsB53UEFfQ8ACMsgPZ7zsDkBM9Zk9l3CxxaYpFSHY+lQzKJxeA8p65+8rghhyXmgiyjSlvmT8UF3uzP+vXox0Hc9r7DrAwrmVf9rdnneTzvoz64bIZsLdWDx/utk2buDrd8k1hi0aKSW+P5DXGmYAVUA8Lbed7+xqr5634Jp5niYb4gRabS0SrHRHLKrmFP65c5GC4nl7VfMRivKcALbjgjlAam+xV6XlTqzSv4Sk3Y7tzf8iRvethjsVJUY+92DqwAYwm1A6OMA9wZ/XdvuY5IQBz5y1A4ZNsUQZ4s/rKcoy1tPiR704J6kPbzswpXJISaYtogvjfvIp74CgayJ0WGJ3ZWbXWvZh572p7sA2GemWVQXVzaznuX2wBKyErziVd+Sg1WpFA/z/hItYyWNxY2N6lCWY9bKZTN4w6QBoysuZWjlbzFLIFZH6CZw==;99+53CytbroKHz0tPMQ1TA=="
 ---

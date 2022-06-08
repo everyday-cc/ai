@@ -197,22 +197,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "Stun-gun drones in schools? Not so fast, says Taser firm’s own ethics board"
-    excerpt: "Axon’s plan for stopping mass shootings condemned just hours after being announced Axon, the company formerly known as Taser, is facing a public relations crisis after its own ethics board condemned the firm’s plans to build a stun-gun-equipped drone just hours after it was announced."
-    publishedDateTime: 2022-06-03T13:07:00Z
-    webUrl: "https://theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned"
-    ampWebUrl: "https://amp.theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jun/03/taser-firm-axon-ethics-board-stun-gun-drones-schools-condemned"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/84a9d600ab639a62e777f9e5cd7b1c1d289bad06/78_0_2343_1406/master/2343.jpg?width=620&quality=85&auto=format&fit=max&s=859214115d15eca9eb54eeb277147964"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Company halts plans for Taser drone after 9 members of its ethics board resign"
     excerpt: "The company best known for developing the Taser says it's halting plans to develop a Taser-equipped drone. The decision by Axon comes as a majority of its ethics board resigned over the project."
     publishedDateTime: 2022-06-07T00:20:00Z
@@ -333,6 +317,17 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 39
+  - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
+    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
+    publishedDateTime: 2022-06-08T06:10:00Z
+    webUrl: "https://www.kentucky.com/news/business/article262197492.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article262197492.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article262197492.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
     quality: 39
   - title: "Taser-equipped drone project on hold. Ethics board members resigned over weaponized drones in communities of color"
     excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week — which drew a rebuke from its artificial intelligence ethics board — was intended to “initiate a conversation ..."

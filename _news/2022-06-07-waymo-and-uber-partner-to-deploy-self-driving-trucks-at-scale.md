@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Gatik’s self-driving trucks to haul Georgia-Pacific goods to Sam’s Club stores"
+    excerpt: "Gatik, the autonomous vehicle startup focused on the “middle mile,” will start using its self-driving trucks this summer to deliver Georgia-Pacific paper goods like Dixie cups and Northern ..."
+    publishedDateTime: 2022-06-07T11:07:00Z
+    webUrl: "https://techcrunch.com/2022/06/07/gatik-georgia-pacific-kbx-sams-club-partnership/"
+    ampWebUrl: "https://techcrunch.com/2022/06/07/gatik-georgia-pacific-kbx-sams-club-partnership/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/07/gatik-georgia-pacific-kbx-sams-club-partnership/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/gatik-sams-club-.jpeg?w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Enemies Waymo, Uber now friends making self-driving-ish trucks for US highways"
     excerpt: "Waymo and Uber announced on Tuesday a \"long-term strategic partnership\" promising to work together to deploy autonomous freight trucks on US roads, years after both companies fought bitterly over self-driving technology."

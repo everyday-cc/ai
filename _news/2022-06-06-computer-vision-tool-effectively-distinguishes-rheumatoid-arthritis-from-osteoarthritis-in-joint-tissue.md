@@ -36,15 +36,6 @@ related:
       name: GEN
       domain: genengnews.com
     quality: 18
-  - title: "Computer vision tool improves the ability to distinguish rheumatoid arthritis from osteoarthritis in damaged joint tissue"
-    excerpt: "A new study led by Hospital for Special Surgery (HSS) investigators in New York City has found that their computer vision tool effectively distinguishes rheumatoid arthritis (RA) from osteoarthritis (OA) in joint tissue taken from patients who underwent ..."
-    publishedDateTime: 2022-06-03T14:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/954603"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "j57xs8uPjYb9cOsXz9GPlQN5FqZatjdF7CYz2xozJHaTIAXQg7zIb4MHTNuSNe6NPSKeuOxZ2W3pagR/RBHbS2QdnJqVwyTLjZd9wL7hJa1voDTddwglmJGkNX+89kK61Sj3OeiNWA6D+mJ9rBxyPIDNWUlWfIhoKLajdj3UQ4KkjvTrTWhfmenB5lo5ixOp4rBytZ9k5quSBWrOWGk5+KPuBhuzutKPBYC+G4CWB6Tq1MISTHYuJ7iU1x5Pd/TZBQdsesakdmsnSJ+4wd48UWbaMOwdwO4YeLi591YP3rL8wsnChp9u6UAxij0hvmYWfL0PgK+3cq+x0oaieuzlYI5HRrVEuxeqCS2W4FoMspU=;5ZYEFgk9DwJsk2oED1qUnw=="
 ---

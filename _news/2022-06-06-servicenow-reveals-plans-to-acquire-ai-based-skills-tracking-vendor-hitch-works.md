@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "In an effort to provide AI-powered mapping of skills to the organisation, ServiceNow has acquired Hitch"
+    excerpt: "A platform driven by artificial intelligence (AI) that helps firms close the skills gap by matching current workers’ abilities with new jobs and training opportunities throughout the company has been disclosed by ServiceNow as a potential acquisition target."
+    publishedDateTime: 2022-06-03T17:50:00Z
+    webUrl: "https://bestgamingpro.com/in-an-effort-to-provide-ai-powered-mapping-of-skills-to-the-organisation-servicenow-has-acquired-hitch/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 21
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/ServiceNow-acquires-Hitch-to-bring-AI-powered-skills-mapping-to-the-enterprise.png"
+        width: 600
+        height: 350
+        isCached: true
   - title: "ServiceNow To Expand AI-Based Skills Tracking With Planned Hitch Works Buy"
     excerpt: "By Joseph F. Kovar June 03, 2022, 03:18 PM EDT Cloud-based business workflow platform provider ServiceNow Friday unveiled the planned acquisition of Hitch Works, a developer of AI-powered skills mapping and intelligence technology. With the acquisition ..."
     publishedDateTime: 2022-06-03T19:21:00Z

@@ -60,20 +60,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Financial Analytics Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
-    excerpt: "According to IMARC Group latest report titled \"Financial Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2022-06-03T13:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/financial-analytics-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "NnNb03890hlxLqQRbOSvWO+neb4diIMokrCAW9L2ZTUeAuZcFdYq2UZoQs5kClfyuSRr/4xCGWzofMEj8txL6eWD1enokoOI4qegsil62RYhYXCJnWXKn1YRz0CHegc6wBmdwK1/PvbNAetRipeFDAPYgdRJlP13CdJKFYXhGNFUkuC461tezQcAeL6iMIn9CoomLD7fI9XzaaxksOy9qsmbIyWNGlcCBX2ZlKSb0qbe45fe8ODjpohvcdgfZ//AULLyv8eJ6T0QYn34cLaIaASgcGwezakDv3QGQAU+EXzv2jRxagZH7S5Hy3YitCFdYlKhnfV+gq3rQ3KIDaNe9iwL1TtYCygNMdzInPbnlr66DIvhRS9HxWZ3f9plWBMCMzkhrCBKMv/NGSW3Zf75QUlDXZfoPycYum4hKfn7x5qKih9H36MwF4lJYgBM9gUc0vM4OBpO6/wLT0AuVf8UbAGIcJ7iS2vAysuqOyIz5zF7/sU8DEkYnPaLQX558rEYZAzE/H2XFjiIJ7m8fskhHg==;GmwNW3d8AYkmYfMLNO3epw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/open-banking-fintech-bud-inks-80m-funding-rou
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/open-banking-fintech-bud-inks-80m-funding-round/?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 111
 published: true
 
 provider:

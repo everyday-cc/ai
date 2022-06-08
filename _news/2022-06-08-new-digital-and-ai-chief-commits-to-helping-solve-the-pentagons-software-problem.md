@@ -40,6 +40,22 @@ related:
         width: 2400
         height: 1697
         isCached: true
+  - title: "The Hatchery salutes clean-tech start-ups ‘solving problems’"
+    excerpt: "A year after the launch of its new Africa office, global clean-tech start-up incubator The Hatchery is basking in the success of HatchTWO. This is the company’s bi-yearly event which showcases innovation within its network."
+    publishedDateTime: 2022-06-08T05:56:00Z
+    webUrl: "https://ventureburn.com/2022/06/the-hatchery-salutes-clean-tech-start-ups-solving-problems/"
+    ampWebUrl: "https://ventureburn.com/2022/06/the-hatchery-salutes-clean-tech-start-ups-solving-problems/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2022/06/the-hatchery-salutes-clean-tech-start-ups-solving-problems/?amp=1"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 44
+    images:
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2022/06/ct35.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "gyETjljdJmajnynlUZ+lWoarUY2x0MWiTDTe7Io8uWBVwrTTRUnnDSDSBmDOvOE/wTEAQIa5fQDMyULnPy//LJqcchlvEoIzNY8et5GIMRQA1woci2uKkvNr3z6OwGMts7wnUeXmWgHmfBGJC8rUsXQW1smkT47UixFRenUxjB47dVsKdbRPcEubYjQZgcCMbszKr4vyGV5RB+03mYqnVvwDqa6wZzPIY6HvsSUWGl+eG8i1qoeaJslFxvnSmINaNfDdEZ6/3b9eZ4z2Ryvc8TOP79pah1Nd5DFXGAfaOwWUxT2tXJmA3h8MTpxr7Qc8Qt8G3DNi6pYQdiykbQRPmewhaqjFK+tYH7Cpt8y32WV3w7ZHo7A53YuFGsoqSfEPsZF2fxI/tS9+S6ucuZnECmP8hYWp5FO48LA48tjQeizjeGWo3H9Ytp5FUsYGBbZe96aVux2rDdUa1ypwCO+hPypdSUUAzgonGbOnj4h54JGLmg+Y59aek2A9axUKOLRIF4uPIVMSGkvrcPj1d2OGnQ==;rUaqibGqwz5TYCWVMxpybQ=="
 ---

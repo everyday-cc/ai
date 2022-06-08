@@ -35,15 +35,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Computer vision tool improves the ability to distinguish rheumatoid arthritis from osteoarthritis in damaged joint tissue"
-    excerpt: "A new study led by Hospital for Special Surgery (HSS) investigators in New York City has found that their computer vision tool effectively distinguishes rheumatoid arthritis (RA) from osteoarthritis (OA) in joint tissue taken from patients who underwent ..."
-    publishedDateTime: 2022-06-03T14:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/954603"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "0dq+DHQIPW+M0DC8MXzBGJ7R8F9biuiRTij/mA/swRzQzMj4CkaO7Zz4ABP1R5A1FMYRYjp1M9AH0rilTNgv5idPfh2erd9aWvk4tFDVQlEH3N/4VaRjO7iOM3fz44QJkriN9fEmZzGh/eV0GWDN7eowJ4fsKz9Rr3bV15gWTOrBSgfmoLYYoZRZvqZn3cQCK9Lx47zMuCCUiIfvE0CZju9NU3E6uYogV5/KKUkW7O9xqxhZMxszsMS0OYc1uVRN8PS6o+T9vZUj1SfRnESHWGMxn4hWqMr/nQ8886Uu9HgNLuEKdV3ghoKT1s20AkxIubmlKnf3WQVPACtIYopC5ei6eC1iHTQRKSc3ok5N9k4=;45FeUwTjM2ceQhuMdbh+SA=="
 ---

@@ -26,22 +26,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Emerging technologies like AI going to have huge impact on governance: Union Minister Jitendra Singh"
-    excerpt: "Union Minister Jitendra Singh on Friday said that emerging technologies like artificial intelligence (AI), augmented reality (AR), blockchain, drones, Internet of Things (IoT), robotics, 3D printing and virtual reality (VR) are going to have a huge impact on all aspects of life including governance."
-    publishedDateTime: 2022-06-03T13:15:00Z
-    webUrl: "https://www.nyoooz.com/news/delhi/1679683/emerging-technologies-like-ai-going-to-have-huge-impact-on-governance-union-minister-jitendra-singh/"
-    type: article
-    provider:
-      name: nyoooz.com
-      domain: nyoooz.com
-    quality: 24
-    images:
-      - url: "https://www.nyoooz.com/df-images/delhi/df-delhi-5.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "X/3kv06sTJk5r5eZw87mLIkNaMsLi8y61ni9vsSMCJJSArRICOZ+DC0Mm+UI0brY9rHsNeqkVtAA+JAIx2PiD5ZmDsFyeye9EqizWUmDRAndSnOJHHEDHq/nKW97fxfjthKSAOsUO5WH8TYM8mdvCApSW04N1wfUDYgcOAr/uSRnLaQoXT3EqEFTdDNXtkC2UEe5K/5RBVkvKgye/GEqYSmC1QpIHSz5LfECWNsIkfVqzPI8h/iFeYYC06r2tqCiwFwTzVLQyUpad7X2E4G+5lI9sYOo5qyH4w7HKSx+nJzgOc4qjTvIWkt9m+o4b/no37ozP+sEOc6atPOtsGhAKE1TTM3TMIEWxRoOYqJaTMoc4Gh+Ov69Z/NQKz9GMAA5NhJKziUacn2J1qYZO1EQxDAD3kxESr8FuO3oI8sgnt+iZmPRv4QD2WR+aw8BcPlb4Faf3DnVAMQv1y8meNGlQbL5OwHxCBJzTMWxGeC37TnTT162xL9xCoPiNLVY/dVOGQsEfhsJcadeBi5c8Y1Ltw==;9pLRHcIBg6aVdmQkzrPahA=="
 ---
 

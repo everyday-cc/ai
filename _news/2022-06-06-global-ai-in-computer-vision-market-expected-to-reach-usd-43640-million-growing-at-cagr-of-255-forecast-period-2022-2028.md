@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/global-ai-in-computer-vision-mar
 webUrl: "https://www.digitaljournal.com/pr/global-ai-in-computer-vision-market-expected-to-reach-usd-43640-million-growing-at-cagr-of-25-5-forecast-period-2022-2028"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "With Market Size Valued at $276.3 Billion by 2026, it`s a Healthy Outlook for the Global Artificial Intelligence (AI) Market"
-    excerpt: "Amid the COVID-19 crisis, the global market for Artificial Intelligence (AI) estimated at US$95.9 Billion in the year 2022, is projected to reach a revised size of US$276.3 Billion by 2026, growing at a CAGR of 32."
-    publishedDateTime: 2022-06-03T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/06/03/9614682.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/1829205/Global_Artificial_Intelligence_Market.jpg"
-        width: 400
-        height: 274
-        isCached: true
 
 secured: "DIHzELsCg7ddqCWZHLKBTR8XsPJ3QdNivHIIrcq3fo6Xl+wV3AtluGCDeKo7RiLPS+az8ximSchitZxRwsMrDOartcomWjZBjpDVKGdLcVVnLKsefLNJrAODHrpzdNgZk6FS8NurQ0ZH6QP2ffsMcnJwapPUV26W6qxtJsNr8qOlhsbC8eK+PriiHVi1Wrza8ojfsvTJJuxpPOzLOmnXK74vtBDvc9zS8LAVHeBL1pbcf0+GwUkk79/9tYlw21featmcKa+yHBM8l9ZOG0Ngxh+XFLZ9bs5HyWzz3LZ3xlHImBk8cBklhLabQjK7d7jJ5Wb91aVOMvibN//gzRx2WtN2S1x5hOOtFLbO6GNJd94=;HalxP75SW4Y2gVYJf1iSVQ=="
 ---

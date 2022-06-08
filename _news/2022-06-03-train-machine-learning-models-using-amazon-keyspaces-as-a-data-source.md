@@ -54,20 +54,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Financial Analytics Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
-    excerpt: "According to IMARC Group latest report titled \"Financial Analytics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2022-06-03T13:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/financial-analytics-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Accelerating customer experience through Voice Analytics in the BFSI industry"
     excerpt: "BFSI industry is facing today is keeping the customer engaged. Undoubtedly, customer service is the fulcrum of BFSI operations, and providing exceptional customer experience is the answer to all the industry’s engagement issues."
     publishedDateTime: 2022-06-07T06:43:00Z
