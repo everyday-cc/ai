@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Do AI systems really have their own secret language?"
-excerpt: "ANALYSIS: “Vicootes”, “wa ch zod rea” and other strings of gibberish seem to have special meanings to state-of-the-art AI models. What’s going on here?"
-publishedDateTime: 2022-06-07T00:18:00Z
-originalUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
-webUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
+excerpt: "A new generation of artificial intelligence (AI) models can produce \"creative\" images on-demand based on a text prompt. The likes of Imagen, MidJourney, and DALL-E 2 are beginning to change the way creative content is made with implications for copyright and intellectual property."
+publishedDateTime: 2022-06-07T12:44:00Z
+originalUrl: "https://techxplore.com/news/2022-06-ai-secret-language.html"
+webUrl: "https://techxplore.com/news/2022-06-ai-secret-language.html"
+ampWebUrl: "https://techxplore.com/news/2022-06-ai-secret-language.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-secret-language.amp"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Stuff.co.nz
-  domain: stuff.co.nz
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/8/g/image.related.StuffLandscapeSixteenByNine.1420x800.4yz28k.png/1654561300186.jpg"
-    width: 1420
-    height: 800
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/do-ai-systems-really-h.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
 related:
@@ -72,6 +73,6 @@ related:
         height: 820
         isCached: true
 
-secured: "+oJRIV0vCfSfYfVPCeCeLS1DtoYQiKG4D3RAPuMXuKOrg/zNeNe10Ti7jK3ziuOmj9J4zEFQUAp3Xmj31Z+NsXeT1WkV/1s9R0yCghRjErsWmOpRW6YQHy2kqGO6uG/VxGUUhPrErGiug8crI1EIlu+rSVKa/OawydtugWPwNfjmyuPAMPRKWm1u9zzMAYVNRn4Yw47UqTEcQFlEAsvjJ+Zk38U5mxJf0+svEwpiFWZqWljYuXAcM/+zBfr3ChEhHA3JRUefSz/pllp03O6ey1xDwDrnxA71Oo7kDip+R0kqW1zbaA50pbaw90rdrvy6fT7IuA3v7uieXb6sI5I9EIcWtg+gs2TRlWgX2tCKHTvidYpMnVkdIxpSQSMDK7tJJX3NuSqWcjMjY7+0kmKhoc2aJrw8zNubdC+eK64OKVqaAsQ/kJkuzs5T9YuXC7BfaGWdJrvQo6VxWlN+R+nayV10k32ZhirInfwDr59gDC9jHuNGo7dQM/intLka3I4j4FWWd3r+07KvMBlJn7ZYJg==;nYjxlR6xLUFHnmAwwPYY+Q=="
+secured: "/mzvUtJ5pnEY2vzgr1YauoTsq2N/q2H0206J/8tDJ7BHd2T9pWVJAjUKjtJhTXS7DCXqIQx5g3ZBq61CpnujGNb1+dIdFGO5S2x66sf9JG9Gq+nHp6lShbnZLKK/FpNyQrDsvpg+k5yvuhoJ4EvBCIdwaCz2Td5YYQ8bB8ZPNYuTWuBD/VcmSY9cGAcYHpmmC0oXESi7rmNfB21C8QfI5BgrnVWvjE7GJkE47Se6nfqNAs7aDXOhvCCOK3CNctiMZLS4SpJBHcXPc+l+2VL4c2zB2LQ7yEH+B2i9lRcw+Qrc1szCYTv84mfVN44mOUXnWJzoWVrWy3eKcwS0zLke20JP2bCqr4MV3u058ysPenM=;uGf9tZ/JIGlYN4VKuAWywQ=="
 ---
 

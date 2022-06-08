@@ -2,12 +2,46 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-30-reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world.md",
+      "title": "Reply: Automation and Artificial Intelligence Are the Strategic Keys for an Effective Defense Against Growing Threats in the Digital World",
+      "excerpt": "Smart Homes, Connected Cars, Delivery Robots: this evolution will not stop and so, in tandem, it will be necessary to develop automated and AI-based solutions to combat the growing number of security threats. The risks from these attacks are attributable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220530005087/reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220530005087/reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-google-assistant-personalised-speech-recognition-will-help-it-learn-your-most-used-nameswords.md",
       "title": "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words",
       "excerpt": "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report",
       "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition",
-      "originalUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition",
+      "webUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
+      "originalUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -26,7 +60,7 @@
       "type": "article",
       "ampWebUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
       "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
-      "publishedDateTime": "2022-05-30T01:25:00-07:00",
+      "publishedDateTime": "2022-05-30T01:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Pocket-lint",
@@ -1096,40 +1130,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-smarter-health-how-ai-is-transforming-health-care.md",
-      "title": "Smarter health: How AI is transforming health care",
-      "excerpt": "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care",
-      "originalUrl": "https://www.wwno.org/2022-05-27/smarter-health-how-ai-is-transforming-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWNO",
-        "domain": "wwno.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

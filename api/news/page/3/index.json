@@ -288,7 +288,7 @@
       "originalUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -625,6 +625,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-elon-musks-humanoid-robot-might-debut-at-teslas-ai-day.md",
+      "title": "Elon Musk’s humanoid robot might debut at Tesla’s AI Day",
+      "excerpt": "Tesla may demonstrate a working prototype of its Optimus humanoid robot in September, company CEO Elon Musk has claimed. Musk first teased the existence of Optimus at last year’s Tesla AI Day event. Details about the robot’s eventual pricing and commercial availability are scarce.",
+      "sourceUrl": null,
+      "webUrl": "https://knowtechie.com/elon-musks-humanoid-robot-might-debut-at-teslas-ai-day/",
+      "originalUrl": "https://knowtechie.com/elon-musks-humanoid-robot-might-debut-at-teslas-ai-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowtechie.com/wp-content/uploads/2021/08/tesla-bot-2-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KnowTechie",
+        "domain": "knowtechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -1162,58 +1206,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-lenovo-looks-to-bring-ai-intelligence-to-the-edge.md",
-      "title": "Lenovo looks to bring AI intelligence to the edge",
-      "excerpt": "Among the many vendors eyeing a piece of the artificial intelligence (AI ... NX platform and integrates with the Amazon Web Services (AWS) Panorama service for AI computer vision (CV) processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/",
-      "originalUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-912442774-e1647451315717.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/lenovo-looks-to-bring-ai-intelligence-to-the-edge/amp/",
-      "publishedDateTime": "2022-06-02T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

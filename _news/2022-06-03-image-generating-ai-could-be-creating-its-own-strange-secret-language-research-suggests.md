@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Do AI systems really have their own secret language?"
+    excerpt: "A new generation of artificial intelligence (AI) models can produce \"creative\" images on-demand based on a text prompt. The likes of Imagen, MidJourney, and DALL-E 2 are beginning to change the way creative content is made with implications for copyright and intellectual property."
+    publishedDateTime: 2022-06-07T12:44:00Z
+    webUrl: "https://techxplore.com/news/2022-06-ai-secret-language.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-ai-secret-language.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-secret-language.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/do-ai-systems-really-h.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "An Image Generation AI Created Its Own Secret Language But Skynet Says No Worries"
     excerpt: "We've playfully referenced Skynet probably a million times over the years (or thereabout), and it's always been in jest pertaining to some kind of deep learning development or achievement. We're hoping that turns out to be the case again,"
     publishedDateTime: 2022-06-03T15:59:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/58739/content/AI_Heads.jpg"
         width: 708
         height: 398
-        isCached: true
-  - title: "Do AI systems really have their own secret language?"
-    excerpt: "ANALYSIS: “Vicootes”, “wa ch zod rea” and other strings of gibberish seem to have special meanings to state-of-the-art AI models. What’s going on here?"
-    publishedDateTime: 2022-06-07T00:18:00Z
-    webUrl: "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/8/g/image.related.StuffLandscapeSixteenByNine.1420x800.4yz28k.png/1654561300186.jpg"
-        width: 1420
-        height: 800
         isCached: true
 
 secured: "Es8XeaYJscG5+efbYrQA2E0rkAb/Yto79FCT4VqzOEp92Sv4jl9wd+dYg7w/CFgxI0mCxfwU1uNslQXNUr8ZY5C99J75sRlKwSvEg2Jf/iQ+MD29L1JVUn+0Y0eJhqZHJ0jaq7tC/L9fC1PnJMtDk3/0iJhSuoIQO+WHssOsNUWhFLY4wkW5hSobdZJXj+aBoAIjxgr8cX5ccgbhUGIA5xjP7/1BUlkrUAcMrHO8wfSgcHbmGtikqkAkl6XWLHm3eO/op6ZvaSTCjI4Yom8eydooXbHsBJaesIaFbsWGySZ6r1W8rGelcD1AGUzbmtZdP2WYxdFJTZVhYip7DkbBiUyOrMFcn1cmtGrz2wl3mJE=;LTWJ7QpGciO/oRsV67w9+w=="

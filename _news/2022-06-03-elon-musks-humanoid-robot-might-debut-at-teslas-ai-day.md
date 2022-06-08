@@ -7,8 +7,8 @@ originalUrl: "https://knowtechie.com/elon-musks-humanoid-robot-might-debut-at-te
 webUrl: "https://knowtechie.com/elon-musks-humanoid-robot-might-debut-at-teslas-ai-day/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: KnowTechie
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk says Tesla AI Day pushed to Sept 30"
-    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30."
-    publishedDateTime: 2022-06-03T08:40:00Z
-    webUrl: "https://www.reuters.com/technology/elon-musk-says-tesla-ai-day-pushed-sept-30-2022-06-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/3NNM9uV9ThNnzmnNHy32TFr22_Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3LFCZXMPA5PDXL5MUIP5J22M6A.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk is painting an unrealistic picture of AI"
     excerpt: "The truth is there is a missing link between today’s AI, which is primarily pattern recognition, and the kind of Star Trek computer-level AI that Musk is dreaming about"
     publishedDateTime: 2022-06-06T14:46:00Z
@@ -74,6 +60,15 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
+  - title: "Elon Musk promises a working humanoid robot later this year"
+    excerpt: "Musk has just postponed the second edition of Tesla Day, dedicated to artificial intelligence to the end of September from Aug. 19. The reason? Musk promises to present a working prototype of Optimus, a humanoid robot that will replace people in Tesla’s ..."
+    publishedDateTime: 2022-06-03T19:50:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article262131617.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 19
 
 secured: "DUkus9inwOM+WMdbqq2EydEAByWaE13tSNVEV7oE5qkG9jEg+InmcpTk/caofVOzdmxMPfDWoF9LHaldcHgMhFWz3rWcb5S0jBGdxz7R1aa6nsGJOKsUevFcPWepDk9Lgj42j6hfLe/6U+8bXi8gTOk9lJwhE6wA21DlgagHLQAqk+jH9eP8p86p1f3klEAvnQCHxe2ADcU2Y53CTyBLdD3hnZTReJDY0/o5xsNzsqqIuMAJoZ+FLh6TdPa0CdH1wM0lhe8QDl/WpOP0H5/g+1QDwa3G2vJMbXETPfZgkbgMwE1B/49+sOgcL+zDh0cVySIAMC7g8NYGvsZG743nwTOB+1Q/StyWdlMxyifyThg4i2J6OtMn8Z+tx63jp2HqK0GKU3q+a1AlWCeHLkVnSu1vh3TpX4PIu8HG4G9MT/wEfAQRzyFPaudm+yNB56zJKQZTV9Ox8aLkZuj83EXnreRgkkAffVPUZCr+TzvGzVSuKXJ0YGNF4R2ZHk8jqirkg5FVI6L0VoXxnTvgCIX6Cw==;eJom6IDdyep+3VRQWflClg=="
 ---

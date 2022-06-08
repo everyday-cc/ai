@@ -2,6 +2,154 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-05-04-new-machine-learning-maps-the-potentials-of-proteins.md",
+      "title": "New Machine Learning maps the potentials of proteins",
+      "excerpt": "In the journal Nature Communications, the researchers explain how a new way of using Machine Learning (ML) draws a map of proteins, that makes it possible to appoint a candidate list of the proteins that you need to examine more closely. In recent years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/951653",
+      "originalUrl": "https://www.eurekalert.org/news-releases/951653",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bec72b74-65da-40a5-9f93-b20916ca45d6/Rendition/thumbnail/Content/Public",
+          "width": 300,
+          "height": 277,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-robots-are-the-key-to-advancing-artificial-intelligence.md",
+      "title": "Robots Are The Key To Advancing Artificial Intelligence",
+      "excerpt": "The key to AGI, though, is in the robot’s “mind,” which must be able to control the robot so that it can explore its environment, try out actions and see what happens—just like a child. If this simple robot was being controlled by a potential AGI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6271151bcd7b0b7ffd1fa4e2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/robots-are-the-key-to-advancing-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-04T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-what-the-high-interest-rates-mean-for-startup-founders.md",
+      "title": "What The High Interest Rates Mean For Startup Founders",
+      "excerpt": "Sure, some AI companies will not be able to deliver the value they've ... Nevertheless, there are good reasons for any startup founder who is depending on raising capital in the coming years to be focused on these three elements. 1. Know your numbers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627114653e082e5a8fa3642a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/04/what-the-high-interest-rates-mean-for-startup-founders/amp/",
+      "publishedDateTime": "2022-05-04T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-ex-google-uber-ai-heads-launch-ml-error-detection-platform.md",
       "title": "Ex-Google, Uber AI heads launch ML error-detection platform",
       "excerpt": "Meta releases code for massive language model to AI researchers AMD to offer CPUs with Xilinx AI engine in 2023 Microsoft to ax Azure Video Analyzer in November AI models still racist, even with more balanced training Fixing problems with ML data is the ...",
@@ -993,145 +1141,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-interventions-for-alzheimer-disease-improve-cognition-in-men-women.md",
-      "title": "Interventions for Alzheimer Disease Improve Cognition in Men, Women",
-      "excerpt": "Individuals with normal cognition, subjective cognitive decline, or asymptomatic preclinical Alzheimer disease (AD) were classified as \"Prevention,\" while those with mild cognitive impairment due ...",
-      "sourceUrl": null,
-      "webUrl": "https://azdailysun.com/lifestyles/health-med-fit/interventions-for-alzheimer-disease-improve-cognition-in-men-women/article_0e0ed75e-70ad-518d-a5fb-1616fe653e1f.html",
-      "originalUrl": "https://azdailysun.com/lifestyles/health-med-fit/interventions-for-alzheimer-disease-improve-cognition-in-men-women/article_0e0ed75e-70ad-518d-a5fb-1616fe653e1f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/azdailysun.com/content/tncms/assets/v3/editorial/d/d9/dd965974-4394-5a40-a56d-dedb793cabc6/6271ae1a67f29.image.jpg?crop=600%2C315%2C0%2C67&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Sun",
-        "domain": "azdailysun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure.md",
-      "title": "Dell forms security partnerships with major cloud providers AWS, Microsoft Azure",
-      "excerpt": "and they are now expanding it to the public cloud with Azure and expanding features with advanced capabilities with AWS (corruption detection, analytics and machine learning). \"These options provide a robust vault/recovery solution at scale for enterprises ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/news/cloud-security/dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure",
-      "originalUrl": "https://www.scmagazine.com/news/cloud-security/dell-forms-security-partnerships-with-major-cloud-providers-aws-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.scmagazine.com/wp-content/uploads/2022/02/GettyImages-477611329.jpg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Media",
-        "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen.md",
-      "title": "Argo AI, Zoox and Coalition for Reimagined Mobility to discuss what makes a ‘good AV citizen’",
-      "excerpt": "We’re excited to announce that Argo AI’s chief corporate responsibility officer Summer Fowler, Riccardo Giraldi, who is senior director at Zoox and Alisyn Malek, executive director at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/",
-      "originalUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/mobility-2022-building-AVs.jpg?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/03/argo-ai-zoox-and-coalition-for-reimagined-mobility-to-discuss-what-makes-a-good-av-citizen/amp/",
-      "publishedDateTime": "2022-05-03T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

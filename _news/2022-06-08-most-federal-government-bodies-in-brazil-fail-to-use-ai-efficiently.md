@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/most-federal-government-bodies-in-brazil-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/most-federal-government-bodies-in-brazil-fail-to-use-ai-efficiently/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-federal-government-bodies-in-brazil-fail-to-use-ai-efficiently/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 secured: "U6aKUdgp/8mQo+EV29NuWcYF/bu2/axxQSM5dT9Uc5iwl9zBCexyYdWMvtJjVgI9eo8KBVBBDWgwKr2FhxnUs9YLmacuKRYmRjT2SPXvJ3zo/mIExavacfDD7syqAdvaKXMLlzmtClNwP7ASguTlqv42ioEyPxNBmD87Lcnic3w5mI7C0wULI8scTD3OAWARGBdZGyfruIllknBIMaqaBlXtPzp/DYOKl5E8zTj8h8trtFG8d9D6ARLVnoC+WedKTQZh9kBqq+1x4nilgB3asPnhnYUKSe3c/p3rU0siaoRbYr/KoGzWEVmOdoPdDi9DRvL4xhEwGzQd8yvcy/tty23hy2XpqXZGCc0TUet0VTbyiyG1I/BaC6+JZK7RFl6kX9K1H902TjsyA5XeMH5pkGtd7xfpvC+27d5d5wPK3ZRdCTl/NM4xfoyofHRWiOe7vZAOBhaJtB5rBhYmH1HdV7EL+JOuyvfBPIFY7wHq0p3EtO0sWkF5uv2Q50Pr+tOI4weW04siuifBdnrB6zHPcQ==;K20Ah2qUc11wrq8ys8QZWA=="
 ---

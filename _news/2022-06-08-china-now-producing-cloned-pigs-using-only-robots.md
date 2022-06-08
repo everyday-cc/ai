@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/china-cloned-pigs-robots/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/china-cloned-pigs-robots/amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "In a world-first, Chinese scientists clone pigs by only using AI"
+    excerpt: "Seven pig clones have been created using an AI-based pig cloning method in China. The researchers claim if the same approach is implemented on a large scale, it can make china self-sufficient in pork production."
+    publishedDateTime: 2022-06-07T13:59:00Z
+    webUrl: "https://interestingengineering.com/cloning-pigs-only-using-ai"
+    ampWebUrl: "https://amp.interestingengineering.com/cloning-pigs-only-using-ai"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/cloning-pigs-only-using-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 57
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QjOdlorAOd/sizes/ai-cloned-pigs-china_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "qiA8SGSLxIuuXdZkiSooGMnIh7VIEvCJhpxRZppZQFGDGLJuzSXIK9xxOvu8ajnXe2WeSweiNHUsmVoPOSXiErra4YeyTM9VXvDwX+jwUup5qa+0OCPuCIPhNtUXQyiR5M9uByyloIo5ElF0FwAQGhhHtY+d+nlSoX7RV4KQ8RwfByQk9w9fJMBefF8NuW4TJpRfRC4LrX4WCeaSd0p8J8Y+GscKDR9EkEiu811JI9skOfYrC3/K9+c9OapeOk5XZlsIk6yfShVqgzJ/iojk8ithuEIW+s23b+jocP+eAMS6fgrRcAFwpODOz7M7jeBOenwqbI6bO0RC0i1wJdGHd+SoZsMjp0NP1qiLxeH82/jG9IgEYaTLUKizB90Pyyz+Ym0q4cODOdOqs8jbj4QUIemx4BE5FV1MjXBB+KtAW9ekRD31qmExiNEOdCWPF/5riFCvhT7dg45tO77aI91sxTWcw45wVf3hFQfUeOQFkXw0kTfNq0syeuJk3ZUq1jYPPrlT7fm7a1zPgDNxVfmcQA==;FCJP6pOLswTp8gsfvsarjw=="
 ---

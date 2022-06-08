@@ -41,10 +41,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Uber and Waymo Want to Make Self-Driving Freight Trucks a Thing"
+    excerpt: "Uber and Waymo have put the past aside, and are now in it for the long haul. On Tuesday, the two companies, previously legal foes, announced a new partnership. Together, they’re planning to combine Waymo’s self-driving technology with Uber Freight’s shipping network to help automate long-distance trucking."
+    publishedDateTime: 2022-06-08T01:36:00Z
+    webUrl: "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318"
+    ampWebUrl: "https://gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-waymo-autonomous-trucks-alphabet-1849030318/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/80978baad8b9cf3ba3858a0ff2bfc839.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
     excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
     publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+    webUrl: "https://edition.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
     type: article
@@ -56,6 +72,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Enemies Waymo, Uber now friends making self-driving-ish trucks for US highways"
+    excerpt: "Waymo and Uber announced on Tuesday a \"long-term strategic partnership\" promising to work together to deploy autonomous freight trucks on US roads, years after both companies fought bitterly over self-driving technology."
+    publishedDateTime: 2022-06-07T23:56:00Z
+    webUrl: "https://www.theregister.com/2022/06/07/waymo_uber_trucks/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/06/07/waymo_uber_trucks/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/07/waymo_uber_trucks/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 55
+    images:
+      - url: "https://regmedia.co.uk/2022/06/07/waymo.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Lawmakers stall over self-driving cars"
     excerpt: "Autonomous vehicles (AV) are already on U.S. roads, but the fast-growing industry will have to overcome fears from policymakers and the general public before driverless cars and trucks are widely"

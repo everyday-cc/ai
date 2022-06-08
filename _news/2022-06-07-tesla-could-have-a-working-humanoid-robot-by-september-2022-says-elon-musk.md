@@ -20,20 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Elon Musk says Tesla AI Day pushed to Sept 30"
-    excerpt: "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30."
-    publishedDateTime: 2022-06-03T08:40:00Z
-    webUrl: "https://www.reuters.com/technology/elon-musk-says-tesla-ai-day-pushed-sept-30-2022-06-03/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/3NNM9uV9ThNnzmnNHy32TFr22_Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3LFCZXMPA5PDXL5MUIP5J22M6A.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk’s humanoid robot might debut at Tesla’s AI Day"
     excerpt: "Tesla may demonstrate a working prototype of its Optimus humanoid robot in September, company CEO Elon Musk has claimed. Musk first teased the existence of Optimus at last year’s Tesla AI Day event. Details about the robot’s eventual pricing and commercial availability are scarce."
     publishedDateTime: 2022-06-03T16:53:00Z
@@ -73,6 +59,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 36
+  - title: "Elon Musk promises a working humanoid robot later this year"
+    excerpt: "Musk has just postponed the second edition of Tesla Day, dedicated to artificial intelligence to the end of September from Aug. 19. The reason? Musk promises to present a working prototype of Optimus, a humanoid robot that will replace people in Tesla’s ..."
+    publishedDateTime: 2022-06-03T19:50:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article262131617.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 19
 
 secured: "ftkCh3fRzGtxJa3VknNXqPRa4BIVDzgkR3OEMl7Fs4rdn++VpUmvFrwvFNzXYpdNr2b9mbU3OjtbtG7hPx3I9wS/vqMY3Ivf2gUXfT7PrFPkhcAKZrWTHKdlTXDSdChvQucUlRyUuCxXyLCbvgeZulTep88cqXEhncCP4284KxOCvZmrdJAHKDTOvAwpkXCSqnKJCh98vgUUSjZI4qDlQQkFfAvjtEACU+qAHo6qM9MARkmVxx+ZTlsbqeWuVeIYrdbKuKlhh8MbEEeyDxdC0+Tepa2RsvxDamSyr3UgE1jhCTOYn+4d8J/2KpsyVbiYCrkhLoatOcUFW2laTBb3/GCmNng0SrXSJ2aoYewfN9gh9o61Zix9FRDGecbPGOf+mJnNtq579Bhx1nrAsfDGOgv1y35c59jF7o/lTnd2TmrM8LEKXrnmQyZuse0t9Wsf56l23xawPY21nmnXw2FPjwdBv7T72dp5If6NrbiaKIsQnR9fXc1lglYEPNqEUCbwicTet5ATSNgLr3l9VKLQdQ==;2yA8JlPlhGkI+PzIemnk2Q=="
 ---

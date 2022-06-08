@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-06-tradeweb-launches-ai-pricing-service-for-the-us-municipal-bond-market.md",
+      "title": "Tradeweb Launches A.I. Pricing Service for the U.S. Municipal Bond Market",
+      "excerpt": "Tradeweb Markets Inc. (Nasdaq: TW), a leading, global operator of electronic marketplaces for rates, credit, equities and money markets, today announced the launch of Tradeweb Ai-Price for municipal bonds,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-tradeweb-launches-ai-pricing-service-the-us-municipal-/2022/04/06/9577813.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-tradeweb-launches-ai-pricing-service-the-us-municipal-/2022/04/06/9577813.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-meet-the-innovation-group-award-finalists-in-the-2022-itnews-benchmark-awards.md",
       "title": "Meet the Innovation Group Award finalists in the 2022 iTnews Benchmark Awards",
       "excerpt": "Its projects include the Execution Health Score, a machine learning model for analysing project management data to predict the likelihood of gold or platinum milestone slippages in the bank’s ...",
@@ -1280,49 +1314,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-22-fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program.md",
-      "title": "FMG Suite Named \"Best Overall FinTech Mobile App\" in 2022 FinTech Breakthrough Awards Program",
-      "excerpt": "FMG Suite, a SaaS company specializing in marketing software and services for financial advisors and insurance agents, today announced that it has been named \"Best Overall FinTech Mobile App\" in the sixth annual FinTech Breakthrough Awards program conducted by FinTech Breakthrough,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fmg-suite-named-best-overall-fintech-mobile-app-in-2022-fintech-breakthrough-awards-program/article_e7c33434-e531-532a-8883-6f3cfb3de93f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

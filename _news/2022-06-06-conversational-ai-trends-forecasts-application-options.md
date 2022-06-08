@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/convers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Canon-McMillan's music education program receives national recognition"
-    excerpt: "Canon-McMillan School District has been honored with the Best Communities for Music Education designation from The National Association of Music Merchants Foundation for its outstanding commitment to music education."
-    publishedDateTime: 2022-06-03T07:30:00Z
-    webUrl: "https://observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.html"
-    ampWebUrl: "https://observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.amp.html"
-    cdnAmpWebUrl: "https://observer--reporter-com.cdn.ampproject.org/c/s/observer-reporter.com/publications/canonsburgmagazine/canon-mcmillans-music-education-program-receives-national-recognition/article_5cc48ad6-d54b-11ec-83e7-537fc0b79860.amp.html"
-    type: article
-    provider:
-      name: Observer-Reporter
-      domain: observer-reporter.com
-    quality: 61
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/observer-reporter.com/content/tncms/assets/v3/editorial/9/8c/98c80576-d54b-11ec-b6c7-cf1590593691/6282a138658b7.image.jpg"
-        width: 560
-        height: 270
-        isCached: true
 
 secured: "Ibsa9pbLHM5LDz8+o06GSW/KaLTey7CUzlRUS3SR7Dez6nWp4M5Xc/psRaEB2/8fTicOH+PJtAjaLeGQml+3l0xr1Qec24nvqs+J+wdJ1e4ZcLzmB80Eu5O1LK3oQ99oIf2yMLQXWXoOQgde63Gjsq2A2A2YQGScuHlZi8HE0xxreSgSL8mwYIUfCyhQau4EYkYrk1o1XcQr2gnTDdxdV+OVXOV2isdhXrD3lC2dF/vI3FQ/Jh+vBt7UfqyDSiT4P5mIVQBB/RV6xMnes9pA//sgKbjutqBMDyMgeFRFId9PuuTxbRnaVdZQwH8Cmc3gg1cJZjnCZ5p0osSUmHeeUGfv7gmqvvLqAF4MDgFFvBMv1/obk2nLMCKxNpp9jl87CkaLWpksBKuW64f59WWFBtIfhkcR+TkuOwrHnUtUSBjBU/KNQvw82+LZsDjIFCrMVOansSOBRJw/Z5pbnfhqoxy6yqRdKpzsRdFaSlzCX4I76wnoN/KOKc8alfhxyG4asFj368Frt9GZf75M0yWFtA==;enivqhDnZpbCuhM8TBQC5Q=="
 ---

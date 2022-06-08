@@ -2,6 +2,152 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2022-03-01-expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device.md",
+      "title": "Expedera Announces First Production Shipments of Its Deep Learning Accelerator IP in a Consumer Device",
+      "excerpt": "SANTA CLARA, Calif., March 1, 2022 /PRNewswire/ -- Expedera Inc, a leading provider of scalable Deep Learning Accelerator (DLA) semiconductor intellectual property (IP), today announced that a global consumer device maker is now in production with its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device/article_fce72417-0e34-52d0-a9f5-ef72f5912bf7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/expedera-announces-first-production-shipments-of-its-deep-learning-accelerator-ip-in-a-consumer-device/article_fce72417-0e34-52d0-a9f5-ef72f5912bf7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/c2/5c278e6f-1ded-56f7-a838-538529bbede9/621e23db172d5.image.jpg",
+          "width": 577,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-how-to-become-an-ai-driven-company-today-part-1.md",
+      "title": "How To Become An AI-Driven Company Today (Part 1)",
+      "excerpt": "Similarly, becoming an AI-driven company is a top strategic endeavor. It's a cultural change. It's a people challenge. And it requires changes in many fundamentals of your organization. Here are my perspectives and learnings on this from the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/how-to-become-an-ai-driven-company-today-part-1/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/how-to-become-an-ai-driven-company-today-part-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/03/01/how-to-become-an-ai-driven-company-today-part-1/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/03/01/how-to-become-an-ai-driven-company-today-part-1/amp/",
+      "publishedDateTime": "2022-03-01T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-01-california-greenlights-cruise-waymo-autonomous-vehicle-service.md",
+      "title": "California Greenlights Cruise, Waymo Autonomous Vehicle Service",
+      "excerpt": "Autonomous vehicle makers General Motors and Alphabet Inc. can now collect fares from passengers of self-driving cars in California. The state's Public Utilities Commission (CPUC) this week gave the green light for GM's Cruise and Alphabet's Waymo to charge for rides in autonomous vehicles—with safety drivers present.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/california-greenlights-cruise-waymo-autonomous-vehicle-service",
+      "originalUrl": "https://in.pcmag.com/cars-auto/148155/california-greenlights-cruise-waymo-autonomous-vehicle-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01ANFiVScbhSTtWFUMUy2or-1.fit_lim.size_1200x630.v1646134551.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/california-greenlights-cruise-waymo-autonomous-vehicle-service?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/california-greenlights-cruise-waymo-autonomous-vehicle-service?amp=true",
+      "publishedDateTime": "2022-03-01T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-03-01-codecademy-and-black-and-brilliant-launch-africa-based-ai-accelerator.md",
       "title": "Codecademy and Black and Brilliant Launch Africa-Based AI Accelerator",
       "excerpt": "Codecademy, the leading online learning platform for technical skills, is partnering with The Black and Brilliant Advocacy Network to launch an Applied Artificial Intelligence accelerator and mentorship program in Africa.",
@@ -1016,144 +1162,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital.md",
-      "title": "Chinese Self-Driving Truck Startup Secures $188 Million In Funding From Sequoia China And Legend Capital",
-      "excerpt": "China’s Ministry of Industry and Information Technology rolled out guidelines for autonomous vehicles last April, encouraging local governments to open highways and roads for testing self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/",
-      "originalUrl": "https://www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621dd187b8e605f51c6f0b4d/0x0.jpg?format=jpg&crop=2461,1641,x0,y174,safe&fit=crop",
-          "width": 2461,
-          "height": 1641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/catherinewang/2022/03/01/chinese-self-driving-truck-startup-secures-188-million-in-funding-from-sequoia-china-and-legend-capital/amp/",
-      "publishedDateTime": "2022-02-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
-      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
-      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
-          "width": 1708,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-01-with-the-help-of-ai-dcs-blackboiler-is-automating-the-contracting-process.md",
-      "title": "With the help of AI, DC’s BlackBoiler is automating the contracting process",
-      "excerpt": "“Not only was the client paying us a lot of money to do this work, but it was also not the most fun work to do when you just feel like you’re acting like a robot,” Broderick told Technical.ly. “So my thought was, well, maybe we can teach a real ...",
-      "sourceUrl": null,
-      "webUrl": "https://technical.ly/software-development/blackboiler-automate-legal-contracting/",
-      "originalUrl": "https://technical.ly/software-development/blackboiler-automate-legal-contracting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technical.ly/wp-content/uploads/2022/02/dan-blackboiler.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-28T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technical",
-        "domain": "technical.ly",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

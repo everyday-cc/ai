@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metavers
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kiya.ai launches Banking Metaverse – Kiyaverse"
-    excerpt: "Ever imagine being able to visit your bank branch virtually (without leaving your home) or conveniently discussing investment plans with an advisor? Well, the day is not far when you will be"
-    publishedDateTime: 2022-06-03T07:12:00Z
-    webUrl: "https://www.thehansindia.com/business/kiyaai-launches-banking-metaverse-kiyaverse-746599"
-    ampWebUrl: "https://www.thehansindia.com/amp/business/kiyaai-launches-banking-metaverse-kiyaverse-746599"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/kiyaai-launches-banking-metaverse-kiyaverse-746599"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
-    images:
-      - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540906-kiyaai.jpg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "AI for the Metaverse – Bot Libre Mozilla Hubs Integration"
     excerpt: "Bot Libre, an open-source chatbot and artificial intelligence platform for the metaverse, has introduced a brand new solution for business owners and metaverse enthusiasts.  The company has integrated its conversational chatbots onto the popular 3D platform Mozilla Hubs."
     publishedDateTime: 2022-06-03T21:16:00Z
