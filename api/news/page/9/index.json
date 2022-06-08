@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-05-27-artificial-intelligences-role-in-trusted-national-security-supply-chains.md",
+      "title": "Artificial Intelligence’s Role in Trusted National Security Supply Chains",
+      "excerpt": "U.S. economic prosperity and national security is at risk due to a dependency on the resiliency, diversity, and security of global supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnas.org/publications/commentary/artificial-intelligences-role-in-trusted-national-security-supply-chains",
+      "originalUrl": "https://www.cnas.org/publications/commentary/artificial-intelligences-role-in-trusted-national-security-supply-chains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/artificial-intelligence.jpeg?mtime=20180423114444&focal=none",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNAS",
+        "domain": "cnas.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-ai-based-tech-company-hitlab-is-shaking-up-the-music-industry.md",
+      "title": "AI-Based Tech Company HITLAB Is Shaking Up The Music Industry",
+      "excerpt": "AI-based music technology company, HITLAB, is revolutionizing how entertainment content is discovered, produced, and consumed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
+      "originalUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62900a18798f8afff74d8a31/0x0.jpg?format=jpg&crop=1767,1178,x204,y7,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
+      "publishedDateTime": "2022-05-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-smarter-health-how-ai-is-transforming-health-care.md",
       "title": "Smarter health: How AI is transforming health care",
       "excerpt": "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential",
@@ -587,6 +681,58 @@
       ]
     },
     {
+      "path": "_news/2022-05-27-why-baidu-was-rocketing-higher-today.md",
+      "title": "Why Baidu Was Rocketing Higher Today",
+      "excerpt": "You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a Motley Fool member today to get instant access to our top analyst ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/05/26/why-baidu-was-rocketing-higher-today/",
+      "originalUrl": "https://www.fool.com/investing/2022/05/26/why-baidu-was-rocketing-higher-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/682128/gettyimages-1284372539.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally.md",
       "title": "Asian markets rise, encouraged by earnings and Wall Street’s rally",
       "excerpt": "“Improved risk sentiments in Wall Street, along with earnings outperformance from Alibaba and Baidu, may aid to fuel ... banks and retailers driving much of the rally. While trading has remained ...",
@@ -721,8 +867,8 @@
       "title": "How Microsoft plans to improve the low-code landscape",
       "excerpt": "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/",
-      "originalUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/",
+      "webUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/",
+      "originalUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -981,144 +1127,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you.md",
-      "title": "Can you feel the world’s smallest remote control robot crawling on you?",
-      "excerpt": "Researchers at Northwestern University are definitely not helping prevent the robot apocalypse with their latest invention: The smallest remote-controlled robot in the world. Measuring half a millimeter wide and about 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you",
-      "originalUrl": "https://www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/6a3fc82/2147483647/strip/true/crop/800x417+0+91/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4e%2F6c%2F0d2ac2263e5c1b632cb137cfa5d6%2Fblue-robot.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/can-you-feel-the-worlds-smallest-remote-control-robot-crawling-on-you?_amp=true",
-      "publishedDateTime": "2022-05-26T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-microsoft-azure-to-spin-up-amd-mi200-gpu-clusters-for-large-scale-ai-training.md",
-      "title": "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training",
-      "excerpt": "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/11/16/amdmi100.jpg",
-          "width": 894,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
-      "publishedDateTime": "2022-05-26T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-foursquare-founder-banks-funding-for-mystery-3d-social-network-startup.md",
-      "title": "Foursquare founder banks funding for mystery 3D social network startup",
-      "excerpt": "The excitement around web3 and the metaverse have pulled plenty of entrepreneurs who defined the first generation of native mobile apps to begin questioning what’s next. Foursquare founder Dennis Crowley is on the co-founding team with Matt Miesnieks,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/",
-      "originalUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/disrupt-dennis-crowley-0207.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/26/foursquare-founder-banks-funding-for-mystery-3d-social-network-startup/amp/",
-      "publishedDateTime": "2022-05-26T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

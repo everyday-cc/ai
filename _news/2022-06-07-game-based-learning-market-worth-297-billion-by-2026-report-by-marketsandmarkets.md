@@ -30,12 +30,12 @@ related:
   - title: "Global Disruptors in the Artificial Intelligence Market 2022 and Key Adoption Challenges - ResearchAndMarkets.com"
     excerpt: "The “Global Disruptors - Artificial Intelligence 2022” report has been added to ResearchAndMarkets.com’s offering. With technological breakthroughs in big data, supercomputing, and machine learning, AI has become increasingly capable of problem-solving,"
     publishedDateTime: 2022-06-07T13:29:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-e2007c53f3ca48798a47b6f488f44863"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-e2007c53f3ca48798a47b6f488f44863"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 16
+    quality: 18
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

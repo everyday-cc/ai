@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-05-23-gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data.md",
+      "title": "GPU for Deep Learning Market Analysis 2022: Share, Top Key Players Research and Forecast to 2027 with Dominant Sectors and Countries Data",
+      "excerpt": "The “GPU for Deep Learning Market” 2022 Research report will make detailed analysis mainly on in-depth research on",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-22T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-brainchip-joins-arm-ai-partner-program.md",
+      "title": "BrainChip Joins Arm AI Partner Program",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, announced today it has been accepted into the Arm ® AI Partner Program,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-22T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-scientists-develop-real-life-mind-controllable-robotic-hand-using-ai.md",
       "title": "Scientists develop real-life mind controllable robotic hand using AI",
       "excerpt": "A team of researchers at the University of Minnesota has created a robotic arm that can function according to your thoughts. In the future, such advance prosthetic body parts might allow humans to control computer-based devices with their minds.",
@@ -1261,102 +1348,6 @@
         "Computer Vision",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-google-announces-cloud-tpu-virtual-machines-for-ai-workloads.md",
-      "title": "Google announces Cloud TPU virtual machines for AI workloads",
-      "excerpt": "Google Cloud has announced the general availability of TPU virtual machines (VMs) for artificial intelligence workloads. The general availability release includes a new TPU embedding API, which Google Cloud claims can accelerate large-scale,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/da12492a3e3f3f9ae13884768b1cccd421e39918/2021/07/29/328ebbca-0812-4d74-8a88-a3aa8b815b5f/shutterstock-1504791845.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
-      "publishedDateTime": "2022-05-10T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-10-the-three-way-race-for-gpu-dominance-in-the-data-centre.md",
-      "title": "The three-way race for GPU dominance in the data centre",
-      "excerpt": "The modern graphics processing unit (GPU) started out as an accelerator for Windows video games, but over the last 20 years has morphed into an enterprise server processor for high-performance computing and artificial intelligence (AI) applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/",
-      "originalUrl": "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nvidia_amd_intel.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-09T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

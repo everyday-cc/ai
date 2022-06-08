@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-04-mumbai-based-fintech-kiyaai-launches-indias-first-banking-metaverse-kiyaverse.md",
+      "title": "Mumbai-Based Fintech Kiya.ai Launches India’s First Banking Metaverse ‘Kiyaverse’",
+      "excerpt": "Kiya.ai has launched India’s first banking Metaverse, Kiyaverse, which will be used by banks and NBFCs to enable virtual interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
+      "originalUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/06/Kiyaverse-social.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
+      "publishedDateTime": "2022-06-04T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-face-recognition-cams-at-mg-road-metro-station-others-for-better-security-gmda.md",
       "title": "Face recognition cams at MG Road metro station, others for better security: GMDA",
       "excerpt": "The Gurugram Metropolitan Development Authority (GMDA) installed eight facial recognition cameras Eight such cameras will also be installed at the Sikanderpur metro station before June 10. GMDA officials said that they are yet to receive permission from the Delhi Metro Rail Corporation for installing facial recognition cameras at the Huda City Centre station.",
@@ -829,7 +872,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/pinterest-pins-acquires-ai-powered-shopping-platform-the-yes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1154,58 +1197,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
-      "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
-      "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
-      "originalUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/rebellions_ION-1.png?w=680",
-          "width": 680,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
-      "publishedDateTime": "2022-06-02T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

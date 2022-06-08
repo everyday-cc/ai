@@ -2,6 +2,83 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-05-04-rekor-announces-the-availability-of-their-cloud-transportation-management-platform-within-the-amazon-web-services-apn.md",
+      "title": "Rekor announces the availability of their cloud transportation management platform within the Amazon Web Services APN",
+      "excerpt": "The Platform has been certified as ‘Well-Architected’ to function in a cloud-based environment. APN is a global community of partners who leverage AWS to build solutions and services for customers. Additionally, Rekor has joined the AWS Public Sector ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
+      "publishedDateTime": "2022-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-baidu-gets-a-permit-that-tesla-will-envy.md",
+      "title": "Baidu Gets a Permit That Tesla Will Envy",
+      "excerpt": "\"Their self-driving fleet has driven 40 times the distance between San Francisco and New York City.\" Wei Dong, vice president and chief safety operations officer at Baidu Intelligent Driving Business Group, said in a statement that China's regulatory ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "originalUrl": "https://www.thestreet.com/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Ch_400%2Cq_auto:good%2Cw_620/MTY4NjUzMDgzODMwNjU4OTY3/amd-shares-higher-for-ninth-straight-day-chipmaker-unveils-new-cpu-deals.png",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/baidu-gets-a-china-permit-that-tesla-will-envy",
+      "publishedDateTime": "2022-05-03T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-meta-wants-to-improve-its-ai-by-studying-human-brains.md",
       "title": "Meta wants to improve its AI by studying human brains",
       "excerpt": "“Within the past decade, there has been tremendous progress in AI on a wide variety of tasks from object recognition to automatic translation. But when it comes to tasks which are perhaps not super well defined or need to integrate a lot of ...",
@@ -1029,81 +1106,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-known_ai-film-festival-first-to-offer-all-artificial-intelligence-enhanced-film-slate-may-6th.md",
-      "title": "Known_Ai Film Festival First to Offer All-Artificial Intelligence-Enhanced Film Slate May 6th",
-      "excerpt": "LONDON, May 3, 2022 /PRNewswire/ -- The Metaverse – Ai Cinematics, a producer of artificial intelligence (Ai) assisted films and theatrical shorts, has created the World’s first Ai-specific film festival and awards show. Partnering with the UK-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-entertainment-lifestyle-film-festivals-artificial-intelligence-1ff54804ee8f75ca3ea1b91444ffd3dd",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-entertainment-lifestyle-film-festivals-artificial-intelligence-1ff54804ee8f75ca3ea1b91444ffd3dd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-03-ai-powered-proven-skincare-launches-worlds-first-personalized-eye-cream-duo.md",
-      "title": "AI-Powered PROVEN Skincare Launches World’s First Personalized Eye Cream Duo",
-      "excerpt": "PROVEN Skincare, the AI-powered, technology-first skincare brand, today announced the launch of the world’s first personalized Eye Cream Duo. The Duo is formulated with potent ingredients that target multiple skin concerns at once while nourishing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-be960773442b4f6982b56a85dc591b6a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-be960773442b4f6982b56a85dc591b6a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

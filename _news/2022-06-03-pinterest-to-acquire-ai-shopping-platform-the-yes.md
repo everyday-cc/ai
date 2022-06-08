@@ -35,31 +35,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Pinterest acquires AI shopping startup 'The Yes'"
-    excerpt: "Photo sharing social media platform Pinterest has acquired AI-powered shopping startup 'The Yes' for an undisclosed sum."
-    publishedDateTime: 2022-06-03T11:18:00Z
-    webUrl: "https://www.thehansindia.com/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    ampWebUrl: "https://www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/pinterest-acquires-ai-shopping-startup-the-yes-746588"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 57
-    images:
-      - url: "https://www.bizzbuzz.news/h-upload/2022/06/03/500x300_1540842-pintreset.jpg"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "ServiceNow acquires Hitch to bring AI-powered skills mapping to the enterprise"
-    excerpt: "ServiceNow is to acquire Hitch Works, an AI-powered platform that helps enterprises plug the talent gap through skills mapping."
-    publishedDateTime: 2022-06-03T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/06/03/servicenow-acquires-hitch-to-bring-ai-powered-skills-mapping-to-the-enterprise/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "Pinterest buys AI-powered shopping platform The Yes"
     excerpt: "Pinterest has agreed to acquire The Yes, a shopping platform that uses artificial intelligence to create personalised feeds for users."
     publishedDateTime: 2022-06-06T11:29:00Z

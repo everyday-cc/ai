@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Truck Startup Gatik Will Deliver Goods Autonomously to 34 DFW Sam’s Clubs"
+    excerpt: "Until now, most autonomous delivery pilots have involved 18-wheelers driving on highways between cities. Gatik says its new partnership announced today is \"the first time that class 6 autonomous box trucks have been deployed\" to disrupt short-haul logistics networks."
+    publishedDateTime: 2022-06-07T19:36:00Z
+    webUrl: "https://dallasinnovates.com/gatik-will-deliver-goods-autonomously-to-34-dfw-sams-clubs/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 16
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/06/Gatik-Sams-Club-partnership-June-2022.jpg"
+        width: 970
+        height: 556
+        isCached: true
 
 secured: "1btVVUBeN/xlF/Ed+uhvMJa7TCtJMYSNbwibIt1r20YDtkXzBYEss2DhkDSBFCG3G5bZab2wDMExDssYVq5YkdgqWYLJfo0X2mg3AqoUbbRsc8ZZ93h8YiohWRQR18MsnYWZw2VMNW7nadj8QjPtvUKCleqaAh545b4kUY+IeeLwpaZ9gvprF1AdncnCvx5rQXa/wgXZgmo14z46b4SKOpbiL5kzzVQ6E6lB0YEkVBVIEuDV42SOqNjdBJV5d6VEHf4u5C8oRSLHK5M9nBLqLgyP08vyQtW/tn5V+FlXBLoI63PIYBp+0IwYvVjkod146clzYf34QTHiH8zhG36w/quOexsJ1hjNNsitAHFnfdekqhJ50STEELzpKelAs+0X9c3Msnj2UT3J/mQm1WAyrKuTdG/T6UI7PPJ3i6o6n8w2z/quKgynQBnsnry9vuCqPwV24MAdQF96AsrYcKYxT9OVr/1mFqHNixMlOoXMTXaYZ4a8QROk2DW3ZP4JMcZRHmqyXc10A0vR4xlAHDN8VQ==;uLNza0nB8Wb174Evq8tgrA=="
 ---

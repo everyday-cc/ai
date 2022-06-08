@@ -17,7 +17,14 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
-secured: "Ufy8SdxZzTTj+8zUYD+mp0aU2vsHtQPBI4ld1S2c3FxQJ5XALHBubzQgSoT9VlP6CfpNalVNaDnefdlZenip7VQyMJZoZ+OfAZnVhDQHA6Fr0q6HXFlc2/+a+P/8LtjoKXxEC4uXDn4lH+rwfmP6I+Vga5MNQSyuoAVR3O1+qvqP4zS4RaVL9bkn7DIbDMeWkC9DrGWdfnQkelOGjhAZ3U5fcPuSBD6Kh4MUCvYuTWwmLLGQsH6ymXiT6Z1IxjP5L6EHNwUWU+TeEmyLrV5/06T9Wi1zQ1cup5BjFPdzJDibWBwvJzvI45d+v06bHA9JW56JCN7BYnqPas/qvDvmAqoaQENV5couMkRaWg/YTEiA+MpgmVu4C7H+dh+nU2ZEqr0HMYVszx71keS3hzPornywa015DPXzLeDcjdbzeHQAzdUuoFIWnKWQcjCO3RYbijsORCcH4gJ1d9DVYBnxWQcpmsg73ZrbKbSA63NF2iPv44TY6YRnpoNs/57eVux9pFtw+Q7nPIlexkSgCg3JoA==;Ya65CEi7pG4qWiSuY+JBWg=="
+images:
+  - url: "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-AI-node.jpg"
+    width: 770
+    height: 500
+    isCached: true
+
+secured: "G6p+wzYytStsGY30sxffoGkXm56g1tDUbt4xVPfHAfwgZc6VFwsBCuFTjpo+RvHTZFBJ84/xVwmJNvGNsy7FYsJnZUaBrfd8tmy0NErZzCoA4Ya2lqYDsB7uN51br9CaAJ/iPuJCvwLkby6VvnpEjG0YUOESJvoudBB1+JIgargO5FBz4DGp+qr7T36oIR93r2glaqB4rO4rPyrHt7qxX3cJZ/pyBf2PzgCzR/kF8BGdqOGGv78Vk0EQKnbp6L1raUCWI+OxEyomXBGdoIf4WsQlERG0QH/Oq47jIhiOfYUPVhkryCuKPPDnGRWeZnFS6OiynWgU6GcA4RVt2HZ7IyVNImBG6C6EHIqxyZBiMOY=;dUHu3f3m83xyvLQ+yDVw8A=="
 ---
 

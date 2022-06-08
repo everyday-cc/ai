@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-27-server-ai-chip-market-cagr-volume-and-value-market-players-amd-intel-baidu-2022-2027-by-hny-research.md",
+      "title": "Server AI Chip Market CAGR, Volume and Value, Market Players - AMD, Intel, Baidu - 2022 - 2027 By HNY Research",
+      "excerpt": "Apr 27, 2022 (Heraldkeepers) -- The \"Server AI Chip\" Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/server-ai-chip-market-cagr-volume-and-value-market-players---amd-intel-baidu---2022---2027-by-hny-research-2022-04-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/server-ai-chip-market-cagr-volume-and-value-market-players---amd-intel-baidu---2022---2027-by-hny-research-2022-04-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-26-nvidias-push-for-ai-innovation-could-propel-this-etf-higher.md",
+      "title": "Nvidia’s Push for AI Innovation Could Propel This ETF Higher",
+      "excerpt": "In particular, artificial intelligence (AI) investment is driving innovation for the next wave of disruptive technology. Chip maker Nvidia is doing just that. It's evolving from its identification as a semiconductor producer and focusing on growing its AI technology to remain competitive in its respective marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
+      "publishedDateTime": "2022-04-25T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-23-samsung-others-test-drive-esperantos-1000-core-risc-v-ai-chip.md",
       "title": "Samsung, others test drive Esperanto's 1,000-core RISC-V AI chip",
       "excerpt": "Samsung's IT services arm and other companies are said to be testing out a processor that sports more than 1,000 general-purpose RISC-V cores to deliver what the chip's designer claims is faster and more energy-efficient AI inference performance than power-hungry specialty silicon.",
@@ -1350,95 +1436,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.md",
-      "title": "Chipotle tests tortilla chip-making robots to combat labor shortage",
-      "excerpt": "Chippy, the robot named and designed by Miso Robotics, will be able to cook and season Chipotle’s popular chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage",
-      "originalUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/04/932/470/GettyImages-173671212.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp",
-      "cdnAmpWebUrl": "https://www-fox5dc-com.cdn.ampproject.org/c/s/www.fox5dc.com/news/chipotle-tests-tortilla-chip-making-robots-to-combat-labor-shortage.amp",
-      "publishedDateTime": "2022-04-10T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 5",
-        "domain": "fox5dc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-ai-pioneer-suggests-trickle-down-approach-to-machine-learning.md",
-      "title": "AI pioneer suggests trickle-down approach to machine learning",
-      "excerpt": "In 2015, modern AI trailblazer Andrew Ng's recipe for success was to go big on neural networks, data, and monolithic systems. Now that recipe has created a problem: the technology is dominated by only a few rich companies with the money and headcount to build such immense systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
-      "originalUrl": "https://www.theregister.com/2022/04/09/ai_trickledown_economics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/02/22/shutterstock_banking_ai.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/09/ai_trickledown_economics/",
-      "publishedDateTime": "2022-04-09T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],

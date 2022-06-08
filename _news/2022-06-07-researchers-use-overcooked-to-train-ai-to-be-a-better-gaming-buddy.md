@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-07T13:40:00Z
 originalUrl: "https://www.pcgamer.com/researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy/"
 webUrl: "https://www.pcgamer.com/researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy/"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/tUcevsbtcUnZmavWQqLFrB-1200-80.jpg"
+    width: 1200
+    height: 710
+    isCached: true
 
 related:
   - title: "Researchers urged to use Artificial Intelligence to find solutions of problems in medical field"
@@ -36,6 +43,6 @@ related:
         height: 400
         isCached: true
 
-secured: "cnPbmx6BT8lB27VuNecxgN8bWK0FP9bovgpp2V1ZtRLaseWJjsfiY2i4fNDlIQ9F+JyyF23z28xtjQppP+Kq5Lq2+UYxGY9qAjqMPrqlLcAQ+iBlgPrc8z1lDjoiJjncgJ+cjtfXJNZkAKbTFgXoxwAgzatsAeTGBz1WYQN4eGYQJTKyvKxCz5V6ty3UtrdSUk0V2dNcf9CXBDLH0xLDtLM2U5WU5k0LYS816URnG1B0FfRry2i7qG3Dcf8Thfwzk25xxIm55vbsIcEl30TtFP3dPGTm1YicSUEiU1f5T+rsdSyyKZWndnn0h2BIwD6tNlPK8Z9jAPXLeQh/RxluUYKvcCFvFk6TVTnSDJAxwRKWAVxmdSa6tQAAjcfjZuabqReBr0bPiviBtcn0sVwrbgAy/5MxaMruhhl4iVAjkx7Al/MOUX9MP729C2+tKPeG7MiauqD2G1MZYwXYAgctqUJ10KMvL2djQ+b20lTqdmTmD0/YM3t2QPzIRODFdxvNdlloRyZKYl88EJ0LK2Y66w==;+Fj+VES1kM4bCe8oGwz+3g=="
+secured: "znTSUAM5flI1Sl2WLNL8QWEn9xABNbEqD9o8IMLj9r57ogS1Y1zSPGyz3VBvJTlIB44DagFSiU4OOgXKrGDNTD2Q/p3BuWzSdyrNEn5QPZ5zXcw0SJK4zJK1XEnOo+hvKd14doNlKP50tHdeWZjBZpE+Ul1kspBI9VT2XFZwCHF+7K9xzijEj1Ot6cSYD640XT789WDHdjp89USlIAVHMd4NrKMgLkrBXy/FmA5YO6t6YwxgLJ/yVHggMglFj/y2CGVQRVz0y1ZrycFnMpKVKlsOFSi8WxvpOvc2QfMUUFWGnpXsq8Uq0G27luEfR8irOz20td+e+QWhhME2xYUxIXm2ODNV67ag9RX+Ci5xka4=;bJRbSc9eqnxveHGk+iQjXA=="
 ---
 

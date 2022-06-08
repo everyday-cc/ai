@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-03-temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment.md",
+      "title": "Temasek’s Pavilion Capital backs South Korean AI chip maker Rebellions with $50M investment",
+      "excerpt": "Global venture capital firms are pouring money into the semiconductor startups developing the next generation of chips. Semiconductors, which have become a valued asset, are used in virtually almost every industry,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
+      "originalUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/rebellions_ION-1.png?w=680",
+          "width": 680,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/temaseks-pavilion-capital-backs-south-korean-ai-chip-maker-rebellions-with-50m-investment/amp/",
+      "publishedDateTime": "2022-06-02T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-lenovo-looks-to-bring-ai-intelligence-to-the-edge.md",
       "title": "Lenovo looks to bring AI intelligence to the edge",
       "excerpt": "Among the many vendors eyeing a piece of the artificial intelligence (AI ... NX platform and integrates with the Amazon Web Services (AWS) Panorama service for AI computer vision (CV) processing ...",
@@ -638,6 +690,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-02-pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors.md",
+      "title": "PCIe AI accelerator cards powered by Hailo-8 AI processors",
+      "excerpt": "Lanner Electronics announced its first Hailo-8AI-powered PCIe accelerator card, the Falcon H8. Lanner Electronics collaborated with leading AI (Artificial Intelligence) chipmaker Hailo to design the Falcon H8,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
+      "originalUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2022/06/LinkedIn_1.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half.md",
       "title": "New processors make edge AI more accessible while cutting power consumption in half",
       "excerpt": "Expanding on its history of delivering highly integrated processors, Texas Instruments (TI) (Nasdaq: TXN) today introduced new Sitara™ AM62 processors that help expand edge artificial intelligence (AI) processing into next-generation applications.",
@@ -1053,91 +1148,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers.md",
-      "title": "Leveraging the power of AI and machine learning for more resilient data centers",
-      "excerpt": "The ability for IT department to predict disruptions and unplanned downtime can potentially minimize impact to the business, especially in today’s e..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91953454,imgsize-29370,width-1200,height-628,overlay-etcio/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
-      "publishedDateTime": "2022-06-01T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-c3ai-shares-swoon-as-guidance-disappoints.md",
-      "title": "C3.ai Shares Swoon As Guidance Disappoints",
-      "excerpt": "For the July quarter, C3.ai sees revenue of $65 million to $67 million, falling well shy of the Street consensus at $74.4 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388",
-      "originalUrl": "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-449799/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388",
-      "publishedDateTime": "2022-06-01T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Poor Hardware Utilization Puts Squeeze on AI Compression"
+    excerpt: "One of the most pressing challenges in deploying deep learning at scale, especially for social media giant, Meta, is making full use of hardware for inference as well as training. Researchers have been chipping away at this problem via various compression ..."
+    publishedDateTime: 2022-06-07T15:32:00Z
+    webUrl: "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/"
+    ampWebUrl: "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/ab_vector_skdfl.jpg"
+        width: 1300
+        height: 500
+        isCached: true
   - title: "Flex Logix Launches EasyVision - Turnkey AI/ML Solution with Ready-to-Use Models and AI Acceleration Hardware"
     excerpt: "Flex Logix® Technologies, Inc., supplier of fast and efficient edge AI inference accelerators, announced today the availability of EasyVision Platforms designed to help customers get to market quickly with edge computer vision products for a wide range of markets such as robotic vision,"
     publishedDateTime: 2022-06-06T14:18:00Z

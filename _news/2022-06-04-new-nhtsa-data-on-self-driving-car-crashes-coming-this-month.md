@@ -79,12 +79,12 @@ related:
         isCached: true
   - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
     excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-    publishedDateTime: 2022-06-06T13:19:00Z
-    webUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+    publishedDateTime: 2022-06-06T13:18:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
     type: article
     provider:
-      name: WTEN
-      domain: news10.com
+      name: FOX4 Kansas City
+      domain: fox4kc.com
     quality: 21
 
 secured: "AQp9az83YCMep3xw/d5KO9I5scdhnMIFzhbkxXJ9yOKHZkT2Huxb78Gxrxjl2/1+mJMMH+HliJMzWuRg7eEMCt5MGv2MFIlCye5q1tGCg38FPEc7T0UHgEJCLZuCVsaU/yRUbyetvLTW1XTAZjI1g0zUTCgWbhW29jgNYbOY+18KjKVRQLNUXGdMp1MQtYg/w1+YEGReDZCaR61M0OOOgSKKd81mPT626RDfPHmgu1m3mRgSdkvUZvcfVgiHgQtzrtX96exxsI3n6XuyArdtKClCcjx515K+Enzt1xuah6cCBXncyIDisZNZ5DW5wHdxcGNHarmSH9c5HQfmfpYS2w80uVzn2VSK7n0aWAOjoPD0ncq3BA+4jYO1f2U/KZrM7q622rXUspo8k6f2D0Xyt9juVXG4ITtUfY0ky/VHIGIdNjsbaXhxUHSAiw2G8h6JmKuo7dz6fGm/SOq3XEvx7539tbf7h07FP1zqgoRXKELkc2+Y8NAo09zsBORVRH+myLJUYu+7uP3/mwjKPn7HyQ==;3BSxb0MJRT6/n/fg5JRShw=="

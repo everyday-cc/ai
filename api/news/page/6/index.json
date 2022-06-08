@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-01-microsoft-dev-box-your-development-workstation-on-azure.md",
+      "title": "Microsoft Dev Box: Your development workstation on Azure",
+      "excerpt": "Build 2022 had a developer focus, with new tools to make it easier to write code in a world of hybrid work. Dev Box promises to make your development environments easier to manage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/15/10/it-as-a-product_boxes_glowing-box_binary_package-by-masterzphotois-getty-100798698-large-100924633-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
+      "publishedDateTime": "2022-06-01T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital.md",
+      "title": "Arteria AI Announces Strategic Investment Co-Led by Citi SPRINT and BDC Capital",
+      "excerpt": "Arteria AI, an award-winning global leader in enterprise digital documentation, today announced it has received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/",
+      "originalUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/",
+      "publishedDateTime": "2022-06-01T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-azure-nc-a100-v4-vms-for-ai-now-generally-available.md",
       "title": "Azure NC A100 v4 VMs for AI now generally available",
       "excerpt": "AI is revolutionizing the world we live in—from the way we entertain ourselves, to the products and services that we consume, to the way we care for our bodies, and how we go about our daily work. At Microsoft, our NC series virtual machines (VMs) allow our customers and partners access to almost limitless",
@@ -1065,81 +1159,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx.md",
-      "title": "Refraction AI Tests Autonomous Delivery at Two Chick-fil-A® Restaurants in Austin, TX",
-      "excerpt": "Self-driving robots provide energy-efficient meal delivery to guests' front door. AUSTIN, Texas, May 31, 2022 /PRNewswire/ -- Refraction AI, a last-mile, autonomous robot delivery",
-      "sourceUrl": null,
-      "webUrl": "https://www.texomashomepage.com/business/press-releases/cision/20220531DA73589/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/",
-      "originalUrl": "https://www.texomashomepage.com/business/press-releases/cision/20220531DA73589/refraction-ai-tests-autonomous-delivery-at-two-chick-fil-a-restaurants-in-austin-tx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TexomasHomepage.com",
-        "domain": "texomashomepage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-earnings-outlook-for-c3ai.md",
-      "title": "Earnings Outlook For C3.ai",
-      "excerpt": "C3.ai AI is set to give its latest quarterly earnings report on Wednesday, 2022-06-01. Here's what investors need to know before the announcement. Analysts estimate that C3.ai will report an earnings per share (EPS) of $-0.29. C3.ai bulls will hope to hear ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/earnings/22/05/27474736/earnings-outlook-for-c3-ai",
-      "originalUrl": "https://www.benzinga.com/news/earnings/22/05/27474736/earnings-outlook-for-c3-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/ep_us_feature_image_3296.jpeg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27474736",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27474736",
-      "publishedDateTime": "2022-05-31T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

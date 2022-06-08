@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai
 ampWebUrl: "https://venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022/amp/"
 type: article
-quality: 78
-heat: 78
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/transform-2022-call-for-sponsors.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 683
     isCached: true
 
-secured: "Z2HPSUzrIVPqPWR9Nd8ePlgxMcE3YZ7RxGq00taHZHO6CedqKUwYUJ9lSH9FUQJIjXeQoncl8ocgDZFclgpXvz/vDT/GiNlAh6bwS8UookonZbThCohLY23ULow8qQMspxBC9xFX/nVbHTFt8OVEDal7rnUKzlWHY0aTw7KkY4vKYGAa1OlRkYbS6jUuJ2YsGVAENwRwXp+6RGrypAu5ha1Fd/aAjucJIVMJH93l75oHcoZWedLA6Vyk5Ele8WF4jx+cMmpJB1qzNEFXVHRpEdoEttq3zWkNCFV1ZRSvTBOafhQwOUfuQqN/Bikn1dS8o9fRSM5SejDNs5fnd1y/JCT5qm6JaOflArbatbt2W+s=;8IpVyePa5yg5U6ytTNv2XQ=="
+secured: "FZxLDaiN1HvJV6I+vBW+ZVRHlHiJlBvKORTW6o+owY0/JCkryq1hYOnEa3CLdnw7MhvTsx3XGH5gppGiOPTK15px1uS5GqiHxER9ksvk+Ah7s3w1/aSCgxklKBuZZtmA186kdgxUlwOnEh47cPesfhZthy4KQQrHXG8gqwMHK2xF8G8E5vS6eDOn4A17KWMHZs/f4D05sHcUphgT9BA+4iIA3BRs0pjEtMFCZ1ly5e5NJQpeskaSF5/XD3plqzsnp5biw+aOWHo7btmMkAy/iBO87rTjXqo2HGO+7g7JJ65oWGetYTHaGVJzAA8BikL3NrXdtZKwsPUZnf8PRz9x3wCEfSrruhgVPpjYeA0zbU/7+oHI9IPRHHveC/kV+QvLGH946QpulEkiTSYW5Lz2xyoKX6NMKJ4KDX/QFqUm2dpKBfpiTt6nodyiEBM9W3qVLSxSRwQfBwTtRyLSceYlIcpxYxNi2rHBjTldE4RUMlpLeIfcJIJ+IPCeiFK7DLAd9/Iift7HnMPhQkUg2N7KKA==;t6Rs+EOdjEgaIfTqJz7DmQ=="
 ---
 

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/05/NVIDIA-Omniverse-Featured.jpg"

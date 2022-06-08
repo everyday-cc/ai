@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
-  - title: "La Haus Chosen as Best Startup Proptech in Latin America 2022"
-    excerpt: "La Haus, leading company in real estate technology, participated in the annual edition of the Proptech LATAM Awards in which it was recognized as the Best Startup Proptech 2022 in the tenth edition of the PropTech LATAM Summit,"
-    publishedDateTime: 2022-06-03T13:02:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/la-haus-chosen-as-best-startup-proptech-in-latin-america-2022/article_d9aba012-f32c-551a-a946-bfd7228f08c3.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 22
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/e/fe/efe807a0-d354-58cd-8b2e-3819ecc600b8/629a0a14bc7b3.image.jpg?crop=1846%2C969%2C0%2C76&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI tool takes on corporate logos; Latin American IP and Gender Network expands; United Spirits sells 32 brands – news digest"
     excerpt: "In our latest round-up, we look at basketball player Kevin Durant filing 26 crypto applications, Frasers Group snapping up the Missguided brand, and much more."
     publishedDateTime: 2022-06-03T14:21:00Z

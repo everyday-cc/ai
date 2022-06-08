@@ -2,6 +2,110 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-03-29-artificial-intelligence-really-isnt-all-that-intelligent.md",
+      "title": "Artificial intelligence really isn’t all that intelligent",
+      "excerpt": "Narrow AI applications such as Google Search and Amazon Alexa are great at solving specific problems, but only as long as you stick to the script.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
+      "originalUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_automation_thinkstock_643956998-100749919-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3651357/artificial-intelligence-really-isnt-all-that-intelligent.amp.html",
+      "publishedDateTime": "2022-03-29T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-03-29-concertai-a-startup-focused-on-cancer-research-raises-150-million.md",
+      "title": "ConcertAI, a Startup Focused on Cancer Research, Raises $150 Million",
+      "excerpt": "The firm uses AI to match patients to specific clinical trials, and to make jumbled medical data AI-ready to sift for more insights. Sixth Street provided funding that values the firm at $1.9 billion",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801",
+      "originalUrl": "https://www.wsj.com/articles/concertai-a-startup-focused-on-cancer-research-raises-150-million-11648549801",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-513830/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-29-reid-hoffmans-new-start-up-poaches-first-staff-from-google-and-meta.md",
       "title": "Reid Hoffman's new start-up poaches first staff from Google and Meta",
       "excerpt": "Inflection AI, the start-up launched by LinkedIn billionaire Reid Hoffman and DeepMind co-founder Mustafa Suleyman, has poached staff from Google and Meta.",
@@ -1071,100 +1175,6 @@
       "provider": {
         "name": "FOX8 Cleveland",
         "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-why-ai-democratization-will-bring-more-power-to-the-enterprise.md",
-      "title": "Why AI democratization will bring more power to the enterprise",
-      "excerpt": "Using techniques like natural language processing (NLP) and neural networking, AI will very likely bring an end to the graphical user and even command line interfaces, which require a fair amount ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ai_democratization.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/28/why-ai-democratization-will-bring-more-power-to-the-enterprise/amp/",
-      "publishedDateTime": "2022-03-28T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-28-fetchai-artificial-intelligence-for-everyone.md",
-      "title": "Fetch.ai: Artificial Intelligence for Everyone",
-      "excerpt": "Fetch.ai combines two of the hottest technologies of our generation - blockchain and artificial intelligence - to create a network of self-sufficient, decentralized AI agents. What are agents in this context?",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346",
-      "originalUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenewsminute.com/sites/default/files/ArtificialIntelligence_Pixabay_11012022_1200.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346?amp",
-      "cdnAmpWebUrl": "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/fetchai-artificial-intelligence-everyone-162346?amp",
-      "publishedDateTime": "2022-03-28T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News Minute",
-        "domain": "thenewsminute.com",
         "images": null,
         "publishers": null,
         "authors": null

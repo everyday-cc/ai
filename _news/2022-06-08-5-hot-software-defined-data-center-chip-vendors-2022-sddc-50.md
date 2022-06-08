@@ -24,6 +24,22 @@ images:
     height: 457
     isCached: true
 
+related:
+  - title: "10 Hot Software-Defined Cloud Data Center Companies: 2022 SDDC 50"
+    excerpt: "Cloud data center providers leading multicloud and hybrid cloud include AWS, Google Cloud, Microsoft Azure, Alibaba, IBM and Oracle Cloud."
+    publishedDateTime: 2022-06-06T16:00:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/10-hot-software-defined-cloud-data-center-companies-2022-sddc-50"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 24
+    images:
+      - url: "https://www.crn.com/resources/0276-15530776942d-faf7796c5114-1000/2022-sddc50-logo.jpg"
+        width: 609
+        height: 457
+        isCached: true
+
 secured: "z1U6VWBC5Jo/eH+f/xYbw1T5iYGLkXwoP7dMVyF48LmmGkgXUwmSfyCgjABXBu5EgXiLHy6CYZBeje0h8aZoCaTMpKkkoNTwv1CeqHcmhEJtnGHan6hwXmZ1jgNoFrfyQGmV1jC6F2s0bmwnBT9kyFDR7wxkKhmu9ZvkPw+1qT3v62o1rG6fv7lrPuPM7fL0HoPLhsCCe/ycOJNe0Cs94MroRZniZrRU5+ZRpPjC1eqdHcAPIT1vdC+xmA4uGn1EyI3+sGgW5RahuUoHHChr77cSyPmSPRK6bdjJD35EmWsmxcilyLi0sTFYDFI8ZgEtdFU7wArbW14FoKlpdaxKPUIT0oBZ0yU2sMK3eSEC78a16jYwJhnAl+ZLrOxERnGCE1tI6hnMTSUCoRT+ThljiB70ytp40Vsmot1S+8MdV+gyu1saUJL9XFy2BsNeL8kVQi/t4p3XIolAOHJxfKGmdS1wJ0CYqp4CqsC7bj2YWJKUIWze/4oMO7iAotsoJniDYpGTJfoJSH+L3ZEbqFd0CQ==;/xF8Y8HSrBKdk5AFnxG7Yw=="
 ---
 

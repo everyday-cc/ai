@@ -2,6 +2,92 @@
   "page": 154,
   "value": [
     {
+      "path": "_news/2022-01-26-baidus-ev-project-jidu-secures-400-million-in-series-a.md",
+      "title": "Baidu’s EV project Jidu secures $400 million in Series A",
+      "excerpt": "Baidu’s electric vehicle (EV) project Jidu Auto announced on Wednesday that it has raised nearly $400 million in Series A as the Chinese search engine giant accelerates the development of EVs with self-driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "originalUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2019/10/BAIDU1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "publishedDateTime": "2022-01-25T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-machine-learning-ml-market-is-expected-to-reach-usd-18389-billion-in-2030.md",
+      "title": "Machine Learning (ML) Market is Expected to Reach USD 183.89 Billion in 2030",
+      "excerpt": "NEW YORK, NY, UNITED STATES, January 26, 2022 /EINPresswire.com / -- Extensive adoption of smartphones, e-commerce, and social media due to rising penetration of the Internet is driving machine learning market revenue growth The global Machine Learning (ML) market size is expected to reach USD 183.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
+      "originalUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-01/26/EP_dee60image_story.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-baidus-car-making-jv-raises-400-million.md",
       "title": "Baidu's car-making JV raises $400 million",
       "excerpt": "Jidu, a joint venture between Chinese technology giant Baidu and Chinese carmaker Geely, said Wednesday that it has raised nearly $400 million from its two parents. The joint venture, established in January 2021,",
@@ -1063,93 +1149,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce.md",
-      "title": "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce",
-      "excerpt": "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/",
-      "originalUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/01/FedEx-and-Microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/",
-      "publishedDateTime": "2022-01-25T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences.md",
-      "title": "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences",
-      "excerpt": "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
-      "originalUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dev.rodpub.com/images/248/280_main.jpg",
-          "width": 1542,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Contract Pharma",
-        "domain": "contractpharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

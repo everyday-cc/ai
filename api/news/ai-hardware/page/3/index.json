@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-10-google-announces-cloud-tpu-virtual-machines-for-ai-workloads.md",
+      "title": "Google announces Cloud TPU virtual machines for AI workloads",
+      "excerpt": "Google Cloud has announced the general availability of TPU virtual machines (VMs) for artificial intelligence workloads. The general availability release includes a new TPU embedding API, which Google Cloud claims can accelerate large-scale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
+      "originalUrl": "https://www.zdnet.com/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/da12492a3e3f3f9ae13884768b1cccd421e39918/2021/07/29/328ebbca-0812-4d74-8a88-a3aa8b815b5f/shutterstock-1504791845.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-announces-cloud-tpu-virtual-machines-for-ai-workloads/",
+      "publishedDateTime": "2022-05-10T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-the-three-way-race-for-gpu-dominance-in-the-data-centre.md",
+      "title": "The three-way race for GPU dominance in the data centre",
+      "excerpt": "The modern graphics processing unit (GPU) started out as an accelerator for Windows video games, but over the last 20 years has morphed into an enterprise server processor for high-performance computing and artificial intelligence (AI) applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/",
+      "originalUrl": "https://www.reseller.co.nz/article/697949/three-way-race-gpu-dominance-data-centre/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/nvidia_amd_intel.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-3d-printed-fan-mount-keeps-server-gpu-cool-in-desktop-case.md",
       "title": "3D-printed Fan Mount Keeps Server GPU Cool In Desktop Case",
       "excerpt": "or are simply experimenting with machine-learning AI, you should be prepared to shell out quite a bit more money for a proper GPU than in the good old days. Bargains are still to be had in the ...",
@@ -1280,92 +1376,6 @@
       "ampWebUrl": "https://www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-ai-growth-stocks-with-101-to-339-upside-according-to-wall-street?amp",
       "publishedDateTime": "2022-04-27T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-server-ai-chip-market-cagr-volume-and-value-market-players-amd-intel-baidu-2022-2027-by-hny-research.md",
-      "title": "Server AI Chip Market CAGR, Volume and Value, Market Players - AMD, Intel, Baidu - 2022 - 2027 By HNY Research",
-      "excerpt": "Apr 27, 2022 (Heraldkeepers) -- The \"Server AI Chip\" Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/server-ai-chip-market-cagr-volume-and-value-market-players---amd-intel-baidu---2022---2027-by-hny-research-2022-04-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/server-ai-chip-market-cagr-volume-and-value-market-players---amd-intel-baidu---2022---2027-by-hny-research-2022-04-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-26-nvidias-push-for-ai-innovation-could-propel-this-etf-higher.md",
-      "title": "Nvidia’s Push for AI Innovation Could Propel This ETF Higher",
-      "excerpt": "In particular, artificial intelligence (AI) investment is driving innovation for the next wave of disruptive technology. Chip maker Nvidia is doing just that. It's evolving from its identification as a semiconductor producer and focusing on growing its AI technology to remain competitive in its respective marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidias-push-for-ai-innovation-could-propel-this-etf-higher?amp",
-      "publishedDateTime": "2022-04-25T11:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",

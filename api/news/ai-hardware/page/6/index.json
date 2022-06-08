@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-27-10-interesting-facts-about-nvidia-hopper-h100-gpu.md",
+      "title": "10 Interesting Facts About NVIDIA Hopper H100 GPU",
+      "excerpt": "At the Graphics Technology Conference (GTC), NVIDIA unveiled the latest AI accelerator - the H100 Tensor Core GPU. It’s a successor to the wildly successful A100 GPU launched two years ago. With 9X faster AI training and 30X faster inference, it’s more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62404bee2e866c2678125ebb/0x0.jpg?format=jpg&width=1200",
+          "width": 1138,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/10-interesting-facts-about-nvidia-hopper-h100-gpu/amp/",
+      "publishedDateTime": "2022-03-27T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-27-nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin.md",
+      "title": "NVIDIA Ups The Ante On Edge AI With Jetson AGX Orin",
+      "excerpt": "With Jetson AGX Orin, NVIDIA promises server-class AI performance at the edge, making it the best-in-class edge platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6240029a9902b9aee86f0b13/0x0.jpg?format=jpg&width=1200",
+          "width": 1138,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/03/27/nvidia-ups-the-ante-on-edge-ai-with-jetson-agx-orin/amp/",
+      "publishedDateTime": "2022-03-26T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell.md",
       "title": "AI Weekly: Nvidia’s commitment to voice AI — and a farewell",
       "excerpt": "GTC conference, Nvidia redoubled its commitment to voice AI. In other news, reporter Kyle Wiggers announces he's leaving VentureBeat.",
@@ -1303,92 +1407,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-kneron-ai-chips-adpoted-by-toyota-supplier-kenwood.md",
-      "title": "Kneron AI chips adpoted by Toyota supplier Kenwood",
-      "excerpt": "Kneron, the San Diego-based full-stack edge AI company, announced last week that its two AI chips M5S and KL520 are used by Japanese auto supplier Kenwood in its latest dashboard camera DRV-EMN5700.",
-      "sourceUrl": null,
-      "webUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
-      "originalUrl": "https://digitimes.com/news/a20220315PD213/adas-ai-kneron.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220315pd213_files/1_2b.jpg",
-          "width": 1280,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-15T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-cerebras-brings-wafer-size-ai-chips-to-medical-data-analysis.md",
-      "title": "Cerebras brings wafer-size AI chips to medical data analysis",
-      "excerpt": "AI chip startup Cerebras Systems has deployed one of its CS-2 systems at a well-funded startup that uses natural language processing to analyze massive amounts of biomedical data. As announced on Monday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
-      "originalUrl": "https://www.theregister.com/2022/03/14/cerebras_ai_chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2022/03/14/cs21_7nm_planview_dinner.jpg",
-          "width": 9144,
-          "height": 6094,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/14/cerebras_ai_chips/",
-      "publishedDateTime": "2022-03-14T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

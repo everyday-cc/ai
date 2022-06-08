@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-30-one-ai-raises-8m-to-curate-business-specific-nlp-models.md",
+      "title": "One AI raises $8M to curate business-specific NLP models",
+      "excerpt": "Ben previously was the head of AI at LogMeIn after the company acquired his second startup, Nanorep, an AI and chatbot vendor. Dror helped to co-found Nanorep and served as a platform product ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/",
+      "originalUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/06/gettyimages-683632096.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/amp/",
+      "publishedDateTime": "2022-05-30T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-x-marks-the-spot-for-completion-of-green-roofed-furniture-factory.md",
+      "title": "X marks the spot for completion of green-roofed furniture factory",
+      "excerpt": "The Bjarke Ingels Group (BIG) is often at its most interesting when mixing contrasting ideas and functions into its projects – such as its power plant/ski slope for example. In a similar vein comes The Plus,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/architecture/big-the-plus-completed",
+      "originalUrl": "https://newatlas.com/architecture/big-the-plus-completed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/794d27a/2147483647/strip/true/crop/5460x3640+2+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1b%2F40%2Ff0a63ff44979b4f94f4d3752830f%2Fthe-plus-51883550484-o.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/architecture/big-the-plus-completed/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/architecture/big-the-plus-completed/?amp=true",
+      "publishedDateTime": "2022-05-30T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world.md",
       "title": "Reply: Automation and Artificial Intelligence Are the Strategic Keys for an Effective Defense Against Growing Threats in the Digital World",
       "excerpt": "Smart Homes, Connected Cars, Delivery Robots: this evolution will not stop and so, in tandem, it will be necessary to develop automated and AI-based solutions to combat the growing number of security threats. The risks from these attacks are attributable ...",
@@ -1037,100 +1141,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-artificial-intelligences-role-in-trusted-national-security-supply-chains.md",
-      "title": "Artificial Intelligence’s Role in Trusted National Security Supply Chains",
-      "excerpt": "U.S. economic prosperity and national security is at risk due to a dependency on the resiliency, diversity, and security of global supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnas.org/publications/commentary/artificial-intelligences-role-in-trusted-national-security-supply-chains",
-      "originalUrl": "https://www.cnas.org/publications/commentary/artificial-intelligences-role-in-trusted-national-security-supply-chains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.us-east-1.amazonaws.com/files.cnas.org/hero/artificial-intelligence.jpeg?mtime=20180423114444&focal=none",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNAS",
-        "domain": "cnas.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-ai-based-tech-company-hitlab-is-shaking-up-the-music-industry.md",
-      "title": "AI-Based Tech Company HITLAB Is Shaking Up The Music Industry",
-      "excerpt": "AI-based music technology company, HITLAB, is revolutionizing how entertainment content is discovered, produced, and consumed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
-      "originalUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62900a18798f8afff74d8a31/0x0.jpg?format=jpg&crop=1767,1178,x204,y7,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlmoore/2022/05/27/ai-based-tech-company-hitlab-is-shaking-up-the-music-industry/amp/",
-      "publishedDateTime": "2022-05-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -36,7 +36,12 @@ related:
     provider:
       name: PC Gamer
       domain: pcgamer.com
-    quality: 19
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tUcevsbtcUnZmavWQqLFrB-1200-80.jpg"
+        width: 1200
+        height: 710
+        isCached: true
 
 secured: "CSHKAxiebCqPg6DLczrJBbMsioIOA0MrO6HSIlnt6bvrjOje9DBiaoCrT9FS/SkTvR0KWO5T1t6WK2XzG23eXYtX8dMWNhizo655oOrNffyJi4d9eU64g1xY0LjI5EyrxSdhPxSG9Te1LtzS8jLeWXjJGb6p3Wb1Vs0j/dTr0ynE8f07nkJi7ilwtUs2H/DRI1uwQhoN8xlipKM0GAHxxVsFX2sGR2T5/EiXH316JCImNS/Ac5yANP8YIEp9cDw2qlcgVBErqtEBoJMY5qYCrlm4w21lphL+xXhcKdzebQhwIDuy9gcdCQH7CyRsrDbsrHnn8V0iFE6wlW8xjKksFx9u2VeBQ+LEyX+MK7b3guU=;Wls4aHvhfRlvdeKZ/8ZBRQ=="
 ---

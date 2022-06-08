@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-07-poor-hardware-utilization-puts-squeeze-on-ai-compression.md",
+      "title": "Poor Hardware Utilization Puts Squeeze on AI Compression",
+      "excerpt": "One of the most pressing challenges in deploying deep learning at scale, especially for social media giant, Meta, is making full use of hardware for inference as well as training. Researchers have been chipping away at this problem via various compression ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/",
+      "originalUrl": "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/ab_vector_skdfl.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/06/07/poor-hardware-utilization-puts-squeeze-on-ai-compression/amp/",
+      "publishedDateTime": "2022-06-07T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-embedded-ai-rise-of-the-intelligent-device.md",
       "title": "Embedded AI: Rise of the intelligent device",
       "excerpt": "For the most part, embedded AI will work behind the scenes, quietly working out system hiccups that would otherwise go unnoticed. It might lend some support to more flashy applications like natural language processing and intelligent analytics,",
@@ -201,6 +244,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors.md",
+      "title": "PCIe AI accelerator cards powered by Hailo-8 AI processors",
+      "excerpt": "Lanner Electronics announced its first Hailo-8AI-powered PCIe accelerator card, the Falcon H8. Lanner Electronics collaborated with leading AI (Artificial Intelligence) chipmaker Hailo to design the Falcon H8,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
+      "originalUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2022/06/LinkedIn_1.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -594,8 +680,8 @@
       "title": "Microsoft Azure to spin up AMD MI200 GPU clusters for 'large scale' AI training",
       "excerpt": "Microsoft Build Microsoft Azure on Thursday revealed it will use AMD's top-tier MI200 Instinct GPUs to perform “large-scale” AI training in the cloud. “Azure will be the first public cloud to deploy clusters of AMD's flagship MI200 GPUs for large-scale AI training,",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/?td=amp-keepreading-btm",
+      "webUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/",
+      "originalUrl": "https://www.theregister.com/2022/05/26/amd_azure_microsoft/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -614,7 +700,7 @@
       "type": "article",
       "ampWebUrl": "https://www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
       "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/26/amd_azure_microsoft/",
-      "publishedDateTime": "2022-05-26T15:46:00-07:00",
+      "publishedDateTime": "2022-05-26T15:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "theregister",
@@ -628,9 +714,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Microsoft AI",
         "AI",
-        "Microsoft AI"
+        "AI Hardware"
       ]
     },
     {
@@ -774,6 +860,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-25-global-adasad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous-driving-ai-data-training.md",
+      "title": "Global ADAS/AD Chip Industry Research Report 2022: SoC Vendors Accelerate the Layout of Autonomous Driving AI Data Training",
+      "excerpt": "DUBLIN, May 25, 2022 /PRNewswire/ -- The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-aiml-chips.md",
       "title": "Ayar Labs teams with Nvidia for optical interconnects to speed up AI/ML chips",
       "excerpt": "AI/ML and other data-heavy interactions, the company said. At least at the outset of their release into the market, the new optical chips will go to CPU and GPU makers (such as Intel, Nvidia ...",
@@ -815,40 +944,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-global-adasad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous-driving-ai-data-training.md",
-      "title": "Global ADAS/AD Chip Industry Research Report 2022: SoC Vendors Accelerate the Layout of Autonomous Driving AI Data Training",
-      "excerpt": "The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-global-adasad-chip-industry-research-report-2022-soc-/2022/05/25/9608988.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-global-adasad-chip-industry-research-report-2022-soc-/2022/05/25/9608988.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1282,93 +1377,6 @@
       "provider": {
         "name": "theregister",
         "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data.md",
-      "title": "GPU for Deep Learning Market Analysis 2022: Share, Top Key Players Research and Forecast to 2027 with Dominant Sectors and Countries Data",
-      "excerpt": "The “GPU for Deep Learning Market” 2022 Research report will make detailed analysis mainly on in-depth research on",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-brainchip-joins-arm-ai-partner-program.md",
-      "title": "BrainChip Joins Arm AI Partner Program",
-      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, announced today it has been accepted into the Arm ® AI Partner Program,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null

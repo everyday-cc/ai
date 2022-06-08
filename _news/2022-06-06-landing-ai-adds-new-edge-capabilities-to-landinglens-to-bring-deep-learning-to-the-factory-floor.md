@@ -2,17 +2,17 @@
 category: news
 title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
 excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-publishedDateTime: 2022-06-06T13:19:00Z
-originalUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
-webUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+publishedDateTime: 2022-06-06T13:18:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: WTEN
-  domain: news10.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Machine Learning
@@ -82,6 +82,6 @@ related:
         height: 640
         isCached: true
 
-secured: "96JqrlsP5ZYUgzqx1omcFPycR7eCKuH9XUMdQcBvjvgiAevKUFP5pX3Ay9e0NjthalZKmuV6yerFkhtZlty+YVLy9do9QpR5qOQ0SYarXiOeqAN18uFqpey1yaAbQcskfnQiLkH6DVWJms6vc9tuBGWdBx2grOq8FWPDznq7xBT41H6l/tTZKrl7i54ZFsXqcPxAtYsNj46mhCStKB9rFhJDBE9x2/3Fxl6Dehc2ymfiz9WxTgs53qMMikpG5nT8+ODrhEYoeTUiLb+TqXn4mV7WoPfCVpUGRmFkynwngi5dR+13ngW2BBXufN6rCKZPRbA+0UU1WQ5pUHWwhuyBU82iHno7XOlxdNLMtYEUvVg=;MfW52noqQO1NGlmM0SD7Jg=="
+secured: "rhJvxbgE5IfYpfyAm42bxkJPj0vqH7yLhIwZ6FzCO6xUyzmVrtqMcvEJ0+kcuQJNRIvnsYP4odIFdGi9i0zvXHnMegJAURnUhdydky81J0LDxnGC6jFNJ3zr/L15DS9kJqUlJ6/+o3m23Y0xhhG1YKtij+5ECHcRaKSQ23tBE3hSrVe5pksI/Jisr62SfuWYcx+qhUSojaXQHlMHxoqLGNlNyuSRFxo+WOTMjd31+/UO81ErAkfSO8oLMK+cDKlKo0Old9P+lSddBT37JkjsBnQbs+fIXhM2bDvtRa2Zt+Qi7f5ovV1U4ImI8B8aT+cRAWn7Qt3ES6iMC30YHFjfZVJ+X7Bn2Ca7Ik2WLjxsjKw=;16qwCJsUY6UArdWMT9IRHQ=="
 ---
 

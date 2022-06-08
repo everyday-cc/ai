@@ -3,27 +3,27 @@ category: news
 title: "AI and machine learning are improving weather forecasts, but they won't replace human experts"
 excerpt: "While tools like AI open up new possibilities for better weather forecasts, many parts of the job are handled more skillfully by experienced people."
 publishedDateTime: 2022-06-04T01:15:00Z
-originalUrl: "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html"
-webUrl: "https://www.stltoday.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_cf7aed5c-6eb0-5685-8758-e9106031199e.html"
+originalUrl: "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html"
+webUrl: "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: GoDanRiver.com
+  domain: godanriver.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/c/f7/cf7aed5c-6eb0-5685-8758-e9106031199e/6296857066ee0.preview.jpg?crop=606%2C318%2C0%2C36&resize=606%2C318&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/d/d0/dd0817f4-8a7d-5e88-8ecd-6d243e5d7592/629685733bbb2.preview.jpg?crop=606%2C318%2C0%2C36&resize=606%2C318&order=crop%2Cresize"
     width: 606
     height: 318
     isCached: true
 
-secured: "+a/qc1u4u2h4+JTYp89Oq+6wBSwWrxrG0qV9ie6sGRdh+kgySBBRp2T1pEEGSlMwr+4cSPactedq8NrZiWCyslcQiE+nPl4734RUWduIG4FnJ+Y/9BGqNgT/U0zQFVkHZyXEpkzv9Qk8iTDZuAujnAO9pmPoAGlaGrOF9XEo9COzJAxcOpCJlxaaMtEMuCeWBa0RUZb/zEXKs8GGaiNB6cRDACeVdl3ESdhvXKVsmoWRlVp4L7234JhPrR/tnDIV0xG9J2ZSzgnp7coL+xFrE6motc2Uzql+TMfQ8zhmPad48dEXlAbshdV1lYmWB9++gKvH3x9xq7CvIIAtSLVUk9K3SEHRm/Soei4QAGhR0FSXIcN1mGSWqjRJfO8+ReBIOpsphwdJwH+sINSNlxXtjMOf7kyRIme7mUGG9EK5Oob/Li8Xx4qseKOZEobEFW2QBy5OtEhf99eee1dh5jOi9cubN1Ebfykhod9azCpqE8VqbjEuFciOWjVFsJnNZGVx+3J9fyZf3BHkQvHUFCqiQA==;YM2zSO53qzjuAyG6ts/bkA=="
+secured: "ovjbdHOrFAk752tK98KGyR3LEhwpjSrYblV4eygad6AzFw7ubeNLe3BXWa61LEm2lHNbOPyffrSGpiE07L0ROU5jrglf/kB7NVckjIxJOGxfPbKS4DweelUjxkKARfP+kzRr0PkFVNJB4lOlWjH4LFFQzqX/tR42jBzafSjGbY16dD5BoIslTiL++g49Npj8N1ATd5QDwleSO/Loh3JpJKTDA5W4uyO32/Z0QXlJZvyJRJYLjcsTGmnFoAWGiKnLUCHXhf5J3PNsIf7+KNra5H09J/948gQ42Rs0pui+G4g8CwgJMDxozA8paK5tZWdNWKWv81wxKWSM2ZetzbtXs6aJG0onXzQXOeZZ383mJ/U=;RbK4MT2Gu+gtjUANKI3mdg=="
 ---
 
