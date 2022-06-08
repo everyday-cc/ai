@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice and Speech Recognition Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast"
-    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2022-06-03T09:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast-2022-06-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Media Market Size, Share and Analysis to Expand At 20.4% CAGR Through 2028"
-    excerpt: "Jun 03, 2022 (Market Insight Reports) -- The Cognitive Media market share report ... is a hub for market intelligence products and services. We streamline the purchase of your market research ..."
-    publishedDateTime: 2022-06-03T10:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Natural Language Processing Software Market 2022 - Segment Overview, Scope, Advance Technology, Top Players Data by Forecast to 2028"
     excerpt: "MarketandResearch.biz reports offer an in-depth analysis Global Natural Language Processing Software Market, including its applications, definition, and manufacturing technology. According to the latest investigation,"
     publishedDateTime: 2022-06-05T23:03:00Z

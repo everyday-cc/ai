@@ -8,8 +8,8 @@ webUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-sca
 ampWebUrl: "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
 cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true"
 type: article
-quality: 58
-heat: 58
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: abcactionnews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1kmHIPgQ5pyl06dlNlyy7CkR2cI3Hxs9k40OojnMp6bAa7bvYqeL/Qmksu/XYUFLlGuv3im0cwJUoucwQdcBWd+ttKdJep6ekVQsoe81yvUdqzI72994gA3Q5shOU1AdvvYEC40XdStTrpvhikBGAD6UD8PkQ7n2VAMz4LpqxouF7UtbvIWWXb5MP5HJ7sagErT5qKqLj6l/YOFzd064Ysk6tafmU4qVQiFSpSBL7RPdXpybgSbK1tNsXGmVmdJcY45Dm4pwx2qrtLxNuuG/7raM7tmLvfhv54Cc+J08mdJ4XRoHQv0AZEmpV2gtOZGjjetXOh2pQAW0n8b1cCT3M+Xr3exi9kRpcnq7Dp5fjpk=;FcN9BFxiU+yHFmxtSidCYQ=="
+secured: "Y+ufSGbDLG9W7N0OSIP3Met5OdQsaS5BkVb8cx0JKfUSKaCQjGcWrMpqPu1uBVK0bf6PBHzUQwt1ZIXj0OgKm7fxIh+euvJtH8SQauHgrDPStGoFPnGRNMP9N0YOuejAv6RGp8tiZy30ajDqtEGEWN6yneqA03Z2P/MosTLGRb9BZaW5QV/8aG5T+qoHeWSRmzsjPe7jnqlo5+24cUYO9/uZj9f8gYxSuzxmpM0+zFpHPD/bjX2EKu0zSQyFzmiW/mHrrQ4jZgnXMnigsptadmkU3JHvjczph9GK1qxXCvmIfc4rhyZKgGmSufgs+6CIU3Mpbyc/EC7G5ofT0TNgQS/v8jkCkiR1ATzDvSOl6P8=;MwOvupb9l5Soaxr74AnG5w=="
 ---
 

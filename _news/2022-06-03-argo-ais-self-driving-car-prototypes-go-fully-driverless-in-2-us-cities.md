@@ -28,22 +28,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 30
-  - title: "Putting the metal to the pedal! Robotic taxi service gets green light to begin charging passengers for DRIVERLESS rides in San Francisco"
-    excerpt: "Driverless vehicles have been hailed as ... of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people, signs and hazards."
-    publishedDateTime: 2022-06-03T11:02:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10880569/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10880569/amp/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10880569/amp/California-regulators-approve-states-1st-robotic-taxi-fleet.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 26
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/06/03/01/wire-58620731-1654217026-117_636x382.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "G4hkdgP+VTboASw0HkD1PEB7B0vSoHcT9N7RHybG894vGNv3qf3XmO79y5VKw8D+NhH8cqbNnbQG53LlhT0dUcdRbe3IWvLf7lOgMddxBX5T0SVRWvXTYo+pMBPTquospni43h6K1OeR9255dScraWkyvlVGtTJe1BMvwSvhKmtsYgZ7E8r0vMbyU/Xbry5PDxqevQ2mrYOtgACSccEUzrSQu7B6h3eZRwDDk8bdU+NFCfZeY7KoDp0udzvNYwMNPvAZwdWDSL2Czumozuib1/QEHmFSkJe7BW+VyFIYrv0L3fEElyCgKeTHhdGjKOx+HRrQnVqUeaTLBXw/m1nzSujIDiVnY9O/HCIJb/mMRXO4mb7zoH0po2eHav3/yQvhTugSKcYfoZvZjx6ESZtuT0Dh6c84wL1P8aGiVrd7O46kVBokWBXba2J8k+NN/6wSFi+HzFuVYd5RPWY7dZkNXDetDrg3goVfv7ef1s62g1IpkJd73bSYpQGI58BZeRi7af0VdQ66hFfP9Jgor1SYsg==;NzvIu+cTrQT0d1ktFa1MvQ=="
 ---

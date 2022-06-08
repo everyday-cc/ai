@@ -3,8 +3,8 @@ category: news
 title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
 excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
 publishedDateTime: 2022-06-07T20:32:00Z
-originalUrl: "https://edition.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-webUrl: "https://edition.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+originalUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
 type: article
@@ -110,6 +110,6 @@ related:
         height: 678
         isCached: true
 
-secured: "yckFkiCEaLTu2m9C6YWUCwfdImKXPmJxrn++cMc1bODfF62p0pvhKj7t+nYL4LQQKrIU5Ns/sv0ruapDDUiseUmoX2E1HDkgnhgoXobUiflnFP9CKr9z8zbJ4lYrhiqLVIi7d2p67FuMyrIDhZfxMUFt9vidVGC7fm7NBeR6OQN1q4hJjAtOx9kplJtMESQTo1zfjqbWlAXhdQo+AZZcC3fKV7yGlyx8kAmB3oHbTfKByRPASBf2l5JQJSIrBCfcR0yvCDbTLPUgyre9tGygVsvTm0UKbq+BJGjri3Zv+GK3ogMyhk+n3dt9iXfejG7AS/XyL9TMIJg5xMWUNYIE+FCjnyiHGIujW8kPg95QoM4=;pgq6KOXU/IGcYK7mluIBYw=="
+secured: "JbwZtRlAyoM2muP0/YdZd0pt3HPPj8bvcAZlwDhXqK0+7i3UBFQEk2H7Jq2QWRLaawIzVWPWZTE6Q/ilPbRpoN74KNwvSHM6lWbo7r/yQ3ce7Qurxu0nSXcNdTAUHz0UtdvoLkTf7TYXP61wf4ksrsxGO08XJ0tWMUnY8JIzzDAIoNkZxDkSIyKDlfYJc0LQBfXnvI6BnrN/uuvUPAHoWDRS7VE0D1VCkejLH/ZgToXJmRj+Dkjt8q7pLDSD9LoZ1XYPemkVP/32FOPs+Doaw6py3VAjF48DLC65/p7Fjq1rUeXiiEIDZruuSu+H8RwMv+gdYFrJ+Js2leI9Z3N5Osy+mwmyuDZkcu8SARqxyew=;5AfRUOuMV9KCN3yqCW1Fjg=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Defining a Successful AI Project"
 excerpt: "As hype around data science, machine learning, and AI continues to grow, more and more organizations are feeling the pressure to modernize their business by implementing advanced data solutions or else risk falling behind the technology curve."
 publishedDateTime: 2022-06-07T21:44:00Z
-originalUrl: "https://www.govexec.com/assets/defining-successful-ai-project.pdf"
-webUrl: "https://www.govexec.com/assets/defining-successful-ai-project.pdf"
+originalUrl: "https://www.govexec.com/assets/defining-successful-ai-project/portal/"
+webUrl: "https://www.govexec.com/assets/defining-successful-ai-project/portal/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 1688
     isCached: true
 
-secured: "diD22N5OdEV7C4eQYRbnTmV6LBs6HnRaogkNacVVz5ZqZGLje5Rr2iMIaDcXUcPjWzgGSWS45rzDMSP7PTgvLeHdr0E+Itx9ik16dAYKfKO/nwcQ7eRqTVq0/FfV29/kqzXF07KrWNJSfVIIzqPuLV5Lj70yLgKPJ/qrV+PmTCq1Mkrf6gZVWXfEmTtIXMpZ269LsPoQGsVzNJ88aK+fIIQBR2VfXAD9wWyHPg/MDqqxxCVSyubB6LFTtoKXOUMNIpxXFXeSvgd3/1vsZ98iEdUyn7v0NMEcaFj76gBinXhLIpipp9RKBBF16baTk1Z6DAPYFQdeq7e/nh9gtvDzKjb6F0cmZXCPJW0CwUeNzXADQmAtkL8Xx5/Ewxk++ujjr0bl4DLwoFMXqxIsnmXoxzQcKUn5amVOkJHaAraCr4nh2zTszKoTIR2Km/eaYKO6kITMj7zbZtudDZf4SUkTz665Xbt/jez0+76d/ZEQOZu9gtgqpUDqeOghqSM0maVB6Z1Dy0O7cEvd3MLCNaKWyg==;z6Yz1u21f1z2oPXak5+V3Q=="
+secured: "z8v3KOX7gMw9A3YnUIP0aye/GIBt5hYd0zaOxQs7SRjfeAehzKNBgbrMYw5sKdj7RvtBf94ZwamF4rv39ELZsB+1USncV19b+QNHQzoNjgVnf6BZxYBRpA5+yRuJF0FKVGSIPqdztyNC48oAaPGAP64GAjT0G7FeBEdb/wvwrerPymO93ku5tnEI4CelhWY+C7V+iZVtgvjvCISQ8324llBmvGBA7ePnuqQQMm1MpEVqOXowvCj0IE4V8kAUsshJ3itctIzRjP6gcz/MF4pSzgAWYivldTfKsKVdLqak683M06bYRWLB2piofhOhgGhGTi/fUae09ps0oER0KwaLY94a9OA6oooxk2+UrmgfAbM=;MRez1Zj5qiCQI92cR4gtcA=="
 ---
 

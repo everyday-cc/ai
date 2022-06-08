@@ -56,15 +56,6 @@ related:
         width: 800
         height: 567
         isCached: true
-  - title: "Val Kilmer's voice in 'Top Gun: Maverick' was entirely AI-generated"
-    excerpt: "Actor Val Kilmer was able to star in the newly released Top Gun: Maverick thanks to Sonantic, which recreated his voice using AI."
-    publishedDateTime: 2022-06-03T09:32:00Z
-    webUrl: "https://www.tweaktown.com/news/86623/val-kilmers-voice-in-top-gun-maverick-was-entirely-ai-generated/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
 secured: "hNJQIf6L48FrSpOLEe72PMn65PAH2itnogl+yLa5Ck3RoPg60TGfHs/CN2Apx5+oZdswAph1OhE36Jtn6OGP1kqes1QMpOosXQZCNndH2bFMNtRZBy9WVUXdJgWRDlD2FujTxqhpi4WKisfhG/rwNVLWwnjXnAdfnMbzWrrMfZtHs7JA/zhWweo4lRXC9n55Ex3sBD/VJsYR2fwbIMAY+MpY0N1i/fcYOkeXKKISB1Ij/SfDENWr15Kf2Fxd39JH/sLcNQsO+nU7JGUNDEZmPyNMKkdy5weNf34JHjxkSz3JE4Xuf9XY3EwywIeTVampOV2ZT0FDCgmnUEOfxpm5N03WGofKHT3N4tktIiEDuycozyyPtNRC+1ufm8lB8YKl+jQcIIoJoZvmSFfk9I2tQoNTecdeslObiW8yo9wrp9RZIHPbUMnrEnW6C1XiH2FQSbB9khQUjb2dlG/bn9mzM+FspfZ3828Fuk1PpWd8r7KJVF4fdwH7H75z12/cOjjucCmvhwcwilGnEwUch/+L6g==;0OJ8XeZGPk003NOKKXsqOg=="
 ---

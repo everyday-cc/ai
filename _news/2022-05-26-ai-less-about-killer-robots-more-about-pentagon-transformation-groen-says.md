@@ -2,25 +2,25 @@
 category: news
 title: "AI less about ‘killer robots,’ more about Pentagon transformation, Groen says"
 excerpt: "Implementation in the department, of course, is always a challenge,” the director said, “as new technology meets legacy processes, legacy organizations and legacy technology.”"
-publishedDateTime: 2022-05-26T16:14:00Z
-originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/"
-webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/"
+publishedDateTime: 2022-05-26T16:08:00Z
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/"
 type: article
 
 provider:
-  name: C4ISRNET
-  domain: c4isrnet.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.c4isrnet.com/resizer/ONcq6SIv1d1nvIPTPhqzHchK3Z0=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QJ6RVWDRVZGCRIYT4HX4ZLAZY4.jpg"
+  - url: "https://www.defensenews.com/resizer/ONcq6SIv1d1nvIPTPhqzHchK3Z0=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QJ6RVWDRVZGCRIYT4HX4ZLAZY4.jpg"
     width: 1024
     height: 683
     isCached: true
 
-secured: "B/GFINz0VFvnS/SAby3WUXdGYkgsrLmumwQTYi5aRtjJRYasAmn5xHFg7GH6W+NqTm1un111YVsZEt//xeEo8JTFg6nulkKv02bqmoBe9dBk2OqQVmxECqFJa+RxmLFZZ4k1qVK8nEhxjtfT8vF263IcAf6tgF6K3gxFeak7QV4tpMpM8bRXbY9xlILeMTXBGTDXxutJFP+Fnb2rMayeFm60Av3DEEq3OGIvB2FpOfOqRMC+5p1y4YEG7dEXZej5szdcvxEGC/zLVPlRpQjxtn+rvxq4KQGC3KeA0nPHq5eeSosiiT4Cm48LnaUn4rstSkvmd+HD4u0hc59eoVBcpB1qq80mEEZIogXSAWywtlOrJcP4LhNHkAAYYcxayT4vjLYT+aqKq6ilpmZrLiLJkh2iNrgUjcIWWu01RCddX5xovP4VhNosaL1o3Y3RF//IslWF9h1kVr3/qPiii5q4WNMJHvq4jeucFotc8vEipBDfJe+nN4xUY8rfoyhaT+Op8mywpoGewDu6MSiU+TsalA==;8c2Q+v9PcYmO4TcVwKionQ=="
+secured: "zyNfQCDDxxy5OxRp173fV1jxFFQdme1Ubv45jG87d8W+PhC60Uke/vT+G8KFqRUJWkl82c2+B+2Unf+npPHC1UYeGl+FlLHKMysrv1Gj1eV7Il8/nT4QYsnXE/ZYeHEpHB29hapj7V28heitv/SU9P8ldkkEkpZBI1O44A5eXdQ2pX0Khb5/SP1fbczmqscn9jS9uVlQZS4DeXwswG3B3fR1aOVOwTPoEm5iptA9P0+N2qUWgIqPK8KXKzNpm+wgNq6+7pxILZhwkIRy+ZDcP3a/fcdFWx0AdtEAoMv/wLr+v3P31vw1J7sdQSPTgkLZk3X/MVlp1N4mgwc5D5l8XHa9+VlLiNCvguzjskXhVvw=;NtKx91HfcDHaezZABEnubw=="
 ---
 

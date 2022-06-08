@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Meta Set to Cut Ties to Facebook Ticker, as Zuckerberg Goes Full Tilt Into Metaverse"
-excerpt: "Say goodbye to the stock ticker 'FB', as Meta (formerly Facebook) (NASDAQ: FB) moves later this week to align its ticker with its new corporate name. Starting on Thursday, June 9,"
-publishedDateTime: 2022-06-07T13:47:00Z
-originalUrl: "https://www.investing.com/news/stock-market-news/meta-set-to-cut-ties-to-facebook-ticker-as-zuckerberg-goes-full-tilt-into-metaverse-432SI-2834395"
-webUrl: "https://www.investing.com/news/stock-market-news/meta-set-to-cut-ties-to-facebook-ticker-as-zuckerberg-goes-full-tilt-into-metaverse-432SI-2834395"
+excerpt: "Say goodbye to the stock ticker 'FB', as Meta (formerly Facebook) (NASDAQ:FB ... its message-first platform, artificial intelligence and machine learning, and ad tech."
+publishedDateTime: 2022-06-07T13:48:00Z
+originalUrl: "https://au.investing.com/news/stock-market-news/meta-set-to-cut-ties-to-facebook-ticker-as-zuckerberg-goes-full-tilt-into-metaverse-432SI-2581495"
+webUrl: "https://au.investing.com/news/stock-market-news/meta-set-to-cut-ties-to-facebook-ticker-as-zuckerberg-goes-full-tilt-into-metaverse-432SI-2581495"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: Investing.com
+  name: Investing
   domain: investing.com
 
 topics:
@@ -24,6 +24,6 @@ images:
     height: 519
     isCached: true
 
-secured: "c80/YPwrc7y16PCY3UTlGb6e1ZiDD3cxsPPZYZW2hDXnv4SP3OTirYZRkmXHtr0lhviYWPawX/O6BH1VMjjUimwUCA4k5TktbWfbFkOCTORa1CD+QqBMtXvR/rQ2F09U1tNSYFUCeQ+kkl5NUAlpX8B810i4ZBJwrTqQSHIfcOBD8HsTyHxR4QxHqdBaiwFOtqVZIg4Mv/Sku1c67oY7A/J01Q5OnjHgbWov06vscq9CrYDhtFHiMEhnpP0fViGM6OLe7lWrQEg1yfijwAM2jK52qgBrQ8sYrkvKIt5dQz7X8/onvafcKe8OupVVyP+73CleBj+JiWds3aQetHxth5boQjm6TMigxpI6D7Klr9rrA4zMUnp9/GQJrBAxMSLIZ6rjgT+PcjeIP8jMx7uRybbrjVAoUCKWcEIW7Yn5DJfVxlIkLlv9AwHVNQkoFYJFldfjB67iknfQKS4uFVXF5+cG15eSHoOzA6DsQ6ZxTOr/NHxE4lqb2O4ZBsSzLfTGaAQ8VwmrxQUuF9ank2VJ+A==;n59MeqI7NOXp0fhC91LrLA=="
+secured: "67q54ViHFv9i9Z2FJtW92jhF+n/jkHxKqRtEvj+PUvKbXkzNejpZ3UG+DL9Q3eIBHCuwAYjfyocY02FBaIMC00DkkxZdp5MHGoCotoDgkzaa3KN6DKDnb73sQl15/OFuugnU53pzxXyOR/f0VV66bpHKPxHtQakIB0vRkyXl4scevcmDYx7ayycjaSSWGo2aXg4P2mz6Jcp6tWS4k8dvXmrUC9GVmiPHbS5Lp0CHKnt5I02T38RtX1sY4t+rUZqaV+sEXnvNCFWu0Ge2N+kbyx/U0mXCE9rXAU6qmnvjs/KsDqD+PBWJIztt1RCV/BmBYi9qksNgyIuM2EpNFFn2f3El5AndjyzjwWevHmHt5E0=;V6PZlhb1fgclOnO/oTKRKQ=="
 ---
 
