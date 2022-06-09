@@ -63,22 +63,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Inventions by artificial intelligence are pushing patent laws to breaking point"
-    excerpt: "One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence in Arthur C Clarke’s classic 2001: A Space Odyssey. Halicin works differently from existing antibiotics,"
-    publishedDateTime: 2022-06-04T14:00:00Z
-    webUrl: "https://scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
-    ampWebUrl: "https://amp.scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 53
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/169699-bobiihxzuk-1643974563.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "GGyyHGk3uSuDXsm70sdJKbjK5UM1ZXMPYK9uSXfAwR9Q5ZPUJL28Eo7oKtNh+3uueLt9WDeQSgtWzShKlH+n0es5+TWkPuyUHn+aPQR3qbrEI7d5cxu8zONaSEfJ6X+ELUAZz7e39a+ISMMw4B8InJzrD6oFPICuETgQrur8eWQDRBwGQMhgoCxwCSom4qeC2/tHX4rgnFtMBqyhYM7q3Wv1UAr5P4Wl+PT1gnpSVTC1oYsgmYs3xsB4g/0x67UNwyJldR4pl4JRnGBbs9lqvhmMi7+V9RvSiuJQLqFAEui7JGc4FpBBiAiODYPvHb6HhZkH2bXFbjUjJBPK48cQ3H/vooDfaDeCJsT+Rdh79kd/2QdVUifk8rMjeFo5qlmKkrHH5dB/SkQW70YHvYzVh6uyLAtuQ/ZH9V8TO28HmBZrzbsgsB9ZFWybjPlcnI3tagjRolG12J5lON5eoFgZmnwzSFZoYtZZlac8AJzuJcTgpIWfDrPNoL0uG0NpwVoJRJ97NLLB+oSsgpDzXKYaYA==;yDuWW45EkvM5xdIVDD7pCA=="
 ---

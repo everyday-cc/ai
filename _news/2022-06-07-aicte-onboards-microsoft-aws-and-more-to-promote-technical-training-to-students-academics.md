@@ -54,7 +54,7 @@ related:
     provider:
       name: The Hindu
       domain: thehindu.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://www.thehindu.com/news/cities/bangalore/cd54jc/article65503499.ece/alternates/LANDSCAPE_615/Robotics%20and%20Artificial%20Intelligence%20AI%20Lab%20in%20National%20High%20School%20Basavanagudi%20Bengaluru.jpg"
         width: 615

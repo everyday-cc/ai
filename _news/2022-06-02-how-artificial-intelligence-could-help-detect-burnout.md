@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.forbesindia.com/media/images/2022/Jun/img_186575_professionalexhaustion.jpg"

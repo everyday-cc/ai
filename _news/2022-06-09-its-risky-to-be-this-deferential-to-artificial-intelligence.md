@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-09T05:10:00Z
 originalUrl: "https://www.washingtonpost.com/business/its-risky-to-be-this-deferential-to-artificial-intelligence/2022/06/09/d83b11c6-e7b1-11ec-a422-11bbb91db30b_story.html"
 webUrl: "https://www.washingtonpost.com/business/its-risky-to-be-this-deferential-to-artificial-intelligence/2022/06/09/d83b11c6-e7b1-11ec-a422-11bbb91db30b_story.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/22BMOAXHWEI6ZJBCCG53SHNTBM.jpg&w=1440"
@@ -39,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "ahIfd2PwXlzoVu2hmhWjRQdqhFKF2/vZVfOgYDpP1Ncn6f1xAslwCbsQmXCg/uZeZzZ6AAZKCJo38cjHWL5YZ5TH1u9n9I2ECRoO9+a3KxegsJHNJZx9RDwTn/KZNdChAW6+sXbWB+k5wU9Lv/yAgt+GmUf7uLSiaZO2+xZpWg7Pyen4RFlmoIWA0OB9tNcN/CzDMM6uU2wc8IDblEjI6FytHJcsEKlcoTveQHRti5K7sLvZV8u/i24NdjV05qBm7cDR6RrChdIeoTNwTCFb1hsIFFg6fS20yZ8yALsoxeG1WaCAeTtoHLsUlqC0fwZWVLBBjkSc0E9YdrTC8gx2XI6B+u974x9q2vuWVoIQuqg=;RKxiOeFwjRupF+BrOPIMbw=="
+secured: "PvyAImMV+uCLokcKpe+n8QeHIN3cjNX+KePPDnlvcdNhQU21WcYdPZa6/ONBCd7zNokxBjsOodAXX+FgSCTdNREBwp+VlzqGEPHPLFuiYrFedSlli1cmVSRknAQQl7/aKZ37zlm/+TahmF/UyR1Dd0Uzp7zXkE86WGhoys43lTx1bvkE5TG1TaZhXKGUE8nxkGCx+1O5/z/Yg03NEZgbhuBKzqXv6C4ML0OcoEvYnRvGlcqhYcyrWxnpYXHWRM/AKhWPkETWl7hwKQOTUhrgkJ65sFKXtXfMaldnPKdzIzdS2THXax+KyO+1qDl2OjHA2gbEDFDmohoUxpXXez+uUhJKTkcqJtKw9LXmaaUrXpcnEo7cM4hFqXqcTcFPShnAMuw55Q0lmrJpDbFdCrPZqf61ZpQtxo4b2FeBTouMfGK4AjyxatBv18tETnl9wp+q0fSE8o314Wt07eJrNlya1caqDO+deM/YF3eVf1RUYhSSc8a59RrwkEDs/PvWcfGA2r5zJceDZNKi1EvFled9YA==;1JGEWOFQGDcDhkKL1OJXBg=="
 ---
 

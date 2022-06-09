@@ -5,10 +5,12 @@ excerpt: "Nvidia also detailed multiple case studies of how its HPC innovations 
 publishedDateTime: 2022-06-06T19:10:00Z
 originalUrl: "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/"
 webUrl: "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/"
+ampWebUrl: "https://venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-artificial-intelligence-brings-new-superpowers-to-supercomputers/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 91
+heat: 91
+published: true
 
 provider:
   name: VentureBeat
@@ -21,7 +23,14 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
-secured: "WHZFI9Lt2RXTWz6AhES7RifyoDNqsCbOLjn9ArCiUPWu2jPOOZMrj+rvNcvakLBUIrdwUCuyP9aunJpJ8gF+PAHyuyeHkCQ7dCkPVs8H8r06Pq54TLoqkhyZr/Cnlz/mkEqcRYucKQ09crL0ht1i6tze9oXO87FQl2sAAlxCpDnRVSkCXKI+CulvC8U+mWTQtiGwdPQd3HpFtSDdYxeVp9PLATt0O+eR7HNLYvAmn2oQvN6WQ5J6zqDDt0vw2WIAmwxBBn76dXbRaTFX2WvXtus6XjjRKUuh8ib9lRNUeOA6bZbwdQielcJjj/7FCdWIdVmU7qQyOy7XcwH42iVFyUL+mev68igV8EfDQsDRs9Zx3c44EflnAqA7dxLPXzZmUdjEFPrQcRn5e3WmZAmpqsx+YWQgTf9BY13eAx5LJpPEq1Zi+ugvXGQQUm3KhtHP5n+KgKuUHnBE4jR2dvQbf1yyhKdQU32R52u3/qlGHrdMSoKRnMTDMUIrjj5aUprjqiQdS6ozgnIqaPA7/btbYg==;9oD2nUHcxvpRM/FzYfdY3Q=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-supercomputer.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "6L/IMSCtyaJe/lMFro/B3t2gcjtyiDDC4QLFTsaDRGiolfr5YqoTLyglnPjZDlG9PTPtn9wFaBy3nEMDR/tIU2dqnF2uSFfLXMA/id1D5T83uku2aq1uhXeXeriLRJHsumB9alrvlqhqSoJljUkL4Bz3fZfB+A0Y43DbXacyAHPV4LmvcLEdsheNu/kiw2ai/85cYrkvnUBAGVpUCuTeR/jKDXec5Hv6X6tY82TgtEeq13kxHjEENlZmZigqIwWr9F35GrBEcKij/qBIcNhMFSDr8SDHpYZ9E/8N3LAxoy6g1A3Zds8FdBrp4nkaRlVTIJEEqkYTNmaCn0ir5F7RCFtH+RKWgbd+yg21XsgkIek=;h8y1+BLG4G9P2xuQFBaj4A=="
 ---
 

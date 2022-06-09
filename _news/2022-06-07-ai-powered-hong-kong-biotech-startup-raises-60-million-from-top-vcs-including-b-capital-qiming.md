@@ -46,22 +46,26 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Ethics And The Perplexing Societal And Legal Role Of AI Activism, Including In The Case Of Autonomous Self-Driving Cars"
-    excerpt: "AI activism is on the rise, dovetailing into the AI Ethics movement, so it is worthy to take a close look at what AI activism is all about, including in the case of AI-based self-driving cars."
-    publishedDateTime: 2022-06-04T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
+  - title: "An Innovative ETF Opportunity That Taps Into Our Increased Understanding of the Human Genome"
+    excerpt: "For example, Grous believed that the convergence of next-generation DNA sequencing, artificial intelligence, and gene therapies should ... Looking ahead, ARK expects gene editing and gene therapy companies to grow to $1.1 trillion in market capitalization ..."
+    publishedDateTime: 2022-06-09T00:21:00Z
+    webUrl: "https://www.nasdaq.com/articles/an-innovative-etf-opportunity-that-taps-into-our-increased-understanding-of-the-human"
+    ampWebUrl: "https://www.nasdaq.com/articles/an-innovative-etf-opportunity-that-taps-into-our-increased-understanding-of-the-human?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/an-innovative-etf-opportunity-that-taps-into-our-increased-understanding-of-the-human?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//6296a226bb1124449cbe2b9c/0x0.jpg?format=jpg&crop=2781,2160,x934,y0,safe&width=1200"
-        width: 1200
-        height: 932
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 43
+  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
+    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
+    publishedDateTime: 2022-06-06T13:18:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 21
 
 secured: "Q8CXdTNsQ4bx47qOitgZqZsLl0wgePXRDOUJLw6q1EsqWSmzuK7mnqFirQjySfTOZqwn2PZhkXSfGEowAY27hYJXdXajQQ4F9i4BoSDKrHJ+Xby8835GuUKaaMOTW1LW21bBKZF7NKo8bslDeG24bu+a3h0xqWMVfgOBlmXT7+7gJtZ0BfpaPW8iKOtjaqPPEkGs/nVK5axIvIUR5pHMuG5iDzqgFTQMM3p18kfROGtJD6KREdRsNFHysYpUr3IFC5avVGhtRH4AghCpTJRil6V6+pqIuTyEoOqUExKiUondxz+RZAsrraiSymVkAzduJE4XWp/fPuLxRMeLxA3IFdcN5marhLPC6lemZqZjMZ2fMxYI8HdQwyXwOJ4cu9tG8ckm5dBfz3U+yU+TJSCn+kCB3kmhAQ+T2H3z5nx32In2GhIhslSh9sVXyUsSCD65b2cd9YCt9tGlETTnr1ZHJfvCjfvRLyniSYec2l1Y5eBUeVQDHecsepEXPAM2OwRmGhro9OBdth+HhzpDcLZH3A==;WIfYJ9bxq105m+/Ix1lojw=="
 ---

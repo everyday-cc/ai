@@ -5,6 +5,8 @@ excerpt: "AI and ML promise to transform healthcare across the board, but partic
 publishedDateTime: 2022-06-02T12:00:00Z
 originalUrl: "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/"
 webUrl: "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/"
+ampWebUrl: "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/amp/"
 type: article
 quality: 64
 heat: 74
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Facebook AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1216142687-e1654121302980.jpg?w=1200&strip=all"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "AI and ML can transform healthcare in India but here is what we need to take care of before that"
@@ -33,6 +42,6 @@ related:
       domain: indiatimes.com
     quality: 38
 
-secured: "JlEcA/t4ZcAvVZlENQQZFuGsGo95HbB4iA2E/yedSFzwmpAT70oIBO9v0fY8MZGuwA4Gjl0Drh95wpoen1zzaERDf23AKypALE+v3Lh8ri1t5HJFR/d4hoqT3VbcD6/WnRgJVd3Jr9Z02hO8QgIEnXu+vndQ2UUKtvnfFsptfN3bd6fNEmZyCrrDPHqmeGz/DtB0e2ajbL1STCJW+K6CGHBETRBavkrDPJmwxrfTButTJ4aosQf+HqxQve98q04ZibrJF5hK78lSCpbH0bql1kDb/A10INfwpfG+Upz+kwEACNKxEowXjE1S7FUmzST/Yk0+ZjSBkdhXGAzOF1r06MYQrOxaZuVofMbRy3Jngw71jfWQGoB6I2/PVJRnvm2iPIj+vBpJoP6J6Lv6V9HoO+X1mu6spyzN+haCcDaZ2TNa3qWd34fM9hDX2t2Ki6sNvHy9HG1g197wDIfLGmalWdzOr4Oh61DNJUFJulBbJXS9s6ufhQWwZgXHCgAuDUaRAHxHTiFcLvfqv0tDdW0nLg==;X/hiS2xCyc66kcymHHd2tA=="
+secured: "CZTtKZwU1KfYCgod5PoDNjDmhui/InOtmp3iCC17tYqrTSYe+qJgbSZDkyU+W7fvcJHMWHWVRH8VAcAVJB9pxQgrkxw7cGnhN6ucSpam0kJEsfCRsDbUTI7DUJoeBydXmSoesWHR4wkg8kcQirvSGGoIrb8TwWaQuyL0YGEfHSSrUgOjiHHlbFEYvAYpuIKXyn45sH66DSLJ9Jqy/0Ingw+DGPIm+O3cE9QpBQ2PsMsXgtCQhgj6NmFurCur+XWS7aHmjBVxtmiBaY73zxfgOUQJubPbqak0p3F+9ZZzowz7QCMoj0qPZLjpQU4+4NeuU29Xe/qSmZy7qT+gj9gIaPKI+UnnlfskURFwHShzA1A=;Ui7VXKm32ey3Z9LBeAl/Qw=="
 ---
 

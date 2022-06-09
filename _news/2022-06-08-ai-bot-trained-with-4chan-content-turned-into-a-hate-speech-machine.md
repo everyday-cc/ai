@@ -42,7 +42,7 @@ related:
     provider:
       name: Bestgamingpro
       domain: bestgamingpro.com
-    quality: 26
+    quality: 28
     images:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/An-AI-chatbot-trained-on-4chan-has-sparked-outrage-and-fascination.png"
         width: 600

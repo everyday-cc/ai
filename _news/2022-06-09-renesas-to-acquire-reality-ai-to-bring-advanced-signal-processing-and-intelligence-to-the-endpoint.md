@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-renesas-
 webUrl: "https://apnews.com/press-release/business-wire/technology-renesas-electronics-corp-business-artificial-intelligence-99ac48369efa4fd584560e53fb046fb4"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Renesas Releases Its Highest-Performance RZ/T2M Motor Control MPU Enabling Fast, High-Precision Control of Servo Motors"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced Renesas’ highest-perfomance RZ/T2M motor control microprocessor units (MPUs) for applications such as AC servo drives and industrial robots."
-    publishedDateTime: 2022-06-07T11:00:00Z
-    webUrl: "https://www.channelbiz.co.uk/press-release/renesas-releases-its-highest-performance-rz-t2m-motor-control-mpu-enabling-fast-high-precision-control-of-servo-motors/"
+  - title: "Renesas to acquire Reality AI"
+    excerpt: "Renesas Electronics is to acquire Reality Analytics, a provider of embedded AI solutions, with the deal expected to be concluded by the end of 2022."
+    publishedDateTime: 2022-06-09T07:45:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/renesas-to-acquire-reality-ai"
     type: article
     provider:
-      name: Channel Biz
-      domain: channelbiz.co.uk
-    quality: 0
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 37
+    images:
+      - url: "https://www.newelectronics.co.uk/media/0taa3ysa/microai-renesas.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0X0qvOKYbPdp+X2OeQLGsCiLw6QiOWZTebOOQl4WKmoPcnPsol22cXOO6ZLqhjKK1H5KbJT2C287PahgB9FBPmq0P3zMvaXv2eLbD13n/B7PpgEb0r/18TO8+S7own4+t+h1ypR0zYb0sw9+tYIDW+9FWPK5JBsk/WkSVPeHNujMRK8Q8iiG4oJ3joUNzZ0X4MqvsBn7OxmUT6X0VNi5PO64M2eOgjmzQCMzgywougQ1wmAPSG2Fe1PFxI3nSIZZi3Sz6VRUGqFmbFgozAxXRGcNdg0jBmYFPzVg1NnUrCgu/erJnpCm9OLVH1LFyu1yjtdVKUc5HJ+MMQbduZJP7ModgmiCLZhli5Vjo1C2Zsc=;9OX7sjdn1Vw8NUofWhFdCA=="
 ---

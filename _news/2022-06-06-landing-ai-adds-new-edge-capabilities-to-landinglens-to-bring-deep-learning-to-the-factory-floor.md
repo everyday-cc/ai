@@ -1,54 +1,68 @@
 ---
 category: news
-title: "Landing AI Adds New Edge Capabilities To Landinglens To Bring Deep Learning To The Factory Floor'"
+title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
 excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-publishedDateTime: 2022-06-06T14:19:00Z
-originalUrl: "https://menafn.com/1104330418/Landing-AI-Adds-New-Edge-Capabilities-To-Landinglens-To-Bring-Deep-Learning-To-The-Factory-Floor"
-webUrl: "https://menafn.com/1104330418/Landing-AI-Adds-New-Edge-Capabilities-To-Landinglens-To-Bring-Deep-Learning-To-The-Factory-Floor"
+publishedDateTime: 2022-06-06T13:18:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
 type: article
-quality: 41
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?698979"
-    width: 448
-    height: 249
-    isCached: true
-
 related:
-  - title: "Andrew Ng’s Landing AI aims to help manufacturers deploy AI vision systems"
-    excerpt: "AI in computer vision is no stranger to manufacturing Industry 4.0 or to a number of other markets, such as biomedical and consumer goods."
-    publishedDateTime: 2022-06-06T12:37:00Z
-    webUrl: "https://venturebeat.com/2022/06/06/andrew-ngs-landing-ai-aims-to-help-manufacturers-deploy-ai-vision-systems/"
+  - title: "AI Ethics Alarmed At The Rise In Underhanded Juicing Or Doping Of AI Machine Learning By Trusted Insiders, Including Autonomous Self-Driving Cars"
+    excerpt: "Worries are that juicing or doping of AI Machine Learning is gaining traction, an AI Ethical woe and dangerous, including for the case of AI self-driving cars."
+    publishedDateTime: 2022-06-07T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Kira Learning Announces $6 Million Seed Round Financing Led by NEA and Dr. Andrew Ng’s AI Fund"
-    excerpt: "Kira Learning today announced $6 million in seed capital led by New Enterprise Associates (NEA) and Dr. Andrew Ng’s AI Fund to build the solution of choice for K-12 schools and districts seeking state-of-the-art,"
-    publishedDateTime: 2022-06-07T17:08:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/kira-learning-announces-6-million-seed-round-financing-led-by-nea-and-dr-andrew-ng/article_e58c08a8-4d1b-51ba-8ce9-221f7a457f4c.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 27
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://imageio.forbes.com/specials-images/imageserve//628ab0b5c6b6ddedd0fce126/0x0.jpg?format=jpg&crop=2647,1765,x0,y128,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "AI-Powered Hong Kong Biotech Startup Raises $60 Million From Top VCs Including B Capital, Qiming"
+    excerpt: "Insilico Medicine uses AI to speed up drug research for diseases like cancer. Before starting Insilico Medicine in 2014, Zhavoronkov founded Deep Longevity, another AI-powered healthcare startup in Hong Kong."
+    publishedDateTime: 2022-06-07T09:19:00Z
+    webUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/"
+    ampWebUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve//629f13ed0c991cb629d8d39f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 585
+        isCached: true
+  - title: "An Innovative ETF Opportunity That Taps Into Our Increased Understanding of the Human Genome"
+    excerpt: "For example, Grous believed that the convergence of next-generation DNA sequencing, artificial intelligence, and gene therapies should ... Looking ahead, ARK expects gene editing and gene therapy companies to grow to $1.1 trillion in market capitalization ..."
+    publishedDateTime: 2022-06-09T00:21:00Z
+    webUrl: "https://www.nasdaq.com/articles/an-innovative-etf-opportunity-that-taps-into-our-increased-understanding-of-the-human"
+    ampWebUrl: "https://www.nasdaq.com/articles/an-innovative-etf-opportunity-that-taps-into-our-increased-understanding-of-the-human?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/an-innovative-etf-opportunity-that-taps-into-our-increased-understanding-of-the-human?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 43
 
-secured: "pgP6Ig1IkNQxqdK2Mgkt164kBtbtAsI4icFL2KhiEwhlzI38Ujd6N7BaFJiRCgb12mSuU2uI48D2SzMw8ef3IGrapFE6G/uyAmLgUF2Nn4OlNHlxTNusH7jTlksfhNH/IuyjyHQ6wZX8ryvHPGVA92MXhxCle4EUiULdHAmg5ur9TIPlUEA8PA4TF5gu57FHZCGh6/tzFv436IomFA4TzL1r7WXVJjHn2v6+v/xyYzKRnMR1LBoYr619z8QEqyHyYitqZTTP8HqZrUxemsBxVU9qouGZmYEG/j7WG9BbfxIcabWG67QKVHvobcx2bmt7ykw8plfw4QWJr4MYfc6GnFB0T/kKC5CTj3NrtFjUKTw=;AGHmp1QsAh9jZsTDO+I0og=="
+secured: "MAPiBb8KK0Q898eTYioFyr7hU6AdKVpPQooM2KQQ6wIVFB5Y21uUyKaOTwNiVrjKaSFNWgBALYp5gyXc/iyDTS1AGG07w12DzSUDsqSSO8GY5wG4l9q1is8MLHUc0AemhSAV+V2v+84EbvJj2NfvYOM3ZT57BA08zpG+TzgOV667zfCUjWcV6Z2rZ60DzoW5M/N4eMEbA3auq0EEf1gaZzJDeGFb1P4hSafTVp7Njfchb/5ikx1lu1RdrxK2cZ9oShLNElJwd4Tq2i8WHYa/P3hi6qbSirjMJCYuysDO5U+qLn3/+qwPp1mp/fjbyyTSBWTSe/oe5BOxL1RSMcERzSyxi1htKw7TpOB2ek8m32U=;WszW5x4zKXbB/01QNZG/ww=="
 ---
 

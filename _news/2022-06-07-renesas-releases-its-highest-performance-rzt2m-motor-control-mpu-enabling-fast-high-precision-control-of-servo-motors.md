@@ -7,7 +7,7 @@ originalUrl: "https://www.channelbiz.co.uk/press-release/renesas-releases-its-hi
 webUrl: "https://www.channelbiz.co.uk/press-release/renesas-releases-its-highest-performance-rz-t2m-motor-control-mpu-enabling-fast-high-precision-control-of-servo-motors/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Renesas to Acquire Reality AI to Bring Advanced Signal Processing and Intelligence to the Endpoint"
-    excerpt: "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced it has entered into a definitive agreement with Reality Analytics, Inc. (Reality AI),"
-    publishedDateTime: 2022-06-09T00:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-renesas-electronics-corp-business-artificial-intelligence-99ac48369efa4fd584560e53fb046fb4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "iU1xfjmx6iqSOavU7y4SdS998DbcjWwJFwxtklVL3Jx+WJd5dvSQSfDJnSOgPq7/muix+9Df+mBXfX8pgh74r/wTCWtJQnKpZSq+/+rNfz2UARpJJkgTnT2qTJtowr6vEJPD6/OpUAmp8GKMoUT3ttf7mUarlOcfUJb6dYq//pKWcmvOzNelDEGt1oVNtmvefxaS4dVu91GriHSnKlKnNnB3KLTLYLvDEF4OU/ZJBESvRwtKh0dYlom5BAaKSnm8stD+dJwITuhFK3fwlm39JLJyXDn2DpVD1SVSPFDVX9eosuj7br7U3X3cdod9Fpbf/0xTzlVwMAjwn9crXoILA743esmr6lYCxeTJc/AhkcqpPYIVmu2b28KNOWySe2relLngmk3B8Hl8dcuy9IsCnyN3YqBjHzZah6GN14hi/7zk4qlgQzEkmpaLSGG035Q5LvQTcMOU4Cx5529q9BmrJBlNos0l0D9DAKpVdgn0F7mNoYD3B15BabQAxl2wRlik699l8aldA2ULmU8ukVQZdg==;U7s5RYA1nA63CAXfK5ZmaQ=="
 ---

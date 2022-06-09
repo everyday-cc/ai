@@ -1,0 +1,49 @@
+---
+category: news
+title: "Artificial intelligence tool that transforms famous paintings into different styles may have its own 'secret language', researchers claim"
+excerpt: "An artificial intelligence (AI) tool that can transform famous paintings into different art styles, or create brand new artworks from a text prompt, may work by using a 'secret language', experts ..."
+publishedDateTime: 2022-06-07T12:42:00Z
+originalUrl: "https://www.dailymail.co.uk/sciencetech/article-10892015/Artificial-intelligence-text-image-tool-use-secret-language-experts-claim.html"
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-10892015/Artificial-intelligence-text-image-tool-use-secret-language-experts-claim.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10892015/amp/Artificial-intelligence-text-image-tool-use-secret-language-experts-claim.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10892015/amp/Artificial-intelligence-text-image-tool-use-secret-language-experts-claim.html"
+type: article
+quality: 41
+heat: -1
+published: false
+
+provider:
+  name: Daily Mail
+  domain: dailymail.co.uk
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://i.dailymail.co.uk/1s/2022/06/07/11/58780713-0-image-a-25_1654597075518.jpg"
+    width: 636
+    height: 382
+    isCached: true
+
+related:
+  - title: "Do AI systems really have their own secret language?"
+    excerpt: "A new generation of artificial intelligence (AI) models can produce \"creative\" images on-demand based on a text prompt. The likes of Imagen, MidJourney, and DALL-E 2 are beginning to change the way creative content is made with implications for copyright and intellectual property."
+    publishedDateTime: 2022-06-07T12:44:00Z
+    webUrl: "https://techxplore.com/news/2022-06-ai-secret-language.html"
+    ampWebUrl: "https://techxplore.com/news/2022-06-ai-secret-language.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-secret-language.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/do-ai-systems-really-h.jpg"
+        width: 1356
+        height: 668
+        isCached: true
+
+secured: "809Q0uL6mmL9RwTbDbIMiOLcza19HttMmQxIQ3a3nQ3QaCI2p+mXQS5/TTHS3EtKGzNhFqi2wVXdIRgA1WyBuwZzvUVS0gI86F68hOAEW6Q3PKi34zDimc0s5eIenndWGfyItKlLEpmAomB46z7ZQHMRK6UAhQ7mx6KBkrxgXMDzDSEQIC6wRjmixb76csMRh3t4NSCqNaegH+r88py8UMvwdLGuzRbb+1BWdVr8EAnvQj7g3CaW0332HC2M1JV0La6WWEMbC0WnFS/qdDsIXi7chlLBe2Ct2MVi4MMqtCjk0ghOVAwgLIM6UpGipbo7zaXdT70csIVgn3injWHJmNrRrh5Wi6+qDy526SDq6mQ=;0EVhf7lKd6oE1/7thI+Olg=="
+---
+

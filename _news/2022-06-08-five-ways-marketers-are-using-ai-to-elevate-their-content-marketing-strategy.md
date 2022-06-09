@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/"
 type: article
 quality: 101
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -53,22 +53,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1654032449-shutterstock-618815732.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Inventions by artificial intelligence are pushing patent laws to breaking point"
-    excerpt: "One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence in Arthur C Clarke’s classic 2001: A Space Odyssey. Halicin works differently from existing antibiotics,"
-    publishedDateTime: 2022-06-04T14:00:00Z
-    webUrl: "https://scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
-    ampWebUrl: "https://amp.scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1025090/inventions-by-artificial-intelligence-are-pushing-patent-laws-to-breaking-point"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 53
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/169699-bobiihxzuk-1643974563.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "3 Ways to Drive Business Growth Using AI"
     excerpt: "Unfortunately, not every business followed its example right away. Some skeptics wrongly predicted the internet would collapse in 1996, which influenced some companies to deprioritize anything related to the web."

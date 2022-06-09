@@ -1,31 +1,29 @@
 ---
 category: news
 title: "CIMB Bank recognised for Best Financial Artificial Intelligence Project at The Asset Triple A Digital Awards 2022"
-excerpt: "KUALA LUMPUR, MALAYSIA - Media OutReach - 9 June 2022 - CIMB Bank Berhad (\"CIMB Bank\" or \"CIMB\" ) has been awarded the Best Financial Artificial Intelligence Project in"
+excerpt: "KUALA LUMPUR, MALAYSIA - Media OutReach - 9 June 2022 - CIMB Bank Berhad (\"CIMB Bank\" or \"CIMB\" ) has been awarded the Best Financial Artificial Intelligence Project in Malaysia at The Asset Triple A Digital Awards 2022 for its"
 publishedDateTime: 2022-06-09T05:45:00Z
-originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
-webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
-ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
-cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
+originalUrl: "https://www.asiaone.com/business/cimb-bank-recognised-best-financial-artificial-intelligence-project-asset-triple-digital"
+webUrl: "https://www.asiaone.com/business/cimb-bank-recognised-best-financial-artificial-intelligence-project-asset-triple-digital"
 type: article
-quality: 53
-heat: 53
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.malaymail.com//theme_malaymail/images/no-image.png"
-    width: 1285
-    height: 857
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/DataRobot.jpg?h=bde28bee&itok=dFle0bC0"
+    width: 600
+    height: 316
     isCached: true
 
-secured: "DZAj7Ehi2N+NnMP5uIa8yBKACfihjF4kGsbLYgiydqVfDfBYaggS7YYuEKM53jdVdss2nlaN91tfLEeBJfWyxnVP13yT0YufIC8S7BtVBGX7JbxH8WTF15SYLNNWh/WXobCGuxwibLjvtROEuHFW9YNUgS7dhDkHe8v5HubZZjtlzpOyfSsGrowpXlENhAyAZxADp+kYPcNnLJ05xQ5H9y5PgILJNh1n88SgCfLL/ZFkvPgAK6XEG4RdZ7NEydd2CVSN7Pq+/GqxHhJgTipSJ+YkZ5vLJXL1XQf01v6hF4YnYO/p6pWqgKlYEWmJRbp2FdaIpl+eHwJkGIwPy6bnP+m2rXBrZr/dUirVtyW6qr8=;sT+zb3/WMbw5dlmX+mlS9Q=="
+secured: "C6cL1pCdlz5Dba6sDk6KTvBHg0qNIWKxj60yaYlpP8/sde5w0mgkdfGhBEoYT4+a8rBfkDP+dD7MX7THfhGEC3yzSF3gYJnEcAUdAClELi2ihwhWkVdbLHNBr3mIsuXhkYOT29AJqZWtsITj83MTQnUKqKhyf9eMjbiNM29tdOgqF2ZHDJcNYlm/LZKd/7xQ878+BSMaGfRsWFEi6wYD1JXNNcRJILwbyGj1OnggCZeqtDybzisCNPN76Ppinh6U+WUbsHF8N9+XfLqzrKqWy74+Y1iXrVsqn5bV5OVvpXm8ErhxGjdBlK2uuyOxvvBpDnsbq+mrH/YFlPHLte4ZTQthisa2VymHns96aBum4so=;B9nvMqq0mcHpXm3ZmhB3bQ=="
 ---
 

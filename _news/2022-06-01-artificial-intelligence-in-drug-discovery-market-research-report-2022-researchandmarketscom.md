@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"

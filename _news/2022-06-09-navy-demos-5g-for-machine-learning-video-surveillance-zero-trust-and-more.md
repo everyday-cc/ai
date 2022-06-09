@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-08T20:08:00Z
 originalUrl: "https://www.fedscoop.com/navy-demos-5g-for-machine-learning-video-surveillance-zero-trust-and-more/"
 webUrl: "https://www.fedscoop.com/navy-demos-5g-for-machine-learning-video-surveillance-zero-trust-and-more/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/06/2297512.jpg?w=1200&h=500&crop=1"

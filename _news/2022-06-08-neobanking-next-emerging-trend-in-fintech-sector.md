@@ -49,9 +49,9 @@ related:
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?698979"
-        width: 448
-        height: 249
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?689335"
+        width: 443
+        height: 250
         isCached: true
   - title: "CFPB ends no-action letter with fintech lender Upstart Network"
     excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."

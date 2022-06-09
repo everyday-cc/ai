@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
-excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
-publishedDateTime: 2022-06-08T17:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
-webUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
+excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization ("
+publishedDateTime: 2022-06-08T18:24:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cadence-revolutionizes-system-design-with-optimality-explorer-ai-/2022/06/08/9618228.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cadence-revolutionizes-system-design-with-optimality-explorer-ai-/2022/06/08/9618228.htm"
 type: article
-quality: 19
-heat: 19
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "YbpE+kgGHc7VXPK/oFlmJ0uEfrztxZmTRDZd10sqa1JbA11phmFvReW4f8lXaFOsL1kdb5bFOcJywe4jbBKMOTdrUhyAwkG4NlWiPh7BybKB8VQdbfiZSvRp1Hzld8Lwm6e8g+ebxXsYwZqFwkgmWN4WeD6i0bZ3WvWgkp3cEwWjU8l3cyl80cIKCHI2jy6nPFutNnfyrbI+73F7aULTXYHmTVLuoCkK8LJfzE3HlbM96Wc/IrcIPfEuZOrGUEzZ4lv4aEBqKIco7L0Ofx6Uf2ny1uU+oEcBlHK3Qsi8s590F58MG1lUdBcPDwKyqmKt1Py8gLBc88oynW2nFlyDGjDNkRhh4R3pPlqwghGil7g=;swT0haKwqCGB22IcprJ1wA=="
+secured: "pMtwIAqoMrVT4eirgLkkLST426bFY9GdvYgVvfBwFiBG/GEH5Wo7SWgI3GW2pQkdTPGx+0wCUv5GKLqo5heJJ59RcEgBIw8G6UDvHS+BE5OabkHxgi1J4WVk6x+WxnRosjW16ASmeGYzofKdrcNV7uWUqHgCBoq430HH19MaaPEOHOQLM7G7qOlydMlb4IH7eCQxgnf6u29W38eLGI0l5L8oIBCT2djERXS1meGSMJEW9TCIA9TAtWi/WI1kZAsHd5pWHeOh2k59pItTv0Llax0W25poWKzA0GmmcWAi07l9cn2SUS5+og7JECuV+Vv0ZSPMGq5hQOat5bewivWuawtYLv3+JUQe3yhmMbIcIleoUXPKF2KyTGB7i78sR7J2pFvVYXwhxTzkN2YkzBkuWLwKZUFyczkEexzLyCxYdW3hwW2IlVoYXSx3JJsyzJ+tvPIIJlDORpkqLOoNwYZ7Icx6w/S7sV+DR09vOwB/O61gpmtq8yoX7YSH2f05l+YOdQybo8TSIKaSp6A3Mu200Q==;BZ8yJGRhJvc5yPLhodr0YQ=="
 ---
 
