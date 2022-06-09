@@ -1,73 +1,54 @@
 ---
 category: news
-title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
+title: "Landing AI Adds New Edge Capabilities To Landinglens To Bring Deep Learning To The Factory Floor'"
 excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-publishedDateTime: 2022-06-06T13:19:00Z
-originalUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
-webUrl: "https://www.news10.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+publishedDateTime: 2022-06-06T14:19:00Z
+originalUrl: "https://menafn.com/1104330418/Landing-AI-Adds-New-Edge-Capabilities-To-Landinglens-To-Bring-Deep-Learning-To-The-Factory-Floor"
+webUrl: "https://menafn.com/1104330418/Landing-AI-Adds-New-Edge-Capabilities-To-Landinglens-To-Bring-Deep-Learning-To-The-Factory-Floor"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: WTEN
-  domain: news10.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?964944"
+    width: 294
+    height: 250
+    isCached: true
+
 related:
-  - title: "AI Ethics Alarmed At The Rise In Underhanded Juicing Or Doping Of AI Machine Learning By Trusted Insiders, Including Autonomous Self-Driving Cars"
-    excerpt: "Worries are that juicing or doping of AI Machine Learning is gaining traction, an AI Ethical woe and dangerous, including for the case of AI self-driving cars."
-    publishedDateTime: 2022-06-07T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
+  - title: "Andrew Ng’s Landing AI aims to help manufacturers deploy AI vision systems"
+    excerpt: "AI in computer vision is no stranger to manufacturing Industry 4.0 or to a number of other markets, such as biomedical and consumer goods."
+    publishedDateTime: 2022-06-06T12:37:00Z
+    webUrl: "https://venturebeat.com/2022/06/06/andrew-ngs-landing-ai-aims-to-help-manufacturers-deploy-ai-vision-systems/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//628ab0b5c6b6ddedd0fce126/0x0.jpg?format=jpg&crop=2647,1765,x0,y128,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI Ethics And The Perplexing Societal And Legal Role Of AI Activism, Including In The Case Of Autonomous Self-Driving Cars"
-    excerpt: "AI activism is on the rise, dovetailing into the AI Ethics movement, so it is worthy to take a close look at what AI activism is all about, including in the case of AI-based self-driving cars."
-    publishedDateTime: 2022-06-04T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/04/ai-ethics-and-the-perplexing-societal-and-legal-role-of-ai-activism-including-in-the-case-of-autonomous-self-driving-cars/amp/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Kira Learning Announces $6 Million Seed Round Financing Led by NEA and Dr. Andrew Ng’s AI Fund"
+    excerpt: "Kira Learning today announced $6 million in seed capital led by New Enterprise Associates (NEA) and Dr. Andrew Ng’s AI Fund to build the solution of choice for K-12 schools and districts seeking state-of-the-art,"
+    publishedDateTime: 2022-06-07T17:08:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/kira-learning-announces-6-million-seed-round-financing-led-by-nea-and-dr-andrew-ng/article_e58c08a8-4d1b-51ba-8ce9-221f7a457f4c.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 27
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//6296a226bb1124449cbe2b9c/0x0.jpg?format=jpg&crop=2781,2160,x934,y0,safe&width=1200"
-        width: 1200
-        height: 932
-        isCached: true
-  - title: "AI-Powered Hong Kong Biotech Startup Raises $60 Million From Top VCs Including B Capital, Qiming"
-    excerpt: "Insilico Medicine uses AI to speed up drug research for diseases like cancer. Before starting Insilico Medicine in 2014, Zhavoronkov founded Deep Longevity, another AI-powered healthcare startup in Hong Kong."
-    publishedDateTime: 2022-06-07T09:19:00Z
-    webUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/"
-    ampWebUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//629f13ed0c991cb629d8d39f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 585
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
 
-secured: "EhFRuQFTeY8W2DkLH/TjbX21apAO8wQGTCfXQJH8BkyqZKzPLROFtR5182uErrLeQhdcClrRamJSzrsyvzVmc4MEX2rQ2vZVTjSeqAahSXWrxdxbVj77nrn3NO3NLY2LzK3uStJ1eMgYxvws09eRXOYUteZXKXtFD2QmzToI5nxwHe9zVW6kKaiRQyvO7s7fzZQNsRMuEY9hLXt/IH4KwszLv3bNkBFcUys8O7TDp2gQ6WADukN6w/QsFgMZct1ujBc1RP2QNKw2+hZlMO3GXaqIDZZ0AlAjVoMdBvhzOSV9zf99eYJ8PfOeXd0Q5e4CUU8NFC6aJ6NAn/21dPXQ5tGnBdthk3lEwnAMf7R7dmo=;X9yFwrOzlTed46UN8Noj5w=="
+secured: "ya68Qz8OmjWqaZK+gxDZHrY3BQzMIYypHGu3CyQ+hikVqzgTtG2775jnMLiVDLrCxq7zPNW6PNzQ6YS8PF+O66OeuWrU3Qj9RmIrk27TZVbfxwn4Slas++KgsYSAn7sWj3PbTSD4DS1VYX5A6ln10UujBgV4S0TKBzdd08RhgB1k+wFtCezYtWIs+obMhPTzcCKtoR/wjR+pQ0NTnwp8ItGbdW8tj41aTG+1ePpZrp0sK7M9mCcVwsFS2w+JPbdqkkbQmo3+Nxn2VkGNeg7AW2hJGcN/onhC2sg9jUE1nJRckAvfCXr6nXVHY3QMI2w84kNU2GkHZh9GUcZxruteZYzLXi9iWvZ6gYvd0iN11o0=;RFUQK6P+dIqCAkxNCRWoog=="
 ---
 

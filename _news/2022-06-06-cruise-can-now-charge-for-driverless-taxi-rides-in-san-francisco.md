@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise can now charge for fully driverless rides in San Francisco"
+    excerpt: "GM's Cruise has received the first ever driverless deployment permit issued by the California Public Utilities Commission. That means the company can now charge for the robotaxi rides, ones with ..."
+    publishedDateTime: 2022-06-06T20:59:00Z
+    webUrl: "https://www.engadget.com/cruise-charge-fully-driverless-rides-san-francisco-092000547.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/61147cf0-e30f-11ec-ad7d-66eb367c1a24"
+        width: 1126
+        height: 675
+        isCached: true
   - title: "Pilot project for driverless buses awaiting European funding to begin"
     excerpt: "In involved the use of driverless buses on what will initially be four ... with the information then feeding through the device’s in-built artificial intelligence to control it. Some 300 of these vehicles are in operation globally, with Singapore ..."
     publishedDateTime: 2022-06-08T07:55:00Z
@@ -48,6 +62,20 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 30
+  - title: "GM secures permit to operate self-driving cars in San Francisco"
+    excerpt: "General Motors subsidiary Cruise became the first company to secure a permit to charge passengers for self-driving car rides in San Francisco"
+    publishedDateTime: 2022-06-05T15:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272576321/gm-secures-permit-to-operate-self-driving-cars-in-san-francisco"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1654318469787.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "If+M+VOTRYCMIE85NuCwKLsgnn0aas34raL6h2MLBtkcq9aBxMylZCA+Cm7qVgdX7kQ9bOUrhXoX8AhoK0MGFR8H353ZvpuiAFTWiPF62UlH4fFhgmWINrS/AQzJAJ1mtMO66H1AFZ0MZspxGuaJVx6uWYNQIdijRu0fFKGqrgy5BsFfvdtii+sBk6so6KSdOGZreA/e6bmeDwdvn3KfpcWeDV/3pe1zo0/uea7Nx3x3eDYre5ri5vzKPnC4EMY6DuH3CzoY20x6Jksdx6BPmHJoxBcsjID+uJO5XalSss39kFBOyME2xaluIqCCjd8uQhcWj8Tmg3cm9kUTR+IWv/OY/AZHrV4gLwUMZLvT+0M=;KyRQNSIf5FjSgeG2YL2pnA=="
 ---

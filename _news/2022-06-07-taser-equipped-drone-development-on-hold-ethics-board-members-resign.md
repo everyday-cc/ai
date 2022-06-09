@@ -364,6 +364,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Taser-maker Halts Project To Arm Drones With Stun Guns As Ethics Panel Quits"
+    excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
+    publishedDateTime: 2022-06-06T02:54:00Z
+    webUrl: "https://www.ibtimes.com/taser-maker-halts-project-arm-drones-stun-guns-ethics-panel-quits-3531602"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 36
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/05/the-headquarters-for-axon-enterprise-inc-formerly-taser.jpg"
+        width: 1200
+        height: 767
+        isCached: true
   - title: "Axon abruptly halts plans to weaponize drones after ethics board resignations"
     excerpt: "Just days after CEO Rick Smith had said Scottsdale-based Axon Enterprise Inc. would ramp up a program that would weaponize drones armed with its nonlethal Taser products, the company has abruptly dropped those plans after members of Axon's artificial intelligence ethics board resigned in protest."
     publishedDateTime: 2022-06-07T20:38:00Z

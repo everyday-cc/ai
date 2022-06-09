@@ -24,35 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Astronauts face mental and emotional challenges for deep space travel. Scientists are working on solutions"
-    excerpt: "Astronauts have been venturing into space for 61 years to unlock the human potential for exploration. But the floating freedom offered by a lack of gravity also presents a number of limits when it comes to the human body and mind."
-    publishedDateTime: 2022-06-04T10:00:00Z
-    webUrl: "https://www.cnn.com/2022/06/04/world/longterm-spaceflight-cognition-emotions-life-itself-scn/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/06/04/world/longterm-spaceflight-cognition-emotions-life-itself-scn/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/04/world/longterm-spaceflight-cognition-emotions-life-itself-scn/index.html"
+  - title: "Whale images used for artificial intelligence research"
+    excerpt: "A new dataset featuring hundreds of satellite images of whales has been published to support the development of artificial intelligence systems which will aid crucial conservation work."
+    publishedDateTime: 2022-06-08T16:39:00Z
+    webUrl: "https://phys.org/news/2022-06-whale-images-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2022-06-whale-images-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-whale-images-artificial-intelligence.amp"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 56
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220121152649-astronaut-scott-kelly-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/whale-images-used-for.jpg"
+        width: 2362
+        height: 1393
         isCached: true
-  - title: "Astronauts face mental and emotional challenges for deep space travel. Scientists are working on solutions"
-    excerpt: "Astronauts have been venturing into space for 61 years to unlock the human potential for exploration. But the floating freedom offered by a lack of gravity also presents a number of limits when it comes to the human body and mind."
-    publishedDateTime: 2022-06-04T17:32:00Z
-    webUrl: "https://www.eastidahonews.com/2022/06/astronauts-face-mental-and-emotional-challenges-for-deep-space-travel-scientists-are-working-on-solutions/"
+  - title: "Researchers use Overcooked to train AI to be a better gaming buddy"
+    excerpt: "These new, more diverse approaches to training AI let it adapt to different play-styles, to make it a better team mate. DeepMind researchers have been using the chaotic cooking game Overcooked (opens in new tab) to teach AI to better collaborate with humans."
+    publishedDateTime: 2022-06-07T13:40:00Z
+    webUrl: "https://www.pcgamer.com/researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy/"
     type: article
     provider:
-      name: East Idaho News
-      domain: eastidahonews.com
-    quality: 6
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 41
     images:
-      - url: "https://s3-assets.eastidahonews.com/wp-content/uploads/2022/06/04113115/astronaut-pic.jpg"
-        width: 900
-        height: 599
+      - url: "https://cdn.mos.cms.futurecdn.net/tUcevsbtcUnZmavWQqLFrB-1200-80.jpg"
+        width: 1200
+        height: 710
+        isCached: true
+  - title: "IIT Madras to offer AI research fellowship exclusively for women"
+    excerpt: "IIT Madras Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI) has started applications for the Post Baccalaureate Fellowship. “The Post Baccalaureate fellows are expected to undertake independent research under the mentorship of a Faculty member at RBCDSAI."
+    publishedDateTime: 2022-06-06T06:31:00Z
+    webUrl: "https://analyticsindiamag.com/iit-madras-to-offer-ai-research-fellowship-exclusively-for-women/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-23-1300x731.png"
+        width: 1300
+        height: 731
         isCached: true
 
 secured: "SDifuzVOn6lqYYU9CHJHCzrpGYlMMJwd+56XgiZwESt80H2bUriTGK202g+spJQNxY8s6HVl0YddgddITQkznE6p/aMB0OkJmlF+o/lDFfWvHdJSx7Vx9HxFDJCsT5C6KGAwYCme5dwnkzmNeNY0TlmuC1IBekLQKKuSpC1DuTi+aDoTq/athvf2bTnG3n9k/H0DYUDLdppNreCgz2CHDwWKIJmAGSsfzG9qm5GXZK/Ff2iuDfTtTDwYUHTHhAoLaRqyLcRtC59yNwKevXbrArkk++40hTcrMRLVwxXUVucmKq7hgTZJjBylfweWzx3MJRHIKz/l4qsrOmCW/cEpufEr1F4w/e6Vq0jE7AQ6LFM=;p74xe6TxE0Yy97klRflZaA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/taser-drone-axon-ai-ethics-board/amp"
 type: article
 quality: 104
-heat: 364
+heat: 374
 published: true
 
 provider:
@@ -359,6 +359,20 @@ related:
       - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2022/06/06094749/AP22155042125461-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Taser-maker Halts Project To Arm Drones With Stun Guns As Ethics Panel Quits"
+    excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
+    publishedDateTime: 2022-06-06T02:54:00Z
+    webUrl: "https://www.ibtimes.com/taser-maker-halts-project-arm-drones-stun-guns-ethics-panel-quits-3531602"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 36
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/05/the-headquarters-for-axon-enterprise-inc-formerly-taser.jpg"
+        width: 1200
+        height: 767
         isCached: true
   - title: "Taser-equipped drone development on hold, ethics board members resign"
     excerpt: "Axon, formerly known as TASER International, announced and halted plans for its development of a Taser drone within only a week."

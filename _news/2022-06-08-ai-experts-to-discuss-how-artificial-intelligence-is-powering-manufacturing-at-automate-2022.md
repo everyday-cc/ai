@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Experts Discuss at Automate 2022 How Artificial Intelligence Powers Manufacturing"
+    excerpt: "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing."
+    publishedDateTime: 2022-06-09T00:56:00Z
+    webUrl: "https://www.automation.com/en-us/articles/june-2022/ai-experts-artificial-intelligence-manufacturing"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 47
+    images:
+      - url: "https://www.automation.com/getmedia/96489ca4-8903-4bbe-985f-dec4f168ff93/AI-news-June-8-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022"
     excerpt: "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing."
     publishedDateTime: 2022-06-08T17:02:00Z

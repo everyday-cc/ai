@@ -41,20 +41,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "DOD faces workforce challenges for AI test and evaluation"
-    excerpt: "The Pentagon needs to test and evaluate new artificial intelligence-enabled systems to make sure they’re up to snuff before they end up in the hands of troops. However, the department will be challenged to find more personnel who are qualified to do this type of work,"
-    publishedDateTime: 2022-06-07T21:02:00Z
-    webUrl: "https://www.fedscoop.com/dod-faces-workforce-challenges-for-ai-test-and-evaluation/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 37
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/06/AI-Getty.jpg?w=1200&h=500&crop=1"
-        width: 1200
-        height: 500
-        isCached: true
 
 secured: "NFpi7HZT+inaZd/zGSI5KPD+scKceMhfOPX4OinoI000DZ3jCU9b+pliCR14CcZuGzBQWH7tl8zfG0taJod9//SRDnTklewLxK7slIW7bM//y/+WBF7pBPzR0Qsc9OhtNnZIhckTaxkU0QYDAc8uSgbfYuXtCEGNxd2kSwKxNaTA6y7dbAf2qz9mWz2fM5GK/kH7hTUXaPidMoOsvwHUuJACe0aQrgHPT9vDsrp66x08FenSppxUEkqZvIZQxStIlru2celtLrNkh2olcgQTsBb3pC50vQCr+xUqZ4auh5sWPHiUTLahaspGM7H6h1iLGCjpz2nboFtHLdz8CaTFRPX0I8349yf4upuqHuK805abgAezwN0Oy4ckqVRGdtJeqbJrI2N05OcUxXBBJzgUTi+Rwuy5kcw9GuJQqcpuNQZvjoOjpip4Yl0RuSW6uAnIyBEflGyb/NOesL4ko9octrnOsU1zKfm8uKcKU7FdUVND5EE2hPIQCqizN0cMBKdFNOXAu4reELTPx3PZL0Ry6w==;Y0tu58XstZtisLr6oFrguQ=="
 ---

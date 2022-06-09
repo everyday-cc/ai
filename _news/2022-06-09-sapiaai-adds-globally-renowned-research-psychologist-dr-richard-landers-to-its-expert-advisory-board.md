@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Sapia.ai Adds Globally Renowned Research Psychologist Dr Richard Landers to its Expert Advisory Board"
-excerpt: "MELBOURNE, Autralia, June 8, 2022 /PRNewswire/ -- Sapia.ai, creator of the world's first chat-based Smart Interviewer, today announced that internationally renowned research psychologist Dr Richard Landers is joining its Expert Advisory Board. Dr Landers ..."
-publishedDateTime: 2022-06-08T23:27:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sapia-ai-adds-globally-renowned-research-psychologist-dr-richard-landers-to-its-expert-advisory-board/article_7fcbc678-7f65-53c9-b13f-d967f5127be5.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sapia-ai-adds-globally-renowned-research-psychologist-dr-richard-landers-to-its-expert-advisory-board/article_7fcbc678-7f65-53c9-b13f-d967f5127be5.html"
+excerpt: "Sapia.ai, creator of the world's first chat-based Smart Interviewer, today announced that internationally renowned research psychologist Dr Richard Landers is"
+publishedDateTime: 2022-06-09T01:00:00Z
+originalUrl: "https://www.asiaone.com/business/sapiaai-adds-globally-renowned-research-psychologist-dr-richard-landers-its-expert"
+webUrl: "https://www.asiaone.com/business/sapiaai-adds-globally-renowned-research-psychologist-dr-richard-landers-its-expert"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338"
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/pr-newswire_500_4_552.jpg?h=7de12b8a&itok=xRCSXiUV"
     width: 600
-    height: 338
+    height: 316
     isCached: true
 
-secured: "zLj5cGAkHGvAbvBhWaQvjJ80B5eUZ69YqzVHnaEITrNtUfGWlY64CmBlmxzGGOWkbKE775UwXnf5TH05H5MZp4VOSI/mqrWXoF/tHpuEZqr3Yc/HUxoGWIpw+XJUKJ5YmAy+ASE5gFDehDeIyAl81POH0OXuk4wFlbTX5Ga45Cjbf3S767IQotLiBQGWzZBuhAUjGlZFAg8ZtNFMKHA8iiFRrNqWO1UdbXGqPJ3FQaRKrfH65/TXTAgn5O/TSlid7oX3DlFzYqJ0ZnRmgug102494zsNRiXqigSejmEIdQrOg32lha/iFrQ2ZdQSQ1X6ZK1PvHZcsx64pX/h8mhy28pIe8j2SU6dAT+DTp5lliU=;YSbqEkghQJBZSjxTT5HOMg=="
+secured: "C/gjCt/ftHDbmMS1oFuheYIM131bgQ0SjWxLqQAH/uTlp3j1CN/LL03yW25Ji2sNKeVeDUHCNrcLKSkis4mavHGWv1TNHMDsGOKj9PFWs9Qz1HyT7yIsXs0F0B2y4QmbNZPHVgDnuhq4YFDv4ZLTg7nqtFPdk00zKosmgSvTtYetvja9BH/UF1j49889kbVuNP2bNdsn8CLAFkSvShME0oN/8Kwt1tFvIAHSZ+EuRp8qf6R7FqTinvI0Tl5gz2i8USmA20Pg+bM9IH/B/Elr9EpnZ6wi9Ty5V4LmCuUzcw8c/2B7X6t6iZfGt8Jy9kd8kqPCDui7slTmmJnqya7cjIYuFtZlOjRsWKJQa8+QIAU=;HI/x/rLv02wsHIYGn5Mz9w=="
 ---
 

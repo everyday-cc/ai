@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?427118"
-    width: 443
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?964944"
+    width: 294
     height: 250
     isCached: true
 
@@ -95,6 +95,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "ktE9JrRxA8NCsKGnHcm++cOuAMbK9Nl2W7UAj7kM7lKNNzIzzYIqI6f6YSghPpCoKSPwpIZIzRdF46Bz/IqZxSndWAnM71hKV/SgEew7X0icXxx+ypXpfohyixA022ZZTdBIHn6vrvRPQq4xmMWoplKlrRyffSIzrASVZ+LjvPiiXzi8FMJFho8Kph2Z3U892VwGl/hLfio8vWSY9RTC2WVWXBA0PL2rPW0Z/qsMBQGZGYbVoku5qGkPXK2mSQNK95GZsepL2Qxy2ouYnsly4sXW1R6krnVoitdanZnbn79zXbpoUETgMlVAg8VwtDdduvuV9avXKYDZDCU3a5H2TIFyEjW067bKHDx7yN7xeL0=;mzjChLshPrCNPRNiS6AAkA=="
+secured: "742fMtuzCWacAeKYakGV6IjhVHAlrrI673UiPScKcG52dkNDqgBr3TtwGBTDUCSgayNa2bCMD19QiIALhckCKbDuiAjfKlzIyF8QoTGz261Xi4VO15mWvJaZbxdQSz2gm1TSM4nL47nFp6UnYIwuAHnB30eFi/Z+Q/84s6lspR8yvIkDK0sLU1l6ETYAScIXwGDdnsPPcswfYenVliy3WQkMp7dfh2SMqDhelfkL6APBsqGeIgLaq2UqLiVfGUq2ghTG29SBGFz/xj7n+9ouqCcuoHZvdZhQdDl2Bs74YOE7WcR7GnpuL8gVLyoqT/EbgC1be+WvuO3/jzESd15DohJANLnKkx8eIZDo1uR6k5o=;VjMgNfQzu8JtKY7TyzMehQ=="
 ---
 

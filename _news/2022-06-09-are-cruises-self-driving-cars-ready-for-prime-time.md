@@ -7,7 +7,7 @@ originalUrl: "https://www.sfexaminer.com/news/are-cruises-self-driving-cars-read
 webUrl: "https://www.sfexaminer.com/news/are-cruises-self-driving-cars-ready-for-prime-time/article_25612cd4-e6b7-11ec-8884-77e9d39273be.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 500
     isCached: true
 
-related:
-  - title: "GM secures permit to operate self-driving cars in San Francisco"
-    excerpt: "General Motors subsidiary Cruise became the first company to secure a permit to charge passengers for self-driving car rides in San Francisco"
-    publishedDateTime: 2022-06-05T15:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272576321/gm-secures-permit-to-operate-self-driving-cars-in-san-francisco"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1654318469787.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
-secured: "k8Y5UV0V/9wIVTNtWPVOQqkOn52ORbxVnlAv2Ei5gdfFSIHzzCOSDpVcSmWClCz0OCc4rJe7Tr8XGdg6CNuWnS5cRR/8phvHXzttdEekBIEQSUyVZLSMFJ7qz+Yl/IVrvv18a76Er5CWJ8Nktk3CtFZZbkRB3uCni/TakIGaSR90U7Wk/Gwm9K/dfJrXrgEqfN4aO03DQDsG7UbpWJxStZNBLx3zBsQEPa6pwaDst4+fzqnI31h9wTHelE6of5k+re6hpbwX6dBgGDkFMWQLsSrKMwW+731XFaFIttkvd4cdwwbOmOyUTG7CY4AttO01NUDOFCd9WVUyfCWhGYl9VUFzTqAskzT9y+YZ3cA76OY=;usUAH1S5ObjtSIBt3esJ2g=="
+secured: "3aQzu0M/QWV1llWoXo0bbd9/JqLb8jZmjksWQlAfU+T863JH0931hFaA7LuDn4hyWB9NpZDoxYaGSCbO9WKu9tt1leqSxQz6fubh1Wuvaazh0UgnxZcXuXXxOj1mHmHsPCYTLUncHTZE4unPyN10UxgSJFIWVDgiHimm1iGWFgNmKwmEJJg+5RrQrY393ttThktTwoMXTRNAGjLf/FJBVM6lmMEV9OLpA1lWXFW8IoO0j24f3k3oJSTXOKeI0C/ycRGm3s1rbwQyE6E1I1S34HjzR8O6KU2O/lYnvdAm5YIbOYbYFqawk/JOlepIZL9HQ2+ltDwKc/kRLRTrRn0VQBldjyJGSXWK87OyF7/UKUVOXhuX6KA/7klTzfuKOsXcZShtQ4mG4I7EE8vUBDNHf5gQZJjR+9s31XyfESiScaokmC23FHdyQwqt3MoVWBSx7uJmQzckFQP4tcI4wYsNx1c3dgJvZ1TCphoyXLMPb7JCz7pqfiHJA2IibCZ9bdv1Bx3YaebKJ8MOqOyP77jRJw==;FGwUoY53je50fMpmSv44fg=="
 ---
 

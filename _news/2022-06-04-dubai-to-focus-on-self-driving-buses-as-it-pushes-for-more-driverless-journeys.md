@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Cruise can now charge for fully driverless rides in San Francisco"
+    excerpt: "GM's Cruise has received the first ever driverless deployment permit issued by the California Public Utilities Commission. That means the company can now charge for the robotaxi rides, ones with ..."
+    publishedDateTime: 2022-06-06T20:59:00Z
+    webUrl: "https://www.engadget.com/cruise-charge-fully-driverless-rides-san-francisco-092000547.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/61147cf0-e30f-11ec-ad7d-66eb367c1a24"
+        width: 1126
+        height: 675
+        isCached: true
   - title: "Pilot project for driverless buses awaiting European funding to begin"
     excerpt: "In involved the use of driverless buses on what will initially be four ... with the information then feeding through the device’s in-built artificial intelligence to control it. Some 300 of these vehicles are in operation globally, with Singapore ..."
     publishedDateTime: 2022-06-08T07:55:00Z
@@ -46,6 +60,20 @@ related:
       - url: "https://images.hgmsites.net/hug/cruise-self-driving-taxi-in-san-francisco_100843940_h.jpg"
         width: 1920
         height: 1089
+        isCached: true
+  - title: "GM secures permit to operate self-driving cars in San Francisco"
+    excerpt: "General Motors subsidiary Cruise became the first company to secure a permit to charge passengers for self-driving car rides in San Francisco"
+    publishedDateTime: 2022-06-05T15:44:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272576321/gm-secures-permit-to-operate-self-driving-cars-in-san-francisco"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1654318469787.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "o8kNCZ7BkHXgoogikRG1IIB4rvFcOYXlkGrmn4lnYoBFhSXQxvbq7t1uLXmtyjIIVayGr7wIgADfXauBIT86NWUj46BIqu1gUWN1q7NaTp40bFVWB92EaKIvwimBbaOMQ/F2GOD8Vi55lZS4xFZx0pNY/rLYPaS5wJD9NJnrpnSqjQldc8rnlU+AbFfF8z/HdTnMtjjeLdb6umXDo9DxXIXRJISKFopiKrbw++OWRoondfoYK4kcqejPciNIUkFcecybUpqhqu6NBNuEF0mNbt777wUGXNgTSaKgZqXrwQvGZzTx351EWWGVgJgNF2ugdAs4UzFI12a1QPEzqokuaEj+wAV7SxaEvpF0KaQdWYvPNMWeWtyoEdKUa4apfmUj6f/9/J72Fnnwd+6mCIypm4bIrZ23tOlwfKM6aCBhOlj9BPQra395hwDKAKYUsnsWx+cyoFvyBxSuW+ZfVguI5/LRbUHVS+yJ7dOcuJo6sZgC66SveXaGrcThIW3HafGMZywuvSq11FSjr3Z7HYr+rA==;XFOBN2FKKqbIHdRyD0Jn2Q=="
