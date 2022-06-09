@@ -67,15 +67,6 @@ related:
         width: 1920
         height: 1089
         isCached: true
-  - title: "Dubai to focus on self-driving buses as it pushes for more driverless journeys"
-    excerpt: "The Dubai government is keen on submissions for self-driving buses for its upcoming world challenge competition Dubai to focus on self-driving buses as it pushes for more driverless journeys Autonomous vehicles,"
-    publishedDateTime: 2022-06-04T09:31:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/dubai-to-focus-on-self-driving-buses-as-it-pushes-for-more-driverless-journeys"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 30
 
 secured: "sAxfSpa6v1woVr+kXY3FlnRKt8FIEeMtYn2/7DmSODIENQZWpxoWkQhc5prIhoBR0jeq0oHX3W/LP3xvdxhjTh42+22hUwQ0tDkqxiEuzqFI/PbXnlWyvVjLrw3YXmugOJRCCW57MpG3PJDpsbnf9FZPKjTtFlWNZ/+ZlmgpCJZFNTjw/bjTX737uEI0Xif4cnZdrwYbSonrzk/L8ipEMTHwGddFVwArdbDUXq0PPF56MaKdTtB3gZPADvcjwPfs3j1nAQCffLmQL0taaRbFFsbHc1+SL5GHH8IT4HJ+OJwuz9ma1ZH6i/nqOJaV9HAFT5x/6krPxvbTkiaubrbCj5SwnBqRD2Nzbz9u+Lx9w0Z2yzBeGl9kcPX/Mss7JpUhr+oJqGRJ7QD9U19UH3vRJvZm2CnjIrXbm5iAm4R0foMPD5HVxA+HC8CPr1Xz/8iZPuSaFE6hoRrq02pKrV5Wa/T5c6YqouqGhFgs8IfS1XFunMalceqmFRVHgLwnEZfNuYoumjP5nyJXM2tVcnxH7Q==;JfUsKetkhcTE6D00AsPhVA=="
 ---

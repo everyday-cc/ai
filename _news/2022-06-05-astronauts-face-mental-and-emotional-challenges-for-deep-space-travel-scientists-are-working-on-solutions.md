@@ -7,7 +7,7 @@ originalUrl: "https://www.eastidahonews.com/2022/06/astronauts-face-mental-and-e
 webUrl: "https://www.eastidahonews.com/2022/06/astronauts-face-mental-and-emotional-challenges-for-deep-space-travel-scientists-are-working-on-solutions/"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 900
     height: 599
     isCached: true
-
-related:
-  - title: "Astronauts face mental and emotional challenges for deep space travel. Scientists are working on solutions"
-    excerpt: "Astronauts have been venturing into space for 61 years to unlock the human potential for exploration. But the floating freedom offered by a lack of gravity also presents a number of limits when it comes to the human body and mind."
-    publishedDateTime: 2022-06-04T10:00:00Z
-    webUrl: "https://www.cnn.com/2022/06/04/world/longterm-spaceflight-cognition-emotions-life-itself-scn/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/06/04/world/longterm-spaceflight-cognition-emotions-life-itself-scn/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/04/world/longterm-spaceflight-cognition-emotions-life-itself-scn/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 56
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220121152649-astronaut-scott-kelly-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "NFpi7HZT+inaZd/zGSI5KPD+scKceMhfOPX4OinoI000DZ3jCU9b+pliCR14CcZuGzBQWH7tl8zfG0taJod9//SRDnTklewLxK7slIW7bM//y/+WBF7pBPzR0Qsc9OhtNnZIhckTaxkU0QYDAc8uSgbfYuXtCEGNxd2kSwKxNaTA6y7dbAf2qz9mWz2fM5GK/kH7hTUXaPidMoOsvwHUuJACe0aQrgHPT9vDsrp66x08FenSppxUEkqZvIZQxStIlru2celtLrNkh2olcgQTsBb3pC50vQCr+xUqZ4auh5sWPHiUTLahaspGM7H6h1iLGCjpz2nboFtHLdz8CaTFRPX0I8349yf4upuqHuK805abgAezwN0Oy4ckqVRGdtJeqbJrI2N05OcUxXBBJzgUTi+Rwuy5kcw9GuJQqcpuNQZvjoOjpip4Yl0RuSW6uAnIyBEflGyb/NOesL4ko9octrnOsU1zKfm8uKcKU7FdUVND5EE2hPIQCqizN0cMBKdFNOXAu4reELTPx3PZL0Ry6w==;Y0tu58XstZtisLr6oFrguQ=="
 ---

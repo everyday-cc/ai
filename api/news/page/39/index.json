@@ -2,6 +2,101 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-05-04-petuum-unveils-enterprise-mlops-platform.md",
+      "title": "Petuum Unveils Enterprise MLOps Platform",
+      "excerpt": "Tong Wen is an Architect and Director of Engineering at Petuum. Tong joined Petuum from Microsoft where he was a member of the founding team of Azure Machine Learning. Tong has 10+ years of experience in building innovative and high-impact AI/ML and HPC ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-046e68e1733bbf3bf9c71c0cc7fd73c6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-04-when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi.md",
+      "title": "WHEN AI MEETS AR: SOLOMON 3D LAUNCHES REVOLUTIONARY VISION SOLUTION \"META-aivi\"",
+      "excerpt": "SOLOMON Technology Corporation is revolutionizing the industrial landscape by launching META-aivi — an industrial solution that combines AI-powered object recognition overlays with augmented ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi-1031420590",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/when-ai-meets-ar-solomon-3d-launches-revolutionary-vision-solution-meta-aivi-1031420590",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1799549/META_aivi_empowers_frontline_workers_wearable_AI_solutions.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-deepminds-flamingo-visual-language-model-demonstrates-sota-few-shot-multimodal-learning-capabilities.md",
       "title": "DeepMind’s Flamingo Visual Language Model Demonstrates SOTA Few-Shot Multimodal Learning Capabilities",
       "excerpt": "In the new paper Flamingo: a Visual Language Model for Few-Shot Learning, a DeepMind research team presents Flamingo, a novel family of visual language models (VLMs) that can handle multimodal tasks such as captioning, visual dialogue, classification and ...",
@@ -1072,83 +1167,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race.md",
-      "title": "Jaguar Land Rover, Nvidia ally in vehicle software arms race",
-      "excerpt": "DETROIT (Reuters) - Luxury automaker Jaguar Land Rover and Silicon Valley artificial intelligence company Nvidia ... a previous deal with Alphabet Inc's Waymo unit to deploy autonomous driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/02/16/jaguar-land-rover-nvidia-ally-in-vehicle-software-arms-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/02/16/1483827.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-rekor-announces-the-availability-of-their-cloud-transportation-management-platform-within-the-amazon-web-services-apn.md",
-      "title": "Rekor announces the availability of their cloud transportation management platform within the Amazon Web Services APN",
-      "excerpt": "The Platform has been certified as ‘Well-Architected’ to function in a cloud-based environment. APN is a global community of partners who leverage AWS to build solutions and services for customers. Additionally, Rekor has joined the AWS Public Sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/artificial-intelligence-ai/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/rekor-announces-availability-cloud-transportation-management-co-1537871022-ga-co-1562824245-ga.1651661388.html",
-      "publishedDateTime": "2022-05-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

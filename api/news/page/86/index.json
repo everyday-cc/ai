@@ -2,6 +2,101 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2022-03-26-sandia-researcher-starts-muslim-community-robotics-team.md",
+      "title": "Sandia Researcher Starts Muslim Community Robotics Team",
+      "excerpt": "A research scientist at Sandia National Laboratories, who started the nonprofit Itkan Institute of Technology, has formed four student-led robotics teams in North Texas in hopes of encouraging interest in STEM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
+      "originalUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/b52f988/2147483647/strip/true/crop/6000x3129+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F2e%2Ff5%2F10034c7d449ca15c150596324164%2Fmuslim-robotics.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
+      "publishedDateTime": "2022-03-25T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-26-aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie.md",
+      "title": "AWS is hungry for a bigger slice of the video game pie",
+      "excerpt": "and artificial intelligence and machine learning.” AWS already boasts a long list of high-profile customers from the video game sector, including the makers of Fortnite, League of Legends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie",
+      "originalUrl": "https://www.techradar.com/news/aws-is-hungry-for-a-bigger-slice-of-the-video-game-pie",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/V8LKc9rp2MMJqfBD3jNBpN-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-25T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-ai-weekly-nvidias-commitment-to-voice-ai-and-a-farewell.md",
       "title": "AI Weekly: Nvidia’s commitment to voice AI — and a farewell",
       "excerpt": "GTC conference, Nvidia redoubled its commitment to voice AI. In other news, reporter Kyle Wiggers announces he's leaving VentureBeat.",
@@ -1043,111 +1138,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-natural-language-processing-market-performance-by-top-companies-revenue-global-demand-and-sales-forecast.md",
-      "title": "Natural Language Processing Market Performance by Top Companies, Revenue, Global Demand and Sales Forecast",
-      "excerpt": "Mar 25, 2022 (The Expresswire) -- Global “Natural Language Processing Market Statistics” report explores comprehensive and insightful Information about various key factors like Regional Growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-performance-by-top-companies-revenue-global-demand-and-sales-forecast-2022-03-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-performance-by-top-companies-revenue-global-demand-and-sales-forecast-2022-03-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-artificial-intelligence-ai-in-medical-diagnostics-market-anticipated-to-attain-a-cagr-of-45-during-2022-2030.md",
-      "title": "Artificial Intelligence (AI) in Medical Diagnostics Market anticipated to attain a CAGR of ~45% during 2022 - 2030",
-      "excerpt": "Furthermore, rising adoption of artificial intelligence and machine learning is projected to boost the market growth. Moreover, growing demand for early diagnosis of diseases, backed by increasing technological advancement in the healthcare sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-anticipated-to-attain-a-cagr-of-45-during-2022---2030-2022-03-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-diagnostics-market-anticipated-to-attain-a-cagr-of-45-during-2022---2030-2022-03-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-24T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

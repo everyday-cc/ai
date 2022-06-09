@@ -2,49 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2022-03-26-sandia-researcher-starts-muslim-community-robotics-team.md",
-      "title": "Sandia Researcher Starts Muslim Community Robotics Team",
-      "excerpt": "A research scientist at Sandia National Laboratories, who started the nonprofit Itkan Institute of Technology, has formed four student-led robotics teams in North Texas in hopes of encouraging interest in STEM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
-      "originalUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/b52f988/2147483647/strip/true/crop/6000x3129+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F2e%2Ff5%2F10034c7d449ca15c150596324164%2Fmuslim-robotics.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/sandia-researcher-starts-muslim-community-robotics-team?_amp=true",
-      "publishedDateTime": "2022-03-25T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-03-25-chinas-latest-brainwave-controlling-space-robots-using-mind-power.md",
       "title": "China’s latest brainwave? Controlling space robots using mind power",
       "excerpt": "A research team with China’s manned space programme say they have developed technology that will allow astronauts to control robotic equipment ... and Chen Dong used a mind-reading device ...",
@@ -1291,6 +1248,40 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-19-what-happened-to-delivery-robots-in-san-francisco.md",
+      "title": "What happened to delivery robots in San Francisco?",
+      "excerpt": "After a number of companies launched delivery robots in 2017, the city has cracked down on the emerging tech, making it difficult to operate on city streets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2022/03/18/0318-listextra-robotics.html",
+      "originalUrl": "https://www.bizjournals.com/sanfrancisco/news/2022/03/18/0318-listextra-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
         "images": null,
         "publishers": null,
         "authors": null

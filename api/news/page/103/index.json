@@ -2,6 +2,92 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-03-14-photo-or-the-real-thing-mice-can-inherently-recall-and-tell-them-apart.md",
+      "title": "Photo or the real thing? Mice can inherently recall and tell them apart",
+      "excerpt": "A picture is worth a thousand words, especially when it triggers memories of the pictured object like a vacation photo. 2D visual stimuli, such as pictures seen in print media, television or online, is often how humans acquire knowledge about real-world items.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/photo-or-the-real-thin.jpg",
+          "width": 1911,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-03-photo-real-mice-inherently-recall.amp",
+      "publishedDateTime": "2022-03-14T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-14-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Purchased by Miracle Mile Advisors LLC",
+      "excerpt": "Miracle Mile Advisors LLC raised its holdings in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 30.3% in the 4th quarter, Holdings Channel reports. The institutional investor owned 28,",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/03/14/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc/",
+      "originalUrl": "https://www.etfdailynews.com/2022/03/14/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ",
+          "width": 650,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/03/14/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/03/14/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-purchased-by-miracle-mile-advisors-llc/amp/",
+      "publishedDateTime": "2022-03-14T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-14-pharma-leaders-should-step-up-on-artificial-intelligence-concertai.md",
       "title": "Pharma leaders should step up on artificial intelligence: ConcertAI",
       "excerpt": "An executive from the AI specialist discusses how recent advances have provided opportunities for industry professionals to champion new ways of thinking.",
@@ -973,102 +1059,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-deepminds-new-ai-helps-restore-damaged-ancient-texts.md",
-      "title": "DeepMind’s New AI Helps Restore Damaged Ancient Texts",
-      "excerpt": "Many inscriptions are so decrepit that large chunks are illegible. The company’s Ithaca tool assists historians in filling in the blanks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/deepmind-ai-restore-ancient-texts/",
-      "originalUrl": "https://www.wired.com/story/deepmind-ai-restore-ancient-texts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/622be42f808c6d921bbb64a1/191:100/w_1280,c_limit/Ancient-Greek-Inscription-AI-Business-178116372.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-13-edge-artificial-intelligence-ai-software-market-2022-product-introduction-recent-developments-competitive-and-dynamic-landscape-by-2028.md",
-      "title": "Edge Artificial Intelligence (AI) Software Market 2022 Product Introduction, Recent Developments, Competitive And Dynamic Landscape By 2028",
-      "excerpt": "Increasing art of AI applications and rapid introduction of 5G network are key factors driving revenue growth of the global edge Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-2022-product-introduction-recent-developments-competitive-and-dynamic-landscape-by-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/edge-artificial-intelligence-ai-software-market-2022-product-introduction-recent-developments-competitive-and-dynamic-landscape-by-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/03/94efca678a384a05dff45c2df3eda56532835012-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-12T21:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

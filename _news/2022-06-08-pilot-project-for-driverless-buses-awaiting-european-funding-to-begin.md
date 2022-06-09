@@ -53,15 +53,6 @@ related:
         width: 1920
         height: 1089
         isCached: true
-  - title: "Dubai to focus on self-driving buses as it pushes for more driverless journeys"
-    excerpt: "The Dubai government is keen on submissions for self-driving buses for its upcoming world challenge competition Dubai to focus on self-driving buses as it pushes for more driverless journeys Autonomous vehicles,"
-    publishedDateTime: 2022-06-04T09:31:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/dubai-to-focus-on-self-driving-buses-as-it-pushes-for-more-driverless-journeys"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 30
   - title: "GM secures permit to operate self-driving cars in San Francisco"
     excerpt: "General Motors subsidiary Cruise became the first company to secure a permit to charge passengers for self-driving car rides in San Francisco"
     publishedDateTime: 2022-06-05T15:44:00Z

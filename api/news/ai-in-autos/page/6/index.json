@@ -2,6 +2,84 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-16-a-robot-to-top-up-your-tesla.md",
+      "title": "A Robot To Top Up Your Tesla",
+      "excerpt": "Everything is controlled ... While robot won’t be winning any interior design contests, it does the job well, and adds a bit of convenience and peace of mind.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
+      "originalUrl": "https://hackaday.com/2021/07/02/a-robot-to-top-up-your-tesla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/06/2021-06-21-3.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-04-16-self-driving-car-company-establishing-test-facility-in-sc.md",
+      "title": "Self-driving car company establishing test facility in SC",
+      "excerpt": "The South Carolina governor’s office says a global self-driving vehicle company is establishing a new test facility in the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestate.com/news/business/national-business/article260385097.html",
+      "originalUrl": "https://www.thestate.com/news/business/national-business/article260385097.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.thestate.com/news/business/national-business/article260385097.html",
+      "cdnAmpWebUrl": "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/business/national-business/article260385097.html",
+      "publishedDateTime": "2022-04-15T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The State",
+        "domain": "thestate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-teslas-optimus-robot-could-arrive-as-soon-as-ev-full-self-driving.md",
       "title": "Tesla's Optimus Robot Could Arrive As Soon As EV Full Self-Driving",
       "excerpt": "During Tesla Inc's (NASDAQ: TSLA) most recent earnings call, CEO Elon Musk laid out expectations for achieving full self-driving in 2022, but he",
@@ -1245,92 +1323,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-teslas-full-self-driving-is-getting-better-why-thats-good-for-the-stock.md",
-      "title": "Tesla’s ‘Full Self Driving’ Is Getting Better. Why That’s Good for the Stock.",
-      "excerpt": "It’s the term bears use to describe Tesla’s autonomous driving technology it calls Full Self Driving, or FSD. Tesla",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903",
-      "originalUrl": "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-511644/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903",
-      "publishedDateTime": "2022-04-08T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-solutions-for-self-driving-cars-qa-with-nvidia.md",
-      "title": "Solutions for self-driving cars – Q&A with NVIDIA",
-      "excerpt": "Rather than hard-coding dedicated functions into ECUs, a modern vehicle architecture requires high-performance centralized computing, and complex software stacks leveraging artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/interview/solutions-for-self-driving-cars-qa-with-nvidia/",
-      "originalUrl": "https://www.just-auto.com/interview/solutions-for-self-driving-cars-qa-with-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/04/Image-1-resized.jpg",
-          "width": 703,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-08T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

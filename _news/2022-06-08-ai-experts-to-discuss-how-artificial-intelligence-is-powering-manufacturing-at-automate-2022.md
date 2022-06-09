@@ -34,7 +34,7 @@ related:
     provider:
       name: Automation
       domain: automation.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://www.automation.com/getmedia/96489ca4-8903-4bbe-985f-dec4f168ff93/AI-news-June-8-2022-web.png?width=500&height=313&ext=.png"
         width: 500

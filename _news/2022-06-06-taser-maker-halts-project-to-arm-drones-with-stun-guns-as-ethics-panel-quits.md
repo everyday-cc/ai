@@ -103,6 +103,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Taser maker halts drone project; most of its ethics panel resigns"
+    excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
+    publishedDateTime: 2022-06-06T17:57:00Z
+    webUrl: "https://www.reuters.com/world/us/exclusive-axon-halts-taser-drone-work-some-ethics-panel-said-resign-2022-06-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/0BNS6N-mG3uSH0JDp4dlNoBKSXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BTQXZ7O7GFIHNPLLWC75HAR5ZQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Axon drops Taser drone idea after 9 on ethics board resign"
     excerpt: "CEO Rick Smith wanted to develop a drone-powered Taser after being \"catastrophically disappointed\" by police actions in Uvalde."
     publishedDateTime: 2022-06-06T15:10:00Z
@@ -398,6 +412,6 @@ related:
       domain: kcci.com
     quality: 11
 
-secured: "otT70CvKv5BnXHvvPyVlcCZ3hG/ihP7dG6YthV2WMlgKIA6L7hwdZvvlrvegHXirujVW3TinP6S4V3ecG5LpOXyAsF62g7NISvTieV51Kcxu6o9DGq319UssrDJe/0sy/E8C0p/GJvvrTgclRzVi071looLImPzxCWK/K0/PYkKFG2mrJ9beRTyRVMsu6anR2GAVFEXkgsdcHd9WOv4Ky8/Z6tW9eV+YygWr1kwbvYYSK9qmXwH8UbqxSLVOd9bM1r8+2vbvcXnGtTiit55maCxn8GzqjF1Lt/SGrgd697QlU/1uUarIVqll5zt1LLlBRdjPhfORD3ZAKAkbDOh+9Tmt0W5ucg9Aq/YOzMqyFdc=;IXP//DyvDLEqD3T5wB96Xg=="
+secured: "C50fYBIkl91EUjl6Jhf0KzH1d8guLKVBIsJV2hZutERT4JAscVp5fCyuCn3Sywfr70djCgSCPfWXHhMwhHa35wtSxIgvHjPVa5rXbsMd1HfvWWRd6kZ5lz5osqYxc9ocYFEiTC4JyLRjiQY2lnHudu86dceyzdxj3qW9ZRTSLXd/01WrqA9v2EQclsNTE8VZMOkArn7NFZFBFD9IASx/I89TL+Yx3cP0nuNQnHHHFnjcI1BXmyiexF7NPkm5osDcJK9+P0+jcJqf8E7Kj+PwFwEvQ4+5dgdmPW1IOwEKCh7mWy2acerCOlSaxgSDqNF/ga5YyQ227F7sccVItOmElKNaoy7wnYqJ9FuqcxBLL0NZRPOi4VKB4v893pdy4G2/YipchOpVGD7I7NNb+DmbBAYH5dtvUQfdtsll3MvPpbbwAEDINGyb1TsIejl6FckCMNgBGp5JpMSPuiVPd7KIBLH/Apzd9mYYAzX60PsqyqMYJJGQFjQEVw1JZICF+2tDLJcnoOb8WDeKi0Gdwhq7Uw==;S7O6bO3L5GgX0sUVSqLVKw=="
 ---
 

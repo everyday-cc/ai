@@ -30,6 +30,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "The next step in AI drug discovery: Robots"
+    excerpt: "Insilico Medicine aims to make its end-to-end AI platform even stronger by launching its own AI-run robotics lab. The lab has been in the design phase for the past two years and is expected to be fully operational this year."
+    publishedDateTime: 2022-06-08T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/955373"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
 
 secured: "YXRI3nPW3Zh2RcxkyJewhwU6cVphtjxKJCUpoYkR/2JlfZDoHp+2w1eEiqp7wCAB9AYPoatrUxM7A/J1r5K34kFGk2e9KXvy0sO9qOJ/XwTJnCVfAktLewpe6DhdSzRAhDg6Vsn/MAkYIYk7q8O7hWPWmpZdEw/fvz3wti0x2dHHQ2vYv/8dc7ZxhVVHtsnpsW6yXEVS8LnUpMuXu+WBNelxvpXhoqjJFVJTVS0129EvlOnfO9AMG/iUqIiq9BPn9WRFdb4YCnCrccPWAC7z/MFwQOU6ht7gEgDy1NFWJ13ZII/7jqyaZlp4pDad8tU71qUZWzvAFjD4ynegWm5e6XJFGbuAUqyLZizUIyFGGvcFba2ZYI4HmdwcKYPAc4+w4vmPhP/3Bx/UNFqG+yI99Dxybl/+/tJGsdaeq6abx7ttzeOvf/TvkheVk/6KPIPQiTe4JShd/IT0KPiD7Xm16oHbZtnNaIbZ+/40SJDvoww2MV1tygcNilaIk4dVovTJjS5SA0pCUG4ziqkGHl0Y2A==;OeHCe2NeeVWV8/PfRB3mew=="
 ---

@@ -2,6 +2,82 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-05-31-how-to-leverage-ai-in-influencer-marketing.md",
+      "title": "How to Leverage AI in Influencer Marketing",
+      "excerpt": "Artificial intelligence is a growing tool in any digital marketer's arsenal. Enabling quick analysis of data, machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
+      "originalUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.getnews.info/uploads/34f213753bed451d6f1428fceae18a59.jpg",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-how-artificial-intelligence-ai-can-help-detect-wildfires.md",
+      "title": "How Artificial Intelligence (AI) Can Help Detect Wildfires",
+      "excerpt": "For the period 2012-2021, there was an average of 61,289 wildfires annually and an average of 7.4 million acres impacted annually, according to statistics by the Congressional Research Service. In 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires",
+      "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp",
+      "publishedDateTime": "2022-05-31T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-how-has-robotics-changed-manufacturing-technology.md",
       "title": "How Has Robotics Changed Manufacturing Technology?",
       "excerpt": "Robotics has been changing manufacturing technology for decades. Production has advanced in numerous ways since the introduction of robots. Primarily, industrial robots can do repetitive tasks much more quickly than humans.",
@@ -1011,109 +1087,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution.md",
-      "title": "The Amazon Echo Was Just The Beginning Of Alexa's Voice-First Revolution",
-      "excerpt": "With 47 very high quality voices in 23 languages. Finally Amazon Rekognition will allow Alexa projects to also use image recognition to add visual decoding to Alexa-like solutions. These tools are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/530109090/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
-      "publishedDateTime": "2022-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-how-ai-is-improving-the-digital-ad-experience-for-consumers.md",
-      "title": "How AI is improving the digital ad experience for consumers",
-      "excerpt": "AI technologies can make a big impact in improving the ad experience, but it still takes a human touch to interpret and inform the model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/",
-      "originalUrl": "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/how-ai-is-improving-the-digital-ad-experience-for-consumers/amp/",
-      "publishedDateTime": "2022-05-30T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

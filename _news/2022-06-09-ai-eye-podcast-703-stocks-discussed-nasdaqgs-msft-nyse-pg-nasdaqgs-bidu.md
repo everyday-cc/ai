@@ -1,29 +1,29 @@
 ---
 category: news
-title: "AI Eye Podcast 703: Stocks Discussed: (Nasdaqgs: $MSFT) (NYSE: $PG) (Nasdaqgs: $BIDU)"
-excerpt: "The collaboration will have Microsoft Azure 'as the foundation,' according to the press release, and will enhance P&G's 'AI, machine learning and edge computing services for real-time visibility.'"
-publishedDateTime: 2022-06-08T18:48:00Z
-originalUrl: "https://menafn.com/1104345151/AI-Eye-Podcast-703-Stocks-Discussed-Nasdaqgs-MSFT-NYSE-PG-Nasdaqgs-BIDU"
-webUrl: "https://menafn.com/1104345151/AI-Eye-Podcast-703-Stocks-Discussed-Nasdaqgs-MSFT-NYSE-PG-Nasdaqgs-BIDU"
+title: "AI Eye Podcast 703: Stocks discussed: (NasdaqGS: $MSFT) (NYSE: $PG) (NasdaqGS: $BIDU)"
+excerpt: "Microsoft (NasdaqGS:MSFT) and Procter & Gamble (NYSE:PG) have announced a new multiyear collaboration that will \"leverage the Microsoft Cloud to help create the future of digital manufacturing.\" The collaboration will have Microsoft Azure \"as the foundation,"
+publishedDateTime: 2022-06-08T18:43:00Z
+originalUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/06081MSFT-PG-BIDU.asp"
+webUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/06081MSFT-PG-BIDU.asp"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Investor ideas
+  domain: investorideas.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?964944"
-    width: 294
-    height: 250
+  - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+    width: 1280
+    height: 1206
     isCached: true
 
-secured: "BAlv9ujfaUisDA2eL3ruN3GdFHvcf9PXeKrcHiaxAiNm0AFtgCtM4+Hl3lEOtMRRhUoJ9f5kfaFINgyo8fk2IS/lDz8AA1Of4hVosW1ge/w1/oemKpNUK/ekpo2Cwg3NB/UbLGBoYGnH2qb0+dKuznJmDdDsUbEhgtHR+z89gr+QLokm2l9X+9aQBgZutYmNAPBdb/NEq9MqITGQH5cpfegbxJQ9Qgh+yAbestX7YbMMZ04YopalwuZ6TjwW7X2H1jrOJn1peSnA0VMe2kyDN3y94gPW5iNhxdQPuSk3z9n3jWfQv/b9/FlwwF/T8FhXZWUWnHECAEivqqjqCO1j52N7tKSLwJI5HGpiZOUyI+Q=;7NttN/YtOZhIwDi0djT4DA=="
+secured: "/+lnCb05aDu91gXxQEOe1R7HYRfXdkolnhiVBgIzXl9KrHWT9r0dOsen+uC5QOxXxNWA4Xao4qWTRns/cBvdv+5RqDYeFbDs+1U9ONNVvIxG8N57ERFtiZ6V8i2SxePgQbOGgZJ0YgUt86E2XzZJu3C85bvnZla16xMYHqHfaIKrYT2GNGV1B3RePsC0uSs6AJH/5SFkI+gRs/cSJnHPKHnv+H/SChJVCboJlbeuEhBl5IRnjeFRCqYqcTxGcQPvmLBDP26HpdDmzAWDE0kCuy+FSNpuXl6SkVSJqWHz/VFVApBGZEZ3NZOYAuq3ZysVcGPvjvWBiRg+Kv5rOKyZ27p8pT33rjs+DMpd/rr9O8A=;if4/orQYlQ+H0c718BUqDg=="
 ---
 

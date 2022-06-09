@@ -3,16 +3,16 @@ category: news
 title: "3 Capabilities You Need To Know About Intelligent Automation"
 excerpt: "Intelligent automation has recently received a lot of buzz. A lot of people want to know what the future holds, and many don't want to feel left out. However, intelligent automation (also known as \"hyperautomation\") is an ever-changing collection of technologies."
 publishedDateTime: 2022-06-06T17:48:00Z
-originalUrl: "https://www.timesunion.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php?IPID=Times-Union-jobs-entrepreneurship-river"
-webUrl: "https://www.timesunion.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php?IPID=Times-Union-jobs-entrepreneurship-river"
+originalUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
+webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - IBM AI
@@ -72,6 +72,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "RLkba/zcs736jZEF8NLLGgmZ8k6yoWb5OpOObt0KFR/hqHtdHRQQ+HHqXAjAUo5J+yKruQ3aqb7hqtZ1tUr03N32ScqEgsIzqKH8My59XonXpdsZXpkbm/vbJ9KGj2tJhzcDQLghjAOK/3DOieArE35Sm9tv4V+uxKzDYjUUb5uNegWnDTOF3edf9R7gOgNX5mkDMGCYxNdfBdkZG9rO33Ym56DSqGqIV8UBCR//5Q9D+DHGT7OEVxiMlx8GCXwSrutVdQG8qKuu38mEI6Y7KNEFMCnYV92hU1ftrYJPJLgXlxBgMX6byuh+XEiRmb0El7m/LY+do9Ks/6+jgH2cmhfNANRCGgr4pUXJK+hPbMo0eMArrFLKXV5vUbrH9kRcoIQ/YDi/ROGyUzouVAHiJJXvtVvt8jIE0uXwLoYcKSOPIxrcaFaYfJW4IBL0pSjwg9jMBw24E2huTrdB5wf9/4CoWnbyhpQVoW0WA6eX8vrAYKKfNMbyCi0RshdIm87YhIQNi+pNS+YZEyPD0twu3g==;ynnIR9MLn624cwJF/qxP3g=="
+secured: "nkVupifiOplbCI5r3zelSVut1upNl00vK7RFZWd10sKNEmHisS13voX85oJ530H+H+CXFW910BXlwOpUth1W6WukC5ZlwKUOUdDNCEEh745RQBZFFhE0AxurM/eSnJxijiZjjNTOEpLt7JoO+WLQCaqp7r666hmhgyAOZXaH4oqc3Ucu5WMyJ+Gygxj4HI+dTKCD9ApRV1kPY0IKZEvKjP4F5kiRyZSmAhrz81E+vf7AWUPytToY2ru5TVkPhZsbjzMDY9fVZs7V2HvQj3BkEREr2iE4b710SV+on3vRUaJUKaY2LuNt2h9D8TeTxJVWjkdmsFPijJ9yVHpCYNv+h3PknhTbomc3jjYPUEOtVq8=;lnOclDPPgyhkiLE+slAhmg=="
 ---
 

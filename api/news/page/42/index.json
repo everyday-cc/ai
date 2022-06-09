@@ -2,6 +2,109 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-05-03-dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform.md",
+      "title": "Dell adds cyber recovery (and more) to APEX storage cloud platform",
+      "excerpt": "Dell PowerProtect Cyber Recovery for Microsoft Azure will join other Dell offerings ... scan metadata and complete files, and implement machine learning and forensic tools to detect, diagnose ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/",
+      "originalUrl": "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/Dell_storage.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/02/dell-adds-cyber-recovery-and-more-to-apex-storage-cloud-platform/amp/",
+      "publishedDateTime": "2022-05-02T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-03-ai-algorithm-detects-asymptomatic-heart-disease-from-apple-watch-ecg-data.md",
+      "title": "AI algorithm detects asymptomatic heart disease from Apple Watch ECG data",
+      "excerpt": "To transform that Apple Watch ECG data into something clinically useful researchers must turn to AI algorithms, designed to identify tiny signals in the data that can correspond with heart problems.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/",
+      "originalUrl": "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/55cfbb8/2147483647/strip/true/crop/3000x2000+0+500/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F23%2F9b%2Fcc2d0fae4ba695ae56da6485c343%2Fapple-watchseries6-ecg-heartrate-050121.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/apple-watch-ecg-detects-weak-heart-pump-disease-mayo/?amp=true",
+      "publishedDateTime": "2022-05-02T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-03-developer-experience-doesnt-have-to-stop-at-the-front-end.md",
       "title": "Developer experience doesn’t have to stop at the front end",
       "excerpt": "While learning to build machine learning models, he saw data scientists spending ... Developers can then deploy to AWS, Azure, or Google Cloud. The project was founded in 2021 by ex-Spotify engineers André Eriksson, Marcus Kohlberg, and Horia Jurcu ...",
@@ -1023,91 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-artificial-intelligence-but-please-be-trustworthy.md",
-      "title": "Artificial intelligence – but please be trustworthy!",
-      "excerpt": "To date, entrepreneurs have not put a lot of trust in artificial intelligence – many processes are still performed manually. An example of how artificial intelligence and control technology can ...",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news792809",
-      "originalUrl": "https://idw-online.de/de/news792809",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/corona_idw.png",
-          "width": 615,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-02-p2e-game-drunk-robots-announce-its-ido.md",
-      "title": "P2E Game Drunk Robots Announce Its IDO",
-      "excerpt": "Start playing with $0 investment Drunk Robots is a brutally fun adventure inspired by post ... As users take part in battles against the AI (PvE mode) and against other users (PvP mode), they earn $METAL tokens and accessories to level up and customize ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/europe-estonia-0f79a80b1364ce52bb557c8fd6241b85",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/europe-estonia-0f79a80b1364ce52bb557c8fd6241b85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-02T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -57,8 +57,8 @@ related:
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?964944"
-        width: 294
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?904830"
+        width: 298
         height: 250
         isCached: true
   - title: "CFPB ends no-action letter with fintech lender Upstart Network"

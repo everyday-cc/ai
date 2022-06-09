@@ -168,7 +168,7 @@
       "originalUrl": "https://www.engadget.com/cruise-charge-fully-driverless-rides-san-francisco-092000547.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -387,6 +387,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-03-artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some.md",
+      "title": "Artificial intelligence scans for weapons, but faces criticism from some",
+      "excerpt": "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "originalUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "publishedDateTime": "2022-06-03T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Action News",
+        "domain": "abcactionnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-elon-musk-says-tesla-ai-day-pushed-to-sept-30.md",
       "title": "Elon Musk says Tesla AI Day pushed to Sept 30",
       "excerpt": "Electric vehicle major Tesla Inc Chief Executive Officer Elon Musk said on Thursday that Tesla's AI Day has now been pushed to Sept. 30.",
@@ -565,6 +608,58 @@
         "name": "Seattle Times",
         "domain": "seattletimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.md",
+      "title": "Self-driving car companies' first step to making money isn't robotaxis",
+      "excerpt": "For now, the money for self-driving tech is in software sales. Investment analysts from Goldman Sachs and Nomura point to opportunities in auto software itself, from in-car entertainment to self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "originalUrl": "https://www.cnbc.com/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107068866-1653982556326-gettyimages-1322451139-vcg111333371752.jpeg?v=1653982672",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "publishedDateTime": "2022-06-01T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1314,92 +1409,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-is-california-still-investigating-teslas-self-driving-claims.md",
-      "title": "Is California Still Investigating Tesla’s Self-Driving Claims?",
-      "excerpt": "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
-      "originalUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/dac6b4f/2147483647/strip/true/crop/1169x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F10%2F047551f6e89d9c93c1029ed26dce%2Fshutterstock-369110243.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
-      "publishedDateTime": "2022-05-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-the-dmv-said-it-would-investigate-tesla-over-self-driving-claims-then-crickets.md",
-      "title": "The DMV said it would investigate Tesla over self-driving claims. Then, crickets.",
-      "excerpt": "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/dmv-said-investigate-tesla-over-120059178.html",
-      "originalUrl": "https://www.aol.com/news/dmv-said-investigate-tesla-over-120059178.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/OsmwzgiZQI3JRU4IML5KOA--~B/aD01MjQ7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/0e6f928d9e0be878635e948bc13ce1f3",
-          "width": 840,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-04-25-this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration.md",
+      "title": "This Climate Fintech Startup Is Paving The Way For Mass Market Adoption Of Land Regeneration",
+      "excerpt": "It’s a little known fact that the hope of the future lies in land regeneration – avoiding meat, air travel, and the rise of electric vehicles have largely captured the headlines and our imagination.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
+      "originalUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6266c933d798f8767744041a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 991,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariannelehnis/2022/04/25/this-climate-fintech-startup-is-paving-the-way-for-mass-market-adoption-of-land-regeneration/amp/",
+      "publishedDateTime": "2022-04-25T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-25-cross-river-and-sardine-partner-to-build-critical-risk-and-payments-infrastructure-for-fintech-web3-and-crypto-companies.md",
       "title": "Cross River and Sardine Partner to Build Critical Risk and Payments Infrastructure for Fintech, Web3 and Crypto Companies",
       "excerpt": "Cross River Bank (“Cross River”), a technology infrastructure provider that offers embedded financial solutions, today announced a partnership with Sardine, a behavior-based fraud and compliance platform for digital wallets and neobanks,",
@@ -1242,58 +1294,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-10-fintech-roundup-how-going-fast-and-furious-can-ruin-your-startup.md",
-      "title": "Fintech Roundup: How going Fast and furious can ruin your startup",
-      "excerpt": "The big events in the fintech world over the last week felt like a very different vibe from 2021, which was filled with mega rounds, celebrations and lofty valuations. First off, 3-year-old one-click checkout startup Fast announced it was shutting down after struggling to raise more capital to keep operations running.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/",
-      "originalUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1162497947.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/10/fintech-roundup-fast-and-better-com-show-us-that-humility-is-an-underrated-ceo-trait/amp/",
-      "publishedDateTime": "2022-04-10T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

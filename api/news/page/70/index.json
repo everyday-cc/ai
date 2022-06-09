@@ -2,6 +2,83 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-04-08-teslas-full-self-driving-is-getting-better-why-thats-good-for-the-stock.md",
+      "title": "Tesla’s ‘Full Self Driving’ Is Getting Better. Why That’s Good for the Stock.",
+      "excerpt": "It’s the term bears use to describe Tesla’s autonomous driving technology it calls Full Self Driving, or FSD. Tesla",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903",
+      "originalUrl": "https://www.barrons.com/articles/tesla-stock-full-self-driving-51649420903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-511644/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-full-self-driving-51649420903",
+      "publishedDateTime": "2022-04-08T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-08-2-top-ai-stocks-ready-for-a-bull-run.md",
+      "title": "2 Top AI Stocks Ready for A Bull Run",
+      "excerpt": "AI will increasingly rely on powerful 7-nanometer (nm) and 5nm chips, and companies will likely be making the jump in the next few years to 3nm and 2nm chips that deliver even better performance and open the door for even more advanced artificial-intelligence and machine-learning applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1",
+      "originalUrl": "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-top-ai-stocks-ready-for-a-bull-run-1?amp",
+      "publishedDateTime": "2022-04-08T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-08-how-artificial-intelligence-powered-tools-can-support-clinical-decision-making.md",
       "title": "How Artificial Intelligence-Powered Tools Can Support Clinical Decision-Making",
       "excerpt": "With unlimited processing power and an ability to \"learn\" over time, AI-powered clinical decision support (CDS) software has gotten more attention over the past few years.",
@@ -1089,100 +1166,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding.md",
-      "title": "New Salesforce AI chief eyes a future with voice-driven coding",
-      "excerpt": "As we start to see AI advance in business, the ways in which we interact with machines are beginning to change. Companies like Salesforce are looking for new opportunities for AI to have a more direct impact on customers.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
-      "originalUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/07/new-salesforce-ai-chief-eyes-a-future-with-voice-driven-coding/amp/",
-      "publishedDateTime": "2022-04-07T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group.md",
-      "title": "Microsoft Industry Cloud Could Be a Worthwhile Consideration, According to Info-Tech Research Group",
-      "excerpt": "PRNewswire/ - Global IT research and advisory firm Info-Tech Research Group has released insights that explore the industry cloud market, touching on Microsoft's market expansion and",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group/article_974a655f-7afb-5ffe-b509-a2eb1fe82a1a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/microsoft-industry-cloud-could-be-a-worthwhile-consideration-according-to-info-tech-research-group/article_974a655f-7afb-5ffe-b509-a2eb1fe82a1a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
