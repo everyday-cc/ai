@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T13:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum-1031519399"
 webUrl: "https://markets.businessinsider.com/news/stocks/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum-1031519399"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Business Insider

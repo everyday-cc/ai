@@ -98,6 +98,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ai-Ai delas Alas’ camp says persona non grata resolution ‘endangers’ freedom of expression"
+    excerpt: "The actress was named 'persona non grata' over a video posted on social media which shows Quezon City's official seal altered to read 'BBM SARA'"
+    publishedDateTime: 2022-06-09T11:45:00Z
+    webUrl: "https://www.rappler.com/entertainment/celebrities/ai-ai-delas-alas-camp-persona-non-grata-resolution-endangers-freedom-of-expression/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 7
 
 secured: "iosxKn93EitkOiXnzUVC66hhfT269dyp0ZDkKf0lYdfK538Uu0pKSgFfpWzP2+Ote8o6KFze3pkgn3CmUZRt5rYNDJW3nhBsIA2keddK16RX1y6tE81StN2x7ZLMaPf0Gs3pe7swN0DexnqXxaXnZn/EO7Qpj/mm3FMDdU/U7vbsCvK8ibsJLzlkICygfqpoeiyeTdIA5ixGKh4nwv0R1IWhOSPz1oEK62fxWiDLe+K8cyg+pm9YfdjfkiI0+JU1V/kTZAZhIO9qftaRDDV4lOdZH9oNHpLxoaHpPZBBFti6bsdZD3cy77ge+qnCECeenlwP9eNk0QyCgJcad+su3yM80HtaAD1zVILQkvAfWdI=;1s0cJz2d+J+4J+x/pbTWiA=="
 ---

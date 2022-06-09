@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/06/g27622661/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/27622661"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27622661"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:

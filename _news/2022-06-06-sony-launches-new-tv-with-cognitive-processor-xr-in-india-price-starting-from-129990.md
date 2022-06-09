@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T09:40:00Z
 originalUrl: "https://www.businessinsider.in/tech/gadgets/news/sony-launches-new-tv-with-cognitive-processor-xr-in-india-price-starting-from-129990/articleshow/92035904.cms"
 webUrl: "https://www.businessinsider.in/tech/gadgets/news/sony-launches-new-tv-with-cognitive-processor-xr-in-india-price-starting-from-129990/articleshow/92035904.cms"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Business Insider India

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wqad.com/amp/article/news/health/your-health-instant-hea
 cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health-instant-health-record-access-improving-care/526-a582b5a2-5ca9-49fb-9fd8-b45c3ce32d0e"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "IBM CEO explains why he offloaded Watson Health: Not enough domain expertise"
+    excerpt: "IBM chairman and CEO Arvind Krishna says it offloaded Watson Health this year because it doesn't have the requisite vertical expertise in the healthcare sector. Talking at stock market analyst Bernstein's 38th Annual Strategic Decisions Conference,"
+    publishedDateTime: 2022-06-08T16:59:00Z
+    webUrl: "https://www.theregister.com/2022/06/08/ibm_ceo_arvind_krishna_explains/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/06/08/ibm_ceo_arvind_krishna_explains/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/08/ibm_ceo_arvind_krishna_explains/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 71
+    images:
+      - url: "https://regmedia.co.uk/2020/04/07/ibm_ceo_arvind_krishna.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "c6hZKIFIKYItnVECoIrBAZMnfOzMSrXQTBJglyk4CFIXiDo72d6px0Ae504ZnsvrgEItL6XVi/F9xZauCTFFc+p78MWxG8pkeUrozJ1QN/2jLbmPTa3RZ+AMvsijusv0MsDqWag8UPRis+3MlEqiRDa1slVDbEH+px+OKOPDsuquydsCwriG5p1DLwJs2d+G+UV8f4E2K5KVF5lCzU+UWLW/VQyktesxkRXIOXih4trDF8YHQrnqwYlZ+O4xt/TNjRsSZsuQ63nSTfCBN0e2MKsmD5qCu4UHuxOvWDUKwimetRzR09/O8QGnPTExEpk6txVx8bNMbEsCW6eSVpsY2KywABYRSSwVubjkg8A+4ls4nM+hzjXQQUKHxV8KGunvLa8HY7KQajtOGQnYbA6tZYt3kb4y9ZW0QyqzEkANgK+MGFu7bRFMiu2hqjQsUYk1e4ZhmzZsQL9KaveknSsHSAs6Po8ISKNDMV8osi9hLyM9ChH2H0xly7t++0+jz35+4th2SG82OJ+MJDi0hdusdg==;AbRAM9wsz/ztPVQmxN68Cg=="
 ---

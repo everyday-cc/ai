@@ -40,20 +40,6 @@ related:
         width: 2362
         height: 1393
         isCached: true
-  - title: "Researchers use Overcooked to train AI to be a better gaming buddy"
-    excerpt: "These new, more diverse approaches to training AI let it adapt to different play-styles, to make it a better team mate. DeepMind researchers have been using the chaotic cooking game Overcooked (opens in new tab) to teach AI to better collaborate with humans."
-    publishedDateTime: 2022-06-07T13:40:00Z
-    webUrl: "https://www.pcgamer.com/researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tUcevsbtcUnZmavWQqLFrB-1200-80.jpg"
-        width: 1200
-        height: 710
-        isCached: true
   - title: "DOD faces workforce challenges for AI test and evaluation"
     excerpt: "The Pentagon needs to test and evaluate new artificial intelligence-enabled systems to make sure they’re up to snuff before they end up in the hands of troops. However, the department will be challenged to find more personnel who are qualified to do this type of work,"
     publishedDateTime: 2022-06-07T21:02:00Z
@@ -68,6 +54,15 @@ related:
         width: 1200
         height: 500
         isCached: true
+  - title: "Researchers use Overcooked to train AI to be a better gaming buddy"
+    excerpt: "DeepMind researchers have been using the chaotic cooking game Overcooked (opens in new tab) to teach AI to better collaborate with humans. MIT researchers have followed suit, gifting their AI the ..."
+    publishedDateTime: 2022-06-07T13:47:00Z
+    webUrl: "https://www.pcgamer.com/au/researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
 
 secured: "Pa7tAyQF226fPPHWyjam4yB1yWCipgyj6Up7fWTtsgnCtKPmXJHa/9ByE3qun6AxbnoFqXXGQa5lxECWg+jegz+G9wRD6I6OX63IJR7WTziqfuUpANT+nJ8JbUzvsMaTwvYErb8cC/ilbk3nv6PwAKO0DYLilqxkz/6IjVeWMBkNCjTYifPt7ZBCwYYZWrhFahCcwokgBAZx4y0V+iPoNGgPf9YMFNzV1HnrrAB27zCuMVH/t5IcUpJ5hwkrr6gq8t2Q60HU6WIvaU6+iEApE0CH+BjmZ1BGScSSHXZRlwMS6AmRbqmuYDSvLPMTParPTI2MO1jYZ3WgeRwCfC9jhXobvNrBoTukVt6b7DLzIA8=;/igD2YxzgiewdgSkCuEq5g=="
 ---

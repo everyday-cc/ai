@@ -46,6 +46,20 @@ related:
         width: 1000
         height: 498
         isCached: true
+  - title: "Unified data preparation and model training with Amazon SageMaker Data Wrangler and Amazon SageMaker Autopilot"
+    excerpt: "Data fuels machine learning (ML); the quality of data has a direct impact on the quality of ML models. Therefore, improving data quality and employing the right feature engineering techniques are critical to creating accurate ML models. ML practitioners often tediously iterate on feature engineering,"
+    publishedDateTime: 2022-06-09T15:03:57Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/unified-data-preparation-and-model-training-with-amazon-sagemaker-data-wrangler-and-amazon-sagemaker-autopilot/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/Featured-images-for-ML09633.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Incorporating deep learning into X-ray CT imaging"
     excerpt: "In recent years, deep learning gained a lot of attention and made impressive achievements in various applications. Incorporating deep learning in X-ray CT has become a non-reversible trend. In this webinar, we’ll give a brief overview of deep learning ..."
     publishedDateTime: 2022-06-06T14:09:00Z

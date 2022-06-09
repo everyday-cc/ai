@@ -49,23 +49,9 @@ related:
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?39236"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "CFPB ends no-action letter with fintech lender Upstart Network"
-    excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."
-    publishedDateTime: 2022-06-08T20:37:00Z
-    webUrl: "https://www.americanbanker.com/news/cfpb-ends-no-action-letter-with-fintech-lender-upstart-network"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/99cc814/2147483647/strip/true/crop/1080x567+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa6%2F16%2Fabaa9faa4420b08af15ea37b1179%2Fab-og-image.jpg"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?317258"
+        width: 333
+        height: 250
         isCached: true
   - title: "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck"
     excerpt: "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ..."
@@ -76,24 +62,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
-  - title: "Addressing the challenges of fintech with adoptable solutions"
-    excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
-    publishedDateTime: 2022-06-06T09:13:00Z
-    webUrl: "https://www.crainsnewyork.com/crains-content-studio/sponsored-addressing-challenges-fintech-adoptable-solutions"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 4
-  - title: "3 FinTech deals that took place in May in the Americas"
-    excerpt: "FinTech describes new tech that seeks to improve and automate the delivery and use of financial services. The COVID-19 pandemic has"
-    publishedDateTime: 2022-06-07T13:06:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-fintech-deals-that-took-place-in-may-in-the-americas/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 4
 
 secured: "WEVIbWA3i6Rtwfxxr+05L5QZ0jlIph0KRE9Txj1XprBCchQTye9yWk/gUNvg7UFHhqfD2uLk+/wQ/+iz04Gy/nnAnmDhgzt3i2MVITxtEtZ8YC4WAG0TF/f3/51tU1H+Hz+Zs5Za7kvN6Q87I5e2TNnMkxn/2Yqu6m0quyVpgtzNLyYbVfpXohBuFcH98vOB8+F7Ba9wgtaAc0hl0wbxZ9oBjPQStd+1Jg5cvjv7hDrrhXO5j0hTxwN0NGxbjV+Z1hVtffvsF1kUMJSNzT01hvPttc+TDcV8kft3gvt04tqOLYGuJlNytq64vSV3n3rOYEWk6tSNTI3kb5RrigzR2TJQXVHdJNAUgtonDVY/DB4=;b3qbxZUKDEQQNej5Bz/Riw=="
 ---

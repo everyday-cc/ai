@@ -7,8 +7,8 @@ originalUrl: "https://www.investing.com/news/stock-market-news/microsoft-reitera
 webUrl: "https://www.investing.com/news/stock-market-news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-2834958"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Investing.com
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "The productivity advantages of Microsoft Azure: vertical focus"
+    excerpt: "As much as this Cloud for Sustainability effort interests me, the vertical focus and the maturing of Azure is what I find interesting ... What Microsoft has now is the foundation for future AI-driven solutions that could be independent of verticals ..."
+    publishedDateTime: 2022-06-09T12:09:00Z
+    webUrl: "https://www.computerworld.com/article/3663669/the-productivity-advantages-of-microsoft-azure-vertical-focus.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
   - title: "P&G, Microsoft announce manufacturing partnership"
     excerpt: "Cincinnati-based consumer goods giant Procter & Gamble on Wednesday announced a partnership with Microsoft to build the future of digital manufacturing."
     publishedDateTime: 2022-06-08T15:25:00Z

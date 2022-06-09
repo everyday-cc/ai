@@ -5,7 +5,12 @@ excerpt: "British startup Papercup, which offers an AI-powered platform that can
 publishedDateTime: 2022-06-09T13:06:00Z
 originalUrl: "https://techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/"
 webUrl: "https://techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/"
+ampWebUrl: "https://techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/amp/"
 type: article
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: TechCrunch
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "2errtZzFx99GdmfBUogXBKSpfe6OyV0lHwQY2eA34WmhqM6I6IacnbTGtrXHU/yQpM45qKNCIjmxtcuTxOVXLspO9kmidozJCk82EPsR38DMelnV/v6VsNxyNfWB34EHiAC6nAmuAD1rtPB6ZJQ6WuUSYm+6XIsVTAQiSOUCAujjvANYhUk4uEGU7adGC1v4oAx/zH6KUPxvj7nyPjUTEaOnlW1YJbq1XIRjw7X7FzzwyX2ViriSVAhFpqsZg0lDvox1ZawInmZ10DhAa5yLwItPSwlqPczinJ6yp/l0FbnKl877QR7ltBYg9kUcZoSyWkn69+7x+YYFDsrtLX7u3my6pJaWaEnnNnUszu1jiFoT27ETS9Ue3u40KHiDDDhKAomzptUhXGkWTeYioe52ujx7V8iLZXXiP2+0YOWZVegpO1NYsWS84zJyvEAWFU+weR95P/BNX1VtzRiPYEVxA7pYfnUR7BCA9ZYbp6JWgHBrMLWg4RMC6HW/oQsadORNviS+Ie6ESE6pRQylK3lndw==;cVYa9t2PXbP/dzoFi/oyVw=="
+images:
+  - url: "https://i.ytimg.com/vi/K85DoRwy-hU/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
+
+secured: "66sbGRCoyqo3+wxabRDeDxzdeD8vDv2t1tF+9aeBdZO1zA7168Em1z8xOHxAIXXEldYjPF0AjvyZJFN5ZhKWj6gPN15egMA3TdMysKSryUW7ABmbILZrzBM5GD1/JwQ7DGDshrvVHERBHCTX9hmwhXIXASquLdIViabvElnthOEX2DEagAkTkL1KeX7WX5l0efSVWWKv2MPFeGyTPUicyBJd5inayebp8+toGpzndqahl8wbpBdBArpsaA04W4jcA3N8iTcYs/K5LGKt7IQroJYSadW/RQViICEyJ6xAO5xYxls/1EAF77zotbrOP5Vn1FIFs1ZvzuAnOnNWeC7I91Hl1i1GijBHkv8wCnFa3qg=;4eU8XG5yz+aXapo5SVOKFg=="
 ---
 

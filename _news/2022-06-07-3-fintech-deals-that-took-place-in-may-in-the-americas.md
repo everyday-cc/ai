@@ -19,47 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Banks Are Partnering With Fintech Companies To Solve Banking Problems"
-    excerpt: "Other fintech businesses may improve financial transactions and procedures. Large banks’ consumers may benefit from new services such as online notarization, AI-driven banking security, and bill payment. Many banks will require fintech partners in their ..."
-    publishedDateTime: 2022-06-07T20:57:00Z
-    webUrl: "https://www.finsmes.com/2022/06/banks-are-partnering-with-fintech-companies-to-solve-banking-problems.html"
+  - title: "Fintech Integration And The Unique Value Of CXM"
+    excerpt: "Done right, CXM functions as a framework for managing tasks, goals, obligations and outcomes across an enterprise."
+    publishedDateTime: 2022-06-09T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/06/image.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'Neobanking': Next Emerging Trend in Fintech Sector"
-    excerpt: "What are some of the emerging technologies that you are most excited about over the medium term in your industry? A. With emerging technologies such as Blockchain, Cloud Computing, AI and ML Fintech has emerged from payments,"
-    publishedDateTime: 2022-06-08T09:31:00Z
-    webUrl: "https://ummid.com/news/2022/june/08.06.2022/neobanking-next-emerging-trend-in-fintech-sector.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 39
-    images:
-      - url: "https://ummid.com/news/2022/june/08.06.2022/neobanking.jpg"
-        width: 790
-        height: 530
-        isCached: true
-  - title: "Next Emerging Trend In Fintech Sector Is Neobanking: Easebuzz CTO"
-    excerpt: "2) We are using Amazon Sagemaker to implement our fraud risk models. This acts as a core service that is used by one of our fraud detection products. 3) We are also breaking and moving large ..."
-    publishedDateTime: 2022-06-07T12:19:00Z
-    webUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?39236"
-        width: 375
-        height: 249
+      - url: "https://imageio.forbes.com/specials-images/imageserve//62a0a99bcd45e6dbcf39aea1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "CFPB ends no-action letter with fintech lender Upstart Network"
     excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."
@@ -75,15 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck"
-    excerpt: "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ..."
-    publishedDateTime: 2022-06-07T09:01:00Z
-    webUrl: "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6"
+  - title: "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from"
+    publishedDateTime: 2022-06-08T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 13
   - title: "Addressing the challenges of fintech with adoptable solutions"
     excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
     publishedDateTime: 2022-06-06T09:13:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T13:07:00Z
 originalUrl: "https://techcrunch.com/2022/06/09/google-expands-vertex-its-managed-ai-service-with-new-features/"
 webUrl: "https://techcrunch.com/2022/06/09/google-expands-vertex-its-managed-ai-service-with-new-features/"
 type: article
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: TechCrunch

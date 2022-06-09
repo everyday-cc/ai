@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T10:01:00Z
 originalUrl: "https://www.independent.co.uk/news/uk/politics/boris-johnson-speech-housing-association-latest-b2097418.html?page=6"
 webUrl: "https://www.independent.co.uk/news/uk/politics/boris-johnson-speech-housing-association-latest-b2097418.html?page=6"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Independent

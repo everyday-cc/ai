@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T10:56:00Z
 originalUrl: "https://www.sportspromedia.com/news/veo-ai-camera-series-c-funding/?blocktaxonomy=finance-investment"
 webUrl: "https://www.sportspromedia.com/news/veo-ai-camera-series-c-funding/?blocktaxonomy=finance-investment"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: SportsPro

@@ -72,20 +72,6 @@ related:
         width: 847
         height: 635
         isCached: true
-  - title: "The state of AI in drug discovery"
-    excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
-    publishedDateTime: 2022-06-08T21:48:00Z
-    webUrl: "https://medcitynews.com/2022/06/the-state-of-ai-in-drug-discovery/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1204099471.jpg"
-        width: 2207
-        height: 1359
-        isCached: true
   - title: "Insilico Medicine Raises $60 Million in Series D Financing to Advance Pipeline and Launch AI-powered Drug Discovery Robotics Laboratory"
     excerpt: "BEIJING, CHINA - Media OutReach - 6 June 2022 - Insilico Medicine, a clinical-stage end-to-end artificial intelligence (AI)-driven drug discovery company, announced today that"
     publishedDateTime: 2022-06-06T13:50:00Z

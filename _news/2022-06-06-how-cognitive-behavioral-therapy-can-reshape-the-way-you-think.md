@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T12:00:00Z
 originalUrl: "https://www.cnet.com/health/mental/what-is-cognitive-behavioral-therapy/"
 webUrl: "https://www.cnet.com/health/mental/what-is-cognitive-behavioral-therapy/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: CNET

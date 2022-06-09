@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-va
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 944
     height: 698
     isCached: true
+
+related:
+  - title: "Shield AI Raises $165M Series E to accelerate building of the world’s best AI pilot"
+    excerpt: "Becomes fourth venture-backed, multi-billion-dollar defense-technology startup in 20 years SAN DIEGO, June 9, 2022 /PRNewswire/ -- Shield AI, a fast-growing defense technology company building AI pilots for aircraft,"
+    publishedDateTime: 2022-06-09T11:33:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-united-states-business-75b03e4a6629d4ac9d3e9be468a2cd66"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "VhWIvd+tw2+qDuokGm8L4xSlXxkmBvKgb0m1DKh3uRUSG2Wz6RwI6wPMX21rdQiBeBRD8SiJBXHIjv638MLAML+RFG5ACgF0YL0nxm3PIUD5wV+f1MQhOm+1F0AcFpBYU4/Ub8DFMXohueizb6WvI3KRt8WghQDr3uAw61yxNZY1cQTsjcMJQDMckp64H9k7wLpS2d/9NW7+B4NtcmX2tNHfX5meUM9yVLouOy1PKm8Ssy+F9oJi5QijSkEZNbHGht/h4RFkVUGZ5Xp7iFKM2OggERzOu9wF9w6WYmQTNW/B2LwVYfbL1ELY0KNFrjnMOzGt4gOSXNHeatLvzTTg4do/zYlSW17Jwz/g4W1iclDqvphS4OQW9cQLH+arxG2Ht9qj2gKpONTTUKvl5iSw5avLIhRgrtB9vr4+Cw3iTSwvyUUPjmpmC1pFI/4oyhNwCs0cu/2ZLOPifg52te1qNaXAYbRfKtpI8pem/XvVRWw9ugg30fK6LVLesXAzu3mNrW6caRKw+ZcKF9eCUHWtDA==;BM9K0m2D0zfIqawiWp7zrg=="
 ---

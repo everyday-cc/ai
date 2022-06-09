@@ -1,0 +1,46 @@
+---
+category: news
+title: "Shield AI Raises $165M Series E to accelerate building of the world’s best AI pilot"
+excerpt: "Becomes fourth venture-backed, multi-billion-dollar defense-technology startup in 20 years SAN DIEGO, June 9, 2022 /PRNewswire/ -- Shield AI, a fast-growing defense technology company building AI pilots for aircraft,"
+publishedDateTime: 2022-06-09T11:33:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-united-states-business-75b03e4a6629d4ac9d3e9be468a2cd66"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-united-states-business-75b03e4a6629d4ac9d3e9be468a2cd66"
+type: article
+quality: 31
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Shield AI raises $165M at a $2.3B valuation to fuel development of its military autonomous flying systems"
+    excerpt: "Technology built with defense in mind is getting some significant and serious traction at the moment, spurred by world events, advances in technology, and a growing appetite from end users to invest in more innovative ways to protect themselves."
+    publishedDateTime: 2022-06-09T10:59:00Z
+    webUrl: "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/"
+    ampWebUrl: "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/f16.jpeg?w=944"
+        width: 944
+        height: 698
+        isCached: true
+
+secured: "tf83WLxuDD1nuVIi63+Mg15+nyAyr95FqD5XNHaMd0EithR945rE2gejDHfYisjsdEe1bUu14Y4y02alxHnQSi7E98oZABBKAf/xo0Z5YjSpa7dXHdgCgjUG45hmUDiCMvLBWATDLoIrPRxn9Z3shaixiNxF6fJG7WSE63Y4bND0To/xkysqZG9q1jtQ5Yz7rQ2N3X7JjBkCcZkRUT4OQ2v63l9BXuFeS1p6vsvnLPiPY1RtEP+s6Vly9CSw5HCNefzKzHtAY6mlO4iVL/3rS55xGvZ5KS0M/eU7yRl/1F/SuFCD75uqdC6H+Vc60UoLji6WfdQS4Do0s2505QltJUfolCPN/2NzUH8NYnDmGDA=;2sMthxL+QI1UHz3l/m8Ufw=="
+---
+

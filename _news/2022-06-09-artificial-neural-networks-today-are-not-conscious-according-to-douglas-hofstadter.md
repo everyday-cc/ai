@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T12:27:00Z
 originalUrl: "https://www.economist.com/by-invitation/2022/06/09/artificial-neural-networks-today-are-not-conscious-according-to-douglas-hofstadter"
 webUrl: "https://www.economist.com/by-invitation/2022/06/09/artificial-neural-networks-today-are-not-conscious-according-to-douglas-hofstadter"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: The Economist

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use Overcooked to train AI to be a better gaming buddy"
-    excerpt: "These new, more diverse approaches to training AI let it adapt to different play-styles, to make it a better team mate. DeepMind researchers have been using the chaotic cooking game Overcooked (opens in new tab) to teach AI to better collaborate with humans."
-    publishedDateTime: 2022-06-07T13:40:00Z
-    webUrl: "https://www.pcgamer.com/researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tUcevsbtcUnZmavWQqLFrB-1200-80.jpg"
-        width: 1200
-        height: 710
-        isCached: true
   - title: "IIT Madras to offer AI research fellowship exclusively for women"
     excerpt: "IIT Madras Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI) has started applications for the Post Baccalaureate Fellowship. “The Post Baccalaureate fellows are expected to undertake independent research under the mentorship of a Faculty member at RBCDSAI."
     publishedDateTime: 2022-06-06T06:31:00Z
@@ -68,6 +54,15 @@ related:
         width: 1200
         height: 500
         isCached: true
+  - title: "Researchers use Overcooked to train AI to be a better gaming buddy"
+    excerpt: "DeepMind researchers have been using the chaotic cooking game Overcooked (opens in new tab) to teach AI to better collaborate with humans. MIT researchers have followed suit, gifting their AI the ..."
+    publishedDateTime: 2022-06-07T13:47:00Z
+    webUrl: "https://www.pcgamer.com/au/researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
 
 secured: "ttblVSZbBaYDDJB1MIOydxJ8EEjNHSEj9ASIw7Dc8u27wR79GSPXz39UCkqvwrKuX5/uyPMmKklmkr+ofNlTX7qeYVokWr11W4d78W3MKszu3wYicmEf5sQm3NsV745TLPYWUEaORVtbmFTio5vf5DQ12eAERu958B6InECUtCS5CSrHjGHWBvbxRiKNsGY70/fVs8Cxt+KK9n1g196eH51VeNwxke988FycLUkIzU4ymYFWy0yE+vGp1jNmrcF4lmniRoBZtlaCBft7TFFwHkWaK9teFfZtB+UNkAlwM4RAkqA0a0HxgJag3GzZTJxVHFdpkELbEzjUubWQuH3+CYUl/8WwAjD0pC5LRUIcnIQ=;8sLe8Jt9gqGeIqJ80kW9Eg=="
 ---

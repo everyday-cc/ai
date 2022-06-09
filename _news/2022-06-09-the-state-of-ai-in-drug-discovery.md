@@ -24,77 +24,68 @@ images:
     isCached: true
 
 related:
-  - title: "Insilico Medicine plans to launch a fully automated AI-driven robotics lab for drug discovery"
-    excerpt: "Insilico Medicine's end-to-end AI-driven drug discovery platform, Pharma.AI, draws its strength from the quality and quantity of its data. As Insilico scientific advisory board member and Nobel Prize laureate in chemistry Dr."
-    publishedDateTime: 2022-06-09T04:51:00Z
-    webUrl: "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx"
+  - title: "How AI is shaping the future of work"
+    excerpt: "A data-driven approach to solving these challenges using AI is shaping the future of talent acquisition, management, upskilling and more for the enterprise."
+    publishedDateTime: 2022-06-09T15:20:00Z
+    webUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/"
+    ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 78
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
         isCached: true
-  - title: "AI company Insilico Medicine gets $60M to expand into robotics"
-    excerpt: "A company that uses artificial intelligence to discover and develop new drugs has received a $60 million series D investment to grow its robotics offerings. Insilico Medicine, based in Hong Kong, said it intends to use the capital to expand its global operations and planned initiatives,"
-    publishedDateTime: 2022-06-07T17:11:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/ai-company-insilico-medicine-gets-60m-to-expand-into-robotics.html"
+  - title: "Elon Musk is painting an unrealistic picture of AI"
+    excerpt: "The truth is there is a missing link between today’s AI, which is primarily pattern recognition, and the kind of Star Trek computer-level AI that Musk is dreaming about"
+    publishedDateTime: 2022-06-06T14:46:00Z
+    webUrl: "https://www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502.html"
+    ampWebUrl: "https://www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502-amp.html"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 69
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
-        width: 460
-        height: 460
+      - url: "https://images.hindustantimes.com/img/2022/06/06/1600x900/TWITTER-M-A-MUSK-PAY-2_1654521931585_1654527612396.JPG"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Hong Kong’s AI drug discovery firm Insilico closes $60M Series D"
-    excerpt: "As part of the deal, Insilico also received an equity investment from Fosun Pharma, which has financed over 60 startups, according to startup database ... to its AI drug discovery platform."
-    publishedDateTime: 2022-06-06T13:16:00Z
-    webUrl: "https://techcrunch.com/2022/06/06/hong-kongs-ai-drug-discovery-firm-insilico-50m-series-d/"
+  - title: "Reskilling the Workforce to Better Reap the Benefits of AI"
+    excerpt: "Organizations are rethinking their workforce demands to reap the b. Successful companies invest time and money in reskilling and upskilling their workforce to enable AI and leverage the technology strategically."
+    publishedDateTime: 2022-06-06T02:54:00Z
+    webUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/"
+    ampWebUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "Insilico raises $60M to invest in AI platform and IPF program"
-    excerpt: "AI-enabled drug discovery company Insilico Medicine Ltd. has raised $60 million in a series D round to support expansion of its pipeline. The Hong Kong and New York-based company will use the proceeds to support clinical testing of its lead asset,"
-    publishedDateTime: 2022-06-08T23:55:00Z
-    webUrl: "https://www.bioworld.com/articles/519573-insilico-raises-60m-to-invest-in-ai-platform-and-ipf-program?v=preview"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 37
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
     images:
-      - url: "https://www.bioworld.com/ext/resources/BW-source/2022/Jun-22/Insilico-6-8.png?height=635&t=1654727478&width=1200"
-        width: 847
-        height: 635
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Reskilling-the-Workforce-to-Better-Reap-the-Benefits-of-AI-1024x585.png"
+        width: 1024
+        height: 585
         isCached: true
-  - title: "The next step in AI drug discovery: Robots"
-    excerpt: "Insilico Medicine aims to make its end-to-end AI platform even stronger by launching its own AI-run robotics lab. The lab has been in the design phase for the past two years and is expected to be fully operational this year."
-    publishedDateTime: 2022-06-08T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/955373"
+  - title: "Artificial intelligence to shape future of fishing with targeted catches"
+    excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."
+    publishedDateTime: 2022-06-08T06:00:00Z
+    webUrl: "https://www.stuff.co.nz/business/industries/128892148/artificial-intelligence-to-shape-future-of-fishing-with-targeted-catches"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-  - title: "Insilico Medicine Raises $60 Million in Series D Financing to Advance Pipeline and Launch AI-powered Drug Discovery Robotics Laboratory"
-    excerpt: "BEIJING, CHINA - Media OutReach - 6 June 2022 - Insilico Medicine, a clinical-stage end-to-end artificial intelligence (AI)-driven drug discovery company, announced today that"
-    publishedDateTime: 2022-06-06T13:50:00Z
-    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/06/insilico-medicine-raises-60-million-in-series-d-financing-to-advance-pipeline-and-launch-ai-powered-drug-discovery-robotics-laboratory/141437"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 17
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 36
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/r/3/image.related.StuffLandscapeSixteenByNine.1420x800.24qltg.png/1654646123843.jpg"
+        width: 1420
+        height: 797
+        isCached: true
 
 secured: "Vx+3Np9xhqQiOtoXOzHdNbwNXHXhq9vzLOoa6SPZg6nArHouWS6jbbFB5xGRD0okbLBAQ9c8TYQHCJgmO7WJjZ9n+SBEkUBuFt5s8+o05cxXgytnpXZKPmbrBuWkmlGxgrlYbLCrc8APtNODKHK0DYAgzC6ka4BdZZ+ONArfSXQvI0kXx4GQhj1vM3FpJfiJnDDmGTSEqe4a6txxV3HnrUxn3B9QcpAJ2H+lvAcWyve4UgWFGhmpmg2Yu8rd0ZuD/rWJtiH2iu1+q0YtEUkjP0ZFryRWALR1qYTFbZIR5h1zt8Tbqb+mPCYcVGX7SO8rt0Gy+zvCoZjtN24tfa3h+8wZ26lqhTp2yPK9akdT+GE=;QNN9i9GfjmSqncyO/vEVbQ=="
 ---

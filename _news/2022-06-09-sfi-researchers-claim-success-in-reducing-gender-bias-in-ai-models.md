@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T13:27:00Z
 originalUrl: "https://www.siliconrepublic.com/machines/sfi-adapt-centre-ai-research-bias-machine-learning"
 webUrl: "https://www.siliconrepublic.com/machines/sfi-adapt-centre-ai-research-bias-machine-learning"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: SiliconRepublic

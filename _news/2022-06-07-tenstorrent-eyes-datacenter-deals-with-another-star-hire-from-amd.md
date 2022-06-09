@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T20:20:00Z
 originalUrl: "https://www.nextplatform.com/2022/06/06/tenstorrent-eyes-datacenter-deals-with-another-star-hire-from-amd/"
 webUrl: "https://www.nextplatform.com/2022/06/06/tenstorrent-eyes-datacenter-deals-with-another-star-hire-from-amd/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Next Platform

@@ -35,7 +35,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 27
+    quality: 29
   - title: "Autonomous Car Market Size to Grow Worth USD 11.03 Billion at a CAGR of 31.3% for 2021-2029 | Fortune Business Insights"
     excerpt: "Furthermore, giant businesses associated with automobile manufacturing are promptly adopting Artificial Intelligence (AI) and Machine Learning (ML) technologies and implementing them in automobile ..."
     publishedDateTime: 2022-06-08T09:36:00Z

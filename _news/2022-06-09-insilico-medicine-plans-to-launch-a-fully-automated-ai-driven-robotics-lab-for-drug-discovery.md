@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-pla
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx"
 type: article
 quality: 78
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://www.bioworld.com/ext/resources/BW-source/2022/Jun-22/Insilico-6-8.png?height=635&t=1654727478&width=1200"
         width: 847
         height: 635
-        isCached: true
-  - title: "The state of AI in drug discovery"
-    excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
-    publishedDateTime: 2022-06-08T21:48:00Z
-    webUrl: "https://medcitynews.com/2022/06/the-state-of-ai-in-drug-discovery/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1204099471.jpg"
-        width: 2207
-        height: 1359
         isCached: true
   - title: "The next step in AI drug discovery: Robots"
     excerpt: "Insilico Medicine aims to make its end-to-end AI platform even stronger by launching its own AI-run robotics lab. The lab has been in the design phase for the past two years and is expected to be fully operational this year."

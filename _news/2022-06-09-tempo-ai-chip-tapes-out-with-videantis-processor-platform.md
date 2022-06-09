@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T13:45:00Z
 originalUrl: "https://www.design-reuse.com/news/52098/tempo-ai-videantis-processor-platform.html"
 webUrl: "https://www.design-reuse.com/news/52098/tempo-ai-videantis-processor-platform.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Design-Reuse

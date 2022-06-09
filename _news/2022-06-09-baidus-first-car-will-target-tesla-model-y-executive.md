@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-m
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 540
     height: 540
     isCached: true
+
+related:
+  - title: "Baidu's electric vehicle firm Jidu unveils first 'robot' car"
+    excerpt: "Baidu's EV-making plan comes as tech companies around the world race to develop smart cars after Tesla's (TSLA.O) success in commercializing electric vehicles. Besides equipping the vehicle with autonomous driving software technology powered by Baidu ..."
+    publishedDateTime: 2022-06-08T17:10:00Z
+    webUrl: "https://www.reuters.com/technology/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car-2022-06-08/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
 
 secured: "+qbBMzC8u5m6Tx5+f37MgzIVcjEfGvSatiTS6yrHnxGqaBATuQrwTLgXxO2/lTEbBMSqHdNenw87TBhSULmwa+dDk6q+DbxDSCrZ4uLVW/EG+JbBv6l8eR4bQD+Kjpd68+l+h11Qe5c8B4AqWxiTTnKH9VDtanx9eYkNB/7SgEc44lioxhX7/25KAl7KZb29em2wL7XmAiGWvRrMsf/dSfOIlDkt7SiVcsb9XeZM2g8quUfYP4tbuYv2yRHKnEaTN17ONzAxp2uXUXZKuKkBbUszjE10T7B3IyxUICPHScLSHREgxm+GgqQIloDBygXp+rCQnKQk2hnpQM58ggHrj+3yeg5TwFaJwSbYAU+GHSAzdcY3STh3L7Voe71wWQsBLmgvCXFb7O4h4I4R34cNLg66FxyfQYGUmTGwMyFrX5qEAM918B+n5dztlMnEKYesvElAzr+LLhGlZn+0KHKLvmwkSKGSGZAoRHMTJCKUpsWS8mnsu3YY73yC2f/0sbrCTfcUP5f54AHYmW38nUAA3Q==;tOr4cpZapU/4cmUWtBHeSA=="
 ---

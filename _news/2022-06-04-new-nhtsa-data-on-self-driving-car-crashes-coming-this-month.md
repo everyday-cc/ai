@@ -3,8 +3,8 @@ category: news
 title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
 excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
 publishedDateTime: 2022-06-03T19:51:00Z
-originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
-webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
+originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156"
+webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "cOEybsf89ZAUzQKZI/rSz5m/u+cDQSeNNANJDnPbT/lmNyWci5uzPPWB3Yx12s2jE/PnkhBDMAwOu2d0ordBb2D4t/3P9Gs0dvqwj7mIRAL5nEkgvAlPNAIbRqP1kqoWoJ5tkOw4UmT/w7BYHLAfRbh0JUyhYXODQhr00C+btmwv79I9OvA/3wUhnVH7kxfFGnMREAfRJj8Sk46zAgltYDc0vNX8XInM7ngQZZaZYKTbuyySBVeNO+A0EelXFtjcgU3TxyegGlKSmGI/+rHiWx4k9n8b+rC53in6hiegky93iQMYGL9RShzptue1BjIKC1/w/z+JM9TwWshlmthRcqI1VLL4pwhqFDc4bZ7AWHpIU/E4cbahex9zbwzDwKzs856kxuxH8hsWRBRVuJ5Y95Fh4fcJGkDfMtGBGIrCGr4hpXjk/qKmervgsT3hs+gZuz7X8k099bGi0IY3mNRuYAaVC/SpobzO83OwbvDrYAuDR8bmx2NXHlTd7Har+u+asyh/nIr+wSkumKA41Cfdyw==;d+zFnd2qTBW44a4kN5rnpA=="
+secured: "xH+huzSVYukbYotv3G+TpyD0Q8YXhYh05bG41vmZz8F9+PNZOKZc9CRIQVQbrBDFAqmfb6HF1EY97GxZtkTKxb2I1zyzWdVsHxpwoENwkiQp5BifZ1b24WI6Kv9byNYB3XJpFpAWon9sRmX5DdQB63+UzXKlBQOdsy3M3O2k28U/BmsxL5gPgwdw+PoHdmgjKMkf9EuKI3TwIXmjmm0lgsARCaODAbyHjEuyHIS55/c3w2KQKey3Ks3PQl/SxHejMDdpek3OCMVwHftauD/3w1J7NBIa6GyW27UQjqGCe7hocNoVJY/Mp5Z9qOtM/TxqsBmOedBJhoEoGHLSBfsenUBl6+Ysz6tdsHArFbhyzeU=;zNB9xMp1xt2/xPK0dfQ9QA=="
 ---
 

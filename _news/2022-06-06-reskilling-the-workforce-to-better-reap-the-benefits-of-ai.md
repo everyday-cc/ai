@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-bett
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,68 @@ images:
     width: 1024
     height: 585
     isCached: true
+
+related:
+  - title: "How AI is shaping the future of work"
+    excerpt: "A data-driven approach to solving these challenges using AI is shaping the future of talent acquisition, management, upskilling and more for the enterprise."
+    publishedDateTime: 2022-06-09T15:20:00Z
+    webUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/"
+    ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
+  - title: "Elon Musk is painting an unrealistic picture of AI"
+    excerpt: "The truth is there is a missing link between today’s AI, which is primarily pattern recognition, and the kind of Star Trek computer-level AI that Musk is dreaming about"
+    publishedDateTime: 2022-06-06T14:46:00Z
+    webUrl: "https://www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502.html"
+    ampWebUrl: "https://www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/elon-musk-is-painting-an-unrealistic-picture-of-ai-101654526808502-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/06/06/1600x900/TWITTER-M-A-MUSK-PAY-2_1654521931585_1654527612396.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "The state of AI in drug discovery"
+    excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
+    publishedDateTime: 2022-06-08T21:48:00Z
+    webUrl: "https://medcitynews.com/2022/06/the-state-of-ai-in-drug-discovery/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1204099471.jpg"
+        width: 2207
+        height: 1359
+        isCached: true
+  - title: "Artificial intelligence to shape future of fishing with targeted catches"
+    excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."
+    publishedDateTime: 2022-06-08T06:00:00Z
+    webUrl: "https://www.stuff.co.nz/business/industries/128892148/artificial-intelligence-to-shape-future-of-fishing-with-targeted-catches"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 36
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/r/3/image.related.StuffLandscapeSixteenByNine.1420x800.24qltg.png/1654646123843.jpg"
+        width: 1420
+        height: 797
+        isCached: true
 
 secured: "Ysug7QJQ5taPJT0v2d07dX7Fub2VPZoODM+4hXSntRqLgm7N1paujaYY8zYjNUD9kOKQWKkuT5V2WpiR/pxyFLoNQPg+wnGXjExdYd3M+B7Ig/K/h5YZgCZmC8NcDVgYiqwnm0GH0x91o+q3j/w205J6NxHPqcTJ5OQpRFan6doP2CJNVi7DAUSJWZUN8vsw/Fk6XQrJYxAcBxCE6eCtS8cAUtc+c0J5p5ly6JTvOE8JamQOigXenUXW+iVXtkbGewo1C+gsTuAEo0A5Z4zrzlmh9cx9VlY83ExmED1N98XuQmZBsoghDxEURQb19RF+9Qz9YlfHuNEKnL9mzDth1G9nKPv8VNl22DLVQeXxn7bIUO/YJT7gPd45UYU9RCOKiNWPr19rbZ2uB0VcdWzRSBAGdKCiiboPWasXV+UU1CunoV4KdvnvfXwmXxQ3bBwoUvoRfG5ZHQefZV+Oyf3mmtfF069lRTlUm5PaDO9qVW0MNGGXUs4JA1Edsiyu339EDDY4cQsOQe3ieHfjbL6C8Q==;VbW2LWkO8miY3bt/9Ler3A=="
 ---

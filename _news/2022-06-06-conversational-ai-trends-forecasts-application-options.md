@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/convers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     isCached: true
 
 related:
+  - title: "Union.ai releases UnionML for seamless creation of web-native machine learning applications"
+    excerpt: "Open-source MLOps framework speeds creation and deployment of ML microservices within a unified interface. TORONTO , June 9, 2022 /PRNewswire/ --"
+    publishedDateTime: 2022-06-09T12:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/union-ai-releases-unionml-for-seamless-creation-of-web-native-machine-learning-applications-1031519214"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "5 Key Findings For B2B Marketers: Conversation Automation, Personalization, And AI"
+    excerpt: "Five key findings that highlight the use of conversation automation in B2B marketing, trends in content personalization, and the role of AI in facilitating these interactions."
+    publishedDateTime: 2022-06-09T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forrester/2022/06/09/5-key-findings-for-b2b-marketers-conversation-automation-personalization-and-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
   - title: "Tanla, Kore.ai forge exclusive partnership to offer Conversational AI Solutions"
     excerpt: "Strategic partnership to revolutionize business communication for enterprise-customer interactions with the power of conversational AI."
     publishedDateTime: 2022-06-09T07:30:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T13:11:00Z
 originalUrl: "https://interestingengineering.com/googles-new-learning-algorithms-more-private-browser"
 webUrl: "https://interestingengineering.com/googles-new-learning-algorithms-more-private-browser"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Interesting Engineering

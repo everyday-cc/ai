@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-06T00:00:00Z
 originalUrl: "https://www.designnews.com/electronics-test/qualcomms-latest-chip-wants-be-most-powerful-cloud-based-ai"
 webUrl: "https://www.designnews.com/electronics-test/qualcomms-latest-chip-wants-be-most-powerful-cloud-based-ai"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Design News

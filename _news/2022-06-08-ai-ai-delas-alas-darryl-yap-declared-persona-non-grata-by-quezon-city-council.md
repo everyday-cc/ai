@@ -9,7 +9,7 @@ ampWebUrl: "https://www.philstar.com/entertainment/2022/06/08/2186941/ai-ai-dela
 cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/entertainment/2022/06/08/2186941/ai-ai-delas-alas-darryl-yap-declared-persona-non-grata-quezon-city-council/amp/"
 type: article
 quality: 53
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -98,6 +98,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ai-Ai delas Alas’ camp says persona non grata resolution ‘endangers’ freedom of expression"
+    excerpt: "The actress was named 'persona non grata' over a video posted on social media which shows Quezon City's official seal altered to read 'BBM SARA'"
+    publishedDateTime: 2022-06-09T11:45:00Z
+    webUrl: "https://www.rappler.com/entertainment/celebrities/ai-ai-delas-alas-camp-persona-non-grata-resolution-endangers-freedom-of-expression/"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 7
 
 secured: "PHw1WXv3mniSV6svcYr7X0vmGOvh4bw6CecGjSR7l2kQYAJRga6mKgc03FGmQRdBtwAWe7AcD5oqI7o2G577j9Ne7+SQhELnxu+0iMuz8zPvf1+WycZOjcvrZfIL8qOwby+BiNn4i3vOWTMNMicMOYVi2tp2XUAE/MlGtN6Sr1FOR5ePKRldeN4cI5ON8L2EhRoQUXe2iRtuC/yC+otkkNE1ubUdlPH6/Cp+EzZbAsCXwwN7b+ajUqOsBkStvuKS84Z871vlIOUATcIaaRzPILub+1GQul9skKKKfVh+3lsh8TsPWlXBKMOfSlXWclaClPcT6ErkV8Vn0NVDKsbuHOWxekINCJ14q2lVXxyRwlQ=;TSvuRMjVsWsDa6dpOc8NSg=="
 ---

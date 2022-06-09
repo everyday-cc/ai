@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificia
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f9ab9e6ceed14a7c95a3b67a75943388"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI/ML Innovations' Tech2Heal Chosen as a Finalist in the i-Nov Innovation Contest"
-    excerpt: "TORONTO, ON / ACCESSWIRE/ June 9, 2022 / AI/ML Innovations Inc. (CSE:AIML); (OTCQB:AIMLF); (FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
-    publishedDateTime: 2022-06-09T10:19:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272580556/aiml-innovations-tech2heal-chosen-as-a-finalist-in-the-i-nov-innovation-contest"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 51
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1654580783011.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Talon Cyber Security Named \"Most Innovative Startup\" at RSA Conference Innovation Sandbox Contest 2022"
     excerpt: "Expert Judges Select Talon Cyber Security for Creating the First Enterprise Browser to Modernize Security and Improve the User Experience for"
     publishedDateTime: 2022-06-07T12:08:00Z
@@ -47,6 +33,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 33
+  - title: "AI/ML Innovations’ Tech2Heal Chosen as a Finalist in the i-Nov Innovation Contest"
+    excerpt: "TORONTO, ON / ACCESSWIRE/ June 9, 2022 / AI/ML Innovations Inc. (CSE:AIML); (OTCQB:AIMLF); (FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,"
+    publishedDateTime: 2022-06-09T10:01:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-france-artificial-intelligence-business-9ce7a8287067c549e09953571436292b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 31
   - title: "AI/ML Innovations Inc.: AI/ML Innovations' Tech2Heal Chosen as a Finalist in the i-Nov Innovation Contest"
     excerpt: "TORONTO, ON / ACCESSWIRE/ June 9, 2022 / AI/ML Innovations Inc. (CSE:AIML); (OTCQB:AIMLF); (FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technolog"
     publishedDateTime: 2022-06-09T10:10:00Z

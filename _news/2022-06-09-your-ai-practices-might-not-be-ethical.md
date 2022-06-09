@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-pr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 115
 published: true
 
 provider:

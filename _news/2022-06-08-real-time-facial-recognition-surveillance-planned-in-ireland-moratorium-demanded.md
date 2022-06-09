@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI facial recognition and the slippery surveillance slope"
-    excerpt: "Increasingly governments around the world are turning to AI facial recognition apps as cost saving surveillance measures."
-    publishedDateTime: 2022-06-04T21:13:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/sundayextra/ai-facial-recogntion-and-the-slippery-surveillance-slope/13911830"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 54
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13911960-16x9-large.jpg?v=4"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "AI facial recognition, the new detention"
-    excerpt: "Increasingly governments around the world are turning to AI facial recognition apps as cost saving surveillance measures."
-    publishedDateTime: 2022-06-04T22:39:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/sundayextra/ai-facial-recognition,-the-new-detention/13911830"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 54
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13911960-16x9-large.jpg?v=4"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Surveillance tech and facial recognition a point of concern for advocates in NY"
     excerpt: "Dozens of advocates rallied outside City Hall on Tuesday to demand the city ban surveillance technology they claim negatively impacts Black and brown communities."
     publishedDateTime: 2022-06-08T01:25:00Z

@@ -42,15 +42,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from"
-    publishedDateTime: 2022-06-08T13:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 13
 
 secured: "T+gL4kqtuEmXoZl+ORIGy5mG0FU7nj+5sW1jV9jPsoAlvBftZNbsIUjDwnI0d7FLJ9ziHt6QajyQ4DF1qvyop6RNy1A+lseDujFEL6mS2Od6bHSUUVJ7yaZ5oyhcG8sGJtQU6YillKND2dvzsBXnp75eFLTaMi6mMGk3WQExqXSxGPUlCyl1sMvAXnPERl3xU1dekvXlFTlGgvJqhh7eRgTdSgnQ9+c7z4CJZv/6ACh0I+f3YPtj0cBsFaopB9LT0y7zVwDsYFAYjHXT4jdzSR/c/qFYXDcw3yJzzXmD7LpVewSt8w4LBd3kAE4Mau8wgZT7wfn4d9XvG4iID/E7Emfz8lLvTR6BMQfkUq5IXuI=;DmDjoOXANYhPnOk9OsbdFw=="
 ---
