@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://apicms.thestar.com.my/uploads/images/2022/05/30/1603631.jpeg"

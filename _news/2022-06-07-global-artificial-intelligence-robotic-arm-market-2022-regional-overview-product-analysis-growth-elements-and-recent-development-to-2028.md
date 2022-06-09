@@ -36,19 +36,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI Machine Learning Market Analysis To Showing Impressive Growth By Industry Trends, Share, Top Key Players Analysis And Forecast 2022-2031"
-    excerpt: "The report titled  Global AI Machine Learning Market  which was recently added by Kenneth Research, aims at providing the clients"
-    publishedDateTime: 2022-06-06T07:54:00Z
-    webUrl: "https://menafn.com/1104328287/Global-AI-Machine-Learning-Market-Analysis-To-Showing-Impressive-Growth-By-Industry-Trends-Share-Top-Key-Players-Analysis-And-Forecast-2022-2031"
+  - title: "AI in IoT Market Size in 2022 : 27.3% CAGR with Top Countries Data, Key Regions and Growth Forecast to 2031"
+    excerpt: "The global Artificial Intelligence (AI ... services specific to the manufacturing industry. IBM offers its IoT professional services under Watson, including consulting and boasts prominent ..."
+    publishedDateTime: 2022-06-08T12:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-iot-market-size-in-2022-27-3-cagr-with-top-countries-data-key-regions-and-growth-forecast-to-2031"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?279925"
-        width: 374
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Davos-Selensky-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "0yX6St6dd/vpi1X2Lw1U0ZwHLo2avxebJvRuxFk7IxMLtCitgyWSLh8OOr+yRmFchcIYFAEkt6KRmfc5JqIEDoGGyKjorRyAsFUNecJtxDCBhyXAbwZo1L6Gf+xaq467SlHLnxAO4iEoMqJfHy2HmSjvGXt8YM/5uZxrSgkPFBV9ZXJu8siKUxwGBWVIpJ9Uf4Q4lOsaBPiM/TAzkdbOMf9/kQse2s764y3+Rs9tcQdc5gWYPGHZUvGobcCAwC+tuLII3Ut4v4k+DrCii+P9Kd0QGLLy2yC6N5wRrB5ZI836AVVYl8ssgOVDA/3WoUylZholW4vtSwvjNcxeMFn+YwguiArZF+5eL7gqj69/xE0=;ZKIfCUc4YkJkNP41uuSEQw=="

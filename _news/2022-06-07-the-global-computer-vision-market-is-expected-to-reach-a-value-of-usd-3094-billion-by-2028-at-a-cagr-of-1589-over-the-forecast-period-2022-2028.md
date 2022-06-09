@@ -24,6 +24,19 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Autonomous Car Market Size to Grow Worth USD 11.03 Billion at a CAGR of 31.3% for 2021-2029 | Fortune Business Insights"
+    excerpt: "Furthermore, giant businesses associated with automobile manufacturing are promptly adopting Artificial Intelligence (AI) and Machine Learning (ML) technologies and implementing them in automobile ..."
+    publishedDateTime: 2022-06-08T09:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27602579/autonomous-car-market-size-to-grow-worth-usd-11-03-billion-at-a-cagr-of-31-3-for-2021-2029-fortune"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27602579"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27602579"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+
 secured: "+i6ka9gCX3n9JY4lm4SKsOj/Z/2tDpqrK3N65zqXNYygsP83RnfvdzThbxqzTGHtPyHJxYnSAqRbUW26Ocnak0I0wLuA2cYzD0l4HFrvmzYbiGbgyqaUwt2ry5ljGtkAEZ44Kno/zz8QMuPIcmlhg4QEQtUtDFPrhV17VS//8wOmkh0VTj28c2XILHcyo88zt4v++YbWnKFHxguxnmJ2y6YbykHl8+MR/VkFBRQeIVclJAnf7jMeRft7qWjCRtdIGfjc6WHFPl2YikBaGZMJtkozwG+ZrSycnfZM9cTWbegI4KUjSpTVFtjf1ZJzNHA3z/rlWH+FL9LfBunfRXUTJY5cBrd0U5Uet1EFIb0np74=;xVH98lEVUSiJIXYxLYWGjw=="
 ---
 

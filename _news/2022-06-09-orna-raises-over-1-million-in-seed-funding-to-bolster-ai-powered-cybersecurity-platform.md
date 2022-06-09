@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/orna-raises-over-1-million-in-seed-funding-to-
 webUrl: "https://betakit.com/orna-raises-over-1-million-in-seed-funding-to-bolster-ai-powered-cybersecurity-platform/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,68 @@ images:
     width: 1050
     height: 700
     isCached: true
+
+related:
+  - title: "AI as a cyber security enabler"
+    excerpt: "AI makes it possible for businesses to handle significantly higher volumes of incidents than was previously possible."
+    publishedDateTime: 2022-06-09T07:58:00Z
+    webUrl: "https://www.itweb.co.za/content/wbrpO7g2zWKvDLZn"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/vTByOfnu0MpUBJcpeD4A9yShoqR5sVw5vKs25Jpm6QrSQyoxuPOic_XyD5no2_rK_ALmHaM8AaNCn0lEr66IvxOxUvYNFzJgJhQk=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "The scope of artificial intelligence in fighting cybercrime"
+    excerpt: "AI can add additional layers of information and authentication on top of two-factor authentication. For instance, deep learning can be used to analyze.."
+    publishedDateTime: 2022-06-08T03:27:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-92072000,imgsize-374186,width-1200,height-628,overlay-etcio/the-scope-of-artificial-intelligence-in-fighting-cybercrime.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "AI for Cyber Threat Intelligence – Challenges and Mitigation Approaches"
+    excerpt: "By Uday Kiran Pulleti, Senior Director - AI, Cyble The internet as we know it is a dynamic, constantly growing entity. In 2021, Eric Schmidt, CEO of Google, estimated that \"the internet\" is 5 Million"
+    publishedDateTime: 2022-06-06T22:10:00Z
+    webUrl: "https://www.cyberdefensemagazine.com/ai-for-cyber-threat/"
+    type: article
+    provider:
+      name: Cyber Defense Magazine
+      domain: cyberdefensemagazine.com
+    quality: 37
+    images:
+      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/06/AI-for-Cyber-Threat-Intelligence-Challenges-and-Mitigation-Approaches.jpg"
+        width: 697
+        height: 526
+        isCached: true
+  - title: "How to use AI in cybersecurity?"
+    excerpt: "Let’s talk about how AI in cybersecurity protects the corporate networks of companies. Technological progress has not only pleasing but also bad consequences. Together with the accelerated pace of corporate security systems development,"
+    publishedDateTime: 2022-06-07T20:41:00Z
+    webUrl: "https://www.hackread.com/how-to-use-ai-in-cybersecurity/"
+    type: article
+    provider:
+      name: hackread
+      domain: hackread.com
+    quality: 37
+    images:
+      - url: "https://www.hackread.com/wp-content/uploads/2022/06/how-to-use-ai-cybersecurity.jpg"
+        width: 1200
+        height: 650
+        isCached: true
 
 secured: "9KW+3I+HEmtzrwdqVfd8Dup97DBTBtWkBT7h/7YWn9xKowQtC4GCHNCYrhMTxWjtosgG5SU8wePKTKpFyJz5zfvIINK5VzSrlm/XTJRkBb3vDr6ybTOawyGkHGjHk4qzN94r17HMY6sw3OLz0fPSyUoMbbwl9uLZfYu8LlZfb6tWgabw2OEHrHinc8amEaAyjrO/6tQq9w1LZ5gHv/MtpZwjcC2OOyV3cgB97Okk8rQTaK9tPAa3t/HfZHbvgJE5ia++rSz4lWLmhA5ZCK8U1njsF4tOWF/5CMBbWsHvyHYEDrTxWQLf4GSpIKTwQIomWWFgAxV8REGKQyETKSqMwUO23PgbCEzEwkSMt6NGkgE=;yiSIVo4hJk2wt7z7f/kppg=="
 ---

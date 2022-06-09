@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/digital-security/t
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "AI as a cyber security enabler"
+    excerpt: "AI makes it possible for businesses to handle significantly higher volumes of incidents than was previously possible."
+    publishedDateTime: 2022-06-09T07:58:00Z
+    webUrl: "https://www.itweb.co.za/content/wbrpO7g2zWKvDLZn"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/vTByOfnu0MpUBJcpeD4A9yShoqR5sVw5vKs25Jpm6QrSQyoxuPOic_XyD5no2_rK_ALmHaM8AaNCn0lEr66IvxOxUvYNFzJgJhQk=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "AI for Cyber Threat Intelligence – Challenges and Mitigation Approaches"
+    excerpt: "By Uday Kiran Pulleti, Senior Director - AI, Cyble The internet as we know it is a dynamic, constantly growing entity. In 2021, Eric Schmidt, CEO of Google, estimated that \"the internet\" is 5 Million"
+    publishedDateTime: 2022-06-06T22:10:00Z
+    webUrl: "https://www.cyberdefensemagazine.com/ai-for-cyber-threat/"
+    type: article
+    provider:
+      name: Cyber Defense Magazine
+      domain: cyberdefensemagazine.com
+    quality: 37
+    images:
+      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/06/AI-for-Cyber-Threat-Intelligence-Challenges-and-Mitigation-Approaches.jpg"
+        width: 697
+        height: 526
+        isCached: true
   - title: "How to use AI in cybersecurity?"
     excerpt: "Let’s talk about how AI in cybersecurity protects the corporate networks of companies. Technological progress has not only pleasing but also bad consequences. Together with the accelerated pace of corporate security systems development,"
     publishedDateTime: 2022-06-07T20:41:00Z
@@ -39,6 +69,20 @@ related:
       - url: "https://www.hackread.com/wp-content/uploads/2022/06/how-to-use-ai-cybersecurity.jpg"
         width: 1200
         height: 650
+        isCached: true
+  - title: "Orna raises over $1 million in seed funding to bolster AI-powered cybersecurity platform"
+    excerpt: "With over $1 million in seed capital, Orna said it intends to invest in marketing, demand generation, and research and development."
+    publishedDateTime: 2022-06-08T21:27:00Z
+    webUrl: "https://betakit.com/orna-raises-over-1-million-in-seed-funding-to-bolster-ai-powered-cybersecurity-platform/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 28
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/11/Visual-Cybersecurity-feature.jpg"
+        width: 1050
+        height: 700
         isCached: true
 
 secured: "4g65dLr7IBcU4AJzZqvbKQaLjkFkVo9zVHDT+Lngf24ku3jMtK4It8oiY8JhM/qUdXOk8DfFn1GiVIe+h5eYJq69Z9hBigU2V7vuSrO4G332+26eEo7hcuMNmBeDXB7D85pcR1lbHU+MQl0ydvSHcpWJCbqCNUnkjSBmyHBquz/1DJbdsXVxpAIe2UF5F8cy3c3/YmKboaY+iJYyNwq/1+vOUdh4Nfw9qPJOqU9KtnUz1Rx6RNARSXtAhP1KPJ/KGACbMHUqRhpFO/zVwo9corINx5S+rkXGfIxHU0X5adZZ0St8M7HazLhm02AxRfdMmAsTleKjS1c2WddI+8bS4GSmVp7fae/Ht0AjIAqJkYI=;fK2nRIF6xj4r9bJv27w3iA=="

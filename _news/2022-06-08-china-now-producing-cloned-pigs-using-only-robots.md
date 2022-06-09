@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/china-cloned-pigs-robots/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/china-cloned-pigs-robots/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Futurism
@@ -43,6 +43,15 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Artificial Intelligence is now automatically cloning pigs"
+    excerpt: "Researchers have created a fully automated cloning process that uses artificial intelligence to clone pigs better than humans can."
+    publishedDateTime: 2022-06-09T07:35:00Z
+    webUrl: "https://www.tweaktown.com/news/86743/artificial-intelligence-is-now-automatically-cloning-pigs/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "qiA8SGSLxIuuXdZkiSooGMnIh7VIEvCJhpxRZppZQFGDGLJuzSXIK9xxOvu8ajnXe2WeSweiNHUsmVoPOSXiErra4YeyTM9VXvDwX+jwUup5qa+0OCPuCIPhNtUXQyiR5M9uByyloIo5ElF0FwAQGhhHtY+d+nlSoX7RV4KQ8RwfByQk9w9fJMBefF8NuW4TJpRfRC4LrX4WCeaSd0p8J8Y+GscKDR9EkEiu811JI9skOfYrC3/K9+c9OapeOk5XZlsIk6yfShVqgzJ/iojk8ithuEIW+s23b+jocP+eAMS6fgrRcAFwpODOz7M7jeBOenwqbI6bO0RC0i1wJdGHd+SoZsMjp0NP1qiLxeH82/jG9IgEYaTLUKizB90Pyyz+Ym0q4cODOdOqs8jbj4QUIemx4BE5FV1MjXBB+KtAW9ekRD31qmExiNEOdCWPF/5riFCvhT7dg45tO77aI91sxTWcw45wVf3hFQfUeOQFkXw0kTfNq0syeuJk3ZUq1jYPPrlT7fm7a1zPgDNxVfmcQA==;FCJP6pOLswTp8gsfvsarjw=="
 ---

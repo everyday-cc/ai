@@ -25,47 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon India announces Machine Learning summer school"
-    excerpt: "Hyderabad: Amazon India on Tuesday launched the second edition of Machine Learning (ML) Summer School, an immersive programme that aims to provide"
-    publishedDateTime: 2022-06-07T14:42:00Z
-    webUrl: "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school"
-    ampWebUrl: "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp"
-    cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp"
+  - title: "Ministry of Education, AICTE and AWS to Upskill Students in India in Cloud Computing and Machine Learning"
+    excerpt: "The Ministry of Education is working with Amazon Web Services (AWS) with an aim to impart cloud computing and machine learning (ML) skills to higher education students in India. A Memorandum of Unders"
+    publishedDateTime: 2022-06-09T02:27:00Z
+    webUrl: "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/"
+    ampWebUrl: "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 59
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 91
     images:
-      - url: "https://telanganatoday.com/wp-content/uploads/2022/06/amazon-67.jpg"
-        width: 680
-        height: 370
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
         isCached: true
-  - title: "Start-ups fuel India's growing obsession with skincare"
-    excerpt: "The Indian skincare market, the fifth largest in the world, has seen a boom in recent years. Experts say it's driven by a large, young demographic willing to spend money to look good, as well as start-ups that have stepped in to leverage this."
-    publishedDateTime: 2022-06-05T03:48:00Z
-    webUrl: "https://www.daily-sun.com/post/624512/Startups-fuel-Indias-growing-obsession-with-skincare"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/624512/Startups-fuel-Indias-growing-obsession-with-skincare"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/624512/Startups-fuel-Indias-growing-obsession-with-skincare"
+  - title: "'AI For India' Campaign Launched To Skill, Reskill And Upskill 25 Students & Professionals."
+    excerpt: "AI FOR INDIA - Launch by Shri Dharmendra Pradhan, Minister of Education, Govt. of India. AI FOR INDIA An Initiative of The Data T"
+    publishedDateTime: 2022-06-06T17:17:00Z
+    webUrl: "https://menafn.com/1104331059/AI-For-India-Campaign-Launched-To-Skill-Reskill-And-Upskill-25-Students-Professionals"
     type: article
     provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 42
-    images:
-      - url: "https://www.daily-sun.com/assets/news_images/2022/06/05/skincare.jpg"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Amazon India launches second edition of Machine Learning training programme for students"
-    excerpt: "Amazon India has launched the second edition of Machine Learning (ML) Summer School, that aims to provide students the opportunity to learn key ML technologies from scientists at Amazon making them ready for careers in science. The course, conducted over ..."
-    publishedDateTime: 2022-06-07T13:11:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/education/amazon-india-launches-second-edition-of-machine-learning-training-programme-for-students/article65503857.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 25
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
 
 secured: "leE3JtNckPwIViIfPD1YSW2ZZGKsVieQZ1vEl/3cufLEFOQ+cGKO2mEtqgT3x0oe9S0eAo8xGpjMOEjYkJ19g4ijnbTt3YZULTRiYyVuGs27KVkwNRqrIw1IB7cz2BEWrzaroOvkj1Aw3bEOMDd7N0FNvDM2uC0TBf1FTThgf37tuuy1wXVwkXXWFb8esm3yYCytmWVlp+vMprN+nymCcbHwfRqzAVjUxdIClnp59LK7fXaKYN9ePE1R6sgZAcK8N5mFTxUveM9/+AbdXbFkpgZztQbZMxo0K7BJ5klMwSGsLiwKZXOVqDLzLU7T3Owy4Be34ziz4ZRxyrTF+JuVSAH5FMdHUcgruCld1H+CUEvW/5LsrymgonQ7kZrhtLfubuYTcMj1d5kRY1wVuOQIXVC8oxb/cYA6CYvS/sMXJ9xvnxT0his2JTOXIPWJwER4TcpjOsIqgX/TpJaqLSvduiOEL24o2U2pmKD7rDg0ENf4WqQ6YtiYcapfcttIZVs0fZdPDlq1YQ8GziF2W0rm2g==;J955kpA9JSa/6RJKYmdZ+g=="
 ---

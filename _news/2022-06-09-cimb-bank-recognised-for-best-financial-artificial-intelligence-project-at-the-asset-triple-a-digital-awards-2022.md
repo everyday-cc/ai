@@ -1,29 +1,31 @@
 ---
 category: news
 title: "CIMB Bank recognised for Best Financial Artificial Intelligence Project at The Asset Triple A Digital Awards 2022"
-excerpt: "KUALA LUMPUR, MALAYSIA - Media OutReach - 9 June 2022 - CIMB Bank Berhad (\"CIMB Bank\" or \"CIMB\" ) has been awarded the Best Financial Artificial Intelligence Project in Malaysia at The Asset Triple A Digital Awards 2022 for its"
+excerpt: "KUALA LUMPUR, MALAYSIA - Media OutReach - 9 June 2022 - CIMB Bank Berhad (\"CIMB Bank\" or \"CIMB\" ) has been awarded the Best Financial Artificial Intelligence Project in"
 publishedDateTime: 2022-06-09T05:45:00Z
-originalUrl: "https://www.asiaone.com/business/cimb-bank-recognised-best-financial-artificial-intelligence-project-asset-triple-digital"
-webUrl: "https://www.asiaone.com/business/cimb-bank-recognised-best-financial-artificial-intelligence-project-asset-triple-digital"
+originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
+webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
+ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
+cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
 type: article
-quality: 33
-heat: 33
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: malaymail
+  domain: malaymail.com
 
 topics:
-  - AI in Finance
   - AI
+  - AI in Finance
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/DataRobot.jpg?h=bde28bee&itok=dFle0bC0"
-    width: 600
-    height: 316
+  - url: "https://www.malaymail.com//theme_malaymail/images/no-image.png"
+    width: 1285
+    height: 857
     isCached: true
 
-secured: "C6cL1pCdlz5Dba6sDk6KTvBHg0qNIWKxj60yaYlpP8/sde5w0mgkdfGhBEoYT4+a8rBfkDP+dD7MX7THfhGEC3yzSF3gYJnEcAUdAClELi2ihwhWkVdbLHNBr3mIsuXhkYOT29AJqZWtsITj83MTQnUKqKhyf9eMjbiNM29tdOgqF2ZHDJcNYlm/LZKd/7xQ878+BSMaGfRsWFEi6wYD1JXNNcRJILwbyGj1OnggCZeqtDybzisCNPN76Ppinh6U+WUbsHF8N9+XfLqzrKqWy74+Y1iXrVsqn5bV5OVvpXm8ErhxGjdBlK2uuyOxvvBpDnsbq+mrH/YFlPHLte4ZTQthisa2VymHns96aBum4so=;B9nvMqq0mcHpXm3ZmhB3bQ=="
+secured: "fPVLupWp6y6EHWPg5XFEn33DnzbNkqoPTDvdys/3+so85yH0RHYpOJeP0vd9Tj8+eCqM51xeqRNckv7PmXdrb8KZe03KSOU7WnvtqicQK9VGmgkqNlUEa7vQfOEbXwzaxz+MuJp3Fuq+WA5Yn82lybtyFEc/EO8Bjls66Vk4Trr7q7ahRc5+9htcYRtulJXZxQOL6Ms3oyoUhuNbaN2cqbqZQc04+2OhxwTJ9QXhaI3dmt0GqD9cSLaXMxQgVwcHvR+DJ2oK0mgq7tlIx1vNCZM2aQFftSnBYyoy/2w9WnE9zyLuNmuKL+nhZlZgj83apJ5FAatKbHjpuhThso16nMfQNydSaikvO003clOlRM8=;cQkN0kHKer45zO5FpxbyEg=="
 ---
 

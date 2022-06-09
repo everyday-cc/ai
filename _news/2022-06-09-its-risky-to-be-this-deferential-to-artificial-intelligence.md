@@ -1,27 +1,28 @@
 ---
 category: news
-title: "It’s Risky to Be This Deferential to Artificial Intelligence"
-excerpt: "What unites these examples is the fallibility of artificial intelligence. Such systems have ingenious mechanisms — usually a neural network that’s loosely inspired by the workings of the human brain — but they also make mistakes, which often only ..."
-publishedDateTime: 2022-06-09T05:10:00Z
-originalUrl: "https://www.washingtonpost.com/business/its-risky-to-be-this-deferential-to-artificial-intelligence/2022/06/09/d83b11c6-e7b1-11ec-a422-11bbb91db30b_story.html"
-webUrl: "https://www.washingtonpost.com/business/its-risky-to-be-this-deferential-to-artificial-intelligence/2022/06/09/d83b11c6-e7b1-11ec-a422-11bbb91db30b_story.html"
+title: "It’s risky to be this deferential to artificial intelligence"
+excerpt: "Police, schools and HR departments are too trusting of fallible algorithms. A special brand of human overseer is needed"
+publishedDateTime: 2022-06-09T09:00:00Z
+originalUrl: "https://www.moneycontrol.com/news/opinion/its-risky-to-be-this-deferential-to-artificial-intelligence-8664291.html"
+webUrl: "https://www.moneycontrol.com/news/opinion/its-risky-to-be-this-deferential-to-artificial-intelligence-8664291.html"
+ampWebUrl: "https://www.moneycontrol.com/news/opinion/its-risky-to-be-this-deferential-to-artificial-intelligence-8664291.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/its-risky-to-be-this-deferential-to-artificial-intelligence-8664291.html/amp"
 type: article
-quality: 39
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/22BMOAXHWEI6ZJBCCG53SHNTBM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg"
+    width: 753
+    height: 435
     isCached: true
 
 related:
@@ -40,6 +41,6 @@ related:
         height: 800
         isCached: true
 
-secured: "PvyAImMV+uCLokcKpe+n8QeHIN3cjNX+KePPDnlvcdNhQU21WcYdPZa6/ONBCd7zNokxBjsOodAXX+FgSCTdNREBwp+VlzqGEPHPLFuiYrFedSlli1cmVSRknAQQl7/aKZ37zlm/+TahmF/UyR1Dd0Uzp7zXkE86WGhoys43lTx1bvkE5TG1TaZhXKGUE8nxkGCx+1O5/z/Yg03NEZgbhuBKzqXv6C4ML0OcoEvYnRvGlcqhYcyrWxnpYXHWRM/AKhWPkETWl7hwKQOTUhrgkJ65sFKXtXfMaldnPKdzIzdS2THXax+KyO+1qDl2OjHA2gbEDFDmohoUxpXXez+uUhJKTkcqJtKw9LXmaaUrXpcnEo7cM4hFqXqcTcFPShnAMuw55Q0lmrJpDbFdCrPZqf61ZpQtxo4b2FeBTouMfGK4AjyxatBv18tETnl9wp+q0fSE8o314Wt07eJrNlya1caqDO+deM/YF3eVf1RUYhSSc8a59RrwkEDs/PvWcfGA2r5zJceDZNKi1EvFled9YA==;1JGEWOFQGDcDhkKL1OJXBg=="
+secured: "ic2acxTkVNM2wPonRp03IpIf7sJYajsuSlKRJgIINzpRtqZqbq/1uwRQokNE4w6KkCTMxYkdlWLoaNzJoNv7Ts1gkU0spDvD8UE6QUHmPv6Ny5n8qF2x26L/0Aku1Po1T2OwBY0u9/jZ8KLQ8v5BCb5mvMXEG+JOjTCWhnRsUbL7ObIi9qFHC8/DBZasUjlUr6fx1/LbO2IcuvAtQHbEnBrRzztq1B3c69onkMijqfe/MAuKvQ5WOVweI+WHuhyqGJ3nlG6eC7Oeiv4MGDw4ZrX/19N4ZunEvqvdWq60d7dBNp+Qwy5NNs2wGjbmREbn4cAxDxfSQKxKVwh/CmE3B/3ixW5GUi2yqiosyXNJW3I=;aag5AXZ0eUSIqmm8g4fzqQ=="
 ---
 

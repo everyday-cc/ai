@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/92907/tifin-introduces-conve
 webUrl: "https://www.finextra.com/pressarticle/92907/tifin-introduces-conversational-ai-for-investing"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Fintech TIFIN Announces Launch of Magnifi+ to “Stream” Investing Insights"
-    excerpt: "TIFIN, a Fintech platform using artificial intelligence and \"investment-driven\" personalization, announced the launch of their Magnifi+ platform."
-    publishedDateTime: 2022-06-04T15:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191889-ai-fintech-tifin-announces-launch-of-magnifi-to-stream-investing-insights/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 56
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/04/Find-Search-Money-Seek-Look-Binoculars.jpeg"
-        width: 1280
-        height: 994
-        isCached: true
   - title: "TIFIN Announces Magnifi Mentor, The First Conversational AI-Powered Assistant Designed For Investing'"
     excerpt: "Magnifi also reaches the 100 million search results milestone and announces Jon Klaff, former executive from Meta Financial and Paypal as GM,"
     publishedDateTime: 2022-06-07T21:58:00Z
@@ -55,6 +39,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Everlaw Launches AI-based Clustering to Legal Teams"
+    excerpt: "Everlaw, a cloud-native investigation and litigation platform, unveils today its Clustering software feature delivering an AI breakthrough in terms of its scale, visualization, ease of use and ability to conduct true discovery."
+    publishedDateTime: 2022-06-08T13:06:00Z
+    webUrl: "https://channelvisionmag.com/everlaw-launches-ai-based-clustering-to-legal-teams/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
+    quality: 17
 
 secured: "8BZM2UvQLpvx8qsDKeiWfa03eZcEU5bAfFupWqgZzOQd81+3/GDbx8xhO5Gx+oaIvzvt4OE+zcreSglIJPwzpFXbmukJHoT8hiVTwVlsx/d6pkHeAw44NFKyneAVodrxGLlYxgpvKXTBizCyDfOvkjbp1FrL2u/43i/YOCVzX5Ax0k4X9OrTWFTlqlgMpCzXfKToky+U2UTZp9Wp9qV35JD6JuFCgYRUeHrkY5aXzY458Eo4eV8iQrYHoyUk2ISGru1yotHyO1HVGBIFzkuOY1qj5oOqt+tAQY7fge57JIDofr3gCdgRET0qQv2q5WcsHPBxtN7uaSBDl4qNLiqxCt9LuJD3NkLvbU71RX8RszA=;jnZ02297jt4lJEN5giIn8Q=="
 ---

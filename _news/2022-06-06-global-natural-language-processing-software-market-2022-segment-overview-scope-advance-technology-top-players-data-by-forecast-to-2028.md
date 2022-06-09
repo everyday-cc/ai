@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI Machine Learning Market Analysis To Showing Impressive Growth By Industry Trends, Share, Top Key Players Analysis And Forecast 2022-2031"
-    excerpt: "The report titled  Global AI Machine Learning Market  which was recently added by Kenneth Research, aims at providing the clients"
-    publishedDateTime: 2022-06-06T07:54:00Z
-    webUrl: "https://menafn.com/1104328287/Global-AI-Machine-Learning-Market-Analysis-To-Showing-Impressive-Growth-By-Industry-Trends-Share-Top-Key-Players-Analysis-And-Forecast-2022-2031"
+  - title: "AI in IoT Market Size in 2022 : 27.3% CAGR with Top Countries Data, Key Regions and Growth Forecast to 2031"
+    excerpt: "The global Artificial Intelligence (AI ... services specific to the manufacturing industry. IBM offers its IoT professional services under Watson, including consulting and boasts prominent ..."
+    publishedDateTime: 2022-06-08T12:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-iot-market-size-in-2022-27-3-cagr-with-top-countries-data-key-regions-and-growth-forecast-to-2031"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?279925"
-        width: 374
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Davos-Selensky-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Global Artificial Intelligence Robotic Arm Market 2022 Regional Overview, Product Analysis, Growth Elements, and Recent Development to 2028"
     excerpt: "Global Artificial Intelligence Robotic Arm Market published by MarketandResearch.biz discusses an in-depth examination of market trends for the years 2022 through 2028.. The report's assumptions include pricing trends,"

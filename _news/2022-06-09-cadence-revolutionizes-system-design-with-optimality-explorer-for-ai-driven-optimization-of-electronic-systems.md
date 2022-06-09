@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
-excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization ("
-publishedDateTime: 2022-06-08T18:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cadence-revolutionizes-system-design-with-optimality-explorer-ai-/2022/06/08/9618228.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cadence-revolutionizes-system-design-with-optimality-explorer-ai-/2022/06/08/9618228.htm"
+excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
+publishedDateTime: 2022-06-08T17:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
+webUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
 type: article
-quality: 0
-heat: 0
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "pMtwIAqoMrVT4eirgLkkLST426bFY9GdvYgVvfBwFiBG/GEH5Wo7SWgI3GW2pQkdTPGx+0wCUv5GKLqo5heJJ59RcEgBIw8G6UDvHS+BE5OabkHxgi1J4WVk6x+WxnRosjW16ASmeGYzofKdrcNV7uWUqHgCBoq430HH19MaaPEOHOQLM7G7qOlydMlb4IH7eCQxgnf6u29W38eLGI0l5L8oIBCT2djERXS1meGSMJEW9TCIA9TAtWi/WI1kZAsHd5pWHeOh2k59pItTv0Llax0W25poWKzA0GmmcWAi07l9cn2SUS5+og7JECuV+Vv0ZSPMGq5hQOat5bewivWuawtYLv3+JUQe3yhmMbIcIleoUXPKF2KyTGB7i78sR7J2pFvVYXwhxTzkN2YkzBkuWLwKZUFyczkEexzLyCxYdW3hwW2IlVoYXSx3JJsyzJ+tvPIIJlDORpkqLOoNwYZ7Icx6w/S7sV+DR09vOwB/O61gpmtq8yoX7YSH2f05l+YOdQybo8TSIKaSp6A3Mu200Q==;BZ8yJGRhJvc5yPLhodr0YQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "LMkEDTGNrZgCV9ux6AKEmpMvl/9hT9KPE9fG4sVf8HuOpGVoSScxnoasu0x0+Ly17QqWuMVL4O2M3XJyn1VutP2iEvxCSZAy0oQ2djqs3BVYYuOtEp7HrdJQ2akoOEuPEhctRw+mBT6nDeTbFnTmlY97RSpGzuIXPwAaltzdLeRRajZZo/Lme9ewidXTNNe0pXcVerO+jAL3Lq5N5keLcdlEUEzU6pH6ekuj3jEEC2Jw4D9sSIUR2bpXpCxdonwS37ExJCyLud7hBb0d3ZNC54npD5LynZDo5BywgILSdVfJFKSoVE0Ov/KiNvVuf6pzH/U5XuJnZXBc5RK8iKiWG6Q6qj1V5O7gKbF5fL238CE=;O0gcR8agh3NqehP+qgL4jA=="
 ---
 

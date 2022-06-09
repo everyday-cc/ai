@@ -42,6 +42,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Artificial Intelligence is now automatically cloning pigs"
+    excerpt: "Researchers have created a fully automated cloning process that uses artificial intelligence to clone pigs better than humans can."
+    publishedDateTime: 2022-06-09T07:35:00Z
+    webUrl: "https://www.tweaktown.com/news/86743/artificial-intelligence-is-now-automatically-cloning-pigs/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "7+sHgT4P6L5LoSJRcB3h9KMoKqwBtib0YMmNiZDrz7BzU6pA9MhLrIlkMsQE5icNguGMJoi0uBHUf6WwqitzZ4L2SRdzCGg9Z6p3v6t4RqokoAeE80eF5ELJ/SEASpF2VHZjmXbUgZ5+YQdLJaWwfghP3TxyQ6ssgFFtbzMuAITzhHYRE0b5AGVaJycVMZPEIpHpWr+IuLacm1NENjlik8Qq3SOt1tIWHRwT9WPqn0ZRiAc3WMrIvd8jXP5ELSzFJ4QMTQwRnCGlD6qTeJegpb0Klu2/qDOYBivq7AlUfO8yCp65WC5NHT1DtmsZ7psiLjbMmtoTYHsLmVPpjQToZ0goZwIa+mqCOLh8guQ0eB8=;+MaBba5425ftKyFSi5/IZw=="
 ---

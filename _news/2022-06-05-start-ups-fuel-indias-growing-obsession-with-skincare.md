@@ -42,20 +42,6 @@ related:
         width: 680
         height: 370
         isCached: true
-  - title: "Amazon India conducts two flagship programs to upskill Machine Learning talent in India"
-    excerpt: "Amazon India today launched the second edition of Machine Learning (ML) Summer School; an immersive program that aims to provide students the opportunity to learn key ML technologies from Scientists at Amazon making them industry ready for careers in science."
-    publishedDateTime: 2022-06-08T06:06:00Z
-    webUrl: "https://www.siliconindia.com/news/general/amazon-india-conducts-two-flagship-programs-to-upskill-machine-learning-talent-in-india-nid-219180-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 31
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/7934I62s.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Amazon India launches second edition of Machine Learning training programme for students"
     excerpt: "Amazon India has launched the second edition of Machine Learning (ML) Summer School, that aims to provide students the opportunity to learn key ML technologies from scientists at Amazon making them ready for careers in science. The course, conducted over ..."
     publishedDateTime: 2022-06-07T13:11:00Z

@@ -38,6 +38,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "TAUS Named Representative Vendor in 2022 Gartner Market Guide for AI-Enabled Translation Services"
+    excerpt: "TAUS is listed as one of the seventeen representative vendors with a focus on the wide array of language data solutions"
+    publishedDateTime: 2022-06-09T08:28:00Z
+    webUrl: "https://slator.com/taus-named-representative-vendor-in-2022-gartner-market-guide-for-ai-enabled-translation-services/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 26
+    images:
+      - url: "https://slator.com/assets/2019/01/TAUS_900x600.png"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Tencent Recognized as a Challenger in 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services"
     excerpt: "Gartner Inc., a company that delivers actionable, objective insight to executives and their teams, has released its 2022 Magic Quadrant for Cloud AI Developer Services. Tencent has been recognized in this Magic Quadrant for three consecutive years,"
     publishedDateTime: 2022-06-06T09:42:00Z
