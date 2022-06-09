@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 related:
   - title: "The Global Computer Vision Market is expected to reach a value of USD 30.94 Billion by 2028, at a CAGR of 15.89% over the forecast period (2022-2028)"

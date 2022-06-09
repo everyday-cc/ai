@@ -1,40 +1,20 @@
 ---
 category: news
-title: "Edge Machine Learning Enablement Market To Exceed US$5 Billion By 2027'"
-excerpt: "In recent years, the industry has witnessed the migration of Machine Learning (ML) closer to the data source to create a better user experience and enhance privacy. To ease the challenges in design and development and accelerate adoption,"
-publishedDateTime: 2022-06-09T08:15:00Z
-originalUrl: "https://menafn.com/1104348084/Edge-Machine-Learning-Enablement-Market-To-Exceed-US5-Billion-By-2027"
-webUrl: "https://menafn.com/1104348084/Edge-Machine-Learning-Enablement-Market-To-Exceed-US5-Billion-By-2027"
+title: "Edge Machine Learning Enablement Market to Exceed US$5 Billion by 2027"
+excerpt: "SINGAPORE, June 9, 2022 /PRNewswire/ -- In recent years, the industry has witnessed the migration of Machine Learning (ML) closer to the data source to create a better user experience and enhance privacy. To ease the challenges in design and development ..."
+publishedDateTime: 2022-06-09T08:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27622149/edge-machine-learning-enablement-market-to-exceed-us-5-billion-by-2027"
+webUrl: "https://www.benzinga.com/pressreleases/22/06/n27622149/edge-machine-learning-enablement-market-to-exceed-us-5-billion-by-2027"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?39236"
-    width: 375
-    height: 249
-    isCached: true
-
-related:
-  - title: "ABI Research: Edge Machine Learning Enablement Market to Exceed US$5 Billion by 2027"
-    excerpt: "In recent years, the industry has witnessed the migration of Machine Learning (ML) closer to the data source to create a better user experience and enhance"
-    publishedDateTime: 2022-06-09T08:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-06/56266847-abi-research-edge-machine-learning-enablement-market-to-exceed-us-dollar-5-billion-by-2027-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 12
-
-secured: "kwm9t5yONBeBk+tg2L50HZBANgyt29TWkUspuBRkjxoQNbXxPwr7QJ/peIEAchl64X/j2cjar3fN9rlufbDjwD5KVdOqlVe9/Si+fBkXafVYLs/1q8shWxH+g1Y9qwN9Yj2mjytSRziHJh7IHjUB9Xs9XmeD8wru4ewrV8/gxZcO0f8HViC/M3OBprot60BuOclqwITiG33iD/rz0TU8CfBYaWqq+STllVlCAsYrNAveaRh55fnv0WWqyAvA2R+x93SP83d6ccm+MKsjX4GhUx4AAZt6xye7ABeNVXosvYNcUU/mUqfIhzqHTkdDe3W1v+7ZVFQI79gd1y20OoC6LcCGuTO03OgwfwZqRzj/zFg=;i5UTGXXUh1/8HxCyBcg4Og=="
+secured: "KbtvzyNC22uluCEPvvxVR8i5X6Av2HNvaqtmuVBDTzqjIZcLIwwleXiQzsWj562d2Slm3iYnbfF5tpMM+CkOFcSibSsmjY5qdffl3VQ6MRbwZAakatrDe7+mbAW1SWQK2h8kde720w7ijAga2BjXc3HuEb31CX6I75kEAkQYRLzGrhHQYRhICaBWXVV8YnRHxfgpO1+OpL9GNxJhQo0kjFYkM9UY40ethn1m1BZbiwy+zOmTxHB+HvJKaFVF3ziDWCgEJ5rt4B+59XNIgakgRgCkWjMV/b6kEFdvJlT5wr0Nmmh4DZrt6U80VyGUwJEx+G8bZ8DP2V3b8KroVGAruLeRR4Wnmc/jS2Pc5LFP354=;iB04NwgVV/oDfaNmI5h7Hg=="
 ---
 

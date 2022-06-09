@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Can video games boost kids’ cognitive development?"
-excerpt: "Researchers have found that children between the ages of eight and 12 who play video games perform better on a variety of tests associated with intelligence and cognitive development. Can video ..."
-publishedDateTime: 2022-05-31T18:15:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/31/can-video-games-boost-kids-cognitive-development"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/05/31/can-video-games-boost-kids-cognitive-development"
+title: "Can video games boost kids' cognitive development?"
+excerpt: "Researchers have found that children between the ages of 8 and 12 who play video games perform better on a variety of tests associated with intelligence and cognitive development. Can video games ..."
+publishedDateTime: 2022-06-01T12:25:00Z
+originalUrl: "https://www.forbesindia.com/article/lifes/can-video-games-boost-kids-cognitive-development/76877/1"
+webUrl: "https://www.forbesindia.com/article/lifes/can-video-games-boost-kids-cognitive-development/76877/1"
 type: article
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Forbes India
+  domain: forbesindia.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/05/30/1604464.jpg"
-    width: 1240
-    height: 826
-    isCached: true
-
-secured: "VKIAD2UXfZ09fqjfMkUgWG+qsCL9UMNwAGhYhw+3ddG/WiYIb8em1XR7sKvtHQljtI1d/2BSL6qpwnkGTxGeSiwKtHZFwuQwjhBypBUNylEPECmV0wfqMlgJrr03+P0e3m7Wxt7OvF7+7Imo6WrqCg4mOxue5qMQVz1LPq5yNAgRQdAlVRYuNdAVX4k00e3MEX0g55H/nl/HUVADJgnbvzCNZv/BIyw+pwCrXdR8INej+/DVfmA1Bjmdcm3DhGQlMJamJ8T9IOsiH8PHwbM/g554R9rAV5jgT1WsekzOfe4Z/zq8/5umacOzHI2bMMctb7Jo1vPcB/vdwW+p1REZ1zV7htpRm3KnLLbtd+ok7Ms=;mYZuE4qsrEFUddybcLPNVg=="
+secured: "SVzfyiOr+U50LQM0L5OZSkE7LTCr20uq0hZI9Y8dM326VEDp6JNGHTicsB9tmkGQK7P2QLAXo/dEHN/FepcA031gCjAY/MlCQxq42MPcnGQtM2ocLIiR1f7drJfoDczw3wuNVCyti3qIexdZ8xvbA3z20agl7T+eXRBi4p3VoKBwHXUc6fjNLcA68y2OCDhSWu2I5HOumfkITh3b7Yxumu9bRiYEvgQxjNEneT4Rcd8lJ7xBcvDinf4LpLN+bk88JUr2MhQdyx1y7Dk0dd3cOeeyBqKMjlhQ/JQ5Wg3kfzrXY4m5qM0XT92EAbts0JT8VF/Jiaxka44pthsNf9144M0Ej6VHY6J+HaWJYKEXX+g=;2IpWbv02/m2jA1GaC0q9Bw=="
 ---
 

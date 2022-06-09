@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-06T13:18:00Z
 originalUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
 webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
 type: article
-quality: 21
-heat: -1
-published: false
 
 provider:
   name: FOX4 Kansas City
@@ -18,51 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "AI Ethics Alarmed At The Rise In Underhanded Juicing Or Doping Of AI Machine Learning By Trusted Insiders, Including Autonomous Self-Driving Cars"
-    excerpt: "Worries are that juicing or doping of AI Machine Learning is gaining traction, an AI Ethical woe and dangerous, including for the case of AI self-driving cars."
-    publishedDateTime: 2022-06-07T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//628ab0b5c6b6ddedd0fce126/0x0.jpg?format=jpg&crop=2647,1765,x0,y128,safe&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI-Powered Hong Kong Biotech Startup Raises $60 Million From Top VCs Including B Capital, Qiming"
-    excerpt: "Insilico Medicine uses AI to speed up drug research for diseases like cancer. Before starting Insilico Medicine in 2014, Zhavoronkov founded Deep Longevity, another AI-powered healthcare startup in Hong Kong."
-    publishedDateTime: 2022-06-07T09:19:00Z
-    webUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/"
-    ampWebUrl: "https://www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaydecheung/2022/06/07/ai-powered-hong-kong-biotech-startup-raises-60-million-from-top-vcs-including-b-capital-qiming/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve//629f13ed0c991cb629d8d39f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 585
-        isCached: true
-  - title: "An Innovative ETF Opportunity That Taps Into Our Increased Understanding of the Human Genome"
-    excerpt: "For example, Grous believed that the convergence of next-generation DNA sequencing, artificial intelligence, and gene therapies should ... Looking ahead, ARK expects gene editing and gene therapy companies to grow to $1.1 trillion in market capitalization ..."
-    publishedDateTime: 2022-06-09T00:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/an-innovative-etf-opportunity-that-taps-into-our-increased-understanding-of-the-human"
-    ampWebUrl: "https://www.nasdaq.com/articles/an-innovative-etf-opportunity-that-taps-into-our-increased-understanding-of-the-human?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/an-innovative-etf-opportunity-that-taps-into-our-increased-understanding-of-the-human?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 43
-
-secured: "OP434ZGIhxtSMeHpyzD+erqavPvMlY0bywxTNOVvZ42cHiyLM1OCCn+AeYW9h4G9qdBW7cb8pAzd94fe0SLgWiz6PCoEAEMkbmGS73i/Hg5sicxo2oKrzU8kmSoJEbXYKceZyPSESv7jhShmwCm8MUgxWcgI1H1D2/YMU23sdLVV2IqMwDIcEXzLRDicXwdGJpKU0BPBKTTECpJrwW8plBY8Dt3yINr2YQ+8XcOroyxrBLHLZBVU4fQ6APF5OAxyZ4BMqnneZv4Qy9evwAOZsNNh4OMOPllo1vwAC3AIajT/zAXhZIH1d5o5IYPZkC0d9MfpBOJLTMiqj+Fr8P7d0fOzR5AeSdcL2pq1t+uxSY0=;fN6o7fvNEVsZt90RU7dGLA=="
+secured: "0ev71s5V5Ts0QwxrKoAETvF86neF9sWAbUFKjQaqVLddQgyo6t+O5BMjJRGOkQIdd/Q2w5DoUsq++RdqqKyR4pKU0u9wpW5qyk+jjGdS/wa8+bghxTQyh3UsuZstfV8QPVixUvpzAmdYG7zkadSVc2erjTjzPpm8uZ3YpnqhlfJ26onqJLgtdlrgXqc2yrv/Lnz7pQJkTlcfPYk+/0WIEPwwKhxY2JpIIqf4o7YH2eFUU6yffj7StKFH19TFWoaCFS+SKpbBjweGqym/TqK2bGpirCS9fpRnR+mWbGCbd9iZLrpMXSA31kKj/gn/4SAehfnYQUI2URk/iPLYG2TviIxeg+CBruZmrO9JSIA69GM=;Ukd9f5wk5GghmKwnY0XnRw=="
 ---
 

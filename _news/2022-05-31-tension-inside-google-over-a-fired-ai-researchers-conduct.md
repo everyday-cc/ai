@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media.wired.com/photos/62915e44055b58ec351db05c/master/pass/Tension-Inside-Google-Splashed-Paint-Business-594800569.jpg"

@@ -3,24 +3,18 @@ category: news
 title: "VHC Health Becomes First Health System in DMV to Utilize CERTIFY Health’s Facial Recognition Technology"
 excerpt: "CERTIFY Health is excited to announce that VHC Health (VHC), a community-based health system providing medical services to the Washington, DC metropolitan area, will be implementing its positive patient identification (PPID) using facial biometrics at all VHC locations,"
 publishedDateTime: 2022-06-02T15:36:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-health-s-facial-recognition/article_d237def6-7198-5392-aa51-1a62cbf87a79.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-health-s-facial-recognition/article_d237def6-7198-5392-aa51-1a62cbf87a79.html"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_158fed55-11c6-50ae-ab4f-43f48aac81bb.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_158fed55-11c6-50ae-ab4f-43f48aac81bb.html"
 type: article
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "EE411JwB+0B8bKhP+QEbc/fWrc5s5MhOAmqt77IVcP7RAD8CIAXLE7Jwn6n6q7TCkdpZTa3u63I5fb4cKi+WYf34p8vYRgmjUNIeJ5VnHWtOPZlzlDyY/OZFziYssSz5Lga9D+BbRiUg5fMGAQGOug1Q17uJeuyrmutl9KMA6j2yo73oTlbHV8BDFpcDm2naGKMsDDWy4y84RtlKD9x2zTc0rVqeQ0X+QgnRARscusIxMmyB4iqVYb4CNKSyVQV10vYwiV7vDZaqgKP5hqeX4k1XHh1vdlowikAAsiDF1iHQLdC/59v0Y52fLSYXuA/wV+vWW4tcpBAs5bwzTnqBJfrKg60I4Wl1DMNXhHi8Oqk=;FbNbRktHmEuPyBE+jZv7wg=="
+secured: "uUVe/JNVTW1x4K440eUNj8vq/GXPhT1VOv4P0CfalVbyRYnPmfYdwAspuw+Ipi5g51qF+qzgxpNuhBVHjSo6k9CSKxOgjEBhjxgYhrHfdcQyog+Vk1tGFrrSEcrrHjemqDD7FN1vDEGgdcCizxaucLQge/fqbPGytPb+4/KoaKmqnAHhGg0h1ED1MLsDc/Ex7pCqjBHvgPWWFBcugUF808UJ8vYzZHa3uid4cSyvDFTCVitrRgKK55g0kyVyYoFkZJpDfoMrBugEd6QSQ0Z5t4TPt7WuJEFSr/AAC0PFg2AHtT96LAGdn0XFZkfsV4dpiCmOzb2eQPLC/fJAi31MCk8P0Tyc/fPojE3s1BpiSMiUn8B0c/jqocUz5+mmtDZGDCM/73VAbS06WmBvF9v+qdL9Zo6dBFHOeZWlcjasKRmhXfSjR1kTpwPGEKKO8mfv3ZBwT94o4VBsrmG9KsA5k2wDP9ezW41sGBeKyfinnwCgFvTB8qQCvaxFKe9VP++E2RmI2DZbthBr2E/8cjrpIg==;JDUabCnY0cItmH8G71N/bQ=="
 ---
 
