@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Aera_Technology"
   url: "https://twitter.com/Aera_Technology"
-  followers: 2582
+  followers: 2583
 
 size: 201-500 employees
 yearFounded: 2017
