@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/the-global-computer-vision-marke
 webUrl: "https://www.digitaljournal.com/pr/the-global-computer-vision-market-is-expected-to-reach-a-value-of-usd-30-94-billion-by-2028-at-a-cagr-of-15-89-over-the-forecast-period-2022-2028"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market Size to surpass US$ 1394.30 Billion by 2029 | CAGR 20.1% (2022-2029)"
+    excerpt: "The surging demand for the robotics across various end use verticals is expected to drive the growth of the artificial intelligence market during the forecast period. North America dominated the global artificial intelligence market share in 2020 with ..."
+    publishedDateTime: 2022-06-09T10:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27622661/artificial-intelligence-market-size-to-surpass-us-1394-30-billion-by-2029-cagr-20-1-2022-2029"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27622661"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27622661"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
   - title: "Autonomous Car Market Size to Grow Worth USD 11.03 Billion at a CAGR of 31.3% for 2021-2029 | Fortune Business Insights"
     excerpt: "Furthermore, giant businesses associated with automobile manufacturing are promptly adopting Artificial Intelligence (AI) and Machine Learning (ML) technologies and implementing them in automobile ..."
     publishedDateTime: 2022-06-08T09:36:00Z

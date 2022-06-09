@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/optical-chip-2-billion-images
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/optical-chip-2-billion-images-per-second"
 type: article
 quality: 76
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "New AI photonic chip can detect, identify and classify two billion images per second"
+    excerpt: "The chip in some ways mimics the make-up of the human brain ... Unfortunately, though, given the potential power of this new iteration of AI, and the apparently unstoppable trend of dictatorships relying on the construction and imposition of technological ..."
+    publishedDateTime: 2022-06-09T10:59:00Z
+    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/new-ai-photonic-chip-can-detect-identify-and-classify-two-billion-images-per-second-44656/"
+    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/new-ai-photonic-chip-can-detect-identify-and-classify-two-billion-images-per-second-44656/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/new-ai-photonic-chip-can-detect-identify-and-classify-two-billion-images-per-second-44656/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 67
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/artificial-intelligence-3382507-1920-8831.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "A chip that can classify nearly 2 billion images per second"
     excerpt: "Artificial intelligence (AI) plays an important role in many systems, from predictive text to medical diagnoses. Inspired by the human brain, many AI systems are implemented based on artificial neural networks,"
     publishedDateTime: 2022-06-07T15:27:00Z

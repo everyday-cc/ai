@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Media Alert: BrainChip Discusses Impact of AI with Marc Staimer on Latest ‘This is our Mission’ Podcast"
-excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 29, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of"
-publishedDateTime: 2022-05-29T21:34:00Z
-originalUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-discusses-impact-of-ai-with-marc-staimer-on-latest-this-is-our-mission-podcast"
-webUrl: "https://www.digitaljournal.com/pr/media-alert-brainchip-discusses-impact-of-ai-with-marc-staimer-on-latest-this-is-our-mission-podcast"
+excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / May 29, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, today announced that Marc Staimer,"
+publishedDateTime: 2022-05-29T21:31:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-4ed735cc2a8449626664b432849e6d83"
+webUrl: "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-4ed735cc2a8449626664b432849e6d83"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Davos-Selensky-AFP-1K-02-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "AgyarxPFMdPdm/4G5Y4NXogS7gOD+1GvQ+wwHU47ZfOahAXjaO0fBkwfvYo3O9e5erPxCYPvaASdjrd3TJs3/zBonXQcxkt1NtWPkHedc/SPI+iSalEPJAGisQnRTjixfz/tJwfPyCGT5Zdc+SsUhxHxwV9LwzmfF4xTR/ORVXtdOT8rlMZD8zJl4PhUuWLjdDvmumdzpOO7Z8emG8ZMLlo5T5e4lWtN1L9qtMPlAr2EB3pScI1f8Zfx7Wnga5/fANNtzODcqV28oc2UssxE8Chj5L1htEDREor8eDYGe7sTWxCNsFXCWV2VpnloT0o4Ht1WT+O32UClXBbfRlifDxFhvbkkSFsrZOwyqSzPrLE=;O+Qf3zib7mT9CVefBArt+g=="
+secured: "qq7F306jIooYkk9bGUNfnMGDBEUWZBWyKYzoCF4KPsQLl93/e9uQzJGeeoT1tn9GrvtKRPOGQP0GNoi6L+Ra+zdOHzQas8GIILyQHT2cnlJj58RnZ1WukvC6+7lQbVTYDtZidG+gfq2OMErlG9UaU/MIXBPKutXFiDkMWkagQFmeZcFiGGZxeJNk7o1MOWdH1ky56tAobJlvA6Vj/HTwcxmvmOJHvumbK8XZUZESTTwjes4K6Txa/lz3+faUmoRPEqkennBJjaUkDDEa/zAc/lV+XoISw3Hmx4zdGfs6TrVh6PllF+nltM/Wti0hVaTBKoWvtNF0TIInWtvuEmP00Z+MWiKszXwMe4rSFczg0BM=;nAD8ZMu2Gddg6fkY3ree6A=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-09T09:30:00Z
 originalUrl: "https://www.economist.com/by-invitation/2022/06/09/artificial-neural-networks-are-making-strides-towards-consciousness-according-to-blaise-aguera-y-arcas"
 webUrl: "https://www.economist.com/by-invitation/2022/06/09/artificial-neural-networks-are-making-strides-towards-consciousness-according-to-blaise-aguera-y-arcas"
 type: article
-quality: 21
-heat: 21
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220611_BID003.jpg"

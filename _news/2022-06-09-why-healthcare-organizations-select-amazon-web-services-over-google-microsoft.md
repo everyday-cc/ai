@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-or
 webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "P&G, Microsoft announce manufacturing partnership"
-    excerpt: "Cincinnati-based consumer goods giant Procter & Gamble on Wednesday announced a partnership with Microsoft to build the future of digital manufacturing."
-    publishedDateTime: 2022-06-08T15:25:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/news/2022/06/08/pg-microsoft-partnership.html"
+  - title: "AICTE Onboards Microsoft, AWS And More To Promote Technical Training To Students, Academics"
+    excerpt: "Marching towards making India the globe hub of future technologies, government bodies and private players have come together to provide necessary technical skill training to 1 crore youths in"
+    publishedDateTime: 2022-06-07T14:30:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 81
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/06/07/1296568-aicte.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "P&G and Microsoft co-innovate to build the future of digital manufacturing"
     excerpt: "With Microsoft Azure as the foundation, the new collaboration marks the first time that P&G can digitize and integrate data from more than 100 manufacturing sites around the world and enhance its AI, machine learning and edge computing services for real ..."
     publishedDateTime: 2022-06-08T11:07:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-08T18:43:00Z
 originalUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/06081MSFT-PG-BIDU.asp"
 webUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/06081MSFT-PG-BIDU.asp"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - AI Hardware
+  - Microsoft AI
 
 images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"

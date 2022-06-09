@@ -2,9 +2,9 @@
 category: news
 title: "Taser maker halts drone project; most of its ethics panel resigns"
 excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
-publishedDateTime: 2022-06-06T17:57:00Z
-originalUrl: "https://www.reuters.com/world/us/exclusive-axon-halts-taser-drone-work-some-ethics-panel-said-resign-2022-06-06/"
-webUrl: "https://www.reuters.com/world/us/exclusive-axon-halts-taser-drone-work-some-ethics-panel-said-resign-2022-06-06/"
+publishedDateTime: 2022-06-06T22:57:00Z
+originalUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
+webUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
 type: article
 quality: 69
 heat: -1
@@ -335,6 +335,17 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 39
+  - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
+    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
+    publishedDateTime: 2022-06-09T10:15:00Z
+    webUrl: "https://www.kansas.com/news/business/article262197492.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article262197492.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article262197492.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
   - title: "Axon Hits Pause on 'Dystopian' Taser Drone Project Following Ethics Board's Mass Resignations"
     excerpt: "An attorney told Gizmodo board members were “blindsided,” by the CEO’s short-lived vision for drones to combat school shooters."
     publishedDateTime: 2022-06-06T18:20:00Z
@@ -416,6 +427,6 @@ related:
       domain: kcci.com
     quality: 11
 
-secured: "Apxq8dhFgQMXv8GAfMrtyR8m/1CXMeb0l3zbZMqcqJILbNTsakEw1v5zeSkJfHLUT0/3UBnN7ccX221EQPmM3xAIb3sCWfxtJSvDCaVwQZAyHdebpJyBRIoQNSyTCq4GNpiUfmECekPqTAU+OOfY7w3E95lLsXBaK4JJ5AnPY3ab8F78GHTs5PX0IgKv+X4k5iMa4TcG5pV1fqjKmWFgpMacwbbRreLlc9SOtqFTaFr/vLoIP2AtSSDDzpFWDo9Ey7dk8JWeFydIeCiQgHHJq9HrG61U6/BrCb3yaN1Z54a2ZjN9l4ceOIBBPpa4GPOjnHCVzNgK/HAFZPp3gNFwoG6ZdtDYJfe6/j7a7vE2tcgLx8z72zwspfhSZDSuvBzsR/7PNvfayCw2OEz2fLka3byhP3fDqbjK2Rwkp2OYwWo6dgUvbBxtR+4b5ILULluJZ31YHsSpE7IvI4bBCHnLi4u09oNKMlE9MkcTAeZDRm7km+li3k6cIhrJnO5CXj6V4/QsfjOXd0houtXHSCL8Rw==;OxRc+S3ctYbycfiPaVB9qA=="
+secured: "FTqYO+d1TbxlEmgJyU7ZpjLbLkab8A42dHfKj8TFXbUwVD4CYMBMeA3g3/0iMvFAB2RI94gfht7TuBp39sSj45ip6prLS28+tRft6DuBV+g6X+gdvVUN1sehQA1n8aaeX1Ul5zM1TzDx3ykYtqBdZUAuCUv6PrnXl9oTCEbB7h5jH/woAdfbKngg5KWBBDbgPBcXl91v+HpLTQKQ6rWpKqjeFBb5gf/DUZH2htAPcR+deLkmgDlSYisRu+NzG4FPLW8qjsKnIGVhkedpmd4eUYpQ8pucwePEXFUnxI2iGCpdxPVw4D5ooHAR2knvGqWxA+IBF3n5VpgMY/r44jBlfJoThK77FNMGNIYQuy30tWo=;ZcFMlz61kv9iWR1N8pP2XA=="
 ---
 

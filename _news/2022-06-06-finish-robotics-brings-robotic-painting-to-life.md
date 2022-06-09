@@ -7,7 +7,7 @@ originalUrl: "https://www.constructiondive.com/press-release/20220603-finish-rob
 webUrl: "https://www.constructiondive.com/press-release/20220603-finish-robotics-brings-robotic-painting-to-life/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/making-robotic-assisti.jpg"
         width: 1711
         height: 867
-        isCached: true
-  - title: "Cowen & MassRobotics Highlight Role of Robotics in Achieving Climate Objectives"
-    excerpt: "Cowen Inc. and MassRobotics announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
-    publishedDateTime: 2022-06-04T17:18:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2022/cowen-massrobotics-role-robotics-climate-objective"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 50
-    images:
-      - url: "https://www.automation.com/getmedia/66ce7547-431a-4d87-ab2f-525f1ede115e/mass-robotics-news-June-3-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
         isCached: true
 
 secured: "4XDC93z/WFaYLUtLNJ+pS8hAm8zmwZTYsIxReMUASniaLu/1YfZMqKPJ0X0PTgSI4rDMvRZ1Jxm5LrfhTDfiT9lMaqkldotnQ1RqSFPFDGknpu1mJjjl2HyO+A+0PbXqmB5UMXXvTfFd3gECNG+t+gzXhZhW+Ae2FmPq4hWoS04sh44WVN4+txuJkJV/sYQbrwykwasVWzGBIP6OSu4KX4ksK5/CS7rxqLDnLNWEAyjJPYF5CCXf7wd8xEzUv+9J9wWa41lNXbfe1VY+1sOJSU0TwWdTII4J5lu8b+aHOBzEk3ACUUwlRuRRQ2sOrB368pHszVCgCRryqM+yLhTtKpYKTcIGdcG0R9Ag4etZ7rG0wzwX1c72awNknGGuPXcLPtFVAB9bkLZBgrnOGMUDhTF0+Ao2j/UCbGp39001/7+Igp//y+N/gTJU18Q1ZTBBQlP4alSEyeJA1JnSuy+2Kfzf65uWktcwHBLrIi0/NdxZmAKI7rf7tnVu8Kz1fooGQQkqg7v1ZS81aCSltxVX9g==;bp18cdoRXvTSSitGzBO8lg=="

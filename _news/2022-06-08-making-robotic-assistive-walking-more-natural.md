@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 700
         isCached: true
-  - title: "Cowen & MassRobotics Highlight Role of Robotics in Achieving Climate Objectives"
-    excerpt: "Cowen Inc. and MassRobotics announced a groundbreaking research report on the increasing role robotics is playing in helping companies achieve climate goals."
-    publishedDateTime: 2022-06-04T17:18:00Z
-    webUrl: "https://www.automation.com/en-us/articles/june-2022/cowen-massrobotics-role-robotics-climate-objective"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 50
-    images:
-      - url: "https://www.automation.com/getmedia/66ce7547-431a-4d87-ab2f-525f1ede115e/mass-robotics-news-June-3-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
 secured: "lrKn8XVIAFZNr1nWpk6eZheIjExvXWd1ai0mc1874IqHYOKqws1Bleco6zuSUvTvkjzYRJ7hoXPEdBbJlls5ayEWTkdGY26r5fCxqeV8v1Mg+mPwgUEaWfwvABZpQ+O5EY8YwZjXMOtNh8ZB5oEVgHpMvkn8ZPXO4i7hFOz2ewgBtl89uoZl1/ZJF9D+za306Wh2KBg2IQ2VIFzv6AQjkizVhewdHw9Zc3RuFyqHAkCphv1vORyEe6HLRITgMVCn2vOr9QFUeUnsh/rICYvBOtzrupRdYCWJqDsj0sWVPKh/lw1YRLB7CuqTRTtszEc0gdl1+ter9fwF5IVV4PZ2lvC9Jd7Zh0div+i9TawNa6w1x7uD8MbZuHJPYgsQp1v39g2hZh8mxSf8uZUdO0MNPWhn7EZeGdefiHhF0mpAj3S2KfcBKH2I3urDXL2TsjLrq/X9Hnr7SAECNb5KL7Nn3mOhJoODCH2l69YKhZAso66mZw/sTGx3a9mDiVuZjl/mVqifQ8Ez5gB+G5arOyz5zw==;3oczN52NRoY+eUj8HZZQMg=="
 ---

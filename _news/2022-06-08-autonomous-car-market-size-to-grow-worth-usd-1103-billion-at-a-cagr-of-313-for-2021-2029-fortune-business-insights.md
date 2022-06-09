@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Market Size to surpass US$ 1394.30 Billion by 2029 | CAGR 20.1% (2022-2029)"
+    excerpt: "The surging demand for the robotics across various end use verticals is expected to drive the growth of the artificial intelligence market during the forecast period. North America dominated the global artificial intelligence market share in 2020 with ..."
+    publishedDateTime: 2022-06-09T10:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27622661/artificial-intelligence-market-size-to-surpass-us-1394-30-billion-by-2029-cagr-20-1-2022-2029"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27622661"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27622661"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
   - title: "The Global Computer Vision Market is expected to reach a value of USD 30.94 Billion by 2028, at a CAGR of 15.89% over the forecast period (2022-2028)"
     excerpt: "Manufacturing industries use high-speed cameras powered by computer vision for the detection of anomalies on the product line while processing more than hundreds of products and variables."
     publishedDateTime: 2022-06-06T19:34:00Z

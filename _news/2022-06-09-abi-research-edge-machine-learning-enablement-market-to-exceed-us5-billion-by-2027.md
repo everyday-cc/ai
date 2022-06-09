@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Edge Machine Learning Enablement Market to Exceed US$5 Billion by 2027"
-    excerpt: "SINGAPORE, June 9, 2022 /PRNewswire/ -- In recent years, the industry has witnessed the migration of Machine Learning (ML) closer to the data source to create a better user experience and enhance privacy. To ease the challenges in design and development ..."
-    publishedDateTime: 2022-06-09T08:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27622149/edge-machine-learning-enablement-market-to-exceed-us-5-billion-by-2027"
+  - title: "Edge Machine Learning Enablement Market To Exceed US$5 Billion By 2027'"
+    excerpt: "In recent years, the industry has witnessed the migration of Machine Learning (ML) closer to the data source to create a better user experience and enhance privacy. To ease the challenges in design and development and accelerate adoption,"
+    publishedDateTime: 2022-06-09T08:15:00Z
+    webUrl: "https://menafn.com/1104348084/Edge-Machine-Learning-Enablement-Market-To-Exceed-US5-Billion-By-2027"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?39236"
+        width: 375
+        height: 249
+        isCached: true
 
 secured: "KIu4MQWU+5U0AMdNw7GJ2An3i0nH0mC9S6Z3lNt7L4Tilou2UaN4tfwELwPIbNtV7YbTdvT/WY9Gbe0rbocTfhkUqfdTNv4Gua9RLe8SoxwpEi1mwKSfRvwbv9WPGHggIKCoRmRa/crD9JKlcK8MNBn25UDmYar45i7l+od5zefTZ0TktLl7//mtEEiTvaNLogcDzsmSf+Q6phaGKbCb/4JcP9I0SstZIIjOjXqxtfD61YJDU77m+GeVmouelPhxWAObrBcCeZogt9eQLNJ2lKrFISXAp1Cr0RpdkDUWhGw617gw3ctroiXl59Tjc0d6C2Ky+Fe5r9sYDTtmtic9wUEJMRQBjtygl6WZx9omjVI=;YuXZpWhJxe3kMlqtJ5GNNQ=="
 ---

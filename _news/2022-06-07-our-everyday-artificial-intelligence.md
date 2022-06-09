@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI company Provizio set to drive its way into everyday use"
-    excerpt: "Founder Barry Lunn says the firm’s motor incident prevention technology will soon be found in most vehicles"
-    publishedDateTime: 2022-06-04T22:00:00Z
-    webUrl: "https://www.businesspost.ie/tech/ai-company-provizio-set-to-drive-its-way-into-everyday-use/"
+  - title: "Your AI Practices Might Not Be Ethical"
+    excerpt: "AI has fueled efficiencies across industries for years. It's old news by now, but as I've said before, that's a good thing. Conversations about AI sound much different today than they did 10 years ago."
+    publishedDateTime: 2022-06-09T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=9789dfdd-af41-5c9d-a9a3-97a51c7367f5&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.07491"
+      - url: "https://imageio.forbes.com/specials-images/imageserve//623e03aea76ee421fc3bd76c/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
 
 secured: "ipfUyUT5QFKNdCSG8epe2Bv8zdOTHOqCyC949KYD65M271MOQKKoi1vBo8Van10z16y8Ns/o0Qw572/XEh5ZZWlk1ZbZcUzZfD9DYOpYmOZdiJXl/1RPFyHZr5bZLbDIunjGneC4c/YTZQsMctXQ8HJ4kDPYY4eGmCAP2MlP+hoB3XbaA8S4D5ksG5yi0ItrHw8vMNr8UIe5Oe0LOrTwYFqFR4fzteOOxbujKklZ4DCkdpap20yESbVim88J1HCuHNv9PpVh3cGXPhAS6WbKXrSJp2gjhU3B0EFsNOPGBv/gregEc5HM07RgdI+uWH+oz+jWZ4+NkSqoo8VgkjGULLx/fTvibmF3T3m8obQby2w=;aMjXOrxGBFIfrvfpu+VIiQ=="

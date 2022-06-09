@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Edge Machine Learning Enablement Market to Exceed US$5 Billion by 2027"
-excerpt: "SINGAPORE, June 9, 2022 /PRNewswire/ -- In recent years, the industry has witnessed the migration of Machine Learning (ML) closer to the data source to create a better user experience and enhance privacy. To ease the challenges in design and development ..."
-publishedDateTime: 2022-06-09T08:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/06/n27622149/edge-machine-learning-enablement-market-to-exceed-us-5-billion-by-2027"
-webUrl: "https://www.benzinga.com/pressreleases/22/06/n27622149/edge-machine-learning-enablement-market-to-exceed-us-5-billion-by-2027"
+title: "Edge Machine Learning Enablement Market To Exceed US$5 Billion By 2027'"
+excerpt: "In recent years, the industry has witnessed the migration of Machine Learning (ML) closer to the data source to create a better user experience and enhance privacy. To ease the challenges in design and development and accelerate adoption,"
+publishedDateTime: 2022-06-09T08:15:00Z
+originalUrl: "https://menafn.com/1104348084/Edge-Machine-Learning-Enablement-Market-To-Exceed-US5-Billion-By-2027"
+webUrl: "https://menafn.com/1104348084/Edge-Machine-Learning-Enablement-Market-To-Exceed-US5-Billion-By-2027"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?39236"
+    width: 375
+    height: 249
+    isCached: true
 
 related:
   - title: "ABI Research: Edge Machine Learning Enablement Market to Exceed US$5 Billion by 2027"
@@ -29,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 12
 
-secured: "CtcqJ1OIKs0BsKp6FXwkjWu8Kb4YWUYmFeA4ZjoKakW6WUnXyEwawqQ/vKdyvY+hNqpOx+ktga50e1W7pL8T554NRzavQFlF+RJxmXL/YgcEOuGsML6KTsRZLt8LzxXWJdrs2+C+TViLQCVZFlFm8zWfSpyoo/0kqD+CEqF3IyoTZEfNVh2JUKABY8DMXhxtffQAEjVR/szXY6owXvGlUdjvCRxplpsSqR5XdFfFT8RWHN5Kl1dtQOBF8fDlakVGj83QeqBAZnrLRorBoyKlfgi+cMGmJMFeeOAwM2Dc3YA3I4J10wnjw7otT8OVX2ssDExp1G1qJiT5GmY2Bs7Yyk88W7suAz/csxkmhv0Avw4=;VG5p7tGezg2H7G2Z4Ia8eQ=="
+secured: "kwm9t5yONBeBk+tg2L50HZBANgyt29TWkUspuBRkjxoQNbXxPwr7QJ/peIEAchl64X/j2cjar3fN9rlufbDjwD5KVdOqlVe9/Si+fBkXafVYLs/1q8shWxH+g1Y9qwN9Yj2mjytSRziHJh7IHjUB9Xs9XmeD8wru4ewrV8/gxZcO0f8HViC/M3OBprot60BuOclqwITiG33iD/rz0TU8CfBYaWqq+STllVlCAsYrNAveaRh55fnv0WWqyAvA2R+x93SP83d6ccm+MKsjX4GhUx4AAZt6xye7ABeNVXosvYNcUU/mUqfIhzqHTkdDe3W1v+7ZVFQI79gd1y20OoC6LcCGuTO03OgwfwZqRzj/zFg=;i5UTGXXUh1/8HxCyBcg4Og=="
 ---
 

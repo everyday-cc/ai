@@ -9,7 +9,7 @@ ampWebUrl: "https://telanganatoday.com/amazon-india-announces-machine-learning-s
 cdnAmpWebUrl: "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Study Machine Learning From Scientists at Amazon in Free Online Summer School"
+    excerpt: "The course helps make you 'industry ready' for a career in science. Registration closes in six days, so apply now."
+    publishedDateTime: 2022-06-09T10:50:00Z
+    webUrl: "https://www.thebetterindia.com/287944/amazon-machine-learning-summer-school-free-online-course-for-students-india/"
+    ampWebUrl: "https://www.thebetterindia.com/287944/amazon-machine-learning-summer-school-free-online-course-for-students-india/amp/"
+    cdnAmpWebUrl: "https://www-thebetterindia-com.cdn.ampproject.org/c/s/www.thebetterindia.com/287944/amazon-machine-learning-summer-school-free-online-course-for-students-india/amp/"
+    type: article
+    provider:
+      name: TheBetterIndia
+      domain: thebetterindia.com
+    quality: 56
+    images:
+      - url: "https://en-media.thebetterindia.com/uploads/2022/06/Amazon-India-1-1654771133.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Start-ups fuel India's growing obsession with skincare"
     excerpt: "The Indian skincare market, the fifth largest in the world, has seen a boom in recent years. Experts say it's driven by a large, young demographic willing to spend money to look good, as well as start-ups that have stepped in to leverage this."
     publishedDateTime: 2022-06-05T03:48:00Z

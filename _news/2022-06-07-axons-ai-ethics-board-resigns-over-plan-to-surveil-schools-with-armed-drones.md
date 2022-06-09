@@ -95,8 +95,8 @@ related:
         isCached: true
   - title: "Taser maker halts drone project; most of its ethics panel resigns"
     excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
-    publishedDateTime: 2022-06-06T17:57:00Z
-    webUrl: "https://www.reuters.com/world/us/exclusive-axon-halts-taser-drone-work-some-ethics-panel-said-resign-2022-06-06/"
+    publishedDateTime: 2022-06-06T22:57:00Z
+    webUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
     type: article
     provider:
       name: Reuters
@@ -334,6 +334,17 @@ related:
     provider:
       name: The Sun News
       domain: myrtlebeachonline.com
+    quality: 39
+  - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
+    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
+    publishedDateTime: 2022-06-09T10:15:00Z
+    webUrl: "https://www.kansas.com/news/business/article262197492.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article262197492.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article262197492.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
     quality: 39
   - title: "Axon Hits Pause on 'Dystopian' Taser Drone Project Following Ethics Board's Mass Resignations"
     excerpt: "An attorney told Gizmodo board members were “blindsided,” by the CEO’s short-lived vision for drones to combat school shooters."
