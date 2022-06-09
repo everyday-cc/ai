@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-184902824
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -15,8 +15,6 @@ provider:
 
 topics:
   - AI
-  - AI in Autos
-  - AI in Healthcare
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png"
@@ -24,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YG6TRz+KIUz6qX7Fue6uS3cWjQ2L0q/wjehqHjhiILnn2NedQdADkHRy8suwSajT9AfWrjvI5UCSfXAV4k342SUcc0hmqpcLlPs+KRw5iAMfXguJq0dVJv/IvI7Pu9LTNaPYZDjiIdLMAOLtwO30ZDZd/+rHWadLWbxQx8r2s2Y+0Na3AZMV1nj2bHlPshZRi4dGBiPTxjQV46QHPDq0iAUh7V97mcOp9wzGVoi248DbsoFocK9apsC+8rRlk/OHQG+ft3DqH9qX+993lmCrWhFlmVPwYIDT8SCgtZh/lIiotwusMQpFaGmqLnn/USnfQGu6Vm1bVR3zWJRdGPOKOHUt2yibKFFAJmD9AVOw2l8=;glwAKTVM/EwOPdL5U8WAYQ=="
+secured: "Z7doYaLkombD9WTZdmznk4BcN1P/g8J2PouO1eurmRBvfvEa/mNjJ1+rcS5UdbiVOo/wxGo0VkZ1IipigMkxDyJhDERVGjpqjIpLy89hSdEogrMWOBoH/BaAv9SmpEfH2KDYu44JnVN4rVMDVRoxEIKYSARowfaVZvRAE4ARGjm6kxulPbNB2/anPVTi8ROGLgtEtTEtNx7EEl3In1uBUdXdRlC0eIvN7MEGOLqFHXbDHulEh1dn0xF+PY15OE0VLRGGFYzDYq+TRerWUIt4nuWzEOJX1ZzFlgXRKJ/mXJGce9TceWt17bUgE91+HDJaOIqvNGZnuYdHztOp+oyH6jvunHbXuG+ZWo5qimfu1C0=;IJdmtkio+1Rn/N6J5HVg4g=="
 ---
 

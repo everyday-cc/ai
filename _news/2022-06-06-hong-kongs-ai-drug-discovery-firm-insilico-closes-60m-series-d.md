@@ -36,6 +36,20 @@ related:
         width: 460
         height: 460
         isCached: true
+  - title: "Insilico raises $60M to invest in AI platform and IPF program"
+    excerpt: "AI-enabled drug discovery company Insilico Medicine Ltd. has raised $60 million in a series D round to support expansion of its pipeline. The Hong Kong and New York-based company will use the proceeds to support clinical testing of its lead asset,"
+    publishedDateTime: 2022-06-08T23:55:00Z
+    webUrl: "https://www.bioworld.com/articles/519573-insilico-raises-60m-to-invest-in-ai-platform-and-ipf-program?v=preview"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 37
+    images:
+      - url: "https://www.bioworld.com/ext/resources/BW-source/2022/Jun-22/Insilico-6-8.png?height=635&t=1654727478&width=1200"
+        width: 847
+        height: 635
+        isCached: true
   - title: "Insilico Medicine Raises $60 Million in Series D Financing to Advance Pipeline and Launch AI-powered Drug Discovery Robotics Laboratory"
     excerpt: "BEIJING, CHINA - Media OutReach - 6 June 2022 - Insilico Medicine, a clinical-stage end-to-end artificial intelligence (AI)-driven drug discovery company, announced today that"
     publishedDateTime: 2022-06-06T13:50:00Z

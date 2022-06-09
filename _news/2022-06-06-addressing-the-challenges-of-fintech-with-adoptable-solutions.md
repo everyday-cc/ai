@@ -57,9 +57,23 @@ related:
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?743119"
-        width: 374
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?427118"
+        width: 443
         height: 250
+        isCached: true
+  - title: "CFPB ends no-action letter with fintech lender Upstart Network"
+    excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."
+    publishedDateTime: 2022-06-08T20:37:00Z
+    webUrl: "https://www.americanbanker.com/news/cfpb-ends-no-action-letter-with-fintech-lender-upstart-network"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/99cc814/2147483647/strip/true/crop/1080x567+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa6%2F16%2Fabaa9faa4420b08af15ea37b1179%2Fab-og-image.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck"
     excerpt: "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ..."

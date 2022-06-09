@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/digital-security/t
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -39,6 +39,20 @@ related:
       - url: "https://www.hackread.com/wp-content/uploads/2022/06/how-to-use-ai-cybersecurity.jpg"
         width: 1200
         height: 650
+        isCached: true
+  - title: "The state of AI in drug discovery"
+    excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
+    publishedDateTime: 2022-06-08T21:48:00Z
+    webUrl: "https://medcitynews.com/2022/06/the-state-of-ai-in-drug-discovery/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1204099471.jpg"
+        width: 2207
+        height: 1359
         isCached: true
 
 secured: "4g65dLr7IBcU4AJzZqvbKQaLjkFkVo9zVHDT+Lngf24ku3jMtK4It8oiY8JhM/qUdXOk8DfFn1GiVIe+h5eYJq69Z9hBigU2V7vuSrO4G332+26eEo7hcuMNmBeDXB7D85pcR1lbHU+MQl0ydvSHcpWJCbqCNUnkjSBmyHBquz/1DJbdsXVxpAIe2UF5F8cy3c3/YmKboaY+iJYyNwq/1+vOUdh4Nfw9qPJOqU9KtnUz1Rx6RNARSXtAhP1KPJ/KGACbMHUqRhpFO/zVwo9corINx5S+rkXGfIxHU0X5adZZ0St8M7HazLhm02AxRfdMmAsTleKjS1c2WddI+8bS4GSmVp7fae/Ht0AjIAqJkYI=;fK2nRIF6xj4r9bJv27w3iA=="

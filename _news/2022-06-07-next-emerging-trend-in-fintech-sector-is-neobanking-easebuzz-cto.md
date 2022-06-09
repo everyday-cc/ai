@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?743119"
-    width: 374
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?427118"
+    width: 443
     height: 250
     isCached: true
 
@@ -53,6 +53,20 @@ related:
         width: 790
         height: 530
         isCached: true
+  - title: "CFPB ends no-action letter with fintech lender Upstart Network"
+    excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."
+    publishedDateTime: 2022-06-08T20:37:00Z
+    webUrl: "https://www.americanbanker.com/news/cfpb-ends-no-action-letter-with-fintech-lender-upstart-network"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/99cc814/2147483647/strip/true/crop/1080x567+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa6%2F16%2Fabaa9faa4420b08af15ea37b1179%2Fab-og-image.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck"
     excerpt: "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ..."
     publishedDateTime: 2022-06-07T09:01:00Z
@@ -81,6 +95,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "1YS/384T9mJIrs9z33O6LUsxxOecUok6lz8kCaGEFHISCgzFMgSZeOWejG+d7q62SGzDUXkrjAsuJktu6L4hY/et5ijOW4u1tu6PrewgrX/wpa/uZLbPE09gqc88PBvDraN92smld78b/iXRzKc8U/GhmFh3SL3y5wVbw8xizKdxuqCN3zMrdc4EEsxrLBaNUumG0MXxpK1xVZJO/30u/h7uzq+2yn/H6PXQUw2S5vk0CQKeL1i1fOieta0vXKEK/YThp2ozb9Td5UpE2KpQKTjklUIUdyrnXYISe5eIQreRTAe/wxB3KsGfVYpl6OC77T4UsM9HFk+nfkgHAIjq9EI+pzZSUldpcb20FQdvMjc=;t6RE0cQK5TqvAtK0SOZ70Q=="
+secured: "ktE9JrRxA8NCsKGnHcm++cOuAMbK9Nl2W7UAj7kM7lKNNzIzzYIqI6f6YSghPpCoKSPwpIZIzRdF46Bz/IqZxSndWAnM71hKV/SgEew7X0icXxx+ypXpfohyixA022ZZTdBIHn6vrvRPQq4xmMWoplKlrRyffSIzrASVZ+LjvPiiXzi8FMJFho8Kph2Z3U892VwGl/hLfio8vWSY9RTC2WVWXBA0PL2rPW0Z/qsMBQGZGYbVoku5qGkPXK2mSQNK95GZsepL2Qxy2ouYnsly4sXW1R6krnVoitdanZnbn79zXbpoUETgMlVAg8VwtDdduvuV9avXKYDZDCU3a5H2TIFyEjW067bKHDx7yN7xeL0=;mzjChLshPrCNPRNiS6AAkA=="
 ---
 

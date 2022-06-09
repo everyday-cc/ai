@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/sg/news/baidus-first-robocar-looks-like-
 webUrl: "https://www.techradar.com/sg/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -57,7 +57,21 @@ related:
         width: 675
         height: 450
         isCached: true
+  - title: "Jidu lifts curtain on concept robocar"
+    excerpt: "Photo provided to chinadaily.com.cn] Intelligent electric vehicle company Jidu, a joint venture established by tech giant Baidu Inc and carmaker Geely Holding Group, unveiled its first concept robocar,"
+    publishedDateTime: 2022-06-08T23:14:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202206/08/WS62a0adada310fd2b29e6182b.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202206/08/62a0adada310fd2bec8e2fe0.jpeg"
+        width: 675
+        height: 450
+        isCached: true
 
-secured: "2EF5DTbyY1GarJtGFSZcrC1yKcJnEGolf/PABJmOCg9pcK7IVgpynkOSa+uB9lOb/pMYyS6yd8DUgOerIQ8NqFGaw01/XpQE2mm02Bme7ItWVzyg6s6Ex8jANbwnOQaUjWJ5kiOWORgDPwuK/KRfnx0K2JyyFIjSRB+tn4qUnOhN4icE5uVS/QRTkzCptiQZcQEL1tsiS+GxioTKECvg47s5ewY0FgMltZSbwVY3wUJI5qiyH71m4Zkpo7D0MftyOjQpFnyrkfzB0cENcaD3CD/bodVwSYH5U3HMx4IFMta8gMX6bE0a/OR/sgQSYB4tVnMw3pknnICuMlww0+2eDBOf2vksDUYWStWMCQiucvY=;2LhHuxhjy8jlW+kKEKPAPQ=="
+secured: "8MKw8ek0L0CowdQSWkTYzfIUoFO9vPnVdKFfAWVYu/G0SkaXoXu9Y48hnilgtVgegOJDvth8aTTeOgfp7ouMik4+j+1rLEnTmP+zKrZqeOKbN07pUMK5KnSy+x7D+zbutqKji0oFomk1aheVX3C/IeQNv0k1JybsplU3TLqLB1LoYwPpwLSNn4FpFj54Jsrf84VMb/Ps55Gzw7stVpQeyv2fVwy7kqZKWMCHQ0HS7eyxz9C68Qnb7f77/g/Rl9zxVttNNtCzrBWWxvaEworS0eCn6XnJNkwrNFfhWNCWH/r5dZFqP6lXkUuw4NXQHqwkQ9iaIUkRCuVvaMi6GQQFBkeNqMSNptcK8Hon1bLQU2bh7qyUNkOfAzOPwyih9B5VST7jXxOvuxCNFH+LUQYjjaH07WC5xAfc2ZYeszGLXIt6LhIcO2lRbZAgBsSGEYkkKdpRwuLgfHwClOCTWqD72DEYFZ8eDwovpCvcMM44CE8biJyReyw+vgTuuD/8sN0DQ+GSxgCadmem1YYKfRZyZw==;g+A6c2cE5mAJzEa65XQjgQ=="
 ---
 

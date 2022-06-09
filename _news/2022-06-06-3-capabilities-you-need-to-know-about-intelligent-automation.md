@@ -2,28 +2,24 @@
 category: news
 title: "3 Capabilities You Need To Know About Intelligent Automation"
 excerpt: "IBM first pitched Watson as revolutionary, promising advanced AI capabilities like automating cancer detection and treatment recommendations. Now, IBM has positioned Watson as a tactical natural ..."
-publishedDateTime: 2022-06-06T13:55:00Z
-originalUrl: "https://www.entrepreneur.com/article/426720"
-webUrl: "https://www.entrepreneur.com/article/426720"
+publishedDateTime: 2022-06-06T14:03:00Z
+originalUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
+webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1654112187-GettyImages-1313178434.jpg"
+  - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -76,6 +72,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "HmLXvCxwNcUDK+RQLxIdEW5+4gN9GPdeVhph+t2nCsl2/RrAgagHTx0PyFXEwzDaVZE9VhZazJUOrthbIDo2Lba1w3VkGtZLgtnmRAoW1NeWKCbf2C/n0Yzcw/7eIw6ZwfRKk6rmV2WHP7Tv2I+yKFEcYq4+PZGrLTlNKLEBBh7S8e137JU6l9e5bSjnjokWIlBsP6LKRW95QbmwEwRslG7hZIfFK5zUGrvsNZ6x1PqynvKMBSA1y6ug7t5wp9WkzDKr6fNK+XMnsJx/4hpjP+yqm16WUfHFrsMXdxDTxFtUuwp/R3JI+rqQwvc/+D4DA+B9vndojrtyPTJNLC/AKinphv9umpSf6orxrsL3c+M=;4YKQF9fp70/dXO9Eou3IXw=="
+secured: "L1rMIiOxBRGY9r2RazFmotHr6JvKkImKu+uTk0y7Z+H1i409JqhKEhVsTZXC6aFw2P+mt9n8ZDEbKht4d4awOulpOI6pZp7hAEmj0ugQsUrw0dOPR2lxTQaiaCZZPDsOXVpwfsmHV1gevYbI2jfjFKKTonY+Ag26FwZocNRFl6K+yDQo0O6J6Hq8OdecavGYQuT/1jK/CjlGU4/FlNH1B2pI7oMLbl31sBiPQ2DUWjGzlXHSsUN9I1Rq0orp53Ryjtctu2FgSGTWd66T/Twx4VPfg0gl72yLht/R3UO5f+SgDwWel7frogJAp7aWuvkGLgOFoJ6pX9/uDx6p3fC8aXEKW3Nm+IyAxveet2HqflM=;Qso3tpgbJyXtOnrquEZcuA=="
 ---
 

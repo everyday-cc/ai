@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/call-of-duty-modern-warfare-2s-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/call-of-duty-modern-warfare-2s-major-innovations-are-the-start-of-a-new-era/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,40 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Call of Duty: Modern Warfare 2 is the Start of a New Era for COD and Warzone"
+    excerpt: "When Modern Warfare 2 comes out on Oct. 28, it won't just be developer Infinity Ward's newest entry into the long-running military shooter franchise Call of Duty. It will also usher in the next generation for the series,"
+    publishedDateTime: 2022-06-08T23:32:00Z
+    webUrl: "https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-2-is-the-start-of-a-new-era-for-cod-and-warzone/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/call-of-duty-modern-warfare-2-is-the-start-of-a-new-era-for-cod-and-warzone/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/call-of-duty-modern-warfare-2-is-the-start-of-a-new-era-for-cod-and-warzone/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
+    images:
+      - url: "https://www.cnet.com/a/img/resize/a5f8842e6d4edcf71a334fcf794727705281c294/2022/06/08/487defca-5db5-4982-b2d5-87b1945117d7/ghost-unbranded.png?auto=webp&fit=bounds&height=630&precrop=3840,2016,x0,y0&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Modern Warfare 2 is bringing “lethal” AI bots to Warzone"
+    excerpt: "Modern Warfare 2 is bringing new features to Warzone in the future and in an early access event, developers explained how \"lethal AI\" will work."
+    publishedDateTime: 2022-06-08T17:00:00Z
+    webUrl: "https://www.dexerto.com/call-of-duty/modern-warfare-2-is-bringing-lethal-ai-bots-to-warzone-1841498/"
+    ampWebUrl: "https://www.dexerto.com/call-of-duty/modern-warfare-2-is-bringing-lethal-ai-bots-to-warzone-1841498/?amp"
+    cdnAmpWebUrl: "https://www-dexerto-com.cdn.ampproject.org/c/s/www.dexerto.com/call-of-duty/modern-warfare-2-is-bringing-lethal-ai-bots-to-warzone-1841498/?amp"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 57
+    images:
+      - url: "https://www.dexerto.com/wp-content/uploads/2022/06/06/warzone-ai-bots.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "u1779TAWQzDriM/MOAwqyzC1WPg8jXdg8NnnOFZVP833lI7mM7rw65E+TOrTUVYfG3M1/i3O2tAOmNVKT7XODxUdOv58ys3Chs4PGMGP+jBOJa181jW6FAa0fwIjQTlmMG2P1ifvlS6H34etAtj2phfaofwllz6CvAQ93w8+6b8xAP05Q43zos6S+jBii+nX10AK2DDzu60FScVjwNQHxyYpeGFT18qH0ChUobSlff65uBwiUYVAiCStAlhDId1yJ2i/5tt/f1wTCGTgNWDmiaNP+DivVF6BuhFiLntBd9saZEuBWDdgAoPWQ+KEe5mspXWB8Zna2fdeyMyI5+0sgt18xv2rIQnitIcJ/VIjc5T6M+9sZm2obEVXefchkHbh3SCUrNsTlzAHVTi2RmprTEhtf5uL2j3yNIwI1BxwhJypNIYiFiob/7FhEPJU466G+EwqFXkCYHNl4oWnHpYex/Ywo2kjmSoKfQ0fe9CrGuoUtuyMNrNzjD4Wqr9AYQhBYN4kvjHeMPy9ZLdypRFGrg==;RByVTUI4YzGHMYZg8nSyhA=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 675
         height: 450
         isCached: true
+  - title: "Jidu lifts curtain on concept robocar"
+    excerpt: "Photo provided to chinadaily.com.cn] Intelligent electric vehicle company Jidu, a joint venture established by tech giant Baidu Inc and carmaker Geely Holding Group, unveiled its first concept robocar,"
+    publishedDateTime: 2022-06-08T23:14:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202206/08/WS62a0adada310fd2b29e6182b.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202206/08/62a0adada310fd2bec8e2fe0.jpeg"
+        width: 675
+        height: 450
+        isCached: true
 
 secured: "c0sxsKVbtNRDdU2Yg0L6EUxeSd31hnS90ePs83PklN4C8HaxSrNc0xEQfB2nYPnOKLTGLgX3htnyyPhcL6krX+usJIbjBd8k5C53CBwy6JR+AjHPbgbLlS7AcYbgb21ePkoGTTrsr5WP/V4K6S0NtS8R0aG0zsR3Ql3OBytsGKOj4Z005+pKQ94CixWK5MrM+S5nI7PbxbUDLlKY7SbvrD200eL0Bl+A1ZgspNyeteKZ44DaCjiZuLUpMqdUXeYs9oS1wVvbNedoCTGQT5RpFyQlidb/opLOK6ddy70R5Fp4GQaQv+JWqvzQUCZhsW1mxg5jk6FX3Plfk/3Sq5lrPudAkvN3jcPAvg7H/8umyOC7Hpjvf1dglQtNUxjg+VRfFqohhCpJ2d095GjcHRkcCkyn9P8UYzYwaX8gtXMfDjKybi0FW6RCir0ThPOwjbqjBm7n+Uj37RkV08QqiASeVGdGd3PRbdlWIoWOzRPMuMztnZr13rzK8LugeLSIFGlIGJyLP034U1JwRZeVpVAzgg==;XcvEemRv0Vc//PHoRPyKJA=="
 ---

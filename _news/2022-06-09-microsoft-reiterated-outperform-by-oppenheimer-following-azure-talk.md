@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Why healthcare organizations select Amazon Web Services over Google, Microsoft"
+    excerpt: "Healthcare organizations chose Amazon Web Services over rival cloud computing companies Google and Microsoft for artificial intelligence and machine learning because it was the most mature platform, had good name and brand recognition and came with high reliability,"
+    publishedDateTime: 2022-06-08T22:14:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/why-healthcare-organizations-select-amazon-web-services-over-google-microsoft.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 69
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
+        width: 460
+        height: 460
+        isCached: true
   - title: "P&G, Microsoft announce manufacturing partnership"
     excerpt: "Cincinnati-based consumer goods giant Procter & Gamble on Wednesday announced a partnership with Microsoft to build the future of digital manufacturing."
     publishedDateTime: 2022-06-08T15:25:00Z

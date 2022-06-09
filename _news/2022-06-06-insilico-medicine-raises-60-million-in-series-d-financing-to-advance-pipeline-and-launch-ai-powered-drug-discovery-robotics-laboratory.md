@@ -42,6 +42,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Insilico raises $60M to invest in AI platform and IPF program"
+    excerpt: "AI-enabled drug discovery company Insilico Medicine Ltd. has raised $60 million in a series D round to support expansion of its pipeline. The Hong Kong and New York-based company will use the proceeds to support clinical testing of its lead asset,"
+    publishedDateTime: 2022-06-08T23:55:00Z
+    webUrl: "https://www.bioworld.com/articles/519573-insilico-raises-60m-to-invest-in-ai-platform-and-ipf-program?v=preview"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 37
+    images:
+      - url: "https://www.bioworld.com/ext/resources/BW-source/2022/Jun-22/Insilico-6-8.png?height=635&t=1654727478&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "VT0j6dbff+rjnarv7TLe3fhoMH3OLnYwIXo0E1N0csdWoHIbVNGMzjmn07s3HKAnLhUXmYcrrVaPxTyJlyn7XbetUQt/WI3wqdCB/8XppCzKDsluEfpkIGDXmDWmipABO0VZH5b14ZfuE7mFisv2IfeoTbqV+KFVd7Z/NYOyiwM9p4j954MMgAjUh11mVmfJkl5Rx9QkARc+jwBSWKwG2SMK0eKIqfZONb8DNLGcOoY1tZepnYG8/kdh4UCAxkKygKdTxWg2RFYiIjAmy1wPCaNRUg5sLArOH/nY3WZpdD2Ty37eOM9nMRb0bx89NYaJHyuIe8yDSGPUsXS04TLS7hQAfZAk40FS8g5jgHFtvxbYc0Rpr1wtqSmRgsTgPtWg3/KeCmHriWgbiXAS3dS08Uc/oVeihnicC/Po1pMPLr5J8mVtaHhlm4fz5gvew5otjs+/5ae+PAhjBs2iLpoDBRy52ypDvuZoOcUhukqvyLZNA04L3EDWtVGWQ3o+ojN1aHDxe6uNIWlCBb9j4ecLoQ==;mGT211xuCfMsZ0NExa3Jzg=="
 ---

@@ -28,21 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Gurgaon: GMDA installs cameras with face recognition tech at MG Road Metro station"
-    excerpt: "Using artificial intelligence, the cameras will aid in detection of missing persons as well as people with a criminal record, said an official with the Gurugram Metropolitan Development Authority."
-    publishedDateTime: 2022-06-04T05:22:00Z
-    webUrl: "https://indianexpress.com/article/cities/delhi/gurgaon-gmda-installs-cameras-with-face-recognition-tech-at-mg-road-metro-station-7952207/"
-    ampWebUrl: "https://indianexpress.com/article/cities/delhi/gurgaon-gmda-installs-cameras-with-face-recognition-tech-at-mg-road-metro-station-7952207/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/delhi/gurgaon-gmda-installs-cameras-with-face-recognition-tech-at-mg-road-metro-station-7952207/lite/"
+  - title: "How to manage artificial intelligence risk and security: Focus on five priorities"
+    excerpt: "In most organizations, artificial intelligence models are “black boxes,” where only data scientists understand what exactly AI does. That can create significant risk for organizations. Large, sensitive datasets are often used to train AI models,"
+    publishedDateTime: 2022-06-08T17:48:00Z
+    webUrl: "https://siliconangle.com/2022/06/08/manage-artificial-intelligence-risk-security-focus-five-priorities/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 53
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
     images:
-      - url: "https://images.indianexpress.com/2018/07/cctv-1200.jpg"
-        width: 1200
-        height: 667
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/artificial-intelligence-3382507_1920-geralt-Pixabay.jpeg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "VnHjjirBgQiijgZenBAxNTq1CE49iA+scLaFlIpcUtx/BpGkeea0tN6AD6/SWZABxXm+4kv5A45gwRTaqJL3bzMMTKv9dFYIR1aS+35q8fof75LnWhed4c78m30OecO0hyUKobG/CDe9/h9Jf8BFm6UU3EosPJL8z4kiB3F6XYG4lwnnKie8a0xELbQvhNm0DqEZGXrw/s3lT4y0nH7x56GO/50AZTR5XPvRozDKGuqPrMF9e+JCdIiel2dJyEdZeFGuXIRst6hQRJYTt8jhLhLBqw7o3vPdZuq+kDzU+UNJdOkulnd0NhNgvkCeog9EuMLJePS1FPqivGYzxRWHx2iDLEjnAmvK3rw5mArHJCYRhkjnYyssGsBMe/KbaUoXtu3nQyGTHGd5IR+f+LWlHsI3y/BGSuvWcnRj4EbFmb5k1czBrd/v5zqYfPL1seRJ2kbhd8QufKpyj+COxYIg7RyVSklMDNEs+sRpc7hv03WJltrsXLaxA1zduKF9vLPEDGhuKQgpoePFavIaZTF86Q==;VnsTOo01Z+pL7msTX7qQ9g=="

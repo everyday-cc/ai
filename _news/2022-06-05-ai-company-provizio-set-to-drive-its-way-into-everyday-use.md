@@ -23,6 +23,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Our Everyday Artificial Intelligence"
+    excerpt: "As AI becomes a bigger and bigger part of our world, it's changing how we use technology and interact with each other. AI is all around us, whether we’re aware or not. Some of our interactions with AI are obvious. Digital assistants like Siri or Alexa ..."
+    publishedDateTime: 2022-06-07T00:00:00Z
+    webUrl: "https://www.newsy.com/stories/our-everyday-artificial-intelligence/"
+    type: article
+    provider:
+      name: Newsy
+      domain: newsy.com
+    quality: 37
+    images:
+      - url: "https://cdn.newsy.com/images/videos/m/1654634755_5Jqwkl.jpg"
+        width: 640
+        height: 360
+        isCached: true
+
 secured: "sO4LVWp02kKAuPMDauPQpKDiBvtVhFTZFDlgu/nsDNRohMK5WlWfszIm/lzRYRIHmd4aSyn9Uud23ME8GPWWKW6kIbKigWz04sGbf21b+8VCl7f6U+Igu7TUzps7649tqeDYOu/ZEscFNBIO8BSz6WC+fcBCIy04j+CKAR8xlixCWZhdwDGJ5gCXTgLkl+WvoG3s59hNfwtKnnxYgjAiCg7sXGkCicI4PRzUg4BJ6WW6EMbME6KXcS4VlJy6T03x8PqmFfxvFoOsMux6lkKolexcFijtqWIDztKVpWGoCZw3om6acRznZOnkLoRyB/xH025G2eXg40iSW/ekQg4L7T9/6JCAhBIdxEUaVkxs+2g=;H6YHfprLt3tSBJp9AXVr1g=="
 ---
 

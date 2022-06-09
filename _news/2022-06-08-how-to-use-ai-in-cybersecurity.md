@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The state of AI in drug discovery"
+    excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
+    publishedDateTime: 2022-06-08T21:48:00Z
+    webUrl: "https://medcitynews.com/2022/06/the-state-of-ai-in-drug-discovery/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1204099471.jpg"
+        width: 2207
+        height: 1359
+        isCached: true
 
 secured: "jSTQyUs1fEphb2g/B8MZDcda8Ny7hxky6vs9r3J0UUl8YtBDvYAisOw5BkBnmV+WB8Y9gnpiLoXkFfDRI+zprypKO/hqPhD+Nyh7VAdEWe+yPkUvz7PrPxh9HY45GUMkUtTKjxGTN2xQW6A8MFzatq6XVLcVyEnSFAGevBw1hUeOhfCy3kWzTex8ciYzn2pFBUZu622FMThp1SQx4uLFfKY45K8wDlsZWtcKLdd7bKsnHxwjT6OH1GEBU3bRSa8kmFqDnxw/1XWfpp4dzpeprroYqwQnwqCBccIuktgOC4j/O24KEjVstUaOsP9aEVDthMsCrD29Wo/DgDKxKuJA+ww4DDn06XPy+AHIkV5pyQm4WQY5zCHvSxrrHR+8IMpkH+1oYAPfAkSR6gDb/PKGoJP6OlMRCsBas1wrOkl7EXqg1kpiEnQdSL03RBUK7+e/VkGmerIpYSpB3xnOmYGmW3B5kL6NmqF5SQdp81TIi5LY4NC1UV6RVkMrth60ZJCw8fmiy5J3uTzYVkYGAhD92w==;RIvzF8K/2xlv95UdY0DtMw=="
 ---
