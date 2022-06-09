@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-27-these-earthworm-inspired-robots-may-one-day-crawl-through-aircraft-engines.md",
+      "title": "These earthworm-inspired robots may one day crawl through aircraft engines",
+      "excerpt": "Researchers developed a robot that uses electrical charges to power \"muscles\" that cause the devices to move through a small pipe, like an earthworm.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/earthworm-robots-aircraft-engines",
+      "originalUrl": "https://interestingengineering.com/earthworm-robots-aircraft-engines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/qrwB17P365/sizes/screen-shot-2022-05-26-at-114723-am_resize_md.png",
+          "width": 744,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/earthworm-robots-aircraft-engines",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/earthworm-robots-aircraft-engines",
+      "publishedDateTime": "2022-05-26T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models.md",
       "title": "Allen Institute launches new benchmark for general-purpose computer vision models",
       "excerpt": "The Allen Institute for AI, also known as AI2, recently worked jointly with the University of Illinois at Urbana-Champaign to develop a new, unifying benchmark called GRIT (General Robust Image Task) for general purpose computer vision models.",
@@ -118,6 +161,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-a-face-search-engine-anyone-can-use-is-alarmingly-accurate.md",
+      "title": "A Face Search Engine Anyone Can Use Is Alarmingly Accurate",
+      "excerpt": "Unlike Clearview AI, a similar facial recognition tool available only to law enforcement, PimEyes does not include results from social media sites. The sometimes surprising images that PimEyes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/29/business/00PimEyes-Kashmir-Hill/00PimEyes-Kashmir-Hill-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.amp.html",
+      "publishedDateTime": "2022-05-26T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -738,6 +833,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-26-facial-recognition-technology-not-about-mass-surveillance-mcentee.md",
+      "title": "Facial recognition technology 'not about mass surveillance' - McEntee",
+      "excerpt": "The Minister for Justice has said the introduction of legislation to enable gardaí to use facial recognition technology (FRT) in criminal investigations \"is not about mass surveillance\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
+      "originalUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.rasset.ie/001bca3b-1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RTE Online",
+        "domain": "www.rte.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts.md",
       "title": "AI and machine learning are improving weather forecasts, but they won’t replace human experts",
       "excerpt": "Would you trust a weather forecast made by a machine that had learned how weather systems behaved by reviewing thousands of past weather maps?",
@@ -940,143 +1078,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-dstny-acquires-egypt-founded-tactful-ai.md",
-      "title": "Dstny acquires Egypt-founded Tactful AI",
-      "excerpt": "Belgium-based business communications provider Dstny, has acquired Egypt and UK-based Tactful AI for an undisclosed sum. Founded",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/en/2022/05/dstny-acquires-egypt-founded-tactful-ai",
-      "originalUrl": "https://www.wamda.com/en/2022/05/dstny-acquires-egypt-founded-tactful-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.wamda.com/feature-images/433a448dc7a7843.png",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wamda",
-        "domain": "wamda.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey.md",
-      "title": "Urban Indians want govt to invest in AI and other emerging techs: Survey",
-      "excerpt": "The survey that explores the awareness levels about new technologies among Indians also highlights the other top technologies most urban Indians have heard “a lot about”. Those include cryptocurrency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey-11653550171041.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey-11653550171041.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/05/26/600x338/oped1-kC7G--621x414@LiveMint_1653550720385.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html",
-      "publishedDateTime": "2022-05-26T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
-      "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
-      "excerpt": "(Reuters) - IBM has set a new goal for propelling ... company’s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in ...",
-      "sourceUrl": null,
-      "webUrl": "https://jp.reuters.com/article/ibm-ceo-quantum-idCAKCN2MW13M",
-      "originalUrl": "https://jp.reuters.com/article/ibm-ceo-quantum-idCAKCN2MW13M",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20220510&t=2&i=1599069924&r=LYNXNPEI490JM&w=800",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ロイター",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -759,6 +759,101 @@
       ]
     },
     {
+      "path": "_news/2022-05-27-a-face-search-engine-anyone-can-use-is-alarmingly-accurate.md",
+      "title": "A Face Search Engine Anyone Can Use Is Alarmingly Accurate",
+      "excerpt": "Unlike Clearview AI, a similar facial recognition tool available only to law enforcement, PimEyes does not include results from social media sites. The sometimes surprising images that PimEyes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/29/business/00PimEyes-Kashmir-Hill/00PimEyes-Kashmir-Hill-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.amp.html",
+      "publishedDateTime": "2022-05-26T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-facial-recognition-technology-not-about-mass-surveillance-mcentee.md",
+      "title": "Facial recognition technology 'not about mass surveillance' - McEntee",
+      "excerpt": "The Minister for Justice has said the introduction of legislation to enable gardaí to use facial recognition technology (FRT) in criminal investigations \"is not about mass surveillance\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
+      "originalUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.rasset.ie/001bca3b-1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RTE Online",
+        "domain": "www.rte.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-backlash-over-law-that-would-let-gardai-use-facial-recognition-technology.md",
       "title": "Backlash over law that would let gardai use facial recognition technology",
       "excerpt": "The justice minister has come under pressure to explain the nature of legislation that would allow gardai to use facial recognition technology (FRT).Helen McEnt",
@@ -1212,92 +1307,6 @@
       "provider": {
         "name": "xaralite.com",
         "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-why-mastercards-new-face-recognition-payment-system-raises-concerns.md",
-      "title": "Why Mastercard's new face recognition payment system raises concerns",
-      "excerpt": "Mastercard's \"smile to pay\" system, announced last week, is supposed to save time for customers at checkouts. It is being trialed in Brazil, with future pilots planned for the Middle East and Asia.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/why-mastercards-new-fa.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp",
-      "publishedDateTime": "2022-05-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images.md",
-      "title": "UK regulator fines facial recognition company $9M for illegally storing images",
-      "excerpt": "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images",
-      "originalUrl": "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/7f5f66f/2147483647/strip/true/crop/5568x3152+0+280/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fca%2F02%2F733dc29545caade1d587dcb8b85f%2Fap21088092233286.jpg",
-          "width": 530,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images?_amp=true",
-      "publishedDateTime": "2022-05-23T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
         "images": null,
         "publishers": null,
         "authors": null

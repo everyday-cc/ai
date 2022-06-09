@@ -8,8 +8,8 @@ webUrl: "https://www.scientificamerican.com/article/artificial-general-intellige
 ampWebUrl: "https://www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/?amp=true"
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think1/?amp=true"
 type: article
-quality: 42
-heat: -1
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - Google AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/E28FB559-B206-4F85-8BB177FF23A683CC.jpg"

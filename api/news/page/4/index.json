@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-06-04-agtech-robotics-firm-farmwise-just-raised-another-45-million.md",
-      "title": "Agtech robotics firm FarmWise just raised another $45 million",
-      "excerpt": "FarmWise, makers of autonomous weeding robotics, announced a $45 million raise, led by Fall Line Capital and Middleland Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
-      "originalUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/FarmWise-Robot.png?w=1024",
-          "width": 1024,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
-      "publishedDateTime": "2022-06-03T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-04-this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls.md",
       "title": "This business is deploying 40 Samsung-powered robots to roam its halls",
       "excerpt": "Using a shared, cloud-based \"brain,\" the robots will move around three floors, delivering packages, coffee and lunch boxes to employees",
@@ -686,8 +634,8 @@
       "title": "Artificial intelligence scans for weapons, but faces criticism from some",
       "excerpt": "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work.",
       "sourceUrl": null,
-      "webUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
-      "originalUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "webUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
+      "originalUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -704,13 +652,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
-      "cdnAmpWebUrl": "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "ampWebUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some?_amp=true",
       "publishedDateTime": "2022-06-03T08:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC Action News",
-        "domain": "abcactionnews.com",
+        "name": "KSTU",
+        "domain": "fox13now.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -720,8 +668,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -910,8 +858,8 @@
       "title": "GPU for AI Market 2022 Facts, Figures, Analytical Insights, Growth, Size, and Forecast till 2030",
       "excerpt": "In addition, the GPU for AI market study demonstrates a detailed examination of the business state, which represents creative ways for company growth, financial factors such as production value ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-2022-facts-figures-analytical-insights-growth-size-and-forecast-till-2030-2022-06-02?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-2022-facts-figures-analytical-insights-growth-size-and-forecast-till-2030-2022-06-02?mod=search_headline",
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-2022-facts-figures-analytical-insights-growth-size-and-forecast-till-2030-2022-06-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-2022-facts-figures-analytical-insights-growth-size-and-forecast-till-2030-2022-06-02",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1195,6 +1143,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-get-started-with-speech-recognition.md",
+      "title": "Get Started With Speech Recognition",
+      "excerpt": "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "originalUrl": "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

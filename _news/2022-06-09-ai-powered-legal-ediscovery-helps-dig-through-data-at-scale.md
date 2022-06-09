@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "The next step in AI drug discovery: Robots"
-    excerpt: "Insilico Medicine aims to make its end-to-end AI platform even stronger by launching its own AI-run robotics lab. The lab has been in the design phase for the past two years and is expected to be fully operational this year."
-    publishedDateTime: 2022-06-08T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/955373"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
   - title: "Predictive Oncology has a flagship AI-powered drug discovery platform to speed up new cancer treatments"
     excerpt: "Predictive Oncology Inc is a knowledge-driven company focused on applying artificial intelligence (AI) to the research and development process of personalized cancer therapies, which can lead to better treatments,"
     publishedDateTime: 2022-06-06T22:57:00Z

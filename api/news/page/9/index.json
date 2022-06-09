@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-05-31-face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028.md",
+      "title": "Face Recognition Door Lock Market Size, Share And Major Industry Players Forecast (2021-2028)",
+      "excerpt": "The global “Face Recognition Door Lock Market Size ” research report encompasses a thorough study of the current situation of the global market along with several market dynamics. To formulate this report,",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/351663/news/face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028/",
+      "originalUrl": "https://xaralite.com/351663/news/face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution.md",
       "title": "The Amazon Echo Was Just The Beginning Of Alexa's Voice-First Revolution",
       "excerpt": "With 47 very high quality voices in 23 languages. Finally Amazon Rekognition will allow Alexa projects to also use image recognition to add visual decoding to Alexa-like solutions. These tools are ...",
@@ -633,8 +667,8 @@
       "title": "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words",
       "excerpt": "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report",
       "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
-      "originalUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
+      "webUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition",
+      "originalUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -653,7 +687,7 @@
       "type": "article",
       "ampWebUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
       "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
-      "publishedDateTime": "2022-05-30T01:37:00-07:00",
+      "publishedDateTime": "2022-05-30T01:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Pocket-lint",
@@ -1065,50 +1099,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-microsofts-new-execs-helping-win-at-azure-ai-devices.md",
-      "title": "Microsoft’s new execs helping win at Azure, AI, devices",
-      "excerpt": "Marco Casalaina, Ajith Thekadath and Ashley Hart are just some of the new faces at the tech giant as it invests to accelerate its market position in cloud, artificial intelligence, devices and other areas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620",
-      "originalUrl": "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20220531071319_crn-14_microsoft_iStock-1191485295.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-29T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

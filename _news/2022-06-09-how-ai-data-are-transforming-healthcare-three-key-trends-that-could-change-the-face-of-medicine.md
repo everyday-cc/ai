@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/health-wellness/article/3180813/how-a
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends"
 type: article
 quality: 93
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI and ML can transform healthcare in India but here is what we need to take care of before that"
-    excerpt: "Over the past decade, the fields of medicine and healthcare management have witnessed several technology-led breakthroughs. Chief among them are changes brought on by Artificial Intelligence and Machine Learning."
-    publishedDateTime: 2022-06-04T12:41:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-ml-can-transform-healthcare-in-india-but-here-is-what-we-need-to-take-care-of-before-that/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 38
 
 secured: "bb+EaCgNJeY9tRcZ+CXKslCx5sLV3lsCj+E3c9J91arZB5kam9Hi21l38yZIWEJLrV6iRW7//xEvsSa8wGcY/9ieo7E2l2pETvAEQ451nlJ/Y1sIV3BoCrliMv7MHRhceT+1Dcp0OrDeOvbVfW4fGVDXFOnnUNMIemt7VgCRKPTO0EdHNKACviZ+pn7oh9f8dsvbwz6kZDXEgLC1T03rsqPFyBhAQxKlhjkOJyKJ7mmi69aruWQNPVfWZJ4FnPT370dKhug2oaFGcrY0L2zJptprWpCfz4+xOAMuoCyebuQZtnZW6ILzdg9V1JZKCCHHX/P6h7aJjPxi4/MuNNl5o1N9UNYezhCGjf3ufaEZvE8=;jGrZhG26KTqPK3p72fuPNw=="
 ---

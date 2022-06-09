@@ -3,16 +3,16 @@ category: news
 title: "3 Capabilities You Need To Know About Intelligent Automation"
 excerpt: "Intelligent automation has recently received a lot of buzz. A lot of people want to know what the future holds, and many don't want to feel left out. However, intelligent automation (also known as \"hyperautomation\") is an ever-changing collection of technologies."
 publishedDateTime: 2022-06-06T17:48:00Z
-originalUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
-webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
+originalUrl: "https://www.timesunion.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php?IPID=Times-Union-jobs-entrepreneurship-river"
+webUrl: "https://www.timesunion.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php?IPID=Times-Union-jobs-entrepreneurship-river"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - IBM AI
@@ -59,19 +59,19 @@ related:
         isCached: true
   - title: "3 Capabilities You Need To Know About Intelligent Automation"
     excerpt: "IBM first pitched Watson as revolutionary, promising advanced AI capabilities like automating cancer detection and treatment recommendations. Now, IBM has positioned Watson as a tactical natural ..."
-    publishedDateTime: 2022-06-06T13:55:00Z
-    webUrl: "https://www.entrepreneur.com/article/426720"
+    publishedDateTime: 2022-06-06T14:03:00Z
+    webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1654112187-GettyImages-1313178434.jpg"
+      - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
         width: 2000
         height: 1333
         isCached: true
 
-secured: "nkVupifiOplbCI5r3zelSVut1upNl00vK7RFZWd10sKNEmHisS13voX85oJ530H+H+CXFW910BXlwOpUth1W6WukC5ZlwKUOUdDNCEEh745RQBZFFhE0AxurM/eSnJxijiZjjNTOEpLt7JoO+WLQCaqp7r666hmhgyAOZXaH4oqc3Ucu5WMyJ+Gygxj4HI+dTKCD9ApRV1kPY0IKZEvKjP4F5kiRyZSmAhrz81E+vf7AWUPytToY2ru5TVkPhZsbjzMDY9fVZs7V2HvQj3BkEREr2iE4b710SV+on3vRUaJUKaY2LuNt2h9D8TeTxJVWjkdmsFPijJ9yVHpCYNv+h3PknhTbomc3jjYPUEOtVq8=;lnOclDPPgyhkiLE+slAhmg=="
+secured: "Lk59o5ux4UPwwT0dx1MGa9J4OOIzWa91T9i88OHTPNeCVv893fPNEphUpxGowRjRtzicUYfNuho8dFvh30k2UjBfUBETOCIMLMfp+FqVAsUBVnAML1sbJCNV+JZtE2xXYQ6h7FiN+HyEM10Jms0tBzT68SSSnf98nXEGUbfwVFuFH1/DVk3ws1nhNcJwFj+Tsfjt3eY1WNz7Y8fYdougOrH/meWhgJYBxxsjCHZnwWLS7prIy66pdjMLOYJdTCuMYXsXVA3REeOfPC6i0n4leAzQoSLGkyYSuNGsTKv3Jy3gEOixEHGndktlVWdQNj9618joIfVOB3+KCOOmn6sliEikPf/UEg0j/TMu7YJq40U=;vlK7SiU/ZqOPrWb1J9NoLQ=="
 ---
 

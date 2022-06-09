@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-15-flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit.md",
+      "title": "FLEX LOGIX TO SPEAK ON AI INFERENCE AT THE LINLEY SPRING PROCESSOR CONFERENCE AND COMPUTER VISION SUMMIT",
+      "excerpt": "Flex Logix is a reconfigurable computing company providing AI inference and eFPGA solutions based on software, systems and silicon. Its InferX X1 is the industry's most-efficient AI edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220415sf26541/flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220415sf26541/flex-logix-to-speak-on-ai-inference-at-the-linley-spring-processor-conference-and-computer-vision-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-15T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-15-house-lawmakers-investigating-govt-use-of-facial-recognition-software.md",
+      "title": "House lawmakers investigating gov't use of facial recognition software",
+      "excerpt": "The ID.me software was used most recently by the IRS, but stopped after complaints from lawmakers and privacy advocates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "originalUrl": "https://www.whas11.com/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.whas11.com/assets/CCT/images/a98ca9ef-7143-4218-959c-742731a5342f/a98ca9ef-7143-4218-959c-742731a5342f_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/house-investigating-govt-use-face-id/507-c528552e-79d0-4bd7-a045-6b5de8e9bbba",
+      "publishedDateTime": "2022-04-14T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHAS11 News",
+        "domain": "whas11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-15-house-lawmakers-voice-serious-concerns-about-facial-recognition-used-by-contractor-idme.md",
       "title": "House lawmakers voice 'serious concerns' about facial recognition used by contractor ID.me",
       "excerpt": "(CNN)Two top House lawmakers on Thursday began probing ID.me, a company that uses facial recognition technology to verify identities for many state and federal agencies, into the \"efficacy, privacy and security\" of its services and products. The move ...",
@@ -1227,92 +1304,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-seeed-and-alwaysai-partner-to-accelerate-deploying-computer-vision-at-the-edge.md",
-      "title": "Seeed and alwaysAI Partner to Accelerate Deploying Computer Vision at The Edge",
-      "excerpt": "SHENZHEN, China and SAN DIEGO, March 29, 2022 /PRNewswire/ -- Today, Seeed, an AIoT hardware service platform, and alwaysAI, a computer vision software platform leader, announced their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/seeed-and-alwaysai-partner-to-accelerate-deploying-computer-vision-at-the-edge/article_26073423-3ca4-5c83-84d0-dcb88811ca8f.html",
-      "originalUrl": "https://www.victoriaadvocate.com/seeed-and-alwaysai-partner-to-accelerate-deploying-computer-vision-at-the-edge/article_26073423-3ca4-5c83-84d0-dcb88811ca8f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-29T20:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-30-tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house.md",
-      "title": "Tier Mobility’s buy of Fantasmo brings camera positioning tech in-house",
-      "excerpt": "Shared micromobility company Tier Mobility said on Wednesday it has acquired Fantasmo, a U.S.-based computer vision-powered e-scooter parking startup whose tech Tier had been trialing in multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/",
-      "originalUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/image001-1-1.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/30/tier-mobilitys-buy-of-fantasmo-brings-camera-positioning-tech-in-house/amp/",
-      "publishedDateTime": "2022-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

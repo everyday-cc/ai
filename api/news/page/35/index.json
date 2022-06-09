@@ -2,6 +2,197 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-05-10-ai-upstart-waabi-adding-self-driving-veterans-in-race-to-commercialize-robot-trucks.md",
+      "title": "AI Upstart Waabi Adding Self-Driving Veterans In Race To Commercialize Robot Trucks",
+      "excerpt": "Waabi, an autonomous driving startup led by computer scientist Raquel ... The Toronto-based company, which initially focused on developing its AI-enabled technology with an advanced driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/09/ai-upstart-waabi-adding-self-driving-veterans-in-race-to-commercialize-robot-trucks/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/09/ai-upstart-waabi-adding-self-driving-veterans-in-race-to-commercialize-robot-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6201ceac39bd7c60059e4537/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2022/05/09/ai-upstart-waabi-adding-self-driving-veterans-in-race-to-commercialize-robot-trucks/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2022/05/09/ai-upstart-waabi-adding-self-driving-veterans-in-race-to-commercialize-robot-trucks/",
+      "publishedDateTime": "2022-05-09T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-label2earn-l2e-brings-artificial-intelligence-to-crypto-space-creates-new-opportunities-for-ai-technology.md",
+      "title": "Label2Earn (L2E) brings Artificial Intelligence to Crypto Space & creates new opportunities for AI Technology",
+      "excerpt": "Label2Earn (L2E) is a new kind of project in crypto domain, which will produce accurate and large datasets for Artificial Intelligence (AI) systems. L2E project will provide users the opportunity to earn L2E tokens by using the mobile App,",
+      "sourceUrl": null,
+      "webUrl": "https://www.keloland.com/business/press-releases/globenewswire/8538464/label2earn-l2e-brings-artificial-intelligence-to-crypto-space-creates-new-opportunities-for-ai-technology/",
+      "originalUrl": "https://www.keloland.com/business/press-releases/globenewswire/8538464/label2earn-l2e-brings-artificial-intelligence-to-crypto-space-creates-new-opportunities-for-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.keloland.com/wp-content/uploads/sites/103/2019/06/KELO-sitelogo.png",
+          "width": 800,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-09T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KELOLAND News",
+        "domain": "keloland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus.md",
+      "title": "How Much Of A Premium Will Nvidia Charge For Hopper GPUs?",
+      "excerpt": "And network ASIC chips are architected to meet this goal. Nvidia is architecting GPU accelerators to take on ever-larger and ever-more-complex AI workloads, and in the classical HPC sense, it is in pursuit of performance at any cost, not the best cost at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/",
+      "originalUrl": "https://www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-hopper-die-shot.jpg",
+          "width": 435,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/09/how-much-of-a-premium-will-nvidia-charge-for-hopper-gpus/amp/",
+      "publishedDateTime": "2022-05-09T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-clearview-ai-settles-suit-agrees-to-limit-sales-of-facial-recognition-database.md",
+      "title": "Clearview AI settles suit, agrees to limit sales of facial recognition database.",
+      "excerpt": "Clearview AI, the facial recognition software maker, on Monday settled a lawsuit brought by the American Civil Liberties Union and agreed to limit its face database in the United States primarily to government agencies and not allow most American companies to have access to it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 546,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/09/business/09clearview-aclu-settlement/merlin_166989159_f077e4a8-2604-45d6-9401-ef7212a8286d-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/09/technology/clearview-ai-suit.amp.html",
+      "publishedDateTime": "2022-05-09T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-05-10-a-prairie-company-is-working-on-the-development-of-an-artificial-intelligence-data-recording-kit.md",
       "title": "A prairie company is working on the development of an artificial intelligence data recording kit",
       "excerpt": "Mojow Autonomous Solutions will benefit from a $419 thousand dollar investment for digitization in farming under the Canadian Agricultural Partnerships AgriScience program. Co-founder and President Owen Kinch says they focus on digital technology for agriculture and the money will help in their development of an autonomous navigation controller to be used in agriculture.",
@@ -972,213 +1163,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-09-report-intels-looking-to-sell-computer-vision-software.md",
-      "title": "Report: Intel's Looking to Sell Computer Vision Software",
-      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
-      "originalUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/004kalOwExUYRCKwszss8R3-1.fit_lim.size_1200x630.v1651974043.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/report-intels-looking-to-sell-computer-vision-software",
-      "publishedDateTime": "2022-05-08T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign.md",
-      "title": "Australians urged to back Indigenous voice to parliament in History is Calling campaign",
-      "excerpt": "First Nations leaders call for referendum to ‘do what 1967 didn’t do, which is empower our people’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "originalUrl": "https://www.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/54a124c6ee6fb27ba5b4c87e40effc7fc66bd3ed/0_0_5472_3648/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=37022ba83f8197df5fe0ab92dac90c17",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/may/09/australians-urged-to-back-indigenous-voice-to-parliament-in-history-is-calling-campaign",
-      "publishedDateTime": "2022-05-08T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-report-intels-looking-to-sell-computer-vision-software.md",
-      "title": "Report: Intel's Looking to Sell Computer Vision Software",
-      "excerpt": "Intel reportedly plans to introduce a computer vision development kit, code-named Sonoma Creek, to make it easier for developers to incorporate artificial intelligence in their products.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
-      "originalUrl": "https://uk.pcmag.com/news/140255/report-intels-looking-to-sell-computer-vision-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/r/report-int/report-intels-looking-to-sell-computer-vision-software_m67z.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-08-5-ways-ai-can-help-solve-the-privacy-dilemma.md",
-      "title": "5 ways AI can help solve the privacy dilemma",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
-      "originalUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/08/5-ways-ai-can-help-solve-the-privacy-dilemma/amp/",
-      "publishedDateTime": "2022-05-08T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

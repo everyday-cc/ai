@@ -49,26 +49,26 @@ related:
         isCached: true
   - title: "3 Capabilities You Need To Know About Intelligent Automation"
     excerpt: "IBM first pitched Watson as revolutionary, promising advanced AI capabilities like automating cancer detection and treatment recommendations. Now, IBM has positioned Watson as a tactical natural ..."
-    publishedDateTime: 2022-06-06T13:55:00Z
-    webUrl: "https://www.entrepreneur.com/article/426720"
+    publishedDateTime: 2022-06-06T14:03:00Z
+    webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 24
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1654112187-GettyImages-1313178434.jpg"
+      - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
         width: 2000
         height: 1333
         isCached: true
   - title: "3 Capabilities You Need To Know About Intelligent Automation"
     excerpt: "Intelligent automation has recently received a lot of buzz. A lot of people want to know what the future holds, and many don't want to feel left out. However, intelligent automation (also known as \"hyperautomation\") is an ever-changing collection of technologies."
     publishedDateTime: 2022-06-06T17:48:00Z
-    webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
+    webUrl: "https://www.timesunion.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php?IPID=Times-Union-jobs-entrepreneurship-river"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 24
     images:
       - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"

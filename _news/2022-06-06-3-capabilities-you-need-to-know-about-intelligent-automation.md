@@ -2,28 +2,24 @@
 category: news
 title: "3 Capabilities You Need To Know About Intelligent Automation"
 excerpt: "IBM first pitched Watson as revolutionary, promising advanced AI capabilities like automating cancer detection and treatment recommendations. Now, IBM has positioned Watson as a tactical natural ..."
-publishedDateTime: 2022-06-06T13:55:00Z
-originalUrl: "https://www.entrepreneur.com/article/426720"
-webUrl: "https://www.entrepreneur.com/article/426720"
+publishedDateTime: 2022-06-06T14:03:00Z
+originalUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
+webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1654112187-GettyImages-1313178434.jpg"
+  - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -64,11 +60,11 @@ related:
   - title: "3 Capabilities You Need To Know About Intelligent Automation"
     excerpt: "Intelligent automation has recently received a lot of buzz. A lot of people want to know what the future holds, and many don't want to feel left out. However, intelligent automation (also known as \"hyperautomation\") is an ever-changing collection of technologies."
     publishedDateTime: 2022-06-06T17:48:00Z
-    webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
+    webUrl: "https://www.timesunion.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php?IPID=Times-Union-jobs-entrepreneurship-river"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 24
     images:
       - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
@@ -76,6 +72,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "h3K/nbWexfNzQGoVclWbHrNHYAzorJLmGo+HTGXjgDIUjzXZTBcDTv9Xicja4fJi48fTNbWEOlS0o9NK5nwWLXR1uPowLwAErH1DLTiwjqOQEi6mHY7eZgW7j/z4csOjz6FEU1qvffuCjU8H4iaOFJeYaqPwCKju2KZLbsVBckReiG8ZHFF/WYck3q48PppVmm5azFERxeRrbz5fftHUtfLm0Ys3sEVGPgR+p2Bmj+V9OtQMpO+aXwVXeCEUuDRujegfvuOiOkfDaxj7ukUcU937uooLj5Fcl2MZDfTytqTM1fVOSM0cT//2E8ulGKCWq/ZX8CfFXc/uBd/36hU5RcS2m41iJuAA6e95qZmisMk=;W0hJwZZxJlICboWkqF4wgQ=="
+secured: "DU7XHqKla2zwqbv4YFzINxsC3Zn0W4ed7kAWYCvRMznDRt/i6nRXBfAZcrywO5XkRD00dvxHZZlFkF3gnwVQ1YFqEAJ4/MCh6/rI4GhAf5cfFtzPDcEFk12Yl5xhAvd4tw+vXT3j00HpJurZGAXKAGRaI86dyhoCY+826nWXYapHghTvASyWYXPMneCr89cOzOV9ZTHWLENoNB+sRiAjOS8y91jx6ILQ5EvuSS9LgqTMix0nei3uokrt4zf3Bd8/QocgAu696hN/UV9/hOOuLxjw9cpCmxse8WOjLkTcN4jcXwZf/iCCQNFlM+Xotaqn4zDK+smhydBCdHvdWz2mWkBU3eo6atY+DStdG7N3R2k=;gqEVGlC1wYEZ50H8D/dIYg=="
 ---
 

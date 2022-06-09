@@ -34,9 +34,9 @@ related:
       domain: menafn.com
     quality: 41
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?904830"
-        width: 298
-        height: 250
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?698979"
+        width: 448
+        height: 249
         isCached: true
   - title: "Kira Learning Announces $6 Million Seed Round Financing Led by NEA and Dr. Andrew Ng’s AI Fund"
     excerpt: "Kira Learning today announced $6 million in seed capital led by New Enterprise Associates (NEA) and Dr. Andrew Ng’s AI Fund to build the solution of choice for K-12 schools and districts seeking state-of-the-art,"

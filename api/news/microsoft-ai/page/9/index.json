@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-02-15-authidai-joins-microsoft-partner-network-to-expand-verifiedtm-cloudconnecttm-to-office-365-and-azure.md",
+      "title": "authID.ai Joins Microsoft Partner Network to Expand Verified(TM) CloudConnect(TM) to Office 365 and Azure",
+      "excerpt": "AUID] (formerly Ipsidy), a leading provider of secure, mobile, privacy preserving, biometric identity authentication solutions, today announced that it has joined the Microsoft Partner Network and expanded Verified CloudConnect™ with the integration of its flagship facial biometrics solution to Microsoft Office 365 and Azure via Active Directory Federation Services (ADFS).",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/15/authid-ai-joins-microsoft-partner-network-to-expand-verified-tm-cloudconnect-tm",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/15/authid-ai-joins-microsoft-partner-network-to-expand-verified-tm-cloudconnect-tm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-14-what-the-metaverse-means-for-you-and-your-customers.md",
       "title": "What the metaverse means for you and your customers",
       "excerpt": "In CX and product design terms, you could think about this in terms of cognitive load ... Inside Mesh, you'd be able to use Microsoft Teams, Windows, and other services in VR. Decentraland: Decentraland was among the early movers who explicitly mentioned ...",
@@ -1290,50 +1324,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-azure-machine-learning-webinar-recap-a-sneak-peek-at-the-process-and-possibilities-of-aml.md",
-      "title": "Azure Machine Learning Webinar recap: A sneak peek at the process and possibilities of AML",
-      "excerpt": "The AutoML option in AML studio is a quick and easy way to build models, primarily aimed at the citizen data scientist. All it requires is a dataset, and using the wizard to set up a few ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "originalUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Webinar800X400-1643974854034.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "publishedDateTime": "2022-02-04T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

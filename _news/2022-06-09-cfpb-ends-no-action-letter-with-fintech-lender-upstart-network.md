@@ -63,9 +63,9 @@ related:
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?904830"
-        width: 298
-        height: 250
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?698979"
+        width: 448
+        height: 249
         isCached: true
   - title: "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck"
     excerpt: "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ..."

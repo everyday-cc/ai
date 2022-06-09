@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-09-insilico-medicine-plans-to-launch-a-fully-automated-ai-driven-robotics-lab-for-drug-discovery.md",
+      "title": "Insilico Medicine plans to launch a fully automated AI-driven robotics lab for drug discovery",
+      "excerpt": "Insilico Medicine's end-to-end AI-driven drug discovery platform, Pharma.AI, draws its strength from the quality and quantity of its data. As Insilico scientific advisory board member and Nobel Prize laureate in chemistry Dr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
+      "publishedDateTime": "2022-06-08T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-call-of-duty-modern-warfare-2-is-the-start-of-a-new-era-for-cod-and-warzone.md",
       "title": "Call of Duty: Modern Warfare 2 is the Start of a New Era for COD and Warzone",
       "excerpt": "When Modern Warfare 2 comes out on Oct. 28, it won't just be developer Infinity Ward's newest entry into the long-running military shooter franchise Call of Duty. It will also usher in the next generation for the series,",
@@ -61,7 +104,7 @@
       "originalUrl": "https://www.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -355,7 +398,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-chatbot-trained-on-4chan-pol-automates-bigotry-at-scale",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -650,7 +693,7 @@
       "originalUrl": "https://www.philstar.com/entertainment/2022/06/08/2186941/ai-ai-delas-alas-darryl-yap-declared-persona-non-grata-quezon-city-council",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -671,48 +714,6 @@
       "provider": {
         "name": "philstar.com",
         "domain": "philstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-the-scope-of-artificial-intelligence-in-fighting-cybercrime.md",
-      "title": "The scope of artificial intelligence in fighting cybercrime",
-      "excerpt": "AI can add additional layers of information and authentication on top of two-factor authentication. For instance, deep learning can be used to analyze..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-92072000,imgsize-374186,width-1200,height-628,overlay-etcio/the-scope-of-artificial-intelligence-in-fighting-cybercrime.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/digital-security/the-scope-of-artificial-intelligence-in-fighting-cybercrime/92072000",
-      "publishedDateTime": "2022-06-07T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -878,49 +879,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-ai-company-insilico-medicine-gets-60m-to-expand-into-robotics.md",
-      "title": "AI company Insilico Medicine gets $60M to expand into robotics",
-      "excerpt": "A company that uses artificial intelligence to discover and develop new drugs has received a $60 million series D investment to grow its robotics offerings. Insilico Medicine, based in Hong Kong, said it intends to use the capital to expand its global operations and planned initiatives,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/innovation/ai-company-insilico-medicine-gets-60m-to-expand-into-robotics.html",
-      "originalUrl": "https://www.beckershospitalreview.com/innovation/ai-company-insilico-medicine-gets-60m-to-expand-into-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png",
-          "width": 460,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1216,6 +1174,57 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report.md",
+      "title": "AI may be more effective than humans for business use cases: Redbox report",
+      "excerpt": "Industries like healthcare and ecommerce are utilizing AI to enhance employees’ productivity by simplifying monotonous office tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/",
+      "originalUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1307770579-e1652718837966.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/ai-may-be-more-effective-than-humans-for-business-use-cases-redbox-report/amp/",
+      "publishedDateTime": "2022-06-07T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Insilico Medicine plans to launch a fully automated AI-driven robotics lab for drug discovery"
+    excerpt: "Insilico Medicine's end-to-end AI-driven drug discovery platform, Pharma.AI, draws its strength from the quality and quantity of its data. As Insilico scientific advisory board member and Nobel Prize laureate in chemistry Dr."
+    publishedDateTime: 2022-06-09T04:51:00Z
+    webUrl: "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 78
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "AI company Insilico Medicine gets $60M to expand into robotics"
     excerpt: "A company that uses artificial intelligence to discover and develop new drugs has received a $60 million series D investment to grow its robotics offerings. Insilico Medicine, based in Hong Kong, said it intends to use the capital to expand its global operations and planned initiatives,"
     publishedDateTime: 2022-06-07T17:11:00Z
@@ -56,6 +72,29 @@ related:
         width: 847
         height: 635
         isCached: true
+  - title: "The state of AI in drug discovery"
+    excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."
+    publishedDateTime: 2022-06-08T21:48:00Z
+    webUrl: "https://medcitynews.com/2022/06/the-state-of-ai-in-drug-discovery/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1204099471.jpg"
+        width: 2207
+        height: 1359
+        isCached: true
+  - title: "The next step in AI drug discovery: Robots"
+    excerpt: "Insilico Medicine aims to make its end-to-end AI platform even stronger by launching its own AI-run robotics lab. The lab has been in the design phase for the past two years and is expected to be fully operational this year."
+    publishedDateTime: 2022-06-08T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/955373"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
 
 secured: "VT0j6dbff+rjnarv7TLe3fhoMH3OLnYwIXo0E1N0csdWoHIbVNGMzjmn07s3HKAnLhUXmYcrrVaPxTyJlyn7XbetUQt/WI3wqdCB/8XppCzKDsluEfpkIGDXmDWmipABO0VZH5b14ZfuE7mFisv2IfeoTbqV+KFVd7Z/NYOyiwM9p4j954MMgAjUh11mVmfJkl5Rx9QkARc+jwBSWKwG2SMK0eKIqfZONb8DNLGcOoY1tZepnYG8/kdh4UCAxkKygKdTxWg2RFYiIjAmy1wPCaNRUg5sLArOH/nY3WZpdD2Ty37eOM9nMRb0bx89NYaJHyuIe8yDSGPUsXS04TLS7hQAfZAk40FS8g5jgHFtvxbYc0Rpr1wtqSmRgsTgPtWg3/KeCmHriWgbiXAS3dS08Uc/oVeihnicC/Po1pMPLr5J8mVtaHhlm4fz5gvew5otjs+/5ae+PAhjBs2iLpoDBRy52ypDvuZoOcUhukqvyLZNA04L3EDWtVGWQ3o+ojN1aHDxe6uNIWlCBb9j4ecLoQ==;mGT211xuCfMsZ0NExa3Jzg=="
 ---

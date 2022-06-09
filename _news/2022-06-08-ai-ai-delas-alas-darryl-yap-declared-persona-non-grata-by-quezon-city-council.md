@@ -9,7 +9,7 @@ ampWebUrl: "https://www.philstar.com/entertainment/2022/06/08/2186941/ai-ai-dela
 cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/entertainment/2022/06/08/2186941/ai-ai-delas-alas-darryl-yap-declared-persona-non-grata-quezon-city-council/amp/"
 type: article
 quality: 53
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
     quality: 29
     images:
       - url: "https://netstorage-kami.akamaized.net/images/de8a4c8830dfe622.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kampo ni Ai-Ai Delas Alas, umalma sa pag-tag sa kanya na \"persona non grata\" ng QC council"
+    excerpt: "The camp of Ai-Ai Delas Alas condemned the resolution of the Quezon City council declaring the comedienne \"persona non grata.\" Her counsel responded to it."
+    publishedDateTime: 2022-06-09T04:32:00Z
+    webUrl: "https://kami.com.ph/entertainment/celebrities/143557-ai-ai-delas-alas-camp-umalma-sa-pag-tag-sa-kanya-na-persona-grata-ng-qc-council/"
+    type: article
+    provider:
+      name: KAMI Philippine News
+      domain: kami.com.ph
+    quality: 27
+    images:
+      - url: "https://netstorage-kami.akamaized.net/images/ec00cdb488c00c20.jpg"
         width: 1200
         height: 630
         isCached: true

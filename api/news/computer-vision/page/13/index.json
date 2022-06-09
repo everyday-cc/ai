@@ -2,6 +2,102 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-07-the-best-robot-vacuums-of-ces-2022.md",
+      "title": "The best robot vacuums of CES 2022",
+      "excerpt": "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
+      "publishedDateTime": "2022-01-07T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-bluru-based-ai-and-computer-vision-startup-avataar-raises-45-mn.md",
+      "title": "B'luru-based AI and computer vision startup Avataar raises $45 mn",
+      "excerpt": "Bengaluru and San Francisco-based AI and computer vision startup Avataar has raised $45 million in Series B funding led by Tiger Global. Existing investor Sequoia Capital India also participated in the round.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
+      "originalUrl": "https://inshorts.com/en/news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/01_jan/7_fri/img_1641559494701_750.jpg?",
+          "width": 736,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
+      "publishedDateTime": "2022-01-07T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-platesmart-celebrates-6th-consecutive-astors-win.md",
       "title": "PlateSmart Celebrates 6th Consecutive ASTORS Win",
       "excerpt": "PlateSmart Technologies announced today that it had done it again after the company’s ARES® 3.0 enterprise-grade automatic license plate recognition (ALPR) solution earned a Platinum Award at American Security Today’s 2021 ASTORS Homeland Security Awards.",
@@ -1294,92 +1390,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-facial-recognition-systems-regulation-outlook-for-2022.md",
-      "title": "Facial Recognition Systems Regulation: Outlook for 2022",
-      "excerpt": "Facial recognition systems (FRS) technology is developing rapidly, but so is the law around it, say Nixon Peabody LLP privacy and intellectual property attorneys Jenny Holmes and Palash Basu. They discuss latest trends in state and federal regulation of FRS use by government and business,",
-      "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022",
-      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/d1086a6/2147483647/crop/7888x3032%2B27%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2F55%2Fcb3cea404c8086e5b8bae590a59c%2Ffacial-rec334879311-1-16.jpg",
-          "width": 960,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg Law",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january.md",
-      "title": "DeWitt Township police will have access to facial recognition software starting in January",
-      "excerpt": "The DeWitt Township Police Department signed an agreement with the Michigan State Police to use their SNAP facial recognition software, which is meant to help officers identify suspects and crime victims while in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january",
-      "originalUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/d9b/ea660b0be0634bafb4e6d8a0650cafd3/d9bf8296f47a4d2c87aba01c863fcc61/poster_0bf92dea6b6a425a80199eb2aaeefce4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox47news-com.cdn.ampproject.org/c/s/www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january?_amp=true",
-      "publishedDateTime": "2021-12-22T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSYM-TV",
-        "domain": "fox47news.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

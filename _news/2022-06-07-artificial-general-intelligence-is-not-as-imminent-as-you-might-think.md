@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/artificial-general-intell
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/artificial-general-intelligence-is-not-as-imminent-as-you-might-think/?amp=true"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: Scientific American
       domain: scientificamerican.com
-    quality: 42
+    quality: 46
     images:
       - url: "https://static.scientificamerican.com/sciam/cache/file/E28FB559-B206-4F85-8BB177FF23A683CC.jpg"
         width: 790

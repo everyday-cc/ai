@@ -2,6 +2,61 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-03-03-graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer.md",
+      "title": "Graphcore unveils next-generation AI chips and plans for powerful supercomputer",
+      "excerpt": "Graphcore, a company developing AI accelerator chips, has announced the latest generation of its products and plans for an AI supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/",
+      "originalUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/03/graphcore-unveils-next-generation-ai-chips-and-plans-for-powerful-supercomputer/amp/",
+      "publishedDateTime": "2022-03-03T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-03-cognitive-services-market-growth-trends-2022-future-prospects-opportunities-drivers-competitive-strategies-and-forecast-up-to-2026.md",
       "title": "Cognitive Services Market Growth Trends 2022, Future Prospects, Opportunities, Drivers, Competitive Strategies and Forecast up to 2026",
       "excerpt": "Mar 03, 2022 (The Expresswire) -- Global “Cognitive Services Market” report presents information about market size, share, pricing trends, emerging growth, and provides an understanding of the ...",
@@ -1367,40 +1422,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-15-authidai-joins-microsoft-partner-network-to-expand-verifiedtm-cloudconnecttm-to-office-365-and-azure.md",
-      "title": "authID.ai Joins Microsoft Partner Network to Expand Verified(TM) CloudConnect(TM) to Office 365 and Azure",
-      "excerpt": "AUID] (formerly Ipsidy), a leading provider of secure, mobile, privacy preserving, biometric identity authentication solutions, today announced that it has joined the Microsoft Partner Network and expanded Verified CloudConnect™ with the integration of its flagship facial biometrics solution to Microsoft Office 365 and Azure via Active Directory Federation Services (ADFS).",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/02/15/authid-ai-joins-microsoft-partner-network-to-expand-verified-tm-cloudconnect-tm",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/02/15/authid-ai-joins-microsoft-partner-network-to-expand-verified-tm-cloudconnect-tm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

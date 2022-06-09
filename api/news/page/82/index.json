@@ -2,6 +2,178 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-03-30-trace3-doubles-down-on-strategic-partnership-with-effectual-for-enterprise-aws-cloud-expertise.md",
+      "title": "Trace3 Doubles Down on Strategic Partnership with Effectual for Enterprise AWS Cloud Expertise",
+      "excerpt": "Trace3 Doubles Down on Strategic Partnership with Effectual for Enterprise AWS Cloud Expertise. Effectual, an AWS Premier Consulting Partner, and Trace3 deliver services for migra",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/03/29/9572826.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/03/29/9572826.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-trendforce-aws-to-give-arm-a-leg-up-to-22-of-datacenter-servers-by-2025.md",
+      "title": "TrendForce: AWS to give Arm a leg up to 22% of datacenter servers by 2025",
+      "excerpt": "The increasing adoption of Arm-compatible processors by cloud service providers is expected to grow the CPU architecture's penetration rate in datacenter servers to 22 percent by 2025, according to a report by Taiwan-based research firm TrendForce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/",
+      "originalUrl": "https://www.theregister.com/2022/03/29/aws_arm_servers_datacenters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2022/03/29/server_shutterstock.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/aws_arm_servers_datacenters/",
+      "publishedDateTime": "2022-03-29T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-heatwave-ml-real-time-intelligence-comes-to-mysql.md",
+      "title": "HeatWave ML: Real-Time Intelligence Comes To MySQL",
+      "excerpt": "Senior Analyst, Matt Kimball, covers Oracle's new MySQL Heatwave which enables organizations to run OLTP and analytics from a single database, eliminating extract, transform, load (ETL) functions or the need to maintain multiple databases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/624360b4b7f6e4cfc8415639/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/03/29/heatwave-ml-real-time-intelligence-comes-to-mysql/amp/",
+      "publishedDateTime": "2022-03-29T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-30-bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow.md",
+      "title": "Bill Parsons Joins Fintech TIFIN as EVP & General Manager of TIFIN Grow",
+      "excerpt": "March 29, 2022 /PRNewswire/ -- TIFIN, a fintech platform using AI and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox59.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
+      "originalUrl": "https://fox59.com/business/press-releases/cision/20220329LA05757/bill-parsons-joins-fintech-tifin-as-evp-general-manager-of-tifin-grow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1594579/TIFIN_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-29T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-otterai-which-powers-speech-transcription-with-ai-unveils-updates.md",
       "title": "Otter.ai, which powers speech transcription with AI, unveils updates",
       "excerpt": "The new Otter.ai hopes to streamline communication with what the company claims is \"the first use of conversational AI to power meetings.\"",
@@ -942,195 +1114,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-dubai-meet-the-genius-who-became-the-worlds-youngest-computer-programmer-aged-6.md",
-      "title": "Dubai: Meet the genius who became the world's youngest computer programmer aged 6",
-      "excerpt": "“I developed some AI projects using IBM Watson and Python including a chatbot, voice assistance and an image recognition system to detect fire and smoke.” Explaining the image recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer",
-      "originalUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=21481706-ebe9-5dc7-abfb-9e8b2e3da653&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84543&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/offbeat/dubai-meet-a-six-year-old-who-is-the-worlds-youngest-computer-programmer?amp=1",
-      "publishedDateTime": "2022-03-29T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in.md",
-      "title": "Fell Asleep During That Zoom Meeting? Otter AI Will Fill You In",
-      "excerpt": "AI service will automatically capture the key talking points from online meetings, in case you weren't paying attention!",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6242c3659a2e14fe944650f5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2022/03/29/fell-asleep-during-that-zoom-meeting-otter-ai-will-fill-you-in/amp/",
-      "publishedDateTime": "2022-03-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-it-doesnt-miss-a-trick-artificial-intelligence-beats-eight-world-champion-bridge-players-at-their-own-game.md",
-      "title": "It doesn't miss a trick! Artificial intelligence beats EIGHT world champion bridge players at their own game",
-      "excerpt": "But the Microsoft co-founder will be eating his words this week, following the news that an artificial intelligence ... including self-driving cars. 'As AI progresses, a central challenge is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10663209/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10663209/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/03/29/10/55943063-0-image-a-69_1648545333179.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10663209/amp/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10663209/amp/Artificial-intelligence-beats-EIGHT-world-champion-bridge-players-game.html",
-      "publishedDateTime": "2022-03-29T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-29-how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children.md",
-      "title": "How AI Is Using Facial Detection To Spot Rare Diseases In Children",
-      "excerpt": "This is where computer vision can help. Shniberg built Face.com, a facial recognition platform that discovered over 18 billion faces on the internet. He sold the company to Facebook in 2012. When he and his partner, Lior Wolf, looked at other impactful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6242c02ee1639ec08c4650f5/0x0.png?format=png&width=1200",
-          "width": 620,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/03/29/how-ai-is-using-facial-detection-to-spot-rare-diseases-in-children/amp/",
-      "publishedDateTime": "2022-03-29T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -70,6 +70,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Kampo ni Ai-Ai Delas Alas, umalma sa pag-tag sa kanya na \"persona non grata\" ng QC council"
+    excerpt: "The camp of Ai-Ai Delas Alas condemned the resolution of the Quezon City council declaring the comedienne \"persona non grata.\" Her counsel responded to it."
+    publishedDateTime: 2022-06-09T04:32:00Z
+    webUrl: "https://kami.com.ph/entertainment/celebrities/143557-ai-ai-delas-alas-camp-umalma-sa-pag-tag-sa-kanya-na-persona-grata-ng-qc-council/"
+    type: article
+    provider:
+      name: KAMI Philippine News
+      domain: kami.com.ph
+    quality: 27
+    images:
+      - url: "https://netstorage-kami.akamaized.net/images/ec00cdb488c00c20.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cristy Fermin, dinepensahan sina Ai-Ai delas Alas, Darryl Yap na idineklarang persona non grata sa QC"
     excerpt: "Cristy Fermin came to Ai-Ai delas Alas and director Darryl Yap’s defense after the two have both been declared by Quezon City council as persona non grata."
     publishedDateTime: 2022-06-08T09:18:00Z
