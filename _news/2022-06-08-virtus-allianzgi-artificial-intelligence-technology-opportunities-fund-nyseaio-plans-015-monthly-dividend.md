@@ -9,8 +9,8 @@ ampWebUrl: "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-
 cdnAmpWebUrl: "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 81
+published: true
 
 provider:
   name: ETF Daily News
@@ -26,6 +26,24 @@ images:
     isCached: true
 
 related:
+  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Plans Monthly Dividend of $0.15"
+    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, June 9th, Wall Street Journal reports. Shareholders of record on Thursday,"
+    publishedDateTime: 2022-06-09T21:12:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/09/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-monthly-dividend-of-0-15.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 10
+  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) to Issue $0.15 Monthly Dividend"
+    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, June 9th, Wall Street Journal reports. Investors of record on Monday,"
+    publishedDateTime: 2022-06-09T21:12:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/09/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-to-issue-0-15-monthly-dividend.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 10
   - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (AIO) to Issue Monthly Dividend of $0.15 on July 1st"
     excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) announced a monthly dividend on Thursday, March 10th, Wall Street Journal reports. Investors of record on Monday,"
     publishedDateTime: 2022-06-08T11:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-bu
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-business-automation-leader-cognicor-expands-advisory-board-and-attracts-new-investors/article_fba25b18-650e-5c58-b4a4-61d309d38280.html"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Ram Nagappan Invests in AI-Powered Digital Assistant Startup Cognicor"
+    excerpt: "Sindhu Joseph continues to attract top-tier board members and investors to her artificial intelligence startup Cognicor. The PhD research scientist turned co-founder and CEO announced that her AI-powered business automation startup had landed Ramaswamy Nagappan,"
+    publishedDateTime: 2022-06-09T20:40:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/ram-nagappan-invests-ai-powered-digital-assistant-startup-cognicor"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 37
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/02%20Sindhu-headshot.jpeg"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "oWEz0HNnsOx5TW5sGhqnH1gM6SFLUY34Yg9xXUNTXgKamoaiD9cG6FkrfaJAylwsvozXWuZy1UkXXAHKSffl5uRpvwK12QX1Ms4w8OD+vAsGNNPMeJ/eVxYnSfTsmBcdYEKEIV8LTI3cKeC4mnRNyDBk2HxosR5Ax/JxXRGQGuqxyCs8SEvVLVrx5HZfYuNF8NbpinZdE0t0NxxztuwJ/R4/7/BTWEuY7TA9umf3zP72HwXf7HhHg1j/UDYaEiffiXm5zjhTCHENIAC4sl9qnPZuz9WKpWPTSJApsG1MYhBRkZQ/OOmmegkynv00YyJqGiMDkEFls+xTW1PLNhZ28inVO7uM66jpmKEcZyxD3tXcVrH05u0tEDFHYxYR2XimuljQOMkI9TmjYbJO4DvBWLqnm2Q/WZ9jVTZ1IfaggLealPNnDVZc5NwGUu43Obs8GgkLOvaTkAyK+v498DPA2tapKA0MgtvFPhrBktFKAhx/gE7BchVC/eoWc5uNhfoe0TmGcbPCcVN7NvbuKuZ/UA==;UI0mzmF0QlB5NvkrF0+yTA=="
 ---

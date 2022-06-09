@@ -52,22 +52,6 @@ related:
         width: 1200
         height: 985
         isCached: true
-  - title: "Sharp Sight Eye Hospitals and Logy.AI launch AI-based cataract screening solution"
-    excerpt: "The AI based screening method present as a simple chatbot on WhatsApp uses eye images captured in the near-infrared domain and is computationally ine.."
-    publishedDateTime: 2022-06-08T11:26:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/sharp-sight-eye-hospitals-and-logy-ai-launch-ai-based-cataract-screening-solution/92083298"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/sharp-sight-eye-hospitals-and-logy-ai-launch-ai-based-cataract-screening-solution/92083298"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/sharp-sight-eye-hospitals-and-logy-ai-launch-ai-based-cataract-screening-solution/92083298"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 52
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-92083298,imgsize-4586,width-1200,height-628,overlay-ethealthworld/sharp-sight-eye-hospitals-and-logy-ai-launch-ai-based-cataract-screening-solution.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "RUz4MoI2O9bJ6+CwnCjsIvI/GSEfdTvPXo6azQ6JDAJMKpj9grrWgfOZVg6LIXvg+pok3j0wYHezT5Tlo/xn0u8AeT+SajvXahmjiYd5AC1eTvbNLQqpmni0Ofii80ldz3IlMmhQh1l2JplxEsH4WWf51GY2Nd5u65nhI9rw+DMstJpJTy9cnJRjHMMrLGPhRbqL/Jk7ODQdDQ6AKDHaRSmiuiNrihrkqEF+RhOEbAgK5e4Iw/qniTLFVWpw2e+8Y8FzE50cYDideBqSlDISjVk380XSk6Dzturk18or4blJcSmfKOST2jxucp1kphRTl/9Q12KTqeFaZMEZ9WANt7Ur5qy6zY9QNw8ea66BB7W+mkAStXc702X8dOuopw7adt0DJq38hCU9JUbdInWmVxSwrTM9t5y+PqKRu/OQ9KWEVHNaJSkvQM/4ij8az2GEwxuQcisErLra8x+WE9Wo1PWImi4vuW4aFI4j/RP99fx5yxsoAyc6X+Zb3jQV1Xu1Sj+YifQOlKS5eKyZIJ9ZFg==;bjlG/OSUCwRrJLhmbfOOnw=="
 ---

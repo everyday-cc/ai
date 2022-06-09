@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "http://redskins101.com/wp-content/uploads/2022/05/116-1024x618.jpg"

@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Start-ups fuel India's growing obsession with skincare"
-    excerpt: "The Indian skincare market, the fifth largest in the world, has seen a boom in recent years. Experts say it's driven by a large, young demographic willing to spend money to look good, as well as start-ups that have stepped in to leverage this."
-    publishedDateTime: 2022-06-05T03:48:00Z
-    webUrl: "https://www.daily-sun.com/post/624512/Startups-fuel-Indias-growing-obsession-with-skincare"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/624512/Startups-fuel-Indias-growing-obsession-with-skincare"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/624512/Startups-fuel-Indias-growing-obsession-with-skincare"
-    type: article
-    provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 42
-    images:
-      - url: "https://www.daily-sun.com/assets/news_images/2022/06/05/skincare.jpg"
-        width: 976
-        height: 549
-        isCached: true
 
 secured: "A1627BNBHD4zHNb9a9O24ZVY3U0qNdJ6ytzBGUJcV+bZ1pxvv0IlrlvoW3qoxIKswKzz9EU3V9n25864YRC/x2k7j8f5/8PLR2DkBRNjXGnNxHVqhjeFB3vwomBfMhHNGyH64MCSN24jeq5BvOPckV+5xIiQaYzHxqPZb5229bX6Ugdb/vQW7or9Q2SZbmBfIZgkUo01L91ri2xiX5w4AUACv7tI12otfM7aIRb0i9kddBP5nuZWRzDbRSYoKsO4IY3qHe7XS3sXjthJjmiv9xKX1etmePVsvvBRjkRAzjLzj3HzMKh4Pu25Hprl9qCCByHcmA1EjuwPHklJzwh8oQsbzlPmg2bFkZy4dZFcoQOVOBIkkuPVHxc2JR0cYA6s0Bej2NFdhdYIoTPh10BZ7LbnKz9HZRt5AZLlNFKtwBZmdROyrG6b8Z1jDUHpHKW20uZUzhweMLZTB0TN0vjYu8wE8h2+niG3gWsCc54NsJ+sbxRclvve0r0w9OU5B9lBfIIZCn1wo7GDGQeY1j5hOw==;K1VOr2rUci0wBV6ilwaHug=="
 ---

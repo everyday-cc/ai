@@ -2,6 +2,374 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-04-07-bangalore-international-airport-aws-announce-joint-innovation-center.md",
+      "title": "Bangalore International Airport, AWS announce Joint Innovation Center",
+      "excerpt": "The JIC will focus on driving digital innovation for the airport, enhancing passenger experience, and creating positive impact for the community where the airport operates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.media4growth.com/ooh-news/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
+      "originalUrl": "https://www.media4growth.com/ooh-news/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.media4growth.com/public/thumbs/news/2022/04/6135/BIAL_Thumnail_440_851.jpg",
+          "width": 715,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
+      "cdnAmpWebUrl": "https://www-media4growth-com.cdn.ampproject.org/c/s/www.media4growth.com/ooh-news/lite/bangalore-international-airport-aws-announce-joint-innovation-center-6135",
+      "publishedDateTime": "2022-04-06T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "media4growth",
+        "domain": "media4growth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-google-cloud-releases-biglake-to-unify-data-platforms.md",
+      "title": "Google Cloud releases BigLake to unify data platforms",
+      "excerpt": "Amazon’s SageMaker and Azure’s Machine Learning Service already have this capability, the analyst said. New Looker features, Connected Sheets for Looker and the ability to access Looker data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
+      "originalUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3656650/google-cloud-releases-biglake-to-unify-data-platforms.amp.html",
+      "publishedDateTime": "2022-04-06T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-guardforce-ai-announces-pricing-of-10m-registered-direct-offering.md",
+      "title": "Guardforce AI announces pricing of $10M registered direct offering",
+      "excerpt": "Under the terms of the securities purchase agreement, the company has agreed to sell around 8.7 million shares of its ordinary shares at",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/979020/guardforce-ai-announces-pricing-of-10m-registered-direct-offering-979020.html",
+      "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/979020/guardforce-ai-announces-pricing-of-10m-registered-direct-offering-979020.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA0XC8yMDIyLTA0LTA2LTExLTEzLTQ3LWYwNjZmNTAxNTA5MTlkNzBjNGU0YWU4N2JiNTIxNWU2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/979020",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/979020",
+      "publishedDateTime": "2022-04-06T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors UK",
+        "domain": "proactiveinvestors.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-nokia-data-marketplace-paves-way-for-blockchain-based-monetization-of-health-data.md",
+      "title": "Nokia Data Marketplace Paves Way for Blockchain-based Monetization of Health Data",
+      "excerpt": "Nokia announced that Equideum Health (Equideum), a US-based healthcare software solutions provider, has selected Nokia Data Marketplace to power its blockchain-based Equideum Exchange.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/expert-opinion/24064-nokia-data-marketplace-paves-way-for-blockchain-based-monetization-of-health-data",
+      "originalUrl": "https://www.thefastmode.com/expert-opinion/24064-nokia-data-marketplace-paves-way-for-blockchain-based-monetization-of-health-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-monitaur-launches-governml-to-manage-ai-data-lifecycle.md",
+      "title": "Monitaur launches GovernML to manage AI data lifecycle",
+      "excerpt": "Monitaur offers GovernML as a web-based, SaaS application to establish and maintain a system of record across their entire AI portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/",
+      "originalUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299-e1648759666670.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/06/monitaur-launches-governml-to-manage-ai-data-lifecycle/amp/",
+      "publishedDateTime": "2022-04-06T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-the-advantages-and-disadvantages-of-ai-in-law-firms.md",
+      "title": "The advantages and disadvantages of AI in law firms",
+      "excerpt": "Get to know the advantages and disadvantages of deploying AI and machine learning in law firms and what the future holds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/06/the-advantages-and-disadvantages-of-ai-in-law-firms/",
+      "originalUrl": "https://venturebeat.com/2022/04/06/the-advantages-and-disadvantages-of-ai-in-law-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/06/the-advantages-and-disadvantages-of-ai-in-law-firms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/06/the-advantages-and-disadvantages-of-ai-in-law-firms/amp/",
+      "publishedDateTime": "2022-04-06T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-ai-is-explaining-itself-to-humans-and-its-paying-off.md",
+      "title": "AI is explaining itself to humans. And it's paying off",
+      "excerpt": "Microsoft Corp's LinkedIn boosted subscription revenue by 8% after arming its sales team with artificial intelligence software that not only predicts clients at risk of canceling, but also explains how it arrived at its conclusion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-is-explaining-itself-humans-its-paying-off-2022-04-06/",
+      "originalUrl": "https://www.reuters.com/technology/ai-is-explaining-itself-humans-its-paying-off-2022-04-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/z-sgHrCDLFLhJaQSc1xDQ3jFThc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IVAL5CVXIBOONBVVSKCLRL5B5M.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-07-grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-vertex-ai.md",
+      "title": "Grid Dynamics Unveils New Machine Learning-Based Price Optimization Starter Kit for Google Cloud Vertex AI",
+      "excerpt": "Grid Dynamics' new starter kit leverages machine learning and AutoML technology provided by Vertex AI to help retailers and other businesses optimize pricing decisions to improve margins ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/04/ac26511788/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/04/ac26511788/grid-dynamics-unveils-new-machine-learning-based-price-optimization-starter-kit-for-google-cloud-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/26511788",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26511788",
+      "publishedDateTime": "2022-04-06T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-focus-logistics-giants-hedge-their-bets-in-uncertain-us-self-driving-truck-race.md",
       "title": "FOCUS-Logistics giants hedge their bets in uncertain U.S. self-driving truck race",
       "excerpt": "TUCSON, Ariz., April 4 (Reuters) - U.S. self-driving truck companies have a golden opportunity in the form of a nationwide driver shortage, but their robot drivers still are not ready and neither are their biggest potential customers. The uncertainties ...",
@@ -795,341 +1163,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-lanner-electronics-and-movai-to-speed-amr-development-with-an-integrated-computing-and-software-platform.md",
-      "title": "Lanner Electronics and MOV.AI to speed AMR development with an integrated computing and software platform",
-      "excerpt": "Lanner Electronics and MOV.AI are collaborating to provide autonomous mobile robot (AMR) manufacturers with an integrated computing and software platform for optimized performance and faster AMR development and deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://electronics360.globalspec.com/article/17967/lanner-electronics-and-mov-ai-to-speed-amr-development-with-an-integrated-computing-and-software-platform",
-      "originalUrl": "https://electronics360.globalspec.com/article/17967/lanner-electronics-and-mov-ai-to-speed-amr-development-with-an-integrated-computing-and-software-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electronics360.globalspec.com/images/assets/967/17967/Lanner_Electronics_and_MOV_AI.jpg",
-          "width": 700,
-          "height": 331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-boeing-and-aws-join-forces-to-transform-aerospace-design-and-manufacturing.md",
-      "title": "Boeing and AWS Join Forces to Transform Aerospace Design and Manufacturing",
-      "excerpt": "(NASDAQ: AMZN), and Boeing (NYSE: BA) today announced an expanded relationship that extends the aerospace leader's existing cloud operations and streamlines Boeing's approach to cloud computing. Boeing will migrate applications out of on-premises data centers to AWS and create a technology foundation that will strengthen engineering and manufacturing processes.",
-      "sourceUrl": null,
-      "webUrl": "https://cloud-computing.tmcnet.com/news/2022/04/06/9577663.htm",
-      "originalUrl": "https://cloud-computing.tmcnet.com/news/2022/04/06/9577663.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-openais-dall-e-ai-image-generator-can-now-edit-pictures-too.md",
-      "title": "OpenAI’s DALL-E AI image generator can now edit pictures, too",
-      "excerpt": "DALL-E 2 features a higher-resolution and lower-latency version of the original system, which produces pictures depicting descriptions written by users. It also includes new capabilities, like editing an existing image.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
-      "originalUrl": "https://www.theverge.com/2022/4/6/23012123/openai-clip-dalle-2-ai-text-to-image-generator-testing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/BD0VftV-HDbCAYPUuF0rEGTiaEM=/0x486:1024x1022/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23371032/DALL_E_Teddy_bears_mixing_sparkling_chemicals_as_mad_scientists__steampunk.png",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-smarthop-raises-30m-to-boost-trucking-fintech-products.md",
-      "title": "SmartHop raises $30M to boost trucking fintech products",
-      "excerpt": "SmartHop, a startup that uses AI to help interstate truckers make their routes more efficient and lucrative by removing administrative headaches, just raised a $30 million Series B financing round, bringing the company’s total funding to $46 million following a $12 million Series A last year.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
-      "originalUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/Guillermo-and-Miguel.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/smarthop-raises-30m-to-boost-trucking-fintech-products/amp/",
-      "publishedDateTime": "2022-04-06T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-artificial-intelligence-is-already-upending-geopolitics.md",
-      "title": "Artificial intelligence is already upending geopolitics",
-      "excerpt": "Angela Kane Contributor Share on Twitter Angela Kane is vice president, International Institute for Peace, Vienna and the former under-secretary-general of the United Nations. Wendell Wallach Contributor Share on Twitter Wendell Wallach is a Carnegie-Uehiro Fellow at Carnegie Council for Ethics in",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/",
-      "originalUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/AI_geopolitics.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/06/artificial-intelligence-is-already-upending-geopolitics/amp/",
-      "publishedDateTime": "2022-04-06T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-bangalore-airport-and-aws-announce-new-joint-innovation-center.md",
-      "title": "Bangalore Airport and AWS Announce New Joint Innovation Center",
-      "excerpt": "Bangalore International Airport Limited (BIAL) – operator of Kempegowda International Airport, Bengaluru (BLR Airport) – is working with Amazon Web",
-      "sourceUrl": null,
-      "webUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
-      "originalUrl": "https://www.traveltrendstoday.in/news/aviation/item/10939-bangalore-airport-and-aws-announce-new-joint-innovation-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T3",
-        "domain": "traveltrendstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-natural-language-processing-market-to-reach-3415-bn-globally-by-2030-at-409-cagr-allied-market-research.md",
-      "title": "Natural Language Processing Market to Reach $341.5 Bn, Globally, by 2030 at 40.9% CAGR: Allied Market Research",
-      "excerpt": "Allied Market Research recently published a report, titled, \"Natural Language Processing (NLP) Market by Component (Solution, Services),",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-to-reach-341-5-bn-globally-by-2030-at-40-9-cagr-allied-market-research-860098289.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-to-reach-341-5-bn-globally-by-2030-at-40-9-cagr-allied-market-research-860098289.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-tradeweb-launches-ai-pricing-service-for-the-us-municipal-bond-market.md",
-      "title": "Tradeweb Launches A.I. Pricing Service for the U.S. Municipal Bond Market",
-      "excerpt": "Tradeweb Markets Inc. (Nasdaq: TW), a leading, global operator of electronic marketplaces for rates, credit, equities and money markets, today announced the launch of Tradeweb Ai-Price for municipal bonds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-tradeweb-launches-ai-pricing-service-the-us-municipal-/2022/04/06/9577813.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-tradeweb-launches-ai-pricing-service-the-us-municipal-/2022/04/06/9577813.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-06T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

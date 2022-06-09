@@ -2,6 +2,385 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2022-03-08-clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.md",
+      "title": "Clearview AI commercialization of facial recognition raises concerns, risks",
+      "excerpt": "Facial recognition as a service has caught the attention of regulators and litigators. CISOs at companies considering the technology need strong privacy protections in place.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.html",
+      "originalUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/facial_recognition_technology_thinkstock_851960116-100749431-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3651455/clearview-ai-commercialization-of-facial-recognition-raises-concerns-risks.amp.html",
+      "publishedDateTime": "2022-03-08T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-technical-leaders-agree-ai-is-now-a-necessity-to-compete.md",
+      "title": "Technical leaders agree: AI is now a necessity to compete",
+      "excerpt": "AI is enabling new experiences everywhere. When people watch a captioned video on their phone, search for information online, or receive customer assistance from a virtual agent, AI is at the heart of those experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/",
+      "originalUrl": "https://azure.microsoft.com/blog/technical-leaders-agree-ai-is-now-a-necessity-to-compete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fb25dda4-b8d3-4d62-8dbc-25a2ed930d44.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-08T01:00:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-womens-careers.md",
+      "title": "Gender bias in recruitment: How AI hiring tools are hindering women’s careers",
+      "excerpt": "The odds are still stacked against women's success in the workplace, and artificial intelligence (AI ... and LinkedIn and on social media like Facebook and Twitter. The algorithms on these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/03/08/gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-women-s-careers",
+      "originalUrl": "https://www.euronews.com/next/2022/03/08/gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-women-s-careers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/06/52/72/56/1000x563_cmsv2_28da973d-aa24-5c95-8360-eaf4435011aa-6527256.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2022/03/08/gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-women-s-careers",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/03/08/gender-bias-in-recruitment-how-ai-hiring-tools-are-hindering-women-s-careers",
+      "publishedDateTime": "2022-03-07T23:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-baidu-head-stresses-innovation-in-autonomous-driving-policies.md",
+      "title": "Baidu head stresses innovation in autonomous driving policies",
+      "excerpt": "China should speed up the innovation of autonomous driving policies and promote the popularization of smart transport to alleviate road congestion and reduce carbon emissions, said Robin Li, co-founder and CEO of Chinese tech giant Baidu Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202203/08/WS6226af88a310cdd39bc8b163.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202203/08/WS6226af88a310cdd39bc8b163.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202203/08/6226af88a310cdd3d8337cb1.jpeg",
+          "width": 720,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-07T17:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strioai.md",
+      "title": "Zoox acqui-hires team from robotic strawberry-picking startup, Strio.AI",
+      "excerpt": "Amazon-owned robotaxi firm Zoox this week announced that it has acquired Strio.AI. The Boston-based robotics startup was founded in 2020 by MIT alumns to bring autonomous picking and pruning to strawberry crops.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/",
+      "originalUrl": "https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/zoox_strio_fieldday-1000x666-1.jpeg?w=1000",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/03/07/zoox-acqui-hires-team-from-robotic-strawberry-picking-startup-strio-ai/amp/",
+      "publishedDateTime": "2022-03-07T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-how-darpas-rd-model-brings-ai-advancements-to-the-enterprise.md",
+      "title": "How DARPA's R&D model brings AI advancements to the enterprise",
+      "excerpt": "How it matters to the enterprise. For almost five decades, DARPA has led the application of rule-based and statistical-learning-based AI technologies. Today DARPA funds a wide range of activities from basic research to technology development, including ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise",
+      "originalUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-08/shutterstock_696395281.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-darpas-rd-model-brings-ai-advancements-enterprise?amp",
+      "publishedDateTime": "2022-03-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-what-business-executives-need-to-know-about-ai.md",
+      "title": "What business executives need to know about AI",
+      "excerpt": "For most of the c-suite, even those running the IT side of the house, AI is still a mystery. The basic idea is simple enough but the details surrounding its components, implementation, integration and ultimate purpose are a bit more complicated.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/07/artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/2022/03/07/artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/2-numismatic-genesis-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/07/artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/07/artificial-intelligence/amp/",
+      "publishedDateTime": "2022-03-07T12:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-03-08-activists-pushed-the-irs-to-drop-facial-recognition-they-won-but-theyre-not-done-yet.md",
+      "title": "Activists pushed the IRS to drop facial recognition. They won, but they're not done yet",
+      "excerpt": "The IRS later said it will keep using facial-recognition software to verify taxpayers' identities for the rest of the tax-filing season, but people who want to avoid turning over their biometric ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/03/07/tech/facial-recognition-activists-irs",
+      "originalUrl": "https://edition.cnn.com/2022/03/07/tech/facial-recognition-activists-irs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220302164832-caitlin-seeley-george-joy-buolamwini-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/03/07/tech/facial-recognition-activists-irs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/03/07/tech/facial-recognition-activists-irs/index.html",
+      "publishedDateTime": "2022-03-07T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-08-harnessing-ai-and-robotics-to-treat-spinal-cord-injuries.md",
       "title": "Harnessing AI and Robotics to treat spinal cord injuries",
       "excerpt": "By employing artificial intelligence (AI) and robotics to formulate therapeutic proteins, a team has successfully stabilized an enzyme able to degrade scar tissue resulting from spinal cord injuries and promote tissue regeneration.",
@@ -767,396 +1146,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-fintech-startup-credavenue-turns-unicorn-with-137-million-funding.md",
-      "title": "Fintech Startup CredAvenue Turns Unicorn With $137 Million Funding",
-      "excerpt": "Fintech startup CredAvenue has joined the unicorn club with a Series B fundraising round of $137 million, led by New York-based global private equity and venture capital firm Insi",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/421553",
-      "originalUrl": "https://www.entrepreneur.com/article/421553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1646651575-new79.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-07T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization.md",
-      "title": "Do You Need To Build Or Buy AI-Based Solutions For Your Organization?",
-      "excerpt": "Business leaders face a common dilemma in deciding between building and buying enterprise AI solutions while they plan to adopt AI for their organizations. They need to consider several factors about AI technology to make an informed decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6212d5c7c54cb1e138c0952e/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 921,
-          "height": 915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/03/07/do-you-need-to-build-or-buy-ai-based-solutions-for-your-organization/amp/",
-      "publishedDateTime": "2022-03-07T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-grunt-of-the-litter-scientists-use-ai-to-decode-pig-calls.md",
-      "title": "Grunt of the litter: scientists use AI to decode pig calls",
-      "excerpt": "Researchers say algorithm that translates acoustic signatures could be developed to automatically monitor animal wellbeing",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
-      "originalUrl": "https://www.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/66c7f6e26abf00ae5c2fe46d7c7e1db80b7c385c/0_0_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=9afbc63d0a27ac5a1fe87e5e9b41a7f5",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2022/mar/07/scientists-use-ai-to-decode-pig-calls",
-      "publishedDateTime": "2022-03-07T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-google-ml-can-help-discover-new-antibodies-enzymes-foods.md",
-      "title": "Google ML can help discover new antibodies, enzymes, foods",
-      "excerpt": "The shape of a protein provides very strong clues as to how the protein machinery can be used, but doesn't completely solve this question.",
-      "sourceUrl": null,
-      "webUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods",
-      "originalUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://telanganatoday.com/wp-content/uploads/2022/03/Google-ML-can-help-discover-new-antibodies-enzymes-foods-709x450.jpg",
-          "width": 709,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp",
-      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/google-ml-can-help-discover-new-antibodies-enzymes-foods/amp",
-      "publishedDateTime": "2022-03-07T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telangana Today",
-        "domain": "telanganatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-role-of-artificial-intelligence-and-machine-learning-in-stem-education.md",
-      "title": "Role Of Artificial Intelligence And Machine Learning In STEM Education",
-      "excerpt": "Role Of Artificial Intelligence And Machine Learning In STEM Education Artificial intelligence technology is all over the place. Congratulations: you’ve interacted with artificial intelligence technologies if you’ve Googled something,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-machine-learning-stem-education-mori-",
-      "originalUrl": "https://www.linkedin.com/pulse/role-artificial-intelligence-machine-learning-stem-education-mori-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHj4DrVqZ5qOA/article-cover_image-shrink_720_1280/0/1646639402873?e=1652313600&v=beta&t=h4D8u_YUUeXrMhxEWYajyLIJI1rnhtY_-OLF43wZr7c",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-06T23:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-healthcare-artificial-intelligence-market-importunity-size-industry-analysis-statistics-and-forecasts-to-2026.md",
-      "title": "Healthcare Artificial Intelligence Market importunity Size, Industry Analysis, Statistics and Forecasts to 2026",
-      "excerpt": "In terms of application, the overall healthcare artificial intelligence market is classified into virtual assistants, wearables, hospital workflow, therapy planning, drug discovery, medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-importunity-size-industry-analysis-statistics-and-forecasts-to-2026-2022-03-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-importunity-size-industry-analysis-statistics-and-forecasts-to-2026-2022-03-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-06T23:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others.md",
-      "title": "Healthtech startup DeepTek raises $10 million in funding from Tata Capital Healthcare Fund, others",
-      "excerpt": "DeepTek said this funding will allow it to invest further in global outreach and also in securing important regulatory approvals.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others/articleshow/90045534.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others/articleshow/90045534.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1429966,msid-90045538/healthcare-startup-funding.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others/amp_articleshow/90045534.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/healthtech-startup-deeptek-raises-10-million-in-funding-from-tata-capital-healthcare-fund-others/amp_articleshow/90045534.cms",
-      "publishedDateTime": "2022-03-06T21:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-07-smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning.md",
-      "title": "Smart Finance announces official launch of cryptocurrency platform based on AI and machine learning",
-      "excerpt": "London – March 3rd, 2022 – Smart Finance declares the launch of its avant-garde decentralized finance (DeFi) platform based on leading-edge artificial intelligence, machine learning and ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning",
-      "originalUrl": "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wOTJmZmE0NDJlNTJkMWY3NzgwN2I5OTEwZWU3YmVjNC5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/smart-finance-announces-official-launch-of-cryptocurrency-platform-based-on-ai-and-machine-learning/amp",
-      "publishedDateTime": "2022-03-06T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

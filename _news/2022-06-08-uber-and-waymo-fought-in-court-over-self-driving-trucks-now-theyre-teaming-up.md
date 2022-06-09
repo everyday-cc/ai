@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
-excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
+title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
+excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
 publishedDateTime: 2022-06-07T20:32:00Z
-originalUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+originalUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
 type: article
-quality: 85
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -127,6 +121,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Alphabet's Waymo, Uber Freight In Deal For Future Self-driving Trucks"
+    excerpt: "Waymo Via, the self-driving trucking unit of Alphabet Inc, and Uber Technology Inc's Freight business on Tuesday said they signed a long-term strategic partnership that would allow future customers to deploy autonomous trucks more efficiently."
+    publishedDateTime: 2022-06-07T15:40:00Z
+    webUrl: "https://www.ibtimes.com/alphabets-waymo-uber-freight-deal-future-self-driving-trucks-3532394"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/the-waymo-logo-is-displayed-during-the-companys.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
     excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."
     publishedDateTime: 2022-06-08T18:32:00Z
@@ -137,6 +145,6 @@ related:
       domain: jalopnik.com
     quality: 28
 
-secured: "1/HO7ZP8oQOCxylWeFXTUO82mTo1yFodDxMUw2LPmKzqDVFEQoXd+i7GM3aBXKSl954cIWvvroPgXrsNsOXLhyE9SQegAZ+YrKN4yY5ANaiOmryTq9O19vs54ONcgRQW/azlGV+ogBLq7SVe3JYXmPvw3G6tVJsGp0hffj9N3iKGIDNDyoASOmk8rYl10G8x5HGJK+tgRrguq81dN1IXZEAyrsblXPq0cZXS5+rriFBbCygOTXEtPoRT3sh0pfqfAU0BvROoY8FKzKCbD9YtnKAiKpR7URpY1TbIA1BDAbSZ9sf6acPPXWOa/i/6mqV8I9hH86B4POkg8yN/IoqQ2+tabvYy9Eb9Zp/yZUcFNXIXIzdqdVw8SuMnBe6HBKyCGbloS0DjXCWIRFmdPY6owVNDT6K7wckXDC7CG7Sz/Ildu6Pami4X76mTR9mJRVGF3VlcZt3xe+rpK5oEcsRy5A3y4qag3MggEnsAYETpVlUkQmZJFrh9iTYE6d00C3gK8OrwHi6WbHpkGuIiXXljEg==;8qq1kWl0vDJnUoKmA+Jqew=="
+secured: "XvuIDEBJ9tBMzTMRXKMrCmeMMttXcPuNM/n2rKoSmdg3qO7B8U9225WAoEkK1AT3czF7P+H6JQuRByrGtFkgaPVnUTChAMbBUy1vu2AIQBvigAXTHuubv+s3rhu/UowIWfT6xQrZbt3f2nuY0oAW4QS1HO7PzpOR6LA4PUPnGZRD1uvf6t/GRL153k4hL/Fj53cw7CE3IGXWHOLrnCRzchWoIlgiypbmVjEhHVqOtMcYDSoQUHu0FPcgOkL8dS0Joz5b8/3SpmIkmJfnNP0gCWQtZVhyWO0XLGYffkJBB3hmhxK1Z2tW0CcUfz34IsVxruJuvbg0sb0O/eeDvUoYnLeI0++azWqUb0CgVuilDxA=;ANFm5fYELcujpsDyXXq/HA=="
 ---
 

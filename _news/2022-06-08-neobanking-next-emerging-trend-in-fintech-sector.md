@@ -39,19 +39,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO"
-    excerpt: "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,"
-    publishedDateTime: 2022-06-07T11:35:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
+  - title: "Next Emerging Trend In Fintech Sector Is Neobanking: Easebuzz CTO"
+    excerpt: "2) We are using Amazon Sagemaker to implement our fraud risk models. This acts as a core service that is used by one of our fraud detection products. 3) We are also breaking and moving large ..."
+    publishedDateTime: 2022-06-07T12:19:00Z
+    webUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?324342"
+        width: 361
+        height: 249
         isCached: true
   - title: "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck"
     excerpt: "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ..."

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T19:46:00Z
 originalUrl: "https://www.defenseworld.net/2022/06/09/c3-ai-nyseai-rating-lowered-to-hold-at-zacks-investment-research.html"
 webUrl: "https://www.defenseworld.net/2022/06/09/c3-ai-nyseai-rating-lowered-to-hold-at-zacks-investment-research.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Defense World

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Lacework Blends Artificial Intelligence and Automation to Bolster Cloud Security"
+    excerpt: "Lacework's Mark Nunnikhoven joins Dark Reading's Terry Sweeney at Dark Reading News Desk during RSA Conference to talk about AI and cloud security."
+    publishedDateTime: 2022-06-09T16:30:00Z
+    webUrl: "https://www.darkreading.com/cloud/lacework-blends-artificial-intelligence-and-automation-to-bolster-cloud-security"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 49
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
   - title: "How to use AI in cybersecurity?"
     excerpt: "Let’s talk about how AI in cybersecurity protects the corporate networks of companies. Technological progress has not only pleasing but also bad consequences. Together with the accelerated pace of corporate security systems development,"
     publishedDateTime: 2022-06-07T20:41:00Z

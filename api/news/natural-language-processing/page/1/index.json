@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-09-how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids.md",
+      "title": "How eMagazines utilizes Amazon Polly to voice articles for school-aged kids",
+      "excerpt": "This is a guest post by Andrew Degenholtz, CEO and Founder of eMagazines, the parent company of ReadAlong.ai. eMagazines’ technology seamlessly transforms print products into premium digital and audio experiences. Leveraging Amazon technology, ReadAlong.ai offers a simple, turn-key way for publishers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/emagazines-polly.jpg",
+          "width": 1247,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T14:39:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-papercup-enhances-ai-dubbing-capabilities-with-new-20m.md",
       "title": "Papercup enhances AI dubbing capabilities with new $20M",
       "excerpt": "Papercup, a startup based in the U.K., has raised $20 million for an AI-powered dubbing service for translating speech and expression into other languages.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capabilities-with-new-20m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1192,18 +1245,27 @@
       "title": "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words",
       "excerpt": "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report",
       "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition",
-      "originalUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition",
+      "webUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
+      "originalUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/161315-phones-news-google-assistant-personalised-speech-image1-ukvcyl6jmb.jpg",
+          "width": 943,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T01:25:00-07:00",
+      "ampWebUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
+      "publishedDateTime": "2022-05-30T01:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Pocket-lint",
@@ -1329,49 +1391,6 @@
       "provider": {
         "name": "Techlicious",
         "domain": "techlicious.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-pramana-labs-to-power-natural-language-search-in-the-domo-platform.md",
-      "title": "Pramana Labs to Power Natural Language Search in the Domo Platform",
-      "excerpt": "Raleigh, N.C., May 26, 2022 (GLOBE NEWSWIRE) -- Raleigh, N.C. - Pramana Labs, an AI technology company, today announced that its powerful natural language processing (NLP) will be integrated into ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
-      "originalUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
-          "width": 600,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
         "images": null,
         "publishers": null,
         "authors": null

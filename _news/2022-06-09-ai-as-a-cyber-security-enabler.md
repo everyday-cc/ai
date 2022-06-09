@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-92072000,imgsize-374186,width-1200,height-628,overlay-etcio/the-scope-of-artificial-intelligence-in-fighting-cybercrime.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Lacework Blends Artificial Intelligence and Automation to Bolster Cloud Security"
+    excerpt: "Lacework's Mark Nunnikhoven joins Dark Reading's Terry Sweeney at Dark Reading News Desk during RSA Conference to talk about AI and cloud security."
+    publishedDateTime: 2022-06-09T16:30:00Z
+    webUrl: "https://www.darkreading.com/cloud/lacework-blends-artificial-intelligence-and-automation-to-bolster-cloud-security"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 49
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
         isCached: true
   - title: "AI for Cyber Threat Intelligence – Challenges and Mitigation Approaches"
     excerpt: "By Uday Kiran Pulleti, Senior Director - AI, Cyble The internet as we know it is a dynamic, constantly growing entity. In 2021, Eric Schmidt, CEO of Google, estimated that \"the internet\" is 5 Million"

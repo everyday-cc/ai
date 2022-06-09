@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Consumer Portfolio Services revamps to think more like a fintech"
+    excerpt: "Consumer Portfolio Services is going all in on artificial intelligence (AI), machine learning (ML) and big data as the 31-year-old lender looks to revamp its operational strategy and think more like a fintech."
+    publishedDateTime: 2022-06-09T21:08:00Z
+    webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/consumer-portfolio-services-revamps-to-think-more-like-a-fintech/"
+    ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/consumer-portfolio-services-revamps-to-think-more-like-a-fintech/amp/"
+    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/consumer-portfolio-services-revamps-to-think-more-like-a-fintech/amp/"
+    type: article
+    provider:
+      name: Auto Finance News
+      domain: autofinancenews.net
+    quality: 44
+    images:
+      - url: "https://www.autofinancenews.net/wp-content/uploads/2021/11/canstockphoto43213279-scaled.jpg"
+        width: 2560
+        height: 1378
+        isCached: true
   - title: "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc."
     excerpt: "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from"
     publishedDateTime: 2022-06-08T13:00:00Z

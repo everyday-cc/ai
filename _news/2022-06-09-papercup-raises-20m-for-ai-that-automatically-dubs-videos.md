@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Dubbing Start-Up Papercup Raises $20M From Sky, Others"
+    excerpt: "The capital injection will allow the British firm to invest in bringing \"more human-like voices\" and \"human emotion\" to artificial intelligence dubbing."
+    publishedDateTime: 2022-06-09T16:00:00Z
+    webUrl: "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/"
+    ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/"
+    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 57
+    images:
+      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/Jesse-e1654764987385.jpg?w=1024"
+        width: 1024
+        height: 875
+        isCached: true
   - title: "With new hires, Pentagon’s AI Office reaches full operating capability"
     excerpt: "Stood up earlier this year, the Defense Department’s Office of the Chief Digital and Artificial Intelligence Officer, or CDAO, reached full operating capability Wednesday with the appointment of two new personnel."
     publishedDateTime: 2022-06-07T06:00:00Z

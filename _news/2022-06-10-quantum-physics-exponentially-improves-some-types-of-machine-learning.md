@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T18:00:00Z
 originalUrl: "https://www.sciencenews.org/article/quantum-physics-machine-learning-google-computer"
 webUrl: "https://www.sciencenews.org/article/quantum-physics-machine-learning-google-computer"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Science News

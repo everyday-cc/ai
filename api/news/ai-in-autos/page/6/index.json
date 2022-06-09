@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-22-mobileye-founder-tapped-for-automotive-hall-of-fame-innovator-award.md",
+      "title": "Mobileye Founder Tapped for Automotive Hall of Fame Innovator Award",
+      "excerpt": "Mobileye CEO Amnon Shashua, a pioneer in artificial intelligence and self-driving vehicle technology, is being honored by Automotive Hall of Fame. He’s been named the 2022 Mobility Innovator Award winner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedetroitbureau.com/2022/04/mobileye-founder-tapped-for-automotive-hall-of-fame-innovator-award/",
+      "originalUrl": "https://www.thedetroitbureau.com/2022/04/mobileye-founder-tapped-for-automotive-hall-of-fame-innovator-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedetroitbureau.com/wp-content/uploads/2022/04/Mobileye-CEO-Shashua-at-CES-2021.jpeg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-22T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheDetroitBureau",
+        "domain": "thedetroitbureau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-united-states-artificial-intelligence-market-share-size-trends-growth-and-forecast-2021-2026.md",
       "title": "United States Artificial Intelligence Market Share, Size, Trends, Growth and Forecast 2021-2026",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Apr 21, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"United ...",
@@ -1279,49 +1322,6 @@
       "provider": {
         "name": "Outlookindia",
         "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-sony-shows-off-its-prototype-car-created-to-study-self-driving-tech.md",
-      "title": "Sony shows off its prototype car, created to study self-driving tech",
-      "excerpt": "Sony Corp. showed off its VISION-S, a cutting-edge prototype car created for developing self-driving and artificial intelligence technology, for the first time in Japan on July 27. The electric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/13585119",
-      "originalUrl": "https://www.asahi.com/ajw/articles/13585119",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/8427-p/picture/22430396/739f918ccdc79d4e63c9a96b30dac711.jpg",
-          "width": 660,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "朝日新聞",
-        "domain": "asahi.com",
         "images": null,
         "publishers": null,
         "authors": null

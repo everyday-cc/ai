@@ -80,20 +80,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
-  - title: "Brian Onorio: AI may be transforming shopping"
-    excerpt: "But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing, and are heading back to the brick-and-mortar stores in droves."
-    publishedDateTime: 2022-06-09T15:48:00Z
-    webUrl: "https://herald-review.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_c84455d1-7247-5d51-bae7-adf564204229.html"
-    type: article
-    provider:
-      name: Herald & Review
-      domain: herald-review.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
     excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
     publishedDateTime: 2022-06-06T13:18:00Z
@@ -103,6 +89,15 @@ related:
       name: FOX4 Kansas City
       domain: fox4kc.com
     quality: 21
+  - title: "Brian Onorio: AI may be transforming shopping"
+    excerpt: "But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing, and are heading back to the brick-and-mortar stores in droves."
+    publishedDateTime: 2022-06-09T15:48:00Z
+    webUrl: "https://pantagraph.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_8b1f88a4-e80b-11ec-b90a-d3cb4d81ad4c.html"
+    type: article
+    provider:
+      name: The Pantagraph
+      domain: pantagraph.com
+    quality: 19
 
 secured: "tZlcu1fZJrWwnT6Q3KOc2aeK8hLuFBAp5NBVoKF25WWK9y9MZZBvTqbBERrwKcck+BlXLxfpVrVtjqi3EXCWMrFiEK8vYvfXUB3FPCKEmzoSaoCE2n15vam237AgFy+ATXEPVL7p0l/kutMVIpUUaXEVpMmwnHW2UnrJ7RGNgnS5Kfdvxhp91RxTFo+YzJH2txNCjpvlEYgDGO7OPqRJfA7j9XaD3A5ttWJAMjIC9iiiQkQu7xYGpiifjkr1m1Y0SeGNLnFBMOZmN0mJTCYQWtImynBTp4/LBEf+iPGuV1tfsT/WmzFaN0x4p9PqyB2jHKrxTi3bbA+gFv6jGYTtizXbDcVWBA7Ce4kkew5PDOnVaP25WbdIUeniRLQk8KLdQ1fXGXmtmk3mwiBHMRnEcO/eV4CamXNPE0HimskyqfJMIK4bgfJJlGAS7umNzy9HaF2J4JgIPxM9iCaSJ7T+mqrv6hoUZ/sFDvgsf4ZOsOnQTzrrnjKhx6glu7RjBfaaaoPYwiyH1f4lV4A3vofqJw==;Ro9GSbhi8Qr2/M61FyQZow=="
 ---

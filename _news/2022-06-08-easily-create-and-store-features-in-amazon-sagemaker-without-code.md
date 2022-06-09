@@ -32,6 +32,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 105
+  - title: "Incremental training with Amazon SageMaker JumpStart"
+    excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). SageMaker JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models"
+    publishedDateTime: 2022-06-09T21:47:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/incremental-training-with-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/incremental-training-jumpstart.jpg"
+        width: 1245
+        height: 624
+        isCached: true
   - title: "Create train, test, and validation splits on your data for machine learning with Amazon SageMaker Data Wrangler"
     excerpt: "In this post, we talk about how to split a machine learning (ML) dataset into train, test, and validation datasets with Amazon SageMaker Data Wrangler so you can easily split your datasets with minimal to no code. Data used for ML is typically split into the following datasets: Training – Used to train"
     publishedDateTime: 2022-06-07T16:47:59Z

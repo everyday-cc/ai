@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T18:17:00Z
 originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/"
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: C4ISRNET

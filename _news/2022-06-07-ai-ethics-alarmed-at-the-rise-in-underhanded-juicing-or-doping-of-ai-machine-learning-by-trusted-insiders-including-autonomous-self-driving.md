@@ -76,20 +76,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
-  - title: "Brian Onorio: AI may be transforming shopping"
-    excerpt: "But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing, and are heading back to the brick-and-mortar stores in droves."
-    publishedDateTime: 2022-06-09T15:48:00Z
-    webUrl: "https://herald-review.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_c84455d1-7247-5d51-bae7-adf564204229.html"
-    type: article
-    provider:
-      name: Herald & Review
-      domain: herald-review.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "A self-driving truck will soon delivering in Dallas. The cargo? TP"
     excerpt: "Texas is a key state for self-driving truck experimentation. In April, California-based self-driving trucking company Kodiak Robotics partnered with carrier fleet U.S. Xpress to launch an autonomously operated cargo service between Dallas-Fort Worth and ..."
     publishedDateTime: 2022-06-08T08:15:00Z
@@ -110,6 +96,15 @@ related:
       name: FOX4 Kansas City
       domain: fox4kc.com
     quality: 21
+  - title: "Brian Onorio: AI may be transforming shopping"
+    excerpt: "But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing, and are heading back to the brick-and-mortar stores in droves."
+    publishedDateTime: 2022-06-09T15:48:00Z
+    webUrl: "https://pantagraph.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_8b1f88a4-e80b-11ec-b90a-d3cb4d81ad4c.html"
+    type: article
+    provider:
+      name: The Pantagraph
+      domain: pantagraph.com
+    quality: 19
 
 secured: "Q9w18w5RI6hZphZYXSFA//Xe4hwgrd73EnCXY93nOxIpbk5GY51o7z4y2MmDoyEF9qGNYW5EJuOW3HVCpOdBXo0fA3fSy7lyRXRHi9MGhWaIh9w3ayPd2dLaGiqWY6lMgs8CWdOUNyxLo37NaSCeQe8QW/lRE5O4G9e55zVtr/FhFz+KttqZkbSKUGWEg8UI+W1FehGNIlArOzi8cHzypOIslJsk+tgc3yEviE2WEUni8bd7O85ElzAJ4emReqGd39l/xXtEJzpUcHL8ARbHnc5Py18oBhLCl6Yv5SJulFyams2Tsx8SBStzYbZ8N4hF0x1U3Ok9QaVhCIX3evS5vFhQRqS+qpM4x8LZzuDZxwJlsVvPQ5WVCdCi7dgohbvv4jxKbqMs0ZlRtzu6++UKrGfp/YVxUFanuRud5nYz17uTJFJqWnxEbIet8feFxYGgQlMiDxj7tU9msU6L0HvJ8P972h+0a11drPk5GXAsN+jbrzC1nzSmswIpGjN+qRflUrKq4j3I+vDQX2sVsMTA4w==;zKde+/vcj8MxiWCHolt0cQ=="
 ---

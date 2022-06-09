@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-09-how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids.md",
+      "title": "How eMagazines utilizes Amazon Polly to voice articles for school-aged kids",
+      "excerpt": "This is a guest post by Andrew Degenholtz, CEO and Founder of eMagazines, the parent company of ReadAlong.ai. eMagazines’ technology seamlessly transforms print products into premium digital and audio experiences. Leveraging Amazon technology, ReadAlong.ai offers a simple, turn-key way for publishers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/emagazines-polly.jpg",
+          "width": 1247,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T14:39:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-continuously-monitor-predictor-accuracy-with-amazon-forecast.md",
       "title": "Continuously monitor predictor accuracy with Amazon Forecast",
       "excerpt": "We’re excited to announce that you can now automatically monitor the accuracy of your Amazon Forecast predictors over time. As new data is provided, Forecast automatically computes predictor accuracy metrics, providing you with more information to decide whether to keep using, retrain, or create new",
@@ -10,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/continuously-monitor-predictor-accuracy-with-amazon-forecast/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.techradar.com/uk/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -353,7 +406,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 155,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1357,40 +1410,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-clearview-ai-launches-clearview-consent-companys-first-consent-based-product-for-commercial-uses.md",
-      "title": "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses",
-      "excerpt": "Clearview Consent is available today as a cloud service, with pricing more affordable than other FRT providers such as Amazon Rekognition and Microsoft Azure, while providing much higher ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220525005378/clearview-ai-launches-clearview-consent-companys-first-consent-based-product-for-commercial-uses",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220525005378/clearview-ai-launches-clearview-consent-companys-first-consent-based-product-for-commercial-uses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

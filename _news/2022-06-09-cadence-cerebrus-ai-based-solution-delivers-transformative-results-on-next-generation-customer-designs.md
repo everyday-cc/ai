@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
-    excerpt: "Cadence Design Systems, Inc. today announced the Cadence® Optimality™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
-    publishedDateTime: 2022-06-09T14:43:00Z
-    webUrl: "https://www.design-reuse.com/news/52106/cadence-optimality-intelligent-system-explorer.html"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
+    publishedDateTime: 2022-06-08T17:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
+      name: Associated Press
+      domain: apnews.com
     quality: 19
     images:
-      - url: "https://www.design-reuse.com/news_img2/homepage52106/cadeb.jpg"
-        width: 480
-        height: 270
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Kov73espE3YVHIwYuiKs/bU79zk0VZzzM85zDSj+fGkJTOYzSwPT2LhdAyRmF68stG2tx7BeBKVKMHOSrRRewm43CAzZrwjNR0z8QWSU0/sBEtxK9hLHSrK8t7NzOoWkrjBmXr/aCoAF/SqPjPCxdgwzr9d4rf0n8Wd7YBOxiVTQrTImdNkX8TGwFDMfdvOOpjGnMitwng8O1hyqO60x35Yt9NDuhj56WIFXaubDp+c8n1MP/AuTXs7YjR5adS3NY96AV/1jhGRA0m0ZltolD9HSIPOTrUg2+O3nUdifNA7t0tJVE0ouMWd/bW+GFCU0ZSjiJchXiClYw0sKj5goKhC3I8QpZ2HozJT5lmTfkGw=;4jkXNiSCPM5+BUK7tHRz7A=="

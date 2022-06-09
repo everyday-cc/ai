@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
-excerpt: "Cadence Design Systems, Inc. today announced the Cadence® Optimality™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
-publishedDateTime: 2022-06-09T14:43:00Z
-originalUrl: "https://www.design-reuse.com/news/52106/cadence-optimality-intelligent-system-explorer.html"
-webUrl: "https://www.design-reuse.com/news/52106/cadence-optimality-intelligent-system-explorer.html"
+excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
+publishedDateTime: 2022-06-08T17:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
+webUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.design-reuse.com/news_img2/homepage52106/cadeb.jpg"
-    width: 480
-    height: 270
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: tmcnet.com
     quality: 3
 
-secured: "W2xJ2a2jBtNtapmABrOZk3oPxgtz8ccY8KGQ08OgwWbFTlJiFuLRjWhzrGiphGKA+NTQO+5CVqqIiUfcf/ogBLlU5Ryw3qOy5M5jA0nKFAVSoelVQ6q39PODGQntefXw3vMGcomTLkh9DI+CqTNy8gTRw8cZNP69wnFjy00E2a2RO67VXLdt3/+bUygHZ8xlqk9anRmMEeY4O7cvZgqSf6AOBYFiv+5I5hj7W5Huf+51eMbW//tiEaEzHsen6hZCOwT3aYBbOISD4K/YEdrqwDS4B4kR1EaoaU8Eknw/diULrJbJOQKLywhEsT71cqBitjrlJ2IntZHnXWWvSkcTQlhVDhym02lHay/dS1Nrk3ALMVIggg6NycvXDI5cV8VixhadTPV+No/waacv+UCnjuAJ/nW1UgM6wUnw5GbMR1Ct3YQcOdFUhBUjKTGtoWTi9ViRqhy1BDxedfg2m12dd6u5cKJLj9UFRm4B02EwvFi0H7ZVE8D1U8T2W0YpSp/dIHfiaXSaqTqgZI0KkaoPJw==;X8HeIdsM1/vDlECpoopP+A=="
+secured: "Xv1P3yGHorT+Vli3gX9QZJUGCIA+u+0X0ng8cEgDiL7zju8lguZnhOhniN+d1hYeiGMDvIEil4BmVQFYGGcj3wZkjIS3ezVqYyzDYDEfVo822o0pylMr60CAIUB7H7bulTrzoadR45hc+rkKAf6/ae1HHAExmGjXd9imtFN3UMwuK2W26ohFuo6LYM4MSs97Gf+Om4ldzS7J5XxzHrKDW5r4J5AYu3/icUlW3B5tHBr9z2D27D6hMCfaRK9TigtrEDZaJdTJ4+d6z1Hs26POble3VjHjf0MXfToiPZgr5shoHrHHWJvqj+UKBfoQ2aL5vJtgd4+zlmjbOj9/i4UvP34n1ZQ6CoA9xcwFZ3tJyxQ=;eLWdBNMThdV3SAyQD7Nfuw=="
 ---
 

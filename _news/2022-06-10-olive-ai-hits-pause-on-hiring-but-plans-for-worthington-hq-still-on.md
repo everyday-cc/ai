@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-09T19:43:00Z
 originalUrl: "https://www.nbc4i.com/news/columbus-business-first/olive-ai-hits-pause-on-hiring-but-plans-for-worthington-hq-still-on/"
 webUrl: "https://www.nbc4i.com/news/columbus-business-first/olive-ai-hits-pause-on-hiring-but-plans-for-worthington-hq-still-on/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: NBC4i

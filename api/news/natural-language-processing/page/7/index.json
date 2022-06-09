@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-24-natural-language-processing-nlp-market-future-scenarios-growth-and-analytical-insights.md",
+      "title": "Natural Language Processing (NLP) Market: Future Scenarios, Growth and Analytical Insights",
+      "excerpt": "The global natural language processing market is expected to gain significant momentum in the forecast period 2022-2029. PORTLAND, PORTLAND, OR, UNITED STATES, March 23, 2022 /EINPresswire.com ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103903833/Natural-Language-Processing-NLP-Market-Future-Scenarios-Growth-and-Analytical-Insights",
+      "originalUrl": "https://menafn.com/1103903833/Natural-Language-Processing-NLP-Market-Future-Scenarios-Growth-and-Analytical-Insights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-03/24/EP_a2642image_story.jpeg",
+          "width": 480,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-23T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-24-snap-goes-to-the-oscars-spots-encourage-viewers-to-learn-sign-language.md",
       "title": "Snap Goes To The Oscars, Spots Encourage Viewers To Learn Sign Language",
       "excerpt": "Snap's first Oscars TV spots honor deaf and hard-of-hearing communities, and feature Snapchat's AR fingerspelling Lenses, which encourage users to learn American Sign Language directly in the app. This year,",
@@ -1333,41 +1376,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-15-how-does-ai-fit-into-your-business.md",
-      "title": "How does AI fit into your business?",
-      "excerpt": "you benefit from this branch of AI. Researchers are currently focused on analysing emotions in language that will translate real-time conversations with the nuances of human speech. Augmented ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/O2rQGMAndZnqd1ea",
-      "originalUrl": "https://www.itweb.co.za/content/O2rQGMAndZnqd1ea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/O2rQGMAndZnqd1ea",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAndZnqd1ea",
-      "publishedDateTime": "2022-03-14T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
