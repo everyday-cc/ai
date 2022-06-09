@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "chorus_ai"
   url: "https://twitter.com/chorus_ai"
-  followers: 6832
+  followers: 6831
 
 locations:
   - San Francisco and Tel Aviv
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Chorus.ai"
 
-secured: "dOeOob2hqSCpvpBdPG3rJRo7GBXrlsPB3jg9GyQfjbRcPniYwtlBhLj30ULKNTu+uZk9mGs/sQtH3woKOFp2UT9fEMEcUEJUIzpjr31wzzoC/MKxeWA6rGgb2ShJSDdTXPv3nAxfi9Nwdz2+eH8sI4VEAAPm6wz0YzMRgCBRbm9tjQXkS6X25tU/MZpFCDkxAnouV91SgchLQw+9miNkmjhUcEHfom+rTHY/r5cpZ4auisfwH5B4WQTLA94rNYpbO2Cf2GTUXJCmJ/oAsk7CMmxYm0v5vRSPiwh2XXVqjQmLemy4wJA9ohOKnbBOgIqZqb1b0DwxEwPy/5JdWKlcP+zXHyx3qD1oZM7kBOIeCqj72WqV3ASqnGQr4rVpdkgRVv0rUrEa2ButNibyPur8eyUvx1tciS+lS6Vaxw/uzvQ=;D7ozdVG93w5dkNp6nHThtA=="
+secured: "7crbjWMgLnd6rjOHm0Ut94Z67LKo16qcSw3dZdvrVHNVj8F6fEPaGpD8ciuxj9bIIBRlv7W5ZEZpGUkWM+hsRtrPnKqnYTNvHbksH+lKEeURGovrqG8F+vjopHfAydFTQRV6Qm0DI/hPIueVXQxheL7pKZvKFzEP+LXQdgkbs7Bq6IW0Rs5hdFdkuZU1xk/kv4VE2DwhCPO1+iVDHxAFzgxNmFIHBTxK/hdGv86yIi3NB8YAEEG4Wk7DEyJa49rr1bNOYIcK5QCxj/wJpJbQbJq3qsMIuW68wp+B+a8oEJJ0OXXMhrLspy+o9shORn5sL6oeAKwBLJjnw6rvGNUTmW4GDNS8QZ275t38eLnfIVaUQqGFmPComYjxtcvJH2eXgnzEw3r1ARnNIAD4vmN0isO57MZ/1DDi/bJ5BUnCflY=;t5TbeTWOt46NrFvEHjVO7A=="
 ---
 

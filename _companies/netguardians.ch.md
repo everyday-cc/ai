@@ -2,7 +2,7 @@
 name: "NetGuardians"
 overview: "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://netguardians.ch/
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "qxi9Ub44gBeCnqkbLc/HV4x+1Z/hbY6znYQKLlPF/jUKp091jryhdbPCIHCN3BKjUTI3qZA2gkJhCTrDW2o28bHZZZHQGtcwW/l1IefRI2hFU1+yRwS2RLPS+BodCvkQAV+MFrYsiG11JlY8TMNYaqYMvy8Q6qI5q8m/s+TBLk9srLc3MKUgaJLP0FaIjFPbq+ASAMFMIJKTtHOvjXdsBv52niIwdvYdUUcc+cMxmnMHJWy8Ep6Ue5JOgyBTzxqyYwC8duxJrhm6XoGCU3scFqPpyRXAEQi4m36mbti9oZDR1qA1aOdYUw9NmR3EJ90ZDRxPe1Wv0JlT/wGUAvSJ/piT2H2ARWdt3gFbpIe1JR3uFD9ZJksd8Ekclh1K1DuBPJB9dRmyxmEg5lv4nl8CgwQ7vmeb+HDefb0kWXscyEQ=;N8q62qbqZm+4VYbLbIg6xg=="
+secured: "Cz880rNEYdCYnw5/ddA2vbXfJIOUp3qaBzipXF7tS4rp0B2Y/eNEiZgghpfijl2QAH4E0xljWrEj+q2bcoKwUVP+lP+0/X35CN7hHPclIU77KKIAyW279SjynhzKi+DE6F8IxxypwNmnbVasFEb5FGkNE8TaEH80lphy1DxcGGTNRURVLGDyxRIVSrgF/1vI9tSkajlBZ+6upDnJ8l3zgAIfGOyOXWar3fAKWpC1iJJku7YV4ZzLWaFyLqZUGQTOIKu4DSjG/aFTku4+/GoWrFd1KaUQKIChfgWT0Ub5vPwlEpl2j+NueqMdc/9yjwQFxC9vZu5d5yfFDH0zOzHIP0sWGnAUrJFJmVw39qEkGHq/BplSeu/ILw02nn5/zEo1jtqEGoSYhXw6KTVNBUEYGi5W/Yb1lT5/7E/V1gl3aW4=;fYsn8XB6CIhOmmyfwlEb9w=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Signifyd"
 overview: "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA."
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://www.signifyd.com/
 
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "+GwKkKq16bGb5RQiCtcR1Yibt7xzjsd3tqS/APwc1tkfJ+ApmLHq15/xF6tMSxYspdj90UfWoaFVh2LcP3uQfUD8Dt3/6J2GnFYk/C4L/N/NanD/xDu+k+24+75IDtbuRPF7wPEwtsRtIWzpXVGlP3wvwM2g27drc6KnkPWZgUsSDb/BlwKky43HyiPlPMMY14DhZnPvBUtzcU6nWrpiqFDXBGF9P4v3y71oju/Dnnmj/cGq37kmz2f3Mr2Ciw69X3EkpEhfM8ReJvtRHuv/rHfKpHMMQHVk2eclQl8QSFsCj9nWBFw9wfpqfCOk3QitZeOXukpGOLQx4kpR+cYsvWprL+rqtOR/ncLAAp/X2u03nKH1giOA7o5iRu1GJWgmwTb7hLzEV3/94gMDy7WPyt0amFzSGHFO7gWw8X/0Mlc=;yKz2YGXkYf90A20wHrJXIA=="
+secured: "vansjskvHFQiX280crIoceGLYj6rRCbDzu2DXbdesp6guW2F9+pqJWmQANHx8hk+u2avyrzDH0sf7cxlSOVZffaQTEGtHd8jk92T5181BrO7g68lfxlBL9mM7JErvw7lRvpyeNFRKuHKD4hAAycLaUzIhemOyV3bQgigQjyKC2TJovEhkCEDp5vIJLKyp9hG8WC/vT1JMWqBgzfXBdMa6yFWqUwkBl9ew1VCdsXHF3bKmJYa6F1HeqSaTyxSPcNnuYAhv9iQdA/g7JsSVYoWWshbYqAD2Kaf8gj3iWTjKlIiIdtK8Eoa+AhBDNfbCnaJVIwW7CenK8XFd2KXUOOQMxhUtmak94fmxbk5Cjl+4a8ZGOlFuxDiijXVvV++IxJuM2v5bHcIl32U7xfornMz66WMoZUJj2HDrR3CqQ/ZxwM=;9g7PLCQlCFtjiFCfPyQc6g=="
 ---
 
