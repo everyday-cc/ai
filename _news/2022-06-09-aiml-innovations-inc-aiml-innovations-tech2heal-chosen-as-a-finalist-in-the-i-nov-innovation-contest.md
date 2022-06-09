@@ -52,6 +52,22 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 31
+  - title: "Final Month to Invest in the Startup Named One of the 10 Most Innovative Companies in North America"
+    excerpt: "After scoring big during a beta test at a single White Castle location, the slider-centric restaurant decided to roll out the pilot program by installing the robot in 10 of their restaurants in 2021."
+    publishedDateTime: 2022-06-09T17:39:00Z
+    webUrl: "https://www.kiplinger.com/basic-page/604783/final-month-to-invest-in-the-startup-named-one-of-the-10-most-innovative"
+    ampWebUrl: "https://www.kiplinger.com/basic-page/604783/final-month-to-invest-in-the-startup-named-one-of-the-10-most-innovative?amp"
+    cdnAmpWebUrl: "https://www-kiplinger-com.cdn.ampproject.org/c/s/www.kiplinger.com/basic-page/604783/final-month-to-invest-in-the-startup-named-one-of-the-10-most-innovative?amp"
+    type: article
+    provider:
+      name: Kiplinger
+      domain: kiplinger.com
+    quality: 30
+    images:
+      - url: "https://mediacloud.kiplinger.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1654791500/Native/Ridgegrowth_MisoRobotics_KIP_Native_ledeimage_finalmonthtoinvest_6.2022.jpg"
+        width: 1260
+        height: 710
+        isCached: true
 
 secured: "W/M07T4fLUJE4Q3J6gGx6/4sAhLLNm/H632VYBpHZaVCWbqqtGPMOk/769+p0fYlEXDsRcZKbRroan24QiAb/IeTXiElSx8PFjvyEOPHb7BFUPLClt43AfbOG+468uRYN2RgVAMpxp24WvUe2MWVQwg5V0yuTzra/UzOhZOvEO/oFrQsfjvOv+I5zYzERyLwXYa8VxJd9ajozIvTYAesRW55i+5DPgzM1DI3SRynHwIX9y1Ly3rumUdTTwuE6ftDdJAEHKyzt7FzcHatsNwLCaUXayEHkGyohzrrUMsFLm8hOajV9LKyWFZrLbi3fL9zanD/DWPFRmXyOxdlxlJq9IH7KIjrkTdwpgTtAHpPcRWf2NMJA1x+eg1LBDtgGxbE5EozRGb4fTPT5CFFtWF+4vQUzkOXt0RQ5QaI7stEK0TcptVrnLHG+L92FSy+52LE8Wtvbysd+G0jfUY8GD25yny2kVGpvoNZI1V6mMCApF6BZnUknqbrOrx+kr6a4o5fV1jGJGpdHARe6dBcRvaibA==;NG1yC3Zx7kZuz0/EhR0BZQ=="
 ---

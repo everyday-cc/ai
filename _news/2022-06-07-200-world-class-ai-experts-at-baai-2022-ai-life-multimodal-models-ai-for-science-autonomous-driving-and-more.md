@@ -8,8 +8,8 @@ webUrl: "https://syncedreview.com/2022/06/07/200-world-class-ai-experts-at-baai-
 ampWebUrl: "https://syncedreview.com/2022/06/07/200-world-class-ai-experts-at-baai-2022-ai-life-multimodal-models-ai-for-science-autonomous-driving-and-more/amp/"
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/06/07/200-world-class-ai-experts-at-baai-2022-ai-life-multimodal-models-ai-for-science-autonomous-driving-and-more/amp/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - AI
   - AI Hardware
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/06/image-49.png?resize=711%2C393&ssl=1"

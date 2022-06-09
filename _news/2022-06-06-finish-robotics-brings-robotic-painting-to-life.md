@@ -7,7 +7,7 @@ originalUrl: "https://www.constructiondive.com/press-release/20220603-finish-rob
 webUrl: "https://www.constructiondive.com/press-release/20220603-finish-robotics-brings-robotic-painting-to-life/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/making-robotic-assisti.jpg"
         width: 1711
         height: 867
+        isCached: true
+  - title: "Use of Robotics on the Grid is Growing"
+    excerpt: "That happened the other day when I was searching for some new material about advancements in drone technology for power grid asset surveying. The search engine came up with a wide selection of topics,"
+    publishedDateTime: 2022-06-09T16:38:00Z
+    webUrl: "https://www.tdworld.com/smart-utility/article/21243890/alien-spacecraft-found-on-mars"
+    type: article
+    provider:
+      name: T&D
+      domain: tdworld.com
+    quality: 54
+    images:
+      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/06/16x9/July_Editorial___Landing_Site___Courtesy_NASA.62a1018970e4f.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4XDC93z/WFaYLUtLNJ+pS8hAm8zmwZTYsIxReMUASniaLu/1YfZMqKPJ0X0PTgSI4rDMvRZ1Jxm5LrfhTDfiT9lMaqkldotnQ1RqSFPFDGknpu1mJjjl2HyO+A+0PbXqmB5UMXXvTfFd3gECNG+t+gzXhZhW+Ae2FmPq4hWoS04sh44WVN4+txuJkJV/sYQbrwykwasVWzGBIP6OSu4KX4ksK5/CS7rxqLDnLNWEAyjJPYF5CCXf7wd8xEzUv+9J9wWa41lNXbfe1VY+1sOJSU0TwWdTII4J5lu8b+aHOBzEk3ACUUwlRuRRQ2sOrB368pHszVCgCRryqM+yLhTtKpYKTcIGdcG0R9Ag4etZ7rG0wzwX1c72awNknGGuPXcLPtFVAB9bkLZBgrnOGMUDhTF0+Ao2j/UCbGp39001/7+Igp//y+N/gTJU18Q1ZTBBQlP4alSEyeJA1JnSuy+2Kfzf65uWktcwHBLrIi0/NdxZmAKI7rf7tnVu8Kz1fooGQQkqg7v1ZS81aCSltxVX9g==;bp18cdoRXvTSSitGzBO8lg=="

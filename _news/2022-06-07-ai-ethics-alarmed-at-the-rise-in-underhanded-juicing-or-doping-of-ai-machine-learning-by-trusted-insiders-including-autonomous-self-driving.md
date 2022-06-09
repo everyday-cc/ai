@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
         width: 1200
         height: 585
         isCached: true
-  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
-    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
-    publishedDateTime: 2022-06-06T12:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor-1031510876"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "An Innovative ETF Opportunity That Taps Into Our Increased Understanding of the Human Genome"
     excerpt: "For example, Grous believed that the convergence of next-generation DNA sequencing, artificial intelligence, and gene therapies should ... Looking ahead, ARK expects gene editing and gene therapy companies to grow to $1.1 trillion in market capitalization ..."
     publishedDateTime: 2022-06-09T00:21:00Z
@@ -85,6 +76,40 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
+  - title: "Brian Onorio: AI may be transforming shopping"
+    excerpt: "But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing, and are heading back to the brick-and-mortar stores in droves."
+    publishedDateTime: 2022-06-09T15:48:00Z
+    webUrl: "https://herald-review.com/opinion/columnists/brian-onorio-ai-may-be-transforming-shopping/article_c84455d1-7247-5d51-bae7-adf564204229.html"
+    type: article
+    provider:
+      name: Herald & Review
+      domain: herald-review.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/herald-review.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "A self-driving truck will soon delivering in Dallas. The cargo? TP"
+    excerpt: "Texas is a key state for self-driving truck experimentation. In April, California-based self-driving trucking company Kodiak Robotics partnered with carrier fleet U.S. Xpress to launch an autonomously operated cargo service between Dallas-Fort Worth and ..."
+    publishedDateTime: 2022-06-08T08:15:00Z
+    webUrl: "https://www.seattletimes.com/business/a-self-driving-truck-will-soon-delivering-in-dallas-the-cargo-tp/"
+    ampWebUrl: "https://www.seattletimes.com/business/a-self-driving-truck-will-soon-delivering-in-dallas-the-cargo-tp/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/a-self-driving-truck-will-soon-delivering-in-dallas-the-cargo-tp/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
+  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
+    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
+    publishedDateTime: 2022-06-06T13:18:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 21
 
 secured: "Q9w18w5RI6hZphZYXSFA//Xe4hwgrd73EnCXY93nOxIpbk5GY51o7z4y2MmDoyEF9qGNYW5EJuOW3HVCpOdBXo0fA3fSy7lyRXRHi9MGhWaIh9w3ayPd2dLaGiqWY6lMgs8CWdOUNyxLo37NaSCeQe8QW/lRE5O4G9e55zVtr/FhFz+KttqZkbSKUGWEg8UI+W1FehGNIlArOzi8cHzypOIslJsk+tgc3yEviE2WEUni8bd7O85ElzAJ4emReqGd39l/xXtEJzpUcHL8ARbHnc5Py18oBhLCl6Yv5SJulFyams2Tsx8SBStzYbZ8N4hF0x1U3Ok9QaVhCIX3evS5vFhQRqS+qpM4x8LZzuDZxwJlsVvPQ5WVCdCi7dgohbvv4jxKbqMs0ZlRtzu6++UKrGfp/YVxUFanuRud5nYz17uTJFJqWnxEbIet8feFxYGgQlMiDxj7tU9msU6L0HvJ8P972h+0a11drPk5GXAsN+jbrzC1nzSmswIpGjN+qRflUrKq4j3I+vDQX2sVsMTA4w==;zKde+/vcj8MxiWCHolt0cQ=="
 ---

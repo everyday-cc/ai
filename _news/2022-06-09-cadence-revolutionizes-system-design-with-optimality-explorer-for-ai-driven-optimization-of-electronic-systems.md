@@ -24,6 +24,17 @@ images:
     height: 270
     isCached: true
 
-secured: "fSLIix+G9Jx/e6rWxRzPJ8dQmesbfNydy4NRv8VTMRwnFtZ9ESqWXsT3Hpdd/gbRoa5NM2HdFc9vX15Gv8F70UHp6+BEVNP56Ex6vlZzQNhru4DIdywXQPGhSo79pEkrrzdbLleZ4YKwqBplPxTrpYa71kGGto0CQHiY8t10OnIsNn4AHSDv5xMU+4Fq5USQcloWPyGgYnYAbCVGwJ2SmedZI+nYYSG12BH+jvueh9mfYLo33g/UOPGBLul8NKGreZxbvAnXQjNdBN24B6BIt00whAtPKLI0RrT7JqWauU7GyZ9gK/m+d3c4mLZpI9jP9QnnBuSi8xN6AMVeYnitIM09OazYGF/0bd1zhuPgEjs=;7T/QsU2tWuritjpCvcDh2g=="
+related:
+  - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer adoption of the Cadence ® Cerebrus ™ Intelligent Chip Explorer is accelerating with new production deployments completed. Given that Cadence Cerebrus employs artificial intelligence (AI) technology to automate and scale digital chip design,"
+    publishedDateTime: 2022-06-09T16:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/06/09/9619117.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
+
+secured: "W2xJ2a2jBtNtapmABrOZk3oPxgtz8ccY8KGQ08OgwWbFTlJiFuLRjWhzrGiphGKA+NTQO+5CVqqIiUfcf/ogBLlU5Ryw3qOy5M5jA0nKFAVSoelVQ6q39PODGQntefXw3vMGcomTLkh9DI+CqTNy8gTRw8cZNP69wnFjy00E2a2RO67VXLdt3/+bUygHZ8xlqk9anRmMEeY4O7cvZgqSf6AOBYFiv+5I5hj7W5Huf+51eMbW//tiEaEzHsen6hZCOwT3aYBbOISD4K/YEdrqwDS4B4kR1EaoaU8Eknw/diULrJbJOQKLywhEsT71cqBitjrlJ2IntZHnXWWvSkcTQlhVDhym02lHay/dS1Nrk3ALMVIggg6NycvXDI5cV8VixhadTPV+No/waacv+UCnjuAJ/nW1UgM6wUnw5GbMR1Ct3YQcOdFUhBUjKTGtoWTi9ViRqhy1BDxedfg2m12dd6u5cKJLj9UFRm4B02EwvFi0H7ZVE8D1U8T2W0YpSp/dIHfiaXSaqTqgZI0KkaoPJw==;X8HeIdsM1/vDlECpoopP+A=="
 ---
 

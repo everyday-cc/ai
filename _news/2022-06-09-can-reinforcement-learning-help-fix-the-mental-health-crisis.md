@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcem
 ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcement-learning-help-fix-the-mental-health-crisis/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcement-learning-help-fix-the-mental-health-crisis/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve//62a0d7969d4f7499efccd11a/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 343
     isCached: true
 
-secured: "LWUJA7IxKsCHZLUqtxMw8YIXsyjzaaZeFHJgsBydnlJZWPJUcan3SriV5Uj6ofgbyeneB0y26Pbh7WJf3S5LtCaJzFc69Zu8ubQvAkOVqkt+rLsF281bYkbXmJMa+geYkcnFolIzxxHwQ7nA/sXvW/VyTsBxSADFJnxn5yYi0MXY+663Ss5J30CIwDJU/pP0sCXku5Q+fjVvGdxmTSq9USUAC8jTOVV7AQ9d5nCw/Eljluvgz9oVwo/ygK2uOcjE4TFDpH0p0nSCY5IPNA+QpnByQp+S6aiLySgpN9kWreKfRYjjrxxKpOD0iqBaJ4gzSpAejHCWMJdU1nQFWHKGGibL8iGtxLCb8nXj1RwjRIo=;qEK/61wEwXDwrpVO1yvgMA=="
+secured: "WxvXVHIxoXoaeatK69QtySaxuEhjZEv9nsaZybPTILjbRIUPBeAzHBhni8d3mjV4njCMOfdFauNrggV7FYFe49BaYEmkxdbhR5TbNDlzque5rs8Ka+raRsOrLPehk62srEwlDETmJpAJhgxSqysbeOR2p0G3Mw89d1aOFhLEMJ3DPuAb2f7efY9fMQSEgJmw5zU/YpkA3XyEnZtOTCAOeNBe5kk/GFMdE5XDsSqbGB75FZWnEXFPbj3Wl15ufmBLyiXcUjWgNu/i6Yiev0r1w6XzE5330IOXJeZ96zj0DaO6PY8B8rwdf4Q4CYBNV4UlshJCb07CIBuqrkjm5hQ/tHGx+RRBaf2puHMqjHfQuJenD472dvB5oDq9TaE/gZyk9n8uggrztKozwgxIWZ6fWiaEniaAlQEzsOIJokBOg2SLbGwlgkgMNvjWfIAKhzHBcMcemfsOq9J/4KlhWSRilfQA5p+GtyhLz3O2XftR+tZ27tvoNbWZ+hGI7iz/CH2MsPX9v+CzwbBnyQU8dYaCYg==;QpgKnhRD3/KqsOWUyrEi2A=="
 ---
 

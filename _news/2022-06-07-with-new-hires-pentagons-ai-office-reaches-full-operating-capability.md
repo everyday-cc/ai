@@ -7,7 +7,7 @@ originalUrl: "https://defensesystems.com/ai-analytics/2022/06/new-hires-pentagon
 webUrl: "https://defensesystems.com/ai-analytics/2022/06/new-hires-pentagons-ai-office-reaches-full-operating-capability/367838/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Fortinet Introduces Self-Learning AI Capabilities in New Network Detection and Response Offering"
-    excerpt: "FortiNDR leverages machine learning and deep neural networks – the next-generation of AI – to identify cyberattacks based on anomalous network activity and limit threat exposure HONG KONG SAR - Media OutReach - 7 June 2022 -John Maddison,"
-    publishedDateTime: 2022-06-07T04:30:00Z
-    webUrl: "https://www.asiaone.com/business/fortinet-introduces-self-learning-ai-capabilities-new-network-detection-and-response"
+  - title: "Papercup enhances AI dubbing capabilities with new $20M"
+    excerpt: "Papercup, a startup based in the U.K., has raised $20 million for an AI-powered dubbing service for translating speech and expression into other languages."
+    publishedDateTime: 2022-06-09T16:40:00Z
+    webUrl: "https://venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capabilities-with-new-20m/"
+    ampWebUrl: "https://venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capabilities-with-new-20m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capabilities-with-new-20m/amp/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 26
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/Fortinet-Logo_0.jpg?h=bde28bee&itok=KfKUdCRS"
-        width: 600
-        height: 316
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1344617573.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Papercup raises $20M for AI that automatically dubs videos"
+    excerpt: "British startup Papercup, which offers an AI-powered platform that can dub videos into other languages, has raised $20 million in a venture round."
+    publishedDateTime: 2022-06-09T13:06:00Z
+    webUrl: "https://techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/"
+    ampWebUrl: "https://techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://i.ytimg.com/vi/K85DoRwy-hU/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
 
 secured: "RdfHn5utNTAS67J21vG4ktK+lKYNrxpLb/h7W8ykHhQxvDuwpf5jZqz93BZEsqY6/ULovIt17K+Qw7HJj0bfZq3D8JNGsDioa3X4PEFlFzVY1qGcdIu2fK004v6tHZeDxJVMu7I/ya3Xenfr3Cf+sHe83qGiTo89wxlLWkTNLInPA9v81OUBGsmYCyDvArlKPfIYzYljntmRS5YmX0FzwacCIv0kxaWhGH2pVEsvMfCjwRNTX4RlABan+H5/0SSwXJWVBXyQ/tMEEzBx7XNDz1k9SRTUMGRHAnL4OQnwJF2ihLnW/e9FOsBDn2wEgouhlMuR+/hwq+QIRfn61ZEyPKoPMXHw690AG80JwqdZ9bP13zMozBmAx7UzKcVfstuqrRFlmx0Q9E1/5Jw8KTYq3FFMHMNtgplHvW0xEclz4vtxGS64+lY0wijCNjBu5ogCFtghYJuUr5MF576OoJhjEzWnnTUH0OElbzFT1NrIqmgBCtjO5Kfw8l0FYifal9/ZA3RUHMgj1B6J2Iun52yeqQ==;xI7gseD3kNF/dmuntSdNJw=="

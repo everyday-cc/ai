@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walm
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/ai-is-embedded-everywhere-at-walmart/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 797
     isCached: true
 
-secured: "y33ii/noPerPghwaOpb4LcLNHARJu0jUEFSkvD7jeEsKdwSxvKoi2L7u4F36Jyp2qwKYBWPx7qstMEZZNsKzA7S7NZ3nYTk7k8IXeWa+5C01+oASCV8qGVzo4ntNn1QNZ9AipaPa7gvXGPGgWpOvmlqLN59QjcjbzR6bBfA/7OqCmTnvRsVPUMAih+PfKYA/IEv55nRCwJAdoPJB9O36VzlOlX64f0tJr0QCX2pLe352J1nUmlWZAMmSJx7xp5nfNnodMeelAD447KVjL3vAQzIq8f0/OqbmKkb/WLyowVa+kv+ZeLtPbIJpPa+Gi+bu5lQcYTzpsxgtznvX9xqeGH/bmj/fffnQovTIZB256E0=;GVK++T4Ae/hs8RmJ7pnl6g=="
+related:
+  - title: "Walmart wants self-driving vehicles to outpace competition on delivery. It's betting on these 4 startups to get it on the road."
+    excerpt: "Walmart has forged several partnerships in the past few years to create convenience for customers with middle- and last-mile delivery."
+    publishedDateTime: 2022-06-09T17:20:00Z
+    webUrl: "https://www.businessinsider.com/walmart-retail-betting-big-four-self-driving-vehicle-firms-delivery-2022-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
+    images:
+      - url: "https://i.insider.com/62a228074e21bf00185c2342?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
+
+secured: "jbaHcpRb7ZLF+7LuZ5AxPwWnFNIKfel3iMwOcyqvtdFIS1c17X54YoAZBOQPr4PcbPADbTeXxX/yS089s/P+/osTyidvwhLpUb+s/bo33q7Su7oRR2SKv1rUrz5y30CyXR3adOVoJBZpXb+1ZoiJAhacnHHI2Szb9hXPQcPMaY/U6T9nGZBo2oBJEzl87RwT7dstUut/eF9YuYZBgu4aYcTOxrWEUu8WunKaqIRXiiAJ/GVlmhbNC/iOVvVYMmU+tDCAHf4kBAbTuWNHgYZlZo+qs58KecH3LhthliDhZte5fPMcYSF0B8Onc7IRJluW8KnrepEhSk2o7GmiaMU0GyqJwkF6YvnP6mQiMZ+X+8nWduHQydDj8Ax6YqYcyqzwGRoIRbaNZxeOIZqdd/H1JOCyMawEVBH4UHVJSw+g/Sj8Q9WaQEcGZugLEbaSTfAw5qf3SJkY4gO24wgMbY5D8L9PgIQde8jlHH3CiNzkA0nZ3SSMq61VGhbiJTPuRCiv2JWheCzXpV/cLeLVaN7yMQ==;WcGSnW00uwZLYmmPuLojtg=="
 ---
 

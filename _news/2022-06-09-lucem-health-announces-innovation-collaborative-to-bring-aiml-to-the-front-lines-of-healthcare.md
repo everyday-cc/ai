@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Lucem Health™ Announces Innovation Collaborative to Bring AI/ML to the Front Lines of Healthcare"
-excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative, a partner program designed to move clinical AI/ML innovation to the front lines of"
-publishedDateTime: 2022-06-09T14:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lucem-health-announces-innovation-collaborative-to-bring-ai-ml-to-the-front-lines-of-healthcare/article_ec2d8f08-7694-5386-a118-3f623e27eee8.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/lucem-health-announces-innovation-collaborative-to-bring-ai-ml-to-the-front-lines-of-healthcare/article_ec2d8f08-7694-5386-a118-3f623e27eee8.html"
+excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative, a partner program designed to move clinical AI/ML innovation to the front lines of healthcare. The Collaborative will help digital health innovators create,"
+publishedDateTime: 2022-06-09T14:55:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-a4048c5cc37398cb719c85b49d3f5508"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-a4048c5cc37398cb719c85b49d3f5508"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/48/448a0573-7e25-5edd-bd1e-9fbac388aab6/62a20441636fc.image.jpg?crop=712%2C374%2C316%2C0&resize=712%2C374&order=crop%2Cresize"
-    width: 712
-    height: 374
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -57,6 +57,6 @@ related:
         height: 460
         isCached: true
 
-secured: "wumhirinNfU2QQ5sxZiyz1sTzxCI6ryNjvWVBJgRroCZlI1xv8WRXo8iTcM2hGXxLri5Giwe1gbjYzHfAwSfrPjPpFaSLbKiDWow1HNg1NkynErifJGF+kEs6x7jkH9lUYuf27EOzEoDvxEM+Zqz1vWxcWriRBij8tgB6ZyEmEy3jXt+kDDc2W0V7XoKYDhHxQ/+ahH2sd3NDmi3E4bxKz0pfPqOyj60XQg7xZk0LDu+HC5YtHsKJyUJ+tPc2dvvIPQG26Ao2gc/lgmfwhhtxh8hLSOP0boI9M222yIkK0opEUuiygNyt7HJ+guRnrqNgg/2IuUro1pUIsxiZmFlRFJ/qaKt0jYCheAXeNcwnlw=;XxTQXPY5aW9d6uVm8/54GA=="
+secured: "6pemUYI2EO7pDEDHqE//21ibOzwUFa7j5C8l2e9JiJJE2SYyArs8xrON3QQIE3zbZzmkLwF5MyLpxOTePRtJB8ETHUsQWQFGODcY1Ju0zzWSBeQy7qzcStmG/8qgiFSblj72jTajOe3ZnCLSuq5vqlMr7YgBobPDw0mdByzAlwa0oPcvTJNtPHKYg0b1y0XuMBwpsP6YZ78qoaFPKwwyLJ9JMnqqcvu3XIau7qaJ8+c49tcFjBPR53LISNe6XTxifPCn+EXkQXwHjM21+QQGOSC+/qDJswS8Q1QwxQyftL1JxlS1IQMuKaSbrF81tVhAYtC/x6npd994BvinBc9q+Ff3K6pm1EnbT29rNKP4tBE=;tMzLVnsXMQh36AiVEO6I6w=="
 ---
 

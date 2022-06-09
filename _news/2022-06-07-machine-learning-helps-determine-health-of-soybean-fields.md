@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Machine learning helps determine health of soybean fields"
-excerpt: "Using a combination of drones and machine learning techniques, researchers from The Ohio State University have recently developed a novel method for determining crop health and used it to create a new tool that may aid future farmers."
-publishedDateTime: 2022-06-07T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/955101"
-webUrl: "https://www.eurekalert.org/news-releases/955101"
+excerpt: "Using a combination of drones and machine learning techniques, researchers from The Ohio State University have recently developed a novel method for determining crop health and used it to create a ..."
+publishedDateTime: 2022-06-07T13:40:00Z
+originalUrl: "https://phys.org/news/2022-06-machine-health-soybean-fields.html"
+webUrl: "https://phys.org/news/2022-06-machine-health-soybean-fields.html"
+ampWebUrl: "https://phys.org/news/2022-06-machine-health-soybean-fields.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-machine-health-soybean-fields.amp"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "OQrIFeu0wlif76SbsxqLv6BdbDMCgusOBaofGWtNCqO5Gts632KvYbe2rk2D5wmE9aWVqFzv10mOKgXBPSp1qMzcDnTeHSPzEo9naz9KGx7/5K1+Xi/t1JfLPB8m7D/S9Ayy0GCHvDoQZ40dBXxPM8b1J7JUnzGLB6lnJhQtGOBNqhyko15mhvvZpGBK7QlhmdrCYaSbTIWMMD26hV1f5Ph6BLDCctN8KtxPYgZ6C1TE7X0HspwqXNiZvBQOU7PdKUCN2Uatq1w2Ek+7gULGeluzz/BcRKjsWneHJmqLDWgkG/laqaULvPEUjUvKW0d9MmMOaK54aRjUvzkgL119hwerPqV1ouFWNpWl8q4g3oU=;DHfbNZCq7Jb9rJdlNuoWOw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-soybean.jpg"
+    width: 1920
+    height: 1440
+    isCached: true
+
+secured: "vhVxcdo4jYU1tQ3fCSf3jsHZ06tvqTQmsEYkoOCoh73M0D9MZIgxmbm16dJMUcGWpLyKKh2CdpddK21gHCF6P3ClRUG4g9OXojOwKNlcY9EPL//RJ4TN9NQj82v8/sGgCJGjv02QL/4/8fXcKSAeU0hONJZk2AH8OqK/pZrbAYscHXyZyVCr21GJ66YdLbW2OyNbNyi2IZY9kMSROS337s3NzEcuBEUXS+S1ExC5B7wjl/zycuXGXN08J/QAegBero655mAMHKCgyDJcZinuTdzgvCCmKgIiBomJygjt6/sJrr0YCdZyDjxsbGKsJd35fiIkBT7MPQnDzJdSPFYESpnNFBiIa/47pKIAC2BRX8Y=;SLJic8VlqCLxSrGLbsxjuw=="
 ---
 

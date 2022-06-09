@@ -39,6 +39,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Fortinet Introduces Self-Learning AI Capabilities in New Network Detection and Response Offering"
+    excerpt: "FortiNDR leverages machine learning and deep neural networks – the next-generation of AI – to identify cyberattacks based on anomalous network activity and limit threat exposure HONG KONG SAR - Media OutReach - 7 June 2022 -John Maddison,"
+    publishedDateTime: 2022-06-07T04:30:00Z
+    webUrl: "https://www.asiaone.com/business/fortinet-introduces-self-learning-ai-capabilities-new-network-detection-and-response"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 26
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/Fortinet-Logo_0.jpg?h=bde28bee&itok=KfKUdCRS"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Everlaw Launches AI-based Clustering to Legal Teams"
     excerpt: "Everlaw, a cloud-native investigation and litigation platform, unveils today its Clustering software feature delivering an AI breakthrough in terms of its scale, visualization, ease of use and ability to conduct true discovery."
     publishedDateTime: 2022-06-08T13:06:00Z
