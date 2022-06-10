@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg"
@@ -43,6 +44,6 @@ related:
         height: 343
         isCached: true
 
-secured: "Kv4OGUEtf/lcoiq7lNm0NrGS82M6WWflet8tqbtsCWG6Xgg40g4oaByTd6Xy1JD+Jrv9r48kSx6y5G3SnmG/KIM4z9rqjGP/ASnEG/j1LATyz3wLhTbqz50lvmeWjx7v45bbCQ87nsHUTbrGZUPIAN6IXyIw6llzy0i20Qv9yhGayWojHJubn8cjskJ6bSOiDJ9gPcS4+pf69YeuA6AfxDJazwvBQGEY0nC3PQcWRmTqrdXH9NQw/RlFJz2Tr47JZ3L8c0v4/H5T2W5aiPGZWzKVMJsG3sym8jeOP2SqfR9j31XpaXgSlvxrkcE7hey9syQJbZ+BkaimyUoddzYBA/H+LibMJBh+WpRDzsgdmoI=;hwSkvcFyLasfBvOQwEWbLg=="
+secured: "YRSB5ydoBxrSbvA1T1kr8DoNojCICzlElg1fR6y2WAdF1adqAAgTP/HGWhQXaFaD4gC4ltb2Q0NcM7MK2kRTgYw6m79cftumci+EfjV7NZEAEwS/PcITG5x6RNT+6yKP7g5MiHR0XejOAalC9ZeLK1XRo+2j4q9sZhcWpLIPX7KX7f0XJkw0yf4vNzCV60IuK9f3ldmZu+eAWuL81ExTn4qym9kzFVUsF9sZUuqPJkRJvUxIkOpfZ//fpBGSRH4A0W67CPT2KsieT5zNmeWKoAUI9uAZrf4OeC3ZsajyVeJ9ci1Y6TX2suOc9MhVbc5X9MMBe9f3PjW28JTWE8FYfdyO6lTZUmsGY/f8Sy23S31fA7tt/1bT8+c1mX2wTYImqZ6oAOl3FMhXlmRFuIi3J07r2rFO3cSRv0UcW53VrBKSF29VYf7sGEGVu7IikMs57Vl71suzhnAUCjNuYPFVu5xgcoyiOvsQSxGdbjRZM+NDxZQrya8Qqh7f4FpqeszOlkhXFOQ+QjkCHELXm71h2g==;DO3JihN09FonE1Y2nAZNHg=="
 ---
 

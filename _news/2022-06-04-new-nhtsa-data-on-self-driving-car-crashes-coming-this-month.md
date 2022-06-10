@@ -3,8 +3,8 @@ category: news
 title: "New NHTSA Data on Self-Driving Car Crashes Coming This Month"
 excerpt: "The National Highway Traffic Safety Administration wants to provide more transparency on crashes involving advanced driver-assistance or automated-driving systems."
 publishedDateTime: 2022-06-03T19:51:00Z
-originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines"
-webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=latest_headlines"
+originalUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
+webUrl: "https://www.wsj.com/articles/new-data-on-automated-driving-crashes-to-be-released-by-auto-safety-regulator-this-month-11654272156?mod=hp_lead_pos4"
 type: article
 
 provider:
@@ -19,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://images.wsj.net/im-557184/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-secured: "afU+FE6Hc3JAr+jRhESpDKsloVUiXDj5AMjKTBjyckukJiMfy/yUefACeyJlorudCzvhWVroUNHp05WgjKd4y7Lr0JGCZhsTxshKnpqyZuDQmEvGsjEj2ZNr1+ED+M/3AJ8o6iDK5lMcKs9T+riU697VfwhV30w41urKC+H/EQivDPRUPccNVtEtBHuJBpeL8YFfB0PkYYE5ZUpUpje6pUfLvHyB/CmHgtqL+kdNeKcZdCUIh5wwOjFbWoXkKDB/7sUmU9B1bd3FU19Hm18GzYd+Tmkw78sWP99VP/Dsa79roe3QJtIOEUkFYJsCIkSlF2DeK0i8lX6V3f60ok2aHxYr/HzwH13CsOfytLeE/6w=;XwPThR8KpOPlNy3f9MqiYg=="
+secured: "v+0TwxJXckY47aK/YqDk4llH72J3agvxwe9q1cW48jo0rcK36fedHeXyT4jt+gGLyJ8pvX2zEQIdvpJoWm8YQh8KaHJKHxRezTpOX/WtSBnIguAsky7VmWifhs3PAhj7edmIYUKhHC1sAzGCr36llMMbofmTXAnJKP959YRp8jyYUmUE/buQGC990MMXJbDdGKS69YOJAbHjamv31TMRJpE6HS7uiYmMXq1AHyxxx1PQAYl+uHPa4ocB9Zmu08Cu2yl7fd4z7JDTf9V0Dj/pAovo+friI5aAO+ER6MbUNSLFMaKMWp2XPJ/sz4TnbAyrhQtr18wi20ZT6gIejR3WL0kskEW5nq9n9E+C6sidjTcT9MlRMjCQ4ME1yxGrGT8YCetpLoHGpSYOLgtdSKkdcCWt0oaHVHvK/ABJOl1KLn7U7zXseSm7NcL8Gp3A7LrwEjS3GKGThDDKp8Z2G27Sna2L8o+e2hNIhLE/uYWN68ART6io58X5Up1OKlKtR28k8tA+eURkqVEeqTvG65vTOA==;oEbWdsa1GSObf1gSM4OOIQ=="
 ---
 

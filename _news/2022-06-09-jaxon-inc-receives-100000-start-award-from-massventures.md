@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-09T11:01:00Z
 originalUrl: "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures"
 webUrl: "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: Digital Journal
@@ -18,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/711433c4010329ecbb3a7b222727a1cdd7c76bb7-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "PAK/cWntvR/zz9ruAPUZ4cehniOB+mc/3perFAdHat4lqMATHSJPSxDLJpVpyPjU4ud0HhrlmTRrcBdyXTh4/KOSGeaoYDVS0hNUSooQu5boC6qcp6rBlZiORtQjKS9eG/UC6lbrXOsAXbDOGjjTKC2rHeZS/mFY8EBpRwTiInaH3FJtfqF2dniNLBOc9pedOZ2C7mdSBQ8CXeHX6ghfSGNl3Ka9LLWslzfcm+BQPfEQ6hr1qHb+OZTcM8G2wL6jb8RU0v/f3kGaV9aG/cYTLLMIPDJOI2tJYuGHUT87vHcXNi/iYITvx7A7PFDwaCWEEW421yl9N2FB3epPWgj07YIjL7w1A17f+apbppPK/50=;40MTn1p+8GR4z06dkWy/wQ=="
+secured: "+6tFvvcFkpeQrsGlgY1hpBPurXwzEw50EKEXQ29gmjIc97DmeTqeZT+skSx4WEVY3VbP4oVzjKbzsDhQkrdQ4opc3xsBNY6HoKPn/x1CATN5sLxC/xD6+IzHh52qZ2f24ukCTKNL0pSAQsTv/+HrGROvsnf+uHq7YdY3LeBfmL4Y+QVueEkvTbhVn09Y5uXTuSLD4o5OXrQru9963K17qpMfljM8YLtcyYaEgLaGkXUadh07Iwb4ya2MnW3XnD/PjnSLjNBeGc2V8vXxMFu1CGe4XOvRMEiNqRwKbyvkJxwk1VPVpP04rw19QOKYpaZWAHPXiAt3xmEFCSjrQtvcaQXmHfFzDKJTO/1K5JY0soA=;HhKZpFxZI5vVEYS996SiNg=="
 ---
 
