@@ -7,7 +7,7 @@ originalUrl: "https://www.newswit.com/en/LfHe"
 webUrl: "https://www.newswit.com/en/LfHe"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer adoption of the Cadence ® Cerebrus ™ Intelligent Chip Explorer is accelerating with new production deployments completed. Given that Cadence Cerebrus employs artificial intelligence (AI) technology to automate and scale digital chip design,"
+    publishedDateTime: 2022-06-09T14:46:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-business-ab6b5d565f024f10a71d7bc9725287a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
+    publishedDateTime: 2022-06-08T17:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
     excerpt: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs. Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer a"
     publishedDateTime: 2022-06-09T18:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/health-wellness/article/3180813/how-a
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
         width: 460
         height: 460
+        isCached: true
+  - title: "3 key trends that show AI and data are changing the face of medicine"
+    excerpt: "Data and artificial intelligence are transforming the healthcare industry in many ways. The recent Stat Health Tech Summit, organised by the health publication Stat and held in San Francisco, California,"
+    publishedDateTime: 2022-06-10T02:20:00Z
+    webUrl: "https://www.asiaone.com/digital/3-key-trends-show-ai-and-data-are-changing-face-medicine"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/20220610_data_pixabay.jpg?itok=x3RtfF91"
+        width: 800
+        height: 567
         isCached: true
 
 secured: "1K93EeWLIbHnR82q+IYQk1CDLlSnvyma/LX52+lto70cUmcl2+ME8rIW5OZfAv8AfSjXXxFboXnSw/fwQU0hBTyApviv58CIBlLgxqsZV/YnIt24CC4sWHdidtHC7oct1O18tuK1XE0uE7vUje2RSaM2Sq0wgu2Ca//Oy3Z+395F1lNbzt3Bhviy0QWr7RJZTZkNrd29mWw/EPrvK55n7K6QRLpGzM5Hyl7TY/swjbXH7yDbsqoqGkyeaGvChbkH6DxBTmMn1+BMtSi8eakuXVct6rrX7Swa4dKfuoGLcduHJZvsYf2KRuHTMFPrAOA7/HoRzXaoI2SXWH/NgGrSvmI6Yf29D1pf0wHzdkFX1NvWCIIRsHwPZUjmmOQ0aI2HObArYOiYTF5ylKJgKhC8kXfIus7eptwfKtxnxSooXKH0YUH2re5lFubTco1qqkVyz1ueJ9mAhUkgNOMcifswCLicARK393sJGAvohufvHPhJxaVulRtJhBLO/xBB2haSr4V/O/xlxYPLyr4nErxvQA==;zv31bZx/sBA/5bASY5Bg5w=="

@@ -26,14 +26,14 @@ related:
   - title: "AWS and HKSTP Announce Strategic Collaboration to Accelerate Innovation and Technology Development in Hong Kong"
     excerpt: "Amazon Web Services (AWS) and Hong Kong Science and Technology Parks Corporation (HKSTP) announced a strategic collaboration today, aiming to foster a robust Innovation and Technology (I&T) ecosystem in Hong Kong."
     publishedDateTime: 2022-06-06T09:03:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong/article_37960012-dab4-59e1-95ee-2beff9a44ab1.html"
+    webUrl: "https://www.valdostadailytimes.com/news/business/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong/article_3752522d-c4f9-5eb2-9ae4-caf0889f931d.html"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
     quality: 19
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
         width: 600
         height: 315
         isCached: true

@@ -90,6 +90,20 @@ related:
         width: 800
         height: 428
         isCached: true
+  - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
+    excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
+    publishedDateTime: 2022-06-09T13:03:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "UUGGm4A1MVCrBw4f1+ZinfY8RPzfR8i6X8fcRfAQT8GdL0P1/u0aQL9VA6U7K+emzwZdEhdFHRxtUrkCtsz4YivQGVVwR1ZRuQ7e+jdN6tqdfoX9+MEHDYCy8rUXeEX5WCkkAYp08Zv4R3J41BOIOjebaC6a8EG0G9I/qfzb7S1imq4ostzS+jDNE8YsconY45VVlAFnf9khJlyQF8Pj+owTKsrssjBGuYQzNAN8za1kJSDlFNvwtxPvREmK7MWj06M0xS8o5XTNGqt2o1/vOVrsmd5u3E1TYyAH3ksfDXltCqKAXrkvhmFXjFZQ03csZ5a7OjdqFqbe0wXu4NIgz6vbfdPzqdmSChcdLY5ccDs=;4Vgs7D2SdURt0xnlKKe/sw=="
 ---

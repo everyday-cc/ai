@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer adoption of the Cadence ® Cerebrus ™ Intelligent Chip Explorer is accelerating with new production deployments completed. Given that Cadence Cerebrus employs artificial intelligence (AI) technology to automate and scale digital chip design,"
+    publishedDateTime: 2022-06-09T14:46:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-business-ab6b5d565f024f10a71d7bc9725287a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
+    publishedDateTime: 2022-06-08T17:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "SCG joins forces with Microsoft to drive complete digital transformation, delivering customer experiences with intelligence"
     excerpt: "SCG and Microsoft Thailand have announced a partnership to strengthen SCG's capabilities as a digital organization. Both parties will seek to deliver better experiences for customers with world-class digital technologies that bring greater intelligence to understand and anticipate customers' changing needs,"
     publishedDateTime: 2022-06-08T02:02:00Z

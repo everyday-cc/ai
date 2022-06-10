@@ -7,8 +7,8 @@ originalUrl: "https://www.investing.com/news/stock-market-news/microsoft-reitera
 webUrl: "https://www.investing.com/news/stock-market-news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-2834958"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Investing.com
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Reiterated Outperform by Oppenheimer Following Azure Talk"
+    excerpt: "Oppenheimer analyst Timothy Horan reiterated an Outperform rating and $340 price target on Microsoft (NASDAQ: MSFT) Wednesday, following a \"fireside chat\" with M"
+    publishedDateTime: 2022-06-08T13:36:00Z
+    webUrl: "https://in.investing.com/news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-3232728"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 54
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEA6103X_L.jpg"
+        width: 800
+        height: 537
+        isCached: true
   - title: "The productivity advantages of Microsoft Azure: vertical focus"
     excerpt: "As much as this Cloud for Sustainability effort interests me, the vertical focus and the maturing of Azure is what I find interesting ... What Microsoft has now is the foundation for future AI-driven solutions that could be independent of verticals ..."
     publishedDateTime: 2022-06-09T12:09:00Z

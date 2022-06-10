@@ -34,6 +34,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Landing AI Adds New Edge Capabilities To Landinglens To Bring Deep Learning To The Factory Floor'"
+    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
+    publishedDateTime: 2022-06-06T14:19:00Z
+    webUrl: "https://menafn.com/1104330418/Landing-AI-Adds-New-Edge-Capabilities-To-Landinglens-To-Bring-Deep-Learning-To-The-Factory-Floor"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?467068"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "wDtZPZUWJ3MxIfAyAwpkcKdXxg52yzfkzzArwEHdOGhfGuHYUh76PrN0Tl7uf955eg4uLE7+eqeHh4MiraFMlGqY21OU+BbHWw4WIhjPD2qnk8BukOsHac2MiMQUZ8DBveV+q7NtLmg6oI3PcsseHgzrMY6LHblbhLW14gkuPthvMh7mst9ey6TspORPLDVodnuj/UDhccQP1UnDCg9H/8ecEeA/Ry4kGHiARLhcdS3cSBPJrjOmHN+E09tRBWa3NGlMeXZ1e+bddznPxuieCPUi5L0AjfGkYeYA1iEWkOYaNaQdN4tQFadSEAHo6nW0IAHDxffr/XydwdLRSA1KZILPqaPR/tHzKKGZbWjcnOpPk1dY+hoFkjeT+xcHhUEGdEkDIGqENp+Z2GRFlja8xWB3mYamlWSTVJGhYUGbAXqMyaHYLBqtNx7nv0k9uAZttXf842pUzNZwMaQToONc6/TpNNExq8QNQAA90MtMX991gsuXsDyMLbn/pGdfxHa9crcAFigSVXhn3b1j6a46sA==;UVCsXcX0DXxy+MwWfFhM1A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Long, Hype-Strewn Road to General Artificial Intelligence"
-    excerpt: "A versatile new AI is fueling speculation that machines will soon think like humans. Time for a reality check."
-    publishedDateTime: 2022-06-05T10:00:00Z
-    webUrl: "https://www.motherjones.com/environment/2022/06/general-artificial-intelligence-technology/"
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 43
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2022/06/20220602-ai.jpg?w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A New Approach to Regulating Credit-Scoring AI"
     excerpt: "These gaps arise out of the technologies used to advance AI in credit reporting. Companies that employ credit scoring models use proprietary algorithms protected by trade secret laws, obscuring the methods used to obtain these scores."
     publishedDateTime: 2022-06-07T04:01:00Z

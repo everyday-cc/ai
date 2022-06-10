@@ -3,20 +3,27 @@ category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,"
 publishedDateTime: 2022-05-30T10:45:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp"
+originalUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
+webUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
   - AI
 
-secured: "Vam/AfdicPM/ClRGhDWmU/4I/1oV2cvTwY8XmCSgbRp+fDWAFJNvtH2NavlNo+Xpr6VEVFh/xYMFWLR44nWV+h+Yh1ajReZjpXZoUknjCGHm88LD9/u4cjNoEXVvMLZ2/NEeRjIE3WFwQDQzSG/i7/Csvnadh6T0qbzsTXJYrb/0Joje3pqrkhnpw99nx9JKF/zhchwE0H4oWgkr2lw4oxAqBfPsN3n4I5Hyq67jZ+bXuLtk6BNZdkLcXZQMoybydUSmkzzioW41OkHFi0PT1r7WzEbZUlV+E06oNtkqA4SSC+cCwi8ZykX+orXtFOsMb8RJWETMqDXGsTk+I0GiO48f7jZC1w+BrH0hmUbgFdiUU7sH2nKBIJQhlJAmLRwp4RVM15T7pPY3pYQkHHavbzbDO82QBv1yuBc7mNDINAirg9uSVMTBwkTzebyg2BeKo20WK+NXnEYQ8Tb4pKriLDjORy7Kr9kOtG1WL+VYatPtXR87FfLVHKHhAW8PuIr6l8dgFCdbDb6xXBK4+EjNWA==;fEmcxdhVfrzyuALscJb3Kw=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
+    width: 2310
+    height: 1297
+    isCached: true
+
+secured: "StyvQI645jqE63p12F+2ja8gFFDiXkLr3btkffw5pAVi3rwwkBC3F3h4nAUjgkdaL2rh8UKxjkGvVYorFdHEfVhtaD+NWWqeGipc93ohnac0IOo+7vtfX1BHFwn0eJpp9C2E5ckKMBLgic4cQvfDq0k22Fr4XThBHHKqvwMxHDYeJZD3JT6fOrMWejTlpyGQwQRKFgzy/LeLrkPEGeI4F1ZIk4UIoXjGs6nnhe2dVmxXWmBN9SPt2qScS9DiPtnPq3vNojf64tHkCfE+Ga/pqlgeWve1emZT/U1UQGYokzf3tKUUlKnLiSgDF1Lzc+lGykmmv8TSIDdMBzav+Saf9RIyXCQdHDidWh3pzbYZyzE=;mNk0gbQbCZnSKWqoaKCFhQ=="
 ---
 

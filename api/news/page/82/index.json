@@ -2,6 +2,49 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-03-31-artificial-intelligence-expands-its-terrain-as-legislation-and-ethics-rules-try-to-catch-up.md",
+      "title": "Artificial intelligence expands its terrain as legislation and ethics rules try to catch up",
+      "excerpt": "Jack Clark (Courtesy James Cham) Adams: You also tracked how much research on AI ethics was published in academic journals, which, according to your report, has really jumped. What are people ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-expands-its-terrain-as-legislation-and-ethics-rules-try-to-catch-up/",
+      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/artificial-intelligence-expands-its-terrain-as-legislation-and-ethics-rules-try-to-catch-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2022/03/GettyImages-588329502-e1648673323170.jpg?w=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-you-can-now-translate-to-from-isizulu-across-the-entire-microsoft-ecosystem.md",
       "title": "You Can Now Translate To & From isiZulu Across the Entire Microsoft Ecosystem",
       "excerpt": "Image sourced from NS Energy. Microsoft has added isiZulu to its Microsoft Azure Cognitive Services Translator, enabling text and documents to be translated to and from South Africa’s most ...",
@@ -1110,49 +1153,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-ai-could-replace-human-military-commanders-in-making-life-or-death-decisions.md",
-      "title": "AI could replace human military commanders in making life or death decisions",
-      "excerpt": "Conventional AI uses input to 'teach' an algorithm about a particular subject by feeding it massive amounts of information. Practical applications include Google's language translation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10669075/DARPA-launches-new-program-AI-replace-humans-decision-making-battlefield.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10669075/DARPA-launches-new-program-AI-replace-humans-decision-making-battlefield.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/03/30/16/56009563-0-image-a-13_1648654110811.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10669075/amp/DARPA-launches-new-program-AI-replace-humans-decision-making-battlefield.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10669075/amp/DARPA-launches-new-program-AI-replace-humans-decision-making-battlefield.html",
-      "publishedDateTime": "2022-03-30T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

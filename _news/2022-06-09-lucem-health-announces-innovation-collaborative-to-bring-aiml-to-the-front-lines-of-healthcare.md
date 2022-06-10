@@ -56,6 +56,20 @@ related:
         width: 460
         height: 460
         isCached: true
+  - title: "3 key trends that show AI and data are changing the face of medicine"
+    excerpt: "Data and artificial intelligence are transforming the healthcare industry in many ways. The recent Stat Health Tech Summit, organised by the health publication Stat and held in San Francisco, California,"
+    publishedDateTime: 2022-06-10T02:20:00Z
+    webUrl: "https://www.asiaone.com/digital/3-key-trends-show-ai-and-data-are-changing-face-medicine"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Jun2022/20220610_data_pixabay.jpg?itok=x3RtfF91"
+        width: 800
+        height: 567
+        isCached: true
 
 secured: "6pemUYI2EO7pDEDHqE//21ibOzwUFa7j5C8l2e9JiJJE2SYyArs8xrON3QQIE3zbZzmkLwF5MyLpxOTePRtJB8ETHUsQWQFGODcY1Ju0zzWSBeQy7qzcStmG/8qgiFSblj72jTajOe3ZnCLSuq5vqlMr7YgBobPDw0mdByzAlwa0oPcvTJNtPHKYg0b1y0XuMBwpsP6YZ78qoaFPKwwyLJ9JMnqqcvu3XIau7qaJ8+c49tcFjBPR53LISNe6XTxifPCn+EXkQXwHjM21+QQGOSC+/qDJswS8Q1QwxQyftL1JxlS1IQMuKaSbrF81tVhAYtC/x6npd994BvinBc9q+Ff3K6pm1EnbT29rNKP4tBE=;tMzLVnsXMQh36AiVEO6I6w=="
 ---

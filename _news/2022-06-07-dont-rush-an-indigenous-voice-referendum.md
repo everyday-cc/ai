@@ -25,17 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Recognition is needed but separate Indigenous voice is not"
-    excerpt: "In a speech to a Recognise event in late 2014 ... and it’s high time that this reality was recognised in our Constitution.” The form of recognition I was edging towards, had the process set out in July 2015 been followed, was to amend the preamble ..."
-    publishedDateTime: 2022-06-05T12:35:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/recognition-is-needed-but-separate-indigenous-voice-is-not/news-story/72e7d369b9cff12c4273aef77e71e939"
-    ampWebUrl: "https://amp.theaustralian.com.au/commentary/recognition-is-needed-but-separate-indigenous-voice-is-not/news-story/72e7d369b9cff12c4273aef77e71e939"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/commentary/recognition-is-needed-but-separate-indigenous-voice-is-not/news-story/72e7d369b9cff12c4273aef77e71e939"
+  - title: "First Nations people shouldn’t have to wait for a referendum to get a Voice to Parliament"
+    excerpt: "An Indigenous Voice to parliament and government does not require a constitutional enshrinement or referendum to be enacted immediately. So why is the Australian government asking for a referendum?"
+    publishedDateTime: 2022-06-10T02:12:00Z
+    webUrl: "https://theconversation.com/first-nations-people-shouldnt-have-to-wait-for-a-referendum-to-get-a-voice-to-parliament-184316"
+    ampWebUrl: "https://theconversation.com/amp/first-nations-people-shouldnt-have-to-wait-for-a-referendum-to-get-a-voice-to-parliament-184316"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/first-nations-people-shouldnt-have-to-wait-for-a-referendum-to-get-a-voice-to-parliament-184316"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
+      name: The Conversation
+      domain: theconversation.com
+    quality: 50
+    images:
+      - url: "https://images.theconversation.com/files/467897/original/file-20220609-14-rygfik.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Dean Parkin: Voice to Parliament is a win for all Australians"
+    excerpt: "A referendum on a Voice to Parliament delivers upon decades-long calls for Indigenous constitutional recognition while having a practical impact on the lives of Aboriginal and Torres Strait Islander people and will bring the country together in the same ..."
+    publishedDateTime: 2022-06-05T19:01:00Z
+    webUrl: "https://www.couriermail.com.au/news/opinion/dean-parkin-voice-to-parliament-is-a-win-for-all-australians/news-story/6d1ecac4a74dde1f76beeb3224e38096"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 4
 
 secured: "sgcjGI6Ckfi9eA+UFcZxpwOIAbzKPrSFYbx9Yy8QfUjJysteK4PfP63UbSc6TXyOLhGnyeFIwdXDn/idlRuVbXLx26wxEVubW5YpiJclIVh0+hPNqVI0o/dqUYkXMSCDPjV5iZukmGlIIpwl2RIsKyxPUGQ/K8QdHjxuIMibBGSUcdrGOiRyY5Ko7HM72GQGsbm0WHxoG/N58p4nQrjpHAaZMGX5zaLbwqmxRFRvGv3kkXgSbmDz3vO3WCcJr13UPCjNXu9+/0tEZ20UVckrfNirASCUnBPHtIfAXgNiCYt/JIe6TtSqvskNLmtcNn4SAPdQAHLRBZtXfwK6gYqUplkY/C6/VHZL4RJbSBj1rv0c8C7AUrNBNtq2aarjgNTDJsBaWCPC3FYNsf2kY9SwC45dXWi6eBCfO359B5Ys1PSRHtS9XQA3SOpQbKmFAFng7zqQxqvcAEysjkNAlSVgMTZq/FAwSxl6Ntx9pIYVTTDVfv6webgPPzKJepacyqdfmtVXjEfZjHMNh5bIhYP91A==;Ga4vejg4Gyc6brLrhcr8uQ=="
 ---

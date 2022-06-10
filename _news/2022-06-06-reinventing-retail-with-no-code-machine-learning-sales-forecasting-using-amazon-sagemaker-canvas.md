@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-w
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/"
 type: article
 quality: 105
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://physicsworld.com/wp-content/uploads/2022/05/AI-Medical-Week-image-1.jpg"
         width: 800
         height: 428
+        isCached: true
+  - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
+    excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
+    publishedDateTime: 2022-06-09T13:03:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "fr7DtmR8mGJera7FNJ6cB/MgSw5NqA6/BDK2WPz0mibcLVMuA/r1KrYroktm3IZFDIPwi61D23BZYV6nGjSqtpwwPiq7QcLGNGbA6cH6YO2k+4nuYnoKoy5ySmVMbzEGtCmx0sSTnJoGR11+RsezSPXH9GrGIuwnt+XmUqeGRVALHE5LmgW1LfueJ65WUfJkMGxhUqhh0odWBLf9CozMXXVWJT1nT/mzWzSq3PTWDZ5rVFx4bw+oUJsiNIE2/+sWOiJ3atl8pdtt1MQWB2Q3hPKP1HvxpUJVZMAH1Tt8O2BqjlwKTc5aI3z5Jp7i4b4xqLekCrMMORe2jSKkPLiUMXwKFWgKLosDfevdHj1FXXM=;0Cs9qtFIPJC5LvS+7jpYZw=="

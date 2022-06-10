@@ -253,6 +253,22 @@ related:
         width: 1138
         height: 640
         isCached: true
+  - title: "Axon halts plans for Taser drone as 9 on ethics board resign over controversial project"
+    excerpt: "The company best known for developing the Taser said it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the project."
+    publishedDateTime: 2022-06-07T17:34:00Z
+    webUrl: "https://www.wlwt.com/article/axon-taser-drone-plans-halted/40209721"
+    ampWebUrl: "https://www.wlwt.com/amp/article/axon-taser-drone-plans-halted/40209721"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/axon-taser-drone-plans-halted/40209721"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 51
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22151654625675.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week was intended to “initiate a conversation on this as a potential solution.”"
     publishedDateTime: 2022-06-06T14:34:00Z
@@ -412,15 +428,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Axon halts plans for Taser drone as 9 on ethics board resign over controversial project"
-    excerpt: "The company best known for developing the Taser said it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the project."
-    publishedDateTime: 2022-06-07T17:34:00Z
-    webUrl: "https://www.kcci.com/article/axon-taser-drone-plans-halted/40209721"
-    type: article
-    provider:
-      name: KCCI Des Moines
-      domain: kcci.com
-    quality: 11
 
 secured: "bfgIM3vbJPk2Ph64zcdKJng3KPLcBn15cs0IWPIoh2RE4kRP5O5jpFMQ3QiT5+c5+6u5TVcBPdtRj+ycjMRWAIcNTs2yw2L/wGXrxAoI8EmGDgWY1yhWXxJMRxLwRBVa8Efa1IydJpW9uJjDCiNgjqJ2nFzAU4pdhwTKHgVB9JKxwCw+JgTQ72T48FY6UqstQSSI3xCzha5CU+nnwZPV4KhTbZouQ8xk2NmID/BSc4I/0WbqR/J+5eLGFcXOaj5BZnMBMx/o6df8yG666t2aQa5P+iTiS/wLDkwQ7Ly9QFPx7P54W40Kgw6MEkNgVaaAndrD1K2FXBGS+6xAcURifFsqqe5v0lfWVCxHQVCJ08k=;0SuVa/Kt5/0c7sYuN04fnw=="
 ---

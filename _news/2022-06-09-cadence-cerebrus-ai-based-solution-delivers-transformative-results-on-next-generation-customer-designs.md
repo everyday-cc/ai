@@ -2,21 +2,27 @@
 category: news
 title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
 excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer adoption of the Cadence ® Cerebrus ™ Intelligent Chip Explorer is accelerating with new production deployments completed. Given that Cadence Cerebrus employs artificial intelligence (AI) technology to automate and scale digital chip design,"
-publishedDateTime: 2022-06-09T16:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/06/09/9619117.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/06/09/9619117.htm"
+publishedDateTime: 2022-06-09T14:46:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-business-ab6b5d565f024f10a71d7bc9725287a9"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-business-ab6b5d565f024f10a71d7bc9725287a9"
 type: article
-quality: 3
-heat: -1
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
@@ -33,7 +39,30 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "SCG joins forces with Microsoft to drive complete digital transformation, delivering customer experiences with intelligence"
+    excerpt: "SCG and Microsoft Thailand have announced a partnership to strengthen SCG's capabilities as a digital organization. Both parties will seek to deliver better experiences for customers with world-class digital technologies that bring greater intelligence to understand and anticipate customers' changing needs,"
+    publishedDateTime: 2022-06-08T02:02:00Z
+    webUrl: "https://www.newswit.com/en/LfHe"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 13
+    images:
+      - url: "https://www.newswit.com/img/f/20220608/d95720e82258fee2ff7e8f6ec91bb505-0.jpg"
+        width: 1200
+        height: 773
+        isCached: true
+  - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
+    excerpt: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs. Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer a"
+    publishedDateTime: 2022-06-09T18:49:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/09/9619117.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 3
 
-secured: "Kov73espE3YVHIwYuiKs/bU79zk0VZzzM85zDSj+fGkJTOYzSwPT2LhdAyRmF68stG2tx7BeBKVKMHOSrRRewm43CAzZrwjNR0z8QWSU0/sBEtxK9hLHSrK8t7NzOoWkrjBmXr/aCoAF/SqPjPCxdgwzr9d4rf0n8Wd7YBOxiVTQrTImdNkX8TGwFDMfdvOOpjGnMitwng8O1hyqO60x35Yt9NDuhj56WIFXaubDp+c8n1MP/AuTXs7YjR5adS3NY96AV/1jhGRA0m0ZltolD9HSIPOTrUg2+O3nUdifNA7t0tJVE0ouMWd/bW+GFCU0ZSjiJchXiClYw0sKj5goKhC3I8QpZ2HozJT5lmTfkGw=;4jkXNiSCPM5+BUK7tHRz7A=="
+secured: "ecmPL+d5N3/hLOMbqK2T+Y5nYoj5K8asnpEzONZmszzIE/LZd2+vvFgPSRTmSFkJpa8GoZIzwLcL2W9AShke6ZriWnS1sc8v32YIvnxWfLCmEBnDtsnD+rnw7sm/4zVvfu6bkWJGEyq9EJu3jZPCDik/zU3nl4aH8hvUn3xcnXVlS7f4My46IvcOkYoFKeYm7ZoIJyydaMvmdY9mQBQbM2JYiZAwwoxNdAX0UG+u91E2AkuiyHIVQyx6sqPPJZPfr5moX7YfSzX2jxtn/XNLwfjaD8rvF0m13YceyU0j6cccQE8S3qO6SVnzrDvaImllGy3E77PmrM/ZrGPDl5WdYQpn5drdZczt+IA6rfeB9G0=;FFfSdIFbRMuUU47+wPA2MA=="
 ---
 
