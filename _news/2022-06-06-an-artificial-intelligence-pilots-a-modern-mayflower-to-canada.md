@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-06T11:40:00Z
 originalUrl: "https://northcountrypublicradio.org/news/npr/1103252706/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada"
 webUrl: "https://northcountrypublicradio.org/news/npr/1103252706/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"

@@ -27,7 +27,7 @@ related:
     provider:
       name: Northcountrypublicradio.org
       domain: northcountrypublicradio.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
         width: 500

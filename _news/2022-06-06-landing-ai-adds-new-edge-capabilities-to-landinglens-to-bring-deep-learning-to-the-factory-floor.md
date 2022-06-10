@@ -99,6 +99,6 @@ related:
       domain: pantagraph.com
     quality: 19
 
-secured: "RPP8Pmnub6PZufn3GtiygvOYLNA4pIaGw7IUNC1KnojUnwktLy2+LKYHAY0K+A24kuoKqb10eNERP/huKqho0FX9u7NZI1NKUYvjmUVEteBKoYbYhd7qmtQtXkqwutO3MWsfvdEJ9/dZAHa7C0koyBOwTEdHyZ5i5t/hQ6Vz52jMCZ/7kCi/4G26bC95j6DgNfTGUcPp4UCU3sNvRQhzebWMntlIMSlwMOU1TDsFyMAtbJw+gFFHpxawpwqdpSz80djaULSea7d37ajTSDCWn9U6hZf72uGnR2jM+UlmP/a3nhBPDCx5NFqI4fUFEGC7vqzbN6w7J08zQb1jwb97pk8miRA5Gx3+0dkDnc6oQ6A=;Qltzmp4hISODXi1Ln8gvGg=="
+secured: "6lrJYqOO9qlXT+dcpE1l4+bc/upWF0tEuV+ZFBDO4cE1qE5yDa0FEcmk83dQ5zzrRXNdFX/a38bGz0uzmzfbJpuau+PmFhX9LJGp29efmqzPjblWL0kqC1yYlryCg6V8iaHHJd0YxLauT+y+lR+fOa/SrjIkhyeqp8sAe0rEw4Nt+X0DriOGEiPDPyJNQvr0JsY0QLpWjQ2VHYpOAcUKV7vtfZXTnFWUFvDY+alCxMB4olx17ZHDOJDHsLeg9IR0lkgQ9oAlBBwx7gsevRH/PcA6+qLoVyuXQ0GIeCz1Rsb/zrlVqGQFC39zgVh887hOoO7jLHa6A0hxbphSHIqn7X0oj8lMr5/4nHRW0iDkScY=;wNkAjut809alZloYKtUveA=="
 ---
 
