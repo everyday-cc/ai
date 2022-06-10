@@ -25,42 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Size to surpass US$ 1394.30 Billion by 2029 | CAGR 20.1% (2022-2029)"
-    excerpt: "The surging demand for the robotics across various end use verticals is expected to drive the growth of the artificial intelligence market during the forecast period. North America dominated the global artificial intelligence market share in 2020 with ..."
-    publishedDateTime: 2022-06-09T10:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27622661/artificial-intelligence-market-size-to-surpass-us-1394-30-billion-by-2029-cagr-20-1-2022-2029"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27622661"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27622661"
+  - title: "AI in IoT Market Size in 2022 : 27.3% CAGR with Top Countries Data, Key Regions and Growth Forecast to 2031"
+    excerpt: "The global Artificial Intelligence (AI ... services specific to the manufacturing industry. IBM offers its IoT professional services under Watson, including consulting and boasts prominent ..."
+    publishedDateTime: 2022-06-08T12:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-iot-market-size-in-2022-27-3-cagr-with-top-countries-data-key-regions-and-growth-forecast-to-2031"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
-  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
-    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
-    publishedDateTime: 2022-06-10T09:30:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-06-10/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 10
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 21
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Ukraine-Davos-Selensky-AFP-1K-02-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Autonomous Car Market Size to Grow Worth USD 11.03 Billion at a CAGR of 31.3% for 2021-2029 | Fortune Business Insights"
-    excerpt: "Furthermore, giant businesses associated with automobile manufacturing are promptly adopting Artificial Intelligence (AI) and Machine Learning (ML) technologies and implementing them in automobile ..."
-    publishedDateTime: 2022-06-08T09:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/06/g27602579/autonomous-car-market-size-to-grow-worth-usd-11-03-billion-at-a-cagr-of-31-3-for-2021-2029-fortune"
-    ampWebUrl: "https://www.benzinga.com/amp/content/27602579"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27602579"
+  - title: "Neural Network Market Size In 2022 with Top Countries Data : What is the growth rate of the Industry? | In-Depth Analysis with 92 Report Pages"
+    excerpt: "According to this latest study, In 2022 the growth of Neural Network Market will have significant change from previous year. Over the next five years the Neural Network Market will register a magnificent spike in CAGR in terms of revenue,"
+    publishedDateTime: 2022-06-06T23:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-size-in-2022-with-top-countries-data-what-is-the-growth-rate-of-the-industry-in-depth-analysis-with-92-report-pages-2022-06-06"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
+  - title: "Artificial Intelligence as a Service Market To See Incredible Growth During 2021-2031"
+    excerpt: "The rising number of innovative start-up operations working within the domain of AI powered tools and services is one of the key factors driving the growth within the global artificial intelligence as a service market."
+    publishedDateTime: 2022-06-07T11:48:00Z
+    webUrl: "https://spooool.ie/2022/06/07/artificial-intelligence-as-a-service-market-to-see-incredible-growth-during-2021-2031/"
+    type: article
+    provider:
+      name: spooool.ie
+      domain: spooool.ie
+    quality: 12
 
 secured: "+i6ka9gCX3n9JY4lm4SKsOj/Z/2tDpqrK3N65zqXNYygsP83RnfvdzThbxqzTGHtPyHJxYnSAqRbUW26Ocnak0I0wLuA2cYzD0l4HFrvmzYbiGbgyqaUwt2ry5ljGtkAEZ44Kno/zz8QMuPIcmlhg4QEQtUtDFPrhV17VS//8wOmkh0VTj28c2XILHcyo88zt4v++YbWnKFHxguxnmJ2y6YbykHl8+MR/VkFBRQeIVclJAnf7jMeRft7qWjCRtdIGfjc6WHFPl2YikBaGZMJtkozwG+ZrSycnfZM9cTWbegI4KUjSpTVFtjf1ZJzNHA3z/rlWH+FL9LfBunfRXUTJY5cBrd0U5Uet1EFIb0np74=;xVH98lEVUSiJIXYxLYWGjw=="
 ---

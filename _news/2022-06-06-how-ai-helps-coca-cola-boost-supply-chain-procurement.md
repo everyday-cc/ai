@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-ai-helps-coca-cola-boost-supply-chain-procurement/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging AI to Optimize End-to-End Supply Chain Management"
-    excerpt: "Artificial Intelligence (AI), supply chain management, data analytics, inventory management, supply chain analytics"
-    publishedDateTime: 2022-06-06T02:50:00Z
-    webUrl: "https://enterprisetalk.com/featured/leveraging-ai-to-optimize-end-to-end-supply-chain-management/"
-    ampWebUrl: "https://enterprisetalk.com/featured/leveraging-ai-to-optimize-end-to-end-supply-chain-management/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/leveraging-ai-to-optimize-end-to-end-supply-chain-management/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Leveraging-AI-to-Optimize-End-to-End-Supply-Chain-Management-1024x585.png"
-        width: 1024
-        height: 585
-        isCached: true
   - title: "AI in process control"
     excerpt: "AI use in food processing is expected to have a compound annual growth rate of 45% between now and 2026, promising improved safety and food quality, according to HUB Risk Services. But AI in food processing is not without risk."
     publishedDateTime: 2022-06-06T15:21:00Z

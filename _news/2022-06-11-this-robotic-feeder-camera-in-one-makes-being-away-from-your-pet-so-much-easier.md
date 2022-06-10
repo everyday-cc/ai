@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T17:13:00Z
 originalUrl: "https://www.elitedaily.com/lifestyle/petlibro-smart-granary-automatic-pet-feeder"
 webUrl: "https://www.elitedaily.com/lifestyle/petlibro-smart-granary-automatic-pet-feeder"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Elite Daily

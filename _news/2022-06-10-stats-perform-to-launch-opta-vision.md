@@ -1,20 +1,27 @@
 ---
 category: news
-title: "Stats Perform to launch Opta Vision"
-excerpt: "Stats Perform, the sports data and analytics company, has announced a new series of football metrics with the introduction of live Opta"
-publishedDateTime: 2022-06-10T14:06:00Z
-originalUrl: "https://igamingbusiness.com/stats-perform-to-launch-opta-vision/"
-webUrl: "https://igamingbusiness.com/stats-perform-to-launch-opta-vision/"
+title: "Stats Perform To Launch Opta Vision"
+excerpt: "The Next Generation of Sports Data Delivering On the Promise of Richer Insights LONDON, June 10, 2022 /PRNewswire/ --Stats Perform, the sports"
+publishedDateTime: 2022-06-10T08:06:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412"
+webUrl: "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: igamingbusiness.com
-  domain: igamingbusiness.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "xeC5LjNvti7FgPi1UZOcsbDxc+nGI1jeAc/J+uqfpA4rF1vuqH+Q5+ZK6yxlimUwa7iqlkJJw5Rx6hNL9L5p8w7brBSxAWVJK7PLSz2Uju2tBDzKGYy4TmZ0wBYTYKV6G8BlVgy065hT+YSV6GTabef8/kU7dezN4ffmIaF2TOuOPhES0lPaYVxlqve4g/f/WdesGNfCCxDgGBVZ1XRuecqkZVLBUFsAbjJOBTgqNOQiZAKRDPDadOFUlhd695tFhR8rQ0D8kE6FSCarCvJR63Had7ypKZ98Kvp6TJprzpcozLtlVWEdZXdEnTPh62O5jo4ot3+jSpEUpuvMlA3EAx57zbdNvZ6Dzik6+iBFTGiZgPDL4b9dEcZYsUbEgsMA8mDAYMEv9eZFDfAWic03RWh+HDalBrwipu0UweybBzDCeKXzMFQHBwG8C+59A+iWyb31XQfd3/wFAJkwgBA4hRoeP4TlhF0HZ5I8EwCwNSmwFF91F/TZYObH191HC10rNYqOcATlHIKuCW3/BXMPSg==;R1LfG2Sk9Hs2iO9veElmLg=="
+secured: "w85YVAVll3dt/hBcPD2U8npIWYsMfWb2Z5bMuCbfvcL+UicNJ9MJDwosthjsna0ikHxWDD2qG6073yJ/2bhSEEl4t2EHCqQOVSZpti6e5PMU09MzC/8Ig8VI5Z19HL1zDeND+pPBaGAgBadbNQ5CE/o1VeWuwxLayUiMatqc0e8UN5PeQL1WzM+QV5CeZv4a+WrQE4bE0APVP5CFHuk1jW1gjgRn22Y/VBEHMdiQrLASkE0TpFEEfnHxEdtrK/sX7nW6UNLzvEHA/YwejDmlzkYHKrly5wW5WOU0Sg+zFd1c/jKz1jRtosrUdV+aVArxqOpyObeQJ1T9xDhky5jw8IdhZETHH7EusY3aL+htA8U=;wXvilVDnLmgRdnbjFjAVvQ=="
 ---
 

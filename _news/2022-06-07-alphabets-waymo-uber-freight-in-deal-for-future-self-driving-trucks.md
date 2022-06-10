@@ -89,15 +89,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
-    excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
-    publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 45
   - title: "Lawmakers stall over self-driving cars"
     excerpt: "Autonomous vehicles (AV) are already on U.S. roads, but the fast-growing industry will have to overcome fears from policymakers and the general public before driverless cars and trucks are widely"
     publishedDateTime: 2022-06-07T12:00:00Z
@@ -139,6 +130,15 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 28
+  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
+    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
+    publishedDateTime: 2022-06-07T20:32:00Z
+    webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 15
 
 secured: "kviNBHe/UH1V5EMGR4oFQEdlp9unTFeqXe5O8ZAahEV0396skYOSZQhVHzeheuoqsuD2fSgpEJVcxPtWbwYV3Q37qP44BxGF5q8QIjEFPiKDwzSZc7t85D/hBGnJO5FkrUX3TFvK2hn4k47opJwkrB1S+3Sw4nS+yUXMckxGN061HCTKErWwQIy/utW46nZxo/nXHI5Ji+wchvHY5RKfEQi0yj6D/DMi9olvLqhGSG8vIistlVoUAYEfG2hm4MNYACJ/NsC6EFTlaLiIqKH0OAiUVJrYPFm+5dZiRNBI+Vb8l1/UsaHXyr73qgOhHB/B9xMG4X8JTAD4Dp26WfqeeFA6/AUgMUwPaK7lgOmmhEb8bJrYUKaQpOYTW+0uJj4lBCp/ogz/iajTYmV0sTJF/k3f4awkFT2XXk+ffqKN1yOxcLsB4ww5WXw04kwfBFhksIJqPk55AufJsNLbksXRcuNAjOTTbXnXp38tH29x+dhw9W/FArR2Z5tps0DQ2nNEP9DZimYSAvzbSpuyVJs8Bw==;TTb7S4BWa+y0TsQaAL396A=="
 ---

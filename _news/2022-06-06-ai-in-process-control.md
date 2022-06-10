@@ -41,22 +41,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Leveraging AI to Optimize End-to-End Supply Chain Management"
-    excerpt: "Artificial Intelligence (AI), supply chain management, data analytics, inventory management, supply chain analytics"
-    publishedDateTime: 2022-06-06T02:50:00Z
-    webUrl: "https://enterprisetalk.com/featured/leveraging-ai-to-optimize-end-to-end-supply-chain-management/"
-    ampWebUrl: "https://enterprisetalk.com/featured/leveraging-ai-to-optimize-end-to-end-supply-chain-management/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/leveraging-ai-to-optimize-end-to-end-supply-chain-management/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Leveraging-AI-to-Optimize-End-to-End-Supply-Chain-Management-1024x585.png"
-        width: 1024
-        height: 585
-        isCached: true
 
 secured: "fsClfkDicI1dm6Vd+YwwnxRfl8fxVVuaRdF+03eDRWio1RTeoTgoOa4t4HJgQ2bktXpw6WG4+gRe4RZoVzYBs7NnDKVAEP19ydgUHut8yM/2HSDaUxoL5W0FEJFaPPv1v/cqR6PSVe7aYM2MT/tdPWamvr87rV6sv62h9bYpiDR6x6zoyPloCyy4uwSVaVwHtKXjjFmNMiiznYIP3JhHSXbIi7rBzpak8Qh8uTZoYsxFB2Em6Jh3tamTMudIHtDbkQhuRhnRQlCcuqZ5FZPL6Wku6uJwaq1NJrwq4HttSfKkGxqqmXutXQDXmuNvWkVTa/Ak3jp2wnJ82CxAo5CczKVB3Z5QoZtcJCWOAnY+KIc=;/9RpHIepEaV62H3sMG+EzQ=="
 ---

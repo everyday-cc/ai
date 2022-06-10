@@ -2,6 +2,195 @@
   "page": 131,
   "value": [
     {
+      "path": "_news/2022-02-18-student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly.md",
+      "title": "Student builds a clever AI model that can translate sign language instantly",
+      "excerpt": "Despite American Sign Language (ASL) having been a major communication ... LinkedIn profile about how she managed to develop an artificial intelligence (AI) model that can translate ASL signings into English instantaneously. She revealed that she developed ...",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly",
+      "originalUrl": "https://sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/priyanjali-gupta-asl-ai-header_3qsh.620.png",
+          "width": 620,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/19368/student-builds-a-clever-ai-model-that-can-translate-sign-language-instantly?amp=1",
+      "publishedDateTime": "2022-02-17T20:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-keep-diving-keep-changing-the-reason-why-i-dived-into-exawizards-after-working-on-numerous-ai-projects-at-ibm-and-line.md",
+      "title": "Keep diving... Keep changing... The reason why I dived into ExaWizards after working on numerous AI projects at IBM and LINE",
+      "excerpt": "The only company that really said, 'Let's do BrainTech' was ExaWizards.” This is a story that introduces the Wizards who work at ExaWizards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/keep-diving-changing-reason-why-i-dived-exawizards-after-",
+      "originalUrl": "https://www.linkedin.com/pulse/keep-diving-changing-reason-why-i-dived-exawizards-after-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQG0jtUalbZGug/article-cover_image-shrink_720_1280/0/1645156885104?e=1651104000&v=beta&t=y8rxwD15WoWX2y6AsGqxWqTYUUTBLD8GtuiuhqRx3tY",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-robot-grocery-delivery-now-available-in-pleasanton.md",
+      "title": "Robot grocery delivery now available in Pleasanton",
+      "excerpt": "The robots are equipped with an array of cameras and sensors, and use “sophisticated machine learning” and artificial intelligence to travel on sidewalks and avoid obstacles. “The robots can cross streets, climb curbs, travel at night and operate in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/",
+      "originalUrl": "https://www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timesheraldonline.com/wp-content/uploads/2022/02/SJM-L-ROBOTS-0218-01_94218880.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/",
+      "cdnAmpWebUrl": "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2022/02/17/robot-grocery-delivery-east-bay-city-starship-lucky/amp/",
+      "publishedDateTime": "2022-02-17T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vallejo Times Herald",
+        "domain": "timesheraldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-18-will-ai-transform-religion.md",
+      "title": "Will AI transform religion?",
+      "excerpt": "Experimental developments in technology and how it's changing the way we live. AI is changing how we interact with everything, from food to healthcare, travel and also religion. Experts have been warning for years that it's not a matter of if, but when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/reel/video/p09z6fnd/god-and-robots-will-ai-transform-religion-",
+      "originalUrl": "https://www.bbc.com/reel/video/p09z6fnd/god-and-robots-will-ai-transform-religion-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ychef.files.bbci.co.uk/1376x774/p09z7zzv.jpg",
+          "width": 1376,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-17T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-18-how-artificial-intelligence-will-transform-businesses.md",
       "title": "How Artificial Intelligence Will Transform Businesses",
       "excerpt": "Artificial intelligence has a wide range of uses in ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder of ...",
@@ -985,194 +1174,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion.md",
-      "title": "Google's AI sibling DeepMind controls plasma shapes for nuclear fusion",
-      "excerpt": "DeepMind learns how to control the settings of magnetic devices used in nuclear fusion. Alphabet-owned DeepMind has developed an AI that shows promise for controlling magnetic devices that keep super-hot and unruly plasma in a stable configuration,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
-      "originalUrl": "https://www.zdnet.com/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/85510496d882e503e525f24b191d77617a3af36e/2022/02/17/87943fd4-28fb-4310-9244-a7c9a18e3e88/nuclear-fusion-tokamak.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-sibling-deepmind-controls-plasma-shapes-for-nuclear-fusion/",
-      "publishedDateTime": "2022-02-17T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-chinas-race-towards-ai-research-dominance.md",
-      "title": "China's Race Towards AI Research Dominance",
-      "excerpt": "Since taking its first steps teaching computers board game strategies in the 1950s, research on artificial intelligence has come a long way. In the 21st century in particular, machine learning and its promise for real-time improvements of algorithms through experience and providing access to more data has become the single biggest research focus in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/chart/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/china-s-race-towards-ai-research-dominance/ar-AATZOqQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/Infographic/images/teaser/26240.jpeg",
-          "width": 355,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.statista.com/chart/amp/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
-      "cdnAmpWebUrl": "https://www-statista-com.cdn.ampproject.org/c/s/www.statista.com/chart/amp/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
-      "publishedDateTime": "2022-02-17T06:52:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "statista.com/chart/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
-        "domain": "statista.com/chart/26862/countries-and-regions-with-highest-number-of-ai-research-papers-submitted-per-year/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-influential-mlb-players-inc-partnership-empowers-players-to-become-successful-content-creators.md",
-      "title": "Influential-MLB Players, Inc. Partnership Empowers Players to Become Successful Content Creators",
-      "excerpt": "Influential, the world’s largest influencer marketing company, today announced a partnership with MLB Players, Inc., the business arm of the Major League Baseball Players Association. The agreement gives 1,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/mlb-technology-sports-business-major-league-baseball-players-association-9417eb970ba7aa4b55c87f512b6a517c",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/mlb-technology-sports-business-major-league-baseball-players-association-9417eb970ba7aa4b55c87f512b6a517c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-17T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-17-steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool.md",
-      "title": "Steps Enterprises Can Take To Build A Dependable AI Talent Pool",
-      "excerpt": "As AI establishes a strong foothold across industries, demand for AI talent is exponentially rising. However, the growing AI talent gap remains a persistent issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620d627b286ce11f4f02e992/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/17/steps-enterprises-can-take-to-build-a-dependable-ai-talent-pool/amp/",
-      "publishedDateTime": "2022-02-17T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

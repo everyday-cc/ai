@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T05:59:00Z
 originalUrl: "https://www.thebetterindia.com/288016/iitm-robot-to-clean-septic-tanks-without-humans-help-end-manual-scavenging/"
 webUrl: "https://www.thebetterindia.com/288016/iitm-robot-to-clean-septic-tanks-without-humans-help-end-manual-scavenging/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: TheBetterIndia

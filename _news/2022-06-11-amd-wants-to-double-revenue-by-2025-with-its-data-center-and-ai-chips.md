@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T18:29:00Z
 originalUrl: "https://www.protocol.com/bulletins/amd-data-center-ai-chips"
 webUrl: "https://www.protocol.com/bulletins/amd-data-center-ai-chips"
 type: article
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: Protocol
@@ -14,6 +17,40 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "AMD Details Zen 4 EPYC CPU And CDNA 3 GPU Roadmaps For AI And Data Center Dominance"
+    excerpt: "At AMD's Financial Analyst Day event, it outlined a bevy of future data products, including Genoa-X, Bergamo, and CDNA 3."
+    publishedDateTime: 2022-06-10T16:46:00Z
+    webUrl: "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center"
+    ampWebUrl: "https://amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58803/content/amd-server-data-center-hero.jpg"
+        width: 718
+        height: 481
+        isCached: true
+  - title: "AMD confirms RDNA4 Radeon RX 8000 GPU series and CDNA3 Instinct MI300 Data Center APUs in its 2022-24 Roadmap"
+    excerpt: "AMD appears to be planning to use the same graphic design for RDNA 4 across its entire Navi 4X series, with no refreshes from previous GPU architectures like RDNA 3 or RDNA 2. For its MCM processors,"
+    publishedDateTime: 2022-06-10T06:39:00Z
+    webUrl: "https://technosports.co.in/2022/06/10/amd-roadmap-2024/"
+    ampWebUrl: "https://technosports.co.in/2022/06/10/amd-roadmap-2024/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/06/10/amd-roadmap-2024/?amp"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 40
+    images:
+      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/06/Untitled-low_res-scale-6_00x-Custom-1920x1388-1.png"
+        width: 1600
+        height: 1157
+        isCached: true
 
 secured: "F6nbUXZEONZKRpP2n+yVzeUq1t2MoRYWfgkvCKoLAKi4Voh+a3jZesfhmAefJbWhz2eOlUt+5hDTcdLX9OQot9DbhOaHqCsYcIgKVsWzKUalRNThzbjNHik4+FuSu9J2hHIaycXqFVNUUN8tOV1ryu2FvOx7/NUH0JojXU0SFV+1RSyI16LtZuJh5+Xd69FClJdOh+enyGyXqWe74+TzQ7lFp7TbD0IM9QqPjmpwANDGrrb2zMK8Ia+VBhqGaZ1wFyzvQQ0e6gy42Ea5VDq0xWGVmrA8/GHyDc/HRMd1prdW9h2iyAiNDJCL5wFY+AXxID/y3OMOhB4IAPymvCTpS6ERhy5zDltblKdGveIPHcJauGdsF+dSYLZmIAxdWu2mUEz+77FL1l5BtvduiLqjO+ByEEPHhX6+7Y4C2SbeF9E9ktgQAZrnJ9iRoZEovTPHCw9I1DLlzCgLhyBFV4QJF2q3AIHd3YykoteYcHJx9qNYDTaE5HebX3AtSJ/ICwugUOth7sGXnuMZIX55cpc9BA==;zobNF3YrvEgsieq5hZ9ngQ=="
 ---

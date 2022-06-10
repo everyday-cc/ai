@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/27622661"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27622661"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,34 +23,29 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
-    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
-    publishedDateTime: 2022-06-10T09:30:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-06-10/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
+  - title: "Self Driving Cars Market Size To Surpass USD 65 Million Units By 2030"
+    excerpt: "Stringent vehicle safety regulations set by the government have proved to be a driving force for the self drive cars market as it provides better accuracy. Growing demand for safety and driving on the roads is also a matter of concern owing to the increasing number of road accidents and loss of lives."
+    publishedDateTime: 2022-06-10T21:43:00Z
+    webUrl: "https://menafn.com/1104357157/Self-Driving-Cars-Market-Size-To-Surpass-USD-65-Million-Units-By-2030"
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 10
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?365611"
+        width: 375
+        height: 250
         isCached: true
-  - title: "The Global Computer Vision Market is expected to reach a value of USD 30.94 Billion by 2028, at a CAGR of 15.89% over the forecast period (2022-2028)"
-    excerpt: "Manufacturing industries use high-speed cameras powered by computer vision for the detection of anomalies on the product line while processing more than hundreds of products and variables."
-    publishedDateTime: 2022-06-06T19:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-global-computer-vision-market-is-expected-to-reach-a-value-of-usd-30-94-billion-by-2028-at-a-cagr-of-15-89-over-the-forecast-period-2022-2028"
+  - title: "Self-driving cars may speed up to 130 km an hour"
+    excerpt: "Regulation on automated driving likely to be increased from 60 km an hour to 130 km/h, says UN Economic Commission for Europe - Anadolu Agency"
+    publishedDateTime: 2022-06-10T13:09:00Z
+    webUrl: "https://www.aa.com.tr/en/europe/self-driving-cars-may-speed-up-to-130-km-an-hour/2610606"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/a2247fba798151c8e3614e44ba03ede8ab18b0e4-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 4
   - title: "Autonomous Car Market Size to Grow Worth USD 11.03 Billion at a CAGR of 31.3% for 2021-2029 | Fortune Business Insights"
     excerpt: "Furthermore, giant businesses associated with automobile manufacturing are promptly adopting Artificial Intelligence (AI) and Machine Learning (ML) technologies and implementing them in automobile ..."
     publishedDateTime: 2022-06-08T09:36:00Z

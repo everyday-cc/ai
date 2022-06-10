@@ -43,6 +43,15 @@ related:
         width: 718
         height: 481
         isCached: true
+  - title: "AMD wants to double revenue by 2025 with its data center and AI chips"
+    excerpt: "At AMD's first financial analyst day in two years, executives said the future of the company is the data center."
+    publishedDateTime: 2022-06-10T18:29:00Z
+    webUrl: "https://www.protocol.com/bulletins/amd-data-center-ai-chips"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 34
 
 secured: "0GlF1136oYkYBZshHiOs6J1ZMVE+h8kCnhDN9t+cS7DU7lc3Jycik06DIKL0iMVO1zV4kponfAzFhDJ/bZAEauNwEAuKx5gT0VziWfbv1MEqbfJDIBvCAjcuuM/t0rH3MLKM+D0FC4uVvuLJDACTQDf5XDak7eDHU71zYXqjbZsSG09CUJIR8uOn5ab70H33RUNxFQNIccJLK6qbX3Amj8fv0a0xUYbHVw9OkkNJwJ7aErFJdDWla3iQoSRFKR6wfdQOTxH9FFCnOwZ5Z0biG8VNdJ+4OZcqppwOrGrV+h9MdcbsgMVOaT4DPNSW2KvjXSxFiL9UAXl88OA1d84OCcpCA2qyNwkxaq/ns66z+/dTo4DcPSbZ1KPNx7BSvEmSmxWuWhsnPCKOvtiZFRYTJcs1cQ2SR/m0BOKMEvf/QG0lIukmQAPWaRq+92dBwoIkxRQTlDIP2rythR6qFwAW39qA0915SrOsSWHfn1DsmNfmpQNjsnExu78cRCkPooPdzzwd+r4tkMg5I36sR+HTaw==;Fjk3UAS3f3LsEqKZNDtHUQ=="
 ---

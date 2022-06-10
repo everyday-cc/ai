@@ -72,22 +72,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Reskilling the Workforce to Better Reap the Benefits of AI"
-    excerpt: "Organizations are rethinking their workforce demands to reap the b. Successful companies invest time and money in reskilling and upskilling their workforce to enable AI and leverage the technology strategically."
-    publishedDateTime: 2022-06-06T02:54:00Z
-    webUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/"
-    ampWebUrl: "https://enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/reskilling-the-workforce-to-better-reap-the-benefits-of-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Reskilling-the-Workforce-to-Better-Reap-the-Benefits-of-AI-1024x585.png"
-        width: 1024
-        height: 585
-        isCached: true
   - title: "Artificial intelligence to shape future of fishing with targeted catches"
     excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."
     publishedDateTime: 2022-06-08T06:00:00Z

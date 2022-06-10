@@ -79,15 +79,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
-    excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
-    publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 45
   - title: "Lawmakers stall over self-driving cars"
     excerpt: "Autonomous vehicles (AV) are already on U.S. roads, but the fast-growing industry will have to overcome fears from policymakers and the general public before driverless cars and trucks are widely"
     publishedDateTime: 2022-06-07T12:00:00Z
@@ -143,6 +134,15 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 28
+  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
+    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
+    publishedDateTime: 2022-06-07T20:32:00Z
+    webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 15
 
 secured: "VJxd4BNMySysE2JimFVm4kIAKyQkwtJG4Cx/6Jo8yu5dqNyTh9WMdM7y1jWVkDhAH1Yt1xBRUfldJWVDdTRuMQMowU3gdIbZn1lyUeQF/eqMlsV18RsH+lNbd4KptGS4czZ2uMyBHEL6INzivOUgnA36OEl7cCH5zzPRFA4r22qRJ4t2RFkOtoxWjB9uf+l4NO3Ekj5sTJ8RfA/CXef6Fj696m4jU2rzvBjAYxewHr8eGBIvarJhZ6AAiSTq3M1TDOvqIK05nM5SXVficsMNyoNpxarkVwPNHJx4GLUJNkcE2frNU/tIZ9FzlAcisgTnHyTf2rhQugcNxqHim7GUhkDjD8FWAAfyUT8GiFgWsZdhl/6eC+9B2iUPKvpD9ANzww5pNh/WOyqWgcCygPCcOWFqTiP+rrBdWq5MaOgoBgqrGObuICS7m31qdJ5sDQTAth5Qj2jXkB0pAutsxFdtVJhWJT6s+WFHckKZBdTkjKvLx3Y7rdatGf8dqP1VgU5J2jeeK1bc45JaPNICh36NrQ==;ikrlw0ue8wxleK0H0kKKmA=="
 ---

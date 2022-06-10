@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/neural-networks-dont-work-like-the-hum
 webUrl: "https://thenextweb.com/news/neural-networks-dont-work-like-the-human-brain-because-they-learn-differently"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Web
@@ -23,17 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "We’re told AI neural networks ‘learn’ the way humans do. A neuroscientist explains why that’s not the case"
-    excerpt: "We’ve seen AI systems writing texts that are indistinguishable from human texts. Some are even rendering impressive 3D artworks from short text inputs. But it doesn’t mean they can ‘think’ like us."
-    publishedDateTime: 2022-06-06T04:06:00Z
-    webUrl: "https://theconversation.com/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case-183993"
-    ampWebUrl: "https://theconversation.com/amp/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case-183993"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case-183993"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 36
   - title: "Neuroscientist explains differences between AI and human learning"
     excerpt: "Recently developed artificial intelligence (AI) models are capable of many impressive feats, including recognizing images and producing human-like language. But just because AI can perform human-like behaviors doesn't mean it can think or understand like humans."
     publishedDateTime: 2022-06-06T13:21:00Z

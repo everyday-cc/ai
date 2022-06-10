@@ -57,20 +57,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Lucem Health™ Announces Innovation Collaborative to Bring AI/ML to the Front Lines of Healthcare"
-    excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative, a partner program designed to move clinical AI/ML innovation to the front lines of healthcare. The Collaborative will help digital health innovators create,"
-    publishedDateTime: 2022-06-09T14:55:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-a4048c5cc37398cb719c85b49d3f5508"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 58
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Healthcare AI startup Olive to freeze hiring"
     excerpt: "Olive, a tech startup that uses artificial intelligence to automate healthcare tasks, said it is freezing new hires amid a wave of digital health companies laying off employees and tech giants slowing their hiring. \"Olive regularly evaluates its hiring ..."
     publishedDateTime: 2022-06-09T15:09:00Z
@@ -85,6 +71,15 @@ related:
         width: 460
         height: 460
         isCached: true
+  - title: "Lucem Health™ Announces Innovation Collaborative to Bring AI/ML to the Front Lines of Healthcare"
+    excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative, a partner program designed to move clinical AI/ML innovation to the front lines of healthcare. The Collaborative will help digital health innovators create,"
+    publishedDateTime: 2022-06-09T14:55:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-artificial-intelligence-a4048c5cc37398cb719c85b49d3f5508"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
 
 secured: "nNasYxwIl9cwVhJeccK5HNs48f8bNe+y1m+Lu2tcdqzFWOID2Py+78+CY6YzFwa7X5U5hgJpRNRBytfoInRab9flwiDLZhkldCQdtIuhcXJvr+r7IeZ8ZoMYflavV4wligQIOaQZNI+2pBA2Ubw10qzcPS0PsL/wf2CgEV3WiFapmvkaxo251ijtllaV51US9e/V/6QRIhh56jIiCeHPQD+2+IjepT/MZk+SOujtiNHq+12ChkvH4aem5HsrGz7p0zVkySGfo0XFB1QgZbMgV9ovBZjmT2UnyTZBvqJTqM4746wGDlfNb+l1SYnnTccvvx+GPmr/N0P61RPZrP+SMdbqWp30jD45ynOmpwlaer4=;nZkKdOMNfnG6W9N7jDSHVg=="
 ---

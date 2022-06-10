@@ -233,20 +233,6 @@ related:
         width: 1024
         height: 655
         isCached: true
-  - title: "Axon halts Taser drone work as some on ethics panel said to resign"
-    excerpt: "The aim behind such groups is to gather feedback on emerging technologies, such as drones and artificial intelligence software. Smith said it was unfortunate that some members of the ethics advisory panel “have chosen to withdraw from directly engaging ..."
-    publishedDateTime: 2022-06-06T03:50:00Z
-    webUrl: "https://www.rappler.com/technology/axon-halts-taser-drone-work/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 54
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/06/TASER-Drone-Yellow-front.jpg"
-        width: 1138
-        height: 640
-        isCached: true
   - title: "The PRAI Platform Transforms Public Relations With Artificial Intelligence"
     excerpt: "NEW YORK, June 08, 2022 (GLOBE NEWSWIRE) -- PRAI is the first PR platform to introduce affordable software for every company, powered by artificial intelligence to generate public relations campaigns. PRAI.co will inaugurate the uberization of the PR ..."
     publishedDateTime: 2022-06-08T21:00:00Z
@@ -367,6 +353,20 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 39
+  - title: "Axon halts plans for Taser drone as nine on ethics board resign"
+    excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week, which drew a rebuke from its artificial intelligence ethics board, was intended to “initiate a conversation on ..."
+    publishedDateTime: 2022-06-10T21:30:00Z
+    webUrl: "https://afro.com/axon-halts-plans-for-taser-drone-as-nine-on-ethics-board-resign/"
+    type: article
+    provider:
+      name: Afro
+      domain: afro.com
+    quality: 39
+    images:
+      - url: "https://afro.com/wp-content/uploads/2022/06/Axon.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Axon Hits Pause on 'Dystopian' Taser Drone Project Following Ethics Board's Mass Resignations"
     excerpt: "An attorney told Gizmodo board members were “blindsided,” by the CEO’s short-lived vision for drones to combat school shooters."
     publishedDateTime: 2022-06-06T18:20:00Z
@@ -405,20 +405,6 @@ related:
       - url: "https://ogden_images.s3.amazonaws.com/www.tribtoday.com/images/2022/06/06094749/AP22155042125461-800x450.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Taser-maker Halts Project To Arm Drones With Stun Guns As Ethics Panel Quits"
-    excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
-    publishedDateTime: 2022-06-06T02:54:00Z
-    webUrl: "https://www.ibtimes.com/taser-maker-halts-project-arm-drones-stun-guns-ethics-panel-quits-3531602"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 36
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/06/05/the-headquarters-for-axon-enterprise-inc-formerly-taser.jpg"
-        width: 1200
-        height: 767
         isCached: true
   - title: "Taser-equipped drone development on hold, ethics board members resign"
     excerpt: "Axon, formerly known as TASER International, announced and halted plans for its development of a Taser drone within only a week."

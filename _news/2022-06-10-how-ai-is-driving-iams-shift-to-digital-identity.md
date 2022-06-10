@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-d
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

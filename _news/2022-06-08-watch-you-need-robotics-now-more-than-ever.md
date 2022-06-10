@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainbrain.com/articles/35154-watch-you-need-rob
 webUrl: "https://www.supplychainbrain.com/articles/35154-watch-you-need-robotics-now-more-than-ever"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1129
     height: 635
     isCached: true
-
-related:
-  - title: "Watch: How Robotics Is Enabling Warehouse Labor Automation"
-    excerpt: "Vision, mobility and enhanced safety features make robotics ideal for labor automation, says Divya Prakash, director of business consulting at SICK."
-    publishedDateTime: 2022-06-06T04:57:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/35142-watch-how-robotics-is-enabling-warehouse-labor-automation"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 54
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/How-Robotics-Is-Enabling-Warehouse-Labor-Automation.jpg?height=635&t=1654488086&width=1200"
-        width: 1129
-        height: 635
-        isCached: true
 
 secured: "kBYCxzV76WBzqe0a+rk5ZdaSjq4Xt59nC6KwcXq9LsBdfy0Bxj5zZt8l/CBExckYJZzimErh1jX9lRT1+lr1QUd+INRNgn1lREkBmt8QzjFz0gJDAPbl7n6u8hOpVyHfWPmfs7ylEghzY7h0LlANNg3avoHhMNGM6OCkfmb+WwJd837gct62mzotQ8gWqri5Jk8wI6T5bRTEg2Gr5HhAT5+brzLUsa3J/f7kPPPl+n0bEoTKlaYU/fOTzPm3fC5XqvQZc43nbIPoNxXDfmm838bIW0cgdxtNERE2B1LcLnBO2rqWdtvrkAuIZkweRJCNJLkTWEFkspi1BlWFrIzGEhaF063hG7n6PI5qtTzkzg0=;07rZt5qLRibU3tKKyj6TBA=="
 ---

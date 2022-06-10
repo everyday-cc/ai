@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-11-report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware.md",
+      "title": "Report: Over 1B Google Play downloads for financial apps targeted by malware",
+      "excerpt": "The banking sector is experiencing increasingly sophisticated attacks by trojans that put financial institutions and their customers at risk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/",
+      "originalUrl": "https://venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1336604983.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/10/report-over-1b-google-play-downloads-for-financial-apps-targeted-by-malware/amp/",
+      "publishedDateTime": "2022-06-10T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-use-aws-ai-and-ml-services-to-foster-accessibility-and-inclusion-of-people-with-a-visual-or-communication-impairment.md",
       "title": "Use AWS AI and ML services to foster accessibility and inclusion of people with a visual or communication impairment",
       "excerpt": "AWS offers a broad set of artificial intelligence (AI) and machine learning (ML) services, including a suite of pre-trained, ready-to-use services for developers with no prior ML experience. In this post, we demonstrate how to use such services to build an application that fosters the inclusion of people",
@@ -63,7 +115,7 @@
       "originalUrl": "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -106,7 +158,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1058,7 +1110,7 @@
       "originalUrl": "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1204,49 +1256,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-training-a-robot-to-recognize-and-pour-water.md",
-      "title": "Training a robot to recognize and pour water",
-      "excerpt": "A horse, a zebra and artificial intelligence helped a team of Carnegie Mellon University researchers teach a robot to recognize water and pour it into a glass.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-robot.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/pour-me-a-glass.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-robot.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-robot.amp",
-      "publishedDateTime": "2022-06-09T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -43,6 +43,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Do AI Systems Really Have Their Own Secret Language?"
+    excerpt: "It’s hard to verify claims about DALL-E 2 and other large AI models, because only a handful of researchers have access to them."
+    publishedDateTime: 2022-06-10T14:00:00Z
+    webUrl: "https://singularityhub.com/2022/06/10/do-ai-systems-really-have-their-own-secret-language/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 17
 
 secured: "809Q0uL6mmL9RwTbDbIMiOLcza19HttMmQxIQ3a3nQ3QaCI2p+mXQS5/TTHS3EtKGzNhFqi2wVXdIRgA1WyBuwZzvUVS0gI86F68hOAEW6Q3PKi34zDimc0s5eIenndWGfyItKlLEpmAomB46z7ZQHMRK6UAhQ7mx6KBkrxgXMDzDSEQIC6wRjmixb76csMRh3t4NSCqNaegH+r88py8UMvwdLGuzRbb+1BWdVr8EAnvQj7g3CaW0332HC2M1JV0La6WWEMbC0WnFS/qdDsIXi7chlLBe2Ct2MVi4MMqtCjk0ghOVAwgLIM6UpGipbo7zaXdT70csIVgn3injWHJmNrRrh5Wi6+qDy526SDq6mQ=;0EVhf7lKd6oE1/7thI+Olg=="
 ---

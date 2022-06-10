@@ -52,6 +52,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 5
+  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Sees Significant Decline in Short Interest"
+    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) was the target of a large decline in short interest in the month of May. As of May 31st, there was short interest totalling 300 shares,"
+    publishedDateTime: 2022-06-10T20:54:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/10/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-sees-significant-decline-in-short-interest-2.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 4
 
 secured: "ebkqArnb4OOq7iTTAJDDBSytulId4ab3BkkYMt8NE8SuabO8HcEUJS5SfHsspxBTqqK+AW7V63TAfq8MPQuZ0qpW815+6tTWzr5h6JRWzV2pO+LCKDWjAdmnD3cdMIYeV9rmmaZMjw1AeHHyxqnlK4Gqtv+AUrwWN9aLEx8KOutXRT4DeVW2SivcVVqXUE1HRv4pu/ujAS7NSaxVVG/9t4GKaH3CyuHIiz29VYL/avpfaDmVtAFa/4DtZmt1jzLbr1eTSkLcezSe4uX4dZ8HsXWCVgp1ZGVrRgvHHlAXO7vG79DxuUNFgkhO2I79M+fYOfOTjImtCPfm3GZk3/zqfHYN8S+UmrS4xZLoviqt3U/H2UgLIGkZ61XkIo6vygg9Kbro7JfPRLZuEQVaLpW1W4a5hBVg8URAxlBEcAkkeFaKYjDDSlSvlshwM5Exsd7MshtaB0M+Auerm6n0Qqpcc/t6kDaJebCwUiBWLKpViAzAIloRILoKU+dPgabh1kR/RwEkTLTKaiU3tLwuKEXpVg==;82EnDUddWqm445dpCBStQg=="
 ---

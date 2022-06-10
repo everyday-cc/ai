@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T19:00:00Z
 originalUrl: "https://insidehpc.com/2022/06/report-worsening-supply-chain-fab-equipment-problems-for-tsmc-and-samsung-could-hit-hpc-and-ai/"
 webUrl: "https://insidehpc.com/2022/06/report-worsening-supply-chain-fab-equipment-problems-for-tsmc-and-samsung-could-hit-hpc-and-ai/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: insideHPC

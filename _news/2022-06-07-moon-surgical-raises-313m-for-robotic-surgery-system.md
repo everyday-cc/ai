@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-07T16:36:00Z
 originalUrl: "https://www.massdevice.com/moon-surgical-raises-31m-robotic-surgery-system/"
 webUrl: "https://www.massdevice.com/moon-surgical-raises-31m-robotic-surgery-system/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: MassDevice

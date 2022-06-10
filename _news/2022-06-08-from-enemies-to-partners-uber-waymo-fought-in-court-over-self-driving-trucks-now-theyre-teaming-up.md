@@ -91,15 +91,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
-    excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
-    publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 45
   - title: "Lawmakers stall over self-driving cars"
     excerpt: "Autonomous vehicles (AV) are already on U.S. roads, but the fast-growing industry will have to overcome fears from policymakers and the general public before driverless cars and trucks are widely"
     publishedDateTime: 2022-06-07T12:00:00Z
@@ -139,6 +130,15 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 28
+  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
+    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
+    publishedDateTime: 2022-06-07T20:32:00Z
+    webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 15
 
 secured: "vsmqLztNCfDflCUTv7fU67agtiwfv8Co+FT2B/Ufk2dLlJBnNIb6YJ00r8Myi31iS50ywHK938PliOubZ53iOvTjEz7Rx+iH0CL81txgNaNDFBIUCTUdsYYk3WTVgUX2G8fWay731O6gBbLXX/9vkk4ZN3UG3075q9PHAiECp/zNZhgO37sQ41qmZ5MbdknpJQodpCW5/0Fey9hIjTRLAgwQrTzpqtEqy+H8MGJ6eHTgO0ZL5EFp2p+OAcHob5V/jDDfJQTdwDrVSqJ3umMP6zjOx9xnMyTob+9BOSv8nR2ol/Czp0LaAMw/eBBoadbjmzmgw8Srw+Ys6OFJp9r4znthYBhGl1ill+BJP+hFoBk=;e9xf53CVx5TfPZCHJKwvog=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-06-ai-secret-language.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-ai-secret-language.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore
@@ -42,6 +42,15 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Do AI Systems Really Have Their Own Secret Language?"
+    excerpt: "It’s hard to verify claims about DALL-E 2 and other large AI models, because only a handful of researchers have access to them."
+    publishedDateTime: 2022-06-10T14:00:00Z
+    webUrl: "https://singularityhub.com/2022/06/10/do-ai-systems-really-have-their-own-secret-language/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 17
 
 secured: "4etpIf0olmkSY3N9sE/QSoqgV6QAEm/naVD5WrRuYvoBnhLttltcdUdMZ5gTA3im8cbrxbPuT+F36KUdk0jaNZnj4mqsB53UEFfQ8ACMsgPZ7zsDkBM9Zk9l3CxxaYpFSHY+lQzKJxeA8p65+8rghhyXmgiyjSlvmT8UF3uzP+vXox0Hc9r7DrAwrmVf9rdnneTzvoz64bIZsLdWDx/utk2buDrd8k1hi0aKSW+P5DXGmYAVUA8Lbed7+xqr5634Jp5niYb4gRabS0SrHRHLKrmFP65c5GC4nl7VfMRivKcALbjgjlAam+xV6XlTqzSv4Sk3Y7tzf8iRvethjsVJUY+92DqwAYwm1A6OMA9wZ/XdvuY5IQBz5y1A4ZNsUQZ4s/rKcoy1tPiR704J6kPbzswpXJISaYtogvjfvIp74CgayJ0WGJ3ZWbXWvZh572p7sA2GemWVQXVzaznuX2wBKyErziVd+Sg1WpFA/z/hItYyWNxY2N6lCWY9bKZTN4w6QBoysuZWjlbzFLIFZH6CZw==;99+53CytbroKHz0tPMQ1TA=="
 ---

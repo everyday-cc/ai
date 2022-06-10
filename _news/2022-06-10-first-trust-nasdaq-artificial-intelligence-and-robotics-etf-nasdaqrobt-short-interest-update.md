@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T15:58:00Z
 originalUrl: "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html"
 webUrl: "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Defense World

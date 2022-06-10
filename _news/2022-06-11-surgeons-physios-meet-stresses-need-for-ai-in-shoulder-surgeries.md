@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T19:24:00Z
 originalUrl: "https://www.thehansindia.com/karnataka/surgeons-physios-meet-stresses-need-for-ai-in-shoulder-surgeries-747980"
 webUrl: "https://www.thehansindia.com/karnataka/surgeons-physios-meet-stresses-need-for-ai-in-shoulder-surgeries-747980"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Hans India

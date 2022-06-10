@@ -1,20 +1,29 @@
 ---
 category: news
-title: "CIMB Bank recognised for Best Financial Artificial Intelligence Project at The Asset Triple A Digital Awards 2022"
-excerpt: "KUALA LUMPUR, MALAYSIA - Media OutReach - 9 June 2022 - CIMB Bank Berhad (\"CIMB Bank\" or \"CIMB\" ) has been awarded the Best Financial Artificial Intelligence Project in"
-publishedDateTime: 2022-06-09T05:45:00Z
-originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
-webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/09/cimb-bank-recognised-for-best-financial-artificial-intelligence-project-at-the-asset-triple-a-digital-awards-2022/141976"
+title: "CIMB Bank Recognised For Best Financial Artificial Intelligence Project At The Asset Triple A Digital Awards 2022"
+excerpt: "KUALA LUMPUR, MALAYSIA – Media OutReach – 9 June 2022 – CIMB Bank Berhad (“CIMB Bank” or“CIMB” ) has been awarded the Best Financial Artificial Inte"
+publishedDateTime: 2022-06-09T08:15:00Z
+originalUrl: "https://menafn.com/1104348132/CIMB-Bank-Recognised-For-Best-Financial-Artificial-Intelligence-Project-At-The-Asset-Triple-A-Digital-Awards-2022"
+webUrl: "https://menafn.com/1104348132/CIMB-Bank-Recognised-For-Best-Financial-Artificial-Intelligence-Project-At-The-Asset-Triple-A-Digital-Awards-2022"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "LmnWGwPiFcoNDTuGmbVUwXPHVQN+jQE/o0TYnZ/wEUm7vUNHGR4On5UUrV3kVAXGLoYnMKPyd5jQTHcKe5ZlDb4YukLbOB2iyQBMUswek2moQIHA0cRfqb9R4yVvqm7FM0SZ6zOewHhmOGWwtqqCxNqKoPxJngomNfCYyc5drMd73AEM85Ef5pl7S5NlHBE1giy7dW+jIHo1ADhJOvek3momzsY9bd4VQw1QfRwyehv8AUSEEhW24pOUEoDXwgiLPDApq6rnXSI6Uv2Hz5plXGfOj1kFrRLL/V0BhTP4cZyeLtb0Yr8F7HPmSjujh6UtLslSsgBz0S8f5tJWkrT3ZeVrc4/vNEf3i2i5z4uagrpLwWh96cItJ9E2z8Bu6rRkYLThiJNEzmkb6a/+6s+ztpz+94veZcHS9mbsQxYIrdKmLR2bpM+H5t3goEBUAJv7Ebm8jR32H+ptq+uwsBLit+95Yvafu+1fUiSqNsXc/kmLbJ/h5S57kWcFJCdmDIbTN1brqjLzCR6tqGUBKhIFkw==;F2xqragcUreSP4UjdYrpRg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?365611"
+    width: 375
+    height: 250
+    isCached: true
+
+secured: "/tfdxbVrymWcBHcKlQ4iKGVLNFUto+xO4Z8jdCl+jBZufqmBbmIg6/JJ2TM+ywDoBr9VKWShvKnBTuO//IvACAR2rC6goLqyQsx8FbE088pID1sBgJB5fMhqgh+p8H7l1hdQPorHRnhSln+FeYoh+pWn2GXEGzJGTygW0DnV4RK86sEiWxvkEffkr195HeBOEM1PBizN9TI2b8l3if5ZNbhSTp4lAZJ75wSigU5iPKs02+3v534ufiNEkvgqaQIc4foY/uGWeclN/N4LchZu9QE+MbeCefS7mfUVzirHbnknGJ2VGFdGoiwYr0SO/AKLraA9Wsjqmbi/L6eDinS+Bbu72NQ8WT9U2aNr+oJka4Y=;I3bfFj8VvVxcoNHiqd6nxA=="
 ---
 
