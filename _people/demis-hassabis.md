@@ -13,7 +13,7 @@ website: http://t.co/8B3TFG0hNp
 twitter:
   username: demishassabis
   url: https://twitter.com/demishassabis
-  followers: 251502
+  followers: 251510
 
 googleScholar:
   url: https://scholar.google.com/citations?user=dYpPMQEAAAAJ
