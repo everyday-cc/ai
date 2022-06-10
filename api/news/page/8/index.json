@@ -2,6 +2,93 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-02-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace.md",
+      "title": "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace",
+      "excerpt": "“AWS and Zeta are delivering a simplified and effective ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle.md",
+      "title": "Magnetic encoders support the stabilization control of a self-balancing two-wheeled robotic vehicle",
+      "excerpt": "In the design of a self-balancing two-wheeled robotic vehicle, accurate high-speed measurement of angular rotation is a key requirement. Furthermore, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle/",
+      "originalUrl": "https://www.therobotreport.com/magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/renishaw-sponsored-featured-image-june2022.png",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro.md",
       "title": "Artificial Intelligence in Platform as a Service Market to Eyewitness Massive Growth by key players Rainbird AI, Azure, Wipro",
       "excerpt": "Ample Market Research published a new research report Artificial Intelligence in Platform as a Service (PaaS) market contains a clear arrangement of the declared information as pie charts, follows, the line follows,",
@@ -1064,102 +1151,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-microsoft-dev-box-your-development-workstation-on-azure.md",
-      "title": "Microsoft Dev Box: Your development workstation on Azure",
-      "excerpt": "Build 2022 had a developer focus, with new tools to make it easier to write code in a world of hybrid work. Dev Box promises to make your development environments easier to manage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/15/10/it-as-a-product_boxes_glowing-box_binary_package-by-masterzphotois-getty-100798698-large-100924633-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
-      "publishedDateTime": "2022-06-01T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-how-artificial-intelligence-is-helping-to-measure-creative-effectiveness-in-marketing.md",
-      "title": "How artificial intelligence is helping to measure creative effectiveness in marketing",
-      "excerpt": "In marketing, 'creative impact' was once too subjective to measure. But with modern AI solutions, creative efforts can now be effectively analyzed. As part of The Drum's Creativity in Focus Deep Dive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/opinion/2022/06/01/how-artificial-intelligence-helping-measure-creative-effectiveness-marketing",
-      "originalUrl": "https://www.thedrum.com/opinion/2022/06/01/how-artificial-intelligence-helping-measure-creative-effectiveness-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-668177-the-drum-image-31653982470--default--1080.png",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

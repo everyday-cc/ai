@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://images.hindustantimes.com/tech/img/2022/06/03/1600x900/Russia-Opposition-0_1654267552786_1654267631620.jpg"
@@ -81,6 +82,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "PsgFUqW6mQ7LaXTso/M3Ipfwn+/7D5yTICxN95AO/n50GccAf1zXGhBpsddbGQTxOGLmbJTWpads4JgEFwaUN801hSqyog6shHx50I1lD6kfGdaAtCxu195qG1X26CzN2CjoUqka2x1Flb7ldYR4BC8wVBcoNsZ/fqWWwa0/cZG3nQP4WnRbwHtY62NSNYFllR8xPxnXjnSwP0sQffulDccOVnmNtPXAP81yTC8MPXphZMcIj8xFdMl2bRnXf2WOmTkg6h5fwjI2ZNKXJjAaraq7r128jes3faBntDDoPUTT+rgBwPTVcDocdMpqxnoXXhwQh1+5B5ah5/EEZeGAqC19JFJJLjW8Gx5BWdtM6vE=;JseAAVnGuB1zGyFs5/W0NA=="
+secured: "cI3uPmy1/llk9ZK/catAZwkwicY03bGQGZa89ECeejA6eQIJkf22Re+KS2UF7/CY0fvbqG2MxDkh6/TMU5MHvWeD/3yo5lGigJ8uEjx9x1G+GUh1ZSz3YWgOMsovaEzvBg3oRR0tz0YIVhzYx5bAbQWJk14x1YIrjNPVYsvgQ7UMiLa0F8TZMNnLuyWygi7RYYJURZigOHGovVUtK9PFyMcOa1PNNNta24AMA7sHKIIXi9IrJdcOREyd8ApswvDQY8gRdZIzxmvfi0XYD6rKBCtBjfPGcwFZVuNWua6yi5EeDjQU3eDBUwza1OhWNSgcEjpn4C774udiJl9XcyoQu3gVKT+rl16QQSuH0nHm0//0FKcXe7S89BxPilPri7wT4LsMWp2mRFthdCrVxUv8K0GxLG27tExCrlLVJ28IUKZBMvF/xcikgQJdZ/53WdYz34jAI0VXH0gt1S/Vk7tvi5T3lX94nI4kfpk0TZh3Fx/cFRUipxvnGSTiQsC7LM1Yz6GuI2SHSeWw3lLhgKUQag==;/fzHmTrQhQaeTtKfwfVYzA=="
 ---
 

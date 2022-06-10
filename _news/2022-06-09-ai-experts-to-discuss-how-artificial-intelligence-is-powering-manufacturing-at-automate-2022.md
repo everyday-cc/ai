@@ -3,10 +3,10 @@ category: news
 title: "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022"
 excerpt: "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing."
 publishedDateTime: 2022-06-08T17:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
-webUrl: "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
 type: article
-quality: 47
+quality: 41
 heat: -1
 published: false
 
@@ -16,9 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Autos
-  - AI in Robotics
-  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -56,6 +53,6 @@ related:
         height: 450
         isCached: true
 
-secured: "OX3QzPHyV4Zq0zfO7QGaKuvWKA57BaUrO/YuBUonoLwQMDxUPTPhj7ViYAy85d7in9ZOhGb8bp75DxuH36mGeOkXWOTo9/dpDMdP8wBKWeZVxZXA1m2o6afEYI/2ETNrBPBFq9b6LOsxIw7NHoFi6ZIXsOmc5r1CW1bUCdUkKrIIC0AFBSVdfh4ytxNkAAxYw/tMET01U+8+P9bK1/HKPH6EqkqjzRUY4yBgybwcnJxzv8iCslShngnfosvlYQYiWO/oEmp5YeFmyrqsWa3Pf4KNAFsHQCSMhOXUUqdMC1q5Ps0eqeaxpQGLS6ZHEbnEygnU3/3jbqb6X169F4s0RsOEfG4ipcQZpI19f90HLXY=;vJKrFEyJ51s5JYyH1nL/ag=="
+secured: "VzgGSHqPfFXstIVHDO/32r7DyJITYzS41m1J2+jMmj56k3/E1DQ44L1r+RHVN0QI4DsaPFCZF7tYDqhBfuk8GQwdie0irXPk7VD6gxENADiM7Cm1PIKE6xusKe1rT/GEgt2O9mu4C1rAeOOXv72Z+8NzbYCQXJXLZ08xs0xeCYOVIgmbowN0ANwEphYL/FrE7hhZaqjJQe22cHQwqD2VZz5DGoP4tqq4oAcLocMq6xzfE2ew9IYgQNLM3sKlZQOT1nfzk5rtgDw4KLJm/QYGVXy+uEyF1Ps5Xb2q07YFstFOm52im0ZQrthTgKVzwDHzVSkstvvmUvxFjv+htKGJ2kU4SG3IdjnHFDRjs7yH0qU=;Gf6Z/c+3J4yHncxrbsr9dg=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1126
         height: 675
         isCached: true
+  - title: "Hyundai Starts Driverless Car-Hailing Service in South Korea"
+    excerpt: "Hyundai is ready to pilot a RoboRide driverless car-hailing service in the posh district of Gangnam. Using the Ioniq 5 battery electric vehicle, these Level 4-equipped autonomous driving vehicles will operate in one of the most congested areas of South Korea’s capital city."
+    publishedDateTime: 2022-06-09T23:19:00Z
+    webUrl: "https://www.carguide.ph/2022/06/hyundai-starts-driverless-car-hailing.html"
+    type: article
+    provider:
+      name: carguide.ph
+      domain: carguide.ph
+    quality: 54
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhBed4rXr3IN5db6Qntbf-EKQo07ymC1tUiG_cds9qRyRz6ul6fXZm60XV5VLH5UPZOV7I5rwVpEgqukYmyB1HsGSdEZAWYrTif7owb81V5lEn8zEkEWP-Rh2d7twIIXNPbcGX8ZH8ui5M7248_EARZv3FbezkVEO85heVtuqdhGzmzBxXQEfDamj-g/w1200/hyundai_roboride.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Cruise can now charge for driverless taxi rides in San Francisco"
     excerpt: "Cruise has slowly been allowing members of the public to ride in one of its driverless taxis on the streets of San Francisco since February, but until now the company hasn't been able to charge a ..."
     publishedDateTime: 2022-06-06T12:07:00Z

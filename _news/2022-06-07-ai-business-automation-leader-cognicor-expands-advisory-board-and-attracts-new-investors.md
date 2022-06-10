@@ -33,7 +33,7 @@ related:
     provider:
       name: WealthManagement.com
       domain: wealthmanagement.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/02%20Sindhu-headshot.jpeg"
         width: 1540

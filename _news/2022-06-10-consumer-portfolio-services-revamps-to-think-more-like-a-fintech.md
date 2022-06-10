@@ -43,6 +43,31 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A Guide to Fintech ETFs"
+    excerpt: "The financial technology or the fintech space is largely altering the traditional banking landscape, globally. The application of innovation technology tools to provide financial services leaves customers craving for more personalized and customer-centric products."
+    publishedDateTime: 2022-06-09T21:26:00Z
+    webUrl: "https://www.nasdaq.com/articles/a-guide-to-fintech-etfs"
+    ampWebUrl: "https://www.nasdaq.com/articles/a-guide-to-fintech-etfs?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-guide-to-fintech-etfs?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "HSBC to run fintech education course for employees"
+    excerpt: "... 101 is based on the Oxford Fintech Programme. Selected content has been drawn from online programmes, to include up-to-date, and relevant examples, specifically on digital disruption and platforms, as well as AI and open banking. Rita Martins, head of ..."
+    publishedDateTime: 2022-06-09T23:02:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40413/hsbc-to-run-fintech-education-course-for-employees"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 41
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5204.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "CFPB ends no-action letter with fintech lender Upstart Network"
     excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."
     publishedDateTime: 2022-06-08T20:37:00Z
@@ -85,6 +110,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "jl8qlYrn4u24pNesTR7BKvU6guxwdT7OGtnvPOkAZbqqNscCgU5djGPqiBPFGuasEb/xRkd0JM/h0xIQkv8CGOfSRa7oZng/HCqGtAD5ZMeNwrXK1WDYYX1Lnr9xVFN6D3y15iMETRC/y8XzHxB/mMxCvPIA0tu4BU6lTCuGteksedVfuBXI9kSFuq2wpe3eg/mjIKN4bqWLNPRrWwDWHRjvyt196edarbPPMKKHzcqMotg/Ueuv7g/75r5r0jE5KjaBsmQOe+t0FOABFiGTe/nSYRyBxUZWvw28ltm9LwXgXm5gb9ojTFBuDzdNqv8SlWkfVGkonU0SBAkC2S/d84YoqV05h9I9hve2mfI12hQ=;PmCZ4wrU6/79gWQ8yyak/w=="
+secured: "0h4xVSMoNVvde5f+87r81cHGsFtzUMOysdfQ6fsEyEgDMp/u+8kCN9WwXb9qQZpRBLaUaVn04V9V49N+oetUoMk5LCyC1ZXg79yUtn0aZl/N5eJ5q6/bJlgoMGRO/lZd9tIQxMGo+tr5B0+I7aMhfebXn7f92mCYXj1srZozmwSwch04Y8jo6KtthFr1il5/qelngMk5qsAjVpTw4iAT0EOWbeGKIdfdG9UzwCNMppdUvgBZmKu7dzXJ8SqS3SHq9yoqmEfMe6+cdNejsmK+oe+4RU/UNfVpkTUZ6AMCVPbRF+OP4Dyb/VUy9B1phIL7aaH3WsNCoqbUTUqGoav7JQHb5TAeYqpunoVHMSkwfQaFlrjWd4exom66JHufsHub9W267p0xai5B7pamfrRvkVvJEB8o8PzcoKYB7aUrkTzpI5XH6+MU6jA/h3WMg/DKRKcapjl1Hayvo9EAd1FXNuEmEA264gucuAcELrKJiI3GKnzemQTVdcZb1bZkVQ2Kf6bwa3c59oRRDFNrYaIhpw==;kPgJklah3QE+UYPdTE4jTQ=="
 ---
 

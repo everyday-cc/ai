@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-09-how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend.md",
+      "title": "How service providers can use natural language processing to gain insights from customer tickets with Amazon Comprehend",
+      "excerpt": "Today, customers can raise support tickets through multiple channels like – web, mobile, chat-bots, emails, or phone calls. When a support ticket is raised by a customer, it is processed and assigned to a category based on the information provided in the ticket. It is then routed to the support group",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/31/ML-8570-image001.jpg",
+          "width": 1092,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T16:41:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-2022-imagine-cup-junior-ai-for-good-winners-top-outstanding-creativity.md",
+      "title": "2022 Imagine Cup Junior AI For Good Winners - Top Outstanding Creativity",
+      "excerpt": "Outstanding inspiring creativity from the top 10 global winners in the annual Imagine Cup Junior AI for Good Challenge. The announcement June 9, 2022 is the culmination of thousands of students, aged 13-18,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/",
+      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a26c35375cdb5c75876078/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 928,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/amp/",
+      "publishedDateTime": "2022-06-09T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids.md",
       "title": "How eMagazines utilizes Amazon Polly to voice articles for school-aged kids",
       "excerpt": "This is a guest post by Andrew Degenholtz, CEO and Founder of eMagazines, the parent company of ReadAlong.ai. eMagazines’ technology seamlessly transforms print products into premium digital and audio experiences. Leveraging Amazon technology, ReadAlong.ai offers a simple, turn-key way for publishers",
@@ -721,7 +825,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1125,7 +1229,7 @@
       "originalUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1157,94 +1261,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-insilico-medicine-plans-to-launch-a-fully-automated-ai-driven-robotics-lab-for-drug-discovery.md",
-      "title": "Insilico Medicine plans to launch a fully automated AI-driven robotics lab for drug discovery",
-      "excerpt": "Insilico Medicine's end-to-end AI-driven drug discovery platform, Pharma.AI, draws its strength from the quality and quantity of its data. As Insilico scientific advisory board member and Nobel Prize laureate in chemistry Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
-      "publishedDateTime": "2022-06-08T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning.md",
-      "title": "Ministry of Education, AICTE and AWS to Upskill Students in India in Cloud Computing and Machine Learning",
-      "excerpt": "The Ministry of Education is working with Amazon Web Services (AWS) with an aim to impart cloud computing and machine learning (ML) skills to higher education students in India. A Memorandum of Unders",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "originalUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
-      "publishedDateTime": "2022-06-08T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
       ]
     }
   ],

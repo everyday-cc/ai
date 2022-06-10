@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "A Guide to Fintech ETFs"
+    excerpt: "The financial technology or the fintech space is largely altering the traditional banking landscape, globally. The application of innovation technology tools to provide financial services leaves customers craving for more personalized and customer-centric products."
+    publishedDateTime: 2022-06-09T21:26:00Z
+    webUrl: "https://www.nasdaq.com/articles/a-guide-to-fintech-etfs"
+    ampWebUrl: "https://www.nasdaq.com/articles/a-guide-to-fintech-etfs?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-guide-to-fintech-etfs?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Consumer Portfolio Services revamps to think more like a fintech"
     excerpt: "Consumer Portfolio Services is going all in on artificial intelligence (AI), machine learning (ML) and big data as the 31-year-old lender looks to revamp its operational strategy and think more like a fintech."
     publishedDateTime: 2022-06-09T21:08:00Z
@@ -46,6 +57,20 @@ related:
       - url: "https://www.autofinancenews.net/wp-content/uploads/2021/11/canstockphoto43213279-scaled.jpg"
         width: 2560
         height: 1378
+        isCached: true
+  - title: "HSBC to run fintech education course for employees"
+    excerpt: "... 101 is based on the Oxford Fintech Programme. Selected content has been drawn from online programmes, to include up-to-date, and relevant examples, specifically on digital disruption and platforms, as well as AI and open banking. Rita Martins, head of ..."
+    publishedDateTime: 2022-06-09T23:02:00Z
+    webUrl: "https://www.finextra.com/newsarticle/40413/hsbc-to-run-fintech-education-course-for-employees"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 41
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/5204.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "CFPB ends no-action letter with fintech lender Upstart Network"
     excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."

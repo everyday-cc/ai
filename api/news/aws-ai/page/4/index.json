@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-04-28-amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams.md",
+      "title": "Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams",
+      "excerpt": "Today, AWS announced the general availability of Amazon Rekognition Streaming Video Events, a fully managed service for camera manufacturers and service providers that uses machine learning (ML) to detect objects such as people, pets, and packages in live video streams from connected cameras. Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-introduces-streaming-video-events-to-provide-real-time-alerts-on-live-video-streams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Tangelo-2x-2-tile-image-with-bounding-boxes.png",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T13:41:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler.md",
+      "title": "Pandas user-defined functions are now available in Amazon SageMaker Data Wrangler",
+      "excerpt": "Amazon SageMaker Data Wrangler reduces the time to aggregate and prepare data for machine learning (ML) from weeks to minutes. With Data Wrangler, you can select and query data with just a few clicks, quickly transform data with over 300 built-in data transformations, and understand your data with built-in",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/pandas-user-defined-functions-are-now-available-in-amazon-sagemaker-data-wrangler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/28/Featured-images-for-ML-9272-new.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T10:38:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-27-bell-and-amazon-web-services-launch-aws-wavelength-zones-to-advance-5g-for-businesses.md",
       "title": "Bell and Amazon Web Services launch AWS Wavelength Zones to advance 5G for businesses",
       "excerpt": "This enables software developers and businesses to take full advantage of 5G networks and the cloud with AWS to build solutions that leverage real-time visual data processing, augmented/virtual reality (AR/VR), artificial intelligence and machine learning ...",
@@ -1288,92 +1393,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-14-logicladder-and-aws-collaborate-to-strengthen-the-sustainability-and-esg-sector-with-the-sustainability-cloud-platform.md",
-      "title": "LogicLadder and AWS collaborate to strengthen the sustainability and ESG sector with the Sustainability Cloud platform",
-      "excerpt": "Gurugram-based LogicLadder credits the AWS Startup Ramp from Amazon Web ... By leveraging technologies like artificial intelligence (AI) and machine learning (ML), the platform allows companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
-      "originalUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/YS-SM-Layout-1649931582520.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/04/logicladder-aws-collaborate-strengthen-esg-sector-sustainability-cloud-platform/amp",
-      "publishedDateTime": "2022-04-14T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation.md",
-      "title": "Control access to Amazon SageMaker Feature Store offline using AWS Lake Formation",
-      "excerpt": "You can establish feature stores to provide a central repository for machine learning (ML) features that can be shared with data science teams across your organization for training, batch scoring, and real-time inference. Data science teams can reuse features stored in the central repository, avoiding",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/control-access-to-amazon-sagemaker-feature-store-offline-using-aws-lake-formation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-13T11:54:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

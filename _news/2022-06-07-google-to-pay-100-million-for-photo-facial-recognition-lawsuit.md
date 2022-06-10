@@ -34,6 +34,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Task force to assess use of facial recognition by Colorado law enforcement, government"
+    excerpt: "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado."
+    publishedDateTime: 2022-06-09T21:51:00Z
+    webUrl: "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html"
+    type: article
+    provider:
+      name: The Colorado Statesman
+      domain: coloradopolitics.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OhuXiNVTUuLH8ZmtyWDIEG8oUrHscOoJ40NFYIDoFTfnCTSjQfmoVJUu6x0jp0PPmuMDXo1yYJlu9f2mlDgz61++Q3shH55d74YCO21M7Fl8gOmamCpROYpXPUNvOHpHHQusChCNcSuU+rJOx5WglxCirbP1AA8uODWCX1MtN/J6tHfbCjnH8EUvuJwguiECVr703fqWL6HjTXz40MIX6d9YZ2Zaz5itrUTzcu2V1rUhMcYrAj/6h2853BeFW/tMLxooPylxwOVHAZ9GKxRRsTlBp77jPEkXMpGW9H0hGfJGySAnvlY1XQswB2A/V6RzWECmUdzZsjGvjyFRh/uF7ctufsPGHMBdbiHF41qR0dMU7Zo5be+H0g6D8htQQRBDZY57bLC08oLCF5opC6H6RczOsoBJDPsyQzG4IWoRQXLo9oxxqVet8Xu5hFdx9cn14xh1An4RKKr9hSPk6oy1oSQUJsBBTYzccX6pLG+ReF5e1HmbM95gd0d0rsAqsrzT+PHk/flJ2F0a/Et73oXX/w==;NeUYqyv3wQTgtmFZ9F2IaA=="
 ---

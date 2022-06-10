@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/"
 type: article
 quality: 106
-heat: 108
+heat: 106
 published: true
 
 provider:

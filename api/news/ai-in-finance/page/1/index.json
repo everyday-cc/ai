@@ -63,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -518,6 +518,49 @@
       "provider": {
         "name": "Daily Herald",
         "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030.md",
+      "title": "AI in Fintech Market Size Industry Trends Share Analysis Growth and Forecast 2030",
+      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for AI in Fintech market across North America, Europe, Asia-Pacific, Middle East & Africa, and South America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Trump-Capitol-Riots-Washington-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1344,49 +1387,6 @@
       "provider": {
         "name": "India Infoline",
         "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-megatrends-ceos-of-mttr-nexcf-oggff-and-upst-discuss-next-big-growth-waves-in-metaverse-ai-plant-based-foods-and-fintech.md",
-      "title": "Megatrends: CEOs of MTTR, NEXCF, OGGFF, and UPST Discuss Next Big Growth Waves in Metaverse, AI, Plant-Based Foods, and Fintech",
-      "excerpt": "We believe in our core that AI lending isn’t a one-category phenomenon ... before and hope to use what I learned there to build Upstart into the most impactful fintech in the world…” Upstart Holdings, Inc. (NASDAQ: UPST) Earnings Highlights: https ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/business-9e560c6d8c54c2925e7d5fec50a0df73",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-9e560c6d8c54c2925e7d5fec50a0df73",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

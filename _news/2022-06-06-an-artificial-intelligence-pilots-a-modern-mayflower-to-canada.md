@@ -1,22 +1,28 @@
 ---
 category: news
-title: "An artificial intelligence pilots a modern Mayflower to Canada"
+title: "An artificial intelligence pilots a modern Mayflower to Canada."
 excerpt: "The robot ship designed by IBM was meant to dock in Massachusetts, but mechanical trouble forced it to dock in Halifax, Canada. The ship didn't have a crew."
-publishedDateTime: 2022-06-06T11:05:00Z
-originalUrl: "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada"
-webUrl: "https://www.boisestatepublicradio.org/2022-06-06/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada"
+publishedDateTime: 2022-06-06T11:40:00Z
+originalUrl: "https://northcountrypublicradio.org/news/npr/1103252706/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada"
+webUrl: "https://northcountrypublicradio.org/news/npr/1103252706/an-artificial-intelligence-pilots-a-modern-mayflower-to-canada"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Boise State Public Radio
-  domain: boisestatepublicradio.org
+  name: Northcountrypublicradio.org
+  domain: northcountrypublicradio.org
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://northcountrypublicradio.org/programs/images/Beat_Authority_logo_RnB_500.png"
+    width: 500
+    height: 500
+    isCached: true
 
 related:
   - title: "An artificial intelligence pilots a modern Mayflower to Canada."
@@ -29,6 +35,6 @@ related:
       domain: kalw.org
     quality: 19
 
-secured: "d9juHrHxeYftbtDmu+Hgm/NfWmJUZ8E12WNxvminBSlFex0RtuMi5vQBZRnGYQZCt2PX1nfwp/FoBTgTGM7NiUHhzkJvO84BrDol9Ib+Ae1sN4DeM/vHbrU0NTVTCYpkbw52o7sOge/H4S470L0rnnQQFT8/9CnCm3IZefUM+L6pNbPy57kmECUcLYt0o0Pe639hGbiefuhAlDrUN+nUrDlI0szgNrwUxyZ+godDJvr24B8IdDxuJdVRnIDJauqod5NBKMnC0Po7pdiNbCnqml5m8DISj8+Vj31+OytNxDP7AXQl1NDI678fDn6gcVqm7F/CMdALUG4IIZ/5iNCdR40jRdYo6Ycv4VspimVVnFI=;32Mya9Y6AWtfwKIytASJmw=="
+secured: "O/9vOEdQocgkR315wcmyvKubTSPAdWAbfvvNSZGW86SyK9TyMIuk56x4/Z0G/4RTBDWSD9hr+ZnTt6BT3Cfbjn86U8I7uHTGztV5aJyGMl9iws73ERY/zomadGwQ+TUlVoKUhEYoTyfDskb9qVLBYLKysJD+MlsTjD2SS71x1nFjAPDbw6jXQ8mnkiL7hWjQRs/KiZaj/sTUhnzVsOhgQB63RoA28hSGW5mRlJsAFDFOZV9SUd0aAjVQqyn3OMEt6K+owy01aISqiLz3BsC4U2iK+RXug3x+BhwjeyUvcRqDAiIzEpBz/jxYX1NIyU+BkogxMyRlqhmvTHWySW1t3pGEOC95JBIzzwPnZn70jUw=;Vboy0gOPYq4cdeDbboEM1Q=="
 ---
 

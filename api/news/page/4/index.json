@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-06-finish-robotics-brings-robotic-painting-to-life.md",
+      "title": "Finish Robotics Brings Robotic Painting To Life",
+      "excerpt": "Finish Robotics Brings Robotic Painting To Life . Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA – Fini",
+      "sourceUrl": null,
+      "webUrl": "https://www.constructiondive.com/press-release/20220603-finish-robotics-brings-robotic-painting-to-life/",
+      "originalUrl": "https://www.constructiondive.com/press-release/20220603-finish-robotics-brings-robotic-painting-to-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.cloudinary.com/dmgi9movl/image/upload/v1654277575/press_release/assets/header_images/Finish_Robotics_Primary_Blue_Black_6_pcs8hf.png",
+          "width": 1500,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Construction Dive",
+        "domain": "constructiondive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-self-captaining-ships-start-their-mutiny.md",
+      "title": "Self-Captaining Ships Start Their Mutiny",
+      "excerpt": "The unmanned \"Mayflower\" made landfall in Canada and Hyundai's autonomous tanker vessel completed its first cross-ocean voyage.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316",
+      "originalUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/658e3f0fca820bdf112e22bd811e16dc.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316/amp",
+      "publishedDateTime": "2022-06-06T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-alethea-launches-fusion-to-combine-nfts-ai-characters-and-games.md",
       "title": "Alethea launches Fusion to combine NFTs, AI characters, and games",
       "excerpt": "Interested in learning what's next for the gaming industry? Join gaming executives to discuss emerging parts of the industry this October at GamesBeat Summit Next. Learn more. Alethea AI is launching Fusion,",
@@ -1105,92 +1199,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-mumbai-based-fintech-kiyaai-launches-indias-first-banking-metaverse-kiyaverse.md",
-      "title": "Mumbai-Based Fintech Kiya.ai Launches India’s First Banking Metaverse ‘Kiyaverse’",
-      "excerpt": "Kiya.ai has launched India’s first banking Metaverse, Kiyaverse, which will be used by banks and NBFCs to enable virtual interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
-      "originalUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/06/Kiyaverse-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/mumbai-based-fintech-kiya-ai-banking-metaverse-kiyaverse/?itm_source=inc42-popular-read&itm_medium=website&itm_campaign=popular-read-widget&amp",
-      "publishedDateTime": "2022-06-04T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care.md",
-      "title": "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care",
-      "excerpt": "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1832792/Paramesh_Remission_Graphic.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27555974",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27555974",
-      "publishedDateTime": "2022-06-04T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

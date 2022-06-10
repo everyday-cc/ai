@@ -2,6 +2,102 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-01-microsoft-dev-box-your-development-workstation-on-azure.md",
+      "title": "Microsoft Dev Box: Your development workstation on Azure",
+      "excerpt": "Build 2022 had a developer focus, with new tools to make it easier to write code in a world of hybrid work. Dev Box promises to make your development environments easier to manage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/15/10/it-as-a-product_boxes_glowing-box_binary_package-by-masterzphotois-getty-100798698-large-100924633-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
+      "publishedDateTime": "2022-06-01T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-how-artificial-intelligence-is-helping-to-measure-creative-effectiveness-in-marketing.md",
+      "title": "How artificial intelligence is helping to measure creative effectiveness in marketing",
+      "excerpt": "In marketing, 'creative impact' was once too subjective to measure. But with modern AI solutions, creative efforts can now be effectively analyzed. As part of The Drum's Creativity in Focus Deep Dive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/opinion/2022/06/01/how-artificial-intelligence-helping-measure-creative-effectiveness-marketing",
+      "originalUrl": "https://www.thedrum.com/opinion/2022/06/01/how-artificial-intelligence-helping-measure-creative-effectiveness-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-668177-the-drum-image-31653982470--default--1080.png",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital.md",
       "title": "Arteria AI Announces Strategic Investment Co-Led by Citi SPRINT and BDC Capital",
       "excerpt": "Arteria AI, an award-winning global leader in enterprise digital documentation, today announced it has received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,",
@@ -996,82 +1092,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-how-to-leverage-ai-in-influencer-marketing.md",
-      "title": "How to Leverage AI in Influencer Marketing",
-      "excerpt": "Artificial intelligence is a growing tool in any digital marketer's arsenal. Enabling quick analysis of data, machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
-      "originalUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/34f213753bed451d6f1428fceae18a59.jpg",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-how-artificial-intelligence-ai-can-help-detect-wildfires.md",
-      "title": "How Artificial Intelligence (AI) Can Help Detect Wildfires",
-      "excerpt": "For the period 2012-2021, there was an average of 61,289 wildfires annually and an average of 7.4 million acres impacted annually, according to statistics by the Congressional Research Service. In 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires",
-      "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-ai-can-help-detect-wildfires",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-can-help-detect-wildfires?amp",
-      "publishedDateTime": "2022-05-31T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

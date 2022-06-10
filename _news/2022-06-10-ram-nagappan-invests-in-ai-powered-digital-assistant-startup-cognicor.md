@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-09T20:40:00Z
 originalUrl: "https://www.wealthmanagement.com/technology/ram-nagappan-invests-ai-powered-digital-assistant-startup-cognicor"
 webUrl: "https://www.wealthmanagement.com/technology/ram-nagappan-invests-ai-powered-digital-assistant-startup-cognicor"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/02%20Sindhu-headshot.jpeg"
@@ -39,6 +40,6 @@ related:
         height: 338
         isCached: true
 
-secured: "gityYZb9QB8akFbMMpmoaRK4wgATLpTbel/p8aEyzZwEEn9aG20m7viXQhJuYsb/A0K40WaIlM7romCRPBBtOuOaHOkWZQR686VUcEFolQmB7MTI0zXBdtzc0uEiSTLDpK/5/VsrS3GAQl1Y8hbKebj6BlZiCvf/qoQgO9Dph/50o9f9+Fnxq4RvkHaHXjQPY0yP8TL26zQabLO9xTEgIT9EGwVkRvCEZFIXmpytmfPqQn0cxiqkxHl/HqPMo9wmg0SZ7PWVcK3M8sBn+ieJmIrqo5mZJYxxlDwXS9CbdwsghTbDGMWGDht+uyAh/3kKUlvH27qy3YB2FyEoyTrNu996w0p/gG62cdbSGIAKwAI=;owKabIcHMdRUpIdeAVfRAw=="
+secured: "KUgSTo5MVgEDwcd58mvBM5B/qxM6I3Bral9MB+39T7hAUMwsnCqXVlWdU2L6smXCziNPPz6YVPBO8SI5K6fcLpgX86PZePArv1EgxGj5guH3/A04npOUL1jlLU9lOiYAvuywJtnpO2jTuT+tkZewBvzl07uxZQPTo0JkRwztZksvuYCIwX5Qvvs+DT55Z6XHx9UqWpV9AGhUM145GFlVkVfIA/4/Hk1dpgDjuWAlwBUOplstuh+NZujRtztDHun8nAhvtFQ/6NDtIx3GUUv1sR0Iz1BuHmwCdP3MxOCrl7T9yyxFK2PCwrMjeibkZMaQXlH1M6YCiC5HL22tIEgIAgM6sTObxtnB2KKeKoeMwpZS6W05HFFCgaXhkAHfFYs/zwGyLivEziJRa1/opjM2XXXq96ySJ/PnVi7uN5Cw8392uvoxL2A+0wN49/WcKJtZUiu8rsYT0Ls858Hajym2uUCICtJ8+sirReINszK2GCY98MtrA5gYfrLbq/jrHHbu44DoNcfWvfuZvoPOpPkI+w==;7b4cb+b4eeaWz0QEA4beug=="
 ---
 

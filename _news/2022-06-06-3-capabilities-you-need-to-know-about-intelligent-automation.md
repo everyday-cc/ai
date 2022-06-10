@@ -2,24 +2,28 @@
 category: news
 title: "3 Capabilities You Need To Know About Intelligent Automation"
 excerpt: "IBM first pitched Watson as revolutionary, promising advanced AI capabilities like automating cancer detection and treatment recommendations. Now, IBM has positioned Watson as a tactical natural ..."
-publishedDateTime: 2022-06-06T14:03:00Z
-originalUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
-webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
+publishedDateTime: 2022-06-06T13:55:00Z
+originalUrl: "https://www.entrepreneur.com/article/426720"
+webUrl: "https://www.entrepreneur.com/article/426720"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1654112187-GettyImages-1313178434.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -72,6 +76,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "o0OnQyojEFUeJVXQh1bCZbMcw5dzFEn8Wztf/m9b6lCVVj+cTAYJ0PVkgwShamXL2U7pqC2eod0ZYyboVoJffQ2JYgAVsMWsH0AzWoQiV72ZIMBfSvMqp//jHmPCr0oDcCRrfJ3IgKqDGnTWeZzVKxk1gv2tHezjs/+LhvSY3t77OSbriG/P8aLH8PNLxrei2tlOBHCn0fYE5KaaRktOOfLj+SHDe/8Djxt+rct+LYpnA7iP/zonxQ8m3eeDqRTeoQlf5AbVE1acXwSYVPNs+1mcwUwwbYuInqH3Ck2aTxDkzN5mPuf7zXGTtrMdZNIJDEAPuIXDakj3lEuC5zG9Bx3aw5mKspNHTAS5P1p6DAs=;14azozQzNLaF3WUkLHecQQ=="
+secured: "v1rfBFao2LSdTziJeOzHgg/ZPSbEdQ5v5rrH5wC5ouOb4NHT68NrO5jwFmicjg8NPHPyyFzdiYOe6+uV7kz3ELt8z5AVSrHvR2r721CPTAT8Pg0g4A8QKDIxDBvHhHEP2zG/vJJ9HUfkdkJiqYN/Pq1xUGH6MEOMU9QlVHKm11Yp3ecQ3bgIU0NQJdyqBwfMla7anwLlAJgJhSeVcpPYj+6aIqKDnBesUIFQyjmCCOhDwpsXDP9v1ckkc46dkx97JLzkRGdQYNDINTkuXakWvqu5CLhvxTZgqIXlEeHp8e0UaUmUnGviU4+gqb1+0oju+osZeNmasJUEyU9TJtw6H0/KBamCEtvDRPQW8lVNmrQ=;4GFlaYJz5BGlwCDoHYTYLQ=="
 ---
 

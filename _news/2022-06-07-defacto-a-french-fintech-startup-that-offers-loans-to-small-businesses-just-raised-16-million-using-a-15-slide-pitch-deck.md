@@ -61,9 +61,9 @@ related:
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?324342"
-        width: 361
-        height: 249
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?292695"
+        width: 443
+        height: 250
         isCached: true
 
 secured: "+fwHrRFTSUSma99k8AetuEDLM20OlFossd0IuXs1JV7zOQA4x7kgkuyvPGlWHysH9fbyDpOeBlnU8Et5GfqeXw3/cH4IoRYymp/kTQUNtBoidYo+7Bs6rNuNVKCX7E7g2aOCLSn2ztZQEVayGQ7YWm4cJnDJRPYi7k+jVN+Tb9RWmal002gf6Bwrbu8adG9j5R43p9tGhykGZBRBrh5WH/PfUWFmTKo9MHSPWkV9NaIFIPMXs/HIHsW1sZv6u0i5gEHhCA/uJyh3wWJVki/n2YAWdt+A9b59LmvJLcMO74OqWOLcQGuSazieUdE0aqvHd4zatcihOkflV3Dh69az2XKMSWgBOvyogKXyTwHbHphkoE5IDfGNEMPnyNRiURNJVdKvDdQw/SbVkXmsM+UJU9ra8xdNF8euy/OWtr+DC2E5LBxYBKYpLZpmgE1pEP0pIRk48yoecAywOzNLrjziqBqeKCybwuLkFLCXk8SkzILQDRP9UtyldoouWp90TS72ncL/cLFro2/5Mh0Tr3ZuvQ==;tB1UFdjasEyEO2KzpX8nAQ=="
