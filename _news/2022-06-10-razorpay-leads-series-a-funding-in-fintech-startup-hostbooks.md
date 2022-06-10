@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T12:19:00Z
 originalUrl: "https://inc42.com/buzz/razorpay-leads-series-a-funding-in-fintech-startup-hostbooks/"
 webUrl: "https://inc42.com/buzz/razorpay-leads-series-a-funding-in-fintech-startup-hostbooks/"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: inc42.com
@@ -14,6 +17,24 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Fintech startup HostBook raises $3 mn in series A funding led by Razorpay"
+    excerpt: "Hostbooks intends to utilise the Series-A funding to further scale its operations and enhance its existing product suite"
+    publishedDateTime: 2022-06-10T08:58:00Z
+    webUrl: "https://www.business-standard.com/article/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/fintech-startup-hostbook-raises-3-mn-in-series-a-funding-led-by-razorpay-122061000530_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/09/full/1631127536-5223.jpg?im=Resize,width=480"
+        width: 480
+        height: 359
+        isCached: true
 
 secured: "e83SusnfFjwilR8GgPcWAPHwx4TieWqP1X9UpEvfxaBdP8ecp1IRhpl65qkKIRv+gjT8z/idn9RwJwAfCwegBZD1NwSeUQWTjRzlHsBxmCdz8xtodlo5e08wgWgOFFUP8pmDVZxmRnwcURD4mklSGdulonBvgk46hCefu6UWgvP9oiQEEyjXxTkfslWUE1tSAhYZhrbfuUK9QZZjaWn96rKeXMFtnE5nJNadAehwIOt4fkJZrjofyFSt7Dt66AWDJUH23E8wpJkPwt4+QOf9MUt6gy5rtUq/UsrEb3sl5f0EYXvDYypsBFmqg2wvWVKYI7MAzWnuZHd2oGAsWXV684f4uEwhcUc7OgutVdK0cMQY7Xz18a3dvCUNDNqmkx4H4EJ5g25j01O0889/XNRUQ0W0ib0ruUzPI52qnpwEbYuSbHCCPLtwMHJT5F1Kp24NWQ9Ch0946dgrkTG6aXzhBVa6QpNdO1mr1d2huXfpdrqsK/Vs7fUwLPagDxi39HT/ot/OC2+mJ/uLC6tyFlhVjA==;K+YMEuv3V7AWZMGgjVPMBw=="
 ---

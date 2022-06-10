@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T12:31:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/06/g27645002/cloud-robotics-market-size-growth-drivers-2022-competitive-intelligence-and-2028-forecasts-in-new-"
 webUrl: "https://www.benzinga.com/pressreleases/22/06/g27645002/cloud-robotics-market-size-growth-drivers-2022-competitive-intelligence-and-2028-forecasts-in-new-"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Benzinga.com

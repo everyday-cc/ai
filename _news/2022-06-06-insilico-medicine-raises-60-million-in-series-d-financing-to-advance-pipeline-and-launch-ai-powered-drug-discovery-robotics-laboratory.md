@@ -81,6 +81,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 34
+  - title: "Insilico Medicine Utilizes Robots in Drug Discovery Programs"
+    excerpt: "Pharma.AI, is an end-to-end AI-driven drug discovery system created by Insilico Medicine. The system gains its strength from the quantity and quality of its data."
+    publishedDateTime: 2022-06-10T13:55:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13023"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 19
 
 secured: "VT0j6dbff+rjnarv7TLe3fhoMH3OLnYwIXo0E1N0csdWoHIbVNGMzjmn07s3HKAnLhUXmYcrrVaPxTyJlyn7XbetUQt/WI3wqdCB/8XppCzKDsluEfpkIGDXmDWmipABO0VZH5b14ZfuE7mFisv2IfeoTbqV+KFVd7Z/NYOyiwM9p4j954MMgAjUh11mVmfJkl5Rx9QkARc+jwBSWKwG2SMK0eKIqfZONb8DNLGcOoY1tZepnYG8/kdh4UCAxkKygKdTxWg2RFYiIjAmy1wPCaNRUg5sLArOH/nY3WZpdD2Ty37eOM9nMRb0bx89NYaJHyuIe8yDSGPUsXS04TLS7hQAfZAk40FS8g5jgHFtvxbYc0Rpr1wtqSmRgsTgPtWg3/KeCmHriWgbiXAS3dS08Uc/oVeihnicC/Po1pMPLr5J8mVtaHhlm4fz5gvew5otjs+/5ae+PAhjBs2iLpoDBRy52ypDvuZoOcUhukqvyLZNA04L3EDWtVGWQ3o+ojN1aHDxe6uNIWlCBb9j4ecLoQ==;mGT211xuCfMsZ0NExa3Jzg=="
 ---

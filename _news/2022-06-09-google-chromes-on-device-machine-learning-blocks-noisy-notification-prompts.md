@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/6/9/23161292/google-chrome-machine-l
 webUrl: "https://www.theverge.com/2022/6/9/23161292/google-chrome-machine-learning-notification-phishing-preferences"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Google Chrome gets on-device machine learning to block annoying web notifications, will soon get adaptive toolbar"
+    excerpt: "Google's machine learning advancements regularly get the spotlight in the company's keynotes. Now, it's using more of this tech in the Chrome browser to handle web"
+    publishedDateTime: 2022-06-10T12:36:00Z
+    webUrl: "https://www.techspot.com/news/94897-google-chrome-gets-device-machine-learning-block-annoying.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 28
 
 secured: "zcaWyMRfHDkq0WnZTlV23iCmT9U4bu5ogSX9THAR8zYFbkbAmehTwAMt87xZA0oYAaXMRGB8m5oGMiP/MkhPncgBS4apiPxioCmkaI077J16cOL5RNhh4eX90arAVh2tWWmf9f1BP4uu7PdK+35XIxOFRV48liOAvwWS5R6VTp0C1gU+icrBOmJB8Bmc1ZIpy5ywcDyi2tqyLUpAcoSNxRNr4qBziXie6+QaLyy4NkAcPnDMN0CgpMkNY8DaldmTZqroATooj5QKnHLV+bcUH5FtDXs859z8KjDcLkaTDS4Tb3hWHnk8Mq4yMccIGdTgxXXP/C6K8sFFgrV4uAiQ/SoTrh+SaJxGMH9YixgIPzaQiIbBWzxrWVVeC9j6r0n0mYInnONIB3f9hqJwLiKgLElQiKZEZARFu6tk9r9L5Oq3GypILo1ZLKZ1V2lQUITbD1YMtEN9ybonjCGIHe/MewVHCUakiicDSlhqKK6FcEdkTck5RF4zDpp9JmVosJACMCk9nvkeVVJo9BWG71BC4w==;oL59SaM1IWZ7ElEZtJG8+A=="
 ---

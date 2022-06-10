@@ -45,17 +45,12 @@ related:
   - title: "Baidu’s electric vehicle firm Jidu unveils first ‘robot’ car"
     excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto on Wednesday launched a \"robot\" concept car, the first vehicle to be revealed by a"
     publishedDateTime: 2022-06-08T11:54:00Z
-    webUrl: "https://kelo.com/2022/06/08/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/"
+    webUrl: "https://kdal610.com/2022/06/08/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/"
     type: article
     provider:
-      name: KELO
-      domain: kelo.com
-    quality: 56
-    images:
-      - url: "https://media.socastsrm.com/uploads/station/2223/fbShare.png?r=67740"
-        width: 600
-        height: 315
-        isCached: true
+      name: KDAL 610
+      domain: kdal610.com
+    quality: 36
 
 secured: "MsRZjtITgbN7r6y9j9PdxRwA8XHCrdeSH75U0WshcCqwx2ZDvWEmGTfvS9Tc1//FBhVsN9YsJXK/MKHwKFH5umI0dME6HfPPHUtl2ddOQc2RrQPNehYGMQ8y9icz1rZXAla6uiXRm4HV5FmKz2LTDq2lsGb5ILZ34PBO6r/TfGKtJ3zrpTQ2v7KZXBI/B7r1+4KaF5mamt8BfFWlfk7n7PRblLs4BtKJy3gBs1d7bT9lGhhGbxwvYBCbRtLZ8/Cba9hLf/y/UKPz81THfkBY7OdsVhIwbjLmp1h8JpTqREVswrCODDwmgTg2LSsByGmFQGZSv5Jv7NJlmkj2Mygxp31kIRyhSjZBSjdl5y8yrAw=;cHeGycF3bjGePTSrR6btLg=="
 ---

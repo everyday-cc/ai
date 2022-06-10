@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Index Exchange Acquires Machine Learning Company Rivr"
-excerpt: "Financial terms of the deal were not disclosed. “With the addition of Rivr, we are uniquely positioned to deliver advanced machine learning-enabled optimization to the industry to increase efficiency and drive even better results for our customers ..."
-publishedDateTime: 2022-06-08T13:45:00Z
-originalUrl: "https://financialpost.com/globe-newswire/index-exchange-acquires-machine-learning-company-rivr"
-webUrl: "https://financialpost.com/globe-newswire/index-exchange-acquires-machine-learning-company-rivr"
+excerpt: "Index Exchange, one of the world’s largest independent ad exchanges, today (8th June) announced its first-ever business acquisition of Rivr Technologies GmbH (Rivr), a Berlin-based company specialising in advanced machine learning-based traffic optimisation capabilities."
+publishedDateTime: 2022-06-08T15:34:00Z
+originalUrl: "https://www.exchangewire.com/blog/2022/06/08/index-exchange-acquires-machine-learning-company-rivr/"
+webUrl: "https://www.exchangewire.com/blog/2022/06/08/index-exchange-acquires-machine-learning-company-rivr/"
+ampWebUrl: "https://www.exchangewire.com/blog/2022/06/08/index-exchange-acquires-machine-learning-company-rivr/?amp"
+cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/06/08/index-exchange-acquires-machine-learning-company-rivr/?amp"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: exchangewire.com
+  domain: exchangewire.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "dC2uvJ8Ob29MPCGuyBJ239aT8cfHDQMF/FchHYRoKeiqWzsZfBBoQyJtiX9Tp0aLZuXfCXGOMrOI1blQWvg+wJLMnoe/jXN+OzOPw+RyPtHwZqS9a2DaNujPt4x1zDLEaEKqlcSD7HUZfAg9xBiAyJl8AbPAIzErUYTfwI+ATVU+wHHIPOXNb/OSd1PdjdzWXBzVhP+MXIaXTzsDBHRPKRqAIMbHYI3+mOhPZngVtMcem4J6DgYMMSIB5XKaOkv7cjAAugoEbaC3PKqfWYWWNHZ7vtK5iSB8fPZjMRv3qPvKKnWIDWGo+04cIV4vzuBXFvyezpQcG9H2W4JujAInRoAkHWCi9pB0pOukqsSRgQ0=;1kxYTiN9wjhCpBwnxzWPmA=="
+images:
+  - url: "https://www.exchangewire.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
+
+secured: "n0bZoq8M6TAmtC/MIPWg425oQkA/gr7T7VxoWYYsLLyG2W+eR/apFM+VcFNehdbG6rzeiX7AobaAU27eueXuDA/dwFzCMzSgqrU1P5cqQWrs6kzSjEO36xlt2LLU6KfNkfappENC5iZO7FwSwlzGMAORaYQ4OB58OzRmyk1XyS3nAQvZ3DSD32GL0Z6oPWrLX4/xFxCFsWVzPkJIf9DzH0a4fIuWDJYCvGFgV+XBuQU5br8QE7Unc47P0EN08zdNphu4QpzHm/yS8L5S/B5EFzQ0vmLVA3O/Rw1GEAf3HSx/HoapuskRlmGW3qKvk2YJiexKrc4v7vSntz4rBXO+c5jffErjv8beSCqatrbkjSE=;myqSzw27qmDvYgDxna/3TQ=="
 ---
 

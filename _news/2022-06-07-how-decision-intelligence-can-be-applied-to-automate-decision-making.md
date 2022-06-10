@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/06/how-decision-intelligence-can-be-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/how-decision-intelligence-can-be-applied-to-automate-decision-making/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The Potential of Integrating Intelligence and Intuition"
+    excerpt: "Cipher Brief Expert and former Deputy Director for Analysis Carmen Medina shares her thoughts on incorporating intuition into analysis."
+    publishedDateTime: 2022-06-10T13:46:00Z
+    webUrl: "https://www.thecipherbrief.com/the-potential-of-integrating-intelligence-and-intuition"
+    type: article
+    provider:
+      name: The Cipher Brief
+      domain: thecipherbrief.com
+    quality: 2
 
 secured: "cYpcQRFCQDvnsfVZPY1C4BuJHzKj+Unj19OV1xvmBKVoAnQwdylk++0H5zG9xrBs2GbjCHtXjvFqwAUN7/Nv+cs22EMKksFp0Dogqtbf34fJQKqduSpvra4kkSHMxpHe8Dd4O2gUNo0RoHR09DuJBouTkqb7fYQMs4apoy0rdGkzfqhDnnR+tn2P+WXrCXhaCIxGwqomsLth/OHhEqCPtub4selC1dIMtbqlJ3z9HiWTLQnm+AvEHjgig+qJQp8+AYPJDawOzm47tJhRiyxjdpFGcZq9pcoa3i1uzN3SUnFfdIlC7uvBN/MuuyEIlK+05+LeDT17UzKliVbYsYvapno4Tq5rR5UuSIomi5OVTK4=;fUa5hjDw8pEUqwS6DNfIwQ=="
 ---

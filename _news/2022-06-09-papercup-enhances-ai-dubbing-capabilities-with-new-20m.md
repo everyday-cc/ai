@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capabil
 ampWebUrl: "https://venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capabilities-with-new-20m/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/papercup-enhances-ai-dubbing-capabilities-with-new-20m/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1344617573.jpg?w=1200&strip=all"
@@ -47,22 +48,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "AI Dubbing Start-Up Papercup Raises $20M From Sky, Others"
-    excerpt: "The capital injection will allow the British firm to invest in bringing \"more human-like voices\" and \"human emotion\" to artificial intelligence dubbing."
-    publishedDateTime: 2022-06-09T16:00:00Z
-    webUrl: "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/"
-    ampWebUrl: "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/"
-    cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/amp/"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 57
-    images:
-      - url: "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/Jesse-e1654764987385.jpg?w=1024"
-        width: 1024
-        height: 875
-        isCached: true
   - title: "With new hires, Pentagon’s AI Office reaches full operating capability"
     excerpt: "Stood up earlier this year, the Defense Department’s Office of the Chief Digital and Artificial Intelligence Officer, or CDAO, reached full operating capability Wednesday with the appointment of two new personnel."
     publishedDateTime: 2022-06-07T06:00:00Z
@@ -77,6 +62,15 @@ related:
         width: 860
         height: 394
         isCached: true
+  - title: "AI Dubbing Start-Up Papercup Raises $20M From Sky, Others"
+    excerpt: "The capital injection will allow the British firm to invest in bringing \"more human-like voices\" and \"human emotion\" to artificial intelligence dubbing."
+    publishedDateTime: 2022-06-09T16:00:00Z
+    webUrl: "https://www.hollywoodreporter.com/business/business-news/ai-dubbing-papercup-funding-1235161871/?ref=upstract.com&curator=upstract.com"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 17
 
 secured: "7WfFs2kK0sRWuV6/3mJx+ZfWdinwtyI5ymtbBkK5Fka6yUN2PMleJkRM0qye397MSe7WSQlfQYtRIq8f78W9536TdWYmTvKjV6fiwqflOoMR9msBjQC8YITKTy4QIs9L3klq56eOdrzDOMnTxPo7lWVPc4+cP2I/ITZuPVpP8AniTyUmgi5eZQUSbOjrA0RFe/Ts1qKgGZOzmM6rICSab315o0azwd3FjA4qnvc5W7a5HeH9IbihHq9qwXVlGafy7F3re42H5UqpVQo1Y15V9CUm3Q28FNDeQLEBFX6uKkeATaqqdbjogIN/R4xjpf/hdFMIMFgPaKErog0aHUdVedZPYB5/zSAymKZVc0WyiBHQ3BKxeE4PgTexUoXt25dsvklUVmYNnLQKkON+BBsqP0GZ8+TUYxE8Kg0nsw1LEeFiCz2LEL/zyIQH/7BRfShYgRz8vtOw6OSmJZv/Upis42qInad9TGS3GoCnoPthlMRzd2AJcUQtnyvcpCrq5GRYjklShkhAYlqmqykg8d+JZA==;im1h+sgmYRgNTwdFKVxzIA=="
 ---

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots"
-excerpt: "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,"
-publishedDateTime: 2022-06-06T13:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-detroit-robotics-ccadf1a6df4b42ba97efc4154ee14a6c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-detroit-robotics-ccadf1a6df4b42ba97efc4154ee14a6c"
+excerpt: "RapidPlan helps manufacturers have peace of mind in a high ... was one of the first robot companies to see the potential of combining an advanced Real Time Control API like KRNX with our RapidPlan ..."
+publishedDateTime: 2022-06-06T13:46:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots"
+webUrl: "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "cUZa60u/++BybssFvW2KuVFAfQxYTy9fra3jN3NIjf4ewGKC7kTMX7h/RAasKcZmP5X0RRJDQ5DMOHLHjsfPQWvuHif0Ae/njGoziSxDLuDWvJZyP6V+0USRuX88Kqh0lz1d34vnOUS0Ey9LxjU31KT8QL/gQ1ObnemQ8CCvGEcNmvwSMJfVedoybMdX7cdlGM/yf3U2mRxnLiiVg/OU4npnZICppsFJhjucAkVFh/kJrcgcz7G3xJMcnKXHDvQTRa2WNtx4+/bGDo5Fl/82ByqKLRjJUsxcoGFjlPl7FpEy3MyIlTGP3ka2iMO1lhMHAnFLJazq8Bla53RXxjdkhTT5dJOZtkTh7r44VLQVAsM=;IdVVmWVlVCK8g20m42mwmQ=="
+secured: "7iniEdH1OXuINZCAzVXO89TqG4gUp5s/6Igb4nUv9LBNvkujndfkGvHOOy3BubmCwtzkIbkLUFWLjwP/7YoUU5bJCJ3pkYLSJ/iHJIPa0gMN03HtUBka8WolzPYy6TrkIrYtgnYtAzeEKIMZH+3/zRMbi4E08UPxLTGEqDSkwEhxWmVlzkJdsSEhwuWAW6MnVfP5pzl3Jxj8sjib0QfKaN4x+XA2Nk83AKONALD0sXqnQoMNmFPu/EQOWUZwM7L9zPrHnSqtkiigvMDNfbXwtH96dY4CuD/ObFJXrw9TlgsEH3OOElrcvdpaBhlL2S/+57BPZHcViX3P8aqG8bYGCa3S/7NCLDMIONX6FBrxsPE=;vNJmApgl5FPxIYLVtvXtdw=="
 ---
 

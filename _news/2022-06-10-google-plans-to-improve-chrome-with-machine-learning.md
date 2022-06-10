@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T13:52:00Z
 originalUrl: "https://www.thurrott.com/cloud/268374/google-chrome-machine-learning-updates"
 webUrl: "https://www.thurrott.com/cloud/268374/google-chrome-machine-learning-updates"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Thurrott

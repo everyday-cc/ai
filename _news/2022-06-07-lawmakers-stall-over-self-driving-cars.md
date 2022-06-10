@@ -91,6 +91,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up"
+    excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks."
+    publishedDateTime: 2022-06-07T20:32:00Z
+    webUrl: "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 45
   - title: "From enemies to partners: Uber, Waymo fought in court over self-driving trucks. Now they’re teaming up"
     excerpt: "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. Here are the details."
     publishedDateTime: 2022-06-08T11:52:00Z
@@ -108,8 +117,8 @@ related:
         height: 900
         isCached: true
   - title: "Alphabet's Waymo, Uber Freight In Deal For Future Self-driving Trucks"
-    excerpt: "Uber at the end of 2020 sold its own self-driving unit to Waymo-competitor Aurora and holds a nearly 43% stake in the company. Aurora in December said it partnered with Uber Freight."
-    publishedDateTime: 2022-06-07T15:36:00Z
+    excerpt: "Waymo Via, the self-driving trucking unit of Alphabet Inc, and Uber Technology Inc's Freight business on Tuesday said they signed a long-term strategic partnership that would allow future customers to deploy autonomous trucks more efficiently."
+    publishedDateTime: 2022-06-07T15:40:00Z
     webUrl: "https://www.ibtimes.com/alphabets-waymo-uber-freight-deal-future-self-driving-trucks-3532394"
     type: article
     provider:
@@ -120,20 +129,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/02/16/the-waymo-logo-is-displayed-during-the-companys.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Uber and Waymo fought in court over self-driving trucks. Now they’re teaming up"
-    excerpt: "By Matt McFarland, CNN Business Uber and Alphabet’s Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks. The companies announced Tuesday a “long-term strategic partnership” to deploy Waymo’s self-driving trucks on Uber Freight,"
-    publishedDateTime: 2022-06-07T20:32:00Z
-    webUrl: "https://kvia.com/news/2022/06/07/uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 35
-    images:
-      - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Waymo Will Begin Putting Self-Driving Tractor-Trailers Into Uber Freight's Network"
     excerpt: "Thanks to this new collaboration, Uber and Waymo claim to be ‘empowering’ the troubled logistics sector by giving operators more options for how to get their freight delivered. The partnership will begin with autonomous trucks already in Waymo’s test fleet."

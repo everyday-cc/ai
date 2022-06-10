@@ -7,7 +7,7 @@ originalUrl: "https://www.bighospitality.co.uk/Article/2022/06/10/machine-learni
 webUrl: "https://www.bighospitality.co.uk/Article/2022/06/10/machine-learning-bella-italia-trials-use-of-robot-waiters"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

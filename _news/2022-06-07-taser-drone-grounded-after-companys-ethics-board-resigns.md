@@ -101,20 +101,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Taser maker halts drone project; most of its ethics panel resigns"
-    excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
-    publishedDateTime: 2022-06-06T22:57:00Z
-    webUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/0BNS6N-mG3uSH0JDp4dlNoBKSXE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BTQXZ7O7GFIHNPLLWC75HAR5ZQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Axon drops Taser drone idea after 9 on ethics board resign"
     excerpt: "CEO Rick Smith wanted to develop a drone-powered Taser after being \"catastrophically disappointed\" by police actions in Uvalde."
     publishedDateTime: 2022-06-06T15:10:00Z
@@ -296,6 +282,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
+  - title: "Taser maker halts drone project; most of its ethics panel resigns"
+    excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
+    publishedDateTime: 2022-06-06T17:57:00Z
+    webUrl: "https://www.reuters.com/world/us/exclusive-axon-halts-taser-drone-work-some-ethics-panel-said-resign-2022-06-06/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
   - title: "'We wish it had not come to this:' Axon ethics board members resign over Taser drone project"
     excerpt: "Some board members had voiced concerns about introducing weaponizing drones in over-policed communities of color."
     publishedDateTime: 2022-06-06T15:38:00Z
@@ -436,6 +431,15 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
+    quality: 19
+  - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
+    excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
+    publishedDateTime: 2022-06-10T12:25:00Z
+    webUrl: "https://www.miamiherald.com/news/business/article262197492.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 19
   - title: "Axon abruptly halts plans to weaponize drones after ethics board resignations"
     excerpt: "Just days after CEO Rick Smith had said Scottsdale-based Axon Enterprise Inc. would ramp up a program that would weaponize drones armed with its nonlethal Taser products, the company has abruptly dropped those plans after members of Axon's artificial intelligence ethics board resigned in protest."

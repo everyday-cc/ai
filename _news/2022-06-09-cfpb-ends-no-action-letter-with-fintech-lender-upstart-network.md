@@ -68,6 +68,22 @@ related:
         width: 2560
         height: 1378
         isCached: true
+  - title: "HSBC Is Offering Oxford Fintech Program to Staff"
+    excerpt: "HSBC is offering the Oxford Fintech Program to staff, \"in first partnership of its kind between the University and the banking sector.\""
+    publishedDateTime: 2022-06-10T14:45:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/06/192136-hsbc-is-offering-oxford-fintech-program-to-staff/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192136-hsbc-is-offering-oxford-fintech-program-to-staff/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192136-hsbc-is-offering-oxford-fintech-program-to-staff/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/HSBC-UK-bank.jpg"
+        width: 1280
+        height: 1112
+        isCached: true
   - title: "HSBC to run fintech education course for employees"
     excerpt: "... 101 is based on the Oxford Fintech Programme. Selected content has been drawn from online programmes, to include up-to-date, and relevant examples, specifically on digital disruption and platforms, as well as AI and open banking. Rita Martins, head of ..."
     publishedDateTime: 2022-06-09T23:02:00Z

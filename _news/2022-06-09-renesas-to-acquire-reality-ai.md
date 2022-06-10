@@ -38,6 +38,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Renesas to acquire Reality AI"
+    excerpt: "Renesas Electronics Corp., global supplier of advanced semiconductor solutions, announced it has entered into a definitive agreement with Reality Analytics Inc. (Reality AI), a leading provider of embedded AI solutions."
+    publishedDateTime: 2022-06-10T13:45:00Z
+    webUrl: "https://www.ept.ca/2022/06/renesas-to-acquire-reality-ai/"
+    type: article
+    provider:
+      name: EPT
+      domain: www.ept.ca
+    quality: 17
 
 secured: "IjfcrivepKKkwTVAsrPIBtaP3sjfijnaAuNyR7MXWM+lolBwnqGAwXlUiwa5w/8aNx6lQlKRWNfZKZ4bxmE7cTO1Rc33KCKHCtw4r4hanfFyUvPNZ/WAubfNZ8m/kreN4U3OFqQJYG3yTEuAK+5MS3Pu3ZzqMnZNNkRtp8PdxaG5cFLmdzROpy6Tmuw8OXy8O90WQSi5s2ycIAO82Q28UR5nF4oLzcg9BAh8ADbSYo2gZBO+K6oCrR4ffQw1hHPSzeEAVf44BKu53ZWmEMKNaawwgJ6uP17KJzGNA1B2lwr3gKwkA2NZP6K5DEVO0cdbv42lFSIgdnR/OrufFCVvoUJ35MSSSTH8+5G6bOG/qDQ=;+PFoK2X1nLjgNAd58Fg/Ag=="
 ---

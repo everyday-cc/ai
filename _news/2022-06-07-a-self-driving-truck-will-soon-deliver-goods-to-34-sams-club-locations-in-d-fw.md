@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving trucks to cut retailer costs up to 30%, Gatik CEO says"
+    excerpt: "This week autonomous trucking and “middle mile” logistics company Gatik announced a multi-year deal with paper-based products company Georgia-Pacific, to use its driverless trucks to deliver items like bath tissue and paper cups to 34 Sam’s Club locations in the Dallas - Fort Worth area."
+    publishedDateTime: 2022-06-08T20:16:00Z
+    webUrl: "https://www.aol.com/finance/self-driving-trucks-cut-retailer-201643571.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
   - title: "Self-Driving Truck Startup Gatik Will Deliver Goods Autonomously to 34 DFW Sam’s Clubs"
     excerpt: "Until now, most autonomous delivery pilots have involved 18-wheelers driving on highways between cities. Gatik says its new partnership announced today is \"the first time that class 6 autonomous box trucks have been deployed\" to disrupt short-haul logistics networks."
     publishedDateTime: 2022-06-07T19:36:00Z

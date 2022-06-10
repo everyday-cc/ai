@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 850
         isCached: true
+  - title: "The future of AI is a software story, says Graphcore's CEO"
+    excerpt: "Though known for massive computer hardware, AI computer maker Graphcore has sites set on the battle with Nvidia for software ecosystems, says CEO Nigel Toon."
+    publishedDateTime: 2022-06-10T13:42:00Z
+    webUrl: "https://www.zdnet.com/article/the-future-of-ai-is-a-software-story-says-graphcores-ceo/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Elon Musk is painting an unrealistic picture of AI"
     excerpt: "The truth is there is a missing link between today’s AI, which is primarily pattern recognition, and the kind of Star Trek computer-level AI that Musk is dreaming about"
     publishedDateTime: 2022-06-06T14:46:00Z
@@ -72,6 +86,36 @@ related:
         width: 1024
         height: 585
         isCached: true
+  - title: "This consulting startup is helping businesses discover the limitless possibilities of AI"
+    excerpt: "Also, the overall environment of AI and related work with Data, that is transforming every sphere of our life and especially in the enterprise computing space, makes Navikenz an exciting startup ..."
+    publishedDateTime: 2022-06-07T06:45:00Z
+    webUrl: "https://yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
+    ampWebUrl: "https://yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 48
+    images:
+      - url: "https://images.yourstory.com/cs/2/0911f29093a911ec98ee9fbd8fa414a8/ImageTaggingPooja54-1654576550594.jpg "
+        width: 1600
+        height: 800
+        isCached: true
+  - title: "Artificial intelligence to shape future of fishing with targeted catches"
+    excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."
+    publishedDateTime: 2022-06-08T06:00:00Z
+    webUrl: "https://www.stuff.co.nz/business/industries/128892148/artificial-intelligence-to-shape-future-of-fishing-with-targeted-catches"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 38
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/r/3/image.related.StuffLandscapeSixteenByNine.1420x800.24qltg.png/1654646123843.jpg"
+        width: 1420
+        height: 797
+        isCached: true
   - title: "How HR can mitigate the risks and reap the rewards of AI at work"
     excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."
     publishedDateTime: 2022-06-10T08:31:00Z
@@ -85,20 +129,6 @@ related:
       - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2022/06/shutterstock_519499720.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Artificial intelligence to shape future of fishing with targeted catches"
-    excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."
-    publishedDateTime: 2022-06-08T06:00:00Z
-    webUrl: "https://www.stuff.co.nz/business/industries/128892148/artificial-intelligence-to-shape-future-of-fishing-with-targeted-catches"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 36
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/r/3/image.related.StuffLandscapeSixteenByNine.1420x800.24qltg.png/1654646123843.jpg"
-        width: 1420
-        height: 797
         isCached: true
 
 secured: "Vx+3Np9xhqQiOtoXOzHdNbwNXHXhq9vzLOoa6SPZg6nArHouWS6jbbFB5xGRD0okbLBAQ9c8TYQHCJgmO7WJjZ9n+SBEkUBuFt5s8+o05cxXgytnpXZKPmbrBuWkmlGxgrlYbLCrc8APtNODKHK0DYAgzC6ka4BdZZ+ONArfSXQvI0kXx4GQhj1vM3FpJfiJnDDmGTSEqe4a6txxV3HnrUxn3B9QcpAJ2H+lvAcWyve4UgWFGhmpmg2Yu8rd0ZuD/rWJtiH2iu1+q0YtEUkjP0ZFryRWALR1qYTFbZIR5h1zt8Tbqb+mPCYcVGX7SO8rt0Gy+zvCoZjtN24tfa3h+8wZ26lqhTp2yPK9akdT+GE=;QNN9i9GfjmSqncyO/vEVbQ=="

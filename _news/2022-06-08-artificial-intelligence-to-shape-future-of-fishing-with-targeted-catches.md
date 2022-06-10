@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-08T06:00:00Z
 originalUrl: "https://www.stuff.co.nz/business/industries/128892148/artificial-intelligence-to-shape-future-of-fishing-with-targeted-catches"
 webUrl: "https://www.stuff.co.nz/business/industries/128892148/artificial-intelligence-to-shape-future-of-fishing-with-targeted-catches"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/r/3/image.related.StuffLandscapeSixteenByNine.1420x800.24qltg.png/1654646123843.jpg"
@@ -39,6 +40,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design6.jpg?w=1200&strip=all"
         width: 1200
         height: 850
+        isCached: true
+  - title: "The future of AI is a software story, says Graphcore's CEO"
+    excerpt: "Though known for massive computer hardware, AI computer maker Graphcore has sites set on the battle with Nvidia for software ecosystems, says CEO Nigel Toon."
+    publishedDateTime: 2022-06-10T13:42:00Z
+    webUrl: "https://www.zdnet.com/article/the-future-of-ai-is-a-software-story-says-graphcores-ceo/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/37be8eb8e04d92576f753d5e127906adda74871c/2022/06/10/2c343fa7-2ecc-4bfa-a865-cb08a6bb5543/dp3q2814-cropped.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Elon Musk is painting an unrealistic picture of AI"
     excerpt: "The truth is there is a missing link between today’s AI, which is primarily pattern recognition, and the kind of Star Trek computer-level AI that Musk is dreaming about"
@@ -71,6 +86,22 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/06/Reskilling-the-Workforce-to-Better-Reap-the-Benefits-of-AI-1024x585.png"
         width: 1024
         height: 585
+        isCached: true
+  - title: "This consulting startup is helping businesses discover the limitless possibilities of AI"
+    excerpt: "Also, the overall environment of AI and related work with Data, that is transforming every sphere of our life and especially in the enterprise computing space, makes Navikenz an exciting startup ..."
+    publishedDateTime: 2022-06-07T06:45:00Z
+    webUrl: "https://yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
+    ampWebUrl: "https://yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/06/consulting-startup-helping-businesses-discover-possibilities-artificial-intelligence-navikenz/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 48
+    images:
+      - url: "https://images.yourstory.com/cs/2/0911f29093a911ec98ee9fbd8fa414a8/ImageTaggingPooja54-1654576550594.jpg "
+        width: 1600
+        height: 800
         isCached: true
   - title: "The state of AI in drug discovery"
     excerpt: "The MedCity INVEST PhrmaTech virtual conference, scheduled for Tuesday, July 26, offers free registration and a compelling day of conversations exploring the convergence of the health tech and biopharma sectors."

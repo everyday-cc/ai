@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/10/artificial-intelligence-in-hiring-a-tool-for-recruiters/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/10/artificial-intelligence-in-hiring-a-tool-for-recruiters/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Artificial Intelligence and Security: What You Should Know"
+    excerpt: "Next-generation AI products learn proactively and identify changes in the networks, users, and databases using \"data drift\" to adapt to specific threats as they evolve."
+    publishedDateTime: 2022-06-10T14:00:00Z
+    webUrl: "https://www.darkreading.com/attacks-breaches/artificial-intelligence-and-security-what-you-should-know"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 56
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0982811cc6db7deb/6217f065f3bcce42fe002a0c/AI_Kiyoshi_Takahase_Segundo_Alamy.jpg"
+        width: 1000
+        height: 597
+        isCached: true
   - title: "AI for Cyber Threat Intelligence – Challenges and Mitigation Approaches"
     excerpt: "By Uday Kiran Pulleti, Senior Director - AI, Cyble The internet as we know it is a dynamic, constantly growing entity. In 2021, Eric Schmidt, CEO of Google, estimated that \"the internet\" is 5 Million"
     publishedDateTime: 2022-06-06T22:10:00Z

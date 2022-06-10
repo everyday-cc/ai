@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-spera-s-crimina
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-spera-s-criminal-ip-makes-a-debut-at-rsa-conference-2022-1031517024"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 400
         height: 291
         isCached: true
+  - title: "Adversa AI Named Winner for Next Gen Adversarial ML Threat Mitigation Award During RSA Conference 2022"
+    excerpt: "Adversa AI is proud to announce that they have won the Next Gen Adversarial ML Threat Mitigation Award from Cyber Defense Magazine (CDM),"
+    publishedDateTime: 2022-06-10T12:34:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/adversa-ai-named-winner-for-next-gen-adversarial-ml-threat-mitigation-award-during-rsa-conference/article_db36ee3e-a032-5b8c-a5c3-6fce180121bb.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 18
 
 secured: "Eng3h0vtR60NwuVbskHrnwbbc6tBBtROyYSx6B8ruzuP+fuG5Uw7RAahvKlHuf0k5kCJhowuojNyiKMOJMBGxBmluCxo0IjaINjXZMFJtVqKoSTU1lHrbA1eg/YaIFAoh0BS4VTD/IzGXW6JQWBK4/Fycb3Q3s+4CriBJ79sL3HGJRqRTJJGtT2FTsZdpz4DbQo0aTCopTJ7iepVlxORvK+UGtD/+/FMd+P9EmtiNzt7u0ThcCUbI08TIqT6X6XcMYx4zFznAcxTBjy8OjRQFwhTkiNB98tgSHNU77Qn9xXNIGE0igeo1tlzSZR81FhqqcU1JMK1hd8bAECM7iw2LWe6Tt2Udclhmld6j/T2EPh7A/Zb6sEdi1dFEW9a+qcZpTXzYEPBEa8O3dT2UNty26dgCLRmTOg9Y/3qUP2XwZhADBhSghsBHhWX6PopAzXzAm+Th6u539S5doVbXmFUG/4LZ9jwBGv8sEcB6VY1RHdlXPclbKUrgm5iwHzdoTeTlVT6JzSSU+9NtfJ+2H0igg==;+JC01Jqi89u0zSglOTewwQ=="
 ---

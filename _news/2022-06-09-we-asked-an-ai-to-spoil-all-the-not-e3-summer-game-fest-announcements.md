@@ -23,6 +23,17 @@ images:
     height: 562
     isCached: true
 
+related:
+  - title: "We ran our wishlist through an AI to see what this week’s game announcements could look like"
+    excerpt: "As we’re in for a week of big game reveals, we thought it would be clever to use AI to imagine what some of the big announcements might look like. Spoiler alert: they look weird. But who wants to wait an entire week to see all the reveals? We ran our ..."
+    publishedDateTime: 2022-06-10T13:41:00Z
+    webUrl: "https://www.news.com.au/technology/gaming/we-ran-our-wishlist-through-an-ai-to-see-what-this-weeks-game-announcements-could-look-like/news-story/a894d75a2c178c5078a645d523c1fd61"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 6
+
 secured: "7KOiImVy9MFmHgHwaLi+xtrkVQ9xurT+mEUQsiKUpvwDaCnlXfJ/yJwcL7tW3Q5s7Og2LeBmUEz6yHr5PVRSX6WwdYtDICDegYMhviJ1S4bMEbDuvWL0/02jXq+KrUVGgeNFpzzkEnX8fxHZMGathgcBRYIXeGQA1+SdU/FPkF91QeNaUKxre4ALdShoF007c9D1IQNPxirMAkwnATPzg+bbT+FrhtJzVk5QDqlQB3kZQZSLcITyoJowH4iOJadqVMR7Wza4hm0iY0mTW5H3GTAGIMLXwQDjMIcFwdlA/kPNWJaIwKuPEURCAbcNxeE9QpV7yHOFimF3hfKFa4ZDCG4zd9FiEbcyNoGvuHHPJlP+WtdjCb3+qIUgYbmN+csXUIg6XcNT9Cqk0zmb9fr0eoghPIIpXTcfftDe2JGvXPZ9qKokrt5+hxIC7lHtbhsz82XMpqMiWa+GLFSi70dXJ4BY6CJZY09rpA+EBknvR6sqYXRG4EGeTN9GV2IAEqzeyJATnFazStqAyjidBLszTg==;sK1BZEITBrtmwF3jrCcr0A=="
 ---
 

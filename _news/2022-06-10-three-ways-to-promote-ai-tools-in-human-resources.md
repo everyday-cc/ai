@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T13:49:00Z
 originalUrl: "https://www.argaam.com/en/article/articledetail/id/1566774"
 webUrl: "https://www.argaam.com/en/article/articledetail/id/1566774"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: اخبار 24

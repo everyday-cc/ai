@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-08T03:00:00Z
 originalUrl: "https://www.asiaone.com/business/singapore-develops-asia-s-first-ai-based-mobile-app-shark-and-ray-fin-identification"
 webUrl: "https://www.asiaone.com/business/singapore-develops-asia-s-first-ai-based-mobile-app-shark-and-ray-fin-identification"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Asia One

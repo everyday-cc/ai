@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-07T16:40:00Z
 originalUrl: "https://www.economist.com/foundational-AI-pod"
 webUrl: "https://www.economist.com/foundational-AI-pod"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220611_PDP506.jpg"

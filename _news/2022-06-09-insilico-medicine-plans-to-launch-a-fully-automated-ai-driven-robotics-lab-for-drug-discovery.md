@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-pla
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx"
 type: article
 quality: 78
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 34
+  - title: "Insilico Medicine Utilizes Robots in Drug Discovery Programs"
+    excerpt: "Pharma.AI, is an end-to-end AI-driven drug discovery system created by Insilico Medicine. The system gains its strength from the quantity and quality of its data."
+    publishedDateTime: 2022-06-10T13:55:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13023"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 19
   - title: "Insilico Medicine Raises $60 Million in Series D Financing to Advance Pipeline and Launch AI-powered Drug Discovery Robotics Laboratory"
     excerpt: "BEIJING, CHINA - Media OutReach - 6 June 2022 - Insilico Medicine, a clinical-stage end-to-end artificial intelligence (AI)-driven drug discovery company, announced today that"
     publishedDateTime: 2022-06-06T13:50:00Z

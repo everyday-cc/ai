@@ -22,22 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Autonomous Mayflower reaches American shores -- in Canada"
-    excerpt: "Piloted by artificial intelligence technology, the 50-foot (15-meter) Mayflower Autonomous Ship didn't have a captain, navigator or any humans on board — though it might have helped to have a ..."
-    publishedDateTime: 2022-06-05T19:06:00Z
-    webUrl: "https://dothaneagle.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_93b2de96-05ba-5071-bdeb-0fc47be9d8c7.html"
-    type: article
-    provider:
-      name: Dothan Eagle
-      domain: dothaneagle.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/dothaneagle.com/content/tncms/assets/v3/editorial/7/5c/75c77b0f-e636-539b-8932-25f0e6500720/629cfd36317f4.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "ceZT81puKXo9On0e+KGooy9kltZaXU+B9HBJ7pfb3kBxSyDnu5stxMMk6g/6Gbjf0du1g4Tj5jgsFCX2zc/iVfGfrv+gns2UYcJBa+LxGJjSZlDgyOmRFGnPDBPRJHMI+++AVD4SU9npmo6FuCeAj7UpO2vlmctFYEBy5clcaJJNy7VuDL5KWqEbAg57UyTI8FcqEUfEJi8V0+jf6hp4rebFvZkI0iOQXodKF4kB8u+nw0LonI5cAdkQf6q197bswAimgjzncGP6KYStbHf1e2UahfAaeqEs1+6LgM2lzPdcZ6WOlQYFvzvFDSBht0IrdszIt0wWg1ca2pHGjsayX1NbAQv6oAZWnH4awHz7ctdTV9TdHYGBVXrbzaYDDV/fdSTFZxGtfwDN5XkzUdmSENHiUYhePetrAowkggz93boDgn+y2NDBl5nRlHl9cRnER/iHyaOEnt65/VPSJxT4B4743CvjCPee65SY5aUO292fuqpuTSfRaBxWktL7SZlpT9mcS7KlcOC3CjaiF5iKkA==;TQgaMi+N2xvsDPPbxrPkzw=="
 ---
 

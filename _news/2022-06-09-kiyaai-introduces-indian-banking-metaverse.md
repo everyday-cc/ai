@@ -8,9 +8,9 @@ webUrl: "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indi
 ampWebUrl: "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: Crowdfund Insider

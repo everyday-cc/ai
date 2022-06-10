@@ -71,6 +71,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The Potential of Integrating Intelligence and Intuition"
+    excerpt: "Cipher Brief Expert and former Deputy Director for Analysis Carmen Medina shares her thoughts on incorporating intuition into analysis."
+    publishedDateTime: 2022-06-10T13:46:00Z
+    webUrl: "https://www.thecipherbrief.com/the-potential-of-integrating-intelligence-and-intuition"
+    type: article
+    provider:
+      name: The Cipher Brief
+      domain: thecipherbrief.com
+    quality: 2
 
 secured: "5r2H8OqaQ4v+tYRvW45dlUsLHFi4B/5RsNoaxAXaM0lPJyYX4frdhbpw4Nkgt4DlfXP3iBdMP8SWQnyikPX7jGozstPmrbI4sI7kJY4gOsAHloa5DBWOe/tobmQhB7IxPbgL9ckbac42/doWjUZKUkFU+IeqK3NSPmcomL7yDMr6bzsxH0C7k8HRAiamzoqYrUgqwpDBU2iXEK6R5ENAZy0aKc72vuPCvciILUu7PM9nFehnpqnf+LxJjuGZNVoB6z2xm/eTZzwLeIcAL9NqkPkiKUksemvzu07nq1pWadmvxOJCcOOc7iKkGjUCjIE/0yFAnDRsVQXYVyoLmI9vUQ8o6qLnZwIIV9yGApf4KPA=;QDXxOu0ldkABjfOkVfnMzg=="
 ---

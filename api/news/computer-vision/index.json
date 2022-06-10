@@ -881,6 +881,40 @@
       ]
     },
     {
+      "path": "_news/2022-05-27-ids-imaging-development-systems-gmbh-unveils-block-based-editor-to-enable-users-to-create-vision-apps-without-programming-knowledge.md",
+      "title": "IDS Imaging Development Systems GmbH unveils Block-based Editor to enable users to create Vision Apps without programming knowledge",
+      "excerpt": "With the Block-based Editor, which is also new, users can configure their own programme sequences with AI image processing functions, such as object recognition or classification, without any programming knowledge. Users create simple sequences in a few ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/ids-imaging-development-systems-gmbh-block-based-editor-users-vision-apps-programming-knowledge-co-12175-ga-npr.1653641379.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/ids-imaging-development-systems-gmbh-block-based-editor-users-vision-apps-programming-knowledge-co-12175-ga-npr.1653641379.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models.md",
       "title": "Allen Institute launches new benchmark for general-purpose computer vision models",
       "excerpt": "The Allen Institute for AI, also known as AI2, recently worked jointly with the University of Illinois at Urbana-Champaign to develop a new, unifying benchmark called GRIT (General Robust Image Task) for general purpose computer vision models.",
@@ -1272,49 +1306,6 @@
       "provider": {
         "name": "Local Government Lawyer",
         "domain": "localgovernmentlawyer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-recognition-of-fear-anger-impaired-in-psychosis-patients.md",
-      "title": "Recognition of fear, anger impaired in psychosis patients",
-      "excerpt": "Facial anger recognition was significantly associated with the schizophrenia polygenic risk score in a pooled analysis and controlling for confounders. \"Our results indicate a predominantly ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-05-recognition-anger-impaired-psychosis-patients.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-05-recognition-anger-impaired-psychosis-patients.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/recognition-of-fear-an.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-05-recognition-anger-impaired-psychosis-patients.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-recognition-anger-impaired-psychosis-patients.amp",
-      "publishedDateTime": "2022-05-25T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -69,6 +69,22 @@ related:
         width: 2560
         height: 1378
         isCached: true
+  - title: "HSBC Is Offering Oxford Fintech Program to Staff"
+    excerpt: "HSBC is offering the Oxford Fintech Program to staff, \"in first partnership of its kind between the University and the banking sector.\""
+    publishedDateTime: 2022-06-10T14:45:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/06/192136-hsbc-is-offering-oxford-fintech-program-to-staff/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/06/192136-hsbc-is-offering-oxford-fintech-program-to-staff/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/192136-hsbc-is-offering-oxford-fintech-program-to-staff/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/HSBC-UK-bank.jpg"
+        width: 1280
+        height: 1112
+        isCached: true
   - title: "CFPB ends no-action letter with fintech lender Upstart Network"
     excerpt: "The Consumer Financial Protection Bureau ended the first “no action letter” agreement with a fintech that had provided immunity from regulatory actions."
     publishedDateTime: 2022-06-08T20:37:00Z

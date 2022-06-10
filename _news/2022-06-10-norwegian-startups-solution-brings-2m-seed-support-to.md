@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T13:47:00Z
 originalUrl: "https://arcticstartup.com/findable-raises-e2m-seed/"
 webUrl: "https://arcticstartup.com/findable-raises-e2m-seed/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: ArcticStartup

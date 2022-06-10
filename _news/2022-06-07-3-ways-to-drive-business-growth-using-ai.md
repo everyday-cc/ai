@@ -63,6 +63,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Global Edge AI Hardware Market Report (2022 to 2027) - Featuring Baidu, Continental and Intel Among Others - ResearchAndMarkets.com"
+    excerpt: "Market dynamics are forces that impact the prices and behaviors of the Global Edge AI Hardware Market stakeholders. These forces create pricing signals which result from the chang"
+    publishedDateTime: 2022-06-10T11:56:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_45f7e931-7dd1-5203-9385-de95cab32916.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 0
 
 secured: "GGyyHGk3uSuDXsm70sdJKbjK5UM1ZXMPYK9uSXfAwR9Q5ZPUJL28Eo7oKtNh+3uueLt9WDeQSgtWzShKlH+n0es5+TWkPuyUHn+aPQR3qbrEI7d5cxu8zONaSEfJ6X+ELUAZz7e39a+ISMMw4B8InJzrD6oFPICuETgQrur8eWQDRBwGQMhgoCxwCSom4qeC2/tHX4rgnFtMBqyhYM7q3Wv1UAr5P4Wl+PT1gnpSVTC1oYsgmYs3xsB4g/0x67UNwyJldR4pl4JRnGBbs9lqvhmMi7+V9RvSiuJQLqFAEui7JGc4FpBBiAiODYPvHb6HhZkH2bXFbjUjJBPK48cQ3H/vooDfaDeCJsT+Rdh79kd/2QdVUifk8rMjeFo5qlmKkrHH5dB/SkQW70YHvYzVh6uyLAtuQ/ZH9V8TO28HmBZrzbsgsB9ZFWybjPlcnI3tagjRolG12J5lON5eoFgZmnwzSFZoYtZZlac8AJzuJcTgpIWfDrPNoL0uG0NpwVoJRJ97NLLB+oSsgpDzXKYaYA==;yDuWW45EkvM5xdIVDD7pCA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T12:31:00Z
 originalUrl: "https://theconversation.com/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art-184363"
 webUrl: "https://theconversation.com/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art-184363"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: The Conversation

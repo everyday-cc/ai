@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T13:12:00Z
 originalUrl: "https://sporttechie.com/dutch-soccer-stadiums-pilot-cameras-artificial-intelligence-against-fan-racism"
 webUrl: "https://sporttechie.com/dutch-soccer-stadiums-pilot-cameras-artificial-intelligence-against-fan-racism"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: SportTechie

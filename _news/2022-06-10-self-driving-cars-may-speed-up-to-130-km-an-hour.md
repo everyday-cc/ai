@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-10T13:09:00Z
 originalUrl: "https://www.aa.com.tr/en/europe/self-driving-cars-may-speed-up-to-130-km-an-hour/2610606"
 webUrl: "https://www.aa.com.tr/en/europe/self-driving-cars-may-speed-up-to-130-km-an-hour/2610606"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: aa.com.tr

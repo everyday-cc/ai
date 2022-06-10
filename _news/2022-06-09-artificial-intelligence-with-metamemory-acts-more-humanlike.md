@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202206/ar
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1528
     height: 800
     isCached: true
+
+related:
+  - title: "How Humanlike Do We Really Want Robots to Be?"
+    excerpt: "The latest development in robotics wraps a mechanical finger in human skin, leading to broader questions about the future of cyborg technology"
+    publishedDateTime: 2022-06-10T12:00:00Z
+    webUrl: "https://www.smithsonianmag.com/science-nature/how-humanlike-do-we-really-want-robots-to-be-180980234/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 19
 
 secured: "g3pNcqdSCLKwjyzWdbOYcCPV6wDz+k1ez5v66NYdTQb1cXY2lpgg5aqZDH3PI2lGaIG8jYKpKVxfkAW9Wv0MnrX3e1pdkdS7ntfAyVExk7uqbMz+H+NZW3Ll9H6os55DSWEfj/6oAyGpiEnawHJ++DA3namUf/cw3UpdKbR0KO05fXYbrZYK1R75tHNHJWa7VepDC0dS4Y+aCW+1+TNK0oe5/drSwJr5ZaaHm8afNbnTOUnwjTcEnx1hOyFli3vsSJyNi93mK/X/7QlaDZ42Zia133utmuz9hyA+O72Kj7xPGu0hpsuE70a6rCHgTMKlfpjW4MHmMUTQwABTY6vDwv6HzxWVGutRwyaFv0oiTig=;fLejWEZriN0XBZwybI+y5Q=="
 ---
