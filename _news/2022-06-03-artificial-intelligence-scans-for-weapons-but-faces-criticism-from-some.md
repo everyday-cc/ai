@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/d10ad89/2147483647/strip/true/crop/900x506+0+12/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F53%2F4a%2F2457793c468491333d5dbc66b1ef%2Fai-detects-guns.png"
@@ -22,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ugrIPHyTnJn2VB9VitO2OurMgxEqdQMHupT6vSX+3iAUYpANjXv7n/uFSUggQZhP0TJoSWYcTGL8MidhT8Zm4RrlepP4GKBa7zvqcBtx5g6Wbbg34/uxRoLlyUciY3oqTW846CWEoE7teHxkmx1pYIvJdFwENDykrUih4AEWLpz2vxhZvTWUbzYbEQubwVozCOGhcl7TWnJ4yjadtMtJE6ubDNkjXSU5lo0PrFbWpbFFUTwwajPBqzjWeB8yxJOPbbGXH6AiRz5x2HDSvcBNEXl+D6i1bOwgcq+O4pdZM77ABadRMCHwMTOnMIkHt31oslJpUiuvsTuosJmRtMSR4wpoMnzg5KyeWFS0DS9pxAw=;VKObPFmmT4l+O9DF+i27lA=="
+secured: "FAk+bibD6jv3A4xKU6ETm50lOj5k+85GYxKDEyD8s9cvQetV5zuO6mO62+IpqSvbh0yqybgOo3vwMohquFsvmu030kbZtW9BFxYsIY+ZdT3KFN47X98vKHq5sGGN+heJYNbR6lTEg7674Ei820YYYYe1bWxzWPQ4VdhWC0EpQ+fWc3+5yVf8I9bgSxzLsWfiRa95w5xPUThYznxqnwlo82uQuIBlbZIyf9LlfywQ8xq5VtgBbz+xqUFzWlrbKGLqj+EvUGKFWaY1U0bzEJGTuCQu5DrjLudRVQtkZD0xR+eaSivffoPPYwE/cOqJFblMU9+0pWAwfZlTMvmgP4GhxpuE+I2KN0se28rG+BL4oHgtdpsn/wQmMScIS+MG7j3PPmNMIcMgg6bJa0tdRaWOBECCflukg87GF8P9L0kbiBkzOpYr2Wl6FJ0pVGNLh9ty3DYnx06mqehVyXgDq++Rr1jkRfV2QL89W7Ajjq4aFTCu9KEtpXFsRKrGp/PMtz0fgMVK5EMKUiPrskbtcws32Q==;NKfVrbiYzCfCRcBNop4CtA=="
 ---
 

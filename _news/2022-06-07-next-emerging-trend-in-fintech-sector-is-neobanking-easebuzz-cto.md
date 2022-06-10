@@ -19,8 +19,8 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?467068"
-    width: 375
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?171792"
+    width: 401
     height: 250
     isCached: true
 
@@ -63,6 +63,6 @@ related:
       domain: businessinsider.com
     quality: 22
 
-secured: "CgMrzpU9LXWR3Tgu5JpXQozN45P9wAfsBT4ll/DGJzyawLsS3qs2iA0aNMim0BfrMuvF6Os7kvRE/HJCJoBiPQ5w0NY/WjSsPTn1EEj3ePZ9xddzNijeKDmTmDXYFOV5chaQuFXccmV6j7uyPLgcCvOYmaiNvpdME2qZ38OyEcJFCN8ITufMZlEXLyzulnChYSimu/Fp+V+YwtG/1kQ3Wdh0LGb29MTqVvPHr77Il2EmfWJcD/5NNakqfiuAGEn8YxivLMLLO6s42EDz4F88CeZAsLu9juOeSA6WQrEjRc1nXPS/frLXiMVnZjYAjIm4ToMXq4j0+hnQJ5Y7YG4OQbQSdDwTlegxeNSnH0y94LU=;60WsHqtGwc17FgAsQDHDFw=="
+secured: "iDeHuYTWHUkGyPqpTwDGlgz6Ex1/+/f3O5XzsAl52gKSUHfP2TmOLogIpjGoRwwe2B5qzWiHoZIt3dauGDgKthmrjc4gp7FhwI6+Zx8qvNVKISnSo6ZMK2OTdvEbidRpoI6W8JLyjtEwT/cZaZNwnst24l3h3p8vEEjKcgV+qsx9/f3ZC5pE08roNUmly99gOT4mhxMgpPx0rEF+hmloB0BRQZ7xYyn0uLEMkewo9Myqr0TsdnYkKkvBjR6Sn9qV/Sk7DPleVOuZ1Kz7KRIuSaZYl05gqSBXwFcD1S/Miex4qA4Ie7R9mn7heDywaDdTuaRSkss3sj6aoSbinRNgyuqUEQNT5wAHFOWF8N7IBXk=;jbOHLiWcqNEF1oS+0K8/2w=="
 ---
 

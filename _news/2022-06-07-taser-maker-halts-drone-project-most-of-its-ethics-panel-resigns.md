@@ -2,9 +2,9 @@
 category: news
 title: "Taser maker halts drone project; most of its ethics panel resigns"
 excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
-publishedDateTime: 2022-06-06T22:57:00Z
-originalUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
-webUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
+publishedDateTime: 2022-06-06T17:57:00Z
+originalUrl: "https://www.reuters.com/world/us/exclusive-axon-halts-taser-drone-work-some-ethics-panel-said-resign-2022-06-06/"
+webUrl: "https://www.reuters.com/world/us/exclusive-axon-halts-taser-drone-work-some-ethics-panel-said-resign-2022-06-06/"
 type: article
 quality: 69
 heat: -1
@@ -434,6 +434,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "cmIKFiIQJsMyyK8wkRQ5k3wBp3ekBBrLCZM14oIRpkK63U1GhVM66Cu2MWlDdewJGTmOaOq/ybo1p6J6lq+vgCU3niFO5bhEksWngjiTRorgaKOMpE9H4KRQe8upEOzPQNBZzSijCpenmbc/pS/xYHc4N+ktMd6i2DvwdwwREv5Zmm6iEhHBCXkB3Mk5HF7nHnCGD+KopBwDetg8lel9G4kuxYcHREMqs0TwvVbam7NNKCfyXcJyx8YB2E2BeukQwSd/pDxblWql+kuMAWNwOrt5m4CTp9apcESe+eCEwWKXAHdoyVKxykhQrLq+DZJx0DDTUqjtG8qDfWHKQJI4OMIaNt0G7mw40nQL5yxUxEdzSyRdcj5wCY0LXke8BCunRBh9xXUMuKhQY8Z90ofhpkIrIkGbM1/cWDj7hA0jSd/xhz+PPo0JOlCy2DFtPJpQ1uQAo7g0V5RodSsXX7reDsiGblQ8v0w5g4xPcjS/rcjfs+IvsFdnaZf6kNodzAsGArfOpV+c5IWtDtfR6wbp0A==;FL5DxsU5CyFGYE7nrea7+w=="
+secured: "jURlvoeR34O4a3u6T7+57K329+M8gD9BGlXze8dQhKROv4TOnZqWXOkYksKyvyf1VnRz1NoSRx4fVHDYcOpp+c+h6ETIWkn6KrBflICe0//mBZ0iuxIEDT53eMsAN67wiWnLms80UjsLdil4NAJbbvPfaG3pdHFD1CedPg8L6z01u490bQoMIywEbebkiq5ld4WSYhQqFSf9G8yrl9P/AZRnGysfA4F5cndyaezPTUb43GCIoRqwspA6L3vQUgY+4+7xHFHHZ+YdMzLK0vruJPRe/+s50H1CBi39lqeMEIBy/uKWzd0EbdCtlK2SArZ7RO89BjKKD1lLsePDScUSO42dMN+Cl50kBFQNm1iexWI=;C7PU6/5ODOy4BOfc8s7OBA=="
 ---
 

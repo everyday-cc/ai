@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Sharp NEC Display Solutions Debuts NaViSense Computer Vision at InfoComm 2022"
-excerpt: "Sharp NEC Display Solutions, a global leader in the projector and display markets will unveil, in partnership with Guise AI, Inc., its revolutionary NaViSense computer vision technology at InfoComm 2022 in Las Vegas on Wednesday,"
-publishedDateTime: 2022-06-07T20:39:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-1daa499b2f044e2293e33dfa0a4b901b"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-1daa499b2f044e2293e33dfa0a4b901b"
+excerpt: "To highlight Sharp/NEC’s theme for the year “Better Together, Stronger as One.,” NaViSense is launching a cost-effective computer vision solution for gathering anonymous customer attributes using off-the-shelf or existing camera sources and ..."
+publishedDateTime: 2022-06-07T21:15:00Z
+originalUrl: "https://www.wsiltv.com/news/illinois/sharp-nec-display-solutions-debuts-navisense-computer-vision-at-infocomm-2022/article_26db525e-0519-5e34-9d68-4ac51ae4812d.html"
+webUrl: "https://www.wsiltv.com/news/illinois/sharp-nec-display-solutions-debuts-navisense-computer-vision-at-infocomm-2022/article_26db525e-0519-5e34-9d68-4ac51ae4812d.html"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WSIL-TV
+  domain: wsiltv.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/4/09/4094dec8-21f9-5047-bbd6-cb527d8208d7/629fba3a80b25.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+    width: 1196
+    height: 628
     isCached: true
 
-secured: "v/CWIeT1r/L4T4gU3G9+MtT+QSo98+3zImUmNAJgDbXQA173cFPMpZXbI6S8xl+gYFVpWyHmINc+nTIzn0vNbetsWgO9TkDhps5pyYtXWYGAqUsHmmSCuBnao/oTFIVu/d0cR6Zw7B2JcoIBla9jt3w3pRCLQdqG4UhRt9DDdw6beHn8nOdXFpzQ+IjNfihtp6IcdxrTqAEdvQLYxYnfL4HNkwElbH57WwGcBR+jWtkl7nRs2RvKmmaK+9wQxKk53/i28JeTmwvQbaDUoWUxZJdOh8yhDTxSe+3r6Ns7XrwsNIoh/i97MwDCTWJsfJwoejeAwgEMQMxke+3KLURafOYG/9O5B3INCXkjUvIdJBw=;xPgGFANU5gdN0CUPDlkAKA=="
+secured: "JIIP5tUGIt2i0K7TjWDkgYTJsSnf5KNoMXApevL3gGMczoVllqG58aWKQqiHl9l1ZtEMbfxOt64UqPI0OHZK7dcPW90OQafCjkozYSJgRE6+KO8cYRBjA6ouqfenA9dnU1YDGXLkHyVw/SnKZtKPkEZ1+eraCLURyN8lBVseSXWXsazql3Z8Lnxn4WfPcIAFTFMeEjSyjhtlB8zlYROCALc702yOBni9Ota8C7Xc5tVw/6pa7d483YlTNnlQmeb1Nwgz8zTIVS0jpZbPuqH6czG3SV6J5BkKOSjINJSrZ5rRnd1AnuC6fn1W8fVO5NiVTDM1Y5T0I5hc1v4jb9ZY9qUXwionKOo5e/h+KNmhGGY=;MiMq4swxpB8a9PsiLDo0iA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/health-wellness/article/3180813/how-a
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends"
 type: article
 quality: 93
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Smarter health: Regulating AI in health care"
+    excerpt: "Health care is heavily regulated. But can the FDA effectively regulate AI in health care? It's episode three of our series “Smarter health.\""
+    publishedDateTime: 2022-06-10T04:24:00Z
+    webUrl: "https://www.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
+    ampWebUrl: "https://amp.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 59
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/1000x667px_Ep2_Ethics_OPP-2.png"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Lucem Health™ Announces Innovation Collaborative to Bring AI/ML to the Front Lines of Healthcare"
     excerpt: "Lucem Health™ today launched the Lucem Health Innovation Collaborative, a partner program designed to move clinical AI/ML innovation to the front lines of healthcare. The Collaborative will help digital health innovators create,"
     publishedDateTime: 2022-06-09T14:55:00Z

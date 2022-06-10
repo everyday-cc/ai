@@ -1,31 +1,24 @@
 ---
 category: news
 title: "Index Exchange Acquires Machine Learning Company Rivr"
-excerpt: "Index Exchange, one of the world’s largest independent ad exchanges, today (8th June) announced its first-ever business acquisition of Rivr Technologies GmbH (Rivr), a Berlin-based company specialising in advanced machine learning-based traffic ..."
-publishedDateTime: 2022-06-08T15:30:00Z
-originalUrl: "https://www.exchangewire.com/blog/2022/06/08/index-exchange-acquires-machine-learning-company-rivr/"
-webUrl: "https://www.exchangewire.com/blog/2022/06/08/index-exchange-acquires-machine-learning-company-rivr/"
-ampWebUrl: "https://www.exchangewire.com/blog/2022/06/08/index-exchange-acquires-machine-learning-company-rivr/?amp"
-cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2022/06/08/index-exchange-acquires-machine-learning-company-rivr/?amp"
+excerpt: "Financial terms of the deal were not disclosed. “With the addition of Rivr, we are uniquely positioned to deliver advanced machine learning-enabled optimization to the industry to increase efficiency and drive even better results for our customers ..."
+publishedDateTime: 2022-06-08T13:45:00Z
+originalUrl: "https://financialpost.com/globe-newswire/index-exchange-acquires-machine-learning-company-rivr"
+webUrl: "https://financialpost.com/globe-newswire/index-exchange-acquires-machine-learning-company-rivr"
 type: article
-quality: 59
-heat: 59
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: exchangewire.com
-  domain: exchangewire.com
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://www.exchangewire.com/wp-content/uploads/2022/06/IndexEx-1024x578.png"
-    width: 1024
-    height: 578
-    isCached: true
-
-secured: "m3VZg5O0POclneXIYzMWApzI/pPr3D5aoKs/W/CuIgdrELTKPpPS1YISF0+2PAUjPBzlPu+PcDtvxiJnY16F6pAkc+66VU2IgQveuT3KiJeix8P8TOCvL1r/cmwJF7cdPHzxglP0odC65ZR0oE/akIczU4L419Zs4Ie7THzFVth6uqxJvtCXYLBgPnX0etwSvWsojc5F/lEDjhMbVS7EVuZkD/370HP/l4887asYk852PfjrnQoc7NUZUEafmJnfRx95fpZz1YCQeoDxvIs1njEa0aiZ84S0HM3pBB/TX5L7ZMlCcDnKNK7XPczUBluTAMniJNO0HcHioz5v1trkPGJd1xy5uGOv5CD+2souKwArL1//mDta1h4oDiuACKwDS+3GSxSmWkAsiKtIslmdhsW1u+Lp8Ghm7DwL4GCCs5p0IONQ8InKjTzF/Y6sFkhJggjqFvjzQsu8dnY54FEfB4+urE5yuwYcQcAhw6qkh8SnarCmpC7YadlvBgbLx/qDK84W0KshYa2JmTOPXldhNg==;5FXOEfkewdlScdRXT0VLzQ=="
+secured: "yxyhPOwKlGZQVojJ6J6pfiq4mo+n0473bkJZmR0gIUnCdHVdNy7DUKojMHAEmImd4wTXCW2ZsE0hhDY/Cf4ceMhE5m2G24NF3spOdvgPLD+NDRAH2s8za6/Mhq0wRvmEaHt8Ex/34ZCX8SXoVU7sp3A78ffkocao5dj+vUA2xeVb/rIRad5SBTRX4SWzM3pkiZ+tFhJeS4uamuVw0gABOhpoCljV9hAybnvTleOU48Uf0vAV80jLp5aP6P/yATbxy2bmRUAiBx3BdWIxGEJgr2WoUNnkN53UInGRY+LKvb21NVjwXO6P4lLkBq+QtggHCVm8luky+EjObZv0SwiJbtEq9210o5lt4I7Z2+YK7yM=;kXsYsSMKv3GuYdS5EktfQw=="
 ---
 

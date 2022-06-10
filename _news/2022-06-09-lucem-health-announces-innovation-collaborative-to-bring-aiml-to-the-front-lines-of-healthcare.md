@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smarter health: Regulating AI in health care"
+    excerpt: "Health care is heavily regulated. But can the FDA effectively regulate AI in health care? It's episode three of our series “Smarter health.\""
+    publishedDateTime: 2022-06-10T04:24:00Z
+    webUrl: "https://www.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
+    ampWebUrl: "https://amp.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2022/06/10/smarter-health-regulating-ai-in-health-care"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 59
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/1000x667px_Ep2_Ethics_OPP-2.png"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Healthcare AI startup Olive to freeze hiring"
     excerpt: "Olive, a tech startup that uses artificial intelligence to automate healthcare tasks, said it is freezing new hires amid a wave of digital health companies laying off employees and tech giants slowing their hiring. \"Olive regularly evaluates its hiring ..."
     publishedDateTime: 2022-06-09T15:09:00Z

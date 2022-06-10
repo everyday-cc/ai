@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2022-06-03-vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier.md",
+      "title": "Vinith Misra: How can our relationships with computers be funnier and friendlier?",
+      "excerpt": "Artificial intelligence and people often struggle to ... Previously, he worked at Netflix and IBM Watson. He's received the Stanford Graduate Fellowship, the National Science and Defense Graduate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.northcountrypublicradio.org/news/npr/1102642165/vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier",
+      "originalUrl": "https://www.northcountrypublicradio.org/news/npr/1102642165/vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2022/06/02/vinithmisra_2015s-embed-963f8e619ec6f866cd02a5fbd507b7cdf3754a9d.jpg?s=6",
+          "width": 948,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Northcountrypublicradio.org",
+        "domain": "northcountrypublicradio.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-big-pharma-in-the-balance.md",
       "title": "Big Pharma in the Balance",
       "excerpt": "Healthcare AI company Deep Mind (a Google Health company) was in pole position followed by IBM Watson Health and Oncora Medical. However, many companies such as Babylon Health and Caption Health are waiting to jump on the podium (3). Investment in AI has ...",
@@ -1307,40 +1350,6 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-11-liveperson-upgrades-conversation-assist.md",
-      "title": "LivePerson Upgrades Conversation Assist",
-      "excerpt": "LivePerson, a provider of conversational artificial intelligence technology ... and bots from third-party platforms like Google DialogFlow and IBM Watson. An intuitive interface presenting multiple recommendations inline in the conversation, allowing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/LivePerson-Upgrades-Conversation-Assist--152356.aspx",
-      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/LivePerson-Upgrades-Conversation-Assist--152356.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-11T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
         "images": null,
         "publishers": null,
         "authors": null
