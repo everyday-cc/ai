@@ -9,7 +9,7 @@ ampWebUrl: "https://technosports.co.in/2022/06/10/amd-roadmap-2024/?amp"
 cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/06/10/amd-roadmap-2024/?amp"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1600
     height: 1157
     isCached: true
+
+related:
+  - title: "AMD Details Zen 4 EPYC CPU And CDNA 3 GPU Roadmaps For AI And Data Center Dominance"
+    excerpt: "At AMD's Financial Analyst Day event, it outlined a bevy of future data products, including Genoa-X, Bergamo, and CDNA 3."
+    publishedDateTime: 2022-06-10T16:46:00Z
+    webUrl: "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center"
+    ampWebUrl: "https://amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/58803/content/amd-server-data-center-hero.jpg"
+        width: 718
+        height: 481
+        isCached: true
 
 secured: "0GlF1136oYkYBZshHiOs6J1ZMVE+h8kCnhDN9t+cS7DU7lc3Jycik06DIKL0iMVO1zV4kponfAzFhDJ/bZAEauNwEAuKx5gT0VziWfbv1MEqbfJDIBvCAjcuuM/t0rH3MLKM+D0FC4uVvuLJDACTQDf5XDak7eDHU71zYXqjbZsSG09CUJIR8uOn5ab70H33RUNxFQNIccJLK6qbX3Amj8fv0a0xUYbHVw9OkkNJwJ7aErFJdDWla3iQoSRFKR6wfdQOTxH9FFCnOwZ5Z0biG8VNdJ+4OZcqppwOrGrV+h9MdcbsgMVOaT4DPNSW2KvjXSxFiL9UAXl88OA1d84OCcpCA2qyNwkxaq/ns66z+/dTo4DcPSbZ1KPNx7BSvEmSmxWuWhsnPCKOvtiZFRYTJcs1cQ2SR/m0BOKMEvf/QG0lIukmQAPWaRq+92dBwoIkxRQTlDIP2rythR6qFwAW39qA0915SrOsSWHfn1DsmNfmpQNjsnExu78cRCkPooPdzzwd+r4tkMg5I36sR+HTaw==;Fjk3UAS3f3LsEqKZNDtHUQ=="
 ---

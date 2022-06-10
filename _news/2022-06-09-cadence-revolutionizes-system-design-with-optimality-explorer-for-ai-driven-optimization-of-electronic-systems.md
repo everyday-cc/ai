@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Cadence Revolutionizes System Design with Optimality Explorer for AI-Driven Optimization of Electronic Systems"
-excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization (MDAO) realization of electronic systems."
-publishedDateTime: 2022-06-08T17:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
-webUrl: "https://apnews.com/press-release/business-wire/technology-dc007e1328d446eaa4c0bc4da28887ef"
+excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced the Cadence ® Optimality ™ Intelligent System Explorer, which enables multi-disciplinary analysis and optimization ("
+publishedDateTime: 2022-06-08T18:24:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cadence-revolutionizes-system-design-with-optimality-explorer-ai-/2022/06/08/9618228.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cadence-revolutionizes-system-design-with-optimality-explorer-ai-/2022/06/08/9618228.htm"
 type: article
-quality: 19
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
@@ -63,6 +57,6 @@ related:
       domain: design-reuse.com
     quality: 3
 
-secured: "6Oqaf79MypLB3gbGitq4QduS3TeGiK81RapeKEJ/akSxGVguo/rTxlwJSLjusbeTPtdAaVHF4cx4bG8aawJjRBxei6jNwA88jZnF04bLFaSrFHL0Zz0aFgmJeoqddgYgcw3bE+1mDhqanBIBN68GpP7TRwIRtkJqfPgcqyuFsZMhiTOdmMdkXQAkYqL3Iz5jf5omZxazTXGeWxn+w7flJD0/X/3L6C6oBM7U0D6XAWAmuwv4jEZMRO+qTFEbgN7fl4m7A53JRzR0aUBNizmAJrdC+GI1fl1bugSl17BjrId1csHmvtAU4dsRpF/NVYAbNMY0G9GyaLSNHYLhyW/F2xfmvmIim3KvwPgxsuhTX3E=;21Q0Yn19fDeeEmmIyEYlIw=="
+secured: "fg+7ARSxVQ0HTRMifY+d0qxXeVIUPvRSzYuYgo85FIcr1L8Rq2geNLupCP3GRmCeF7ImMsmRo5azbLkXWZjItOrbnlXFQeR9e1puzUbN+mKEN8/RZ3ho+HuuHilCByWHufWe9Af0Yphl2Txn3nRUe2+zMfBjFpXRn94qUmlhzmzXxgGgfvp91mXMD1qEk5v4l7yHo2C8A2ha26WS+Y8iUHlaoRfEhAT3e8QC4FddIh1jF1HobFUiU2dQk6eSlziLEuyt1Minuqm1+uZreqQEgIWrnRLxqUSi4udLiRebFUZ/VdujGj7cpyOxXWpJ/oq6cQSIEMrYJvM/DUsGlR9ACQAuPHZpx0G+yWPsvLGIZFtEK2P+Nof/xLb22iu38xa4CfCxGjiiaICGL5Uo6Fh+E3JbCqp/xsMTe463rbVyja4DsINCY2XRBeEKSVZR3EAlZ/M35xuWo+xTCBT/kxqL8lvRASS5ulShtP2M+ycC00E0XNdWf+3rqn/7Xoa4Np7c+HgMXCmlr6bveA/jb/46+g==;JLrNPwhnDbGve+XG4QJLMA=="
 ---
 

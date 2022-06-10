@@ -24,6 +24,20 @@ topics:
   - Facebook AI
 
 related:
+  - title: "Landing AI Adds New Edge Capabilities To Landinglens To Bring Deep Learning To The Factory Floor'"
+    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
+    publishedDateTime: 2022-06-06T14:19:00Z
+    webUrl: "https://menafn.com/1104330418/Landing-AI-Adds-New-Edge-Capabilities-To-Landinglens-To-Bring-Deep-Learning-To-The-Factory-Floor"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?352150"
+        width: 439
+        height: 250
+        isCached: true
   - title: "Kira Learning Announces $6 Million Seed Round Financing Led by NEA and Dr. Andrew Ng’s AI Fund"
     excerpt: "Kira Learning today announced $6 million in seed capital led by New Enterprise Associates (NEA) and Dr. Andrew Ng’s AI Fund to build the solution of choice for K-12 schools and districts seeking state-of-the-art,"
     publishedDateTime: 2022-06-07T17:08:00Z

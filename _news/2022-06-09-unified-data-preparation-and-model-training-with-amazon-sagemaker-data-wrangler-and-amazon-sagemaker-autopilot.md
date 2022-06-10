@@ -90,14 +90,33 @@ related:
         height: 428
         isCached: true
   - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-    excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
-    publishedDateTime: 2022-06-09T14:03:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+    excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
+    publishedDateTime: 2022-06-09T13:03:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 15
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
+    excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organisations ubiquitous use of advanced analytics to unlock the full power of their data COMPANY NEWS: Teradata (NYSE: TDC) today announced the integration and general availability of Teradata Vantage multi-cloud data and analytics"
+    publishedDateTime: 2022-06-10T16:20:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with-amazon-sagemaker.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 35
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/0575caed30e43a26e42193d9c692f179_M.jpg"
+        width: 375
+        height: 541
+        isCached: true
 
 secured: "eumzkKAoEAGwz4/HHGc1LylonKsaOEQaZSZtCEPnPnUElF0Ubh61K05lj2+/9Zi/8/GM9AkhpZuSXIOkp3VfnIWhSGfWCA+yHMsOuGeYcsc9iYRcE8U3DHhohqJBnTJfNgf8zBWbWXHs7dSaLR1OSngLw3xtzAmlJYlDsMKSLIDXt9Y0OPmgGTJ9+oJvlNxc3OQZZzFkyLrV3ilVQ3Ayxo2q36jjoUQNKHblL8c8q+fsNUX5L39UpnJO1BiZJiKOWBKnJpVDEhrJr0l+HHySlIW+9qZM1s/DweyQ6pBlBaYTNV2e2qt3UljqiuZkiXrJ5a4J2Qs4QXr1mMilC/pCbxpgQqDrBXqQDTgPRwoEjrk=;U7pQh7ctflZ/GpQpBglvow=="
 ---

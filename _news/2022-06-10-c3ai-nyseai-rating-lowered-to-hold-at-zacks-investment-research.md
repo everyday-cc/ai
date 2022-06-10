@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Research Analysts’ Recent Ratings Updates for C3.ai (AI)"
+    excerpt: "Several brokerages have updated their recommendations and price targets on shares of C3.ai (NYSE: AI) in the last few weeks: 6/9/2022 – C3.ai was downgraded by analysts at Zacks Investment Research from a “buy” rating to a “hold” rating."
+    publishedDateTime: 2022-06-10T17:36:00Z
+    webUrl: "https://www.defenseworld.net/2022/06/10/research-analysts-recent-ratings-updates-for-c3-ai-ai.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
+
 secured: "Ag0XsS1fJOTOrG33k6++hw4cWaWJDg12O1EAjDmbDeMFGGIjWjhTQBptRaSsZOX48Ts7PeP3/KqFYJF8adb4bz04OfHYNRd0ORNnRcbGtA9u4EB0flZAp/m9TpwbzEZpxiuFXKTHecfO/pwCH/FXDUufGYuh1RBRSnwYvOQJK1av3Zgw3gn1PUKwBj0iXey+cedq9IeM6RKuahg1sv4+Sww/S9sb/0VSOjTuo8HxObjCkQUH5pP6225u3y5U7GzG6gSRCPKn4QEy03oZwfjSKU3Z3/kYutYxdBN7Yv6TJTA+3q6/aCEQ4vE20dIbY6eG1VrVQu+z+Gk/3vJGPxgMeFAwuFn4KGLSbPRSUftcFVg=;MRc1LNR0u/gtnHMXgv5zfw=="
 ---
 

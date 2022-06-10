@@ -3,8 +3,8 @@ category: news
 title: "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022"
 excerpt: "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing."
 publishedDateTime: 2022-06-08T17:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
+webUrl: "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
 type: article
 quality: 43
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
@@ -54,6 +54,6 @@ related:
         height: 450
         isCached: true
 
-secured: "8hbdiYaNRT8Xk08oglpj+v8Ug6ZYH84d2i0tSaI0EFuqcNIOLvaJ6u9TbbhIve7BpIaFBYhQZ0jNQlixwVPWFzeMm5/YN2xPMOXaskqnxc3VytdFXEkXHHFAFby3I37ht20CqdKxlqvY+7LRohWn9Ky6WxTzcBhofbBs8KAJqxe9qbFu87tYaUf1SkWpxr5YYgslA4/DwcpskrsxBDbtiiKy5NO+OjHGJ0v6wbL9RC3k9sRjjZ6+ZotZJGJPbiKiuZDX4VW0rKYRwcY5JNdpTD93iOsrlTs55IK/yH46FreKuGJnJ9Dh1Ah0a895++kNkezpOt4ENTLBt5+6g3g9WQtbpvfNrepFlVRVxOb9lYU=;9hhC0fD/A0ZQFahFF0GTdA=="
+secured: "0KuVgVwwxdRMuByK1i3zld8pH3nihzW2FnQrDFg6Jyt/ZUJEF45Z+DQOKiVTzikJkaf5k7f02oFiF/t+rE+U1CwT9RvV5AkC9HyWgyVeStDDW3ssyJyvNMZ6WwS59avaiv+aHhp4jxE33uLo/s+kRBZ2TeSMNtpmo4d5pAWf2pjw1BnyOOxVbF4r2Vi3S12sAMc4lB7+SBasFkMd8Hpg9KwtP1VaoD2/4bHmifIiVQulTutea7+laxzy9YvqL1pyBH7mTSng4lMNi+perKMTdS4x7g0QbgL1ovOeCdAYUOH29zwYi1vIoqHfjaeZdJ8AjmDTYFOI1VCvFIZOidNmIQeNDBHJ2m1F0niCgOp2kT0=;m0oOl331o25bxgNHho/wXQ=="
 ---
 

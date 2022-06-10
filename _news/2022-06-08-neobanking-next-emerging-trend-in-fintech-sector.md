@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-08T09:31:00Z
 originalUrl: "https://ummid.com/news/2022/june/08.06.2022/neobanking-next-emerging-trend-in-fintech-sector.html"
 webUrl: "https://ummid.com/news/2022/june/08.06.2022/neobanking-next-emerging-trend-in-fintech-sector.html"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AWS AI
 
 images:
   - url: "https://ummid.com/news/2022/june/08.06.2022/neobanking.jpg"
@@ -53,16 +54,7 @@ related:
         width: 640
         height: 413
         isCached: true
-  - title: "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck"
-    excerpt: "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ..."
-    publishedDateTime: 2022-06-07T09:01:00Z
-    webUrl: "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
 
-secured: "y32UwCtPdS58Z6Gbh5GKWSSlL/f9VTQ5DdTF7mCJUqHshMvtVbCIeTKz0F7Zy5W+0Rtrr70j6wBcwsgQ5jFPhcPdItrrd0xxcDxfpIGyop5DBbD68Wc7TtS5NrQXjj46zxkleHDy6n1i7GHDip5TPuhC3zIYQa3K1U+YzbFKaGv3SKoWMjfHSw/SCl5yGCMK3oPlPv4HTA0EQnVsbgrGW7O2HONUn3r9u3aO3gGX6dZbDXhVLjdtORd5nvRA1+f264nVN2+/+0CfocS4zt3hSjbPgSya55Sz0+uS2FjTrbe3Azjdnig+CECoo39G1HIBAiKT3mOZ9HHjBBJ4LxuC1WtPXd1W28PSvSBNuXgREU0=;vntk/0ecN6LRCG/tRdHonA=="
+secured: "bjE6YXGuHLX9naFRFqov9xlh6u6Cv03O5McyCg35wphlK1H/lMkDv8RMa4urY0wTmYrcNoBwJJxu1F3sGyqncvVVEnccCwLgfYsd4FRIfGGMu9IzyW1yi+jIZd3NA2YxN4+UarQ69UW7ZOPl0NgXuh/AzYkPjjQAIVgZ0IGPTPjF/GRiLTMrdLg1GjIykB9EKyM+OyYvGaI4k1l4MqXV+wHzDxAgJoydaB9ifSVCDJzdwBCK+ur4QySb7pmDnP2MWtKkdJnc3eM1OPZTGMjSiCO/Io8GpazVohiEj0bEhqGTC2g+X9JNxquqK0WRGxOSjgs4DUoljRQe/xrUtjyuX0OsbQA+OxboZf6kHdoCzBSDeK8dF6w19QOghpgNpSj/+Wit21Gim9tjonC6KodO2Ah3HXURIsXByBPK+HaaG4xT5q4JrD2YfqMw0CoXlmI53nJ+3fns4q9fWw80YYKABqfne00HdEYE1ugEKU7s+EeQWDJ9eBxE8dk0Dnphkzen3jfVVLriyycfqwZGStmXHg==;kc212g1zbTLM07yQ6uJdOg=="
 ---
 

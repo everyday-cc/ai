@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck"
+    excerpt: "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ..."
+    publishedDateTime: 2022-06-07T09:01:00Z
+    webUrl: "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "How AI can help several aspects of businesses"
     excerpt: "While the use of artificial intelligence has grown throughout several industries in recent years, there is still a great deal of mystery surrounding AI. This was the focus of the breakout session “AI and Machine Learning: Where Are We Now?"
     publishedDateTime: 2022-06-07T18:48:00Z

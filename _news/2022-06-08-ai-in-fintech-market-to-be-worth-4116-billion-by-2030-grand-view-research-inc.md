@@ -106,6 +106,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "10/06 – Weekly Fintech Recap"
+    excerpt: "Partnerships Mastercard Partners With NFT Marketplaces for ‘Easier and Safer’ Purchases Mastercard is working with a host of non-fungible token marketplaces to make it easy for people to buy NFTs with their cards."
+    publishedDateTime: 2022-06-10T16:46:00Z
+    webUrl: "https://financialit.net/news/blockchain/1006-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_15.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Addressing the challenges of fintech with adoptable solutions"
     excerpt: "CRAFT researchers are addressing many of these compelling and pressing issues. In addition, they are developing AI-based financial decision-making tools that provide explainable and fair decision recommendations, using large volumes and varieties of data."
     publishedDateTime: 2022-06-06T09:13:00Z

@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-06-climate-carbon-footprint-artificial
 ampWebUrl: "https://techxplore.com/news/2022-06-climate-carbon-footprint-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-climate-carbon-footprint-artificial-intelligence.amp"
 type: article
-quality: 54
-heat: 64
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/climate-research-now-l.jpg"
@@ -41,6 +42,6 @@ related:
         height: 284
         isCached: true
 
-secured: "pUyWdbvUovC+zvph/heG+seHlWILPKVZFk+FXiKbbTMA7ydPQR5h4zR72rdzF9AuEsOHgsfCIJNKhZwsCXrXxbFzVMeHBTvbWpC4ljrC6zQBU9tYufaWDwzUCs/hTVuKIplsewwFtxjX6Hw1TQcPCqUt4/BjVzJcdAtAQRKKwIs3l7IFaXzzMUl03RP2ZLBjg+eXlTMG4TKvbF+jO4fm2+4FdhMRzijKP/PD4c82Dt5N+O/Y7q57N5UkuaaWt6guBBcQAd/Cjvpdcrjgo5Fw8oO05WhBuJEnW3TcyZUT/74Om4h6Bhgt89MS2jgv0bcCs3BVlChT+gouAKM+pSZ2M5f4RNiJQQYn4OdwDdIzLqA=;nlW2HYLivBz/E/QMRygK4A=="
+secured: "K+fI7Yd7U06A6DBYcyCzclNlt4TvsP+H8/Kzp/RaVp0JCjGt4fKAMRiqXHUJ348mdOFHj0lWAjwe74esvfmps3C7l6H/M9EHcC3FdavjFdJoMr2yDv3Ac8mX4+h1ESQC/OOn1WFT2+6YuXT0eY6M+70yeFjhA9PcOI1UlUQts9SBzeui7eqAbIlk2+m/Q0TGzHyBDf+Txmd1Zmk5wHDtswh2KYHqf7KFEn0DJ9CEliYa5/hiNetxnLycliQ+Afx2wK0vMxGZ3V09r8zbdINeuGvELl78SA7cKOXJI6654+/qu8tFHqZpI48qXSnvAuuSg+kECbc1uj3fe2r2EQ35E8s4AiURowISJRtWMbfJ5vCan4f+OdYcu6d3EEMGndPuIxFoA2hSmfaGlBmcT/EcEnWlOtqAIWD765Szx6fnnpQZ+Y2Ue2oc17kw1VrwDmB2M0eXpBeIqGbRFKqnA2BW5cjpmUvJ+ezEAtieaUCMy5G9iGKKWK5Ea8G2K+BlrQu1AiXGEFzg7qLTXyQfcduj5A==;55cld3T4s7Dv/KdiF4IQ7w=="
 ---
 

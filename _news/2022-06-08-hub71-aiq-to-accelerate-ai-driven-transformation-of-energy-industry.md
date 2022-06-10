@@ -38,6 +38,20 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "AI Disruption in the Construction Industry"
+    excerpt: "As industries integrate more tech, AI is disrupting major industries like construction, leading to substantial change and growth."
+    publishedDateTime: 2022-06-10T16:17:00Z
+    webUrl: "https://techreport.com/innovation/3477656/ai-disruption-in-construction/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://cdn.techreport.com/wp-content/uploads/2022/05/AI-Construction.jpeg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "GahOjfMRsniDDW56pr+bfZnooY3YngneypdQCWwZjcP0n7cda8t9xE309dlNDxtor9XfLvgVutAYI+aoPUZWrxAK6wGgt6hP/yVRnO8ohrG+PW6NRWJdWRx9Jhj+uX4XWnH5Ul8u5l/psdZ72thHowEcb9Q8nhIAEUkQYgApxjYRr9gSYzdQKwET7OprrRfEZlwUeedNYm/ZyWB1GWxNf0yTjZdQVVQXZCnrLHDXBXkwpCl2MLBA3W9gpGkABy8ekOQbZCH+CP+YXkDwl7PO2tJ/ngIO7FQ+vD7aRO/ie5qlzhlQqNeungrGLPCelmgz65xH7yXQR14fYlsY35Z5oqRSkG4zVVmPQxF+JwoQluU=;H5dfwElXedKkC9vUqug08w=="
 ---

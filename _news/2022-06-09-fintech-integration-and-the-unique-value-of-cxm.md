@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/99cc814/2147483647/strip/true/crop/1080x567+0+21/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa6%2F16%2Fabaa9faa4420b08af15ea37b1179%2Fab-og-image.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "10/06 – Weekly Fintech Recap"
+    excerpt: "Partnerships Mastercard Partners With NFT Marketplaces for ‘Easier and Safer’ Purchases Mastercard is working with a host of non-fungible token marketplaces to make it easy for people to buy NFTs with their cards."
+    publishedDateTime: 2022-06-10T16:46:00Z
+    webUrl: "https://financialit.net/news/blockchain/1006-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_15.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc."
     excerpt: "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from"

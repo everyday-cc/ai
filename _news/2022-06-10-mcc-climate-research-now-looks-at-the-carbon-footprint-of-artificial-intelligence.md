@@ -35,7 +35,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/climate-research-now-l.jpg"
         width: 1200

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
-publishedDateTime: 2022-06-09T14:03:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
-webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
+publishedDateTime: 2022-06-09T13:03:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas"
@@ -94,7 +100,21 @@ related:
         width: 800
         height: 428
         isCached: true
+  - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
+    excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organisations ubiquitous use of advanced analytics to unlock the full power of their data COMPANY NEWS: Teradata (NYSE: TDC) today announced the integration and general availability of Teradata Vantage multi-cloud data and analytics"
+    publishedDateTime: 2022-06-10T16:20:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with-amazon-sagemaker.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 35
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/0575caed30e43a26e42193d9c692f179_M.jpg"
+        width: 375
+        height: 541
+        isCached: true
 
-secured: "+I2mCEcEqZqOc7m6GbehiSULWjvJ31q2kPcD5LbQP3XNUnLL9W+nFJvRoAebSCYptCp/Iiqj9weKYRvdu77YdqZ7EOepAHaFfSkbOsuzl1ybvv0fJRoIFspcdrOdocDVUVwpEv0AlwzDo/V1CrPvmhMssmUiWBqp32jCr6IVEA5qJ2YYZiX720tpHqCa97BJU0dk7oIx/Tq6bD/8pPigcNjndlSdtWbEO5MBqxVqDLVkQ7278PSUrKVSdNFTd+Su7AhfxFBZUdu+wVek+DFDOoajF8rvoc2a2nYTj4XXyqB3qxNqLGSyctRjc7GwPbGVn2zy31o/P2eG4gjWyTdwojBqxnbOnIRpHaJRHvNZDyg=;80FgEBtBj/+uvg7iRf3Tvw=="
+secured: "RjLqksSJuIs20+QPLO9fnZAyUCLZvyKcDeKM1z1QAvY3SqhgeVnUs5FEbE5b7rL9QDRmIYkvNhYDNPFFdHwmvfNTRG7wnBCTRc2hfJgfdmkrcCKtIyeCQ+jhXhPsKL/QzwrHtp1Cgy57F1hyyQF5NH2v+g74nck/3ttyOnvfbJz7zz2p4TwgsklOn8PCA1irCAP/l0zNXURC+rSwr7/JBO/mdSMsuGgUE+CqpTf5P//Aj51TJfE5rKvxM5MoVdfFU/P7jpc50UeiFOI6vYQvFCdWDlW7jORDTzzJ6QSSBNGCOk1Ac+pa3G/eYBcAPcFQmMhpKP4+GiAp2++7ARAZoOPqVPSqfD5qmv3m9AN5ESg=;EGp08sxRtm55ieuZTwbgvQ=="
 ---
 

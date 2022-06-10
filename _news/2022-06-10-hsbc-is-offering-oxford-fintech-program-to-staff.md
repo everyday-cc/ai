@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "10/06 – Weekly Fintech Recap"
+    excerpt: "Partnerships Mastercard Partners With NFT Marketplaces for ‘Easier and Safer’ Purchases Mastercard is working with a host of non-fungible token marketplaces to make it easy for people to buy NFTs with their cards."
+    publishedDateTime: 2022-06-10T16:46:00Z
+    webUrl: "https://financialit.net/news/blockchain/1006-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_15.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc."
     excerpt: "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from"
     publishedDateTime: 2022-06-08T13:00:00Z
@@ -126,6 +140,6 @@ related:
       domain: ibsintelligence.com
     quality: 4
 
-secured: "TnhJ0FdqSquaG2z4dpZiVYWJ3G1536+585gde5BoGdImTfPKESuZ4B6DZtM6WJpXVyx8tbl2JnNscO2qpjjGuymYmuelYPcsVfau6R6pTId8/ivyJyChSsbQekUwRnpF2rwh+qJo7fxswMUmSBppODQIX/Ve5ytV4wlVObQb7NqiPudgEe0xSavIoYwc7fnrzKTXvIwq6sowU7DMRV5y/9jlGVbOsOhGFeWmZ1qih1nOY52Tgggj/AVGqSmqVvKtCB0afkPNjIt7Cab05BZ5OJZMp+w6pLrVKNIEWsL6OaOb3QzZFbTqvleFlTsX20+Vc5pcLeriGLGrGc7usMNNQJxVQz3kFBHPhcK0nBKH2LQ=;6K4pJ51DraBemYBIYVJQLQ=="
+secured: "K0StS0hAH/ByI9Fe9MPxst/TzEnR3+WCXYaQhve2yWazx3qJKV3Kj54DDlzVLehoEbzXB5hQZq649tmSVyYfSLJCw/U6rkaMVk8krh0Y3NStbK2ZOJnkZkvu2m3TUiEfmX+tn36ihcAbo+x8m1MMo4VUzxi6utdWjISyq+1mCf8Y01uAHCe64UPaWrSEplJGEQBkurnfiyIlz6ZQfLqIEnrLdvm1PBODe3qsSFKs8epCmhs5gIp3o2+5BL8eWXViKfI4VbVbh3c4oRthul+6M8+5qm9Xs8dikT7L39KS3IRe2QaTSK4dZQa90eB0fnhWEVTgc3tI47evdW11w5qeH/+EeC5TdZ+vDYA9V430H5VfIuYQko8A/Xh1PMbi4gaso8YVoyrFWdjMSd/2BN65rJRnZZWLnMHMZew5qcQmA5D9SC3TWVhG/gsfeYF88Wi8ATrg+/RrViS9/kJQTEGGxz15HqlNOxhiu+hRaoQkGlHMiKiii5xrqXLNsc8T+bj6WgbmsCQIPzKHx/6msAyLpw==;i97S+l8nNuIvZ9dC6DFZMg=="
 ---
 

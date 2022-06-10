@@ -23,48 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "Banks Are Partnering With Fintech Companies To Solve Banking Problems"
-    excerpt: "Other fintech businesses may improve financial transactions and procedures. Large banks’ consumers may benefit from new services such as online notarization, AI-driven banking security, and bill payment. Many banks will require fintech partners in their ..."
-    publishedDateTime: 2022-06-07T20:57:00Z
-    webUrl: "https://www.finsmes.com/2022/06/banks-are-partnering-with-fintech-companies-to-solve-banking-problems.html"
+  - title: "Protecting small businesses against fraud with data and AI"
+    excerpt: "The company has spent north of $500 million in AI and data infrastructure, giving them more than 60 different AI capabilities that make fraud detection far more efficient than by manual processes. According to Fabara, Visa Advanced Authorization ..."
+    publishedDateTime: 2022-06-07T14:11:00Z
+    webUrl: "https://www.fastcompany.com/90757312/protecting-small-businesses-against-fraud-with-data-and-ai"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/06/image.png"
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/06/Visa-PS-Photo.jpg"
         width: 1280
-        height: 720
+        height: 570
         isCached: true
-  - title: "'Neobanking': Next Emerging Trend in Fintech Sector"
-    excerpt: "What are some of the emerging technologies that you are most excited about over the medium term in your industry? A. With emerging technologies such as Blockchain, Cloud Computing, AI and ML Fintech has emerged from payments,"
-    publishedDateTime: 2022-06-08T09:31:00Z
-    webUrl: "https://ummid.com/news/2022/june/08.06.2022/neobanking-next-emerging-trend-in-fintech-sector.html"
+  - title: "How AI can help several aspects of businesses"
+    excerpt: "While the use of artificial intelligence has grown throughout several industries in recent years, there is still a great deal of mystery surrounding AI. This was the focus of the breakout session “AI and Machine Learning: Where Are We Now?"
+    publishedDateTime: 2022-06-07T18:48:00Z
+    webUrl: "https://www.vendingtimes.com/articles/how-ai-can-help-several-aspects-of-businesses/"
     type: article
     provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 39
-    images:
-      - url: "https://ummid.com/news/2022/june/08.06.2022/neobanking.jpg"
-        width: 790
-        height: 530
-        isCached: true
-  - title: "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO"
-    excerpt: "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,"
-    publishedDateTime: 2022-06-07T11:35:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 24
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sharmila_100622_puja1.JPG"
-        width: 640
-        height: 413
-        isCached: true
+      name: Vending Times
+      domain: vendingtimes.com
+    quality: 17
 
 secured: "+fwHrRFTSUSma99k8AetuEDLM20OlFossd0IuXs1JV7zOQA4x7kgkuyvPGlWHysH9fbyDpOeBlnU8Et5GfqeXw3/cH4IoRYymp/kTQUNtBoidYo+7Bs6rNuNVKCX7E7g2aOCLSn2ztZQEVayGQ7YWm4cJnDJRPYi7k+jVN+Tb9RWmal002gf6Bwrbu8adG9j5R43p9tGhykGZBRBrh5WH/PfUWFmTKo9MHSPWkV9NaIFIPMXs/HIHsW1sZv6u0i5gEHhCA/uJyh3wWJVki/n2YAWdt+A9b59LmvJLcMO74OqWOLcQGuSazieUdE0aqvHd4zatcihOkflV3Dh69az2XKMSWgBOvyogKXyTwHbHphkoE5IDfGNEMPnyNRiURNJVdKvDdQw/SbVkXmsM+UJU9ra8xdNF8euy/OWtr+DC2E5LBxYBKYpLZpmgE1pEP0pIRk48yoecAywOzNLrjziqBqeKCybwuLkFLCXk8SkzILQDRP9UtyldoouWp90TS72ncL/cLFro2/5Mh0Tr3ZuvQ==;tB1UFdjasEyEO2KzpX8nAQ=="
 ---
