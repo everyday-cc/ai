@@ -6,9 +6,6 @@ publishedDateTime: 2022-06-09T11:01:00Z
 originalUrl: "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures"
 webUrl: "https://www.digitaljournal.com/pr/jaxon-inc-receives-100000-start-award-from-massventures"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: Digital Journal
@@ -18,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/AFP-California-Los-Angeless-Homeless-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "1Dp8yKmQsq77acT8cUdaD2p12j7NWR7sfkDFUP0JZY6US/1H5Bdmc3rMJuSXTG1I6tEZyDWXTdjkenizpqHDK8x7IzJMlL01W+arFa0cqmVg4FzxZ4+TtS7p0rYNfJVBwUnJKYZUnObLOLq3wTzFXTro7vce/phDAl05iaoJjzBU6hdioygUqoD2Fpl/Ougp1ok4B89QN92a+34H0tN6on0C8X1yIgY9/X9mbsTGQmo6IzBsRqNx8GfOs5TkDZUci5Wjwxs+Cy2iXgiAvqOdjRFvJns734gNJirEbBhKpiOCm9x/Ww8udkEoeeGSBAQYv8DJftxZuWsDUDXmaQbipnsW44c1coatQ1UmyqrdXbY=;ru9MYjrmrc2sa+Rs2tJdbg=="
+secured: "QQcAqX/Xl+2YcQfZkgXkp7UHWsffDtlfCO6MXuacBzBdYv2xE+Fxifz0hXPAn8H6/kKK7UVl6ar1hBkEBTBdXkIXa0mZ3iVkWlV/oO8/GhPbb3zHBS5YPoybgJSLtQ5KieZDmaLsV8NlACuuwfGtnX6u/aQgUAR2vTbq+O0nHPVUFwUnDP6qN5uUSfrGWU0JwCBsXYZdbWlACLSpijPGcBTgO2u+5jdgdR2x62IcdRft8Iog9+GhT3wqNqsl4H694sZdXtZg5TJWtSjdq/yKP2rr3NzWa5JMBuIw592h3gqCDFkbjL8wZhqdjuEWg65SP3zB0gf57H3vob+G8f54/AkL+CKVRwGyFaskyiMqpmI=;VVLjtpfThLXL1PwNIHLt5g=="
 ---
 

@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade"
-excerpt: "Singapore National Parks Board, Microsoft and Conservation International collaborate to create AI-powered mobile application that visually identifies shark and ray species Sharks and rays are in rapid decline."
+excerpt: "Singapore National Parks Board, Microsoft and Conservation International collaborate to create AI-powered mobile application that visually identifies shark and ray species"
 publishedDateTime: 2022-06-08T03:00:00Z
-originalUrl: "https://www.asiaone.com/business/singapore-develops-asia-s-first-ai-based-mobile-app-shark-and-ray-fin-identification"
-webUrl: "https://www.asiaone.com/business/singapore-develops-asia-s-first-ai-based-mobile-app-shark-and-ray-fin-identification"
+originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/141703"
+webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/141703"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: malaymail
+  domain: malaymail.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "a2geUTujZ8K3SLkCzZCIXFpoSi9E/dA8BsuuKU39624ohIHSeWzR/UGMTlN///18PdaKZSAiYpvYJwSH57TP8zxCFaNu/HyuXr8Xlnu4ye1onJWf5+f/uDr33/fy/c0Z4z6BJ1UAz4uMIPyy1Tl3qj++DYfPmj2X4aPuRKeWzAII6UT7vEYcV/hzn6yL0CgmknEVBsR7FW1XCvra6NbI/f5SFnrq9j+RTizKlDYCNk6lsI9QrrXxglfkb4d9iyF/Q0GcNT7QdXCHjZinKm67Y1PktIFCFelRj9n+X0YHHGITG49xfNvtboiCwlnCjKFYql/H64Q5fVFzva00P3hBTkJnHIroiXLzbGiNCuCT4z/IqIYFEAWwa7JKKQP6Z72pJRi24+E1AM8KwKbD4nnxIv2cF33m3+lHDvU5BqDYftxXpvMmFTYuE3fZK7S94VRKYrtgmAYe5KL2hcsYj+oHxmrQC9KJTynBCa3DGryiaYYxd1mPz1wIR6JeSl6Vf03RrRXs4lNw1ocZdAo03DsL0Q==;Ewt9a8X9tVEgd5js7h7FVQ=="
+secured: "QG7pXtDyYAnXyJgA4s6rPgG9bc6o5uEi2Ipery7d6ukWfs3DKpyGq5S0sLVAPtM80vWzbzCx8EavqwUF9kitPkefxpH/58CrRmAvhJ3cdvEjIYbckz7JTDzoZ/booSekV8Vl8uR1jnh6j5O7TaBJKdxOM1BQYKSJdxh+q38MfLVV+4oKvmErp/uuCLG+6blVK4qjACzvehf0h7sPNdRVsIuaYJRZRaJyypTr1cfBYr3V+8eCDT9ZdlyadcEikBy2X0iomsjtfRLMbxb/XMK3+pbt8ZOo4aW6nV6wIqvIQiNudbo4J6wX9eThGR0aY2Qb61Tl2PtfhWLrgBd3SQs2CLntnCawbx/EWDkN3jEjGO7mdZ2TrU2nudLZgEUGuZ2qHlIXJq/O3/aLhOxbw1XPZiw/Q593XacE1V0tyMcN/b6nLXmNd1a5N0IMQfSVvlSzEzaH6v/kcuuuRb7fEyMzrUvlEin096ITE/swhQXj2QHVHhAenlEghWIhOXMTOMtOi0xJn8ZHN3K3zlbt4B3whw==;rptlvOz3EL83Tin6gD7Y7A=="
 ---
 

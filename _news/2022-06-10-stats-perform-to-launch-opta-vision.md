@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Stats Perform To Launch Opta Vision"
-excerpt: "Stats Perform, the sports tech leader in data and AI, has announced a new series of advanced football metrics with the introduction of live Opta Vision data feeds for the 2022-23 football season."
-publishedDateTime: 2022-06-10T09:10:00Z
-originalUrl: "https://www.sportbusiness.com/2022/06/stats-perform-to-launch-opta-vision/"
-webUrl: "https://www.sportbusiness.com/2022/06/stats-perform-to-launch-opta-vision/"
+title: "Stats Perform to launch Opta Vision"
+excerpt: "Stats Perform, the sports data and analytics company, has announced a new series of football metrics with the introduction of live Opta"
+publishedDateTime: 2022-06-10T14:06:00Z
+originalUrl: "https://igamingbusiness.com/stats-perform-to-launch-opta-vision/"
+webUrl: "https://igamingbusiness.com/stats-perform-to-launch-opta-vision/"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: TV Sports Markets
-  domain: sportbusiness.com
+  name: igamingbusiness.com
+  domain: igamingbusiness.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://uploads-sportbusiness.imgix.net/uploads/2022/06/Pass-Predictions1.jpeg?auto=compress,format&crop=faces,entropy,edges&fit=crop&w=680&h=356&mark-pad=0&mark-w=280&mark64=aHR0cHM6Ly91cGxvYWRzLXNwb3J0YnVzaW5lc3MuaW1naXgubmV0L3VwbG9hZHMvMjAyMC8wMi9sb2dvX3dhdGVybWFyay5wbmc="
-    width: 680
-    height: 356
-    isCached: true
-
-secured: "cSlSWjx/Rh2bpDsOAfnG26Gu30ApEANR1tKxRp6YuCMJfSdtkPgw5Q91jB2I2UNt8JJb6k5AdcxBO8u6UdmdrvAimWr6VX097dgKbfyA+ZAS7BpVHkWI2CXFxYmTp+KaLKbTwhA5N25UzzPy1tgqDIjpeJmpKaZkfljTTLfVmavMcZ9QbnRsuCtCx86SuWSmSOVWqQPpCsSZSQhb8JZ4ce6Njlociijzop6eZrUDxMeB/yhuXehz0VTjUHmSu3koUJ0maNnUNhQNfaLTuAQltbsSrGzYlHs3BcOQjlxxKU6PQjZWsnNfvfrDzr8kaX31p1L9Li5og92jSkiEO4YuZTDwBxMqfN0Rf0A3YIPVJJxbEUDhXentnH7bk2W5ig8J38p+fqRvUQgyEaHKxRmN7nibN0fUhhOh1x8IY2sXI89nNCuNsno7eGnfVegQ0JlHYpCbbacp15oEMU1Rjz9PY35Vg2cC110btHYo6Duz9N3YajPVFkzcUf6R5E9Yc8CLRk4pdem900bPOXkdjWcWEw==;PYBbs0viC2AwXfT5UV2BRA=="
+secured: "xeC5LjNvti7FgPi1UZOcsbDxc+nGI1jeAc/J+uqfpA4rF1vuqH+Q5+ZK6yxlimUwa7iqlkJJw5Rx6hNL9L5p8w7brBSxAWVJK7PLSz2Uju2tBDzKGYy4TmZ0wBYTYKV6G8BlVgy065hT+YSV6GTabef8/kU7dezN4ffmIaF2TOuOPhES0lPaYVxlqve4g/f/WdesGNfCCxDgGBVZ1XRuecqkZVLBUFsAbjJOBTgqNOQiZAKRDPDadOFUlhd695tFhR8rQ0D8kE6FSCarCvJR63Had7ypKZ98Kvp6TJprzpcozLtlVWEdZXdEnTPh62O5jo4ot3+jSpEUpuvMlA3EAx57zbdNvZ6Dzik6+iBFTGiZgPDL4b9dEcZYsUbEgsMA8mDAYMEv9eZFDfAWic03RWh+HDalBrwipu0UweybBzDCeKXzMFQHBwG8C+59A+iWyb31XQfd3/wFAJkwgBA4hRoeP4TlhF0HZ5I8EwCwNSmwFF91F/TZYObH191HC10rNYqOcATlHIKuCW3/BXMPSg==;R1LfG2Sk9Hs2iO9veElmLg=="
 ---
 
