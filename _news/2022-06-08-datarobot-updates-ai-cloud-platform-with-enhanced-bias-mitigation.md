@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platfo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/robot_shutterstock_Artram-scaled.jpg"
         width: 2560
         height: 1660
+        isCached: true
+  - title: "How McLaren Racing Benefits From DataRobot’s AI-Powered Predictions"
+    excerpt: "At the Miami Grand Prix last month, McLaren Racing’s Edward Green was monitoring a data dashboard with a graph indicating a predictive model of track temperature. It’s a key metric for Formula One cars because hotter asphalt wears tires down more quickly,"
+    publishedDateTime: 2022-06-10T07:03:00Z
+    webUrl: "https://sporttechie.com/how-mclaren-racing-benefits-from-datarobots-ai-powered-predictions"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 37
+    images:
+      - url: "https://sporttechie-prod.s3.amazonaws.com/f1socialimage.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "qyyhwmbmRUs7M3R78W+6Qwf6YerbzDVRVUXDG5cTpgThxUDQftObXNB2aSxoDbrXFAm5rbseViBqDmDEZjHyF7C3bfTbcmNIfMdz1738QJ/hBHcgQqVSYqGIuqWtLN5X5Oa/g9+nbR4BZbpEdS5ZSP4DDqA7Vm/D4ypXzjHAeCOmY0KTOyKSNcR8JtZhNEKAdLLasgCJFFs4J96IwtD3Sur86+51Mw9StRfQ4NGagpRCltJ3Emb9U2bjPjTPlpS8Uh8lEGlUgnq/sGOTwWU2lsQ2ZanrLdlhQU/CDQx5glcR0uVYwhmq/OusYyhM4Kymb/ypFsS2++1a15UjxF9HK4eTq8DSxp0fgH5AgcbaFGP/FXaNRWnwiFMdAXCZZ2a81C1eGJmJvdWXtGVX4cbkBrclH5qiy4hDv3czoIth+1ffkpmL9iaGeyEtbIrVwM4uvN54WLJSx8KZ9suUfkkyi7SAes99JgmJONl3UjBi7n5LdCDbqFj1eK5GT1vBGaakzP6DCbO7jh3M4ryXY9znYg==;J/EK/8wG+4MFWqxF4ikPXw=="

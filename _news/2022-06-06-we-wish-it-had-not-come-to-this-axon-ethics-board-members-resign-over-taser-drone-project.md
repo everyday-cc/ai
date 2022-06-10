@@ -277,6 +277,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The PRAI Platform Transforms Public Relations With Artificial Intelligence"
+    excerpt: "NEW YORK, June 08, 2022 (GLOBE NEWSWIRE) -- PRAI is the first PR platform to introduce affordable software for every company, powered by artificial intelligence to generate public relations campaigns. PRAI.co will inaugurate the uberization of the PR ..."
+    publishedDateTime: 2022-06-08T21:00:00Z
+    webUrl: "https://www.register-herald.com/region/the-prai-platform-transforms-public-relations-with-artificial-intelligence/article_819fa92b-1e07-54c8-b5f1-3da24bb4874b.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 50
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week was intended to “initiate a conversation on this as a potential solution.”"
     publishedDateTime: 2022-06-06T14:34:00Z
@@ -430,6 +444,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "0JJmDI1kfZQBm6M2YkaOrRgr2UsVspzXVqF7vhzkFCVw4K6mJnlC1HPOU1OU6CoRXXl8y+2slQY0jgRfb5uXsI9Sx7Hhp1izMKc3gzSf2Ol9nLYE6zPGd9GPC8vwZFCmjUGXKL15A6xr+g4ycBX1bN0PdmNYjGlolQ4hvf6dh7ncvAuUAi+5zaJKZCnnBhG011h9y+UV3YbMdzFbgpkaRYfWDsQfMvYW3bHtwzkKuQ29kJJbdZnsjSLd9aIOggyTDX/Xayfzpf0M3T9EAO6gJgOIbSR1ePnAxCGnhewfQdcCdK1esUmdPyMQSJOLuCVxM5wlOR4/YKuAJxV78k4pNX2862hHc5bp2EuAprNy1BY=;EKVHtsjzAqj3gFBLCd7/JA=="
+secured: "2UDnNMvthiZnrNDB5aFFvr4ARYdUpZGdH6vRMPAQLlAwv7v70o8H2bATenRA2vhxzwPQAinL8k2Z1HZVfg232WA8mhxI0IjpXucO6LLS/BFC4Xip9cq5MCSpraVPkjGsYqpPReyn3cK6+uj4aS4b1tg1UZAbu75NS8gJZOjGsA/RVJWcpAFqAHEm8htc/Ho89GIkGsKJrqxqxMrBOSClRbND1pF2vVz9fREtQdgGfgsKpWa0hbGCl7uSUdk2itGTYG2d5eEl7SckTFnkIzZqiMAoB0izKJggExe2rkPwG7NgJ9xvW6dop48xtjzY/NiIyVBSEd9yWQ0klWAa8bjroxBEhz7cSV3LZML6TUHeCGpNovV3Otn9qG51iKHdCn6tM6pyd1Oahn3Rn5fMxiVP78oWKZ1/hA/tTrusS3Szy17fx1FCoEL2nYIZ8O9LnEdtN5FTMBUgZcbt1a9u0rWf2h4Zros5aKMasuJphkovf3KWvNlAlmP7aVZ9QuD+6S4o8bxEugAAFuo1L8Mfy/T9bQ==;iodNJUSsf5nR+oQF+FjvzQ=="
 ---
 

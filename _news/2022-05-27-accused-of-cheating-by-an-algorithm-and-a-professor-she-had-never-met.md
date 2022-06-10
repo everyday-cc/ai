@@ -1,35 +1,28 @@
 ---
 category: news
-title: "Accused of Cheating by an Algorithm, and a Professor She Had Never Met"
-excerpt: "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake."
-publishedDateTime: 2022-05-27T07:00:00Z
-originalUrl: "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html"
-webUrl: "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html"
-ampWebUrl: "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html"
+title: "Accused of cheating by an algorithm, and a professor she had never met"
+excerpt: "Honorlock, based in Boca Raton, Florida, was founded by a couple of business school graduates who were frustrated by classmates they believed were gaming tests."
+publishedDateTime: 2022-05-27T09:32:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/lite/"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://static01.nyt.com/images/2022/05/27/business/00cheating/00cheating-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://images.indianexpress.com/2022/05/Untitled-design-2022-05-27T145733.095.jpg"
+    width: 1200
+    height: 667
     isCached: true
 
-secured: "2WkeBRMfwPuPIGWJ2DDAFecW4AcRwUrLCbpaycCsNz1JgXgxPS1TAIaXdj2P1u20vAzSfSTsn4gt3+s9EZMm8Y+WGkMTgKZhnGP3VXtqMulzc6ZadNUwKxpG7RmTkF1T7CAt5SKRS5rX+Oj9FFWpRdQ259032hBP+zBuU1/2HwXupuLmtu5be36qjcoCnMQgKpWrT7neBVqTCpmMC5Yl9Q7JjYvDXNLnZPGtlL4P6MCzrpSkXtD9NISAQ45+LsMhZogjPf9ULkzOZNmvxrzB5QZPrs6ENk7cGqrLrQ372TZoXAHjcxAsw/gubn+v3DEqIrCOA/5MH9LGa74Tf4gp8iZMdeVGNBkVhS9uytCTBftikKTr4gAk+QIzhXfeu9C8+SicVs4hqzjYN3G2jktQcHamhPUidUwAn65y5453hIL58zhr6gf7LMjR15ttoaRoxCIcoj9r872uB+kMUDoq4O+NS+BP+hzywMRw7AMrMbZHkjs6GwGwvvX9xan0SX+O6vfnpVZxDGQDZgw7lPdcdw==;2S25AdCg0zpnxnYxuoZdQQ=="
+secured: "cqiFA2lk6HHYKBYD3smapysapJZgHXM7Oq8NenLzXHT3VoOIBsLuzMIv9+8dhIaRjBN4I/5iRquPXbnk8srVbH73zjtEK8S9qRj3mXk69Ga7F0kluJ1oEmUDdNoPDYaQD7XM6uTsePEhGsJbwa3qj9zCYycpo+E1161W2yDIxoE6H+CVltCkDilL+4YW+Tzym0GVD77pyyrao1qXL5FdoBAZo79E6735Dhr6CtXb5H6g0AoZvNTFX6x1oDtivK3B/8p7F+/bc6fnR010+hIDdSsapM4RZoqxk6zT01cp9WpvDIhwDsykf2riQpL/gBkk/7ikcdmVTzXKzAULFQKYU8yZn+y6GhSlhO6Q9j9fFes=;dY3e9EpbcDerzK0N+YkhHg=="
 ---
 

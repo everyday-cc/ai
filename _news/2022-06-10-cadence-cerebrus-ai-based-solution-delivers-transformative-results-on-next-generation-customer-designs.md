@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
-excerpt: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs. Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer a"
-publishedDateTime: 2022-06-09T18:49:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/09/9619117.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/09/9619117.htm"
+excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer adoption of the Cadence® Cerebrus™ Intelligent Chip Explorer is accelerating with new production deployments completed."
+publishedDateTime: 2022-06-10T07:30:00Z
+originalUrl: "https://www.design-reuse.com/news/52118/cadence-cerebrus-intelligent-chip-explorer.html"
+webUrl: "https://www.design-reuse.com/news/52118/cadence-cerebrus-intelligent-chip-explorer.html"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Design-Reuse
+  domain: design-reuse.com
 
 topics:
   - AI Hardware
@@ -62,6 +62,6 @@ related:
         height: 773
         isCached: true
 
-secured: "iR+CsTSX2vxbEnEwGc+fHOqENKzgcwOQS7hEHEb2z9IcpiOdL7lrXqm353xmbK1zDWGDKqvMTtsrzHyuIRziJs78EAVJoKI47VTQhOBVWouGaJ6rrInEvi2j1UAs2OLuv0ADsxn3VnXwpasEbHXMq/UuOfKZGyjN4MliZGRonCEl+VnuMtj18Cc+2Nx9NFpnArKHFPLtAQcyEKOCFmFJdJvIEwIuQL1ZDydxwQyfq9puIEpwfiWcKOZkXK3uFsx0TM3XssAqVrtENvX7XNAKZx/18ifHsELS6RPHlCO9AzMjAEfob91zyxLfm90/tXFZvxzaIz5foK/UbHa1EVs4A2/8nSVrDYjbgUg2Hb6fMrs=;cPU3nGXcuLWdDDh2CyUsbA=="
+secured: "OLkgIF6+h4L8ig3/5iOxSR5fFG2QE3Quft08cVyVsi3sWd/CFmKm/2J/I8s6KPhZwBqKvM6AyOH8Hd4PRFTtW0EDCXvhShTEmZcf3H11/d56eQuWGjaFi9wgg5/yMvAeGeHR0hX1gt8urdYuqDFj2QNHDTlit+sJ+smearBBSDKG1/TlHVZZJLgorVcoLP0YbBn8Y7IpzWhxfFYeZIf0r5iyCq9eUnbF/LeM+hVUQ92OA6Z+LHc43L2cyzNaWl9DbR5F70k7vD8A/tTLhjIh09PcHEUsaReWkdeA979pE5txq7vwClKpod997KFtFC2youU3uJqp49bL7QojKaN2Re9WDe5qtV4r4jRY2hmgy6o=;N16Xxbxd66yLP9nQ08sriw=="
 ---
 

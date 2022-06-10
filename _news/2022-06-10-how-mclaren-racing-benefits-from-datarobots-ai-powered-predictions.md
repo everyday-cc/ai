@@ -1,0 +1,60 @@
+---
+category: news
+title: "How McLaren Racing Benefits From DataRobot’s AI-Powered Predictions"
+excerpt: "At the Miami Grand Prix last month, McLaren Racing’s Edward Green was monitoring a data dashboard with a graph indicating a predictive model of track temperature. It’s a key metric for Formula One cars because hotter asphalt wears tires down more quickly,"
+publishedDateTime: 2022-06-10T07:03:00Z
+originalUrl: "https://sporttechie.com/how-mclaren-racing-benefits-from-datarobots-ai-powered-predictions"
+webUrl: "https://sporttechie.com/how-mclaren-racing-benefits-from-datarobots-ai-powered-predictions"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: SportTechie
+  domain: sporttechie.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://sporttechie-prod.s3.amazonaws.com/f1socialimage.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Datarobot updates AI cloud platform with enhanced bias mitigation"
+    excerpt: "DataRobot today updated its AI Cloud platform with enhanced bias mitigation, code experimentation and MLOps capabilities."
+    publishedDateTime: 2022-06-07T22:00:00Z
+    webUrl: "https://venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/"
+    ampWebUrl: "https://venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/02/cc9cf1dd-062b-48eb-9b71-9332024facbf-e1654611675352.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "DataRobot Introduces Expanded AI Cloud Capabilities and Tools"
+    excerpt: "At its AIX 2022 conference this week, DataRobot announced new products and enhancements for its AI Cloud platform for data scientists, business users,"
+    publishedDateTime: 2022-06-08T20:55:00Z
+    webUrl: "https://www.datanami.com/2022/06/08/datarobot-introduces-expanded-ai-cloud-capabilities-and-tools/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/robot_shutterstock_Artram-scaled.jpg"
+        width: 2560
+        height: 1660
+        isCached: true
+
+secured: "T/bU7zipNY9K61hTYMJF9x1BDJlp+2jNn9GDW6ZmE56/vBJLCHqHhYhu6aX748TndsGW5NGulTUXnS5+zAWj/ORxLiCXD4XdkY5Mfp/DGRFEWntPjFiHh77fHZ56Fz3IAY3vxeEj9TYADv8wliZ6dvRHuY9U8ngCRRl+Ky61eepbRCJiptBQH0yqDoWX9NphY2i2A84deqoDiZLDSmG3KkwdNn3a9sH93Pg1WF2a9mf05gjZgsH2zASQ7MCNB0COFRJm7jq5WVP0pAJUsXESuoCJtR/MokVoeO7dYpxi6xFpe6mBgq0gcoKL3u2bdlQ88Hja7KP5QJuK4M55PfdrFZDtJC3e+x8eUFaauuXObG0=;LPqq/MxwpJocbJY1scDqFg=="
+---
+

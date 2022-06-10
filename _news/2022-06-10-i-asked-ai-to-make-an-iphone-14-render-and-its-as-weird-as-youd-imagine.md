@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/features/i-asked-ai-to-make-an-iphone-14
 webUrl: "https://www.techradar.com/features/i-asked-ai-to-make-an-iphone-14-render-and-its-as-weird-as-youd-imagine"
 type: article
 quality: 65
-heat: 85
+heat: 87
 published: true
 
 provider:

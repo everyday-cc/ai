@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/first-nations-people-shouldnt-have-t
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/first-nations-people-shouldnt-have-to-wait-for-a-referendum-to-get-a-voice-to-parliament-184316"
 type: article
 quality: 50
-heat: 70
+heat: 71
 published: true
 
 provider:

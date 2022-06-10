@@ -3,8 +3,8 @@ category: news
 title: "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022"
 excerpt: "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing."
 publishedDateTime: 2022-06-08T17:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
-webUrl: "https://apnews.com/press-release/business-wire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448"
 type: article
 quality: 43
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
@@ -54,6 +54,6 @@ related:
         height: 450
         isCached: true
 
-secured: "NZKkNG3ZFtdGPR4Wf56llE/BRA2xIm0igB2fwfS8+vJC2lgsof0Qc7ZCD+wPIntDUbw/iP7JcEFHd5+I7n+Rw8FlEy3N0gAjgKm1vm2HdbNLfHn8jevzIqBQXs6nv1zt68J6l9cF17VYmHqj8LPtBmI3oJ74vF5xEPnXHvsjZnEw33VjF9rgHod5BgqitRi9DTLTVhnMQyMHQrw8MX22HE2Y5s4pKDWQ40OMREwY1GKTSCaNTp8kpDyUnePzK+fLZ1Q+vjfP3I3ulGM9XwirVgYRz9q3bjDOKbL3UH0LpbegK33p91L2lALpPf01KaaWAX1iJKU7T55Wvmpyk/0SnegPFOtVexA+0kMF2AHbX3g=;GNSLWVgbHAWZokQ3ptGGhQ=="
+secured: "tMbLkCLvOTW7hXHr6Sy4SRD1IgfqlgfEnbB41bjW19LFLtsztYThQ1ZmL9w1J4JRVjy/Zr9qcL1p7g/gPoQoXi0zSWSTIhYqyWQwryKhSsLx587kS97rfZdEYGkF9kl0W8xC5rowyp4XWRQyLYX3IbUSor0zV7DOkleAK+Kj/qg7CGZ8I0+17C5S+obHLmvTg751Mx6pJpgfPiHkSQ5qU2DnhOaS7e2Cyqv9INct2S6kb37dQwgFaMChE69oQbW5D6FlGVttbjXiXsZYkQRIT11X4PAN0d7GRb/Rp8aagyE13CsoDHgS+CeWJD99W5703J+1EYeqQ5ez5hMlzCqZyI1LnFYcmsALlFymk8jx3/8=;2MVb4Mxx1FRfW+E2gobeig=="
 ---
 

@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-03-17-standard-bank-employs-aws-technology-to-boost-shariah-banking-services.md",
-      "title": "Standard Bank employs AWS technology to boost Shari’ah Banking services",
-      "excerpt": "Standard Bank, which offers a range of Shari’ah-compliant banking solutions, is introducing a dedicated call centre line for its Shari’ah banking customers, which is powered by cutting-edge technology and promises to provide customers with personalised and efficient customer service experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/91911/standard-bank-employs-aws-technology-to-boost-shariah-banking-services",
-      "originalUrl": "https://www.finextra.com/pressarticle/91911/standard-bank-employs-aws-technology-to-boost-shariah-banking-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2022-03-17-aws-launches-game-based-courses-to-teach-cloud-skills.md",
       "title": "AWS launches game-based courses to teach cloud skills",
       "excerpt": "Amazon Web Services (AWS) has announced two new free training initiatives to provide hands-on cloud computing skills training in a fun and engaging way. The first initiative is a new game-based role-playing experience,",
@@ -1379,6 +1335,40 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-03-02-aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams.md",
+      "title": "AWS and Bundesliga Debut Two New Match Facts Giving Fans Insight into Germany’s Top Football Players and Teams",
+      "excerpt": "The two new stats, “Set Piece Threat” and “Skill,” powered by AWS machine learning and analytics services, enhance the football fan experience and give invaluable strategic insights to teams With these two additions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220302005404/aws-and-bundesliga-debut-two-new-match-facts-giving-fans-insight-into-germanys-top-football-players-and-teams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-01T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

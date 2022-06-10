@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Outreach Announces AWS Marketplace Availability"
-excerpt: "The Leading Sales Execution Platform Is Now Available to Help AWS Customers Close The Sales Execution GapSEATTLE, June 9, 2022 /PRNewswire/ --"
-publishedDateTime: 2022-06-09T13:25:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/outreach-announces-aws-marketplace-availability-1031519490"
-webUrl: "https://markets.businessinsider.com/news/stocks/outreach-announces-aws-marketplace-availability-1031519490"
+excerpt: "The Leading Sales Execution Platform Is Now Available to Help AWS Customers Close The Sales Execution Gap. SEATTLE, June 9, 2022 /PRNewswire/ -- Outreach, the sales execution plat"
+publishedDateTime: 2022-06-09T13:52:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/seattle-business-f49642efa860c3b0985cb4eaf791b738"
+webUrl: "https://apnews.com/press-release/pr-newswire/seattle-business-f49642efa860c3b0985cb4eaf791b738"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Miso Robotics Announces Collaboration with AWS to Test Robots at Scale"
@@ -33,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 81
 
-secured: "4Bap9Q4AXvWMmOhu2m24Y31JNyPHnyJoSKC9pxtpotl33sTrgWwgh4/CR5OpdfRRFpSbKXq6rhgqWQPeP6o9dP4X1efYoGfrqNkbKB93XG08H25nwsKA3vUo068NG6dua+1Nonx/7SHSZnYZzFCXxTOCbbTkZb2hXAFp2qg3BKs27LBgFPUCZJ5havSQ3qDo5BBQ6YAhFyvbUDePFviQHxPWStzF+1HPgeBttlgxmKRhHAUhT7+QOVhaKXcujBsax+ogVX12t2mEw6qILrAoRsiSyA652cuo/hMxCtBBc+ROFX77Uld9mNoMLHyowBhTSBbhmhzrcUoEc2yjrzYPSyJprG+wYV3y5dpIwQf3ncI=;z69P333GpwkiI8J8NyO05w=="
+secured: "57ipe91fawYncbxYoWQYP/Gov3bBaLQfKvaO6ye8dmdJY8GqY1XKYF7h2TZoRVM0b+z1+midYcLn6pPBrDqp7GQWmhOovhb7hxvMUkpJjh2wGf1pWii1vKvH7xOaqLe1RuZvpURlRUpH5DR8z4VMy/yW6q7uoSQL54Jd3Q7rlAoNUL4YrDIG4RYBTKze2vPh4TNw1LhhOSrMwnLqcoMyvoi9JMJzEnlOxzC1TbfNcpkvlqMUvJ0wbXrXxXTKeUZOMVUkA8FKHpf29xEPdrFQwtIzjbJIP6p5LgAG1mW04uE2TEaU18TDZ3uTeYj6chVne5lY496IeoLboP6JiRNdjPnPWK9t1Wha3iNBxH4zFzA=;uJscHrNkAH/xd0qfiV7Rbw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

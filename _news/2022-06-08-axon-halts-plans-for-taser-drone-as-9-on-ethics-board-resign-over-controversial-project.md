@@ -261,6 +261,20 @@ related:
         width: 1138
         height: 640
         isCached: true
+  - title: "The PRAI Platform Transforms Public Relations With Artificial Intelligence"
+    excerpt: "NEW YORK, June 08, 2022 (GLOBE NEWSWIRE) -- PRAI is the first PR platform to introduce affordable software for every company, powered by artificial intelligence to generate public relations campaigns. PRAI.co will inaugurate the uberization of the PR ..."
+    publishedDateTime: 2022-06-08T21:00:00Z
+    webUrl: "https://www.register-herald.com/region/the-prai-platform-transforms-public-relations-with-artificial-intelligence/article_819fa92b-1e07-54c8-b5f1-3da24bb4874b.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 50
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon’s founder and CEO Rick Smith said the company’s announcement last week was intended to “initiate a conversation on this as a potential solution.”"
     publishedDateTime: 2022-06-06T14:34:00Z

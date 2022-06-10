@@ -54,13 +54,13 @@ related:
         height: 450
         isCached: true
   - title: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs"
-    excerpt: "Cadence Cerebrus AI-Based Solution Delivers Transformative Results on Next-Generation Customer Designs. Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer a"
-    publishedDateTime: 2022-06-09T18:49:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/06/09/9619117.htm"
+    excerpt: "Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that customer adoption of the Cadence® Cerebrus™ Intelligent Chip Explorer is accelerating with new production deployments completed."
+    publishedDateTime: 2022-06-10T07:30:00Z
+    webUrl: "https://www.design-reuse.com/news/52118/cadence-cerebrus-intelligent-chip-explorer.html"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
+      name: Design-Reuse
+      domain: design-reuse.com
     quality: 3
 
 secured: "6ubgBvHd65kfOUiQyicvUBkwG6O1r7SBIEwbSbGwKLENV2PzIAc8bsTlmctVgHdUhaggXOtZmnErCXgObSQz7D4oHTniaz6UzOshx0Y09nrCSLBvgl3nEttNIyQHBoJCzGqlpnrG/0ppDbBtuJjF8NW4rEVbZZK8aFfxvVOGWhdAt+HGka2yzN1Go1tUt4m+RY0yUeKcwrnWn7Yp50sYc/BskwVj88EGZ9loOGxxcHJ8GafGsNdaDX6+V1cQV6nWXf0YT3qYDfmG5L7P7WDfoVLUW3fP5iUgtF8ZX5sljnOFOHmvdJBwcwJQoF7tFTivHfhiWR1M5cBVXdwxOOhzMmjUa/kGK6vKjeZt7Hmyrmk=;X9OTelUXjE0rrQyYH2P7Nw=="
