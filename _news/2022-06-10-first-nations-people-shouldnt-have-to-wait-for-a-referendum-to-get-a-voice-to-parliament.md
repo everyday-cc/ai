@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/first-nations-people-shouldnt-have-t
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/first-nations-people-shouldnt-have-to-wait-for-a-referendum-to-get-a-voice-to-parliament-184316"
 type: article
 quality: 50
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: The Conversation
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Dean Parkin: Voice to Parliament is a win for all Australians"
-    excerpt: "A referendum on a Voice to Parliament delivers upon decades-long calls for Indigenous constitutional recognition while having a practical impact on the lives of Aboriginal and Torres Strait Islander people and will bring the country together in the same ..."
-    publishedDateTime: 2022-06-05T19:01:00Z
-    webUrl: "https://www.couriermail.com.au/news/opinion/dean-parkin-voice-to-parliament-is-a-win-for-all-australians/news-story/6d1ecac4a74dde1f76beeb3224e38096"
-    type: article
-    provider:
-      name: The Courier-Mail
-      domain: couriermail.com.au
-    quality: 4
 
 secured: "NGti6f7UY8v6VdnM9/STmIH1y+ZXLbsU9K1EgCMpWGDwS7m8Kb7jHHBv7492IhDZPNYMRk9u9BnL1mqP6bzfEc2JT17W8efi2b257JzVu1M0Lz+FkKNwPD2/+AFXb+y5iCzQdG7HzTkBEsizcODK6P6wfhWErEfgMhHTwq1f9Dy5skrCWJ9ZEVfKV8zEtSymPuYQm71h+PK5UtC5bCRrVPnHZo5W5pBnASDJhYSxH+lMAicJqS11zSwVW2NMZnyi5JZ/3k9jlHtSxQWFPzOCdMOlkn15mdGWrTMxTlwU+IG/4qz9I1R/igah817eLPLdiPuFHvsqjknkq+KpdHN/IN+JjKsxmjatSvmiln5SfMf2sK60y271szoDo0+LkCWS8HYYlNQKbH9DX/Un5VoNrYbiUt80RaF/NdOX+Q86nhaFNKDOD8CQ2wECYdlNobQg5rblWt87xk6lZoqGESu3rzE2Aau5NytJIrSvDLohOrTbue8SRvq8DQ3xyytq+okJ02D8zyoVGYBeJAqkXvp2Zw==;g5JodNPyVbI5k4Z+Ma7dTg=="
 ---

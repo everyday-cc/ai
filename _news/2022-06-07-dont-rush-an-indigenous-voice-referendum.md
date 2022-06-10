@@ -41,15 +41,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Dean Parkin: Voice to Parliament is a win for all Australians"
-    excerpt: "A referendum on a Voice to Parliament delivers upon decades-long calls for Indigenous constitutional recognition while having a practical impact on the lives of Aboriginal and Torres Strait Islander people and will bring the country together in the same ..."
-    publishedDateTime: 2022-06-05T19:01:00Z
-    webUrl: "https://www.couriermail.com.au/news/opinion/dean-parkin-voice-to-parliament-is-a-win-for-all-australians/news-story/6d1ecac4a74dde1f76beeb3224e38096"
-    type: article
-    provider:
-      name: The Courier-Mail
-      domain: couriermail.com.au
-    quality: 4
 
 secured: "sgcjGI6Ckfi9eA+UFcZxpwOIAbzKPrSFYbx9Yy8QfUjJysteK4PfP63UbSc6TXyOLhGnyeFIwdXDn/idlRuVbXLx26wxEVubW5YpiJclIVh0+hPNqVI0o/dqUYkXMSCDPjV5iZukmGlIIpwl2RIsKyxPUGQ/K8QdHjxuIMibBGSUcdrGOiRyY5Ko7HM72GQGsbm0WHxoG/N58p4nQrjpHAaZMGX5zaLbwqmxRFRvGv3kkXgSbmDz3vO3WCcJr13UPCjNXu9+/0tEZ20UVckrfNirASCUnBPHtIfAXgNiCYt/JIe6TtSqvskNLmtcNn4SAPdQAHLRBZtXfwK6gYqUplkY/C6/VHZL4RJbSBj1rv0c8C7AUrNBNtq2aarjgNTDJsBaWCPC3FYNsf2kY9SwC45dXWi6eBCfO359B5Ys1PSRHtS9XQA3SOpQbKmFAFng7zqQxqvcAEysjkNAlSVgMTZq/FAwSxl6Ntx9pIYVTTDVfv6webgPPzKJepacyqdfmtVXjEfZjHMNh5bIhYP91A==;Ga4vejg4Gyc6brLrhcr8uQ=="
 ---

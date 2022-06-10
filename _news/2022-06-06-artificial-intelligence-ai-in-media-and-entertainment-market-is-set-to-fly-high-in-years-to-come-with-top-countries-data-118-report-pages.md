@@ -42,6 +42,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence (Ai) In Computer Vision Market Expected to Reach US ~$81.10 Billion and CAGR 26.2% by 2028"
+    excerpt: "The global Artificial Intelligence (AI) in Computer Vision Market size is expected to reach USD 80.10 billion by 2028 according to a new study by Polaris Market Research. The rise in the ..."
+    publishedDateTime: 2022-06-09T14:01:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-computer-vision-market-expected-to-reach-us-81-10-billion-and-cagr-26-2-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 47
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/711433c4010329ecbb3a7b222727a1cdd7c76bb7-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "T+gL4kqtuEmXoZl+ORIGy5mG0FU7nj+5sW1jV9jPsoAlvBftZNbsIUjDwnI0d7FLJ9ziHt6QajyQ4DF1qvyop6RNy1A+lseDujFEL6mS2Od6bHSUUVJ7yaZ5oyhcG8sGJtQU6YillKND2dvzsBXnp75eFLTaMi6mMGk3WQExqXSxGPUlCyl1sMvAXnPERl3xU1dekvXlFTlGgvJqhh7eRgTdSgnQ9+c7z4CJZv/6ACh0I+f3YPtj0cBsFaopB9LT0y7zVwDsYFAYjHXT4jdzSR/c/qFYXDcw3yJzzXmD7LpVewSt8w4LBd3kAE4Mau8wgZT7wfn4d9XvG4iID/E7Emfz8lLvTR6BMQfkUq5IXuI=;DmDjoOXANYhPnOk9OsbdFw=="
 ---

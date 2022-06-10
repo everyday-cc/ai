@@ -1028,6 +1028,49 @@
       ]
     },
     {
+      "path": "_news/2022-05-26-will-robots-change-business-for-the-better.md",
+      "title": "Will robots change business for the better?",
+      "excerpt": "“The AI journey has developed impressively over the past couple of years with the likes of voice generation and facial, voice and object recognition, which are becoming widely available and at a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/business/ready-and-enabled/artificial-intelligence-companies-transformation/",
+      "originalUrl": "https://www.telegraph.co.uk/business/ready-and-enabled/artificial-intelligence-companies-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/business/spark/brother-ready-enabled/robots-ai-xlarge.jpg?imwidth=1200",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-scientists-discover-why-people-with-autism-may-literally-see-the-world-differently.md",
       "title": "Scientists discover why people with autism may literally see the world differently",
       "excerpt": "They found that those babies who went on to develop autism by the age of 24 months had weaker connections between brain networks involved in object recognition and steering the attention to things ...",
@@ -1273,58 +1316,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-clearview-ai-says-its-bringing-facial-recognition-to-schools.md",
-      "title": "Clearview AI Says It's Bringing Facial Recognition to Schools",
-      "excerpt": "The company revealed it's working with a U.S. company selling visitor management systems to schools within hours of a horrific school shooting.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
-      "originalUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2eafd02da366f481fe2fb052260905ba.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-facial-recognition-privacy-1848975528/amp",
-      "publishedDateTime": "2022-05-25T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

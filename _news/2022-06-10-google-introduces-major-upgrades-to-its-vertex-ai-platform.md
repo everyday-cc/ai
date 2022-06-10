@@ -62,7 +62,7 @@ related:
     provider:
       name: Bestgamingpro
       domain: bestgamingpro.com
-    quality: 25
+    quality: 27
     images:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Google-expands-Vertex-its-managed-AI-service-with-new-features.png"
         width: 600

@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-10-first-nations-people-shouldnt-have-to-wait-for-a-referendum-to-get-a-voice-to-parliament.md",
-      "title": "First Nations people shouldn’t have to wait for a referendum to get a Voice to Parliament",
-      "excerpt": "An Indigenous Voice to parliament and government does not require a constitutional enshrinement or referendum to be enacted immediately. So why is the Australian government asking for a referendum?",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/first-nations-people-shouldnt-have-to-wait-for-a-referendum-to-get-a-voice-to-parliament-184316",
-      "originalUrl": "https://theconversation.com/first-nations-people-shouldnt-have-to-wait-for-a-referendum-to-get-a-voice-to-parliament-184316",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/467897/original/file-20220609-14-rygfik.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/first-nations-people-shouldnt-have-to-wait-for-a-referendum-to-get-a-voice-to-parliament-184316",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/first-nations-people-shouldnt-have-to-wait-for-a-referendum-to-get-a-voice-to-parliament-184316",
-      "publishedDateTime": "2022-06-09T19:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-09-how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend.md",
       "title": "How service providers can use natural language processing to gain insights from customer tickets with Amazon Comprehend",
       "excerpt": "Today, customers can raise support tickets through multiple channels like – web, mobile, chat-bots, emails, or phone calls. When a support ticket is raised by a customer, it is processed and assigned to a category based on the information provided in the ticket. It is then routed to the support group",
@@ -1430,6 +1387,40 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-28-google-assistant-could-soon-get-even-better-at-recognizing-what-you-say.md",
+      "title": "Google Assistant could soon get even better at recognizing what you say",
+      "excerpt": "Voice recognition is one of those modern tech miracles we easily take for granted. It helps make the Google Assistant possible, and while that's pretty good at picking up what you say and giving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/google-is-working-on-personalized-speech-recognition/",
+      "originalUrl": "https://www.androidpolice.com/google-is-working-on-personalized-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

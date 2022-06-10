@@ -2,19 +2,19 @@
 category: news
 title: "Axon halts plans for Taser drone as 9 on ethics board resign"
 excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
-publishedDateTime: 2022-06-08T13:41:00Z
-originalUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article262197492.html"
-webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article262197492.html"
-ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article262197492.html"
-cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article262197492.html"
+publishedDateTime: 2022-06-08T11:00:00Z
+originalUrl: "https://www.sacbee.com/news/business/article262197492.html"
+webUrl: "https://www.sacbee.com/news/business/article262197492.html"
+ampWebUrl: "https://amp.sacbee.com/news/business/article262197492.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article262197492.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Sun News
-  domain: myrtlebeachonline.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI Ethics
@@ -258,13 +258,13 @@ related:
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign over controversial project"
     excerpt: "The company best known for developing the Taser said it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the project."
     publishedDateTime: 2022-06-07T17:34:00Z
-    webUrl: "https://www.wlwt.com/article/axon-taser-drone-plans-halted/40209721"
-    ampWebUrl: "https://www.wlwt.com/amp/article/axon-taser-drone-plans-halted/40209721"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/axon-taser-drone-plans-halted/40209721"
+    webUrl: "https://www.kcci.com/article/axon-taser-drone-plans-halted/40209721"
+    ampWebUrl: "https://www.kcci.com/amp/article/axon-taser-drone-plans-halted/40209721"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/axon-taser-drone-plans-halted/40209721"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
+      name: KCCI Des Moines
+      domain: kcci.com
     quality: 51
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22151654625675.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
@@ -443,6 +443,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "UA4D5lGXomCgOcCns549gkCyLj5KvfNbDXYOLP148BMLviRPnTQUvU1rWF9wmgsAV8v4Ff9GdAiym9n2sLmeSc9MM8blLxWHcPm7zZ/R5EU1J+ZZO8RnwRkQOUNzqnxXEUK2BzKhIguGcTjK5bvPnnG19HAJKLm/R4mG29Zd3dKIozUfcb5oeRj5UDA86N1ToWSVj9ZLwZr7GRRt/1AgzdX6gAL7CuWVzjoTUuKxZECfMTQnMUdWJY5DEmK04d5yl+8v/ENjQCI2PdKkIWQS2FoJODIQ45iQqioyBMVXS40Fbmid6bWtOfnOIYNFXRgScRiPPTyrmGOHGG/grw91ReXyqECfMepCA38xzOcLA22x9DWGt3PumKOypsYz5qKJ7fbKO23hjtAl6RvyGbX0HElRd0BcsOt1nKlM+Kd/I13dPmQlRyqfRO8tgUJj8snXlvaxJ6hABeDyGqTJ2PcASnNTdOAP9vm4kaPeeARmYUiqrSL0hTXthIo8AXnT1uuBspv3CuokGPGylr1xv9macQ==;+46dvbe5sHWOh99MTb5QnQ=="
+secured: "lic06qVp2e7F/oDpNRQz6JFBeprO53UGNl3T6johooFj7G9ji4xbFRl8LXXF05PSehY3XS2bHzVt0H1jPncvrhrSfkZqOzFJD1VdSoN6Tax28Vo2dZmuVqruC36IA21oatqhmeQc43hE4SCGfZnZImVCC0ghz1otncE70JmCX53376kqf4mY0kMzR9rTPjcxu9CaA5GoOxawilxDCoRsa3csUXU+nxqxqDMWDjtzBaaYCx6lsvTV3hJz886J6/3pqeDJI26aukiPB1IqxYeaDFMqgvfzSeG8MfTnrmKfeGSLazMFoO3OItIGDCb94/yNLou/VQq0/hF4retjkksK1fkerYrILEawGz1MR5dtC96Uft91O+0AtyQ2JJPwH7ZomeL2AThkp4zuA0DfaAxDu6S+uQiN+0BP+xGAbfkdf/WzAunMr+BcnnsI7zVHhtXvu5/rvrcQsLBp/eBixHoKPhoDVX6f5VwwKwv78orLeut+WPxUo0i0qL16XYe+30XvExHmtiGRunT8peeW2gN/Gg==;x8EXg8alS+9/DbAxdNKQaQ=="
 ---
 

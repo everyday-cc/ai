@@ -261,13 +261,13 @@ related:
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign over controversial project"
     excerpt: "The company best known for developing the Taser said it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the project."
     publishedDateTime: 2022-06-07T17:34:00Z
-    webUrl: "https://www.wlwt.com/article/axon-taser-drone-plans-halted/40209721"
-    ampWebUrl: "https://www.wlwt.com/amp/article/axon-taser-drone-plans-halted/40209721"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/axon-taser-drone-plans-halted/40209721"
+    webUrl: "https://www.kcci.com/article/axon-taser-drone-plans-halted/40209721"
+    ampWebUrl: "https://www.kcci.com/amp/article/axon-taser-drone-plans-halted/40209721"
+    cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/axon-taser-drone-plans-halted/40209721"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
+      name: KCCI Des Moines
+      domain: kcci.com
     quality: 51
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22151654625675.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
@@ -351,14 +351,14 @@ related:
     quality: 39
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
-    publishedDateTime: 2022-06-08T13:41:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article262197492.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article262197492.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article262197492.html"
+    publishedDateTime: 2022-06-08T11:00:00Z
+    webUrl: "https://www.sacbee.com/news/business/article262197492.html"
+    ampWebUrl: "https://amp.sacbee.com/news/business/article262197492.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article262197492.html"
     type: article
     provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 39
   - title: "Axon halts plans for Taser drone as 9 on ethics board resign"
     excerpt: "Axon, the company best known for developing the Taser, said Monday it was halting plans to develop a Taser-equipped drone after a majority of its ethics board resigned over the controversial project."
@@ -443,6 +443,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "DISZYxsGllKjOtcz2CoMY8dK41ZraiBpH2O+ibnWq7xpUv79VxjW94EnP9zjFMz2Ph0s1EZqbwMG0eIj5+/cG+FmneyPvpADT75x6YiuHmdbE95foYf09pnXFC8tQUUBTFk5iX7fOlAxk7DWm7dIg/GNtBYs8ATxq8za9dJ5nPXzue+XOUGpzFNf0wjBWGsztjy/vayWb6ogpZJyiaLRgsT2ZILFEmixshB75vxHCZEjCBSwLRu31b1ctQxMEY5qOJHarBTFZawCuSeuoWu4/BTV4CWpABaWw3x6/kGW5qzw54j7gm0GDU/GEujFajdx0kluJiU+gqBx9AQ2P1JAvm/X1b3QITIn3VL3UKiCYCU=;09w2AXtR7z/GzdL2D0UHYA=="
+secured: "d3Pw/KYALSHepzwBBgymVj7wQd7snYm04iDTQHXSAuAVh6nuxaymt9s0yO9P/edqpmjhfMatI1pPD2kbdbV/j9w7XTtcMWyMu8MZ8iPiA1X1RgemMECWWGZ7a5n15wSFBxvlurf6UnaVxDRoxBOc7Bo+yT5lYH+6TzHYLDjuZh+BAkvF86jEpt7E2BRDai5AiXB2UCBCDFoYKGrsl6S7iZPLO9DLtFEW6nKtGUYWVRYqXeJpQhi34Irvq7LEFDs/CW3L9jy2xTNvDIWHzi1slJ0gTL5+d0rZBK9d/WN0yjj/BW2YpPD3qWj4i1U5xZ1WGCuCh55LrusnnMgEp1ww86X7DuhJfyDFmgS8MTHJn4s5aAGGliQue4GAX7FffHJLfm1nZOa06b4kPB0zt0S3k9736R9E8yRPUFI50ggC1TVo2wE2NoNgmcnntB6sT4lJzUSGdZOcvyis5TVXoVJS667FlsFpRQ2nko6+Z2rivgetsgcrGMk/WHb2vr37sB1Mg1yBnLTWvM52FDeMog8sNw==;n6Fv/fvP4nkOgHxnva8HBg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-va
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2022/06/shield-ai.jpeg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Shield AI Secures $165M in Series E Funding Round for AI Pilot Development"
+    excerpt: "Shield AI has secured $165 million in a round of Series E financing and will use the capital to advance the development of its artificial intelligence pilot for military and commercial aircraft. Venture funds including Riot Ventures,"
+    publishedDateTime: 2022-06-10T09:55:00Z
+    webUrl: "https://www.govconwire.com/2022/06/shield-ai-announces-165m-in-series-e-funding-round-for-ai-pilot-development/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 35
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2022/06/unnamed-file-46.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Shield AI Raises $165M Series E to accelerate building of the world’s best AI pilot"
     excerpt: "Becomes fourth venture-backed, multi-billion-dollar defense-technology startup in 20 years SAN DIEGO, June 9, 2022 /PRNewswire/ -- Shield AI, a fast-growing defense technology company building AI pilots for aircraft,"

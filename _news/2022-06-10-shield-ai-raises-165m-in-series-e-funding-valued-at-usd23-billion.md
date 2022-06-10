@@ -40,6 +40,20 @@ related:
         width: 944
         height: 698
         isCached: true
+  - title: "Shield AI Secures $165M in Series E Funding Round for AI Pilot Development"
+    excerpt: "Shield AI has secured $165 million in a round of Series E financing and will use the capital to advance the development of its artificial intelligence pilot for military and commercial aircraft. Venture funds including Riot Ventures,"
+    publishedDateTime: 2022-06-10T09:55:00Z
+    webUrl: "https://www.govconwire.com/2022/06/shield-ai-announces-165m-in-series-e-funding-round-for-ai-pilot-development/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 35
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2022/06/unnamed-file-46.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Shield AI Raises $165M Series E to accelerate building of the world’s best AI pilot"
     excerpt: "Becomes fourth venture-backed, multi-billion-dollar defense-technology startup in 20 years SAN DIEGO, June 9, 2022 /PRNewswire/ -- Shield AI, a fast-growing defense technology company building AI pilots for aircraft,"
     publishedDateTime: 2022-06-09T11:33:00Z
@@ -55,6 +69,6 @@ related:
         height: 450
         isCached: true
 
-secured: "6RsV51r2c6zJGLhF8H8T/5l6Hxr3XvYecbqS+6QsJPYjozT94VNwT25YuXQjN3RGgjW3u0VLAPeSgrVYty/7YOccZFGxZ6yexsx7qP+DCRk5H1TQ30u/nVxkP9o7hlw5dubO/XMWHJrbHvlHRfph7JMIWJ97V5YqiYqKqJILe7uVVTu6nyp/t0e+gGWmRBhE1s/ShwS6UR9zdPHqBsU5z1rv6FLcgdBaB33/NdS9cnOSTGH8HRa4RwuTFOcKg3XGvwNhQMTF7ZHaC+TNlvqGV81eXDoqcc7hKT4Gg0lLhOmgaPxpThhIHiDqmDCCVME4EW4kRm4+plgMvnqZ51MZPeZRPrVl/N9/8S08aXpUQDc=;xkdzUy8ZdSQ2h5mTPbFOFg=="
+secured: "epGL4TiEEV/4yZEeBEW19D46vjgW1+9H1dfjFAQ59x+Eg5gVRDIYCFwEyj3S2yRMdP+SB9hRMzoIQ3SwWDyHNFik5JyxivzsGh94t66oQJEAgPUOmzenj6/iZ8NY5RSiRWcBPyv7rwghjARCBIl3RKTxWHceIVkV5DcydPYZ7lBY4ebTzcGKKf2EdCIMDea1gA+IcKHPAkR/UNPMPlXWSvjKL+TzoYQpL2DtOceeN8atoYpQwq7wLT9yh+KEXeo1KvrfoAUga2sEwbJg8cpyB3bN1aZY59hSA0vQ5P/AD2z1bQc7b8KskHLDA3BGgwj2EKJ+Blq8+96L2g421wRLjxtCeO0Ps9MloybGzwffWdMo6+EYoOI2B/BI/DPA5JXGiz2esP2ehK80I7fSlg3mY3zEVxXcU88L+CV46gWpx5hzVrZY+kMWs2etT+d8Xt1yfljae46ijXsjIoMYvQOz/hPp883WJqh4RmQ559Xfd/B2zJ08epXVo8HGxTZSuYnpKJysZ85arxyDkj7oWpaG8g==;Vvo/XG8pcQTCF4ceGD17kA=="
 ---
 

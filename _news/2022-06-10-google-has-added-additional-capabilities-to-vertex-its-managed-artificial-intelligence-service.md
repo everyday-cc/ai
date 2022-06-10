@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-10T08:17:00Z
 originalUrl: "https://bestgamingpro.com/google-has-added-additional-capabilities-to-vertex-its-managed-artificial-intelligence-service/"
 webUrl: "https://bestgamingpro.com/google-has-added-additional-capabilities-to-vertex-its-managed-artificial-intelligence-service/"
 type: article
-quality: 25
+quality: 27
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Google-expands-Vertex-its-managed-AI-service-with-new-features.png"
@@ -64,6 +65,6 @@ related:
         height: 500
         isCached: true
 
-secured: "gDvBHKHJzeQzGdpHAWH78z1lLfas5dV2hgWA0D2u5d7FwVRtyD4tOBXPkqa2a+Q/RBAdMMtNQ+RxYJVpf6qMe/qqd3odoxvGwhBFK1vtVWoGdzb42Oxx6tDb68FoOjCW3wV8gbLWxrjYq55w6xnswxiRJ+sdSBBRdhF/L1cMGT+7noJ3Tp78dyCSx4EV4U9VZn+LjSf+hPZQ7prmg0oN4LQ135ygPEBJlUdjhs/3Fzhvr7u6v5rXROoBjyzjWytUmD+9wQt20rRut7Bt/YACzUu8L2dH1t7iQQN6MFhNl29NNuLSNKkT95mtBR9clnY+MDjakcoCgye5daqdRQ6UsNERXtr6Ks+CGTpVrNRBdDU=;Q7wyKRwcmHqhelZp7uGM7A=="
+secured: "hc0pEe+ZnbXgMLReWgxH317Jah4sSUZWVotZHLrox6Kc67wU+/FTh5H13zbvdMa5y9p59T+D+0B8oEjzxGP18BXqdGyRbqiVSSu1sytcr5cQ8ANPn99oqV2MeNdhBpZrKwQVpGAq8nfoh71hlnL9lrpQiUWYwi6Pcl/xEXSG6WqdGMp6HmZ3sYO8xzo+ZJreZZQtbXcxlWlwEruhv8lBdAeBLackZMJloHuRe3xEcJYGdLBz87YXaVGkrH2nldYFo44My7V28dAIJ3sf0SALr/bsESxnpg79n8mVoFW+zbwK1JDpXKtqKDfJ+6NueeGO6puaKNaGMWnqKlDV6AJia0r92KZWPMJKrHQp/snfDd+GH0dJ3TECw/XHR1JwHcS3VyAlwkLNGJCzYTq1LUenFG6pcauUXNmS4rp/1eOJJJLjNw3p6xO/C628I0EZy8/ZEqxVq5IoeYhD9/xxPuBdCIsaKPrV/vBOMtCvTehem+xUWrBhfxVFIAYEJVhB1KqPLQ1ggUwtkfd/nXnDySNIoQ==;U6xhze0unmBWIYvYOHbDYA=="
 ---
 

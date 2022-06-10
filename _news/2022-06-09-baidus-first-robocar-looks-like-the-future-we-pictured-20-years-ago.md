@@ -2,9 +2,9 @@
 category: news
 title: "Baidu’s first robocar looks like the future we pictured 20 years ago"
 excerpt: "Chinese tech giant Baidu has unveiled a concept robocar called the ROBO-01. With it, the company's EV car subsidiary JIDU, and Chinese automaker Geely hope to lead the charge into a world of fully ..."
-publishedDateTime: 2022-06-08T21:13:00Z
-originalUrl: "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago"
-webUrl: "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago"
+publishedDateTime: 2022-06-08T21:53:00Z
+originalUrl: "https://www.techradar.com/nz/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago"
+webUrl: "https://www.techradar.com/nz/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago"
 type: article
 quality: 69
 heat: -1
@@ -74,6 +74,6 @@ related:
         height: 450
         isCached: true
 
-secured: "BOjB5onJAUud6N+VtiNw28EXVkTehT93gd1n/h5usWffp58GOq/Kys+XGOCg/W3ktFpVSo8jhHR1bHCNV4jYxk/QBVxEJu+rkrDdvEPsS/yQM71ptCy74Sa7LeGUBYCjk5c7RpTqEXyduJyTfCCDrmqdfsnAKi1IVl57FMX+DP+r5Ct0laeXNu3jddRUxJp4t4w6uSuV/+6BipoJm2VaXW9mNg0LRFKPF0eTUbKK+TxqYrXhZqKr905p4uYzKuIltQhzz7HWF+QLQR448xzYuJjCKs0NCUzzvBGFUVPN/CMz5MX3Fh4janla7/UL95mPVtjBDiQzefi5cur6MLfDAWlpmdR6KXwvtynMpN1oED0=;2bimd6F9Mu7S2QB7/xMfhw=="
+secured: "bhoPaocJk5/uKLqogPMiLnv9lrcjS735PFEIpY2AK6sRKQJhMsCo9k0pwMmr8VB76BcRirUDXmd6Cc8FsRlJn0/eACnhHRK5sxURkzQX6JNHzZ0R08nLCLgisWzhWQwxStXI1khqQapd622YYwApTqC5n1cG8ko6rXhWBbCkbG7kmS1YLarXh1bhAb0LMU24UGMq8WtsXXyqFDPeC4nnFb8IkPC73KzG6ReFXzLEWe7Wl7CC02P+ov9NL0+ikaVcM4W/EMfNQ2qxAztSKTn1h9BejgU8MhYzUnYURv6i9IgwPYALvUALjDxWbxklYwXM6hpYGib5wjMNjURHdlopOA8udNAdnF9FIv02FFkdVUQ=;TKZhBp11Hwzs4fDGZmhCmA=="
 ---
 

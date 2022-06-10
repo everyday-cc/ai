@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "MariaDB and MindsDB Raise the IQ for Cloud Databases"
-    excerpt: "Commenting on the collaboration, Jorge Torres, co-founder and CEO of MindsDB, said, \"MindsDB's open source framework allows ML models to be identified and developed quickly using AutoML and then ..."
-    publishedDateTime: 2022-06-05T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1258666&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
-
 secured: "A7vLKncoMhQfn/e8B7ZjmmJ4IlxxFNrOkdJmY9E/TLmoRuHPGBLhqHMZ5/VvcitqcbtxaCe4upyrOZXefxeQNDk3rAt5xCb7+CkBqx08IPY1Neo2e1yG2wt9hKnxiAyvbc3xVPGoHyOn0FxANG/21LHu0LFB0VWUmCpFnzPwvZcjxvkjon/cU5O2aZF3d0HA2kM42dvLytlpmByzCAKdZrGPfgUm78DpGLwhoDMmggC8k1KR+9saMvkyPYLihk1zmb6uLL0shuHqCaGYQQgVHud/BRHP7KhXoOQBTpi8q8KrhEpHvpEmUOPQiXo3f+2XhYlNj7hYMpRmsh59fosysMTukR8W72SA+W3ArHv5EyI=;geruS3tmBwtnigV61g+VOw=="
 ---
 

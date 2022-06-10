@@ -54,6 +54,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Shield AI Secures $165M in Series E Funding Round for AI Pilot Development"
+    excerpt: "Shield AI has secured $165 million in a round of Series E financing and will use the capital to advance the development of its artificial intelligence pilot for military and commercial aircraft. Venture funds including Riot Ventures,"
+    publishedDateTime: 2022-06-10T09:55:00Z
+    webUrl: "https://www.govconwire.com/2022/06/shield-ai-announces-165m-in-series-e-funding-round-for-ai-pilot-development/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 35
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2022/06/unnamed-file-46.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "tf83WLxuDD1nuVIi63+Mg15+nyAyr95FqD5XNHaMd0EithR945rE2gejDHfYisjsdEe1bUu14Y4y02alxHnQSi7E98oZABBKAf/xo0Z5YjSpa7dXHdgCgjUG45hmUDiCMvLBWATDLoIrPRxn9Z3shaixiNxF6fJG7WSE63Y4bND0To/xkysqZG9q1jtQ5Yz7rQ2N3X7JjBkCcZkRUT4OQ2v63l9BXuFeS1p6vsvnLPiPY1RtEP+s6Vly9CSw5HCNefzKzHtAY6mlO4iVL/3rS55xGvZ5KS0M/eU7yRl/1F/SuFCD75uqdC6H+Vc60UoLji6WfdQS4Do0s2505QltJUfolCPN/2NzUH8NYnDmGDA=;2sMthxL+QI1UHz3l/m8Ufw=="
 ---
