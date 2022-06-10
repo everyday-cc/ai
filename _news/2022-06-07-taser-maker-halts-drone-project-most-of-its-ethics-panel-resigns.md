@@ -2,9 +2,9 @@
 category: news
 title: "Taser maker halts drone project; most of its ethics panel resigns"
 excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
-publishedDateTime: 2022-06-06T17:57:00Z
-originalUrl: "https://www.reuters.com/world/us/exclusive-axon-halts-taser-drone-work-some-ethics-panel-said-resign-2022-06-06/"
-webUrl: "https://www.reuters.com/world/us/exclusive-axon-halts-taser-drone-work-some-ethics-panel-said-resign-2022-06-06/"
+publishedDateTime: 2022-06-06T22:57:00Z
+originalUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
+webUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
 type: article
 quality: 69
 heat: -1
@@ -448,6 +448,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "9qxeS9m5xJCir+U7VfBvIdq9a/36UBtCpLPkgPsOaYMCg5kDnqazGlrTwzEmBLOrvvjcWPspeswna3EY9u2nfYcZ5yIMYkNMVM5xLRE3ThfAk1fAVayua2JXPk9EJalTmOmM6DvY6HHgVL1hgFykQSNImIgJaZFllbuKylEQc4hnrq9gFTpuT2MVk6AeZRs+Aw9B5xvMZCkxG6jXrlfv1auVZY4v006x2qFYoyWONW36TzLlcOvxlwLcfbxh3jrwwUqLrmxBkjpraM9PqIOBMD8vP5LI4R5vP01ghhohGWorlHKWAEcYJnLqPYpaDxFtDlqSm5QrHYqhPX+k8idyR0A+839rD4q5J1JIKUYONV2yRBI0n62JFH6rRO7jrkMrUHhjMAN/0lffLCIVcMBaz2NUdznGkHgclpcsOBMH6pDvETE/4U9n2ajhqVZeecTh0OCC3mGFQLoAuHLg6u3da85fUdjVZkAMxajGToMK+NrMHogrb2JHGI0v5BEJmmgS3k+Y7h8QcMz+ihooNq97og==;zE0i0kH5Lu+rC8hLYs5bSA=="
+secured: "ClifVCz5Wq0BYI/zhf/DeLm0onPgHRs56r46p5tsRHhh05Ffju32D9XfyEKle+XJDXB7M9ITs2tJa88H2AQRSDN3xufWe0NJAd5TTUJ1sNT+vBM66unFB9j8YYZGeEu3VeowkvThG87lRp34UYDG4+tWliLhANDvzw5KxcRXQ6vH95NCncs9zn4k31nseKFcGkNjV5gGJ9CtXefcyFjDg9+E/F/MqZmyaCN0hWZTR4kyx36zaGJwvrYfITItXQL2Ttol7P5KzoiDkWG2Un/akXcahqkGF/Px7NX2ruhfTxZkjJl+rwkrp9UrN1uKDajv1d8xdowYgdthfIZBFazNuLPlZq5dX1XHG8w4F47i6UE=;gK/JcmkB7wSmpfIytvqV1g=="
 ---
 

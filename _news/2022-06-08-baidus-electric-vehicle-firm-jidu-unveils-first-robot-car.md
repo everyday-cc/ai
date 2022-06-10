@@ -43,14 +43,19 @@ related:
         height: 540
         isCached: true
   - title: "Baidu's electric vehicle firm Jidu unveils first 'robot' car"
-    excerpt: "Baidu's EV-making plan comes as tech companies around the world race to develop smart cars after Tesla's (TSLA.O) success in commercializing electric vehicles. Besides equipping the vehicle with autonomous driving software technology powered by Baidu ..."
-    publishedDateTime: 2022-06-08T17:10:00Z
-    webUrl: "https://www.reuters.com/technology/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car-2022-06-08/"
+    excerpt: "Besides equipping the vehicle with autonomous driving software technology powered by Baidu, Jidu will also build two lidars and 12 cameras alongside the car. Lidars are detection systems ..."
+    publishedDateTime: 2022-06-09T03:09:00Z
+    webUrl: "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
+      name: Asia One
+      domain: asiaone.com
+    quality: 56
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/200609_robot%20car.png?h=9a34780c&itok=6MDqmIDk"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "2/f33/5qaUVvqsfI9ZaO/T+KybgQ+hqCqy0lQBOql/KAFYF7/qUFg6lwwRNFSGUwAux9brFy2N6Iam08XcP1jqLI4DxsccSsEDAE9SuQd52BhHZnKvia0V9qpuVzStZe8XvLisVYnJEnHmMJcfegefJP9mSGK22c196sOueLYpJ7Yp8OPTdSz9U0Z2gZaN9QpkSj6lzUOOKqI/WmhpSGiFga/7rXgnf8IYet3HnvD78IOJiXjxV9v8SDmrTFMVGG9LWXjk+RNMa7FgQaIcvxLmvjnDKuSRROsIZMXswtmusIXVa89kSa3J9hAGDs4HM2DSyYXVX4y06dnZCx6vJTdkbce03lGuno8eAKW01fa1g=;5nvLyhXZ6ez7qg3j1hlZGQ=="
 ---

@@ -2,6 +2,59 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-05-23-gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data.md",
+      "title": "GPU for Deep Learning Market Analysis 2022: Share, Top Key Players Research and Forecast to 2027 with Dominant Sectors and Countries Data",
+      "excerpt": "The “GPU for Deep Learning Market” 2022 Research report will make detailed analysis mainly on in-depth research on",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-22T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-computer-vision-market-growth-demand-competitive-landscape-and-industry-analysis-report.md",
       "title": "Computer Vision Market Growth, Demand, Competitive Landscape and Industry Analysis Report",
       "excerpt": "Faster processing, better accuracy, and economic advantage of computer vision system drive the growth of the global computer vision market. However, requirement of highly skilled and experienced ...",
@@ -1055,49 +1108,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals.md",
-      "title": "Every Crime has a Face, Says Ukrainian Journalist Hunting War Criminals",
-      "excerpt": "Before the Russian Ukrainian journalist Dmitry Replyanchuk spent his days unearthing corruption, often among judges and law enforcement. Now the Kyiv-based journalist wh",
-      "sourceUrl": null,
-      "webUrl": "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "originalUrl": "https://www.voanews.com/a/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gdb.voanews.com/03190000-0aff-0242-b9d4-08da3a86af46_w1080_h608_s_b.png",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/every-crime-has-a-face-says-ukrainian-journalist-hunting-war-criminals-/6582502.html",
-      "publishedDateTime": "2022-05-20T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Voice of America",
-        "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

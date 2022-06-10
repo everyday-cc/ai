@@ -53,6 +53,20 @@ related:
         width: 460
         height: 460
         isCached: true
+  - title: "Cognitive Services Market Analysis by Growth: 2022, Future Demand, Business Trends and Revenue Forecast to 2028 | IBM, Microsoft, Google, AWS, Baidu"
+    excerpt: "The latest published Report by SMI’S provides an encyclopedic study of the Cognitive Services Market, along with a holistic insight into the important factors and aspects that affect future ..."
+    publishedDateTime: 2022-06-09T13:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-analysis-by-growth-2022-future-demand-business-trends-and-revenue-forecast-to-2028-ibm-microsoft-google-aws-baidu"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 49
+    images:
+      - url: "https://i0.wp.com/charliejon620351289.files.wordpress.com/2022/06/cognitive-services1.jpg"
+        width: 815
+        height: 553
+        isCached: true
 
 secured: "co7AtXXKiNlW1t65k1BAPtUHdAljPwZpYaskLxDaiMcPefmeoCZrSkNSaI5n3i6ZLiND5zVEy2CR7LtsRHkWpI/+eOegIKhqY+4PZvYowCOdNBfMvbDD+F9XrsRrz+fUkk2AdLkrI3/0ulu10jUAlCLer2Ki20zV7dnjRE3jdY/EzAN18iQRIfU6j/WDWk4oXvJd4WmFhK5Qw72lMqRiMUaiY5x0LfycgjNK8PDwOPrpZwUErQ3LS8VgQldBtah4Q41FSCISjmbR777PL/tyiJ6bgB3TZhz36U+CQAVwB8tH85hUibYYzi9Kn5uhFJ+L0p4BYjKeu1T/5JSYFMG8NGggxYK+LGlUnOpc9QqVpqNMLT3T+I7TTM9E4HKf+Wp5oX+wvBdessDLcfJU6Ewa9h1BJpYNU0eZCweyX2OKPW32QqvKPqLkocNGl9ZxNBQq4TFlZilEFKIAB47cnGkhpT78FavxwO1Aaqm+2HAnE2kG2jqXcXgc5d1wDHaC0t26HiGTVWktUTM4iwV4QWoa/Q==;JksKa6kkAvVHPor3dO5cKg=="
 ---

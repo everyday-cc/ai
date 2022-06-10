@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/cruise-charge-fully-driverless-rides-san-
 webUrl: "https://www.engadget.com/cruise-charge-fully-driverless-rides-san-francisco-092000547.html"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://images.hgmsites.net/hug/cruise-self-driving-taxi-in-san-francisco_100843940_h.jpg"
         width: 1920
         height: 1089
-        isCached: true
-  - title: "GM secures permit to operate self-driving cars in San Francisco"
-    excerpt: "General Motors subsidiary Cruise became the first company to secure a permit to charge passengers for self-driving car rides in San Francisco"
-    publishedDateTime: 2022-06-05T15:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272576321/gm-secures-permit-to-operate-self-driving-cars-in-san-francisco"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1654318469787.jpg"
-        width: 630
-        height: 420
         isCached: true
 
 secured: "0t7EmeK2neBUM39kXukrxUhBHfLAZBf5GR/HpudCHDVdEie+FasjcLZb4PWX8H0J9BnfXl8zuVKcpLuVMoK8zCTFd8ilr17WxBuzIrSvOZCUQt2VtFZKv6K91B7hC6zz/nFHYUqImrX8UmBYROxltCJzIBVxYN0c/SiNN8bEJg/RYPI3MF2OFI3x0FJuTEIko1fbqCTj0ymQNqfTGrpBXLvqik9cMOUfEI+IMj7WPp7N8J7rSyTtdQwRTMKzpvD1m8d6XEIXpEnsK+dFjy+ncwhtMiy0/e7Ua9GZ7pMvnyAQ0E4Af64bggdxCtVAfhUwI80fgETYcYuVsgmP9TVIKtIAyl2ewE4iiogAaRiCgX4=;BB3xHW8h8v6P4nS/tTZwAQ=="

@@ -2,6 +2,59 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-05-28-grai-matter-labs-brain-inspired-ai-for-the-edge.md",
+      "title": "GrAI Matter Labs: Brain-Inspired AI For The Edge",
+      "excerpt": "We recently tweeted about the startup GrAI Matter Labs (GML) and received a lot of questions about the company’s products and strategy. As one of the first startups to launch a neuromorphic AI platform for edge AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6290f25b3eeb6d491574921f/0x0.jpg?format=jpg&width=1200",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/05/27/grai-matter-labs-brain-inspired-ai-for-the-edge/amp/",
+      "publishedDateTime": "2022-05-27T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-artificial-intelligence-solipsism-and-political-reality.md",
       "title": "Artificial Intelligence, Solipsism and Political Reality",
       "excerpt": "Someone of considerable accomplishment with a good playful sense of humor took the time to write to me recently to ask if I was Artificial Intelligence (AI), and claimed this communication was ...",
@@ -502,49 +555,6 @@
       ]
     },
     {
-      "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
-      "title": "Accused of cheating by an algorithm, and a professor she had never met",
-      "excerpt": "Honorlock, based in Boca Raton, Florida, was founded by a couple of business school graduates who were frustrated by classmates they believed were gaming tests.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/05/Untitled-design-2022-05-27T145733.095.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/lite/",
-      "publishedDateTime": "2022-05-27T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-27-biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company.md",
       "title": "Biography: Meet Zimbabwe’s Serial Entrepreneur William Sachiti Who Owns UK’s First Black-Owned Driverless Car Company",
       "excerpt": "From creating digital advertising bins to driverless cars, the serial inventor is not ... In 2015 Sachiti enrolled at Aberystwyth University in Wales, where he studied artificial intelligence and robotics. He kept fledging and flourishing at the university ...",
@@ -764,6 +774,58 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
+      "title": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
+      "excerpt": "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/27/business/00cheating/00cheating-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
+      "publishedDateTime": "2022-05-27T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1005,58 +1067,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-why-baidu-was-rocketing-higher-today.md",
-      "title": "Why Baidu Was Rocketing Higher Today",
-      "excerpt": "You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a Motley Fool member today to get instant access to our top analyst ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/05/26/why-baidu-was-rocketing-higher-today/",
-      "originalUrl": "https://www.fool.com/investing/2022/05/26/why-baidu-was-rocketing-higher-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/682128/gettyimages-1284372539.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T21:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

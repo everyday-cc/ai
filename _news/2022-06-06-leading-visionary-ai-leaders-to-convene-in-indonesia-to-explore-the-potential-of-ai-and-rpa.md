@@ -23,17 +23,6 @@ images:
     height: 535
     isCached: true
 
-related:
-  - title: "Leading visionary AI Leaders to convene in Indonesia to explore the potential of AI and RPA"
-    excerpt: "The 34th global edition of World AI & RPA Show, supported by Kolaborasi Riset dan Inovasi industri Kecerdasan Artifisial (KORIKA) & Indonesia AI Society (IAIS), is taking place on 8 - 9 June 2022 at"
-    publishedDateTime: 2022-06-05T15:26:00Z
-    webUrl: "https://www.asiaone.com/business/leading-visionary-ai-leaders-convene-indonesia-explore-potential-ai-and-rpa"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 7
-
 secured: "aajEmzE2iy9jnMcsIy52jnhzl58F2yeG7UOnstmkJcuwGHlh7QbkkBOphyiey0cW9CTSc+8jVY0ut9SKeupkssNb2NQ1xg0TZO/SVbcVMD703W8C4TKzdHP0B3COLSiMoVVrSb01A5vov0nB9F2dKH9rtIQnLeWjI6cpz5TTTr3RFBC8DT9v9EKyQ/Polgz296jPit38uRv39MAtaYT1GSltosgH5gEbBQOmWis7Dm7B+sxiKMBE/iDJItphDQzs1jpqLWp0+52vkbRpQxapCbrFl6+q8uwBBUyeJNwsmv00Yy6Z3HV2gK1yaXCoeyhOH3RE8F28H2iLeDB+I7sLTj3eXfq0GZpwCABzvEI2L5Zvi5SiKkpdK2je6Y99K1sJF1ruowepE1S1JwpsBn+vAuwsfUnFhs7t9+6rtuoIPyZYStbK3scKi3YKtIiUvpZcfQoNNsMrCtdAUUV2NSBAK35lmMK8A9KmbcslgkbyXO72vmr7pVCquee9UAQB7ZYjqyuSF2YxytAWZH+7Oi+YPg==;wWLtoxOHY9tTjH2ObPytXQ=="
 ---
 

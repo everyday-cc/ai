@@ -40,6 +40,20 @@ related:
         width: 944
         height: 698
         isCached: true
+  - title: "Shield AI Raises $165M in Series E Funding; Valued at USD2.3 Billion"
+    excerpt: "Shield AI, a San Diego, CA-based defense technology company building AI pilots for aircraft, raised $165M in Series E funding increasing the valuation to $2.3 billion"
+    publishedDateTime: 2022-06-10T08:30:00Z
+    webUrl: "https://www.finsmes.com/2022/06/shield-ai-raises-165m-in-series-e-funding-valued-at-usd2-3-billion.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/06/shield-ai.jpeg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "tf83WLxuDD1nuVIi63+Mg15+nyAyr95FqD5XNHaMd0EithR945rE2gejDHfYisjsdEe1bUu14Y4y02alxHnQSi7E98oZABBKAf/xo0Z5YjSpa7dXHdgCgjUG45hmUDiCMvLBWATDLoIrPRxn9Z3shaixiNxF6fJG7WSE63Y4bND0To/xkysqZG9q1jtQ5Yz7rQ2N3X7JjBkCcZkRUT4OQ2v63l9BXuFeS1p6vsvnLPiPY1RtEP+s6Vly9CSw5HCNefzKzHtAY6mlO4iVL/3rS55xGvZ5KS0M/eU7yRl/1F/SuFCD75uqdC6H+Vc60UoLji6WfdQS4Do0s2505QltJUfolCPN/2NzUH8NYnDmGDA=;2sMthxL+QI1UHz3l/m8Ufw=="
 ---

@@ -86,6 +86,20 @@ related:
         width: 2207
         height: 1359
         isCached: true
+  - title: "How HR can mitigate the risks and reap the rewards of AI at work"
+    excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."
+    publishedDateTime: 2022-06-10T08:31:00Z
+    webUrl: "https://www.personneltoday.com/hr/hr-artificial-intelligence-human-resources-ai-risks-recruitment-redundancy/"
+    type: article
+    provider:
+      name: Personnel Today
+      domain: personneltoday.com
+    quality: 37
+    images:
+      - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2022/06/shutterstock_519499720.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Ayt8c7jobiVPQu0P69Q/I6hWCRFBfQoOUHQ/58dbIBLibJoJwnEPyrhBScIle20qGdsq7MZxAwp9oeHdksq5NptlCeJZQtwUGXTlA2OrYf0Yvvh8roN5XkkNwpoQn5JPMJWLArrbgs5CV2fhIm0D97dIVxj/FB3yjzvIrUUFJTkoNBCdqjBoUfNM6HKPGWjTMEg4CAkEgavOhYECpQW9pbVp7XabGLODhCAOQhJ0T+ipn+OFN8NhxzxNlFiMu3ru+Uc3Ha9cW458xtOeJbeY1L9lLPLkJqedJCdBpKgotAPmUdxWS0I0WYvRnRre+nffZkJG8fYyHE4FEzHROdShKIFQjnW+SWYf+8EdUQLO+VE=;vROnNdlesrMHqsY4VVlv/g=="
 ---

@@ -2,6 +2,58 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-04-26-the-pentagons-new-ai-chief-is-a-former-lyft-executive.md",
+      "title": "The Pentagon's new AI chief is a former Lyft executive",
+      "excerpt": "The Pentagon is still new to wielding artificial intelligence, and it's looking to an outsider for help. Breaking Defense has learned Lyft machine learning head Craig Martell is joining the Defense Department as its Chief Digital and Artificial Intelligence Officer (CDAO).",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/pentagon-hires-lyft-executive-as-ai-chief-194607258.html",
+      "originalUrl": "https://www.engadget.com/pentagon-hires-lyft-executive-as-ai-chief-194607258.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-images/2020-07/a484c910-c861-11ea-bd9d-7a9ce7ea6ff3",
+          "width": 3650,
+          "height": 2433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-25T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-26-nuna-an-aspiring-ai-powered-startup-brings-innovative-mental-health-solutions.md",
       "title": "Nuna, an Aspiring AI-powered Startup Brings Innovative Mental Health Solutions",
       "excerpt": "Nuna is a Denmark-based startup company that has created a unique text and voice based conversational AI designed to help people struggling with depression, anxiety, and stress. According to information sourced from the World Health Organization,",
@@ -1055,48 +1107,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-04-25-how-much-does-an-ai-based-recommendation-engine-cost.md",
-      "title": "How much does an AI-based recommendation engine cost",
-      "excerpt": "Just like any other AI project, the cost of the recommendation engine depends on many factors like the business goal, data availability, data complexi..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91062330,imgsize-55098,width-1200,height-628,overlay-etcio/how-much-does-an-ai-based-recommendation-engine-cost.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-much-does-an-ai-based-recommendation-engine-cost/91062330",
-      "publishedDateTime": "2022-04-24T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

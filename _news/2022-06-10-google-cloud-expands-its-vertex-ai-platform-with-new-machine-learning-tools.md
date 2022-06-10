@@ -50,6 +50,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 53
+  - title: "Google has added additional capabilities to Vertex, its managed artificial intelligence service"
+    excerpt: "Google unveiled the Vertex AI service, a platform that helps organisations install artificial intelligence models more quickly. This morning, Google released new features for Vertex to commemorate the service’s one-year anniversary and kick off its Applied ML Summit."
+    publishedDateTime: 2022-06-10T08:17:00Z
+    webUrl: "https://bestgamingpro.com/google-has-added-additional-capabilities-to-vertex-its-managed-artificial-intelligence-service/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 25
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Google-expands-Vertex-its-managed-AI-service-with-new-features.png"
+        width: 600
+        height: 365
+        isCached: true
 
 secured: "LygyLqss08MgJqmz3+Ziq6w5YtYixw3xCE443smqy9NWdJRU0Oayfu1Zr7dC3c3DcXmHHaj+LDacU3E88P/2Yj/gUFHld4/fq55MpQNb5MhaZb9WPV3DnVbdqgozFDqILoJMg122iFwuSpSoeAcPZZDAJ0kvQ4gXzs5jtvLcRKzHK100vBHnahjrtEennv9qNvzIuiAYhoQn7Tm1svfTizPn6+xXdM9V2QBBCVfmyC5EOjlV0iIfaMntQBgkmgq/MDMo9tHzNEpbcqyryQM9cv4VdEFgw7k0po0jvCZwOQmYCCM5EfPpFDBzsbE1LaeMwFZZmKKhpHAxz1Vlrqnq3indXM/rmGanlA4V1Clz03kDaZLpNL77iY1Oumo4qujhSD38ueOjAAWKbC3M2lr0FpKtc0f4F57IfNkJgbOWmPzz7klyhvCw7VZVbnKn2K2JqqAliHzD42RuXET003dmSA1D3MtrJWVrhghbHv6Fo7ULpJP/ppzbODhUO9kVTGABdB8KfIWPpC/3CWasXRPT3Q==;srTcd9fyXNhH4ZhcPnMk5A=="
 ---

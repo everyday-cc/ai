@@ -67,20 +67,6 @@ related:
         width: 1920
         height: 1089
         isCached: true
-  - title: "GM secures permit to operate self-driving cars in San Francisco"
-    excerpt: "General Motors subsidiary Cruise became the first company to secure a permit to charge passengers for self-driving car rides in San Francisco"
-    publishedDateTime: 2022-06-05T15:44:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272576321/gm-secures-permit-to-operate-self-driving-cars-in-san-francisco"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1654318469787.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "XE0zcNjFy25RA0zz5i8vcRBvDknIF8sTXckvNCVNDP4ZTguBv9/xK8c223M3uIkDAQl73NEFR9uIaGxBvfABZ+lMQtg+3QTo6s1i5uLwzYlsf+7KPMQSjVZKTk0qxVYJslGgs2S0GWK1ip3FB1VJQLpuDrThdMRiTgUJHiG3n9e4k4avlgD6CCjWYGDqXtmzu0BxCfACklqc6WIgDEwlT9EJJMDgC9jntZHxp3b3iQWmw6mAm3bSO5b3MoEZtk4El62Eg29PnBTrxxscoj7vAaXYWm0AiFnXCZ3ra5nts8mp2xISjvQEbtSAQgVyzU6y/idqKhQgCYMP6OqYgaMd8TYPGR2TQxhb6PQILm4XroA=;Ijv48EVLEelvV3w4gGOO7g=="
 ---

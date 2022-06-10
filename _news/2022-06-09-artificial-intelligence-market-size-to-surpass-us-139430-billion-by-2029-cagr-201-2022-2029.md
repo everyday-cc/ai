@@ -23,6 +23,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
+    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
+    publishedDateTime: 2022-06-10T09:30:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-06-10/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 10
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "The Global Computer Vision Market is expected to reach a value of USD 30.94 Billion by 2028, at a CAGR of 15.89% over the forecast period (2022-2028)"
     excerpt: "Manufacturing industries use high-speed cameras powered by computer vision for the detection of anomalies on the product line while processing more than hundreds of products and variables."
     publishedDateTime: 2022-06-06T19:34:00Z

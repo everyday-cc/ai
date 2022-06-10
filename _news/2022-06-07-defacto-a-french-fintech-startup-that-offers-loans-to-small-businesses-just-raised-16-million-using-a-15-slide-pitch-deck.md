@@ -51,19 +51,19 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "Next Emerging Trend In Fintech Sector Is Neobanking: Easebuzz CTO"
-    excerpt: "2) We are using Amazon Sagemaker to implement our fraud risk models. This acts as a core service that is used by one of our fraud detection products. 3) We are also breaking and moving large ..."
-    publishedDateTime: 2022-06-07T12:19:00Z
-    webUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
+  - title: "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO"
+    excerpt: "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,"
+    publishedDateTime: 2022-06-07T11:35:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Daijiworld
+      domain: daijiworld.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?365056"
-        width: 375
-        height: 250
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sharmila_100622_puja1.JPG"
+        width: 640
+        height: 413
         isCached: true
 
 secured: "+fwHrRFTSUSma99k8AetuEDLM20OlFossd0IuXs1JV7zOQA4x7kgkuyvPGlWHysH9fbyDpOeBlnU8Et5GfqeXw3/cH4IoRYymp/kTQUNtBoidYo+7Bs6rNuNVKCX7E7g2aOCLSn2ztZQEVayGQ7YWm4cJnDJRPYi7k+jVN+Tb9RWmal002gf6Bwrbu8adG9j5R43p9tGhykGZBRBrh5WH/PfUWFmTKo9MHSPWkV9NaIFIPMXs/HIHsW1sZv6u0i5gEHhCA/uJyh3wWJVki/n2YAWdt+A9b59LmvJLcMO74OqWOLcQGuSazieUdE0aqvHd4zatcihOkflV3Dh69az2XKMSWgBOvyogKXyTwHbHphkoE5IDfGNEMPnyNRiURNJVdKvDdQw/SbVkXmsM+UJU9ra8xdNF8euy/OWtr+DC2E5LBxYBKYpLZpmgE1pEP0pIRk48yoecAywOzNLrjziqBqeKCybwuLkFLCXk8SkzILQDRP9UtyldoouWp90TS72ncL/cLFro2/5Mh0Tr3ZuvQ==;tB1UFdjasEyEO2KzpX8nAQ=="

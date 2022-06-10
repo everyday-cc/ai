@@ -371,7 +371,7 @@
       "originalUrl": "https://www.thehansindia.com/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1152,20 +1152,20 @@
     },
     {
       "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
-      "title": "Accused of cheating by an algorithm, and a professor she had never met",
-      "excerpt": "Honorlock, based in Boca Raton, Florida, was founded by a couple of business school graduates who were frustrated by classmates they believed were gaming tests.",
+      "title": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
+      "excerpt": "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake.",
       "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/",
+      "webUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.indianexpress.com/2022/05/Untitled-design-2022-05-27T145733.095.jpg",
-          "width": 1200,
-          "height": 667,
+          "url": "https://static01.nyt.com/images/2022/05/27/business/00cheating/00cheating-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1173,14 +1173,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met-7939462/lite/",
-      "publishedDateTime": "2022-05-27T02:32:00-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
+      "publishedDateTime": "2022-05-27T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

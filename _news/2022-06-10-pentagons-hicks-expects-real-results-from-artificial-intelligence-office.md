@@ -3,20 +3,26 @@ category: news
 title: "Pentagon’s Hicks expects real results from artificial intelligence office"
 excerpt: "What I will say is that we have to be able to deliver,” said the deputy secretary. “We have to advance, and advance quickly, on the challenge set that the warfighter faces.”"
 publishedDateTime: 2022-06-09T18:17:00Z
-originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/"
-webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/"
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/"
 type: article
-quality: 16
-heat: 16
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: C4ISRNET
-  domain: c4isrnet.com
+  name: Defense News
+  domain: defensenews.com
 
 topics:
   - AI
 
-secured: "OQDvz8XWIK/CO9ZoYU/oQhjBX/FsHuvWaBXnJrl2PF2kLRchg7Pu+34RTu3kTDq9b+7l4TsS8uaDh2U1Gm3VogbpIwV8DDUQB+Z8eGbR+itrSYu9eeojglW+zJH/um/KHBUBs1vH21juNOHlLRYAleY971Bukr24+KQ6WvOMAzmeUSde+nHAfvhmcQxHzmHlsX+wjSTOfo1W6ksfYXNMWZqVRFY8iyu+Vk3gqy17aTuJlgEXERJp9fZUIroywfFrHOL70z67MG7NewaHjenTmH4bn/s6IuN1UbF8e6qn5k7/zDgRpenZrLK5MjQU4LAPiZciRvUW6OEsYFEswJ/BiviYygy+ph3DHE4wZ6jxNTnwTlsCx9FC+PNF+wXWlIIHTYVSjkR9NO6WmBNsexLJj0N86ekWZ3TKfpFHFHuQ2s4ICWgn0mbc81MELRclioSuTLEmxfP9TMsVS+66L/mqwIEqpWaimTINHtpkoAWtYkv85UKbx7Dd5npIFtCfPdSqr/BjetPKrx485dPd9y3e7g==;h9a1imadkP0XQFq/FH4Jqg=="
+images:
+  - url: "https://www.defensenews.com/resizer/l5frS_jg7nNu-rq_nnLACEvSbPA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QMBBOBIGXRGTZPGCQW3DPAY3I4.jpeg"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "2RTGx7+7QldjboLXL9D3U295AxOzsajCVSmUQ73aaJXIsauVi9rbU4CRxCyT8mrevKW+iTTienzLSCwqIfCGsl7C7LIPJP9hIGvYUzeZBojzAzwJ+p8PqMYfznzZdiK4l1qXHw21XzX+lR//0bFGSLRYWKj3aIaHS14S6yY4AQTr+kOMcDf80LRZ8B6DRzfmdccLCYAwHRxJoda4rrvt7mRBcAJc86nhlTAPVbDmwGshznCCWaxbmgFs0BGgOW+fHjbJay/zI3KCFtk8miqQ1BwkxE9YqF9fjn4gPvOOlOMNTJ+X2CfFRoMjikhZdAlGhxlflqQNNIxS0nib+lhVBFPcfbN10Uf6Faxwcen4hnk=;BSlcSu/iTz3GVvCovIHadA=="
 ---
 

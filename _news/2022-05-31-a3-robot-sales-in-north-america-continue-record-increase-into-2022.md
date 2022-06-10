@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Sales
+  - AI in Autos
 
 images:
   - url: "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2205_F_LMEx_DigitalSC-Main600p_350_200_bor1_b9b3be_s_c1.jpg"

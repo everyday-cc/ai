@@ -2,24 +2,28 @@
 category: news
 title: "3 Capabilities You Need To Know About Intelligent Automation"
 excerpt: "IBM first pitched Watson as revolutionary, promising advanced AI capabilities like automating cancer detection and treatment recommendations. Now, IBM has positioned Watson as a tactical natural ..."
-publishedDateTime: 2022-06-06T14:03:00Z
-originalUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
-webUrl: "https://www.chron.com/business/article/3-Capabilities-You-Need-To-Know-About-Intelligent-17222067.php"
+publishedDateTime: 2022-06-06T13:55:00Z
+originalUrl: "https://www.entrepreneur.com/article/426720"
+webUrl: "https://www.entrepreneur.com/article/426720"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/26/05/21/22565993/3/rawImage.jpg"
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1654112187-GettyImages-1313178434.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -72,6 +76,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "+20+k1qSASpn/Nwz/jlPN3BLpL5euqz3YMnASPPcXwWvx+fK1oAcRzIWGxeBAh9gziXkXwvmngDBP4QJsYwlg5uRCRxeax7PChFsD/sdoew6zFmgrJvBHGbFnwJ66n6pEToNqYxU2MpZHKrN1h/j06uJ18lgO3N+g0YWd2QnkGTQ2ie29lJjSxMpGivZ0vIAFrGW+im9morTTwpfUJouxZ2hgpkcjKoAbIZZBT8JQI4Pkfqc0v8S7SlwO75J6hxtj2wA/KmDRi9mAmZz20GLr93SknUE3Zpl56QBELF7oGmtyqMsOjCeiUxF6MPOOQ4zO9PQv+FS0dZ98XAZA59yILjfixOlE5RffF7+CwBycI2ZjLrNtG8Hl4Pd+wXW2nAmPv5OuB/SAeLfLUctAtxaybPNFiePb/EAp6w/e47KTRd/zszZjxo3J8ALAzeVZmj3oi4iJzDP+dTdoWWiXLqh5du0juum/TLWla9+PGlOOdMbUOr3+vtYqI1owGgu1tfztV0B47zJ4ZF7p/oXGwOD2g==;lUdA3NS8ePM6Lb+xJ6T2sg=="
+secured: "Ck4mGFGu/BPQ0ld1GVlm1QiE/A5yaDng8qpN8bOXF9/TyeYxHagi9SX1IC5zXhEzPzSdXbNT50+c/hP/j5c9+03TeW7R7OSQWKAJe3HR3zJZMGOqGtC38vh9jmbho40bPZHvdml2WDABi/FopuoYgybQUPpttgcTJxs1nfvM7EusjPAc4RSFg1x/EdBwog4z9a5yMVm7pwxDiaPWDAs3NDGUoueNLpx9CBetZPfiGcG58z9DUJ5F6f/YIwNuFKf2FeD71vWPAjC1sKKdhyQiJYyEEIGk4TQM/Di35piVTDWAPOkV5qSGze858P5EhRlVMDlm3nTTin5x+zk+1eR28lQvCsUN0kf0cXnQY0MyyYE=;4QHRG9Kln/jueb9dMpbHJw=="
 ---
 

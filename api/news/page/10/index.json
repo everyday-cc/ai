@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-01-tensorflow-now-defaults-to-intel-onednn-ai-optimizations.md",
+      "title": "TensorFlow now defaults to Intel oneDNN AI optimizations",
+      "excerpt": "OneDNN is an open-source cross-platform library intended for devs of deep learning applications and frameworks such as TensorFlow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
+      "originalUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
+      "publishedDateTime": "2022-05-31T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-google-assistant-personalized-speech-recognition-makes-the-ai-better.md",
       "title": "Google Assistant Personalized Speech Recognition Makes The AI Better",
       "excerpt": "... up to provide even better results to voice commands on a personal level thanks to newly-spotted “Personalized speech recognition” features. That’s based on an APK teardown of the latest Google app release performed by 9to5Google. Specifically ...",
@@ -574,7 +627,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Sales"
+        "AI in Sales",
+        "AI in Autos"
       ]
     },
     {
@@ -1054,49 +1108,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-can-video-games-boost-kids-cognitive-development.md",
-      "title": "Can video games boost kids’ cognitive development?",
-      "excerpt": "Researchers have found that children between the ages of eight and 12 who play video games perform better on a variety of tests associated with intelligence and cognitive development. Can video ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/05/31/can-video-games-boost-kids-cognitive-development",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/05/31/can-video-games-boost-kids-cognitive-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/05/30/1604464.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

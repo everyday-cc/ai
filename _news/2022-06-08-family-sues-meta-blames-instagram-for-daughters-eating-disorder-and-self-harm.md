@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna32221"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna32221"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Instagram accused of fueling suicidal thoughts in teen’s lawsuit against Facebook parent company"
+    excerpt: "The lawsuit cites Meta research revealing that the tech giant knew Instagram was worsening teen girls’ mental health issues."
+    publishedDateTime: 2022-06-09T20:26:00Z
+    webUrl: "https://7news.com.au/technology/instagram-accused-of-fueling-suicidal-thoughts-in-teens-lawsuit-against-facebook-parent-company-c-7096903"
+    ampWebUrl: "https://7news.com.au/technology/instagram-accused-of-fueling-suicidal-thoughts-in-teens-lawsuit-against-facebook-parent-company-c-7096903.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/technology/instagram-accused-of-fueling-suicidal-thoughts-in-teens-lawsuit-against-facebook-parent-company-c-7096903.amp"
+    type: article
+    provider:
+      name: 7NEWS
+      domain: 7news.com.au
+    quality: 46
+    images:
+      - url: "https://images.7news.com.au/publication/C-7096903/4f8cee703d08d3be1a3156776b8a1f5f5695eeef-16x9-x0y64w1240h698.jpg?imwidth=1200"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Instagram is Becoming the New Mall: 3 Ways to Start Conversational Commerce Marketing"
     excerpt: "Instagram is quickly becoming a strong conversational commerce channel. Brands that leverage the channel’s digital marketing and conversational commerce tools are the ones that will be able to better engage shoppers,"
     publishedDateTime: 2022-06-08T14:26:00Z

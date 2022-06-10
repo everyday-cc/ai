@@ -2,6 +2,49 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-04-05-4-considerations-for-the-managing-aws-cloud-platform-in-higher-ed.md",
+      "title": "4 Considerations for the Managing AWS Cloud Platform in Higher Ed",
+      "excerpt": "AWS also works with universities on solutions that employ voice technology, artificial intelligence and machine learning to support innovative learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed",
+      "originalUrl": "https://edtechmagazine.com/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202204/GettyImages-1223790471.jpg?itok=tW41D7Ie",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2022/04/4-considerations-managing-aws-cloud-platform-higher-ed?amp",
+      "publishedDateTime": "2022-04-04T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-04-this-hands-on-ai-based-test-project-will-help-ensure-astronaut-gloves-are-safe-in-space.md",
       "title": "This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space",
       "excerpt": "The post This ‘hands-on’ AI-based test project will help ensure astronaut gloves are safe in space appeared first on The AI Blog.\n",
@@ -1105,48 +1148,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-ai-music-startup-endel-teams-up-with-artist-james-blake.md",
-      "title": "AI music startup Endel teams up with artist James Blake",
-      "excerpt": "Artist James Blake had a new track featured on Apple Music’s homepage last week, and there’s an interesting story behind it. ‘Wind Down‘ is billed as an “Endel Soundscape”, reflecting its status as a collaboration with AI-music startup Endel.",
-      "sourceUrl": null,
-      "webUrl": "https://musically.com/2022/04/04/ai-music-startup-endel-teams-up-with-artist-james-blake/",
-      "originalUrl": "https://musically.com/2022/04/04/ai-music-startup-endel-teams-up-with-artist-james-blake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://musically.com/wp-content/uploads/2022/04/james-blake.jpg",
-          "width": 1500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Music Ally",
-        "domain": "musically.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

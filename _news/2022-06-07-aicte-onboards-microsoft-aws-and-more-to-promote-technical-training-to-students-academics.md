@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/aicte-onboards
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-mobile-logo.png"
         width: 460
         height: 460
+        isCached: true
+  - title: "Cognitive Services Market Analysis by Growth: 2022, Future Demand, Business Trends and Revenue Forecast to 2028 | IBM, Microsoft, Google, AWS, Baidu"
+    excerpt: "The latest published Report by SMI’S provides an encyclopedic study of the Cognitive Services Market, along with a holistic insight into the important factors and aspects that affect future ..."
+    publishedDateTime: 2022-06-09T13:13:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-services-market-analysis-by-growth-2022-future-demand-business-trends-and-revenue-forecast-to-2028-ibm-microsoft-google-aws-baidu"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 49
+    images:
+      - url: "https://i0.wp.com/charliejon620351289.files.wordpress.com/2022/06/cognitive-services1.jpg"
+        width: 815
+        height: 553
         isCached: true
   - title: "P&G and Microsoft co-innovate to build the future of digital manufacturing"
     excerpt: "With Microsoft Azure as the foundation, the new collaboration marks the first time that P&G can digitize and integrate data from more than 100 manufacturing sites around the world and enhance its AI, machine learning and edge computing services for real ..."

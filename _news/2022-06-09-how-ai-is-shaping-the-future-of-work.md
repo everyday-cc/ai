@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1204099471.jpg"
         width: 2207
         height: 1359
+        isCached: true
+  - title: "How HR can mitigate the risks and reap the rewards of AI at work"
+    excerpt: "Employers are at risk of facing tough employment claims if they fail to retain the human element when they use AI."
+    publishedDateTime: 2022-06-10T08:31:00Z
+    webUrl: "https://www.personneltoday.com/hr/hr-artificial-intelligence-human-resources-ai-risks-recruitment-redundancy/"
+    type: article
+    provider:
+      name: Personnel Today
+      domain: personneltoday.com
+    quality: 37
+    images:
+      - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2022/06/shutterstock_519499720.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Artificial intelligence to shape future of fishing with targeted catches"
     excerpt: "The use of artificial intelligence in the fishing industry, to better control what fish is harvested, is only a few years away, says a fisheries scientist."

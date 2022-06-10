@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "JIDU unveils first concept production robocar"
+    excerpt: "Powered by Baidu's leading intelligent driving technology, JIDU is set to deliver robocars that fully meet the needs of advanced autonomous"
+    publishedDateTime: 2022-06-08T15:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/jidu-unveils-first-concept-production-robocar-1031516921"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1835473/JIDU_concept_robocar_ROBO_01.jpg"
+        width: 400
+        height: 201
+        isCached: true
   - title: "New Intelligent EV Company JiDU Reveals its Revolutionary Concept Production 'Robocar'"
     excerpt: "JiDU, the new intelligent electric vehicle (EV) company backed by China’s internet giant Baidu Inc and Volvo Cars’ parent company Zhejiang Geely Holding Group (\"Geely\"), unveiled its concept production “robocar” on Wednesday."
     publishedDateTime: 2022-06-08T19:00:00Z

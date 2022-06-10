@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Baidu's electric vehicle firm Jidu unveils first 'robot' car"
-excerpt: "Baidu's EV-making plan comes as tech companies around the world race to develop smart cars after Tesla's (TSLA.O) success in commercializing electric vehicles. Besides equipping the vehicle with autonomous driving software technology powered by Baidu ..."
-publishedDateTime: 2022-06-08T17:10:00Z
-originalUrl: "https://www.reuters.com/technology/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car-2022-06-08/"
-webUrl: "https://www.reuters.com/technology/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car-2022-06-08/"
+excerpt: "Besides equipping the vehicle with autonomous driving software technology powered by Baidu, Jidu will also build two lidars and 12 cameras alongside the car. Lidars are detection systems ..."
+publishedDateTime: 2022-06-09T03:09:00Z
+originalUrl: "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car"
+webUrl: "https://www.asiaone.com/digital/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car"
 type: article
-quality: 66
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/200609_robot%20car.png?h=9a34780c&itok=6MDqmIDk"
+    width: 600
+    height: 316
+    isCached: true
 
 related:
   - title: "Baidu’s first car will target Tesla Model Y: executive"
@@ -55,6 +57,6 @@ related:
         height: 315
         isCached: true
 
-secured: "gts9zXGYPZ54cjQmDkHLvXFGGBGBLQA3CzG1Ts+LtzND3Ov9CXZBJOOzS54nmwOuVmXCbvvXJ7c86F8RyctATy2OWOYrt7N5TTK4u4TjFO8STi6QheXuKQUxGb9pYQZLcWzXW/NtgO/dzFzgv3WtWVWlBZExHnFldLXhOWuMADEYRmCwVjV4WPgq14z5BctDDh7cHso+KE2qo3b1GDL9/KaomE8Wu/PYUkBUFp1BMyhYLbI2YqMuRAKCbNGmbG+VcLqLAKLmbxBSentK26A4Bfd9AsZbFDqKKb12JCVHfj9aBuc5N25tZ4gMIonwpYJnoteuF68rdmcfJ+Dtirs5SuYIMHQjsO7WPdPf9ld336g=;y7XEL3u4LjCgtnACnBRx3Q=="
+secured: "MsRZjtITgbN7r6y9j9PdxRwA8XHCrdeSH75U0WshcCqwx2ZDvWEmGTfvS9Tc1//FBhVsN9YsJXK/MKHwKFH5umI0dME6HfPPHUtl2ddOQc2RrQPNehYGMQ8y9icz1rZXAla6uiXRm4HV5FmKz2LTDq2lsGb5ILZ34PBO6r/TfGKtJ3zrpTQ2v7KZXBI/B7r1+4KaF5mamt8BfFWlfk7n7PRblLs4BtKJy3gBs1d7bT9lGhhGbxwvYBCbRtLZ8/Cba9hLf/y/UKPz81THfkBY7OdsVhIwbjLmp1h8JpTqREVswrCODDwmgTg2LSsByGmFQGZSv5Jv7NJlmkj2Mygxp31kIRyhSjZBSjdl5y8yrAw=;cHeGycF3bjGePTSrR6btLg=="
 ---
 

@@ -99,8 +99,8 @@ related:
         isCached: true
   - title: "Taser maker halts drone project; most of its ethics panel resigns"
     excerpt: "Taser-maker Axon Enterprise Inc said it was halting a project to equip drones with stun guns to combat mass shootings, a reversal that did not stop most of its ethics advisory board members from announcing their resignation on Monday in protest over the original plans."
-    publishedDateTime: 2022-06-06T17:57:00Z
-    webUrl: "https://www.reuters.com/world/us/exclusive-axon-halts-taser-drone-work-some-ethics-panel-said-resign-2022-06-06/"
+    publishedDateTime: 2022-06-06T22:57:00Z
+    webUrl: "https://www.reuters.com/article/axon-enterprise-drones/exclusive-axon-halts-taser-drone-work-as-most-of-its-ethics-panel-said-to-resign-idUSKBN2NN055"
     type: article
     provider:
       name: Reuters

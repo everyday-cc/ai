@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/google.png"
         width: 900
         height: 500
+        isCached: true
+  - title: "Google has added additional capabilities to Vertex, its managed artificial intelligence service"
+    excerpt: "Google unveiled the Vertex AI service, a platform that helps organisations install artificial intelligence models more quickly. This morning, Google released new features for Vertex to commemorate the service’s one-year anniversary and kick off its Applied ML Summit."
+    publishedDateTime: 2022-06-10T08:17:00Z
+    webUrl: "https://bestgamingpro.com/google-has-added-additional-capabilities-to-vertex-its-managed-artificial-intelligence-service/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 25
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/06/Google-expands-Vertex-its-managed-AI-service-with-new-features.png"
+        width: 600
+        height: 365
         isCached: true
 
 secured: "nHaE+kJgbuD2dfYfg8xeboOwj3FrbqGm5OYtMYhXJ/3ef2w4GCsNZgW78r3IcbA5gtn+Rb6YxQaonOF4/fhOgyUqiZHaK0XNcrEJUm4Dp8w1wei5Xlg6SASlqoWZCddSAYnX7MoY0TFny1c4OfcIgJph5AdL5k7q0lxyCaX3rc2BNDKWE3xwpvCTR3FtbadkuZmYw6Ye0rCzOhoSbbTV3WM/1hQXdZ427vzwwFlYMSQk9gn83ILJJDUQMeriNTGRHnkWY6NgnV7+b9OF8vKNfx/AaZz/A+aw+A5u0LpIt6S+slxkyR/8ZX4sDQ938yYdqUUFbO8AFlpcUQRLSrnJAslnQklvbA5mwpNQuphuPpylcm0OLE43c5yA3Rh8FofmElSDMCQt8CRq0PvZAJeGfO531E0FipHIxIa167KEzPMhtxNpJi9DWXupOHe8MBxG4lhEpV0V/Fc33funZ9IJcy1n68c+8oQ7tdEzashqjHqXh5XaRftiqkGHxuQ/N0he6iOo0ca7IDj/gaRwsLq0TA==;0xXgJ9z6KlsueYMUsYiL6w=="

@@ -45,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-09-baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago.md",
-      "title": "Baidu’s first robocar looks like the future we pictured 20 years ago",
-      "excerpt": "Chinese tech giant Baidu has unveiled a concept robocar called the ROBO-01. With it, the company's EV car subsidiary JIDU, and Chinese automaker Geely hope to lead the charge into a world of fully-autonomous cars. The ROBO-01, which Baidu announced on ...",
+      "path": "_news/2022-06-08-jidu-unveils-first-concept-production-robocar.md",
+      "title": "JIDU unveils first concept production robocar",
+      "excerpt": "Powered by Baidu's leading intelligent driving technology, JIDU is set to deliver robocars that fully meet the needs of advanced autonomous",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago",
-      "originalUrl": "https://www.techradar.com/sg/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/jidu-unveils-first-concept-production-robocar-1031516921",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/jidu-unveils-first-concept-production-robocar-1031516921",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/Atczmc6ShrzgeTvTauUuw6-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://mma.prnewswire.com/media/1835473/JIDU_concept_robocar_ROBO_01.jpg",
+          "width": 400,
+          "height": 201,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,14 +69,66 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T14:35:00-07:00",
+      "publishedDateTime": "2022-06-08T08:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-chinas-jidu-robo-1-looks-like-its-from-the-future-maybe-it-is.md",
+      "title": "China’s Jidu Robo-1 Looks Like It’s From the Future. Maybe It Is",
+      "excerpt": "The autonomous driving technology for Jidu’s car will be a custom version of Apollo, an open platform developed by Baidu and several partners that dozens of carmakers use in China. Jidu says its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
+      "originalUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/629ff1ed853b24d07fae362d/master/pass/JiDU-ROBO-1-Baidu-First-Car-Business.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
+      "publishedDateTime": "2022-06-08T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/social-media/meta-lawsuit-instagram-caused-eating-disorder-self-harm-rcna32221",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -298,7 +350,7 @@
       "originalUrl": "https://www.engadget.com/cruise-charge-fully-driverless-rides-san-francisco-092000547.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1315,21 +1367,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-31-why-robotics-and-artificial-intelligence-are-the-future-of-mankind.md",
-      "title": "Why Robotics And Artificial Intelligence Are The Future Of Mankind",
-      "excerpt": "Robotics and AI certainly have the power to transform our world, helping us navigate a rapidly changing future with greater confidence and optimism.",
+      "path": "_news/2022-05-31-a3-robot-sales-in-north-america-continue-record-increase-into-2022.md",
+      "title": "A3: robot sales in North America continue record increase into 2022",
+      "excerpt": "VP Alex Shikany to discuss latest on how companies solve labor shortages with robotics at Automate June 6 in Detroit",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/",
+      "webUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
+      "originalUrl": "https://www.logisticsmgmt.com/article/a3_robot_sales_in_north_america_continue_record_increase_into_2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 213,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//613246cfa37776e285f84f80/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2205_F_LMEx_DigitalSC-Main600p_350_200_bor1_b9b3be_s_c1.jpg",
+          "width": 352,
+          "height": 202,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1337,23 +1389,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/31/why-robotics-and-artificial-intelligence-are-the-future-of-mankind/amp/",
-      "publishedDateTime": "2022-05-31T05:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T08:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1362,64 +1405,10 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AI in Robotics",
-        "AI in Healthcare",
+        "AI",
+        "AI in Sales",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success.md",
-      "title": "Human Vs. Artificial Intelligence: Why Finding The Right Balance Is Key To Success",
-      "excerpt": "In short, now that we have increasingly capable robots and artificial intelligence (AI) systems – capable of taking on tasks that were previously the sole domain of humans – it’s easier than ever for organizations to leverage intelligent machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629450cfe45063944fd631b9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/",
-      "publishedDateTime": "2022-05-29T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

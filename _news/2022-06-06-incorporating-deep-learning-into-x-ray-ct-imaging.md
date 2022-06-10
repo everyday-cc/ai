@@ -86,19 +86,14 @@ related:
       domain: aws.amazon.com
     quality: 69
   - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-    excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
-    publishedDateTime: 2022-06-09T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
+    excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
+    publishedDateTime: 2022-06-09T14:03:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 15
 
 secured: "QbGyKdjEjSnRmHcUcesyrG/G1MqLi1x2nzqghszYyHK4TVBfntEG9DVGgVrindu8q72NZL1HsLLob8Q0QbSs5EFpwg4Ud5Hr1NT9si6f+qiPDFnaOW8zhzGwkM60ldXrNP0QawfVDkvdSRZmROr4XzjsKZtljhHzieiHSp5iotl3JJT33ptrM3eRa0w2oT1WzmB01Zd86wiKtTlsXi+brkNYWTjwvWYvicYEeMb/xZU0QXGROAJY2vEkTMX0RXsxeWLb9R464oaJvWSJZWZfLqkZpyF2n7bw5CiO7HiHlUedJwsR9c/TWOJ1yE5Jl04T8KSnp68elxvJaeW4/rNMKBH6QxM2N0tu+Dr2x9DYdDw=;juqhD9y+8QbcckM4mCOo4g=="
 ---

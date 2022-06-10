@@ -41,6 +41,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CVPR 2022 Program to Reveal New Research on..."
+    excerpt: "Hosted by the IEEE Computer Society (IEEE CS) and the Computer Vision Foundation (CVF), CVPR is the premier annual computer vision event comprising the main conference and several co-located ..."
+    publishedDateTime: 2022-06-08T18:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/06/n27615069/cvpr-2022-program-to-reveal-new-research-on-computer-vision-ai-and-machine-learning-at-the-19-24-j"
+    ampWebUrl: "https://www.benzinga.com/amp/content/27615069"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27615069"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://mma.prnewswire.com/media/1835737/CVPR_2022_press_release_1240x700.jpg"
+        width: 400
+        height: 226
+        isCached: true
   - title: "Computer Vision Technologies Market Research Report | Economic Growth Outlook, Challenges, Regional Status and Segments Forecast by 2029"
     excerpt: "Data Bridge Market Research in its report titled of Computer Vision Technologies Market offers comprehensive insights"
     publishedDateTime: 2022-06-08T06:25:00Z

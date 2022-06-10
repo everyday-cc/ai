@@ -2,6 +2,53 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-05-08-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence industry is expected to grow to $554 billion in total revenue by 2024, according to market research firm IDC.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
+      "originalUrl": "https://wtop.com/news/2022/05/artificial-intelligence-stocks-the-10-best-ai-companies-7/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-08T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics",
+        "IBM AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-08-artificial-intelligence-ai-discovers-precise-treatments-for-blinding-diseases.md",
       "title": "Artificial Intelligence (AI) Discovers Precise Treatments for Blinding Diseases",
       "excerpt": "New study discovers subpopulations of retinal cells using artificial intelligence, that may help modify the treatment preciseness of blinding eye diseases.",
@@ -1133,49 +1180,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-06-artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom.md",
-      "title": "Artificial intelligence helps decode sounds of the animal kingdom",
-      "excerpt": "Artificial intelligence is helping us understand the language of animals. The technology can analyze hours of animal audio in a fraction of the time the same work would take for a human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
-      "originalUrl": "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/5752abc/2147483647/strip/true/crop/900x506+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F97%2F14%2Fc5200d774c06abf9d29172df0431%2Funderstanding-animal-sounds.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/artificial-intelligence-helps-decode-sounds-of-the-animal-kingdom?_amp=true",
-      "publishedDateTime": "2022-05-06T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 17",
-        "domain": "fox17online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

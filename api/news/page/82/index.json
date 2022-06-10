@@ -2,6 +2,49 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-03-31-deepmind-appeared-at-the-center-of-sexual-harassment-scandal.md",
+      "title": "DeepMind Appeared At The Center Of Sexual Harassment Scandal",
+      "excerpt": "Recently, DeepMind, an artificial intelligence company owned by Google-parent Alphabet has been the talk of the town. Several former employees were accusing the company of mishandling serious ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/",
+      "originalUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/03/DeepMind-accused-of-mishandling-Sexual-Misconduct-allegations_TechnoidHost.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/03/31/deepmind-appeared-at-the-center-of-sexual-harassment-scandal/amp/",
+      "publishedDateTime": "2022-03-31T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-31-global-neural-network-market-size-worth-usd-2264031-million-by-2028-cagr-337-by-reports-and-insights.md",
       "title": "Global Neural Network Market Size Worth USD 2,26,403.1 Million By 2028 – CAGR 33.7% By: Reports and Insights",
       "excerpt": "The report is titled 'Neural Network Market: Opportunity Analysis and Future Assessment 2020-2028'. An overview",
@@ -1111,49 +1154,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-waymos-self-driving-cars-are-coming-to-downtown-phoenix.md",
-      "title": "Waymo's self-driving cars are coming to downtown Phoenix",
-      "excerpt": "The autonomous car company has already been operating its self-driving vehicles around the East Valley for years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.12news.com/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "originalUrl": "https://www.12news.com/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.12news.com/assets/KPNX/images/7b3c006d-a483-4340-8e5c-9b34900ab441/7b3c006d-a483-4340-8e5c-9b34900ab441_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.12news.com/amp/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/tech/waymo-expanding-service-downtown-phoenix/75-43829f5c-130d-4c70-b17d-e82364c079b5",
-      "publishedDateTime": "2022-03-30T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPNX",
-        "domain": "12news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
