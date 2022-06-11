@@ -40,20 +40,6 @@ related:
         width: 2362
         height: 1393
         isCached: true
-  - title: "IIT Madras to offer AI research fellowship exclusively for women"
-    excerpt: "IIT Madras Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI) has started applications for the Post Baccalaureate Fellowship. “The Post Baccalaureate fellows are expected to undertake independent research under the mentorship of a Faculty member at RBCDSAI."
-    publishedDateTime: 2022-06-06T06:31:00Z
-    webUrl: "https://analyticsindiamag.com/iit-madras-to-offer-ai-research-fellowship-exclusively-for-women/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-23-1300x731.png"
-        width: 1300
-        height: 731
-        isCached: true
   - title: "Researchers use Overcooked to train AI to be a better gaming buddy"
     excerpt: "DeepMind researchers have been using the chaotic cooking game Overcooked (opens in new tab) to teach AI to better collaborate with humans. MIT researchers have followed suit, gifting their AI the ..."
     publishedDateTime: 2022-06-07T13:47:00Z

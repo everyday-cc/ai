@@ -2,6 +2,49 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-04-07-3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy.md",
+      "title": "3 Chinese Stocks to Buy on the Dip Amid China Triple Whammy",
+      "excerpt": "However, revenue from non-core businesses, including AI, Baidu Cloud and self-driving cars, soared 63% YOY, compensating for the decline in its advertising business. BIDU stock is down 38% over ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2022/04/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy/",
+      "originalUrl": "https://investorplace.com/2022/04/3-chinese-stocks-to-buy-on-the-dip-amid-china-triple-whammy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2022/01/shutterstock_1904062051-1024x576.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-like-tesla-toyota-develops-self-driving-tech-with-low-cost-cameras.md",
       "title": "Like Tesla, Toyota develops self-driving tech with low-cost cameras",
       "excerpt": "SAN FRANCISCO -- Toyota unit Woven Planet is following the lead of Tesla Inc. in trying to advance self-driving technology with low-cost cameras. Woven Planet told Reuters it is able to use low ...",
@@ -1095,49 +1138,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-04-06-geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia.md",
-      "title": "Geisinger, Eisai to Use Artificial Intelligence to Detect Dementia",
-      "excerpt": "Geisinger and Eisai plan to study the potential of artificial intelligence (AI) by testing the effectiveness of an algorithm to identify individuals with cognitive impairment who may develop dementia.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
-      "originalUrl": "https://healthitanalytics.com/news/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/2019-11-18-GettyImages-1047719428-67199ff8dd2aaa686fbbb8d60359499a.png",
-          "width": 600,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/geisinger-eisai-to-use-artificial-intelligence-to-detect-dementia",
-      "publishedDateTime": "2022-04-06T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

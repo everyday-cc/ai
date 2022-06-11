@@ -2,6 +2,60 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2022-03-10-tensorflowjs-is-a-library-for-machine-learning-in-javascript.md",
+      "title": "TensorFlow.js is a library for machine learning in JavaScript",
+      "excerpt": "Tutorials show you how to use TensorFlow.js with complete, end-to-end examples.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/js/?ref=jmaven.com",
+      "originalUrl": "https://www.tensorflow.org/js/?ref=jmaven.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-10T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-03-10-ethics-of-artificial-intelligence-on-the-top-another-take-on-the-draft-artificial-intelligence-regulation-significant-changes.md",
       "title": "Ethics of Artificial Intelligence on the top. Another take on the draft artificial intelligence regulation. Significant changes",
       "excerpt": "A few days ago the internal committee of the European Parliament has published its new proposal for amendments to the Artificial Intelligence Act. The proposal is still pending as it has to be approved for further steps,",
@@ -1125,49 +1179,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-09-tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem.md",
-      "title": "Tomahawk Robotics Integrates AeroVironment UAS Into Kinesis Ecosystem",
-      "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multi-domain, cross-architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/03/n26063678/tomahawk-robotics-integrates-aerovironment-uas-into-kinesis-ecosystem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/26063678",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26063678",
-      "publishedDateTime": "2022-03-09T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

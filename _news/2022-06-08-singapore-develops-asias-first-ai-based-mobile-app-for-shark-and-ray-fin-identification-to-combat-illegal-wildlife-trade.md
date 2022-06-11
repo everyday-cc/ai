@@ -7,8 +7,8 @@ originalUrl: "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asi
 webUrl: "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Microsoft
@@ -28,6 +28,22 @@ images:
     height: 1703
     isCached: true
 
-secured: "p4JqE2OR4n0F8Q7GHH64qfviAZJ24XbB/YYl1NywoDZBd13Iu/3yYn3ILVD/+G8JOgN8K/3s5vYEP8TqjoyW7xkY80RUG3hrFVAJegDUb5/syx4OuG38wmbf0yj7lvj/I/HK3SRntQkmb+8B1FN0alUTYsCG2n7z5R/yRUg0uRCQklaOQ42ECd5GKeJDj4rUH84Y4AAnczGzw7ay5u75sUgWqv6xSLZ1r4Ldy0EkOFP9lEWLWISXrXWQbdxZdykMSrL1qvyy3Hgg0GuWBzTDhfjEZ7o7wlU0eq+lbl/rPylcgiXEbcb8OnB2weCvbNOcdVUh8mz0dc2vjHhU2tuFs+1QdZfw6iGh/TXri3IcWAw=;cVJkvpqU12v4+vR0kEAG6Q=="
+related:
+  - title: "AI helps to fight the illegal trade in shark and ray fins"
+    excerpt: "Fin Finder is a collaboration between Microsoft, Conservation International and the Singapore National Parks Board (NParks) and has included data and advice from the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)."
+    publishedDateTime: 2022-06-10T23:32:00Z
+    webUrl: "https://cites.org/eng/news/ai-helps-fight-illegal-trade-shark-ray-fins"
+    type: article
+    provider:
+      name: CITES
+      domain: cites.org
+    quality: 37
+    images:
+      - url: "https://cites.org/sites/default/files/inline-images/FinFinder.png"
+        width: 285
+        height: 590
+        isCached: true
+
+secured: "Lkfa6lkiSYR7SFcSpHZBPLDFcXVCWS7IGJBxRaatIhtRmb87Ym2lt0nQdAptaNjK72QDjmCAi4RsJeSnVadiOLNgyEhmjqw6DqDWQtBbKpV5MTR/rMhRGh/wV1iA7zfO7pdEmFB5BagRpE385KFa8pHb7vQZOW8zc0Sg0RXcBzxr2m6H9+neD5yHSDpANxaR3F71Co+auu3rvvhTOAcKwdFx3q+vHmsrmqyU+9ySpm6SqwICH/VDmsqApT3t4gMA5SKOYcE3fqhTuLRp+YkJOa4YUVO26lb/SvsEzZRMS9XzZtb9BJt6lyDyyqzQr6851Jtr+M5cl/TNFULQuss2cNQvJp2UBqogPO+oOTTCaak=;csN8gYhDcQToDATzclewKg=="
 ---
 

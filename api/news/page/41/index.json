@@ -2,6 +2,57 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-05-06-the-benefits-and-dangers-of-using-ai-in-recruitment.md",
+      "title": "The Benefits And Dangers Of Using AI In Recruitment",
+      "excerpt": "Artificial Intelligence (AI) has made massive inroads into wider HR practices and recruitment in particular. Here we look at the problems as well as benefits of using AI in recruitment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6274afa31115eb7c6b1222ff/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/06/the-benefits-and-dangers-of-using-ai-in-recruitment/amp/",
+      "publishedDateTime": "2022-05-05T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-06-automotive-artificial-intelligence-ai-market-revenue-to-surpass-us-53118-mn-by-2030-exclusive-report-by-acumen-research-and-consulting.md",
       "title": "Automotive Artificial Intelligence (AI) Market Revenue to Surpass US$ 53,118 Mn By 2030 – Exclusive Report By Acumen Research And Consulting",
       "excerpt": "Artificial intelligence will have a huge impact on ... and electric vehicles in the US and the presence of many AI and self-driving car companies in the region. Then again, the Europe region ...",
@@ -1060,59 +1111,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-05-the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever.md",
-      "title": "The Ethical Adoption Of AI In Healthcare Requires A Global Effort, Now More Than Ever",
-      "excerpt": "The events of the past two years have made very clear that in an interconnected world, a health crisis in one corner of the globe can soon spell disaster for the rest of it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/05/the-ethical-adoption-of-ai-in-healthcare-requires-a-global-effort-now-more-than-ever/amp/",
-      "publishedDateTime": "2022-05-05T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

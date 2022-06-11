@@ -6,7 +6,7 @@ publishedDateTime: 2022-06-10T21:21:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/06/220607182305.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/06/220607182305.htm"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 related:
   - title: "New insights on infant word learning reported in study"

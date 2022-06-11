@@ -80,6 +80,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 43
+  - title: "Landing AI Adds New Edge Capabilities to LandingLens to Bring Deep Learning to the Factory Floor"
+    excerpt: "With LandingEdge, manufacturers will more easily deploy deep learning visual inspection solutions to edge devices on the factory floor to better and more consistently detect product defects."
+    publishedDateTime: 2022-06-06T13:18:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220606SF79716/landing-ai-adds-new-edge-capabilities-to-landinglens-to-bring-deep-learning-to-the-factory-floor/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 21
   - title: "Brian Onorio: AI may be transforming shopping"
     excerpt: "But two years later, we Americans are emerging from the pandemic, remembering that in-person shopping is actually something we enjoy doing, and are heading back to the brick-and-mortar stores in droves."
     publishedDateTime: 2022-06-09T15:48:00Z

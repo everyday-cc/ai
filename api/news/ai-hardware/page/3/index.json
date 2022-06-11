@@ -2,60 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-05-10-qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions.md",
-      "title": "Qualcomm goes beyond smartphones with 5G and edge-AI robotics solutions",
-      "excerpt": "Qualcomm’s robotic tech is taking its tech beyond smartphones. The platform combines Qualcomm AI Engine and 5G chip capabilities for cutting-edge applications and possibilities, including ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/",
-      "originalUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/qualcomm-robots-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/qualcomm-goes-beyond-smartphones-with-5g-and-edge-ai-robotics-solutions/amp/",
-      "publishedDateTime": "2022-05-10T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-10-proteantecs-gets-45m-to-strengthen-its-ai-enabled-chip-analytics-platform.md",
       "title": "ProteanTecs gets $45M to strengthen its AI-enabled chip analytics platform",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -1357,6 +1303,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-29-intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.md",
+      "title": "Intel warns of chip shortages due to Chinese COVID lockdowns",
+      "excerpt": "Intel’s Datacenter and AI Group, its second largest business group ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html",
+      "originalUrl": "https://www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/04/Intel-18A-Gelsinger-1.png?w=1024",
+          "width": 1023,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/695670/intel-warns-of-chip-shortages-due-to-chinese-covid-lockdowns.html/amp",
+      "publishedDateTime": "2022-04-28T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

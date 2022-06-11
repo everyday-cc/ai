@@ -2,6 +2,112 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-09-social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global.md",
+      "title": "Social CRM Leader GoSky AI Completes Seed Funding Round Led by VC firm 500 Global",
+      "excerpt": "GoSky AI announced today the completion of a seed funding round led by 500 Global, a leading venture capital firm. Investors in this round also include the Co-Founder & CEO of ThunderCore, Chris Wang,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global-1031519891",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/social-crm-leader-gosky-ai-completes-seed-funding-round-led-by-vc-firm-500-global-1031519891",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1836422/News_Photo_By_using_GoSky_AI_s_social_CRM__brands_are_able_to_convert_their_social_media_followers.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-can-reinforcement-learning-help-fix-the-mental-health-crisis.md",
+      "title": "Can Reinforcement Learning Help Fix The Mental Health Crisis?",
+      "excerpt": "Stefano Goria is Co-Founder and Chief Technical Officer (CTO) of Thymia, a company aiming to make mental health assessments faster and more accurate through an approach that combines video games based on neuropsychology with analyses of facial microexpressions and speech patterns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcement-learning-help-fix-the-mental-health-crisis/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcement-learning-help-fix-the-mental-health-crisis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a0d7969d4f7499efccd11a/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcement-learning-help-fix-the-mental-health-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcement-learning-help-fix-the-mental-health-crisis/amp/",
+      "publishedDateTime": "2022-06-09T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-training-a-robot-to-recognize-and-pour-water.md",
       "title": "Training a robot to recognize and pour water",
       "excerpt": "A horse, a zebra and artificial intelligence helped a team of Carnegie Mellon University researchers teach a robot to recognize water and pour it into a glass.",
@@ -196,58 +302,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-your-ai-practices-might-not-be-ethical.md",
-      "title": "Your AI Practices Might Not Be Ethical",
-      "excerpt": "AI has fueled efficiencies across industries for years. It's old news by now, but as I've said before, that's a good thing. Conversations about AI sound much different today than they did 10 years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//623e03aea76ee421fc3bd76c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/",
-      "publishedDateTime": "2022-06-09T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -779,6 +833,58 @@
       ]
     },
     {
+      "path": "_news/2022-06-08-singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade.md",
+      "title": "Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade",
+      "excerpt": "The post Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/",
+      "originalUrl": "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/439/2022/06/Photo-1-scaled.jpg",
+          "width": 2560,
+          "height": 1703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T14:04:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-snorkel-ai-named-a-2022-gartner-cool-vendor.md",
       "title": "Snorkel AI Named a 2022 Gartner® Cool Vendor",
       "excerpt": "Press Release Snorkel AI, the data-centric AI platform company, announced it has been named a 2022 Cool Vendor in Gartner's AI Core Technologies report. According to Gartner, \"Data challenges of accessibility,",
@@ -873,7 +979,7 @@
       "originalUrl": "https://phys.org/news/2022-06-whale-images-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1019,7 +1125,7 @@
       "originalUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1087,101 +1193,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk.md",
-      "title": "Microsoft Reiterated Outperform by Oppenheimer Following Azure Talk",
-      "excerpt": "Oppenheimer analyst Timothy Horan reiterated an Outperform rating and $340 price target on Microsoft (NASDAQ: MSFT) Wednesday, following a \"fireside chat\" with M",
-      "sourceUrl": null,
-      "webUrl": "https://in.investing.com/news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-3232728",
-      "originalUrl": "https://in.investing.com/news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-3232728",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/news/LYNXMPEA6103X_L.jpg",
-          "width": 800,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-chinas-jidu-robo-1-looks-like-its-from-the-future-maybe-it-is.md",
-      "title": "China’s Jidu Robo-1 Looks Like It’s From the Future. Maybe It Is",
-      "excerpt": "The autonomous driving technology for Jidu’s car will be a custom version of Apollo, an open platform developed by Baidu and several partners that dozens of carmakers use in China. Jidu says its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
-      "originalUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/629ff1ed853b24d07fae362d/master/pass/JiDU-ROBO-1-Baidu-First-Car-Business.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
-      "publishedDateTime": "2022-06-08T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

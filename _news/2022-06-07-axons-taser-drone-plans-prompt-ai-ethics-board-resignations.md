@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/taser-drone-axon-ai-ethics-board/amp"
 type: article
 quality: 104
-heat: 404
+heat: 384
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/01ebfe773288e8d7a3d952c1ec40e6414d3f0f2f/2022/06/08/2bda3fad-bfc5-4d9d-b98e-7f998203ab26/taser-drone.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 901
-        isCached: true
-  - title: "Exclusive-Axon halts Taser drone work as most of its ethics panel said to resign"
-    excerpt: "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel."
-    publishedDateTime: 2022-06-06T05:15:00Z
-    webUrl: "https://www.reuters.com/article/axon-enterprise-drones-idTRNIKBN2NN055"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 79
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20220606&t=2&i=1601136153&r=LYNXMPEI5502F&w=800"
-        width: 800
-        height: 511
         isCached: true
   - title: "Axon AI ethics board members resign over plans for Taser drones"
     excerpt: "Nine members of the AI ethics board for police technology company Axon have resigned after the company said it would develop drones equipped with Tasers despite the board's earlier opposition."
@@ -293,22 +279,6 @@ related:
       - url: "https://media.12news.com/assets/CCT/images/e14911fd-aab4-42d7-aef4-e2f76f6ee2c4/e14911fd-aab4-42d7-aef4-e2f76f6ee2c4_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Taser manufacturer drops proposal to put armed drones in schools after mass resignation from ethics board"
-    excerpt: "The company that developed the electric stun gun says it is halting a plan to offer taser-equipped drones to police forces and schools to combat mass shootings, after a majority of its own ethics board resigned in protest."
-    publishedDateTime: 2022-06-06T05:07:00Z
-    webUrl: "https://www.abc.net.au/news/2022-06-06/ethics-panel-members-resign-axon-taser-drones-mass-shootings/101129270"
-    ampWebUrl: "https://amp.abc.net.au/article/101129270"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101129270"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 42
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/cc0411565d6a973fe2f132575dd59778?impolicy=wcms_crop_resize&cropH=443&cropW=787&xPos=0&yPos=81&width=862&height=485"
-        width: 787
-        height: 443
         isCached: true
   - title: "Axon halts its plans for a Taser drone as 9 on ethics board..."
     excerpt: "Axon's founder and CEO Rick Smith said the company's announcement last week — which drew a rebuke from its artificial intelligence ethics board — was intended to \"initiate a conversation on ..."

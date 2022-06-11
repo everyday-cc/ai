@@ -2,6 +2,58 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-03-27-how-to-avoid-buying-ai-based-marketing-tools-that-are-biased.md",
+      "title": "How to avoid buying AI-based marketing tools that are biased",
+      "excerpt": "If your marketing team is looking to buy an off-the-shelf AI-powered marketing product, ask the vendor these 5 questions first.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/",
+      "originalUrl": "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/03/26/how-to-avoid-buying-ai-based-marketing-tools-that-are-biased/amp/",
+      "publishedDateTime": "2022-03-26T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-03-26-the-ten-commandments-for-using-ai-in-hiring-decisions.md",
       "title": "The Ten Commandments For Using AI In Hiring Decisions",
       "excerpt": "Want to avoid a Great Resignation-type mass exodus of your workers? Want to win the war for talent in the automation age? Want to treat your fellow workers with the dignity we all deserve? Embrace the Ten Commandments in your organization now.",
@@ -1127,58 +1179,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-chinas-latest-brainwave-controlling-space-robots-using-mind-power.md",
-      "title": "China’s latest brainwave? Controlling space robots using mind power",
-      "excerpt": "A research team with China’s manned space programme say they have developed technology that will allow astronauts to control robotic equipment ... and Chen Dong used a mind-reading device ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind?module=lead_hero_story&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind?module=lead_hero_story&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/03/25/ed9c6cc4-01e6-4c1b-86b0-38139667623d_72a3c279.jpg?itok=hLxpK9b5&v=1648220192",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3171890/chinas-latest-brainwave-controlling-space-robots-using-mind",
-      "publishedDateTime": "2022-03-25T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

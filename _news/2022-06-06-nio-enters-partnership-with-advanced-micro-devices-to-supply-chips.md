@@ -41,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Advanced Micro Devices, NIO join forces to supply chips to the Chinese EV maker"
-    excerpt: "Advanced Micro Devices (AMD) has collaborated with Chinese EV manufacturer NIO (NIO) to supply chips to the Chinese electric vehicle.NIO will use AMD's EPYC family of processors in"
-    publishedDateTime: 2022-06-06T06:47:00Z
-    webUrl: "https://seekingalpha.com/news/3845748-advanced-micro-devices-nio-join-forces-to-supply-chips-to-the-chinese-ev-maker"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 35
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1186902469/image_1186902469.jpg?io=getty-c-w750"
-        width: 750
-        height: 438
-        isCached: true
 
 secured: "aQHkHactqXRW/a9qYnpbYKKYMeCs6C3s65AyQT9ZtFRKio+CfISRi5pUBUyLp4Ne8LpF5r1IKYGfscSzpwJgsV+JrF8Wv7tRQd5jN9lpxdh69sokQyw3ef3Qff2gx8I4xuHsAvP834dKvLirf0RCDiKIsEvEpmVGPxy4v7VKNjoUOIwhMHnHymcYZMrWcHOyIgyIw0mBAKFNPLVLOPa1deIlFfrq21YJJsauznEsHN/2AXInixTVmys+ji4R9J6+5XDCvNZYMZQF/8NCCwTH91NVLJzra0+Exms6Ei2u+zykTmr5A7i4kFuh0hv8chWzczzwZHYFy8HcNuScQBEQcfQoW78ORBz5OTmPmxuxtB/vVvg5/lfNZpQbMsesayRt+y365moWeg2ETHE4NE8xuLaFkGwGGubqt+vNyCk1k2CaYCJvR76w0IowslO24IjZeLtIEoOXEm0XKRbS/71t+2g8gQZicVx/qHLmUgimcCkAmeKX9Z9cRe82RohG1PAmADv0TEjrc5e45jiMQTfCyQ==;yuTk6DyK4N3NbYs9fijv9A=="
 ---

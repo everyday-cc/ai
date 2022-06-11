@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-08-microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk.md",
+      "title": "Microsoft Reiterated Outperform by Oppenheimer Following Azure Talk",
+      "excerpt": "Oppenheimer analyst Timothy Horan reiterated an Outperform rating and $340 price target on Microsoft (NASDAQ: MSFT) Wednesday, following a \"fireside chat\" with M",
+      "sourceUrl": null,
+      "webUrl": "https://in.investing.com/news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-3232728",
+      "originalUrl": "https://in.investing.com/news/microsoft-reiterated-outperform-by-oppenheimer-following-azure-talk-432SI-3232728",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXMPEA6103X_L.jpg",
+          "width": 800,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing.com",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-chinas-jidu-robo-1-looks-like-its-from-the-future-maybe-it-is.md",
+      "title": "China’s Jidu Robo-1 Looks Like It’s From the Future. Maybe It Is",
+      "excerpt": "The autonomous driving technology for Jidu’s car will be a custom version of Apollo, an open platform developed by Baidu and several partners that dozens of carmakers use in China. Jidu says its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
+      "originalUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/629ff1ed853b24d07fae362d/master/pass/JiDU-ROBO-1-Baidu-First-Car-Business.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
+      "publishedDateTime": "2022-06-08T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy.md",
       "title": "Five Ways Marketers Are Using AI To Elevate Their Content Marketing Strategy",
       "excerpt": "AI is proving to be a valuable asset in many different areas, one area being content creation. It is no secret that content has become an integral part of business marketing strategies in 2022, and due to the ever-present demand to produce high-quality content on a regular basis,",
@@ -690,7 +785,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1096,93 +1191,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-video-students-of-bengaluru-school-get-brand-new-robotics-artificial-intelligence-lab.md",
-      "title": "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab",
-      "excerpt": "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/cities/bangalore/cd54jc/article65503499.ece/alternates/LANDSCAPE_615/Robotics%20and%20Artificial%20Intelligence%20AI%20Lab%20in%20National%20High%20School%20Basavanagudi%20Bengaluru.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
-      "publishedDateTime": "2022-06-07T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ampd-ventures-signs-deal-with-variational-ai-to-double-its-machine-learning-capacity-at-dc1.md",
-      "title": "AMPD Ventures signs deal with Variational AI to double its machine learning capacity at DC1",
-      "excerpt": "The deal will nearly double the machine learning capacity supplied by the AMPD AI Platform to Variational, the company said",
-      "sourceUrl": null,
-      "webUrl": "https://ca.proactiveinvestors.com/companies/news/984202/ampd-ventures-signs-deal-with-variational-ai-to-double-its-machine-learning-capacity-at-dc1-984202.html",
-      "originalUrl": "https://ca.proactiveinvestors.com/companies/news/984202/ampd-ventures-signs-deal-with-variational-ai-to-double-its-machine-learning-capacity-at-dc1-984202.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA2XC8yMDIwLTExLTIwLTE0LTU1LTM1LWFjNmQyM2UxNjFlYTAzOTYxNWZjNjIwMGI2YzhiODAzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ca.proactiveinvestors.com/companies/amp/news/984202",
-      "cdnAmpWebUrl": "https://ca-proactiveinvestors-com.cdn.ampproject.org/c/s/ca.proactiveinvestors.com/companies/amp/news/984202",
-      "publishedDateTime": "2022-06-07T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

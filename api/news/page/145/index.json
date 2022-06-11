@@ -2,6 +2,58 @@
   "page": 145,
   "value": [
     {
+      "path": "_news/2022-02-08-data-monetization-market-global-industry-analysis-size-share-growth-trends-and-forecast.md",
+      "title": "Data Monetization Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast",
+      "excerpt": "For this, GE Healthcare's partnership with Amazon Web Services (AWS), which provides the ability to deploy machine learning solutions at scale through the Amazon SageMaker machine learning platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-monetization-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-monetization-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-apple-buys-startup-that-makes-music-with-artificial-intelligence.md",
       "title": "Apple Buys Startup That Makes Music With Artificial Intelligence",
       "excerpt": "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used across its slate of audio offerings. The purchase of AI ...",
@@ -1077,49 +1129,6 @@
       "ampWebUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
       "publishedDateTime": "2022-02-07T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-08-alphaics-sampling-gluon-chip-for-edge-ai.md",
-      "title": "AlphaICs sampling Gluon chip for edge AI",
-      "excerpt": "Register here. Start-up AlphaICs yesterday announced that it has begun sampling its Gluon coprocessor for edge AI inference to customers. AlphaICs claims the chip delivers competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
-      "originalUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/alphaic-starts-sampling-gluon-chip-for-edge-ai/amp/",
-      "publishedDateTime": "2022-02-07T09:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

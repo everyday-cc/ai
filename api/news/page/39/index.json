@@ -2,6 +2,58 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-05-09-finishing-touch-how-scientists-are-giving-robots-humanlike-tactile-senses.md",
+      "title": "Finishing touch: How scientists are giving robots humanlike tactile senses",
+      "excerpt": "Giving robots sight and hearing is fairly straightforward these days, but equipping them with a robust sense of touch is far more difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/robot-senses-touch/",
+      "originalUrl": "https://www.digitaltrends.com/news/robot-senses-touch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/cropped-hand-of-woman-touching-robot.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/robot-senses-touch/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/robot-senses-touch/?amp",
+      "publishedDateTime": "2022-05-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning.md",
       "title": "Hugging Face reaches $2 billion valuation to build the GitHub of machine learning",
       "excerpt": "Due to the success of this libary, Hugging Face quickly became the main repository for all things related to machine learning models — not just natural language processing. On the company’s ...",
@@ -1122,57 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-07-cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less.md",
-      "title": "Cybersecurity reporting mandates could make us more vulnerable, not less",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/",
-      "originalUrl": "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1361681620-Outflow-Designs.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/07/cybersecurity-reporting-mandates-could-make-us-more-vulnerable-not-less/amp/",
-      "publishedDateTime": "2022-05-07T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

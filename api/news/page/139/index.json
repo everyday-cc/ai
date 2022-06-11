@@ -2,6 +2,48 @@
   "page": 139,
   "value": [
     {
+      "path": "_news/2022-02-12-daily-on-energy-high-hopes-for-nuclear-to-make-gains-at-the-state-level.md",
+      "title": "Daily on Energy: High hopes for nuclear to make gains at the state level",
+      "excerpt": "Subscribe today to the Washington Examiner magazine and ... which produces roughly double the carbon emissions of natural gas, according to the Financial Times. Peabody has benefited from a rebound in steelmaking economies, as worldwide begin to recover ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
+      "originalUrl": "https://www.washingtonexaminer.com/policy/energy-environment/daily-on-energy-high-hopes-for-nuclear-to-make-gains-at-the-state-level",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0460153-569b-4a33-8c65-90ab2790bdc5.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e24c93b8-85e6-4002-afdd-dd650a274f16",
+      "publishedDateTime": "2022-02-11T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-nhs-to-test-ai-in-healthcare-in-worlds-first-pilot.md",
       "title": "NHS to Test AI in Healthcare in World's First Pilot",
       "excerpt": "Brhmie Balaram, head of AI Research & Ethics at the NHS AI Lab, said: \"Through this pilot, we hope to demonstrate the value of supporting developers to meaningfully engage with patients and healthcare professionals much earlier in the process of bringing ...",
@@ -1116,57 +1158,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-11-ai-engine-exposes-online-fraud.md",
-      "title": "AI engine exposes online fraud",
-      "excerpt": "“Allure Security’s AI-based approach to targeting the scam source destroys criminals’ business models — something traditional approaches fail at.” Allure’s AI-powered engine is ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/",
-      "originalUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1333578770-e1644515132390.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/10/ai-engine-exposes-online-fraud/amp/",
-      "publishedDateTime": "2022-02-10T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

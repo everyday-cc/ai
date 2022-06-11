@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 901
         isCached: true
-  - title: "Exclusive-Axon halts Taser drone work as most of its ethics panel said to resign"
-    excerpt: "Taser-maker Axon Enterprise Inc said on Sunday it was halting work on a project to equip drones with stun guns to combat mass shootings, a prospect that a member of its AI ethics board told Reuters was prompting an exodus from the panel."
-    publishedDateTime: 2022-06-06T05:15:00Z
-    webUrl: "https://www.reuters.com/article/axon-enterprise-drones-idTRNIKBN2NN055"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 79
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20220606&t=2&i=1601136153&r=LYNXMPEI5502F&w=800"
-        width: 800
-        height: 511
-        isCached: true
   - title: "Axon AI ethics board members resign over plans for Taser drones"
     excerpt: "Nine members of the AI ethics board for police technology company Axon have resigned after the company said it would develop drones equipped with Tasers despite the board's earlier opposition."
     publishedDateTime: 2022-06-06T15:05:00Z
@@ -304,22 +290,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Taser manufacturer drops proposal to put armed drones in schools after mass resignation from ethics board"
-    excerpt: "The company that developed the electric stun gun says it is halting a plan to offer taser-equipped drones to police forces and schools to combat mass shootings, after a majority of its own ethics board resigned in protest."
-    publishedDateTime: 2022-06-06T05:07:00Z
-    webUrl: "https://www.abc.net.au/news/2022-06-06/ethics-panel-members-resign-axon-taser-drones-mass-shootings/101129270"
-    ampWebUrl: "https://amp.abc.net.au/article/101129270"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101129270"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 42
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/cc0411565d6a973fe2f132575dd59778?impolicy=wcms_crop_resize&cropH=443&cropW=787&xPos=0&yPos=81&width=862&height=485"
-        width: 787
-        height: 443
-        isCached: true
   - title: "Axon halts its plans for a Taser drone as 9 on ethics board..."
     excerpt: "Axon's founder and CEO Rick Smith said the company's announcement last week — which drew a rebuke from its artificial intelligence ethics board — was intended to \"initiate a conversation on ..."
     publishedDateTime: 2022-06-06T15:02:00Z
@@ -434,6 +404,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "Lw/p+TwjKrekkuVXsk5IBKo9hRyPJB1SHgS3a8UmQPvwkeBpQ+1uer6dSYnkd0ePwVGtyqud9QKCP3KH1Og1GLAIB1DfiggaqdBhrYAzBeND0luUrBDrpvVmH9H3WNZGbHVen0pyL+wFd8gXqNqQAwhOmQcWdIKE59wWWTSSSayHbhr8jGmUmY7EdxBu4Z1wcss5q5ENMIN81ser5xWRb+nFD1yIvPEFVbQnp5Sx5wxWWYf+RdmXBhzAbjs4dqLJ0Dw9/VWiTMmxNw//MQ2CQFAfrzgO0epAHEJzrr2Ss6qCei4h0gObjk6SEphBgh7D75IyCegPoruUB1t5RDlJ1grHqYvo4Pn3TX5Urk3R2io=;r5uIzFHcyAGvx/MsS/8lNQ=="
+secured: "4oVc5F0L+K1/XeAJ5y2Xu3XK+Mjxqo5kYOB3lh5XmnKUcdi22JuVZ4NtGgkhsHpzBGtcWS9sDYgj89lsqy0tjOrMnRBPUNhjf8gW6oyNJwvhZC7cCVA9N4vpjD/1GUbv0+nkPbAbA5XA1xWiwMPTaT0dt3H/AVOhAX3wwTdLoB7fMtJYhD5rqHFaMTc2s0cC7v5Wh1+9t32SaXjRmNSwkcFssOBrYQQ0azakD61rrNiC2ikXiInRnIMQup22wpIWKaV3L6Hh9MO9OlogjeJ4cZqgEomaz0/vn69w34kn0+CL+okDCLB+YweRpnPE9OTfJFw064ITKQ/sg6haHF+M1U4oFmafUimbb95O1X82KFGGey8QM4giPVDBG8pR126+VyFbhBa4D+Q50WSsu+QoOdvuW59SPCnZ6z4HVB1qX+mp5SiNg3pSDqhP/vmAxlNFZJj4xS98kmnqxyGFOjyYsVsW0V4qducY6w8e06wVkzoA9SjnfSp63xhAsg0C1VDJiUQgA4zh+blL+hq/YuIlKw==;ZlXqYZ4lfBwx5H5V2DdVxw=="
 ---
 

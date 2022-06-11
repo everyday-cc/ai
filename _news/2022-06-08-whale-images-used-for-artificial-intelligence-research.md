@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-06-whale-images-artificial-intelligence.a
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-whale-images-artificial-intelligence.amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Madras to offer AI research fellowship exclusively for women"
-    excerpt: "IIT Madras Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI) has started applications for the Post Baccalaureate Fellowship. “The Post Baccalaureate fellows are expected to undertake independent research under the mentorship of a Faculty member at RBCDSAI."
-    publishedDateTime: 2022-06-06T06:31:00Z
-    webUrl: "https://analyticsindiamag.com/iit-madras-to-offer-ai-research-fellowship-exclusively-for-women/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-23-1300x731.png"
-        width: 1300
-        height: 731
-        isCached: true
   - title: "DOD faces workforce challenges for AI test and evaluation"
     excerpt: "The Pentagon needs to test and evaluate new artificial intelligence-enabled systems to make sure they’re up to snuff before they end up in the hands of troops. However, the department will be challenged to find more personnel who are qualified to do this type of work,"
     publishedDateTime: 2022-06-07T21:02:00Z

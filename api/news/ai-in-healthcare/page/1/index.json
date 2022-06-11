@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-06-11-7-steps-to-more-ethical-artificial-intelligence.md",
+      "title": "7 Steps To More Ethical Artificial Intelligence",
+      "excerpt": "Even those who spend a lot of time in the field of AI ethics have a lot of difficulty understanding what’s to be done.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3b38e4305a1d890db1ac4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-10T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-how-ai-data-are-transforming-healthcare-three-key-trends-that-could-change-the-face-of-medicine.md",
       "title": "How AI, data are transforming healthcare: three key trends that could change the face of medicine",
       "excerpt": "The Stat Health Tech Summit in the United States put inventors with some great ideas for changing healthcare into the spotlight. We take a look at three highlights.",
@@ -104,49 +157,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care.md",
-      "title": "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care",
-      "excerpt": "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1832792/Paramesh_Remission_Graphic.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27555974",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27555974",
-      "publishedDateTime": "2022-06-04T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {

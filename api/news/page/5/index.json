@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-06-gut-bacterial-metabolite-promotes-neural-cell-death-leading-to-cognitive-decline.md",
+      "title": "Gut bacterial metabolite promotes neural cell death leading to cognitive decline",
+      "excerpt": "In their paper published in the journal Cell Host & Microbe, the group describes their study of the metabolite isoamylamine (IAA) and its impact on cognitive decline. Prior research has suggested ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/gut-bacterial-metaboli.jpg",
+          "width": 996,
+          "height": 996,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
+      "publishedDateTime": "2022-06-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-roadblocks-to-getting-real-time-ai-right.md",
       "title": "Roadblocks to getting real-time AI right",
       "excerpt": "Specialized hedge funds and big-name AI players – like Google and Facebook – make use of real ... This makes transitions from research to production expensive and labor-intensive.",
@@ -670,19 +713,19 @@
     {
       "path": "_news/2022-06-04-artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care.md",
       "title": "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care",
-      "excerpt": "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered",
+      "excerpt": "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered by artificial intelligence (AI),",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-health-artificial-intelligence-medication-diabetes-fb1881e60c834aabeaa997a83e0bf2ff",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1832792/Paramesh_Remission_Graphic.jpg",
-          "width": 400,
-          "height": 225,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -690,13 +733,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27555974",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27555974",
-      "publishedDateTime": "2022-06-04T08:03:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-04T08:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -706,7 +749,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1134,58 +1177,6 @@
         "AI",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-adopting-mlsecops-for-secure-machine-learning-at-scale.md",
-      "title": "Adopting MLSecOps for secure machine learning at scale",
-      "excerpt": "If you’re an ML practitioner, the field of MLSecOps is rapidly developing and now is an excellent time to contribute to the discussion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/",
-      "originalUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1097722576-XH4D.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/",
-      "publishedDateTime": "2022-06-03T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

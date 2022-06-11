@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-07-video-students-of-bengaluru-school-get-brand-new-robotics-artificial-intelligence-lab.md",
+      "title": "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab",
+      "excerpt": "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/news/cities/bangalore/cd54jc/article65503499.ece/alternates/LANDSCAPE_615/Robotics%20and%20Artificial%20Intelligence%20AI%20Lab%20in%20National%20High%20School%20Basavanagudi%20Bengaluru.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
+      "publishedDateTime": "2022-06-07T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-ampd-ventures-signs-deal-with-variational-ai-to-double-its-machine-learning-capacity-at-dc1.md",
+      "title": "AMPD Ventures signs deal with Variational AI to double its machine learning capacity at DC1",
+      "excerpt": "The deal will nearly double the machine learning capacity supplied by the AMPD AI Platform to Variational, the company said",
+      "sourceUrl": null,
+      "webUrl": "https://ca.proactiveinvestors.com/companies/news/984202/ampd-ventures-signs-deal-with-variational-ai-to-double-its-machine-learning-capacity-at-dc1-984202.html",
+      "originalUrl": "https://ca.proactiveinvestors.com/companies/news/984202/ampd-ventures-signs-deal-with-variational-ai-to-double-its-machine-learning-capacity-at-dc1-984202.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA2XC8yMDIwLTExLTIwLTE0LTU1LTM1LWFjNmQyM2UxNjFlYTAzOTYxNWZjNjIwMGI2YzhiODAzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ca.proactiveinvestors.com/companies/amp/news/984202",
+      "cdnAmpWebUrl": "https://ca-proactiveinvestors-com.cdn.ampproject.org/c/s/ca.proactiveinvestors.com/companies/amp/news/984202",
+      "publishedDateTime": "2022-06-07T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science.md",
       "title": "Does cognitive computing offer the next wave of analytics beyond data science?",
       "excerpt": "Cognitive computing goes beyond AI and ML by leveraging systems such as pattern recognition that strive to simulate human thought processing.",
@@ -62,7 +149,7 @@
       "originalUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 404,
+      "heat": 384,
       "tags": null,
       "images": [
         {
@@ -645,49 +732,6 @@
       ]
     },
     {
-      "path": "_news/2022-06-06-advanced-micro-devices-amd-enters-partnership-with-nio-to-supply-chips.md",
-      "title": "Advanced Micro Devices (AMD) enters partnership with NIO to supply Chips",
-      "excerpt": "AMD and NIO entered into a partnership in recent development. AMD will be supplying chips to NIO according to the contract terms.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/international/us/advanced-micro-devices-amd-enters-partnership-with-nio-to-supply-chips/articleshow/92043212.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/international/us/advanced-micro-devices-amd-enters-partnership-with-nio-to-supply-chips/articleshow/92043212.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17252,msid-92043224/amd.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/international/us/advanced-micro-devices-amd-enters-partnership-with-nio-to-supply-chips/amp_articleshow/92043212.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/advanced-micro-devices-amd-enters-partnership-with-nio-to-supply-chips/amp_articleshow/92043212.cms",
-      "publishedDateTime": "2022-06-06T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-06-how-ai-helps-coca-cola-boost-supply-chain-procurement.md",
       "title": "How AI helps Coca-Cola boost supply chain procurement",
       "excerpt": "Artificial intelligence and machine learning tools have become indispensable in order to boost procurement and sourcing efforts at Coca-Cola and other enterprise companies.",
@@ -1160,49 +1204,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-gut-bacterial-metabolite-promotes-neural-cell-death-leading-to-cognitive-decline.md",
-      "title": "Gut bacterial metabolite promotes neural cell death leading to cognitive decline",
-      "excerpt": "In their paper published in the journal Cell Host & Microbe, the group describes their study of the metabolite isoamylamine (IAA) and its impact on cognitive decline. Prior research has suggested ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/gut-bacterial-metaboli.jpg",
-          "width": 996,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "publishedDateTime": "2022-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

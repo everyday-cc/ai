@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/how-ai-is-shaping-the-future-of-work/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2022/06/shutterstock_519499720.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Prof Mike Sharples: will AI do all our writing in the future?"
+    excerpt: "Computers might be close to being able to write better than humans, but not without dropping some real clangers. Recently developed AI technology uses 'deep learning' - machine learning featuring artificial neural networks - to produce text."
+    publishedDateTime: 2022-06-10T23:28:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/saturday/audio/2018845476/prof-mike-sharples-will-ai-do-all-our-writing-in-the-future"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 37
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--qYKg59o2--/c_scale,f_auto,q_auto,w_1050/4LW5H1P_image_crop_138544"
+        width: 1050
+        height: 559
         isCached: true
 
 secured: "PG6E1oQvEIudP3hi/a6LZQsTVj4r0bjzFHzGPTOXh7ujBN65MNSiuGCQCp8zJcKEgwldcaXwMkXagKHt5xi4L49TL8drbaRyRBQA7b6kry081y3pbI8pzZounyTVNrSVDf/Kgl0twlrShaJccCIRhrgkjhd2IzKa22QrzEJl6y4n3usacYQx5I3UNocSo72ulvlhUzguzO83jzUBat5l7kwvEgJtRQikx63EEgBBSFKVHhgsGm3dmEkRZguQyFlLt+NWRqmydqzIccTmNUI7Itl6TtfBj8Y6h6h/XTjhEywoZ/cayIMyXRzhr5JUPnRMrRlkv7LS74er2Cu3qJVytitH86FZlYRBGqt2Lnlj/miljQn5sUcg/rKw3/FAyBkg6GJLj7XJ2Z/PKX7EIUVzlPYI4Ou5I2FthGi/al2W2t8dGFO9NAMN36wuuSwbn96cdW+EVCyUR74Swtre9eTSKR9DF865IaD3V8qH4Hjz41L+1i7FbCOFWGxkuoqhrIraeSpm7PkFHeiZHP7xfsGAHQ==;bAZ3qBLOiZPezsnl8VyQCA=="

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-06-09-your-ai-practices-might-not-be-ethical.md",
-      "title": "Your AI Practices Might Not Be Ethical",
-      "excerpt": "AI has fueled efficiencies across industries for years. It's old news by now, but as I've said before, that's a good thing. Conversations about AI sound much different today than they did 10 years ago.",
+      "path": "_news/2022-06-11-7-steps-to-more-ethical-artificial-intelligence.md",
+      "title": "7 Steps To More Ethical Artificial Intelligence",
+      "excerpt": "Even those who spend a lot of time in the field of AI ethics have a lot of difficulty understanding what’s to be done.'",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//623e03aea76ee421fc3bd76c/0x0.jpg?format=jpg&width=1200",
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3b38e4305a1d890db1ac4/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 800,
+          "height": 799,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/your-ai-practices-might-not-be-ethical/amp/",
-      "publishedDateTime": "2022-06-09T04:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/06/10/7-steps-to-more-ethical-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-10T15:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -49,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -166,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -273,7 +274,7 @@
       "originalUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 404,
+      "heat": 384,
       "tags": null,
       "images": [
         {

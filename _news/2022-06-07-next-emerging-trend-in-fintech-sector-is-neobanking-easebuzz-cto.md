@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO"
-excerpt: "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,"
-publishedDateTime: 2022-06-07T11:35:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=966403"
+title: "Next Emerging Trend In Fintech Sector Is Neobanking: Easebuzz CTO"
+excerpt: "2) We are using Amazon Sagemaker to implement our fraud risk models. This acts as a core service that is used by one of our fraud detection products. 3) We are also breaking and moving large ..."
+publishedDateTime: 2022-06-07T12:19:00Z
+originalUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
+webUrl: "https://menafn.com/1104335846/Next-Emerging-Trend-In-Fintech-Sector-Is-Neobanking-Easebuzz-CTO"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/sharmila_100622_puja1.JPG"
-    width: 640
-    height: 413
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?172733"
+    width: 375
+    height: 250
     isCached: true
 
 related:
@@ -54,6 +54,6 @@ related:
         height: 720
         isCached: true
 
-secured: "1LjGdkr/vqNi9PPQxh484ZoIpZLYrHItluG0moFDMZj3ZZU5fVp0T4kCGHcT/FvA6PlKslWmWWr6DbVg90MjJK9CZAQT/LdFNZtf6iaUCozraPCx+wBmcc++xghM4m7wDHPgBz/k1i8ucB641FAWSuYS5E+LV0xJOS/0nmz0Bn0Yjy6+oZn6e4VD3ofb6n9ky1N4AiZ52tW48duJi7UJUSiQgbM/KbTK29KxKPv0rr3B7pMxH8GY22O+MsqPMdBQxuFb+ieU9Y9sAWCv5bigk1ryUU0MTnIzIFB+uylJRtssicXkFGXnn/+KNWXlY5BHNujShmw6hUvvmyi+jzcTH9tq+uPZ8T0LtxZkirTXvYc=;4+U/MxXHc+EoslIrftYUjQ=="
+secured: "K0nk585P0tR89siUxGEJQLO83BxmXePdCd7pHqTipdwNi4PGf2mb2pJDLwSxG+XuM5opucWcFqp3OvIxfv/TDpVdV9W2TPuxrQ6tA4t/ve3e93lvvRGm6r/uJXat2LId9rOuWYjY7NnFanffA/JCmNPjKp1x4wv5+rOl+SmtzntknywoUgL+THj+VL8jAj5JLV4jyQ8icDIi8O5b2G2F5Vg6Ke5v/n5MG4RpS/kmIloKiDZcBSactMea62qi3hX9ZvPKoDiTLGjOmmXn3zArdwiv0CHbrMdNts39axKjG0fKnXQc2NrdLvawRZbRSK+Wlptqej5ZA6Oqi9GknmwILw/+OB0MrUqBeuttbBHQ2Qk=;WYjr1ULvO8BEoXDzA0XprA=="
 ---
 

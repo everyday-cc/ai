@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/news/international/us/advanced-micro-dev
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/us/advanced-micro-devices-amd-enters-partnership-with-nio-to-supply-chips/amp_articleshow/92043212.cms"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: India Times
@@ -40,20 +40,6 @@ related:
       - url: "https://i-invdn-com.investing.com/news/AMD_800x533_L_1596452822.jpg"
         width: 800
         height: 506
-        isCached: true
-  - title: "Advanced Micro Devices, NIO join forces to supply chips to the Chinese EV maker"
-    excerpt: "Advanced Micro Devices (AMD) has collaborated with Chinese EV manufacturer NIO (NIO) to supply chips to the Chinese electric vehicle.NIO will use AMD's EPYC family of processors in"
-    publishedDateTime: 2022-06-06T06:47:00Z
-    webUrl: "https://seekingalpha.com/news/3845748-advanced-micro-devices-nio-join-forces-to-supply-chips-to-the-chinese-ev-maker"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 35
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1186902469/image_1186902469.jpg?io=getty-c-w750"
-        width: 750
-        height: 438
         isCached: true
 
 secured: "+H9Xpv/k2UMehHi+unEAmZYKG/UL/CcZ7O9z5pZxuPV0WxICcVsKE7tQTXCiaIEO70rV+QyEb3P5Lpo8k09Soug9d71C/s8Sc5jDXdVwo9yk7EU3T6W9L7YMMPnc6lCb9xQ3Qj2H3NBDKlJVXxXs8flNeNkuG0+HfP3FC5cVo1TeCern9rOyRKwoYxl20TJllIlNQ6sclofAPntAxmqbF23FPwabqwuW6PojEdIYnBOnx8NaVZXtBaLITaOfx8mlSgYitQwbEvtXGhBZ4b7u07MFCbFVobRQqe7hlxhynCYFUDE7/GpSyDp4pBBETK/KmTM7Q9l0AYFuxU3rUf5hnzuT/AfM+ia133SHH1lq0YBjIfc5oJiY3L0p9vlhYbFfd9lowslFKyE65a3VVkTVSHEriy8f+e9e852zs9SFYLFRpR0Au6DEILxqXH3OmUx704VgH1TELd5dAhKDWfMydVDYd8CquVN1L9dWrP84/qhu3PDxJCfK/UqUuP6SEWM/fSdW+dTQbzIytd7Ik6/hlg==;8oiE/cJYpfI3ztraB5NSUg=="

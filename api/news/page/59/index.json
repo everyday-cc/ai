@@ -2,6 +2,58 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-04-21-nvidia-wants-to-use-gpus-and-ai-to-accelerate-and-improve-future-chip-design.md",
+      "title": "Nvidia wants to use GPUs and AI to accelerate and improve future chip design",
+      "excerpt": "During a talk at this year's GPU Technology Conference, Nvidia's chief scientist and senior vice president of research, Bill Dally, talked a great deal about using",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "originalUrl": "https://www.techspot.com/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2022/04/2022-04-20-ts3_thumbs-baa.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94281-nvidia-wants-use-gpus-ai-accelerate-improve-future.html",
+      "publishedDateTime": "2022-04-20T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-21-ais-future-is-packed-with-promise-and-potential-pitfalls.md",
       "title": "AI’s future is packed with promise and potential pitfalls",
       "excerpt": "Foundation models are based on deep neural networks and self-supervised learning that accepts unlabeled or partially labeled raw data. Algorithms then use small amounts of identified data to determine correlations,",
@@ -1082,58 +1134,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-20-ibm-to-make-watson-orchestrate-generally-available.md",
-      "title": "IBM to make Watson Orchestrate generally available",
-      "excerpt": "Watson Orchestrate also supports integration with Salesforce, SAP, Workday, and other enterprise applications to help businesses automate emails, schedule meetings, request approv",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/367450/ibm-to-make-watson-orchestrate-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815037/itpro/watson.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-20T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

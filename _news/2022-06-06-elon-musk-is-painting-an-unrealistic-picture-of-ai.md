@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Prof Mike Sharples: will AI do all our writing in the future?"
+    excerpt: "Computers might be close to being able to write better than humans, but not without dropping some real clangers. Recently developed AI technology uses 'deep learning' - machine learning featuring artificial neural networks - to produce text."
+    publishedDateTime: 2022-06-10T23:28:00Z
+    webUrl: "https://www.rnz.co.nz/national/programmes/saturday/audio/2018845476/prof-mike-sharples-will-ai-do-all-our-writing-in-the-future"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 37
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--qYKg59o2--/c_scale,f_auto,q_auto,w_1050/4LW5H1P_image_crop_138544"
+        width: 1050
+        height: 559
+        isCached: true
 
 secured: "OtX6k43+wyH3pUn+rBAbhdTuRDHi+1yryuVboMw47scBApjr8GL+OLRYgOrkkshNh1+h6CrN2QScxDkcWKU7DPbgDi2L9Ocf1ABCucLZDU6tnPOkpwkUn5CXRIuhQ6SOBms2NDIoBB0zZs3XslKX/SwS+DqaV0Vs+Lv9ZGUUbZbMQBPyQqw/DaTOOy4sRKkq4CTPsC0eq6YZFa0icYoa3nOQ5CK8hbEUfNPWWVsqadq2LcTDEF24WI9XRH7xlAtO33EtCYThEz9Y2BvnHTm/bpezQgmh9AoUmUVTzZLKIwwhrllq4HR0pmSl12LjmsQnBNKdjdoGOF2SJGvysPiY0PhmkWwfKJMybei3fs/QWIk=;IDBgYqJcs+YR9i8bhimqmw=="
 ---
