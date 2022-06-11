@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Does cognitive computing offer the next wave of analytics beyond data science?"
-    excerpt: "Cognitive computing goes beyond AI and ML by leveraging systems such as pattern recognition that strive to simulate human thought processing."
-    publishedDateTime: 2022-06-06T22:50:00Z
-    webUrl: "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/"
-    ampWebUrl: "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1327016094-e1654538126130.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Cloud-based Video Analytics changing face of real-time video analysis, facial recognition"
     excerpt: "Cloud-based video analytics is a part of this AI bubble and plays a vital role in surveillance and monitoring. AI video and facial recognition systems work as seamless and efficient video content analysis tools offering real-time intelligence and post ..."
     publishedDateTime: 2022-06-11T11:10:00Z

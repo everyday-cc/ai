@@ -6,8 +6,8 @@ publishedDateTime: 2022-06-07T20:26:00Z
 originalUrl: "https://thenextweb.com/news/ibm-ai-captains-uncrewed-ship-across-atlantic-using-business-logic"
 webUrl: "https://thenextweb.com/news/ibm-ai-captains-uncrewed-ship-across-atlantic-using-business-logic"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fibmayflower.jpg&signature=49fe6f12427fedadf5dc12ff7ef7be79"

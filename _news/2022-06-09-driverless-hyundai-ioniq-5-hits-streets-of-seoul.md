@@ -37,20 +37,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Cruise can now charge for fully driverless rides in San Francisco"
-    excerpt: "GM's Cruise has received the first ever driverless deployment permit issued by the California Public Utilities Commission. That means the company can now charge for the robotaxi rides, ones with ..."
-    publishedDateTime: 2022-06-06T20:59:00Z
-    webUrl: "https://www.engadget.com/cruise-charge-fully-driverless-rides-san-francisco-092000547.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/61147cf0-e30f-11ec-ad7d-66eb367c1a24"
-        width: 1126
-        height: 675
-        isCached: true
   - title: "Hyundai's self-driving taxis roll out on the streets of South Korea"
     excerpt: "Automaker Hyundai and South Korean officials launched a trial service of self-driving taxis in Gangnam on Thursday, the latest step forward in the country's efforts to make autonomous vehicles an everyday reality."
     publishedDateTime: 2022-06-09T15:19:00Z

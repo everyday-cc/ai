@@ -7,7 +7,7 @@ originalUrl: "https://www.coe.int/en/web/portal/-/new-report-on-the-impact-of-ar
 webUrl: "https://www.coe.int/en/web/portal/-/new-report-on-the-impact-of-artificial-intelligence-on-the-doctor-patient-relationship"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How will AI impact doctor-patient relationships?"
-    excerpt: "Clear ethical standards and guidance must be in place for use of Artificial Intelligence in health settings to protect the relationship of trust between doctors and patients and to safeguard human rights,"
-    publishedDateTime: 2022-06-07T10:58:00Z
-    webUrl: "https://healthcare-in-europe.com/en/news/ai-impact-doctor-patient-relationships.html"
-    type: article
-    provider:
-      name: healthcare-in-europe.com
-      domain: healthcare-in-europe.com
-    quality: 39
-    images:
-      - url: "https://healthcare-in-europe.com/media/story/26979/rect-01-adobestock-242951195.jpg"
-        width: 400
-        height: 240
-        isCached: true
   - title: "Council of Europe: “Impact of artificial intelligence on doctor-patient relationship”, report published. Ethical standards needed"
     excerpt: "The impact of artificial intelligence (AI) on the doctor-patient relationship is the focus of the report published today by the Council of Europe's Steering Committee for Human Rights in the fields of Biomedicine and Health (CDBIO)."
     publishedDateTime: 2022-06-07T14:11:00Z

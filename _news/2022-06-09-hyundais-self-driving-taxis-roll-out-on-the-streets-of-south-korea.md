@@ -43,20 +43,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Cruise can now charge for fully driverless rides in San Francisco"
-    excerpt: "GM's Cruise has received the first ever driverless deployment permit issued by the California Public Utilities Commission. That means the company can now charge for the robotaxi rides, ones with ..."
-    publishedDateTime: 2022-06-06T20:59:00Z
-    webUrl: "https://www.engadget.com/cruise-charge-fully-driverless-rides-san-francisco-092000547.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-06/61147cf0-e30f-11ec-ad7d-66eb367c1a24"
-        width: 1126
-        height: 675
-        isCached: true
   - title: "Pilot project for driverless buses awaiting European funding to begin"
     excerpt: "In involved the use of driverless buses on what will initially be four ... with the information then feeding through the device’s in-built artificial intelligence to control it. Some 300 of these vehicles are in operation globally, with Singapore ..."
     publishedDateTime: 2022-06-08T07:55:00Z

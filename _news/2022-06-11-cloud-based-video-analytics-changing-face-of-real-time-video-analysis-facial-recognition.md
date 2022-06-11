@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/technology/cloud-based-video-ana
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Does cognitive computing offer the next wave of analytics beyond data science?"
-    excerpt: "Cognitive computing goes beyond AI and ML by leveraging systems such as pattern recognition that strive to simulate human thought processing."
-    publishedDateTime: 2022-06-06T22:50:00Z
-    webUrl: "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/"
-    ampWebUrl: "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1327016094-e1654538126130.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Accelerating customer experience through Voice Analytics in the BFSI industry"
     excerpt: "BFSI industry is facing today is keeping the customer engaged. Undoubtedly, customer service is the fulcrum of BFSI operations, and providing exceptional customer experience is the answer to all the industry’s engagement issues."
     publishedDateTime: 2022-06-07T06:43:00Z

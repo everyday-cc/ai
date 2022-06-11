@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How will AI impact doctor-patient relationships?"
-    excerpt: "Clear ethical standards and guidance must be in place for use of Artificial Intelligence in health settings to protect the relationship of trust between doctors and patients and to safeguard human rights,"
-    publishedDateTime: 2022-06-07T10:58:00Z
-    webUrl: "https://healthcare-in-europe.com/en/news/ai-impact-doctor-patient-relationships.html"
-    type: article
-    provider:
-      name: healthcare-in-europe.com
-      domain: healthcare-in-europe.com
-    quality: 39
-    images:
-      - url: "https://healthcare-in-europe.com/media/story/26979/rect-01-adobestock-242951195.jpg"
-        width: 400
-        height: 240
-        isCached: true
   - title: "New report on the impact of artificial intelligence on the doctor-patient relationship"
     excerpt: "The Council of Europe’s Steering Committee for Human Rights in the fields of Biomedicine and Health (CDBIO) has issued a new report on the impact of artificial intelligence on the doctor-patient relationship."
     publishedDateTime: 2022-06-07T09:00:00Z

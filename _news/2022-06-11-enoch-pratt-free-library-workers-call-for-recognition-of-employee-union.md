@@ -6,6 +6,9 @@ publishedDateTime: 2022-06-11T13:42:00Z
 originalUrl: "https://afro.com/enoch-pratt-free-library-workers-call-for-recognition-of-employee-union/"
 webUrl: "https://afro.com/enoch-pratt-free-library-workers-call-for-recognition-of-employee-union/"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Afro
@@ -15,6 +18,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "J1MDov0r5zn5YJOsMFci4xV40P8Bvz7gQZf3nwlclp0yiHEiUMBcifVKZ7vHQ6fEi+o2li12yJSjW6OatK6J1aFxWsDHh59nhSx6yRWXnZOvAbMTdM4AY3Ri8S7hhYLJ+9SMXwh6T2vsOX3ltjGIcW3+1zI7vj2URG86xx/uC+TR3TfNjewmUXiiiFNCFVjHcDWHr4eCv3uGnJ38DtaJY5RD0PCVBIwNUTO7tezkw2CiGBOTgxJBGep3hujS6w3n/jgQqHHvtO4sMGbMd4Kf799LX5Gc8GY0c1wffC3z/TdRaXlPPC0Z0BMyBC0ECKaoJVSwEAyHvfxavKxe4Ke1QBcZPr9FiEYeayiXdIIT2Co=;LYrL6YdY5KWKm3ClwuDMHg=="
+images:
+  - url: "https://i0.wp.com/afro.com/wp-content/uploads/2022/06/Library-Union.-jpg-001.jpg?resize=293%2C578&#038;ssl=1"
+    width: 293
+    height: 578
+    isCached: true
+
+secured: "nQARW0B2tFIICaAXHJWva1OvKW22PNZH2+QLSCjlc2tBpyjsEHW9JAyD/tO/BQYeKMxVsk/X/GyVXzxQytHFbbLtOj7mOX0mrmMwDGCa/fZ2EcrUX3dh9YLlcnQTa/00Kfljwf+9AIY6+aFvhQkSpx0aKAFyb7p7tR0ZXmEf4Mw0p5aOwknLv3KJfHxiPuyBPeFZuBD8/tcCYXlz1NWoBZ1IiVia6+xGgJrqqOx3vYhTbNMiYuoQt34TfofreiaVsk2nWnk888fs2/hDJen2Nhqv47gH7Bn9ygJTwoPTPaTXWB7/zp8vblgh/3cHTZGed60KVbJR7vkNZxdIVsJQ8AyzPhBlMXun2ScndQMswCQ=;BZ6Z90JVgXpg6EDzPUyDdw=="
 ---
 

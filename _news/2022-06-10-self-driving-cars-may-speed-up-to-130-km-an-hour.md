@@ -44,6 +44,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 29
+  - title: "Self-driving cars may speed up to 130 km an hour"
+    excerpt: "The UN regulation on automated driving is likely to be increased from 60 kilometres (37 miles) an hour to 130 km (80.8 miles) an hour in certain conditions, a United Nations regulatory agency said ..."
+    publishedDateTime: 2022-06-11T12:48:00Z
+    webUrl: "https://tribune.com.pk/story/2361067/self-driving-cars-may-speed-up-to-130-km-an-hour"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 4
   - title: "Autonomous Car Market Size to Grow Worth USD 11.03 Billion at a CAGR of 31.3% for 2021-2029 | Fortune Business Insights"
     excerpt: "Furthermore, giant businesses associated with automobile manufacturing are promptly adopting Artificial Intelligence (AI) and Machine Learning (ML) technologies and implementing them in automobile ..."
     publishedDateTime: 2022-06-08T09:36:00Z

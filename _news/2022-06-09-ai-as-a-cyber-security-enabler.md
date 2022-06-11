@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://beta.darkreading.com/images/og-image.jpg"
         width: 342
         height: 342
-        isCached: true
-  - title: "AI for Cyber Threat Intelligence – Challenges and Mitigation Approaches"
-    excerpt: "By Uday Kiran Pulleti, Senior Director - AI, Cyble The internet as we know it is a dynamic, constantly growing entity. In 2021, Eric Schmidt, CEO of Google, estimated that \"the internet\" is 5 Million"
-    publishedDateTime: 2022-06-06T22:10:00Z
-    webUrl: "https://www.cyberdefensemagazine.com/ai-for-cyber-threat/"
-    type: article
-    provider:
-      name: Cyber Defense Magazine
-      domain: cyberdefensemagazine.com
-    quality: 37
-    images:
-      - url: "https://www.cyberdefensemagazine.com/wp-content/uploads/2022/06/AI-for-Cyber-Threat-Intelligence-Challenges-and-Mitigation-Approaches.jpg"
-        width: 697
-        height: 526
         isCached: true
   - title: "How to use AI in cybersecurity?"
     excerpt: "Let’s talk about how AI in cybersecurity protects the corporate networks of companies. Technological progress has not only pleasing but also bad consequences. Together with the accelerated pace of corporate security systems development,"

@@ -7,7 +7,7 @@ originalUrl: "https://www.thurrott.com/cloud/268374/google-chrome-machine-learni
 webUrl: "https://www.thurrott.com/cloud/268374/google-chrome-machine-learning-updates"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Google Chrome Will Use Machine Learning to Make Browsing Less Awful"
+    excerpt: "Google has revealed its plans to use machine learning to make browsing the web suck less. The company says (Opens in a new window) it already uses machine learning to enable some"
+    publishedDateTime: 2022-06-11T14:04:00Z
+    webUrl: "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful"
+    ampWebUrl: "https://www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-chrome-will-use-machine-learning-to-make-browsing-less-awful?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00BFfSrxJN6AaGlonTAOKls-1.fit_lim.size_1200x630.v1654956168.jpg"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "XjkxyNAVSNPIa+GIWRWbx7Hn0PyD2OoeRpNMhJSMGxqnQ/BQSRjPVuBqXSWqCAOh8rUDyMOdshEPud7RiHIlWu+/lfGn9oHqSOADd6qVcs7qR6efBwGgJm+zSoXnZlI5f2IvA80C/DRVSRQ3//kzYM3claOFIrhkIapUH867MyflxDZHYwI8vNKlTfwWt+J9v1KqnJVdUZf5i4jl0tN2L3Tc1Z3vm+4HJw4F8gx9qEfc3CDiBKEqj4C7wcyfjWrD+crnxO3xT7WVioMivbCk9hzeYyWMuYAArwfEN/qwdjiomfphtmV2qskK2kDD5tLzvB8O5iBPsXStkKYXtcmpdQyaZ/KQqtEu8/nt8Ljr8FM3RuRehJmvD9CgMqf4ExwrHwiOyjMXGX4dE/v5TWZ+3Ho1enbu0cEJjNaRFiCAix1s1nrRJLtZc1+MHPnQQxAMr7BRlsvcV1JMo2vybJL8kmEATDmSRfkNRXAIwDP/n7/X5pM8N8+55kPj2kVWuJSGzQLNSdzTe9nFQC94NWKqcA==;uPJ0LK/MR6d2kz+ShgA5sA=="
 ---

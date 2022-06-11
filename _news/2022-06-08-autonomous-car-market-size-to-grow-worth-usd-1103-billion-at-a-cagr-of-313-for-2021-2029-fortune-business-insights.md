@@ -55,6 +55,15 @@ related:
       name: aa.com.tr
       domain: aa.com.tr
     quality: 4
+  - title: "Self-driving cars may speed up to 130 km an hour"
+    excerpt: "The UN regulation on automated driving is likely to be increased from 60 kilometres (37 miles) an hour to 130 km (80.8 miles) an hour in certain conditions, a United Nations regulatory agency said ..."
+    publishedDateTime: 2022-06-11T12:48:00Z
+    webUrl: "https://tribune.com.pk/story/2361067/self-driving-cars-may-speed-up-to-130-km-an-hour"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 4
 
 secured: "IuDx3YMNPFUfoWXlgYDkSttBryJ9bJxgPyLLHVgbl4uEmRQSUbd8Pa9SNUF/XNGbU5ZAaoDs2SkhBvsV/ttMgtN/noqbc3Sq1wRDJJv8ZSx9PQdXOtI2PFY7nQygr40VDY/QS5sScTXt8ms9s+XscP/Igw5OQdyoISr0aSXFHMMmLJpsgedaarkIiEV5dHfmv/VAAaWdENJbnxLgmcc0Dw6gu8PMyImYGGTe6QMJbxLb7wLz+1gs1M2jeAJl3fsv0RvGlWxO0hGiwXP6MC0BUEzPDmIZEzQZNZabeTfl0biO0e543k/rvxyjd3k/J4UMg2gVrJY38Vx2UOXM13uINWxTx0tpb0NQIgYz987gEqE=;FvHN0yDXlzpUwPVgtm8Chg=="
 ---

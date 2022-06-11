@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas"
-    excerpt: "Retail businesses are data-driven—they analyze data to get insights about consumer behavior, understand shopping trends, make product recommendations, optimize websites, plan for inventory, and forecast sales. A common approach for sales forecasting is to use historical sales data to predict future demand."
-    publishedDateTime: 2022-06-06T19:23:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 105
   - title: "Incremental training with Amazon SageMaker JumpStart"
     excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). SageMaker JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models"
     publishedDateTime: 2022-06-09T21:47:29Z
@@ -90,13 +81,13 @@ related:
         height: 541
         isCached: true
   - title: "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker"
-    excerpt: "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ..."
-    publishedDateTime: 2022-06-09T14:03:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and"
+    excerpt: "Teradata (NYSE: TDC ) today announced the integration and general availability of the Teradata Vantage multi-cloud data and analytics plat"
+    publishedDateTime: 2022-06-09T13:03:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-70952a8989e14ffab4e532f14bcf840a"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Associated Press
+      domain: apnews.com
     quality: 15
 
 secured: "eumzkKAoEAGwz4/HHGc1LylonKsaOEQaZSZtCEPnPnUElF0Ubh61K05lj2+/9Zi/8/GM9AkhpZuSXIOkp3VfnIWhSGfWCA+yHMsOuGeYcsc9iYRcE8U3DHhohqJBnTJfNgf8zBWbWXHs7dSaLR1OSngLw3xtzAmlJYlDsMKSLIDXt9Y0OPmgGTJ9+oJvlNxc3OQZZzFkyLrV3ilVQ3Ayxo2q36jjoUQNKHblL8c8q+fsNUX5L39UpnJO1BiZJiKOWBKnJpVDEhrJr0l+HHySlIW+9qZM1s/DweyQ6pBlBaYTNV2e2qt3UljqiuZkiXrJ5a4J2Qs4QXr1mMilC/pCbxpgQqDrBXqQDTgPRwoEjrk=;U7pQh7ctflZ/GpQpBglvow=="

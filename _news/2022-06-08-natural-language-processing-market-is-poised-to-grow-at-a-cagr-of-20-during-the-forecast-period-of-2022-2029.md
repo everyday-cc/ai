@@ -57,20 +57,6 @@ related:
       name: spooool.ie
       domain: spooool.ie
     quality: 12
-  - title: "The Global Computer Vision Market is expected to reach a value of USD 30.94 Billion by 2028, at a CAGR of 15.89% over the forecast period (2022-2028)"
-    excerpt: "Manufacturing industries use high-speed cameras powered by computer vision for the detection of anomalies on the product line while processing more than hundreds of products and variables."
-    publishedDateTime: 2022-06-06T19:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/the-global-computer-vision-market-is-expected-to-reach-a-value-of-usd-30-94-billion-by-2028-at-a-cagr-of-15-89-over-the-forecast-period-2022-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/06/a2247fba798151c8e3614e44ba03ede8ab18b0e4-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "YDoSF3ifawptPyFSujPN5glFB+vbLDDC+4S/M1Cq5F/BruFLm58YnBTsfEYisCGrJkNAegMuw06Jlq41XjsqfSJl3XWVsCbMD1V2MPkTCIfrexjHHk7abSOi5FCkc4Bv62Bc+pEcyEKukjSTle23mACBpg4eUmdWxG8ToEYBUT3IQNW40vRyslwHa8NpMWefKQfNnTCV0dAo0RqYNlS1imM503iSk4ySskCl0ndaVhoqWJ/kVtxteya3y/9uGuzh7vSSn7qSpHfDZC5CDVOFnrcvrgcxQ49QFlQypJve0g6X6a1VH1dnoRJLpm59rc0fqa1TgqaKnzNggn3AeLQEY2Rz3KPdamX9QI4dKIk7vSk=;FxxcwlXxxVBPba3z8HE3RQ=="
 ---

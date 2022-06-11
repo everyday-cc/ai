@@ -2,6 +2,100 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-04-28-chinas-push-to-dominate-booming-robotaxi-market.md",
+      "title": "China's push to dominate booming robotaxi market",
+      "excerpt": "Journalists take photos and videos of self-driving cars on display during a media tour of Baidu's autonomous ride-hailing services at the Apollo Park in Beijing, China, 22 April 2022 (issued 28 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.efe.com/efe/english/world/china-s-push-to-dominate-booming-robotaxi-market/50000262-4794000",
+      "originalUrl": "https://www.efe.com/efe/english/world/china-s-push-to-dominate-booming-robotaxi-market/50000262-4794000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?-P-2fL4Jfo8HOMiuUEXK-P-2bGJ1k392mKDAoyocQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UxHiMs2BCbn0GtbHp-P-2f4eNBQ-P-3d-P-3d",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-28T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EFE",
+        "domain": "efe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-04-28-digitalais-ai-powered-devops-platform-offers-predictive-insights.md",
+      "title": "Digital.ai’s AI-powered devops platform offers predictive insights",
+      "excerpt": "Digital.ai's new toolset lets IT managers use automation to connect agile development practices at the portfolio, team and individual levels.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/",
+      "originalUrl": "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354729632-1-e1651100896311.png?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/04/28/digital-ais-ai-powered-devops-platform-offers-predictive-insights/amp/",
+      "publishedDateTime": "2022-04-28T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-cmus-matt-johnson-roberson-and-mits-daniela-rus-will-talk-higher-education-at-tc-sessions-robotics-2022.md",
       "title": "CMU’s Matt Johnson-Roberson and MIT’s Daniela Rus will talk higher-education at TC Sessions: Robotics 2022",
       "excerpt": "Robotics technology, currently a $45.5 billion global market, has had an enormous impact on countless industries, including agtech, automotive, healthcare, labor, warehousing and logistics. Thanks to advances in AI,",
@@ -1074,92 +1168,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-how-can-saudi-arabia-unleash-national-success-in-fintech.md",
-      "title": "How can Saudi Arabia unleash national success in fintech?",
-      "excerpt": "Abdullah Al Othman is the founder and chairman of Geidea, a Saudi Arabia-based fintech specialised in payments. It works with over",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
-      "originalUrl": "https://www.wamda.com/2022/04/saudi-arabia-unleash-national-success-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wamda",
-        "domain": "wamda.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-28-procreating-robots-the-next-big-thing-in-cognitive-automation.md",
-      "title": "Procreating Robots: The Next Big Thing In Cognitive Automation?",
-      "excerpt": "Xenobots, or self-replicating robots, represent yet another evolution of cognitive automation. Procreating robots may pave the way for AI and robotics to eventually unlock artificial general intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6239d5f9bb19be620488f0de/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/04/27/procreating-robots-the-next-big-thing-in-cognitive-automation/amp/",
-      "publishedDateTime": "2022-04-27T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

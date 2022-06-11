@@ -3,18 +3,28 @@ category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,"
 publishedDateTime: 2022-05-30T10:45:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2"
+originalUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
+webUrl: "https://www.fool.com/investing/2022/05/30/3-top-artificial-intelligence-stocks-to-buy-right/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - AI in Robotics
   - AI
 
-secured: "7n7W0PsmGjXLTPfpVGkS+9VTgWNlqn5/nIyZa9Lf0oTt5PNNjFusAo9Z/IR2W9Yoa/tsYaqKuDsFJXPPOnGVoyuXfyHwwXKG+7gFsmCvwiapOyc7W3ggWHFq5X/vxjxXQ+tlr+sMNN4UZ89srAo33V8LvK3TE8SDY27h5yGteMvOvwT8rTqVwTO0G3+c2M/Hg5ziMDgD8gPzOoVyXUyhDJ1FAL5iNVTeOIksa2bTXQ0F8Ota8ebn3PokKZYASexghYG78ktqAcnANEeJromIX9aTzdUz5+ivUHZJF+rtBPcgJSOR+Bjre4ezD93wtpPdCCcLZv0AZQH79ibcDEWaJt0MFfcSNg/WKTjDYBExVfHfXBCxlUavo3TtzJWPEpJfoLW+qxDFGuDZENDd4JLvjxZoZw92meiPhFOamPu5F963N57kagwkoJZinGYPJ9U6tY8Od9Gl773N1gaZxly1HNgTQmuEad1r03ah7leYnYWa1cfb17wwPufXIjl8DksvaFf32MwAIdayu9Ej3P54EA==;hgRlLtYDFe1zCn85HnkW8g=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/682058/gettyimages-1321462048.jpg"
+    width: 2310
+    height: 1297
+    isCached: true
+
+secured: "mRDN/g/r1wyImKz7v8oCuvsCDfygk95XfahVVri/KDnNpaYjnew7KxnQH0z1LBMhQG1Am6ggZ7Z/aI0MpRwqRVJEJdZu35mhZtpHglqhR+3kYA0fiutQh0FJn/O70qckyqXrGIWQ+wiPHUro3YH4fkHro7wy8kHQJGKWDHq3Y+eowcrXrzKHmCpP2uK0dZyyLgidIpA38o6F0AdKgl3hFA4cWckIB4XGtiIk6GmZp8Ave7dWjjh7dCFdSpu5LeLVShdufcT97xmKPUxEYqcrm69P92+dryLoSrH945h7ZLD+uyYgAdlavJGRnf8wBFEbBkzx1gqW8tvurWbpA0b0C3Ui7vxKm65SJl2HwyYeOfY=;b9HyjXxI1iq7LAdilY9IxQ=="
 ---
 
