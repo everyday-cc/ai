@@ -2,6 +2,57 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-04-09-turning-point-for-artificial-intelligence-which-may-or-may-not-be-dominated-by-the-large-cloud-providers.md",
+      "title": "Turning point for artificial intelligence, which may or may not be dominated by the large cloud providers",
+      "excerpt": "As an independent analyst, he has authored numerous research reports in partnership with Forbes Insights, IDC, and Unisphere Research, a division of Information Today, Inc. Artificial intelligence and machine learning requires huge amounts of processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/turning-point-for-artificial-intelligence-which-may-or-may-not-be-dominated-by-the-large-cloud-providers/",
+      "originalUrl": "https://www.zdnet.com/article/turning-point-for-artificial-intelligence-which-may-or-may-not-be-dominated-by-the-large-cloud-providers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0e2c6f49a4c170195958e607d0e03dda40fd453f/2022/04/09/6ab1216b-4f41-4a9f-a7d4-9ade80244795/wall-art-viessmann-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/turning-point-for-artificial-intelligence-which-may-or-may-not-be-dominated-by-the-large-cloud-providers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/turning-point-for-artificial-intelligence-which-may-or-may-not-be-dominated-by-the-large-cloud-providers/",
+      "publishedDateTime": "2022-04-09T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-09-the-crushed-ai-stock-thats-poised-to-bounce-back.md",
       "title": "The Crushed AI Stock That's Poised to Bounce Back",
       "excerpt": "D espite a big drop in stock price since its IPO in 2021, Riskified's recent earnings show an encouraging uptick. In this video clip from \"The Rank\" on Motley Fool Live, recorded",
@@ -1139,58 +1190,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-08-qualcomm-touts-eight-ai-firsts.md",
-      "title": "Qualcomm Touts Eight AI “Firsts”",
-      "excerpt": "The AI research group at Qualcomm Technologies has pioneered innovations from on-device learning to wireless AI, and has ambitious plans for the next set of “firsts”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/04/08/qualcomm-touts-eight-ai-firsts/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/04/08/qualcomm-touts-eight-ai-firsts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/624c9a3ef857eef3694992a3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/04/08/qualcomm-touts-eight-ai-firsts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/04/08/qualcomm-touts-eight-ai-firsts/amp/",
-      "publishedDateTime": "2022-04-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

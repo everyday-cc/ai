@@ -2,6 +2,49 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2022-03-17-human-brain-inspires-design-of-chips-that-can-rewire-themselves.md",
+      "title": "Human Brain Inspires Design of Chips That Can Rewire Themselves",
+      "excerpt": "who created simulations of the experimental data to demonstrate that the internal physics of the hardware creates a dynamic structure for an artificial neural network, they said. The Purdue team built the device—which operates at room temperature--using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
+      "originalUrl": "https://www.designnews.com/electronics/human-brain-inspires-design-chips-can-rewire-themselves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/HumanAI_0.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-enhancing-dlp-with-natural-language-understanding-for-better-email-security.md",
       "title": "Enhancing DLP With Natural Language Understanding for Better Email Security",
       "excerpt": "Natural language understanding is well-suited for scanning enterprise email to detect and filter out spam and other malicious content. Armorblox introduces a data loss prevention service to its email security platform using NLU.",
@@ -1029,49 +1072,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-16-eye-health-computer-vision-syndrome-is-caused-by-excessive-screen-time-symptoms.md",
-      "title": "Eye health: ‘Computer vision syndrome’ is caused by excessive screen time - symptoms",
-      "excerpt": "However, 24 years ago, in 1998 doctors coined the term Computer Vision Syndrome, or CVS for short. It was used to describe the impact of computer screens on the eyes. READ MORE: Vitamin B12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms",
-      "originalUrl": "https://www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/Screen-use-eyes-1581562.jpg?r=1647442972900",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1581562/eye-health-computer-vision-syndrome-symptoms/amp",
-      "publishedDateTime": "2022-03-16T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

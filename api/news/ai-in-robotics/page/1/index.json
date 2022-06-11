@@ -534,24 +534,33 @@
     {
       "path": "_news/2022-06-06-kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots.md",
       "title": "Kawasaki Robotics Teams with Realtime Robotics to Automate the Programming, Deployment and Control of its Industrial Robots",
-      "excerpt": "RapidPlan helps manufacturers have peace of mind in a high ... was one of the first robot companies to see the potential of combining an advanced Real Time Control API like KRNX with our RapidPlan ...",
+      "excerpt": "Realtime Robotics, the leader in autonomous motion planning for industrial robots, today announced that Kawasaki Robotics Inc., a leading supplier of industrial robots and automation systems, has teamed with the company to automate the programming,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220606005276/kawasaki-robotics-teams-with-realtime-robotics-to-automate-the-programming-deployment-and-control-of-its-industrial-robots",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-detroit-robotics-ccadf1a6df4b42ba97efc4154ee14a6c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-detroit-robotics-ccadf1a6df4b42ba97efc4154ee14a6c",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T06:46:00-07:00",
+      "publishedDateTime": "2022-06-06T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,49 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-04-05-real-time-data-analytics-firm-tinybird-nets-37m-in-series-a.md",
+      "title": "Real-time data analytics firm Tinybird nets $37m in Series A",
+      "excerpt": "A data analytics company claiming to be able to process millions of rows per second, in real time, has just closed out a Series A funding round to take-in $37 million. Tinybird raised the funds via investors Crane Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/04/05/tinybird_series_a/",
+      "originalUrl": "https://www.theregister.com/2022/04/05/tinybird_series_a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/07/26/time-stand-still.jpg",
+          "width": 648,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/05/tinybird_series_a/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/tinybird_series_a/",
+      "publishedDateTime": "2022-04-05T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-05-registration-opens-with-2-4-1-passes-to-tc-sessions-robotics-2022.md",
       "title": "Registration opens with 2-4-1 passes to TC Sessions: Robotics 2022",
       "excerpt": "Robotics returns this year as a live and in-person event! It’s been far too long, and we can’t wait to see you — and plenty of robots — on July 22 at the Hynes Convention Center in Boston, Massachusetts.",
@@ -1048,49 +1091,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-alphabets-other-bet-a-deep-dive-into-deepmind.md",
-      "title": "Alphabet's Other Bet: A Deep Dive Into DeepMind",
-      "excerpt": "DeepMind has evolved from a small startup into a promising part of Alphabet. In 2020, cash flow was positive for the first time, and revenue tripled compared to the previous year. DeepMind's ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
-      "originalUrl": "https://seekingalpha.com/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1299482930/image_1299482930.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4499754-alphabets-other-bet-a-deep-dive-into-deepmind",
-      "publishedDateTime": "2022-04-04T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

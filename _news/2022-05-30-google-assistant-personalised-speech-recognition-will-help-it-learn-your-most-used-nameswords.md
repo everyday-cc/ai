@@ -2,9 +2,9 @@
 category: news
 title: "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words"
 excerpt: "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report"
-publishedDateTime: 2022-05-30T08:37:00Z
-originalUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
-webUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
+publishedDateTime: 2022-05-30T08:25:00Z
+originalUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition"
+webUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition"
 ampWebUrl: "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
 cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "gPMpid7ND+5oHpQNh7UT8KW9jItvGCGoSyEGyVyDPTdxcCxAbmiEZDu4l0Q9BuP9DW28MhGctChqUZ1CziMNtXxBfN7oTiUleR4qIVdHHKa1HZC6bhOhN/ifY5X4AWyBuFtGH8Hc64Q7uvq32jiDQQkFv69Yg5eXwqhBz+HHHsR+g2rvN1vLFzdWvtjd6tOdfL/oktVl06Vz7gk+NqhkJfpkHpWzBdX5GU0vZpfrH4b0Kli1IErdfWz9az3qAYeayG5u9AqnOflkCUgBT4hHcfDvSEddnoDgukYrNg8E+qnKEJLjlooEOzAWiSaD8E6r3y3UiZ79k+cTKdWBZDvWzTz0RcdIj8rFe7B4Up/KasXU5JlKaCXvNdlAjRRtDlqINLpWXAZY0V2tVK5pT12+0PkfznDY15QV7GQCNlWvTWrRiONION8q9b+rih3qpCoGZR+6feU6DBzkorMGBbLtsOuRvj9mWq7/lj9vKQ8DahVJTAktUv/V5V9kwwrih0V/F/ijKyE6or/qdGyY6ZSaGQ==;ZF0xHyT/XshPRNigvDFFow=="
+secured: "/VMJVz2My70vfvwbsBIcofggz+DclCn8Jvb9CXX5qRbt63eRdvhHkLBKpyQEGSDFQPLZ7RR1rTNQr88t3Ew62pW9S34+SycpUZ3mXf6FGKdyaLlQna/I35EdAL20vsezaHNrXsJq6R1Ii8PssSoNDMZEbYTDK3/CzfLqY9LnLLrpt8fIyG8o5h8EUzMPXK6l2EvduacnANbiR93RzFY93jPNub2rc0GaczQlZRdsNfBH2xIv2b1pwt19W2AgKRVPbyJY4kV1DabJzf1NOgmSrMK1jTV2EVis35CAmUA+JXpz0fihb1tdlNfbEcK1QQIQNndwCI7PAqUcGfeGmbxNZIQ7p3UUAVKRrwy79iDbKVk=;6DeTV9/VVFlwEGoSNxvR2g=="
 ---
 

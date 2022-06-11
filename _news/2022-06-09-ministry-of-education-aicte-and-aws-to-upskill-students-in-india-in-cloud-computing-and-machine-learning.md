@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-t
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "'AI For India' Campaign Launched To Skill, Reskill And Upskill 25 Students & Professionals."
-    excerpt: "AI FOR INDIA - Launch by Shri Dharmendra Pradhan, Minister of Education, Govt. of India. AI FOR INDIA An Initiative of The Data T"
-    publishedDateTime: 2022-06-06T17:17:00Z
-    webUrl: "https://menafn.com/1104331059/AI-For-India-Campaign-Launched-To-Skill-Reskill-And-Upskill-25-Students-Professionals"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 7
 
 secured: "iIAGdY+WYb59YuL8SlTTrT/vwKJBHZRboA7tWpu3nqsJ9S+bx97k1O0xbmBYFRL29UkvflpvlNVXdbH8TYcCQMI771149bsrYFy9HJzVHf5UfmfECAVIMHF79mGYWCix/kYFTWXL1vqZzZO7y4RAcDD5WZ2ARu5soxfTfyZgY3NPm5DXNRq9VnALq6ajhwpEuxl/x3kNKXyElQc2Bozxf5BK5VXiIYky0dIWve5rvBHwSWIuCuev0ZwEXwMWA7f+HmZBK/RZwuEHUpA13SZclHi2SReyU09eNv/hcE+DHQYjU7ek65+1rBBzEhU9pzylKtE4IZJSPgn10Td5uV31XNmbcms9XXni83E5SGb/nkE=;Y1UE4O8JzNtQJx4KCUwIhw=="
 ---

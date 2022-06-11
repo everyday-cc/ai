@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "CUJO AI Named Winner at the Global Infosec Awards during RSA Conference 2022"
-    excerpt: "CUJO AI wins in the Cybersecurity Artificial Intelligence category in the 10th annual Global InfoSec Awards at the RSA Conference 2022.LOS"
-    publishedDateTime: 2022-06-06T18:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cujo-ai-named-winner-at-the-global-infosec-awards-during-rsa-conference-2022-1031511439"
+  - title: "Ukraine war dominates RSA Conference, but zero-days, government friction and AI loom large"
+    excerpt: "When Russian troops began their invasion of Ukraine on Feb. 24, it focused the world’s attention on what role cybersecurity would play in the war. Nearly four months later, a storyline of cyber conflict is beginning to emerge,"
+    publishedDateTime: 2022-06-10T18:42:00Z
+    webUrl: "https://siliconangle.com/2022/06/10/ukraine-war-dominates-rsa-conference-zero-days-government-friction-ai-loom-large/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
     images:
-      - url: "https://mma.prnewswire.com/media/692982/logo_black__1_Logo.jpg"
-        width: 400
-        height: 291
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/RSA2.jpg"
+        width: 970
+        height: 532
         isCached: true
   - title: "Adversa AI Named Winner for Next Gen Adversarial ML Threat Mitigation Award During RSA Conference 2022"
     excerpt: "Adversa AI is proud to announce that they have won the Next Gen Adversarial ML Threat Mitigation Award from Cyber Defense Magazine (CDM),"

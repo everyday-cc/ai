@@ -2,6 +2,40 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-04-06-meet-the-innovation-group-award-finalists-in-the-2022-itnews-benchmark-awards.md",
+      "title": "Meet the Innovation Group Award finalists in the 2022 iTnews Benchmark Awards",
+      "excerpt": "Its projects include the Execution Health Score, a machine learning model for analysing project management data to predict the likelihood of gold or platinum milestone slippages in the bank’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/video/meet-the-innovation-group-award-finalists-in-the-2022-itnews-benchmark-awards-578390",
+      "originalUrl": "https://www.itnews.com.au/video/meet-the-innovation-group-award-finalists-in-the-2022-itnews-benchmark-awards-578390",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-06T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-06-europe-is-building-a-huge-international-facial-recognition-system.md",
       "title": "Europe Is Building a Huge International Facial Recognition System",
       "excerpt": "Lawmakers advance proposals to let police forces across the EU link their photo databases—which include millions of pictures of people’s faces.",
@@ -1088,49 +1122,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-05-real-time-data-analytics-firm-tinybird-nets-37m-in-series-a.md",
-      "title": "Real-time data analytics firm Tinybird nets $37m in Series A",
-      "excerpt": "A data analytics company claiming to be able to process millions of rows per second, in real time, has just closed out a Series A funding round to take-in $37 million. Tinybird raised the funds via investors Crane Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/04/05/tinybird_series_a/",
-      "originalUrl": "https://www.theregister.com/2022/04/05/tinybird_series_a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2016/07/26/time-stand-still.jpg",
-          "width": 648,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/04/05/tinybird_series_a/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/04/05/tinybird_series_a/",
-      "publishedDateTime": "2022-04-05T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

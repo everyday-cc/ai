@@ -2,6 +2,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-04-28-how-language-generation-ais-could-transform-science.md",
+      "title": "How language-generation AIs could transform science",
+      "excerpt": "is trialling LLMs in research; it is building a tool called 'Elicit' to answer questions using the scientific literature.) Robo-writers: the rise and risks of language-generating AI LLMs are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-01191-3",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-01191-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01191-3/d41586-022-01191-3_20348526.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-28-neuromorphic-sensing-shifts-computer-vision-focus.md",
       "title": "Neuromorphic sensing shifts computer vision focus",
       "excerpt": "Is computer vision about to reinvent itself, again? Ryad Benosman, professor of Ophthalmology at the University of Pittsburgh and an adjunct professor at the CMU Robotics Institute, believes that it is. As one of the founding fathers of event–based ...",
@@ -1103,49 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-27-sensiml-delivers-new-ai-accelerator-core-support-for-silicon-labs-mg24-and-bg24-series-2-bluetooth-wireless-socs.md",
-      "title": "SensiML Delivers New AI Accelerator Core Support for Silicon Labs MG24 and BG24 Series 2 Bluetooth® Wireless SoCs",
-      "excerpt": "SensiML ™  Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced it has added support for Silicon Labs' new MG24 and BG24 Series 2 Bluetooth® wireless SoCs within its SensiML Analytics Toolkit embedded development software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-sensiml-delivers-new-ai-accelerator-core-support-silicon-/2022/04/27/9590659.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-sensiml-delivers-new-ai-accelerator-core-support-silicon-/2022/04/27/9590659.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
-          "width": 400,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-27T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,57 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2022-04-13-blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform.md",
+      "title": "BlueOcean raises $30M for its AI-based brand intelligence platform",
+      "excerpt": "The medium is the message more than ever these days, and brands are faced with a challenge — but also opportunity — to capture what consumers think about them and their products if they can harness and better understand those messages,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
+      "originalUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/5220369850_6e9b1d1b4f_k.jpg?w=1024",
+          "width": 1024,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/04/13/blueocean-raises-30m-for-its-ai-based-brand-intelligence-platform/amp/",
+      "publishedDateTime": "2022-04-13T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-salesforce-updates-service-marketing-clouds-with-conversational-ai-cdp-enhancements.md",
       "title": "Salesforce Updates Service, Marketing Clouds With Conversational AI, CDP Enhancements",
       "excerpt": "Salesforce has made a number of enhancements to its Salesforce Service and Marketing Clouds, including AI-powered conversational intelligence, mobile offline in",
@@ -1011,49 +1062,6 @@
       "provider": {
         "name": "Outlookindia",
         "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-13-sony-shows-off-its-prototype-car-created-to-study-self-driving-tech.md",
-      "title": "Sony shows off its prototype car, created to study self-driving tech",
-      "excerpt": "Sony Corp. showed off its VISION-S, a cutting-edge prototype car created for developing self-driving and artificial intelligence technology, for the first time in Japan on July 27. The electric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/13585119",
-      "originalUrl": "https://www.asahi.com/ajw/articles/13585119",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.potaufeu.asahi.com/8427-p/picture/22430396/739f918ccdc79d4e63c9a96b30dac711.jpg",
-          "width": 660,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "朝日新聞",
-        "domain": "asahi.com",
         "images": null,
         "publishers": null,
         "authors": null

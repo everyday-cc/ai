@@ -8,7 +8,7 @@ webUrl: "https://www.republicworld.com/india-news/general-news/devnagri-indias-f
 ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assochom-festival-articleshow.html"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1cyvor38wbt7dcmh_1654936705.jpeg"
@@ -69,6 +70,6 @@ related:
       domain: thehindubusinessline.com
     quality: 25
 
-secured: "UB+b3siWrnSQfigU7EzdyeXE8OcajvavHIPGxJTepQgq5y4RwtsRTo89UQy6P7ETX3MYoyrjTmbhcXigTWmxkxpZKRE43ACi0ELmLB343prZ2/pUGJxANthAQX0mGIEGxihMcndsEZ7GNcvXTcBbO7F2snlNi338VIA+UXPEYKcgRT5KV4OhETpoRfVRaHUbZ9GY09BvQ7NIOJhHxuKjsyTOo7mdmE+xnN9ci3KRKNq+P0kclrhADlf3nYf7vRdaZJbcxVGrU7HQK4fff/9UZlGPM5mL8luxLesV87u1DZwSwQgpUTKI512v8/C73/1pO9frxZOqvDNBxIi/dSf7r+zoEalvrqKLPfDZ2jCmu48=;ZPQXt2c8NZ1wKYuLvXVgug=="
+secured: "FkHZ+Gzw6YbutFOxmdNq3akmdRguTTc/7rvuZctSZIWK8Eyg+wCpkgFzgs4MdaXfrK/flgbE2jTz6YnbtkAASTONyeR4r41TyFhUbAB3UOQeZ52/rh0Ow4/Kknmw16w4AT4aHcftgv2Wszqkz4Z8ZBjHGMXxtkuc/KNmFFHPyOFTOMcfwRsD0Dk/p6ONIRuQRFNCK365Ws0NWFpcJnZu2aJIANqqZKp+aSnY8s48FgWUzku1X9EfuHgfBiPBk/VVVYlQhLFCmDDS6DFzUyvFH9pAApgC8HDe68OGqEg1eo6FuVb2K8yGvcwWJmizxOj1eqtSj+laCJOZee+Xpy7Vo4MMAQQ0fJ0AuZxrZWb06tWnSYJrvfWBNEhRmOHpkDR0lsKHvhQ6QfMix8OHflvmRfwXZglzYU1QLAjcJZ8gbV7VRFxGYwGI7emdrrkmUR5NGHdNOrnTGYEgm4Z8Sf9y5JMxk/08g3gElc1VZfDjJo9VnIzA0s9GS6OX5KJGjOwhusXmCrU20rzZvdRDnr6r2Q==;BQ5ycZ9mv+WJd2xRe/Jucw=="
 ---
 

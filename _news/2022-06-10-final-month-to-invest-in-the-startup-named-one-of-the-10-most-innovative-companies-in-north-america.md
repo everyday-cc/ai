@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepSig Named to CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups for 2022"
-    excerpt: "DeepSig, a leader in artificial intelligence (AI) and machine-learning (ML) innovation in wireless communications, today announced that it has ranked on CB Insights annual AI 100 list. The AI 100 ranking recognizes the 100 most promising private artificial ..."
-    publishedDateTime: 2022-06-06T18:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-f9ab9e6ceed14a7c95a3b67a75943388"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Talon Cyber Security Named \"Most Innovative Startup\" at RSA Conference Innovation Sandbox Contest 2022"
     excerpt: "Expert Judges Select Talon Cyber Security for Creating the First Enterprise Browser to Modernize Security and Improve the User Experience for"
     publishedDateTime: 2022-06-07T12:08:00Z

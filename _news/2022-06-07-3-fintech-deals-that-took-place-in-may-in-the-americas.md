@@ -145,6 +145,15 @@ related:
       name: PR Newswire
       domain: prnewswire.co.uk
     quality: 13
+  - title: "The Potential of Integrating Intelligence and Intuition"
+    excerpt: "Cipher Brief Expert and former Deputy Director for Analysis Carmen Medina shares her thoughts on incorporating intuition into analysis."
+    publishedDateTime: 2022-06-10T13:46:00Z
+    webUrl: "https://www.thecipherbrief.com/the-potential-of-integrating-intelligence-and-intuition"
+    type: article
+    provider:
+      name: The Cipher Brief
+      domain: thecipherbrief.com
+    quality: 2
 
 secured: "Z8OpILCc2MEGgOGBG7NAGr0OoiuFk8wBHEvN89yF82V742yQY4UJNDnWk7VOPWafHKL1Q8Yh/HpCGVT/RCEuXKOinUuIRO0ON6UCoSXaaZIsTEL+qS0prq0MGCLiisIqhF1oeUg0F9hGGY+GtVXKaMWCMl+rL/c/3AUTKmbMvBfyD5dhtG7KtAZuy3EDGXFiTQjuk/Mc374ndqhwGFukd2BFhLyWHtdkyYMFehTSS7abLZzBzaFs9xXbYDOj50FORNNIMMWz+WR2SjJe7TlsrTvL+HtS4wxzmGtVfpSPPs5CU/8cIipXWOZY2hj41RFfOdl79MuEGLuB6OfsSex9SVrqP3+yZH8CGoKldzv7NrdJceOJ/hjGUo1KGI3Cwc5+IxDqvJlupVxKp4ReC+eSyotsX0fD01botJTdKli3srpWcZIjCCdSRlReiD9oypucW8XNJAU2eKjZApEmpyqyTqBjF3OE19tENTPeJ1/LUsLrxxfTgKAmTaAGWBoX40QKsa4zdMlMVAhBXHLQxBkhHQ==;C41W5uPM492uzzEQmiVikA=="
 ---

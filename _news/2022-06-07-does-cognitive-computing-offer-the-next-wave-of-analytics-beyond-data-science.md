@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-th
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cloud-based Video Analytics changing face of real-time video analysis, facial recognition"
+    excerpt: "Cloud-based video analytics is a part of this AI bubble and plays a vital role in surveillance and monitoring. AI video and facial recognition systems work as seamless and efficient video content analysis tools offering real-time intelligence and post ..."
+    publishedDateTime: 2022-06-11T11:10:00Z
+    webUrl: "https://www.freepressjournal.in/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
+    ampWebUrl: "https://www.freepressjournal.in/amp/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/cloud-based-video-analytics-changing-face-of-real-time-video-analysis-facial-recognition"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 50
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-10/5375c6d2-7802-42fe-8fb5-c80f5ef973b8/FBcBAOPUYAc3QMJ.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 609
+        height: 311
+        isCached: true
   - title: "Accelerating customer experience through Voice Analytics in the BFSI industry"
     excerpt: "BFSI industry is facing today is keeping the customer engaged. Undoubtedly, customer service is the fulcrum of BFSI operations, and providing exceptional customer experience is the answer to all the industry’s engagement issues."
     publishedDateTime: 2022-06-07T06:43:00Z

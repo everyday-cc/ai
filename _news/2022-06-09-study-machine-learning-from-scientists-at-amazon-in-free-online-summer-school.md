@@ -53,7 +53,7 @@ related:
     provider:
       name: RepublicWorld
       domain: republicworld.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1cyvor38wbt7dcmh_1654936705.jpeg"
         width: 768

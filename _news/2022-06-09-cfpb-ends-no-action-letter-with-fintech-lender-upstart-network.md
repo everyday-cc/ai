@@ -146,6 +146,15 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 4
+  - title: "The Potential of Integrating Intelligence and Intuition"
+    excerpt: "Cipher Brief Expert and former Deputy Director for Analysis Carmen Medina shares her thoughts on incorporating intuition into analysis."
+    publishedDateTime: 2022-06-10T13:46:00Z
+    webUrl: "https://www.thecipherbrief.com/the-potential-of-integrating-intelligence-and-intuition"
+    type: article
+    provider:
+      name: The Cipher Brief
+      domain: thecipherbrief.com
+    quality: 2
 
 secured: "etjy+tk85WxLSdrbDKfZFQfq28pYNf8mPUpAsFpY17Enlqf/54H7iZDPxRoGiMTIUjtOy+1Tsgcgl6wFw7uzVVACfK/Bx7wXIMIBJXN5aWgWFKywiYrUzDDsqVLZK0l/FvJRkC9sidNrg1xzhRElM+HoF/OpUyYZ0HrVC268YftTyRuVWDc69LflPsrYTO7N2lHRTIPI8+Aa79TSkIAvuS/BhQCBK8lfT5lfa7Mg0BiteScVN4+c6i+D6GqLWRtkaj0s0uCCEIZHthG1yHuOrmR5XAQbWE9blJbYEcw51GkaJhkR45ZGarggG5WF7YTSz8cJ08f7SoXQuY+BDvc4sF5pCCONvF5GqT5LWibOzW7/e/n4IyJHl5g1i/o/m6XMfmuuO9UYHB5IqXZksHcmIUMP44GBEGOWVefEwBMZ2wN12SpSE363g169g69Jo5LCKwwh58Xr6Atv5jk9PNOPlnRAgtzGmUwTOkyZaHByiVr9fJRONFGikSxzs93chcc9TOw5Il/FtXS2wq0yppZORA==;1jE9hMQTv0v9vY1wXvVyVg=="
 ---

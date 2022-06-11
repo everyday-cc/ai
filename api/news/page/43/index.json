@@ -2,6 +2,49 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-05-04-global-speech-to-text-api-market-to-2027-size-share-industry-trends-analysis-report-researchandmarketscom.md",
+      "title": "Global Speech-to-text API Market to 2027 - Size, Share & Industry Trends Analysis Report - ResearchAndMarkets.com",
+      "excerpt": "is a programming interface that enables the utilization of speech synthesis and recognition in a variety of devices and applications. Speech-to-text API is a multidisciplinary subject of computational linguistics that explores methods that allow computers ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-c748c1d1eaf14dad9eb210d487230346",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-c748c1d1eaf14dad9eb210d487230346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-04T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-04-dha-streamlines-its-request-for-tenancy-approval-rfta-process-with-artificial-intelligence-based-platform-bobai.md",
       "title": "DHA Streamlines Its Request for Tenancy Approval (RFTA) Process With Artificial Intelligence-Based Platform Bob.Ai",
       "excerpt": "Housing Choice Voucher Clients and Landlords Are Able To Complete RFTA Submissions and Inspections Online DALLAS--(BUSINESS WIRE)--DHA, Housing Solutions for North Texas (DHA) has launched a new artificial-intelligence-based module for Housing Choice ...",
@@ -1123,58 +1166,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-04-two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains.md",
-      "title": "Two sisters create a startup that puts sustainability into global supply chains",
-      "excerpt": "Built on the cloud and using AI, it processes mountains of unstructured and uncleansed ... But as is the case with any startup, the journey taken by Atkins and Vowels has not been easy or straightforward. The pair have had to work doubly hard to establish ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/",
-      "originalUrl": "https://news.microsoft.com/apac/features/two-sisters-create-a-startup-that-puts-sustainability-into-global-supply-chains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/43/2022/04/givvable_main_2000.jpg",
-          "width": 2000,
-          "height": 1332,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-03T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

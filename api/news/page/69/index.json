@@ -2,6 +2,49 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-04-13-sony-shows-off-its-prototype-car-created-to-study-self-driving-tech.md",
+      "title": "Sony shows off its prototype car, created to study self-driving tech",
+      "excerpt": "Sony Corp. showed off its VISION-S, a cutting-edge prototype car created for developing self-driving and artificial intelligence technology, for the first time in Japan on July 27. The electric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asahi.com/ajw/articles/13585119",
+      "originalUrl": "https://www.asahi.com/ajw/articles/13585119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p.potaufeu.asahi.com/8427-p/picture/22430396/739f918ccdc79d4e63c9a96b30dac711.jpg",
+          "width": 660,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "朝日新聞",
+        "domain": "asahi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-04-13-whats-next-for-alphafold-and-the-ai-protein-folding-revolution.md",
       "title": "What's next for AlphaFold and the AI protein-folding revolution",
       "excerpt": "Then, last July, London-based firm DeepMind, part of Alphabet — Google’s parent company — made public an artificial intelligence (AI) tool called AlphaFold 2. The software could predict the ...",
@@ -1086,49 +1129,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-12-lambda-teams-up-with-razer-to-launch-the-worlds-most-powerful-laptop-for-deep-learning.md",
-      "title": "Lambda Teams Up With Razer to Launch the World’s Most Powerful Laptop for Deep Learning",
-      "excerpt": "Lambda, the Deep Learning Company, today in collaboration with Razer, released the new Lambda Tensorbook, the world’s most powerful laptop designed for deep learning, available with Linux and Lambda’s deep learning software.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-780635102efe4ed898292ce9d3aeb3f7",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-780635102efe4ed898292ce9d3aeb3f7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-12T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

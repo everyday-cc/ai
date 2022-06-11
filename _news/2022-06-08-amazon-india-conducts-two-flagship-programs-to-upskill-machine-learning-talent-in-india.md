@@ -41,15 +41,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "'AI For India' Campaign Launched To Skill, Reskill And Upskill 25 Students & Professionals."
-    excerpt: "AI FOR INDIA - Launch by Shri Dharmendra Pradhan, Minister of Education, Govt. of India. AI FOR INDIA An Initiative of The Data T"
-    publishedDateTime: 2022-06-06T17:17:00Z
-    webUrl: "https://menafn.com/1104331059/AI-For-India-Campaign-Launched-To-Skill-Reskill-And-Upskill-25-Students-Professionals"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 7
 
 secured: "leE3JtNckPwIViIfPD1YSW2ZZGKsVieQZ1vEl/3cufLEFOQ+cGKO2mEtqgT3x0oe9S0eAo8xGpjMOEjYkJ19g4ijnbTt3YZULTRiYyVuGs27KVkwNRqrIw1IB7cz2BEWrzaroOvkj1Aw3bEOMDd7N0FNvDM2uC0TBf1FTThgf37tuuy1wXVwkXXWFb8esm3yYCytmWVlp+vMprN+nymCcbHwfRqzAVjUxdIClnp59LK7fXaKYN9ePE1R6sgZAcK8N5mFTxUveM9/+AbdXbFkpgZztQbZMxo0K7BJ5klMwSGsLiwKZXOVqDLzLU7T3Owy4Be34ziz4ZRxyrTF+JuVSAH5FMdHUcgruCld1H+CUEvW/5LsrymgonQ7kZrhtLfubuYTcMj1d5kRY1wVuOQIXVC8oxb/cYA6CYvS/sMXJ9xvnxT0his2JTOXIPWJwER4TcpjOsIqgX/TpJaqLSvduiOEL24o2U2pmKD7rDg0ENf4WqQ6YtiYcapfcttIZVs0fZdPDlq1YQ8GziF2W0rm2g==;J955kpA9JSa/6RJKYmdZ+g=="
 ---

@@ -61,15 +61,6 @@ related:
         width: 578
         height: 491
         isCached: true
-  - title: "AI and deepfakes present new risks for internet relationships"
-    excerpt: "People looking for genuine relationships via the internet will need to become a lot more savvy about new technologies which expose them to romance fraud at an \"entirely new level of risk,\" warns QUT internet fraud researcher Associate Professor Cassandra Cross."
-    publishedDateTime: 2022-06-06T17:58:00Z
-    webUrl: "https://techxplore.com/news/2022-06-ai-deepfakes-internet-relationships.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
 
 secured: "hhXsdMmr2u4na4TD2y06wgnrJWgPGxphwx4KKRq1fKyYPTb3ntRf6dAdwkyppLwjHPd8y8DkJAmrtx0VKXolvMHy5oatj3CKpDXdV2/COqL4x9XK5OhyrSc8S/xbPYXyY8rN7pQFkd4NW+itXCCnDxlG/F7dF/1l+/kWuuZQzTI+O6vh+qqyiAJ8kgntVYNjC68LgDoVc6+KJkogMdS0bSALxPW+6xRMQc8w2IDL2R1J7TAZh5GIfYDPjpglulHkZej6OFC5Hs2tPAzSpmkMEFuB7vvLHto3piZD0HUBfo2baZuHdNlzjk1E56fS2C7CnHb4Te0c+PGZoWeByVIDNJ7G18SnDNDEwGNo0sjKJ8FNWdw7XkwqsvRyyuKG0jT9goRMeDHWj7y7wCoOKrvWU2aMBpXa1jLU2xpFZB7Dc1zFXUgc4IM2ReApYz8AWnEgPZ2xZ6ZSilklqZZBHzIRUP3Nk606XNK9nIHYN6D+w5G3GdveAimqNOTr5TtIJjF4yWwkn/gdKZa0tRbNRnk7pw==;cwo7ZQAy1+0OGiDFddhrnw=="
 ---

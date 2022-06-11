@@ -54,15 +54,6 @@ related:
         width: 870
         height: 489
         isCached: true
-  - title: "AI and deepfakes present new risks for internet relationships"
-    excerpt: "People looking for genuine relationships via the internet will need to become a lot more savvy about new technologies which expose them to romance fraud at an \"entirely new level of risk,\" warns QUT internet fraud researcher Associate Professor Cassandra Cross."
-    publishedDateTime: 2022-06-06T17:58:00Z
-    webUrl: "https://techxplore.com/news/2022-06-ai-deepfakes-internet-relationships.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
   - title: "AI standards essential to protect doctor-patient relationships and human rights"
     excerpt: "Clear ethical standards and guidance must be in place for use of Artificial Intelligence in health settings to protect the relationship of trust between doctors and patients and to safeguard human rights,"
     publishedDateTime: 2022-06-07T12:46:00Z

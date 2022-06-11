@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -150,6 +150,15 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 4
+  - title: "The Potential of Integrating Intelligence and Intuition"
+    excerpt: "Cipher Brief Expert and former Deputy Director for Analysis Carmen Medina shares her thoughts on incorporating intuition into analysis."
+    publishedDateTime: 2022-06-10T13:46:00Z
+    webUrl: "https://www.thecipherbrief.com/the-potential-of-integrating-intelligence-and-intuition"
+    type: article
+    provider:
+      name: The Cipher Brief
+      domain: thecipherbrief.com
+    quality: 2
 
 secured: "5HXOKXxXRA2kdDrHix82j7tPOtHE18hzy0VpXSbJL3XhHgITSvmGt6Prri2wa/mnc/2X/SBuzpP7kseX8CSWe0kXFmaXl7ieDO48AGrNyg4rXLeqVX+2Cfr5LUT2xpv52bAYY8Olbh5kaNhDV294DWtiF1KXbnBlvD7+1sjiP+HcUCa/joQ5U/9x+FLyjJxqwaOamx/a2RWLbJpGMlBnxpgv5P/X/tPIBNrfksnk5lpPpe6pflpz53SoegGcwND/02FWh1bXgr1lPkQvk/JUUZygtKn0k/onUuY6xapYkzIpAnhPjPZ33sRql5uNHC9lP8BwAh4I06yJWYGQ5is6J6uksLr4C/UZpLZ0p3Wbt2iY4rNO+c8MxJjM0BkqTHz6qjNTK0Xp+6leHc4+QNdN/W8CQSSK+P65fLEtG4d/X7gS5+f/WK9f5Ttt50VmhybRopAl2il8e64dMHQaxowmzv7GUV2r1qrEpM/wL4zWfJPV2DwPbSJEA+TqdVL9GZfSYLSE/gx9523TJw5tzVV55w==;YIHVMQQW7rzynNDZ4IUkMw=="
 ---
